@@ -1,0 +1,456 @@
+/Users/janus/Documents/JanusAI/docs/1902-Boy-Werner (1).pdf
+/Users/janus/Documents/JanusAI/docs/1902-Boy-Werner.pdf
+/Users/janus/Documents/JanusAI/docs/1915-Einstein-25-nov-de (1).pdf
+/Users/janus/Documents/JanusAI/docs/1915-Einstein-25-nov-de.pdf
+/Users/janus/Documents/JanusAI/docs/1915-Einstein-25-nov-en (1).pdf
+/Users/janus/Documents/JanusAI/docs/1915-Einstein-25-nov-en.pdf
+/Users/janus/Documents/JanusAI/docs/1915-Hilbert-de (1).pdf
+/Users/janus/Documents/JanusAI/docs/1915-Hilbert-de.pdf
+/Users/janus/Documents/JanusAI/docs/1915-Hilbert-en (1).pdf
+/Users/janus/Documents/JanusAI/docs/1915-Hilbert-en.pdf
+/Users/janus/Documents/JanusAI/docs/1915-Hilbert-fr (1).pdf
+/Users/janus/Documents/JanusAI/docs/1915-Hilbert-fr.pdf
+/Users/janus/Documents/JanusAI/docs/1915-Schwarzschild-to-Einstein-de (1).pdf
+/Users/janus/Documents/JanusAI/docs/1915-Schwarzschild-to-Einstein-de.pdf
+/Users/janus/Documents/JanusAI/docs/1915-Schwarzschild-to-Einstein-en (1).pdf
+/Users/janus/Documents/JanusAI/docs/1915-Schwarzschild-to-Einstein-en.pdf
+/Users/janus/Documents/JanusAI/docs/1915-Schwarzschild-to-Einstein-fr (1).pdf
+/Users/janus/Documents/JanusAI/docs/1915-Schwarzschild-to-Einstein-fr.pdf
+/Users/janus/Documents/JanusAI/docs/1916-Droste (1).pdf
+/Users/janus/Documents/JanusAI/docs/1916-Droste.pdf
+/Users/janus/Documents/JanusAI/docs/1916-Flamm-en (1).pdf
+/Users/janus/Documents/JanusAI/docs/1916-Flamm-en.pdf
+/Users/janus/Documents/JanusAI/docs/1916-Flamm-fr (1).pdf
+/Users/janus/Documents/JanusAI/docs/1916-Flamm-fr.pdf
+/Users/janus/Documents/JanusAI/docs/1916-Hilbert-de (1).pdf
+/Users/janus/Documents/JanusAI/docs/1916-Hilbert-de.pdf
+/Users/janus/Documents/JanusAI/docs/1916-Hilbert-en (1).pdf
+/Users/janus/Documents/JanusAI/docs/1916-Hilbert-en.pdf
+/Users/janus/Documents/JanusAI/docs/1916-Hilbert-fr (1).pdf
+/Users/janus/Documents/JanusAI/docs/1916-Hilbert-fr.pdf
+/Users/janus/Documents/JanusAI/docs/1916-Schwarzschild-exterior-de (1).pdf
+/Users/janus/Documents/JanusAI/docs/1916-Schwarzschild-exterior-de.pdf
+/Users/janus/Documents/JanusAI/docs/1916-Schwarzschild-exterior-en (1).pdf
+/Users/janus/Documents/JanusAI/docs/1916-Schwarzschild-exterior-en.pdf
+/Users/janus/Documents/JanusAI/docs/1916-Schwarzschild-exterior-fr (1).pdf
+/Users/janus/Documents/JanusAI/docs/1916-Schwarzschild-exterior-fr.pdf
+/Users/janus/Documents/JanusAI/docs/1916-Schwarzschild-interior-de (1).pdf
+/Users/janus/Documents/JanusAI/docs/1916-Schwarzschild-interior-de.pdf
+/Users/janus/Documents/JanusAI/docs/1916-Schwarzschild-interior-en (1).pdf
+/Users/janus/Documents/JanusAI/docs/1916-Schwarzschild-interior-en.pdf
+/Users/janus/Documents/JanusAI/docs/1916-Schwarzschild-interior-fr (1).pdf
+/Users/janus/Documents/JanusAI/docs/1916-Schwarzschild-interior-fr.pdf
+/Users/janus/Documents/JanusAI/docs/1917-Weyl-de (1).pdf
+/Users/janus/Documents/JanusAI/docs/1917-Weyl-de.pdf
+/Users/janus/Documents/JanusAI/docs/1917-Weyl-en (1).pdf
+/Users/janus/Documents/JanusAI/docs/1917-Weyl-en.pdf
+/Users/janus/Documents/JanusAI/docs/1917-Weyl-fr (1).pdf
+/Users/janus/Documents/JanusAI/docs/1917-Weyl-fr.pdf
+/Users/janus/Documents/JanusAI/docs/1933-Lemaitre (1).pdf
+/Users/janus/Documents/JanusAI/docs/1933-Lemaitre.pdf
+/Users/janus/Documents/JanusAI/docs/1934-QJMath (1).pdf
+/Users/janus/Documents/JanusAI/docs/1934-QJMath.pdf
+/Users/janus/Documents/JanusAI/docs/1935-Einstein-Rosen (1).pdf
+/Users/janus/Documents/JanusAI/docs/1935-Einstein-Rosen.pdf
+/Users/janus/Documents/JanusAI/docs/1939-Oppenheimer-Snyder (1).pdf
+/Users/janus/Documents/JanusAI/docs/1939-Oppenheimer-Snyder.pdf
+/Users/janus/Documents/JanusAI/docs/1939-Oppenheimer-Volkoff (1).pdf
+/Users/janus/Documents/JanusAI/docs/1939-Oppenheimer-Volkoff.pdf
+/Users/janus/Documents/JanusAI/docs/1939-Tolman (1).pdf
+/Users/janus/Documents/JanusAI/docs/1939-Tolman.pdf
+/Users/janus/Documents/JanusAI/docs/1957-Bondi (1).pdf
+/Users/janus/Documents/JanusAI/docs/1957-Bondi.pdf
+/Users/janus/Documents/JanusAI/docs/1960-Kruskal (1).pdf
+/Users/janus/Documents/JanusAI/docs/1960-Kruskal-fr (1).pdf
+/Users/janus/Documents/JanusAI/docs/1960-Kruskal-fr.pdf
+/Users/janus/Documents/JanusAI/docs/1960-Kruskal.pdf
+/Users/janus/Documents/JanusAI/docs/1963-Kerr (1).pdf
+/Users/janus/Documents/JanusAI/docs/1963-Kerr.pdf
+/Users/janus/Documents/JanusAI/docs/1967-IBOZO-UU (1).pdf
+/Users/janus/Documents/JanusAI/docs/1967-IBOZO-UU.pdf
+/Users/janus/Documents/JanusAI/docs/1967-enantiomorphie-anticosmos (1).pdf
+/Users/janus/Documents/JanusAI/docs/1967-enantiomorphie-anticosmos.pdf
+/Users/janus/Documents/JanusAI/docs/1968-nef-1 (1).pdf
+/Users/janus/Documents/JanusAI/docs/1968-nef-1.pdf
+/Users/janus/Documents/JanusAI/docs/1968-nef-2 (1).pdf
+/Users/janus/Documents/JanusAI/docs/1968-nef-2.pdf
+/Users/janus/Documents/JanusAI/docs/1968-nef-3 (1).pdf
+/Users/janus/Documents/JanusAI/docs/1968-nef-3.pdf
+/Users/janus/Documents/JanusAI/docs/1970-Abrams (1).pdf
+/Users/janus/Documents/JanusAI/docs/1970-Abrams.pdf
+/Users/janus/Documents/JanusAI/docs/1974-IHES (1).pdf
+/Users/janus/Documents/JanusAI/docs/1974-IHES.pdf
+/Users/janus/Documents/JanusAI/docs/1987-masse-imaginaire (1).pdf
+/Users/janus/Documents/JanusAI/docs/1987-masse-imaginaire.pdf
+/Users/janus/Documents/JanusAI/docs/1988-ModPhysLettA-1 (1).pdf
+/Users/janus/Documents/JanusAI/docs/1988-ModPhysLettA-1.pdf
+/Users/janus/Documents/JanusAI/docs/1988-ModPhysLettA-2 (1).pdf
+/Users/janus/Documents/JanusAI/docs/1988-ModPhysLettA-2.pdf
+/Users/janus/Documents/JanusAI/docs/1988-Morris-Thorne-wormholes (1).pdf
+/Users/janus/Documents/JanusAI/docs/1988-Morris-Thorne-wormholes.pdf
+/Users/janus/Documents/JanusAI/docs/1989-Abrams (1).pdf
+/Users/janus/Documents/JanusAI/docs/1989-Abrams.pdf
+/Users/janus/Documents/JanusAI/docs/1989-Bonnor (1).pdf
+/Users/janus/Documents/JanusAI/docs/1989-Bonnor.pdf
+/Users/janus/Documents/JanusAI/docs/1989-ModPhysLettA-3 (1).pdf
+/Users/janus/Documents/JanusAI/docs/1989-ModPhysLettA-3.pdf
+/Users/janus/Documents/JanusAI/docs/1993-proplyds (1).pdf
+/Users/janus/Documents/JanusAI/docs/1993-proplyds.pdf
+/Users/janus/Documents/JanusAI/docs/1994-NuovoCimentoB (1).pdf
+/Users/janus/Documents/JanusAI/docs/1994-NuovoCimentoB.pdf
+/Users/janus/Documents/JanusAI/docs/1995-AstrophysSpaceSci (1).pdf
+/Users/janus/Documents/JanusAI/docs/1995-AstrophysSpaceSci.pdf
+/Users/janus/Documents/JanusAI/docs/1997-Hans-Jürgen-Schmidt-Birkhoff-theorem (1).pdf
+/Users/janus/Documents/JanusAI/docs/1997-Hans-Jürgen-Schmidt-Birkhoff-theorem.pdf
+/Users/janus/Documents/JanusAI/docs/1997-Souriau-space-time-inversion (1).pdf
+/Users/janus/Documents/JanusAI/docs/1997-Souriau-space-time-inversion.pdf
+/Users/janus/Documents/JanusAI/docs/1999-IntJModPhysD (1).pdf
+/Users/janus/Documents/JanusAI/docs/1999-IntJModPhysD.pdf
+/Users/janus/Documents/JanusAI/docs/2001-Antoci-Liebscher (1).pdf
+/Users/janus/Documents/JanusAI/docs/2001-Antoci-Liebscher.pdf
+/Users/janus/Documents/JanusAI/docs/2001-where-is-the-matter (1).pdf
+/Users/janus/Documents/JanusAI/docs/2001-where-is-the-matter.pdf
+/Users/janus/Documents/JanusAI/docs/2002-Damour-Kogan-bigravity (1).pdf
+/Users/janus/Documents/JanusAI/docs/2002-Damour-Kogan-bigravity.pdf
+/Users/janus/Documents/JanusAI/docs/2003-Antoci (1).pdf
+/Users/janus/Documents/JanusAI/docs/2003-Antoci.pdf
+/Users/janus/Documents/JanusAI/docs/2004-Loinger (1).pdf
+/Users/janus/Documents/JanusAI/docs/2004-Loinger.pdf
+/Users/janus/Documents/JanusAI/docs/2005-Antoci (1).pdf
+/Users/janus/Documents/JanusAI/docs/2005-Antoci.pdf
+/Users/janus/Documents/JanusAI/docs/2005-Weinberg-space-time-inversion (1).pdf
+/Users/janus/Documents/JanusAI/docs/2005-Weinberg-space-time-inversion.pdf
+/Users/janus/Documents/JanusAI/docs/2005-matter-antimatter-geometry (1).pdf
+/Users/janus/Documents/JanusAI/docs/2005-matter-antimatter-geometry.pdf
+/Users/janus/Documents/JanusAI/docs/2006-Hossenfelder (1).pdf
+/Users/janus/Documents/JanusAI/docs/2006-Hossenfelder.pdf
+/Users/janus/Documents/JanusAI/docs/2007-citv1 (1).pdf
+/Users/janus/Documents/JanusAI/docs/2007-citv1.pdf
+/Users/janus/Documents/JanusAI/docs/2007-citv2 (1).pdf
+/Users/janus/Documents/JanusAI/docs/2007-citv2.pdf
+/Users/janus/Documents/JanusAI/docs/2007-citv3 (1).pdf
+/Users/janus/Documents/JanusAI/docs/2007-citv3.pdf
+/Users/janus/Documents/JanusAI/docs/2008-Hossenfelder (1).pdf
+/Users/janus/Documents/JanusAI/docs/2008-Hossenfelder.pdf
+/Users/janus/Documents/JanusAI/docs/2008-PIRT11 (1).pdf
+/Users/janus/Documents/JanusAI/docs/2008-PIRT11.pdf
+/Users/janus/Documents/JanusAI/docs/2008-Vestergaard-APJ (1).pdf
+/Users/janus/Documents/JanusAI/docs/2008-Vestergaard-APJ.pdf
+/Users/janus/Documents/JanusAI/docs/2008-matter-antimatter-geometrization-1 (1).pdf
+/Users/janus/Documents/JanusAI/docs/2008-matter-antimatter-geometrization-1.pdf
+/Users/janus/Documents/JanusAI/docs/2008-matter-antimatter-geometrization-2 (1).pdf
+/Users/janus/Documents/JanusAI/docs/2008-matter-antimatter-geometrization-2.pdf
+/Users/janus/Documents/JanusAI/docs/2008-matter-antimatter-geometrization-3 (1).pdf
+/Users/janus/Documents/JanusAI/docs/2008-matter-antimatter-geometrization-3.pdf
+/Users/janus/Documents/JanusAI/docs/2008-matter-antimatter-geometrization-4 (1).pdf
+/Users/janus/Documents/JanusAI/docs/2008-matter-antimatter-geometrization-4.pdf
+/Users/janus/Documents/JanusAI/docs/2009-Hossenfelder (1).pdf
+/Users/janus/Documents/JanusAI/docs/2009-Hossenfelder.pdf
+/Users/janus/Documents/JanusAI/docs/2013-Ni-Chen-Xu (1).pdf
+/Users/janus/Documents/JanusAI/docs/2013-Ni-Chen-Xu.pdf
+/Users/janus/Documents/JanusAI/docs/2014-AstrophysSpaceSci (1).pdf
+/Users/janus/Documents/JanusAI/docs/2014-AstrophysSpaceSci.pdf
+/Users/janus/Documents/JanusAI/docs/2014-AstrophysSpaceSci2 (1).pdf
+/Users/janus/Documents/JanusAI/docs/2014-AstrophysSpaceSci2.pdf
+/Users/janus/Documents/JanusAI/docs/2014-ModPhysLettA (1).pdf
+/Users/janus/Documents/JanusAI/docs/2014-ModPhysLettA-fr (1).pdf
+/Users/janus/Documents/JanusAI/docs/2014-ModPhysLettA-fr.pdf
+/Users/janus/Documents/JanusAI/docs/2014-ModPhysLettA.pdf
+/Users/janus/Documents/JanusAI/docs/2014-lettre-Damour (1).pdf
+/Users/janus/Documents/JanusAI/docs/2014-lettre-Damour-transcrite (1).pdf
+/Users/janus/Documents/JanusAI/docs/2014-lettre-Damour-transcrite.pdf
+/Users/janus/Documents/JanusAI/docs/2014-lettre-Damour.pdf
+/Users/janus/Documents/JanusAI/docs/2015-AstroPhysSpaceSci (1).pdf
+/Users/janus/Documents/JanusAI/docs/2015-AstroPhysSpaceSci (3).pdf
+/Users/janus/Documents/JanusAI/docs/2015-AstrophysSpaceSci (2).pdf
+/Users/janus/Documents/JanusAI/docs/2015-AstrophysSpaceSci.pdf
+/Users/janus/Documents/JanusAI/docs/2015-ModPhysLettA (1).pdf
+/Users/janus/Documents/JanusAI/docs/2015-ModPhysLettA-arXiv-2021 (1).pdf
+/Users/janus/Documents/JanusAI/docs/2015-ModPhysLettA-arXiv-2021.pdf
+/Users/janus/Documents/JanusAI/docs/2015-ModPhysLettA.pdf
+/Users/janus/Documents/JanusAI/docs/2015-ModPhysLettB (1).pdf
+/Users/janus/Documents/JanusAI/docs/2015-ModPhysLettB-2 (1).pdf
+/Users/janus/Documents/JanusAI/docs/2015-ModPhysLettB-2.pdf
+/Users/janus/Documents/JanusAI/docs/2015-ModPhysLettB.pdf
+/Users/janus/Documents/JanusAI/docs/2015-cosmic-acceleration (1).pdf
+/Users/janus/Documents/JanusAI/docs/2015-cosmic-acceleration.pdf
+/Users/janus/Documents/JanusAI/docs/2016-Dagostini-Vlasov-courbe-rotation (1).pdf
+/Users/janus/Documents/JanusAI/docs/2016-Dagostini-Vlasov-courbe-rotation.pdf
+/Users/janus/Documents/JanusAI/docs/2016-Hossenfelder (1).pdf
+/Users/janus/Documents/JanusAI/docs/2016-Hossenfelder.pdf
+/Users/janus/Documents/JanusAI/docs/2017 -Progress-in-Physics (1).pdf
+/Users/janus/Documents/JanusAI/docs/2017 -Progress-in-Physics.pdf
+/Users/janus/Documents/JanusAI/docs/2017-inversion-masse-etoile-neutrons-a (1).pdf
+/Users/janus/Documents/JanusAI/docs/2017-inversion-masse-etoile-neutrons-a.pdf
+/Users/janus/Documents/JanusAI/docs/2017-inversion-masse-etoile_neutrons-b (1).pdf
+/Users/janus/Documents/JanusAI/docs/2017-inversion-masse-etoile_neutrons-b.pdf
+/Users/janus/Documents/JanusAI/docs/2017-mass-inversion-neutron-star-a (1).pdf
+/Users/janus/Documents/JanusAI/docs/2017-mass-inversion-neutron-star-a.pdf
+/Users/janus/Documents/JanusAI/docs/2017-mass-inversion-neutron-star-b (1).pdf
+/Users/janus/Documents/JanusAI/docs/2017-mass-inversion-neutron-star-b.pdf
+/Users/janus/Documents/JanusAI/docs/2018 echanges (1).pdf
+/Users/janus/Documents/JanusAI/docs/2018 echanges.pdf
+/Users/janus/Documents/JanusAI/docs/2018-AstrophysSpaceSci (1).pdf
+/Users/janus/Documents/JanusAI/docs/2018-AstrophysSpaceSci-avant-modif (1).pdf
+/Users/janus/Documents/JanusAI/docs/2018-AstrophysSpaceSci-avant-modif.pdf
+/Users/janus/Documents/JanusAI/docs/2018-AstrophysSpaceSci-fr (1).pdf
+/Users/janus/Documents/JanusAI/docs/2018-AstrophysSpaceSci-fr.pdf
+/Users/janus/Documents/JanusAI/docs/2018-AstrophysSpaceSci.pdf
+/Users/janus/Documents/JanusAI/docs/2018-Farnes (1).pdf
+/Users/janus/Documents/JanusAI/docs/2018-Farnes.pdf
+/Users/janus/Documents/JanusAI/docs/2018-Meca-Q-arXiv (1).pdf
+/Users/janus/Documents/JanusAI/docs/2018-Meca-Q-arXiv.pdf
+/Users/janus/Documents/JanusAI/docs/2018-Negative-energy-states-and-interstellar-travel (1).pdf
+/Users/janus/Documents/JanusAI/docs/2018-Negative-energy-states-and-interstellar-travel.pdf
+/Users/janus/Documents/JanusAI/docs/2018-Progress-in-Physics (1).pdf
+/Users/janus/Documents/JanusAI/docs/2018-Progress-in-Physics.pdf
+/Users/janus/Documents/JanusAI/docs/2018-Symplectic-Cosmological-Model (1).pdf
+/Users/janus/Documents/JanusAI/docs/2018-Symplectic-Cosmological-Model.pdf
+/Users/janus/Documents/JanusAI/docs/2018-janus-22 (1).pdf
+/Users/janus/Documents/JanusAI/docs/2018-janus-22.pdf
+/Users/janus/Documents/JanusAI/docs/2018-janus-25 (1).pdf
+/Users/janus/Documents/JanusAI/docs/2018-janus-25.pdf
+/Users/janus/Documents/JanusAI/docs/2019-APJ-M87 (1).pdf
+/Users/janus/Documents/JanusAI/docs/2019-APJ-M87.pdf
+/Users/janus/Documents/JanusAI/docs/2019-Barrau (1).pdf
+/Users/janus/Documents/JanusAI/docs/2019-Barrau.pdf
+/Users/janus/Documents/JanusAI/docs/2019-Bondarenko (1).pdf
+/Users/janus/Documents/JanusAI/docs/2019-Bondarenko.pdf
+/Users/janus/Documents/JanusAI/docs/2019-Damour-IHES (1).pdf
+/Users/janus/Documents/JanusAI/docs/2019-Damour-IHES-eng (1).pdf
+/Users/janus/Documents/JanusAI/docs/2019-Damour-IHES-eng.pdf
+/Users/janus/Documents/JanusAI/docs/2019-Damour-IHES.pdf
+/Users/janus/Documents/JanusAI/docs/2019-Damour-lettre (1).pdf
+/Users/janus/Documents/JanusAI/docs/2019-Damour-lettre.pdf
+/Users/janus/Documents/JanusAI/docs/2019-Janus-confirmations-observationnelles (1).pdf
+/Users/janus/Documents/JanusAI/docs/2019-Janus-confirmations-observationnelles.pdf
+/Users/janus/Documents/JanusAI/docs/2019-Progress-in-Physics-1 (1).pdf
+/Users/janus/Documents/JanusAI/docs/2019-Progress-in-Physics-1.pdf
+/Users/janus/Documents/JanusAI/docs/2019-Progress-in-Physics-detail-calcul (1).pdf
+/Users/janus/Documents/JanusAI/docs/2019-Progress-in-Physics-detail-calcul-old (1).pdf
+/Users/janus/Documents/JanusAI/docs/2019-Progress-in-Physics-detail-calcul-old.pdf
+/Users/janus/Documents/JanusAI/docs/2019-Progress-in-Physics-detail-calcul.pdf
+/Users/janus/Documents/JanusAI/docs/2019-colloque-Souriau (1).pdf
+/Users/janus/Documents/JanusAI/docs/2019-colloque-Souriau-erratum (1).pdf
+/Users/janus/Documents/JanusAI/docs/2019-colloque-Souriau-erratum.pdf
+/Users/janus/Documents/JanusAI/docs/2019-colloque-Souriau.pdf
+/Users/janus/Documents/JanusAI/docs/2019-janus-27 (1).pdf
+/Users/janus/Documents/JanusAI/docs/2019-janus-27-short (1).pdf
+/Users/janus/Documents/JanusAI/docs/2019-janus-27-short.pdf
+/Users/janus/Documents/JanusAI/docs/2019-janus-27.pdf
+/Users/janus/Documents/JanusAI/docs/2019-poster-colloque-Souriau (1).pdf
+/Users/janus/Documents/JanusAI/docs/2019-poster-colloque-Souriau.pdf
+/Users/janus/Documents/JanusAI/docs/2019-revisited-Schwarzschild-geometry (1).pdf
+/Users/janus/Documents/JanusAI/docs/2019-revisited-Schwarzschild-geometry.pdf
+/Users/janus/Documents/JanusAI/docs/2019-to-Brechignac (1).pdf
+/Users/janus/Documents/JanusAI/docs/2019-to-Brechignac.pdf
+/Users/janus/Documents/JanusAI/docs/2019-to-Damour-1 (1).pdf
+/Users/janus/Documents/JanusAI/docs/2019-to-Damour-1.pdf
+/Users/janus/Documents/JanusAI/docs/2019-to-Damour-2 (1).pdf
+/Users/janus/Documents/JanusAI/docs/2019-to-Damour-2-eng (1).pdf
+/Users/janus/Documents/JanusAI/docs/2019-to-Damour-2-eng.pdf
+/Users/janus/Documents/JanusAI/docs/2019-to-Damour-2.pdf
+/Users/janus/Documents/JanusAI/docs/2019-to-Damour-3 (1).pdf
+/Users/janus/Documents/JanusAI/docs/2019-to-Damour-3-eng (1).pdf
+/Users/janus/Documents/JanusAI/docs/2019-to-Damour-3-eng.pdf
+/Users/janus/Documents/JanusAI/docs/2019-to-Damour-3.pdf
+/Users/janus/Documents/JanusAI/docs/2019-to-Ghys (1).pdf
+/Users/janus/Documents/JanusAI/docs/2019-to-Ghys-2 (1).pdf
+/Users/janus/Documents/JanusAI/docs/2019-to-Ghys-2.pdf
+/Users/janus/Documents/JanusAI/docs/2019-to-Ghys.pdf
+/Users/janus/Documents/JanusAI/docs/2019-to-directeur-IHES (1).pdf
+/Users/janus/Documents/JanusAI/docs/2019-to-directeur-IHES.pdf
+/Users/janus/Documents/JanusAI/docs/2020-11-3 to Nature-Fr (1).pdf
+/Users/janus/Documents/JanusAI/docs/2020-11-3 to Nature-Fr.pdf
+/Users/janus/Documents/JanusAI/docs/2020-11-3 to Nature-eng (1).pdf
+/Users/janus/Documents/JanusAI/docs/2020-11-3 to Nature-eng.pdf
+/Users/janus/Documents/JanusAI/docs/2020-11-3-to-Nature-Fr (1).pdf
+/Users/janus/Documents/JanusAI/docs/2020-11-3-to-Nature-Fr.pdf
+/Users/janus/Documents/JanusAI/docs/2020-11-3-to-Nature-eng (1).pdf
+/Users/janus/Documents/JanusAI/docs/2020-11-3-to-Nature-eng.pdf
+/Users/janus/Documents/JanusAI/docs/2020-Physical-ReviewD-sept-oct-journal (1).pdf
+/Users/janus/Documents/JanusAI/docs/2020-Physical-ReviewD-sept-oct-journal-fr (1).pdf
+/Users/janus/Documents/JanusAI/docs/2020-Physical-ReviewD-sept-oct-journal-fr.pdf
+/Users/janus/Documents/JanusAI/docs/2020-Physical-ReviewD-sept-oct-journal.pdf
+/Users/janus/Documents/JanusAI/docs/2020-Vankov (1).pdf
+/Users/janus/Documents/JanusAI/docs/2020-Vankov.pdf
+/Users/janus/Documents/JanusAI/docs/2020-bimetric-models (1).pdf
+/Users/janus/Documents/JanusAI/docs/2020-bimetric-models.pdf
+/Users/janus/Documents/JanusAI/docs/2020-oct-to-Physical-ReviewD-45-pages (1).pdf
+/Users/janus/Documents/JanusAI/docs/2020-oct-to-Physical-ReviewD-45-pages.pdf
+/Users/janus/Documents/JanusAI/docs/2020-to-Physical-ReviewD-sept-oct (1).pdf
+/Users/janus/Documents/JanusAI/docs/2020-to-Physical-ReviewD-sept-oct.pdf
+/Users/janus/Documents/JanusAI/docs/2021-05-18-to-Damour (1).pdf
+/Users/janus/Documents/JanusAI/docs/2021-05-18-to-Damour.pdf
+/Users/janus/Documents/JanusAI/docs/2021-4-14-cours-astro-debut (1).pdf
+/Users/janus/Documents/JanusAI/docs/2021-4-14-cours-astro-debut.pdf
+/Users/janus/Documents/JanusAI/docs/2021-Complex-spacetime-Debergh-Petit (1).pdf
+/Users/janus/Documents/JanusAI/docs/2021-Complex-spacetime-Debergh-Petit.pdf
+/Users/janus/Documents/JanusAI/docs/2021-Darkinos (1).pdf
+/Users/janus/Documents/JanusAI/docs/2021-Darkinos.pdf
+/Users/janus/Documents/JanusAI/docs/2021-Frontiers-in-Physics (1).pdf
+/Users/janus/Documents/JanusAI/docs/2021-Frontiers-in-Physics-c (1).pdf
+/Users/janus/Documents/JanusAI/docs/2021-Frontiers-in-Physics-c.pdf
+/Users/janus/Documents/JanusAI/docs/2021-Frontiers-in-Physics-fr (1).pdf
+/Users/janus/Documents/JanusAI/docs/2021-Frontiers-in-Physics-fr.pdf
+/Users/janus/Documents/JanusAI/docs/2021-Frontiers-in-Physics.pdf
+/Users/janus/Documents/JanusAI/docs/2021-Hilbert-en (1).pdf
+/Users/janus/Documents/JanusAI/docs/2021-Hilbert-en.pdf
+/Users/janus/Documents/JanusAI/docs/2021-Hilbert-fr (1).pdf
+/Users/janus/Documents/JanusAI/docs/2021-Hilbert-fr.pdf
+/Users/janus/Documents/JanusAI/docs/2021-Janus-22-9 (1).pdf
+/Users/janus/Documents/JanusAI/docs/2021-Janus-22-9.pdf
+/Users/janus/Documents/JanusAI/docs/2021-Janus-Cosmological-Model (1).pdf
+/Users/janus/Documents/JanusAI/docs/2021-Janus-Cosmological-Model-HAL (1).pdf
+/Users/janus/Documents/JanusAI/docs/2021-Janus-Cosmological-Model-HAL.pdf
+/Users/janus/Documents/JanusAI/docs/2021-Janus-Cosmological-Model-including-radiative era-HAL (1).pdf
+/Users/janus/Documents/JanusAI/docs/2021-Janus-Cosmological-Model-including-radiative era-HAL.pdf
+/Users/janus/Documents/JanusAI/docs/2021-Janus-Cosmological-Model-including-radiative era-soumission (1).pdf
+/Users/janus/Documents/JanusAI/docs/2021-Janus-Cosmological-Model-including-radiative era-soumission.pdf
+/Users/janus/Documents/JanusAI/docs/2021-Janus-Cosmological-Model.pdf
+/Users/janus/Documents/JanusAI/docs/2021-Koiran (1).pdf
+/Users/janus/Documents/JanusAI/docs/2021-Koiran.pdf
+/Users/janus/Documents/JanusAI/docs/2021-Nature-of-the-dipole-repeller (1).pdf
+/Users/janus/Documents/JanusAI/docs/2021-Nature-of-the-dipole-repeller.pdf
+/Users/janus/Documents/JanusAI/docs/2021-Petit-to-HAL-en (1).pdf
+/Users/janus/Documents/JanusAI/docs/2021-Petit-to-HAL-en.pdf
+/Users/janus/Documents/JanusAI/docs/2021-Petit-to-HAL-fr (1).pdf
+/Users/janus/Documents/JanusAI/docs/2021-Petit-to-HAL-fr.pdf
+/Users/janus/Documents/JanusAI/docs/2021-Ricci-metrique-conforme (1).pdf
+/Users/janus/Documents/JanusAI/docs/2021-Ricci-metrique-conforme.pdf
+/Users/janus/Documents/JanusAI/docs/2022-11-02-Duval-to-Damour (1).pdf
+/Users/janus/Documents/JanusAI/docs/2022-11-02-Duval-to-Damour.pdf
+/Users/janus/Documents/JanusAI/docs/2022-12-01-to-Damour (1).pdf
+/Users/janus/Documents/JanusAI/docs/2022-12-01-to-Damour-resume-reponse (1).pdf
+/Users/janus/Documents/JanusAI/docs/2022-12-01-to-Damour-resume-reponse.pdf
+/Users/janus/Documents/JanusAI/docs/2022-12-01-to-Damour.pdf
+/Users/janus/Documents/JanusAI/docs/2022-12-12-Damour-IHES (1).pdf
+/Users/janus/Documents/JanusAI/docs/2022-12-12-Damour-IHES-old (1).pdf
+/Users/janus/Documents/JanusAI/docs/2022-12-12-Damour-IHES-old.pdf
+/Users/janus/Documents/JanusAI/docs/2022-12-12-Damour-IHES.pdf
+/Users/janus/Documents/JanusAI/docs/2022-12-14-to-Damour (1).pdf
+/Users/janus/Documents/JanusAI/docs/2022-12-14-to-Damour.pdf
+/Users/janus/Documents/JanusAI/docs/2022-12-28-Damour-IHES (1).pdf
+/Users/janus/Documents/JanusAI/docs/2022-12-28-Damour-IHES-old (1).pdf
+/Users/janus/Documents/JanusAI/docs/2022-12-28-Damour-IHES-old.pdf
+/Users/janus/Documents/JanusAI/docs/2022-12-28-Damour-IHES.pdf
+/Users/janus/Documents/JanusAI/docs/2022-Debergh-Petit-spacetime-algebra (1).pdf
+/Users/janus/Documents/JanusAI/docs/2022-Debergh-Petit-spacetime-algebra.pdf
+/Users/janus/Documents/JanusAI/docs/2022-Gravitation-p823-841 (1).pdf
+/Users/janus/Documents/JanusAI/docs/2022-Gravitation-p823-841.pdf
+/Users/janus/Documents/JanusAI/docs/2022-HAL-Janus-only-model-that-explains-acceleration_cosmic_expansion (1).pdf
+/Users/janus/Documents/JanusAI/docs/2022-HAL-Janus-only-model-that-explains-acceleration_cosmic_expansion.pdf
+/Users/janus/Documents/JanusAI/docs/2022-HAL-Physical-and-mathematical-inconsistancy-of-the-BH-Plugstar-model-as-alternative (1).pdf
+/Users/janus/Documents/JanusAI/docs/2022-HAL-Physical-and-mathematical-inconsistancy-of-the-BH-Plugstar-model-as-alternative.pdf
+/Users/janus/Documents/JanusAI/docs/2022-HAL-incoherence-trou-noir (1).pdf
+/Users/janus/Documents/JanusAI/docs/2022-HAL-incoherence-trou-noir.pdf
+/Users/janus/Documents/JanusAI/docs/2022-Inconsistency-of-black-holes-model-plugstars-as-alternative (1).pdf
+/Users/janus/Documents/JanusAI/docs/2022-Inconsistency-of-black-holes-model-plugstars-as-alternative.pdf
+/Users/janus/Documents/JanusAI/docs/2022-Janus-the-only-cosmologic-model-that-explains-the-acceleration-of-the-cosmic-expansion (1).pdf
+/Users/janus/Documents/JanusAI/docs/2022-Janus-the-only-cosmologic-model-that-explains-the-acceleration-of-the-cosmic-expansion.pdf
+/Users/janus/Documents/JanusAI/docs/2022-Physical-and-mathematical-inconsistancy-of-the-black-holes-models. The-alternative-of-the-plugstars-model. (1).pdf
+/Users/janus/Documents/JanusAI/docs/2022-Physical-and-mathematical-inconsistancy-of-the-black-holes-models. The-alternative-of-the-plugstars-model..pdf
+/Users/janus/Documents/JanusAI/docs/2022-Support-Janus-rapport (1).pdf
+/Users/janus/Documents/JanusAI/docs/2022-Support-Janus-rapport.pdf
+/Users/janus/Documents/JanusAI/docs/2022-lettre-ouverte-a-Damour (1).pdf
+/Users/janus/Documents/JanusAI/docs/2022-lettre-ouverte-a-Damour.pdf
+/Users/janus/Documents/JanusAI/docs/2023-01-05-incoherence-physique-et-mathematique-de-la-critique-du-modele-Janus-par-Damour (1).pdf
+/Users/janus/Documents/JanusAI/docs/2023-01-05-incoherence-physique-et-mathematique-de-la-critique-du-modele-Janus-par-Damour.pdf
+/Users/janus/Documents/JanusAI/docs/2023-01-05-to-Damour (1).pdf
+/Users/janus/Documents/JanusAI/docs/2023-01-05-to-Damour.pdf
+/Users/janus/Documents/JanusAI/docs/2023-01-05-to-Ullmo (1).pdf
+/Users/janus/Documents/JanusAI/docs/2023-01-05-to-Ullmo.pdf
+/Users/janus/Documents/JanusAI/docs/2023-04-26-CITV-De-Saxe-About-Janus (1).pdf
+/Users/janus/Documents/JanusAI/docs/2023-04-26-CITV-De-Saxe-About-Janus.pdf
+/Users/janus/Documents/JanusAI/docs/2023-04-30-sur-Medeiros (1).pdf
+/Users/janus/Documents/JanusAI/docs/2023-04-30-sur-Medeiros.pdf
+/Users/janus/Documents/JanusAI/docs/2023-05-27-Pigeon-en (1).pdf
+/Users/janus/Documents/JanusAI/docs/2023-05-27-Pigeon-en.pdf
+/Users/janus/Documents/JanusAI/docs/2023-05-27-Pigeon-fr (1).pdf
+/Users/janus/Documents/JanusAI/docs/2023-05-27-Pigeon-fr.pdf
+/Users/janus/Documents/JanusAI/docs/2023-07-15-Black-Hole-Foundation (1).pdf
+/Users/janus/Documents/JanusAI/docs/2023-07-15-Black-Hole-Foundation.pdf
+/Users/janus/Documents/JanusAI/docs/2023-11-01-GRAVITATION-pages-609-610-611 (1).pdf
+/Users/janus/Documents/JanusAI/docs/2023-11-01-GRAVITATION-pages-609-610-611.pdf
+/Users/janus/Documents/JanusAI/docs/2023-12-24-Lettre-Monnet-refus-Villani (1).pdf
+/Users/janus/Documents/JanusAI/docs/2023-12-24-Lettre-Monnet-refus-Villani.pdf
+/Users/janus/Documents/JanusAI/docs/2023-12-24-refutation-Damour (1).pdf
+/Users/janus/Documents/JanusAI/docs/2023-12-24-refutation-Damour.pdf
+/Users/janus/Documents/JanusAI/docs/2023-12-refus-soumission-referee-PRD-APJ-eng (1).pdf
+/Users/janus/Documents/JanusAI/docs/2023-12-refus-soumission-referee-PRD-APJ-eng.pdf
+/Users/janus/Documents/JanusAI/docs/2023-12-refus-soumission-referee-PRD-APJ-fr (1).pdf
+/Users/janus/Documents/JanusAI/docs/2023-12-refus-soumission-referee-PRD-APJ-fr.pdf
+/Users/janus/Documents/JanusAI/docs/2023-APJ-M87-reconstructed-image (1).pdf
+/Users/janus/Documents/JanusAI/docs/2023-APJ-M87-reconstructed-image.pdf
+/Users/janus/Documents/JanusAI/docs/2023-APJ-dark-energy (1).pdf
+/Users/janus/Documents/JanusAI/docs/2023-APJ-dark-energy.pdf
+/Users/janus/Documents/JanusAI/docs/2023-CITV-De-Saxe-About-JANUS (1).pdf
+/Users/janus/Documents/JanusAI/docs/2023-CITV-De-Saxe-About-JANUS.pdf
+/Users/janus/Documents/JanusAI/docs/2023-CITV-en (1).pdf
+/Users/janus/Documents/JanusAI/docs/2023-CITV-en.pdf
+/Users/janus/Documents/JanusAI/docs/2023-HAL-Nature-of-the-dipole-repeller (1).pdf
+/Users/janus/Documents/JanusAI/docs/2023-HAL-Nature-of-the-dipole-repeller.pdf
+/Users/janus/Documents/JanusAI/docs/2023-Medeiros (1).pdf
+/Users/janus/Documents/JanusAI/docs/2023-Medeiros.pdf
+/Users/janus/Documents/JanusAI/docs/2023-Refutation-Damour-critics-en (1).pdf
+/Users/janus/Documents/JanusAI/docs/2023-Refutation-Damour-critics-en.pdf
+/Users/janus/Documents/JanusAI/docs/2023-Refutation-critiques-Damour (1).pdf
+/Users/janus/Documents/JanusAI/docs/2023-Refutation-critiques-Damour.pdf
+/Users/janus/Documents/JanusAI/docs/2024-02-07-Janus-Symplectic-Group (1).pdf
+/Users/janus/Documents/JanusAI/docs/2024-02-07-Janus-Symplectic-Group.pdf
+/Users/janus/Documents/JanusAI/docs/2024-02-25-Lettre-Monnet (1).pdf
+/Users/janus/Documents/JanusAI/docs/2024-02-25-Lettre-Monnet.pdf
+/Users/janus/Documents/JanusAI/docs/2024-04-CITV-Petit (1).pdf
+/Users/janus/Documents/JanusAI/docs/2024-04-CITV-Petit.pdf
+/Users/janus/Documents/JanusAI/docs/2024-04-CITV-Zejli (1).pdf
+/Users/janus/Documents/JanusAI/docs/2024-04-CITV-Zejli.pdf
+/Users/janus/Documents/JanusAI/docs/2024-05-02-Gery-Kaluza-5D (1).pdf
+/Users/janus/Documents/JanusAI/docs/2024-05-02-Gery-Kaluza-5D.pdf
+/Users/janus/Documents/JanusAI/docs/2024-08-21-Geometry-Drives-Today's-Necessary-Paradigmatic-Change (1).pdf
+/Users/janus/Documents/JanusAI/docs/2024-08-21-Geometry-Drives-Today's-Necessary-Paradigmatic-Change.pdf
+/Users/janus/Documents/JanusAI/docs/2024-10-24-Pillage-travail-d'Agostini-par-H.Zejli (1).pdf
+/Users/janus/Documents/JanusAI/docs/2024-10-24-Pillage-travail-d'Agostini-par-H.Zejli.pdf
+/Users/janus/Documents/JanusAI/docs/2024-Annals-of-Physics-PT-symmetric-wormholes (1).pdf
+/Users/janus/Documents/JanusAI/docs/2024-Annals-of-Physics-PT-symmetric-wormholes.pdf
+/Users/janus/Documents/JanusAI/docs/2024-CITV-Zejli (1).pdf
+/Users/janus/Documents/JanusAI/docs/2024-CITV-Zejli.pdf
+/Users/janus/Documents/JanusAI/docs/2024-HAL-About-the-Fundations-of-the-Black-Holes-Theory (1).pdf
+/Users/janus/Documents/JanusAI/docs/2024-HAL-About-the-Fundations-of-the-Black-Holes-Theory.pdf
+/Users/janus/Documents/JanusAI/docs/2024-HAL-Challenging-the-Standard-Model (1).pdf
+/Users/janus/Documents/JanusAI/docs/2024-HAL-Challenging-the-Standard-Model.pdf
+/Users/janus/Documents/JanusAI/docs/2024-HAL-Geometry-Drives-Today'- Necessary-Paradigmatic-Change (1).pdf
+/Users/janus/Documents/JanusAI/docs/2024-HAL-Geometry-Drives-Today'- Necessary-Paradigmatic-Change.pdf
+/Users/janus/Documents/JanusAI/docs/2024-HAL-Janus-Cosmological-Model-Mathematically-and-Physically-Consistent (1).pdf
+/Users/janus/Documents/JanusAI/docs/2024-HAL-Janus-Cosmological-Model-Mathematically-and-Physically-Consistent.pdf
+/Users/janus/Documents/JanusAI/docs/2024-HAL-Nature-des-Objets-Hypermassifs-au-Centre-de-M87-et-de-la-Voie-Lactee (1).pdf
+/Users/janus/Documents/JanusAI/docs/2024-HAL-Nature-des-Objets-Hypermassifs-au-Centre-de-M87-et-de-la-Voie-Lactee.pdf
+/Users/janus/Documents/JanusAI/docs/2024-HAL-Positive-and-Negative-Real-Complex-Imaginary-Masses-and-Energies (1).pdf
+/Users/janus/Documents/JanusAI/docs/2024-HAL-Positive-and-Negative-Real-Complex-Imaginary-Masses-and-Energies.pdf
+/Users/janus/Documents/JanusAI/docs/2024-HAL-The-Legacy-of-Andrei-Sakharov (1).pdf
+/Users/janus/Documents/JanusAI/docs/2024-HAL-The-Legacy-of-Andrei-Sakharov.pdf
+/Users/janus/Documents/JanusAI/docs/2024-HAL-The-Nature-of-Hypermassive-Objets-at-the-Center-of-M87-and-the Milky-Way (1).pdf
+/Users/janus/Documents/JanusAI/docs/2024-HAL-The-Nature-of-Hypermassive-Objets-at-the-Center-of-M87-and-the Milky-Way.pdf
+/Users/janus/Documents/JanusAI/docs/2024-Masses-et-Energies-Positives-Négatives-Réelles-Complexes-et-Imaginaires (1).pdf
+/Users/janus/Documents/JanusAI/docs/2024-Masses-et-Energies-Positives-Négatives-Réelles-Complexes-et-Imaginaires.pdf
+/Users/janus/Documents/JanusAI/docs/JANUS_contenus (1).pdf
+/Users/janus/Documents/JanusAI/docs/JANUS_contenus.pdf
+/Users/janus/Documents/JanusAI/docs/Janus-22-9 (1).pdf
+/Users/janus/Documents/JanusAI/docs/Janus-22-9.pdf
+/Users/janus/Documents/JanusAI/docs/document-5.pdf
+/Users/janus/Documents/JanusAI/docs/document-6.pdf
+/Users/janus/Documents/JanusAI/docs/document-7.pdf
+/Users/janus/Documents/JanusAI/docs/document-8.pdf
+/Users/janus/Documents/JanusAI/docs/janus-25 (1).pdf
+/Users/janus/Documents/JanusAI/docs/janus-25.pdf
+/Users/janus/Documents/JanusAI/docs/janus-cosmological-model (1).pdf
+/Users/janus/Documents/JanusAI/docs/janus-cosmological-model.pdf
+/Users/janus/Documents/JanusAI/docs/janus22-5-5 (1).pdf
+/Users/janus/Documents/JanusAI/docs/janus22-5-5.pdf
+/Users/janus/Documents/JanusAI/docs/janus23 (1).pdf
+/Users/janus/Documents/JanusAI/docs/janus23.pdf
+/Users/janus/Documents/JanusAI/docs/janus24 (1).pdf
+/Users/janus/Documents/JanusAI/docs/janus24.pdf
+/Users/janus/Documents/JanusAI/docs/schwarzschild-fev-1916-fr (1).pdf
+/Users/janus/Documents/JanusAI/docs/schwarzschild-fev-1916-fr.pdf
+/Users/janus/Documents/JanusAI/docs/schwarzschild-jan-1916-fr (1).pdf
+/Users/janus/Documents/JanusAI/docs/schwarzschild-jan-1916-fr.pdf

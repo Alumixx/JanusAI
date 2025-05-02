@@ -1,0 +1,2393 @@
+Huygens Institute - Royal Netherlands Academy of Arts and Sciences (KNAW)
+ 
+ 
+ 
+Citation:
+ 
+Droste, J., The field of a single centre in Einstein's theory of gravitation and the motion of a particle in
+that field, in:
+KNAW, Proceedings, 19 I, 1917, Amsterdam, 1917, pp. 197-215 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This PDF was made on 24 September 2010, from the 'Digital Library' of the Dutch History of Science Web Center (www.dwc.knaw.nl)
+> 'Digital Library > Proceedings of the Royal Netherlands Academy of Arts and Sciences (KNAW), http://www.digitallibrary.nl'
+
+- 1 -
+
+< 
+
+\ 
+
+( 
+
+197 
+
+to 
+
+and  redllced 
+llltramicroscopic  dimenslOfl  and  as  the  appearanee 
+of  these  pal'tlCles  l'emains  quite  the  bame,  we-may  eertainly  assume 
+that  the  ultramicrones  also  are  small  crYRtals. 
+
+. 
+
+The  double  refraetion  of  tlle  Hg  sol  must,  thel'efOl'e,  be  attl'ibuted 
+the  presence  of  ultl'amicl'oseopie  tetragonal  needies  which,  when 
+
+to 
+tlle  hqnid  js  skeaming,  arrange  themselve~ parallel  to  each  other. 
+
+Sllmmal'izing  we  thllS  may  say  that there eXIst':l continuity  between 
+the  cl'ystalline  suspensions  of  PbI 2  and  fIgCI  and 
+tbe  colloidal 
+solutions  of  these  substanees  whieh  form  in  definite  ~ireumstanees 
+and  become  birefraetive  when  in  rnotion.  The  double  l'efraetion  of 
+these  sols  must  be  attributed 
+the  crystalline  strueture  of  the 
+u ltra-micrones. 
+
+to 
+
+In  analogy  her~with  it  is  probable  that  a]so  the  ultramlCrones  of 
+
+the  V20.-s01  must  be  regarded  as  micro-crystals; 
+
+Delft. 
+
+Ino1'ganic  and  physico-cllemical 
+Labol'at01'y  Techniéal  Univel'Sity. 
+
+Physics.  -
+
+"Tlte  field  of  a  single  centl'e  in  EINSTEIN'S  tlte01'y  of 
+éavitation,  ancl· the  motion  of a  pa1'ticle  in  that  field.".  By 
+J.  DROSTE.  (Commumcated  by  Prof.  H:  A.  LOHENTZ). 
+
+(Communicated  in  the  meeting  of  May  27,  1916). 
+
+that  is  required 
+
+Iu  two  communications 1)  I  explained  a  way for  the  calclllation  of 
+the  field  of  one  as  weU  as  of  two  een tres . at  rest,  with  a  degl'~e 
+of  approximatlon 
+to  account  for  all  observable 
+phenomena  of  molion  in  these  fields.  For  this  I  took  as  a  starting 
+point  the  equations  eommu-nicated  by EINSTEIN  m 19J 3 l).  EINSTEIN  has 
+fOl'mmg  eqllations  WhlCh  are  coval'iant  tOl'  all 
+now  slleceeded 
+possible  transfol'mations J),  and  by  whieh  the  motion of tbe pel'ihelion 
+of  ~Iercllry IS  entirely explained 4).  The  ealcnlation  of  the field ShOllld 
+the  new  equations;  we  will  make  a 
+hencetorth  be  made  from 
+the  field  of  a  single  eentl'e  at  rest.  We 
+begil\lling  by  calculating 
+intend  to  calculate  the  field  completely  and  not,  as  befol'e,  only  the 
+tel'ms  of  the  first  and ,secolld  order.  Aftel'  this,  we  investigate  th€' 
+
+jJl 
+
+1)  Volume  XVI!  p.  998  and  vol.  XVlU  p.  760. 
+2)  "Entwurf  einer  verallgememerten  Relativitatsthcorie  und  einer  Theorie  del' 
+
+Gravitation",  'fEUBNER.  Or:  Zeltschrift  ful'  Mathematik  und  Physik,  vol.  62. 
+
+S)  "Die  L"eldgleichungen  der  Gravitation"  Sitzungsberichte  der  Kon.  Preuss. Akad. 
+
+der  Wl~S.  19]5,  p.  844. 
+•  4)  "Erklarung  der  Perihelbewegung  des  MerkUl  aus  der  allgemeinen  Relativlt,lts-
+theorie"  Sitzungsberichte  der  Kon.  Preuss.  Akad.  der  Wiss.  1915,  p.  831. 
+
+, 
+
+. 
+
+\ 
+
+• 
+
+1 
+
+- 2 -
+
+, r 
+
+\ 
+
+/1 
+
+i 
+
+1\  , 
+
+198 
+
+moilon  of  a  body,  so  small  that  it  does  not  produce  any observable 
+change  in  the  origmal  field. 
+1  The  eq llatlOns  for  the  calculaüon  of  the  field  can  be  got  from 
+a  principle  of  val'iation.  Where  matter  IS  absent  (l't J = 0)  the varia~.­
+tion  of  the  integral JJJJ G V  g d·1]l  d·1]2  dm 3 d,~ 
+
+must  be  zero,  if  the  varIations  of  a.ll  g's  and  thmr  first  derlvatives 
+be  zero  at  the  threedImenslOnal  hrmts  of  the  fourdImenslOnal  region 
+.over  wluch  the  mtegral  IS  extended  Here  G  represents  the  qllantIty 
+
+G=2;;.gn(a:z  ~z:(_ 0:, l~/( ~ 2;;7c(lz1(  ll~Z(-li;Uk:DgzZ,(l( 
+
+\ t.7/  =:2 glei [t J] 
+Ilc  \ 
+
+l 
+
+I 
+
+[Z 7J =  1 (OgZI  --r- 'Og,l  _ 'OgzJ). 
+
+'OiEJ 
+
+'Omz 
+
+'0.1]1 
+
+l 
+
+For  a  centre  at  rest  and  &ymmetrical  in  all  dlrecüons  it  is  easlly 
+
+seen  that 
+
+ds 2  =  10 2  dt2 
+
+v2 (d{P  -l- 8zn 2 
+
+-
+
+u 2  d1,2  -
+
+(2) 
+10,  u,  v  only  depending  on  1',  and  ({),  (p)  representing  polar  cOOl,di 
+nates.  Now,  If  ,q'J  and  therèfore  also  gZJ  are  all  zero,  If  i =/= j,  G 
+breaks  u p  In to  SIX  pleces,  each  of  them  relatIng  to  two  mdlCes.  We 
+collect  the  terms  belonging  to  a  and  (J  and  name  the11'  sum  GX(/{IJ[3. 
+
+{} d(p2) , 
+
+• 
+
+IJ 
+
+a 
+
+80 
+
+O '   Uil1e 
+
+Now,  If  a,  b"  C  l'epresent  three  dIfferent  indices, 
+
+[a bJ= 0,  [a a] = _ ~ ~gaa,  ra bl = t ~gaa,  [a a] = i  ~gaa. 
+I a b! 
+
+0  I a a! 
+IJ 
+Let  the  first  sum  In  (1)  con trI bnte  to  G(};~ xf3  the  terms,  In  whlClJ 
+j = (J,  Ol'  Z = (J,  J = a.  By  talnng  fol'  a  and  fJ  suC'ce&Sl\ ely 
+i =  a, 
+the  SIX  couples  of  indIces  and  addmg  the  expl'esslOns,  we get exactly 
+the  th'st  sum  of  (1). 
+
+lab I 
+
+àgaa 
+_lg 
+- I  aaà-' 
+_  ma 
+
+~ a Ct I 
+a 
+
+àgaa 
+'0-' 
+mb 
+
+àgaa 
+'0-' 
+me 
+
+-lnaa 
+-.ï.;; 
+
+-
+- - - ,  
+
+lace 
+2"11 
+
+uma 
+
+umh 
+
+a 
+
+a 
+
+-
+-
+
+IJ 
+
+-
+
+IJl 
+
+Let  the  seC'ond  suro 
+
+(1)  contl'lbute  to  arC/xf3  those  terms  111 
+which  one  of  the  dUlerentirttecl  g'F,  contmns  the  ll1dex  a,  the ot her {J. 
+80 
+th at  Sllm  too  wIll  have  been  brok en  up  mto  six  pieces,  Ol1e  of 
+which  relateA  to  a  and  (J. 
+In  that  way  we  obtain 
+o ('Ogpf3) 
+G'IJ(/m~ = g~~ -
+'O.c(/ 
+om(/ 
+
+g[3f3 _  + gP~ _ 
+à  (' 
+om,3 
+
+gC/.C/.  _  + 
+
+à9()'.~) 
+à.1]f3 
+
+àg(/.(/) 
+à.1]f3 
+
+gf3P- + .qf.~ _ 
+à  ( 
+'0.1]13 
+gl!  og~~ ogf3f3  . 
+
+:2 
+
++ gPF ~ (9~()'. àgf3(3)  + gC/.~ gpf3 
+
+• 
+
+(3) 
+
+àtC~ 
+
+oXC/. 
+
+«=1=1=1=[3 
+
+O.'1h  oml 
+
+- 3 -
+
+f 
+
+r 
+
+199 
+
+The  eqnations  of  the  field  being  covarmnt  fOl'  all  transformatIons 
+of  the  coordmates  whatever,  we  are  at  libel ty  to  choose  instead  of 
+l'  a  new  variabie  whieh  will  be  sneh  a  functlOn  of  1',  th at  in  d.s 2 
+the  coeffieient  of  the  squa.re  of  Lts  differential  becomes  umty,  That 
+new  variabie  we  name  r  again  and  we  put 
+
+ds 2  = w2 dt 2 
+
+-
+
+dr 2 
+
+_ 
+
+v 2  (d{jo2  + sin 2  {jo  drp2) 
+
+(4) 
+
+wand  v  only  depen$img,  on  1'.  We  now  find 
+G/,=--, G;;,r=Gt1 = - - ,  Gt;;,=Gtrp= - --, G;;,'f=---' 
+these  eqnations  accents  represent  dlffel'entlation&  with  respect 
+
+4.v'w' 
+v10 
+
+4w'" 
+10 
+
+4V'2 
+v2 
+
+4v" 
+V 
+
+4 
+v 2 
+
+In 
+
+to  1'.  So 
+
+4V'2 
+
+8v'w' 
+vw 
+
+8v" 
+v 
+
+4w" 
+
+10 
+
+Now,  as  V  g =- v2  w sin {jo,  the  functIOn  to  be  mteg,l'ated  111  the 
+
+prinCIple  of  variation  becomes 
+
+4 (w-wv'2-2vv'w'-2vwv"-v 2w")  S2n  {jo, 
+
+We  now  apply  the  principle  to  the  reg ion  tI ~ t ~ t2,  1\ ~ l' ~ 1'2' 
+to  t,  {jo  and  rp  we  find 
+
+integrations  with  respect 
+
+the 
+
+By  effeetmg 
+the  condition 
+
+,  J 
+
+, 
+
+1<10 --wv'2-2vv'w'-2vwv"-v2w")d?' = Û, 
+
+This  glves  us 
+
+' j  
+
+and 
+
+2vv" + V'2  = 1 
+vu;"  + v'w' + wr/' = 0 
+
+These' are  the  equahons  of  the  field  required. 
+
+(5) 
+
+• 
+
+(6)' 
+
+2.  To  solve  (6),  we  Introduce  ll1stead  of  l'  the  quantity  ,c =  v 
+as  an  independent  varIabIe  by  which,  on  taking  accouiit  of  (5),  (6) 
+changes  111 to 
+
+(1  _!U J
+
+)  -
+
+d 2 w 
+d,1J 2 
+
+-
+
+2!u -
+
+dw 
+d,v 
+
+T  2w = O. 
+
+TlllS  equatlOl}  IS  satlsfied  by  w = tv.  The  other  partJc111al'  solution 
+
+is  now  also  easily  found,  viz. 
+
+w = l-t,vlog--, 
+1-,v 
+l+!u 
+
+But  we  want  w 
+
+to  be  a  finite  constant  lf' v' = 1  ~fol'  l' = (0), 
+Then  w  must  be  eqnal  to  x,  If'  we  take'  the  constant  t~ be  1  (the 
+to  1  at  large  distances  from  the 
+speed  of  ltgh} 
+centre), 
+
+then  approaches 
+
+- 4 -
+
+1-
+
+, 
+
+- \ 
+, 
+
+The  ll1tl'OductlOll  of  X  111  (5)  gives 
+
+fr'om  wlllch  we  unrnediately I  find 
+
+200 
+
+2a:v 
+
+dv 
+dd~ --1- {U J  ' 
+
+a 
+
+v=--, 
+
+l-.v J 
+
+a  belllg  a  constant  of  ll1tegration. 
+
+Diffel'entIating  tlns  l'elation  wIth  respect  to  1',  we  geL 
+
+or,  v'  bemg  equal  to  x, 
+
+2ax 
+v'  ==  --,'---
+
+d.v' 
+(1  ~iv2r dr 
+
+el1'  = 
+
+\ 
+
+2a dlv 
+
+. 
+(1_,'1.)2)2 
+
+.. 
+
+80  (4)  changes  mto 
+
+dç2  = ,'1.)2  dt2 - - - - - d,'I.)2  -
+
+(1 __ ,'1.)2)4 
+
+4a J 
+
+a 2 
+
+(1_m2)'" (diP  + sin~{Jo clrp2). 
+
+, 
+
+w 
+
+80  we  have  now  been  led  agal11  to  mtroduce  anothel'  variabIe 
+lflstead  oJ  I',  VJZ.  x,  The  form  obtamed  leads  us  to  lIltrodncmg  the 
+variabie  S = 1 -
+
+,v~.  Tben 
+
+ds' = (1  - s) dt 2 
+
+4a J
+
+, 
+
+- - - - - d§2  -
+
+(l-§) §4 
+
+a J 
+-
+§2 
+
+(cll't 2  + sin l  {Jo d rnJ ). 
+
+r 
+
+LaRtly  we  pui  -
+
+This  ?'  is  1I0t  the  '3ame  as  OCCUl'S  111  (4).  We  obtam 
+
+(ls2 = (1 -~) dt2 -~~ -
+
+l' 
+
+a 
+]  - -
+l' 
+
+' 
+
+1,2  \d{;2 + sin 2  {Joel p~) 
+
+(7) 
+
+We  have  chosen 
+
+the  cool'dlllates  in  a  partIenlar'  mannel' ;  it  IS 
+now  of  course  also  very  ~asy  to  intl'oduce  fol'  l'  anothel'  variabie, 
+which  is  a  function  of  r,l) 
+
+3.  Fl'om  (7)  we  ean  immedlately  deduce  some  conclnsions,  The 
+
+point  (1',  1't,  (p)  lies  at  a  distance 
+(J  _r 
+
+=1'V~- a + alog(V1' -1 + V1'). (8) 
+
+\ 
+
+r 
+
+-
+
+a 
+
+a 
+
+dl' 
+:J~V  a 
+,1---
+r 
+
+~ 
+
+1)  Aftel'  the  commumcation  to  Lhe  Academy  of  my  calculatlOns,  I  dJscovel'ed 
+that  also  K.  SCHWARZSCHILD  has  calculated  the  field.  Vld:  Sitzungsberichte  del' 
+del'  Kon.  Preuss,  Akad,  der  Wiss.  1916,  page  189,  Equation  (7)  agl'ees  wüh  (14) 
+there.  lf  R  IS  lead  instead  of  r . 
+
+.. 
+
+'1' 1 
+I 
+
+,  .  ~ 
+
+I, 
+I 
+
+I 
+
+" 
+t  \ t  .. ..!. 
+
+.! 
+~ ~t) 
+
+- 5 -
+
+• 
+
+r> 
+
+\ 
+
+) 
+
+201 
+
+the  pomt,  where  the  radius  mtel'sects  sphel'e  l' =  a,  if  1'.> a 
+from 
+~nd snpposing  that  (7)  l'emains  valid -np  to  l' =  a.  In  futUl'e  we will 
+always  make  these  two  suppositiol1s,  as  we  shall  see,  that a moving 
+particle  ontside  sphere  T = a  can  nev,er  pass  that  sphere,  we  may, 
+lil  studymg  its  motion.  dlsregal'd  the  space  ]' < a.  Should  (7)  cease 
+to  be  valid  as  soon  as  I'  becomes  < R,  we  need  (lnly  exclllne  the 
+space  r < R  from  the  ronclllslOns  wlllch  wIlI  stIll  be made, to make 
+
+If  l'  be  vel'y  large  with  respect 
+
+to  a, 
+
+the  proportion  Ó: l'  ap 
+
+them  valid  again, 
+
+proaches  to  1. 
+
+The  circumference  of  a  eh'cle  l' =  const.  is  2.1(1'  by  (7); this shows 
+how  l'  ean  be  measllred.  Ou'cle  ft  has  the  circnmference  2:t'a. 
+One  might  in  (7)  perfol'm  a  substitution  t = j(1', 1:). 
+
+'rhen  a  teem 
+containmg  d1'd1:  would  al'lse  and  the  velocity  c  of  light,  travellmg 
+along  1',  would  have  to  be  calculated  from  an  equation  of the  form 
+
+F 1 (1',T)  + F 2 (r,T)  (J- F3  (1',t)  (JJ  = 0 
+
+• and  would  have  two  vallles,  one  for  light  eoming  fl'om  the  centre, 
+the  other  for  lIght  moving  towards  it.  Moreover  these  values  would 
+t.  In  eonsequence  of  the  last  fact  we  should  not  name 
+depend  on 
+the  field  stationary  and  the  fil'Elt  fact  does  not  agree  with  the  way 
+in  which  time  is  compal'ed  in  two  different  places.  Sa,  if  we  want 
+to  retain  bath  advantages,  such  a  sllbstitution  is  not allowed, though 
+it  may,  of  course,  always  be  done,  if  we  are willing to give up these 
+advantages. 
+We  wIlI  pomt  out  that,  as  (7)  is  lmown  now,  G  can  be  fOllnd 
+as  a  function  of  1',  The  resnlt  is  G = 0,  as  it  mnst alway& be found 
+where  matter  IS  absent. 
+
+\ 
+
+4.  We  now  proceed  to  the  caleula,tlOn  of  tlle eq uatlOns of motlOIl 
+
+The  equatiolls  of  motion  express  tile  fact  tlJat  tile  {h'st  val'lation 
+
+of  a  partIele  in  the  field. 
+
+of  the  integral 
+., 
+
+I; 
+
+wIll  be  zero,  if  tile  val'led  positions  for  t =  tI  and  t =  t 2  are  the 
+same  as  the  actual  olles.  L  represellts  the  ql.:1antity 
+
+ds  V 
+
+-
+-
+
+-
+dt 
+
+1 
+
+-- -
+
+a 
+
+l' 
+
+L -
+-
+-
+
+~,2 
+
+- - - -
+a 
+1 - -
+
+". 
+
+2 <>2  J '  J  a. 
+l'  v  -1'  stn  lT cp  ,.  • 
+
+2 
+
+(9) 
+
+- 6 -
+
+" ~,>:,  ::  ..  ' 
+
+' . '   t 
+
+'-
+
+"J 
+
+-~.:'~~  .. 
+
+202 
+
+i' 
+
+. 'whel'è' 
+
+.  d1', 
+
+drp 
+l'  =-, *=-, (p=-, 
+. , :dt  " 
+
+d{}., 
+dt  .' 
+
+dt 
+
+. 
+
+. One  of  the  equations  of' motion  is 
+
+'J  ... ' . 
+',\ 
+
+.d(aL) 
+-
+dt .aq;· 
+
+-.  =0 
+
+'. 
+
+., , . 
+
+Ol" 
+
+Ol' 
+
+which  pl'oves,  that  /p;  once  being  zero,keeps  that  válu~," 
+'Now,  as  we  can  always  choose.·{}  and·cp  insur.h  away  t~ .. at 
+;p  becomes  zero  foi'  a  certain  value.of  t  arid  'as  (p  wiÜ  then alw~yR~ " . 
+rem~in zero,  the  motion  takes. place  iIi  a' plane, . 
+
+'~'. 
+
+. 
+
+'. 
+
+. We'  choose'  the  . cool'dinates,  in.  sueh  a  manner"that' this  plane 
+
+. 
+
+. 
+
+hecomesthe plane  ~'t =  2'  Then,  (9)  p{\,sses  into 
+
+' . '  
+
+'. 
+
+. 
+
+. 
+n 
+
+·  'a'""  .',2' 
+V
+
+"  . . .  
+- - ' - - -1 '  (P, 
+ra ·  
+
+. '   1 .  
+
+2'  2 
+
+1  -
+. 
+
+. 
+
+1 -- -
+r 
+
+. 
+L= 
+. 
+
+. 
+
+The  equations  of  inotionàre. 
+
+d  (aL)  "'. 
+
+-
+::\'  .  -
+up 
+
+-0 
+, 
+
+-
+di 
+
+From  these  two  it  fol1ows  tlIat 
+
+. 
+',.aL" '  ,aL) 
+
+. d(, 
+'. 
+- L-1'- -rp-. = 0 
+d ta ; .   .  a~ ...  · 
+
+.(  a). 
+
+.  1- -
+.d 
+. 
+- - - _0 
+dt  .'  L  - ....  " . 
+
+" 
+
+'1' 
+
+_ 
+
+\  ." 
+
+(10) 
+
+. 
+
+(11) 
+
+" 
+
+- , '   , 
+
+. . 
+Instead  of  the  two. equations  (11)  we  may, consider  the syst~m) 
+consisting  of. (11)'  and  '(12).  The .. ~twu' systems. are  equivalent  OJlly' 
+in  case  i, =/= 0;  so  fol'. the  cil'culàl'\lmotion  we.  shall  ha've  to  return 
+. to  tp.e  second  equadon  (10).,.. 
+. '-,  . 
+
+(12)  . 
+
+We  now  obtain 
+
+. , 
+
+and  so 
+
+a· 
+1--. 
+r 
+-:-. ----"L- ~:con8t., 
+
+'1,2q;  '.  . '   , 
+-.' =: const.,: 
+L . ' ,  
+
+. /   ~  -' 
+, 
+, 
+
+, 
+
+,I 
+
+",:  ' 
+
+:... 
+
+:.,. 
+~.  :, 
+
+i 
+
+'> 
+
+I  . , :   ,,'." 
+
+':"~"  '::, 
+
+( 
+
+" 
+
+,  '. 
+: 
+
+- 7 -
+
+. 
+
+. 
+
+" 
+
+,208 
+
+,  1,2~, 
+, 
+'-"- =  aonst. 
+a 
+1 - -
+l' 
+
+This  yields  the  equations 
+
+'1 
+,  a 
+1-,-
+l' 
+
+and 
+
+. 
+
+(13) 
+
+(14) 
+
+. 
+
+(15) 
+
+,We  will  now  just  express  the,  ei LHlntities  ;p  alld  l'  in  rp, 
+
+l'  and  1'; 
+this  is  easily  done  by  diffet;entiating  (13)  and  (14) with  respect  to t . 
+
+.  The 'result  is 
+
+1 - -
+
+a'  , 
+
+r  " 
+
+2~~ 
+(P-=--- , , - - -
+r 
+, 
+, 
+
+a 
+fJJ1' 
+'a   1,2 
+' 
+--
+
+I
+
+l' 
+
+and 
+
+,  " 
+
+"  ,  a  (':. " a)" 
+
+,  ,,1' = ,-' -' .  1 ,..s,-7- + - . - -, -- + 1'ip 2
+,'," 
+
+, 
+a ,  
+
+3,  a ' 1:2 
+
+21,2  , 
+
+2 
+
+/ 
+
+1,2 
+
+1', 
+
+, 
+
+, ,1 - -
+l'  ' 
+
+, ( '  a) 
+
+1 -
+
+\ 
+
+-
+l' 
+
+, 
+
+.(16) 
+
+.-
+
+, 
+
+, ,5.  From  (15)  and  (1'6) it' follows  if 'I:-:.;P':'-'- 0 
+, ;p = 0,  '  ;:  ~ ~,(l ~'~)' 
+
+" 
+
+, 
+
+,21'-
+
+r 
+
+This  is  the 'accelel'~tion in' case  of  a  partiele  at  rest.' It is dil'ected 
+
+towards,' the  centl'e.' 
+.'  ;:.  has  its'  greatest  value  (at  rest)  at  the  distancè?' 
+
+the, , gl'eatest  ,Talue  of  d is  attailled  fOl;  I' = ia, 
+
+, cei1tre; 
+
+, t  cc  from  the 
+
+',6.Th~  ,11iotion  may  be  èil'cula;'.  As?:  is  then  cOlltinua~IJ  ~el'o; 
+we  return  to  the, eq llati()ns  (11).' r~he' second  shows 
+
+1/ 
+
+, , i. e. 
+
+aL 
+'~'-:- 0,  ' 
+.  UT 
+
+Su:bst.ituting  this  in  (10)' aild  putting  ;, = 9 we  find 
+
+" 
+
+" '(l.7) 
+
+" 
+
+,J 
+
+. 
+
+V=l- 3t;t, 
+21', 
+
+, 
+
+/ 
+
+.  :,"Î  .  " . "  
+
+' .. ,  . '-.  '. 
+
+,', 
+
+:. 
+
+F 
+
+, 
+
+- 8 -
+
+/ 
+
+,  ( 
+
+, 
+
+204 
+
+so  that  I'  must  be  > t a,  if  L2  Ol',  what  ('omes  to  the  same  thing, 
+cls2  shall  be  posit! ve, 
+
+Formula  (17)  IS  the  same  as  111  NEWTON'S  theor)'. 
+
+that 
+
+\  7.  We  wIll  now  conslder  the  case  of  r'p  bemg  contmually  zero, 
+the  partlCle  tdways  moves  on  thé same  radIl1s.  From  (13) 
+I.e. 
+we  easIly  conclude  (we  shaU  aftenval'ds  show  tlllS  m  general  I.e. 
+d r'p  be  not  ldentICal  zero) that the partiele never l'eaches sp here r = a. 
+
+If we  caU 
+
+for  abbl'eVlatlOn  ,eloclty  and  acceleration,  tl1en  (13)  gn'es  us  fol'  the 
+velocIty  the  formula 
+
+and  (16)  for  the  accele1'1:I.tlOn 
+
+;p = (1 - ~) (1 - A  + A~) . 
+
+'r 
+
+• 
+
+'/' 
+• l 
+
+- 1',  V 
+Ö=-~[Vl-~- 2d
+
+2r2 
+
+2  1 
+
+a 
+1 - -
+r 
+
+. 
+
+(18) 
+
+(19) 
+
+If we  subshtute  (18)  in  (19)  we  obtalll 
+
+if=~(l- 2A + 2A~)Vl -~. 
+
+21,2 
+
+l' 
+
+l' 
+
+. 
+
+. 
+
+(20) 
+
+that 
+
+Fl'om  (19)  follows, 
+
+the  algebraIC  value  of  the  accelel'atlOJl 
+the  posItlOn  and  the  velocity  of  the  partIcle  and 
+only  depell<:Js  on 
+does  not  ehanÉ e  If  we  re verse  the  dll'ectlOn  of  the  velocity .  The 
+ronstant  .A  is  never  negatIVe  (as  L> 0).  1f  A  lies  between  0  and 
+1  (A = 1  included), 
+IS  posslble  accordmg  to 
+(16)  We  then  have  a  pal'tlcle  moving  towards  infimty  or  commg 
+from  lt,  For  this  motlOll  the  acceleratlOn  wiU,  accordmg  to  (20), 
+
+thel1  every  vallle  of  10 
+
+onee  become  zero,  if  2 A - 1 > 0,  I.e.  A > 1,  viz.  for 
+
+2Aa 
+
+1 ' -
+
+-
+
+• 
+2.1 - 1 ' 
+
+fol'  greater  values  of  l'  the  acceleratlOn  IS  dll'ected towal'ds the cent! e  . 
+(attmctton),  fol'  smallel'  vallles  of  l'  from  the  centl'e  (repulslOll).  The 
+acceleration  IS  then  zero in these pOSItIons  VIZ.  l' = a, r = 2Aa7Vl-1), 
+l' =  00. 
+the  fit'st  interval  there  W11l  be  l'epUISlOn,  in  the  second 
+there  is  an  extl'eme.  If A> 1 
+attrartion,  wJtlll"ll  elthe1'  mterval 
+to  (iS),  10  cannot  be  greater  than  Aa/CA-i).  Then 
+then,  accordmg 
+
+In 
+
+I 
+
+\ 
+
+- 9 -
+
+205 
+
+is 
+
+the  acceleratlOn  becomes  zero, 
+
+the  motion 
+that  of  a  partirle  fil'st  going  away  from  the  centre 
+. and  then  returning  when  r  =  Aaj(A-1)  The  value  2,Aaj(2A-1), 
+ot  1"  fol'  which 
+IS  smaller  than 
+Aaj(A-1).  The  partiele  ascends  ldurmg which there is first repulsion); 
+at  a  ~Iven  moment the acceleration  becomes zero for 1'= 2Aa/(2A-1), 
+l' =  Aaj(A -1)  has  èxhausted 
+thf'n  we  get  attI'action,  whi('h  for 
+the  motIOn  and  makes  it  return;  the  acceleratlOn  of  the  l'eversed 
+motion  IS  first  pOSltlve,  then  becomes  negative  for  l' = 2Aaj(2A--1) 
+the  motlOn  btopS  (mfinitely  slowly)  for  l' = a.  In  case  th at  A 
+and 
+hes  between  0  and  1,  bO  that  l'  can  have  all  values,  there  IS  no 
+point  where  the  acceleration  becomes  zero.  A('cording  to  (20)  there 
+is 
+ib  maximum  at  an  infinite 
+dlstance viz , accordmg to (18),1/1-- A  wInch  hes between 1 V2" and 1. 
+
+tllen  ~lwaJs  repulsion ; 
+
+tile  velocity 
+
+8.  We  now  return  to  the  geneml  case,  wh ere  nelther 1: nol' cP  are 
+(,olltinually  zelO.  We  must  then  take  eqnatlOns  (13)  and  (14)  as  a 
+startmg  point,  by  eltminatmg  dt  we  find 
+
+. 
+
+. 
+
+(21) 
+
+Expl'essmg  elrl'  111  l'  and  ell'  we  obtam 
+
+l' 
+
+l' 
+
+a 
+r 
+
+Putting  now  - = tV,  we  get 
+dep = V  3 
+
+\ 
+
+-d.r: 
+2  Aa 2 
+E2 
+
+(1-A)a 2  • 
+lV  -lV +-.r:+---
+
+EZ 
+
+So  (I'  be('omes  an  elliptic  integral  m  the  variabIe 1',  and l' therefol'e 
+
+\ 
+
+\ 
+
+an  elliptIc  fUl1rtion  of  rp.  Of 
+.v 2  + -
+
+.v 3 
+
+-
+
+Aa 2 
+BZ 
+
+(1-A)a 2 
+
+V  +- ---- = 0 
+
+EZ 
+
+let  xl'  .'1.'2' 
+
+,va  be  the  roots,  so  that 
+
+(A-I)a 2 
+
+EZ 
+
+,,(22) 
+
+then  we  can  introduce  as  constants  of  mtegration  the  qllantihes 
+,'elation  tV 1  + x2  + a's  = 1)  ll1stead  of 
+tVz'  a.'a 
+,'Cp 
+A  and  B, 
+
+(connected  by 
+
+the 
+
+I j  
+,,-
+
+\ 
+
+I 
+
+\ 
+
+\ 
+
+- 10 -
+
+If we  now  introd~ce  a  new  val'iable 
+
+206 
+
+el  = mI  - t, 
+e~ =  tIJ,  -
+ea =  mB  -- t, 
+
+, 
+
+putting 
+
+we  obtam 
+
+and  we  have 
+
+. 
+
+, 
+
+(23)  _ 
+
+(?4) 
+Now,  introducing  the  p-functlOn  with  the  roots  el'  e2 ,  e"  we  get 
+
+. 
+
+el  -~  e.  + e, =  0  . 
+z = PH (P  + C), 
+
+whele  C  is  a  constant  of  integrahon,  whlch  ma)'  be  complex;  the 
+real  p3,l't  is  wIthout  sigmfication  as  11;  only  detel mmes  tlle  dll'eclion 
+in  whirh  rp  will  be  zero.  We  take 
+
+z = PH rp + is)  , 
+
+a 
+- =  -t + P(trp + is) 
+
+l' 
+
+and  then  tind 
+
+From  (14)  now  follows 
+
+1"drp 
+Bdt=- 
+a 
+1---
+l' 
+
+Ol' 
+
+(25)  . 
+
+. 
+
+(26) 
+
+. 
+
+(27) 
+
+The  problem  under  eonsidel'ation  glV~S l'ise  to  fom  constants  of 
+integl'ation; 
+two  of  w bieh  al'e  el  and  e2,  tbe  two  othel's  s  (whJCh 
+can  have  only  parl1culal'  ~alues)  and  a  constant  wbi('h  arises  aftel' 
+mtegration  of  (27)  and  is  of  IlO  consequence  as  it  only  detel'min~s 
+the  moment  at  which  t =  O. 
+
+From  (27)  it  now  follows  immedtataly  that  the  particle  ('an  ne\'el' 
+then  z  became  t;  (27) 
+reach  sphel'e 
+shows  thai  this  would  requil'e  an  intinitely  long  time.  Sphere r= a, 
+therefore,  is  nevel'  l'eached. 
+
+l' = a.  Fol',  if  l'  became  a, 
+
+It  also  follows  from  (27)  that  an  mfinitely  long  ,time  is  requiJ'ed 
+t.  This  IS  not  at all strange,  z = -- t  corl'espond 
+fol'  z  to  l'each  -
+mg  to  l' =  00. 
+It  ma)'  oecur  (if  two  e's  coineide)  that  thel'e  is  ~till 
+another  value  of  I'  wlticlt  cannot  be  attained,  but  IS  gradually 
+approached;  we  will  tl'eat  th is  case  whel'e  it  oecUl's. 
+
+-, 
+
+, 
+
+- 11 -
+
+207 
+
+9.  Let  us  now  first  consider  the  case  el = e2  = e3 = O. 
+Equation  (23)  becomes 
+
+(28) 
+
+(29) 
+
+so 
+
+rp=-= 
+
+2 
+
+2 
+. 
+VZ  V~-~ 
+
+'I'  3 
+
+The  value  3a of 1',  cOl'respondmg  ro  z = 0,  is,  us  is  seen from  (27),\ 
+a  valuE'  which  is  not  attamed.  (::l9) shows  that  the  motion takes place 
+m a spiral winch, extending to  CIl cle l' =a, llIaking t here wlth the radius 
+a  finite  angle,  and,  turning  an  mfinite  number  of  times,  approaches 
+to  Clrc]e  l' = 3 II  on  the  inside.  The  particie  can  nevel'  get  out  of 
+&phel'e  r = 3 ft  and  a  motion  sllch  that  the  pal'hcle  wel'e  from  the 
+begmmng  outside  sphere  l' = a  (and  snch  that  el = e2 = e3 = 0),  is 
+impossible  according  to  (28),  as (~~yshoUld then  be  negative. 
+
+JVhen  I'  approaches  to  3a  then  rp  approaches  to 3aV6  ánd conse-
+
+1 
+
+que,ntlJ  the  veloclt)'  to  V6'  _ 
+
+. 
+
+1 
+
+10.  We  110W- come  to  the  case  of  two  e's  being  equal  and differ 
+ent  from  tlH'  thlrd.  Calling  (tlle  three  e's  being  real)  the  gl'eatest  el 
+the  smallest  ea,  we  have  two  cases,  VIZ. 
+
+e2  = e3  = - ~ e"  el  = e2  = - i  eg. 
+
+I 
+
+' 
+
+We  first  turn  to  the  case  e2  =  es = - t el' ~ 
+Exrludmg  as  befol'e  the  interior  of  sphere  l' =  a,  }'  must  be> a, 
+so  z < t.  We  put  e2  = e, = - a 2
+;  a  be  positive.  Then , 
+(23)  passes  into 
+
+,  el  = 2a 2
+
+dep = -:---~-;=====:: 
+)  V z-2a 2 
+
+-
+(z + a2
+
+dz 
+
+It  is  seen  that  z  must  be  greater  than  2a\  and,  as  z  must  be 
+
+smaller  than  t.  we  must  hare 
+If 2a2  = t.  the  partu'le  is  at  rest  on  sphere  l' = a. 
+N ow  puttmg  z =  2a2 + y2  we  get 
+
+2a J < t  .. 
+
+. 
+
+(30) 
+
+11 
+
+, 
+I 
+
+and  so 
+
+- 12 -
+
+208 
+
+y =  - a V3 f.r!  (i. a rp  V3). 
+
+Tbis  gives  ns 
+
+l' = -----------
+-l- + 2 a 2  -1- 3 a2  t.rlCi a  I  V3) 
+
+r' 
+
+1 
+
+The  Case  a  =  ° !las  been  discussed 
+thel'efol'e  put 
+a =1= 0.  When  (p  =  0,  r =  a . (t + 2( 2
+),  I.e  a  value 'between  l' =  ~ 
+and  l' =  3a.  When  lP  approaches to  j(  aV3 (a value wlllch, from  (30), 
+exceeds  jt)  7'  should  approach  to  zero,  according  to  (31).  But  filM 
+}'  must  become  eqlUl~1  to  a,  VIZ.  w hen  rp  becomes 
+
+In  9,  we 
+
+(31) 
+
+rp = lPo  =  -V . arc tg 
+
+a  3 
+
+2  V~ 
+
+3a 
+
+and  for  th is,  accordmg  to  (27),  an  mfimte  tune  is  required  as  then 
+z =  l  So  the  motion 
+([lo  to  (Po' 
+cOl'l'esponding  to  r  = a.  The  gl'eatest  value  of  l'  is  l'eached  at  the 
+moment  when  rp  =  0,  viz. 
+
+IS  as  follows'  (p  changes  from  -
+
+1'= 
+
+a 
+
+1  + 2a2 
+
+if 
+
+<Ra' 
+' 
+
+lP = - rpo 
+
+(as  wel!  as  when  (r = lPo)  l'  becomes  a.  If  l'  ap 
+when 
+prorhes  to  zero,  qJo  incl'eases  indefinitely  and  the  motlOn  approaches 
+more  and  more  to  that  whIeh  has  been -disrussed  In  9. 
+
+11.  Tlw  ca~e el  =  e~ =  -
+Put  el  = e2 =  a2,  e~ =  - 2 a\  then  (23)  passes  into 
+
+§ e1 • 
+
+drp =  -
+
+dz 
+)  Vz + 2 ((,2 
+
+(z-a 2
+
+(32) 
+
+As  z> - 2 0\  we  may  put  z = -- 2 ((,2 + yJ  . Then  we  get 
+
+Now,  If  z> a2
+
+2 dy 
+
+d(p= -
+
+. 
+y~-3 a2 
+,  and  therefore  y2 > 3 a2
+
+y =  a V3 cotqh (t arp  V3) 
+
+,  we  get 
+
+and 
+
+and  so 
+
+r  = t- 2 a2  + 3 a' cotgl~2 (t ap V3)' 
+
+If,  on  the  rontl'al'y,  z < 0 2  and  con\sequently  y2 < 3rt\ 
+
+. 
+
+(33) 
+
+• 
+
+y =  a V3 tgh (t a (p  V3), 
+
+r  = 
+
+t-~a2 + 3a2  t.g7~J (t arp V3) 
+z  cannot  pass  (12' and  must  moreovel'  he  between  -
+
+- - - r - - -
+
+tand t. 
+
+. 
+
+( ~3a) 
+
+ct 
+
+ti 
+
+- 13 -
+
+209 
+
+80  we  have  the  following  cases: 
+A.  a2  ~ t.  z  hes  between  -
+
+~  and  ~  ;  fol'mllia  (33a)  bolds,  l' 
+
+varies  between  00  and  (c,  the  first  val ue  IS  attamed  fol' 
+
+and  the  second  for 
+
+a /3 + V-2a2_~-
+(P  =  'PI  =  --= lo.q  ----:--;=-----:--;:::::== 
+- t 
+a V 3  - V 2a 2 
+
+a V  3 
+
+1 
+
+<J) = (('2 = --= log 
+
+1 
+
+a V  3 
+
+aVS +  V2a 2+f 
+. 
+a  V  3 + V  2a2 +i 
+
+(l,J < ~;  z  between  !l  and  i  Fol'mula  (33)  must  be  applted,  l' 
+
+An  mfimtely  long  tIme  IS  l'equired  to  reach  eühel'  poslÎlon 
+B. 
+Val les  between  cc  (t + a2
+)  and  ll,  (I'  then  changes  from  00  to 
+1 
+
+(f 3 = --= log  -:-:;:;::::::::=~----:-
+
+'V2a 2  + t + a V3 
+1/2a2  + t - a V3 
+
+a V 3 
+
+). 
+
+IIlfimty  and 
+
+•  Formula (33a)  now  holds, 
+) ;   (J!  changes  from  f  I  fo  00  The 
+In  a  spu'al  l'ound  the  cil'cle 
+
+The  Ol'bit  comes  fIOm  l' =  a  and  approaches  111  a  bpit'al  to  cÎlcle 
+C  t ~ a2  < t; z  between  -- tand  a2
+
+1  =  u  : \t + a 2
+I'  val'les  between  00  and  a' (t + a 2
+Ol bIt  comes  fI'om 
+l' =  cc  . (t + a2
+D.  a2  < t,  z  bet ween  -
+2a2  and  (1,2  FOl'ffiula  (33a)  must  be 
+apphed,  l'  val'Îes  between  a' d- - 2a 2
+) ;   (P  changes 
+fl'om  0  10  00  The  orblt  IS  a  spn'al,  comlllg  from  cu'cle a  (t - 2a 2
+\'vhich  mn)'  have  ally  radius  > 3a,  'and  appIOuchmg  m  a  mfimle 
+number  of  tllrnings  to  ('ircle  ((  (t + cl),  which  lies  bet ween  cU'cIe 
+2a  and  cu'cIe  Sa 
+
+),  which  hes  bet ween  CIl'cle  2"  and  Clrcle  Cl. 
+
+)  and  Cl  (t + a 2
+
+llll'flS 
+
+), 
+
+12.  Now  we  will  suppose  the  roots  el' e2 ,  es  to  be  all  dIfferent. 
+these  roots,  we  ma)  then  dIstinguish  two  mam  cases, 
+I'egards 
+the  case  of  three  real  roots  and  the  case  of  one  real  and  two 
+In  the  fil'st  case  we  put  el> e. > es,  III 
+real  root  and  the  Imagmar)  part  of  el  be 
+In  either  case  we  put,  as  usual,  el  =  P(I)I'  e2 =  pw., 
+
+As 
+VIZ. 
+conjugate  complex  roots 
+the  second  eJ  be  Lhe 
+posith e. 
+e3 = Pro,  with  W 2 =  (.)1 + Wa  (not  - W I  - Ws)' 
+
+Tlte  th1'ee  1'OOtS  a1'e  1'eal.  The  only  vallles possible fol' is m equation 
+!I0W  are  0  and  W 3  (or  congruent  vaIues).  In  Ihe  first  case  z 
+(25) 
+val'Jes  fl'om  00  to  el  and  fl'om  el  (0  00,  whIle  (p  changes  from  0  to 
+2w I  and  fl'om  2w I 
+to  4w l •  One  must,  however.  l'emember  that, 
+tand i  (I.  e.  l' =  Cl) 
+accol'ding  10  (27),  z  may  not exeeed lhe val nes -
+them.  80  If  el> i, it  IS 
+and 
+Impossible  for  is  to  be  zero.  If el < i, z  "arles  between  (ll  and  ~ 
+and  80  l'  between  ((I(~- + eJ  and  (I  Tllls  case  cOl'l'esponds  to 10 and 
+
+l' =  a),  but  must  remam  between 
+
+14 
+
+Proceedmgs  Royal  Acad  Amsterdam.  Vol.  XIX, 
+
+- 14 -
+
+-----~- -
+
+210 
+
+11 B into  wbirh  it passes when  e2  = e3  = - } el  and  wben e~=-2el' 
+In  the  other  case  (1's = ( 3 )  z  varies  from  e3  to  e2  and  from  e2  to 
+to  4m l •  Thel'e 
+v\Tbile  lP  changes  from  0  to  2w I  and  from  2w I 
+
+e" 
+are  variOlls  rases: 
+
+A.  e2  ~ l  z  varies  between  -t and  t,  r(i  between  ([1  and  '12  for 
+
+which 
+
+-i- = P (t epi  + ( 3 )  and 
+
+j  = P (t (P~ + wg); 
+
+; 
+
+(PI  lies  between  0  and  Wl'  ep~  between 0 and 2w 1 ((P2 > (PI)'  l' changes 
+bet ween  00  and  a.  This  case  corresponds  to  HA  and  passes  into 
+it  fOl'  e2  = el = -j-. 
+B.  e3  ~ -t ' e~ < l  z  varies  between  -t and  e~,  cp  between  (PI 
+l'  changes  from  00  to  a/Ct + e2 ),  a  value  between  2((  áiîd 
+and  2w l
+1I.  This  corresponds  to  11 C,  In  which  it  passe':>  fol'  el = e2 , 
+(ril  then 
+becoming  infinite. 
+and  + 00;  r  changes  fl'om  a/ei + e3 ),  which  may  have  all  values 
+> 3a,  to  a/ei + e2 ;,  which  may  have  all  ':alnes  between  2lC  and  ('. 
+1'he  case  êorresponds  to  l1D,  in  which  it  passes  for  el = e2 > 0 ; 
+if  e2  < 0  there  is  no  cOl'l'esponding  degenorated  case. 
+
+C.  e3 > -t, e2 < i·  z  varies  between  e3  and  e~,  ep  between -
+
+(J:) 
+
+Two  roots  a1'e  conjugate  complex.  The  value  which  in  (25)  is 
+possible  fol'  i 8  is  O.  Then  z  varies  ft'om  00  to  e2  and  back.  80  jf 
+e2  ~ f  th is  case  is  impossible.  If -t < el < t,  z  varies  between  1 
+and  e2 , 
+
+cp  between  a  yalue  lPa  for  WhlCh 
+P(t9'3) = t 
+
+,situated  betweell  0  and  2( 3 )  and  4w 2-t{a'  l'  changes  from  a  to 
+a/ei + e2 ),  which  may  have  any  va\ue  > a,  and  then  returns  to  a. 
+to  the  same 
+This  case  can  pass 
+negative  value:  and.  If  e2  becomes  negatÏ\>e, 
+it  may  divide  itself 
+into  11B  on  the  one  hand  and  11 C or  11 D  on  the  other  (11 C if 
+e2 < -~, 1 J D  if  e2 > -t). 
+
+into  10,  if  el  and  e3  appl'oaeh 
+
+We  now  have  a  survey of all posslble motions.  We must, ho wever, 
+rem ark  that  not  all  the  motions  take  place  with  a  velocity  smaller 
+that  of  light,  as  in  case  of  some  of  them' (e.g.  11A  and  12A) 
+than 
+A  and  so  also  L  is  negati ve.  We  have  not  sepal'atfly  mentioned 
+those  cases.  In  11  e.g.  a2  <}, means  that  the  velocities  are 
+all 
+smaller  than  that  of  light.  In  12  for  that  purpose  el e2 + e2 e3 + e3 el 
+has  to  be  >-f, 
+
+13. 
+
+lt  is  now  necessary  to  consider  the  plare  taken  up  in  this 
+survey  by  the  well-Imown  motions  of  tlle  planets  and comets. These 
+motioJls  all  take  plnce  with  small  velocities i  we  will  call a qnantity 
+
+- 15 -
+
+211 
+
+f.,ta 
+A=l + F' 
+
+-
+
+B= V~:). 
+
+the  squal'e  of  the  velority  of  a  plan et,  a  quantity  of  the 
+sueh  as 
+theory,  whieh  accounts  very  exactly  for 
+first  order.  In  NEWTON'S 
+the  motions,  a' I'  is  found  to  be  of  the  same  order  as  the  square 
+of  a  velocity ;  Ihis  we  take  from  NEWTON'S  theol'y.  In  (13)  A  mnst 
+then  be  a  quantity,  diffel'ing-little  ti'om  1;  we  represent  it  by 
+
+In  (14)  B  is  a  quantity  of  order  ~.  We  represent  it  by 
+
+and  take  À  positive.  The  ronstants  ).  and  ft  then  take  the  plaees  0] 
+A  and  B.  If  we  sl1bsutnte  these  constants  in  (21),  tlllS  equalion 
+become5 
+
+1. (cl'!' )2 
+1 
+.  a  - ---;; ;:t  clrp 
+
+1 
+
+1 
+
+- ~ =  lt, 
+
+. 
+
+(21a) 
+
+l' 
+
+1 - - 1 - -
+'I" 
+
+1)1 
+
+The  constants  )  and  (t  are  moderately  great.  The  formula  passes 
+the  ('ol'respondmg  one  of  NEWTON'S  theol'Y,  if  we  put  ft =  0. 
+
+lfIto 
+We  tllel1  obtain 
+
+. 
+
+1  (d1')2 
+
+),2 
+-;- ~ dep  -~=f.,t  , 
+
+1 
+
+(210) 
+
+The  eqllation  gives  rise  to  an  ellipse,  if  (t  is  positi,'e,  to  a  para 
+bola  if  (t = 0,  to  a  hyperbola  if ft  IS  negative,  In  NEWTON'S  theory 
+4!J. < ).4.  In  conseql1ence  of  the  introductlOn  of  the  constants ),  and tL 
+
+, 
+
+tbe  eq uatioflE,  pass  into 
+.'C j tIJ2,'l:3 =f.,ta2  ,  (22a) 
+.'C j +tIJ2+il:3 =  1 
+We  see  from  these  that  the  roots  Xl'  a:" 
+T 3  approach  very  nearly 
+to  1,0,0,  The  quantity  a (i.2  + (tir)  is  positi\'e.  Because  (t < î ),4  the 
+
+.lJ j ,'l: 2 +,1J 2,xs + tIJ 3,1\  =  a (),2+tW), 
+
+to  be  all  1 eaL  ,'1\  is  somewhat  smaller  than  1,  about 
+,1'2'  and  ''Va  are  of  the  order  of  a;  they  are  both  positive  if.f.,t is 
+they  ha,-e  opposite  signs;  {'v8  becomes  zero  if  ft =  0; 
+
+roots  prove 
+('1),2, 
+positive,  e]se 
+We· will  therefore  put 
+
+/1 
+
+,'l: j  = 1 -
+2 am, 
+,'l:z =  a (m + n), 
+,'1: 3  =  Ct  (m  - n). 
+
+Now  '~l + 'V2  + ,1'3  = ° as  it  ollght  to  be;  if  n < m  we  have  to 
+deal  wirh  the  qua~i-elliptic  motion,  if  n > 1n  with  the  quasi-hyper-
+
+14* 
+
+- 16 -
+
+bolie,  if  n =  111  with  the  quasi-parabolic.  The  constants 111  and n take 
+the  places  of  I.  and  (1-.  We  obtain 
+
+" 
+
+212 
+
+I 
+
+el  =f-2 am, 
+e2  = - t + a (m + n),_ 
+es = - t + ti (m- n)  I 
+
+In  (22)  and  (26)  we  now  must  take,  in  the case of elliptic motion, 
+ris = ws'  as  (p  mereases  indefinitely,  z  remaimng  finite.  In  the  case 
+of  the  pal'abolic  and  hyp9rbolic  motion  r  becomes  mfinite  and  so 
+.z = - t;  z  moves  between  es  and  e2  and  again  is = WS'  80  (26) 
+becomes 
+
+a 
+
+- =-} + p(1 cp  + Ws)' 
+
+l' 
+
+Now  we  hM'e  the  formula 
+
+p(tp+w~j=e8+  I 
+
+(e  -e ) (e  - e ) 
+3 
+
+2 
+
+3 
+
+P 1 p-es 
+
+J  and  so 
+
+or  fl'om  (34) 
+
+(34) 
+
+(35) 
+
+This  is  the  equation  of  the  ()t'bit  requiIed.  If we rlOw  let ct  become 
+zero,  es  and  e2  coinClde,  el -13 3  beeo~nes 1,  and  the  p-tullction dege 
+nerates.  'Ve  thell  obtain 
+
+1 
+- =  m-n + 2n sin2  ! cp  = ?n-n cos  (f! 
+
+T 
+
+I 
+
+(35a) 
+
+is  (quasi-)elliptir, 
+
+this  equation  shows  once  more  th at,  if a =1= 0,  fOl' 11  < m the 
+and 
+fOl'  m > n  (quasi)-hypel'bolic,  for  n =  m 
+motion 
+(qu~si)-pal'aboli('.  For  n = 0  it  is  cireular,  also  if  a  is  not  supposed 
+to  be  zero.  The  elliptJc  ease  is  case  12  0,  the  hyperbolic  IS  12  B, 
+the  parabolic  is  12  B,  es  being  supposed  to  be  -- t  thel'e. 
+
+14.  Let  us  now  examine  the  motion  of  the  planets  a  little more 
+IS  the  pel'Îod;  as the p-fnnc 
+
+in  detail.  Equation  (35)  shows  thai  4w I 
+tion  is  almost  degenerated  we  may  take 
+
+A  fll\-thel'  appl'oxJrnation  is  not  necessal'y  as,  aftel'  expandmg  the 
+
+. 
+
+(36) 
+
+-. 
+
+- 17 -
+
+213 
+
+roots 
+in  a  series  of  ascending  powers  of  cc,  the  terms  of  degree  0 
+and  1  do  not  change  any  longer.  From  (36~  it  follows  in  this  way 
+Now  (35)  shows  that  m  -11,  is  the  smallest,  m + n  the  greatest 
+
+4w1 =  2.it'  (1 + t  CIm)  =  2.it' + 3am:r , 
+
+value  of  -,  From  th IS  or  from 
+
+(3511) 
+
+it  follows 
+
+that  m  is  thE' 
+
+,  1 
+r 
+
+reciprocal  value  of  the  parameter  iJ  of  tile  mbIt  and  nim répresents 
+the  excentl'lCIty;  so 
+
+n 
+e= 
+m 
+
+, 
+
+1 
+- m 
+P - -
+
+, 
+
+(37) 
+
+This  glves  for  the  motlOn  of  the  perihehon  per  pel'iod  3a7/r  cor 
+
+respondlllg  to  the  value  calculaled  by  EINSTEIN. 
+
+To  cOIlclnde  we  wil!  calcnlate  the pedodlC tIme.  From (14) fo11ows, 
+
+r Z  drp 
+Bdt=---
+a 
+1 - -
+r 
+
+1f  we  put  lfl  this  a =  0"  we  obtam  the  cOl't'espondmg  equalIon  of 
+therefol'e  expand  the  denommator  and 
+
+NMVTON'S 
+obtam  as  a  th'st  approximation 
+
+theory;  we  may 
+
+Bdt = 1,2  (1 + :) dep = r J  dep  + ardrp, 
+
+, 
+
+, 
+
+• 
+
+(38) 
+
+We  fiU&t  now  substItute  for  l'  the  value  laken  from  (35).  Let  us 
+for  a  moment  mtroduce  the  elJiptic  functIOn  sn  w!th  the  modulus 
+k,  defined  bJ' 
+
+, 
+
+(39) 
+
+, 
+
+(40) 
+
+, 
+
+(41) 
+
+(35)  passes  mto 
+
+V---
+- = m-It + 2n sn'  ~(P  e1 -e3  j 
+1 
+r 
+
+/.,2  IS  of  the  first  order,  and  l'onsequently  very  small.  If  we  put 
+
+sin2  tp) (1  - kZ  sin 2  tp)  d'p 
+
+Siltll,=snicpVeI-ea, 
+
+we  fiud  by  differentIation 
+
+Ol' 
+
+•  cos  ll' dtp = ~ Vel - e3 
+V- -
+~  el-en dIp  =- V 
+
+l-/ (1  -
+
+Now  as  (40)  passes  into 
+
+dtp 
+
+' 
+1 -Ic' sin' tp 
+
+1 
+-=m-n+2nsin'tJ.', 
+r 
+
+(38)  becomes 
+
+- 18 -
+
+214 
+
+. 
+
+~ 
+
+a~ 
+
+! B Vel-ea dt = 
+
+(m-n+2nsin2tW  VI-k 2sin2tIJ 
+
++ -:----:-:-:-::---:--:-;::===::::==::=::=_ 
+(m-n+2nsin 2 l/')  VI-k 2sin 2 tp 
+If ft = k = 0  we  pass  mto  NEIVTON'S  theol'Y.  So in the fit'st fraction 
+the  denominator  and  neglect  k\  etc.,  and  in  lhe 
+we  may  ex pand 
+seeond  fl'action  we  may  put  k =  O.  Puttil:!g  lt,2  =  2an  in  the  first 
+fraction  we  obtain 
+V- -
+el -ea dt = 
+_ 
+-
+
+adt/, 
+dIJ'  +- - - - -
+
+1 + an sin 2  tIJ 
+
+171  -n + 2n sin' tI' 
+
+(m-n+2nsin2tl,)2 
+
+m  n+2nsin 2 tp 
+
+d  _ 
+tp  +-
+
+~ B 
+-
+
+(42) 
+
+iadtp 
+
+l-ta(m -n) 
+(m-n + 2n sin2l/,)2 
+-- V~ (  1-3am+an 
+
+[(Ja  we  get,  eonsidel'ing  (22), 
+)V 
+-
+. 
+2m  1- 2am+a2(m2_n2) 
+
+,'V2 , 
+
+Fl'om  1 he  val u ei:>  of  ''Vl> 
+
+V -
+We  ma)  write 
+
+B  ~  ~_ 
+
+and  so  (42)  passes  into 
+
+I 
+
+B-l (et-ea)-t = 
+V a 
+
+dt =  ( 
+
+-
+2111 
+
+t 
+
+V 2m 
+
+- [I  + 1 a (m  -
+a 
+
+11)] 
+
+dtIJ 
+
+. 2 
+
+)n  + 
+
+-tadtl' 
+
+I 
+
+. 
+
+m-n+2nstn tI' -
+
+'In - n+2nstn2  ti' 
+
+We 
+
+'\\~ilI  caD  tbe  time  in  which  l'  is  periodic  the  pel'iodie  time; 
+
+it  is  the  time  in  winch  (jJ  increases  by  4(01  and tIJ  by  :r.  80 
+
+_ 
+
+;r 
+
+V ar'  j' 
+
+-7=  
+2m 
+o 
+
+1 
+2 
+
+dll' 
+
+(rn-n+ 2nsin 2 ti',' 
+
++~a 
+
+I  dtp 
+
+m-n+2nsin2 tIJ 
+
+. 
+(m2_n2)~ 
+In  connection  with  (37)  we  get  fl'om  this,  a  repl'esenting  half the 
+
+('111 2 _71 2)312 
+
++ 
+
+:rm 
+
+-fan 
+
+7 
+
+J" 
+= 
+
+0 
+
+major  axis: 
+
+q 
+
+Va 
+- - l' = a1ï + .1 aa1ï 
+2:rV2 
+or  with  the  same  degl'ee  of  appl'oximation 
+---Y~ l' = (a  + a)-t. 
+2nV2 
+
+1 
+
+2 '  
+
+We  so  obtain  instead  of  KEPLER'5  third  law 
+
+(a  + a)3 
+a 
+----=-
+8.ït2 
+
+1'2 
+
+. 
+
+(43) 
+
+W'e  can  also  ask  aftel'  the  time  l'equil'ed  by  rp  to  incl'ease by 2:r. 
+time  depencls  on  the  place  fl'om  which  the  planet  starts;  it  is 
+
+This 
+
+-,----
+
+- 19 -
+
+215 
+
+greatest  for 
+the  pel'lhelion,  smallest  fOL' 
+value  of  all  these  times  we  may  consider 
+
+the  aphelion.  As  a  mean 
+
+FOI'  thls  time  KEPU!lR'S  tlurd  law  becomes 
+
+1~ = T(l- ~;} 
+
+(a - 1 ae2e~J: Tt 2  = 8:2 ' 
+
+This  àeviates  fl'om  KEPLER'S  lavIT 
+
+lesB  than  (43). 
+
+Cbemistry.  -
+
+"The  Metaboli81f!  of Aspergilht~ n~qe1'."  Sy Dl'.  H.  J. 
+
+WA'I.'EHMAN.  (Oommunicated  by  Prof.  J.  BOESEKE~.) 
+
+(CommuDlcated  in  the  meeting  of  May  27,  19l6.) 
+
+In 
+
+leseal'ches  descl'lbed 
+
+iu  previous  communications  I) 
+
+I  have 
+demonstrated  that  the  quantity  of  different  elements  accumulated  in 
+the  ceUs  of  Aspe1''[Jillus  n~qe1'  is  subject  to  \'ery great variations.  The 
+investigatioll  was  carl'Ïed  ollt  quantitatively  for  carbon,  nitrogen and 
+phosphorlls  and  qnalitatively  for  the  element  sulphur  Whel'eas from 
+, 100  parts  by  weight  of ,-carbon,  assimilated  as  glucose,  55  parts,  for 
+instanee,  are  absol'bed  aftel'  tbree  days  in  the  fungolls  material, thls 
+aftel'  21  days  amollnts  to  only  31,  s?  not  quite  60°/0  ofthe qllantity 
+origillally 
+taken  up.  The  same  applies  to  the  nitrogen  and  pal:ti 
+culady  to  the  phosphol'uS  in  a  still  higher  degree, 
+Tbe  quantity  of  J1itrogen  present  in  the  cells  falls  in  course  of 
+time  to  2/5-1/3  of  the  quantity  present  in  the  young  eells  and with 
+to  1/7-1/1°'  Also  the  sulphul'  is  accumulated  in 
+phosvhorus  even 
+yonng  celis.  On 
+increasing  age 
+the  superfluous  quantities  of  the 
+said  elements  are  excl'eted, 
+
+the  progressive  course  of  the  hydrogen  and 
+
+On  account  of  experimental  difficulties.I  have  glven  up  the  idea 
+of  detel'mming 
+the 
+oxygen  separately,  but  have  now  decided  to  calclllate  the  sum  of 
+these  two  elements  accumulated  in  different  pel'iods  in  the  fnugous 
+materlal.  Fol',  if  we  know  the  quantity  of  dry  substance,  likewise 
+the  percentage  of  carbon,  nitrogen,  pho&phorus  and  ash, it is possible 
+to  determine  with  sufficient  accuracy  fo)'  my  pllrpose  the  joint 
+amollnt  of  hydrogen  and  oxygen. 
+
+I} 
+
+\'<'olia  microbiologica,  Holländische  Beitrage  ZUl'  gesamten  Microbiologie  I. 
+422  (1912);  These  Proceedings  November  30  (1912)  p.  753,  \'<'ebruary  22  (1913) 
+p,  1047  and  1058,  March  22  antl  April  25  (1913)  p.  1349;  Handelingen  XIVe 
+~ed, Natuur- en  Geneesk,  Congres  p.  125. 
+
+(, 
+
+- 20 -
+
+

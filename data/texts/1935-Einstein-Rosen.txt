@@ -1,0 +1,1538 @@
+JUI Y 1,
+
+ie35
+
+PII YSI CAL REVIEW
+
+VOLUME 48
+
+The Particle Problem in the General Theory of Relativity
+
+A. EINsTEIN AND N. RosEN, Institute for Advanced Study, Princeton
+
+(Received May 8, 1935)
+
+theory.
+
+investigate
+
+The writers
+
+the possibility
+
+By the consideration
+
+and electricity which, while
+
+of an atomistic
+excluding
+theory of matter
+of the field, makes use of no other variables
+singularities
+relativity theory and the p„of
+than the g&„of the general
+of a simple
+the Maxwell
+example they are led to modify slightly the gravitational
+for the static
+equations which then admit
+the
+involve
+spherically
+space by a space
+mathematical
+by a
+of two identical
+"bridge" connecting
+these sheets. One is able to under-
+stand why no neutral particles of negative mass are to be
+
+solutions
+case. These solutions
+
+sheets, a particle being represented
+
+representation
+
+of physical
+
+symmetric
+
+regular
+
+natural
+
+equations
+
+The most
+
+interpretation.
+
+are treated similarly
+
+and electro-
+and lead to a
+
+found. The combined system of gravitational
+magnetic
+similar
+elementary
+charged particle is found to be one of zero mass. The many-
+particle system is expected to be represented
+by a regular
+to a space of
+solution of the field equations
+corresponding
+In this case,
+two identical
+because of the absence of singularities,
+the field equations
+determine both the field and the motion of the particles.
+The many-particle
+problem, v;hich would decide the value
+of the theory, has not yet been treated.
+
+sheets joined by many bridges.
+
+is still
+
+the
+from
+on
+
+N spite of its great success in various fields,
+
+structure
+
+of matter
+
+to the principle
+
+physics
+a unified
+
+far
+foundation
+
+-- present
+theoretical
+being able to provide
+treatment of all phenomena
+which the theoretical
+could be based. We have a general
+relativistic
+theory of macroscopic phenomena, which how-
+ever has hitherto been unable to account
+for the
+and for quantum
+atomic
+effects, and we have a quantum theory, which is
+for a large number
+able to account satisfactorily
+of atomic and quantum phenomena but which by
+of
+its very nature
+is unsuited
+it does not
+these circumstances
+relativity. Under
+to raise the question as to what
+seem superfluous
+extent
+relativity provides
+the possibility of accounting for atomic phenom-
+ena. It is to such a possibility
+that we wish to
+in spite of the
+call attention in the present paper
+fact that we are not yet able to decide whether
+this theory can account for quantum phenomena.
+The publication
+nevertheless
+provides
+minimum of assumptions,
+which has no other diAiculties
+those of a mathematical
+
+is
+in our opinion, because it
+by a
+out of
+to overcome than
+
+characterized
+the carrying
+
+the method of general
+
+a clear procedure,
+
+theoretical method
+
+of
+justified,
+
+nature.
+
+this
+
+The question with which we are concerned can
+be put as follows: Is an atomistic theory of matter
+and electri'city conceivable which, while exclud-
+use of no
+ing singularities
+than those of the gravita-
+other
+field variables
+field (g„„) and those of the electromagnetic
+tional
+(vector poten-
+in the
+field
+tials, p„)?
+
+in the field, makes
+
+sense of Max&veil
+
+that
+
+the fact
+
+in view of
+
+solution for the spherically
+
+One would be inclined to answer
+
+this question
+in the negative
+the
+Schwarzschild
+sym-
+metric static gravitational
+field and Reissner s
+to the case when 'an
+extension of this solution
+electrostatic
+each have a
+the last of the Maxwell
+singularity.
+of the
+equations, which expresses
+divergence of the (contravariant)
+field
+the exis-
+density,
+tence of charge densities, hence also of electrical
+particles.
+
+to exclude in general
+
+field is also present
+
+the vanishing
+
+Furthermore
+
+electrical
+
+appears
+
+brings
+
+For these
+
+as singularities
+
+reasons writers
+
+it actually nullifies
+
+of this was imparted
+
+have occasionally
+noted the possibility that material particles might
+of the field. This
+be considered
+point of view, however, we cannot accept at all.
+For a singularity
+so much arbitrariness
+into the theory that
+its laws.
+in a
+A pretty confirmation
+letter to one of the authors by L. Silbersfein. As
+is well known, Levi-Civita and Weyl have given
+a general method for finding
+axially symmetric
+static solutions
+equations.
+By this method one can readily obtain a solution
+which, except for two point singularities
+lying on
+the axis of symmetry,
+and.
+is Euclidean at infinity. Hence if one admitted
+singularities
+particles one would
+have here a case of two particles not accelerated
+by their gravitational
+interaction, which would
+certainly
+Every field
+physically.
+therefore adhere to
+theory,
+the fundamental
+of
+the field are to be excluded.
+
+in our opinion, must
+
+of the gravitational
+
+as representing
+
+be excluded
+
+is everywhere
+
+singularities
+
+principle
+
+regular
+
+that
+
+73
+
+A. E I NSTE I N AN D N. ROS EN
+
+In the following we shall show that it is possible
+the question we
+
+to do this in a natural way,
+are raising can be answered in the afhrmative.
+
+that
+
+(1. A SPECIAL KIND OF SINGULARITY AND ITS
+
+REMOVAL
+
+The first step to the general
+
+theory of relativity
+to be found in the so-called "Principle of
+
+If in a space free from gravitation
+the
+as being "at
+of
+
+was
+Equivalence":
+a reference system is uniformly
+reference
+rest, " provided
+the space with respect
+gravitational
+exactly described by the metric field'
+
+field. As is well known the latter
+
+to it as a homogeneous
+
+system can be treated
+
+one interprets
+
+the condition
+
+accelerated,
+
+is
+
+xs —dx2 —dx3 +A xg dx4 .
+
+The g„„ofthis field satisfy in general
+
+the equations
+
+(2)
+
+R kl
+and hence the equations
+
+Rp) ——R g,)~=0.
+
+to (1) are regular
+
+(3)
+for all
+of space-time. Nevertheless
+one
+tha. t Eqs. (3) are satisfied by (1)
+~ ~, x4. This is due to
+g of the g„„vanishes
+be-
+and the tensors R'I„-~ and RI,-~ take
+of Eqs. (3)
+a singu-
+
+The g„„corresponding
+finite
+points
+cannot assert
+for at) finite values of xI,
+the fact that the determinant
+for xy = 0. The contravariant
+come infinite
+on the form 0/0. From the standpoint
+the hyperplane
+larity of the field.
+
+x&=0 then represents
+
+therefore
+
+g&'
+
+~
+
+change
+
+so that
+
+essential
+
+We now ask whether
+
+could not be modified
+
+the field law of gravita-
+tion (and later on the field law of gravitation
+and
+in a natural
+electricity)
+the solu-
+way without
+tion (1) would satisfy the field equations
+for all
+i.e., also for x&=0. W. Mayer has
+finite points,
+called our attention to the fact that one can make
+of the g„,,
+R'I„~
+and their
+by multiplying
+them by suitable powers of g. It is easy to show
+this metric field does not
+space but only part of it.
+
+' It is worth pointing out that
+the whole Minkowski
+
+and RI„.~ into rational
+
+two derivatives
+
+functions
+
+first
+
+represent
+Thus,
+
+into (1) is
+
+the transformation
+
+that converts
+
+dS2 = —d$12 —d$22 —d( 2+Cf/42
+
+$1 = x1 cosh (1x4,
+
+$3 =X3,
+&4=x1 sinh nx4.
+
+It follows
+spond to points for which (1) is the metric.
+
+that only those points
+
+for which (I'- f42 corre-
+
+in g'RI, & there is no longer any denominator.
+
+that
+If then we replace (3) by
+
+R *=g'RI, ) ——0,
+
+(3a)
+
+of g.
+The solution
+
+is satisfied by (1) at all
+this system of equations
+finite points. This amounts
+to introducing
+in place
+of the g&" the cofactors Lg~„] of the g~„ in g in
+to avoid the occurrence of denominators.
+order
+One is therefore operating with tensor densities
+of a suitable weight
+In
+instead of with tensors.
+this way one succeeds in avoiding singularities
+of
+that
+by the
+vanishing
+
+special kind which is characterized
+
+no deeper
+into
+to
+the hyper-
+representa-
+
+(1) naturally
+
+has
+
+as it extends
+
+It allows one to see however
+
+the
+
+insofar
+
+significance
+
+regularization
+
+infinity.
+extent
+
+physical
+spatial
+what
+of
+surfaces g=0 leads to a theoretical
+tion of matter,
+the original
+the original
+equations
+
+theory. Thus,
+theory
+R;I,—-'g'aR = —T.I;,
+
+one has
+
+regarded from the standpoint
+in the framework
+
+of
+of
+
+the gravitational
+
+(4)
+
+the
+
+line
+
+element
+
+approximate
+
+where T;I, is the tensor of mass or energy density.
+To interpret
+(1) in the framework of this theory
+by a
+we must
+slightly different one which avoids the singularity
+g=0. Accordingly we introduce a small constant
+0- and let
+ds'= —dx 2 —dx22 —dxa'+(n2x 2+o)dx ~ '
+the smaller
+gravitational
+calculates
+tensor T;k one obtains
+ponents
+
+the nearer does this
+field come to that of (1). If one
+energy
+com-
+
+o ()0) is chosen,
+
+as nonvanishing
+
+from this
+
+(fictitious)
+
+(1a)
+
+the
+
+Tpi ——T2g
+
+n'/o /(1+ n——'x P/o )'.
+We see then that
+the smaller
+one takes
+o. the
+more is the tensor concentrated
+in the neighbor-
+x& ——0. From the stand-
+hood of the hypersurface
+of
+point
+(1)
+theory
+to an
+contains
+energy or mass concentrated in the surface x& ——0;
+from the standpoint
+of the modified theory, how-
+ever, (1) is a solution of (3a), free from singulari-
+the "field-producing mass, "
+ties, which describes
+without
+of
+any new field quantities,
+
+the original
+a singularity which corresponds
+
+the introduction
+
+requiring
+
+solution
+
+this
+
+the
+
+for
+
+It is clear
+
+that all equations
+
+of the absolute
+calculus can be written in a form free
+the tensors are re-
+
+differential
+from denominators, whereby
+placed by tensor densities of suitable weight.
+
+by the surface of symmetry
+
+It is to be noted that in the case of the solution.
+(I) the whole field consists of two equal halves,
+xl ——0,
+separated
+such that for the corresponding
+points (xi, x2, xl,
+xi) and (—xi, x„x3, x4) the g;i, are equal. As a
+result we And that, although we are permitting
+g to take on the value 0 (for
+the determinant
+xi ——0), no change of sign of g and in general no
+index" of the quadratic
+change
+funda-
+form (1) occurs. These features
+from the point of view of the
+mental
+and will be encountered
+interpretation,
+physical
+to be considered
+later.
+again in the solutions
+
+in the "inertial
+
+importance
+
+are of
+
+)2. THE ScHwARzscHILD SQLUTIQN
+
+As is well known,
+
+the
+spherically syInmetric static solution of the gravi-
+tatlonR1 cqUatlons
+
+Schwarzschild
+
+found
+
+ds
+
+1
+
+dl' —r (d0 +sill ed/ )
+
++(I —2m/r)dP,
+
+(5)
+(r &2m, 0 from 0 to ir, @ from 0 to 2ir); the vari-
+ables xl, x2, xs, x4 are here r, 0, p, t. The vanishing
+of the g„„ for 0=0 is unim-
+of the determinant
+(spatial) direc-
+portant,
+tion is not preferred. On the other hand gli for
+r = 2m becomes infinite and hence we have there
+R slngulRI lty.
+
+since the corresponding
+
+If one intmduces
+
+in place of r a new variable
+
+accoldlng to thc cqURtlon
+
+one obtains for ds~ the expression
+ds' = —4(N'+ 2m) du'
+
+—(u'+2m)'(d0'+sin"-ed'')+ — dI'.
+
+u'
+
+s +2tps
+
+(Sa)
+
+Thcsc ncw gfI„ale lcgulR1 functions
+of the variables, For I= 0, however,
+hence also the determinant
+the field equations
+vent
+denominators,
+of the independent
+dealing with a solution of the (new)
+tions, which is free from singularities
+
+foI Rll values
+g44 vanishes,
+g. This does not pre-
+(3a), which
+no
+from being satisfied for all values
+variables. Ke are therefore
+field equa-
+for all finite
+
+have
+
+space
+
+particle
+
+particle
+
+(neutron
+
+example.
+
+the regular
+
+representation
+
+the mathematical
+
+xl ——0 in the previous
+
+u = 0 (or in the original
+points. The hypersurface
+r = 2m) plays here the same role as the
+variables,
+hypersurface
+As u varies from —~ to + ~ „r varies from
++~ to 2m and then again from 2m to +~.
+If one tries to interpret
+solution (Sa)
+in the space of r, 0, @, t, one arrives at the follow-
+ing conclusion. The four-dimensional
+is
+described mathematically
+two
+congruent
+by
+parts or "sheets, " corresponding
+to N&0 and
+r = 2m or
+u &0, which are joined by a hyperplane
+u=0 in which g vanishes. ' We call such a con-
+nection between the two sheets a "bridge. "
+Ke see now in the given solution,
+
+free from
+of
+singularities,
+an elementary
+or neutrino).
+Characteristic of the theory we are presenting
+is
+the description of space by means of two sheets.
+A bridge,
+finite, which connects
+spatially
+these
+sheets characterizes
+the presence of an electrically
+particle. With this concep-
+neutral
+elementary
+tion one not only obtains the representation
+of an
+elementary
+the
+field
+cquatlons,
+thRt
+ncw field
+to describe the density of matter; one
+quantities
+is also able to understand
+the atomistic character
+of matter as well as the fact that
+there can be no
+particles of negative mass. The latter is made clear
+If we had started
+by the followimg considerations.
+from a Schwarzschild
+rn,
+we should not have been able to make the solu-
+tion regular
+u
+instead of r; that is to say, no "bridge" is possible
+to a particle of negative mass.
+that corresponds
+If we consider once more the solution (I) from
+of the information we have ac-
+the standpoint
+quired from the Schwarzschild
+solution, we see
+that
+halves of the
+space for xl&0 and xi&0 can be interpreted
+as
+two sheets each corresponding
+to the same phys-
+ical space. In this sense the example
+represents
+a gravitational
+of x~ and x~,
+which ends
+covered with mass and
+forming a boundary of the space. In this example,
+case, a solution
+as weH as in the Schwarzschild
+at all finite points is made
+free fmm singularities
+the modifie
+possible
+glavl'tatlollRl Eqs. (3R).
+
+there also the two congruent
+
+solution with negative
+
+by the intmduction
+
+only
+lntloduclng
+
+a new variable
+
+by introducing
+
+in a plane
+
+independent
+
+ls, wlthoUt
+
+by using
+
+6CM,
+
+of
+
+' Because
+
+g = 0, the sign of g (loes not change at this hypersurface.
+
+of
+
+the
+
+symmetry
+
+about
+
+the hypersurface
+
+A. E I NSTE I N A N D N. ROSE N
+
+it
+
+introduced
+
+of the original
+
+The main value of the considerations we are
+the way to a
+presenting consists in that they point
+of gravitational mechan-
+satisfactory treatment
+rela-
+ics. One of the imperfections
+tivistic theory of gravitation was that as a field
+theory it was not complete;
+the
+postulate that the law of motion of a
+independent
+particle is given by the equation of the geodesic. '
+A complete field theory knows only fields and not
+and motion. For these
+the concepts of particle
+of the field but are
+must not exist independently
+to be treated as part of it. On the basis of the
+one
+description of a particle without
+has the possibility of a logically more satisfactory
+treatment of the combined problem: The problem
+of the field and that of motion coincide.
+
+singularity
+
+If several particles are present,
+
+this case corre-
+sponds to finding a solution without
+singularities
+of the modified Eqs. (3a), the solution represent-
+sheets connected
+ing a space with two congruent
+by several discrete "bridges. " Every such solu-
+tion is at the same time a solution of the field
+problem and of the motion problem.
+
+In this case it will not be possible to describe
+the whole field by means of a single coordinate
+The
+system without
+to be to choose co-
+simplest procedure
+ordinate systems
+
+in the following way:
+
+introducing
+appears
+
+singularities.
+
+sheets. With respect
+
+(1) One coordinate
+
+system to describe one of
+to this system
+the congruent
+the field will appear to be singular at every bridge.
+system for every bridge,
+to provide a description of the field at the bridge
+of the latter, which is
+and in the neighborhood
+free from singularities.
+
+(2) One coordinate
+
+Between the coordinates
+
+of the sheet system
+and those of each bridge system there must exist
+outside of the hypersurfaces g=0, a regular co-
+de-
+ordinate
+terminant.
+
+with nonvanishing
+
+transformation
+
+f3. CQMEINED FIEI.D. ELEcTRIcITY
+
+The simplest method of fitting electricity into
+theory
+train of
+
+is based on the following
+
+of the general
+
+framework
+
+theory of relativity
+
+into the field equations.
+
+this weakness was formally avoided in the
+of the
+It was clear, how-
+a pro-
+in the sense of a phe-
+
+by the introduction
+
+this was'only
+
+of the theory
+
+that
+
+from the very beginning
+
+in t:erpreta tion.
+
+the conceptual
+of relativity
+' To be sure,
+original
+energy tensor
+ever,
+visory completion
+non&enological
+
+If besides
+field variables
+
+thoughts.
+other
+equations of gravitation
+
+are
+
+the pure gravitational
+are also present,
+
+field
+the field
+
+~ik
+
+g gi k~
+
+Tiki'
+
+where T;k is the "material" energy tensor,
+i.e.,
+that part of the mathematical
+expression of the
+energy which does not depend exclusively on the
+g„„.In the case of the phenomenological
+represen-
+tation of matter —if
+as
+"dust-like, " that
+
+is, without pressure —one takes
+
+is to be considered
+
+it
+
+7'"= p(dx'/ds)
+the velocity-
+where p is the density-scalar,
+vector of the matter. It is to be noted that T44 is
+accordingly a positive quantity.
+
+(dx"/ds),
+
+dx'/ds
+
+In general
+
+this means
+
+that among all
+
+of the left side of
+
+the additional
+equations
+
+field-variables
+that,
+
+satisfy
+in consequence
+such differential
+the divergence T,k. g™vanishes. As
+of them,
+the divergence
+(4) vanishes
+the field
+identically,
+are
+equations
+needed for.their compatibility. Through this con-
+the structure of Tik, not
+dition,
+It appears
+however
+to choose this sign in such a way that
+natural
+(in the limit of the special
+the component
+relativity theory)
+
+is always positive.
+
+in certain cases,
+
+is determined.
+
+exist which
+
+those four
+
+identities
+
+sign,
+
+its
+
+7'4'
+
+The Maxwell
+
+electromagnetic
+
+field, as is well
+antisymmetric
+known,
+field tensor p~„(= Brp„/Bx" Brp„/Bx—&), which satis-
+fies the field equations
+
+represented
+
+by the
+
+is
+
+equations
+
+These
+quence that
+
+have
+
+the well-known
+the divergence of the tensor
+
+conse-
+
+T'k
+
+gg 'k(P PP
+
+Pia Pk
+
+the special
+
+the case of
+
+It so happens
+
+vanishes. The sign has been so chosen that T4 is
+for
+relativity
+positive
+If one puts this Tik into the gravitational
+theory.
+Eqs. (4), then the latter
+together with (6) and
+(7) form a theory .of gravitation
+and electricity.
+the
+negative of the above into the gravitational
+equa-
+tions if it is to be possible to obtain static spher-
+free
+ically symmetric
+elec-
+from singularities,
+trical particles. Making this change of sign one
+finds as the required solution
+
+solutions of the equations,
+could represent
+
+that we are forced to put
+
+which
+
+VAIe TI CLE PROI3LEM I N RELATIVI T Y
+
+y4= c/r,
+
+ds = — —— df
+1 —2m/r —c'/2r"-
+
+(8)
+
+r' (d—O'-+-sin'Od p')+ ~
+
+2m
+
+1 — —
+
+r
+
+2r'/
+
+~
+
+d&'.
+
+the
+
+obviously
+
+in forming
+
+significance
+
+It turns out
+
+enough, one finds
+
+e and m are independent
+
+Here m has
+gravitating mass,
+
+that
+by the electrical
+
+of a
+e that of an electrical charge.
+that also in this case there is no
+a solution without
+singu-
+to the solution just given. 4
+the mass m is
+e, but
+charge
+constants of inte-
+It also turns out that for the removal of
+to take the
+In fact, as we. shall
+free
+for which the mass constant m
+these massless
+ones we
+
+difficulty
+larity corresponding
+Curiously
+not determined
+that
+gration.
+.the singularity
+ponderable mass m positive.
+show immediately,
+from singularities
+vanishes. Because we believe that
+solutions
+will consider here the case m =0.
+
+there exists a solution
+
+are the physically
+
+is not necessary
+
+important
+
+it
+
+The field equations without denominators
+
+can
+
+be written
+
+Ppv = PIA, v
+g'(~'I+ v'-vj
+
+Pv, py
+
+2
+
+g Ppv;ag
+
+va.
+
+lg'~ v -ov')—= o
+
+where in the last equation the term in R has been
+omitted
+of
+(7), by which T is zero.
+
+in consequence
+
+it vanishes
+
+because
+
+If in Eq. (8) (with m=0) one replaces
+
+r by the
+
+variable u according to the equation
+
+u'= r' —e'/2
+
+one obtains
+
+~4=~/(
+ds' =——du' —(u'+ e'/2) (dO'+ si
+
++u-: /2)'
+
+'
+
+Odng')
+
+:.(8a)
+
++L2u'/(2u'+ e') ]dt'
+
+This solution is free from singularities
+
+for all
+in the space of two sheets and the
+by a bridge between
+of an elemen-
+
+finite points
+charge is again represented
+the sheets. It is the representation
+tary electrical particle without mass.
+
+'If we had taken the usual
+
+would involve+a'
+ble, by making a coordinate transformation,
+tion free from singularities.
+
+sign for T,~„-, the solution
+instead of —e'. It would then not. be possi-
+to obtain a solu-
+
+(4. SUMMARY AND GENERAL REMARKS
+
+of
+
+that
+
+regular
+
+If one solves
+
+singularities
+
+If one modifies
+
+equations
+for
+
+occur
+the equations
+
+the
+relativity
+case, with or without
+
+the general
+the static spherically
+an electrostatic
+in the
+in an
+so as to make them free from
+solutigns can be obtained,
+space as consist-
+sheets. The neutral, as well
+is a portion of space
+In the hyper-
+the deter-
+
+of
+theory
+symmetric
+field, one finds
+solutions.
+unessential manner
+denominators,
+provided one treats the physical
+ing of two congruent
+as the electrical, particle
+connecting the two sheets (bridge).
+surfaces of contact of the two sheets
+minant of the g„„vanishes.
+that
+
+in which
+particles take part correspond
+several elementary
+to regular
+solutions of the field equations with
+equivalen t,
+several
+space. Only
+sheets corresponding
+of these solutions will one be
+by investigations
+to which the theory
+the extent
+able to determine
+accounts for the facts. For the present one cannot
+solutions with morc
+even know whether
+regular
+than one bridge exist at all.
+
+two
+to the physical
+
+One might
+
+processes
+
+between
+
+expect
+
+bridges
+
+It appears
+
+the most natural
+
+electrical
+particle in the theory is one without gravitating
+to this
+mass. One
+the electron or proton as a
+theory,
+two-bridge
+
+to consider
+problem.
+
+led, according
+
+therefore
+
+that
+
+the
+
+is
+
+that
+
+that
+it introduces
+
+In favor of the theory one can say that
+
+it ex-
+the atomistic character of matter as well
+plains
+there exist no negative
+as the circumstance
+no new vari-
+neutral masses,
+ables other than the g„„and y„, and that
+in prin-
+ciple it can claim to be complete (or closed). On
+the other hand one does not see a priori whether
+the theory contains
+the quantum phenomena.
+the
+Nevertheless
+that
+the theory may contain them.
+possibility
+Thus it might
+that only such regular
+turn out
+the
+many-bridge
+"charges" of the electrical bridges
+are numeri-
+and only two different
+cally equal
+"masses" occur for the mass bridges, and for which
+to restric-
+the stationary
+in the quan-
+tions like those which we encounter
+tum theory.
+
+one should not exclude a priori
+
+"motions" are subject
+
+to one another
+
+can exist
+
+for which
+
+solutions
+
+In any case here is a possibility
+
+for a general
+relativistic
+is logically
+completely satisfying and which contains no new
+hypothetical
+
+theory of matter which
+
+elements.
+
+

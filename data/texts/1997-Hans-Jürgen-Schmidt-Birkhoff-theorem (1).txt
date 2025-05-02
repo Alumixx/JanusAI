@@ -1,0 +1,999 @@
+7
+9
+9
+1
+
+ 
+
+p
+e
+S
+6
+2
+
+ 
+
+ 
+ 
+
+1
+v
+1
+7
+0
+9
+0
+7
+9
+/
+c
+q
+-
+r
+g
+:
+v
+i
+X
+r
+a
+
+A new proof of Birkhoﬀ’s theorem∗
+
+Hans - J¨urgen Schmidt
+
+Universit¨at Potsdam, Institut f¨ur Mathematik
+
+D-14415 POTSDAM, PF 601553, Am Neuen Palais 10, Germany
+
+Abstract
+
+Assuming SO(3)-spherical symmetry, the 4–dimensional Einstein
+
+equation reduces to an equation conformally related to the ﬁeld equa-
+
+tion for 2–dimensional gravity following from the Lagrangian L =
+|R|1/3.
+
+Solutions for 2–dimensional gravity always possess a local isometry
+
+because the traceless part of its Ricci tensor identically vanishes.
+
+Combining both facts, we get a new proof of Birkhoﬀ’s theorem;
+
+contrary to other proofs, no coordinates must be introduced.
+
+The SO(m)-spherically symmetric solutions of the (m + 1)–dimen-
+sional Einstein equation can be found by considering L = |R|1/m
+in two dimensions. This yields several generalizations of Birkhoﬀ’s
+
+theorem in an arbitrary number of dimensions, and to an arbitrary
+
+signature of the metric.
+
+to appear in Grav. and Cosmol.
+
+∗extended version of a lecture read at the university of Cagliari/Italy April 22, 1997
+
+1
+
+1 Introduction
+
+The Birkhoﬀ theorem states that every spherically symmetric vacuum solu-
+
+tion of Einstein’s general relativity theory is part of the Schwarzschild so-
+
+lution; therefore, the solution possesses a four-dimensional1 isometry group,
+
+at least locally. This theorem has been generalized into several directions,
+
+e.g. to Einstein–Maxwell ﬁelds and to higher dimensions by Bronnikov, Ko-
+
+valchuk and Melnikov in [1].
+
+In the meanwhile it is generally known that the popular formulation “ev-
+
+ery spherically symmetric vacuum solution is static” is misleading, because
+
+inside the horizon, the Schwarzschild black hole is not static. Now, Bondi
+
+and Rindler [2] argued, that even in the absence of a horizon, the use of the
+
+word “static” might be misleading, too.
+
+Both Schmutzer and Goenner [3] cite refs. [4] for the original Birkhoﬀ the-
+
+orem, the historic development can be summarized as follows: “Jebsen (1921)
+
+was the ﬁrst to formulate it and Birkhoﬀ (1923) was the ﬁrst to prove it”.
+
+Hawking, Ellis [5, page 369] gave a proof of it based on B. Schmidt’s method
+
+[6]. A further proof is given in sct. 32.2 of Misner, Thorne and Wheeler [7].
+
+They relate this theorem to the fact that no monopole gravitational waves ex-
+
+ist in Einstein’s theory. The Birkhoﬀ theorem in 2–dimensional pure metric
+
+gravity has been deduced in [8] and generalized in [9]. It possesses analogous
+
+formulations for 2-dimensional dilaton–gravity theories, cf. refs. [10 - 14] for
+
+its recent development.
+
+In ref. [15], Ashtekar, Bicak and B. Schmidt considered those solutions of
+
+the 4–dimensional Einstein equation which possess one translational Killing
+
+ﬁeld. The non-trivial solutions fail to be asymptotically ﬂat; to get nev-
+
+ertheless a sensible notion of energy it turned out to be advantageous to
+
+reformulate the problem as 3–dimensional gravity with additional matter.
+
+1This is the remarkable part of that theorem, because the rotation group SO(3) is only
+
+3–dimensional.
+
+2
+
+At the same formal level, but with another scope as in [15], Romero,
+
+Tavakol and Zalaletdinov [16] reduced the dimension from 5 to 4. One of
+
+their results read: 4–dimensional gravity with matter can be isometrically
+
+embedded into a 5–dimensional Ricci–ﬂat space–time, i.e., into a vacuum
+
+solution of the 5–dimensional Einstein equation.
+
+In the present paper, we follow a similar line as in [15] and [16] and deduce
+
+Birkhoﬀ–type theorems for warped products of manifolds where one of them
+
+is two–dimensional. (Here we use the notion “Birkhoﬀ–type theorem” for any
+
+theorem stating that under certain circumstances the gravitational vacuum
+
+solution has more symmetries than the inserted metric ansatz.) The proof
+
+is done in two steps: First, the D–dimensional Einstein equation will be
+
+reduced to two–dimensional gravity. Second: By applying the fact that the
+
+traceless part of the Ricci tensor identically vanishes in two dimensions, we
+
+always get an additional Killing vector.
+
+As a byproduct, we present a new and coordinate–free proof of the clas-
+
+sical Birkhoﬀ theorem.
+
+The paper is organized as follows: In sct. 2 the warped products are
+
+introduced, in sct. 3 the necessary conformal transformation is explained,
+
+and in sct. 4 the new direct proof of the Birkhoﬀ theorem is given by an
+
+explicit deﬁnition of the additional Killing vector. Sct. 5 shows the detailed
+
+relation to several 2-dimensional theories, and sct. 6 gives the summary.
+
+3
+
+2 Warped products
+
+Let us consider a D-dimensional Riemannian manifold of arbitrary signature
+
+and metric ds2 of the form
+
+ds2 = gαβdxαdxβ = dσ2 + e2U d ˆΩ2
+
+where
+
+is a two-dimensional manifold and
+
+dσ2 = gijdxidxj
+
+d ˆΩ2 = ˆgABdxAdxB
+
+(2.1)
+
+(2.2)
+
+(2.3)
+
+is n–dimensional with n ≥ 1. Hence, D = n + 2 ≥ 3. The indices i, j take
+the values 0, 1; the indices A, B take the values 2, . . . , n + 1; and the indices
+
+α, β cover both of them, i.e., values 0, . . . , n + 1.
+
+We assume that ˆgAB depends on the xA only, and both U and gij depend
+on the xi only. So we have deﬁned ds2 to be the warped product between dσ2
+and d ˆΩ2 with warping function e2U . The purpose of the whole consid-
+eration is to show the following: If ds2 is a D-dimensional Einstein
+space and the dimension of the isometry group of d ˆΩ2 equals k,
+then ds2 possesses a k + 1–dimensional isometry group, at least lo-
+cally. Taking d ˆΩ2 as standard two–sphere, we recover the original Birkhoﬀ
+
+theorem.
+
+The method we want to apply for proving this is ﬁrst to reformulate
+
+the D-dimensional Einstein equation for ds2 as a ﬁeld equation in the 2-
+
+dimensional space dσ2, and second to apply known results [8, 9] from scale–
+
+invariant gravity in 2 dimensions.
+
+4
+
+3 A conformal transformation
+
+To simplify the calculation of the Ricci tensor of ds2, we perform a conformal
+
+transformation in D dimensions as follows:
+
+dˆs2 = ˆgαβdxαdxβ = e−2U ds2
+
+Using eq. (2.1) this implies
+
+where the analogous conformal transformation in 2 dimensions reads
+
+dˆs2 = dˆσ2 + d ˆΩ2
+
+dˆσ2 = e−2U dσ2
+
+gαβ = e2U ˆgαβ
+
+By construction,
+
+and
+
+ˆgiA = 0
+
+ˆgij,A = 0
+
+ˆgAB,i = 0
+
+We denote the D–dimensional Ricci tensor for ds2 by (D)Rαβ, and the 2–
+dimensional Ricci tensor for dσ2 by Rij. For the hatted quantities, we need
+
+not the distinguishing presuperscript because by eqs. (3.2), (3.5), the Ricci
+tensor ˆRij for dˆσ2 and the Ricci tensor ˆRAB for d ˆΩ2 together form the Ricci
+tensor ˆRαβ for dˆs2. The latter fulﬁls ˆRAi = 0 because dˆs2 represents a direct
+product.
+
+The Ricci scalars are denoted as follows:
+
+(D)R for ds2; R for dσ2; (D) ˆR
+for dˆs2; ˆR for dˆσ2; and (n) ˆR for d ˆΩ2. Applying that dˆs2 is a direct product
+
+we get
+
+The assumption that ds2 is an Einstein space reads
+
+(D) ˆR = ˆR + (n) ˆR
+
+(D)Rαβ = Λ gαβ
+
+5
+
+(3.1)
+
+(3.2)
+
+(3.3)
+
+(3.4)
+
+(3.5)
+
+(3.6)
+
+(3.7)
+
+(3.8)
+
+(3.9)
+
+(3.10)
+
+(3.11)
+
+(3.12)
+
+where Λ = 1
+D
+
+(D)R and has a constant value because of D ≥ 3.
+
+2 denotes the 2-dimensional D’Alembertian in dσ2, andˆ2 the analogous
+
+operator in dˆσ2. Eqs. (2.2) and (3.3) imply that
+
+is the metric for dˆσ2. Then for the Ricci tensors the following relation holds:
+
+ˆgij = e−2U gij
+
+ˆRij = Rij + gij 2U
+
+ˆR = (R + 22U) e2U
+
+ˆ2U = e2U 2U
+
+i.e.
+
+we get
+
+The conformal invariance of the 2-dimensional D’Alembertian implies
+
+therefore, eq. (3.10) can be rewritten as
+
+R = ( ˆR − 2ˆ2U) e−2U
+
+Now, we turn to the D-dimensional conformal transformation eq. (3.4),
+
+(D)Rαβ = ˆRαβ − n[Uˆ;αβ − U;αU;β] − ˆgαβ[ˆ2U + nU;γUˆ;γ]
+
+(3.13)
+
+where the “ˆ;” denotes the covariant derivative made with ˆgαβ and
+
+First we insert eq. (3.7) into eq. (3.13) and consider the AB-part of it only.
+
+We get after some algebra
+
+ˆRAB = ˆΛ ˆgAB
+
+(3.14)
+
+U ˆ; γ = ˆg γ µ U; µ
+
+6
+
+where we have applied the abbreviation
+
+ˆΛ = Λe2U + ˆ2U + n U;γ Uˆ;γ
+
+(3.15)
+
+By construction, ˆRAB and ˆgAB depend on the xA only, whereas ˆΛ depends
+on the xi only. Consequently, ˆΛ must be a constant. Remark: For n ≥ 3,
+this statement follows already from the structure of eq. (3.14). For n = 2,
+
+however, it is not obvious from the beginning. Eq. (3.14) expresses the fact
+that d ˆΩ2 must be a n–dimensional Einstein space.
+
+Transvecting eq. (3.14) with ˆgAB we get
+
+(n) ˆR = n ˆΛ
+
+(3.16)
+
+In the next step, we consider the i, j–part of eq. (3.13). We get
+
+Λgij = ˆRij − n[Uˆ;ij − U;iU;j] − ˆgij[ˆ2U + nU;mUˆ;m]
+
+(3.17)
+
+Transvecting eq. (3.17) with ˆgij we get
+
+2 Λ e2U = ˆR − D ˆ2 U − n U;i Uˆ;i
+
+(3.18)
+
+We apply eqs. (3.10), (3.11) and use the notation
+
+U , i = g i j U, j
+
+Then we get
+
+part of the tensor
+
+has to vanish.
+
+R = 2 Λ + n ( 2 U + U,i U ,i )
+
+(3.19)
+
+The remaining of eq. (3.17) consists in the requirement that the traceless
+
+ˆHij = Uˆ;ij − U;iU;j
+
+(3.20)
+
+7
+
+4 The 2-dimensional picture (direct way)
+
+In this section, we consider gravity in two dimensions in the two conformally
+
+related frames dσ2 and dˆσ2, and the additional scalar ﬁeld U. The essential
+
+equations are (3.15), (3.18) and (3.20): They represent the ﬁeld equations in
+
+the hatted frame. To get the equations in the unhatted frame we use eqs.
+
+(3.3) and (3.8). As a result, we have to replace (3.18) by (3.19), (3.15) by
+
+the equation
+
+Λ = ˆΛe−2U − 2U − n U,i U ,i
+
+The tracelessness of the term (3.20) will be transformed to the condition that
+
+(4.1)
+
+(4.2)
+
+is traceless. One can rewrite eq. (4.2) as
+
+Hij = U;ij + U;iU;j
+
+Hij = e−U ( eU );ij
+
+so that the condition is equivalent to say that the traceless part of ( eU );ij
+
+must vanish.
+
+At this point we are able to apply appendix B of ref. [8], where eU now
+
+plays the role of G eq. (B2) of [8].
+
+First case2 : Let U be constant in any region of space. By eq. (4.1) this
+case appears only if Λ and ˆΛ have the same sign. Eq. (3.19) then implies
+R = 2Λ. Consequently, dσ2 represents a 2–surface of constant curvature, and
+
+the warped product eq. (2.1) specializes to a direct product. So we get for
+this ﬁrst case: If the dimension of the isometry group of d ˆΩ2 equals k, then
+ds2 possesses a k + 3–dimensional isometry group, at least locally.
+
+Second case: Let U ; i 6= 0 in any region of space. We choose an orientable
+subregion W of it and ﬁx an orientation there. Then we are allowed to
+
+2i.e., that case where Schwarzschild coordinates cannot be introduced for a spherically
+
+symmetric metric
+
+8
+
+use the covariantly constant antisymmetric pseudotensor ǫij within W . It is
+
+completely deﬁned by ﬁxing the component
+
+Indices will be shifted with the metric gij, and then we deﬁne
+
+ǫ01 = q| det gij|
+
+ξi = ǫij ( eU );j
+
+(4.3)
+
+which is a nowhere vanishing vector ﬁeld in the region W .
+
+[In index–free
+
+notation this can be written as
+
+curl(eU ) which is analogous to the rot-
+
+operator in three dimensions.] Let us calculate its covariant derivative.
+
+ξi;k = ǫij ( eU );j
+;k
+
+Because of eq. (4.2) ( eU );j
+
+;k is c times the Kronecker tensor. Therefore, we
+
+get
+
+ξi;k = ǫij c δj
+
+k = c ǫik
+
+(4.4)
+
+The antisymmetry of the ǫ–pseudotensor proves ξi to be a Killing vector in
+dσ2.
+
+But, in contrast to the ﬁrst case, here it is not immediately clear that an
+
+isometry of dσ2 represents an isometry of ds2.
+
+space. Then by sct. V A of ref.
+
+Subcase 2.1.: Let ξi be a non–vanishing light-like vector in any region of
+[8] dσ2 is ﬂat and of signature (+−). It
+turns out that one of its Killing vectors (not necessarily ξi itself) represents
+also a Killing vector of ds2.
+
+Subcase 2.2.: Let ξi be a non–light–like vector in any region of space.
+
+Then, by construction, it is tangential to the lines of constant values U.
+Therefore ξi represents also a Killing vector of ds2.
+
+In both subcases, we get: If the dimension of the isometry group of d ˆΩ2
+equals k, then ds2 possesses a k + 1–dimensional isometry group, at least
+
+locally.
+
+9
+
+The boundaries of the cases 1 and 2.1., 2.2., can be covered by a continuity
+
+argument.
+
+5 The 2-dimensional picture (way
+
+via fourth-
+
+order gravity)
+
+In this section, we consider gravity in two dimensions in the two conformally
+
+related frames dσ2 and d˜σ2, and the additional scalar ﬁeld U. The three
+
+essential equations are (3.19), (4.1) and (4.2). We repeat them here for
+
+convenience.
+
+R = 2 Λ + n ( 2 U + U,i U ,i )
+
+Λ = ˆΛe−2U − 2U − n U,i U ,i
+
+and the traceless part of
+
+(eU );ij
+
+(5.1)
+
+(5.2)
+
+(5.3)
+
+has to vanish. The idea is to write the D-dimensional Einstein–Hilbert action
+
+for the metric ansatz eq. (2.1). Eqs. (3.6, 3.12, 3.16) can be subsumed to
+
+(D) R = R + nˆΛe−2U − n(n + 1)U,iU ,i − 2n2U
+
+(5.4)
+
+The 2–dimensional Lagrangian is obtained after integrating the n-dimensio-
+
+nal part; the gradient of U can be eliminated from (5.4) by applying the fact
+
+that
+
+(enU U ,i);i = enU (2U + nU ,iU,i)
+
+represents a divergence. Then we get the density
+
+L = [R − (n − 1)2U − nΛ + nˆΛe−2U ]enUq|g|
+
+(5.5)
+
+10
+
+where g = det gij is the two-dimensional determinant, and enU is left over
+
+from the n-dimensional integration. For n = 1 we can take this form as it
+
+stands, but for n > 1 we apply a conformal transformation
+
+˜gij = e(n−1)U gij
+
+to remove the term with 2U. Analogously to eqs. (3.8), (3.12) we get
+
+and the corresponding Lagrangian scalar
+
+˜R = [R − (n − 1)2U]e−(n−1)U
+
+˜L = enU ˜R − nΛeU + nˆΛe−U
+
+fulﬁls L = ˜Lq|˜g|, and it holds: Variation of this L with respect to U and ˜gij
+
+gives a system of equations equivalent to eqs. (5.1, 5.2, 5.3). In the next step
+
+(subsection 5.2.), we try to write this as one single Lagrangian depending on
+
+the two–dimensional metric only, i.e., we want to eliminate the scalar U, and
+this is possible if one takes a Lagrangian non-linear in ˜R as will be shown in
+
+subsection 5.1.
+
+(5.6)
+
+(5.7)
+
+(5.8)
+
+5.1 Transformation between fourth and second order
+
+Here we give a more complete description of that transformation which was
+
+sketched in (2.4), (2.5) of ref.
+Lagrangian in two dimensions, i.e., G = dL
+we assume G > 0) and dG
+
+[9] already. Let L = L(R) be a non–linear
+dR 6= 0 (without loss of generality
+dR 6= 0. The fourth–order ﬁeld equation following
+
+from the variation of Lq|g| with respect to gij has the trace
+
+0 = GR − L + 2G
+
+(5.9)
+
+and the trace–free part of G;ij must vanish. (For dimension 3 or higher, one
+must instead ensure the vanishing of the traceless part of G;ij − GRij which
+
+11
+
+(5.10)
+
+(5.11)
+
+(5.12)
+
+is not an equivalent requirement, see e.g. ref.
+
+[17]. Therefore, the key of
+
+the proof that eq. (4.3) represents a Killing vector is seen to rest on the
+
+dimension 2 where the traceless part of Rij automatically vanishes.)
+
+Now, we introduce a scalar ﬁeld ϕ by G = e−2ϕ. We invert this relation
+
+to R = R(ϕ) which is (at least locally) possible because of our assumptions.
+
+Then we deﬁne
+
+V (ϕ) = e−2ϕR(ϕ) − L(R(ϕ))
+
+and the Lagrangian can now be written as
+
+L(ϕ, R) = e−2ϕ R − V (ϕ)
+
+If we take this L(ϕ, R) as new starting point, then the ﬁeld equations become
+
+equivalent: variation with respect to ϕ simply reads
+
+0 = 2 e−2ϕR +
+
+dV
+dϕ
+
+The variation of Lq|g| with respect to the metric gives the trace
+
+0 = V (ϕ) + 2(e−2ϕ)
+
+(5.13)
+
+and the traceless part of (e−2ϕ);jk vanishes. The two second–order eqs. (5.12,
+
+5.13) on the one hand and the single fourth–order eq. (5.9) on the other hand
+
+are equivalent.
+
+[Let us add the following: We may overcome the singular
+
+point G = 0 by observing that L and L + αR for a constant α give rise to
+
+the same fourth–order ﬁeld equation; the related G will be increased by α,
+
+and the ﬁeld ϕ changes in a non–linear manner.]
+
+Now we go the other direction: Let V (ϕ) be given and we take the La-
+
+grangian (5.11). By eq. (5.12) we calculate R = R(ϕ). First case: This R
+is a constant. This takes place if L = e−2ϕ(R − Λ) with any constant Λ.
+This is the case where the transformation to fourth–order gravity becomes
+
+impossible.
+
+12
+
+Second case: This R is not a constant function. This takes place if the
+
+potential V fulﬁls the inequality
+
+d2V
+dϕ2 + 2
+
+dV
+dϕ 6= 0
+
+(5.14)
+
+Then we can invert to ϕ = ϕ(R) and insert this into L(R) = L(ϕ(R), R).
+
+This is the desired non–linear Lagrangian leading to a fourth-order ﬁeld equa-
+
+tion equivalent that one following from eq. (5.11).
+
+5.2 Application of this transformation
+
+The transformation given in subsection 5.1.
+
+shall now be applied to the
+
+system eq. (5.8) in the tilted version. Eqs. (5.8) and (5.11) get the same
+structure if we put U = −2ϕ/n and
+
+V (ϕ) = nΛe−2ϕ/n − nˆΛe2ϕ/n
+
+(5.15)
+
+Then the tilted version of eq. (5.12) leads to
+
+˜R(ϕ) = e2ϕ[Λe−2ϕ/n + ˆΛe2ϕ/n]
+
+(5.16)
+
+First case: This value ˜R is constant. (For n = 1, we have always ˆΛ = 0, so
+
+that n = 1 is always subsumed under this ﬁrst case.) Then the transformation
+
+to fourth-order gravity is impossible.
+
+Second case: n ≥ 2 and either Λ or ˆΛ is non–vanishing. Then inequality
+(5.14) is fulﬁlled and the fourth–order Lagrangian can be given, but not
+
+always in closed form. Therefore we restrict to two typical examples:
+
+First example: Λ = 0 and ˆΛ = 1. We get the Lagrangian
+
+˜L = (n + 1) ˜R1/(n+1)
+
+(5.17)
+
+In such a context, this Lagrangian was ﬁrst deduced by Rainer and Zhuk,
+
+ref. [18, eq. (3.9)].
+
+13
+
+Second example: Λ = 1 and ˆΛ = 0. We get
+
+˜L = (1 − n) ˜R1/(1−n)
+
+(5.18)
+
+i.e., in both cases we get scale-invariant fourth-order gravity where the Birk-
+
+hoﬀ theorem and the corresponding solutions are known.
+
+6 Summary
+
+We discussed the warped product metric ansatz (cf. eqs. (2.1), (5.6))
+
+ds2 = e(1−n)U (xi)d˜σ2 + e2U (xi)d ˆΩ2
+
+(6.1)
+
+where
+
+d˜σ2 = ˜gij(xk)dxidxj
+
+i, j, k = 0, 1
+
+is a two–dimensional metric and
+
+d ˆΩ2 = ˆgAB(xC)dxAdxB
+
+A, B, C = 2, . . . n + 1
+
+is n-dimensional, n ≥ 1. The question was: Under which circumstances eq.
+(6.1) represents an Einstein space in D = n + 2 dimensions ? First, d ˆΩ2 has
+
+to be an Einstein space in n dimensions, i.e., eq. (3.14) has to be fulﬁlled
+with ˆΛ = const. (it must vanish for n = 1). Second, we introduced the scalar
+
+ﬁeld ϕ via eq. (5.15)
+
+U = −2ϕ/n
+
+and got an equation of 2-dimensional dilaton gravity. The latter can be
+
+rewritten as fourth–order gravity in two dimensions.
+
+To ease reading, we restrict now to the case Λ = 0 and ˆΛ = 1, i.e., ds2 is
+Ricci-ﬂat, and for d ˆΩ2, metric and Ricci tensor coincide (i.e. n ≥ 2). Then
+eq. (5.16) implies
+
+(6.2)
+
+(6.3)
+
+˜R = e2ϕ(n+1)/n
+
+14
+
+Inserting eqs. (6.2), (6.3) into eq. (6.1) we get
+
+ds2 = ˜R(n−1)/(n+1)d˜σ2 + ˜R−2/(n+1)d ˆΩ2
+
+(6.4)
+
+Under these circumstances it holds: Metric (6.4) is D-dimensional Ricci ﬂat
+
+if d˜σ2 is a solution of the 2-dimensional fourth–order scale–invariant gravity
+following from the Lagrangian (5.17) ˜L = (n + 1) ˜R1/(n+1) with ˜R 6= 0. (If
+˜R < 0, we have to write | ˜R| instead of ˜R.) And the solutions of 2-dimensional
+fourth–order scale–invariant gravity are known in closed form. So, we have
+
+not only proven a generalized Birkhoﬀ theorem for such a warped product
+
+of manifolds, but we have also given a procedure how the solutions can be
+
+found in closed form.
+
+To show how this procedure works, let us deduce the spherically sym-
+
+metric vacuum solution of Einstein’s theory in 4 dimensions. To this end
+we put n = 2 into eq. (6.4) and take d ˆΩ2 = dψ2 + sin2 ψdΦ2 as standard
+
+two–sphere. (That every spherically symmetric 4-metric can be written this
+
+way with metric (2.1) is not proven here, but cf. e.g. ref. [6] for this point.)
+Eq. (5.17) reads ˜L = 3 ˜R1/3, this is the case k = −2/3 in the notation of ref.
+[8], hence, by eqs. (19, 22) of [8] we get
+
+d˜σ2 =
+
+dw2
+A(w) − A(w)dy2
+
+(6.5)
+
+4 w−3/2. We put E = 4, and with eqs.
+
+with A(w) = C + E√w and ˜R = E
+(6.4), (6.5) we get
+
+ds2 =
+
+1
+
+√w "
+
+dw2
+
+C + 4√w − (C + 4√w)dy2# + wd ˆΩ2
+
+(6.6)
+
+With w = r2, y = t/2, C = −8m this leads to
+
+ds2 =
+
+dr2
+1 − 2m
+
+r − (1 −
+
+2m
+r
+
+)dt2 + r2[dψ2 + sin2 ψdΦ2]
+
+(6.7)
+
+i.e., the correct Schwarzschild solution. (The generalization to higher dimen-
+
+sion n is straightforwardly done.)
+
+15
+
+The transformation presented here is of a similar structure to that one
+
+presented in [19]; however, in [19] the two–dimensional case for dσ2 was
+
+excluded, and here we solely restricted to that two–dimensional case. In this
+
+sense, both approaches are disjoint. The ansatz eq. (4.3) as Killing vector
+
+for 2–dimensional models has already be applied several times, e.g. in refs.
+
+[8] and [20].
+
+It should be mentioned that at no place the signature of space-time was
+
+used, so the Birkhoﬀ theorem is shown to be valid in any signature. The
+
+direct way in sct. 4 is equivalent to the way via fourth-order gravity in sct.
+
+5. For both ways the whole proof was done in a fully covariant manner, i.e.,
+
+no special coordinates had to be introduced. So we also circumvented the
+
+discussion whether the introduction of Schwarzschild coordinates represents
+
+a loss of generality or not.3 The key element of the proof follows from the
+
+fact that the traceless part of the Ricci tensor in two dimensions identically
+vanishes, i.e., for the scalar U, the traceless part of ( eU );ij must vanish. As
+a consequence, ξi = ǫij ( eU );j could be proven to be a Killing vector.
+
+Valuable comments by S. Mignemi and M. Rainer and ﬁnancial support from
+
+the Deutsche Forschungsgemeinschaft DFG are gratefully acknowledged.
+
+Acknowledgement.
+
+References
+
+[1] V. Ruban, Abstracts Conf. General Relativity GR 8 Waterloo, 303 (1977);
+
+K. Bronnikov and M. Kovalchuk, J. Phys. A: Math. Gen. 13, 187 (1980);
+
+K. Bronnikov and V. Melnikov, Gen. Relat. Grav. 27, 465 (1995).
+
+[2] H. Bondi and W. Rindler, Gen. Relat. Grav. 29, 515 (1997).
+
+3By the way, a direct product between two 2-spaces of constant curvature represents
+
+an example of a spherically symmetric solution of Einstein’s equation with Λ > 0 which
+
+cannot be written in Schwarzschild coordinates.
+
+16
+
+[3] E. Schmutzer, “Relativistische Physik”, Teubner-Verlag, Leipzig 1968; H.
+
+Goenner, Commun. Math. Phys. 16, 34 (1970).
+
+[4] G. Birkhoﬀ and R. Langer, “Relativity and modern physics”, Harvard
+
+University Press, Boston 1923; J. Jebsen, Ark. Mat. Astron. Fys. 15, 18
+
+(1921); W. Alexandrov, Ann. d. Phys. (Leipz.) 72, 141 (1923).
+
+[5] S. Hawking and G. Ellis, “The large scale structure of space–time”, Cam-
+
+bridge University Press 1973.
+
+[6] B. Schmidt, Zeitschr. f. Naturforsch. 22a, 1351 (1967).
+
+[7] C. Misner, K. Thorne and J. Wheeler, “Gravitation”, Freeman, San Fran-
+
+cisco 1973.
+
+[8] H.-J. Schmidt, J. Math. Phys. 32, 1562 (1991).
+
+[9] S. Mignemi and H.-J. Schmidt, Class. Quant. Grav. 12, 849 (1995).
+
+[10] S. Mignemi, Ann. Phys. (NY) 245, 23 (1996).
+
+[11] J. Creighton and R. Mann, Phys. Rev. D 54, 7476 (1996).
+
+[12] R. Balbinot and A. Fabbri, Class. Quant. Grav. 13, 2457 (1996).
+
+[13] M. Katanaev, W. Kummer and H. Liebl, Phys. Rev. D 53, 5609 (1996).
+
+[14] T. Kl¨osch and T. Strobl, Class. Quant. Grav. 13, 965 (1996).
+
+[15] A. Ashtekar, J. Bicak and B. Schmidt, Phys. Rev. D 55, 669 (1997).
+
+[16] C. Romero, R. Tavakol and R. Zalaletdinov, Gen. Relat. Grav. 28, 365
+
+(1996).
+
+[17] H.-J. Schmidt, gr-qc/9703002; Gen. Relat. Grav. 29, 859 (1997).
+
+[18] M. Rainer and A. Zhuk, Phys. Rev. D 54, 6186 (1996).
+
+[19] H.-J. Schmidt, Int. J. Mod. Phys. A 5, 4661 (1990).
+
+[20] T. Banks and M. Loughlin, Nucl. Phys. B 362, 649 (1991); S. Solo-
+
+dukhin, Phys. Rev. D 51, 591 (1995).
+
+17
+
+

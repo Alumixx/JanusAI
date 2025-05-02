@@ -1,0 +1,825 @@
+5
+0
+0
+2
+
+ 
+
+p
+e
+S
+6
+2
+
+ 
+
+ 
+ 
+
+3
+v
+5
+0
+0
+8
+0
+3
+0
+/
+c
+q
+-
+r
+g
+:
+v
+i
+X
+r
+a
+
+THE TOPOLOGY OF SCHWARZSCHILD’S SOLUTION
+
+AND THE KRUSKAL METRIC
+
+SALVATORE ANTOCI AND DIERCK-EKKEHARD LIEBSCHER
+
+Abstract. Kruskal’s extension solves the problem of the arrow of time
+of the “Schwarzschild solution” through combining two Hilbert mani-
+folds by a singular coordinate transformation. We discuss the implica-
+tions for the singularity problem and the deﬁnition of the mass point.
+
+The analogy set by Rindler between the Kruskal metric and the
+Minkowski spacetime is investigated anew. The question is answered,
+whether this analogy is limited to a similarity of the chosen “Bildr¨aume”,
+or can be given a deeper, intrinsic meaning. The conclusion is reached by
+observing a usually neglected diﬀerence: the left and right quadrants of
+Kruskal’s metric are endowed with worldlines of absolute rest, uniquely
+deﬁned through each event by the manifold itself, while such worldlines
+obviously do not exist in the Minkowski spacetime.
+
+1. Introduction: Kruskal’s extension of the Schwarzschild
+
+solution and the arrow of time
+
+In general, a manifold cannot be covered by a single coordinate system.
+An atlas of coordinate systems is required, and it reﬂects the global prop-
+erties of the manifold. An individual coordinate system can be limited by
+its singularities, that may be seen as singularities in the metric topology
+with respect to the coordinate-based topology. Coordinates, however, do
+not matter. Any determination of position or time is ruled by equations of
+motion or structure that are invariant against substitutions of new coordi-
+nates for the old. Hence, a singularity which is physically observable must
+have an expression in invariant quantities.
+
+In a Riemannian manifold, all tensors that can be constructed from the
+metric tensor and its derivatives are the concomitants of the Riemann tensor.
+For a general manifold, the invariants of the Riemann tensor deﬁne singu-
+larities. When these invariants are non-singular, the singularities that limit
+the viability of a coordinate system are not observable – this is the folklore.
+It holds, however, only for a non-degenerate metric. The “Schwarzschild
+metric”1 shows that in algebraically special metrics, where Killing vectors
+
+Key words and phrases. General relativity - Kruskal metric - Rindler spacetime -
+
+Schwarzschild solution.
+
+1Due to compelling historical reasons, made clear [1] in an Editorial Note recently
+appeared in General Relativity and Gravitation, and accompanying an English translation
+of Schwarzschild’s fundamental paper, we shall henceforth call Schwarzschild solution,
+without quotation marks, the original “Massenpunkt” solution that Karl Schwarzschild
+
+1
+
+are invariantly deﬁned, singularities can now exist in the Killing congruences
+also in the case of non-singular curvature invariants. In the “Schwarzschild
+metric”, it is the transition of character of the Killing congruence from
+time-like to space-like that yields a singularity in the acceleration: with
+ξk = [0, 0, 0, 1] and ξi;k + ξk;i = 0, we obtain
+
+1
+2
+
+1
+2
+
+1
+2
+
+and for ui =
+
+ξi√glmξlξm ,
+
+(1.1)
+
+(1.2)
+
+ξi;kξk +
+
+(ξkξk),i = 0 ,
+
+ui;kuk +
+
+(ln ξkξk),i = 0 .
+
+The invariant square of the acceleration is found to be
+
+(1.3)
+
+aiakgik =
+
+(ln ξmξm),i
+
+(ln ξnξn),kgik =
+
+g′
+44g′
+
+44g11(g44)2,
+
+1
+2
+
+1
+4
+
+where the prime denotes derivation with respect to r in, say, Hilbert’s co-
+ordinates. We ﬁnd a singularity at the horizon not in curvature but in
+the Killing congruence.
+It coincides with the change in character, and it
+is measurable through the acceleration necessary to keep a massive body
+stationary at a given position.
+
+Beyond the Schwarzschild horizon, there is no observation for an observer
+with a minimum distance from the horizon. Any object falling onto the
+horizon will not reach it in ﬁnite observer time. The proper time of the
+object, however, is ﬁnite, and the question of extending the manifold beyond
+the horizon is posed. This extension cannot be achieved when the Killing
+time is used as time coordinate. The Killing time is not timelike at all
+“inside” the horizon: its vector is there spacelike. This circumstance entails
+a conﬁrmation of the argument, advanced by Marcel Brillouin [6] already in
+1923, and reported in the Appendix, about a mismatch between the inner
+and the outer problem. As remarked by Rindler [7, 8], if the inner part of
+Hilbert’s solution is accepted as physical, due to the exchange of rˆole that the
+radial coordinate and the time coordinate undergo at Schwarzschild’s two-
+surface, there is no way of drawing the arrows of time both inside and outside
+in a way exempt from contradiction. A simple glance to Fig. 1 (a), reported
+also by Rindler in his articles and books [7, 8], suﬃces for gathering that
+we are confronted with a contradiction. Moreover, it is not a contradiction
+associated with a particular choice of the coordinates. In fact, it is a ﬂaw
+inherent in the geometric structure of the manifold inadvertently chosen by
+Hilbert, a ﬂaw that no one-to-one coordinate transformation can remove, no
+matter whether it is regular or not in the sense of Hilbert and Lichnerowicz
+[4, 9]. This conclusion could have been suﬃcient for discarding Hilbert’s
+
+published [2] in 1916, while the noun “Schwarzschild solution”, or Hilbert solution, is
+reserved to the metric manifold, inequivalent to Schwarzschild’s original one, later provided
+by Droste, Hilbert, Weyl [3, 4, 5] and attributed to Schwarzschild by these authors, as
+well as by nearly all the subsequent writers of relativity.
+
+2
+
+t
+
+time's arrow
+
+r=2m
+
+t
+
+r=2m
+
+time's arrow
+
+time's arrow
+
+r
+
+r
+
+time's arrow
+
+cut
+
+time's arrow
+
+time's arrow
+
+time's arrow
+
+time's arrow
+
+(a)
+
+(b)
+
+(a): r, t representation of Hilbert’s manifold.
+Figure 1.
+Light cones and time’s arrows are drawn, showing that the
+manifold cannot be endowed with a consistent direction of
+time. (b): a cut is made in Hilbert’s manifold, thus allowing
+for a consistent choice of the time’s arrows.
+
+solution, with the inherent puzzle of the two singularities at r = 0 and
+at r = 2m, and for adhering to the solution that Karl Schwarzschild had
+originally proposed.
+
+Coordinates do not matter – locally. The postulate that they shall not
+matter globally means calling manifolds of diﬀerent (deﬁned by the coordi-
+nates) topology equivalent. This is not a necessary deﬁnition of equivalence
+classes. When one includes the (deﬁned by the coordinates) topology as
+characteristic of the manifold, only regular (with regular and non-vanishing
+Jacobi determinant) coordinate transformations relate equivalent manifolds.
+A part of the coordinate singularities become real, in particular the zeros
+of the determinant of the metric tensor. These have been considered in the
+early sixties [10, 11, 12].
+
+The ingenuity of the relativists, as is well known, took instead a quite
+
+diﬀerent route.
+
+2. Cutting and pasting two Hilbert manifolds
+
+The ﬂaw of the Hilbert manifold might be cured if it were possible to
+cut its inner region as is shown in Fig. 1 (b), since then the two disjoint
+inner parts can be endowed with opposite time arrows, thus restoring the
+overall coherence in the direction of time. Of course, after the cut we no
+longer have to do with Hilbert’s manifold, but with a new manifold, whose
+topological properties and physical interpretation are diﬀerent from those
+
+3
+
+prevailing in the previous one. Moreover, the cut introduces an artiﬁcial
+border without any physical raison d’ˆetre, imposed merely by the need to
+solve a contradiction. In order to heal the wound inferted to Hilbert’s man-
+ifold, by following Synge’s original idea [13], one decade later Kruskal and
+Szekeres [14, 15] chose to eﬀect the following audacious act of surgery: paste
+together two Hilbert manifolds, both aﬀected by the same fatal illness, after
+suitably cutting them. One is depicted in Fig. 1 (b); the second one is its
+mirror image in the r, t plane, left to the imagination of the reader. Then
+the upper border of the cut in Fig. 1 (b) is sewn to the upper border of the
+cut in the mirror image manifold, and likewise for the lower borders. This
+way the cuts are sutured, and one gladly recognises that, after the surgery,
+the circulation of the arrows of time is exempt from contradiction. There
+is, however, a negative consequence of the surgical act: it is the impairment
+of the independence of the individual manifolds, with a future singularity
+permanently sewn to its past counterpart. One may well ask: the Kruskal
+extension, is it the solution for the ﬁeld of a mass point? It is, of course,
+when we consider only one of the regions outside the horizon. It is diﬃcult
+to swallow that the inner part should be considered as the ﬁeld of a particle:
+the extension converts the problem of the “inner” time arrow into the para-
+dox of the dissolution of the particle into an initial and a ﬁnal singularity
+with vacuum in the time between.
+
+3. The analogy between the Kruskal metric and the
+
+Minkowski spacetime
+
+The Kruskal manifold was soon noted for its considerable mathemati-
+cal beauty, but looked very remote, from a physical standpoint, from the
+“Schwarzschild solution” and from the problem that the latter had tried to
+solve, after the original solution given by Schwarzschild [2] had been dis-
+carded. Since, due to the contradiction of the arrows of time, Hilbert’s
+solution was useless, only the Kruskal solution seemed available for pro-
+viding, within the theory of general relativity, a metric that could be the
+counterpart of the ﬁeld of a point particle in Newtonian physics, but many
+a relativist, like Rindler, felt necessary to show that the complexity of the
+Kruskal manifold could be reduced to something simpler, and more famil-
+iar to the physicists, although of course not as simple and familiar as the
+gravitational ﬁeld of a point particle in Newton’s theory.
+
+First came an attempt [16] at eliminating the strange duplication present
+in the Kruskal-Szekeres metric, by identifying the pair of events (u, v, ϑ, ϕ)
+and (−u, −v, ϑ, ϕ) in Kruskal’s diagram, drawn in Fig. 2. This attempt
+was however unsuccessful, due to the singularity that such an identiﬁcation
+produces on the two-sphere u = v = 0, and to the ambiguity that this move
+introduces in the direction of time. Then Rindler’s attention was drawn to
+the analogy that he had already brought to light ﬁve years earlier, when
+dealing with the deﬁnition of motion with a constant acceleration in curved
+
+4
+
+spacetime [17]. Let ui be the four-velocity of a test particle in a pseudo
+Riemannian manifold, whose aﬃne connection is Γi
+kl. Then the absolute
+derivative of the four-velocity
+
+(3.1)
+
+ai
+
+≡
+
+dui
+ds
+
++ Γi
+
+klukul
+
+deﬁnes the ﬁrst curvature of the world-line of the particle, i.e.
+its four-
+acceleration [18]. Let the “Schwarzschild metric” be written in terms of
+Hilbert’s spherical polar coordinates r, ϑ, ϕ, t, like in footnote 4.
+It is
+an easy matter to verify [17], that, in keeping with Einstein’s principle of
+equivalence, a test particle in “Schwarzschild” exterior metric, whose spatial
+
+v t
+,
+
+u x
+
+,
+
+Figure 2. In this ﬁgure the “Bildraum” for the Kruskal
+manifold and a spacetime section of the Minkowski metric
+are juxtaposed. The coordinate axes are endowed both with
+Kruskal’s u, v coordinate labels, and with the x, t coordinates
+of the Minkowski reference system. Therefore to each point
+in the u, v “Bildraum” is associated a two-sphere of appro-
+priate curvature radius, while to each point in the x, t rep-
+resentative space is associated a y, z plane of the Minkowski
+spacetime.
+
+coordinates r, ϑ, ϕ are kept constant, is subject to a radially directed four-
+acceleration, whose norm
+
+(3.2)
+
+α = (−aiai)1/2 =
+
+1
+
+r3/2(r − 2m)1/2
+
+,
+
+deﬁned through equation (1.3), is constant. Let us now consider the x, t
+plane of Minkowski spacetime, drawn too in Fig. 2, and calculate the four-
+acceleration of a test particle executing a hyperbolic motion [17] in, say,
+
+5
+
+either the left or the right quadrant of that plane. Its equation of motion
+shall read
+
+where the constant X measures the minimum distance from the origin, at-
+tained by the test particle when t = 0, and the norm of the four-acceleration
+of the test particle is now
+
+x2
+
+− t2 = X 2,
+
+α =
+
+1
+X
+
+.
+
+(3.3)
+
+(3.4)
+
+Rindler noticed [7, 8] that the particle with constant spatial coordinates in
+the “Schwarzschild solution”, when viewed in the u, v “Bildraum”, appears
+to execute a hyperbolic motion too, provided that the Minkowski metric be
+substituted for the Kruskal metric in either the left or the right quadrant
+of the Kruskal manifold. On this initial basis he constructed an articulated
+argument ad analogiam for gaining an understanding of the Kruskal metric
+through the undisputable understanding of the Rindler metric, which is
+merely a matter of special relativity.
+
+4. About using arguments ad analogiam in the theory of general
+
+relativity
+
+A “neo Cartesian”, meant in the jokeful sense that Synge once attributed
+to the noun [19], may well wonder what is the rˆole of arguments ad analogiam
+in the theory of general relativity. One cannot in fact forget that, when
+Hilbert succeeded [20] in formulating the ﬁeld equations of the theory from
+an action principle, he ended the Communication with which he announced
+his achievement by expressing the hope that
+
+damit die M¨oglichkeit naher¨uckt, daß aus der Physik im
+Prinzip eine Wissenschaft von der Art der Geometrie werde:
+gewiß der herrlichste Ruhm der axiomatischen Methode, die
+hier wie wir sehen die m¨achtigen Instrumente der Analysis,
+n¨amlich Variationsrechnung und Invariantentheorie, in ihre
+Dienste nimmt. 2
+
+When Weyl and Levi-Civita obtained [5, 21] the reduction to quadratures
+for the solution of the vacuum ﬁeld equations of general relativity in the
+case of a static, axially symmetric manifold, they did so by availing of the
+so called “canonical coordinates”. Let x0 = t be the time coordinate, while
+x1 = z, x2 = r are the coordinates in a meridian half-plane, and x3 = ϕ is
+the azimuth of such a half-plane; then the line element of a static, axially
+symmetric ﬁeld in vacuo can be written as:
+
+(4.1)
+
+ds2 = e2ψdt2
+
+− dσ2, e2ψdσ2 = r2dϕ2 + e2γ(dr2 + dz2);
+
+2An English translation:“hence the possibility gets close, that from physics originate,
+in principle, a science of the kind of geometry: certainly the most splendid glory of the
+axiomatic method, that here, as we see, takes to its service the powerful instruments of
+analysis, i.e. calculus of variations and theory of invariants.”
+
+6
+
+the two functions ψ and γ depend only on z and r. Remarkably enough, in
+the “Bildraum” introduced by Weyl ψ fulﬁls the potential equation
+
+∆ψ =
+
+1
+
+r (cid:26) ∂(rψz)
+
+∂z
+
++
+
+∂(rψr)
+
+∂r (cid:27) = 0
+
+(4.2)
+
+(4.3)
+
+(4.4)
+
+(ψz, ψr are the derivatives with respect to z and to r respectively), while γ
+is obtained by solving the system
+
+due to the potential equation (4.2)
+
+γz = 2rψzψr, γr = r(ψ2
+
+r − ψ2
+z );
+
+dγ = 2rψzψrdz + r(ψ2
+
+r − ψ2
+
+z )dr
+
+happens to be an exact diﬀerential.
+
+The analogy of equation (4.2) with the corresponding equation in New-
+ton’s theory was indeed impressive, and mathematically helpful. Neither
+Weyl nor Levi-Civita, however, thought of availing of this analogy for gain-
+ing some insight in the physical meaning of the solutions. They knew in fact
+that, when Schwarzschild’s solution [2] is rewritten by using Weyl’s canon-
+ical coordinates, the “source” for the “Newtonian potential” ψ, that then
+happens to appear at the right-hand side of equation (4.2), looks like one
+segment of the z-axis covered by matter with a constant linear mass density.
+But they also knew that this alluring analogy produced in the “Bildraum”
+is deceitful. As noticed by Weyl, the intrinsic form of the “source” is a
+completely diﬀerent one: the segment covered by mass happens in fact to
+be Schwarzschild’s two-surface.
+
+5. Intrinsic viewpoint. The absolute statics of general
+
+relativity
+
+Given the illusory character of the “Bildraum” analogy in the case of
+the solutions of Weyl and Levi-Civita, one shall verify whether the “Bild-
+raum” analogy between the Kruskal metric and Minkowski spacetime has
+some intrinsic content too, that can be expressed in invariant way. We ﬁnd
+in Rindler [7] the assertion that “the Kruskal diagram possesses essentially
+the same invariance properties as the Minkowski diagram”. We shall ask
+whether this claim about a possibly deceitful correspondence between “Bild-
+raum” invariance properties is really meaningful, i.e. whether it can be
+turned into a like claim about intrinsic invariance properties shared by the
+manifolds.
+
+We have already noticed that while each u, v point in Fig. 2 actually
+corresponds to a two-sphere, each x, t point on the same ﬁgure corresponds
+to a y, z plane in Minkowski spacetime. When m → 0, both the original
+Hilbert manifold of Fig. 1 (a) and the manifold with a cut of Fig. 1 (b)
+tend to the Minkowski spacetime. Kruskal’s manifold is obtained by sewing
+together, in the way described in Sec. 2, the cuts of two manifolds like the
+one in Fig. 1 (b). Hence, in the limit of vanishing mass, Kruskal’s manifold
+
+7
+
+happens to be constituted by two Minkowski spacetimes, joined at the event
+r = t = 0. Therefore, already in the limit m → 0, Kruskal’s manifold is
+topologically diﬀerent from the Minkowski manifold.
+An analogy of intrinsic character seems promised by the following fact.
+A test particle executing hyperbolic motion in either the left or the right
+quadrant of the u, v “Bildraum”, and a test particle executing for good a
+hyperbolic motion in Minkowski spacetime, in particular along the world
+lines drawn in the x, t plane of Fig. 2, both execute a motion whose four-
+acceleration is constant in direction and in norm, as shown by Eqs. (3.2)
+and (3.4) respectively. Are these particular motions an intrinsic, common
+feature of both the Kruskal and the Minkowski manifold?
+
+In the Kruskal manifold, these motions occur in quadrants that are static
+in character, if one accepts the usual deﬁnition of “static”. Let Greek indices
+run from 1 to 3. According to the usual deﬁnition, a region of a manifold is
+static if a coordinate system can be chosen for it, in which the square of the
+interval can be written in the form
+
+(5.1)
+
+ds2 = g44dt2 + gµν dxµdxν,
+
+and the nonvanishing components of the metric do not depend on the time-
+like coordinate t. According to this deﬁnition, both the left and right
+Kruskal quadrants and the Minkowski spacetime are static; this fact appears
+to strengthen the analogy between the motions with constant acceleration
+occurring in these manifolds.
+
+The attribution of the adjective “static” to the Minkowski manifold and
+to the Minkowski metric does not seem however to be an entirely convincing
+one. In fact, the notion of staticity is indisputably connected with the notion
+of rest. How is it possible to call “static” the metric of the theory of special
+relativity, a theory that denies intrinsic meaning to the very notion of rest?
+How is it possible that the Minkowski metric remain static, as it does ac-
+cording to our deﬁnition, after we have subjected it to an arbitrary Lorentz
+transformation, i.e. a transformation that entails relative, uniform motion?
+Let us start from the Minkowski metric, given by gik = diag(−1, −1, −1, 1)
+with respect to the Galilean coordinates x, y, z, t, and perform the coordi-
+nate transformation
+
+(5.2)
+
+x = X cosh T, y = Y, z = Z, t = X sinh T
+
+to new coordinates X, Y , Z, T . We get the particular Rindler metric [22],
+whose interval reads
+
+(5.3)
+
+ds2 = −dX 2
+
+− dY 2
+
+− dZ 2 + X 2dT 2.
+
+How is it possible that this metric turn out to be in static form too, despite
+the fact that the transformation (5.2) entails uniformly accelerated motion?
+There is however another deﬁnition of static manifold and metric, that, al-
+though equivalent to the one given previously, is more helpful for solving our
+diﬃculty, because it is expressed in intrinsic language. It says that a metric
+
+8
+
+is static if it allows for a timelike Killing ﬁeld ξi that is also hypersurface
+orthogonal, i.e. fulﬁls both the equations
+
+(5.4)
+
+and
+
+(5.5)
+
+ξi;k + ξk;i = 0,
+
+ξ[iξk,l] = 0.
+
+Both the Kruskal metric in the left and right quadrants and the Minkowski
+metric possess timelike Killing ﬁelds that obey both equations (5.4) and
+(5.5). There is however a fundamental diﬀerence between the two cases,
+whose importance has been somewhat neglected until now. In the case of
+the Minkowski metric, at a given event there is an inﬁnity of timelike Killing
+vectors that fulﬁl both equations (5.4) and (5.5), and this circumstance
+answers our previous questions, since it says in intrinsic language that there
+is no privileged time axis, hence no privileged rest frame in the manifold of
+special relativity.
+
+On the contrary, in the case of the left and right quadrants of the Kruskal
+metric, when m > 0 the timelike vector that obeys both equations (5.4) and
+(5.5) is unique: at any event in the left and right quadrants of the Kruskal
+manifold the metric itself provides a unique, absolute time direction; this
+circumstance allows one to draw through any event a unique worldline of
+absolute rest, that is intrinsic to the manifold. Hence, a worldline in the
+Hilbert manifold for which r > 2m, ϑ and ϕ have constant values is an
+intrinsic worldline of absolute rest.
+
+From this result it follows that the norm of the four-acceleration ai of a
+test particle on one of these worldlines, given by (3.2), is an invariant and
+intrinsic property of the Hilbert and of the Kruskal manifolds. In fact, this
+scalar is a unique outcome of equations (5.4), (5.5) and (3.2). We calculate
+it by availing only of the metric, without making any arbitrary choice. This
+scalar happens to diverge when r → 2m, as shown by equation (3.2). Due to
+the way kept in calculating the norm (3.2), its divergence for r → 2m is as
+intrinsic to the Hilbert and Kruskal manifolds [23, 24] as the divergence, for
+r → 0, of the scalars built with the Riemann tensor and with its covariant
+derivatives.
+Also the norm (3.4) of the four-acceleration of a test particle executing
+a hyperbolic motion in the Minkowski manifold, i.e. staying on a worldline
+with constant values of X, Y , Z in the particular form (5.3) of Rindler’s met-
+ric, diverges when X → 0. This divergent behaviour is however completely
+diﬀerent in nature from the one occurring in the Kruskal and Hilbert mani-
+folds for r → 2m. In fact, the scalar (3.4) is by no means uniquely dictated
+by the metric: in the Minkowski manifold there is an inﬁnity of worldlines of
+hyperbolic motion through a given event; choosing one of them is completely
+arbitrary, and such is also, from an intrinsic viewpoint, the deﬁnition of the
+divergent scalar.
+
+9
+
+6. Appendix: Historical note
+
+When, by further elaborating the geometric interpretation of the gravi-
+tational ﬁeld of a particle envisaged by Synge [13] in 1950, ten years later
+Kruskal [14] and Szekeres [15] succeeded in convincing an inﬂuential minor-
+ity within the relativists that a major breakthrough had been achieved in
+the mathematical understanding of the “Schwarzschild solution”, a major
+problem became soon apparent too: convincing that community that a ma-
+jor breakthrough had been achieved also in the physical understanding. This
+was by no means an easy task: the possibility that the Kruskal extension
+might represent such an achievement was e.g. simply dismissed in 1962 by
+Dirac [25] with a polite touch of nonchalant irony. He noticed:
+
+The mathematicians can go beyond this Schwarzschild ra-
+dius, and get inside, but I would maintain that this inside
+region is not physical space, because to send a signal inside
+and get it out again would take an inﬁnite time, so I feel that
+the space inside the Schwarzschild radius must belong to a
+diﬀerent universe and should not be taken into account in
+any physical theory.
+
+Dirac’s opinion had already been reached [6] four decades earlier by Marcel
+Brillouin, although by availing of a diﬀerent argument. In 1923, after pon-
+dering for months the problem of the “catastrophe Hadamard” occurring
+at Schwarzschild’s singular surface, that had been raised during the discus-
+sions between Einstein and the French scientists gathered at the “Coll`ege
+de France” during the Easter of 1922, Brillouin eventually wrote [6]:
+On peut se demander si cette singularit´e 3 limite l’Univers,
+et s’il faut s’arr`eter a R = 0; ou si, au contraire, elle traverse
+seulement l’Univers, qui continuerait au del`a, pour R < 0.
+Dans les discussions, en particulier, dans celles da P`aques
+1922, au Coll`ege de France, on a g´en´eralement parl´e comme
+si R = 0 caract´erisait une region catastrophique qu’il faut
+depasser pour arriver jusq’`a la v´eritable limite singuli`ere, at-
+teinte seulement pour γ inﬁni, avec R = −2m. A mon avis,
+c’est la premi`ere singularit´e, atteinte R = 0, γ = 0 (m > 0),
+qui limite l’Univers et qu’on ne doit pas d´epasser. [C. R., t.
+175 (27 nov. 1922)].
+
+La raison en est p´eremptoire, quoiqu’on ait n´eglig´e de la
+mettre en ´evidence jusqu’`a pr´esent: Pour R < 0, γ < 0,
+
+3In Brillouin’s paper, the metric
+
+ds2 = γc2dτ 2
+
+−
+
+dR2
+
+− (R + 2m)2(dθ2 + sin2 θdϕ2), γ =
+
+1
+γ
+
+R
+
+R + 2m
+
+is given. c is the velocity of light, θ and ϕ are the usual spherical polar angles, R is the
+radial coordinate. Brillouin’s pondered choice for the limit values of R (0 < R < ∞) puts
+his metric in one to one correspondence with Schwarzschild’s original metric [2].
+
+10
+
+le ds2 ne correspond plus de tout au probl`eme qu’on voulait
+traiter.
+
+With hindsight, it must be recognised that Brillouin had given one good
+reason for discarding Hilbert’s form of the spherically symmetric manifold
+of a massive particle 4, with its troublesome inner region, 0 < r < 2m,
+and for adopting instead the manifold that Schwarzschild had deliberately
+decided to choose [2], when he ﬁrst solved the “Massenpunkt” problem. The
+issue, whether Schwarzschild’s two-surface is intrinsically singular or not,
+and whether transformations of coordinates that cancel the “catastrophe
+Hadamard” are allowed, despite the fact that they infringe the rules for the
+regularity of coordinate transformations laid down by Hilbert [4] already in
+1917, and sharpened by Lichnerowicz [9] in his book of 1955, is with us since
+the very beginning of general relativity.
+It has been widely debated with
+opposite outcomes, if it is true that during forty years since its discovery,
+the overwhelming majority of relativists was convinced that the inner region
+of Hilbert’s solution was unreachable from the outside, while during the
+subsequent four decades an equally overwhelming majority harbored the
+opposite conviction.
+
+Brillouin’s argument, however, does not rely at all on the singular char-
+acter of Schwarzschild’s two-surface. It simply says [6] that, because in the
+inner region of Hilbert’s metric the radial coordinate and the time coordi-
+nate exchange their rˆoles as spatial and temporal coordinate respectively, in
+that region one is no longer considering the problem that one had set out
+to solve.
+
+4It was Leonard Abrams, in a keen paper [26] written in 1989, who ﬁrst noticed that
+the apparent necessity of the choice of the manifold done by Hilbert when he wrote [4]
+the spherically symmetric solution in the form:
+
+ds2 = (cid:18)1 −
+
+2m
+
+r (cid:19) dt2
+
+−(cid:18)1 −
+
+2m
+
+r (cid:19)−1
+
+dr2
+
+− r2(dϑ2 + sin2 ϑdϕ2), 0 < r < ∞,
+
+and handed it down to the posterity as the unique “Schwarzschild solution”, is just due
+to an arbitrary restriction inadvertently imposed by Hilbert in his calculation.
+
+11
+
+References
+
+1. Antoci, S., and Liebscher, D.-E., Gen. Rel. Grav. 35 (2003), 945.
+2. Schwarzschild, K., Sitzungsber. Preuss. Akad. Wiss., Phys. Math. Kl. 1916, 189
+(communicated 13 Jan. 1916). An English translation of this fundamental paper
+can be found in Gen. Rel. Grav. 35 (2003), 951, and also in the Cornell Archive:
+http://arXiv.org/abs/physics/9905030
+
+3. Droste, J., Proc. K. Ned. Akad. Wet., Ser. A 19 (1917), 197. (communicated 27 May
+
+1916).
+
+23 Dec. 1916).
+
+4. Hilbert, D., Nachr. Ges. Wiss. G¨ottingen, Math. Phys. Kl. 1917, 53. (communicated
+
+5. Weyl, H., Ann. Phys. (Leipzig) 54 (1917), 117.
+6. Brillouin, M., J. Phys. Rad. 23 (1923), 43. An English translation can be found in the
+
+Cornell Archive: http://arXiv.org/abs/physics/0002009
+
+7. Rindler, W., in Proceedings of the International Institute of Theoretical Physics, School
+on Relativity, Supersymmetry and Strings, A. Rosenblum (ed.), Plenum Press, New York
+(1990), pp. 77-96.
+
+8. Rindler, W., Relativity, special, general and cosmological, Oxford University Press,
+
+9. Lichnerowicz, A., Th´eories relativistes de la gravitation et de l’´electromagn´etisme, Mas-
+
+Oxford (2001), pp. 258-283.
+
+son, Paris (1955).
+
+10. Treder, H.-J., Ann. Phys. (Leipzig) 9 (1962), 283.
+11. Kreisel, E., Liebscher, D.-E., and Treder, H.-J., Ann. Phys. (Leipzig) 12 (1963), 195.
+12. Kreisel, E., Liebscher, D.-E., and Treder, H.-J., Zur Geometrodynamik, Akademie-
+
+Verlag, Berlin (1967).
+
+13. Synge, J.L., Proc. R. Irish Acad. 53A (1950), 83.
+14. Kruskal, M.D., Phys. Rev. 119 (1960), 1743.
+15. Szekeres, G., Publ. Math. Debrecen 7 (1960), 285.
+16. Rindler, W., Phys. Rev. Lett. 15 (1965), 1001.
+17. Rindler, W., Phys. Rev. 119 (1960), 2082.
+18. Synge, J. L., Relativity: the General Theory, North-Holland, Amsterdam (1960).
+19. Synge, J. L., What is Einstein’s Theory of Gravitation?, in: Hoﬀman, B. (ed.), Essays
+
+in Honor of Vaclav Hlavat´y, Indiana University Press, Bloomington (1966), p. 7.
+
+20. Hilbert, D., Nachr. Ges. Wiss. G¨ottingen, Math. Phys. Kl. 1915, 395 (communicated
+
+20 Nov. 1915).
+
+21. Levi-Civita, T., Rend. Acc. dei Lincei 28 (1919), 3.
+22. Levi-Civita, T., Rend. Acc. dei Lincei 27 (1918), 3.
+23. Antoci, S., and Liebscher, D.-E., Astron. Nachr. 322 (2001), 137. Cornell Archive:
+
+http://arXiv.org/abs/gr-qc/0102084
+
+24. Antoci, S., Liebscher, D.-E., and Mihich, L., Class. Quant. Grav. 18 (2001), 3463.
+
+Cornell Archive: http://arXiv.org/abs/gr-qc/0104035
+
+25. Dirac, P. A. M., Proc. Roy. Soc. (London) A270 (1962), 354.
+26. Abrams, L.S., Can. J. Phys. 67 (1989), 919.
+
+Cornell Archive: http://arXiv.org/abs/gr-qc/0102055
+
+Dipartimento di Fisica “A. Volta” and INFM, Pavia, Italy
+E-mail address: Antoci@fisicavolta.unipv.it
+
+Astrophysikalisches Institut Potsdam, Potsdam, Germany
+E-mail address: deliebscher@aip.de
+
+12
+
+

@@ -1,0 +1,12 @@
+❌ Erreur sur 2017-leaking-neutron-star-1.doc: The command `antiword docs/2017-leaking-neutron-star-1.doc` failed with exit code 1
+------------- stdout -------------
+b''------------- stderr -------------
+b'docs/2017-leaking-neutron-star-1.doc is not a Word Document.\n'
+❌ Erreur sur schwarzschild-fev-1916-fr.pdf: Text extraction is not allowed: <_io.BufferedReader name='docs/schwarzschild-fev-1916-fr.pdf'>
+❌ Erreur sur schwarzschild-jan-1916-fr.pdf: Text extraction is not allowed: <_io.BufferedReader name='docs/schwarzschild-jan-1916-fr.pdf'>
+❌ Erreur sur schwarzschild-jan-1916-fr (1).pdf: Text extraction is not allowed: <_io.BufferedReader name='docs/schwarzschild-jan-1916-fr (1).pdf'>
+❌ Erreur sur schwarzschild-fev-1916-fr (1).pdf: Text extraction is not allowed: <_io.BufferedReader name='docs/schwarzschild-fev-1916-fr (1).pdf'>
+❌ Erreur sur 2017-leaking-neutron-star-1 (1).doc: The command `antiword docs/2017-leaking-neutron-star-1 (1).doc` failed with exit code 1
+------------- stdout -------------
+b''------------- stderr -------------
+b'docs/2017-leaking-neutron-star-1 (1).doc is not a Word Document.\n'

@@ -1,0 +1,910 @@
+	
+
+1	
+
+⎞
+
+	
+
+⎛
+⎝⎜
+ 
+
+L C
+0
+1
+
+Complex	symplectic	mechanics	:	a	toy	model	for	life	?		
+
+Jean-Pierre	Petit1	
+Manaty	Research	Group	
+Abstract	:	We	show	that	the	classical	technique	of	the	symplectic	mechanics	can	be	
+extended	to	a	complex	Hermitean	space,	giving	a	complex	momentum	map	with	
+complex	geometrical	attributes	:	energy,	impulsion,	spin.		
+_____________________________________________________________________________________________________	
+In	1970	the	mathematician	J.M.Souriau	introduces	symplectic	mechanics	[1].	Starting	
+from	the	isometry	group	of	Minkowski	space,	i.e.	the	Poincaré	group	:		
+(1)																																																																		
+⎠⎟		
+where	L	is	the	Lorentz	group,	and	C	the	boost		
+		
+(2)																																																									
+he	computes	the	coadjoint	action	of	the	group	on	the	dual	of	its	Lie	Algebra,	which	gives	
+the	following	momentum	map	:		
+(3)																																																 M' = L M tL + C tP tL − LP tC		
+(4)																																																																						P’	=	L	P		
+where		
+		
+(5)																																																															
+So	that	the	Energy	E	,	the	impulsion	p	and	the	spin	(enclosed	in	the	M	matrix)	appear	
+like	pure	geometrical	objets,	components	of	the	momentum.		
+Surprizingly	this	technique	can	be	easily	extended	to	the	complex	world	[2].		
+																																																								
+1	Jean-Pierre.petit@manaty.net	
+
+Δ x°
+Δ x1
+Δ x2
+Δ x3
+
+E
+px
+py
+pz
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+C =
+
+P =
+
+ 
+
+ 
+
+ 
+
+{
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎝
+
+G =
+
+0
+0
+−1
+0
+
+0
+0
+0
+−1
+
+x° , x1 , x2 , x3
+
+1
+0
+0 −1
+0
+0
+0
+0
+
+2	
+}	by	complex	coordinates	we	
+
+	
+If	we	replace	the	Minkowski	coordinates	 
+may	form	the	4D	Hermitean	space,	whose	metric	is	:		
+(6)																					 ds2 = dx° *dx° − dx1*dx1 − dx2 *dx2 − dx3*dx3		
+This	metric	is	defined	on	a	Hermitean	manifold.		
+Let’s	now	consider	the	real	matrix	G	:	
+		
+(7)																																																				
+and	the	complex	Lorentz	group	defined	as	:		
+(8)																																																																				 *LG L = G		
+*L	stands	for	the	adjoint	of	L.		
+One	can	show	easily	that	the	complex	Poincaré	group	
+⎠⎟	
+(9)																																																																				
+where	C	is	th	complex	boost,	is	an	isometry	group	of	the	Hermitean	space	and	can	be	
+considered	as	a	complex	dynamic	group.	Surprizingly	all	classical	(matrix)	calculations	
+can	be	extended	to	such	complex	framework	by	simply	substituting	the	adjoint	matrices	
+tA.	See	the	annex.		
+*A	to	the	transpose	matrices	 
+As	a	result,	the	complex	momentum	obeys	the	laws	:	
+(10)																																																 M' = L M * L + C* P* L − L P*C		
+(11)																																																																						P’	=	L	P		
+where		
+	
+(12)																																																													
+E	is	a	complex	energy	and	p	a	complex	impulsion.	The	spin,	in	complex	matrix	M,	is	
+complex	too.		
+The	symplectic	approach	creates	a	link	between	pure	mathematics	and	physics.	In	the	
+case	of	such	complex	extension,	what	could	be	its	physical	meaning	?		
+
+L C
+0
+1
+
+E
+px
+py
+pz
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+P =
+
+⎛
+⎝⎜
+ 
+
+⎞
+
+ 
+
+ 
+
+}		
+
+	
+3	
+The	Minkowski	spacetime	can	be	considered	as	the	real	part	of	a	Hermitean	space.	In	
+Minkowski	space	time	we	can	consider	the	null	geodesics	as	the	paths	of	photons,	and	
+the	non-zero	geodesics	as	the	paths	of	particles	with	spin.		
+Notice	that	in	classical	physics	people	only	consider	the	restricted	Poincaré	group,	built	
+on	the	restricted	Lorentz	group.	In	effect	the	Lorentz	group,	as	defined	axiomatically	by			
+t LG L = L		
+(13)																																																																						 
+owns	four	connex	components.		
+-	 Ln	is	the	neutral	component,	whose	elements	keep	the	orientation	of	time	and	space.		
+-	 Ls	elements	invert	space,	not	time.			
+-	 Lt	elements	invert	time,	not	space	
+-	
+Lst	elements	invert	both	time	and	space	
+The	first	two	set	form	the	orthochron	subgroup	  Lo{
+The	next	two	form	the	antichron	set	  La{
+}	
+The	restricted	Poincaré	group	is	:		
+⎟	
+(14)																																																													
+The	corresponding	action	on	the	moment	is	:		
+(15)																																																 M' = Lo M tLo + C tP tLo − Lo P tC		
+(16)																																																																						P’	=	Lo	P		
+The	complete	Poincaré	group	can	be	written	as	:		
+⎟ with λ= ± 1	
+(17)																																																			
+which	gives	:		
+(18)																																																 M' = Lo M tLo + λC tP tLo − λLo P tC		
+(19)																																																																				 P' = λLo P		
+From	(19)	we	see	that	the	time	inversion	goes	with	the	inversion	of	the	energy	,	and	
+mass.		
+	
+
+λLo C
+0
+1
+
+Lo C
+1
+0
+
+⎛
+⎜
+⎝
+ 
+
+⎛
+⎜
+⎝
+ 
+
+⎞
+
+⎠
+
+⎠
+
+⎞
+
+0
+
+⎞
+⎟
+⎟
+⎟
+⎠
+
+		
+
+⎛
+⎜
+⎜
+⎜
+⎝
+ 
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+ 
+
+4	
+
+ζ
+x°
+x1
+x2
+x3
+
+The	Janus	group	
+
+µ 0 φ
+0 Lo C
+0
+1
+
+with µ= ± 1		
+
+	
+A	first	extension	of	the	restricted	Poincaré	groupe	is	:		
+(20)																																																								
+and	acts	on	the	5D	Kalusa	space	:		
+(21)																																																																			
+with	a	new	boost	:		
+(22)																																																																							
+⎟		
+Applying	the	calculation	of	the	action	of	the	momentum,	this	gives	an	additional	
+equation	:		
+(23)																																																																						 q' = µq		
+q	is	the	additional	physical	quantity	corresponding	to	the	translation	along	the	fifth	
+dimension	.	It	is	identified	to	the	electric	charge.	The	inversion	of	the	charge	goes	with	
+the	inversion	of	the	fith	dimension	[3]		.		
+Now	we	can	shift	to	the	Janus	group	:		
+(24)																																									
+and λ= ± 1	
+which	acts	on	the	janus	bimetric	space	([7]		,	[14])				
+(+)	and	
+After	Janus	model	the	universe	is	a	manifold	with	two	metrics	
+to	positive	and	negative	mass.	After	the	Janus	coupled	field	equations	(&&&)	:		
+(25)	
+
+(−)	which	refer	
+
+λµ 0 φ
+0 λLo C
+1
+0
+
+with µ= ± 1
+
+gµν
+ 
+
+gµν
+ 
+
+⎛
+⎜
+⎜
+⎜
+⎝
+ 
+
+φ
+C
+
+⎞
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎝
+ 
+
+⎞
+⎠
+
+0
+
+	
+
+5	
+
+⎠
+
+⎞
+
+(−)
+
+⎡
+⎢
+⎢
+⎣
+
+⎡
+⎢
+⎢
+⎣
+
+1
+2
+
+1
+2
+
+⎛
+⎜
+⎝
+ 
+
+(+) +ϕ
+
+Rµν
+(+) −
+
+R(+)gµν
+
+R(−)gµν
+
+⎤
+⎥
+⎥
+⎦
+⎤
+⎥
+⎥
+⎦
+
+(+) + Tµν
+(−)
+
+(−) = − χ φ
+
+Rµν
+(−) −
+ 
+
+(+) = χ Tµν
+
+g(−)
+g(+) Tµν
+
+g(−)
+g(+) Tµν
+
+λLo C
+1
+0
+
+A	toy	model	for	life.		
+
+	
+Newtonian	approximation	gives	the	gravitational	interaction	laws	:	
+-  Masses	with	same	sign	mutually	attract	through	«	Newton’s	law	»	
+	
+-  Masses	with	opposite	signs	mutuelly	repel	through	«	anti-Newton	»	
+	
+We	may	consider	the	complete	complex	Poincaré	group	:		
+⎟ with λ= ± 1	
+(26)																																																
+where	 Lo	and	C	are	complex	and	λ		real.		
+Concentrate	on	the	movement	of	masses	and	photons	in	the	real	part	of	the	Hermitean	
+space,	i.e.	the	Minkowski	space.	They	corresponds	to	physical	matter,	moving	in	the	
+«	real	physical	world	».		
+Now,		consider	the	imaginary	part	of	our	Hermitean	space.	It	becomes	a	«	metaphysical	
+space	»,	inhabited	by	imaginary	masses	(positive	and	negative).	.		
+The	real	world	is	inhabited	by	real	masses,	positive	and	negative.		They	mutually	repel.	
+Gravitational	interaction	makes	them	form	positive	clusters	(galaxies,	clusters	of	
+galaxies,	stars,	planets).	Nuclear	interaction	gives	a	wide	set	of	atoms.	Electromagnetic	
+forces	produce	molecules	and	biomolecules.		
+What	could	we	find	in	our	metaphysical	world	?	We	may	speculate	that	some	interaction	
+forces	act,	among	the	different	species.	Let’s	assume	that	positive	imaginary	masses	+	im	
+and	negative	imaginary	masses	–im	obey	a	set	of	laws	similar	to	the	one	of	the	real	
+matter.	The	will	tend	to	form	clusters.		
+Let’s	continue	to	play	with	such	toy	model.	We	decide	that	the	positive	species	would	
+represent	«	the	will	»	and	negative	species	the	«	evil	».	We	could	also	imagine	to	
+introduce	«	imaginary	carriers	»,	similar	to	photons.	A	very	rich	and	complex	mixture.		
+In	the	real	world	positive	and	negative	particles	don’t	glue	together.	The	stand	far	apart.	
+This	corresponds	to	the	very	large	structure	of	the	universe	when,	after	the	discoupling,	
+negative	mass	clusters	form,	confining	positive	mass	in	the	remnant	place,	which	form	a	
+lacunar	structure,	tu	be	compared	to	joint	soap	bubbles	([8],	[11]).		
+	The	fate	of	the	real	world	is	ruled	by	physical	laws,	corresponding	to	a	limited	set	of	
+equations.		
+
+	
+6	
+We	could	imagine	that	the	metaphysical	world’s	fate	could	be	ruled	by	unknown	
+metaphysical	rules,	that	would	produce	different	kinds	of	structures.	We	could	compar	
+some	of	them	to	«	souls	»	or	«	spirits	».		
+Now,	what	about	life	?		
+In	this	toy	model	a		living	creature	would	be	a	structure	composed	by	a	body,	i.e.	un	
+certain	set	of	linked	positive	masses	,	plus	a	soul.	If	the	model	is	based	on	a	5D	complex	
+space,	we	may	include	some	metaphysical	electromagnetic	forces	like	interactions		that	
+would	help	the	formation	of	complex	objects,	composed	by	the	two	kinds	of	masses,	
+positive	imaginary	and	negative	imaginary,	i.e.		made	of	«	will	»	and	«	evil	».		
+
+	
+On	the	figure	we	have	figured	two	living	creatures	as	associations	of	(	body	+	soul	).	
+Then	the	«	death	»	correponds	to	the	breaking	of	the	link.	Conversely		the	birth	would	
+correspond	to	the	making	of	the	link.		
+It’s	difficult	to	modelize	conscienceness	based	on	real	matter.	It	could	be	possible	using	
+the	imaginary	particles	and	fields,	and	metaphysical	laws	and	interaction	forces.		
+We	let	the	reader	to	build	his	own	toy	model.		A	job	for	philosophers.		
+	
+References	:		
+[1]	J.M.Souriau	:	Structure	des	systèmes	dynamiques.		Dunod	Ed.	France,	1970	and	
+Structure	of	Dynamical	Systems.	Boston,	Birkhaüser	Ed.	1997	
+	[2]	J.P.Petit	:	A	Symplectic	Cosmological	Model.	Progress	in	Physics,	Vol.	14,	jan.	2018		
+http://www.ptep-online.com/2018/PP-52-09.PDF	
+
+7	
+
+	
+	[3]		J.M.Souriau	:	Géométrie	et	Relativité	(in	french).	Ed.	Hermann	1954	
+	[4]		J.P.Petit,	G.D’Agostini	:	Cosmological	Bimetric	model	with	interacting	positive	and	
+negative	masses	and	two	different	speeds	of	light,	in	agreement	with	the	observed	
+acceleration	of	the	Universe.	Modern	Physics	Letters	
+A,	Vol.29	;	N°	34,	2014	;	Nov	10th	DOI	:10.1142/So21773231450182X	
+	[5]		J.P.Petit	&	G.D’Agostini	:	Cancellation	of	the	singularity	of	the	Schwarzschild	solution	
+with	natural	mass	inversion	process.	Mod.	Phys.	Lett.	A	vol.	30	n°9		
+2015Doi:10.1142/S0217732315500510	
+[6]		J.P.Petit	&	G.D’Agostini	:	Lagrangian	derivation	of	the	two	coupled	field	equations	in	
+the	Janus	Cosmological	Model.	Astrophysics	and	Space	Science	2015,	357	:67Doi	:	
+10.1007/s10509-015-2250-6	
+[7]		J.P.Petit,	G.D’Agostini	:	Negative	Mass	hypothesis	in	cosmology	and	the	nature	of	
+dark	energy.	Astrophysics	And	Space	Science,.	A	29,	145-182	(2014)	
+[8]	J.P.PETIT,	Twin	Universe	Cosmology,	Astrophys.	and	Sp.	Science,	226,	273-307,	1995	
+	[9]	J.	P.	Petit,	Univers	Enantiomorphes	à	flèches	du	temps	opposées,	CRAS	du	8	mai	1977.	
+t.	285,	pp.	1217–1221	(1977).	
+[10]	J.	P.	Petit,	Univers	en	interaction	avec	leur	image	dans	le	miroir	du	temps,	CRAS	du6	
+juin,	t.	284,	série	A,	pp.	1413–1416	(1977).	
+[11]	J.P.Petit,	G.	D’Agostini,	N.Debergh	:	Physical	and	mathematical	consistency	of	the	
+Janus	Cosmological	Model	(JCM).	Progress	in	Physics	2019	Vol.15	issue	1	
+[12]	J.	P.	Petit,	P.	Midy	and	F.	Landhseat,	Twin	matter	against	dark	matter,	int.	Conf.	
+onAstrophysics	and	Cosmology,	Where	is	the	Matter?,	Tracing	Bright	and	Dark	Matter	
+with	the	New	Generation	of	Large-Scale	Surveys	(Marseille,	France,	June	2001).	
+[13]	J.	P.	Petit,	Nuovo	Cimento	B.	The	missing	mass	problem.		109,	697	(1994).	
+[14]	J.	P.	Petit	and	G.	D’Agostini,	J.P.Petit,	Negative	mass	hypothesis	in	cosmology	and	the	
+nature	of	dark	energy.	Astrophysics	and	Space	Science,	2014	sept.	20	th	
+[15]	J.P.Petit,	P.Midy	and	F.Landsheat:	Twin	matter	against	dark	matter.	Intern.	Meet.	on	
+Atrophys.	and	Cosm.	"Where	is	the	matter	?	",	Marseille	2001	june	25-29	
+		
+
+	
+
+8	
+
+⎞
+
+⎛
+⎝⎜
+
+⎞
+⎠
+
+⎛
+⎜
+⎝
+
+g =
+ 
+
+Z =
+ 
+
+Annex		
+
+⎠⎟	
+
+L C
+0
+1
+
+Gω γ
+0
+0
+
+⎟ ω= antisymmetric matrix		
+
+	
+	
+Consider	the	complex	Poincaré	group		
+	(1)																																																																			
+	The	element	of	its	complex	Lie	algebra	is		
+(2)																																											
+We	form		
+(3)																																																																	 Z' = g−1 Z g		
+we	get		
+(4)																																								
+as	 G G = I	and		 L−1 = G * L G		
+(5)																																																																				 ω' = * LωL		
+(6)																																																								 γ' = G * LωC + G * LGγ		
+The	complex	momentum	of	the	complex	Poincaré	group	will	be	denoted	:		
+} with * M = − M		
+(7)																																																	 µ= M , P
+and	will	be	defined	by	the	identity	:	
+) + * PGγ		
+(8)																																																							
+Introduce	the	duality	relationship	:	
+(9)																																					
+We	get		
+(10)																			
+The	identification	on	the	γ	terms	gives		
+
+) + * P' G γ'	
+) + * P' LωC + * P' * LGγ	
+
+L−1GωL GωC+ L−1γ
+
+Gω' γ'
+0
+
+) + * PGγ =
+
+) + * PGγ =
+
+Tr M' * LωL
+
+Tr Mω(
+
+Tr Mω(
+
+Tr Mω(
+
+Tr M'ω'
+
+⎟	
+
+⎞
+⎟ =
+⎠
+
+µ≡
+ 
+
+1
+2
+ 
+
+1
+2
+ 
+
+⎛
+⎜
+⎝
+ 
+
+1
+2
+
+1
+2
+
+1
+2
+
+⎛
+⎜
+⎝
+
+{
+
+(
+
+(
+
+0
+
+0
+
+0
+
+⎞
+
+⎠
+
+(
+
+(
+
+(
+
+(
+
+(
+
+1
+2
+
+1
+2
+ 
+
+) =
+
+9	
+
+Tr Mω(
+
+Tr L M' * Lω
+
+) = Tr L M' * Lω
+
+	
+(11)																																																		 *P = * P'* L → P = L P'		
+In	the	trace	one	can	achieve	a	circular	permutation		
+)		
+(12)																																									 Tr M'* LωL
+The	identification	on	the	ω		terms	gives	:		
+) + * P' * LωC		
+(13)																															
+The	second	term	of	the	second	member	is	equal	to	thje	product	of	a	line-matrix	by	a	
+column-matrix.	This	being	equal	tu	the	reversed	product.	Hereafter,	schematically,	the	
+product	of	a	line-matrix	by	a	column-matrix	:		
+)		
+(14)																																																		 *P' * LωC = Tr * LωC * P'
+In	the	trace	we	can	achieve	a	circular	permutation	:		
+)	
+(15)																																															 *P' * LωC = Tr C * P' * Lω
+whence		
+(16)																						
+where	is	an	antisymmetric	matrix.	We	know	that	a	matrix’	trace	is	equal	to	the	product	
+of	another	matrix	by	a	symmeytrical	matrix.	Any	matrix	can	be	symmetrized	or	
+antisymmetrized.		In	addition	thje	trace	of	the	product	of	a	matrix	by	an	antisymmetric	
+matrix	is	zero.		Whence	:		
+(17)																																									 
+	We	can	apply	that	to	the	matrix	 C * P * L		why	we	take	the	trace	of	its	product	by	an	
+antisymmetric	matrix	ω		
+(18)																														 C * P * L = sym C * P * L
+But		
+(19)																																																			 
+So	that	:		
+(20)																											 
+(21)																											
+
+⎤⎦ = Tr antisym C * P * L
+
+) + antisym C * P * L
+
+) = Tr antisym A(
+
+⎤⎦ = 0		
+
+C * P * L + * C * P * L
+
+Tr sym C * P * L
+
+Tr C * P * L ω
+
+Tr L * M * L ω
+
+Tr C * P' * L ω
+
+Tr Aω(
+
+Tr Mω(
+
+⎤⎦		
+
+)		
+
+)		
+
+) ×ω
+
+) ×ω
+
+) ×ω
+
+⎤⎦		
+⎤⎦		
+
+) =
+
+) +
+
+) =
+
+1
+2
+ 
+
+1
+2
+
+1
+2
+
+(
+
+⎡⎣
+
+⎡⎣
+
+(
+
+(
+
+(
+
+)
+
+(
+
+(
+
+⎡⎣
+
+(
+
+(
+
+⎡⎣
+
+antisym C * P * L
+ 
+
+⎡⎣
+1
+2
+
+(
+
+(
+
+10	
+
+) = * P * L
+
+)*C = L P *C		
+
+	
+(33)																																							 * C * P * L
+(34)																																
+(35)																																
+Finally	
+(37)																																							 M = L M' * L + C * P' * L − L P' *C		
+(38)																																																															 P = L P'		
+We	can	interchange	M	and	M’	,	P	and	P’	and	we	get	the	same	forlae	for	the	complex	
+moment	map,	just	changing	«	transposed	»	by	«	adjoint	»	:		
+
+antisym C * P' * L
+ 
+
+Tr C * P' * L − L P' *C
+
+Tr C * P * L
+ 
+
+C * P' * L − L P' *C
+
+)		
+
+)		
+
+) =
+
+) =
+
+1
+2
+
+1
+2
+
+(
+
+(
+
+(
+
+(
+
+M' = L M * L + C * P * L − L P *C
+
+	
+
+ 
+
+P' = L P
+
+We	can	put	the	momentum	into	a	matrix	form	:		
+(39)																																																											
+⎟		
+and	the	action	of	the	complex	Poincaré	group	becomes		
+(40)																																																												
+		
+
+M − P
+*P
+0
+
+µ=
+ 
+
+⎞
+⎠
+
+⎛
+⎜
+⎝
+
+  µ' = g µ*g
+
+

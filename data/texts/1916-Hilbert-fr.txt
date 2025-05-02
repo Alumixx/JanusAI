@@ -1,0 +1,294 @@
+
+David Hilbert
+
+LES FONDEMENTS DE LA PHYSIQUE
+
+(Die Grundlagen der Physik)
+(SECONDE COMMUNICATION)
+Traduction française de G.D’Agostini
+Libre de droits
+
+Publié à l'origine sous le titre "Die Grundlagen der Physik. (Zweite Mitteilung)" dans Nachrichten von der Königlichen Gesellschaft der Wissenschaften zu Göttingen. Math.-phys. Klasse. 1917. p. 53-76. Présenté lors de la séance du 23 décembre 1916.
+
+Dans ma première communication je proposais un système d'équations de base de la physique. Avant d'aborder la théorie de l'intégration de ces équations, il semble nécessaire de discuter de certaines questions plus générales de nature logique autan que physique.
+Tout d'abord, nous introduisons, à la place des paramètres spatiaux (s=1,2,3,4), les paramètres réel les plus généraux de l'espace-temps en posant
+
+et par conséquent, à la place de
+
+nous écrivons simplement
+
+Les nouveaux - les potentiels gravitationnels d'Einstein - seront alors tous des fonctions réelles des variables réelles  (s=1,2,3,4), d'un type tel que, dans la représentation de la forme quadratique
+comme une somme de quatre carrés de formes linéaires  dont trois carrés sont toujours de signe positif, et un carré avec un signe négatif : ainsi la forme quadratique (28) fournit notre espace quadridimensionnel des  avec la métrique d'une pseudo-géométrie.
+Le déterminant  de  s'avère être négatif.
+Si une courbe
+
+est donnée dans cette géométrie, où  signifie certaines fonctions réelles arbitraires du paramètre p, alors elle peut être divisée en morceaux de courbes sur chacune desquelles l'expression
+
+ne change pas de signe : Un morceau de courbe pour lequel
+
+sera appelé un segment et l'intégrale le long de ce morceau de courbe
+
+est la longueur du segment; un morceau de la courbe pour lequel
+
+sera appelé ligne de temps et l'intégrale
+
+évaluée le long de ce morceau de courbe sera le temps propre de la ligne de temps ; enfin un morceau de courbe le long duquel
+
+sera appelé une ligne nulle.
+Pour visualiser ces concepts de notre pseudo-géométrie, nous imaginons deux dispositifs de mesure idéaux : le fil de mesure au moyen duquel nous sommes capables de mesurer la longueur  de n'importe quel segment, et d'autre part l’horloge de lumière avec laquelle nous pouvons déterminer le temps propre de n'importe quelle ligne de temps. Le fil indique zéro et l'horloge de lumière s'arrête le long de toute ligne nulle, alors que le premier échoue totalement le long d'une ligne de temps, et le second le long d'un segment.
+Nous montrons d'abord que chacun des deux instruments suffit pour calculer avec son aide les valeurs de  comme fonctions de  dès qu'un système de coordonnées spatio-temporel défini  est introduit. En effet, nous choisissons un ensemble quelconque de 10 segments, qui convergent au même point de l’espace  depuis des directions différentes, de sorte que ce point d'extrémité suppose la même valeur de paramètre p sur chacun. A ce point final, nous avons l'équation, pour chacun des 10 segments,
+
+ici les termes de gauche sont connus dès que l'on a déterminé les longueurs  au moyen du fil. Nous introduisons les abréviations
+
+de sorte que clairement
+d'où également la condition sur les directions des 10 segments choisis au point 
+
+apparait être nécessaire.
+Lorsque G a été calculé selon (29), l'utilisation de cette procédure pour n'importe 11ème segment se terminant en  donnerait l'équation
+
+et cette équation permettrait alors à la fois de vérifier l'exactitude de l'instrument et de confirmer expérimentalement que les postulats de la théorie s'appliquent au monde réel.
+Le même raisonnement s'applique à l'horloge de lumière.
+La construction axiomatique de notre pseudo-géométrie pourrait être réalisée sans difficulté : il faudrait d'abord établir un axiome d'où il résulte que la longueur resp. le temps propre doivent être des intégrales dont l'intégrant n'est qu'une fonction des  et de leurs dérivées premières par rapport au paramètre; la propriété de développement du fil ou le théorème bien connu de l'enveloppe pour les lignes géodésiques serait approprié pour un tel axiome. Deuxièmement, il faut un axiome qui permette de valider les théorèmes de la géométrie pseudo-euclidienne, c'est-à-dire l'ancien principe de relativité, dans les régions infinitésimales ; pour cela, l'axiome énoncé par W. Blaschke serait particulièrement approprié, qui stipule que la condition d'orthogonalité de deux directions quelconques - segments ou lignes temporelles - sera toujours une relation symétrique.
+Résumons brièvement les principaux faits que la théorie de Monge-Hamilton des équations différentielles nous enseigne pour notre pseudo-géométrie.
+A chaque point  de l’espace est associé un cône du second ordre, de sommet en  et déterminé au point courant de coordonnées  par l'équation
+
+on l'appellera le cône nul appartenant au point . L'ensemble des cônes nuls forme un champ de cônes quadridimensionnel, qui est associé d'une part à "l'équation différentielle de "Monge" 
+
+et d'autre part à l'équation aux dérivées partielles de Hamilton
+où H désigne la forme quadratique
+
+réciproque à G. Les caractéristiques de l'équation différentielle partielle de Monge et en même temps celles de Hamilton (30) sont les lignes géodésiques nulles. Toutes les lignes nulles géodésiques ayant pour origine un point particulier de l’espace génèrent une variété de dimension 3, que nous appellerons la division temporelle appartenant au point de l’espace . Cette division a un nœud dont le cône tangent est précisément le cône nul appartenant à  . Si nous transformons l'équation de la ligne de partage du temps sous la forme
+
+puis
+
+est une intégrale de l'équation différentielle de Hamilton (30). Toutes les lignes temporelles ayant pour origine le point  restent totalement à l'intérieur de cette partie quadridimensionnelle de l’espace dont la limite est la division temporelle de .
+Après ces préparatifs, nous abordons le problème de la causalité dans la nouvelle physique.
+Jusqu'à présent, tous les systèmes de coordonnées qui résultent d'une transformation arbitraire ont été considérés comme également valables. Cet arbitraire doit être restreint
+quand on veut réaliser le concept selon lequel deux points de l’espace sur la même ligne de temps peuvent être reliés comme cause et effet, et qu'il ne devrait plus être possible de transformer ces points de l’espace comme étant simultanés. En déclarant comme la véritable coordonnée temporelle, nous adoptons la définition suivante :
+Un véritable système de coordonnées spatio-temporelles est un système pour lequel les quatre inégalités suivantes sont respectées, en plus de  :
+Une transformation qui transforme un tel système de coordonnées spatio-temporelles en un autre véritable système de coordonnées spatio-temporelles est appelée une véritable transformation de coordonnées spatio-temporelles.
+Les quatre inégalités signifient qu'en tout point de l’espace  le cône nul associé exclut la ligne d'espace 
+
+mais contient en son intérieur la ligne 
+
+cette dernière ligne est donc toujours une ligne temporelle.
+Soit une ligne temporelle quelconque  donnée ; du fait que 
+
+il s'ensuit que dans un véritable système de coordonnées spatio-temporelles, nous devons toujours avoir
+
+et donc que le long d'une ligne temporelle, la véritable coordonnée temporelle  doit toujours augmenter resp. diminuer. Puisqu'une ligne temporelle reste une ligne temporelle lors d’une quelconque transformation de coordonnées, ne peuvent jamais recevoir la même valeur de la coordonnée temporelle par le biais d'une véritable transformation spatio-temporelle ; c'est-à-dire qu'ils ne peuvent après transformation devenir simultanés.
+D'autre part, si les points d'une courbe pouvaient être véritablement transformés pour être simultanés, alors après cette transformation, nous aurions pour cette courbe
+
+donc
+
+et ici le côté droit est positif à cause des trois premières de nos inégalités (31) ; la courbe caractérise donc un segment.
+Nous voyons donc que les concepts de cause et d'effet, qui sont à la base du principe de causalité, ne conduisent pas non plus à des contradictions internes quelconques dans la nouvelle physique, si nous considérons que les inégalités (31) font toujours partie de nos équations de base, c'est-à-dire si nous nous limitons à utiliser les véritables coordonnées spatio-temporelles.
+A ce stade, prenons note d'un système spécial de coordonnées spatio-temporelles qui sera utile par la suite et que j'appellerai le système de coordonnées gaussien, car il s'agit de la généralisation du système coordonnées polaires géodésiques introduit par Gauss dans la théorie des surfaces. Dans notre espace à quatre dimensions, un espace tridimensionnel quelconque est donné de sorte que toute courbe confinée dans cet espace soit un segment : un espace de segments, comme j'aimerais l’appeler ; soit  les coordonnées d’un point quelconque de cet espace. Nous allons maintenant construisons en chaque point  de cet espace, la géodésique orthogonale à celui-ci, qui sera une ligne temporelle, et sur cette ligne, nous marquons  le temps propre ; le point de cet espace quadridimensionnel ainsi obtenu reçoit les coordonnées . Dans ces coordonnées, nous avons, comme on le voit facilement,
+c'est-à-dire que le système de coordonnées gaussien est caractérisé analytiquement par les équations suivantes
+En raison de la nature de l'espace tridimensionnel  que nous avons présupposé, la forme quadratique du côté droit de (32) dans les variables  est nécessairement définie positive, donc les trois premières des inégalités (31) sont satisfaites, et puisque cela s'applique également à la quatrième, le système de coordonnées gaussien s'avère toujours être un véritable système de coordonnées spatio-temporel.
+Nous revenons maintenant à l'étude du principe de causalité en physique. Comme contenu principal, nous considérons le fait, valable jusqu'à présent dans toutes les théories physiques, qu'à partir de la connaissance des grandeurs physiques et de leurs dérivées temporelles dans le présent, les valeurs futures de ces grandeurs peuvent toujours être déterminées : sans exception, les lois de la physique jusqu'à présent ont été exprimées dans un système d'équations différentielles dans lequel le nombre des fonctions qui y apparaissent était essentiellement le même que le nombre d'équations différentielles indépendantes ; et ainsi le théorème général bien connu de Cauchy sur l'existence d'intégrales d'équations différentielles partielles offrait directement la justification de la preuve du fait ci-dessus.
+Or, comme je l'ai particulièrement souligné dans ma première communication, les équations fondamentales de la physique (4) et (5) établies là ne sont nullement du type caractérisé ci-dessus; au contraire, selon le Théorème I, quatre d'entre elles sont une conséquence des autres : nous avons considéré les quatre équations de Maxwell (5) comme une conséquence des dix équations gravitationnelles (4), et ainsi nous n'avons pour les 14 potentiels  que 10 équations (4) qui sont essentiellement indépendantes les unes des autres.
+Dès lors que nous maintenons l'exigence d'invariance générale pour les équations de base de la physique, la circonstance que nous venons de mentionner est essentielle et même nécessaire. Car s'il y avait d'autres équations invariantes, indépendantes de (4), pour les 14 potentiels, alors l'introduction d'un système de coordonnées gaussien conduirait aux 10 quantités physiques selon (33),
+
+à un système d'équations qui seraient à nouveau mutuellement indépendantes, et mutuellement contradictoires, car il y en a plus de 10.
+Dans de telles circonstances, comme c'est le cas dans la nouvelle physique de la relativité générale, il n'est en aucun cas possible, à partir de la connaissance des grandeurs physiques présentes et passées, de déduire de manière unique leurs valeurs futures. Pour le montrer intuitivement sur un exemple, que nos équations de base (4) et (5) de la première communication soient intégrées dans le cas particulier correspondant à la présence d'un seul électron en permanence au repos, de sorte que les 14 potentiels
+
+
+deviennent des fonctions définies de  toutes indépendantes du temps  et en outre de telle sorte que les trois premières composantes  de la densité de quatre courants disparaissent. Ensuite, nous appliquons à ces potentiels la transformation de coordonnées suivante :
+
+Pour  les potentiels transformés  sont les mêmes fonctions de  que  de celles des variables d'origine, alors que  pour  dépendent de manière essentielle également de la coordonnée temporelle , c'est-à-dire que les potentiels  représentent un électron qui est au repos   jusqu'à ce qu'il mette ses composantes en mouvement.
+Néanmoins, je crois qu'il est seulement nécessaire de formuler plus nettement l'idée sur laquelle repose le principe de la relativité générale, afin de maintenir le principe de causalité également dans la nouvelle physique. C'est-à-dire que, pour suivre l'essence du principe de la nouvelle relativité, nous devons exiger l'invariance non seulement pour les lois générales de la physique, mais nous devons accorder l'invariance à chaque énoncé distinct de la physique qui doit avoir une signification physique - conformément à ceci, qu'en dernière analyse, il doit être possible d'établir chaque fait physique par un fil ou une horloge lumineuse, c'est-à-dire des instruments de caractère invariant. Dans la théorie des courbes et des surfaces, où un énoncé dans une paramétrisation choisie de la courbe ou de la surface n'a aucune signification géométrique pour la courbe ou la surface elle-même, si cet énoncé ne reste pas invariant sous n'importe quelle transformation arbitraire des paramètres ou ne peut pas être amené à une forme invariante ; de même, en physique, nous devons caractériser un énoncé qui ne reste pas invariant sous n'importe quelle transformation arbitraire du système de coordonnées comme n'ayant aucun sens physique. Par exemple, dans le cas considéré ci-dessus de l'électron au repos, l'affirmation que, disons au moment  cet électron est au repos, n'a aucune signification physique parce que cette affirmation n'est pas invariante.
+En ce qui concerne le principe de causalité, les quantités physiques et leurs dérivées temporelles étant connues au présent dans un système de coordonnées donné : alors une déclaration n'aura de sens physique que si elle est invariante sous toutes ces transformations, pour lesquelles les coordonnées qui viennent d'être utilisées pour le présent restent inchangées; je maintiens que les déclarations de ce type sont toutes déterminées dans le futur de manière unique, c'est-à-dire que le principe de causalité s'applique dans cette formulation.
+De la connaissance actuelle des 14 potentiels physiques  découlent nécessairement et uniquement toutes les déclarations à leur sujet pour l'avenir, à condition qu'elles aient un sens physique.
+To prove this proposition we use the Gaussian spacetime coordinate system. Introducing (33) into the basic equations (4) of the first communication yields for the 10 potentials
+Pour prouver cette proposition, nous utilisons le système de coordonnées de l'espace-temps gaussien. L'introduction de (33) dans les équations de base (4) de la première communication donne pour les 10 potentiels 
+un système d’autant d'équations différentielles partielles; si nous intégrons celles-ci sur la base des valeurs initiales données, nous trouvons de façon unique les valeurs de (34) pour . Puisque le système de coordonnées gaussien est lui-même déterminé de façon unique, par conséquent, toutes les déclarations concernant ces potentiels (34) par rapport à ces coordonnées sont également de caractère invariant.
+Les formes sous lesquelles les déclarations physiquement significatives, i.e. invariantes, peuvent être exprimées mathématiquement, sont très variées.
+Premièrement. Cela peut être fait au moyen d'un système de coordonnées invariant. Comme le système gaussien utilisé ci-dessus, on peut appliquer le système riemannien bien connu, ainsi que le système de coordonnées de l'espace-temps dans lequel l'électricité apparaît au repos avec une densité de courant unitaire. Comme à la fin de la première communication, désignons par  la fonction apparaissant dans le principe de Hamilton et dépendant de l'invariant
+
+puis
+
+est la quadri-densité de courant électrique ; elle représente un vecteur contravariant et peut donc certainement être transformée en  comme on le voit facilement. Si cela est fait, alors à partir des quatre équations
+
+les quatre composantes du quadri-potentiel  peuvent être exprimées en termes de  et toute relation entre les  dans ce système ou dans l'un des deux premiers systèmes de coordonnées est alors un énoncé invariant. Pour des solutions particulières des équations de base, il peut exister des systèmes de coordonnées invariants spéciaux ; par exemple, dans le cas traité ci-dessous du champ gravitationnel à symétrie centrale, les  forment un système de coordonnées invariant jusqu'aux rotations.
+Deuxièmement. L'affirmation selon laquelle on peut trouver un système de coordonnées dans lequel les 14 potentiels  ont certaines valeurs définies dans le futur, ou remplissent certaines conditions définies, est toujours un invariant et donc une affirmation physiquement significative. L'expression mathématiquement invariante d'une telle affirmation est obtenue en éliminant les coordonnées de ces relations. Le cas considéré ci-dessus, celui de l'électron au repos, en fournit un exemple : le contenu essentiel et physiquement significatif du principe de causalité est ici exprimé par l'affirmation que l'électron qui est au repos pendant le temps  restera également au repos dans toutes ses parties pour le futur , pour un système de coordonnées spatio-temporel convenablement choisi.
+Troisièmement. Une affirmation est également invariante et a donc une signification physique si elle est censée être valable dans tout système de coordonnées arbitraire. Un exemple de ceci sont les équations énergie-impulsion d'Einstein ayant un caractère de divergence. En effet, bien que l'énergie d'Einstein n'ait pas la propriété d'invariance, et que les équations différentielles qu'il a établies pour ses composantes ne soient nullement covariantes en tant que système d'équations, l'affirmation qu'elles contiennent, à savoir qu'elles seront satisfaites dans n'importe quel système de coordonnées, est une exigence invariante et a donc une signification physique.
+Selon mon exposé, la physique est une pseudo-géométrie à quatre dimensions, dont la métrique  est reliée aux grandeurs électromagnétiques, c'est-à-dire à la matière, par les équations de base (4) et (5) de ma première communication. Si l'on comprend bien, une vieille question géométrique devient mûre pour être résolue, à savoir si et dans quel sens la géométrie euclidienne - dont les mathématiques nous apprennent seulement qu'elle est une géométrie à quatre dimensions - est une géométrie à quatre dimensions.
+L'ancienne physique, avec le concept de temps absolu, a repris les théorèmes de la géométrie euclidienne et les a placés sans conteste à la base de toute théorie physique. Gauss aussi ne procéda guère différemment : il construisit une physique hypothétique non euclidienne, en maintenant le temps absolu et en révoquant seulement l'axiome du parallèle des propositions de la géométrie euclidienne ; une mesure des angles d'un triangle de grandes dimensions lui montra l'invalidité de cette physique non euclidienne.
+La nouvelle physique du principe de relativité générale d'Einstein adopte une position totalement différente vis-à-vis de la géométrie. Elle ne prend ni la géométrie d'Euclide ni aucune autre géométrie particulière a priori comme base, afin d'en déduire les lois physiques appropriées, mais, comme je l'ai montré dans ma première communication, la nouvelle physique fournit d'un seul coup, par le biais du même principe de Hamilton, les lois géométriques et physiques, à savoir les équations de base (4) et (5), qui nous disent comment la métrique  - en même temps l'expression mathématique du phénomène de la gravitation - est liée aux valeurs  des potentiels électrodynamiques.
+La géométrie euclidienne est une loi d'action à distance étrangère à la physique moderne : En révoquant la géométrie euclidienne comme présupposé général de la physique, la théorie de la relativité soutient au contraire que la géométrie et la physique ont un caractère identique et reposent comme une seule science sur un fondement commun.
+La question géométrique mentionnée ci-dessus consiste à déterminer si et dans quelles conditions la pseudo-géométrie euclidienne à quatre dimensions...
+est une solution, voire la seule solution régulière, des équations physiques de base.
+Les équations de base (4) de ma première communication sont, en raison de l'hypothèse (20) qui y est faite:
+
+où
+
+Lorsque les valeurs (35) sont substituées, nous avons
+
+et pour
+
+nous avons
+
+c'est-à-dire que, lorsque toutes les charges électriques sont supprimées, la géométrie pseudo-euclidienne est possible. La question de savoir si elle est également nécessaire dans ce cas, c'est-à-dire si - ou sous certaines conditions supplémentaires - les valeurs (35), et celles des  résultant de la transformation des coordonnées de ces dernières, sont les seules solutions régulières des équations (36) est un problème mathématique qu'il n'y a pas lieu de discuter ici en général. Je me limiterai plutôt à présenter quelques réflexions concernant ce problème en particulier.
+Pour cela, nous revenons aux coordonnées du monde original de ma première communication
+
+et donnons la signification correspondante aux .
+Dans le cas de la géométrie pseudo-euclidienne, nous avons
+
+où
+
+Pour chaque métrique dans le voisinage de cette géométrie pseudo-euclidienne, l'ansatz
+est valide, où  est une quantité tendant vers zéro, et  sont des fonctions de la . Je fais les deux hypothèses suivantes sur la métrique (37):
+I. Les  sont indépendants de la variable 
+II. Les  doivent présenter un certain comportement régulier à l'infini.
+Maintenant, si la métrique (37) doit satisfaire l'équation différentielle (36) pour tout  alors il s'ensuit que les  doivent nécessairement satisfaire certaines équations différentielles partielles homogènes linéaires du second ordre. Si nous substituons, en suivant Einstein
+et assumer parmi les 10 fonctions  les quatre relations
+alors ces équations différentielles deviennent:
+où l'abréviation
+
+a été utilisée..
+En raison de l'ansatz (38), les relations (39) sont des hypothèses restrictives pour les fonctions ; cependant, je vais montrer comment on peut toujours obtenir, par une transformation infinitésimale appropriée des variables , que ces hypothèses restrictives soient satisfaites pour les fonctions  correspondantes après la transformation.
+Pour cela il faut déterminer quatre fonctions , qui satisfont respectivement les équations différentielles
+Au moyen de la transformation infinitésimale
+
+ becomes
+
+ou, en raison de (37), elles deviennent
+
+où j'ai mis
+
+Si nous choisissons maintenant
+
+alors ces fonctions satisfont la condition d'Einstein (39) en raison de (41), et nous avons
+
+The differential equations (40), which must be valid according to the above argument for the xxx we found, become due to assumption I
+Les équations différentielles (40), qui doivent être valides selon l'argument ci-dessus pour les  que nous avons trouvés, deviennent en raison de l'hypothèse I :
+
+et, puisque l'hypothèse II - mutatis mutandis - permet de conclure que les  se rapprochent de constantes à l'infini, il s'ensuit que celles-ci doivent être constantes en général, c'est-à-dire : En faisant varier la métrique de la géométrie pseudo-euclidienne sous les hypothèses I et II, il n'est pas possible d'obtenir une métrique régulière qui ne soit pas non plus pseudo-euclidienne et qui corresponde aussi à un monde sans électricité.
+L'intégration des équations aux dérivées partielles (36) peut être effectuée dans un autre cas encore, traité d'abord par Einstein et par Schwarzschild. Dans ce qui suit, je présente pour ce cas une procédure qui ne fait aucune hypothèse sur les potentiels gravitationnels  à l'infini, et qui offre en outre des avantages pour mes recherches ultérieures. Les hypothèses concernant les  sont les suivantes
+1. La métrique est représentée dans un système de coordonnées gaussien, sauf que  est laissé arbitraire, c'est-à-dire que nous avons 
+
+2. Les  sont indépendants de la coordonnée temporelle 
+3. La gravitation  est à symétrie centrale par rapport à l'origine des coordonnées..
+Selon Schwarzschild, la métrique la plus générale conforme à ces hypothèses est représentée en coordonnées polaires, où
+
+
+
+
+par l'expression
+où  sont toujours des fonctions arbitraires de . Si nous posons
+
+alors nous sommes également justifiés d'interpréter  comme des coordonnées polaires spatiales. Si nous introduisons  dans (42) au lieu de  et que nous éliminons ensuite le signe  , le résultat est l'expression suivante
+où  désignent les deux fonctions essentielles et arbitraires de . La question est de savoir si et comment celles-ci peuvent être déterminées de la manière la plus générale de sorte que les équations différentielles (36) soient satisfaites.
+A cette fin, les expressions bien connues  données dans ma première communication doivent être calculées. La première étape consiste à dériver les équations différentielles des lignes géodésiques par variation de l'intégrale
+
+Comme équations de Lagrange, on obtient celles-ci:
+
+
+
+
+Ici et dans les calculs suivants, le signe ' désigne la dérivée par rapport à . Par comparaison avec les équations différentielles générales des lignes géodésiques:
+
+nous obtenons pour les symboles accolades  les valeurs suivantes, celles qui sont nulles étant omises:
+
+
+Avec ces derniers, nous formons:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Parce que
+
+nous avons
+
+Et si nous posons
+
+où maintenant  et  sont les fonctions inconnues de  nous obtenons finalement
+
+de sorte que la variation de l'intégrale quadruple
+
+est équivalent à la variation de l'intégrale simple
+
+et conduit aux équations de Lagrange
+Il est facile de se convaincre que ces équations impliquent effectivement que tous les  disparaissent ; elles représentent donc essentiellement la solution la plus générale des équations (36) sous les hypothèses 1., 2., 3. que nous avons faites. Si nous prenons comme intégrales de (44) , où  est une constante, et , qui n'est évidemment pas une restriction essentielle, alors pour , (43) aboutit à la métrique désirée sous la forme trouvée pour la première fois par Schwarzschild
+La singularité de la métrique en  ne disparaît que si l'on prend ; autrement dit, la métrique de la géométrie pseudo-euclidienne est la seule métrique régulière qui corresponde à un monde sans électricité sous les hypothèses 1, 2 et 3.
+Si  alors  et, pour  positif également  s'avèrent être des endroits où la métrique n'est pas régulière. J'appelle ici une métrique ou un champ gravitationnel  régulier en un lieu donné s'il est possible d'introduire par transformation à inverse unique un système de coordonnées pour lequel les fonctions  correspondantes en ce lieu sont régulières, c'est-à-dire qu'elles sont continues et arbitrairement différentiables en ce lieu et dans son voisinage, et ont un déterminant  différent de zéro.
+Bien que, selon moi, seules les solutions régulières des équations physiques de base représentent directement la réalité, ce sont précisément les solutions comportant des endroits non réguliers qui constituent un instrument mathématique important pour l'approximation des solutions régulières caractéristiques - et en ce sens, à la suite d'Einstein et de Schwarzschild, la métrique (45), non régulière en  et , doit être considérée comme l'expression de la gravité d'une distribution de masse à symétrie centrale dans le voisinage de l'origine. Dans le même sens, une masse ponctuelle doit être comprise comme la limite d'une certaine distribution des charges électriques autour d'un point, mais je m'abstiens ici de dériver ses équations de mouvement à partir de mes équations physiques de base. Une situation similaire prévaut pour la question sur les équations différentielles de la propagation de la lumière.
+À la suite d'Einstein, les deux axiomes suivants peuvent servir de substitut à une dérivation à partir des équations de base :
+Le mouvement d'une masse ponctuelle dans un champ gravitationnel est décrit par une ligne géodésique, qui est une ligne de temps.
+Le mouvement de la lumière dans un champ gravitationnel est décrit par une ligne géodésique nulle
+Étant donné que la trajectoire représentant le mouvement d'une masse ponctuelle est une ligne de temps, il est facile de voir qu'il est toujours possible d'amener la masse ponctuelle au repos par de véritables transformations spatio-temporelles, c'est-à-dire qu'il existe de véritables systèmes de coordonnées spatio-temporelles par rapport auxquels la masse ponctuelle reste au repos.
+Les équations différentielles des lignes géodésiques pour le champ gravitationnel à symétrie centrale (45) découlent du problème variationnel
+
+et devenir, par des méthodes bien connues:
+
+où A, B, C sont des constantes d’intégration. 
+Je prouve d'abord que les orbites dans l'espace  sont toujours situées dans des plans passant par le centre de la gravitation.
+A cette fin, nous éliminons le paramètre p des équations différentielles (47) et (48) pour obtenir une équation différentielle pour  en fonction de . Nous avons l'identité :
+D'autre part, la différentiation de (48) par rapport à p donne:
+
+et si nous en prenons la valeur de  et la substituons à la droite de (50), cela devient
+
+Ainsi, l'équation (47) prend la forme:
+
+une équation différentielle dont l'intégrale générale est
+
+où a et b sont des constantes d’intégration.
+Ceci fournit la preuve souhaitée, et il est donc suffisant pour la suite de la discussion sur les lignes géodésiques de ne considérer que la valeur . Le problème variationnel se simplifie alors comme suit
+
+et les trois équations différentielles du premier ordre qui en découlent sont
+
+
+
+L'équation différentielle de Lagrange pour 
+est nécessairement liée aux équations ci-dessus, en fait si nous désignons les côtés gauches de (51), (52), (53), (54) par [1], [2], [3], [4] respectivement, nous avons identiquement
+En choisissant C=1, ce qui revient à multiplier le paramètre p par une constante, puis en éliminant p et t de (51), (52), (53) on obtient l'équation différentielle pour  en fonction de  trouvée par Einstein et Schwarzschild, à savoir:
+Cette équation représente l'orbite de la masse ponctuelle en coordonnées polaires ; en première approximation pour =0 avec  le mouvement de Kepler en découle, et la seconde approximation que conduit à la plus brillante découverte à l’heure actuelle : le calcul de l'avance du périhélie de Mercure..
+Selon l'axiome ci-dessus, la ligne du monde pour le mouvement d'une masse ponctuelle doit être une ligne de temps ; de la définition de la ligne de temps il résulte donc que toujours A<0.
+Nous demandons maintenant en particulier si un cercle, c'est-à-dire , peut être l'orbite d'un mouvement. L'identité (55) montre que dans ce cas - à cause de  - l'équation (54) n'est nullement une conséquence de (51), (52), (53) ; ces trois dernières équations sont donc insuffisantes pour déterminer le mouvement ; au contraire, les équations nécessaires à satisfaire sont (52), (53), (54). De (54) il résulte que
+ou que pour la vitesse  sur l'orbite circulaire
+D'autre part, puisque , (51) implique l'inégalité
+ou en utilisant (57)
+Avec (58), cela implique l'inégalité pour la vitesse du point de masse se déplaçant sur un cercle
+L'inégalité (60) permet l'interprétation suivante : D'après (58), la vitesse angulaire de la masse ponctuelle en orbite est de
+
+Ainsi, si nous voulons introduire au lieu de  les coordonnées polaires d'un système de coordonnées en co-rotation autour de l'origine, il nous suffit de remplacer
+
+Après la transformation correspondante de l'espace-temps, la métrique
+
+devient
+
+Ici, l'inégalité  est satisfaite grâce à (60), et puisque les autres inégalités (31) sont satisfaites, la transformation en question de la masse ponctuelle au repos est une véritable transformation spatio-temporelle.
+D'autre part, la limite supérieure  trouvée dans (61) pour la vitesse d'un point de masse sur une orbite circulaire a également une interprétation simple. Selon l'axiome de la propagation de la lumière, cette propagation est représentée par une géodésique nulle. En conséquence, si nous mettons  dans (51), au lieu de l'inégalité (59), le résultat pour la propagation circulaire de la lumière est l'équation suivante
+
+Avec (57), cela implique pour le rayon de l'orbite de la lumière:
+
+et pour la vitesse de la lumière en orbite, la valeur qui apparaît comme la limite supérieure en (61):
+
+En général, nous trouvons pour l'orbite de la lumière de (56) avec  l'équation différentielle
+pour B, il a le cercle  comme "cycle" de Poincaré - correspondant à la circonstance qu'alors  est un facteur double du côté droit.
+En effet, dans ce cas - et de même pour l'équation plus générale (56) - l'équation différentielle (62) possède une infinité de courbes intégrales, qui s'approchent de ce cercle comme de la limite des spirales, comme l'exige la théorie générale des cycles de Poincaré..
+Si l'on considère un rayon lumineux s'approchant de l'infini et que l'on prend xxx petit par rapport à la distance d'approche la plus proche du rayon par rapport au centre de gravitation, alors le rayon lumineux a approximativement la forme d'une hyperbole avec un foyer au centre. 
+Une contrepartie du mouvement sur un cercle est le mouvement sur une ligne droite qui passe par le centre de gravitation. Nous obtenons l'équation différentielle de ce mouvement si nous fixons  dans (54) et éliminons ensuite  de (53) et (54) ; l'équation différentielle ainsi obtenue pour  en fonction de  est
+avec l'intégrale qui découle de (51)
+Selon (63), l'accélération est négative ou positive, c'est-à-dire que la gravitation agit de manière attractive ou répulsive, en fonction de la valeur absolue de la vitesse
+
+ou
+
+Pour la lumière que nous avons à cause de (64)
+
+la lumière se propageant en ligne droite vers le centre est toujours repoussée, en accord avec la dernière inégalité ; sa vitesse passe de 0 en  à 1 en .
+When  as well as  are small, (63) becomes approximately the Newtonian equation
+

@@ -1,0 +1,1269 @@
+1
+
+Negative energy states and interstellar travel
+
+Laboratoire d’Astrophysique de Marseille (LAM), CNRS, France
+
+Jean-Pierre Petit∗
+
+Nathalie Debergh†
+
+Haute Ecole Charlemagne, Belgium
+
+Gilles d’Agostini‡
+
+Independent researcher, France
+
+This presentation is an overview of the possibilities of negative energy states
+in cosmology and astrophysics as well as quantum mechanics, and their
+relation to a novel speciﬁc way to reach stars in journeys much shorter than
+a human lifetime, in an apparent faster-than-light (FTL) travel involving
+properties of spacetime that are diﬀerent than what has usually been consid-
+ered with warp drives and wormholes. We start by some remarks about
+the importance of Mach’s principle, and how Mach eﬀects, through frame-
+dragging and the theoretical possibility to produce large amounts of negative
+mass, may be related to our own work presented in the second part: the
+Janus cosmological model (JMC), a relativistic bimetric theory of gravity
+describing the universe as a 4D hypersurface with two conjugate metrics,
+solutions of two coupled ﬁeld equations. The model, which reintroduces
+negative mass in cosmology with no paradox, is based on the work of Albert
+Einstein in general relativity, Andrei Sakharov in cosmology and particles
+physics, and Jean-Marie Souriau in dynamical group theory. After half a
+century of continuous developments, the Janus model is now a sound alterna-
+tive to the dominant ΛCDM model, as it explains the universe without
+resorting to inﬂation, dark matter nor dark energy, and is in very good
+agreement with latest observational data. All these aforementioned concepts
+allow the presentation,
+in a third part, of the theoretical possibility of
+apparent FTL interstellar travel, as the negative sector involves distances
+a hundred times shorter and a speed of light ten times higher. We show our
+geometric interpretation of the hyperspace transfer and speculate that an
+interstellar spaceship which could invert its mass would not even need any
+engine to cruise at relativistic speeds, taking advantage of the energy discrep-
+ancy of the two sectors. This would make closest stellar systems reachable
+in a matter of days or months. We ﬁnally conclude that engineering mass
+inversion requires modeling the process at the atomic level, i.e. extending
+quantum ﬁeld theory to negative energy states.
+
+astrophysics and cosmology (retired) – jp.petit@mailaps.org
+
+∗Ph.D in kinetic theory of gases and plasma physics. Specialist in magnetohydrodynamics, topology,
+†Ph.D in mathematics. Research in cosmology, quantum physics and applied mathematics –
+‡Ph.D in particle physics. Research in cosmology and high energy physics –
+
+nathalie.debergh@hech.be
+
+dagostinigilles@mailaps.org
+
+2
+
+Introduction
+
+Lack of funding did not allow us to physically attend the 2018 Estes Park Advanced
+Propulsion Workshop. So we produced a short video presentation [1] that has been
+broadcasted to attendees, 14 September 2018.
+
+The video is English spoken but English subtitles are also available for best under-
+standing. It was a bit diﬃcult to choose which work should be presented during the
+meeting, as the underlying model has been at work for decades. 20 years as regards
+Gilles d’Agostini, and 52 years for Jean-Pierre Petit. Various subjects which may have
+disconcerted some of the attendees. We’ll start by a remark regarding a discovery re-
+cently reported in Nature.
+
+Part 1: Revival of Mach’s principle
+
+Laniakea, the Dipole Repeller and the CMB
+
+Four researchers: American astronomer R. Brent Tully, Israeli astrophysicist Yehuda
+Hoﬀman, and French astrophysicists H´el`ene Courtois and Daniel Pomar`ede, presented
+the results in [2] and [3] of a large survey of Laniakea, the supercluster that is home to
+our Milky Way and about 100,000 nearby galaxies. This discovery was made possible
+thanks to a group work involving many researchers and technicians.
+
+Objects in the universe, like galaxies seen at a cosmological scale, emit light that
+undergoes a redshift telling the universe is expanding, as observed by American as-
+tronomer Edwin Hubble, giving the famous law that bears his name.
+
+Therefore, this Doppler shift-measured velocity of galaxies receding from the Earth
+gives a radial velocity ﬁeld, or Hubble ﬁeld, which shows, from our point of view, a
+strong isotropy (to the point that this isotropy has been raised as a cosmological princi-
+ple) and velocities proportional to the distance of such galaxies far away from the Earth.
+
+Due to the improvement of observational techniques, measurements of recession ve-
+
+locities now reach 10,000 km/s.
+
+The four aforementioned researchers had the idea to establish a map of velocities of
+these galaxies based on their proper velocity, i.e. subtracting this Hubble ﬁeld from the
+value of the recession velocity of galaxies, which is deduced from their redshift. This
+allowed them to retrieve a ﬁrst approach of their motion with respect to the universe
+as a whole.
+
+An interpretation was then given to the CMB (Cosmic Microwave Background)
+
+anisotropy.
+
+Figure 1 is a map of the entire celestial sphere. There are two regions: one with an
+
+excess of redshift and the other with an excess of blueshift.
+
+3
+
+Fig. 1 – The CMB dipole.
+
+The two points A and B in ﬁgure 2 are simply diametrically opposed in space:
+
+Fig. 2 – Two diametrically opposed points in the celestial sphere.
+
+They consider that the CMB, this primitive radiation background, represents the
+universe itself, with respect to which the system measuring these redshifts would move.
+It is then possible to cancel this motion, assuming that the recording system is located
+in a frame of reference animated with a speed directed along the AB axis. We would
+then obtain the map in ﬁgure 3.
+
+Fig. 3 – No anisotropy in the appropriate reference frame.
+
+The anisotropy has gone. The calculated speed is 631 km/s, that of our galaxy
+with respect to the CMB, i.e. with respect to the universe itself in a certain sense.
+We thus get in touch with the revival of Mach’s principle, according to which space
+and matter constitute one and the same entity. At a given moment, in a given place,
+the concept of absolute immobility makes sense: an observer, animated by a speed of
+631 km/s with respect to the Earth in the right direction, would cancel any anisotropy
+in his measurements of the CMB. He would therefore be “immobile with respect to the
+universe itself”.
+
+4
+
+How to interpret Mach’s principle?
+
+That question is central. We have no absolute or deﬁnitive answer and the following
+is subject to discussion. If space is tightly related to matter, is this bond global (grav-
+itational interaction with the distant matter in the whole universe) or only local (like
+general relativity seems to suggest at ﬁrst)?
+
+This is a conjecture: we answer “both at once”.
+
+We indeed think that Mach’s principle involves all the content of the universe,
+through some kind of integration. Of course there are, in the neighborhood of ev-
+ery observer, masses nearby. For example, the mass of the Earth is close to an earthly
+observer. Then, is space “bound” to Earth? Or even to more massive objects a bit more
+distant but “close enough”, like the Sun? Or even the entire galaxy? If that were the
+case, such bond would be revealed by frame-dragging eﬀects. It is not.
+
+Hence, we think that the local inertial interaction between spacetime and energy-
+matter is negligible. On the other hand, what determines this space-matter link is the
+integration of all the masses present in the causally connected universe. This global
+relationship is then stronger.
+
+The local interaction should however reappear where the density of matter becomes
+very high, for example in the vicinity of pulsars, i.e. neutron stars spinning at high
+velocities, with some visible gravitomagnetic frame-dragging eﬀect (Lense-Thirring pre-
+cession).
+
+If this vision about Mach’s principle and Mach eﬀects is not ﬂawed – and we would
+like to understand yours – then the result of observations from Tully, Hoﬀman, Cour-
+tois and Pomar`ede suggests the following aspect. To each observer is associated a clock
+which gives his proper time. The rate of temporal ﬂow from the clock of this “motion-
+less” observer should therefore be greater than the rate of another clock associated with
+any other “mobile” observer with respect to the universe.
+
+This idea seems in contradiction with special relativity, which states that there is
+no preferred frame of reference. But special relativity refers to a Minkowski spacetime,
+which is an empty universe, without matter, with no gravity. It excludes Mach’s prin-
+ciple.
+
+About the “twin paradox”, a thought experiment stated by French physicist Paul
+Langevin in 1911. It involves twin brothers: one would stay on Earth, while the other
+would go on a trip in a spaceship up to relativistic speeds. When he’s back, asked
+Langevin, who has aged the most?
+
+According to special relativity, the brother who stayed immobile (or has moved
+slowly with respect to the speed of light) is the one who has aged the most. The twin
+who had traveled at a relativistic speed from the origin of the local frame of reference
+(the Earth) would have had the slowest rate of proper time.
+
+Admittedly, Langevin asks, but which brother moved, and which stayed immobile?
+From the Earth point of view, the traveler moved. But we could instead think that it
+
+5
+
+is the Earth, and the twin on it, which have accelerated away from the spaceship.
+
+Whatever, it is not the Earth that should be taken into consideration, nor even the
+galaxy. Both move with respect to the “local group”. Earth orbits the Sun. But the
+Sun accompanies the rotational motion of the galaxy so the solar system, in turn, is
+animated by a galactic orbital speed of 230 km/s. What gives?
+
+If our interpretation of the Laniakea results is right, our galaxy moves at a velocity
+of 631 km/s with respect to space as a whole. Yet, it is not a relativistic speed, as it is
+almost three orders of magnitude lower. We should be more speciﬁc. The one who “ages
+the least” is the one who moves at a greater speed compared to space in general. If we
+consider that the twin traveler left on a trip at a speed of 200,000 km/s for example, this
+is about 300 times more than the galaxy drift of 631 km/s with respect to the CMB. So
+we can neglect this “proper motion of the Earth with respect to space” (very close to
+those 631 km/s), regardless of the direction in which the twin traveler made his round
+trip. So we deduce that it is the twin left on Earth that will have aged the most.
+
+According to this view, Mach’s principle would disrupt fundamentals of general
+relativity, which is based on the principle that any solution to the Einstein ﬁeld equations
+can be expressed in any arbitrary coordinate system. Such an idea should be debated
+to separate the wheat from the chaﬀ.
+
+Frame-dragging
+
+The “rotating black hole” model is based on the Kerr metric, which induces a rotational
+(azimuthal) frame-dragging or Lense-Thirring eﬀect in the ergosphere. See for example
+in the classical GR book [4]:
+
+“A very interesting physical eﬀect results from the rotational nature of the Kerr so-
+lution, a body in geodesic motion experiences a force proportional to the parameter
+a, reminiscent of a Coriolis force. Loosely speaking, we may think of the rotating
+source as “dragging” space around it; in a Machian sense the source “competes”
+with the Lorentzian boundary conditions at inﬁnity in the establishment of a local
+inertial frame.”
+
+But this azimuthal frame-dragging has a peculiar aspect: the speed of light does not
+have the same value according to whether one accompanies the rotational movement or
+that one travels in the opposite direction!
+
+Just as the well-known exterior Schwarzschild metric [5] goes with a less known inte-
+rior solution [6] (both written in 1916 by Karl Schwarzschild himself)1 which describes
+the geometry within a spherical body of constant density, the Kerr metric is actually an
+“exterior solution” that should be supplemented by an “interior Kerr solution” describ-
+ing the geometry of a mass in rotation, which has not been done yet. It is such mass
+that is the “source of the ﬁeld” and which “drags space with it”.
+
+1See also [7] and [8] for an in-depth analysis of these two metric solutions and [9] for a black hole
+
+model with cancellation of the central singularity and mass inversion process.
+
+6
+
+This “azimuthal frame-dragging” is quite well documented but we have been partic-
+ularly interested recently in [8] in a radial frame-dragging produced in spacetime by the
+collapse of a destabilized neutron star, and the innovative consequences that this eﬀect,
+which has been apparently neglected so far in the scientiﬁc literature, could bring to
+the classical black hole model and interstellar travel.
+
+We think that Mach’s principle in cosmology in [10] and the theoretical possibility to
+make large amounts of negative mass according to Mach eﬀects in [11] could represent
+a bridge between this work and ours. We hope that positive discussion will result from
+the series of Estes Park Advanced Propulsion Workshops, insofar as Mach’s principle is
+in our eyes something absolutely essential.
+
+Part 2: Reintroduction of negative mass
+
+in cosmology and astrophysics
+
+A few words about modern cosmology
+
+Astrophysics and cosmology have undergone increasing challenges for decades.
+
+In 1989, ﬁrst results from the COBE satellite showed that the early universe was
+remarkably homogeneous, within 10−5. This was a bit paradoxical because, before that
+era particles were moving away from each other at velocities greater than the speed of
+light. It will be noted that, according to the mainstream cosmological model, near t = 0
+these particles even move away from each other at an inﬁnite speed.
+
+Indeed, if we consider the emission of an electromagnetic wave from these particles
+at t = 0, which propagates at the speed of light c, this spherical wave has a radius ct
+that will catch up the distance R between particles only later on.
+
+Fig. 4 – Particles cannot communicate at t < th.
+
+The current concordance cosmological model negotiates this paradox by invoking an
+inﬂation occurring at 10−36 second after the Big Bang, according to which the universe
+would have exponentially expanded by a factor of 1026 (or maybe even more) during
+only 10−33 second. Origin of this phenomenon: a hypothetical scalar ﬁeld associated
+with a particle, not described: the inﬂaton.
+
+7
+
+When astrophysicists discovered that general relativity could not explain the ﬂat-
+ness, remotely, of galaxy rotation curves and why galaxies and galaxy clusters didn’t
+explode by centrifugal force (as they orbit much too fast given the amount of matter
+detected within them), as well as strong gravitational lensing eﬀects, this “missing mass
+problem” conducted cosmologists to add another invisible ingredient of unknown na-
+ture: dark matter.
+
+Finally, in 1997 two independent teams discovered then reported in [12] and [13]
+that the expansion of the universe is actually accelerating. This led in 2011 to the
+award of the Nobel Prize in physics to astrophysicists Saul Perlmutter, Adam G. Riess
+and Brian P. Schmidt. Although Riess admitted in his Nobel lecture [14] that his
+discovery immediately implied the presence of a negative mass density in the universe,
+he dismissed such possibility as “obviously unphysical” and arbitrary chose to resort
+to the old-fashioned cosmological constant,2 put back in the Einstein ﬁeld equations to
+account for this puzzling eﬀect. Such exotic “repulsive power of the vacuum” conducted
+cosmologists to call for a third unidentiﬁed ingredient in the dominant model: dark
+energy.
+
+Fig. 5 – Perlmutter, Riess and Schmidt, Nobel Prize in Physics 2011.
+
+Fig. 6 – Observed acceleration of the cosmic expansion
+
+versus a prior classical Friedmann equation.
+
+2Which has no counterpart in classical physics. The Einstein ﬁeld equations secrete many laws
+of physics (e.g. Newton’s law of universal gravitation, the Vlasov-Poisson equation, Euler’s equations
+of ﬂuid dynamics. . . ) but nobody can justify the presence of the cosmological constant in the ﬁeld
+equations. In other words, it has no physical meaning.
+
+8
+
+Negative mass and the preposterous runaway motion
+
+Early on, physicists tried to introduce negative masses in cosmology, based on the
+Einstein ﬁeld equations:
+
+Rµν − 1
+
+2 R gµν + Λ gµν = χ Tµν
+
+Einstein’s equation has a metric solution, from which the geodesics can be calcu-
+lated, giving the trajectories followed by particles. RHS, the stress-energy tensor Tµν.
+When the ﬁeld is created by ordinary matter and the particle velocities are weak with
+respect to the speed of light, this tensor contains only one term, proportional to the
+density of matter ρ.
+
+Geodesics can be calculated around a spherical mass of constant density. This gives
+two connected sets of geodesics (lying within this mass, and outside). The result is that
+a positive mass generates geodesics that express the classical gravitational attraction
+and that a negative mass (ρ changed to −ρ) on the contrary evokes gravitational repul-
+sion.
+
+Anglo-Austrian physicist Hermann Bondi showed in 1957 in [15] that, since both
+positive and negative masses would follow the same geodesics (as there is one metric
+tensor gµν in the Einstein ﬁeld equations):
+
+• Positive mass attracts anything.
+• Negative mass repels anything.
+
+Bondi also showed that when a positive mass encounters a negative mass, a peculiar
+phenomenon would arise, called the runaway motion. Such interaction laws and this
+runaway eﬀect are illustrated in ﬁgure 7:
+
+A
+
+Positive mass
+
+attracts
+
+positive mass
+
+B
+
+Positive mass runs away
+
+and negative mass
+
+chases it
+
+C
+
+Negative mass
+
+repels
+
+negative mass
+
+Fig. 7 – Newtonian interaction laws according to Einstein’s equations.
+
+In ﬁgure 7(B) the positive mass, repelled by the antigravitational potential of the
+negative mass, runs away from it, while the negative mass falls into the gravity well of
+the positive mass and chases it. The couple is then uniformly accelerated, but the total
+energy stays constant, because the kinetic energy associated with the negative mass is
+negative!
+
+Such interaction between particles with opposite masses violates the action-reaction
+principle. Note that this is based on the fact that test particles with a positive or a neg-
+ative passive gravitational mass would behave the same way when they are embedded
+
+9
+
+in a gravitational potential created by a large positive mass M.
+
+This has precluded any consideration of negative mass in astrophysics and cosmol-
+ogy for 60 years. For that matter, British astrophysicist William B. Bonnor wrote in [16]:
+
+“I regard the runaway (or self-accelerating) motion [...] as so preposterous that I
+prefer to rule it out by supposing that inertial mass is all positive or all negative.”
+
+Two coupled ﬁeld equations: the Janus cosmological model
+
+If we want to consider something that works, we need two metrics g
+from
+which two diﬀerent families of geodesics are calculated, referring to positive mass par-
+ticles and negative mass particles, respectively. From these metrics, we calculate Ricci
+tensors R
+
+(−)
+µν as well as Ricci scalars R(+) and R(−).
+
+(+)
+µν and R
+
+(+)
+µν and g
+
+(−)
+µν
+
+This is the core of the Janus cosmological model, which describes the universe as
+a Riemannian manifold associated to two coupled metrics, populated by positive and
+negative mass species.3
+
+These solutions come from a system of two coupled ﬁeld equations, built from a
+
+Lagrangian derivation [24] (see also [25]):
+
+µν − 1
+R(+)
+
+2 R(+)g(+)
+
+µν = χ
+
+T (+)
+µν +
+
+g(−)
+g(+) T (−)
+
+µν
+
+s
+
+"
+"s
+
+#
+#
+
+µν − 1
+R(−)
+
+2 R(−)g(−)
+
+µν = −χ
+
+g(+)
+g(−) T (+)
+
+µν + T (−)
+
+µν
+
+General relativity reduces to Newtonian gravity in the limit of weak gravitational
+potential and low velocities with respect to the speed of light, so that Newton’s law of
+universal gravitation can be found from the Newtonian approximation of the Einstein
+ﬁeld equations.
+
+Likewise, our system of two coupled ﬁeld equations provides the following interaction
+
+laws (proportional to 1/r2):
+
+• Positive masses mutually attract.
+• Positive mass and negative mass mutually repel.
+• Negative masses mutually attract.
+
+3The Janus model has been popularized in two science comic books [17] and [18] available freely,
+as well as an ongoing video series [19] on YouTube, subtitled in English. A website [20] is dedicated to
+popularize the model and gather useful bibliography. Papers [21], [22] and [23] are a good introduction
+to the model in the peer-reviewed literature.
+
+10
+
+A
+
+Positive mass
+
+attracts
+
+positive mass
+
+B
+
+Positive mass
+
+and negative mass
+repel each other
+
+C
+
+Negative mass
+
+attracts
+
+negative mass
+
+Fig. 8 – Newtonian interaction laws according to two coupled ﬁeld equations.
+
+In ﬁgure 8(B) there is no preposterous runaway motion anymore. The action-reaction
+
+principle is restored.
+
+By the way, as negative masses mutually attract and don’t repel, they can also form
+conglomerates through gravitational instability, like positive masses. Which they do:
+negative mass matter, repelled by positive mass, is essentially concentrated in the mid-
+dle of apparent giant voids between galaxies.
+
+Such negative mass matter appears optically invisible in the universe, because it
+so
+
+emits negative energy photons that follow null geodesics of their own metric g
+they cannot be detected by telescopes made of positive mass matter.
+
+(−)
+µν
+
+The two coupled ﬁeld equations of the Janus model reduce to the Einstein ﬁeld
+equations of general relativity for regions of spacetime where positive mass density
+largely dominates, i.e. where almost all negative mass has been repelled away by local
+concentration of positive mass matter, e.g. on Earth or in the solar system. Therefore,
+the Janus cosmological model ﬁts with local relativistic observations and measurements.
+
+CPT symmetry and negative energy states
+
+In 1967, Russian nuclear physicist Andrei Sakharov was the ﬁrst to address the baryon
+asymmetry of the universe, i.e.
+the missing primordial antimatter, considering the
+universe was made of two entities with opposite arrows of time (T-symmetry) on both
+“sides” of the Big Bang, originating from the same initial singularity and having opposite
+CP violation, realizing a complete CPT symmetry of the universe (see [26] and [27]).
+
+Fig. 9 – 2D representation of Sakharov’s twin universes in CPT symmetry
+
+(opposite charge conjugation, parity and arrow of time).
+
+11
+
+In 1970, French mathematician Jean-Marie Souriau introduced the concept of coad-
+joint action of a group on its moment map, after the coadjoint orbit method of sym-
+plectic geometry [28]. He showed that particles are the motion of the relativistic mass-
+point ruled by the complete Poincar´e group, which has an orthochronous (forward-in-
+time) subset and an antichronous (backward-in-time) subset. Dynamical group the-
+ory makes possible to deﬁne physically observables quantities like energy, momentum,
+spin. . . which emerge as pure geometrical objects. Subsequently, Souriau showed in
+[29] that the physical signiﬁcation of time reversal is actually energy inversion (hence
+negative mass, as −m = −E/c2).
+
+The Janus cosmological model combines Sakharov’s and Souriau’s work to make the
+two sectors of spacetime interact through gravitation, as T-symmetry of the negative
+sector reverses the energy and mass of its particles.
+
+The particular topology of the universe, with two interacting opposite sectors on the
+
+same two-sided 4D hypersurface, is illustrated as a 2D representation in ﬁgure 10:
+
+Fig. 10 – 2D representation of the universe in the Janus cosmological model.
+
+Two spacetimes are folded one over the other, forming a single two-sided surface.
+
+Sakharov’s twin universe is then nothing but the negative energy content of the uni-
+verse. In such an antichronous sector, due to CPT symmetry the antimatter dominates
+and has a negative mass. Opposite situation in our orthochronous sector, where matter
+dominates and has a positive mass.
+
+Basically, there are two kinds of antimatter:
+• One is C-symmetric with respect to ordinary matter. We may call it Dirac’s
+antimatter. It is the antimatter made in the lab, and since it has a positive energy
+and mass, it falls down in the Earth gravitational ﬁeld.
+
+• The second is PT-symmetric with respect to ordinary matter. We may call it
+Feynman’s antimatter.4
+It is the missing primeval antimatter, and due to T-
+symmetry it appears invisible to us and “falls up” in the Earth gravitational ﬁeld.
+4Richard Feynman stated than an antiparticle (C-symmetry) would be indistinguishable from the
+image in a mirror (P-symmetry) of its particle running backward in time (T-symmetry). This is related
+to the CPT theorem, which claims that the CPT symmetry of a particle is the very same as that particle.
+But the CPT theorem is an axiom valid in a world where only positive energy states can exist. Since
+T-symmetry reverses the energy of a particle, the CPT theorem must be reconsidered.
+
+12
+
+We made a lengthy presentation of these geometrical ideas related to dynamical
+group theory in [30] and [31], including the geometrical description of electric charges in
+[32] which extends the Janus model to a 5D hypersurface, with Kaluza’s ﬁfth dimension
+managing electric charges, thus the matter-antimatter duality.
+
+Janus model vs ΛCDM model
+
+The Janus cosmological model is a falsiﬁable and successful theory in very good agree-
+ment with latest observational data, as shown in [23]. It is a sound competitor of the
+mainstream ΛCDM model and its six free parameters, as it explains the formation,
+shape and conﬁnement of galaxies and their ﬂat rotation curves, as well as high random
+velocities of galaxies in clusters; strong gravitational lensing eﬀects; and the lacunar
+large-scale structure of the universe, with galaxies distributed around giant repulsive
+cosmic voids [3] unexplainable by classical theory.5 All these eﬀects on positive mass
+matter can be attributed to its gravitational interaction with antimatter of negative
+mass, instead of dark matter of positive mass of unknown nature. Although negative
+mass is also invisible, its components are perfectly identiﬁed.6
+
+The Janus model also shows why the unidentiﬁed “dark energy”, due to the addition
+of a non-zero cosmological constant to the Einstein ﬁeld equations and the subsequent
+repulsive power of the vacuum, is unphysical. Instead, the Janus model explains the
+accelerating cosmic expansion as being caused by the negative pressure due to the over-
+all negative mass density content of the universe, with no cosmological constant and an
+exact solution [21] in agreement with observations.
+
+As for the question of the great isotropy and homogeneity of the early universe,
+justiﬁed by the inﬂation (which is often said to be the sole viable hypothesis), the main
+author was the ﬁrst in 1988 to introduce a variable speed of light (VSL) in cosmology,
+actually a joint variation of all physical constants according to a universal gauge relation-
+ship, letting the laws of physics invariant. Such joint variation was initially considered
+as a slow secular drift in [33] and [34], which has been restricted in later developments to
+the radiation-dominated era with a conformally ﬂat metric, as described in [30] then [22].
+
+Note that at the “Janus Point” t = 0, the speed of light as well as entropy become
+inﬁnite, allowing the light cone to become ﬂat, which then reverses “like an umbrella
+turning inside-out in a gust of wind” accompanied by the direction of the arrow of time,
+at t < 0.
+
+Finally, the Janus cosmological model has a diﬀerent take on the cosmic microwave
+background. CMB ﬂuctuations are a major claim justifying the ΛCDM model, as ob-
+5About the Dipole Repeller [3]: Although an arbitrary void in a simulation of a uniform distribution
+of positive mass matter is classically shown to produce a repulsive gravitational eﬀect, as if it was a
+concentration of negative mass instead (and thus both possibilities are considered equivalent), in reality
+the Jeans instability is only able to produce matter conglomerates, not voids. So the presence of such
+voids in the universe cannot be classically explained.
+
+6The invisible components of the universe are made of the same antiparticles as those found in
+our positive energy world: photon, antiprotons, antineutrons, positrons, antineutrinos. . . but with a
+negative energy (and a negative mass if they own one) due to CPT-symmetry and opposite CP violation
+in the negative sector. The physics of such a negative world is the same as ours, ruled by the Einstein,
+Boltzmann, Maxwell, Schr¨odinger equations. . . with negative mass and negative energy states.
+
+servations are in a fairly good accordance with its predictions (spectral analysis of
+ﬂuctuations). In the Janus cosmological model, the tiny ﬂuctuations in the CMB are,
+according to [35], primeval imprints of the negative sector on the early universe. In-
+cidentally, these CMB ﬂuctuations are directly related to the possibility of interstellar
+travels, main purpose of this presentation.
+
+13
+
+Part 3: Making interstellar travel possible
+
+An express subway in the universe
+
+The Janus model presents various aspects. Geometrically, we can represent the universe
+as a 4D hypersurface having a frontside and a backside, and where measured distances
+would be diﬀerent depending on whether geodesic paths are drawn on the frontside
+(−)
+µν ). Details are available in the various ref-
+(metric g
+erences cited in the Part 2 of this presentation.
+
+(+)
+µν ) or on the backside (metric g
+
+Fig. 11 – A single 2D surface with two diﬀerent scales.
+
+If we consider two faraway points A and B in spacetime:
+• Travel distances are diﬀerent according to whether the trajectories occur on the
+frontside (positive sector) or on the backside (negative sector). Distances covered
+by a vehicle of negative mass are actually 100 times shorter.
+
+• The speed of light c(−) is ten times higher than the speed of light c(+).
+
+Therefore, travel time savings become three orders of magnitude lower than a classi-
+cal trip if the vehicle, having reversed its mass, travels along the geodesics of the metric
+(−)
+µν (see [22] and [35]).
+g
+
+If it is possible to trigger and control a mass inversion process (and we think it is
+the case, as it should occur naturally in the universe in destabilized neutron stars, as
+suggested in [7], [8] and [9]), planetary systems located a few tens of light-years away
+would then become easily accessible.
+
+14
+
+No need for an engine: the Gulliver eﬀect
+
+Let’s suppose we ﬁnd a way to invert the mass of a spaceship. It would immediately
+disappear from our eyes while being transferred in the negative sector, where distances
+are considerably shorter and the speed limit higher. But what about the engine? What
+kind of thruster could be used to accelerate at a signiﬁcant fraction of c(−)? How to
+reach the stars?
+
+A vehicle and its passengers are an ensemble of particles of mass m. The size of these
+particles can be likened to their Compton wavelength, which represents their “spatial
+extension”:
+
+λc = h
+mc
+
+Fig. 12 – Didactic image of the Compton wavelength of a particle.
+
+We will see in the next section the geometrical aspect of mass inversion. If we assume
+that a ship and its crew are transferred to this “backside of the universe” they will ﬁnd
+themselves among the content of the negative sector, i.e. among particles of negative
+energy.7
+
+Due to the very diﬀerent space scale factors of the positive sector vs negative sector
+
+according to [35]:
+
+a(−)
+a(+) ≈ 1
+100
+
+Surrounding negative energy particles will appear a hundred times smaller with
+respect to the particles of the spaceship that are suddenly grafted in this negative
+sector.
+
+Fig. 13 – A particle transferred in the negative sector
+
+appears bigger than surrounding particles.
+
+If we assume that such hyperspace transfer implies energy conservation, wavelengths
+associated to particles have to be comparable. This will be veriﬁed if the ship appears
+7More precisely (as said earlier in the part dedicated to CPT symmetry): among antiparticles
+
+(antiprotons, antineutrons, positrons, etc.) of negative energy and negative mass.
+
+15
+
+in the negative sector at a relativistic speed, which goes with a shortening (Lorentz
+contraction) by a factor of 100. Thus, a particle whose mass m is reversed transfers in
+the negative sector and would ﬁnd itself animated with a relativistic speed very close
+to three million kilometers per second8 (but still always less than this upper limit).
+
+Therefore, the spaceship would not need any thruster to accelerate. The spaceship
+
+is the engine.
+
+We speculate that without some kind of prior manipulation, transferring n particles
+would give them all relativistic speeds, but maybe in random directions. The spaceship
+would then instantly explode after transfer, converting its whole mass in energy.
+
+We think intuitively – but cannot currently justify it – that such harm could be
+avoided by aligning spins of particles the ship is made of, using a powerful uniform
+magnetic ﬁeld just before mass inversion. The magnetic ﬁeld vector would therefore
+correspond to the desired cruise direction in the negative sector. After a new transfer
+from the negative to the positive sector this time, this same set of particles gets back to
+its initial kinematic parameters, with a slow velocity with respect to the speed of light.
+The concepts of acceleration and deceleration would thus lose their meaning. No risk
+of any “raspberry jam delta-v” for the crew.
+
+Along an interstellar journey through the negative sector which has no star, no planet
+and no life,9 a ship could occasionally “resurface” and adjust its trajectory, locating its
+position in the galaxy from known distant light sources, using for example a three-
+dimensional map of identiﬁed pulsars as “deep space lighthouses” usable for navigation.
+
+Geometrical interpretation of hyperspace transfer by mass inversion
+
+We conjecture that a mass inversion would be possible by concentrating energy in a thin
+shell around the craft made of atoms whose nuclei have a metastable excitation level of
+great lifetime. The process is illustrated by the following sequence of drawings. In this
+2D analogy showing two separate folds, the vehicle becomes a closed contour line, as
+shown in ﬁgure 14.
+
+Fig. 14 – The vehicle and its passenger in our sector.
+
+8Or 1.86 million miles per second in imperial units.
+
+9Stellar nucleosynthesis never occurred – and never will – in the negative sector, hence no chemical
+elements heavier than antihydrogen, antihelium and antilithium. The negative sector is indeed in a
+much contracted state and hotter than the positive sector, and calculations show its hot gas clouds
+will never coalesce to form stars, as the cooling time of this sector is equal to the age of the universe.
+If the ship could slow down and had a window through which passengers could watch their outside
+environment, they would distinguish in the distance vague reddish gas nebulae radiating in the near-
+infrared spectrum.
+
+16
+
+The darker area at the bottom is not a “parallel universe” as you might think at
+ﬁrst, but the negative sector which is the backside of the same surface upside-down,
+seen from underneath. See it as a mirror laying below the upper sheet. Figure 15 shows
+what we are aiming by a mass inversion:
+
+Fig. 15 – The vehicle and its passenger transferred in the conjugate sector.
+
+Concentrating energy increases the local curvature of spacetime. Let the following
+
+spacecraft, seen more closely:
+
+Fig. 16 – Step 1: the craft lays in our positive sector.
+
+Let’s split this image and keep only half of it, so the curvature is easier to see:
+
+Fig. 17 – Image cut in half for better visualization.
+
+Energy is focused along the periphery of the craft. Mass-energy in our sector induces
+a local positive curvature in spacetime, as well as an opposite, negative curvature of the
+same magnitude in the other sector (we call these conjugate curvatures):
+
+Fig. 18 – Energy focused around the craft: space curvatures are increasing.
+
+At some point, a criticality is reached. In this 2D analogy, we represent it in ﬁgure
+
+20 as the connection of the two opposite folds together.
+
+17
+
+Fig. 19 – Criticality: the two folds get in contact along a circular line.
+
+Then, a geometric surgery occurs:
+
+Fig. 20 – Surgery: the two folds F and F* exchange their inner portions of space.
+
+Such sudden geometric surgery is a catastrophe, in the mathematical sense. The
+connection of the two surfaces is drastically modiﬁed: we go from a topological embed-
+ding in ﬁgure 19 to an immersion in ﬁgure 20.
+
+In reality, the opposite inner portions of the two folds do not even need to separate
+and pass “one through the other”. This didactic representation involving an embedding
+and an immersion of a 2D surface in a 3D space is only there to help people understand
+the concept of geometric criticality. The two separate sheets have a meaning up to some
+point, but no exact physical reality.
+
+Actually, this is a discrete process since it occurs at the atomic level: neutrons in
+metastable nuclei, which cannot bear any more energy, collapse into as many tiny space
+bridges covering the whole surface of the craft: all phenomena located at the atomic
+level propagate step by step, interacting with their neighborhood.
+
+18
+
+To continue on with the 2-fold analogy, ﬁgure 21 evokes the appearance of a criti-
+
+cality at the level of nearby nuclei.
+
+Fig. 21 – The same process, down to nuclei of neighboring atoms.
+
+Let’s consider in ﬁgure 22 the 2D development of the merging of two nearby space
+bridges when two nuclei close from one another reach such critical state. Such merging
+occurs according to what geometers call a cuspidal point.
+
+19
+
+Fig. 22 – How two nearby space bridges form and merge together.
+
+We can then illustrate the same process along a series of several nearby nuclei:
+
+Fig. 23 – Same merging process for multiple nearby space bridges.
+
+20
+
+Which evolves into:
+
+Fig. 24 – Final step: inner portions are connected to opposite folds.
+
+All tiny space bridges have merged step by step according to a closed surface. Each
+inner section is now connected to the opposite fold. Finally, the ship and the conjugate
+portion of empty space are swapped.
+
+Space comprising the ship is being die-cut. Back to ﬁgure 15, the spacecraft (white
+disc) is now grafted into the negative sector (blue fold), while a portion of rareﬁed space
+from the negative sector appears in lieu of the seemingly vanished ship. If the vehicle
+has been transferred while it was still in the atmosphere, ambient air quickly ﬁlls the
+empty volume of space left behind the disappeared craft in a snap.
+
+Such connection has been represented in the previous sets of ﬁgures as a closed con-
+tour line for reasons of simpliﬁcation, but this 1D line should have been rather a 2D
+band, with a certain width. Similarly, in 3D such energy concentration would be applied
+on a closed surface (in fact in a thin volume) covering the whole ship.
+
+This is similar to a soap ﬁlm. One could, with computer simulations, model the
+merging of two-dimensional images of neighboring nuclei in such state of geometric crit-
+icality, driven by superﬁcial tension forces.
+
+We made this 2D analogy to make the reader think about the key concept: how to
+trigger a mass inversion of a large quantity of matter, by provoking a physical criticality
+due to a large quantity of energy concentrated only in a limited volume, corresponding
+to a thin layer surrounding the ship.
+
+How to concentrate energy
+
+Nuclear magnetic resonance (NMR) allows to excite atom nuclei (instead of the more
+common excitation of electron orbitals). This is done by embedding atoms in a strong
+magnetic ﬁeld, then putting a strain on their nuclei with electromagnetic radiation of
+appropriate frequency. Fields produced by magnetic resonance imaging (MRI) currently
+reach 3 to 7 teslas. But in such systems the energy levels are quite low, and the char-
+acteristic relaxation time is of the order of 10−12 second only.
+
+It turns out that many atoms have long lifetime metastable excitation levels. Such
+excitation goes with a geometry modiﬁcation of nuclei which, from an initial spherical
+shape, become prolate spheroids like gridiron footballs. Some usual metastable isomers
+can have lifetimes of seconds, hours, days, etc.
+
+21
+
+Energy can be transferred directly and progressively to the nuclei of nuclear isomers,
+which store it until they are force-fed and cannot bear any more energy. We consider
+such a concentration of energy could cause a disruption in spacetime at the neutron
+level in nuclei, made possible by the VSL mechanism triggered by high energy density
+states originally detailed in [33] and [34] and later updated in [30] and [22]. This would
+be an artiﬁcial version of the natural mass inversion process presented in [8] and [9].
+
+Before triggering a mass inversion, according to the – still crude – idea to orient in
+the same direction the spin of all atoms the ship is made of (and not only a small fraction
+of them), it would be necessary to immerse these atoms in a perfectly uniform magnetic
+ﬁeld, and a very strong one (we think: above 1000 teslas). The whole assembly must
+bathe in this uniform magnetic ﬁeld (parallel ﬁeld lines) so that it cannot be created by a
+traditional system of internal coils. The solution is then to ﬁnd a way to deposit a great
+number of electric charges on the outer surface of the ship (or maybe according to a
+certain thickness, within a special material in the shell), which becomes electrostatically
+charged at a very high voltage (negative potential), and to put the object in rotation at
+high rpm. Note that this implies that the object is made from a surface of revolution
+with an axial symmetry.10 Among many simulations of such technique aimed to produce
+a uniform magnetic ﬁeld inside a rotating object, we found an appropriate shape made
+of two contiguous plates as shown in ﬁgure 25:
+
+Fig. 25 – Parallel magnetic ﬁeld lines in an electrostatically charged
+
+discoid object rotating around its z-axis (cross-section).
+
+This peculiar shape has another advantage for atmospheric ﬂight, which is less exotic
+than mass inversion for interstellar travel, but can still be considered as an advanced
+propulsion system: during high speed intra-atmospheric ﬂight, such concave discoid
+shape has been proven optimal for plasma conﬁnement to wall by magnetic gradient
+inversion, when an external-ﬂow magnetohydrodynamic drive is used for propulsion and
+active ﬂow control that is able to cancel shock waves and control temperature gradients,
+overcoming the heat barrier at supersonic and hypersonic speeds. This secondary MHD
+propulsion system is not presented here but its concepts are detailed in [36] and [37].
+Theoretical demonstration of supersonic ﬂight without shock wave is exposed in [38]
+and [39].
+
+According to such combined propulsion systems, provided with the appropriate en-
+ergy source, the same advanced vehicle would be able to take oﬀ vertically, ﬂy silently at
+
+10With limited or no sharp edges, to prevent electron leaking due to electric arcs or corona discharges.
+
+22
+
+high speed in the atmosphere, reverse its mass to travel toward nearest stellar systems,
+reappear in the vicinity of habitable planets, procced to a soft atmospheric entry, then
+ﬁnally land on faraway worlds after a journey of a few days or months. Deep space and
+interstellar missions would be conducted without having to resort to launching heavy
+rockets in multiple-stage-to-orbit conﬁgurations to assemble big orbital motherships
+containing small landing crafts. On the contrary, this is an all-in-one SSTO solution
+and a drastically diﬀerent vision for the future of space exploration.
+
+How to rotate such craft? An equatorial annular duct is ﬁlled with some gas, ionized
+by an inductive coil wrapped around that chamber. The plasma is then accelerated in
+this MHD ring accelerator by Lorentz forces (electrodeless travelling-wave accelerator).
+As a reaction, the whole vehicle accelerates in the other direction, in a rotational motion.
+
+Such high velocity rotation would be very harmful to the crew, centrifuged to death.
+The solution is to decouple the inner passenger compartment from the rest of the ro-
+tating spaceship. As a result, the craft would spin at high speed around an immobile
+cockpit.
+
+During the interstellar trip, the passenger compartment would again couple to the
+rest of the craft in slow rotation, providing artiﬁcial gravity to the crew. The electro-
+statically charged hull and the magnetic ﬁeld around would create a protective magne-
+tosphere acting as a shield deviating incident charged particles present in inﬁnitesimal
+quantities along the path followed by the ship in the extremely rareﬁed negative sector.
+
+Figure 26 is a sectional image of such vehicle landed on the ground. The decoupling
+
+toroidal cockpit and the annular rim accelerator are represented.
+
+Fig. 26 – Discoid spaceship.
+
+Right-angle turns
+
+Such a craft would cruise at a relativistic speed during its interstellar journey. Using
+more conventional thrusters, it could also follow trajectories at high speed in the posi-
+tive sector, either in deep space or during an intra-atmospheric ﬂight, and still be able
+to make 90◦ angle turns without harming the crew. The ﬁgure 27 illustrates the idea.
+
+23
+
+Fig. 27 – How a ﬂying vehicle cruising at high speed in our sector
+
+could temporarily use the negative sector to make sharp turns.
+
+Let such a spaceship cruise at a high velocity in our skies using MHD, as illustrated
+in ﬁgure 27(A). In (B), the ship disappears as it undergoes a mass inversion into the
+negative world, where it rotates by 45◦ using control moment gyroscopes, then reverses
+the direction of its magnetic ﬁeld vector. In (C), the ship brieﬂy reappears in our sector
+before immediately plunging back into the negative sector in (D), where it rotates again
+by 45◦ with CMGs and restores its initial magnetic vector direction. In (E) when the
+appropriate distance has been covered, the ship again undergoes a double hyperspace
+transfer to aim its initial departure point then covers the remaining distance in the
+negative frame. Finally, in (F) the ship reappears almost exactly at its initial point.
+
+In fact, such a triangular trajectory is only a simple approximation. Turning the ship
+by 45◦ would take some time. Meanwhile, as the ship appears at a relativistic speed in
+the negative sector, it would have covered hundreds of millions of kilometers at an ap-
+parent superluminal speed, before resurfacing at a remote location in space, somewhere
+in the farthest reaches of the solar system, or maybe within the asteroid belt. This
+would be too hazardous. Instead of six mass inversions and two 45◦ turns of ﬁgure 27,
+the ship would undergo a great number of hyperspace transfers at a high frequency, each
+time modifying its trajectory by a slight angle ∆θ. Then, a more realistic path is not
+the triangular one shown above (made of very long segments in the negative sector), but
+a polygonal trajectory made of a great number of broken lines, as illustrated in ﬁgure 28.
+
+The ship would seem to make sharp turns at high velocity, a behavior that would
+appear to “defy physics” according to an Earthly observer who would not necessarily
+notice the series of sudden disappearances followed by the quick reappearances of the
+craft at the same point in the sky, tracking instead an apparently “blinking object” that
+would seem to cruise in straight line, then make a grinding halt followed by a right angle
+turn.
+
+BAC45°DEF✹45°24
+
+Fig. 28 – More realistic trajectory along a high number of broken straight lines.
+
+Such a series of hyperspace transfers at high frequency allows a craft to make any
+sharp turn, or even reverse the direction of ﬂight, without the crew feeling any centrifugal
+force.
+
+Reintroduction of negative energy states in quantum mechanics
+
+The continuation of this work obviously requires modeling the mass inversion process
+at the atomic level using quantum mechanics. The ﬁrst step has been taken by Belgian
+mathematician Nathalie Debergh who has recently joined the Janus team. She has
+shown how negative energy states were ignored during the development of fundamental
+models of quantum mechanics almost a century ago, and are still dismissed from quan-
+tum ﬁeld theory. Steven Weinberg indeed wrote in [40], pp. 75–76 (emphasis added):
+
+“At this point we have not yet decided whether P and T are linear and unitary or
+antilinear and antiunitary.
+The decision is an easy one. Setting ρ = 0 in Eq. (2.6.4) gives
+
+P i H P−1 = i H,
+
+where H ≡ P 0 is the energy operator. If P were antiunitary and antilinear then it
+would anticommute with i, so PHP−1 = −H. But then for any state Ψ of energy
+E > 0, there would have to be another state P−1Ψ of energy −E < 0. There are
+no states of negative energy (energy less than that of the vacuum), so we are forced
+to choose the other alternative: P is linear and unitary, and commutes rather than
+anticommutes with H.
+On the other hand, setting ρ = 0 in Eq. (2.6.6) yields
+
+T i H T−1 = −i H.
+
+If we supposed that T is linear and unitary then we could simply cancel the is, and
+ﬁnd THT−1 = −H, with the again disastrous conclusion that for any state Ψ of
+energy E, there is another state T−1Ψ of energy −E. To avoid this, we are forced
+here to conclude that T is antilinear and antiunitary.”
+
+25
+
+This leads us to question the nature of the operator T, which reverts time.
+
+In dynamical group theory [29], the operator T is real and T-symmetry produces
+
+energy and mass inversion.
+
+In quantum ﬁeld theory, operators are complex. They can then be unitary or anti-
+unitary, and linear or antilinear. The arbitrary choice of an operator T antilinear and
+antiunitary was made on the sole purpose to avoid negative energy particles, considered
+as impossible.
+
+A bit further in [40], page 104, Weinberg justiﬁes this decision:
+
+“No examples are known of particles that furnish unconventional representations
+of inversions, so these possibilities will not be pursued further here. From now on,
+the inversions will be assumed to have the conventional action assumed in Section
+2.6.”
+
+Although British physicist Paul Dirac literally interpreted his discovery, in 1930, of
+negative-energy quantum states from his own equations as the Dirac sea, an inﬁnitely
+deep sea of particles with negative energy, the modern interpretation from quantum
+ﬁeld theory is that negative energy states are forbidden, as the zero-point ﬁeld of the
+quantum vacuum represents a ground state of lowest possible energy, so energy states
+below the zero value could not exist. Indeed, the probability of existence of energy states
+in quantum mechanics implies the ratio E/m. Therefore, if the energy is negative, that
+probability would be negative.
+
+But it is a biased explanation, as if the energy is negative, so is the mass (which would
+also emit negative energy photons). . . hence the probability remains positive. Positive
+energy and negative energy states would coexist in two separate worlds with increas-
+ing energy potential from both sides of a common ground state of lowest possible energy.
+
+Fortunately, Debergh has just shown in [41] that the foundations of quantum me-
+
+chanics do in fact allow such negative energy states predicted by the Janus model.
+
+A whole new world opens up.
+
+Acknowledgement
+
+The authors thank Julien Geﬀray for useful suggestions and English translation.
+
+26
+
+References
+
+[1] J.-P. Petit, “FTL interstellar travel in the Janus cosmological model”, YouTube.
+
+[2] R. Brent Tully, H. Courtois, Y. Hoﬀman and D. Pomar`ede, “The Laniakea supercluster
+
+of galaxies”, Nature, 513 (7516): 71–73 (September 2014). arXiv:1409.0880.
+
+[3] Y. Hoﬀman, D. Pomar`ede, R. Brent Tully and H. Courtois, “The dipole repeller”. Nature
+
+Astronomy, 1: 0036 (2017). https://arxiv.org/abs/1702.02483arXiv:1702.02483.
+
+[4] R. Adler, M. Bazin and M. Schiﬀer, “The Kerr Solution and Rotation”, in Introduction to
+General Relativity, 2nd ed., New York: McGraw-Hill, p. 258 (1975). ISBN 978-0070004207.
+[5] K. Schwarzschild, “¨Uber das Gravitational eines Massenpunktes nach der Einsteinschen
+Theorie”, Sitzungsberichte der K¨oniglich Preußischen Akademie der Wissenschaften zu
+Berlin, 189-196 (13 Jan. 1916)
+tr.: S. Antoci and A. Loinger, “On the gravitational ﬁeld of a mass point according to
+Einstein’s theory” (12 May 1999). arXiv:physics/9905030.
+
+[6] K. Schwarzschild, “¨Uber das Gravitationsfeld einer Kugel aus incompressibler Fl¨ussigkeit
+nach Einsteinsechen Theorie”, Sitzungsberichte der K¨oniglich Preußischen Akademie der
+Wissenschaften zu Berlin, 424-434 (24 Feb. 1916)
+tr.: S. Antoci, “On the gravitational ﬁeld of a sphere of incompressible ﬂuid according to
+Einstein’s theory” (16 Dec. 1999). arXiv:physics/9912033.
+
+[7] J.-P. Petit, “Mass inversion in a critical neutron star: An alternative to the black hole
+model – Part 1”, 21st annual International Conference on Particle Physics and Cosmology
+COSMO-17, Paris Diderot University, Paris, France (August 2017).
+
+[8] J.-P. Petit, “Mass inversion in a critical neutron star: An alternative to the black hole
+model – Part 2”, 21st annual International Conference on Particle Physics and Cosmology
+COSMO-17, Paris Diderot University, Paris, France (August 2017).
+
+[9] J.-P. Petit and G. d’Agostini, “Cancellation of the central singularity of the Schwarzschild
+solution with natural mass inversion process”, Modern Physics Letters A, 30 (9): 1550051
+(March 2015). doi:10.1142/S0217732315500510.
+
+[10] H. Fearn, “Mach’s Principle, Action at a Distance and Cosmology”, Journal of Modern
+
+Physics, 6 (3): 260-272 (February 2015). arXiv:1412.5426.
+
+[11] J. F. Woodward, “Twists of fate: Can we make traversable wormholes in spacetime?”,
+Foundations of Physics Letters, 10 (2): 153–181 (April 1997). doi:10.1007/BF02764237.
+
+[12] A. G. Riess et al, “Observational Evidence from Supernovae for an Accelerating Universe
+and a Cosmological Constant”, The Astronomical Journal, 116 (3): 1009–1038 (1998).
+arXiv:astro-ph/9805201. doi:10.1086/300499.
+
+[13] S. Perlmutter et al, “Measurements of Ω and Λ from 42 High-Redshift Super-
+novae”, The Astrophysical Journal, 517 (2): 565–586 (1999). arXiv:astro-ph/9812133.
+doi:10.1086/307221.
+
+[14] “Adam Riess (Nobel Prize 2011) says the universe has a negative mass”, 2mn excerpt
+of A. G. Riess’ Nobel Lecture, Aula Magna, Stockholm University (8 December 2011),
+YouTube.
+
+[15] H. Bondi, “Negative Mass in General Relativity”, Reviews of Modern Physics, 29 (3):
+
+423–428 (July 1957). doi:10.1103/RevModPhys.29.423.
+
+27
+
+[16] W. B. Bonnor, “Negative mass in general relativity”, General Relativity and Gravitation,
+
+21 (11): 1143–1157 (November 1989). doi:10.1007/BF00763458.
+
+[17] J.-P. Petit, “The Twin Universe”, The Adventures of Archibald Higgins, Savoir-Sans-
+
+[18] J.-P. Petit, “Faster Than Light”, The Adventures of Archibald Higgins, Savoir-Sans-
+
+Fronti`eres (2008).
+
+Fronti`eres (2008).
+
+[19] J.-P. Petit, “The Janus Cosmological Model”, YouTube video series with English subtitles.
+
+[20] JanusCosmologicalModel.com, web site dedicated to the Janus model.
+
+[21] J.-P. Petit and G. d’Agostini, “Negative mass hypothesis in cosmology and the
+nature of dark energy”, Astrophysics and Space Science, 354 (2):611-615 (2014).
+doi:10.1007/s10509-014-2106-5.
+
+[22] J.-P. Petit and G. d’Agostini, “Cosmological bimetric model with interacting positive
+and negative masses and two diﬀerent speeds of light, in agreement with the observed
+acceleration of the Universe”, Modern Physics Letters A, 29 (34): 1450182 (2014).
+doi:10.1142/S021773231450182X.
+
+[23] G. D’Agostini and J.-P. Petit, “Constraints on Janus Cosmological model from recent
+observations of supernovae type Ia”, Astrophysics and Space Science, 363 (7): 139 (June
+2018). doi:10.1007/s10509-018-3365-3
+
+[24] J.-P. Petit and G. d’Agostini, “Lagrangian derivation of the two coupled ﬁeld equations
+in the Janus cosmological model”, Astrophysics and Space Science, 357: 67 (May 2015).
+doi:10.1007/s10509-015-2250-6.
+
+[25] S. Hossenfelder, “A Bi-Metric Theory with Exchange Symmetry,” Physical Review D, 78:
+
+044015 (August 2008). arXiv:0807.2838.
+
+[26] A. D. Sakharov, “Violation of CP invariance, C asymmetry, and baryon asymmetry of
+
+the universe”, JETP Letters, 5 (1): 24–26 (1967).
+
+[27] A. D. Sakharov, “Collected Scientiﬁc Works”, Marcel Dekker (December 1982). ISBN
+
+978-0824717148.
+
+[28] A. A. Kirillov, “Merits and demerits of the orbit method”, Bulletin of the American
+Mathematical Society, 36 (4): 433–488 (August 1999). doi:10.1090/s0273-0979-99-00849-
+6.
+
+[29] J.-M. Souriau, “Description m´ecaniste des particules ´el´ementaires : Inversions d’espace et
+
+de temps” in “Structure des Syst`emes Dynamiques”, Dunod (1970).
+tr.: J.-M. Souriau, “A mechanistic description of elementary particles: Inversions of space
+and time” in “Structure of Dynamical Systems”, Progress in Mathematics, Birkh¨auser,
+pp. 189–193 (1997). ISBN 978-1-4612-6692-1. doi:10.1007/978-1-4612-0281-3 14.
+
+[30] J.-P. Petit, P. Midy and F. Landsheat, “Twin matter against dark matter”. 3rd Marseille
+Cosmology Conference Where’s the Matter? Tracing Dark and Bright Matter with the
+New Generation of Large-Scale Surveys. Marseille, France (June 2001).
+
+[31] F. Henry-Couannier, G. D’Agostini and J.-P. Petit, “I- Matter, antimatter and geometry.
+II- The twin universe model: a solution to the problem of negative energy particles. III-
+The twin universe model plus electric charges and matter-antimatter symmetry”, preprint
+(2005). arXiv:math-ph/0502042.
+
+28
+
+[32] J.-P. Petit and G. D’Agostini, “Five-dimensional bigravity. New topological description
+
+of the Universe”, preprint (2008). arXiv:0805.1423.
+
+[33] J.-P. Petit, “An interpretation of cosmological model with variable light velocity”. Modern
+Physics Letters A, 3 (16): 1527–1532 (November 1988). doi:10.1142/S0217732388001823.
+the interpretation
+1733–1744 (December 1988).
+
+[34] J.-P. Petit, “Cosmological model with variable light velocity:
+
+of red shifts”. Modern Physics Letters A, 3 (18):
+doi:10.1142/S0217732388002099.
+
+[35] J.-P. Petit, “Janus Cosmological Model and the Fluctuations of the CMB”. Progress in
+
+Physics, 14 (4): 226–229 (2018).
+
+[36] J.-P. Petit and M. Viton, “Convertisseurs magn´etohydrodynamiques d’un genre nou-
+veau : appareils `a induction” [Induction devices - A new type of magnetohydrody-
+namic converter], Comptes Rendus de l’Acad´emie des Sciences, S´erie B (in French),
+Paris: French Academy of Sciences, 281 (11):
+157–160 (February 1977). Bib-
+code:1977CRASB.284..167P.
+
+[37] J.-P. Petit, J. Geﬀray and F. David, “MHD Hypersonic Flow Control for Aerospace Ap-
+plications”, 16th AIAA/DLR/DGLR International Space Planes and Hypersonic Systems
+and Technologies Conference (HyTASP), Bremen, Germany: American Institute of Aero-
+nautics and Astronautics (October 2009). doi:10.2514/6.2009-7348.
+
+[38] J.-P. Petit and B. Lebrun, “Shock wave annihilation by MHD action in supersonic ﬂow.
+Quasi one dimensional steady analysis and thermal blockage”, European Journal of Me-
+chanics B/Fluids, 8 (2): 163–178 (1989).
+
+[39] J.-P. Petit and B. Lebrun, “Shock wave annihilation by MHD action in supersonic ﬂows.
+Two-dimensional steady non-isentropic analysis. Anti-shock criterion, and shock tube sim-
+ulations for isentropic ﬂows”, European Journal of Mechanics B/Fluids, 8 (4): 307–326
+(1989).
+
+[40] S. Weinberg, “Relativistic Quantum Mechanics”,
+
+in The Quantum Theory of Fields,
+Cambridge University Press, pp. 75–76 and p. 104 (1995). ISBN: 978-0521670531.
+doi:10.1017/CBO9781139644167.004.
+
+[41] N. Debergh, J.-P. Petit and G. D’Agostini, “On evidence for negative energies and
+masses in the Dirac equation through a unitary time-reversal operator”, preprint (2018).
+arXiv:1809.05046.
+
+

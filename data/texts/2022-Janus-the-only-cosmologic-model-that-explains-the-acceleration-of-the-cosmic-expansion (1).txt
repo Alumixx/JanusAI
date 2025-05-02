@@ -1,0 +1,2258 @@
+Janus, the only cosmological model that explains the acceleration of cosmic expansion
+
+Jean-Pierre Petit∗ and Gilles D’Agostini†
+
+(Dated: November 14, 2022)
+
+We show that it is possible to integrate negative masses into the Janus cosmological model by
+describing the universe as a manifold equipped with two metrics, one referring to positive masses and
+the other to negative masses, as solutions of a system of two coupled ﬁeld equations. The acceleration
+of the cosmic expansion then results from the dominance of the negative energy content, showing a
+good agreement with observational data.
+
+I.
+
+INTRODUCTION
+
+At the end of the 2000s, observational data began to
+accumulate, tending to show the movement of expansion,
+far from slowing down as previously expected, was on the
+contrary accelerating. The collected data were consid-
+ered suﬃciently reliable for this discovery to be rewarded
+with a Nobel Prize in 2011 [1–3]. However the cause
+of this acceleration remained unknown. The only ap-
+proach proposed by specialists consisted in reintroducing
+the cosmological constant in the equation serving as the
+basis for general relativity, the famous Einstein’s equa-
+tion:
+
+Rµν − 1
+2
+
+R gµν + Λ gµν = χ Tµν
+
+(1)
+
+In the past, before the Italian Torricelli discovered at-
+mospheric pressure, it was considered that the cause of
+mercury rising in the barometers was “the horror of the
+vacuum”, which we applied to quantify. But it did not
+constitute a real explanation, relying on clear physical
+foundations. Later on, it was evidently established that
+what caused the column of mercury to rise in the tube
+was nothing but than the impact of the very numerous
+collisions of air molecules on the free surface of the liquid
+metal, resulting which was called pressure. In the same
+way, that “the introduction of this cosmological constant
+in the equation, translates a repulsive power of the vac-
+uum” cannot be considered as a satisfactory explanation.
+The scientiﬁc community then gave it the qualiﬁer
+“dark energy”, which then has a negative value. On the
+dynamic level, this new unknown component is of con-
+siderable, majority importance. The specialists are since
+looking for a component of the cosmic soup which makes
+it possible to clarify this problem.
+
+We present an explanation which introduces negative
+masses in the cosmological model. This has been at-
+tempted for a long time by the cosmologist Hermann
+Bondi [4]. This one concludes that the laws governing
+the interactions between positive and negative masses,
+within the framework of general relativity, do not lead to
+a true model, valid on the physical plan. They especially
+
+∗ jppetit1937@yahoo.fr
+† Gilles.Dagostini@manaty.net
+
+violate the fundamental principles of action-reaction and
+equivalence. Let’s come back to this point.
+
+General relativity is based on:
+• The universe, the space-time, is a M4 manifold, a
+four-dimensional hypersurface, deﬁned at any point
+and at any time by its metric ﬁeld gµν.
+
+• From this metric we can calculate two sets of
+geodesics. Those of non-zero length are followed
+by particles of matter, those of zero length by pho-
+tons.
+
+• If we know the source of the ﬁeld, so the values at
+any point of the components of the tensor of the
+second member Tµν, we can calculate the metric
+solution gµν.
+
+• If we concentrate on those of non-zero length
+geodesics, the ones referring to the masses, for a
+given ﬁeld Tµν, there is only one family of geodesics,
+along which the control particles will circulate,
+whether their masses are positive or negative.
+
+To tackle this problem with precision, we resort to
+the two metric solutions constructed by Schwarzschild
+in 1916 [5, 6]. There is ﬁrst the interior metric solution
+describing a mass M , likened to a sphere ﬁlled with an
+incompressible ﬂuid of constant density ρ0:
+
+ds2 =
+
+1 − 8πGρ0 r0
+
+2
+
+3 c2
+
+− 1
+2
+
+1 − 8πGρ0 r2
+
+3 c2
+
+c2dt2
+
+…
+
+ô2
+
+− r2dθ2 − r2 sin2 θdϕ2
+
+(2)
+
+1 − 8πGρ0 r2
+
+3 c2
+
+dr2
+
+ã
+
+1 − 2 G M
+c2 r
+
+which links to the solution referring to the vacuum sur-
+rounding this mass:
+1 − 2 G M
+c2 r
+−
+
+− r2(dθ2 + sin2 θdϕ2)
+
+ds2 =
+
+c2 dt2
+
+dr2
+
+(3)
+
+ 
+
+(cid:90) r
+
+r0
+
+ϕ = ϕ0 +
+
+The non-zero length geodesics are given by:
+
+c2λ2 − 1
+
+h2
+
+r4 +
+
+2 G M r3
+
+− r2 +
+
+2 G M r
+
+dr
+
+c2
+
+c2
+
+(4)
+
+…
+
+−
+
+ñ 3
+Å
+
+2
+
+When this mass M is positive, the geodesics are of the
+ellipse, parabola, hyperbola type, all reﬂecting an attrac-
+tion. We deduce, according to the model of general rela-
+tivity that:
+
+• The positive masses attract their fellow beings as
+
+well as the negative masses.
+
+If this ﬁeld is created by a negative mass, then to ob-
+tain the geodesics it suﬃces to change the sign in this
+Schwarzschild metric solution, the quantities M and ρ0
+being only simple constants of integration:
+
+(cid:35)2
+
+8πG|ρ0|r0
+
+2
+
+3 c2
+
+− 1
+2
+
+8πG|ρ0|r2
+
+3 c2
+
+1 +
+
+1 +
+
+c2dt2
+
+− r2dθ2 − r2 sin2 θdϕ2
+
+(5)
+
+ 
+
+ds2 =(cid:34)
+
+3
+2
+
+ 
+Å
+
+−
+
+1 +
+
+dr2
+8πG|ρ0|r2
+
+3 c2
+
+ã
+
+ds2 =
+
+1 +
+
+c2 dt2
+
+2 G|M|
+c2 r
+
+−
+
+ 
+
+(cid:90) r
+
+r0
+
+dr2
+2 G|M|
+c2 r
+
+1 +
+
+− r2(dθ2 + sin2 θ dϕ2)
+
+(6)
+
+The geodesics are then deduced from the expression:
+
+ϕ = ϕ0 +
+
+c2λ2 − 1
+
+r4 − 2G|M|r3
+
+− r2 − 2G|M|r
+
+h2
+
+c2
+
+dr
+
+c2
+
+(7)
+Curves of the parabola and ellipse type disappear. Only
+geodesics of the hyperbole type remain, evoking a repul-
+sion (see Fig. 1).
+
+As a conclusion:
+• Negative masses repel their fellow beings as well as
+
+positive masses.
+
+Thus, if two masses of opposite signs are brought to-
+gether, the positive mass ﬂees, pursued by the negative
+mass. Both undergo a uniform acceleration without any
+input of energy, since that of the negative mass is neg-
+ative. We have given the name runaway to this phe-
+nomenon, which violates both the principle of action-
+reaction and the principle of equivalence (Fig. 2).
+
+II. AN ATTEMPT TO INTRODUCE NEGATIVE
+MASSES SATISFYING TO THE PRINCIPLES OF
+
+ACTION-REACTION AND EQUIVALENCE
+
+In a purely heuristic approach, we could consider in-
+
+teraction laws corresponding to:
+
+• Masses with same sign mutually attract by New-
+
+ton’s law.
+
+2
+
+FIG. 1. Geodesics in a repelling ﬁeld
+
+FIG. 2. The introduction of negative masses in general rela-
+tivity results in the runaway phenomenon.
+
+• Masses with opposite signs mutually repel by anti-
+
+Newton’s law.
+
+This was envisaged as early as 1995 [7, 8], with some
+proﬁt, with respect to an attempt to explain the large-
+scale structure of the universe and the spiral structure of
+galaxies [8]. But we then ran into a serious pitfall: these
+laws do not match with general relativity. Indeed they
+implied that the witness masses, positive and negative,
+behave diﬀerently when they were immersed in the same
+gravitational ﬁeld. To do this they had to follow diﬀerent
+µν and g(−)
+geodesic curves, from two diﬀerent metrics g(+)
+These cannot emerge from a single ﬁeld equation. In
+the general relativity equation, Einstein’s equation, the
+Ricci tensor Rµν and the Ricci scalar R follow from the
+solution metric gµν. However, two distinct metrics g(+)
+µν
+and g(−)
+µν as well
+as scalars R(+) and R(−). Hence, we have a kind of bi-
+geometry, bimetric conﬁguration.
+
+µν generate diﬀerent tensors R(+)
+
+µν and R(−)
+
+µν
+
+III. FIRST BIMETRIC GEOMETRIES
+
+writing the interaction tensors):
+
+In 2004 T. Damour and I. Kogan [9, 10] consider the
+interaction between two geometric entities, qualiﬁed as
+“right” and “left” “branes”. A construction using a La-
+grangian,
+leads
+them to propose the system of the following two coupled
+ﬁeld equations:
+
+inspired by the classical construction,
+
+2 M 2
+
+R (Rµν(gR) − 1
+2
+
+2 M 2
+
+L (Rµν(gL) − 1
+2
+
+gR
+µν R(gR)) + ΛR gR
+
+µν= T R
+
+µν + tR
+µν
+
+(8)
+
+gL
+µν R(gL)) + ΛL gL
+
+µν = T L
+
+µν + tL
+µν
+
+µν and T L
+
+In these equations the tensors T R
+µν have the clas-
+sical form, inspired by general relativity. The interaction
+relies entirely on the “interaction tensors” tR
+µν.
+Over the course of an article reaching forty pages, the
+two authors try diﬀerent approaches, based on diﬀerent
+models, without success. Moreover, the model is com-
+plicated by the assumption that the interactions involve
+gravitons with a mass spectrum.
+
+µν and tL
+
+The German Sabine Hossenfelder produces the second
+
+attempt in 2008 [11]:
+
+(g)Rκν − 1
+
+2 gκν
+
+(g)R= Tκν − V
+
+aν
+ν aκ
+
+κ T κ ν
+
+(h)Rνκ − 1
+
+2 gνκ
+
+(h)R= Tνκ − W
+
+aκ
+κ aν
+
+ν Tν κ
+
+ 
+… g
+
+h
+g
+
+h
+
+The two interacting geometric entities are then identiﬁed
+by the Greek letters κ and ν. The construction of the
+interaction terms is then based on the introduction of a
+functional, covariant relation:
+
+δhκλ = −(cid:2)a−1(cid:3)µ
+
+(cid:2)a−1(cid:3)ν
+
+κ
+
+λδgµν
+
+(10)
+
+The author therefore limits herself to a systematic and
+binding hypothesis of symmetry between the two entities.
+This leads him to build an evolution scheme based on two
+FRLW metrics, simple copies of each other. The inter-
+action laws are deduced from the two equations, through
+the Newtonian approximation. Under these conditions,
+the scheme once again leads to a violation of the princi-
+ple of equivalence, and the author concludes that this is
+a property of all bimetric systems.
+
+ï
+
+(g)Rκν − 1
+2
+
+gκν
+
+(g)R
+
+= Tκν − V
+
+aν
+ν aκ
+
+κ T κ ν
+
+(h)Rνκ − 1
+2
+
+(h)R = −
+
+Tνκ − W
+
+gνκ
+
+aκ
+κ aν
+
+ν Tν κ
+
+ 
+… g
+
+h
+
+h
+g
+
+3
+
+ò
+
+(11)
+
+Going back to the presentation in Eq. (11), with our
+
+sign conventions, this system is written:
+
+ 
+g(+)ÛT (−)ν
+g(−)ÛT (+)ν
+
+µ + T (−)ν
+
+g(−)
+
+µ +
+
+g(+)
+
+µ
+
+µ
+
+(cid:35)
+(cid:35)
+
+(cid:34)
+
+(cid:34) 
+
+(12)
+
+R(+)ν
+
+µ − 1
+2
+
+R(+)δν
+µ
+
+= χ
+
+T (+)ν
+
+R(−)ν
+
+µ − 1
+2
+
+R(−)δν
+
+µ = −χ
+
+(9)
+
+Such a system must satisfy the Bianchi conditions. These
+are satisﬁed identically for the ﬁrst members. The tensors
+T (+)ν
+
+µ and T (−)ν
+
+µ are:
+
+0
+
+0
+
+0
+
+0
+
+
+
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+− p(+)
+c(+)2
+0
+
+− p(+)
+c(+)2
+
+(13)
+
+− p(−)
+c(−)2
+0
+
+− p(−)
+c(−)2
+
+0
+
+ρ(+)
+0 − p(+)
+c(+)2
+0
+
+0
+
+T (+)ν
+
+µ =
+
+0
+
+ρ(−)
+0 − p(−)
+c(−)2
+0
+
+T (−)ν
+
+µ =
+
+0
+
+
+
+µ andÛT (−)ν
+
+0
+
+0
+
+0
+
+0
+
+IV. ADAPTATION OF THE SYSTEM FOR A
+
+SATISFACTION OF THE PRINCIPLES
+
+ACTION-REACTION AND EQUIVALENCE
+
+The Janus system of equations [12–19] can at this stage
+be considered as a variant of the model d’Hossenfelder,
+at the cost of a simple sign change (modulo the mode of
+
+tensorsÛT (+)ν
+
+By applying the Bianchi condition to them, we obtain
+the relations reﬂecting, inside the masses, the balance
+between the force of pressure and the force of gravity. At
+this stage, the only constraint to which the interaction
+µ must obey is this Bianchi con-
+dition, which precisely determines their shape (see the
+
+detail of the calculations in the Appendix A).
+
+These equations become:
+
+ÛT (+)ν
+ÛT (−)ν
+
+µ =
+
+µ =
+
+
+
+
+ρ(+)
+
+0
+
+0
+
+0
+
+0
+
+0
+
+ρ(−)
+0
+
+p(+)
+c(+)2
+
+0
+
+0
+
+0
+
+0
+p(−)
+c(−)2
+0
+
+0
+
+p(+)
+c(+)2
+
+0
+
+0
+
+0
+
+0
+
+0
+p(−)
+c(−)2
+0
+
+
+
+
+0
+
+0
+
+0
+
+0
+
+0
+
+p(+)
+c(+)2
+
+0
+p(−)
+c(−)2
+
+The system of coupled ﬁeld equations [Eq. (12)] is valid
+only if it produces solutions consistent with observations.
+This had been outlined in [12]. While Hossenfelder has
+always placed herself in a perspective of symmetry be-
+tween the two entities, the Janus model is based on the
+contrary on a fundamental asymmetry, the cosmic dy-
+namics being under the control of the majority negative
+mass population. This asymmetry will be explained in a
+future article.
+
+It had been exploited in [7] through numerical simula-
+tions. Under these conditions the negative masses, whose
+accretion time is then lower:
+
+t(−)
+J =
+
+1(cid:112)4πG|ρ(−)| (cid:28) t(+)
+
+J =
+
+1(cid:112)4πGρ(+)
+
+Thus, the negative masses form a regular system of
+spheroidal clusters, conﬁning the positive mass in the
+remnant place, giving it a lacunar structure. This will be
+taken up and developed in a future article.
+
+V. FIRST APPLICATION OF THE JANUS
+
+MODEL: EXPLANATION OF THE
+
+ACCELERATION OF COSMIC EXPANSION
+
+Before bringing this asymmetry hypothesis into play,
+let’s start by examining the compatibility of Eq. (12)
+when we assign them solutions, homogeneous and
+isotropic, of the FRLW type:
+
+µν = c(+)2dt2 − a(+)2
+g(+)
+1 − k(+)
+
+µν = c(−)2dt2 − a(−)2
+g(−)
+1 − k(−)
+
+(cid:2)dr2 + dΩ2(cid:3)
+(cid:2)dr2 + dΩ2(cid:3)
+
+4
+
+ñ
+c(+)2a(+)3ÛT (−)ν
+ñ c(+)2a(+)3
+c(−)2a(−)3ÛT (+)ν
+
+µ + T (−)ν
+
+c(−)2a(−)3
+
+T (+)ν
+
+µ +
+
+µ
+
+µ
+
+ô
+ô
+
+(17)
+
+R(+)ν
+
+µ − 1
+2
+
+R(+)δν
+µ
+
+= χ
+
+R(−)ν
+
+µ − 1
+2
+
+R(−)δν
+
+µ = −χ
+
+(14)
+
+In the classical treatment of the FRLW solution of Ein-
+stein’s equation, we ended up with the conservation of
+energy:
+
+E = ρ c2 a3 = Cst
+
+(18)
+
+A similar treatment (compatibility between the two equa-
+tions) leads to the condition:
+
+E = ρ(+) c(+)2a(+)3 + ρ(−)c(−)2a(−)3 = Cst
+
+(19)
+
+which translates a conservation of global energy.
+
+By focusing on the phase where these are universes
+of dust, where we can neglect the pressure, we can thus
+write the equations:
+
+(20a)
+
+(20b)
+
+(21)
+
+R(+)ν
+
+µ − 1
+2
+
+R(+)δν
+
+µ =
+
+χE
+
+c(+)2a(+)3
+
+R(−)ν
+
+µ − 1
+2
+
+R(−)δν
+
+µ = −
+
+χE
+
+c(−)2a(−)3
+
+In this system is the Einstein constant, which we take, in
+accordance with the form retained for the ﬁeld tensors,
+equal to:
+
+(15)
+
+χ = − 8πG
+c(+)2
+
+It is negative. The signs of the second members of the
+equations of the system shown in Eq. (20) will therefore
+be opposite. If the overall energy, dominated by the neg-
+ative mass content, is negative, then Eq. (20b) will give
+an evolution of the Friedman model type, with an accel-
+eration of this expansion. The solution of the Eq. (20a),
+then showing an acceleration of the expansion was stud-
+ied by W.Bonnor [20]. This solution can be written in
+the following parametric form:
+
+a(+)(u) = α2ch2u
+
+(22)
+
+t(+)(u) =
+
+(1 +
+
+sh(2u) + u)
+
+(23)
+
+α2
+c(+)
+
+1
+2
+
+To simplify the notations, we put: a(+) = a, c(+) = c.
+
+(16)
+
+The “deceleration parameter” q becomes:
+
+q = − a¨a
+
+˙a2 = − 1
+
+2sh2u
+
+< 0
+
+(24)
+
+5
+
+FIG. 3. Hubble diagram of the combined sample (log redshift
+scale)
+
+FIG. 4. Hubble diagram of the combined sample (linear red-
+shift scale)
+
+ï
+
+ò
+
+The construction of the relationship between the bolo-
+metric magnitude and the redshift is given in the ap-
+pendix. It comes:
+
+mbol = 5 log10
+
+z +
+
++ cst (25)
+
+z2(1 − q0)
+
+√
+
+1 + q0z +
+
+1 + 2q0z
+
+where q0 < 0 and 1 + 2q0z > 0. Sizing the values of q0
+and of the constant in order to ﬁt available observational
+data [1], we get:
+
+q0 = −0.087 ± 0.015
+
+Results presented below, show the standardized distance
+modulus µ = 5 log10(dL/10pc), linked to experimental
+parameters through the relation:
+
+µ = m∗
+
+B − MB + αX1 − βC
+
+(27)
+
+where m∗
+B is the observed peak magnitude in rest frame
+B band, X1 is the time stretching of the light curve and
+C the supernova color at maximum brightness.
+
+Both MB, α and β are nuisance parameters in the
+
+distance estimate.
+
+We took the values given in [1] corresponding to the
+best ﬁt of the whole set of combined data (740 super-
+novae) with ΛCDM model.
+
+With the best ﬁt we get χ2/d.o.f. = 657/738 (740
+points and 2 parameters). The corresponding curves are
+shown in Fig. 3, 4, 5, 6, in excellent agreement with the
+experimental data. The comparison with both model
+best ﬁts are shown in Fig. 7.
+
+We can derive the age of the universe (see Appendix B)
+with respect to q0 and H0 and some numerical values,
+
+FIG. 5. Residuals of the combined sample (log redshift scale)
+
+(26)
+
+for diﬀerent (q0, H0) values, are given in Table I. For our
+best ﬁt, we get:
+
+T0 =
+
+= 15.0 Gyr
+
+(28)
+
+1.07
+H0
+
+The content of the universe can then be revised. In this
+Cosmological Janus model, dark matter and dark energy
+are replaced by one component, a negative mass content,
+which will then be perfectly identiﬁed and which will be
+seen to account for all the phenomena for which these
+
+FIG. 6. Standard deviations of the combined sample (log
+redshift scale)
+
+ 32 34 36 38 40 42 44 46 0.01 0.1 1q0 = −0.087q0 = −0.131q0 = 0−Low−zSDSSSNLSHSTµ = m*B − M(G) + αX − βCz 32 34 36 38 40 42 44 46 0 0.2 0.4 0.6 0.8 1 1.2 1.4q0 = −0.087q0 = −0.131q0 = 0−Low−zSDSSSNLSHSTµ = m*B − M(G) + αX − βCz−0.8−0.6−0.4−0.2 0 0.2 0.4 0.6 0.8 0.01 0.1 1Residuals : µ − µ(q0=−0.087)z−6−4−2 0 2 4 6 0.01 0.1 1Standard deviationszVI. CONCLUSION
+
+6
+
+µν and g(−)
+
+The model presented represents a profound change in
+the cosmological paradigm in the sense that we move
+from a description of the universe as a variety equipped
+with a single metric gµν, solution of a single ﬁeld equa-
+tion, Einstein’s equation, to a manifold equipped with
+two metrics g(+)
+µν , referring respectively to pos-
+itive masses and negative masses, solutions of a system
+of two coupled ﬁeld equations. The Newtonian approxi-
+mation then provides interaction laws which, unlike what
+emerges from the attempt to introduce negative masses
+into the Einsteinian model (runaway phenomenon), sat-
+isfy the principles of action-reaction and equivalence.
+Masses of the same sign then attract each other accord-
+ing to Newton’s law, while masses of opposite signs repel
+each other according to “anti-Newton”. As will be de-
+veloped in the following articles, gravitational instabil-
+ity tends to separate these two populations. Under these
+conditions, when one population dominates in one region
+of the universe, the other is mainly excluded.
+
+Then the ﬁrst equation of the proposed system is iden-
+tiﬁed with Einstein’s equation, which then appears as a
+limiting description, in the regions where the negative
+mass content can be neglected. The model thus agrees
+with the classic veriﬁcations of general relativity, of a
+local nature. As will be shown in subsequent articles,
+these negative mass particles are simply negative mass
+anti-hydrogen and anti-helium. We will show that the
+result of the interaction with the positive masses and the
+photons of positive energy accounts for all the phenom-
+ena that we attributed until now to the dark matter,
+which is then no longer necessary. The energy of this
+negative mass population being itself negative then iden-
+tiﬁes with what was called “dark energy”. Thus, the
+two components of the model are thus replaced by a sin-
+gle component, ensuring these two functions, perfectly
+identiﬁed. As negative mass particles emit negative en-
+ergy photons, they escape our observations in the ﬁeld
+of optics. Incidentally, and this will also be the subject
+of another article, this negative mass antimatter is then
+identiﬁed with this great absentee: primordial antimat-
+ter, another problem for which the Janus cosmological
+model is the only one to provide a precise and consistent
+answer.
+
+That said, we show that this new Janus cosmological
+model perfectly accounts for the acceleration of cosmic
+expansion, being the only one to provide a real explana-
+tion of this phenomenon.
+
+FIG. 7. Hubble diagram compared with the 2 models (linear
+redshift scale)
+
+T0
+
+(Gyr)
+
+H0
+
+0.000 -0.045 -0.087 -0.102 -0.117 -0.132
+14.8
+14.2
+
+15.0
+14.4
+
+14.9
+14.3
+
+15.0
+14.4
+
+14.9
+14.3
+
+70 14.0
+73 13.4
+
+q0
+
+TABLE I. T 0 values with respect to q 0 and H 0
+
+two components, of an unspeciﬁed nature to date, were
+created. Hence, the composition of the universe is:
+
+• 96 % (invisible) negative mass,
+• 4 % positive mass.
+
+When we try to interpret the phenomenon of accel-
+eration of the expansion by invoking the cosmological
+constant Λ, this then evokes the presence of a negative
+energy independent of time, therefore independent of the
+expansion. Dynamically, it predicts an exponential ex-
+pansion as a function of time. In the Janus model, the
+curvature indices k+ and k− are equal to -1. The geome-
+tries are therefore hyperbolic and the scale factors a(+)
+and a(−) tend asymptotically towards linear functions of
+the common chronological marker xo = c(+)t(+) = c t.
+
+[1] S. Perlmutter, P. The Supernova Cosmology Project,
+
+et al., ApJ 517, 565 (1999).
+
+[2] A. G. Riess, PASP 112, 1284 (2000).
+[3] B. P. Schmidt et al., ApJ 507, 46 (1998).
+[4] H. Bondi, Rev. Mod. Phys. 29, 423 (1957).
+[5] K. Schwarzschild, On the gravitational ﬁeld of a sphere of
+
+incompressible ﬂuid according to einstein’s theory (1999).
+[6] K. Schwarzschild, On the gravitational ﬁeld of a mass
+
+point according to einstein’s theory (1999).
+
+[7] J.-P. Petit, Astrophys Space Sci 226, 273 (1995).
+[8] J.-P. Petit,
+
+Intern. Meet. on Atrophys. and Cosm.
+
+”Where is the matter ?” , 42 (2001).
+
+[9] T. Damour and I. I. Kogan, Phys. Rev. D 66, 104024
+
+(2002).
+
+[10] T. Damour, I. I. Kogan, and A. Papazoglou, Phys. Rev.
+
+D 66, 104025 (2002), arXiv:hep-th/0206044.
+
+[11] S. Hossenfelder, Phys. Rev. D 78, 044015 (2008).
+[12] J. P. Petit and G. d’Agostini, Astrophysics and Space
+
+[13] J.-P. Petit and G. D’Agostini, Astrophysics and Space
+
+Science 354, 611 (2014).
+
+Science 357, 67 (2015).
+
+[14] G. D’Agostini and J. P. Petit, Astrophys Space Sci 363,
+
+[15] J. P. Petit and G. D’Agostini, Mod. Phys. Lett. A 29,
+
+[16] J. P. Petit and G. D’Agostini, Mod. Phys. Lett. A 30,
+
+139 (2018).
+
+1450182 (2014).
+
+1550051 (2015).
+
+[17] J.-P. Petit, PROGRESS IN PHYSICS 14, 4 (2018).
+[18] J.-P. Petit, G. D’Agostini, and N. Debergh, PROGRESS
+
+[19] N. Debergh, J.-P. Petit, and G. D’Agostini, J. Phys.
+
+IN PHYSICS 15, 10 (2019).
+
+Commun. 2, 115012 (2018).
+
+[20] W. B. Bonnor, Gen Relat Gravit 21, 1143 (1989).
+[21] R. C. Tolman, Phys. Rev. 55, 364 (1939).
+[22] J. R. Oppenheimer and G. M. Volkoﬀ, Phys. Rev. 55,
+
+374 (1939).
+
+[23] R. Adler, M. Bazin, and M. Schiﬀer, Introduction to gen-
+eral relativity, International series in pure and applied
+physics (McGraw-Hill, New York, 1965).
+
+Appendix A:
+
+The proposed Janus equations are:
+
+G(+)
+
+µν = R(+)
+
+µν − 1
+2
+
+R(+)g(+)
+µν
+
+= χ
+
+T (+)
+µν +
+
+G(−)
+µν = R(−)
+
+µν − 1
+2
+
+R(−)g(−)
+
+µν = −χ
+
+ 
+g(+)ÛT (−)
+g(−)ÛT (+)
+
+(A1)
+µν + T (−)
+
+(cid:35)
+(cid:35)
+
+g(−)
+
+g(+)
+
+µν
+
+µν
+
+(cid:34)
+
+(cid:34) 
+
+(A2)
+
+(A3)
+
+(A4)
+
+By construction:
+∇ν
+(+)G(+)
+
+µν = ∇ν
+
+(−)G(−)
+
+µν = 0
+
+Conservation laws give:
+
+∇ν
+(+)T (+)
+
+µν = ∇ν
+
+(−)T (−)
+
+µν = 0
+
+It is therefore necessary, in order to ensure the math-
+ematical and physical coherence of this system, that the
+interaction terms also satisfy these relations. Remember
+that Einstein’s equation, the backbone of general relativ-
+ity, provides only two types of solutions:
+
+• Uniform and isotropic time dependent, solutions:
+
+Friedman models.
+
+• Time independent solutions referring either to
+empty regions or to masses assimilated to volumes
+ﬁlled with an incompressible ﬂuid of constant den-
+sity.
+
+7
+
+The Bianchi conditions identify, in the ﬁrst case, to the
+conservation of energy and mass. In the second case, we
+see emerging, within the masses, the relationship reﬂect-
+ing the balance between the force of gravity and the force
+of pressure. So this is analyzed by considering the inner
+Schwarzschild metric. The problem had thus been com-
+pletely dealt with by Karl Schwarzschild in his second
+article of 1916 [6] where he even went so far as to explain
+the law r. This analysis was subsequently taken up by
+Tolman [21], Oppenheimer and Volkoﬀ [22] and special-
+ists then know this relationship in its diﬀerential form, as
+the so called “Tolman-Oppenheimer-Volkoﬀ equation of
+state” or “TOV equation”. For example, all the details
+of such a calculation can be found in [23], Chapter 14.
+
+If we now shift to the system of the two coupled ﬁeld
+equations, when we consider the unsteady “dust phases”
+where the pressures p(+) and p(−) can be neglected, a
+very simple case, in all respects analogous to what is done
+with a single species, in general relativity, leads to the
+following compatibility relation, reﬂecting a generalized
+conservation of energy:
+
+ρ(+) c(+)2a(+)3 + ρ(−)c(−)2a(−)3 = Cst
+
+(A5)
+
+In time independent conditions, the Bianchi condition
+is obviously satisﬁed in a trivial way in vacuum. The
+problem arises when we consider a region of space where
+there is matter. Let us consider for example a part of
+space corresponding to a sphere ﬁlled with a positive
+mass, assimilated to an incompressible ﬂuid, of constant
+density. The system is written:
+
+G(+)
+
+µν = R(+)
+µν = R(−)
+G(−)
+
+µν − 1
+2
+µν − 1
+2
+
+R(+)g(+)
+
+µν = χ T (+)
+µν
+µν = −χ
+
+R(−)g(−)
+
+ 
+
+g(−)ÛT (+)
+
+g(+)
+
+µν
+
+(A6)
+
+(A7)
+
+By taking the approach of Chapter 14 from [23], the
+
+metrics are given the forms:
+
+ds(+)2 = eνdxo 2 − eλdr2 − r2(dθ2 + sin2 θϕ2) (A8)
+ds(−)2 = eνdxo 2 − eλdr2 − r2(dθ2 + sin2 θϕ2) (A9)
+From which we can calculate the components of the
+µ as in [23], Chapter 14.
+
+µ and R(−)ν
+
+Ricci tensors R(+)ν
+The positive mass tensor is:
+
+
+
+0
+
+0
+
+0
+
+− p(+)
+c(+)2
+
+
+
+0
+
+ρ(+)
+0 − p(+)
+c(+)2
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+− p(+)
+c(+)2
+
+Å 1
+
+ã
+
+To simplify the writing, we will put c(+) = c ; p(+) =
+p ; ρ(+) = ρ. Equation (A6) leads to the system of
+equations:
+
+e−λ
+
+r2 − λ(cid:48)
+
+r
+
+− 1
+
+r2 = χ ρ
+
+(A11)
+
+T (+)ν
+
+µ =
+
+(A10)
+
+e−λ
+
+ν(cid:48)
+r
+
+r2 +
+
+r2 = −χ
+− 1
+
+p
+c2
+
+(A12)
+
+e−¯λ
+
+− ¯ν(cid:48)¯λ(cid:48)
+
+4
+
+¯ν(cid:48) 2
+4
+
++
+
++
+
+¯ν(cid:48) − ¯λ(cid:48)
+
+2r
+
+= −χ K
+
+p
+c2
+
+Å 1
+
+ã
+
+ò
+
+ï ν(cid:48)(cid:48)
+
+2
+
+e−λ
+
+− ν(cid:48)λ(cid:48)
+
+4
+
+ν(cid:48) 2
+4
+
++
+
++
+
+ν(cid:48) − λ(cid:48)
+
+2r
+
+= −χ
+
+p
+c2
+
+(A13)
+
+We know that by setting:
+
+e−λ ≡ 1 − 2m(r)
+
+(A14)
+
+We obtain the so-called Tolman-Oppenheimer-Volkoﬀ
+
+equation:
+p(cid:48)
+c2 = − m + 4π G p r3/c4
+
+r(r − 2m)
+
+r
+
+(cid:16)
+
+(cid:17)
+
+ρ +
+
+p
+c2
+
+(A15)
+
+(A16)
+
+(A17)
+
+(A18)
+
+Consider the Newtonian approximation:
+
+p (cid:28) ρ c2
+
+;
+
+r (cid:29) 2m
+
+This relation then identiﬁes to Euler’s:
+
+(cid:48) = − ρ m(r)c2
+
+p
+
+= − G M(r)ρ
+
+r2
+
+r2
+
+M(r) being the mass contained in a sphere of radius r.
+This relationship expresses the balance between the force
+of pressure and the force of gravity.
+
+relationship. Let us give the interaction tensorÛT (+)ν
+
+Passing to Eq. (A7) and placing ourselves again in the
+Newtonian approximation, for there to be compatibility
+between the two ﬁeld equations we must ﬁnd the same
+µ the
+
+form:
+
+âρ 0
+
+ì
+
+ÛT (+)ν
+
+µ =
+
+0
+
+p
+c2
+0 0
+
+0 0
+
+0
+0
+p
+c2
+0
+
+0
+0
+
+0
+p
+c2
+
+It is the tensor T (+)ν
+µ , with inversion of the sign of the
+pressure terms. At this stage, let us specify that the
+choice of this tensor is completely free, its only virtue be-
+ing to ensure that Equations A6 and A7 are compatible,
+under the conditions of the Newtonian approximation.
+
+We get:
+
+(cid:112)−g(+)
+(cid:112)−g(−)
+
+(cid:112)
+(cid:112)
+
+Å 1
+
+=
+
+eνeλr4 sin2 θ
+e¯νe¯λr4 sin2 θ
+
+= e
+
+ν
+2 e
+
+λ
+
+2 e− ¯ν
+
+2 e− ¯λ
+
+2 = K(r)
+
+(A19)
+By calculating the components of the Ricci tensor
+
+µ , we then get the following system of equations.
+
+R(−)ν
+
+e−¯λ
+
+¯ν(cid:48)
+r
+
+r2 +
+
+− 1
+r2 = −χ K
+
+p
+c2
+
+(A20)
+
+ã
+
+ò
+
+(cid:16)
+
+ï ¯ν(cid:48)(cid:48)
+
+2
+
+8
+
+(A21)
+
+(A22)
+
+(A23)
+
+− ¯ν(cid:48) + ¯λ(cid:48)
+
+r
+
+e−¯λ = −χ K
+
+ρ +
+
+p
+c2
+
+(cid:17)
+
+Applying the Newtonian approximation upstream of
+this calculation, we can do K ≈ 1. As in the above we
+will ask:
+
+e−λ ≡ 1 − 2 ¯m
+r
+
+We continue the calculation in a similar way to what
+
+was done above and we obtain the result:
+ρ − p
+c2
+
+c2 = − m − 4π G p r3/c4
+p(cid:48)
+
+r(r + 2m)
+
+(cid:16)
+
+(cid:17)
+
+(A24)
+
+comes
+
+µ is not
+
+1. Remark
+
+done in a day. The presence of the term
+
+This diﬀers from Eq. (A15). But these two equations
+come together when applying the Newtonian approxi-
+mation. There is therefore compatibility, modulo this
+condition. We will conclude that the system of Equa-
+tions A1 + A2 must be limited to the description of the
+universe under the conditions corresponding to the New-
+tonian approximation.
+
+from the Lagrangian construction ([11, 13]) of the system
+of coupled ﬁeld equations, which involves hypervolumes:
+
+µ andÛT (−)ν
+Building the interaction tensorsÛT (+)ν
+(cid:112)−g(+)
+(cid:112)−g(−)
+»−g(+) d 4 x et
+»−g(−) d 4 x
+ÛT (−)ν
+ñ
+ñ c(+)2a(+)3
+
+This did not pose a problem in the construction of the
+time-dependent solution, where the question of the bal-
+ance between the forces of pressure and the force of grav-
+ity disappeared in a trivial way, because of the assump-
+tion of homogeneity and isotropic, which allowed a ﬁrst
+construction of the exact unsteady solution (Eq. A26).
+In this case the system of ﬁeld equations was reduced to:
+
+In a ﬁrst, heuristic approach, we opted for the choice:
+
+ÛT (+)ν
+
+c(−)2a(−)3
+c(+)2a(+)3
+
+µν − 1
+R(+)
+2
+
+µ = T (−)ν
+
+ô
+ô
+
+µ = T (+)ν
+µ
+
+R(+)g(+)
+
+T (+)
+µν +
+
+T (−)
+
+µν =
+
+(A25)
+
+(A26)
+
+(A27)
+
+et
+
+χ
+
+µν
+
+µ
+
+µν − 1
+R(−)
+2
+
+R(−)g(−)
+
+µν = −χ
+
+µν + T (−)
+T (+)
+
+µν
+
+c(−)2a(−)3
+
+(A28)
+
+The application of the Newtonian approximation pro-
+vided in passing the laws of interaction, initially intro-
+duced heuristically, in order to satisfy the principles of
+action-reaction and equivalence. It remained to modify
+the shape of the interaction tensors so that they satisfy,
+under non-homogeneous conditions, the Bianchi condi-
+tions, so that the bigeometry, inside the masses, does
+not lead to a contradiction. Indeed, in hypothesis given
+in Eq. (A26), the analysis presented above leads to:
+
+• From the metric of the positive masses to the equa-
+
+tion:
+p(cid:48)
+c2 = − m + 4π G p r3/c4
+
+r(r − 2m)
+
+ρ +
+
+p
+c2
+
+• From the metric of the negative masses to the equa-
+
+tion:
+p(cid:48)
+c2 = +
+
+m − 4π G p r3/c4
+
+r(r + 2m)
+
+ρ − p
+c2
+
+(A29)
+
+(A30)
+
+(cid:16)
+
+(cid:16)
+
+(cid:17)
+
+(cid:17)
+
+In this case, the Newtonian approximation leads to the
+
+contradictory equations:
+
+(cid:48) = − G M(r)ρ
+p
+
+r2
+
+(cid:48) = +
+
+p
+
+G M(r)ρ
+
+r2
+
+(A31)
+
+As shown in this article, this problem disappears when
+the interaction tensors are given adequate form like in
+Eq. (A18).
+
+We get:
+
+Appendix B: Bolometric magnitude derivation
+
+and
+
+Starting from the cosmological equations correspond-
+ing to positive species and neglectible pressure (dust uni-
+verse):
+
+a(+)2 ¨a(+) +
+
+E = 0
+
+(B1)
+
+8π G
+
+3
+
+with E ≡ a(+)3ρ(+) +a(−)3ρ(−) = constant < 0. For sake
+of simplicity we will write a ≡ a(+) in the following. A
+parametric solution of Eq. (B1) can be written as:
+
+a(u) = α2ch2(u)
+
+t(u) =
+
+1 +
+
+α2
+c
+
+sh(2u)
+
+2
+
++ u
+
+Å
+
+ã
+
+(B2)
+
+with
+
+α2 = − 8π G
+
+(B3)
+This solution imposes k = −1. Writing the deﬁnitions
+
+3c2 E
+
+mbol = 5 log10
+
+q ≡ − a¨a
+
+˙a2 and H ≡ − ˙a
+a
+q = − 1
+
+, we can write:
+
+= − 4π G
+3
+
+|E|
+a3 H 2
+
+2sh2(u)
+
+9
+
+(B5)
+
+and also
+
+(1 − 2q) =
+
+c2
+
+a2 H 2
+
+In terms of the time t used in the FRLW metric, the
+light emitted by Ge at time te is observed on G0 at a
+time t0(te > t0) and the distance l travelled by photons
+(ds2 = 0) is related to the time diﬀerence t and then to
+the u parameter through the relation:
+
+(cid:90) t0
+
+(cid:90) u0
+
+c dt
+a(t)
+
+du = 2u0 − 2ue (B6)
+l =
+Using Friedman’s metric with k = −1, we can also
+
+(1 + ch(2u))
+
+ch2(u)
+
+=
+
+ue
+
+te
+
+relate the distance l to the distance marker r by:
+
+(cid:90) t0
+
+te
+
+l =
+
+c dt
+a(t)
+
+=
+
+(cid:90) r
+
+0
+
+dr(cid:48)√
+1 + r(cid:48)2
+
+= argsh(r)
+
+(B7)
+
+So we can write:
+r = sh(2u0 − 2ue) = 2sh(u0 − ue)ch(u0 − ue)
+We need now to link ue and u0 to observable quantities
+
+(B8)
+
+q0, H0, z. From Eq. (B7), we get:
+
+a0
+
+α2
+
+Å… a
+
+ã
+ 
+ 
+Ä
+1 −(cid:112)1 + 2q0z
+
+− 1
+2q0
+
+ä
+
+(B9)
+
+(B10)
+
+We get the usual redshift expression:
+
+u = argch
+
+ 
+
+ae =
+
+1 + z
+
+2q0 − 1
+2q0
+
+ 
+
+u0 = argch
+
+= argsh
+
+(B11)
+
+ue = argch
+
+= argsh
+
+2q0 − 1
+2q0(1 + z)
+
+− 1 + 2q0z
+2q0(1 + z)
+
+(B12)
+
+After a few technical manipulations, and considering
+
+the constraint that 1 + 2q0z > 0, we get:
+
+r =
+
+c
+
+a0 H0
+
+q0z + (1 − q0)
+q2
+0(1 + z)
+
+(B13)
+
+Which is similar to Mattig’s work with usual Fried-
+man’s solutions where q0 > 0, here we have always q0 < 0.
+The total energy received per unit area and unit time
+interval measured by bolometers is related to the lumi-
+nosity:
+
+The bolometric magnitude can therefore be written as:
+
+ä
+
+L
+
+4πa2
+
+Ebol =
+
+0 r2(1 + z)2
+
+Ä
+1 −(cid:112)1 + 2q0z
+ô
+
+ q0z + (1 − q0)
+ñ
+1 + q0z +(cid:112)1 + 2q0z
+
+z2(1 − q0)
+
+z +
+
+q2
+0
+
+(B14)
+
+ + cst
+
+(B15)
+
+This relation rewrites as:
+
+(B4)
+
+mbol = 5 log10
+
++ cst (B16)
+
+1. Age of the universe
+
+Below we will establish the relation between the age of
+the universe T0 with q0 and H0 (see Fig. 8). This age is
+deﬁned by:
+
+T0 =
+
+α2
+c
+
+Then we get:
+
+α2
+c
+
+= − 2q
+H
+
+(1 − 2q)
+
+− 3
+2 = − 2q0
+H
+
+(1 − 2q0)
+
+10
+
+2
+
+ã
+
++ u0
+
+Å sh(2u0)
+Å sh(2u0)
+  −1
+Ç
+
+2
+
+2
+
+argsh
+
++ u0
+
+2q0
+
+(B17)
+
+(B18)
+
+2
+
+− 3
+
+ã 1
+(cid:112)1 − 2q0
+
+H0
+
+−
+
+2q0
+
+å
+
+(B19)
+
+(B20)
+
+T0 = −2q0(1 − 2q0)
+
+− 3
+
+We ﬁnally get:
+
+T0.H0 = −2q0(1 − 2q0)
+
+− 3
+
+2
+
+FIG. 8. Age of the Universe
+
+and so:
+
+−0.30−0.25−0.20−0.15−0.10−0.050.00q00.940.960.981.001.021.041.061.08T0.H0(q0)T0.H0 in regard to q0

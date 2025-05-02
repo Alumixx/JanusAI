@@ -1,0 +1,262 @@
+	
+
+Jean-Pierre	Petit	
+
+Comme	dans	le	monde	de	la	médecine.	
+Ancien	directeur	de	recherche	au	Cnrs	
+				On	sait	que	la	prestigieuse	revue	The	Lancet,	fleuron	de	la	recherche	médicale	dans	le	
+monde,	a	été	prise	en	flagrant	délit	de	manipulation	de	données,	au	moment	du	Covid.	Il	
+vient	de	ses	passer	exactement	la	même	chose	à	travers	un	article	paru	en	janvier	2023	
+dans	la	revue	Astrophysical	Journal,	qui	est	au	monde	de	l’astrophysique	et	de	la	
+cosmologie	ce	qu’est	le	Lancet	en	médecine.	Voici	cet	article.		
+
+1	
+
+	
+
+			On	a	souligné	la	phrase-clé.	La	voici,	en	gros	plan	:		
+
+	
+
+2	
+
+	
+	Traduction	:		
+-  Le	défi	à	relever,	dans	l’optique	d’une	reconstruction	algorithmique	d’image	est,	
+parmi	l’infinité	d’images	possibles	(de	trou	noir),	d’en	générer	une	qui	soit	
+compatible	avec	les	données	(d’observation).		
+							On	sait	que	des	images	des	deux	objets	hypermassifs	qui	se	situent	au	centre	des	
+galaxies	M87	et	de	la	Voie	Lactée	ont	défrayé	la	chronique	en	étant	immédiatement	
+qualifiées	des	premières	images	de	«	trous	noirs	géants	».	C’est	encore	le	prestigieux	
+Astrophysical	Journal	qui	a	publié	ces	images.	En	dessous	on	trouve	une	barre	qui	relie	
+la	nuance	chromatique	à	ce	qui	est	qualifié	de	«	Brightness	Temperature	»,	ou	
+température	de	brillance.		
+					Seul	problème	:	le	centre	de	ces	deux	objets	n’est	pas	«	noir	»,	loin	s’en	faut.	En	
+utilisant	cette	barre	de	récence	on	trouve	les	valeurs	suivantes	:		
+	
+
+	
+
+3	
+
+	
+				Historiquement,	l’image	de	la	figure	de	gauche,	celle	de	l’objet	situé	au	cœur	de	M87	a	
+été	la	première	à	apparaître,	en	2019.	L’évaluation	de	ces	«	températures	de	brillance	»	
+conduit	aux	valeurs	suivantes	:	minimale,	1,8	milliards	de	degrés,	maximale,	5,7	
+milliards	de	degrés.	Le	rapport	est	alors	très	voisin	de	3.		
+				Trois	ans	plus	tard,	en	2022,	la	seconde	image	est	publiée,	image	de	droite.	
+Température	minimale	:	4	milliards	de	degrés,	maximale	:	douze	milliards.	Là	encore	le	
+rapport	est	3.	La	communauté	scientifique	justifie	le	fait	que	la	partie	centrale	ne	soit	
+pas	émissive	en	supposant	que	cette	lumière	émane	d’un	disque	de	gaz	chaud	orbitant	
+autour	du	trou	noir,	qui	nous	masque	celui-ci.		
+					L’identification	de	la	nature	d’un	phénomène	ou	d’un	objet	passe	toujours	par	une	
+interprétation	de	données	observationnelles	effectuée	à	travers	un	modèle.	S’agissant	de	
+vitesse,	ce	qu’on	mesure	c’est	l’effet	Doppler.	Ces	mesures	ont	permis	les	trajectoires	
+d’étoiles	orbitant	à	proximité	immédiate	du	centre	de	notre	voie	lactée.		
+	
+
+	
+
+4	
+
+	
+
+	
+Les	orbites	des	étoiles	situées	à	proximité	immédiate	du	centre	de	notre	galaxie.	
+						Au	milieu	de	ce	fouillis,	une	trajectoire	particulière	retiendra	notre	attention,	c’est	
+celle	d’une	étoile	baptisée	«	S2	».	Grâce	à	un	suivi	sur	27	années	il	a	été	possible	de	
+tracer	sa	trajectoire	complète	avec	une	grande	précision:		
+	
+
+	
+
+5	
+
+	
+
+				La	trajectoire	complète	de	l’étoile	S2	autour	d’un	objet	hypermassif	situé	au	foyer	de	
+cette	orbite	elliptique.	Sa	période	orbitale	est	de	9,9	années.	En	rouge	la	manifestation	
+d’une	radiosource,	baptisée	SgrA*	,	connue	depuis	1974.	Une	émission	de	rayonnement	
+attribuée	à	du	gaz	porté	à	une	température	de	dix	millions	de	degrés.		
+					Si	la	forme	elliptique	de	la	trajectoire	représente	une	vérification	supplémentaire	des	
+lois	de	Kepler,	la	légère	avance	du	périhélie	a	fourni	une	vérification	de	la	relativité	
+générale.	On	en	conclut	est	que	ces	étoiles	orbitent	autour	d’un	objet	dont	la	masse	est	
+alors	évaluée	à	quatre	millions	de	fois	celle	du	Soleil,	objet	situé	au	foyer	des	ellipses-
+trajectoires.		Mais	on	constate	immédiatement	que	la	radiosource	SrgA*	ne	coïncide	pas	
+avec	ce	foyer.	Tout	ce	qu’n	peut	en	déduire	est	qu’il	existe	un	objet	doté	d’une	telle	
+masse	en	ce	foyer	de	la	trajectoire	elliptique.		
+	
+
+	
+6	
+				Mais	dès	l’apparition	de	ces	clichés	toutes	les	revues,	à	commencer	par	l’Astrophysical	
+Journal,	au	lieu	de	titrer	«	Première	images	correspondant	au	voisinage	des	objets	
+hypermassifs	situés	au	centres	des	galaxies	»	(M87,	puis	la	Voie	Lactée)		les	auteurs	ont	
+d’emblée	titré	«	Premières	image	de	Trous	Noirs	Géants	».	
+					Dans	le	corps	de	ces	articles	on	trouve	l’explication	d’une	telle	conclusion.	Ce	sont	des	
+trous	noirs	géants,	«	parce	qu’aucune	autre	explication	n’a	pu	être	avancée	».	Donc,	si	la	
+partie	centrale	n’est	pas	parfaitement	noire	c’est	parce	qu’une	masse	de	gaz	chaud	
+d’interpose	entre	nous	et	le	trou	noir.		
+				Aucune	autre	explication	?	En	2022	nous	publions	dans	la	base	de	données	HAL	du	
+Cnrs	un	article	de	50	pages	:	
+	
+
+		
+
+	
+
+L’alternative	:	le	modèle	des	plugstars.	
+
+Incohérence	physique	et	mathématique	des	modèles	de	trous	noirs.		
+
+	
+		Traduction	:		
+	
+				Bien	sûr,	il	ne	s’agit	pas	du	texte	d’un	article	publié	dans	une	revue	contrôlé	par	des	
+referees.	C’est	un	simple	preprint	de	…	50	pages.	Son	volume	le	rend	impropre	à	une	
+publication	dans	les	vues	qui	limitent	les	manuscrits	à	une	douzaine	de	pages.	Ce	texte	
+est	un	réquisitoire	en	règle	contre	le	modèle	même	des	trous	noirs,	qui	découlent	d’une	
+mauvaise	interprétation	des	deux	articles	publiés	par	l’Allemand	Karl	Schwarzschild	en	
+1916,	juste	avant	son	décès.		
+				Une	telle	assertion	aurait	mérité	une	réplique	cinglante	de	la	part	des	spécialistes	des	
+trous	noirs.	Or,	depuis	un	an,	silence	complet.	Nous	y	proposons	de	remplacer	le	modèle	
+de	trous	noirs	par	des	«	plugstars	».	En	effet,	dans	le	schéma	considéré	depuis	des	
+décennies	comme	un	dogme,	quand	il	y	a	formation	de	trous	noirs	il	se	produit	
+immanquablement	un	instant	où	la	pression	autre	centre	de	l’astre	s’envole	à	l’infini,	un	
+fait	qui	avait	été	purement	et	simplement	ignoré	par	les	concepteurs	du	modèle,	dans	les	
+
+	
+7	
+années	soixante-dix1.	Dans	l’article	nous	montrons	qu’à	ce	moment	ceci	entraîne	
+l’inversion	de	la	masse	au	centre	de	l’astre	et	son	éjection	hors	de	celui-ci.	«	Plug	»	en	
+anglais	signifiant	«	bonde	»	l’image	est	la	suivante	:	
+	
+
+	
+
+							Selon	ce	modèle	il	n’existerait	pas	d’étoiles	à	neutrons	dont	la	masse	excéderait	2,5	
+masses	solaires	(inférieure	à	cette	masse	de	3	masses	solaires	qui	le	transforme	en	
+«	trous	noirs	»).	Cette	criticité	peut	survenir	dans	deux	cas	de	figure.		
+	
+à	De	manière	brutale,	quand	une	étoile	supermassive,	avant	de	se	muer	en	supernova,	
+s’effondre	sur	son	coeur	de	fer	:		
+		
+
+	
+
+Structure	interne	d’une	étoile	massive	
+
+En	bleu,	son	cœur	de	fer	
+
+																																																								
+1	Cet	aspect	(de	même	que	le	fat	que	la	vitesse	de	la	lumière	s’envolé	à	l’infini)		est	
+mentionné	dans	le	second	article	publié	par	Schwarzschild	en	février	1916,	qui	n’a	été	
+disponible	sous	sa	forme	anglaise	qu’en	1999.	Nombre	de	spécialistes	en	ignorent	
+jusqu’à	l’existence.	La	Théorie	du	trou	noir	repose	entièrement	sur	le	premier	papier,	
+celui		de	janvier	1916.		
+
+	
+8	
+à	De	manière	très	progressive,	quand	une	étoile	à	neutron	subcritique	voit	sa	masse	
+lentement	s’accroître	en	captant	le	gaz	émis	(«	vent	stellaire	»)	par	une	étoile	compagne.		
+	
+
+	
+
+Le	mécanisme	de	croissance	de	la	masse	d’une	étoile	à	neutrons		
+lié	à	la	captation	du	flux	gazeux	émis	par	une	étoile	compagne.	
+
+	
+						Particularité	d’un	tel	modèle	:	l’objet	présente	un	rapport	des	températures	de	
+brillance,	maximale	et	minimale,	qui	est	exactement	de	3	:		
+		
+
+	
+
+Plugstar	sphéroïdal	
+
+	
+		
+
+				L’	assombrissement	de	la	partie	découle	de	ce	qu’on	appelle	«	l’effet	de	redshift	
+gravitationnel	».	Selon	la	relativité	générale,	au	voisinage	des	masses	le	temps	s’écoule	
+
+	
+9	
+différemment,	plus	lentement.	Il	y	a	longtemps	qu’on	a	pu	le	vérifier	au	voisinage	d’une	
+masse	aussi	faible	que	celle	de	la	Terre2.		
+				Mais	les	objets	hypermassifs	situés	au	centre	des	galaxies	M	87	et	de	la	Voie	Lactée	ne	
+sont	pas	«	des	étoiles	à	neutrons	géants	».	Nous	pensons	qu’il	s’agit	d’un	reliquat	de	
+quasars,	inactif,	dans	le	cas	de	l’objet	situé	au	centre	de	la	voie	lactée.	Dans	le	cas	de	M87	
+c’est	de	toute	évidence	un	quasar,	avec	des	deux	jets	diamétralement	opposés.		
+		
+
+	
+
+	
+
+Quasar	(	image	d’artiste	)	
+
+					Le	fait	que	les	jets	soient	aussi	fins,	aussi	«	collimatés	»	signale	la	présence	d’un	très	
+fort	champ	magnétique.	Nous	pensons	que	ce	même	champ	s’oppose	à	l’implosion	de	
+l’objet	hypermassif	grâce	au	fait	qu’une	intense		«	pression	magnétique	s’oppose	à	la	
+gravitation	(c’est	un	«	objet	MHD	»).	Quoiqu’il	en	soit,	ces	objets,	comme	les	étoiles	à	
+neutrons	de	masse	maximale,	sont	également	subcritiques,	ce	qui	entraîne	un	effet	de	
+redshit	gravitationnel	limité	à	3	(pour	les	«	trous	noirs	»	l’effet	de	redshift	gravitationnel	
+serait	…	infini).		
+						Toute	tentative	de	publication	de	cet	article,	dans	une	forme	correspondant	aux	
+normes	des	revues,	est	immédiatement	suivie	d’un	refus	de	soumettre	à	l’expertise	d’un	
+«	referee	»	et	suivie	d’un	rejet	avec	le	message	«	non	suitable	»	(	«	ne	convient	pas	»	).	
+Toujours	est-il	que	ce	modèle	de	plugstar	cadre	avec	les	données	observationnelles.	Il	
+est	en	effet	difficile	de	penser	que	pour	des	objets	de	masses	aussi	différents	l’émission	
+de	rayonnement	issu	d’un	disque	de	gaz	situé	à	proximité	puisse	donner	cette	valeur	3,	
+avec	autant	de	précision.	On	serait	donc	curieux	de	voir	ce	qui	pourra	émerger	d’une	
+troisième	image.		
+						Mais	cette	image-là,	cette	«	image	brute	»,	vous	ne	la	verrez	peut-être	jamais.	Parce	
+qu’elle	sera	«	retravaillée	»	de	telles	manière	qu’elle	cade	avec	la	seule	«	réalité	
+																																																								
+2	Expérience	de	Robert	Pound	et	Glen	Rebka	en	1960.	Cette	très	faible	correction	doit	
+néanmoins	être	prise	en	compte	lors	du	calcul	de	la	position	par	GPS,	basé	sur	les	
+horloges	atomiques	embarquées	à	bord	des	satellites.	Sans	cette	prise	en	compte	
+l’accumulation	des	erreurs	rendrait	le	système	GPS	inexploitable	
+
+	
+10	
+possible	»	:	qu’elle	émane	d’un	trou	noir,	avec	donc	une	partie	centrale	parfaitement	non	
+émissive.		
+						En	science,	quand	les	observations	ne	cadrent	pas	avec	la	théorie	et	qu’on	considère	
+ces	observations	comme	fiables,	ceci	invite	à	remettre	la	théorie	sur	le	métier.	Là,	on	fait	
+le	contraire	:	on	trafique	des	observations	pour	qu’elles	s’adaptent	avec	la	théorie	
+dominante.	On	va	même	plus	loin.	Dans	ces	article,	publié	par	la	prestigieuse	revue	
+Astrophysical	Journal,	on	engendre	une	grande	masse	d’images	de	synthèse	de	trous	
+noirs,	en	jouant	sur	les	différents	paramètres	:	masse,	moment	cinétique,	orientation	de	
+l’axe	de	rotation,	etc,	et	on	sélectionne,	à	l’aide	de	ce	logiciel	PRIMO,	celle	qui	cadre	le	
+plus	avec	les	données	observationnelles.	Le	résultat	a	alors	été	le	suivant	:		
+	
+
+	
+
+				A	gauche,	l’image	de	l’objet	situé	au	cœur	de	la	galaxie	M87,	tel	qu’il	émergeait	du	
+traitement	des	données	captées	par	un	ensemble	de	cinq	radiotélescopes	terrestres.	A	
+droite	une	image	de	trou	noir,	de	synthèse,	censée	cadrer	avec	ces	même	données.		La	
+similitude	est	rien	moins	qu’évidente.	Mais	le	logiciel	PRIMO	est	formel	«	c’est	ce	que	
+vous	devriez	voir	si	ce	gaz	chaud	situé	à	l’avant-plan	ne	perturbait	pas	l’observation	».		
+				Et	l’autrice	de	l’article,	Lia	Medeiros,	une	étudiante	brésilienne	de	31	ans,	bénéficiant	
+d’une	bourse	post	doctorale	à	l’Institut	des	Etudes	Avancées	de	Princeton	(auquel	
+appartinrent	des	gens	aussi	prestigieux	qu’Albert	Einstein	et	Kurt	Goedel)	d’ajouter	:		
+	
+
+	
+
+11	
+
+	
+					Vous	êtes	maintenant	avertis.	Vous	attendez	plus	à	ce	qu’on	vous	présente	les	
+observations	telles	qu’elles	se	présentent,	mais	telles	qu’elles	devraient	se	présenter	pour	
+cadrer	avec	la	théorie	validée	par	la	communauté	scientifique.		
+	
+	
+
+Un	saut	épistémologique	majeur.	
+
+

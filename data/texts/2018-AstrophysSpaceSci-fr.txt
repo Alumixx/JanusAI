@@ -1,0 +1,718 @@
+3
+
+(7)
+
+Results presented below, show the standardized distance
+modulus, linked to experimental parameters through the
+relation :
+
+µ = m∗
+
+B − MB + αX1 − βC
+
+where m∗
+B is the observed peak magnitude in rest frame
+B band, X1 is the time stretching of the light curve and
+C the supernova color at maximum brightness.
+Both MB , α and β are nuisance parameters in the dis-
+tance estimate.
+We took the values given in ref.[20] corresponding to the
+best ﬁt of the whole set of combined data (740 super-
+novae) with ΛCDM model.
+
+With our best ﬁt, we have :χ2/d.o.f. = 657/738
+
+(740 points and 2 parameters).
+The corresponding curves are shown in ﬁg. 3, 4, 5, 6,
+in excellent agreement with the experimental data. The
+comparison with both model best ﬁts are shown in ﬁg. 7.
+
+FIG. 3. Hubble diagram of the combined sample (log scale)
+
+We can derive the age of the universe (see annex B)
+with respect to q0 and H0 and some numerical values are
+given in table I, for diﬀerent (q0, H0) values. For our best
+ﬁt, we get :
+
+T0 =
+
+= 15.0Gyr
+
+(8)
+
+1.07
+H0
+
+WHAT IS MISSING
+
+Lets ﬁgure out that, when extended to the early age
+of the universe, the JCM proposes an alternative to the
+
+FIG. 2. Spiral structure in numerical simulation
+
+JCM EXPLAINS THE ACCELERATION OF THE
+
+UNIVERSE
+
+An exact solution of the system (1) for the dust
+era of the universe, was presented in Astrophysics and
+Space Science journal in 2014[8], which gives, for posi-
+tive species :
+
+a(+)(u) = α2 ch2(u)
+
+(cid:18)
+
+α2
+c
+
+1
+2
+
+t(+)(u) =
+
+1 +
+
+sh(2u) + u
+
+(cid:19)
+
+In the following,we will show that the predicted values of
+the bolometric magnitude versus redshift ﬁts pretty well
+the available data.
+For sake of simplicity, we will now write a(+) ≡ a.
+The deceleration parameter q is :
+
+q ≡ − a ¨a
+
+˙a2 = −
+
+1
+
+2 sh2(u)
+
+< 0
+
+And the Hubble constant is :
+
+H ≡ ˙a
+a
+
+We can derive (see annex A) the relation for the bolo-
+metric magnitude with respect to the redshift z :
+
+mbol = 5 log10
+
+z +
+
++ cst (5)
+
+z2(1 − q0)
+
+√
+
+1 + q0z +
+
+1 + 2q0z
+
+(cid:20)
+
+(cid:21)
+
+where q0 < 0 and 1 + 2q0z > 0. Fitting q0 and cst to
+available observational data [20], gives :
+q0 = −0.087 ± 0.015
+
+(6)
+
+(2)
+
+(3)
+
+(4)
+
+ 32 34 36 38 40 42 44 46 0.01 0.1 1q0 = -0.087q0 = -0.131q0 = 0-Low-zSDSSSNLSHSTµ = m*B - M(G) + αX - βCz4
+
+FIG. 4. Hubble diagram of the combined sample (linear scale)
+
+FIG. 7. Hubble diagram of the combined sample and com-
+praison with the 2 models (linear scale)
+
+FIG. 5. Residuals from the best ﬁt versus redshift (log scale)
+
+FIG. 6. Standard deviation versus redshift
+
+TABLE I. T0 values with respect to q0 and H0
+
+T0
+
+q0
+
+(Gyr) 0.00 -0.045 -0.087 -0.102 -0.117 -0.132
+
+H0
+
+70 14.0
+73 13.4
+
+15.0
+14.4
+
+15.0
+14.4
+
+14.9
+14.3
+
+14.9
+14.3
+
+14.8
+14.2
+
+ture of the universe we supposed that the mass density
+of the negative species (negative mass ’twin’ matter) is
+much higher that the one of the positive species.
+In JCM, we have to take into account two systems, each
+owing their own sets of variable constants plus space and
+time scale factors :
+
+[c(+), G(+), h(+), m(+), e(+), a(+), t(+)]
+[c(−), G(−), h(−), m(−), e(−), a(−), t(−)]
+
+A future work will show how, the system of coupled
+ﬁeld equations(1) including a variable constants process,
+starting from a fully symmetrical initial situation can ex-
+plain density instabilities.
+Moreover, when the densities get weaker, the sets :
+
+[c(+), G(+), h(+), m(+), e(+)]
+[c(−), G(−), h(−), m(−), e(−)]
+
+in each sector, with
+
+behave as absolute constants,
+a(+)c(+)2 = a(−)c(−)2 .
+The ΛCDM model provides an interpretation of the ﬂuc-
+tuations of the CMB. If the JCM wants to pretend to
+challenge the ΛCDM it must provide an alternative in-
+terpretation of such observational data.
+This is out of the scope of the present paper and will the
+subject of future works.
+
+inﬂation theory, in order to justify the great homogene-
+ity of the primeval universe. This was introduced ﬁrst in
+1988[21], extended in 1995[7], and implies a variable con-
+stants system which preserves all equations of physics.
+As a basis of the interpretation of the very large struc-
+
+CONCLUSION
+
+Based on a new geometrical framework the JCM mod-
+elis taking into account many observational data. It pre-
+cisely deﬁnes the nature of the invisible components of
+
+ 32 34 36 38 40 42 44 46 0 0.2 0.4 0.6 0.8 1 1.2 1.4q0 = -0.087q0 = -0.131q0 = 0-Low-zSDSSSNLSHSTµ = m*B - M(G) + αX - βCz-0.8-0.6-0.4-0.2 0 0.2 0.4 0.6 0.8 0.01 0.1 1Residuals : µ - µ(q0=-0.087)z-6-4-2 0 2 4 6 0.01 0.1 1Standard deviationsz 32 34 36 38 40 42 44 46 0 0.2 0.4 0.6 0.8 1 1.2 1.4ΛCDM with (ΩM, ΩΛ)=(0.295,0.705)Bimetric with q0 = -0.087µ = m*B - M(G) + αX - βCzthe universe, as a copy of ordinary components, with neg-
+ative energy and negative mass, if any. By developping
+former Sakharovs theory, it explains the lack of primeval
+antimatter observation. The negative sector is then com-
+posed with negative mass protons, neutrons, electrons
+and so on. Through such a negative energy, photons
+make all negative sectors species invisible to us.
+JCM model is explaining the strong gravitational lensing
+eﬀects around galaxies and clusters of galaxies, due to the
+surrounding and conﬁning negative mass environment. It
+brings a model for VLS formation, spiral structure and
+gives an explanation to the repellent phenomena recently
+observed in a very large size mapping. It also explains
+the ﬂatness of the rotation curves of galaxies.
+The extension of JCM to a variable constants regime,
+applying to the early stage, explains the homogeneity of
+the early universe.
+It brings an exact solution in the dust era, which takes
+takes into account the acceleration of the universe. This
+paper is willing to demonstrate the good agreement of
+this solution with a single free parameter, with the ex-
+perimental data on supernovae. The deceleration param-
+eter q0, allways negative, happened to be small and there
+is no need in JCM to introduce a non zero cosmological
+constant to ﬁt the so far available data.
+It is also pointed out that the model must now provide
+its own interpretation of additional features like the CMB
+ﬂuctuations.
+
+[1] A.G. Riess et al. Observational Evidence from Supernovae for
+an Accelerating Universe and a Cosmological Constant. The
+Astrophysical Journal, 116:1009–1038, 1998.
+
+[2] S. Perlmutter et al. ObMeasurements of Ω and Λ from
+42 High-Redshift Supernovae. The Astrophysical Journal,
+517:565–586, 1998.
+
+[3] B.P. Schmidt et al. The high-Z supernova search. Measuring
+cosmic deceleration and global curvature of the universe using
+type Ia supernovae. The Astrophysical Journal, 507:46–63,
+1999.
+
+[4] H. Bondi. Negative mass in General Relativity. Review of
+
+Modern Physics, Vol.29,N3, 1957.
+
+[5] W.B. Bonnor. Negative mass in general relativity. General
+
+Relativity And Gravitation, Vol.21 N.11:1143–1157, 1989.
+
+[6] J.P. .Petit. The missing mass problem. Il Nuovo Cimento B,
+
+with
+
+[7] J.P. .Petit . Twin universe cosmology. Astrophysics And Space
+
+Vol.109:697–710, July 1994.
+
+Science, 226, 273, 1995.
+
+[8] J.P. .Petit and G. D’Agostini. Negative mass hypothesis in
+cosmology and the nature of dark energy. Astrophysics And
+Space Science, 353, Issue 2, 2014.
+
+[9] J.P. .Petit and G. D’Agostini. Cosmological bimetric model
+with interacting positive and negative masses and two diﬀerent
+speeds of light, in agreement with the observed acceleration of
+the Universe. Modern Physics Letters A, Vol.29, No34, 2014.
+[10] S. Hossenfelder. Anti-gravitation Physics Letters B,636:119–
+
+125, 2006.
+
+[11] S. Hossenfelder. A bimetric theory with exchange symmetry.
+
+and also
+
+Physical Review, D78(044015), 2008.
+
+5
+
+[12] A. Sakharov. CP invariance violation, C and baryonic asyme-
+tries of the universe. ZhETF Pis’ma, 5:32–35, 1967. Transla-
+tion in . Sov. Phys. JETP Letter,5:24–27, 1967.
+
+[13] A. Sakharov. Baryonic asymetry of the universe. ZhETF
+Pis’ma, 76:1172–1181, 1979. Translation in . Sov. Phys. JETP
+Letter,49:594–599, 1979.
+
+[14] A. Sakharov. Cosmological Model of the Universe with a time-
+vector inversion. ZhETFPis’ma, 79:689–693, 1980. Transla-
+tion in . Sov. Phys. JETP, 52:349–351, 1980.
+
+[15] J.M. Souriau. Structure des Systmes Dynamiques. Paris,
+Dunod , ISSN 0750-2435, 1970. Structure of Dynamical Sys-
+tems . Boston, Birkhuser, 1997.
+
+[16] J.S. Farnes. A Proposal for a Unifying Theory of Dark Energy
+
+and Dark Matte. arXiv physics.gen-ph, 1712.07962, 2017.
+
+[17] H. El-Ad, T. Piran and L.N. da Costa Automated Detec-
+tion of Voids in Redshift Surveys. The Astrophysical Journal,
+462:L13–L16,1996.
+
+[18] Y. Hoﬀman, D. Pomarde, R.B. Tully and H.M. Courtois. The
+
+Dipole Repeller. Nature Astronomy , 0036, 2017.
+
+[19] J.P. Petit, P. Midy, and F. Landsheat. Twin matter against
+dark matter. .
+International Meeting on Astrophysical and
+Cosmology ”Where is the matter ? ” , Marseille, 2001 June
+25-29.
+
+[20] M. Betoule et al. Improved cosmological constraints from a
+joint analysis of the sdss-ii and snls supernova sample. As-
+tronomy and Astrophysics, A22:568, 2014.
+
+[21] J.P. .Petit. Cosmological model with variable velocity of light.
+
+Modern Phys Letters, A3::1527 1988.
+
+[22] W. Mattig.
+
+schiebung und scheinbarer helligkeit.
+Nachrichten, 284:109, 1959.
+
+Uber den zusammenhang zwischen rotver-
+Astrononische
+
+[23] J. Terell. American Journal of Physics, 45:869, 1977.
+
+Annex A : Bolometric magnitude
+
+Starting from the cosmological equations correspond-
+ing to positive species and neglectible pressure (dust uni-
+verse) establish in ref.[8] :
+
+8πG
+
+a(+) 2 ¨a(+) +
+
+(9)
+with E ≡ a(+) 3ρ(+) +a(−) 3ρ(−) = constant < 0. For the
+sake of simplicity we will write a ≡ a(+) in the following.
+A parametric solution of Eq. (9) can be written as :
+
+E = 0
+
+3
+
+a(u) = α2 ch2(u)
+
+t(u) =
+
+α2
+c
+
+1 +
+
+sh(2u)
+
+2
+
++ u
+
+(10)
+
+(cid:19)
+
+(cid:18)
+
+α2 = − 8πG
+
+(11)
+This solution imposes k = −1. Writing the usual deﬁni-
+tions:
+
+3 c2 E
+
+we can write :
+
+q ≡ − a¨a
+˙a2
+
+and
+
+H ≡ ˙a
+a
+
+q = −
+
+1
+
+2 sh2(u)
+
+= − 4πG
+3
+
+|E|
+a3 H 2
+
+(12)
+
+(13)
+
+(14)
+
+(1 − 2 q) =
+
+c2
+
+a2 H 2
+
+In terms of the time t used in the FRLW metric, the
+light emitted by Ge at time te is observed on G0 at a
+time t0 (te > t0) and the distance l travelled by photons
+(ds2 = 0) is related to the time diﬀerence t and then to
+the u parameter through the relation :
+
+l =
+
+c dt
+a(t)
+
+=
+
+(1 + ch(2 u)
+
+ch2(u)
+
+du = 2 u0 − 2 ue
+
+(15)
+
+t0(cid:90)
+
+te
+
+u0(cid:90)
+
+ue
+
+We can also relate the distance l to the distance marker
+r by (using Friedman's metric with k = −1) :
+
+t0(cid:90)
+
+te
+
+r(cid:90)
+
+0
+
+l =
+
+c dt
+a(t)
+
+=
+
+dr(cid:48)√
+1 + r(cid:48)2
+
+= argsh(r)
+
+(16)
+
+So we can write :
+
+r = sh(2 u0 − 2 ue) = 2 sh(u0 − ue) ch(u0 − ue) (17)
+We need now to link ue and u0 to observable quantities
+q0, H0, and z. From Eq. (10) we get :
+
+and so :
+
+(cid:18)(cid:114) a
+
+(cid:19)
+
+α2
+
+u = argch
+
+(cid:20)
+
+This relation rewrites as [23]:
+
+mbol = 5Log10
+
+z +
+
++ cst (25)
+
+z2(1 − q0)
+
+√
+
+1 + q0z +
+
+1 + 2q0z
+
+6
+
+(cid:21)
+
+which is valid for q0 = 0.
+
+Annex B : Age of the universe
+
+Below we will establish the relation between the age of
+the universe T0 with q0 and H0. This age is deﬁned by :
+
+(cid:18) sh(2u0)
+
+(cid:19)
+
+T0 =
+
+α2
+c
+
++ u0
+
+2
+
+(26)
+
+From Eq. (11), (13), (14) we get :
+
+α2
+c
+
+= − 2q
+H
+
+(1 − 2q)
+
+− 3
+
+2 =
+
+(1 − 2q0)
+
+− 3
+
+2
+
+(27)
+
+2q0
+H0
+
+(cid:18) sh(2u0)
+(cid:114) −1
+
+2
+
+(cid:18)
+
+(cid:19) 1
+
+H0
+
+T0. = −2q0 (1 − 2q0)
+
+− 3
+
+2
+
++ u0
+
+(28)
+
+Inserting Eq. (20) in Eq. (28) we ﬁnally get :
+√
+
+T0.H0 = 2q0 (1 − 2q0)
+
+− 3
+
+2
+
+argsh
+
+−
+
+2q0
+
+1 − 2q0
+2q0
+
+(cid:19)
+
+(29)
+
+u0 = argch
+
+= argsh
+
+(20)
+
+This relation is shown in ﬁg. 8.
+
+(18)
+
+(19)
+
+Eq. (15) gives the usual redshift expression :
+
+From Eq. (13) and (18) we get :
+
+a0
+
+1 + z
+
+ae =
+
+(cid:114) 2q0 − 1
+
+2q0
+
+(cid:115)
+
+2q0 − 1
+2q0(1 + z)
+
+(cid:114)
+
+− 1
+2q0
+
+(cid:115)
+
+From Eq. (13), (18)) and (19)) we get :
+
+ue = argch
+
+= argsh
+
+− 1 + 2q0z
+2q0(1 + z)
+
+(21)
+
+Inserting Eq. (20) and (21) into Eq. (17), after a 'few'
+technical manipulations, using at the end Eq.(14) and
+considering the constraint that 1 + 2q0z > 0, we get :
+
+q0z + (1 − q0)(cid:0)1 − √
+
+1 + 2q0z(cid:1)
+
+c
+
+r =
+
+a0H0
+
+q2
+0(1 + z)
+
+(22)
+
+Which is similar to Mattig’s work [22] with usual Fried-
+mann solutions where q0 > 0, here we have always q0 < 0.
+
+The total energy received per unit area and unit
+time interval measured by bolometers is related to the
+luminosity :
+
+Ebol =
+
+4πa2
+
+0r2(1 + z)2
+
+(23)
+
+Using Eq. (22), the bolometric magnitude can therefore
+be written as :
+
+q0z + (1 − q0)(cid:0)1 − √
+
+1 + 2q0z(cid:1)
+
+(cid:34)
+
+(cid:35)
+
+mbol = 5Log10
+
+L
+
+q2
+0
+
++ cte
+
+(24)
+
+FIG. 8. Age of the universe time Hubble’s constant versus q0
+
+ 0.9 0.95 1 1.05 1.1-0.3-0.25-0.2-0.15-0.1-0.05T0 . H0 ( q0 )T0 . H0 ( q0 )q0

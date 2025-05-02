@@ -1,0 +1,87 @@
+2 Schwarzschild’s letter to Einstein
+
+Letter from K Schwarzschild to A Einstein dated 22 December
+
+1915
+
+The letter is presented in English owing to Professor Roger A. Rydin
+
+Honored Mr. Einstein,
+In order to be able to verify your gravitational theory, I have brought
+myself nearer to your work on the perihelion of Mercury, and occupied myself
+with the problem solved with the First Approximation. Thereby, I found
+myself in a state of great confusion. I found for the ﬁrst approximation of
+the coeﬃcient gµν other than your solution the following two:
+
+gρσ = −
+
+βxρxσ
+
+r5 + δρσ  β
+
+3r3! ;
+
+g44 = 1
+
+As follows, it had beside your α yet a second term, and the problem was
+physically undetermined. From this I made at once by good luck a search
+for a full solution. A not too diﬃcult calculation gave the following result:
+It gave only a line element, which fulﬁlls your conditions 1) to 4), as well as
+ﬁeld- and determinant equations, and at the null point and only in the null
+point is singular.
+
+If:
+
+x1 = r cos φ cos θ, x2 = r sin φ cos θ, x3 = r sin θ
+
+R = (r3 + α3)1/3 = r 1 +
+
+1
+3
+
+α3
+
+r3 + ...!
+
+then the line element becomes:
+
+ds2 = (cid:18)1 −
+
+γ
+
+R(cid:19) dt2 −
+
+dR2
+
+R(cid:17) − R2(dθ2 + sin2 θdφ2)
+
+(cid:16)1 − γ
+
+R, θ, φ are not “allowed” coordinates, with which one must build the ﬁeld
+equations, because they do not have the determinant = 1, however the line
+element expresses itself as the best.
+
+13
+
+The equation of the orbit remains exactly as you obtained in the ﬁrst
+approximation (11), only one must understand for x not 1/r, but 1/R, which
+is a diﬀerence of the order of 10−12, so it has practically the same absolute
+validity.
+
+The diﬃculty with the two arbitrary constants α and β, which the First
+Approximation gave, resolves itself thereby, that β must have a determined
+value of the order of α4 , so as α is given, so will the solution be divergent
+by continuation of the approximation.
+
+It is after all the clear meaning of your problem in the best order.
+It is an entirely wonderful thing, that from one so abstract an idea comes
+
+out such a conclusive clariﬁcation of the Mercury anomaly.
+
+As you see, it means that the friendly war with me, in which in spite of
+your considerable protective ﬁre throughout the terrestrial distance, allows
+this stroll in your fantasy land.
+
+14
+
+

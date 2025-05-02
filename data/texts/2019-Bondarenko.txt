@@ -1,0 +1,410 @@
+Modern Physics Letters A
+Vol. 34 (2019) 1950084 (6 pages)
+c(cid:2) World Scientiﬁc Publishing Company
+DOI: 10.1142/S0217732319500846
+
+Negative mass scenario and Schwarzschild spacetime
+
+in general relativity
+
+Physics Department, Ariel University, Ariel 40700, Israel
+
+S. Bondarenko
+
+sergeyb@ariel.ac.il
+
+Received 3 October 2018
+Revised 27 December 2018
+Accepted 8 January 2019
+Published 19 March 2019
+
+In this note, we discuss the hypothesis of a presence of the negative mass matter in
+the Schwarzschild’s spacetime and demonstrate, that the discrete P T transformation
+of the coordinates and mass inversion in the Schwarzschild’s metric solution is equiv-
+alent to the inversion of the Kruskal–Szekeres coordinates [M. D. Kruskal, Phys. Rev.
+119, 1743 (1960); G. Szekeres, Publ. Mat. Debrecen 7, 285 (1960)], in the full region of
+the solution’s spacetime. As the consequence of the result, it is argued that the whole
+Schwarzschild spacetime can be described in terms of regions of positive and negative
+masses interconnected by the discrete transforms.
+
+Keywords: General relativity; Schwarzschild spacetime; negative mass.
+
+PACS No.: 04.20.-q
+
+1. Introduction
+
+The motivation of the negative mass gravitation scenario in the diﬀerent cosmologi-
+cal models is very clear. In any scenario, see Refs. 2 and 3 for example, the presence
+of some kind of repulsive gravitation forces in our Universe helps with explanation
+of the existence of dark energy and dark matter in the models, see Refs. 4–8 and
+references therein. There are few possibilities to introduce the gravitational repul-
+sive force to the scene. In the scenario of Ref. 2, it is argued that the repulsive
+gravitation is arising between matter and antimatter (in the sense of charge) parti-
+cles without an introduction of any negative masses. It is also possible to consider a
+model where our Universe antimatter has a negative mass, see, for example Ref. 3,
+where the negative mass extension of Kerr’s solution is populated by our world
+antiparticles which possess not positive but negative masses. Additionally, we can
+consider the negative mass particles as the antiparticles of the regular ones with
+the mass sign of them changed from positive to negative in comparison to the mass
+
+1950084-1
+
+Mod. Phys. Lett. A Downloaded from www.worldscientific.comby UNIVERSITY OF NEW ENGLAND on 03/30/19. Re-use and distribution is strictly not permitted, except for Open Access articles.S. Bondarenko
+
+sign of the particles and antiparticles of our Universe. In this case, the annihilation
+between the particles of two types of the matter will happen for the particles of
+any charge. Important, that the gravitation properties of this matter is also de-
+scribed by Einstein equations after the discrete symmetry transformations applied,
+see Refs. 2 or 3 and 9 for the discrete symmetries applications in the case of the
+quantum and classical systems.
+
+The presence of this type of negative mass antimatter as well explains the
+existence of dark energy in our Universe and in this note we discuss the possi-
+ble window for the presence of this type of the matter in the spacetime solution
+given by Schwarzschild’s metric. The consideration is based on the following main
+statements.
+
+(1) An assumption about the full symmetry between isolated behavior of the posi-
+tive and negative mass matter. Namely, in the absence of our, “normal”, matter,
+the negative mass matter behaves as the usual one, i.e. it has the positive iner-
+tial mass and mutual attraction sign in Newton’s gravitation law in the weak
+ﬁeld approximation, see Ref. 11. As the consequence of this request, in the
+given framework, we have to reproduce the usual Schwarzschild metric solution
+in the regions with the negative mass present.
+
+(2) The anti-gravity assumption about the interaction of positive and negative
+masses which means that the interaction of the matter and antimatter is due
+to the repulsion force, i.e. with repulsion in the weak ﬁeld approximation.
+
+(3) The uniﬁed description assumption. Both solutions for diﬀerent masses must
+be encoded in the same Einstein’s equations, similarly, for example, to the
+particle–antiparticle interpretation of the solutions of QFT equations. This
+statement does not mean only the invariance of the equation under the CPT
+transformation and mass inversion. It postulates that both solutions of positive
+and negative masses are present in the whole spacetime which is deﬁned in
+terms of some suitable coordinate system, Kruskal–Szekeres for example. For
+the Schwarzschild spacetime it means that both solutions are subject to the
+same solution of the general relativity equations. Therefore, any transforms
+of the interests do not pull out the solutions from the spacetime deﬁned by
+this way.
+
+The last request clariﬁes that we do not consider any bi-metric theories of the
+gravity as in Refs. 4 and 10 but mainly try to follow the ideas of Refs. 2 and 3
+with, nevertheless, a diﬀerent interpretation of what provides the possible repulsive
+gravitational forces in our Universe.
+
+The ﬁrst two properties of the matter and antimatter can be explained through
+the application of the CPT symmetry transformation to the Einstein equations,
+see Refs. 2 and 3. It can be understood as a consequence of the physics law in-
+variance under the transform. Namely, introducing gravitational source and probe
+masses in the problem, the equations of motion of the source masses of diﬀerent
+signs will be the same whereas the relative sign in the Newton’s gravitation law
+
+1950084-2
+
+Mod. Phys. Lett. A Downloaded from www.worldscientific.comby UNIVERSITY OF NEW ENGLAND on 03/30/19. Re-use and distribution is strictly not permitted, except for Open Access articles.Negative mass scenario and Schwarzschild spacetime in general relativity
+
+will be diﬀerent when it is applied for the probe and source masses of the diﬀerent
+signs. Correspondingly, the third statement above can be considered as a condition
+of the self-consistency of the negative mass hypothesis. So far, there are no any
+experimental facts about a non-correctness of the general relativity results or pre-
+dictions. Therefore, it looks natural to check the possibility of the negative masses
+presence in any solution of Einstein equations, beginning from Schwarzschild’s met-
+ric solution. If no contradictions in the construction of the negative mass scenario
+in the present framework are found, then can be considered as some veriﬁcation of
+the possibility of its existence, which, of course, does not prove the reality of the
+negative mass. In any case, only experimental checks of the hypothesis can prove
+or disprove it. Therefore, the main goal of the note is a check of the possibility to
+reveal the negative mass solution in the spacetime determined by the Schwarzschild
+solution. In Sec. 2, we discuss Schwarzschild’s metric solution in its transformation
+in the proposed framework and Sec. 3 concludes the paper with the representation
+of the discussion of possible consequences of the hypothesis.
+
+2. Schwarzschild Metric and Negative Mass Spacetime
+
+The easiest way to understand the negative mass structure of the Schwarzschild
+metric is to consider the metric in the Eddington–Finkelstein coordinates. For
+the ongoing Eddington–Finkelstein coordinates (v , r, t), which describe the met-
+ric structure in I–II regions (see the deﬁnitions in Ref. 12 for example), we have as
+usual
+
+(cid:3)
+
+(cid:2)
+1 − 2M
+r
+
+ds2 = −
+
+dv 2 + 2 dv dr + r2
+
+(cid:5)
+
+,
+
+(cid:4)
+dθ2 + sin2 θ dφ2
+(cid:6)(cid:6)(cid:6)(cid:6) r
+
+− 1
+
+(cid:6)(cid:6)(cid:6)(cid:6).
+
+2M
+
+v = t + r∗
+
+= t + r + 2M ln
+
+Correspondingly, the outgoing Eddington–Finkelstein coordinates (u, r, t) describe
+the solution in III–IV regions, the metric there has the following form:
+
+(cid:3)
+
+(cid:2)
+1 − 2M
+r
+
+ds2 = −
+
+du 2 − 2 du dr + r2
+
+(cid:4)
+dθ2 + sin2 θ dφ2
+
+(cid:5)
+
+,
+
+with
+
+where
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+see Ref. 12. Now, we would like to continue the metric in the region of negative
+masses performing a substitution M → − ˜M , ˜M > 0. Nevertheless, this naive con-
+tinuation is not correct, the particles of negative masses must preserve the same
+dynamics as the “normal” ones. Therefore, the time and radial coordinate must be
+reversed as well in order to preserve the horizon properties of Schwarzschild’s black
+hole solution: t → −˜t, ˜t > 0 and r → −˜r, ˜r > 0, see Refs. 2 and 3. The new variables
+cover the same R1 region as the “normal” ones, and now we can construct the full
+
+u = t − r∗,
+
+1950084-3
+
+Mod. Phys. Lett. A Downloaded from www.worldscientific.comby UNIVERSITY OF NEW ENGLAND on 03/30/19. Re-use and distribution is strictly not permitted, except for Open Access articles.S. Bondarenko
+
+spherically symmetrical vacuum spacetime in Kruskal–Szekeres coordinates accu-
+rately performing the discrete transforms. Consider ﬁrst the U < 0, V > 0 region
+(the region I with r > 2M ) of the (U, V ) coordinate plane. We have there
+
+U = −e−u/4M ,
+
+V = ev /4M .
+
+Now, in order to continue this quadrant of the space in the region of negative mass,
+we perform the discrete transforms. For the incoming coordinate, we obtain
+
+v = t + r∗ → ˜v = −˜t − ˜r + 2M
+(cid:2)
+
+(cid:2)
+after the subsequent t and r reverse and
+
+(cid:2)
+
+(cid:2)
+
+ln
+
+(cid:3)
+
+(cid:3)
+
+,
+
+˜r
+2M + 1
+(cid:3)
+
++ ıπ
+(cid:3)
+
+˜v = −˜t − ˜r − 2 ˜M
+= −˜t − ˜r∗ − 4ıπ ˜M = −v − 4ıπ ˜M ,
+
+˜r
+2 ˜M
+
+− 1
+
+ln
+
++ 2ıπ
+
+after the ﬁnal reversion of the mass. For the outgoing coordinate, we will have
+similarly
+
+u = t − r∗ → ˜u = −(cid:4)
+
+˜t − ˜r∗(cid:5)
+
++ 4ıπ ˜M = −u + 4ıπ ˜M .
+
+Therefore, the continuation of Eq. (5) coordinates in the region of negative mass
+will have the following form:
+
+U = −e−u/4M → ˜U = e−˜u/4 ˜M = −U,
+V = ev /4M → ˜V = −e−˜v/4 ˜M = −V.
+
+This inversion of the signs of the (U, V ) coordinate axes will hold correspondingly in
+all regions of (U, V ) plane after analytical continuation, Eqs. (7) and (8). Formally,
+from the point of view of the discrete transform performed in (U, V ) plane, the
+transformations Eq. (9) are equivalent to the full reversion of the Kruskal–Szekeres
+“time”
+
+and “coordinate”
+
+T =
+
+(V + U ) → −T
+
+R =
+
+(V − U ) → −R,
+
+1
+2
+
+1
+2
+
+(5)
+
+(6)
+
+(7)
+
+(8)
+
+(9)
+
+(10)
+
+(11)
+
+(12)
+
+of the complete Schwarzschild spacetime. The spacetime with ( ˜U , ˜V ) variables,
+obtained after the applied discrete transforms, must be understood as spacetime
+with these “watching point” in the regions of the negative mass. Therefore, the
+region I in the ( ˜U , ˜V ) plane corresponds to the region III in (U, V ) plane, the
+“white hole” region, IV in the space of normal mass, will transform to the black
+hole region, II, in the ( ˜U , ˜V ) coordinate plane and vice versa. Importantly, both
+
+1950084-4
+
+Mod. Phys. Lett. A Downloaded from www.worldscientific.comby UNIVERSITY OF NEW ENGLAND on 03/30/19. Re-use and distribution is strictly not permitted, except for Open Access articles.Negative mass scenario and Schwarzschild spacetime in general relativity
+
+spaces of normal and negative masses are encoded in the same solution of the
+Einstein equation in correspondence to our third proposition.
+
+3. Conclusions
+
+In this short note, we discuss the possibility of the presence of the negative mass
+matter in the world as described by Schwarzschild spacetime. Basing on the three
+statements above, see Sec. 1, we obtained that regions III–IV of the Schwarzschild’s
+metric solution in Kruskal–Szekeres coordinates, disconnected from our “normal”
+world, can be interpreted as the regions populated by the matter of the negative
+mass. This result is clariﬁed by the demonstration that the application of the in-
+version of the mass, radial coordinate and time reversing in the Schwarzschild’s
+metric solution is equivalent to the full inverse of the Kruskal–Szekeres coordinates
+in whole spacetime determined by Schwarzschild’s metric, which is the most im-
+portant result of this note. In our future research, we plan to investigate whether
+this result can be justiﬁed in the case of more complex symmetrical solutions of
+Einstein equations as well, see Refs. 12 and 13.
+
+The ﬁrst important consequence of the obtained result is that the regions of
+the negative mass are disconnected from the spacetime of “normal” mass, see, for
+example Ref. 14. Namely, with the Schwarzschild’s metric as the solution of the
+Einstein equations, there is no direct connection between the regions populated by
+the negative and “normal” masses. Nevertheless, in this scenario, the white holes
+in our part of the spacetime are inverted into the black holes which consist of the
+mass of another type, this is the only sign of the negative masses in our part of
+the full spacetime for the case of Schwarzschild’s solution, see also Ref. 13. The
+inﬂuence of these “negative” black holes on the “normal” matter is in the repulsion
+of the matter around, no other signals can be detected from the objects. Taking
+into account that the negative mass scenario is proposed to explain the dark energy
+presence in our universe, we conclude that in the given framework the dark energy
+can correspond to the mass of the “negative” black holes in the negative mass region
+of the spacetime. Another interesting observation is a possibility of modiﬁcations
+and extensions of some non-canonical theories of cosmology in the spacetime with
+negative mass present, see Refs. 15 and 16.
+
+In conclusion, we underline that any proposed scenario of the negative mass
+existing has to explain the features of our region of spacetime and any cosmologi-
+cal properties of the observed universe without redundant modiﬁcation of existing
+theories and it must be veriﬁed in both theoretical and experimental ways. In our
+opinion, further work in this direction is a very intriguing and interesting subject
+of research.
+
+Acknowledgments
+
+The author is grateful to M. Zubkov, M. Schiﬀer and A. Kashi for the numerous
+and useful discussions.
+
+1950084-5
+
+Mod. Phys. Lett. A Downloaded from www.worldscientific.comby UNIVERSITY OF NEW ENGLAND on 03/30/19. Re-use and distribution is strictly not permitted, except for Open Access articles.S. Bondarenko
+
+References
+1. M. D. Kruskal, Phys. Rev. 119, 1743 (1960); G. Szekeres, Publ. Mat. Debrecen 7, 285
+
+2. M. Villata, EPL 94, 20001 (2011); Ann. Phys. 527, 507 (2015).
+3. G. Chardin, Hyperﬁne Interact. 109, 83 (1997); R. J. Nemiroﬀ, R. Joshi and B. R.
+Patla, J. Cosmol. Astropart. Phys. 1506, 006 (2015); G. Koﬁnas and V. Zarikas, Phys.
+Rev. D 97, 123542 (2018); G. Manfredi, J. L. Rouet, B. Miller and G. Chardin, Phys.
+Rev. D 98, 023514 (2018).
+
+4. J.-P. Petit, Astrophys. Space Sci. 226, 273 (1995).
+5. A. A. Baranov, Izv. Vuz. Fiz. 11, 118 (1971); A. D. Dolgov, arXiv:1206.3725 [astro-
+
+6. J. S. Farnes, Astron. Astrophys. 620, A92 (2018).
+7. M. Villata, Astrophys. Space Sci. 339, 7 (2012); 345, 1 (2013).
+8. D. S. Hajdukovic, Astrophys. Space Sci. 339, 1 (2012); Phys. Dark Universe 3, 34
+
+(1960).
+
+ph.CO].
+
+(2014).
+
+9. J.-M. Souriau, Structure of Dynamical Systems, Progress in Mathematics, Vol. 149
+
+(Springer Science, 1997).
+
+10. J. P. Petit and G. d’Agostini, Astrophys. Space Sci. 354, 2106 (2014); Mod. Phys.
+
+Lett. A 29, 1450182 (2014); Astrophys. Space Sci. 357, 67 (2015).
+
+11. H. Bondi, Rev. Mod. Phys. 29, 423 (1957).
+12. S. Chandrasekhar, The Mathematical Theory of Black Holes (Clarendon Press, Ox-
+ford, 1983); V. P. Frolov and I. D. Novikov, Black Holes Physics (Kluwer Academic
+Publishers, 1998).
+
+13. B. Carter, Phys. Rev. 141, 1242 (1966); 174, 1559 (1968).
+14. R. W. Fuller and J. A. Wheeler, Phys. Rev. 128, 919 (1962).
+15. A. D. Sakharov, JETP Lett. 5, 24 (1967); JETP 49, 594 (1979); JETP 52, 349 (1980).
+16. A. D. Linde, Phys. Lett. B 200, 272 (1988).
+
+1950084-6
+
+Mod. Phys. Lett. A Downloaded from www.worldscientific.comby UNIVERSITY OF NEW ENGLAND on 03/30/19. Re-use and distribution is strictly not permitted, except for Open Access articles.

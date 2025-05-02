@@ -1,0 +1,3070 @@
+Astronomy & Astrophysics manuscript no. theory_dark_universe_arxiv
+November 5, 2018
+
+c(cid:13)ESO 2018
+
+8
+1
+0
+2
+
+ 
+t
+c
+O
+6
+2
+
+ 
+
+ 
+ 
+]
+h
+p
+-
+n
+e
+g
+
+.
+s
+c
+i
+s
+y
+h
+p
+[
+ 
+ 
+
+2
+v
+2
+6
+9
+7
+0
+
+.
+
+2
+1
+7
+1
+:
+v
+i
+X
+r
+a
+
+A unifying theory of dark energy and dark matter:
+
+Negative masses and matter creation within a modiﬁed ΛCDM
+
+framework
+J. S. Farnes1, 2
+
+ABSTRACT
+
+1 Oxford e-Research Centre (OeRC), Department of Engineering Science, University of Oxford, Oxford, OX1 3QG, UK.
+
+e-mail: jamie.farnes@oerc.ox.ac.uk(cid:63)
+
+2 Department of Astrophysics/IMAPP, Radboud University, PO Box 9010, NL-6500 GL Nijmegen, the Netherlands.
+
+Received February 23, 2018
+
+Dark energy and dark matter constitute 95% of the observable Universe. Yet the physical nature of these two phenomena remains a
+mystery. Einstein suggested a long-forgotten solution: gravitationally repulsive negative masses, which drive cosmic expansion and
+cannot coalesce into light-emitting structures. However, contemporary cosmological results are derived upon the reasonable assumption
+that the Universe only contains positive masses. By reconsidering this assumption, I have constructed a toy model which suggests that
+both dark phenomena can be uniﬁed into a single negative mass ﬂuid. The model is a modiﬁed ΛCDM cosmology, and indicates that
+continuously-created negative masses can resemble the cosmological constant and can ﬂatten the rotation curves of galaxies. The model
+leads to a cyclic universe with a time-variable Hubble parameter, potentially providing compatibility with the current tension that is
+emerging in cosmological measurements. In the ﬁrst three-dimensional N-body simulations of negative mass matter in the scientiﬁc
+literature, this exotic material naturally forms haloes around galaxies that extend to several galactic radii. These haloes are not cuspy.
+The proposed cosmological model is therefore able to predict the observed distribution of dark matter in galaxies from ﬁrst principles.
+The model makes several testable predictions and seems to have the potential to be consistent with observational evidence from distant
+supernovae, the cosmic microwave background, and galaxy clusters. These ﬁndings may imply that negative masses are a real and
+physical aspect of our Universe, or alternatively may imply the existence of a superseding theory that in some limit can be modelled by
+eﬀective negative masses. Both cases lead to the surprising conclusion that the compelling puzzle of the dark Universe may have been
+due to a simple sign error.
+Key words. Cosmology: theory – dark energy – dark matter – Galaxies: kinematics and dynamics – large-scale structure of Universe
+
+1. Introduction
+
+One of the most fascinating aspects of scientiﬁc history is that
+regarding Einstein’s eﬀorts with the cosmological constant. It is
+well known that Einstein added a cosmological constant to his
+equations in order to provide a static Universe. Due to this bias,
+he failed to predict the expansion of the Universe that was soon
+observed by Hubble (Hubble 1929). Famously, upon learning of
+the Universe’s expansion, Einstein set the cosmological constant
+equal to zero and reportedly called its introduction his “biggest
+blunder”.
+
+Most contemporary physicists are familiar with the fact that
+prior to Hubble’s discovery, Einstein associated the cosmological
+constant term with a constant of integration. However, Einstein
+did not always believe this to be the case, and important details
+are currently absent from the historical narrative. In 1918, before
+famously discarding the cosmological constant, Einstein made
+the ﬁrst physical interpretation of the new Λ term that he had
+discovered:
+
+“a modiﬁcation of the theory is required such that ‘empty
+space’ takes the role of gravitating negative masses which
+
+(cid:63) The codes used for the N-body simulations can be downloaded at:
+
+https://github.com/jamiefarnes/negative-mass-simulator
+
+are distributed all over the interstellar space”. (Einstein
+1918)
+
+Despite this insight, within a year Einstein reformulated his
+interpretation:
+
+“the new formulation has this great advantage, that the
+quantity Λ appears in the fundamental equations as a
+constant of integration, and no longer as a universal
+constant peculiar to the fundamental law”1 (Einstein
+1919)
+
+What led Einstein to believe that negative masses could provide
+a solution to the cosmological constant is therefore of interest.
+To understand the physics of negative masses further, we need to
+‘polarise’ the Universe so that mass consists of both positive and
+negative counterparts. Polarisation appears to be a fundamental
+property of the Universe. Indeed, all well-understood physical
+forces can be described through division into two opposing
+polarised states. For example, electric charges (+ and -), magnetic
+charges (N and S), and even quantum information (0 and
+1) all appear to be fundamentally polarised phenomena. It
+could therefore be perceived as odd that gravitational charges
+– conventionally called masses – appear to only consist of positive
+monopoles.
+
+1 The chosen notation used by Einstein was not Λ, but rather λ.
+
+Article number, page 1 of 20
+
+A&A proofs: manuscript no. theory_dark_universe_arxiv
+
+While electromagnetism and quantum theory appear quite
+comprehensively understood, there are numerous indications that
+our understanding of the nature of mass remains incomplete on
+all spatial scales. In the standard model of particle physics (e.g.
+Aad et al. 2012), the mass of fundamental particles such as the
+nine charged fermions (six quarks and three leptons) and the
+Higgs boson are all free parameters that cannot be calculated
+from ﬁrst principles. In cosmology, the observed matter in the
+Universe only accounts for 5% of the observed gravity, while the
+remaining 26% and 69% are accounted for via dark matter and
+dark energy respectively (e.g. Planck Collaboration et al. 2016).
+The physical nature of both these dark phenomena is completely
+unknown, and the quest to identify the Universe’s missing mass
+has even given rise to modiﬁcations to Newton’s and Einstein’s
+theories of gravity (e.g. Ferreira & Starkman 2009). Nevertheless,
+our understanding of general relativity has been robustly veriﬁed
+by every experimental test (e.g. Abbott et al. 2016).
+
+Given these substantial challenges to our understanding of
+mass in the Universe, perhaps a new approach that separates mass
+into positive and negative polarised counterparts can further our
+understanding of cosmology. In this case, particles could have
+the property of positive, zero, or negative mass. In Newtonian
+physics, this can allow for a variety of diﬀerent types of negative
+mass as the inertial and gravitational masses can diﬀer in sign.
+However, throughout this paper I speciﬁcally only consider a
+negative mass that is consistent with general relativity, so that
+the weak equivalence principle always holds and negative mass
+matter always has identical inertial and gravitational mass.
+
+While positive mass is familiar to all of us, the concept of
+negative mass is rather exotic.2 However, such negative masses
+have a number of basic properties, as shown in Figure 1. While
+a positive mass gravitationally attracts all surrounding masses, a
+negative mass will gravitationally repel all surrounding masses.
+If a force is exerted on a positive mass, the mass will move in the
+direction of the applied force. However, if a force is exerted on
+a negative mass, the mass will move towards the applied force.
+Nevertheless, a negative mass at the surface of the Earth would
+fall downwards in a similar manner to a positive mass.
+
+One of the more bizarre properties of negative mass is that
+which occurs in positive–negative mass particle pairs. If both
+masses have equal magnitude, then the particles undergo a process
+of runaway motion. The net mass of the particle pair is equal to
+zero. Consequently, the pair can eventually accelerate to a speed
+equal to the speed of light, c. Due to the vanishing mass, such
+motion is strongly subject to Brownian motion from interactions
+with other particles. In the alternative cases where both masses
+have unequal magnitudes, then either the positive or the negative
+mass may outpace the other – resulting in either a collision or the
+end of the interaction.
+
+Although counterintuitive and “preposterous” (Bonnor 1989),
+all of these behaviours violate no known physical laws. Negative
+masses are consistent with both conservation of momentum and
+conservation of energy (Forward 1990), and have been shown
+to be fully consistent with general relativity in the seminal
+work of Bondi (1957). Crucially, negative masses are a natural
+cold dark matter candidate, as negative mass material could not
+gravitationally coalesce in order to form astrophysical structures
+that can initiate fusion and emit light. As negative masses are
+attracted towards positive masses, they seem capable of applying
+pressure onto positive masses that could possibly modify a
+
+2 A particle with negative mass is not to be confused with a particle of
+negative mass-squared. Such tachyon particles have an imaginary mass,
+and are not considered in this paper.
+
+Article number, page 2 of 20
+
+Fig. 1. Schematic cartoon of gravitational interactions between positive
+(in yellow) and negative (in purple) mass particles. Black vectors indicate
+the direction of the gravitational force, Fg = −GM1M2/r2, that is
+experienced by a given particle. Red vectors indicate the direction of
+the acceleration, a = Fg/M, that is experienced by a given particle
+when the weak equivalence principle holds. There are three possible
+cases: (i) Top row: the familiar positive–positive mass interaction, in
+which both particles accelerate towards one another via gravitational
+attraction, (ii) Middle row: the positive–negative mass interaction, in
+which both particles accelerate in the same direction – pointing from the
+negative mass towards the positive mass. This case is sometimes referred
+to as runaway motion, and (iii) Bottom row: the negative–negative mass
+interaction, in which both particles accelerate away from one another via
+gravitational repulsion.
+
+galaxy’s rotation curve. Furthermore, negative masses also make
+a natural dark energy candidate, as a diﬀuse background of
+mutually-repelling negative masses could drive the expansion
+of the Universe. The repulsive negative masses would behave as
+a dark ﬂuid. The equation of state for a perfect ﬂuid is given by
+p = ωρc2, where p is the pressure, ρ is the energy density, and ω
+is the equation of state parameter3.
+
+Negative mass is not a new idea and conventional cosmology
+would suggest that such material is ruled out. Much of the
+standard reasoning for the exclusion of negative masses is based
+upon ‘black swan’ arguments, in that a negative mass has never
+
+3 Sometimes stated in units where c = 1.
+
+J. S. Farnes : A unifying theory of dark energy and dark matter
+
+been directly observed. In addition, as the Universe expands, the
+density of exotic negative mass matter (with ω = 0) would be
+increasingly diluted. The mutually-repulsive nature of negative
+masses is therefore tantalisingly inconsistent with measurements
+of dark energy, as this mysterious energy does not dilute but rather
+retains a constant density (with ω = −1) as the Universe expands
+(e.g. Planck Collaboration et al. 2014). This has previously ruled
+out unusual negative mass matter as a dark energy candidate. The
+introduction of bimetric models has allowed for extensions of
+general relativity with two diﬀerent metrics (e.g. Hossenfelder
+2008). One application of these models has been to explore
+cosmological theories with negative masses as a form of dark
+energy (Petit & d’Agostini 2014), however such theories have
+remained incompatible with observations.
+
+Despite this initial intellectual hurdle, the basic properties
+of negative masses still make them a powerful and compelling
+candidate for providing a uniﬁcation of dark matter and dark
+energy within a single theoretical framework. It seems possible
+that negative masses could constitute a form of dark ﬂuid that can
+simultaneously explain both of the elusive dark phenomena. Such
+a simple premise is an elegant one, particularly when considering
+that the introduction of negative mass adds symmetry to the
+Universe. Nevertheless, a theory of negative mass is complicated
+to assess in relation to other known cosmological results –
+which have overwhelmingly been developed with the implicit
+assumption that mass is only positive. For these reasons, nearly all
+theories, experiments, observations, and physical interpretations
+need to be rigorously revisited. However, if negative mass is
+a conceptual blindspot that is stopping us from developing a
+more advanced theory of the Universe, then such elaborations can
+clearly be fruitful. In this paper, I therefore attempt to test whether
+Einstein’s insight could be correct, and what the consequent
+implications would be for modern cosmology.
+
+The paper is structured as follows: in Section 2, I modify
+general relativity to consider the theory of a negative mass
+cosmology. In Section 3, I present three-dimensional N-body
+simulations of positive and negative masses using 50,000 particles.
+In Section 4, I consider any potential compatibility between
+cosmological observations of distant supernovae, the cosmic
+microwave background, and galaxy clusters with the negative
+mass hypothesis. Section 5 provides a speculative discussion on
+outstanding theoretical considerations that can be explored in the
+future, and in Section 6 I provide a summary of the results.
+
+and the Friedmann acceleration equation,
+
+(cid:32)
+
+(cid:33)
+
++
+
+ρ +
+
+3p
+c2
+
+Λc2
+3 ,
+
+= −4πG
+3
+
+¨a
+(3)
+a
+where a is the scale factor, H ≡ ˙a/a is the Hubble parameter, ρ is
+the total mass density of the universe, p is the pressure, k is the
+curvature parameter or intrinsic curvature of space, and k/a2 is the
+spatial curvature in any time-slice of the universe. k = +1, 0, and
+−1, indicate a closed, ﬂat, and open universe respectively. For a
+perfect ﬂuid, the pressure and mass density of the ﬂuid are related
+via the equation of state, which is given by p = ωρ, where ω is
+some constant and for negative mass matter ω = 0, this means
+that for negative mass matter the pressure is negligible relative to
+the mass density. However, I will show that ω in the equation of
+state can be modiﬁed in cases of matter creation or annihilation.
+For gravitationally repulsive matter (such as negative masses)
+that is constantly being created, ω can equal −1 as described in
+Section 2.3.1.
+
+For a cosmology that contains negative masses, I can also
+separate the content of the universe into its respective fractional
+contributions from the density parameters of the various species
+of energy contributors, such that,
+
+ΩM+ + ΩM− + Ωr + ΩΛ = Ω,
+(4)
+where Ω = 1−Ωk and the density contributions Ωi include positive
+masses M+, negative masses M−, radiation r, curvature k, and
+the cosmological constant Λ. By deﬁnition, ΩM− is necessarily
+negative or zero-valued. In the conventional ΛCDM cosmology
+(e.g. Planck Collaboration et al. 2014, 2016), it is implicitly
+assumed that ΩM− = 0 and explicitly assumed that ΩΛ > 0.
+Moreover, ΩM+ (usually given the standard notation ΩM) is
+typically separated into additional constituents, such as Ωb for
+baryons and ΩCDM for cold dark matter. To date, no attempt
+has been made to discern negative mass contributions from
+observations of the cosmic microwave background (CMB) (e.g.
+Planck Collaboration et al. 2016).
+
+In the case of a matter-dominated universe (which has
+Ωr = ΩΛ = 0) that includes negative masses, there are three
+possibilities: (i) a positive-mass dominated cosmology with
+|ΩM+| > |ΩM−|, (ii) a massless cosmology with |ΩM+| = |ΩM−|,
+and (iii) a negative-mass dominated cosmology with |ΩM+| <
+|ΩM−|. Eqs. (1) to (3) can therefore be solved for each of these
+three cases.
+
+2. Theoretical results
+To understand the cosmological implications of negative masses,
+I begin with Einstein’s ﬁeld equations,
+
+Rµν − 1
+2
+
+Rgµν + Λgµν =
+
+8πG
+c4 Tµν,
+
+where Rµν is the Ricci curvature tensor, R is the scalar curvature,
+gµν is the metric tensor, Λ is the cosmological constant, G is
+Newton’s gravitational constant, c is the speed of light in vacuum,
+and Tµν is the stress-energy tensor.
+
+Assuming a homogeneous and isotopic universe via the
+Friedmann–Lemaître–Robertson–Walker (FLRW) metric, and
+assuming that the stress-energy tensor is that of a perfect ﬂuid,
+Eqs. (1) can be used to derive the Friedmann equation,
+
+(cid:18) ˙a
+
+(cid:19)2
+
+a
+
+=
+
+8πG
+3 ρ +
+
+Λc2
+3
+
+− kc2
+a2 ,
+
+2.1. Positive mass cosmology
+The positive mass dominated cosmology with |ΩM+| > |ΩM−|
+corresponds to the standard matter-dominated universe solutions
+with a critical density given by ρc = 3H2/8πG and a total
+density parameter given by Ω = ρ/ρc, where Ω = 1, < 1, and
+> 1, correspond to critical density, open, and closed universes
+respectively (e.g. Friedmann 1924).
+
+(cid:18) ˙a
+
+8πG
+3
+
+(ρ+ + ρ−) ,
+
+The key diﬀerence to a conventional matter-dominated
+
+cosmology is that the Friedmann equation is modiﬁed to,
+
+(cid:19)2
+(5)
+a
+where |ρ+| > |ρ−| and Ω = (ρ+ + ρ−)/ρc. In this new context the
+meaning of the critical density is not clear. Typically, the critical
+density is the speciﬁc value of positive mass density at which
+the universe will not expand forever and will also not recollapse.
+This meaning remains broadly unchanged for a negative mass
+
+=
+
+(1)
+
+(2)
+
+Article number, page 3 of 20
+
+A&A proofs: manuscript no. theory_dark_universe_arxiv
+
+cosmology, with the sole caveat that ρc now becomes the net
+density required to prevent both eternal expansion and recollapse.
+This can be illustrated by observing that a critical density universe
+corresponds to (ρ+ + ρ−) = ρc.
+
+2.2. Massless cosmology
+The massless cosmology with |ΩM+| = |ΩM−| is equivalent to an
+empty universe. Observations clearly indicate that the Universe
+is not empty. However, if the Universe contains equal quantities
+of positive and negative masses then this is not an unphysical
+solution – the Universe can have zero mass on large-scales. This
+is equivalent to setting Tµν = 0 in Eqs. (1), ρ = 0 in Eqs. (2) to
+(3), and Ω = 0. The consequences have been previously studied
+both directly and indirectly.
+
+Tryon (1973) demonstrated that suﬃcient negative mass
+energy in the Universe would naturally allow for the creation
+of a cosmos from nothing – with the Big Bang then being an
+energy-conserving event. The Universe could then be a zero
+mass, zero energy, system. In quantum ﬁeld theory, every event
+that could happen in principle actually does happen occasionally
+in a probabilistic manner. This allows for the spontaneous and
+temporary emergence of particles from the vacuum in the form
+of vacuum ﬂuctuations. In essence, particles can borrow energy
+from the vacuum to come into existence for a brief period, as
+long as that energy is repaid. This process can be described
+through the uncertainty principle, ∆E∆t ∼ (cid:126)/2, which leads to the
+natural consequence that our Universe could simply be a vacuum
+ﬂuctuation that has zero energy and can therefore exist eternally.
+This implies that our Universe is just one of those things that
+happen on occasion, and we can simply think of its existence
+as being illustrated by a 1 billion-σ statistical event. In Tryon
+(1973), this negative energy was suggested to be the gravitational
+potential energy from a positive mass due to its interaction with
+the rest of the Universe, although a negative mass energy can
+achieve the same function.
+
+A massless cosmology with negative masses has also
+been considered before (Benoit-Lévy & Chardin 2012). This
+cosmology has symmetric quantities of matter and antimatter, in
+which antimatter is hypothesised to have negative gravitational
+mass, thereby leading to gravitational repulsion between matter
+and antimatter. The cancellation of positive and negative masses
+yields an eﬀectively empty space-time known as the Dirac–Milne
+universe. In this cosmology, the scale factor evolves linearly with
+time, thereby directly solving the age and horizon problems of a
+matter-dominated universe so that inﬂation is no longer required.
+While this is an elegant solution, such a cosmology would violate
+the weak equivalence principle and therefore appears to be
+inconsistent with general relativity (Bondi 1957). Furthermore,
+if negative mass particles were antimatter, one would expect
+positive–negative mass collisions to give rise to a diﬀuse gamma
+ray background, which is not observed. Some of the earliest
+descriptions of antimatter did consider those particles to have a
+negative mass, and for collisions to result in a release of energy
+(e.g. Schuster 1898). However, it has also been suggested that
+the collision of negative and positive masses would result in
+nulliﬁcation (Forward 1990).
+
+These former works have demonstrated that the introduction
+of negative mass to cosmology has the capacity to completely
+cancel the energy budget of the Universe. Nevertheless, this
+precise cancellation is not a necessity, and is rather a special case.
+A matter-dominated universe could predominantly consist of
+positive masses (as for the familiar case presented in Section 2.1),
+or could be dominated by negative masses.
+
+Article number, page 4 of 20
+
+2.3. Negative mass cosmology
+The negative mass dominated cosmology with |ΩM+| < |ΩM−|
+corresponds to a universe that is less than empty. This is
+equivalent to setting Tµν < 0 or ρ < 0. In a non-expanding
+space, a negative mass ﬂuid would undergo an expansion that is
+characterised by a uniform stretching as detailed in Appendix A.
+However, in this Section we are concerned with the cosmological
+evolution of an expanding space.
+
+For a matter-dominated cosmology with Λ = 0, purely via
+inspection of Eq. (2), it is clear that if ρ is negative, there can only
+be physical solutions when k = −1. The negative mass cosmology
+therefore has negatively curved spatial sections. We can rewrite
+(cid:19)2
+the Friedmann equation as
+
+= H2 =
+
+8πG
+3 ρ− +
+
+c2
+a2 .
+
+(cid:18) ˙a
+
+a
+
+(6)
+
+(7)
+
+For a matter-dominated cosmology with a cosmological
+constant, if ρ is negative and Λ > 0, it can be possible that
+k = −1, 0, +1. In the alternative case, where ρ is negative and
+Λ < 0, there can again only be physical solutions when k = −1.
+In both cases
+ΩM+ + (ΩM− + ΩΛ) = 1 − Ωk,
+and so it can be seen that a degeneracy exists between ΩM− and
+ΩΛ such that Ωdegen = ΩM− + ΩΛ. In this case, a degeneracy
+is meant in the sense that one can change both parameters and
+leave their sum unchanged. In a conventional ΛCDM cosmology,
+where ΩM− is taken to be zero, one is actually measuring Ωdegen
+and could therefore falsely infer a cosmological constant instead
+of a negative density parameter.
+
+It is typically assumed that ΩM− and ΩΛ can be discriminated
+based upon the equation of state for a perfect ﬂuid. For non-
+relativistic matter, ω = 0, whereas for a true cosmological
+constant, ω = −1. In other words, negative mass matter is
+conventionally assumed to dilute in density as the Universe
+expands, whereas the cosmological constant remains constant.
+From observations, the equation of state parameter for the Ωdegen
+component is close to −1 (e.g. Planck Collaboration et al. 2014).
+This is typically interpreted as evidence for mysterious dark
+energy, the physical properties of which remain unknown.
+
+2.3.1. Matter creation
+I have demonstrated that the degeneracy between negative mass
+matter and a cosmological constant can typically be broken
+using the equation of state parameter, ω. However, I now
+consider the consequences if matter is continuously created in
+the Universe. Such matter creation is not a new concept and
+was previously invoked to describe the disproven steady-state
+theory of the Universe (Bondi & Gold 1948; Hoyle 1960). In
+this theory, new matter is continuously-created in order to keep
+the average density constant as particles move apart due to the
+expansion of the Universe. This steady-state theory is inconsistent
+with observations, as it cannot explain the cosmic microwave
+background or radio source counts. However, the creation term
+has only ever been applied to positive mass matter, and so may
+still be useful for understanding dark energy and matter in an
+expanding Universe.
+
+Matter creation has been explored more recently in terms
+of particle production at the expense of a gravitational ﬁeld
+(Prigogine et al. 1988). I now calculate the implications for
+negative masses. One plausible approach is to model
+the
+
+J. S. Farnes : A unifying theory of dark energy and dark matter
+
+cosmological solutions for ‘adiabatic’ particle production in
+the presence of spatial curvature or an equivalent ‘ﬂuid’. For
+creation of matter, we can modify Einstein’s equations to include
+a creation term or a C-ﬁeld to the eﬀective energy-momentum
+tensor,
+T(cid:48)
+µν
+where Tµν is the energy-momentum tensor for a ﬂuid with
+equation of state p = (γ − 1)ρ such that
+Tµν = (ρ + p)uµuν + pgµν,
+
+= Tµν + Cµν,
+
+(9)
+
+(8)
+
+and Cµν is the energy-momentum tensor which corresponds to
+the matter creation term, such that
+
+Cµν = PC(gµν + uµuν).
+
+Einstein’s ﬁeld equations are therefore modiﬁed to
+Rµν − 1
+2
+
+Rgµν + Λgµν =
+
+Tµν + Cµν
+
+8πG
+c4
+
+,
+
+(cid:16)
+
+(cid:17)
+
+(10)
+
+(11)
+
+and the two ﬂuids interact to provide an eﬀective equation of state
+p = ωeﬀρ (e.g. Pan et al. 2016). The resulting ﬁeld equations do
+not just describe space and matter, but now also include creation.
+The creation tensor cancels the matter density and pressure,
+leaving just the overall eﬀective form of the vacuum tensor. The
+sources of the creation tensor are places where matter is created
+(or destroyed). The Cµν term has previously been used to suggest
+an alternative theory of gravity (Hoyle & Narlikar 1964), however
+such a ﬁeld was suggested to be incompatible with an expanding
+universe unless matter with negative inertial and gravitational
+mass were to exist (Hawking 1965).
+
+For a FLRW metric in which matter creation is taking place,
+Eq. (3) is modiﬁed to include an additional term due to creation
+pressure, which is related to gravitationally induced adiabatic
+particle production by
+
+PC =
+
+(p + ρ),
+
+−Γ
+3H
+
+(12)
+
+where PC is the matter creation pressure, Γ(t) is the creation rate
+or more speciﬁcally the rate of change of the particle number
+in a physical volume V containing N particles (Pan et al. 2016;
+Paliathanasis, Barrow, & Pan 2017). By assuming that the ﬂuid
+component of Eqs. 2 and 3 behaves as a perfect ﬂuid with an
+equation of state given by p = (γ−1)ρ, then Paliathanasis, Barrow,
+& Pan (2017) show that the relation between ωeﬀ and the particle
+creation rate Γ is given by
+1 − Γ
+3H
+
+= −1 + γ
+
+ωeﬀ =
+
+(13)
+
+P
+ρ
+
+(cid:33)
+
+(cid:32)
+
+,
+
+where P = p + PC, and γ is a constant. This has an important
+consequence as it shows that during matter creation, the equation
+of state parameter is related to the particle creation rate. Hence,
+diﬀerent eﬀective ﬂuids and diﬀerent gravitational eﬀects can
+be provided by varying Γ. In other words, the creation of matter
+modiﬁes the equation of state parameter. For a constant creation
+rate of Γ = 3H, one obtains ω = −1. The introduction of matter
+creation can therefore yield an equation of state equivalent to a
+cosmological constant.
+
+It is worth noting that the equation of state parameter of this
+space-time ﬂuid, ωeﬀ, can actually take on many values depending
+on the precise rate of matter creation, and it is only constrained
+to exactly equal −1 when Γ = 3H. Only when the creation of
+
+negative masses sustains itself at a very speciﬁc rate does it serve
+to provide a constant density as a function of time and thus a
+cosmological constant with ωeﬀ = −1. If the creation of negative
+masses is occurring too slowly to replenish the density, which is
+steadily decreasing through mutual repulsion and the expansion
+of the universe, then ωeﬀ > −1. If the density of negative masses is
+increasing as a function of time, then we obtain a phantom energy
+model with ωeﬀ < −1. Further study of the creation term Cµν
+will be able to determine what drives the creation rate. However,
+within this model the creation rate Γ can vary as both a function
+of space and time. When varying as a function of time, Γ(t)
+potentially gives rise to a time-varying Hubble parameter and a
+time-varying cosmological constant. When varying as a function
+of space, this gives rise to an inhomogeneous distribution of
+ωeﬀ throughout the universe. For example, one could imagine
+spatial pockets of negative mass with particularly high or low
+creation rates. This would give rise to an inhomogeneous and
+anisotropic distribution of expansion speeds across the sky that
+varies around individual voids in the galaxy distribution, and
+which could therefore be tested using observational data. This
+can be done by looking at the measured galaxy distribution using
+upcoming radio telescopes such as the Square Kilometre Array
+(SKA) and its pathﬁnders and precursors in combination with
+future optical and infrared surveys such as Euclid and LSST (e.g.
+Maartens et al. 2015). Future studies will be able to determine
+whether there is matter creation taking place and to investigate in
+more detail any inﬂuence that Γ could have on the ultimate fate
+of the Universe.
+
+The continuous-creation of negative masses implies that the
+universe would be taking on an increasingly negative energy state.
+I note that this negative energy is not created all at once in a
+cataclysmic event, but is steadily created at the rate given by Γ.
+This could be interpreted as the vacuum instability being a real,
+physical, phenomena. In other words, rather than positive mass
+matter collapsing into an inﬁnitely negative energy state, this
+cosmology results in the continuous creation of (potentially real
+or virtual) particles with negative energy. Such speculations can
+be considered more rigorously in future works.
+
+2.3.2. Equivalence with the cosmological constant
+Let us now consider the case of negative masses that are being
+constantly created. These negative masses gravitationally repel
+each other – thereby pushing apart structures in the universe. I
+showed in Section 2.3.1 that a constant creation rate of Γ = 3H
+provides ω = −1. Negative masses that are being constantly
+created therefore do not undergo the typical dilution as the
+universe expands, as would be the case for normal matter which
+conventionally has ω = 0. In fact, these continuously-created
+negative masses appear to resemble dark energy.
+
+There is therefore a strong degeneracy between ΩM− and
+ΩΛ, as discussed in Section 2.3. This degeneracy is present in
+the supernovae observations of an accelerating Universe (see
+Section 4).
+
+I am arguing that these negative masses are created at such a
+rate that they retain – on large scales – a constant density. I can
+therefore modify Friedmann’s equation to
+
+=
+
+8πG
+3
+
+(ρ+ + ρ−) − kc2
+a2 .
+
+a
+As ρ− is constant, I can deﬁne Λ = 8πGρ−/c2, thereby obtaining
+
+(14)
+
+(15)
+
+=
+
+8πG
+3 ρ+ +
+
+Λc2
+3
+
+− kc2
+a2 .
+
+(cid:19)2
+(cid:19)2
+
+(cid:18) ˙a
+(cid:18) ˙a
+
+a
+
+Article number, page 5 of 20
+
+A&A proofs: manuscript no. theory_dark_universe_arxiv
+
+This is the standard Friedmann equation given in Eq. (2). In
+conclusion, I have shown that constantly-created negative masses
+are a natural explanation for the cosmological constant. The
+physical properties of negative masses that were undergoing
+constant creation would be rather similar to the accepted and
+inferred properties of the cosmological constant. Within this toy
+model, Λ can now be interpreted as the neglected negative mass
+content of the Universe, rather than as some mysterious extra term.
+As these negative masses can take the form of a cosmological
+constant, one can deduce that they are a property of the vacuum
+rather than non-relativistic matter in the conventional sense. In
+summary, the ﬁeld equations are modiﬁed to
+Rµν − 1
+2
+where the conventional Λgµν term is now represented by a
+combination of T−
+µν (an exotic matter term) and Cµν (a modiﬁed
+gravity term).
+
+8πG
+c4
+
+Rgµν =
+
++ T−
+
++ Cµν
+
+(16)
+
+T +
+µν
+
+(cid:16)
+
+(cid:17)
+
+µν
+
+,
+
+(cid:18) ˙a
+
+(cid:19)2
+
+=
+
+Λc2
+3
+
+− kc2
+a2 ,
+
+2.3.3. Solutions to the Friedmann equation
+I showed in Section 2.3.2 that Λ can be modelled as a constant
+density of negative masses, which remain constant via matter
+creation. If I consider the positive mass matter as negligible, we
+have the Friedmann equation
+
+a
+where Λ = 8πGρ−/c2. As by deﬁnition ρ− < 0, it must also be
+the case that Λ < 0. It is clear that for Λ < 0, Eq. (17) can only be
+satisﬁed when k = −1. The solution for the scale-factor is given
+by
+
+
+
+(cid:114) −3
+(cid:114)−Λc2
+
+Λc2 sin
+
+cot
+
+3
+
+t
+
+3
+
+(cid:114)−Λc2
+ ,
+(cid:114)−Λc2
+
+
+3
+
+ ,
+
+t
+
+a(t) =
+
+H(t) =
+
+together with a Hubble parameter given by
+
+(17)
+
+(18)
+
+(19)
+
+(cid:112)−3π2/Λc2.
+
+which corresponds to an Anti-de Sitter space (AdS) with a time-
+variable Hubble parameter. This AdS universe undergoes a cycle
+of expansion and contraction with a timescale of
+This is as a negative value of Λ, if interpreted as vacuum energy,
+corresponds to a negative energy density (Hawking & Page 1982).
+This is a counterintuitive result, as although the negative masses
+are gravitationally repelling one another, the cosmological eﬀect
+appears to be for the negative energy associated with negative
+masses to cause the universe to recollapse. The solution describes
+an open universe which expands from a Big Bang, reaches a
+maxima, and then recontracts to a Big Crunch. This appears to
+be an elegant outcome – by introducing negative masses that
+undergo continuous creation, one obtains a cyclic cosmology.
+Even with the addition of positive mass matter, a universe with
+a negative cosmological constant would eventually recollapse
+due to this extra attractive force. Interestingly, the value of Λ is
+necessarily ﬁnely-tuned – if the magnitude of Λ is too large, then
+the universe will not exist for suﬃcient time to create observers.
+For a cosmological constant of similar magnitude to that which
+is currently interpreted from cosmological observations, |Λ| ≈
+0.3 × 10−52 m−2, the lifetime of each cycle of the universe would
+be ∼ 105 Gyr. In an epoch ∼ 14 Gyr after a Big Bang, the universe
+Article number, page 6 of 20
+
+would therefore be observed to be in an expanding phase. The
+continuous negative mass matter creation would cause objects in
+this universe to be gravitationally accelerated apart, but only on a
+local level. In late-times, this cyclic cosmology with AdS space
+collapses due to its negative energy.
+
+One could also attempt to calculate the age of the universe in
+this cosmology, which can be conveniently estimated from Eq. 19
+as
+
+(cid:114) −3
+
+(cid:114)−Λc2
+
+
+
+ .
+
+1
+H0
+
+3
+
+(20)
+
+Λc2 arctan
+
+t0 =
+For H0 = 67 km s−1 Mpc−1 = 2.17 × 10−18 s−1 and |Λ| ≈ 0.3 ×
+10−52 m−2, then the age of the universe would be ∼ 13.8 Gyr.
+While this appears to be compatible with observations of our
+own Universe, there are several notable caveats that could either
+extend or shorten the calculated age. In the presented toy model,
+Λ can itself be a function of time, which could drastically alter the
+results. The fundamental change of including negative masses into
+the Universe would also require reinterpretation of the standard
+observational results – which may in turn adjust the values of
+both H0 and Λ.
+
+One notable point of interest is that the derived AdS space
+corresponds to one of the most researched areas of string theory,
+the Anti-de Sitter/Conformal Field Theory correspondence
+(Maldacena 1999). String theories naturally require the
+compactiﬁcation of six dimensional Calabi-Yau spaces onto
+AdS backgrounds, meaning onto space-times with negative Λ
+(e.g. Prokopec 2011), and it has therefore remained puzzling
+why cosmological observations have not provided evidence for
+Λ < 0. In the proposed toy model, Λ < 0 also seems to be able to
+explain the ﬂat rotation curves observed in galaxies, as detailed
+in Section 2.3.4. The existence of AdS space implies that string
+theory may possibly be directly applicable to our Universe. I
+note that this cyclic universe does not violate the positive energy
+theorem of Witten (1981), which approximately states that it is
+not possible to construct an object out of ordinary matter (with
+positive local energy density), that has a total energy which is
+negative. The positive energy theorem has also been extended to
+AdS space-time (Abbott & Deser 1982; Gibbons et al. 1983).
+
+Another interesting result is that the theory directly predicts a
+time-variable Hubble parameter, which may be consistent with
+recent cosmological measurements (Efstathiou 2014; Riess et
+al. 2016; Bonvin et al. 2017). Nevertheless, in this scenario,
+estimates of H from the CMB would likely be strongly aﬀected
+through modelling the CMB data with a ﬂat ΛCDM model
+universe. I note that I have here only considered the eﬀects upon
+a cosmology dominated by Λ and k. Although beyond the scope
+of this current paper, consideration of a more physical universe –
+that also includes ρ+ – may considerably adjust the cosmological
+behaviour at early times and the precise form of a time-variable
+Hubble parameter. Such scenarios can be explored further in
+future works.
+
+2.3.4. Flattening of galaxy rotation curves
+I now consider the localised properties of positive masses that
+are immersed in a negative mass ﬂuid. Such a scenario will
+clearly have an eﬀect on the dynamics of positive masses and
+the subsequent evolution of a positive mass system. This thereby
+allows us to consider the implications for the dynamics of galaxies
+and similar structures.
+
+The standard galaxy rotation scenario can be described as the
+case where a positive mass test particle, of mass M+, is located at
+
+J. S. Farnes : A unifying theory of dark energy and dark matter
+
+constant. We can deﬁne
+
+ρvac =
+
+Λc2
+4πG ,
+
+(23)
+
+mr.
+
+(26)
+
+(27)
+
+(28)
+
+so that the Poisson equation for gravity is given by
+∇2φ = 4πGρ+ − 4πGρvac = 4πGρ+ − Λc2,
+where φ is the scalar potential and ρ+ is the positive mass density.
+If we set φ = 0 at the origin and assume spherical symmetry, then
+Eq. (24) has the solution
+φ(r) = −GM(cid:63)
+r
+
+− Λc2
+6
+
+(24)
+
+(25)
+
+r2,
+
+which gives the potential at distance r from a central point mass
+M(cid:63). In the case where Λ = 0, we retrieve the standard potential
+for Newton’s law of gravitation. The force exerted on a particle
+of mass m is related to the scalar potential by F = −m∇φ, which
+yields
+
+(cid:34)
+
+(cid:35)
+
+F = −m ∂
+
+∂r φ = −m ∂
+
+∂r
+
+−GM(cid:63)
+r
+
+− Λc2
+6
+
+r2
+
+= −GM(cid:63)m
+
++
+
+r2
+
+Λc2
+3
+
+=
+
+(cid:114)
+
+(cid:114)
+
+We can therefore modify Eq. (21) to provide
+
+mv2
+r
+
+GM(cid:63)m
+
+r2
+
+− Λc2
+3
+
+mr,
+
+which by rearrangement, leads to the solution for the rotation
+curve
+
+v =
+
+GM(cid:63)
+
+r
+
+− Λc2
+3
+
+r2.
+
+√
+
+Again, we can see that for Λ = 0, we obtain the standard
+Keplerian rotation curve. However, for non-zero values of the
+cosmological constant, the rotation curve is modiﬁed. The
+modiﬁcation of the rotation curve for increasing magnitudes of
+positive and negative Λ in a galaxy with mass and size similar to
+the Milky Way is shown in Figure 2. For a negative cosmological
+constant, the rotation curve clearly increases linearly towards the
+outskirts of a galaxy, such that v ∝ (|Λ|1/2c/
+3)r. This appears
+consistent with observational results, and previous studies have
+found that most rotation curves are rising slowly even at the
+farthest measured point (Rubin, Ford, & Thonnard 1980). The
+data again appear to be consistent with a negative cosmological
+constant. I emphasise that the rotation curves are being aﬀected by
+the local negative mass density, which can coalesce into halo-like
+structures (see Section 3.1). The inferred value of Λ in the vicinity
+of galaxies is therefore expected to be of larger magnitude than
+the cosmological constant inferred from cosmological expansion.
+In other words, although a speciﬁc large-scale constant rate of
+particle creation is required to enable a ωeﬀ = −1 universe, the
+resulting particle density in intergalactic space would likely be
+less than the amount of negative masses that would be required
+to balance a galaxy rotation curve. Hence, more generally the
+solution for the rotation curve is given by
+
+v =
+
+GM(cid:63)
+
+− 8πGρ−
+
+r2,
+
+r
+
+3
+
+(29)
+
+where ρ− is the local negative mass density.
+
+I note that the presented solutions, which require a steeply-
+rising linear rotation curve, are only applicable for a strongly
+
+Article number, page 7 of 20
+
+Fig. 2. Predicted circular velocity as a function of radius, for a galaxy
+of similar size and mass to the Milky Way and that is inﬂuenced by a
+cosmological constant. The displayed rotation curves are for increasing
+magnitudes of a positive (in blue) and a negative (in red) cosmological
+constant. The Keplerian curve with Λ = 0 is also shown (in black).
+Whereas a positive cosmological constant steepens the decline of a
+rotation curve, a negative cosmological constant ﬂattens the rotation
+curve, causing a steady increase at larger galactic radii. Solid body
+rotation in the centre of the galaxy is not shown.
+
+a distance r from the galactic centre. The galaxy has the majority
+of its mass, M(cid:63), concentrated at the centre. I consider this system
+from an observing frame where the positive mass particle is
+seen to be rotating with an orbital velocity, v, about an axis of
+rotation through the centre of the galaxy. For a stable circular
+orbit, the gravitational force (which acts inwardly towards the
+orbital centre) is equal to the centripetal force (which is related to
+the component of the velocity acting tangentially to the orbital
+path). This provides the simple equation
+
+By rearranging Eq. (21), I obtain
+
+GM+M(cid:63)
+
+=
+
+M+v2
+
+.
+
+r
+
+r2
+
+(cid:114)
+
+v =
+
+GM(cid:63)
+
+,
+
+r
+
+(21)
+
+(22)
+
+which is the standard Keplerian rotation curve whereby the
+orbital velocity of a test particle should decrease as a function
+of increased radius. Nevertheless, very few galaxies show any
+evidence for such a Keplerian rotation curve. Hα and radio
+HI observations of galaxies both indicate that rotation curves
+remain essentially ﬂat out to several tens of kpc, providing strong
+evidence for the existence of dark matter (Rubin & Ford 1970;
+Rubin, Ford, & Thonnard 1980; Rubin et al. 1985).
+
+I now construct an alternative model for the galaxy rotation
+scenario, that also includes a cosmological constant. In this case,
+the same setup exists as in the standard galaxy rotation scenario.
+However, I also now assume that the positive mass galaxy is
+surrounded by a halo of continuously-created negative masses,
+with constant density ρ− and of total mass M−. The positive
+mass test particle is now immersed in a negative mass ﬂuid
+that, as shown in Section 2.3.2, behaves with resemblance to
+a cosmological constant with Λ = 8πGρ−/c2.
+In the limit of small velocity, v (cid:28) c, and in the weak
+ﬁeld approximation, Einstein’s ﬁeld equations should reproduce
+Newtonian gravity. We can therefore examine the Newtonian
+limit of the ﬁeld equations in the case of a non-zero cosmological
+
+A&A proofs: manuscript no. theory_dark_universe_arxiv
+
+negative Λ. Figure 2 demonstrates that for a slightly negative Λ,
+the increase in velocity is just able to overcome the Keplerian
+decline, such that the rotation curve remains essentially ﬂat as a
+function of distance.
+
+Although the majority of observed rotation curves are largely
+ﬂat, there is some observational evidence that rotation curves
+can continue to rise out to large galactocentric radii (e.g. Rubin,
+Ford, & Thonnard 1980). However, there are also reasons why
+the theoretical rotation curves may generally appear to rise more
+rapidly than is often seen in observations. The presented toy
+model is just a simple case, which demonstrates the change to
+a rotation curve enacted by a negative mass halo. There are
+several simplifying assumptions that have been made: (i) the
+positive mass within a galaxy is not concentrated at a central
+point and has a radially-dependent mass proﬁle, (ii) a typical
+galaxy has separate bulge, halo, and disk components which are
+not modelled here, and (iii) the local negative mass density may
+be asymmetric and itself has a radial mass distribution. In order
+to ﬁt observational rotation curve data, these additional factors
+would all need to be modelled in further detail. This would then
+be able to either validate or rule out the proposed cosmology (and
+the existence of a negative cosmological constant). However, we
+consider this ﬁtting process to be beyond the scope of this current
+paper.
+
+Interestingly, a solution that invoked a negative cosmological
+constant as an explanation for ﬂat galaxy rotation curves has
+been considered before by Whitehouse & Kraniotis (1999);
+Kraniotis & Whitehouse (2001), but was dismissed by Bergstrom
+& Danielsson (2000) on the basis that it appeared incompatible
+with observations of supernovae. In Section 4, a proposal is
+made to provide reconciliation between a negative cosmological
+constant and the supernovae results.
+
+3. N-body simulations
+
+One of the most eﬀective manners of testing a physical hypothesis
+related to particle interactions is via N-body simulations. Most
+modern N-body software packages do not support exotic and
+rarely-studied phenomena such as negative masses. I have
+therefore written new software to perform three-dimensional
+(3D) gravitational N-body simulations using python, numpy,
+and matplotlib. The code is parallelised using dask in order
+to make use of the multiple processing cores available in most
+modern machines. The N-body code used here evaluates the
+particle positions and velocities at each timestep by using direct
+methods, thereby avoiding the introduction of any approximations
+and maintaining the highest accuracy – albeit at the cost of
+substantial computing time, of the order of O(N2) per timestep.
+The primary motivation for this computational perspective is
+not focussed on performance, but rather on providing easily-
+understandable, open-source software. This enables the presented
+results to be easily replicated and veriﬁed on any scientist’s
+own machine, rather than requiring any specialised hardware
+or software setup. The simulations presented here are therefore
+necessarily primitive in comparison with the state-of-the-art (e.g.
+Springel et al. 2005), but provide examples that demonstrate
+what can be expected from such a toy model. Unless stated
+otherwise, all of the simulations use a total of 50,000 particles. I
+use standard N-body units, with G = 1.0 and a total positive mass
+M+ = 1.0. A softening parameter of (cid:15) = 0.07 was also used. Due
+
+Article number, page 8 of 20
+
+to computational reasons, no matter creation was included in the
+current simulations.4
+
+The simulations are presented in Sections 3.1, 3.2, and 3.3. In
+Section 3.1, I demonstrate that in the presence of negative mass
+material a positive mass galaxy naturally forms a dark matter
+halo with a radius that is several times larger than the positive
+mass component. Furthermore, due to the mutually-repulsive
+nature of negative masses, the formed halo is not cuspy. This
+provides a resolution of the cuspy-halo problem (e.g. de Blok
+2010), and to my knowledge makes negative masses the only dark
+matter candidate that can provide a non-contrived solution. In
+Section 3.2, I show that – in the simulations – the gravitational
+force exerted by this negative mass halo pushing inwards on
+the positive mass galaxy leads to a ﬂat galaxy rotation curve. In
+Section 3.3, I demonstrate that a mix of positive and negative
+mass material can result in structure formation. An initially
+uniform distribution of both positive and negative masses leads
+to the conventional ﬁlamentary and void-like structures observed
+in standard large-scale structure simulations. Moreover, the
+positive mass component of these simulations naturally becomes
+surrounded by negative mass material – leading to ubiquitous
+dark matter haloes for every astrophysical object. In Section 3.4,
+I describe the constraints on runaway motion that are provided
+by the simulations.
+
+3.1. Formation of a dark matter halo
+
+In the ﬁrst set of simulations, a positive mass galaxy is located
+at the centre of the initial particle distribution. This positive
+mass galaxy is initialised with spherical-symmetry and following
+the conventional Hernquist model, with a scale radius equal to
+1.0 (Hernquist 1990). The Hernquist model is used to set the
+initial particle positions and velocities of the positive masses. The
+velocities consist of a radial component and are also built hot, with
+a velocity dispersion provided by a small Gaussian component
+with a standard deviation of 0.3. The galaxy comprises 5,000
+particles, with a total positive mass of M+ = 1.0. The initial
+positive mass particle distribution is located at the centre of a
+cube of negative masses with volume 2003. The initial conditions
+of these negative masses are set to be uniformly distributed in
+position and with zero initial velocity. The negative mass sea
+comprises 45,000 particles, with a total mass of M− = −3.0.
+The simulation is scaled such that the positive mass galaxy has
+similar properties to the Milky Way, with a characteristic radius of
+15 kpc and a mass of 5.8 × 1011M(cid:12). The simulation consequently
+runs over 21.5 Gyr with a timestep of 35.9 Myr. Each side of
+the box of negative masses has a length of 3 Mpc. Assuming
+spherical particles, each of the 45,000 negative masses therefore
+has an initial descriptive radius equivalent to 52 kpc between each
+particle.
+
+The resulting particle distribution from this simulation is
+shown in Figure 3. The full animated video from this simulation is
+available online. The negative masses at the outskirts of the cube
+are mutually-repelled by other surrounding negative masses and
+the cube begins to expand in volume, as discussed in Section 2.3.
+Meanwhile, the negative masses within the central portion of the
+cube are attracted towards the positive mass galaxy. From their
+initially zero velocities, the negative mass particles are slushed to-
+and-fro from either side of the positive mass galaxy. Eventually,
+the negative mass particles reach dynamic equilibrium in a halo
+
+4 While no matter creation is included in the simulations, this would
+only serve to add additional negative masses, which in most cases would
+only further strengthen the results.
+
+J. S. Farnes : A unifying theory of dark energy and dark matter
+
+Fig. 3. N-body simulations showing the formation of a non-cuspy dark matter halo from an initially motionless particle distribution of 45,000
+negative masses (in purple), that surround a Hernquist-model galaxy of 5,000 positive masses (in yellow). Both the initial (top) and the ﬁnal (bottom)
+time-steps are shown. An animated video from this simulation is available online.
+
+Article number, page 9 of 20
+
+A&A proofs: manuscript no. theory_dark_universe_arxiv
+
+Fig. 4. Plot of the magnitude of the density proﬁle as a function of radius
+from the galactic centre, as extracted from the N-body simulations. The
+density proﬁles shown are: (i) as empirically determined for a negative
+mass cosmology from the N-body simulations (in blue), (ii) for a NFW
+proﬁle (in dark red), and (iii) for an observationally motivated Burkert
+proﬁle (in light red). The negative mass density proﬁle is calculated in
+equally-spaced radial bins, with the measurements indicated by data
+points and overplotted with a moving average to guide the eye. The
+simulated dark matter halo is non-cuspy and best described by the
+Burkert proﬁle. Beyond the radius of the negative mass halo, the radial
+proﬁle of the diﬀuse negative mass background becomes visible. The
+sharp cut-oﬀ to the density proﬁle at the edge of the halo may be further
+modiﬁed by matter creation. Negative masses can therefore simply
+reproduce the key features of observed dark matter density proﬁles
+in real galaxies.
+
+that surrounds the positive mass galaxy and which extends out to
+several galactic radii. The negative mass particles have naturally
+formed a dark matter halo.
+
+Observations of galaxies typically indicate an approximately
+constant dark matter density in the inner parts of galaxies,
+while conventional cosmological simulations of positive mass
+dark matter indicate a steep power-law-like behaviour. This is
+known as the core–cusp problem or the cuspy halo problem
+and is currently unsolved (de Blok 2010). The negative mass
+halo that has formed in the simulations presented here can be
+clearly seen in the simulations to have a ﬂat central dark matter
+distribution. The typically assumed positive mass particles that
+are used in conventional simulations are gravitationally attractive
+and thereby accumulate into a sharp cusp. However, negative
+mass particles are self-interacting and gravitationally repulsive –
+thereby yielding a ﬂat inner density proﬁle. To demonstrate this,
+the extracted density proﬁle from the simulations is shown in
+Figure 4. It is worth noting that the precise form of the density
+proﬁle will be further modiﬁed by matter creation. Nevertheless,
+the magnitude of the simulated negative mass density proﬁle is
+shown and compared to both the cuspy Navarro–Frenk–White
+(NFW) proﬁle derived from standard N-body simulations with
+positive mass dark matter (e.g. Navarro, Frenk, & White 1997),
+and to the non-cuspy, observationally motivated, Burkert density
+proﬁle (Burkert 1995). The Burkert proﬁle is clearly a much
+better representation of the simulated dark matter halo than the
+NFW proﬁle. A negative mass cosmology can therefore provide
+a solution to the cuspy halo problem. This appears to be the
+only cosmological theory within the scientiﬁc literature that can
+explain and predict the distribution of dark matter in galaxies
+from ﬁrst principles.
+
+As the halo consists of negative mass particles, this will
+screen the positive mass galaxy from long-range gravitational
+
+Article number, page 10 of 20
+
+Fig. 5. Plot of the circular velocity, vcirc, as a function of radius, r, as
+extracted from the N-body simulations. The rotation curves shown are:
+(i) for a positive mass galaxy consisting of 5,000 particles (in black), and
+(ii) for an identical positive mass galaxy with identical initial conditions,
+albeit now surrounded by an initially uniform distribution of 45,000
+negative mass particles (in red). The rotation curves are plotted using a
+moving average for each set of 50 particles – the means and standard
+errors in vcirc for these particles are indicated by the solid lines and the
+shaded areas respectively. The rotation of the galaxy that consists of only
+positive mass clearly drops oﬀ following a Keplerian curve. Nevertheless,
+the galaxy with a negative mass halo has an essentially ﬂat rotation curve
+that is slowly rising out to large galactic radii.
+
+interactions. This is similar to the screening eﬀects that are seen
+in electrical plasmas with positive and negative charges, except
+this is a gravitational plasma with positive and negative masses.
+The negative mass sheath surrounding a typical galaxy eﬀectively
+begins to shield the positive mass from external gravitational
+eﬀects. The result is that in a negative mass dominated cosmology,
+positive mass galaxies would gravitationally attract each other and
+merge at a slower rate than in a conventional ΛCDM cosmology.
+
+3.2. Flattened rotation curves
+The rotation curves of galaxies have been shown to remain
+essentially ﬂat out to several tens of kpc. This relation has
+been demonstrated using both Hα observations (Rubin & Ford
+1970; Rubin, Ford, & Thonnard 1980) and radio HI observations
+(Bosma 1981). We can therefore attempt to measure the eﬀect
+that negative masses have on the rotation curves of galaxies.
+
+I use similar initial conditions as in Section 3.1. However, in
+order to reliably measure the rotation curve, the positive mass
+galaxy is setup as a kinematically cold system with no velocity
+dispersion and only a circular, orbital, velocity component. The
+rotation curve was ﬁrst measured from a simulation with an
+initial particle distribution that consisted solely of 5,000 positive
+masses in a Hernquist model galaxy. The resulting rotation curve
+is indicated by the black line in Figure 5. The rotation curve for
+the positive mass galaxy clearly follows a Keplerian curve, with
+solid body rotation within the scale radius of the galaxy5, followed
+by a steady decline. The rotation curve was then also measured
+from another simulation with an identical particle distribution for
+the 5,000 positive masses, but now also surrounded by 45,000
+initially uniformly distributed negative masses. The resulting
+rotation curve is indicated by the red line in Figure 5. The rotation
+curve for this positive mass galaxy with a negative mass halo also
+
+5 A solid disk rotates such that the velocity increases linearly with
+radius.
+
+J. S. Farnes : A unifying theory of dark energy and dark matter
+
+exhibits solid body rotation within the scale radius of the galaxy,
+but then appears to slowly increase, remaining essentially ﬂat
+out to several galactic radii albeit with a slight positive incline. I
+emphasise that the only diﬀerence between these two simulations
+is that one contains only positive mass matter, whereas the other
+contains both positive mass matter and a negative mass halo. The
+negative masses have ﬂattened the rotation curve of the galaxy.
+The inclusion of matter creation would be able to provide full
+dynamic equilibrium. Theoretical considerations that explain how
+negative masses can ﬂatten the rotation curves of galaxies are
+detailed in Section 2.3.4.
+
+3.3. Structure formation
+
+In a universe ﬁlled with both positive and negative masses, one
+may raise the interesting question of whether the formation
+of large-scale structures could possibly take place. In standard
+structure formation simulations, a uniform distribution of positive
+mass particles is allowed to evolve. Small initial over- and under-
+densities in the particle distribution develop into ﬁlaments and
+voids similar to those seen in observations (e.g. Springel et al.
+2005). The same process may therefore occur when negative
+masses are included. To test this hypothesis, simulations are
+setup within a cube-shaped region of volume 2003. Particles
+are located within this arbitrarily-sized region: 25,000 positive
+mass and a further 25,000 negative mass particles – with the x, y,
+and z coordinates of every particle being drawn from a uniform
+distribution. The total mass within the cube is 0.0, with total
+positive and negative masses of +1.0 and −1.0 respectively. The
+initial velocities of all particles were equal to zero. The simulation
+is scaled such that each side of the box has a length of 200 Mpc.
+The simulation runs over 21.5 Gyr with a timestep of 35.9 Myr.
+This provides a coarse mass resolution of 1.7 × 1017M(cid:12) ≈
+300, 000 Milky Ways per particle.
+
+The resulting particle distribution from this simulation is
+shown in Figure 6. The full animated video from this simulation is
+available online. As the simulation progresses, structure including
+ﬁlaments and voids clearly begin to be formed. Similarly to
+Section 3.1, the negative masses again naturally surround the
+positive masses, providing ubiquitous dark matter haloes. The
+initial particle distribution has formed a complex network that
+comprises ﬁlaments, voids, and rich clusters. From these early
+simulations, it is unclear which is the predominant eﬀect: the
+additional pressure from the negative masses being attracted
+towards positive masses leading to more rapid structure formation
+than can occur in a positive mass only universe, or the mutual
+repulsion between negative masses tending to counteract this and
+leading to slower structure formation. Whichever the case, the
+presence of negative mass particles leads to modiﬁcation of the
+relative spatial distribution between ﬁlaments and voids.6
+
+One-dimensional simulations of particles with a negative
+gravitational mass have also been reported in a recent study
+(Manfredi et al. 2018). More sophisticated N-body simulations
+with larger numbers of particles and more sophisticated initial
+conditions will be able to compare the resulting ﬁlaments and
+voids from these simulations with the observed large-scale
+structure in our Universe. Nevertheless, we have obtained a key
+
+6 The consequences for structure formation could be substantially
+inﬂuenced by matter creation. Negative masses that are continuously
+created may feasibly have little inﬂuence on structures in the very early
+universe, as within the matter creation framework one could infer that
+few negative masses would exist at early-times.
+
+result – that structure formation is possible in a universe with
+negative mass.
+
+3.4. Runaway motion
+
+In Section 1, we discussed the peculiar concept of runaway
+motion which can take place between positive–negative mass
+particle pairs, with such gravitational dipoles accelerating up
+to a speed equal to c. This has previously been perceived as a
+problem for theories of negative masses (e.g. Bonnor 1989), partly
+due to the conventional maxim that massive particles cannot
+accelerate to c, and primarily due to the general reasoning that
+we do not observe such high-speed particles. Both components
+of this argument are however of dubious merit.
+
+Firstly, the theory of positive–negative mass particle pairs
+provides clear rules that govern such interactions. The mechanics
+of these interactions are governed by the usual physical laws:
+the conservation of energy and momentum remain fundamental,
+and hence it is unclear why we should object to this potentially
+physical law of nature on grounds of aversion alone. Secondly,
+and more importantly, observations provide evidence for
+signiﬁcant numbers of ultra-high-energy cosmic rays which are
+known to be extragalactic in origin, although the mechanism of
+their production remains a mystery (Pierre Auger Collaboration
+2017). From this perspective, runaway motion is not a challenge
+for negative mass models, but is rather a useful observational
+constraint.
+
+The idea that all negative masses in a universe should form
+gravitational dipoles and accelerate to high energies is not
+supported by the simulations presented here (which have a limited
+number of particles), in which no runaway particles can be
+identiﬁed. While runaway motion is a legitimate physical facet of
+negative mass particle interactions, the simulations indicate that
+this behaviour is only common for idealised particle pairs and
+occurs more rarely as a bulk behaviour within a negative mass
+ﬂuid. This is likely as the particles in such a ﬂuid are subject to
+numerous counteracting forces from the surrounding medium.
+One can assume that some amount of runaway particles must
+still exist, although these would likely be highly scattered by
+Brownian motion (e.g. Landis 1991).
+
+One possibility is that
+
+the softening parameter in our
+simulations, (cid:15), which aﬀects short range interactions, could be
+preventing the formation of polarised mass dipoles that undergo
+runaway motion. To test this, the simulations were rerun with
+(cid:15) = 0.0. However, no runaway particles were detected in these
+simulations and the computational results remain unchanged.
+One can conclude that runaway motion must be suﬃciently
+rare within a bulk ﬂuid that the eﬀect does not occur with any
+regularity in a simulation of 50,000 particles. Simulations with
+higher numbers of particles (of the order of millions) will be
+able to place numerical constraints on the runaway particle
+rate, in order to provide direct observational comparisons with
+ultra-high-energy cosmic ray detection rates.
+
+4. Compatibility with observations
+At this stage, I have presented a toy model which predicts
+that the introduction of continuously-created negative masses to
+Einstein’s ﬁeld equations can behave in such a way as to resemble
+a cosmological constant. Furthermore, this model suggests that
+these negative masses can ﬂatten the rotation curve of a galaxy.
+This suggests that negative masses could possibly be responsible
+for dark matter and dark energy. While this paper is primarily
+
+Article number, page 11 of 20
+
+A&A proofs: manuscript no. theory_dark_universe_arxiv
+
+Fig. 6. N-body simulations showing the formation of large-scale structure from an initially motionless, uniform, particle distribution of 25,000
+positive masses (in yellow) and 25,000 negative masses (in purple). Both the initial (top) and the ﬁnal (bottom) time-steps are shown. An animated
+video from this simulation is available online.
+Article number, page 12 of 20
+
+J. S. Farnes : A unifying theory of dark energy and dark matter
+
+focussed on the theoretical and simulated consequences of such
+exotic matter, for the sake of completeness I now review the
+literature and consider any potential for compatibility between
+the toy model and contemporary cosmological observations.
+
+4.1. Supernovae observations of an accelerating Universe
+In Section 2.3, I found that there is a degeneracy between
+parameter estimates of ΩM− and ΩΛ. In a conventional ΛCDM
+cosmology, where ΩM− is taken to be zero, one could therefore
+infer a positive cosmological constant instead of a negative
+density parameter. I note that a model with non-zero ΩM− and
+zero ΩΛ would likely give a diﬀerent expansion rate to one with
+ΩM− and non-zero ΩΛ.
+
+There is strong observational evidence from high-redshift
+supernovae that the expansion of the Universe is accelerating due
+to a positive cosmological constant (Riess et al. 1998; Perlmutter
+et al. 1999). However, inspection of these results reveals that the
+observations themselves may demonstrate initial evidence for
+a negative mass dominated Universe. In both of these seminal
+works, the very reasonable assumption was made that all matter
+in the Universe has positive mass.
+
+For the Bayesian ﬁts in Perlmutter et al. (1999), the analysis
+assumed a prior probability distribution that has zero probability
+for ΩM < 0. This former work notes that throughout the
+previous cosmology literature, completely unconstrained ﬁts have
+generally been used that lead to conﬁdence regions which include
+the part of the parameter space with negative values for ΩM. In
+other words, a probability of zero was assigned to a negative mass
+cosmology.
+
+In Riess et al. (1998), a working deﬁnition was applied such
+that negative values for the current deceleration (i.e. accelerations)
+were generated only by a positive cosmological constant and not
+from “unphysical, negative mass density”. The entire supernovae
+analysis was re-run in this former work, in order to further test
+this point. The paper shows that demanding that ΩΛ ≡ 0, forces
+one to relax the requirement that ΩM ≥ 0 in order to locate a
+global minimum in their χ2 statistic. Upon relaxing their prior,
+they obtain “unphysical” values of ΩM = −0.38 ± 0.22 and
+ΩM = −0.52 ± 0.20 for their two diﬀerent ﬁtting approaches.
+This appears to indicate that the supernovae data are providing
+evidence for a negative density contribution, ΩM = ΩM+ + ΩM− <
+0. This would be evidence for a negative mass dominated
+cosmology.
+
+To assume that all mass in the Universe is positive is highly
+reasonable, as there has never been a pre-detection of such exotic
+material. However, as I have shown in this paper, negative mass
+density may not be unphysical. In fact, one can argue that its
+presence can be inferred from cosmological and galaxy rotation
+data, and it may possibly be able to provide an explanation for
+dark matter and dark energy. Independent and more contemporary
+analyses of supernovae have also continued to use positive-
+deﬁnite priors for ΩM, even with samples of up to 740 supernovae
+(Knop et al. 2003; Shariﬀ et al. 2016). This further demonstrates
+that this is not a systematic that can be alleviated by better data,
+but rather a conceptual challenge with the data analysis.
+
+I emphasise that by not constraining ΩM > 0, we are also
+making one less assumption. One can argue that due to Occam’s
+razor, a negative mass cosmology is the more parsimonious
+hypothesis. I therefore suggest that it is entirely plausible that the
+current observational data do not favour Λ > 0, but rather are
+evidence for ΩM < 0. As shown in Section 2.3, when negative
+masses are continuously created, ΩM < 0 can be equivalent to a
+negative cosmological constant.
+
+One could argue that the aforementioned papers refer to
+the negative energy density of matter, which scales as 1/a3,
+while the negative energy density presented here is in the form
+of a cosmological constant. However, a cosmological constant
+is simply one form that can be taken by the negative energy
+density. The precise negative energy density is controlled by
+the parameter Γ, which can vary as a function of space and
+time, as detailed in Section 2.3.1. Even in the case where Γ
+does provide a cosmological constant, this aﬀects only the
+observationally determined magnitude of the ΩM measurements,
+and not the sign which remains negative. Although beyond the
+scope of this current paper, future works will be able to reanalyse
+the supernovae data and obtain updated measurements of the
+cosmological parameters when matter creation is fully included
+within the Bayesian analysis.
+
+4.2. CMB observations of a ﬂat Universe
+One of the major outcomes from measurements of the CMB has
+been locating the precise position of the ﬁrst acoustic peak. This
+peak is on the degree scale, which implies that k = 0 (e.g. Spergel
+et al. 2003). One could therefore suggest that this rules out the
+negative mass dominated cosmology, for which it has been shown
+that k = −1 (see Section 2.3).
+One simple explanation is that measurements of a ﬂat
+universe from the CMB are just a local eﬀect, with the k = −1
+Universe being suﬃciently large that it is not presently possible
+to detect any curvature. However, as shown in Section 2.3.3,
+the negative mass dominated universe undergoes a cycle of
+expansion and contraction with a timescale of
+a large universe in which the local geometry appears to be ﬂat, it
+would therefore imply an especially low value for the magnitude
+of the cosmological constant – otherwise the universe would
+have recollapsed before reaching such a size. In this case, a
+reanalysis of the CMB is not necessary, and the hypothesis of a
+k = −1 Universe could be considered compatible with existing
+observations. This is of course a possibility, but could also be
+perceived by a sceptical reader as a hand-waving way to allow
+any geometry for the Universe – regardless of the observational
+data.
+
+(cid:112)−3π2/Λc2. For
+
+Alternatively, if we accept the observational evidence that
+the ﬁrst CMB acoustic peak demonstrates that the Universe is
+ﬂat within the conﬁnes of the ΛCDM model, we could instead
+consider the eﬀects that negative masses would have on the
+location of the CMB peaks. Naively, in the open spatial geometry
+of the negative mass dominated cosmology, the position of the
+ﬁrst CMB peak would be expected to be located at a considerably
+smaller angle. The ratio of angular distances for the negative
+mass universe and the conventional ΛCDM universe at redshift
+z ∼ 1100 (corresponding to the surface of last scattering) is
+
+= 169.
+
+d−
+A(a)
+dΛCDM
+A
+Hence an astrophysical object in a negative mass universe at
+z = 1100 would have an observed angular size 169 times less
+than in a ΛCDM cosmology. This is identical to the situation
+presented for a massless cosmology in Benoit-Lévy & Chardin
+(2012) (hereon BLC2012, also see Section 2.2). I now extensively
+follow that earlier work. The angular position of the ﬁrst CMB
+peak is deﬁned by the angle under which the sound horizon is
+seen at recombination, which is given by
+
+(cid:12)(cid:12)(cid:12)(cid:12)(cid:12)(cid:12)z=1100
+
+(30)
+
+(a)
+
+θ =
+
+χs(z∗)
+dA(z∗) ,
+
+(31)
+
+Article number, page 13 of 20
+
+A&A proofs: manuscript no. theory_dark_universe_arxiv
+
+(cid:90) t
+
+0
+
+χs =
+
+dt(cid:48)
+a(t(cid:48)) ,
+
+cs
+
+where χs(z∗) is the sound horizon, dA(z∗) is the angular distance,
+and z∗ is the redshift of the last scattering surface. The equivalent
+multipole is then given by la ∼ π/θ. By deﬁnition, the sound
+horizon is the distance that acoustic waves can propagate in a
+primordial plasma, which is typically assumed to only consist
+of positive masses. Accounting for the expanding universe, the
+distance of the sound horizon is given by
+
+(32)
+
+√
+where the speed of sound cs = c/
+3(1 + R), where R is a
+corrective factor due to the presence of baryons (Hu & Sugiyama
+1995). The value of R is related to the baryon to photon ratio η by
+R = 1.1 × 1012η/(1 + z).7
+
+dA
+χs(z∗) .
+
+The mechanism of sound generation in a negative mass and
+a ΛCDM cosmology diﬀer drastically. In the standard ΛCDM
+cosmology, inhomogeneities are produced during the inﬂationary
+epoch. However, in a negative mass cosmology, sound waves
+would be generated at the interfaces between positive and negative
+mass dominated regions. BLC2012 show that the relevant time
+of interest for sound generation is therefore the epoch of the
+quark–gluon plasma transition which takes place at a temperature
+of T ∼ 170 MeV. I note that inﬂation is itself not required in
+this particular cosmology, which does not have an age or horizon
+problem (see Section 2.2). An extended exposition can be found in
+BLC2012. The aforementioned paper shows that acoustic waves
+would propagate in the plasma while positive and negative masses
+are in contact. The expression for the angular position of the ﬁrst
+CMB peak is then given by
+la ∼ π
+(33)
+Using this expression, BLC2012 obtain la ∼ 160 for the multipole
+of the acoustic scale. The standard measurement is la ∼ 300
+(Spergel et al. 2003). Rather than a discrepancy by a factor
+of ≈ 169, there is substantial cancellation between the larger
+geometrical term (from the open spatial geometry of a negative
+mass universe) and the larger sound horizon (from the slow
+evolution of the expansion rate before recombination). Within
+a factor of approximately two, a negative mass universe can
+therefore predict the location of the ﬁrst CMB peak and hence
+may be consistent with CMB observations. However, this model
+assumes that there is repulsion between positive and negative
+masses that leads to a subsequent gravitational decoupling,
+whereas the negative masses proposed in this paper obey the
+weak equivalence principle. In the latter case, sound can be
+continuously generated up until the present epoch. As this model
+contains numerous approximations, there appears to be the
+potential for a negative mass universe to be fully consistent with
+observations of the CMB. It is quite surprising in a negative mass
+cosmology with negative spatial curvature, that the ﬁrst CMB
+acoustic peak can naturally emerge at the correct scale – a simple
+back of the envelope approximation is already within a factor
+of two and consistent with the typically interpreted ﬂat spatial
+geometry.
+
+In an eﬀort to identify any plausible mechanism that due to
+the nature of negative masses may allow for further adjustment
+of the CMB peaks, we can also speculate about various other
+compressive and expansive eﬀects in the early Universe. In
+
+7 One may argue that tight-coupling of photons to baryons could erase
+all anisotropies, however such a hypothesis would critically assume a
+purely positive mass cosmology.
+
+Article number, page 14 of 20
+
+the standard ΛCDM model, sound waves can be generated
+from overdensities in the primordial plasma that originated
+from quantum ﬂuctuations enlarged during inﬂation. These
+overdensities would gravitationally attract matter, while heat from
+photon–baryon interactions would seek thermal equilibrium and
+create an outward pressure. Counteracting gravity and pressure
+thereby give rise to oscillations analogous to sound waves. In a
+negative mass dominated universe, it is apparent that the sound
+generation mechanism would be modiﬁed. There would be two
+opposing eﬀects: repulsive pressure from negative masses within
+an overdensity would tend to erase anisotropies, while conversely
+negative mass haloes would tend to surround positive mass
+baryons and increase both the eﬀective gravitational attraction and
+the subsequent collapse of these overdensities. Matter creation
+would also exert a further inﬂuence. While these additional
+eﬀects could modify the physics of sound generation in the early
+Universe and the predicted anisotropies in the CMB, the precise
+eﬀects would depend upon the particle physics of the negative
+masses themselves, which is beyond the scope of this current
+paper.
+In addition to this modiﬁcation of CMB anisotropies, the
+sound waves used to derive la ∼ 160 are generated at the
+interfaces between positive and negative mass dominated regions.
+In these regions, the positive and negative masses would tend
+to interact. These interactions could lead to runaway motion
+and possible annihilation of positive–negative mass particle
+pairs, which would further aﬀect the precise mechanism of
+sound generation. However, such eﬀects are not considered
+here. Further consideration of these additional plausible physical
+eﬀects, together with theoretical constraints for the second and
+third CMB peaks, can form a robust test to either validate or rule
+out the cosmic presence of negative mass.
+
+In summary, while CMB modelling has provided an
+exceptional ﬁt to observational data, the parameterisation of
+a model is only ever as good as the selected model itself. I
+therefore am suggesting that CMB physics has chosen a ‘correct’
+model – a Universe with a cosmological constant and cold dark
+matter. However, it is possible that the true nature of dark matter
+and dark energy may have remained elusive due to the critical
+assumption that both of the ΛCDM components have positive
+energy. By allowing for energy to also be negative, it may be
+possible to show that this modiﬁed ΛCDM model can be fully
+compatible with the CMB. Nevertheless, I again emphasise that a
+reanalysis of the CMB is not essential for this purpose, as the
+Universe could simply be large with minimal local curvature.
+
+4.3. Galaxy cluster observations
+Galaxy clusters have also played a signiﬁcant role in establishing
+the standard ΛCDM model of cosmology (e.g. Allen, Evrard, &
+Mantz 2011). Such observations make a critical assumption – that
+clusters are standard buckets that contain a representative mix
+of the constituent components of the cosmos. However, if the
+entirety of ‘empty’ space is ﬁlled with negative masses that are
+continuously popping into existence, this would prevent clusters
+from being standard buckets and would suggest that they are
+intrinsically-biased towards positive mass regions of the Universe.
+Within the presented toy model, galaxy clusters therefore do
+not represent standard buckets. Although not standard buckets,
+one could still anticipate that at least some observations of
+a few galaxies or galaxy clusters may have found hints of a
+negative mass. In fact, “puzzling results” in clusters such as
+negative masses have been discussed in the literature (Andreon,
+Punzi, & Grado 2005). For example, Chandra observations of
+
+J. S. Farnes : A unifying theory of dark energy and dark matter
+
+the merging cluster Abell 2034 found hints of a negative mass
+and therefore did not plot those data (Kempner, Sarazin, &
+Markevitch 2003), regions of the mass proﬁle in the galaxy
+NGC 4636 yielded “unphysical” negative masses (Johnson et
+al. 2009), in the NGC 3411 galaxy group the total mass was
+found to decline with increasing radius – requiring material
+with negative mass (O’Sullivan et al. 2007), measurements of
+galaxy clusters using the Sloan Digital Sky Survey yielded data
+that indicate a negative mass in poor clusters with fewer than
+ﬁve galaxies (Hansen et al. 2005), a CMB cluster lensing study
+found a cluster with “a fairly signiﬁcant preference for negative
+mass” (Baxter et al. 2017), and a number of strong and weak
+gravitational lensing studies have discussed or found indications
+of negative masses in reconstructed mass distributions (Evans
+& Witt 2003; Clowe, Gonzalez, & Markevitch 2004; Clowe et
+al. 2006; Liesenborgs, De Rijcke, & Dejonghe 2006; Diego et
+al. 2007). Perhaps these ﬁndings can be trivially explained by
+mundane observational biases and systematics. Nevertheless,
+given that we have identiﬁed other possible evidence for the
+inﬂuence of negative masses on other spatial scales, the repeated
+observation of negative mass in clusters appears to be yet another
+piece of evidence that allows us to infer the plausible existence
+of this exotic material.
+
+4.4. Overall compatibility with ΛCDM
+The current concordance cosmology is that of ΛCDM, which
+contains cold dark matter and a cosmological constant. In many
+respects, the negative mass dominated cosmology is a ΛCDM
+model – with positive–positive mass interactions corresponding
+to baryons, positive–negative mass interactions corresponding
+to dark matter, and negative–negative mass interactions
+corresponding to dark energy. The standard Ωb + ΩCDM + ΩΛ
+can therefore be reparameterised as Ω++ + Ω+- + Ω--, thereby
+providing a form of modiﬁed ΛCDM. It is not immediately clear
+whether the relative ratios of 4.9%, 26.8%, and 68.3% for Ωb,
+ΩCDM, and ΩΛ respectively, would still hold upon a thorough
+observational reanalysis.
+
+However, a key ﬁnding for the negative mass dominated
+cosmology is that the underlying universe is predicted to have
+k = −1, ΩM < 0, and Λ < 0. Claiming a cosmology with negative
+spatial curvature and negative cosmological constant would seem
+to be a heretical, renegade, and insane point of view. After all,
+the conventional ΛCDM cosmology (which is spatially ﬂat with
+a positive cosmological constant, i.e. k = 0, ΩM > 0, and Λ > 0)
+is based upon cutting-edge observational evidence derived from
+supernovae, the CMB, and galaxy clusters. While this is true, the
+interpretation of these observations has been derived using the
+critical assumption that all mass in the Universe is positive. While
+it is beyond the scope of this paper to attempt to fully recreate
+the entire impressive body of research into ΛCDM over the last
+30 years, we have allowed ourselves to play devil’s advocate
+and to have revisited the most key observational results, while
+also allowing mass to be negative. As scientists, we aim to be
+motivated purely by the scientiﬁc evidence alone and endeavour
+to remain entirely uninﬂuenced by conﬁrmation bias. We have
+thus allowed ourselves to indulge in this unconventional thought
+experiment.
+
+One can ask whether this negative mass cosmology could
+possibly be our cosmology. In Sections 4.1 to 4.3, I have shown
+that the cosmological parameters in the current concordance
+ΛCDM model can possibly be explained as a simple artefact
+that originates from the assumption that all matter in the
+Universe has positive mass. By allowing for negative masses
+
+within ΛCDM itself, I have surprisingly found that there is
+observational evidence that potentially supports and possibly
+even appears to favour a negative mass cosmology. I do not
+claim an all-encompassing or rigorous proof of a negative
+mass cosmology, but simply highlight
+the toy model
+raises numerous interesting questions. Future work will be able
+to further test the compatibility with additional cosmological
+observations.
+
+that
+
+5. Future considerations
+There are several outstanding theoretical challenges for a theory
+such as the one presented in this paper. I here provide some
+brief speculation as to the possibilities and future theoretical
+considerations.
+• It may be possible to directly validate this theory via the direct
+capture and detection of a negative mass particle. Particles
+undergoing runaway motion would be highly scattered due to
+Brownian motion (see Section 3.4), resulting in an observed
+isotropic distribution on the sky. At face-value, this is
+consistent with the origin of ultra-high-energy cosmic rays,
+and could lead to particles with energies above the Greisen–
+Zatsepin–Kuzmin (GZK) limit, such as the so-called Oh My
+God particle.
+• Although this paper only considers particles with identical
+inertial and gravitational mass, there are also a number
+of other negative mass models in which the inertial or
+gravitational mass alone may have an inverted sign. These
+models have recently been presented in Manfredi et al.
+(2018), which provides one-dimensional structure formation
+simulations for these various scenarios. One such model is
+the Dirac-Milne universe (Benoit-Lévy & Chardin 2012),
+which explores the consequences of antimatter with negative
+gravitational mass (also see Section 2.2). Experiments
+underway at CERN are expected to soon provide veriﬁcation
+or refutation of these alternative negative mass models. It is
+possible that multiple forms of negative mass may possibly
+exist, and observational constraints will play an important
+role in testing these various scenarios.
+• It seems that the proposed negative mass ﬂuid can be modelled
+as either matter or vacuum energy. It has previously been
+proposed that space-time arises as a form of large-scale
+condensate of more fundamental objects, that are typically
+of an unknown nature (e.g. Liberati & Maccione 2014). One
+could therefore speculate that the negative masses could be
+interpretable as a quantised form of energy associated with
+space-time itself.
+• The introduction of negative masses to the vacuum can
+also potentially provide a solution to the cosmological
+constant problem. The predicted vacuum energy can be a
+factor of 10123 larger than the observed value (e.g. Hobson,
+Efstathiou, & Lasenby 2006). By invoking negative masses,
+the vacuum energy density can now take on essentially any
+value depending upon the precise cancellation of positive and
+negative energy states. If the negative oscillator modes exactly
+balance the positive modes, then ρ
+• In theories of quantum gravity, gravitation is mediated by the
+graviton – a massless, spin-2, boson. This means that any pair
+of negative masses would attract, and not repel as suggested in
+this theory. However, there are also theoretical arguments that
+gravitons cannot, and will not ever, be detected experimentally
+(Rothman & Boughn 2006). There appear to be two options:
+either it is possible that the graviton could be modelled as a
+
+quant
+vac = 0.
+
+Article number, page 15 of 20
+
+A&A proofs: manuscript no. theory_dark_universe_arxiv
+
+bound state of a positive and a negative mass, in a theory of
+composite gravity or some other mechanism which provides
+a modiﬁcation of graviton properties. Alternatively, this could
+also indicate that the proposed theory cannot be modelled by
+real, physical, particles, but rather by the presence of eﬀective
+negative masses within a superseding theory.
+• Electrically-charged negative masses may tend to coalesce
+into highly charged clumps, eventually reaching a critical
+mass at which all other masses would be gravitationally
+repelled. This has previously been brieﬂy described (Landis
+1991). However, observational constraints on the abundance
+of negative mass compact objects indicate that such compact
+clumps cannot constitute a sizeable mass budget of the
+Universe (Takahashi & Asada 2013). One suggestion is that
+negative mass particles are always electrically neutral and
+remain in a diﬀuse form.
+• No attempt has been made to reconcile the presented theory
+with the standard model of particle physics. Can a viable
+Higgs mechanism allow for a negative mass? Is there a way
+to introduce negative masses into the standard model that
+could allow for the combination of fundamental forces at high
+energies, in a grand uniﬁed theory? Would supersymmetry
+be required? Is it possible that a negative mass particle
+travelling backwards in time may be measured as having
+a positive mass? These questions would be interesting future
+avenues that could be explored further by the particle physics
+community.
+
+6. Summary and conclusions
+I have considered the introduction of negative masses and matter
+creation to cosmology, both via a theoretical approach and via
+computational simulations. Neither negative masses nor matter
+creation are new ideas. When considered individually, neither
+idea can explain modern astrophysical observations. This paper
+has reinvoked these two previous concepts and combined them
+together.
+
+Commonly presumed issues with negative masses include
+incompatibility with general relativity (however, this was shown
+to be compatible in e.g. Bondi 1957), and the vacuum instability
+(which is not a bug, but rather a feature of the proposed theory,
+see Section 2.3.1). By reintroducing the creation term into general
+relativity, but only for negative masses, it is possible to construct
+a toy model that has the potential to possibly explain both dark
+energy and dark matter within a simple and uniﬁed theoretical
+framework. Due to matter creation, a negative mass ﬂuid can have
+ω = −1. These hypothesised negative masses can push against
+positive mass galaxies and galaxy clusters, thereby modifying
+their dynamics. Under this theory, the cosmos contains a dynamic,
+motive, dark ﬂuid, with dark matter and dark energy being
+modelled as the observed eﬀects from positive mass matter
+‘surﬁng’ on this expanding ﬂuid. As an illustrative concept,
+empty space-time would behave almost like popcorn – with more
+negative masses continuously popping into existence.
+
+From an astrophysical perspective, this cosmological theory
+surprisingly has some successes in describing observations.
+The derived cosmological model requires both negative spatial
+curvature, k = −1, and a negative cosmological constant, Λ <
+0. While such a proposal is a renegade and heretical one, it
+has been suggested that negative values for these parameters
+may possibly be consistent with cosmological observations,
+which have critically always made the reasonable assumption
+that mass can only be positive. When not making this extra
+assumption, Occam’s razor indicates that the introduction of
+
+Article number, page 16 of 20
+
+negative mass may possibly be a more parsimonious theory
+than the standard concordance ΛCDM model with k = 0 and
+Λ = 0. Considerable future work will be needed in order to fully
+explore the implications and prospects for this modiﬁed ΛCDM
+toy model.
+
+The theory, simulations, and observations suggest that this
+
+particular cosmology has the following properties:
+
+1. The geometry of the universe in this cosmology has negative
+
+spatial curvature, k = −1.
+
+2. The continuous creation of negative masses can resemble a
+
+cosmological constant, with Λ < 0.
+
+3. Negative masses can give rise to a time-variable Hubble
+
+parameter.
+
+4. Negative masses can be intrinsically attracted towards regions
+of positive mass, thereby leading to an increase in density
+that manifests itself as a dark matter halo that extends out to
+several galactic radii.
+
+5. Due to mutual self-repulsion between negative masses, dark
+matter haloes formed from negative masses are not cuspy, and
+could thereby possibly provide a resolution of the cuspy-halo
+problem.
+
+6. The rotation curves of galaxies can be ﬂattened by the
+negative masses in the surrounding dark matter halo, however
+the curve is also predicted to increase linearly in the outermost
+regions of galaxies. This may be consistent with previous
+observational ﬁndings, which have found that most rotation
+curves are rising slowly even at the farthest measured point
+(e.g. Rubin, Ford, & Thonnard 1980).
+
+7. Structure formation appears to be able to take place in
+a positive and negative mass universe,
+leading to the
+conventional suite of ﬁlaments, voids, rich clusters, and ﬁeld
+galaxies.
+
+8. Supernovae observations of a positive cosmological constant
+made the reasonable critical assumption that all mass is
+positive. Upon relaxing this assumption, the supernovae data
+of Riess et al. (1998); Perlmutter et al. (1999) themselves
+derive a negative mass density in the Universe.
+
+9. It appears that the ﬁrst acoustic peak in the CMB could
+naturally emerge at the correct scale in a negative mass
+cosmology. Several additional physical eﬀects on the CMB
+need to be fully considered, and determining the eﬀects that
+negative masses have on the second, third, and higher order
+CMB peaks can enable a robust test to either validate or rule
+out the presence of negative mass in the Universe.
+
+10. In this cosmology, negative masses are distributed throughout
+all of space-time, so that galaxy clusters cannot represent
+standard buckets. A number of galaxy cluster observations
+appear to have inferred the presence of negative mass in
+cluster environments.
+
+11. The introduction of negative masses can lead to an Anti-
+de Sitter space. This would correspond to one of the most
+researched areas of string theory, the Anti-de Sitter/Conformal
+Field Theory correspondence, and if applicable to our own
+Universe, would suggest that string theory may possibly have
+direct physical applications.
+
+12. Negative masses are predicted to produce a vacuum instability,
+which would suggest the vacuum itself is undergoing a slow
+and stable decay. In this cosmology, the universe would
+be taking on an increasingly negative energy state due to
+the continuous creation of negative masses. While such a
+vacuum instability is normally considered to be a theoretical
+insuﬃciency of negative masses, in this particular case it is
+not a bug, but rather a feature of the proposed cosmology.
+
+J. S. Farnes : A unifying theory of dark energy and dark matter
+
+This accumulation of evidence could possibly indicate that
+while we cannot currently directly detect negative masses, we
+may have been able to infer the presence of these negative masses
+via their gravitational eﬀects. These eﬀects would seem bizarre,
+peculiar, and unfamiliar to us, as we reside in a positive mass
+dominated region of space. As the interactions between positive
+and negative masses are mediated by gravitation, the eﬀects are
+typically fundamentally related to the physical scale – generally
+requiring a suﬃciently large accumulation of positive mass in
+order for negative masses to inﬂuence the dynamics of a physical
+system. One aspect that is particularly preposterous is the concept
+of runaway motion, but as quantum mechanics has shown, many
+absurd concepts constitute real, testable, and repeatable facets of
+nature.
+
+There appears to be the potential and scope for this concept
+to be fully tested in order to make complete comparisons
+with observational data. A number of testable predictions have
+been made, including using cutting-edge telescopes such as the
+SKA, constraining the CMB acoustic peaks, and attempting
+direct detection from ultra-high-energy cosmic rays. Meanwhile,
+laboratory tests may be able to conﬁrm whether antimatter
+could possibly be responsible for these gravitational eﬀects –
+although it would seem that a far more exotic material would
+likely be required. In addition, future state-of-the-art N-body
+simulations on GPUs with larger numbers of particles, that allow
+for the creation of negative masses, will help to provide a reﬁned
+comparison with observations.
+
+I here emphasise that several well-accepted theories can be
+modelled using non-real or eﬀective negative masses. Air bubbles
+in water can be modelled as having a negative eﬀective mass
+(Brennen 1995). For holes in semiconductor theory, electrons
+at the top of the valence band have a negative eﬀective mass
+(Ashcroft & Mermin 1976). The Casimir eﬀect can be modelled
+using a region of negative energy density (Morris, Thorne, &
+Yurtsever 1988). Hawking radiation can be modelled using virtual
+negative mass particles that fall into the black hole (Hawking
+1975). In the dark energy alternative of phantom energy (with
+ω < −1), the excitations of the phantom ﬁeld are negative mass
+particles (Caldwell 2002; Carroll 2004). Even Bose–Einstein
+condensates have observable regions with negative eﬀective mass
+(Khamehchi et al. 2017). While the results in this paper appear
+to be consistent with vacuum states that have negative energy
+density, it is possible that these ﬁndings may imply a superseding
+theory that in some limit can be modelled by negative masses. In
+this way, the toy model could possibly be compatible with our
+own Universe, which may still satisfy the weak energy condition.
+I suggest that a negative mass Universe is also a beautiful one.
+It naturally implies a symmetry, in which all physical systems are
+polarised into positive and negative states. A polarised cosmology
+that contains both positive and negative masses can literally bring
+balance to the Universe. This polarisation of the cosmos leads to
+a form of modiﬁed ΛCDM which seems to have the potential to
+quite possibly be able to describe our Universe in a more complete
+fashion than standard ΛCDM, with the distinct advantage that
+negative masses can oﬀer a physical explanation for the natures
+of dark energy and dark matter. As it was Einstein that was the
+ﬁrst to suggest that the cosmological constant could be modelled
+using negative masses, it seems that he potentially may have
+made two blunders. By not pursuing his own prediction, he may
+possibly have missed the chance to predict the existence of the
+mysterious dark aspects of our Universe. While it is certain that
+the negative masses discussed in this paper are gravitationally
+repulsive, it might be that the concept of negative mass is the
+most repulsive feature of all. Nevertheless, we should seriously
+
+consider the possibility that the perplexing nature of the dark
+Universe may feasibly have remained a mystery for 100 years
+due to a simple and pervasive sign error.
+
+Appendix A: Density evolution of a negative mass
+
+ﬂuid in a non-expanding space
+
+I here consider the bulk properties of a negative mass ﬂuid in a
+non-expanding space. To begin, I make a simplifying assumption
+and consider the eﬀect of a cloud of massive particles in three
+dimensions, assuming spherical symmetry. The evolution of this
+massive ﬂuid occurs in a dilute plasma, so that screening is
+unimportant and the particles interact via gravitational forces.
+I will consider the negative mass solutions for this ‘gravitational
+plasma’. While the negative mass solutions can be interpreted as
+the motion of negative mass particles, the solutions can also be
+considered as the ﬂow of a negative mass ﬂuid.
+
+The majority of the matter in the Universe is known to exist
+as a low-density electrical plasma: solids, liquids and gases
+are uncommon away from planetary bodies. The cosmological
+principle therefore indicates that one can reasonably model the
+Universe as an isotropic, homogeneous, cloud of plasma. In
+this case, however, it is as a gravitational plasma, with particle
+interactions occurring between positive and negative masses
+rather than positive and negative electrical charges. I note that the
+expansion of space itself is not included in this unconventional
+plasma model of the Universe. In this Section, I extensively
+follow Ivlev (2013), which provides similar solutions for a
+cloud of electrically charged particles that I will here modify
+for application to gravitating particles. I begin with a 1D planar
+problem and then develop analytical solutions for the 3D case.
+I neglect the pressure term in the equation of motion, assuming
+that thermal eﬀects are negligible. Since the coordinate and
+density dependence of the particle mass, M, makes the problem
+non-linear (and likely intractable), I consider the case where
+M is constant or an explicit function of time. These solutions
+therefore hold in cases where matter is constantly being created
+or annihilated.
+
+Appendix A.1: Planar 1D case
+I employ the Lagrangian mass coordinates (s, tL) (Zel’dovich &
+Raizer 2002), where the Lagrangian time is tL = t and
+
+(cid:90) x
+
+0
+
+s =
+
+dx(cid:48)n(x(cid:48)
+
+, t)
+
+is the coordinate expressed via the local number density n(x, t). I
+assume that the system remains symmetric with respect to x = 0,
+this means that v(0, t) = 0. The material and spatial derivatives
+can then be transformed from Eulerian coordinates using the rules
+
+∂
+∂t
+
++ v ∂
+∂x
+
+=
+
+∂
+∂tL
+
+,
+
+and
+
+∂
+n∂x
+
+=
+
+∂
+∂s .
+
+I now look at the resulting continuity and momentum
+equations for the density, n, and velocity, v, as well as Gauss’
+law for the self-consistent gravitational ﬁeld, g, produced by
+
+Article number, page 17 of 20
+
+(A.1)
+
+(A.2)
+
+(A.3)
+
+A&A proofs: manuscript no. theory_dark_universe_arxiv
+
+massive particles. For clarity, I omit the subscript L for time,
+yielding
+∂n−1
+∂t
+
+∂v
+∂s ,
+
+(A.4)
+
+=
+
+∂v
+∂t
+
++ νv = g,
+
+(A.5)
+
+(A.7)
+
+(A.8)
+
+(A.10)
+
+(A.11)
+
+= −4πGM.
+
+∂g
+∂s
+Here M is the mass of individual particles, and ν is the damping
+rate due to gas friction (i.e. kinematic viscosity). The number
+density of masses, n, is given by N/V where N is the total number
+and V is the volume, or equivalently by ρ/M where ρ is the mass
+density.
+
+(A.6)
+
+I take the time derivative of Eq. (A.4), substitute ∂2v/∂s∂t
+
+from Eq. (A.5), and use Eq. (A.6) to get
+∂2n−1
+∂t2
+
+= −4πGM,
+
+∂n−1
+∂t
+
++ ν
+
+which has a general solution
+n−1(s, t) = c1(s) + c2(s)e−νt − 4πGM
+
+t,
+
+ν
+
+where the constants c1 and c2 are to be determined from initial
+conditions. If the initial density is constant, n(x, 0) = n0 within
+the range |x| ≤ x0, and so I obtain n−1
+I now substitute ∂n−1/∂t from Eq. (A.8) into Eq. (A.4) and
+
+= c1 + c2.
+
+0
+
+integrate to obtain
+v(s, t) = −4πGM
+
+ν
+
+(cid:90) s
+
+0
+
+s − νe−νt
+
+c2(s(cid:48))ds(cid:48)
+
+.
+
+(A.9)
+
+If the particles were initially at rest, v(s, 0) = 0, then I obtain
+c2 = −4πGM/ν2. Plugging this into Eq. (A.8) and using n−1
+=
+c1 + c2, I also obtain c1 = n−1
++ 4πGM/ν2. The solutions of
+Eqs. (A.4)–(A.6) are therefore
+
+0
+
+0
+
+1 − ω2
+
+p
+ν2
+
+n(t)
+n0
+
+=
+
+v(s, t) = − ω2
+
+p
+ν
+
+s
+n0
+
+(cid:16)
+
+νt − 1 + e−νt(cid:17)−1
+(cid:16)
+1 − e−νt(cid:17)
+
+,
+
+,
+
+(A.12)
+
+g = −4πGMs,
+√
+4πGMn0 is the initial plasma frequency of the
+where ωp =
+massive cloud. These solutions are also valid when M is an
+explicit function of time, for example due to matter creation
+or matter annihilation. I have therefore now obtained general
+solutions for (i) the local number density, (ii) the ﬂow velocity,
+and (iii) the gravitational ﬁeld. Eqs. (A.10)–(A.12) are all
+described as functions of the Lagrangian mass coordinates,
+(s, t). I note that via this mathematical representation of ﬂuid
+ﬂow we are tracking the locations of individual ﬂuid particles,
+rather than using ﬁxed-space Eulerian coordinates. The use of
+Lagrangian coordinates allows us to consider the ﬂuid from a
+
+Article number, page 18 of 20
+
+ν
+
+=
+
+=
+
+2
+
+≈
+
+≈
+
+(cid:34)
+
+more cosmological perspective, since we are interested in the
+history of individual particles as a function of time.
+
+pt
+ν
+
+pt2
+2
+
+(A.13)
+
+(for νt (cid:28) 1).
+
+−1
+−1
+
+(cid:34)
+1 − 4πGMn0t
+
+1 − ω2
+1 − ω2
+
+(cid:35)−1
+1 − 4πGMn0t2
+(cid:35)−1
+
+We ﬁrst discuss the local number density as a function of
+time, by considering an asymptotic analysis of Eq. (A.10). At
+early-times, νt (cid:28) 1, and using a Maclaurin series expansion for
+e−νt yields
+n(t)
+n0
+At later-times, νt (cid:29) 1, and e−νt ≈ 0 which leads to
+n(t)
+(A.14)
+n0
+Consequently, at νt ∼ 1, the time-scaling switches from n ∝ t−2
+(νt (cid:28) 1) to n ∝ t−1 (νt (cid:29) 1). I note that this does not consider
+matter creation or annihilation. A more general solution could
+be considered where either the annihilation of positive masses
+or the creation of negative masses leads to a constant density
+evolution with time. Assuming no matter creation or annihilation,
+the evolution of Eqs. (A.13) and (A.14) are dependent on whether
+M is positive (in which case the density increases with time) or
+negative (in which case the density decreases with time).
+
+(for νt (cid:29) 1).
+
+In the case where M > 0, the gravitational plasma of positive
+masses collapses through mutual gravitational attraction – with
+the density increasing over time. However, the density cannot
+increase without bound. As the ﬂuid becomes suﬃciently dense,
+the positive mass particles will begin to interact on a scale
+equivalent to an eﬀective particle radius. Furthermore, the plasma
+will eventually cease to be suﬃciently dilute that the screening
+is unimportant and particles will begin to experience short-range
+interparticle interactions. The density will then evolve following
+some other form, of which we are not here concerned. Although
+I highlight that this is a 1D treatment in a non-expanding space,
+this solution describes the gravitational evolution of a positive
+mass cloud.
+
+In the case where M < 0, the gravitational plasma of negative
+masses now undergoes a gravitational explosion – with the ﬂuid
+becoming more dilute and the density decreasing over time. Such
+a cloud would expand persistently due to gravitational repulsion.
+Although this is also a 1D treatment in a non-expanding space,
+this solution describes the gravitational expansion of a negative
+mass cloud. In the case of no matter creation, we can see that
+the expansion is characterised by a uniform stretching, with the
+density being constant in space and decreasing monotonically
+with time. Consequently, Eq. (A.1) is reduced to a simple relation
+s = n(t)x and the cloud boundary xb(> 0) is determined by
+the condition sb = n(t)xb(t) = n0x0. However, a more general
+solution that includes matter creation can also allow the density of
+negative masses to remain constant as a function of time, and can
+be trivially parameterised by treating M as M(t) and equivalently
+ρ = n(t)M(t) = constant in Eqs. (A.13) and (A.14). In this case of
+matter creation, the expansion is still characterised by a uniform
+stretching, and if matter is created at a suﬃcient rate, the density
+can remain constant in both space and time.
+
+I now discuss the ﬂow velocity, v, as a function of time, by
+considering an asymptotic analysis of Eq. (A.11) when M < 0. It
+can be determined that v increases linearly with x and attains
+a maximum at xb. When νt (cid:29) 1, the maximum velocity at
+the boundary tends to a constant value of vb = x0ω2
+p/ν, and
+corresponds to a balance of the gravitational and frictional forces.
+As ν tends towards zero, I obtain
+
+(cid:16)
+
+1 − e−νt(cid:17)
+
+= ω2
+
+px0t,
+
+vb = lim
+ν→0
+
+− ω2
+
+p
+ν
+
+x0
+
+(A.15)
+
+J. S. Farnes : A unifying theory of dark energy and dark matter
+
+which shows that in the absence of friction, v grows linearly with
+time at the boundary.
+
+One could ask what fate awaits overdensities and structure
+that may exist within this expanding negative mass ﬂuid. I note
+that the functions c1(s) and c2(s) in Eq. (A.8) can also be derived
+for a more general case, when the initial density n0(x) is not
+constant, or the initial velocity v0(x) is not zero. This leads to
+c1(s) + c2(s) = n−1
+0(s)/ν, where
+0(s) ≡ dv0(s)/ds can be obtained from n0(x) and
+n0(s) and v(cid:48)
+v0(x) respectively, by employing the relation x(s) from Eq. (A.1).
+Consequently, in the limit νt (cid:29) 1, the solutions for n and v do
+not depend on the initial conditions and tend to the behaviour of
+Eqs. (A.10) and (A.11) at later-times.
+
+0 (s) and c2(s) = −4πGM/ν2 − v(cid:48)
+
+Appendix A.2: Spherically symmetric 3D case
+I have shown that the solution for a 1D cloud has distinct
+characteristic features. In homogeneous steady initial conditions,
+the density of the expanding cloud remains homogeneous and
+the velocity increases linearly towards the cloud boundary. This
+is asymptotically true for arbitrary initial conditions. One could
+therefore hypothesise that these characteristics are independent
+of dimensionality and will hold in a spherically symmetric 3D
+cloud.
+
+To test this hypothesis, I continue to follow Ivlev (2013) and
+write the analogous 3D equations to Eqs. (A.4)–(A.6) in Eulerian
+coordinates, which yields
+
+∂n
+∂t
+
++
+
+1
+r2
+
+∂(r2nv)
+
+∂r
+
+= 0,
+
+∂v
+∂t
+
++ v ∂v
+∂r
+
++ νv = g,
+
+= −4πGMn.
+(cid:33)3
+
+(cid:32) r0
+
+,
+
+n(t)
+n0
+
+=
+
+rb(t)
+
+r
+
+rb(t)
+
+v(r, t) =
+
+˙rb(t),
+
+∂(r2g)
+
+1
+r2
+I use the following starting point for the solutions to n, v, and g:
+
+(A.18)
+
+∂r
+
+GMn(t)r,
+
+g(r, t) = −4π
+(A.21)
+3
+with r ≤ rb (for simplicity, I again consider a homogeneous
+initial distribution). These initial solutions ensure that Eqs. (A.16)–
+(A.18) are satisﬁed identically.
+
+By substituting Eq. (A.20) into Eq. (A.17), then substituting
+the solutions for g from Eq. (A.21) and n(t) from Eq. (A.19), I
+obtain
+
+¨rb(t) + ν˙rb(t) +
+
+ω2
+p
+3
+
+r3
+0
+
+rb(t)2
+
+= 0.
+
+¨N + ν ˙N +
+
+ω2
+p
+3
+
+N−2 = 0,
+
+I now deﬁne, N(t) = rb(t)/r0, ˙N(t) = ˙rb(t)/r0, and ¨N(t) = ¨rb(t)/r0,
+and derive
+
+which can be more generally written as
+
+¨N + ν ˙N +
+
+N−D+1 = 0.
+
+ω2
+p
+D
+
+(cid:16) n(t)
+
+(cid:17)−1/D
+
+N(t) = rb(t)/r0 ≡ (cid:16) n(t)
+
+where the dimensionality of the space is represented by D =
+1, 2, 3. Similarly from Eq. (A.19), I can more generally write that
+. Consequently, when D = 1 then
+
+(cid:17)−1. Subsequently, Eq. (A.24) reduces to Eq. (A.7)
+
+N(t) =
+and I obtain the 1D solutions from Eqs. (A.10) to (A.12). When
+D = 2, 3, then one cannot solve Eq. (A.24) analytically. However,
+some special cases can be considered via an asymptotic analysis.
+Firstly, I can consider Eq. (A.23) in the case when νt (cid:29) 1,
+
+n0
+
+n0
+
+such that ¨N is negligible. This yields
+
+(A.24)
+
+(A.25)
+
+3k1 − ω2
+
+pt
+ν
+
+−1
+
+,
+
+≈
+
+n(t)
+n0
+
+2
+3 ωpt
+
+(cid:16)√
+(cid:16) n(t)
+
+which as the initial density n(0) = n0, at t = 0, this leads to
+k1 = 1/3 which provides an identical solution to Eq. (A.14)
+for the 1D case. Hence, I can conclude that asymptotically, the
+density evolution does not depend on the dimensionality and that
+our initial result holds when D = 3. Hence for any case where
+ν (cid:44) 0 – and independent of the initial conditions, the density
+decays asymptotically as n ∝ t−1.
+
+Secondly, I can consider Eq. (A.23) in another special case,
+when ν = 0, so that the equation can be directly integrated. In
+p(1 − N−1), which has the
+(cid:114)
+this case, the ﬁrst integral is ˙N2 = 2
+solution
+N(N − 1) + ln
+
+N − 1
+
+(A.26)
+
+(cid:112)
+
+3 ω2
+
+N +
+
+(cid:17)
+
+√
+
+=
+
+(cid:17)−1/3. The time evolution at small t is then
+
+n0
+
+such that N(t) =
+similar to Eq. (A.13), while the evolution at large t is given by
+n ∝ t−3. I note that this 3D frictionless case is likely the most
+relevant for a cloud of negative masses, which should have low
+friction due to their mutual repulsion. We therefore can consider
+the density evolution of a perfect ﬂuid of negative masses, with
+no viscosity, to be characterised by n ∝ t−3.
+
+In conclusion, the expansion of a cloud/ﬂuid of negative mass
+particles is described by analytical solutions. In the case of no
+matter creation, we can see that the expansion is characterised by
+a uniform stretching, with the density being constant in space and
+decreasing monotonically with time. In the case where matter is
+being created, the expansion is still characterised by a uniform
+stretching, but if matter is created at a suﬃcient rate then the
+density can remain constant in both space and time. Irrespective
+of whether matter creation is taking place, the density distribution
+remains homogeneous across the cloud, and the velocity increases
+linearly towards the cloud boundary. I note that this exercise
+is characterised within a non-expanding space and therefore
+provides the local properties for a cloud of negative masses, rather
+than full cosmological solutions. The precise analytical solutions
+for the expansion of this ﬂuid would be modiﬁed in proximity to
+positive masses. In particular, such a gravitational plasma will
+begin to exhibit screening eﬀects similar to those observed in
+an electrical plasma. It has been suggested that negative mass
+screening eﬀects would have the ability to attenuate gravitational
+waves, with the plasma being opaque to frequencies below the
+plasma frequency (Mbarek & Paranjape 2014).
+Acknowledgements. I am extremely grateful to my dear wife, Kristina, for all her
+kind advice in drafting this document and for enduring many boring monologues
+
+Article number, page 19 of 20
+
+(A.16)
+
+(A.17)
+
+(A.19)
+
+(A.20)
+
+(A.22)
+
+(A.23)
+
+A&A proofs: manuscript no. theory_dark_universe_arxiv
+
+Kraniotis G. V., Whitehouse S. B., 2001, Measurement of the Cosmological
+Constant from Galactic Velocity Rotation Data, in Sources and Detection of
+Dark Matter and Dark Energy in the Universe, ed. D. B. Cline (Springer-
+Verlag, Berlin, New York), 66
+
+Landis G. A., 1991, Journal of Propulsion and Power, 7, 304
+Liberati S., Maccione L., 2014, PhRvL, 112, 151301
+Liesenborgs J., De Rijcke S., Dejonghe H., 2006, MNRAS, 367, 1209
+Maartens R., Abdalla F. B., Jarvis M., Santos M. G., 2015, arXiv:1501.04076
+Maldacena J., 1999, IJTP, 38, 1113
+Manfredi G., Rouet J.-L., Miller B., Chardin G., 2018, PhRvD, 98, 023514
+Mbarek S., Paranjape M. B., 2014, PhRvD, 90, 101502
+Morris M. S., Thorne K. S., Yurtsever U., 1988, PhRvL, 61, 1446
+Navarro J. F., Frenk C. S., White S. D. M., 1997, ApJ, 490, 493
+O’Sullivan E., Vrtilek J. M., Harris D. E., Ponman T. J., 2007, ApJ, 658, 299
+Paliathanasis A., Barrow J. D., Pan S., 2017, PhRvD, 95, 103516
+Pan S., de Haro J., Paliathanasis A., Slagter R. J., 2016, MNRAS, 460, 1445
+Perlmutter S., et al., 1999, ApJ, 517, 565
+Petit J. P., d’Agostini G., 2014, Ap&SS, 354, 611
+Pierre Auger Collaboration, et al., 2017, Science, 357, 1266
+Planck Collaboration, et al., 2014, A&A, 571, A16
+Planck Collaboration, et al., 2016, A&A, 594, A13
+Planck Collaboration, et al., 2016, A&A, 594, A14
+Prigogine I., Geheniau J., Gunzig E., Nardone P., 1988, PNAS, 85, 7428
+Prokopec T., 2011, arXiv:1105.0078
+Riess A. G., et al., 1998, AJ, 116, 1009
+Riess A. G., et al., 2016, ApJ, 826, 56
+Rothman T., Boughn S., 2006, FoPh, 36, 1801
+Rubin V. C., Burstein D., Ford W. K., Jr., Thonnard N., 1985, ApJ, 289, 81
+Rubin V. C., Ford W. K., Jr., Thonnard N., 1980, ApJ, 238, 471
+Rubin V. C., Ford W. K., Jr., 1970, ApJ, 159, 379
+Schuster A., 1898, Nature, 58, 367
+Shariﬀ H., Jiao X., Trotta R., van Dyk D. A., 2016, ApJ, 827, 1
+Spergel D. N., et al., 2003, ApJS, 148, 175
+Springel V., et al., 2005, Nature, 435, 629
+Takahashi R., Asada H., 2013, ApJ, 768, L16
+Tryon E. P., 1973, Nature, 246, 396
+Whitehouse S. B., Kraniotis G. V., 1999, arXiv:astro-ph/9911485
+Witten E., 1981, Commun. Math. Phys., 80, 381
+Ya. B. Zel’dovich & Yu. P. Raizer, 2002, Physics of Shock Waves and High-
+
+Temperature Hydrodynamic Phenomena (Dover, New York)
+
+about negative masses over a long time span. I also thank the anonymous referee
+for thorough comments, which helped to substantially improve the paper. I would
+also like to thank Takuya Akahori for helpful comments on structure formation
+in a negative mass ﬁlled Universe that inspired further simulations, and both Wes
+Armour and Will Potter for kindly providing constructive and insightful feedback
+on a draft of this paper. Any mistakes in this hopefully interesting paper are
+entirely my own.
+
+References
+Aad G., et al., 2012, PhLB, 716, 1
+Abbott L. F., Deser S. D., 1982, Nucl. Phys. B, 195, 76
+Abbott B. P., et al., 2016, PhRvL, 116, 061102
+Allen S. W., Evrard A. E., Mantz A. B., 2011, ARA&A, 49, 409
+Andreon S., Punzi G., Grado A., 2005, MNRAS, 360, 727
+Ashcroft N. W., Mermin N. D., 1976, Solid State Physics (Holt, Reinhart, and
+
+Winston, New York)
+
+Baxter E. J., et al., 2017, arXiv:1708.01360
+Benoit-Lévy A., Chardin G., 2012, A&A, 537, A78
+Bergstrom L., Danielsson U., 2000, arXiv:astro-ph/0002152
+Bondi H., 1957, Rev. Mod. Phys., 29, 423
+Bondi H., Gold T., 1948, MNRAS, 108, 252
+Bonnor W. B., 1989, General Relativity and Gravitation, 21, 1143
+Bonvin V., et al., 2017, MNRAS, 465, 4914
+Bosma A., 1981, AJ, 86, 1825
+Brennen, C. E., 1995, Cavitation and Bubble Dynamics (Oxford Univ. Press)
+Burkert A., 1995, ApJ, 447, L25
+Caldwell R. R., 2002, PhLB, 545, 23
+Carroll S. M., 2004, Why is the Universe Accelerating?, in The New Cosmology:
+Conference on Strings and Cosmology; The Mitchell Symposium on
+Observational Cosmology (AIP Conference Proceedings), 743, 16
+
+Clowe D., et al., 2006, A&A, 451, 395
+Clowe D., Gonzalez A., Markevitch M., 2004, ApJ, 604, 596
+de Blok W. J. G., 2010, AdAst, 2010, 789293
+Diego J. M., Tegmark M., Protopapas P., Sandvik H. B., 2007, MNRAS, 375,
+
+958
+
+Efstathiou G., 2014, MNRAS, 440, 1138
+Einstein A., Comment on Schrödinger’s Note ‘On a System of Solutions
+for the Generally Covariant Gravitational Field Equations’, Physikalische
+Zeitschrift, 19, 165 (1918). Translated by Engel A. in The Collected Papers
+of Albert Einstein, Volume 7, The Berlin Years: Writings, 1918-1921.
+(Princeton University Press, April 2002). http://einsteinpapers.press.
+princeton.edu/vol7-trans/.
+
+Einstein A., Do Gravitational Fields Play an Essential Part in the Structure
+of the Elementary Particles of Matter?, Königlich Preußische Akademie
+der Wissenschaften, Sitzungsberichte, Berlin, (1919). Translated by Engel
+A. in The Collected Papers of Albert Einstein, Volume 7, The Berlin Years:
+Writings, 1918-1921. (Princeton University Press, April 2002). http://
+einsteinpapers.press.princeton.edu/vol7-trans/.
+
+Evans N. W., Witt H. J., 2003, MNRAS, 345, 1351
+Ferreira P. G., Starkman G. D., 2009, Science, 326, 812
+Forward R. L., 1990, Journal of Propulsion and Power, 6, 28
+Friedmann A., 1924, ZPhy, 21, 326
+Gibbons G. W., Hawking S. W., Horowitz G. T., et al., 1983, Commun. Math.
+
+Phys., 88, 295
+
+A., 2005, ApJ, 633, 122
+
+Hansen S. M., McKay T. A., Wechsler R. H., Annis J., Sheldon E. S., Kimball
+
+Hawking S. W., 1965, RSPSA, 286, 313
+Hawking S. W., 1975, Commun. Math. Phys., 43, 199
+Hawking S. W., Page D. N., 1982, CMaPh, 87, 577
+Hernquist L., 1990, ApJ, 356, 359
+Hobson M. P., Efstathiou G. P., Lasenby A. N., 2006, General Relativity
+
+(Cambridge Univ. Press)
+
+Hossenfelder S., 2008, PhRvD, 78, 044015
+Hoyle F., 1960, MNRAS, 120, 256
+Hoyle F., Narlikar J. V., 1964, RSPSA, 282, 178
+Hu W., Sugiyama N., 1995, ApJ, 444, 489
+Hubble E., 1929, PNAS, 15, 168
+Ivlev, A. .V., 2013, Physical Review E, 87, 025102
+Johnson R., Chakrabarty D., O’Sullivan E., Raychaudhury S., 2009, ApJ, 706,
+
+Kempner J. C., Sarazin C. L., Markevitch M., 2003, ApJ, 593, 291
+Khamehchi M. A., Hossain K., Mossman M. E., Zhang Y., Busch T., Forbes
+
+M. M., Engels P., 2017, PhRvL, 118, 155301
+
+Knop R. A., Aldering G., Amanullah R., Astier P., Blanc G., et al., 2003, ApJ,
+
+980
+
+598, 102
+
+Article number, page 20 of 20
+
+

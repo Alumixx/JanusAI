@@ -1,0 +1,3253 @@
+DAVID HILBERT
+
+THE FOUNDATIONS OF PHYSICS
+
+(FIRST COMMUNICATION)
+
+Originally  published  as  “Die  Grundlagen  der  Physik.  (Erste  Mitteilung)”  in
+Nachrichten  von  der  Königlichen  Gesellschaft  der  Wissenschaften  zu  Göttingen.
+Math.-phys.  Klasse.  1916.  Issue  8,  p.  395–407.  Presented  in  the  session  of  20
+November 1915. 
+
+1
+ as well as his ingeniously conceived methods
+The vast problems posed by Einstein
+of solution, and the far-reaching ideas and formation of novel concepts by means of
+2
+which Mie
+ constructs his electrodynamics, have opened new paths for the investiga-
+tion into the foundations of physics.
+
+=(
+
+,
+1 2 3 4
+
+,
+
+,
+
+)
+
+In the following—in the sense of the axiomatic method—I would like to develop,
+essentially from two simple axioms, a new system of basic equations of physics, of
+ the solution to the problems of
+ideal beauty and containing, I believe, 
+Einstein and of Mie. I reserve for later communications the detailed development and
+particularly the special application of my basic equations to the fundamental ques-
+tions of the theory of electricity.
+
+simultaneously
+
+Let 
+
+ws  s
+
+ be any coordinates labeling the world’s points essentially
+uniquely—the so-called world parameters (most general spacetime coordinates). The
+quantities characterizing the events at 
+1. The  ten  gravitational  potentials 
+
+  ﬁrst  introduced  by  Ein-
+stein,  having  the  character  of  a  symmetric  tensor  with  respect  to  an  arbitrary
+transformation of the world parameters 
+qs
+
+ws;
+  having  the  character  of  a  vector  in  the
+
+2. The  four  electrodynamic  potentials 
+
+ws
+gµν  µ ν
+
+ shall be:
+=,(
+
+,
+1 2 3 4
+
+)
+
+,
+
+,
+
+same sense. |
+Physical processes do not proceed in an arbitrary way, rather they are governed by
+
+the following two axioms:
+
+[396]
+
+1
+2
+
+Sitzungsber. d. Berliner Akad
+Ann. d. Phys
+
+. 1912, Vol. 37, 511; Vol. 39, 1; 1913, vol. 40, 1.
+
+. 1914, 1030; 1915, 778, 799, 831, 844.
+
+Jürgen Renn (ed.). 
+Gravitation in the Twilight of Classical Physics: The Promise of Mathematics.
+© 2007 Springer. 
+
+The Genesis of General Relativity, 
+
+Vol. 4
+
+1004
+
+D
+
+AVID
+
+ H
+
+ILBERT
+
+3
+Axiom I (Mie’s axiom of the world function
+H,
+cesses is determined through a world function 
+ments:
+
+): 
+The law governing physical pro-
+ that contains the following argu-
+
+gµν,
+
+gµνl
+
+=
+
+gµνlk
+
+=
+
+∂2gµν
+-------------------,
+∂wk
+∂wl
+
+qs,
+
+qsl
+
+=
+
+=,(
+l k
+
+,
+1 2 3 4
+
+,
+
+,
+
+),
+
+∂gµν
+-----------,
+∂wl
+∂qs
+---------
+∂wl
+
+(1)
+
+(2)
+
+where the variation of the integral
+
+∫
+
+H g ωd
+=
+
+(
+
+g
+
+=
+
+gµν ,    dω dw1dw2dw3dw4
+
+)
+
+ 
+must vanish for each of the fourteen potentials
+
+Clearly the arguments (1) can be replaced by the arguments 
+
+[1]
+
+,
+
+gµν qs.
+
+µν
+
+,
+
+g
+
+µν
+gl
+
+=
+
+µν
+∂g
+-----------,
+∂wl
+
+µν
+glk
+
+=
+
+µν
+∂2g
+-------------------,
+∂wk
+∂wl
+  with  respect  to  its  element
+g
+
+(3)
+
+µν
+
+g
+
+where 
+gµν,
+
+  is  the  subdeterminant  of  the  determinant 
+
+ divided by 
+4
+Axiom II (axiom of general invariance
+
+g.
+
+): 
+
+The world function 
+
+ is invariant with
+
+H
+ws.
+
+respect to an arbitrary transformation of the world parameters 
+
+Axiom II is the simplest mathematical expression of the demand that the inter-
+  is  by  itself  entirely  independent  of  the  way  one
+
+linking  of  the  potentials 
+chooses to label the world’s points by means of world parameters.
+
+gµν qs
+
+,
+
+The guiding motive for constructing my theory is provided by the following theo-
+
+rem, the proof of which I shall present elsewhere. |
+
+[397]
+
+Theorem I. If 
+
+J
+
+ is an invariant under arbitrary transformation of the four world
+
+parameters, containing 
+
+n
+
+ quantities and their derivatives, and if one forms from
+
+∫
+δ Jg ωd
+
+0=
+
+ variational equations of Lagrange with respect to those 
+
+n
+
+the 
+this invariant system of 
+
+n
+
+ differential equations for the 
+
+n
+
+n
+
+ quantities, then in
+ quantities there are always
+
+3 Mie’s world functions do not contain exactly these arguments; in particular the usage of the argu-
+ments (2) goes back to Born. However, what is characteristic of Mie’s electrodynamics is precisely
+the introduction and use of such a world function in Hamilton’s principle.
+Orthogonal invariance was already postulated by Mie. In the axiom II formulated above, Einstein’s
+fundamental basic idea of general invariance ﬁnds its simplest expression, even if Hamilton’s princi-
+ple plays only a subsidiary role with Einstein, and his functions 
+are by no means general invari-
+ants, and also do not contain the electric potentials.
+
+H
+
+4
+
+ 
+
+THE FOUNDATIONS OF PHYSICS (FIRST COMMUNICATION)
+
+1005
+
+four that are a consequence of the remaining 
+n
+differential  equations  and  their  total  derivatives  there  are  always  four  linear  and
+mutually independent combinations that are satisﬁed identically.
+µν
+, gk
+ 
+
+Concerning the differential quotients with respect to 
+
+—in this sense, that among the 
+
+µν
+, gkl
+ 
+
+n 4–
+
+µν
+
+g
+
+k l,
+
+(4) and subsequent formulas, let us note once for all that, due to the symmetry in 
+on the one hand and in 
+ on the other, the differential quotients with respect to 
+µν
+1
+---,
+ according as 
+ are to be multiplied by 1 resp. 
+gk
+µν
+2
+differential quotients with respect to 
+gkl
+µ
+according as 
+ resp. 
+µ ν≠
+k
+
+µ ν,≠
+ are to be multiplied by 1 resp. 
+ν=
+k
+
+µ
+l.≠
+
+µ ν≠
+
+ resp. 
+
+ν=
+
+ν=
+
+ and 
+
+ and 
+
+ and 
+
+ and 
+
+l≠
+
+ or 
+
+l=
+
+µ
+
+k
+
+k
+
+ occurring in
+µ ν,
+µν
+,
+g
+ further the
+1
+1
+---,
+ resp. 
+---
+4
+2
+l=
+ resp.
+
+Axiom I implies ﬁrst for the ten gravitational potentials 
+
+g
+
+ the ten Lagrangian
+
+µν
+
+differential equations
+
+∂ gH
+---------------
+µν
+∂g
+
+–
+
+∑
+
+k
+
+∂
+---------
+∂wk
+
+∂ gH
+---------------
+µν
+∂gk
+
+∑+
+k l,
+
+∂2
+-------------------
+∂wk
+∂wl
+
+∂ gH
+---------------
+µν
+∂gkl
+
+0,=
+
+µ ν
+=,(
+
+,
+1 2 3 4
+
+,
+
+,
+
+)
+
+(4)
+
+and secondly for the four electrodynamic potentials 
+tial equations
+
+qs
+
+ the four Lagrangian differen-
+
+∂ gH
+---------------
+∂qh
+
+∑–
+
+k
+
+∂
+---------
+∂wk
+
+∂ gH
+---------------
+∂qhk
+
+0,=
+
+=(
+h
+
+,
+1 2 3 4
+
+,
+
+,
+
+).
+
+(5)
+
+We denote the left sides of the equations (4), (5) respectively by
+
+gH[
+
+]µν,
+
+gH[
+
+]h
+
+for short.
+
+Let us call equations (4) the fundamental equations of gravitation, and equations
+(5)  the  fundamental  electrodynamic  equations,  or  generalized  Maxwell  equations.
+Due to the theorem stated above, the four equations (5) can be viewed as a conse-
+quence  of  equations  (4),  that  is,  because  of  that  mathematical  theorem  we  can
+directly make the claim that in the sense as explained the electrodynamic phenomena
+are effects of gravitation. I regard this | insight as the simple and very surprising solu-
+tion of the problem of Riemann, who was the ﬁrst to search for a theoretical connec-
+tion between gravitation and light.
+
+In the following we use the easily proved fact that, if 
+
+p j
+
+ 
+
+=(
+j
+
+,
+1 2 3 4
+
+,
+
+,
+
+)
+
+ is an
+
+arbitrary contravariant vector, the expression
+
+[398]
+
+µν
+
+p
+
+∑=
+
+(
+
+µν
+gs
+
+ps g
+
+–
+
+v
+
+µs ps
+
+–
+
+g
+
+µ
+
+νs ps
+
+),
+
+s
+
+j
+ps
+
+=
+
+∂ p j
+---------
+∂ws
+
+represents a symmetric contravariant tensor, and the expression
+
+∑=
+
+(
+
+pl
+
+qls ps
+
++
+
+s
+qs pl
+
+)
+
+s
+
+⎝
+⎠
+⎛
+⎞
+1006
+
+DAVID HILBERT
+
+represents a covariant vector.
+
+To proceed we establish two mathematical theorems, which express the follow-
+
+ing:
+ then the fol-
+Theorem II. If 
+lowing is always identically true in all arguments and for every arbitrary contravari-
+ant vector 
+
+ is an invariant depending on 
+
+ 
+, qs, qsk,
+
+µν
+, gkl
+ 
+
+µν
+, gl
+ 
+
+ps:
+
+[2]
+
+µν
+
+g
+
+J
+
+ 
+
+where
+
+∑
+µ ν l k
+,
+,
+
+,
+
+
+
+
+µν
+
++
+
+∂J
+-----------∆g
+µν
+∂g
+∑
+s k,
+
+
+
+
+∂J
+--------∆qs
+∂qs
+
++
+
+∂J
+µν
+-----------∆gl
+µν
+∂gl
+∂J
+
+----------∆qsk
+
+∂qsk
+
++
+
++
+
+∂J
+
+µν
+-----------∆gkl
+
+µν
+∂gkl
+
+0,=
+
+µν
+∂∆g
+---------------,
+∂wl
+µν
+glm
+
+m
+pk
+
+µν
+
+∆g
+
+∑=
+
+m
+
+(
+
+g
+
+ν
+
+µm pm
+
++
+
+g
+
+µ
+
+νm pm
+
+),
+
+µν
+∆gl
+
+∑–=
+
+µν
+gm
+
+m
+pl
+
++
+
+µν
+∆glk
+
+∆qs
+
+∆qsk
+
+m
+
+∑–=
+∑–=
+
+m
+
+∑–=
+
+m
+
+m
+m,
+qm ps
+
+m
+qsm pk
+
++
+
+∂∆qs
+------------.
+∂wk
+
+(
+
+µν
+gm
+
+m
+plk
+
++
+
+µν
+gkm
+
+)
+
+m
+pl
+
++
+
++
+
+µν
+∂2∆g
+-------------------,
+∂wk
+∂wl
+
+This theorem II can also be formulated as follows:
+If 
+
+ is an invariant and 
+
+ps
+
+J
+
+ and arbitrary vector as above, then the identity holds
+∑
+
+PJ,
+
+=
+
+(6)
+
+J∂
+∂--------- ps
+ws
+
+s
+
+[399]
+
+| where we have put
+
+with
+
+P
+
+=
+
+Pg Pq,
+
++
+
+∑=
+µ ν l k
+,
+,
+
+
+
+
+µν
+
+p
+
+∂
+µν
+
+∂
+
+g
+
+µν
+pl
+
++
+
+∂
+µν
+gl
+
+∂
+
+µν
+plk
+
++
+
+∂
+
+
+µν
+glk
+
+∂
+
+Pg
+
+Pq
+
+,
+
+
+
+∑=
+l k,
+
+∂
+pl ql
+∂
+
++
+
+∂
+
+plk qlk
+
+
+∂
+
+,
+
+and used the abbreviations:
+
+THE FOUNDATIONS OF PHYSICS (FIRST COMMUNICATION)
+
+1007
+
+µν
+pk
+
+=
+
+µν
+∂ p
+-----------,
+∂wk
+
+µν
+pkl
+
+=
+
+µν
+∂2 p
+-------------------,
+∂wl
+∂wk
+
+plk
+
+=
+
+∂ pl
+---------.
+∂wk
+
+The proof of (6) follows easily; for this identity is obviously correct if 
+constant vector, and from this it follows in general because of its invariance.
+
+ps
+
+ is a
+
+Theorem III. If 
+
+J
+
+ is an invariant depending only on 
+
+µν
+
+g
+
+ and their derivatives,
+ are denoted
+ is understood to be any contravariant
+
+ with respect to 
+
+gJ
+
+µν
+
+g
+
+[
+
+and if, as above, the variational derivatives of 
+µν
+by 
+gJ
+tensor—
+
+ then the expression—where 
+
+]µν
+
+h
+
+represents an invariant; if we substitute in this sum in place of 
+sor 
+
+ and write
+
+µν
+
+p
+
+h
+
+µν
+
+ the particular ten-
+
+[
+
+∑
+
+µ ν,
+
+]µν p
+
+gJ
+
+µν
+
+(
+
+is ps
+
++
+
+s
+
+l pl
+is
+
+),
+
+∑=
+s l,
+
+where then the expressions
+
+1
+-------
+g
+
+∑
+
+µ ν,
+
+[
+
+]µνh
+
+gJ
+
+µν
+
+is
+
+l
+is
+
+∑=
+[
+∑–=
+
+µ ν,
+
+2
+
+µ
+
+µν
+]µνgs
+
+,
+
+gJ
+
+[
+
+gJ
+
+]µsg
+
+µl
+
+∑=
+
+is
+
+∂is
+l
+---------
+∂wl
+
+l
+
+depend only on the 
+
+g
+
+ and their derivatives, then we have
+
+µν
+
+(7)
+
+in the sense that this equation is satisﬁed identically for all arguments, that is for the
+g
+
+µν
+
+ and their derivatives.
+For the proof we consider the integral
+dω
+
+J g ω,d
+
+∫
+
+=
+
+dw1dw2dw3dw4
+
+to be taken over a ﬁnite piece of the four dimensional world. | Further, let 
+ be a
+vector that vanishes together with its derivatives on the three dimensional surface of
+that piece of the world. Due to 
+
+P
+
+=
+
+ps
+
+[400]
+
+Pg
+
+ the last formula of the next page implies
+∑=
+
+∂ gJ ps
+-------------------;
+∂ws
+
+s
+
+(
+
+Pg
+
+)
+
+gJ
+
+this results in
+
+and due to the way the Lagrangian derivative is formed we accordingly also have
+
+1008
+
+DAVID HILBERT
+
+Introduction of 
+
+ into this identity ﬁnally shows that
+
+,
+l
+is is
+
+∫
+
+(
+
+Pg J g
+
+) ωd
+
+0=
+
+[
+
+∫
+
+∑
+
+µ ν,
+
+]µν p
+
+gJ
+
+µν
+
+ωd
+
+0.=
+
+∫
+
+
+
+
+∑
+
+l
+
+∂is
+l
+--------
+∂wl
+
+
+
+is–
+
+
+ps ωd
+
+0=
+
+and therefore also that the assertion of our theorem is correct.
+
+The most important aim is now the formulation of the concept of energy, and the
+
+derivation of the energy theorem solely on the basis of the two axioms I and II.
+
+For this purpose we ﬁrst form:
+
+gH(
+
+)
+
+Pg
+
+∑=
+µ ν k l
+,
+,
+
+,
+
+
+
+
+
+∂ gH
+--------------- p
+µν
+∂g
+
+µν
+
++
+
+∂ gH
+µν
+--------------- pk
+µν
+∂gk
+
++
+
+
+∂ gH
+µν
+
+--------------- pkl
+µν
+
+∂gkl
+
+.
+
+Now 
+
+ is a mixed tensor of fourth rank, so if one puts
+
+∂H
+-----------
+µν
+∂gkl
+
+µν
+Ak
+
+=
+
+µν
+pk
+
+∑+
+
+ρ
+
+
+
+
+
+kρ
+
+
+µ
+
+
+
+
+
+ρν
+
+p
+
++
+
+kρ
+
+
+ν
+
+
+
+
+
+
+ρµ
+
+
+
+,
+
+p
+
+kρ
+
+
+µ
+
+
+
+
+
+∑=
+
+1
+---
+2
+
+σ
+
+µσ
+
+(
+
+g
+
+gkσρ
+
++
+
+gρσk
+
+–
+
+gkρσ
+
+),
+
+the expression
+
+becomes a contragredient vector.
+
+Hence if we form the expression
+
+al
+
+∑=
+µ ν k
+,
+,
+
+∂H
+µν
+----------- Ak
+µν
+∂gkl
+
+(8)
+
+[401]
+
+then this no longer contains the second derivatives 
+
+ and | therefore has the form
+
+gH(
+
+)
+
+Pg
+
+∑–
+
+l
+
+∂ gal
+---------------
+∂wl
+
+µν
+pkl
+µν
+k pk
+Bµν
+
+),
+
+g
+
+(
+
+∑
+µ ν k
+,
+,
+
+µν
+
+Bµν p
+
++
+
+THE FOUNDATIONS OF PHYSICS (FIRST COMMUNICATION)
+
+1009
+
+where
+
+k
+Bµν
+
+∑=
+ρ l,
+
+
+
+
+
+∂H
+-----------
+µν
+∂gk
+
+–
+
+∂
+--------
+∂wl
+
+∂H
+-----------
+µν
+∂gkl
+
+–
+
+∂H
+-----------
+ρν
+∂gkl
+
+lµ
+
+
+ρ
+
+
+
+
+
+–
+
+∂H
+-----------
+µρ
+∂gkl
+
+lν
+
+
+ρ
+
+
+
+
+
+
+
+
+is again a mixed tensor.
+
+Now we form the vector
+
+and obtain from it
+
+bl
+
+∑=
+
+µ ν,
+
+l p
+Bµν
+
+µν
+
+,
+
+gH(
+
+)
+
+Pg
+
+∑–
+
+l
+
+∂ g al
+)
+bl+(
+------------------------------
+∂wl
+
+∑=
+
+µ ν,
+
+gH[
+
+]µν p
+
+µν
+
+.
+
+On the other hand we form
+
+gH(
+
+)
+
+Pq
+
+∑=
+k l,
+
+
+
+
+∂ gH
+--------------- pk
+∂qk
+
++
+
+∂ gH
+
+--------------- pkl
+
+∂qkl
+
+;
+
+then 
+
+∂H
+---------
+∂qkl
+
+ is a tensor and the expression
+∑=
+
+cl
+
+∂H
+--------- pk
+∂qkl
+
+k
+
+gH(
+
+)
+
+Pq
+
+∑–
+
+l
+
+∂ gcl
+--------------
+dwl
+
+∑=
+
+k
+
+gH[
+
+]k pk.
+
+P gH(
+
+)
+
+∑=
+
+l
+
+(
+
+∂ g al
+)
+-----------------------------------------.
+
+cl
+
++
+
+bl
++
+dwl
+
+P gH(
+
+)
+
+=
+
+ 
+
+=
+
+∑+
+
+gPH H
+
+µ ν,
+
+∑+
+
+gPH H
+
+s
+
+µν
+
+∂ g
+----------- p
+µν
+∂g
+∂ g
+
+---------- ps
+
+∂ws
+
++
+
+
+s
+g ps
+
+
+,
+
+But we have
+
+and thus, due to identity (6)
+
+therefore represents a contragredient vector. Correspondingly, as above, we obtain
+
+Now we note the basic equations (4) and (5), and conclude by adding (10) and (12):
+
+(9)
+
+(10)
+
+(11)
+
+(12)
+
+1010
+
+D
+
+AVID
+
+ H
+
+ILBERT
+
+P gH(
+
+)
+
+=
+
+∑
+
+g
+
+s
+
+∂H
+--------- ps H
+∂ws
+
+∑+
+
+s
+
+∂ g
+---------- ps
+∂ws
+
++
+
+s
+g ps
+
+=
+
+∑
+
+s
+
+∂ gH ps
+---------------------.
+
+∂ws
+
+[402]
+
+| From this we ﬁnally obtain the invariant equation
+
+Now we note that
+
+∑
+
+l
+
+∂
+--------- g H pl
+∂wl
+
+(
+
+al–
+
+bl–
+
+cl–
+
+)
+
+0.=
+
+∂H
+---------
+∂qlk
+
+–
+
+∂H
+---------
+∂qkl
+
+is a skew symmetric contravariant tensor; consequently
+
+d l
+
+=
+
+1
+
+----------
+2 g
+
+∑
+k s,
+
+∂
+---------
+∂wk
+
+∂ gH
+---------------
+∂qlk
+
+–
+
+∂ gH
+---------------
+∂qkl
+
+psqs
+
+(13)
+
+becomes a contravariant vector, which evidently satisﬁes the identity
+
+Let us now deﬁne
+
+el
+
+=
+
+H pl
+
+al–
+
+bl–
+
+cl–
+
+dl–
+
+(14)
+
+energy vector, then the energy vector is a contravariant vector, which moreover
+ and satisﬁes identically for that
+
+as the 
+depends linearly on the arbitrarily chosen vector 
+choice of this vector 
+
+ps,
+ the invariant energy equation
+
+ps
+
+As far as the world function 
+
+ is concerned, further axioms are needed to deter-
+mine its choice in a unique way. If the gravitational ﬁeld equations are to contain only
+second derivatives of the potentials 
+
+ must have the form
+
+then
+ 
+
+H
+
+H
+
+µν
+
+g
+
+,
+
+ 
+
+K
+
+where 
+four-dimensional manifold)
+
+ is the invariant that derives from the Riemannian tensor (curvature of the
+
+∑
+
+l
+
+∂ gd l
+---------------
+∂wl
+
+0.=
+
+∑
+
+l
+
+∂ gel
+--------------
+∂wl
+
+0.=
+
+H
+
+=
+
+K L+
+
+∑=
+
+g
+
+µν
+
+K µν
+
+K
+
+µ ν,
+
+⎝
+⎠
+⎛
+⎞
+⎝
+⎠
+⎛
+⎞
+⎩
+⎭
+⎨
+⎬
+⎧
+⎫
+T
+
+HE
+
+ F
+
+OUNDATIONS
+
+OF
+
+ 
+
+ P
+
+HYSICS
+
+ (F
+
+IRST
+
+ C
+
+OMMUNICATION
+
+)
+
+1011
+
+K µν
+
+∑=
+
+κ
+
+∂
+----------
+∂wν
+
+µκ
+κ⎩
+
+–
+
+λν
+κ⎩
+
+µν
+λ⎩
+
+–
+
+λκ
+κ⎩
+
+∂
+----------
+∂wκ
+µν
+
+∑+
+
+µκ
+λ⎩
+
+µν
+κ⎩
+µν
+, gl
+ 
+ does not contain the 
+L
+
+, qs, qsk.
+ 
+
+κ λ,
+
+ 
+
+µν
+gl
+ and obtain
+
+L
+
+.
+
+ |
+
+ Finally we make the simplifying
+
+[403]
+
+and where 
+g
+assumption in the following, that 
+
+ depends only on 
+
+L
+
+Next we apply theorem II to the invariant 
+∑
+µ ν m,
+
+∂L
+(
+----------- g
+µν
+∂g
+
+µm pm
+
+νm pm
+
++
+
+g
+
+)
+
+µ
+
+ν
+
+,
+
+∂L
+∑–
+m
+--------qm ps
+∂qs
+s m,
+∂L
+(
+m
+---------- qsm pk
+∂qsk
+
+∑–
+ 
+s k m,
+
+,
+
+m
+Equating to zero the coefﬁcient of 
+psk
+∂L
+----------
+∂qsk
+
++
+
+∂L
+----------
+∂qks
+
+or
+
++
+
+m
+qmk ps
+
++
+
+m
+qm psk
+
+)
+
+0.=
+
+ on the left produces the equation
+
+qm
+
+0=
+
+(15)
+
+(16)
+
+∂L
+----------
+∂qsk
+
++
+
+∂L
+----------
+∂qks
+
+0,=
+
+M ks
+
+=
+
+qsk
+
+–
+
+qks.
+
+that is, the derivatives of the electrodynamic potentials 
+tions
+
+qs
+
+ occur only in the combina-
+
+Thus we learn that under our assumptions the invariant 
+potentials 
+
+ only on the components of the skew symmetric invariant tensor
+
+ depends, besides on the
+
+L
+
+,
+
+gµν qs,
+
+M
+
+=
+
+(
+
+)
+
+M ks
+
+=
+
+Curl qs
+
+(
+
+),
+
+that is, of the so-called electromagnetic six vector. 
+This result, which determines the
+character of Maxwell’s equations in the ﬁrst place, here derives essentially as a con-
+.
+sequence of the general invariance, that is, on the basis of axiom II
+
+If we put the coefﬁcient of 
+
+ on the left of identity (15) equal to zero, we obtain,
+
+ν
+pm
+
+using (16)
+∑
+
+2
+
+∂L
+-----------g
+µν
+∂g
+
+µ
+
+µm
+
+–
+
+∂L
+---------qν
+∂qm
+
+∑–
+
+s
+
+∂L
+-------------Mνs
+∂M ms
+
+0,=
+
+(
+
+µ
+
+1=
+
+,
+
+,
+2 3 4
+
+,
+
+).
+
+(17)
+
+This equation admits an important transformation of the electromagnetic energy,
+ Namely, this part results from
+
+that is the part of the energy vector that comes from 
+(11), (13), (14) as follows:
+
+L.
+
+⎭
+⎨
+⎬
+⎧
+⎫
+⎭
+⎨
+⎬
+⎧
+⎫
+⎝
+⎠
+⎜
+⎟
+⎛
+⎞
+⎭
+⎨
+⎬
+⎧
+⎫
+⎭
+⎨
+⎬
+⎧
+⎫
+⎭
+⎨
+⎬
+⎧
+⎫
+⎭
+⎨
+⎬
+⎧
+⎫
+⎝
+⎠
+⎜
+⎟
+⎛
+⎞
+⎝
+⎠
+⎛
+⎞
+1012
+
+DAVID HILBERT
+
+L pl
+
+∑–
+
+∂L
+--------- pk
+∂qkl
+
+1
+
+∑–
+----------
+2 g
+k s,
+
+∂
+---------
+∂wk
+
+k
+
+∂ gL
+--------------
+∂qlk
+
+–
+
+∂ gL
+--------------
+∂qkl
+
+psqs
+
+.
+
+Because of (16) and by noting (5) this expression becomes |
+
+[404]
+
+so because of (17) it equals
+
+∑
+s k,
+
+Lδ
+
+l
+s
+
+–
+
+(
+
+δ
+
+l
+s
+
+=
+
+–
+
+∂L
+------------M sk
+∂M lk
+≠
+0,   l
+
+s;   δ
+
+s
+s
+
+∂L
+-------qs
+∂ql
+1=
+
+)
+
+ps
+
+∑–
+2
+-------
+g
+µ s,
+
+∂ gL
+--------------g
+µs
+∂g
+
+µl ps.
+
+(18)
+
+(19)
+
+(20)
+
+(21)
+
+Because of the formulas (21) to be developed below we see from this in particular
+ can be
+qs
+
+that the electromagnetic energy, and therefore also the total energy vector 
+expressed through 
+and their derivatives occur in it. If one takes the limit
+µ ν≠(
+
+ and their derivatives, but not the 
+
+ alone, so that only the 
+
+el
+
+µν
+
+K
+
+g
+
+)
+
+gµν
+gµµ
+
+0,=
+
+1=
+
+in expression (18), then this limit agrees exactly with what Mie has proposed in his
+electrodynamics:  Mie’s  electromagnetic  energy  tensor  is  nothing  but  the  generally
+invariant tensor that results from differentiation of the invariant 
+ with respect to the
+ in that limit—a circumstance that gave me the ﬁrst hint
+gravitational potentials 
+of  the  necessary  close  connection  between  Einstein’s  general  relativity  theory  and
+Mie’s electrodynamics, and which convinced me of the correctness of the theory here
+developed.
+
+µν
+
+L
+
+g
+
+It remains to show directly how with the assumption
+
+H
+
+=
+
+K L+
+
+the  generalized  Maxwell  equations  (5)  put  forth  above  are  entailed  by  the  gravita-
+tional equations (4).
+
+Using the notation introduced earlier for the variational derivatives with respect to
+g
+
+ the gravitational equations, because of (20), take the form
+
+µν
+
+,
+
+the 
+
+gK[
+
+]µν
+
++
+
+∂ gL
+--------------
+∂gµν
+
+0.=
+
+The ﬁrst term on the left hand side becomes
+
+gK[
+
+]µν
+
+=
+
+g K µν
+
+–
+
+1
+---K gµν
+2
+
+,
+
+⎝
+⎠
+⎛
+⎞
+⎩
+⎭
+⎨
+⎬
+⎧
+⎫
+⎝
+⎠
+⎛
+⎞
+⎝
+⎠
+⎛
+⎞
+THE FOUNDATIONS OF PHYSICS (FIRST COMMUNICATION)
+
+1013
+
+µν
+
+| as follows easily without calculation from the fact that 
+only tensor of second rank and 
+the 
+
+ and their ﬁrst and second differential quotients, 
+
+ is the
+ the only invariant, that can be formed using only
+
+ apart from 
+
+g
+The resulting differential equations of gravitation appear to me to be in agreement
+with the grand concept of the theory of general relativity established by Einstein in
+his later treatises.5
+
+µν
+, gkl
+ 
+
+µν
+gk
+
+K µν,
+
+gµν,
+
+K
+
+.
+
+Further, if we denote in general the variational derivatives of 
+
+gJ
+
+ with respect to
+
+[405]
+
+the electrodynamic potential 
+
+qh
+
+ as above by
+∂ gJ
+-------------
+∂qh
+
+=
+
+[
+
+gJ
+
+]h
+
+∑–
+
+k
+
+∂
+---------
+∂wk
+
+∂ gJ
+-------------,
+∂qhk
+
+then the basic electromagnetic equations assume the form, due to (20)
+
+K
+
+ is an invariant that depends only on the 
+
+Since 
+rem III the equation (7) holds identically, with
+
+g
+
+µν
+
+ and their derivatives, by theo-
+
+[
+
+gL
+
+]h
+
+0.=
+
+is
+
+∑=
+
+µ ν,
+
+gK[
+
+µν
+]µνgs
+
+(22)
+
+(23)
+
+(24)
+
+Due to (21) and (24), (19) equals 
+
+–
+
+ By differentiating with respect to 
+
+wm
+
+ and
+
+and
+
+summing over 
+
+m
+
+∑–=
+
+2
+
+l
+is
+
+gK[
+
+]µsg
+
+µl,
+
+µ
+
+µ
+=(
+
+,
+1 2 3 4
+
+,
+
+,
+
+).
+
+1
+m.
+-------iν
+g
+
+qν
+
+∂
+----------
+∂wm
+∑+
+
+s
+
+∂ gL
+--------------
+∂qs
+
+ we obtain because of (7)
+∑=
+
+gLδν
+
++
+
+–
+
+m
+
+iν
+
+∂
+----------
+∂wm
+m
+∂ gL
+--------------
+∂wν
+
+∑+
+
+m
+
+ 
+
+=
+
+–
+
+∂ gL
+--------------qν
+∂qm
+
++
+
+∑
+
+s
+
+[
+
+gL
+
+]m
+
+∑+
+
+∂ gL
+--------------M sν
+∂M sm
+∂
+---------
+∂ws
+
+∂ gL
+--------------
+∂qms
+
+s
+
+   
+
++
+
+qνm
+
+[
+
+gL
+
+]m
+
+∑+
+
+   
+
+s
+
+[
+
+gL
+
+]s
+
+–
+
+∂
+---------
+∂ws
+
+∂ gL
+--------------
+∂qms
+
+M sν
+
+∑+
+s m,
+
+∂ gL
+--------------
+∂M sm
+
+∂M sν
+-------------,
+∂wm
+
+5
+
+Loc. cit. Berliner Sitzungsber. 1915.
+
+⎝
+⎠
+⎛
+⎞
+⎝
+⎠
+⎛
+⎞
+⎩
+⎨
+⎧
+⎝
+⎠
+⎛
+⎞
+⎭
+⎬
+⎫
+⎝
+⎠
+⎛
+⎞
+1014
+
+DAVID HILBERT
+
+since of course
+
+[406]
+
+| and[3]
+
+∂ gL
+--------------
+∂qm
+
+[
+
+=
+
+gL
+
+]m
+
+∑+
+
+s
+
+∂
+---------
+∂ws
+
+∂ gL
+--------------
+∂qms
+
+∑–
+
+m
+
+∂
+----------
+∂wm
+
+∂ gL
+--------------
+∂qsm
+
+ 
+
+=
+
+[
+
+gL
+
+]s
+
+–
+
+∂ gL
+--------------.
+∂qs
+
+∑
+m s,
+
+∂2
+--------------------
+∂wm
+∂ws
+
+∂ gL
+--------------
+∂qms
+
+0,=
+
+Now we take into account that because of (16) we have
+
+and then obtain by suitably collecting terms
+
+iν
+
+=
+
+–
+
+∂ gL
+--------------
+∂wν
+∑+
+
+ 
+
+m
+
+∑+
+
+qν
+
+∂
+----------
+∂wm
+
+[
+
+m
+∂ gL
+--------------qmν
+∂qm
+
+∑+
+s m,
+
+[
+
+gL
+
++
+
+]m M mν
+∂M sν
+-------------.
+∂wm
+
+∂ gL
+--------------
+∂M sm
+
+gL
+
+]m
+
+On the other hand we have
+∑–=
+s m,
+
+∂ gL
+--------------
+∂wν
+
+–
+
+ 
+
+∂ gL
+sm
+--------------gν
+∂gsm
+
+∑–
+
+m
+
+∂ gL
+--------------qmν
+∂qm
+
+∑–
+m s,
+
+∂ gL
+--------------
+∂qms
+
+∂qms
+-----------.
+∂wν
+
+The ﬁrst term on the right is nothing other than 
+ because of (21) and (23). The last
+term on the right proves to be equal and opposite to the last term on the right of (25);
+namely, we have
+
+iν
+
+∑
+s m,
+
+∂ gL
+--------------
+∂M sm
+
+∂M sν
+-------------
+∂wm
+
+∂qms
+-----------
+∂wν
+
+–
+
+0,=
+
+since the expression
+
+∂qms
+-----------
+∂wν
+
+–
+
+=
+
+∂2qν
+--------------------
+∂ws
+∂wm
+
+∂2qs
+
+–
+
+---------------------
+∂wν∂wm
+
+–
+
+∂2qm
+--------------------
+∂wν∂ws
+
+∂M sν
+-------------
+∂wm
+,
+s m,
+
+is symmetric in 
+to be skew symmetric in 
+
+,
+s m.
+
+Consequently (25) entails the equation
+
+ and the ﬁrst factor under the summation sign in (26) turns out
+
+∑
+
+m
+
+[
+
+M mν
+
+gL
+
+]m
+
++
+
+qv
+
+gL
+
+]m
+
+0;=
+
+∂
+----------
+∂wm
+
+[
+
+(25)
+
+(26)
+
+(27)
+
+⎝
+⎠
+⎛
+⎞
+⎝
+⎠
+⎛
+⎞
+⎝
+⎠
+⎛
+⎞
+THE FOUNDATIONS OF PHYSICS (FIRST COMMUNICATION)
+
+1015
+
+that  is,  from  the  gravitational  equations  (4)  there  follow  indeed  the  four  mutually
+independent linear combinations (27) of the basic electrodynamic equations (5) and
+their  ﬁrst  derivatives.  This  is  the  exact  mathematical  expression  of  the  statement
+claimed in general above concerning the character of electrodynamics as a conse-
+quence of gravitation. |
+
+According to our assumption 
+
+;
+ must be a function of certain four general invariants, which correspond to
+therefore 
+the special orthogonal invariants given by Mie, and of which the two simplest ones
+are these:
+
+ should not depend on the derivatives of the 
+
+L
+
+L
+
+g
+
+µν
+
+[407]
+
+∑=
+
+Q
+
+,
+k l m n
+
+,
+
+,
+
+M mnM lkgmkgnl
+
+and
+
+q
+
+∑=
+k l,
+
+qkqlgkl.
+
+L
+
+=
+
+αQ f q( )
+
++
+
+L
+
+=
+
+αQ βq3,
++
+α β,
+
+ and 
+
+The simplest and most straightforward ansatz for 
+is also that which corresponds to Mie’s electrodynamics, namely
+
+L,
+
+ considering the structure of 
+
+K ,
+
+or, following Mie even more closely:
+
+where 
+
+f q( )
+
+ denotes any function of 
+
+q,
+
+ are constants.
+
+As one can see, the few simple assumptions expressed in axioms I and II sufﬁce
+with  appropriate  interpretation  to  establish  the  theory:  through  it  not  only  are  our
+views of space, time, and motion fundamentally reshaped in the sense explained by
+Einstein, but I am also convinced that through the basic equations established here
+the most intimate, presently hidden processes in the interior of the atom will receive
+an explanation, and in particular that generally a reduction of all physical constants to
+mathematical  constants  must  be  possible—even  as  in  the  overall  view  thereby  the
+possibility  approaches  that  physics  in  principle  becomes  a  science  of  the  type  of
+geometry: surely the highest glory of the axiomatic method, which as we have seen
+takes the powerful instruments of analysis, namely variational calculus and theory of
+invariants, into its service.
+
+∂ω
+
+l
+
+[1] The index  of 
+
+ l
+original text.
+[2]  The subscript
+[3] The subscript
+
+ sk
+ s
+
+EDITORIAL NOTES
+
+ in the denominator of the third equation is missing in the
+
+ in the denominator of 
+ in the term 
+
+gL
+
+]s
+
+[
+
+∂qsk
+
+ is missing in the original text.
+
+ is missing in the original text.
+
+

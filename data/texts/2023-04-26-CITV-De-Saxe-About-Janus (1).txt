@@ -1,0 +1,599 @@
+Univ. Lille, CNRS, Centrale Lille, UMR 9013 – LaMcube
+
+Laboratoire de m´ecanique multiphysique multi´echelle,
+
+About JANUS
+
+G. de Saxc´e
+
+F-59000, Lille, France ∗
+
+April 25, 2023
+
+Abstract
+
+In this work, we discuss the JANUS model in the context of the Galilean mechanics,
+consider a covering of the space-time with two disjoint sheets corresponding respectively
+to the negative and positive mass sectors. The space-time is equipped with a single metric
+and connection representing the gravitation of which the sources are obtained by push-
+forwarding the flux of both positive and negative masses onto the space-time. The asym-
+metry between both sectors regarding Coriolis’ force is a means to know in which sector
+we are living.
+
+Keywords JANUS model · negative mass · time reversal operator · Newton-Cartan theory
+Mathematics subject classification 83C25 · 83F05 · 70G45
+
+1
+
+Introduction
+
+In this work, we discuss the JANUS model [6] in the context of the Galilean mechanics. To
+avoid the runaway effect, we build a model for which the masses of the same sign attract each
+other according to Newton’s law, while masses of opposite signs repel each other according to
+anti-Newton’s law.
+
+Negative masses are positive masses that go back in time. The keystone idea is to consider
+a covering of the space-time with two disjoint sheets corresponding respectively to the negative
+and positive mass sectors. However, unlike JANUS model [6], we need on the space-time a
+single metric and connection representing the gravitation of which the sources are obtained by
+push-forwarding the flux of both positive and negative masses onto the space-time.
+
+According to ´Elie Cartan’s idea, the motion of a free falling particle (test-particle) is such
+that its linear 4-momentum is parallel-transported. At the classical limit of weak fields, we
+recover Newton’s law and anti Newton’s law.
+
+The negative and positive masses are living within two disjoint sectors. The photons travel
+at the same velocity (to respect the causality principle) in distinct sectors, so negative masses
+are not visible from the positive mass sector and conversely. The unique interaction between
+positive and negative masses is in the space-time through the gravitation.
+
+This approach is a milestone to build a relativistic cosmological model able to explain,
+
+amongst other puzzling experimental observations, the existence of dark matter.
+
+∗
+
+Email address for correspondence: gery.de-saxce@univ-lille.fr
+
+1
+
+(cid:19)
+
+(cid:18) t
+
+x
+
+X =
+
+(cid:18) 1
+
+(cid:19)
+
+P =
+
+0
+u R
+
+2 Galilean Mechanics
+
+Before we go any further, we can verify our ideas at the approximation of weak fields. For
+this aim, we use the theoretical framework of asymptotic expansion of general relativity with
+Galilean covariance proposed in [4]. To begin with, we recall some basic concepts of this
+approach.
+The space-time will be consider as a differential manifold M of dimension 4. A point
+X ∈ M represents an event. The 4-column vector of its coordinates (X α)0≤α≤3 in a chosen
+local chart will be denoted X, X 0 = t being the time and X i = xi for 1 ≤ i ≤ 3 being the
+spatial coordinates, so we can write
+
+In the sequel, the intrinsic, coordinate-free objects are denoted by a capital letter while their
+representations in local charts are denoted by a normal letter. Let V (resp. V ′) the components
+−→
+V in a local chart X (resp. X′). The affine transformations V ′ = P V + V0,
+of a tangent vector
+where P ∈ GL(4) and V0 ∈ R4, preserving the distances, the time durations, the uniform
+straight motions and the oriented volumes are called Galilean transformations. In what follows,
+we are only interested by the linear ones
+
+(1)
+
+where u ∈ R3 is the velocity of transport, or Galilean boost, and R ∈ SO(3) is a spatial rotation.
+The set of all these transformations is a Lie subgroup GAL of the affine group GA (4) called
+Galilei group. The Lie subgroup of the linear Galilean transformations (1) is denoted GAL0.
+∂X of a coor-
+dinate change X (cid:55)→ X′ being a linear Galilean transformation is that this change is compound
+of a rigid body motion and a clock change:
+
+Theorem. A necessary and sufficient condition for the Jacobian matrix P = ∂X′
+
+x′ = (R (t))T (x − x0 (t)),
+
+t′ = t + t0
+
+(2)
+where t (cid:55)→ R (t) ∈ SO(3) and t (cid:55)→ x0(t) ∈ R3 are smooth mappings, and t0 ∈ R is a constant.
+Then the velocity of transport is given by u = ω (t) × (x − x0 (t)) + ˙x0 (t) where ω is Poisson’s
+vector such that:
+
+˙R = j (ω) R (where for two vectors u and v, j (u) v = u × v).
+
+For the proof, the reader is referred to ([3], p. 339-341, Theorem 16.4).
+
+The relation between local charts:
+X ∼ X′ ⇔ X and X′ are deduced one from each other by a transition map (2)
+is an equivalence relation. An equivalence class under ∼ is called a Galilean atlas and its
+elements are called Galilean charts or Galilean coordinate systems or Galilean reference frames.
+In a physical point of view, the importance of these charts lies in the fact that they are the
+coordinate systems in which the observers measure the durations and distances.
+
+3 Bi-matter space-time as a covering
+To modelize the existence of two species of mater, we introduce a covering π : C (cid:55)→ M of
+the space-time with two disjoint sheets M+ and M− called sectors, each of which populated
+with particles with mass (baryons, leptons) or without mass (photons). These two populations
+do not interact directly. In particular, photons emitted by particles of one sector cannot be
+
+2
+
+Figure 1: Bi-matter covering
+
+received by particles of the other sector. The only interaction between massive particles of
+different sectors is through the gravitation, i.e. a connection that equips the space-time M.
+
+We claim that (Figure 1):
+• M, M+ and M− are equipped respectively with Galilean atlases A, A+ and A−.
+• For every event X of the space-time, let X+ (resp. X−) the event of M+ (resp. M−)
+such that π(X+) = X (resp. π(X−) = X). For every local chart X of A, there exists a
+local chart ¯X of A+ such that the projection π is represented in the local charts X and
+¯X by
+
+t = ¯t,
+
+x = ¯x
+
+X and ¯X will be called twin local charts of M and M+. If there is no confusion, the
+coordinates in the positive sector will be denoted latter on without bar and the projection
+π will be locally represented by the identity map. Likewise, for every local chart X of
+A, there exists a local chart ˜X of A− such that the projection π is represented in the
+local charts X and ˜X by the T-reversal PT
+t = −˜t,
+
+x = ˜x
+
+X and ˜X will be called twin local charts of M and M−.
+
+4 Gravitation field equations
+
+The particles of both sectors do not interact directly, but the space-time is the theater of
+operations where they interact through the gravitation.
+
+3
+
+In absence of massive particles, the space-time is flat and endowed with Minkowski metric
+
+represented in a Galilean chart by
+
+η =
+
+0
+0 −I
+
+(cid:18) c2
+(cid:19)
+
+(cid:19)
+(cid:18) c2
+
+(cid:18) c2 + 2 ϕ
+
+0
+
+g = −grad ϕ
+
+In the approximation of a weak gravitational field, the space-time is curved and the metric
+becomes
+
+G = η + h =
+
+0
+−I
+
+=
+
+0
+0 −I
+
++
+
+(cid:19)
+
+(cid:18) 2 ϕ 0
+
+(cid:19)
+
+0
+
+0
+
+where ϕ is the gravitation potential from which the gravity is generated by
+
+The field equation can be deduced from the Hilbert-Einstein principle of which the functional
+is at the weak field approximation
+
+IHE =
+
+M
+
+4 π kN
+
+1
+
+(c2 + ϕ) div g + ρ c2 − ρ
+
+∥ v2 ∥ −ϕ
+
+dX 4
+
+(cid:18) 1
+
+2
+
+(cid:19)(cid:21)
+
+(cid:90)
+
+(cid:20)
+
+where kN is Newton’s gravitational constant, ρ is the density of mass and v is the velocity [4].
+The variation with respect to the potential gives
+
+div g = −4 πkN ρ
+
+then
+
+The 4-velocity is the tangent vector
+
+∆ ϕ = 4 πkN ρ
+−→
+U represented in a Galilean chart by
+
+(cid:18) 1
+
+v
+
+(cid:19)
+
+,
+
+U = ˙X =
+
+(3)
+
+−→
+The density of mass is the time component of the 4-vector of mass flux
+N + and
+as the sum of the push-forward of the corresponding mass fluxes
+
+−→
+−→
+−→
+U . It is obtained
+N = ρ
+N− of both sectors
+
+−→
+N +) + π∗(
+
+−→
+N = π∗(
+−→
+N + and its push-forward are represented by the same column
+
+−→
+N−)
+
+In the twin local charts X and ¯X,
+vector of components
+
+where ρ+ ≥ 0. For the negative sector, we consider the twin local charts X and ˜X. The mass
+flux
+
+−→
+N− is represented in the local chart ˜X by
+
+N+ = π∗(N+) =
+
+(cid:18) ρ−
+
+ρ−v−
+
+˜N− =
+
+(cid:19)
+
+(cid:18) ρ+
+
+ρ+v+
+
+(cid:19)
+(cid:18) −ρ−
+
+ρ−v−
+
+(cid:19)
+
+N− = π∗( ˜N−) = PT ˜N− =
+
+4
+
+where ρ− ≥ 0. Its push-forward is represented in the local chart X by
+
+Then the total flux of mass is represented in the local chart X by
+
+N = ˜N+ + ˜N− =
+
+The solution of Poisson’s equation (3) is
+
+ϕ = ϕ+ + ϕ−,
+
+ϕ± = ∓
+
+that leads to the decomposition of the gravity into
+g± = −grad ϕ± = ∓
+
+g = g+ + g−,
+
+(cid:18)
+
+ρ+v+ + ρ−v−
+
+ρ+ − ρ−
+
+(cid:19)
+(cid:90) kN ρ±(x′, t)
+∥ x − x′ ∥ d3x′
+(cid:90) kN ρ±(x′, t)
+
+∥ x − x′ ∥2
+
+x − x′
+∥ x − x′ ∥ d3x′
+
+(4)
+
+where the effect of the acceleration g+ is attractive and g− is repulsive on a positive mass.
+
+5 Equations of motion
+
+In General Relativity, the gravitation is a connection. Let us consider its classical version. A
+covariant differential or connection of a vector field is ∇V α = dV α + Γα
+β (dX) V β where, using
+Christoffel symbols, the elements of the connection matrix Γ are Γα
+At each group of transformation is associated a family of connections and the corresponding
+geometry. We call Galilean connections the symmetric connections on the tangent bundle TM
+associated to Galilei group [8, 9, 5]. In a Galilean chart, the connection matrix is valued in the
+Lie algebra gal0 of GAL0 [2, 3]. In absence of Coriolis’ effect, we have
+
+β (dX) = Γα
+
+µβdX µ.
+
+where gj = −Γj
+
+Galilean chart by
+
+00 are the components of the gravity ([1], [7]).
+
+For a spinless particle of mass m, the linear 4-momentum
+
+−→
+T = m
+
+−→
+U is represented in a
+
+According to ´Elie Cartan’s prescription [1], the motion of a free falling particle (test-particle)
+is such that its linear 4-momentum is parallel-transported
+∇U T = ˙T + Γ(U ) T = 0
+
+(7)
+
+In a Galilean chart, this equation itemizes
+
+−→
+For a particle of mass m+ > 0 and velocity v in the positive sector, its 4-momentum is
+T + and its push-forward are represented by
+
+−→
+T +) In the twin local charts X and ¯X,
+
+−→
+T = π∗(
+the same column vector of components
+
+(cid:18) 0
+
+Γ =
+
+−g d t
+
+0
+0
+
+(cid:19)
+
+(cid:19)
+
+(cid:18) m
+
+p
+
+T = m U =
+
+˙m = 0,
+
+˙p = m g
+
+(cid:19)
+
+(cid:18) m+
+
+m+v
+
+T = π∗( ¯T+) =
+
+m+ ˙v = m+g
+
+5
+
+The push-forward is represented in the Figure 2. The equation of motion (8) of a particle
+
+of the positive sector reads
+
+(5)
+
+(6)
+
+(8)
+
+(9)
+
+Figure 2: Push-forward of T for positive and negative sectors
+
+then, according to the decomposition of the gravity (4),
+
+hence the particle of the positive sector is attracted by particles of the same sector (Newton’s
+law) and repelled by particles of the other one (anti Newton’s law).
+
+For a particle of mass m− > 0 and velocity v in the negative sector, we consider the twin
+
+−→
+T − is represented in the local chart ˜X by
+
+local charts X and ˜X. The 4-momentum
+
+˙v = g+ + g−
+
+(cid:18) m−
+
+m−v
+
+˜T− =
+
+(cid:19)
+(cid:18) −m−
+
+m−v
+
+(cid:19)
+
+T = π∗( ˜T−) = PT ˜T− =
+
+m− ˙v = −m−g
+
+Its push-forward is represented in the local chart X by
+
+The equation of motion (8) of a particle of the negative sector reads
+
+(10)
+
+(11)
+
+then, according to the decomposition of the gravity (4),
+˙v = −g+ − g−
+
+hence the particle of the negative sector is attracted by particles of the same sector and repelled
+by particles of the other one.
+
+At the classical limit of weak fields, whatever the sector, the law of conservation of the
+
+4-momentum allows to recover Newton’s and anti-Newton’s law.
+
+6
+
+6 The asymmetry between both sectors, a means to know
+
+in which sector we are living
+
+Up to now, we have considered the simplest situations in which only occurs the universal
+gravitation interaction. Now it is time for a new actor to burst in on the scene, Coriolis’ force.
+The most general form of a Galilean connection is [3]
+
+(cid:18) 0
+
+Γ =
+
+j (Ω) d x − g d t
+
+0
+j (Ω) d t
+
+(cid:19)
+
+where Ω is a 3-column vector associated by the mapping j−1 to the skew-symmetric matrix, the
+elements of which being Ωi
+j0. The spinning vector Ω can be interpreted as representing
+Coriolis’ effects [7, 3]. In a Galilean chart, this equation itemizes
+
+j = Γi
+
+˙m = 0,
+
+˙p = m (g − Ω × v) − Ω × p = 0
+
+(12)
+
+In the positive sector, (9) leads to the equation of motion
+m+ ˙v = m+(g − 2 Ω × v)
+
+then a particle of the positive sector is sensitive to Coriolis’ force represented by the last term.
+
+In the negative sector, owing to (10) the equation of motion
+
+m− ˙v = −m−g
+
+is identical to (11), then a particle of the negative sector is insensitive to Coriolis’ effect. This
+reveals the asymmetry between both sectors concerning the spinning. As, according to what
+the observations show, our mater is sensitive to Coriolis’ effect, showing that we are living in
+the positive sector.
+
+References
+
+[1] Cartan, ´E.: Sur les vari´et´es `a connexion affine et la th´eorie de la relativit´e g´en´eralis´ee
+
+(premi`ere partie). Annales de l’´Ecole Normale Sup´erieure 40, 325-412 (1923)
+
+[2] de Saxc´e G and Vall´ee C 2011 Affine Tensors in Mechanics of Freely Falling Particles and
+
+Rigid Bodies. Mathematics and Mechanics of Solid Journal 17(4) 413–430
+
+[3] de Saxc´e, G., Vall´ee, C.: Galilean Mechanics and Thermodynamics of Continua. Wiley-ISTE
+
+(2016)
+
+03285671
+
+[4] de Saxc´e, G.: Asymptotic expansion of general relativity with Galilean covariance, General
+
+Relativity and Gravitation, (52) 89 (2020)
+
+[5] K¨unzle H P 1972 Galilei and Lorentz structures on space-time: comparison of the cor-
+responding geometry and physics. Annales de l’Institut Henri Poincar´e section A 17(4)
+337–362
+
+[6] Jean-Pierre Petit, Gilles d’Agostini, Nathalie Debergh. Janus cosmological model. 2021. hal-
+
+[7] Souriau J M 1997 Milieux continus de dimension 1, 2 ou 3 : statique et dynamique Pro-
+
+ceeding of the 13eme Congr`es Fran¸cais de M´ecanique, Poitiers-Futuroscope 41–53
+
+7
+
+[8] Toupin R 1957/1958 World invariant kinematics. Arch. Rational Mechanics and Analysis 1
+
+181–211
+
+[9] Truesdell C and Toupin R 1960 the classical field theories, Encyclopedia of Physics, S.
+Fl¨ugge, Vol II/1, Principles of classical mechanics and field theory (Berlin: Springer-Verlag)
+
+8
+
+

@@ -1,0 +1,787 @@
+Sur la théorie de la gravitation
+
+( Zu Gravitationstherie )  
+
+par Hermann Weyl
+
+Traduction Laurent v.D. et J.P.Petit
+
+libre de droits
+
+
+
+Contenu
+
+
+A. Ajouts à la théorie générale
+
+§ 1. Dérivation d'un principe hamiltonien pour la solution des problèmes que l'on peut traiter avec notre connaissance très incomplète de la matière aujourd'hui.
+
+§ 2. Le théorème de l'énergie et de l'impulsion est l'expression générale du fait que le principe de Hamilton s'applique aux variations des variables d'état qui sont produites par une déformation infinitésimale du continuum quadridimensionnel de l’univers lorsque les variables d'état sont « entraînées » par la déformation.
+
+§ 3. Principes du lien entre la théorie et l'observation. Dérivation du principe de Fermat de l'arrivée la plus rapide pour les rayons lumineux dans le champ gravitationnel statique et d'un principe analogue pour la trajectoire d'une masse ponctuelle dotée d'une charge sous l'influence de la gravitation et de l'électricité.
+
+
+B. Théorie du champ statique à symétrie axiale
+
+§ 4. Dérivation simple de la solution de Schwarzschild pour une masse ponctuelle et transformation dans un autre système de coordonnées important pour la suite. Champ électrostatique et gravitationnel d'une masse ponctuelle chargée.
+
+§ 5. La construction d'un système de coordonnées spécial, les « coordonnées cylindriques canoniques », permet de déterminer le champ de masses au repos distribuées par rotation aussi simplement que dans la théorie newtonienne ; il existe un lien général entre les solutions selon Newton et Einstein, qui peut être exprimé par des fonctions élémentaires.
+
+§ 6. Il en va de même pour les champs électrostatiques et gravitationnels des charges distribuées avec une symétrie de rotation. Les déviations par rapport à la théorie classique sont extrêmement faibles, même à l'échelle de l'atome.
+
+
+
+A. Ajouts à la théorie générale
+
+
+§ 1. Un principe hamiltonien
+
+   Les équations de la gravitation ont été ramenées à un principe hamiltonien par  Hilbert, sur la base de la théorie de Mie, d'une manière plus générale par H. A. Lorentz et par le fondateur de la théorie de la gravitation lui-même. Sa formulation définitive échoue cependant, car nous ne connaissons pas la fonction hamiltonienne (densité d’univers de l'action) de la matière, voire même nous ne savons pas quelles variables d'état indépendantes doivent être utilisées pour décrire la matière. Dans ces conditions, il me semble important de formuler un principe hamiltonien qui soit aussi étendu que l'est aujourd'hui notre connaissance de la matière (au sens large einsteinien, c'est-à-dire du tenseur énergie-impulsion). De ce principe, qui a une forme quelque peu différente des formulations données jusqu'ici, les lois suivantes doivent découler comme d'une source commune :
+
+1. les équations gravitationnelles inhomogènes, selon lesquelles le tenseur énergie-impulsion détermine la courbure de l’univers. Le tenseur énergie-impulsion ne sera donc constitué que de celui qui s'applique au champ électromagnétique dans l'éther, et du tenseur énergie-impulsion « cinétique » de la matière au sens étroit , dans lequel apparaissent la densité de masse invariante  et les composantes  du quadrivecteur vitesse. La constitution de la matière et ses forces de cohésion, qui restent inexpliquées sur des points importants, sont ainsi laissées de côté ;
+
+2. les équations de Maxwell-Lorentz, qui, comme dans la théorie des électrons, acquièrent une signification concrète du fait qu'un courant convectif apparaît comme le seul courant électronique ; 
+
+3. la loi des forces ponderomotrices dans le champ électromagnétique et les équations mécaniques qui déterminent le mouvement des masses sous l'influence de ces forces et du champ gravitationnel.
+
+Soit  les quatre coordonnées définissant les points de l’univers,
+
+(1)						  
+
+la forme différentielle quadratique invariante (d'indice d'inertie 3) dont les coefficients forment le potentiel gravitationnel, et  la forme différentielle linéaire invariante dont les coefficients  sont les composantes du quadripotentiel électromagnétique. Je désigne l'intégrale 
+
+		
+
+s'étendant sur une certaine région de l’univers  comme l'effet de champ de la gravitation (contenue dans cette région de l’univers), l'intégrale 
+
+			 
+
+comme l'effet de champ de l'électricité. Dans celui-ci, 
+
+						
+
+désigne les composantes du champ électromagnétique et  l'élément de volume quadridimensionnel 
+
+				
+
+   Dans cette théorie phénoménologique, outre le « champ », apparaît la « substance », un continuum tridimensionnel en mouvement que nous pouvons considérer (mathématiquement) comme étant divisé en éléments infinitésimaux. Chaque élément a une certaine masse ou « charge de masse » , immuable, et une charge électrique , immuable ; il correspond à une certaine ligne d’univers, expression de son histoire, dont la direction doit être caractérisée par le rapport des quatre différentielles . La grandeur
+
+(2)					
+
+dont l'intégrale extérieure s'étend sur toute la substance, mais dont l'intégrale intérieure s'étend sur la partie de la ligne d’univers de l'élément de substance  qui se trouve dans la zone , je l'appelle l'effet de gravitation de la substance. Nous supposons que le mouvement de la substance est lié au champ gravitationnel de telle sorte que la racine carrée apparaissant sous le signe de l'intégrale interne, le temps propre , est toujours positive. Si l'on transforme (2), ce qui est possible, en une intégrale  étendue à la surface de l’univers , la fonction espace-temps invariante  est appelée densité de masse absolue. L'intégrale représentant l'effet de substance de l'électricité est formée de manière tout à fait analogue à (2) : 
+
+						
+
+la densité de charge électrique absolue  est définie par
+
+					
+
+Le principe de Hamilton est le suivant :
+
+    La somme des actions effectives du champ et de la substance de la gravitation et de l'électricité est extrémale dans chaque domaine d'univers pour des variations arbitraires des champs électromagnétique et gravitationnel qui s'annulent sur la frontière d'intégration et d'une façon analogue pour des variations d'espace-temps et des éléments de la substance en mouvement.
+
+   La variation de  (avec champ électromagnétique inchangé et lignes d’univers de la substance inchangées) donne lieu aux équations gravitationnelles d'Einstein (I), à la variation du potentiel électromagnétique , aux équations de Lorentz de Maxwell
+
+(II)					
+
+à la variation des éléments des lignes d’univers de la substance et enfin aux équations mécaniques
+
+(III)				
+
+dans lesquelles  sont les composantes contravariantes de la force, dont les covariantes sont données par 
+
+					 
+
+   Ces lois ne sont bien sûr pas indépendantes les unes des autres. Au contraire, les équations mécaniques (III), ainsi que l'équation de continuité de la matière, sont une conséquence mathématique des lois (I) et (II), comme on peut le confirmer par un simple calcul.
+
+
+§ 2 Le théorème énergie-impulsion
+
+   Selon les auteurs cités ci-dessus — nous revenons de la théorie phénoménologique que nous venons d'évoquer à une théorie stricte, qui ne peut aujourd'hui, il est vrai, être formulée que selon son approche générale — l’univers est régi par un principe d'action de la forme suivante
+
+				
+
+      La densité d’univers  de l'effet du processus matériel est donc une fonction universelle des variables d'état indépendantes caractérisant ce processus, de leurs dérivées (de premier ordre, peut-être aussi d'ordre supérieur) selon les coordonnées , et de . Ainsi, dans la théorie de Mie, pour prendre un exemple concret,  dépend, outre le , des quatre composantes  du potentiel électromagnétique et des composantes de champ , qui découlent du  par différenciation. La dérivation des équations mécaniques dans la théorie phénoménologique ci-dessus m'a amené à me demander si, en général, le principe de conservation de l'énergie et de la quantité de mouvement n'est pas l'expression du fait que le principe de Hamilton se réalise en particulier dans le cas de ces variations infiniment petites qui sont causées par une déformation infinitésimale de l’univers de telle sorte que les variables d'état sont « entraînées » par cette déformation. C'est effectivement le cas, et la dérivation la plus simple et la plus naturelle du principe d'énergie semble résulter de cette façon.
+
+Si nous fixons , le tenseur énergie-impulsion  est défini par l'équation de la différentielle totale de  :
+
+				
+
+où  résume les termes qui contiennent linéairement les différentielles des variables d'état du matériau (par exemple, de  et ). Avec une transformation de coordonnées arbitraire 
+
+					 
+
+le tenseur contravariant  se transforme selon les formules 
+
+					
+
+Si cette transformation est infinitésimale :
+
+				 
+
+( désigne la constante infinitésimale, c'est-à-dire convergeant vers zéro), on obtient l'équation : 
+
+				 
+
+pour la différence 
+
+					
+
+des valeurs de  et  pour deux systèmes d'arguments  et , qui représentent le même point de l’univers dans l'ancien et le nouveau système de coordonnées.
+
+   Si nous procédons de la même manière pour les variables d'état du processus matériel, nous obtenons, en exprimant qu'avec une telle transformation infinitésimale l'invariant  reste inchangé, la loi selon laquelle le tenseur énergie-impulsion dépend de  et des variables d'état matériel.
+
+   Considérons une zone d’univers  à laquelle, lorsqu'elle est représentée par les coordonnées , une certaine zone mathématique  correspond dans la zone de ces variables . Si la transformation infinitésimale ci-dessus a la propriété de faire disparaître les variations  au bord de la zone  ainsi que leurs dérivées, alors exactement la même zone mathématique  correspond à la zone d’univers  dans les nouvelles variables . Je place 
+
+	
+
+formant ainsi la différence de  et  en deux positions spatio-temporelles, dont la seconde dans le nouveau système de coordonnées a les mêmes valeurs de coordonnées que la première dans l'ancien ; en d'autres termes j'effectue un déplacement virtuel.  a la même signification pour toutes les autres quantités. Si j’utilise l’abréviation  pour l'élément d'intégration , alors  est un invariant, donc 
+
+	
+
+Mais cependant
+
+			
+
+   Il convient de noter ce qui suit : dans le système de coordonnées transformé — je choisis la théorie de Mie comme exemple — les équations 
+
+				
+
+sont valables comme dans l'original, donc, puisque la dénomination des variables n'est pas importante, 
+
+				
+
+Les relations 
+
+					
+
+sont donc préservées quand on passe des fonctions ,  aux fonctions ,  de la même variable  ; c'est-à-dire qu'elles sont préservées avec la variation  (mais pas avec la variation ). Selon le principe général d'action dans lequel nous laissons le  invariable, c'est-à-dire selon les lois du processus matériel, 
+
+			
+
+Si l'on y insère l'expression de  et que l'on élimine les dérivées des composantes du déplacement par intégration partielle, on obtient 
+
+				
+
+et donc les équations de l'énergie-impulsion
+
+(3)					
+
+sont prouvées.
+
+   Pour une variation du champ gravitationnel qui s'évanouit aux frontières de de la région de l’univers , nous avons
+
+				 
+
+où  est le tenseur de courbure de Riemann symétrique et  est l'invariant 
+
+						
+
+   Si l'on applique la considération qui vient d'être faite à  au lieu de  (le fait que  contienne aussi les quotients différentiels de  est tout à fait sans importance), on trouve sans calcul que le tenseur 
+
+						
+
+placé à la place de , satisfait identiquement les équations (3). Le théorème de l'énergie-impulsion est donc non seulement, comme nous venons de le montrer, une conséquence mathématique des lois du processus matériel, mais aussi des équations gravitationnelles
+
+					
+
+  
+ Dans la théorie d'Einstein, l'ancienne division en géométrie, mécanique et physique est remplacée par la juxtaposition du processus matériel et de la gravitation. La mécanique, cependant, est, pour ainsi dire, l'éliminateur des deux ; car l'existence de la loi de l'énergie-impulsion est, d'une part, une conséquence des lois du processus matériel, et, d'autre part, la condition nécessaire pour que la matière puisse imprimer à l’univers sa détermination dimensionnelle conformément à la loi de la gravitation. Le système des lois matérielles et gravitationnelles contient donc quatre équations excédentaires ; en fait, quatre fonctions arbitraires doivent apparaître dans la solution générale, puisque les équations, en raison de leur nature invariante, laissent le système de coordonnées du  complètement indéterminé.
+
+
+
+§ 3. Le lien avec les observations. Rayons et trajectoires de la lumière dans le champ gravitationnel statique
+
+   Ce monde « objectif », que la physique s'efforce d'extraire de la réalité dont nous faisons l'expérience directe, ne peut être saisi dans son contenu signifiant qu'à travers des concepts mathématiques. Mais pour caractériser le sens que ce système mathématique de concepts possède pour la réalité, il faut d'une manière ou d'une autre tenter de décrire son lien avec ce qui est directement donné, une tâche d'épistémologie qui ne peut naturellement pas être accomplie avec les seuls concepts physiques, mais seulement par une référence constante à ce qui est vécu de manière vivante dans la conscience. Le lien entre le nombre de vibrations d'un champ électromagnétique et la qualité sensorielle « couleur » est de ce type. En général, le courant d'impulsion énergétique qui frappe l'épithélium sensoriel semble être déterminant pour l'intensité correspondante de la sensation par son intensité, et pour sa qualité par la nature de sa variabilité spatio-temporelle. Je voudrais ici décrire plus en détail cette connexion pour une relation très simplifiée entre le sujet et l'objet. 
+
+   Dans le monde physique quadridimensionnel, nous pensons à des points de masse individuels en mouvement et émettant de la lumière, les étoiles. Pour des raisons de simplicité, nous nous baserons sur l'optique géométrique, selon laquelle les lignes d’univers des signaux lumineux émis par les étoiles sont des lignes géodésiques singulières. En général, les équations d'une ligne d’univers géodésique sont 
+
+(4)				
+
+en utilisant un paramètre approprié .
+
+D'eux découle 
+
+					
+
+   Les lignes d’univers géodésiques singulières sont caractérisées par le fait que pour elles cette constante est en particulier égale à zéro (alors qu'elle est positive pour les lignes d’univers des masses ponctuelles). Nous simplifions la conscience percevante, la « monade », à un « œil ponctuel ». À chaque instant de sa vie, il occupe une certaine position spatio-temporelle, il décrit une ligne d’univers ; il vit les points de cette ligne d’univers comme se succédant dans une « succession temporelle ». Nous considérons un certain moment ; à l'endroit , que la monade y occupe, les potentiels gravitationnels peuvent avoir les valeurs  ;  sont les composantes de l'élément  de sa ligne d’univers à cet endroit, le rapport des  désigne sa direction (vitesse) de l’univers. Nous devons présupposer que cette direction est de type temporel, c'est-à-dire que 
+
+						 
+
+   Au lieu des différentielles , j'écris dorénavant simplement , puisque toutes nos considérations se réfèrent au seul lieu .
+
+Deux éléments de ligne ,  sont appelés orthogonaux si 
+
+						
+
+   J'affirme d'abord que tous les éléments de ligne (à partir de ) qui sont orthogonaux au  temporel sont eux-mêmes spatiaux, qu'ils couvrent donc une région tridimensionnelle  infiniment petite, sur laquelle une détermination de mesure positive-définie est imprimée par la forme . La monade considère cette zone  comme son « environnement spatial » immédiat. Pour prouver notre affirmation, nous supposons que  est le quatrième axe de coordonnées ; alors les trois premières composantes de  sont égales à zéro et . On peut mettre
+
+
+
+Si nous introduisons
+
+				
+
+à la place du précédent  comme quatrième coordonnée, nous obtenons 
+
+				
+
+   Puisque  a un indice d'inertie de 3, la forme quadratique  doit être définie positivement. Tous et seulement les éléments pour lesquels  sont orthogonaux à . Cela prouve notre affirmation. Nous voyons en outre que chaque élément de la ligne peut être divisé de manière non ambiguë en deux sommets, dont l'un est parallèle à  (a des composantes proportionnelles à celles de ), l'autre orthogonal à . Nous appelons la direction de cette deuxième somme la « direction spatiale » de l'élément de ligne. Plusieurs de ces directions spatiales orthogonales à  forment entre elles des angles qui doivent être calculés de manière connue à l'aide de la forme quadratique  positive pour elles. Nous identifions l'angle des directions spatiales des lignes d’univers de deux signaux lumineux frappant deux étoiles dans  déterminé de cette manière avec la différence angulaire des deux directions (au sens descriptif) dans lesquelles l'œil du point voit les deux étoiles au moment considéré. Nous considérons cette différence de direction comme quelque chose qui est au moins approximativement directement vérifiable ; en fait, en voyant, non seulement quelque chose de qualitatif nous est donné par la sensation, mais ce qualitatif nous est donné comme quelque chose de « spatialement étalé » (un moment qui ne peut en aucun cas être ramené à la matière de la sensation). En utilisant des instruments d'observation appropriés, l'observation des angles peut être rendue plus exacte, la conscience n'ayant pour tâche que d'établir la distinction ou l'indiscernabilité de deux directions (congruence du réticule et de l'étoile, lecture sur le cercle gradué). — Ce schéma simple est en tout cas suffisant pour la description de base de la manière dont les observations des étoiles peuvent être utilisées pour vérifier la théorie d'Einstein.
+
+   Dans le prolongement de ce qui précède, je voudrais montrer comment on peut dériver très simplement le principe de Fermat de l'arrivée la plus courte à partir du principe général « la ligne d’univers d'un signal lumineux est une ligne géodésique singulière » dans le cas du champ gravitationnel statique. Si nous choisissons le paramètre  pour représenter une ligne géodésique telle qu'elle correspond aux équations (4), elle est caractérisée par le principe variationnel
+
+(5)					
+
+valable pour un déplacement virtuel où les extrémités du morceau de ligne d’univers considéré restent fixes. (Sauf pour les lignes d’univers singulières, on peut aussi supposer l'équation 
+
+					
+
+à la place). Dans le cas statique, nous fixons  ; la forme quadratique de base (1) a la forme 
+
+					
+
+où  est une forme quadratique positive des différentielles spatiales , dont les coefficients sont indépendants du temps , tout comme , le carré de la vitesse de la lumière. Dans ce cas, si nous ne faisons varier que , nous avons 
+
+(6)		
+
+Par conséquent, 
+
+					
+
+Si nous abandonnons l'hypothèse qu'en dehors de , , , aussi  disparaît aux extrémités de l'intervalle d'intégration, alors nous devons remplacer (5) par 
+
+(7)				, 
+
+comme on peut le voir dans (6).
+
+   Si nous faisons varier à volonté la trajectoire spatiale du signal lumineux, en gardant les extrémités fixes, mais que nous imaginons que la courbe modifiée passe également à la vitesse de la lumière, alors 
+
+					
+
+s'applique à la courbe originale ainsi qu'à la courbe modifiée, et (7) se transforme en
+
+					
+
+c'est-à-dire en principe de Fermat. Le temps est maintenant complètement éliminé ; la dernière formulation ne se réfère qu'au parcours spatial du rayon lumineux et s'applique à chaque partie de celui-ci, si on le fait varier à volonté tout en gardant son point de départ et d'arrivée fixe.
+
+   Nous pouvons utiliser la même méthode pour déterminer un principe minimal pour la trajectoire d'un point de masse dans un champ gravitationnel statique. Supposons immédiatement que le point de masse  porte également une charge électrique  et est exposé à un champ électrostatique de potentiel . Selon le § 1, le principe de variation, si  signifie la différentielle du temps propre, est alors 
+
+(8)					
+
+Si nous ne faisons varier que , et non les coordonnées spatiales, le côté gauche est 
+
+					
+
+Donc 
+
+(9) 					
+
+et le principe de variation (8), si on abandonne l'hypothèse qu'en plus de , , ,  disparaît aussi aux extrémités de l'intervalle d'intégration, doit être remplacé par 
+
+(10)				
+
+Si l'on introduit la valeur 
+
+						 
+
+dans (9) et que l'on défini la quantité
+
+						
+
+on obtient la loi de vitesse 
+
+(11)					
+
+   Si nous considérons la courbe de trajectoire spatiale arbitrairement variée avec ses extrémités fixées, alors (9) est également valable pour la courbe variée. Par conséquent, nous obtenons de (10) : 
+
+		
+
+   Nous pouvons ici substituer l'expression (11) à , puisque cette équation reste présupposée valable pour la variation ; le temps est ainsi complètement éliminé et nous constatons que la courbe de la trajectoire spatiale est caractérisée par le principe minimal 
+
+					
+
+
+
+B. Théorie du champ gravitationnel statique à symétrie de révolution
+
+
+§ 4. Point de masse sans et avec charge électrique
+
+   Pour la suite, il est nécessaire de faire quelques remarques sur la détermination de Schwarzschild du champ gravitationnel d'un point de masse au repos. Un élément linéaire tridimensionnel à symétrie sphérique, si l'on utilise des coordonnées appropriées, a nécessairement la forme 
+
+		
+
+où  et  ne dépendent que de la distance
+
+					 
+
+   On peut encore disposer de l'échelle dans laquelle cette distance est mesurée de telle sorte que  soit omis ; qu'il en soit ainsi. Pour l'élément de ligne quadridimensionnel, nous avons l'approche de faire 
+
+					
+
+où aussi  est seulement une fonction de . Si nous fixons toujours 
+
+					 
+
+et la racine du déterminant  égale à , alors un bref calcul, que nous effectuons de manière expéditive pour le point , donne la valeur 
+
+						 
+
+pour 
+
+				
+
+L'accent signifie la dérivé pour . En outre, 
+
+				
+
+nous devons alors résoudre le problème de variation 
+
+			
+
+ et  peuvent être considérés comme les fonctions à faire varier indépendamment. La variation de  résulte en 
+
+				 
+
+et avec une disposition appropriée de l'unité de temps encore arbitraire : . La variation de  donne lieu à
+
+				
+
+					
+
+ est relié à la masse  par l'équation  ; nous appelons  le rayon gravitationnel de la masse .
+
+   Pour illustrer la géométrie avec l'élément de droite , nous nous limitons au plan  passant par le centre. Si nous y introduisons les coordonnées polaires
+
+				 
+
+alors nous obtenons :
+
+				
+
+   Cet élément de ligne caractérise la géométrie qui s'applique au paraboloïde de révolution suivant dans l'espace euclidien de coordonnées rectangulaires  :
+
+					 
+
+   Si celui-ci est rapporté au plan  de coordonnées polaires  par projection orthogonale la projection couvre l'extérieur du cercle  deux fois, l'intérieur pas du tout. Ainsi, par continuation analytique naturelle, l'espace réel dans l'espace de coordonnées de  utilisé pour la représentation couvrira deux fois la zone indiquée par . Les deux revêtements sont séparés par la sphère , sur laquelle se trouve la masse et la détermination de la dimension devient singulière, et l'on devra désigner ces deux moitiés comme l'« extérieur » et l'« intérieur » du point de masse.
+
+   Peut-être cela deviendra-t-il encore plus clair grâce à l'introduction d'un autre système de coordonnées, auquel je dois de toute façon transformer les formules de Schwarzschild pour les besoins de développements ultérieurs. Les formules de transformation doivent se lire 
+
+		
+
+Si je laisse de nouveau les accents après avoir effectué la transformation, le résultat est
+
+(12)		
+
+   Dans les nouvelles coordonnées, l'élément linéaire de l'espace gravitationnel se conforme donc à l'euclidien ; le rapport d'agrandissement linéaire est de 
+
+					
+
+ est régulier pour toutes les valeurs ,   est constamment positif
+et ne devient nul que pour 
+
+						
+
+La circonférence du cercle  est 
+
+					
+
+cette fonction, si l'on fait passer  de façon décroissante par les valeurs à partir de , diminue de façon monotone jusqu'à la valeur , qui est atteinte pour 
+
+						
+
+mais recommence ensuite à augmenter à mesure que  diminue encore jusqu'à zéro, et enfin au-delà de toutes les limites. Selon la vue ci-dessus, ici la zone 
+
+						 
+
+correspondrait à l'extérieur, 
+
+						
+
+à l'intérieur du point de masse. Si l'on continue analytiquement, 
+
+						
+
+devient négatif à l'intérieur, de sorte que le temps cosmique () et le temps propre y sont opposés pour un point au repos. (Dans la nature, bien sûr, seule une partie de la solution qui n'atteint pas la sphère singulière peut jamais être réalisée).
+
+   Si le point de masse porte une charge électrique et que  est le potentiel électrostatique, le principe d'action est 
+
+				 
+
+sur la base du système CGS.
+
+La variation de  donne 
+
+				 
+
+comme ci-dessus.
+
+Et la variation de 
+
+			
+
+   La formule du potentiel électrostatique est donc la même que sans tenir compte de la gravité. La constante  est la charge électrique (dans la mesure électrostatique habituelle). Cependant, si l'on fait varier , on obtient 
+
+					 
+
+et, à partir de là, 
+
+			
+
+   Comme on peut le voir, dans , outre l'élément dépendant de la masse , il y a également un élément électrique supplémentaire.  est à nouveau le rayon gravitationnel de la masse . De façon tout à fait analogue, la longueur 
+
+						
+
+sera le rayon gravitationnel de la charge électrique . Aux distances  comparable à  le terme de masse est , mais aux distances  le terme électrique .  reste positif pour toutes les valeurs de  lorsque  ; pour un électron, le quotient  est de l'ordre de . À des distances comparables à 
+
+						
+
+le terme de masse et le terme électrique dans le potentiel gravitationnel  ont le même ordre de grandeur ; ce n'est que lorsque  est grand par rapport à  que le principe de superposition s'applique en ce sens que le potentiel électrostatique est déterminé par la charge, le potentiel gravitationnel par la masse au moyen des formules ordinaires. Par conséquent, , une quantité qui apparaît dans d'autres contextes comme le « rayon de l'électron », peut en tout cas être considérée comme le rayon de sa sphère d'action. La relation  est valide.
+
+   Après avoir établi le champ du point de masse avec charge électrique, on peut facilement calculer, selon le dernier paragraphe du §3, le mouvement d'un spécimen soumis aux effets de force de ce champ, dont la masse et la charge sont faibles par rapport à celui qui génère le champ ; le problème est résolu strictement par des fonctions elliptiques, comme dans le cas sans charge (mouvement planétaire).
+
+
+§ 5. Le champ de masses distribuées avec une symétrie de rotation
+
+   Posséder des solutions strictes des équations de la gravitation me semble être d'une importance particulière pour la question des processus dans l'atome. Car il est possible que dans ces dimensions, la non-linéarité des lois exactes de la nature entre essentiellement en ligne de compte. Les mathématiciens savent depuis longtemps que dans le cas d'équations différentielles non linéaires, surtout en ce qui concerne leurs singularités, il existe des conditions qui, par rapport à celles qui se produisent dans le cas d'équations linéaires, sont extraordinairement compliquées, inattendues et, pour le moment, complètement incontrôlables. Les physiciens savent que des processus particuliers doivent se dérouler à l'intérieur de l'atome, auxquels le jeu des forces de l’univers visible, régi par le principe de superposition, n'a aucune analogie. Je pense que ces deux choses peuvent être étroitement liées l'une à l'autre, et que l'on peut peut-être même en attendre l'interprétation finale de la théorie quantique. Pour de tels objectifs, certes encore lointains aujourd'hui, il m'a semblé intéressant, dans un premier temps, de déterminer strictement le champ gravitationnel de masses et de charges distribuées avec une symétrie de rotation selon la théorie d'Einstein. C'est ce qui est fait ici pour le cas du repos ; l'enquête conduit à des résultats étonnamment simples.
+
+   Les coordonnées sont : 1. le temps  ; 2. une coordonnée spatiale distinguée, l'angle de rotation  autour de l'axe de rotation, avec la période  ;  est un demi-plan méridien attaché à l'axe de rotation. En cela nous disposons 3. de deux coordonnées  pour la détermination de ses points, que nous normaliserons plus précisément dans un instant. L'élément de ligne doit avoir la forme
+
+					
+où 
+
+		
+
+les coefficients  sont des fonctions uniquement de , et . Selon un théorème général sur les formes différentielles quadratiques positives de deux variables, il est possible de choisir les coordonnées  plus exactement de telle sorte que la partie entre parenthèses avec les coefficients  obtienne la forme « isotherme » 
+
+					 
+
+ainsi la paire de variables  est alors déterminée jusqu'à un mapping conforme. Après un tel choix de variables, 
+
+					 
+
+est généralement fixé pour deux fonctions  quelconques de . Si j'introduis , la racine du déterminant est
+
+						
+
+Pour la densité de l'action , la formule
+
+		
+est valide en général.
+
+Dans notre cas, le premier membre est égal à
+
+			
+
+on lui trouve immédiatement 
+
+			
+
+Le deuxième terme, cependant, devient 
+
+			
+
+Maintenant 
+
+	
+
+donc pour  nous obtenons
+
+		
+
+Si nous formons l'autre terme de  de la même manière et que nous notons que
+
+					
+
+nous obtenons 
+			
+
+Si nous introduisons
+						
+alors nous obtenons
+
+		
+
+Ainsi, nous trouvons
+
+					
+
+Enfin, 
+		
+
+Ainsi, nous avons 
+
+		
+
+finalement.
+
+Pour formuler le principe d'action, nous devons former 
+
+					
+
+pour les variations  qui disparaissent au bord du domaine d'intégration (arbitraire). Si nous fixons 
+
+	 
+
+en général, l'intégration partielle transforme 
+
+				 
+
+où 
+
+	
+
+   Pour la matière au repos (non chargée), dont la tension est négligeable, le tenseur énergie-impulsion  est constitué de la seule composante 
+
+			
+
+et nous avons 
+
+		
+							
+
+   Selon le principe d'action, cette différentielle  doit maintenant correspondre à , coefficient pour coefficient. Cela donne (coefficient de ) :
+
+					
+
+ est donc une fonction potentielle dans le plan . Si  désigne la fonction potentielle conjuguée, de sorte que  est une fonction analytique de , alors la transition de  à ,  est une transformation conforme. Nous pouvons donc supposer a priori que 
+
+					
+
+   Dans la définition des symboles opérationnels , nous remplaçons donc  par  et . Le système de coordonnées est maintenant complètement non ambigu, à l'exception d'une constante additive arbitraire dans . Sur l'axe de rotation,  doit disparaître pour que l'élément de ligne y reste régulier. J'appelle  les coordonnées cylindriques canoniques ; la forme canonique correspondante de l'élément de ligne est 
+
+				
+
+   Le cas « euclidien » y est contenu avec . Mais en général, pour pouvoir nous exprimer géométriquement, nous représentons l'espace gravitationnel par un espace image euclidien avec les coordonnées cylindriques . Le mappage des deux espaces l'un sur l'autre par le biais des coordonnées canoniques est clairement déterminé, sauf pour une translation arbitraire de l'espace image euclidien dans la direction de l'axe . Dans cet espace image, 
+
+			
+
+est l'opérateur potentiel commun pour les fonctions symétriques en rotation.
+
+En égalisant les coefficients de  dans 
+
+					
+
+on obtient 
+
+(13)					
+
+et en égalisant les coefficients de  :
+
+(14)				
+
+Considérons d'abord (13) et introduisons  ; puis 
+
+					 
+
+et donc 
+
+(15)					
+
+ou, si nous revenons aux unités de mesure du système CGS, ajoutons le facteur  à droite, 
+
+					
+
+c'est-à-dire que la solution  régulière sur l'axe de rotation est remise en question. Nous sommes donc arrivés à l'équation de Poisson ordinaire dans le système de coordonnées canonique ; comme elle est linéaire, le principe de superposition s'applique à .
+
+   Pour l'anneau infiniment mince décrit par l'élément de surface  du plan canonique  en rotation autour de l'axe , on trouve 
+
+					
+
+comme solution de l'équation de Poisson lorsque 
+
+					 
+
+est fixé, comme on le sait.
+
+
+
+Fig.1.
+
+
+
+
+, la « distance » du point de contact  par rapport à l'anneau, est la moyenne arithmétique-géométrique des distances  du point  par rapport aux deux points d'intersection de l'anneau avec le plan méridien dans lequel se trouve  :
+
+				
+
+toutes les expressions s'entendent au sens euclidien, par rapport aux coordonnées canoniques ! Si seul cet anneau a une masse, alors 
+
+						 
+
+pour les grands , cela équivaut à 
+
+						
+
+ s'avère donc être la masse gravitationnelle contenue dans l'anneau et  donc la densité de masse dans le système de coordonnées canonique. — Nous sommes arrivés au résultat simple suivant :
+
+   Si la distribution de la masse (à symétrie de révolution) dans le système de coordonnées canonique est connue et que  est son potentiel newtonien, alors, selon la théorie d'Einstein,
+
+						
+
+Nous introduisons également  au lieu de  dans l'équation (14) ; nous avons : 
+
+				
+
+Si nous multiplions ensuite (14) par , ajoutons (15) ou de façon équivalente
+
+					 
+
+et prenons 
+
+					
+
+comme inconnue, nous obtenons 
+
+(16)					 
+
+c'est-à-dire une équation de Poisson dans le plan . Pour que l'élément de droite reste régulier sur l'axe de rotation, il faut que  disparaisse sur celui-ci ; il faut donc prendre la solution uniquement déterminée de l'équation de Poisson dans le demi-plan méridien pour  qui disparaît à l'infini et sur l'axe de rotation. Au demeurant, si l'on se contente de l'approximation qui résulte de la suppression des membres quadratiques, alors nous devons mettre . 
+
+   Il est très instructif de voir comment le point de masse s'intègre dans la théorie générale de la distribution de masse à symétrie de rotation qui vient d'être développée. Nous partons de la représentation (12) et y introduisons des coordonnées cylindriques au lieu des coordonnées « rectangulaires »  :
+
+
+			 
+
+le  dans (12) qui apparaît doit alors bien sûr être remplacé par . Ensuite, nous effectuons la transformation conforme
+
+
+			
+
+
+dans le demi-plan méridien ; alors notre élément de ligne prend effectivement la forme canonique, et le calcul aboutit à
+
+
+			
+
+
+où la signification de  peut être prise dans la Fig. 2. 
+
+
+
+ dans l'espace canonique de coordonnées cylindriques  est le potentiel newtonien de la distance 
+
+				
+
+qui est uniformément occupée par la masse : le « point de masse » apparaît donc dans les coordonnées canoniques non pas comme une sphère mais comme une distance, le demi-plan méridien comme le plan plein fendu le long des deux demi-droites fortement étendues, l'axe de rotation comme la fente (reliée à l'infini), qui doit être parcourue comme indiqué sur la figure par les flèches et les chiffres ajoutés. La moitié droite du plan plein correspond à l'extérieur, la moitié gauche à l'intérieur du point de masse. Cela confirme une fois de plus le point de vue que nous avons avancé au § 4 : si nous ne tenions pas compte de cet « intérieur », nous n'arriverions pas à la bonne solution. Voyons que  est en fait la solution de l'équation (16) dans le plan solide fendu  qui disparaît aux bords de la fente. — On aurait naturellement été conduit à la solution stricte actuelle des équations gravitationnelles par la tâche de déterminer le champ d'une distance de longueur  occupée par la masse . Après avoir déterminé le champ gravitationnel, il se serait toutefois avéré, en mesurant la « distance » avec l'élément spatial invariant , qu'il ne s'agit pas du tout d'une distance, mais d'une surface sphérique : dans la théorie stricte de la gravitation, on ne peut toujours déterminer qu'a posteriori à quel type de distribution de masse correspond une solution, à laquelle on est arrivé par une approche particulière.
+
+
+
+§ 6. Le champ de charges distribuées avec une symétrie de rotation
+
+   Si les masses au repos portent des charges électriques statiques, alors, en plus du champ gravitationnel, un champ électrostatique apparaît, qui est dérivé d'un potentiel .  sont, comme au début du § 5, des coordonnées isothermes dans le demi-plan méridien. La densité effective de l'électricité est déterminée à partir de 
+
+			
+
+   L'intégrale de  sur une zone quelconque du plan , si les variations ,  disparaissent aux limites de la zone, est égale à l'intégrale de la différentielle
+
+				
+
+				
+
+   Si, selon le § 1, on considère non seulement l'effet de champ mais aussi l'effet de substance de l'électricité, le principe général d'action par variation de  donne d'abord :
+
+(17)		
+
+Pour déterminer le champ gravitationnel, cependant, nous obtenons l'équation
+
+(18)					
+
+en fixant .
+
+   À partir de là, nous retrouvons d'abord  ; cela rend possible l'introduction des coordonnées canoniques, et dans ce sens nous fixons à nouveau . L'équation (17) est maintenant : 
+
+(19)			
+
+   La constante additive arbitraire, qui apparaît dans , est choisie, comme d'habitude, pour que  disparaisse à l'infini.
+
+   La comparaison des coefficients de  dans (18) donne l'eq. (13) du paragraphe précédent avec la modification suivante : à droite de l'élément de masse  est ajouté l'élément supplémentaire , qui est dérivé de l'énergie électrique qui a également un effet gravitationnel ; ainsi :
+
+(20)		
+
+   L'équation (14) du § 5 peut être repris tel quel. Nous formons l'expression  ; sur la base des équations
+
+			
+
+et de la loi fondamentale électrostatique (19), elle a la valeur 
+
+					
+
+Si nous introduisons donc 
+
+			
+
+nous pouvons remplacer la formule (20) par 
+
+(21)			
+
+   Si la masse et la charge ne se trouvent que sur un seul anneau élémentaire, qui a un rayon  et une section transversale  dans le système de coordonnées canonique, et que nous fixons
+
+			
+
+il résulte des équations (19), (21) que nécessairement 
+
+					
+   Avec un choix approprié de l'unité de mesure du temps, celui qui se produit ici devient , et nous avons 
+
+				 
+
+ou avec l'introduction du système CGS,
+
+				
+
+   Si nous insérons cette valeur dans (19), nous obtenons la loi de potentiel linéaire de l'électrostatique ordinaire pour 
+
+(22)					
+
+   Si l'on détermine à partir de cette intégrale en fonction de la position dans le demi-plan méridien et de celle-ci  et  — nous allons effectuer le calcul tout à l'heure — on reconnaît que  est la masse gravitationnelle contenue dans l'anneau,  la charge contenue dans celui-ci. Par conséquent,  et  sont des densités de masse et de charge dans le système de coordonnées canonique ; il est particulièrement remarquable que ce ne soit pas  mais  qui apparaisse comme densité de masse.
+
+   Plus généralement, le problème peut être résolu de cette manière si l'on suppose que la masse et la charge sont distribuées arbitrairement mais de la même manière, c'est-à-dire que le rapport  est une constante indépendante du lieu. L'intégrale de volume euclidienne de  dans l'espace des coordonnées canoniques, la masse totale, est désignée par , l'intégrale de même forme de , la charge totale, par . Ce rapport constant sera alors égal à . (22) est aussi maintenant le potentiel électrostatique ordinaire de la distribution de charges  dans l'espace canonique, déterminé sans tenir compte de la gravité. Nous introduisons (cf. § 4, dernier paragraphe) les rayons gravitationnels  de la masse  (concentrée sur un point) et de la charge  et, en privilégiant le cas , nous fixons :
+
+					
+
+Si nous calculons l'intégrale (22), nous arrivons au résultat suivant :
+
+   Si la distribution des charges (à laquelle, selon la condition préalable, la distribution des masses est proportionnelle) est connue dans le système de coordonnées canonique et que  est son potentiel « élémentaire », c'est-à-dire déterminé sans tenir compte de la gravité selon la théorie élémentaire, multiplié par le facteur constant
+
+						
+
+alors nous avons exactement 
+
+(23)			 
+
+Dans le cas de l'anneau, 
+
+					 
+
+en particulier, où  signifie la « distance » du point récepteur  par rapport à l'anneau. Pour un grand , cela donne pour  la formule asymptotique 
+
+						 
+
+ce qui montre que  est bien la masse gravitationnelle, comme affirmé ci-dessus.
+
+   Sous les présentes hypothèses, il reste à calculer le second coefficient  de l'élément de ligne canonique. L’équation (14) du § 5, est à notre disposition à cet effet. Si on le traite de la même manière que là-bas, on obtient d'abord 
+
+				 
+
+pour .
+
+   Si l'on passe au système CGS — le facteur  du côté droit est alors à remplacer par  — et que l'on utilise les expressions (23), cette équation de détermination pour  prend la forme simple de 
+
+(24)						
+
+   Si nous abandonnons la condition préalable de la proportionnalité de la charge et de la masse, la solution ne peut plus être déterminée de manière aussi simple. Or, pour l'électron et le noyau atomique, les rapports numériques sont tels que  est très petit, de l'ordre de  et  respectivement.
+
+   Dans ces conditions, l'effet de masse peut donc être complètement négligé à côté de celui de la charge. Si nous spécialisons nos formules de cette manière, c'est-à-dire en fixant , nous arrivons au théorème :
+
+   Si la distribution (à symétrie de révolution) des charges au repos, à côté desquelles l'action de masse peut être négligée, est connue dans le système de coordonnées canonique et que  est leur potentiel élémentaire multiplié par , alors nous avons
+
+				
+
+en tenant compte de la gravité.
+
+   L'apparition des fonctions trigonométriques, qui sont si étroitement liées aux nombres entiers en raison de leur périodicité, a quelque chose de surprenant ; dans les zones où  atteint des valeurs comparables à 1, le principe de superposition ne s'applique plus, mais les potentiels des forces agissantes sont des fonctions trigonométriques de la grandeur qui satisfait à ce principe. Dans le cas de charges suffisamment concentrées, il peut arriver qu'une surface  les englobant se produise, sur laquelle  atteint la valeur  et donc  et  deviennent infinis. Puisque  reste fini sur cette « surface limite du monde extérieur » selon (24), l'élément linéaire spatial  devient sur elle ; mesuré au moyen de l'élément linéaire invariant,  s'avère donc être sans expansion. Pour la compréhension des processus dans l'atome, notre résultat peut difficilement être rendu utile ; car les déviations du champ de la charge électronique  par rapport à celui déterminé par la théorie classique sans gravitation ne sont perceptibles qu'à des distances de l'ordre de  cm !
+
+   La charge ponctuelle à symétrie sphérique apparaît dans le système de coordonnées canonique comme un disque circulaire de rayon , sur lequel l'électricité est distribuée comme elle l'est selon l'électrostatique élémentaire sur une plaque métallique chargée.
+
+(Reçu le 8 août 1917.)

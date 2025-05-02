@@ -1,0 +1,2997 @@
+Draft version November 17, 2023
+Typeset using LATEX twocolumn style in AASTeX63
+
+First Sagittarius A* Event Horizon Telescope Results. I. The Shadow of the Supermassive Black Hole
+
+in the Center of the Milky Way
+
+The Event Horizon Telescope Collaboration
+
+3
+2
+0
+2
+
+ 
+
+v
+o
+N
+6
+1
+
+ 
+
+.
+
+ 
+ 
+]
+E
+H
+h
+p
+-
+o
+r
+t
+s
+a
+[
+ 
+ 
+
+2
+v
+0
+8
+6
+8
+0
+
+.
+
+1
+1
+3
+2
+:
+v
+i
+X
+r
+a
+
+ABSTRACT
+
+We present the first Event Horizon Telescope (EHT) observations of Sagittarius A* (Sgr A∗), the
+Galactic center source associated with a supermassive black hole. These observations were conducted
+in 2017 using a global interferometric array of eight telescopes operating at a wavelength of λ = 1.3 mm.
+The EHT data resolve a compact emission region with intrahour variability. A variety of imaging and
+modeling analyses all support an image that is dominated by a bright, thick ring with a diameter of
+51.8 ± 2.3 µas (68% credible interval). The ring has modest azimuthal brightness asymmetry and a
+comparatively dim interior. Using a large suite of numerical simulations, we demonstrate that the
+EHT images of Sgr A∗ are consistent with the expected appearance of a Kerr black hole with mass
+∼4 × 106 M⊙, which is inferred to exist at this location based on previous infrared observations of
+individual stellar orbits as well as maser proper motion studies. Our model comparisons disfavor
+scenarios where the black hole is viewed at high inclination (i > 50◦), as well as non-spinning black
+holes and those with retrograde accretion disks. Our results provide direct evidence for the presence
+of a supermassive black hole at the center of the Milky Way galaxy, and for the first time we connect
+the predictions from dynamical measurements of stellar orbits on scales of 103 − 105 gravitational radii
+to event horizon-scale images and variability. Furthermore, a comparison with the EHT results for the
+supermassive black hole M87∗ shows consistency with the predictions of general relativity spanning
+over three orders of magnitude in central mass.
+
+Keywords: galaxies: individual: Sgr A∗– Galaxy: center – black hole physics – techniques: high angular
+
+resolution – techniques: interferometric
+
+1. INTRODUCTION
+
+Black holes are among the boldest and most profound
+predictions of Einstein’s theory of General Relativity
+(GR; Einstein 1915). Originally studied as a mathemati-
+cal consequence of GR rather than as physically relevant
+objects (Schwarzschild 1916), they are now believed to
+be generic and sometimes inevitable outcomes of gravi-
+tational collapse (Oppenheimer & Snyder 1939; Penrose
+1965). In GR, the spacetime around astrophysical black
+holes is predicted to be uniquely described by the Kerr
+metric, which is entirely specified by the black hole’s
+mass and angular momentum or “spin” (Kerr 1963).
+
+The first empirical evidence for their existence was
+through stellar-mass black holes, beginning with obser-
+vations of X-ray binary orbits (Bolton 1972; Webster &
+Murdin 1972; McClintock & Remillard 1986) and cul-
+minating in the detection of gravitational waves from
+merging stellar-mass black holes (Abbott et al. 2016).
+In parallel, the discovery that quasars are not stellar in
+nature but are rather extremely luminous, compact ob-
+jects located in the centers of distant galaxies (Schmidt
+1963) led to an intensive effort to identify and measure
+the supermassive black holes (SMBHs) energetically fa-
+
+vored to power them (Lynden-Bell 1969). Observations
+now suggest that SMBHs not only lie at the center of
+nearly every galaxy (Richstone et al. 1998) but also may
+play a role in their evolution (see, e.g., Magorrian et al.
+1998; Fabian 2012; Kormendy & Ho 2013), though how
+exactly the ebbs and flows of black hole activity and
+growth proceed is a major outstanding question in the
+field.
+
+With the advent of the Event Horizon Telescope
+(EHT), SMBHs can now be studied with direct imag-
+ing (Event Horizon Telescope Collaboration et al.
+2019a,b,c,d,e,f, 2021a,b, hereafter M87∗ Paper I-VIII).
+The combination of an event horizon and strong lensing
+near black holes is predicted to produce distinctive grav-
+itational signatures in their images (e.g., Hilbert 1917;
+Bardeen 1973; Luminet 1979; Jaroszynski & Kurpiewski
+1997; Falcke et al. 2000). In particular, simulated im-
+ages of black holes typically have a central brightness
+depression encircled by a bright emission ring. The ring
+usually lies near the gravitationally lensed photon orbits
+that define the boundary of what we hereafter refer to
+as the black hole “shadow.” The shadow has an angular
+diameter dsh ≈ 10GM/(c2D) ≡ 10θg, where G is the
+
+2
+
+The EHT Collaboration et al.
+
+gravitational constant, c is the speed of light, M is the
+black hole mass, and D is the black hole distance.
+
+From the first realization that SMBHs could power
+bright radio cores in many galactic nuclei (Lynden-Bell
+1969, and references therein), the search has been on
+to identify them. Within our own galaxy, the compact
+source Sgr A∗ has been intensely studied as a candi-
+date SMBH since its discovery as a bright source of
+radio emission located near the Galactic Center (Bal-
+ick & Brown 1974; Ekers et al. 1975; Lo et al. 1975).
+Decades of monitoring its proper motion, as well as of
+motions of individual stars in orbit around it, have re-
+vealed Sgr A∗ to be an extremely dense concentration
+of mass (M ≈ 4 × 106M⊙) that is located at and nearly
+motionless with respect to the dynamical center of the
+Galaxy (D ≈ 8 kpc), providing strong evidence that it
+is the nuclear SMBH in our Galaxy (e.g., Gravity Col-
+laboration et al. 2019; Do et al. 2019; Reid & Brun-
+thaler 2020). As the nearest supermassive black hole,
+Sgr A∗ provides a unique opportunity to directly image
+such an object, together with its accretion system, in the
+most common, quiescent state of SMBHs across the Uni-
+verse. It also provides the chance to elucidate some of
+the drivers of observed cycles in accretion power and jet
+launching, via comparison with the more “active” galac-
+tic nucleus M87∗.
+In this paper, we present the first EHT observations
+of Sgr A∗ and put them into context with our previ-
+ous results on M87∗.
+In section 2, we describe what
+was previously known about the physical properties of
+Sgr A∗ and compare them to M87∗. We then summarize
+our Sgr A∗ observations with the EHT and other obser-
+vatories in section 3 and discuss its variability in sec-
+tion 4. In section 5, we present the first EHT images of
+Sgr A∗ and analyze its event-horizon-scale structure. In
+section 6, we discuss the astrophysical interpretation of
+these results using an extensive suite of general relativis-
+tic magnetohydrodynamic (GRMHD) simulations, and
+in section 7 we present the constraints that these results
+give for GR and black hole alternatives. We provide the
+overall conclusions and outlook in section 8. The five
+companion papers of this series provide a more com-
+prehensive discussion of all these topics (Event Horizon
+Telescope Collaboration et al. 2022a,b,c,d,e, hereafter
+Papers II-VI).
+
+2. SGR A* AND M87*
+
+Decades of observations have provided a picture of our
+local SMBH that is unmatched in any other galaxy (for
+details about the full spectrum, see Paper II). Sgr A∗
+has been detected from long radio wavelengths (∼1 m)
+to the hard X-ray band, excepting approximately 1 µm
+to 1 nm due to extinction from dust in the galactic plane.
+Sgr A∗ is remarkable for its feeble emission, producing a
+bolometric luminosity of <∼1036 erg/s, only ∼100 times
+that of the Sun. Were it located in another galaxy, it
+would likely go undetected. Nevertheless, by observ-
+
+ing its spectrum and variability, its environment, and
+its influence on surrounding bodies, a great deal has
+been learned about this source specifically, and about
+the astrophysical processes that operate around super-
+massive black holes.
+In this section we describe how
+we assembled our current knowledge of Sgr A∗, discuss
+important theoretical uncertainties about its accretion
+and outflows, and compare it with the other horizon-
+scale EHT target, M87∗.
+
+2.1. Properties of Sgr A*
+
+The proximity of Sgr A∗ permits precise measure-
+ments of its gravitating mass via the monitoring of re-
+solved individual stellar orbits. High-resolution infrared
+(IR) observations, using increasingly sophisticated in-
+strumentation and analyses, have traced out the three
+dimensional orbits of several stars within the innermost
+arcsecond around Sgr A∗ (Schödel et al. 2002; Ghez et al.
+2003, 2008; Gillessen et al. 2009; Gravity Collaboration
+et al. 2018a; Do et al. 2019; Gravity Collaboration et al.
+2019). These orbits jointly determine the mass and dis-
+tance to Sgr A∗ to high precision, particularly the ratio
+M/D that determines the angular size of the black hole
+on the sky. As discussed in Paper II and Paper VI,
+the current values for the mass and distance suggest
+an angular shadow diameter close to 50 µas, compa-
+rable to that of M87∗. The closest orbital periapses
+confine the mass to within ∼1,000 Schwarzschild radii
+(RS = 2GM/c2).
+Radio observations of Sgr A∗ have provided a signif-
+icant motivation for the development of the EHT ex-
+periment. Sgr A∗ shows a flat/inverted radio spectrum,
+which often arises from compact jet emission (Blandford
+& Königl 1979) in other low-luminosity active galactic
+nuclei (LLAGN; Ho 1999; Nagar et al. 2000). Such a
+spectrum can, however, result from any stratified, self-
+absorbed synchrotron source, where successively higher
+frequencies are produced at increasingly smaller scales,
+even without a jet (e.g., Narayan et al. 1995). Sgr A∗
+shows an excess of millimeter emission above the flat
+centimeter-wave spectrum, the so-called “submillimeter
+bump,” that was inferred to indicate the presence of a
+very compact emitting region at these wavelengths (e.g.,
+Zylka et al. 1992; Falcke et al. 1998).
+To clarify the nature of this source, the structure of
+Sgr A∗ was investigated using very-long-baseline inter-
+ferometry (VLBI) at progressively shorter wavelengths
+(see Paper II, and references therein). For wavelengths
+longer than several cm, the observed source size is en-
+tirely determined by scatter-broadening in the ionized
+interstellar medium, scaling with a wavelength depen-
+dence of λ2. At wavelengths of 7 mm and shorter, the
+imprint of the intrinsic structure of Sgr A∗ became dis-
+cernible through the scattering (e.g., Rogers et al. 1994;
+Lo et al. 1998; Doeleman et al. 2001; Bower et al. 2004;
+Shen et al. 2005; Bower et al. 2006). The source grows
+more compact at shorter wavelengths, as expected (e.g.,
+
+The Shadow of the Supermassive Black Hole in the Center of the Milky Way
+
+3
+
+Özel et al. 2000), though it does not present a clear jet
+structure. For wavelengths as short as ∼1 mm, Sgr A∗
+is only slightly blurred by scattering, and Falcke et al.
+(2000) predicted that submillimeter VLBI could directly
+image a brightness depression within this region related
+to the black hole shadow.
+
+In parallel with these developments and motivated by
+the goal to study black holes, the capabilities of mm-
+VLBI improved rapidly. At 1.4 mm, Padin et al. (1990)
+reported the first VLBI fringes and Krichbaum et al.
+(1998) obtained the first VLBI detections and associ-
+ated source size measurements for Sgr A∗, each using a
+2-element interferometer. Doeleman et al. (2008) ob-
+served Sgr A∗ at 1.3 mm with a 3-element VLBI ar-
+ray and reported the discovery of an intrinsic source
+size comparable to the expected angular diameter of the
+black hole shadow. These observations provided impor-
+tant constraints for theoretical models (e.g., Broderick
+et al. 2009; Dexter et al. 2009; Mościbrodzka et al. 2009)
+and strongly suggested that 1.3 mm VLBI has a clear
+view into the innermost region around the Sgr A∗ black
+hole. Subsequent VLBI studies of Sgr A∗ at 1.3 mm
+with progressively enhanced arrays revealed the com-
+pact emission to be variable and significantly polarized,
+with measured “closure phases” that are indicative of
+persistent asymmetry in the image structure (Fish et al.
+2011; Johnson et al. 2015; Lu et al. 2018).
+Observations of Sgr A∗ outside the radio band were
+important for completing the picture of this source as
+an LLAGN. When X-ray and gamma-ray instruments
+ROSAT and Sigma/GRANAT (Predehl & Truemper
+1994; Goldwurm et al. 1994) could not identify a bright
+central source, it became clear that Sgr A∗ must ei-
+ther be obscured or anomalously faint compared to
+other known LLAGN. The first identification of Sgr A∗
+as a compact and variable source in the X-rays was
+achieved with the Chandra X-ray Observatory (Chan-
+dra) (Baganoff et al. 2001, 2003). This detection, to-
+gether with the ∼4×106 M⊙ mass of Sgr A∗ determined
+from stellar orbits, sets a maximum luminosity scale for
+the source, the so-called Eddington luminosity,1 and the
+X-ray measurements confirmed that Sgr A∗ is approxi-
+mately 9 orders magnitude less luminous than its LEdd
+— the lowest Eddington ratio (L/LEdd) observed for any
+black hole.
+This particularly faint high-energy emission stimu-
+lated a lively debate regarding the nature of Sgr A∗’s
+accretion/outflow properties, and motivated new theo-
+retical developments.
+If the emission primarily origi-
+nates in the accretion inflow, either it must be excep-
+tionally radiatively inefficient (Narayan et al. 1995), or
+
+1 The Eddington luminosity is an idealized estimate of the
+LEdd ≡
+maximum power
+4πGM cmp/σT ≈ 1038 (M/M⊙) erg/s, where σT is the Thom-
+son cross section and mp is the mass of a proton.
+
+for an accreting black hole:
+
+the accretion rate onto the black hole must be very
+small compared to what is captured, or possibly some
+combination of the two (Blandford & Begelman 1999;
+Narayan et al. 2000; Quataert & Gruzinov 2000a; Yuan
+& Narayan 2014). Alternately the emission could be
+dominated by an outflow, in which case a small accre-
+tion rate would also be favored (Falcke et al. 1993), even
+during flares (Markoff et al. 2001). Fortunately, the
+proximity of Sgr A∗ enables unparalleled study of the
+accretion flow. Observations with Chandra marginally
+resolve thermal bremsstrahlung emission from near the
+gas capture radius, leading to an estimate of the cap-
+tured accretion rate of ∼10−6 − 10−5M⊙/yr at ∼105RS
+(Quataert 2002; Baganoff et al. 2003). The source of this
+gas can be connected to the observable stellar winds of
+∼30 individual massive stars found in the inner parsec
+(Coker et al. 1999; Russell et al. 2017; Ressler et al.
+2020). The near-horizon accretion rate has also been
+estimated to be 10−9 − 10−7 M⊙/yr through measure-
+ments of the Faraday rotation of polarized millimeter
+emission from Sgr A∗ (Bower et al. 2003; Marrone et al.
+2006, 2007). This Faraday rotation is orders of magni-
+tude smaller than would be expected if the accretion rate
+at the gas capture radius persisted to small radii (Bower
+et al. 1999; Agol 2000; Quataert & Gruzinov 2000b; Mar-
+rone et al. 2006). This conclusion is further supported by
+radially resolved X-ray spectroscopy (Wang et al. 2013)
+suggesting that only ∼1% of the captured mass makes
+it to the SMBH. Taken together, the low luminosity, low
+radiative efficiency, and weak Faraday rotation are con-
+sistent with a weakly bound, magnetized accretion flow
+so diffuse that the electron and ion temperatures are
+unable to remain strongly coupled.
+Finally, Sgr A∗ exhibits flaring emission at most wave-
+lengths, including continuous variability at millimeter
+wavelengths.
+In particular, approximately daily flares
+are observed at X-ray and NIR wavelengths that are of-
+ten (but not always) simultaneous (e.g., Eckart et al.
+2004) and that change on timescales as short as min-
+utes (e.g. Baganoff et al. 2001; Genzel et al. 2003).
+These timescales suggest an origin from within ∼5RS
+of the SMBH, which is consistent with astrometry of
+NIR flares using the GRAVITY instrument on the Very
+Large Telescope Interferometer (Gravity Collaboration
+et al. 2018b).
+
+2.2. Comparison to M87∗
+
+M87∗ and Sgr A∗ have the largest angular sizes of
+any known SMBHs, making them the primary EHT tar-
+gets. However, they differ in several important ways.
+First, they have substantially different luminosities and
+accretion rates, both in absolute terms and when scaled
+by mass. M87∗, roughly 1500× more massive (M =
+(6.5 ± 0.7) × 109 M⊙; M87∗ Paper I), has an inferred
+˙M ∼ 10−3 M⊙/yr and a bolometric lu-
+accretion rate of
+minosity of Lbol ≈ 1042 erg/s measured in 2017 (EHT
+MWL Science Working Group et al. 2021). Estimates
+
+4
+
+The EHT Collaboration et al.
+
+Figure 1. The 2017 EHT array as seen from Sgr A∗. The array included eight observatories at six locations: the ALMA
+and the APEX on the Llano de Chajnantor in Chile, the LMT on Volcán Sierra Negra in Mexico, the JCMT and SMA on
+Maunakea in Hawai’i, the Institut de Radioastronomie Millimétrique 30-m telescope (PV) on Pico Veleta in Spain, the SMT on
+Mt. Graham in Arizona, and the SPT in Antarctica.
+
+of the total kinetic power are typically ∼ 10− 100 times
+larger, thus conservatively L/LEdd ≳ 10−5 (M87∗ Pa-
+per VIII). Most likely this higher power indicates that
+M87∗ is being fed directly from a larger reservoir of gas
+rather than a trickle from stellar winds. This differ-
+ence may underlie another substantial divergence be-
+tween the sources: the prominent, powerful jet launched
+from M87∗, which can be traced at multiple wavelengths
+and across nearly eight orders of magnitude in size (EHT
+MWL Science Working Group et al. 2021). The M87∗ jet
+provides firm constraints on the source orientation with
+respect to the line of sight; thus, an inclination of ∼ 20◦
+was used for numerical simulations in M87∗ Paper V,
+while for Sgr A∗ we do not have any such constraints.
+The difference in the masses of Sgr A∗ and M87∗ im-
+plies a similar difference in their variability timescales.
+The period of the innermost stable circular orbit
+(ISCO), which depends on the mass and spin of the black
+hole, serves as an approximate dynamical timescale. For
+prograde orbits, this period ranges from 4πtg (maximal
+spin) to 12√6πtg (zero spin), where tg ≡ GM/c3. For
+M87∗, this range corresponds to 5 days to 1 month, so
+the source structure is expected to be effectively un-
+changed over the course of an observing night.
+In-
+deed, EHT images of M87∗ reconstructed on consecutive
+nights are almost identical (M87∗ Paper IV). However,
+for Sgr A∗, the range is only 4–30 min, so the source
+structure can evolve within a single night.
+
+3. EHT OBSERVATIONS AND DATA PROCESSING
+In this section we summarize the EHT observations
+and data processing for Sgr A∗. We refer the reader
+to M87∗ Paper II for a comprehensive discussion of the
+EHT instrument, M87∗ Paper III for details on the 2017
+observing campaign and data processing, and Paper II
+for additional details specific to the Sgr A∗ data pro-
+cessing.
+In 2017, the EHT observed Sgr A∗ on five nights
+between April 5 and 11 using an array with 8 partic-
+ipating observatories (see Figure 1). Weather condi-
+tions were good or excellent at all sites on all five ob-
+serving nights. The most sensitive element in the ar-
+ray, the Atacama Large Millimeter/submillimeter Array
+(ALMA), only observed Sgr A∗ on April 6, 7, and 11;
+the IRAM 30 m Telescope (PV) only observed Sgr A∗ on
+April 7. In this initial series of papers, we focus on the
+observation with the best baseline coverage: April 7. In
+addition, we utilize the April 6 observations for testing,
+validation, and selected multi-day analyses. Our multi-
+wavelength coverage indicated that there was an X-ray
+flare on April 11, accompanied by increased 1.3 mm vari-
+ability; we will consider that more complex data set in
+future work.
+
+Each site, except the JCMT and ALMA, received data
+in two circular polarizations simultaneously. The JCMT
+received a single circular polarization, and ALMA re-
+ceived orthogonal linear polarizations that are converted
+
+The Shadow of the Supermassive Black Hole in the Center of the Milky Way
+
+5
+
+Figure 2. EHT observations of Sgr A∗ on April 7. Top-Left: EHT baseline coverage, where dimensionless coordinates ⃗u = (u, v)
+give the projected baseline vector for each antenna pair in units of the observing wavelength λ. Top-Right: Calibrated visibility
+amplitudes of Sgr A∗ as a function of projected baseline length |⃗u|. Error bars show ±1σ thermal (statistical) uncertainties.
+Diamonds denote baselines to APEX and JCMT to distinguish them from baselines to their co-located observatories, ALMA
+and SMA, respectively. The visibilities have been coherently averaged in 120 second intervals. For comparison, the gray dashed
+line shows the Fourier transform of a thin ring with diameter 54 µas that has been convolved with a circular Gaussian kernel of
+FWHM 23 µas. The red line and shaded region show the root-mean-square variability and associated 68% credible interval over
+the range of baselines for which it can be accurately measured (see Paper IV), while the blue horizontal ticks at zero baseline
+length show the range of variations in the total flux density. Bottom: The full light curve of Sgr A∗ on April 7, measured using
+ALMA and the SMA as stand-alone interferometers.
+
+to a circular basis in post processing. All EHT sites
+recorded data in two frequency bands at 227.1 and
+229.1 GHz, referred to as the “low” and “high” bands,
+respectively. The total recording rate at each fully-
+outfitted station is 32 gigabits/second. The data were
+written to arrays of hard drives at each site, that were
+then brought from all sites to common locations where
+we computed the complex cross-correlation in the elec-
+tric fields measured for each pair of stations.
+
+Following the initial computation of these correla-
+tions, residual phase and bandpass errors were corrected
+with two independent processing pipelines, EHT-HOPS
+(Blackburn et al. 2019) and rPICARD (Janssen et al.
+2019). The data were then a priori calibrated using
+the system equivalent flux densities (SEFDs) for each
+
+telescope. Multiplication by the geometric mean of the
+SEFDs of the two stations on a given baseline converts
+dimensionless correlation coefficients to flux densities.
+SEFDs ranged from 60 Jy at ALMA to 5 × 104 Jy at
+low elevation at SMT. Further corrections are still re-
+quired, as some sites do not measure the SEFD continu-
+ously, and in any case the SEFD does not capture many
+amplitude corrupting effects such as pointing and fo-
+cus errors. A “network calibration” process, which uses
+redundancies in the array (e.g., co-located telescopes)
+to provide more accurate time-variable gain normaliza-
+tion for sites with co-located partners, was performed.
+Sgr A∗ presents a special case for calibration, as it varies
+significantly in time, and is surrounded by extended
+emission that corrupts the visibility amplitude for base-
+
+−7.5−5.0−2.50.02.55.07.5u(Gλ)−7.5−5.0−2.50.02.55.07.5v(Gλ)25µas50µasintrasiteChile-SMTChile-Hawai’iChile-LMTChile-PVChile-SPTSMT-Hawai’iSMT-LMTSMT-SPTHawai’i-LMTHawai’i-SPTLMT-PVLMT-SPTPV-SPT02468Baseline(Gλ)10−310−210−1100FluxDensity(Jy)56789101112131415Time(h)2.02.22.42.6FluxDensity(Jy)ALMASMA6
+
+The EHT Collaboration et al.
+
+lines within local arrays like ALMA and SMA. Wielgus
+et al. (2022) discusses the techniques used to estimate
+the time-resolved flux density of Sgr A∗ for this calibra-
+tion. For the remaining stations, gain corrections were
+computed using observations of the calibrator targets
+J1924-2914 and NRAO 530 (Paper II).
+
+Figure 2 shows the EHT baseline coverage and
+interferometric visibility amplitudes (“visibilities”) for
+Sgr A∗. The longest baselines have an interferomet-
+ric fringe spacing of 1/|⃗u| ≈ 24 µas, which defines the
+diffraction-limited angular resolution of the EHT. The
+visibility amplitudes have two deep minima, the first at
+|⃗u| ≈ 3.0 Gλ and the second at |⃗u| ≈ 6.5 Gλ. The ampli-
+tudes have a baseline dependence that is similar to that
+of an infinitesimally thin ring with a 54 µas diameter
+that has been blurred with a circular Gaussian kernel
+with 23 µas full width at half maximum (FWHM). The
+ring diameter is primarily constrained by the minima lo-
+cations, while the width is determined by the amplitude
+of the secondary visibility peak between the minima.
+For instance, to be consistent with both a first mini-
+mum falling between 2.5−3.5 Gλ and a second minimum
+falling between 6 − 7 Gλ, the ring must have a diameter
+of ∼50 − 60 µas.
+However, the EHT data show evidence for complex
+and asymmetric source structure beyond a simple ring
+model, including a strong dependence on visibility am-
+plitudes with the baseline position angle (especially near
+the first visibility minimum) and in the closure phases
+measured on triangles of EHT baselines, which differ
+significantly from 0◦ and 180◦. The EHT visibility am-
+plitudes also show indications of residual calibration er-
+rors. To assess and quantify the source morphology of
+Sgr A∗ more generally, we applied a variety of imaging
+and modeling methods using both the interferometric
+visibility amplitude and phase information (section 5).
+These methods included a variety of approaches to ac-
+count for residual calibration errors, including iterative
+self-calibration, simultaneous fitting of a model and the
+residual station gains, and analyses that used only clo-
+sure quantities.
+
+4. HORIZON-SCALE VARIABILITY IN SGR A*
+To characterize the spectrum and variability of Sgr A∗,
+the EHT observing campaign was supported by paral-
+lel observations at several other observatories. Longer-
+wavelength VLBI observations, where interstellar scat-
+tering prevents direct observation of structural changes,
+were arranged to occur within a few days of the EHT
+campaign. IR and X-ray observations were arranged to
+be as simultaneous as possible with the EHT tracks on
+several days, and they resulted in one confirmed X-ray
+flare on April 11.
+
+For the observations of April 6 and 7, when no strong
+flares were observed in the parallel observations, we must
+evaluate whether Sgr A∗ has structural variations within
+our observation periods. The simplest evidence for vari-
+
+ability at λ = 1.3 mm comes from analysis of the total
+flux density (the “light curve”), which is measured dur-
+ing EHT observations using the ALMA and SMA con-
+nected element arrays. As discussed in Wielgus et al.
+(2022), the fractional variability across all days is ap-
+proximately 9%, with variations of 4 − 13% seen within
+individual nights (see, e.g., Figure 2). This variability
+is an order of magnitude stronger than is expected from
+interstellar scintillation. Thus, the light curves provide
+evidence for intrinsic image variability in Sgr A∗.
+
+Each EHT baseline provides information about the
+detailed structure of this variability on an angular scale
+determined by the baseline length. On several trian-
+gles, EHT closure phases show slightly more variation
+than is expected from their thermal noise, the chang-
+ing of projected baselines (from the source view) with
+Earth rotation, and interstellar scintillation (Paper II).
+Comparison of interferometric visibility amplitudes for
+nearby baselines also reveals variability that significantly
+exceeds what is expected from thermal noise, calibration
+uncertainties, and baseline evolution (Paper IV).
+
+To quantify the variability, we developed a simple
+parametric model for the spatio-temporal power spec-
+trum for the variability of Sgr A∗ (Georgiev et al. 2022).
+This model represents the variance in the visibility am-
+plitude as a function of the radial distance in the (u, v)-
+plane, taking the form of a broken power law, as moti-
+vated by studies of GRMHD simulations. The source-
+integrated light curve is divided out in order to isolate
+structural variation from overall changes in flux density.
+The variability power spectrum was also empirically es-
+timated by analyzing variations in visibility amplitudes
+on nearby baselines (Broderick et al. 2022). This com-
+parison included the same baselines sampled on differ-
+ent days, as well as nearby or crossing baseline tracks
+(e.g., SPT-LMT and SPT-SMA sample nearly identi-
+cal baselines, but at different times). This analysis re-
+vealed that the fractional variability can be order unity
+for EHT baselines located near the two deep visibility
+minima (Figure 2), even after normalizing the data to
+remove light curve fluctuations, and that it significantly
+exceeds the variability expected from interstellar scintil-
+lation (Paper IV).
+
+5. HORIZON-SCALE STRUCTURE IN SGR A*
+Each interferometric visibility samples a single com-
+plex Fourier component of the image on the sky (e.g.,
+Thompson et al. 2017).
+Interferometric imaging algo-
+rithms seek to produce images from this sparse Fourier-
+domain information that are consistent with the data
+and physically plausible. Techniques such as the clas-
+sical CLEAN algorithm and regularized maximum like-
+lihood (RML) methods successfully produced EHT im-
+ages of M87∗, with remarkable agreement among meth-
+ods (M87∗ Paper IV). The EHT baseline coverage for
+Sgr A∗ is substantially better than for M87∗, primar-
+ily because of the additional telescope (SPT) with mu-
+
+The Shadow of the Supermassive Black Hole in the Center of the Milky Way
+
+7
+
+Specifically, VLBI imaging typically relies on Earth-
+rotation aperture synthesis, in which the projection of
+each baseline sweeps out an arc in the (u, v)-plane as the
+Earth rotates, allowing a sparse array of telescopes to
+obtain the (u, v)-coverage necessary for the imaging of a
+static source (Thompson et al. 2017). To account for the
+source structural variability, we used a parametric model
+discussed in section 4. By incorporating this variability
+error budget, imaging and modeling methods designed
+for a static source can be applied to analyze data from
+a variable source.
+
+To account for the interstellar scattering, we used two
+approaches (Paper III). The first, “on-sky imaging,” ap-
+plies no modifications to the data or images.
+In this
+approach, the algorithms simply reconstruct the scat-
+tered image of the source. The second, “descattered
+imaging,” adds an error budget to interferometric vis-
+ibilities to account for stochastic scattering substruc-
+ture before deconvolving the ensemble-average scatter-
+ing kernel. Both the ensemble-average kernel and the
+power spectrum of scattering are used (Psaltis et al.
+2018), each of which is precisely known from an anal-
+ysis combining of decades of observations of Sgr A∗ at
+centimeter wavelengths (Johnson et al. 2018).
+
+To test these imaging techniques and to select appro-
+priate imaging parameters, we developed a suite of syn-
+thetic observations of seven geometric models that share
+the scattering and variability properties of Sgr A∗. This
+suite included models with widely varying morphologies:
+rings, disks, a crescent, a double source, and a point-
+like source with an extended halo. Each model was se-
+lected to produce visibility amplitudes that were similar
+to those of Sgr A∗, with two deep visibility minima, a
+physical scattering model applied, and stochastic tem-
+poral evolution generated by a statistical model (Lee &
+Gammie 2021).
+
+We then selected the sets of imaging parameters that
+accurately reconstruct images across the entire test
+suite, including both ring and non-ring data sets. These
+“top set” parameter choices yield a corresponding col-
+lection of reconstructed images of Sgr A∗ that provide
+both a representative average image and a measure of
+its uncertainty.
+In addition, we used a new Bayesian
+imaging method, which simultaneously estimates both
+the reconstructed image and its associated variability
+noise model (Broderick et al. 2020). This method does
+not require training on synthetic data, although we used
+the same test suite for comparison and validation of this
+method.
+When applied to the Sgr A∗ data, over 95% of the top
+set images have a prominent ring morphology. For an
+analysis using the combination of April 6 and 7 data,
+all samples from the Bayesian imaging posterior show
+a ring morphology. In addition, geometric modeling of
+the EHT data shows a consistent statistical preference
+for ring morphologies over alternatives with compara-
+ble complexity. The ring has a diameter, width, and
+
+Figure 3. Representative EHT image of Sgr A∗ from ob-
+servations on 2017 April 7. This image is an average over
+different reconstruction methodologies (CLEAN, RML, and
+Bayesian) and reconstructed morphologies. Color denotes
+the specific intensity, shown in units of brightness temper-
+ature. The inset circle shows the restoring beam used for
+CLEAN image reconstructions (20 µas FWHM). The bot-
+tom panels show average images within subsets with similar
+morphologies, with their prevalence indicated by the inset
+bars. The multiplicity of image modes reflects uncertainty
+due to the sparse baseline coverage; it does not correspond to
+different snapshots of the variable source. Nearly all recon-
+structed images show a prominent ring morphology. While
+the diameter and thickness of the ring are generally consis-
+tent across the reconstructions, the azimuthal structure of
+the ring is poorly constrained.
+
+tual visibility of the source. Moreover, at λ = 1.3 mm,
+Sgr A∗ has a compact flux density that is approximately
+four times larger than that of M87∗, with no apprecia-
+ble contribution to the short-baseline visibilities from an
+extended jet. However, producing an image of Sgr A∗
+requires additional assumptions because of the rapid
+source variability and interstellar scattering.
+
+SgrA*April7,201750µas≈10θg02468101214BrightnessTemperature(109K)8
+
+The EHT Collaboration et al.
+
+central brightness depression that are consistent across
+the different choices of imaging methods and param-
+eters (see Paper III). However, the reconstructed im-
+ages show diversity in their specific attributes, partic-
+ularly the azimuthal intensity distribution around the
+ring. This uncertainty is a consequence of the limited
+EHT baseline coverage, compounded by the challenges
+of imaging a variable source. We categorized the recon-
+structed images into four clusters spanning the primary
+reconstructed structures: three clusters are ring modes
+with varying position angle, while the fourth is a com-
+paratively small set of reconstructed images with diverse
+non-ring morphologies. Figure 3 shows a representative
+average image of Sgr A∗ on April 7, as well as the av-
+erage image for each of these clusters along with their
+relative occurrence frequency.
+
+To quantify the ring parameters in a complementary
+way, we used several geometrical modeling methods,
+the parametrization of which were guided by the recon-
+structed images of Sgr A∗. These models are defined
+by a thick ring with azimuthal variations determined by
+low-order Fourier coefficients and an additional Gaus-
+sian brightness floor. Because these simple geometric
+models have a small number of parameters, they can
+be constrained using instantaneous snapshots of data.
+Hence, we used two modeling approaches. With “snap-
+shot” modeling, we aggregate a series of independent
+fits to two-minute data segments. This approach does
+not require a variability model. With “full-track” mod-
+eling, we fit both a static geometric source model and
+a variability noise model simultaneously to the entire
+12-hour observation. Table 1 summarizes the consen-
+sus ring parameters measured using these methods (for
+detailed results from individual methods, see Paper IV).
+In Paper III, we also used dynamic imaging and snap-
+shot ring modeling to analyze the intraday image vari-
+ability in Sgr A∗. We applied these analysis methods
+to the 100-minute intervals on April 6 and 7 with the
+best sampling (Farah et al. 2022), adopting a strong ring
+prior to counteract the limited baseline coverage. On
+April 6, most dynamic imaging and modeling methods
+recover a nearly static image, while many reconstruc-
+tions on April 7 find an evolving image. However, the
+results on April 7 are strongly affected by the underlying
+prior assumptions; different parameters in the dynamic
+imaging method result in different modes of position
+angle evolution in the reconstructed images, including
+some reconstructions that are nearly static. Thus, while
+the EHT data show detectable signs of image variabil-
+ity, we cannot reliably constrain the underlying image
+evolution.
+
+6. IMPLICATIONS FOR ACCRETION AND
+
+OUTFLOW PHYSICS
+
+What can we learn from these images and their vari-
+ability properties? Focusing first on the astrophysics
+of the accretion process and jet launching, we can ex-
+
+Table 1. Measured Parameters of Sgr A∗
+
+Parameter
+
+EHT Estimate
+
+Emission ring:a
+Diameter, d
+Fractional width, W/d
+Orientation, η
+Brightness asymmetry, A
+
+Angular gravitational radius,a θg
+Black hole mass,b M
+Angular shadow diameter,c dsh
+
+Schwarzschild shadow deviation,c δ
+
+Parameter
+
+Angular gravitational radius, θg:
+
+Stellar orbits (VLTI)d
+Stellar orbits (Keck)e
+Black hole distance, D:
+Stellar orbits (VLTI)d
+Stellar orbits (Keck)e
+Masers (cm VLBI)f
+Black hole mass, M:
+
+Stellar orbits (VLTI)d
+Stellar orbits (Keck)e
+
+51.8 ± 2.3 µas
+∼ 30 − 50%
+
+—
+
+∼ 0.04 − 0.3
+4.8+1.4−0.7 µas
+
+4.0+1.1−0.6 × 106 M⊙
+48.7 ± 7.0 µas
+
+−0.08+0.09−0.09 (VLTI)
+−0.04+0.09−0.10 (Keck)
+Previous Estimate
+
+5.125 ± 0.009 ± 0.020 µas
+4.92 ± 0.03 ± 0.01 µas
+
+8277 ± 9 ± 33 pc
+7935 ± 50 ± 32 pc
+
+8150 ± 150 pc
+
+(4.297 ± 0.013) × 106M⊙
+(3.951 ± 0.047) × 106M⊙
+
+a The orientation and magnitude of the ring’s brightness asym-
+metry is poorly constrained;
+it varies significantly among the
+reconstructed image modes and among different modeling and
+imaging methods. For details, see Paper IV.
+b To translate our estimate of θg into an estimated mass of
+Sgr A∗, we use the distance to Sgr A∗ estimated using trigono-
+metric VLBI parallaxes and proper motions of molecular masers
+in spiral arms of the Milky Way (Reid et al. 2019). For details,
+see Paper IV.
+c Estimates of dsh are determined solely from EHT data, but
+estimates of δ use priors for θg from resolved stellar orbits as
+indicated. For details, see Paper VI.
+d Gravity Collaboration et al. (2022)
+e Do et al. (2019)
+f Reid et al. (2019)
+Notes. Stated uncertainties correspond to 68% credi-
+ble intervals.
+
+plore which physical scenarios are most consistent with
+our results, under the assumption that Sgr A* is a Kerr
+black hole with mass and distance accurately determined
+from stellar orbits. Our constraints on the properties of
+the black hole and potential deviations from GR are ex-
+plored in Section 7.
+We assume that the accretion structure around Sgr A∗
+is approximately governed by ideal GRMHD, as was
+
+The Shadow of the Supermassive Black Hole in the Center of the Milky Way
+
+9
+
+done for M87∗, which is common in the literature
+for modeling SMBHs (see, e.g., Gammie et al. 2003).
+Decades of observations and semi-analytical modeling
+(see Paper V for details, references, and caveats) con-
+strain the average plasma properties close to the event
+horizon of Sgr A∗, allowing us to make several additional
+simplifying approximations. In particular, for Sgr A∗ we
+can assume that radiative cooling does not strongly af-
+fect the dynamics, and that the electrons and ions are
+weakly coupled by Coulomb collisions, so that ions and
+electrons can have distinct temperatures in some parts
+of the flow.
+
+Because we model the plasma as a fluid with a single
+temperature, one of our main sources of uncertainty is
+the treatment of the electrons, whose presence is not ex-
+plicitly accounted for in the simulation evolution equa-
+tions. We explore several parameterized models to as-
+sign the electron distribution function (eDF), assum-
+ing that the electron temperature is proportional to
+the proton temperature, with a proportionality that de-
+pends on the gas-to-magnetic pressure ratio (Chan et al.
+2015). The eDFs include thermal and variations of non-
+thermal, the latter of which were not explored in the
+M87∗ 2017 papers. Our fiducial thermal models employ
+the same eDF prescription as for the M87∗ papers, using
+only one free parameter, Rhigh, to specify the proton-to-
+electron temperature ratio in regions where gas pressure
+dominates the magnetic pressure (Mościbrodzka et al.
+2016). This ratio is typically larger in the disk mid-
+plane than in the jet/outflow. Since the radiation is
+produced by electrons, increasing Rhigh effectively in-
+creases the brightness of the jets/outflow region relative
+to the disk, and changes the resulting images/spectra
+(M87∗ Paper V). Compared to M87∗, we also allow the
+inclination angle to vary.
+
+We employ five different ideal GRMHD codes to ex-
+plore a large swath of overlapping parameter space, in
+some cases with very similar set-ups allowing for consis-
+tency checks. In other cases, with a more exploratory
+sampling of parameter space, we also allow differences
+in, for example, adiabatic index, resolution, and size of
+the tori and/or computational domain. Most models are
+initialized with an orbiting torus of plasma with char-
+acteristic radius ∼ 20GM/c2. The torus is seeded with
+a weak, poloidal magnetic field, and can be either pro-
+grade or retrograde with respect to the black hole spin
+(a free parameter). We also consider a limited set of
+exploratory models such as those with ‘tilt’ where the
+black hole spin axis is misaligned from the rotation axis
+of the torus (Liska et al. 2018; Chatterjee et al. 2020;
+White & Quataert 2022), as well as a model initiated
+on a very large grid using a more realistic set-up for the
+outer boundary conditions in which the accretion flow is
+directly fed by winds from orbiting stars (Ressler et al.
+2020). Both of these are more realistic physical scenarios
+but also allow a much larger range of parameter space
+than we could fully explore.
+
+We classify the fiducial models as being in either
+the magnetically arrested (MAD; Narayan et al. 2003)
+or standard and normal evolution (SANE; Narayan
+et al. 2012) modes. In MAD models the ordered mag-
+netic fields significantly affect the dynamics of the flow,
+episodically halting accretion onto the black hole, while
+SANE models have weaker, more turbulent magnetic
+fields. Because the dynamical timescale in Sgr A∗ is
+short compared to a night of observations, it is impor-
+tant to run each model for enough time to capture the
+range of spectral and structural variations. The simula-
+tions are typically run for 30,000tg, while some are run
+for more than 100,000tg in order to sample a broader
+distribution of behavior.
+
+For each time-dependent GRMHD simulation, with
+an eDF prescription and inclination with respect to
+the line-of-sight, we calculate a sequence of model im-
+ages (movies) using ray tracing and including syn-
+chrotron emission and absorption. We also calculate
+spectra including synchrotron emission and absorption,
+bremsstrahlung emission and, using Monte Carlo meth-
+ods, Compton scattering. These synthetic data sets are
+then used to generate simulated EHT images as well as
+multi-wavelength light curves and spectral energy dis-
+tributions (SEDs) for comparison with the Sgr A∗ data
+described in Paper II. We scale all images to a bench-
+mark average flux density of 2.4 Jy at 230 GHz to match
+the average synchrotron flux density of Sgr A∗ (see Pa-
+per II and Wielgus et al. 2022).
+
+We evaluate the simulations against three types of ob-
+servational constraints: EHT interferometric measure-
+ments, emission at other wavelengths, and variability.
+The EHT constraints include 1) a measure of the im-
+age size, 2) salient features from the visibility ampli-
+tudes, such as the location of the first deep minimum,
+and 3) the diameter, asymmetry, and width of simpli-
+fied ring models fitted to well-sampled portions of the
+April 7 visibility data. The constraints from other wave-
+lengths include the flux densities at 86 GHz, 2.2 µm in
+the NIR, and X-ray, and the major axis source size at
+86 GHz, constrained from observations with the Global
+mm-VLBI Array. Finally, the variability constraints are
+1) the fractional 230 GHz variability on 3 h timescales,
+derived from more than a decade of measurements, and
+2) the structural variability of the source, calculated at
+a baseline length of 4Gλ after fitting a parameterized
+model to the visibility amplitude variation versus base-
+line length. See Paper V for the full ranges of tests and
+pass/fail conditions.
+Compared to M87∗ Paper V, we explore a larger range
+of models and model parameter space, and we also in-
+clude some additional observational constraints. These
+include the degree of intrinsic variability as well as the
+broadband spectral constraints given above. Accord-
+ingly, we find that all our models fail at least one of
+the observational constraints. These results indicate the
+power of combining interferometric data with other ob-
+
+10
+
+The EHT Collaboration et al.
+
+Figure 4. Summary of constraints on our 200 fiducial GRMHD simulations. Color indicates combined EHT constraints apart
+from structural or flux variability, and hatching indicates combined non-EHT constraints. For each constraint category and
+parameter combination, we delineate whether all of the three simulation codes run with those parameters pass, whether only
+some pass, or whether none pass. These exclusions leave only two models, each a MAD with prograde spin, 30◦ inclination, and
+Rhigh = 160. For details, see Paper V.
+
+servational constraints to narrow down the viable phys-
+ical parameter space. We now summarize our main re-
+sults and their implications for our understanding of
+Sgr A∗’s accretion state and geometry.
+
+We primarily focus on a set of “fiducial” simulations,
+which use aligned (prograde or retrograde) accretion
+flows and thermal eDFs defined via the Rhigh prescrip-
+tion. We declare a model to fully pass a set of con-
+straints only when all GRMHD simulations with those
+parameters pass. This approach helps to ensure that
+our selection of favored models is resilient to small vari-
+ations in the GRMHD simulation choices and software.
+Figure 4 summarizes these results.
+
+All edge-on (high inclination) models fail the com-
+bined set of EHT-only constraints for at least one sim-
+ulation, and almost all retrograde models (a∗ < 0) fail.
+There are two interesting groupings of models that pass
+all EHT constraints for all simulations: both have pos-
+itive/prograde spin (a∗ = 0.5, 0.94) with lower (≤ 50◦)
+inclination, but some are MAD (10) and some are SANE
+(8). With only ∼10% pass rate for all models, it is clear
+that EHT imaging data alone are capable of strongly
+down-selecting the potential model space. The more
+heterogeneous non-EHT constraints prefer a rather dif-
+ferent set of models. However even with all these con-
+straints, 11/200 models pass for all simulations; all of
+these are MADs with all but one having Rhigh = 160.
+On the other hand, they cover a wider range of spin
+compared to EHT-only constraints, with a slight pref-
+
+erence for a∗ ≤ 0 and higher inclinations, and including
+retrograde and edge-on models.
+None of the 200 fiducial models pass all 11 constraints
+in combination, the most strict of which are the 86 GHz
+size, the ring diameter and the light curve variability on
+3-hour timescales. Of these, the light curve variability
+turns out to be the most stringent constraint, passing
+only 4% of fiducial models. SANE models, which are less
+variable than MADs, are preferred, while all the other
+EHT/non-EHT constraints generally favor MADs. If we
+consider the set of models that pass 10/11 constraints,
+it is notable that for both MADs and SANEs, there is
+still a marked preference for models with prograde spin,
+a lower inclination and Rhigh > 40 with several clustered
+at the maximum of Rhigh = 160.
+
+The “exploratory” models cover less of a range in pa-
+rameter space but still indicate important trends.
+In
+particular, including non-thermal electrons (which are
+especially important for modeling flares) tends to push
+the limits of allowed NIR flux and, to some extent, also
+the X-ray flux. Because the non-thermal particles also
+enhance the 230 GHz flux density, rescaling to a fixed
+flux density results in a smaller accretion rate. The
+smaller resulting opacity then affects the image proper-
+ties, such as producing a somewhat narrower ring mor-
+phology at 230 GHz and a larger image at 86 GHz. Nev-
+ertheless, the addition of non-thermal models does not
+drastically change the preferred parameter space, and
+passing models also favor prograde spin and lower in-
+clination. Increased tilt of the accretion flow tends to
+
+10°30°50°70°90°11040160SANEia* = -0.9410°30°50°70°90°11040160ia* = -0.510°30°50°70°90°11040160ia* = 0.010°30°50°70°90°11040160ia* = 0.510°30°50°70°90°11040160ia* = 0.9410°30°50°70°90°MADi10°30°50°70°90°i10°30°50°70°90°i10°30°50°70°90°i10°30°50°70°90°iRhighEHT Pass AllEHT Pass SomeEHT Fail Allnon-EHT Pass Allnon-EHT Pass Somenon-EHT Fail AllThe Shadow of the Supermassive Black Hole in the Center of the Milky Way
+
+11
+
+Figure 5. Simulated images of Sgr A∗. Left: A single snapshot image of a numerical simulation of Sgr A∗ that passes 10 out
+of the 11 observational criteria described in Paper V. Middle: The average of this simulation with time sampling that matches
+the EHT observational cadence on April 7. Right: Representative image reconstruction using synthetic visibilities generated
+from the simulation in the adjacent panels (see Appendix H in Paper III). This image has been averaged across methodologies
+and reconstructed morphologies, as in Figure 3. Each panel is shown on a linear brightness scale that is normalized to its peak.
+
+increase variability and the NIR flux, and thus leads to
+model failures. Similarly, neither of the two wind-fed
+models passed, but this is not surprising as they only
+model a single spin (a∗ = 0) and two instances of the
+thermal Rhigh eDF. With such sparse sampling of pa-
+rameter space, these classes of models require a more
+focused study to draw conclusions.
+Overall, very few of our models are as quiet as the
+data. Although this wasn’t investigated in M87∗ Pa-
+per V, subsequent work suggests a similar result for
+M87∗ simulations (Satapathy et al. 2022).
+In general
+SANE models are less variable than MADs, and face-on
+models are somewhat less variable than edge-on. How-
+ever, there are limitations of the modeling that may af-
+fect the variability. For instance, collisionless effects,
+radiative cooling, and improved electron heating mod-
+els could all potentially reduce variability. Thus, our
+variability constraints may be too strict.
+
+There are only two models that pass everything but
+the variability constraints. The models have similar pa-
+rameters: both are MAD, both are prograde spin (one
+has a∗ = 0.5, and the other has a∗ = 0.94), and both
+have i = 30◦ and Rhigh = 160. Figure 5 shows a rep-
+resentative snapshot from one of these simulations and
+its corresponding image reconstruction. If we take these
+two models as indicative, there is a preference for accre-
+tion rates at the lower end of the range found by other
+constraints, 10−9 − 10−8M⊙/yr, and an outflow power
+of ∼1038 erg/s, which is comparable to the bolometric
+luminosity of stellar-mass black holes in X-ray binaries.
+The combination of high Rhigh and relatively low in-
+clination satisfies the spectral constraints without their
+associated jet structure producing too much asymme-
+try to satisfy the EHT constraints. A low inclination
+is also consistent with the independent estimate based
+on tracking the motions of NIR flaring structures us-
+
+ing the VLTI (Gravity Collaboration et al. 2018b). Our
+results highlight the value of continued EHT plus mul-
+tiwavelength monitoring of Sgr A∗, and there is clearly
+much more exploration to conduct, including improved
+theoretical models and numerical simulations, full SED
+modeling, and polarimetric imaging, all of which will
+yield deeper physical insights (see, e.g., Event Horizon
+Telescope Collaboration et al. 2021b).
+
+7. IMPLICATIONS FOR BLACK HOLES AND
+
+GENERAL RELATIVITY
+
+As demonstrated using the suite of GRMHD simula-
+tions discussed in section 6, the EHT images of Sgr A∗
+are consistent with the expected appearance of a Kerr
+black hole. Moreover, our images are consistent with an
+angular gravitational radius θg that matches the expec-
+tations from nearly Keplerian orbits of stars on scales of
+(103 − 105)RS.
+To quantify this consistency, we compute θg using
+EHT measurements alone (for details, see Paper IV).
+Following the procedure developed in M87∗ Paper VI,
+we estimate θg by calibrating the observed emission ring
+diameter d to the known angular gravitational scale
+θg for a suite of synthetic datasets produced from the
+GRMHD library presented in Paper V. Specifically, we
+generate 100 datasets from GRMHD simulations with
+varying intrinsic θg and that span the explored range in
+accretion states, black hole spins, viewing inclinations,
+position angles, and phenomenological electron heating
+parameters Rhigh. Each synthetic dataset matches the
+baseline coverage and sensitivity of the EHT observa-
+tions. We then estimate the ring diameter using multi-
+ple geometric modeling and imaging methods, deriving
+a separate calibration factor α ≡ d/θg for each method
+and for every dataset to attain a method-dependent scal-
+ing relationship and associated uncertainty.
+
+50µas≈10θg0.00.20.40.60.81.0NormalizedIntensity12
+
+The EHT Collaboration et al.
+
+With this approach, we estimate θg = 4.8+1.4−0.7 µas
+for Sgr A∗, where the uncertainties correspond to a
+68% credible interval. This estimate is consistent with,
+but much less constraining than, measurements of θg us-
+ing resolved stellar orbits (see Table 1). This procedure
+assumes the validity of the Kerr metric and relies on
+our suite of GRMHD simulations to provide a reason-
+able proxy for the space of viable emission models. The
+fractional uncertainty in our estimate of θg for Sgr A∗ is
+broader than our estimate for M87∗ (θg = 3.8± 0.4 µas),
+primarily because of the increased calibration uncer-
+tainty associated with the unknown inclination of Sgr A∗
+and because of the increased diameter measurement un-
+certainty associated with intrinsic variability of Sgr A∗.
+We also used EHT images to constrain potential de-
+viations from the Kerr metric and to test the nature of
+the compact object in Sgr A∗ (for details, see Paper VI).
+For instance, the brightness depression has a contrast
+fc <∼ 0.3, which provides support for the existence of an
+event horizon in Sgr A∗. If the compact object instead
+had an absorptive boundary that radiated the thermal-
+ized energy of infalling material
+˙M c2, it could still pro-
+duce a depression in the EHT images but would gener-
+ate IR emission that greatly exceeds the measured spec-
+trum of Sgr A∗ (Broderick & Narayan 2006; Narayan &
+McClintock 2008). Alternatively, a partially reflecting
+surface would reduce the depth of the depression; the
+EHT images directly constrain the albedo of such a re-
+flecting surface to be <∼ 0.3. The brightness depression
+also rules out several specific black hole alternatives, in-
+cluding some models of naked singularities (e.g., Joshi
+et al. 2014) and some models of boson stars (e.g., Oli-
+vares et al. 2020), although other horizonless black-hole
+mimickers produce apparent shadows that are consistent
+with the observed depression (e.g., Shaikh et al. 2019).
+The measured ring diameter also provides constraints
+on the spacetime metric. To obtain these constraints, we
+generate a series of synthetic images to relate a measured
+emission ring diameter to that of the underlying black
+hole shadow. These images included a broad range of
+GRMHD simulations from Paper V, as well as images for
+which the GRMHD and underlying metric assumptions
+are relaxed. Specifically, we generated sets of images
+of analytic models for accretion onto 1) a Kerr black
+hole, 2) a black hole with parametric deviations from
+Kerr given by the Johannsen-Psaltis metric (Johannsen
+& Psaltis 2011), and 3) a non-Kerr black hole defined
+by the Kerr-Sen metric (García et al. 1995). For each
+analytic model, we allow the emission prescriptions to
+vary within physically plausible limits (for details, see
+Özel et al. 2021; Younsi et al. 2021). We find a similar
+relationship between the diameter of the emission ring
+and that of the black hole shadow in all these cases, indi-
+cating that this relationship is insensitive to the details
+of the underlying spacetime.
+
+Selecting a subset of these models, we then generate
+145 synthetic datasets. We apply imaging and modeling
+
+methods to compute the ring diameter for each dataset
+to evaluate method-dependent measurement uncertain-
+ties and biases. We then use this calibration together
+with the EHT measurements of the ring diameter to de-
+termine the angular diameter of the black hole shadow
+for Sgr A∗: dsh = 48.7 ± 7.0 µas. This result is tighter
+than the range for θg derived above because of differ-
+ences in the calibration datasets and procedures used in
+Paper IV and Paper VI. Specifically, Paper IV uses a cal-
+ibration suite that consists entirely of dynamic GRMHD
+models, and it derives a scale factor between θg and the
+angular diameter of the emission ring. In contrast, Pa-
+per VI uses a calibration suite containing both static
+Kerr and non-Kerr images and dynamic GRMHD mod-
+els, and it derives a scale factor between dsh and the
+angular diameter of the emission ring. Paper VI also
+excludes datasets for which the range of reconstructed
+diameters is more than 2 − 3 times the range that is
+measured using the Sgr A∗ data. Thus, comparison of
+these results provides a measure of the impact of our as-
+sumptions and procedures on the inference of the black
+hole properties.
+By comparing this shadow diameter with stellar dy-
+namical measurements of the mass of Sgr A∗, we also
+determine a deviation parameter δ, which quantifies
+the fractional difference between the inferred shadow
+diameter and its expected value for a non-spinning
+(Schwarzschild) black hole (for details, see Paper VI).
+We find δ = −0.08+0.09−0.09 when using VLTI measurements
+of θg and δ = −0.04+0.09−0.10 when using Keck measure-
+ments of θg (see Table 1). For comparison, a spinning
+(Kerr) black hole has −0.08 ≤ δ ≤ 0.
+Under the assumption that this range of calibration
+factors applies generically to all non-Kerr spacetimes
+that have black hole shadows, we can translate measure-
+ments of δ into constraints on parameters of these space-
+times (Psaltis et al. 2020). In particular, our measure-
+ments exclude specific non-Kerr solutions for Sgr A∗,
+such as the traversible Morris-Thorne wormhole and
+the naked singularities in the Reissner-Nordström met-
+ric, which predict shadows that are significantly smaller
+than those of Kerr black holes.
+Relative to M87∗, the primary strengths of testing GR
+with EHT observations of Sgr A∗ are the tight prior con-
+straints on its mass-to-distance ratio θg and its shorter
+gravitational timescale that allows EHT observations to
+span many dynamical times. Together, these results
+show SMBHs consistent with predictions of the Kerr
+metric over a spread of three orders of magnitude in their
+mass (see Figure 6). The image of Sgr A∗ probes a sim-
+ilar gravitational potential to M87∗ but spacetime cur-
+vature ξ ∝ M−2 that is six orders of magnitude larger.
+When combined with constraints from the measurement
+of gravitational waves from coalescing black-hole bina-
+ries with LIGO/Virgo, these results show a striking val-
+idation of the predictions of GR over a vast range of
+
+The Shadow of the Supermassive Black Hole in the Center of the Milky Way
+
+13
+
+GRMHD simulations. These simulations are remarkably
+successful at predicting the 1.3 mm image structure and
+broadband spectrum of Sgr A∗. However, the GRMHD
+simulations tend to be more variable than the observa-
+tions, which may be related to our fluid modeling of a
+collisionless plasma or our neglect of radiative cooling,
+and only a few configurations can satisfy our full set
+of observational constraints apart from variability. Our
+results generally favor models with dynamically strong
+magnetic fields, moderate (prograde) spin, a lower in-
+clination viewing angle, and strongly decoupled protons
+and electrons in the emission region. Interestingly, these
+models also predict a reasonably efficient (compared to
+the accretion rate) jet outflow, which points to interest-
+ing complementary future studies. However more work
+is needed to fully explore the physical parameter space,
+and to understand the variability.
+As the nearest supermassive black hole, Sgr A∗ can
+be scrutinized in ways that are impossible for other
+sources, making it a unique laboratory for exploring the
+astrophysics of black holes and testing the predictions
+of General Relativity. The results presented in these
+papers are the first EHT contributions to the study of
+this source, but they are not the last. Subsequent work
+will characterize the magnetic field configuration of this
+source through polarimetric observations, as was done
+for M87∗, and describe the structural changes associated
+with flare activity on April 11. Since 2017, the EHT has
+continued to gather data using an increasing number
+of array elements and doubled recording bandwidth.
+These data will provide improved sensitivity and enable
+more robust imaging of this dynamic source, eventually
+allowing movie reconstructions of plasma motions on
+the ∼hour orbital timescales.
+We thank the anonymous referees for helpful com-
+ments that improved the paper. The Event Horizon
+Telescope Collaboration thanks the following organiza-
+tions and programs: the Academia Sinica; the Academy
+of Finland (projects 274477, 284495, 312496, 315721);
+the Agencia Nacional de Investigación y Desarrollo
+(ANID), Chile via NCN19_058 (TITANs) and Fonde-
+cyt 1221421, the Alexander von Humboldt Stiftung; an
+Alfred P. Sloan Research Fellowship; Allegro, the Eu-
+ropean ALMA Regional Centre node in the Nether-
+lands, the NL astronomy research network NOVA and
+the astronomy institutes of the University of Amster-
+dam, Leiden University and Radboud University; the
+ALMA North America Development Fund; the Black
+Hole Initiative, which is funded by grants from the
+John Templeton Foundation and the Gordon and Betty
+Moore Foundation (although the opinions expressed in
+this work are those of the author(s) and do not nec-
+essarily reflect the views of these Foundations); Chan-
+dra DD7-18089X and TM6-17006X; the China Schol-
+arship Council; China Postdoctoral Science Foundation
+fellowship (2020M671266); Consejo Nacional de Cien-
+
+Figure 6. Comparison of posterior distributions for the
+Schwarzschild fractional shadow deviation parameter δ mea-
+sured by the EHT for Sgr A∗ and M87∗. For Sgr A∗, δ is
+computed relative the expected shadow size from monitoring
+stellar orbits; for M87∗, δ is computed for both the expected
+shadow from stellar dynamics and from gas dynamics (for de-
+tails, see M87∗ Paper VI). The gray band shows the expected
+range of δ for the Kerr metric. For the stellar-dynamical prior
+mass estimates, the EHT measurements show close consis-
+tency with the same black hole metric over three orders of
+magnitude in black hole mass.
+
+scales, from stellar mass black holes to supermassive
+black holes that are billions of times larger.
+
+8. CONCLUSION AND OUTLOOK
+
+Here we present the results of 2017 EHT observa-
+tions of Sgr A∗, the central supermassive black hole in
+the Milky Way. We find evidence for intraday struc-
+tural variability in Sgr A∗, confirming changes that were
+hinted at in prior observations across the electromag-
+netic spectrum. These variations challenge standard ap-
+proaches to interferometric analysis, so we have devel-
+oped a variety of methods to infer the structure of this
+source from our data. From observations on April 7, on
+which we have the best-sampled data, our analyses con-
+sistently reveal a ring-like structure, similar to that seen
+in M87∗. Less complete observations on April 6 support
+this picture.
+
+This ring of emission and its central brightness de-
+pression closely mirror the structure expected from the
+plasma in accretion and outflow structures bordering the
+event horizon of a black hole and partially lensed by its
+gravity. The angular diameter of this ring is consis-
+tent with that expected from the black hole mass in-
+ferred from stellar orbits. This consistency allows us to
+restrict the allowed values of parameters that describe
+deviations from a Kerr black hole, as predicted by Gen-
+eral Relativity. We compare our data, including mea-
+surements at other wavelengths, with a large suite of
+
+10610710810910101011Black-holemass(M(cid:12))−1.00−0.75−0.50−0.250.000.250.500.751.00FractionaldeviationδSgrA*M87*GRstarsgas14
+
+The EHT Collaboration et al.
+
+cia y Tecnología (CONACYT, Mexico, projects U0004-
+246083, U0004-259839, F0003-272050, M0037-279006,
+F0003-281692, 104497, 275201, 263356); the Consejería
+de Economía, Conocimiento, Empresas y Universidad
+of the Junta de Andalucía (grant P18-FR-1769), the
+Consejo Superior de Investigaciones Científicas (grant
+2019AEP112); the Delaney Family via the Delaney Fam-
+ily John A. Wheeler Chair at Perimeter Institute; Di-
+rección General de Asuntos del Personal Académico-
+Universidad Nacional Autónoma de México (DGAPA-
+UNAM, projects IN112417 and IN112820); the Dutch
+Organization for Scientific Research (NWO) VICI award
+(grant 639.043.513) and grant OCENW.KLEIN.113; the
+Dutch National Supercomputers, Cartesius and Snel-
+lius (NWO Grant 2021.013); the EACOA Fellowship
+awarded by the East Asia Core Observatories Asso-
+ciation, which consists of the Academia Sinica Insti-
+tute of Astronomy and Astrophysics, the National As-
+tronomical Observatory of Japan, Center for Astro-
+nomical Mega-Science, Chinese Academy of Sciences,
+and the Korea Astronomy and Space Science Insti-
+tute;
+the European Research Council (ERC) Syn-
+ergy Grant “BlackHoleCam: Imaging the Event Hori-
+zon of Black Holes" (grant 610058);
+the European
+Union Horizon 2020 research and innovation programme
+under grant agreements RadioNet (No 730562) and
+M2FINDERS (No 101018682); the Generalitat Valen-
+ciana postdoctoral grant APOSTD/2018/177 and GenT
+Program (project CIDEGENT/2018/021); MICINN Re-
+search Project PID2019-108995GB-C22; the European
+Research Council for advanced grant ‘JETSET: Launch-
+ing, propagation and emission of relativistic jets from
+binary mergers and across mass scales’ (Grant No.
+884631); the Institute for Advanced Study; the Is-
+tituto Nazionale di Fisica Nucleare (INFN) sezione
+di Napoli,
+iniziative specifiche TEONGRAV; the In-
+ternational Max Planck Research School for Astron-
+omy and Astrophysics at the Universities of Bonn and
+Cologne; DFG research grant “Jet physics on hori-
+zon scales and beyond” (Grant No. FR 4069/2-1);
+Joint Princeton/Flatiron and Joint Columbia/Flatiron
+Postdoctoral Fellowships, research at the Flatiron In-
+stitute is supported by the Simons Foundation; the
+Japan Ministry of Education, Culture, Sports, Science
+and Technology (MEXT; grant JPMXP1020200109);
+the Japanese Government (Monbukagakusho: MEXT)
+Scholarship; the Japan Society for the Promotion of Sci-
+ence (JSPS) Grant-in-Aid for JSPS Research Fellowship
+(JP17J08829); the Joint Institute for Computational
+Fundamental Science, Japan; the Key Research Pro-
+gram of Frontier Sciences, Chinese Academy of Sciences
+(CAS, grants QYZDJ-SSW-SLH057, QYZDJSSW-
+SYS008, ZDBS-LY-SLH011);
+the Leverhulme Trust
+Early Career Research Fellowship; the Max-Planck-
+Gesellschaft (MPG); the Max Planck Partner Group
+of the MPG and the CAS; the MEXT/JSPS KAK-
+ENHI (grants 18KK0090, JP21H01137, JP18H03721,
+
+Inc.,
+
+18K03709,
+
+JP19K14761,
+
+JP18K13594,
+18H01245,
+25120007); the Malaysian Fundamental Research Grant
+Scheme (FRGS) FRGS/1/2019/STG02/UM/02/6; the
+MIT International Science and Technology Initiatives
+(MISTI) Funds; the Ministry of Science and Tech-
+nology (MOST) of Taiwan (103-2119-M-001-010-MY2,
+105-2112-M-001-025-MY3, 105-2119-M-001-042, 106-
+2112-M-001-011, 106-2119-M-001-013, 106-2119-M-001-
+027, 106-2923-M-001-005, 107-2119-M-001-017, 107-
+2119-M-001-020, 107-2119-M-001-041, 107-2119-M-110-
+005, 107-2923-M-001-009, 108-2112-M-001-048, 108-
+2112-M-001-051, 108-2923-M-001-002, 109-2112-M-001-
+025, 109-2124-M-001-005, 109-2923-M-001-001, 110-
+2112-M-003-007-MY2, 110-2112-M-001-033, 110-2124-
+M-001-007, and 110-2923-M-001-001); the Ministry of
+Education (MoE) of Taiwan Yushan Young Scholar Pro-
+gram; the Physics Division, National Center for The-
+oretical Sciences of Taiwan; the National Aeronautics
+and Space Administration (NASA, Fermi Guest In-
+vestigator grant 80NSSC20K1567, NASA Astrophysics
+Theory Program grant 80NSSC20K0527, NASA NuS-
+TAR award 80NSSC20K0645); NASA Hubble Fellow-
+ship grant HST-HF2-51431.001-A awarded by the Space
+Telescope Science Institute, which is operated by the
+Association of Universities for Research in Astron-
+for NASA, under contract NAS5-26555;
+omy,
+Institute of Natural Sciences (NINS)
+the National
+of Japan;
+the National Key Research and Devel-
+opment Program of China (grant 2016YFA0400704,
+2017YFA0402703, 2016YFA0400702); the National Sci-
+ence Foundation (NSF, grants AST-0096454, AST-
+0352953, AST-0521233, AST-0705062, AST-0905844,
+AST-0922984, AST-1126433, AST-1140030, DGE-
+1144085, AST-1207704, AST-1207730, AST-1207752,
+MRI-1228509, OPP-1248097, AST-1310896, AST-
+1440254, AST-1555365, AST-1614868, AST-1615796,
+AST-1715061, AST-1716327, AST-1716536, OISE-
+1743747, AST-1816420, AST-1935980, AST-2034306);
+NSF Astronomy and Astrophysics Postdoctoral Fel-
+lowship (AST-1903847); the Natural Science Founda-
+tion of China (grants 11650110427, 10625314, 11721303,
+11725312, 11873028, 11933007, 11991052, 11991053,
+12192220, 12192223); the Natural Sciences and Engi-
+neering Research Council of Canada (NSERC, includ-
+ing a Discovery Grant and the NSERC Alexander Gra-
+ham Bell Canada Graduate Scholarships-Doctoral Pro-
+gram); the National Youth Thousand Talents Program
+of China; the National Research Foundation of Ko-
+rea (the Global PhD Fellowship Grant: grants NRF-
+2015H1A2A1033752, the Korea Research Fellowship
+Program: NRF-2015H1D3A1066561, Brain Pool Pro-
+gram: 2019H1D3A1A01102564, Basic Research Support
+Grant 2019R1F1A1059721,
+2021R1A6A3A01086420,
+2022R1C1C1005255); Netherlands Research School for
+Astronomy (NOVA) Virtual
+Institute of Accretion
+(VIA) postdoctoral fellowships; Onsala Space Observa-
+tory (OSO) national infrastructure, for the provision-
+
+The Shadow of the Supermassive Black Hole in the Center of the Milky Way
+
+15
+
+ing of its facilities/observational support (OSO receives
+funding through the Swedish Research Council under
+grant 2017-00648); the Perimeter Institute for Theo-
+retical Physics (research at Perimeter Institute is sup-
+ported by the Government of Canada through the De-
+partment of Innovation, Science and Economic Develop-
+ment and by the Province of Ontario through the Min-
+istry of Research, Innovation and Science); the Spanish
+Ministerio de Ciencia e Innovación (grants PGC2018-
+098915-B-C21, AYA2016-80889-P, PID2019-108995GB-
+C21, PID2020-117404GB-C21); the University of Preto-
+ria for financial aid in the provision of the new Clus-
+ter Server nodes and SuperMicro (USA) for a SEED-
+ING GRANT approved towards these nodes in 2020;
+the Shanghai Pilot Program for Basic Research, Chi-
+nese Academy of Science, Shanghai Branch (JCYJ-
+SHFY-2021-013); the State Agency for Research of
+the Spanish MCIU through the “Center of Excellence
+Severo Ochoa” award for the Instituto de Astrofísica
+de Andalucía (SEV-2017- 0709); the Spinoza Prize SPI
+78-409; the South African Research Chairs Initiative,
+through the South African Radio Astronomy Observa-
+tory (SARAO, grant ID 77948), which is a facility of the
+National Research Foundation (NRF), an agency of the
+Department of Science and Innovation (DSI) of South
+Africa; the Toray Science Foundation; Swedish Research
+Council (VR); the US Department of Energy (USDOE)
+through the Los Alamos National Laboratory (operated
+by Triad National Security, LLC, for the National Nu-
+clear Security Administration of the USDOE (Contract
+89233218CNA000001); and the YCAA Prize Postdoc-
+toral Fellowship.
+
+We thank the staff at the participating observatories,
+correlation centers, and institutions for their enthusi-
+astic support. This paper makes use of the follow-
+ing ALMA data: ADS/JAO.ALMA#2016.1.01154.V.
+ALMA is a partnership of the European Southern
+Observatory (ESO; Europe, representing its member
+states), NSF, and National Institutes of Natural Sci-
+ences of Japan, together with National Research Council
+(Canada), Ministry of Science and Technology (MOST;
+Taiwan), Academia Sinica Institute of Astronomy and
+Astrophysics (ASIAA; Taiwan), and Korea Astronomy
+and Space Science Institute (KASI; Republic of Korea),
+in cooperation with the Republic of Chile. The Joint
+ALMA Observatory is operated by ESO, Associated
+Universities, Inc. (AUI)/NRAO, and the National As-
+tronomical Observatory of Japan (NAOJ). The NRAO is
+a facility of the NSF operated under cooperative agree-
+ment by AUI. This research used resources of the Oak
+Ridge Leadership Computing Facility at the Oak Ridge
+National Laboratory, which is supported by the Office of
+Science of the U.S. Department of Energy under Con-
+tract No. DE-AC05-00OR22725. We also thank the
+Center for Computational Astrophysics, National Astro-
+nomical Observatory of Japan. The computing cluster
+of Shanghai VLBI correlator supported by the Special
+
+Fund for Astronomy from the Ministry of Finance in
+China is acknowledged.
+
+APEX is a collaboration between the Max-Planck-
+Institut für Radioastronomie (Germany), ESO, and the
+Onsala Space Observatory (Sweden). The SMA is a
+joint project between the SAO and ASIAA and is funded
+by the Smithsonian Institution and the Academia Sinica.
+The JCMT is operated by the East Asian Observatory
+on behalf of the NAOJ, ASIAA, and KASI, as well as
+the Ministry of Finance of China, Chinese Academy of
+Sciences, and the National Key Research and Develop-
+ment Program (No. 2017YFA0402700) of China and
+Natural Science Foundation of China grant 11873028.
+Additional funding support for the JCMT is provided
+by the Science and Technologies Facility Council (UK)
+and participating universities in the UK and Canada.
+The LMT is a project operated by the Instituto Na-
+cional de Astrófisica, Óptica, y Electrónica (Mexico) and
+the University of Massachusetts at Amherst (USA). The
+IRAM 30-m telescope on Pico Veleta, Spain is operated
+by IRAM and supported by CNRS (Centre National de
+la Recherche Scientifique, France), MPG (Max-Planck-
+Gesellschaft, Germany) and IGN (Instituto Geográfico
+Nacional, Spain). The SMT is operated by the Arizona
+Radio Observatory, a part of the Steward Observatory of
+the University of Arizona, with financial support of op-
+erations from the State of Arizona and financial support
+for instrumentation development from the NSF. Support
+for SPT participation in the EHT is provided by the Na-
+tional Science Foundation through award OPP-1852617
+to the University of Chicago. Partial support is also
+provided by the Kavli Institute of Cosmological Physics
+at the University of Chicago. The SPT hydrogen maser
+was provided on loan from the GLT, courtesy of ASIAA.
+This work used the Extreme Science and Engineering
+Discovery Environment (XSEDE), supported by NSF
+grant ACI-1548562, and CyVerse, supported by NSF
+grants DBI-0735191, DBI-1265383, and DBI-1743442.
+XSEDE Stampede2 resource at TACC was allocated
+through TG-AST170024 and TG-AST080026N. XSEDE
+JetStream resource at PTI and TACC was allocated
+through AST170028. This research is part of the Fron-
+tera computing project at the Texas Advanced Com-
+puting Center through the Frontera Large-Scale Com-
+munity Partnerships allocation AST20023. Frontera is
+made possible by National Science Foundation award
+OAC-1818253. This research was carried out using re-
+sources provided by the Open Science Grid, which is
+supported by the National Science Foundation and the
+U.S. Department of Energy Office of Science. Addi-
+tional work used ABACUS2.0, which is part of the
+eScience center at Southern Denmark University. Sim-
+ulations were also performed on the SuperMUC clus-
+ter at the LRZ in Garching, on the LOEWE clus-
+ter in CSC in Frankfurt, on the HazelHen cluster at
+the HLRS in Stuttgart, and on the Pi2.0 and Siyuan
+Mark-I at Shanghai Jiao Tong University. The com-
+
+16
+
+The EHT Collaboration et al.
+
+puter resources of the Finnish IT Center for Science
+(CSC) and the Finnish Computing Competence In-
+frastructure (FCCI) project are acknowledged. This
+research was enabled in part by support provided
+by Compute Ontario (http://computeontario.ca), Cal-
+cul Quebec (http://www.calculquebec.ca) and Compute
+Canada (http://www.computecanada.ca).
+
+The EHTC has received generous donations of FPGA
+chips from Xilinx Inc., under the Xilinx University
+Program. The EHTC has benefited from technology
+shared under open-source license by the Collaboration
+for Astronomy Signal Processing and Electronics Re-
+search (CASPER). The EHT project is grateful to
+T4Science and Microsemi for their assistance with Hy-
+drogen Masers. This research has made use of NASA’s
+Astrophysics Data System. We gratefully acknowl-
+
+edge the support provided by the extended staff of the
+ALMA, both from the inception of the ALMA Phasing
+Project through the observational campaigns of 2017
+and 2018. We would like to thank A. Deller and W.
+Brisken for EHT-specific support with the use of DiFX.
+We thank Martin Shepherd for the addition of extra
+features in the Difmap software that were used for the
+CLEAN imaging results presented in this paper. We
+acknowledge the significance that Maunakea, where the
+SMA and JCMT EHT stations are located, has for the
+indigenous Hawaiian people.
+
+Facility: EHT, ALMA, APEX, IRAM:30m, JCMT,
+LMT, SMA, ARO:SMT, SPT, Chandra, EAVN, GMVA,
+NuSTAR, Swift, VLT.
+
+Abbott, B. P., Abbott, R., Abbott, T. D., et al. 2016,
+
+Broderick, A. E., Gold, R., Karami, M., et al. 2020, ApJ,
+
+REFERENCES
+
+PhRvL, 116, 061102,
+doi: 10.1103/PhysRevLett.116.061102
+
+Agol, E. 2000, ApJL, 538, L121, doi: 10.1086/312818
+Baganoff, F. K., Bautz, M. W., Brandt, W. N., et al. 2001,
+
+Nature, 413, 45, doi: 10.1038/35092510
+
+Baganoff, F. K., Maeda, Y., Morris, M., et al. 2003, ApJ,
+
+591, 891, doi: 10.1086/375145
+
+Balick, B., & Brown, R. L. 1974, ApJ, 194, 265,
+
+doi: 10.1086/153242
+
+Bardeen, J. M. 1973, Les Astres Occlus, 215
+Blackburn, L., Chan, C.-k., Crew, G. B., et al. 2019, ApJ,
+
+882, 23, doi: 10.3847/1538-4357/ab328d
+
+Blandford, R. D., & Begelman, M. C. 1999, MNRAS, 303,
+
+L1, doi: 10.1046/j.1365-8711.1999.02358.x
+
+Blandford, R. D., & Königl, A. 1979, ApJ, 232, 34,
+
+doi: 10.1086/157262
+
+Bolton, C. T. 1972, Nature, 235, 271, doi: 10.1038/235271b0
+Bower, G. C., Backer, D. C., Zhao, J.-H., Goss, M., &
+Falcke, H. 1999, ApJ, 521, 582, doi: 10.1086/307592
+
+Bower, G. C., Falcke, H., Herrnstein, R. M., et al. 2004,
+
+Science, 304, 704, doi: 10.1126/science.1094023
+
+Bower, G. C., Goss, W. M., Falcke, H., Backer, D. C., &
+
+Lithwick, Y. 2006, ApJL, 648, L127, doi: 10.1086/508019
+
+Bower, G. C., Wright, M. C. H., Falcke, H., & Backer,
+
+D. C. 2003, ApJ, 588, 331
+
+Broderick, A. E., Fish, V. L., Doeleman, S. S., & Loeb, A.
+
+2009, ApJ, 697, 45, doi: 10.1088/0004-637X/697/1/45
+Broderick, A. E., Gold, R., Georgiev, B., et al. 2022, in
+
+Broderick, A. E., & Narayan, R. 2006, ApJL, 638, L21,
+
+prep., 00, 0, doi: TBD
+
+doi: 10.1086/500930
+
+897, 139, doi: 10.3847/1538-4357/ab91a4
+
+Chan, C.-K., Psaltis, D., Özel, F., Narayan, R., & Sad¸owski,
+
+A. 2015, ApJ, 799, 1, doi: 10.1088/0004-637X/799/1/1
+
+Chatterjee, K., Younsi, Z., Liska, M., et al. 2020, MNRAS,
+
+499, 362, doi: 10.1093/mnras/staa2718
+
+Coker, R., Melia, F., & Falcke, H. 1999, ApJ, 523, 642,
+
+doi: 10.1086/307770
+
+Dexter, J., Agol, E., & Fragile, P. C. 2009, ApJL, 703,
+
+L142, doi: 10.1088/0004-637X/703/2/L142
+
+Do, T., Hees, A., Ghez, A., et al. 2019, Science, 365, 664,
+
+doi: 10.1126/science.aav8137
+
+Doeleman, S. S., Shen, Z.-Q., Rogers, A. E. E., et al. 2001,
+
+AJ, 121, 2610, doi: 10.1086/320376
+
+Doeleman, S. S., Weintroub, J., Rogers, A. E. E., et al.
+
+2008, Nature, 455, 78, doi: 10.1038/nature07245
+
+Eckart, A., Baganoff, F. K., Morris, M., et al. 2004, A&A,
+
+427, 1, doi: 10.1051/0004-6361:20040495
+
+EHT MWL Science Working Group, Algaba, J. C.,
+
+Anczarski, J., et al. 2021, ApJL, 911, L11,
+doi: 10.3847/2041-8213/abef71
+
+Einstein, A. 1915, Sitzungsberichte der Königlich
+
+Preußischen Akademie der Wissenschaften (Berlin), 844
+Ekers, R. D., Goss, W. M., Schwarz, U. J., Downes, D., &
+
+Rogstad, D. H. 1975, A&A, 43, 159
+
+Event Horizon Telescope Collaboration, Akiyama, K.,
+
+Alberdi, A., et al. 2019a, ApJL, 875, L1,
+doi: 10.3847/2041-8213/ab0ec7
+
+—. 2019b, ApJL, 875, L2, doi: 10.3847/2041-8213/ab0c96
+—. 2019c, ApJL, 875, L3, doi: 10.3847/2041-8213/ab0c57
+—. 2019d, ApJL, 875, L4, doi: 10.3847/2041-8213/ab0e85
+—. 2019e, ApJL, 875, L5, doi: 10.3847/2041-8213/ab0f43
+—. 2019f, ApJL, 875, L6, doi: 10.3847/2041-8213/ab1141
+
+The Shadow of the Supermassive Black Hole in the Center of the Milky Way
+
+17
+
+—. 2021a, ApJL, 875, L7
+—. 2021b, ApJL, 875, L8
+—. 2022a, ApJL, 875, 2
+—. 2022b, ApJL, 875, 3
+—. 2022c, ApJL, 875, 4
+—. 2022d, ApJL, 875, 5
+—. 2022e, ApJL, 875, 6
+Fabian, A. C. 2012, ARA&A, 50, 455,
+
+doi: 10.1146/annurev-astro-081811-125521
+
+Falcke, H., Goss, W. M., Matsuo, H., et al. 1998, ApJ, 499,
+
+731, doi: 10.1086/305687
+
+Falcke, H., Mannheim, K., & Biermann, P. L. 1993, A&A,
+
+278, L1. https://arxiv.org/abs/astro-ph/9308031
+
+Falcke, H., Melia, F., & Agol, E. 2000, ApJL, 528, L13,
+
+doi: 10.1086/312423
+
+Farah, J. R., et al. 2022, in prep., 00, 0, doi: TBD
+Fish, V. L., Doeleman, S. S., Beaudoin, C., et al. 2011,
+ApJL, 727, L36, doi: 10.1088/2041-8205/727/2/L36
+
+Gammie, C. F., McKinney, J. C., & Tóth, G. 2003, ApJ,
+
+589, 444, doi: 10.1086/374594
+
+García, A., Galtsov, D., & Kechkin, O. 1995, PhRvL, 74,
+
+1276, doi: 10.1103/PhysRevLett.74.1276
+
+Genzel, R., Schödel, R., Ott, T., et al. 2003, Nature, 425,
+
+934, doi: 10.1038/nature02065
+
+Georgiev, B., et al. 2022, in prep., 00, 0, doi: TBD
+Ghez, A. M., Duchêne, G., Matthews, K., et al. 2003,
+
+ApJL, 586, L127, doi: 10.1086/374804
+
+Ghez, A. M., Salim, S., Weinberg, N. N., et al. 2008, ApJ,
+
+689, 1044, doi: 10.1086/592738
+
+Gillessen, S., Eisenhauer, F., Fritz, T. K., et al. 2009,
+
+ApJL, 707, L114, doi: 10.1088/0004-637X/707/2/L114
+Goldwurm, A., Cordier, B., Paul, J., et al. 1994, Nature,
+
+371, 589, doi: 10.1038/371589a0
+
+Gravity Collaboration, Abuter, R., Amorim, A., et al.
+
+2018a, A&A, 615, L15,
+doi: 10.1051/0004-6361/201833718
+
+—. 2018b, A&A, 618, L10,
+
+doi: 10.1051/0004-6361/201834294
+
+—. 2019, A&A, 625, L10,
+
+doi: 10.1051/0004-6361/201935656
+
+Gravity Collaboration, Abuter, R., Aimar, N., et al. 2022,
+
+A&A, 657, L12, doi: 10.1051/0004-6361/202142465
+
+Hilbert, D. 1917, Nachrichten von der Königlichen
+Gesellschaft der Wissenschaften zu Göttingen -
+Mathematisch-physikalische Klasse (Berlin:
+Weidmannsche Buchhandlung), 53–76
+
+Ho, L. C. 1999, ApJ, 516, 672, doi: 10.1086/307137
+Janssen, M., Goddi, C., van Bemmel, I. M., et al. 2019,
+
+A&A, 626, A75, doi: 10.1051/0004-6361/201935181
+
+Jaroszynski, M., & Kurpiewski, A. 1997, A&A, 326, 419.
+
+https://arxiv.org/abs/astro-ph/9705044
+
+Johannsen, T., & Psaltis, D. 2011, PhRvD, 83, 124015,
+
+doi: 10.1103/PhysRevD.83.124015
+
+Johnson, M. D., Fish, V. L., Doeleman, S. S., et al. 2015,
+
+Science, 350, 1242, doi: 10.1126/science.aac7087
+
+Johnson, M. D., Narayan, R., Psaltis, D., et al. 2018, ApJ,
+
+865, 104. https://arxiv.org/abs/1808.08966
+
+Joshi, P. S., Malafarina, D., & Narayan, R. 2014, Classical
+
+and Quantum Gravity, 31, 015002,
+doi: 10.1088/0264-9381/31/1/015002
+
+Kerr, R. P. 1963, PhRvL, 11, 237,
+doi: 10.1103/PhysRevLett.11.237
+
+Kormendy, J., & Ho, L. C. 2013, ARA&A, 51, 511,
+
+doi: 10.1146/annurev-astro-082708-101811
+
+Krichbaum, T. P., Graham, D. A., Witzel, A., et al. 1998,
+
+A&A, 335, L106
+
+Lee, D., & Gammie, C. F. 2021, ApJ, 906, 39,
+
+doi: 10.3847/1538-4357/abc8f3
+
+Liska, M., Hesp, C., Tchekhovskoy, A., et al. 2018,
+
+MNRAS, 474, L81, doi: 10.1093/mnrasl/slx174
+
+Lo, K. Y., Schilizzi, R. T., Cohen, M. H., & Ross, H. N.
+
+1975, ApJL, 202, L63, doi: 10.1086/181982
+
+Lo, K. Y., Shen, Z.-Q., Zhao, J.-H., & Ho, P. T. P. 1998,
+
+ApJL, 508, L61, doi: 10.1086/311726
+
+Lu, R.-S., Krichbaum, T. P., Roy, A. L., et al. 2018, ApJ,
+
+859, 60, doi: 10.3847/1538-4357/aabe2e
+
+Luminet, J.-P. 1979, A&A, 75, 228
+Lynden-Bell, D. 1969, Nature, 223, 690,
+
+doi: 10.1038/223690a0
+
+Magorrian, J., Tremaine, S., Richstone, D., et al. 1998, AJ,
+
+115, 2285, doi: 10.1086/300353
+
+Markoff, S., Falcke, H., Yuan, F., & Biermann, P. L. 2001,
+
+A&A, 379, L13, doi: 10.1051/0004-6361:20011346
+
+Marrone, D. P., Moran, J. M., Zhao, J. ., & Rao, R. 2007,
+
+ApJ, 654, L57
+
+Marrone, D. P., Moran, J. M., Zhao, J.-H., & Rao, R. 2006,
+
+ApJ, 640, 308, doi: 10.1086/500106
+
+McClintock, J. E., & Remillard, R. A. 1986, ApJ, 308, 110,
+
+doi: 10.1086/164482
+
+Mościbrodzka, M., Falcke, H., & Shiokawa, H. 2016, A&A,
+
+586, A38, doi: 10.1051/0004-6361/201526630
+
+Mościbrodzka, M., Gammie, C. F., Dolence, J. C.,
+
+Shiokawa, H., & Leung, P. K. 2009, ApJ, 706, 497,
+doi: 10.1088/0004-637X/706/1/497
+
+Nagar, N. M., Falcke, H., Wilson, A. S., & Ho, L. C. 2000,
+
+ApJ, 542, 186, doi: 10.1086/309524
+
+Narayan, R., Igumenshchev, I. V., & Abramowicz, M. A.
+
+2000, ApJ, 539, 798, doi: 10.1086/309268
+
+—. 2003, PASJ, 55, L69, doi: 10.1093/pasj/55.6.L69
+
+18
+
+The EHT Collaboration et al.
+
+Narayan, R., & McClintock, J. E. 2008, NewAR, 51, 733,
+
+Rogers, A. E. E., Doeleman, S., Wright, M. C. H., et al.
+
+doi: 10.1016/j.newar.2008.03.002
+
+Narayan, R., Sądowski, A., Penna, R. F., & Kulkarni, A. K.
+
+2012, MNRAS, 426, 3241,
+doi: 10.1111/j.1365-2966.2012.22002.x
+
+Narayan, R., Yi, I., & Mahadevan, R. 1995, Nature, 374,
+
+623, doi: 10.1038/374623a0
+
+Olivares, H., Younsi, Z., Fromm, C. M., et al. 2020,
+MNRAS, 497, 521, doi: 10.1093/mnras/staa1878
+
+Oppenheimer, J. R., & Snyder, H. 1939, Physical Review,
+
+56, 455, doi: 10.1103/PhysRev.56.455
+
+Özel, F., Psaltis, D., & Narayan, R. 2000, ApJ, 541, 234,
+
+doi: 10.1086/309396
+
+Özel, F., Psaltis, D., & Younsi, Z. 2021, arXiv e-prints,
+arXiv:2111.01123. https://arxiv.org/abs/2111.01123
+
+Padin, S., Woody, D. P., Hodges, M. W., et al. 1990, ApJL,
+
+360, L11, doi: 10.1086/185800
+Penrose, R. 1965, PhRvL, 14, 57,
+doi: 10.1103/PhysRevLett.14.57
+
+Predehl, P., & Truemper, J. 1994, A&A, 290, L29
+Psaltis, D., Johnson, M., Narayan, R., et al. 2018, ArXiv
+
+e-prints. https://arxiv.org/abs/1805.01242
+
+Psaltis, D., Medeiros, L., Christian, P., et al. 2020, PhRvL,
+
+125, 141104, doi: 10.1103/PhysRevLett.125.141104
+
+Quataert, E. 2002, ApJ, 575, 855, doi: 10.1086/341425
+Quataert, E., & Gruzinov, A. 2000a, ApJ, 539, 809,
+
+doi: 10.1086/309267
+
+—. 2000b, ApJ, 545, 842, doi: 10.1086/317845
+Reid, M. J., & Brunthaler, A. 2020, ApJ, 892, 39,
+
+doi: 10.3847/1538-4357/ab76cd
+
+Reid, M. J., Menten, K. M., Brunthaler, A., et al. 2019,
+
+ApJ, 885, 131, doi: 10.3847/1538-4357/ab4a11
+
+Ressler, S. M., White, C. J., Quataert, E., & Stone, J. M.
+
+2020, ApJL, 896, L6, doi: 10.3847/2041-8213/ab9532
+
+Richstone, D., Ajhar, E. A., Bender, R., et al. 1998, Nature,
+
+385, A14. https://arxiv.org/abs/astro-ph/9810378
+
+1994, ApJL, 434, L59, doi: 10.1086/187574
+
+Russell, C. M. P., Wang, Q. D., & Cuadra, J. 2017,
+MNRAS, 464, 4958, doi: 10.1093/mnras/stw2584
+
+Satapathy, K., Psaltis, D., Özel, F., et al. 2022, ApJ, 925,
+
+13, doi: 10.3847/1538-4357/ac332e
+Schmidt, M. 1963, Nature, 197, 1040,
+
+doi: 10.1038/1971040a0
+
+Schödel, R., Ott, T., Genzel, R., et al. 2002, Nature, 419,
+
+694, doi: 10.1038/nature01121
+
+Schwarzschild, K. 1916, Abh. Konigl. Preuss. Akad.
+
+Wissenschaften Jahre 1906,92, Berlin,1907, 1916, 189
+
+Shaikh, R., Kocherlakota, P., Narayan, R., & Joshi, P. S.
+
+2019, MNRAS, 482, 52, doi: 10.1093/mnras/sty2624
+
+Shen, Z.-Q., Lo, K. Y., Liang, M.-C., Ho, P. T. P., & Zhao,
+
+J.-H. 2005, Nature, 438, 62, doi: 10.1038/nature04205
+Thompson, A. R., Moran, J. M., & Swenson, Jr., G. W.
+
+2017, Interferometry and Synthesis in Radio Astronomy,
+3rd Edition (Springer International Publishing),
+doi: 10.1007/978-3-319-44431-4
+
+Wang, Q. D., Nowak, M. A., Markoff, S. B., et al. 2013,
+
+Science, 341, 981, doi: 10.1126/science.1240755
+
+Webster, B. L., & Murdin, P. 1972, Nature, 235, 37,
+
+doi: 10.1038/235037a0
+
+White, C. J., & Quataert, E. 2022, ApJ, 926, 136,
+
+doi: 10.3847/1538-4357/ac423c
+
+Wielgus, M., Marchili, N., Martí-Vidal, I., et al. 2022, in
+
+prep., 00, 0, doi: TBD
+
+Younsi, Z., Psaltis, D., & Özel, F. 2021, arXiv e-prints,
+arXiv:2111.01752. https://arxiv.org/abs/2111.01752
+
+Yuan, F., & Narayan, R. 2014, ARA&A, 52, 529,
+
+doi: 10.1146/annurev-astro-082812-141003
+
+Zylka, R., Mezger, P. G., & Lesch, H. 1992, A&A, 261, 119
+
+All Authors and Affiliations
+
+Kazunori Akiyama ,1, 2, 3 Antxon Alberdi
+
+,4 Walter Alef,5
+
+Juan Carlos Algaba ,6
+
+Richard Anantua ,3, 7, 8 Keiichi Asada ,9 Rebecca Azulay ,10, 11, 5 Uwe Bach ,5
+
+Anne-Kathrin Baczko ,5 David Ball,12 Mislav Baloković
+
+,13
+
+John Barrett
+
+,1 Michi Bauböck ,14
+
+Bradford A. Benson ,15, 16 Dan Bintley,17, 18 Lindy Blackburn ,3, 7 Raymond Blundell
+Katherine L. Bouman ,19 Geoffrey C. Bower
+
+,7
+,22, 23 Michael Bremer,24
+
+,20, 21 Hope Boyce
+
+Christiaan D. Brinkerink ,25 Roger Brissenden ,3, 7 Silke Britzen ,5 Avery E. Broderick ,26, 27, 28
+
+Dominique Broguiere
+
+,24 Thomas Bronzwaer
+
+,25 Sandra Bustamante
+
+,29 Do-Young Byun ,30, 31
+
+John E. Carlstrom ,32, 16, 33, 34 Chiara Ceccobello ,35 Andrew Chael
+Koushik Chatterjee
+
+,3, 7 Shami Chatterjee
+
+,40 Ming-Tang Chen ,20 Yongjun Chen (陈永军 )
+
+,36, 37 Chi-kwan Chan ,12, 38, 39
+,41, 42
+
+Xiaopeng Cheng ,30
+
+Ilje Cho ,4 Pierre Christian ,43 Nicholas S. Conroy ,44, 7
+
+John E. Conway ,35
+
+James M. Cordes
+
+,40 Thomas M. Crawford ,16, 32 Geoffrey B. Crew ,1
+
+Alejandro Cruz-Osorio ,45 Yuzhu Cui (崔玉竹 )
+,51, 45, 52 Roger Deane
+Mariafelicia De Laurentis
+
+,46, 47, 48
+,53, 54, 55
+
+,49, 50, 25
+Jordy Davelaar
+Jessica Dempsey ,17, 18, 56
+
+Gregory Desvignes
+
+,5, 57
+
+Sean Dougal
+
+,12 Sergio A. Dzib
+
+Jason Dexter
+
+,24, 5 Ralph P. Eatough ,59, 5 Razieh Emami
+
+,58 Vedant Dhruv ,14 Sheperd S. Doeleman ,3, 7
+,7 Heino Falcke
+
+,25
+
+Joseph Farah ,60, 61 Vincent L. Fish ,1 Ed Fomalont
+
+,62 H. Alyson Ford ,12
+
+Raquel Fraga-Encinas
+
+,25 William T. Freeman,63, 64 Per Friberg ,17, 18 Christian M. Fromm ,65, 45, 5
+
+Antonio Fuentes
+
+Olivier Gentaz
+
+,4 Peter Galison ,3, 66, 67 Charles F. Gammie
+,24 Boris Georgiev ,27, 28, 26 Ciriaco Goddi
+
+Arturo I. Gómez-Ruiz
+
+,72, 73
+
+José L. Gómez
+
+,4 Minfeng Gu (顾敏峰 )
+
+,14, 44, 68 Roberto García ,24
+,69, 70 Roman Gold ,71, 45
+,41, 74 Mark Gurwell
+
+,7
+
+Kazuhiro Hada ,47, 48 Daryl Haggard ,22, 23 Kari Haworth,7 Michael H. Hecht
+Ronald Hesper
+
+,75 Dirk Heumann ,12 Luis C. Ho (何子山 )
+Mareki Honma ,47, 48, 78 Chih-Wei L. Huang ,9 Lei Huang (黄磊 )
+
+,1
+,76, 77 Paul Ho ,9, 18
+,41, 74 David H. Hughes,72
+
+Shiro Ikeda ,2, 79, 80, 81 C. M. Violette Impellizzeri
+
+,82, 62 Makoto Inoue
+
+,9 Sara Issaoun ,7, 37
+
+David J. James
+
+,83 Buell T. Jannuzi
+
+,12 Michael Janssen ,5 Britton Jeter
+
+,9
+
+Wu Jiang (江悟 )
+
+,41 Alejandra Jiménez-Rosales
+
+,25 Michael D. Johnson ,3, 7 Svetlana Jorstad ,84
+
+Abhishek V. Joshi
+
+,14 Taehyun Jung ,30, 31 Mansour Karami
+
+,26, 27 Ramesh Karuppusamy ,5
+
+Tomohisa Kawashima ,85 Garrett K. Keating ,7 Mark Kettenis
+
+,86 Dong-Jin Kim ,5
+
+Jae-Young Kim ,87, 30, 5
+
+Jongsoo Kim ,30
+
+Junhan Kim ,12, 19 Motoki Kino ,2, 88
+
+Jun Yi Koay ,9
+
+Prashant Kocherlakota ,45 Yutaro Kofuji,47, 78 Patrick M. Koch ,9 Shoko Koyama ,89, 9
+,5 Thomas P. Krichbaum ,5 Cheng-Yu Kuo ,90, 9
+Carsten Kramer
+
+,24 Michael Kramer
+
+Noemi La Bella ,25 Tod R. Lauer
+
+,91 Daeyoung Lee
+
+,14 Sang-Sung Lee
+
+,30 Po Kin Leung ,92
+
+Aviad Levis
+
+,19 Zhiyuan Li (李志远 )
+
+,93, 94 Rocco Lico ,4, 95 Greg Lindahl
+
+,7
+
+Michael Lindqvist
+
+,35 Mikhail Lisakov ,5
+
+Jun Liu (刘俊 )
+
+,5 Kuo Liu ,5 Elisabetta Liuzzo ,96
+
+Wen-Ping Lo ,9, 97 Andrei P. Lobanov ,5 Laurent Loinard ,98, 99 Colin J. Lonsdale
+,96, 5
+Iván Martí-Vidal
+
+,100, 101, 102 Nicola Marchili
+
+Jirong Mao (毛基荣 )
+
+Ru-Sen Lu (路如森 )
+
+,41, 42, 5
+
+,84
+
+Sera Markoff
+
+,103, 104 Daniel P. Marrone
+Satoki Matsushita ,9 Lynn D. Matthews
+
+,12 Alan P. Marscher
+,1 Lia Medeiros
+
+,105, 106, 12 Karl M. Menten ,5
+
+,1
+
+,10, 11
+
+Daniel Michalik ,107, 16
+
+Izumi Mizuno ,17, 18 Yosuke Mizuno ,46, 108, 45
+
+James M. Moran ,3, 7
+
+Kotaro Moriyama ,45, 1, 47 Monika Moscibrodzka ,25 Cornelia Müller
+
+Gibwa Musoke
+
+,103, 25
+
+Ioannis Myserlis
+
+,109 Andrew Nadolski
+
+,5, 25 Alejandro Mus
+,2, 48
+
+,44 Hiroshi Nagai
+
+,10, 11
+
+Neil M. Nagar
+
+,110 Masanori Nakamura ,111, 9 Ramesh Narayan ,3, 7 Gopal Narayanan ,29
+
+Iniyan Natarajan ,53, 112 Antonios Nathanail,45, 113 Santiago Navarro Fuentes,109
+
+Joey Neilsen ,114
+
+Roberto Neri
+Junghwan Oh ,116 Hiroki Okino ,47, 78 Héctor Olivares
+
+,27, 28, 26 Aristeidis Noutsos
+
+,5 Michael A. Nowak ,115
+,25 Gisela N. Ortiz-León ,99, 5
+,12 Daniel C. M. Palumbo ,3, 7 Georgios Filippos Paraschos
+
+Tomoaki Oyama ,47 Feryal Özel
+
+,24 Chunchong Ni
+
+,5
+
+Jongho Park ,9, 117 Harriet Parsons
+
+,17, 18 Nimesh Patel
+
+,7 Ue-Li Pen ,9, 26, 118, 119, 120
+
+Dominic W. Pesce
+Oliver Porth ,103, 45 Felix M. Pötzl
+
+,7, 3 Vincent Piétu,24 Richard Plambeck ,121 Aleksandar PopStefanija,29
+,26
+
+Jorge A. Preciado-López
+,12 Hung-Yi Pu ,123, 124, 9 Venkatessh Ramakrishnan ,110, 125, 126
+
+,122, 5 Ben Prather
+
+Dimitrios Psaltis
+
+,14
+
+Ramprasad Rao ,7 Mark G. Rawlings
+
+,127, 17, 18 Alexander W. Raymond ,3, 7
+
+Luciano Rezzolla ,45, 128, 129 Angelo Ricarte
+
+Alan Rogers
+
+,1 Eduardo Ros
+
+,5 Cristina Romero-Cañizales
+
+,7, 3 Bart Ripperda ,130, 50 Freek Roelofs
+,9 Arash Roshanineshat
+
+,7, 3, 25
+,12
+
+20
+
+The EHT Collaboration et al.
+
+Helge Rottmann,5 Alan L. Roy ,5
+
+Ignacio Ruiz
+
+Salvador Sánchez
+
+,109 David Sánchez-Argüelles
+
+,109 Chet Ruszczyk ,1 Kazi L. J. Rygl
+,109
+
+,72, 73 Miguel Sánchez-Portal
+
+,96
+
+Mahito Sasada ,131, 47, 132 Kaushik Satapathy ,12 Tuomas Savolainen ,133, 126, 5 F. Peter Schloerb,29
+
+Jonathan Schonfeld ,7 Karl-Friedrich Schuster
+
+,24 Lijing Shao ,77, 5
+
+Zhiqiang Shen (沈志强 )
+
+,41, 42 Des Small
+
+,86 Bong Won Sohn ,17, 18, 30, 31, 134
+
+Jason SooHoo ,1
+
+Kamal Souccar
+
+,29 He Sun (孙赫 )
+
+,19 Fumie Tazaki
+
+,47 Alexandra J. Tetarenko ,135, 37
+
+Paul Tiede
+
+,7, 3 Remo P. J. Tilanus
+
+,12, 25, 82, 136 Michael Titus
+
+,1 Pablo Torne
+
+,109, 5
+
+Efthalia Traianou ,4, 5 Tyler Trent,12 Sascha Trippe
+
+,137 Matthew Turk ,44
+
+Ilse van Bemmel
+Jan Wagner
+
+,86 Huib Jan van Langevelde
+,5 Derek Ward-Thompson ,139
+
+Norbert Wex ,5 Robert Wharton ,5 Maciek Wielgus
+
+,86, 82, 138 Daniel R. van Rossum ,25
+
+Jesse Vos
+,3, 7
+,5 Kaj Wiik ,141 Gunther Witzel
+
+Jonathan Weintroub
+
+,140
+
+John Wardle
+
+,25
+
+,5
+
+Michael F. Wondrak ,25, 142 George N. Wong ,106, 143 Qingwen Wu (吴庆文 )
+
+,144
+
+Paul Yamaguchi
+Feng Yuan (袁峰 )
+
+,7 Doosoo Yoon ,103 André Young ,25 Ken Young ,7 Ziri Younsi
+,41, 74, 146 Ye-Fei Yuan (袁业飞 )
+
+J. Anton Zensus
+
+,17, 18, 147
+
+,5 Shuo Zhang ,148
+
+,145, 45
+
+Guang-Yao Zhao 4 And Shan-Shan Zhao (赵杉杉 )
+The Event Horizon Telescope Collaboration
+
+41
+
+Claudio Agurto,149 Alexander Allardi,150 Rodrigo Amestica,151
+Oriel Arriagada,149
+
+Juan Pablo Araneda,149
+,152 Alessandra Bertarini,5, 153 Ryan Berthold,17
+
+Jennie L. Berghuis
+
+Jay Blanchard ,154 Ken Brown,17 Mauricio Cárdenas,149 Michael Cantzler,149 Patricio Caro,149
+Edgar Castillo-Domínguez,73, 155 Tin Lok Chan ,92 Chih-Cheng Chang,156, 9 Dominic O. Chang,3, 7
+
+Shu-Hao Chang,9 Song-Chu Chang,156 Chung-Chen Chen,9 Ryan Chilson,20 Tim C. Chuter,17
+Miroslaw Ciechanowicz,5, 149 Edgar Colin-Beltran,72, 73
+Joseph Crowley,1
+,157
+Nathalie Degenaar
+
+,103 Sven Dornbusch,5 Carlos A. Durán ,149 Wendeline B. Everett
+
+Iain M. Coulson ,17
+
+Aaron Faber,158 Karl Forster
+
+,159 Miriam M. Fuchs,160 David M. Gale,72 Gertie Geertsema,161
+
+Edouard González,149 Dave Graham,5 Frédéric Gueth,24 Nils W. Halverson ,162 Chih-Chiang Han,9
+
+Kuo-Chang Han,156 Yutaka Hasegawa,163
+
+José Luis Hernández-Rebollar,72 Cristian Herrera,149
+
+Ruben Herrero-Illana ,164 Stefan Heyminck,5 Akihiko Hirota ,164, 2
+
+James Hoge,17
+
+Shelbi R. Hostler Schimpf,7 Ryan E. Howie
+
+,165 Yau-De Huang,9 Homin Jiang,9 Hao Jinchi,156
+
+David John,109 Kimihiro Kimura,163 Thomas Klein,149 Derek Kubo,20
+
+John Kuroda,17
+
+Caleb Kwon ,114 Richard Lacasse,151 Robert Laing ,166, 167 Erik M. Leitch ,32 Chao-Te Li,9
+Ching-Tang Liu,9 Kuan-Yu Liu,9, 17 Lupin C.-C. Lin ,168 Li-Ming Lu,156 Felipe Mac-Auliffe,149
+
+Pierre Martin-Cocher,9 Callie Matulonis,17
+
+,7 Hugo Messias
+Zheng Meyer-Zhao,56 Alfredo Montaña,72, 73 Francisco Montenegro-Montes
+
+John K. Maute
+
+,164, 149
+,149
+
+William Montgomerie,17, 169 Marcos Emir Moreno Nolasco,170 Dirk Muders
+,5 Hiroaki Nishioka,9
+Timothy J. Norton,7 George Nystrom,20 Hideo Ogawa,163 Rodrigo Olivares,149 Peter Oshiro,20
+,1
+Juan Pablo Pérez-Beaupuits
+
+,149, 5, 171 Rodrigo Parra,149 Neil M. Phillips,167 Michael Poirier
+Nicolas Pradel,9 Richard Qiu ,172, 173 Philippe A. Raffin,20 Alexandra S. Rahlin ,32, 15
+Jorge Ramírez,149 Sean Ressler
+Iván Rodríguez-Montoya,72, 73
+Jorge Santana,149 Paul Shaw,9 Leslie E. Shirkey Jr.,7
+Alejandro F. Saez-Madain ,164, 151
+
+,174 Mark Reynolds
+
+,175
+
+Kevin M. Silva,17 William Snow,20 Don Sousa ,1 T.K. Sridharan,7 William Stahm,17
+
+Anthony A. Stark ,7
+
+John Test,7 Karl Torstensson,149 Paulina Venegas,149 Craig Walther,17
+
+Ta-Shun Wei,9 Chris White
+
+,130 Gundolf Wieching,5 Rudy Wijnands
+
+,103
+
+Jan G. A. Wouterloot
+
+,17 Chen-Yu Yu,9 Wei Yu ,7 Milagros Zeballos,72, 176
+
+1Massachusetts Institute of Technology Haystack Observatory, 99 Millstone Road, Westford, MA 01886, USA
+
+2National Astronomical Observatory of Japan, 2-21-1 Osawa, Mitaka, Tokyo 181-8588, Japan
+3Black Hole Initiative at Harvard University, 20 Garden Street, Cambridge, MA 02138, USA
+
+4Instituto de Astrofísica de Andalucía-CSIC, Glorieta de la Astronomía s/n, E-18008 Granada, Spain
+
+5Max-Planck-Institut für Radioastronomie, Auf dem Hügel 69, D-53121 Bonn, Germany
+
+6Department of Physics, Faculty of Science, Universiti Malaya, 50603 Kuala Lumpur, Malaysia
+7Center for Astrophysics | Harvard & Smithsonian, 60 Garden Street, Cambridge, MA 02138, USA
+
+8Department of Physics & Astronomy, The University of Texas at San Antonio, One UTSA Circle, San Antonio, TX 78249, USA
+
+9Institute of Astronomy and Astrophysics, Academia Sinica, 11F of Astronomy-Mathematics Building, AS/NTU No. 1, Sec. 4, Roosevelt
+
+Rd, Taipei 10617, Taiwan, R.O.C.
+
+10Departament d’Astronomia i Astrofísica, Universitat de València, C. Dr. Moliner 50, E-46100 Burjassot, València, Spain
+
+11Observatori Astronòmic, Universitat de València, C. Catedrático José Beltrán 2, E-46980 Paterna, València, Spain
+
+The Shadow of the Supermassive Black Hole in the Center of the Milky Way
+
+21
+
+12Steward Observatory and Department of Astronomy, University of Arizona, 933 N. Cherry Ave., Tucson, AZ 85721, USA
+
+13Yale Center for Astronomy & Astrophysics, Yale University, 52 Hillhouse Avenue, New Haven, CT 06511, USA
+
+14Department of Physics, University of Illinois, 1110 West Green Street, Urbana, IL 61801, USA
+
+15Fermi National Accelerator Laboratory, MS209, P.O. Box 500, Batavia, IL 60510, USA
+
+16Department of Astronomy and Astrophysics, University of Chicago, 5640 South Ellis Avenue, Chicago, IL 60637, USA
+
+17East Asian Observatory, 660 N. A’ohoku Place, Hilo, HI 96720, USA
+
+18James Clerk Maxwell Telescope (JCMT), 660 N. A’ohoku Place, Hilo, HI 96720, USA
+
+19California Institute of Technology, 1200 East California Boulevard, Pasadena, CA 91125, USA
+
+20Institute of Astronomy and Astrophysics, Academia Sinica, 645 N. A’ohoku Place, Hilo, HI 96720, USA
+
+21Department of Physics and Astronomy, University of Hawaii at Manoa, 2505 Correa Road, Honolulu, HI 96822, USA
+
+22Department of Physics, McGill University, 3600 rue University, Montréal, QC H3A 2T8, Canada
+23McGill Space Institute, McGill University, 3550 rue University, Montréal, QC H3A 2A7, Canada
+
+24Institut de Radioastronomie Millimétrique (IRAM), 300 rue de la Piscine, F-38406 Saint Martin d’Hères, France
+
+25Department of Astrophysics, Institute for Mathematics, Astrophysics and Particle Physics (IMAPP), Radboud University, P.O. Box
+
+9010, 6500 GL Nijmegen, The Netherlands
+
+26Perimeter Institute for Theoretical Physics, 31 Caroline Street North, Waterloo, ON, N2L 2Y5, Canada
+
+27Department of Physics and Astronomy, University of Waterloo, 200 University Avenue West, Waterloo, ON, N2L 3G1, Canada
+
+28Waterloo Centre for Astrophysics, University of Waterloo, Waterloo, ON, N2L 3G1, Canada
+
+29Department of Astronomy, University of Massachusetts, 01003, Amherst, MA, USA
+
+30Korea Astronomy and Space Science Institute, Daedeok-daero 776, Yuseong-gu, Daejeon 34055, Republic of Korea
+
+31University of Science and Technology, Gajeong-ro 217, Yuseong-gu, Daejeon 34113, Republic of Korea
+
+32Kavli Institute for Cosmological Physics, University of Chicago, 5640 South Ellis Avenue, Chicago, IL 60637, USA
+
+33Department of Physics, University of Chicago, 5720 South Ellis Avenue, Chicago, IL 60637, USA
+34Enrico Fermi Institute, University of Chicago, 5640 South Ellis Avenue, Chicago, IL 60637, USA
+
+35Department of Space, Earth and Environment, Chalmers University of Technology, Onsala Space Observatory, SE-43992 Onsala,
+
+Sweden
+
+36Princeton Center for Theoretical Science, Jadwin Hall, Princeton University, Princeton, NJ 08544, USA
+
+37NASA Hubble Fellowship Program, Einstein Fellow
+
+38Data Science Institute, University of Arizona, 1230 N. Cherry Ave., Tucson, AZ 85721, USA
+39Program in Applied Mathematics, University of Arizona, 617 N. Santa Rita, Tucson, AZ 85721
+
+40Cornell Center for Astrophysics and Planetary Science, Cornell University, Ithaca, NY 14853, USA
+
+41Shanghai Astronomical Observatory, Chinese Academy of Sciences, 80 Nandan Road, Shanghai 200030, People’s Republic of China
+
+42Key Laboratory of Radio Astronomy, Chinese Academy of Sciences, Nanjing 210008, People’s Republic of China
+
+43Physics Department, Fairfield University, 1073 North Benson Road, Fairfield, CT 06824, USA
+
+44Department of Astronomy, University of Illinois at Urbana-Champaign, 1002 West Green Street, Urbana, IL 61801, USA
+
+45Institut für Theoretische Physik, Goethe-Universität Frankfurt, Max-von-Laue-Straße 1, D-60438 Frankfurt am Main, Germany
+46Tsung-Dao Lee Institute, Shanghai Jiao Tong University, Shengrong Road 520, Shanghai, 201210, People’s Republic of China
+
+47Mizusawa VLBI Observatory, National Astronomical Observatory of Japan, 2-12 Hoshigaoka, Mizusawa, Oshu, Iwate 023-0861, Japan
+
+48Department of Astronomical Science, The Graduate University for Advanced Studies (SOKENDAI), 2-21-1 Osawa, Mitaka, Tokyo
+
+49Department of Astronomy and Columbia Astrophysics Laboratory, Columbia University, 550 W 120th Street, New York, NY 10027,
+
+50Center for Computational Astrophysics, Flatiron Institute, 162 Fifth Avenue, New York, NY 10010, USA
+
+51Dipartimento di Fisica “E. Pancini”, Universitá di Napoli “Federico II”, Compl. Univ. di Monte S. Angelo, Edificio G, Via Cinthia,
+
+52INFN Sez. di Napoli, Compl. Univ. di Monte S. Angelo, Edificio G, Via Cinthia, I-80126, Napoli, Italy
+
+53Wits Centre for Astrophysics, University of the Witwatersrand, 1 Jan Smuts Avenue, Braamfontein, Johannesburg 2050, South Africa
+
+54Department of Physics, University of Pretoria, Hatfield, Pretoria 0028, South Africa
+
+55Centre for Radio Astronomy Techniques and Technologies, Department of Physics and Electronics, Rhodes University, Makhanda 6140,
+
+57LESIA, Observatoire de Paris, Université PSL, CNRS, Sorbonne Université, Université de Paris, 5 place Jules Janssen, 92195
+
+56ASTRON, Oude Hoogeveensedijk 4, 7991 PD Dwingeloo, The Netherlands
+
+58JILA and Department of Astrophysical and Planetary Sciences, University of Colorado, Boulder, CO 80309, USA
+
+59National Astronomical Observatories, Chinese Academy of Sciences, 20A Datun Road, Chaoyang District, Beijing 100101, PR China
+
+60Las Cumbres Observatory, 6740 Cortona Drive, Suite 102, Goleta, CA 93117-5575, USA
+61Department of Physics, University of California, Santa Barbara, CA 93106-9530, USA
+
+62National Radio Astronomy Observatory, 520 Edgemont Road, Charlottesville, VA 22903, USA
+
+181-8588, Japan
+
+USA
+
+I-80126, Napoli, Italy
+
+South Africa
+
+Meudon, France
+
+22
+
+The EHT Collaboration et al.
+
+63Department of Electrical Engineering and Computer Science, Massachusetts Institute of Technology, 32-D476, 77 Massachusetts Ave.,
+
+Cambridge, MA 02142, USA
+
+64Google Research, 355 Main St., Cambridge, MA 02142, USA
+
+65Institut für Theoretische Physik und Astrophysik, Universität Würzburg, Emil-Fischer-Str. 31, 97074 Würzburg, Germany
+
+66Department of History of Science, Harvard University, Cambridge, MA 02138, USA
+
+67Department of Physics, Harvard University, Cambridge, MA 02138, USA
+68NCSA, University of Illinois, 1205 W Clark St, Urbana, IL 61801, USA
+
+69Dipartimento di Fisica, Università degli Studi di Cagliari, SP Monserrato-Sestu km 0.7, I-09042 Monserrato, Italy
+
+70INAF - Osservatorio Astronomico di Cagliari, Via della Scienza 5, 09047, Selargius, CA, Italy
+71CP3-Origins, University of Southern Denmark, Campusvej 55, DK-5230 Odense M, Denmark
+
+72Instituto Nacional de Astrofísica, Óptica y Electrónica. Apartado Postal 51 y 216, 72000. Puebla Pue., México
+
+73Consejo Nacional de Ciencia y Tecnologìa, Av. Insurgentes Sur 1582, 03940, Ciudad de México, México
+
+74Key Laboratory for Research in Galaxies and Cosmology, Chinese Academy of Sciences, Shanghai 200030, People’s Republic of China
+75NOVA Sub-mm Instrumentation Group, Kapteyn Astronomical Institute, University of Groningen, Landleven 12, 9747 AD Groningen,
+
+76Department of Astronomy, School of Physics, Peking University, Beijing 100871, People’s Republic of China
+77Kavli Institute for Astronomy and Astrophysics, Peking University, Beijing 100871, People’s Republic of China
+
+78Department of Astronomy, Graduate School of Science, The University of Tokyo, 7-3-1 Hongo, Bunkyo-ku, Tokyo 113-0033, Japan
+
+79The Institute of Statistical Mathematics, 10-3 Midori-cho, Tachikawa, Tokyo, 190-8562, Japan
+
+80Department of Statistical Science, The Graduate University for Advanced Studies (SOKENDAI), 10-3 Midori-cho, Tachikawa, Tokyo
+
+81Kavli Institute for the Physics and Mathematics of the Universe, The University of Tokyo, 5-1-5 Kashiwanoha, Kashiwa, 277-8583,
+
+The Netherlands
+
+190-8562, Japan
+
+Japan
+
+82Leiden Observatory, Leiden University, Postbus 2300, 9513 RA Leiden, The Netherlands
+
+83ASTRAVEO LLC, PO Box 1668, Gloucester, MA 01931
+
+84Institute for Astrophysical Research, Boston University, 725 Commonwealth Ave., Boston, MA 02215, USA
+
+85Institute for Cosmic Ray Research, The University of Tokyo, 5-1-5 Kashiwanoha, Kashiwa, Chiba 277-8582, Japan
+
+86Joint Institute for VLBI ERIC (JIVE), Oude Hoogeveensedijk 4, 7991 PD Dwingeloo, The Netherlands
+
+87Department of Astronomy and Atmospheric Sciences, Kyungpook National University, Daegu 702-701, Republic of Korea
+
+88Kogakuin University of Technology & Engineering, Academic Support Center, 2665-1 Nakano, Hachioji, Tokyo 192-0015, Japan
+
+90Physics Department, National Sun Yat-Sen University, No. 70, Lien-Hai Road, Kaosiung City 80424, Taiwan, R.O.C.
+
+89Niigata University, 8050 Ikarashi-nino-cho, Nishi-ku, Niigata 950-2181, Japan
+
+91National Optical Astronomy Observatory, 950 N. Cherry Ave., Tucson, AZ 85719, USA
+92Department of Physics, The Chinese University of Hong Kong, Shatin, N. T., Hong Kong
+
+93School of Astronomy and Space Science, Nanjing University, Nanjing 210023, People’s Republic of China
+
+94Key Laboratory of Modern Astronomy and Astrophysics, Nanjing University, Nanjing 210023, People’s Republic of China
+
+95INAF-Istituto di Radioastronomia, Via P. Gobetti 101, I-40129 Bologna, Italy
+
+96INAF-Istituto di Radioastronomia & Italian ALMA Regional Centre, Via P. Gobetti 101, I-40129 Bologna, Italy
+97Department of Physics, National Taiwan University, No.1, Sect.4, Roosevelt Rd., Taipei 10617, Taiwan, R.O.C
+98Instituto de Radioastronomía y Astrofísica, Universidad Nacional Autónoma de México, Morelia 58089, México
+
+99Instituto de Astronomía, Universidad Nacional Autónoma de México (UNAM), Apdo Postal 70-264, Ciudad de México, México
+
+100Yunnan Observatories, Chinese Academy of Sciences, 650011 Kunming, Yunnan Province, People’s Republic of China
+
+101Center for Astronomical Mega-Science, Chinese Academy of Sciences, 20A Datun Road, Chaoyang District, Beijing, 100012, People’s
+
+102Key Laboratory for the Structure and Evolution of Celestial Objects, Chinese Academy of Sciences, 650011 Kunming, People’s
+
+103Anton Pannekoek Institute for Astronomy, University of Amsterdam, Science Park 904, 1098 XH, Amsterdam, The Netherlands
+104Gravitation and Astroparticle Physics Amsterdam (GRAPPA) Institute, University of Amsterdam, Science Park 904, 1098 XH
+
+Republic of China
+
+Republic of China
+
+Amsterdam, The Netherlands
+
+105NSF Astronomy and Astrophysics Postdoctoral Fellow
+
+106School of Natural Sciences, Institute for Advanced Study, 1 Einstein Drive, Princeton, NJ 08540, USA
+
+107Science Support Office, Directorate of Science, European Space Research and Technology Centre (ESA/ESTEC), Keplerlaan 1, 2201
+
+AZ Noordwijk, The Netherlands
+
+108School of Physics and Astronomy, Shanghai Jiao Tong University, 800 Dongchuan Road, Shanghai, 200240, People’s Republic of China
+
+109Institut de Radioastronomie Millimétrique (IRAM), Avenida Divina Pastora 7, Local 20, E-18012, Granada, Spain
+
+110Astronomy Department, Universidad de Concepción, Casilla 160-C, Concepción, Chile
+
+111National Institute of Technology, Hachinohe College, 16-1 Uwanotai, Tamonoki, Hachinohe City, Aomori 039-1192, Japan
+
+112South African Radio Astronomy Observatory, Observatory 7925, Cape Town, South Africa
+
+The Shadow of the Supermassive Black Hole in the Center of the Milky Way
+
+23
+
+113Department of Physics, National and Kapodistrian University of Athens, Panepistimiopolis, GR 15783 Zografos, Greece
+
+114Department of Physics, Villanova University, 800 Lancaster Avenue, Villanova, PA 19085, USA
+
+115Physics Department, Washington University CB 1105, St Louis, MO 63130, USA
+
+116Sejong University, 209 Neungdong-ro, Gwangjin-gu, Seoul, Republic of Korea
+
+117EACOA Fellow
+
+118Canadian Institute for Theoretical Astrophysics, University of Toronto, 60 St. George Street, Toronto, ON, M5S 3H8, Canada
+119Dunlap Institute for Astronomy and Astrophysics, University of Toronto, 50 St. George Street, Toronto, ON, M5S 3H4, Canada
+
+120Canadian Institute for Advanced Research, 180 Dundas St West, Toronto, ON, M5G 1Z8, Canada
+
+121Radio Astronomy Laboratory, University of California, Berkeley, CA 94720, USA
+
+122Department of Physics, University College Cork, Kane Building, College Road, Cork T12 K8AF, Ireland
+
+123Department of Physics, National Taiwan Normal University, No. 88, Sec.4, Tingzhou Rd., Taipei 116, Taiwan, R.O.C.
+
+124Center of Astronomy and Gravitation, National Taiwan Normal University, No. 88, Sec. 4, Tingzhou Road, Taipei 116, Taiwan,
+
+R.O.C.
+
+125Finnish Centre for Astronomy with ESO, FI-20014 University of Turku, Finland
+
+126Aalto University Metsähovi Radio Observatory, Metsähovintie 114, FI-02540 Kylmälä, Finland
+
+127Gemini Observatory/NSF NOIRLab, 670 N. A’oh¯ok¯u Place, Hilo, HI 96720, USA
+
+128Frankfurt Institute for Advanced Studies, Ruth-Moufang-Strasse 1, 60438 Frankfurt, Germany
+
+129School of Mathematics, Trinity College, Dublin 2, Ireland
+
+130Department of Astrophysical Sciences, Peyton Hall, Princeton University, Princeton, NJ 08544, USA
+
+131Department of Physics, Tokyo Institute of Technology, 2-12-1 Ookayama, Meguro-ku, Tokyo 152-8551, Japan
+
+132Hiroshima Astrophysical Science Center, Hiroshima University, 1-3-1 Kagamiyama, Higashi-Hiroshima, Hiroshima 739-8526, Japan
+
+133Aalto University Department of Electronics and Nanoengineering, PL 15500, FI-00076 Aalto, Finland
+
+134Department of Astronomy, Yonsei University, Yonsei-ro 50, Seodaemun-gu, 03722 Seoul, Republic of Korea
+
+135Department of Physics and Astronomy, Texas Tech University, Lubbock, Texas 79409-1051, USA
+
+136Netherlands Organisation for Scientific Research (NWO), Postbus 93138, 2509 AC Den Haag, The Netherlands
+137Department of Physics and Astronomy, Seoul National University, Gwanak-gu, Seoul 08826, Republic of Korea
+
+138University of New Mexico, Department of Physics and Astronomy, Albuquerque, NM 87131, USA
+
+139Jeremiah Horrocks Institute, University of Central Lancashire, Preston PR1 2HE, UK
+140Physics Department, Brandeis University, 415 South Street, Waltham, MA 02453, USA
+141Tuorla Observatory, Department of Physics and Astronomy, University of Turku, Finland
+
+142Radboud Excellence Fellow of Radboud University, Nijmegen, The Netherlands
+
+143Princeton Gravity Initiative, Princeton University, Princeton, New Jersey 08544, USA
+
+144School of Physics, Huazhong University of Science and Technology, Wuhan, Hubei, 430074, People’s Republic of China
+145Mullard Space Science Laboratory, University College London, Holmbury St. Mary, Dorking, Surrey, RH5 6NT, UK
+
+146School of Astronomy and Space Sciences, University of Chinese Academy of Sciences, No. 19A Yuquan Road, Beijing 100049,
+
+People’s Republic of China
+
+147Astronomy Department, University of Science and Technology of China, Hefei 230026, People’s Republic of China
+
+149European Southern Observatory, Alonso de Córdova 3107, Vitacura, Casilla 19001, Santiago de Chile, Chile
+
+148Bard College, 30 Campus Road, Annandale-on-Hudson, NY, 12504
+
+150University of Vermont, Burlington, VT 05405, U.S.A.
+
+151National Radio Astronomy Observatory, NRAO Technology Center, 1180 Boxwood Estate Road, Charlottesville, VA 22903, USA
+
+152Gemini Observatory, 670 N. A’ohoku Place, Hilo, Hawaii, 96720, USA
+
+153Institute of Geodesy and Geoinformation, University of Bonn, D-53113 Bonn, Germany
+
+154National Radio Astronomy Observatory, Socorro, NM 87801, USA
+
+155SRON-Netherlands Institute for Space Research, Landleven 12, 9747 AD Groningen, Netherlands
+
+156National Chung-Shan Institute of Science and Technology, No.566, Ln. 134, Longyuan Rd., Longtan Dist., Taoyuan City 325, Taiwan,
+
+R.O.C.
+
+157CASA, Department of Astrophysical and Planetary Sciences, University of Colorado, Boulder, CO 80309, USA
+
+158Western University, 1151 Richmond Street, London, Ontario, N6A 3K7, Canada
+
+159Space Radiation Laboratory, California Institute of Technology, 1200 East California Boulevard, Pasadena, CA 91125, USA
+
+160Drexel University, 3141 Chestnut Street, Philadelphia PA 19104
+
+161Research and Development Weather and Climate Models, Royal Netherlands Meteorological Institute, Utrechtseweg 297, 3731 GA, De
+
+Bilt, The Netherlands
+
+162Department of Astrophysical and Planetary Sciences and Department of Physics, University of Colorado, Boulder, CO 80309, USA
+
+163Osaka Prefecture University, Gakuencyou Sakai Osaka, Sakai 599-8531, Kinki, Japan
+
+164Joint ALMA Observatory, Alonso de Córdova 3107, Vitacura 763-0355, Santiago de Chile, Chile
+
+165MMT Observatory, P.O. Box 210065, University of Arizona, Tucson, AZ 85721, USA
+
+24
+
+The EHT Collaboration et al.
+
+166SKA Observatory, Jodrell Bank, Lower Withington, Macclesfield SK11 9FT
+
+167European Southern Observatory, Karl-Schwarzschild-Strasse 2, D-85478 Garching, Germany
+168Department of Physics, National Cheng Kung University, Tainan 701401, Taiwan, R.O.C.
+
+169SOFIA Science Center, Universities Space Research Association, NASA Ames Research Center, Moffett Field, CA 94035, USA
+170Coorporación Mexicana de Investigación en Materiales S.A. de C.V., Ciencia y Tecnología 790, Colonia Saltillo 400, Saltillo,
+
+Coahuila, C.P. 25290, Mexico
+
+171Centro de Astro-Ingeniería (AIUC), Pontificia Universidad Católica de Chile, Av. Vicuña Mackena 4860, Macul, Santiago, Chile
+
+172Department of Physics, Harvard University, 17 Oxford Street, Cambridge, MA 02138, USA
+
+173John A. Paulson School of Engineering and Applied Sciences, Harvard University, 29 Oxford Street, Cambridge, MA 02138, USA,
+
+174Kavli Institute For Theoretical Physics, 2411 Kohn Hall, Santa Barbara, CA 93111 USA
+
+175Department of Astronomy, University of Michigan, 1085 South University Avenue, Ann Arbor, MI 48109, USA
+176Universidad de las Américas Puebla, Sta. Catarina Mártir S/N, San Andrés Cholula, Puebla, C.P. 72810, Mexico
+
+

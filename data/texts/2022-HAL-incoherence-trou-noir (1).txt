@@ -1,0 +1,3388 @@
+	
+	
+
+1	
+
+J.P.Petit1		G.	D’Agostini2		
+Manaty	Research	Group	
+
+Inconsistance	mathématique	et	physique	du	modèle	des	Trous	Noirs.	Le	modèle	
+
+des	Plugstars	en	tant	qu’alternative.		
+
+_____________________________________________________________________________________________	
+Résumé	:		
+				On	détaille	les	différents	points	sur	lesquels	se	base	le	modèle	du	trou	noir,	en	
+montrant	en	particulier	que	l’extension	métrique	de	Kruskal	repose	sur	un	changement	
+de	variable	irrégulier,	associé	à	l’hypothèse	que	zéro	élevé	à	la	puissance	zéro	est	égal	à	
+l’unité.	L’obsession	naïve	de	la	contractibilité	de	l’espace	amène	ses	concepteurs	à	une	
+véritable	aberration	géométrique	consistant	à	envisager	qu’à	l’intérieur	de	l’objet	les	
+variables	de	temps	et	d’espace	voient	leurs	rôles	s’échanger,	alors	qu’une	structure	
+équipée	d’une	sphère	de	gorge	évite	ce	choix.	On	montre	qu’une	relecture	de	la	solution	
+de	Schwarzschild	intérieure,	conjuguée	au	choix	d’une	autre	coordonnée	de	temps	
+admettant	la	présence	d’un	terme	croisé	en	drdt,	conduit	à	envisager	une	one-way	
+membrane,	en	tant	qu’interface	de	communication	entre	deux	espace	temps	Lorentzien	
+à	travers	laquelle	la	matière	transite	en	un	temps	fini,	ce	qui	invalide	le	traitement	de	la	
+solution	de	Schwarzschild	extérieure	en	tant	qu’arrêt	sur	image	d’un	processus	très	
+rapide.	La	prise	en	compte	de	la	solution	de	Schwarzschild	intérieure,	où	une	criticité	
+physique	survient	avant	la	criticité	géométrique	montre	que	ceci	se	traduit	par	une	
+inversion	locale,	au	centre	de	l’objet,	de	la	variable	temps	et	de	la	masse	des	particules.	
+Ce	phénomène	peut	alors	être	interprété	à	travers	le	modèle	cosmologique	Janus,	cette	
+masse	en	excès	étant	aussitôt	éjectée	hors	de	l’étoile.	Un	modèle	alternatif,	de	plugstar,	
+émerge,	présentant	un	redshift	gravitationnel	de	3,	qui	cadre	avec	les	données	collectées	
+pour	les	objets	hypermassifs	de	M87	et	de	la	voie	lactée.	Nous	prédisons	que	cette	même	
+valeur	accompagnera	les	images	semblables	qui	seront	collectées	dans	le	futur.		
+_____________________________________________________________________________________________	
+Mots-clés	:	black	hole,	Schwarzschild,	Janus	Cosmological	Model,	Kruskal,	Plugstar,	
+neutron	star,	negative	mass,	negative	energy,		
+_____________________________________________________________________________________________	
+1	–	Introduction.		
+				Aujourd’hui	l’existence	des	trous	noirs	stellaires	ou	géants,	est	considérée	comme	un	
+fait	avéré3.	Ainsi,	lorsque	les	premières	images	de	l’objet	supermassif	situé	au	centre	de	
+																																																								
+1	Jean-Pierre.Petit@manaty.net	
+2	Gilles.dagostini@manaty.net	
+3	Au	point	que	Robbert	Dijkgraaf,	spécialiste	de	la	théorie	des	cordes,	qui	fut	directeur	
+du	prestigieux	Institute	for	Advanced	science	de	Princeton	de	2012	à	2022,	auquel	
+appartinrent	Albert	Einstein	et	Kurt	Gödel,	n’hésite	pas	à	déclarer	que	la	consécration	de	
+
+Première	image	du	trou	noir	supermassifs.	
+
+Premiers	résultats	du	télescope	de	l’horizon	des	évènements.		
+
+It	is	also	straightforward	to	reject	some	alternative	interpretation.	
+
+	
+2	
+la	galaxie	M87	émergèrent	d’une	reconstitution	à	l’aide	d’un	long	traitement	de	la	masse	
+énorme	des	données	collectées	par	l’ordinateur,	les	scientifiques	titrèrent	aussitôt		[1]	:		
+					L’identification	de	l’image	obtenue	avec	celle	d’un	«	Trou	Noir	Supermassif	»	est	
+apparue	d’emblée	comme	incontestable,	la	phrase	étant	:		
+Traduction	:		
+					A	l’appui	de	cette	conclusion	les	auteurs	effectuent	un	recensement	de	tous	les	
+modèles	interprétatifs	connus,	dont	aucun	ne	leur	semble	cadrer	avec	l’image	obtenue.		
+Mais	que	voit-on	sur	cette	image,	présentée	en	fausses	couleurs	?	Avant	tout	un	anneau	
+de	plus	grande	luminosité,		entourant	une	tache	sombre.	Dans	l’article,	en	dessous	de	
+l’image	de	gauche	de	la	figure	1,	on	trouve	une	barre		permettant	de	relier	l’intensité	
+chromatique	à	une	température	de	brillance,	ou	le	noir	code	une	valeur	proche	de	zéro,	
+tandis	qu’un	jaune	très	clair,	tirant	vers	le	blanc,	désigne	une	température	de	brillance	
+maximale	atteignant	6	milliards	de	degrés.		
+						Les	radiotélescopes	ayant	contribué	à	la	construction	d’une	telle	image	sur	la	base	de		
+longueurs	d’onde	millimétriques,	correspondant	à	une	émission	par	rayonnement	
+synchrotron	autour	de	230	Gigahertz.	Même	constat	cinq	ans	plus	tard	quand	arrive	la	
+première	image	de	l’objet	Sgr	A*,	situé	au	centre	de	la	Voie	Lactée,	image	de	droite.		
+
+La	conclusion	qui	s’impose	est	de	rejeter	toute	interprétation	alternative.	
+
+																																																																																																																																																																													
+découverte	des	trous	noirs	est	équivalente,	un	siècle	plus	tard,	à	celle	de	l’existence	
+l’atome.		
+
+	
+
+	
+
+3	
+
+	.	
+
+Mesures	de	température	de	brillance.	Rapport	Tmax/Tmin	:	3.	
+
+Figure	1	:	Images	des	objets	au	centre	de	M87	et	de	la	Voie	Lactée.	
+
+	
+						Il	se	trouve	que	l’œil	humain	perçoit	avec	précision	les	différences	chromatiques.	En	
+l’utilisant	comme	instrument	de	mesure,	si	on	trouve	que	la	température	de	brillance	de	
+l’environnement	cadre	avec	une	valeur	nulle	c’est	loin	d’être	le	cas	pour	la	partie	
+centrale	de	l’objet	de	la	figure	de	gauche,	représentant	l’objet	au	centre	de	M87,	qui	
+conduit	à	une	valeur	autour	de	1,9	milliards	de	degrés,	la	température	maximale,	dans	
+l’anneau,	atteignant	5,7	milliards	de	kelvin.	Rapport	entre	les	deux	:	3.	Bien	que	les	
+auteurs	de	l’article	ajoutent	«	que	la	valeur	de	la	température	de	brillance	mesurée	ne	
+doit	pas	être	immédiatement	identifiée	à	une	température	du	plasma	entourant	l’objet	»,	
+on	est	quand	même	en	droit	de	penser	qu’il	existe	une	forte	corrélation	entre	les	deux.	
+Passons	à	l’objet	de	la	figure	de	droite,	représentant	l’objet	Sgr	A*,	au	centre	de	la	voie	
+lactée.	Température	Minimale	4	milliards	de	degrés.	Température	maximale	12	
+milliards	de	degrés.		
+						Si	on	se	rapporte	aux	images	de	synthèse	des	trous	noirs,	si	on	se	fonde	sur	les	
+nombreuses	simulations	effectuées,	un	contraste	de		température	de	brillance	bien	
+supérieur	devrait	pouvoir	être	observée,	quel	que	soit	l’angle	sous	lequel	celui-ci	est	
+observé.		
+
+Encore	une	fois,	rapport	des	températures	de	brillance		:	3	
+
+	
+4	
+				Le	mois	de	novembre	1915	est	considéré	comme	le	moment	de	la	naissance	de	la	
+relativité	générale,	correspondant	à	la	première	publication	[2]		par	Albert	Einstein	de	
+sa	célèbre	équation	de	champ,	dont	tout	est	censé	découler.	A	l’occasion	du	centenaire	
+de	cette	découverte	les	principaux	spécialistes	de	cette	discipline,	dans	le	monde	entier,	
+donnèrent	des	conférences	retraçant	les	évènements	qui	marquèrent	l’avènement	de	
+cette	nouvelle	vision	du	monde.	En	France	l’académicien	Thibault	Damour	s’attela	à	
+cette	tache	en	les	exposant	lors	de	conférences	données	à	l’Institut	des	Hautes	Etudes,	
+où	il	est	professeur	titulaire4.	S’agissant	du	modèle	du	trou	noir,	en	tout	début	de	
+conférence	il	présente	deux	diapositives.	Dans	la	première	image	on	voit	le	visage	du	
+mathématicien	allemand	Karl	Schwarzschild,	auteur	de	la	première	solution	non	linéaire	
+[3]	de	l’équation	de	champ	publiée		par	Einstein	quelques	mois	plus	tôt,	et	qui	sera	à	la	
+base	de	l’élaboration	du	modèle	du	trou	noir,	un	demi	siècle	plus	tard.	En	bas	de	l’image	
+la	reproduction	à	l’identique	de	la	métrique	publiée	par	lui	en	décembre	1915-1916.		
+	
+
+	
+
+Figure	2	:	La	première	présentation	de	sa	solution	métrique	par	K.Schwarzschild	
+
+	
+					Ces	calculs	de	géométrie	différentielle	reposent	entièrement	sur	des	quantités	réelles,	
+qu’il	s’agisse	des	valeurs	des	coordonnées	ou	de	la	longueur	s	,	identifiée	au	temps	
+propre.		α	représente	ce	qui	sera	plus	tard	appelé	«	rayon	de	Schwarzschild		RS	»,	ou	
+«	rayon	gravitationnel	Rg	».		Très	clairement,	au	début	de	son	article	[3]	Schwarzschild		
+précise	les	coordonnées	dans	lesquelles	il	compte	exprimer	sa	solution	:		
+(1)																																		   x , y , z
+x2 + y2 + x2 ∈ !+		
+																																																								
+4	http://www.youtube.com/watch?v=fFj1ZT1z74E	
+
+} ∈!3
+
+r =
+
+{
+
+	
+5	
+				On	trouve	dans	cette	expression	deux	lettres.	La	première	est	r	,	qui	est	la	coordonnée	
+radiale	figurant	dans	un	passage	en	coordonnées	polaires,	traduisant	le	passage	d’un	
+système	de	représentation	  
+},	tout	ceci	étant	
+parfaitement	précisé	dans	l’article	:	
+
+}	au	système	  
+
+t , r , θ , ϕ
+
+t , x , y , z
+
+{
+
+{
+
+	
+Figure	3	:	Schwarzschild	introduit	des	coordonnées	polaires	[3]	
+								Mais,	pour	recoller	plus	aisément	au	résultat	d’Einstein,	qui	construit	une	solution	
+introduit	 ce	 qu’il	 appelle	 une	 «	grandeur	
+approchée,	
+linéaire,	 Schwarzschild	
+intermédiaire	R»	(«	Hilfstroβe	»),	définie	par	:		
+(2)																																														 R = ( r3 + α3 )1/3
+R ≥ α		
+						Il	est	clair,	sans	ces	conditions,	que	la	portion	de	l’espace	temps 
+}	telle	que	
+ R < α	sort	du	monde	des	réels.	Nous	proposons	de	montrer	dans	cet	article	comment	
+l’erreur	fondamentale,	consistant	à	traiter	cette	grandeur	R	comme	une	variable	radiale,	
+a	produit	une	chimère,	qui	est	devenue	le	modèle	du	trou	noir.	Aujourd’hui,	soit	les	
+spécialistes	n’ont	pas	conscience	de	cette	erreur,	soit	ils	se	refusent	à	l’envisager.	
+Témoin	cette	seconde	diapositive	de	Damour,	suivant	immédiatement	la	précédente	:		
+	
+
+t , r , θ , ϕ
+
+→
+
+{
+
+	
+
+6	
+
+	
+
+ 
+
+α
+
+α
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+{
+ 
+
+1−
+
+t , r , θ , ϕ
+
+(r3 +α3)1/3
+
+ds2 = 1−
+
+⎞
+⎠⎟ dt2 −
+
+r4(r3 +α3)−4/3
+
+Figure	4	:	L’identification	de	la	grandeur	intermédiaire	R	à	une	coordonnée	polaire	r.		
+
+}	qu’il	avait	choisies,		il	aurait	du	écrire	:		
+
+	
+				En	fait,	si	Schwarzschild	avait	exprimé	se	solution	en	utilisant	les	variables	
+dr2 − (r3 +α3)2/3(dθ2 +sin2 θ dϕ2 )	
+(3)							
+						Il	est	impossible	de	comprendre	comment	une	erreur	aussi	grossière	et	aussi	
+dommageable	a	pu	être	commise	après	la	seconde	guerre	mondiale,	il	y	a	plus	d’un	
+demi-siècle,	si	on	ne	reprend	pas	avec	précision	le	fil	de	l’histoire	de	ce	qui	est	
+considérée	aujourd’hui	comme	la	science	cosmologique.		
+	2	–	Rappel	historique		
+				En	1916	le	mathématicien	Karl	Schwarzschild	part	de	l’équation	de	champ	qu’Albert	
+Einstein	vient	de	construire	[2]		en	1915	et	grâce	à	laquelle	celui-ci	a	pu	construire	une	
+solution	stationnaire,	linéarisée	[4],	de	son	équation,	quand	le	second	membre	est	nul,	
+c’est	à	dire	se	référant	à	une	portion	d’espace	temps	vide.	A	partir	de	cette	solution,	
+s’exprimant	sous	la	forme	d’une	métrique,	Einstein	a	pu	produire	des	géodésiques	en	
+proposant	que	les	planètes	suivent	ces	courbes	:	
+						Les	orbites	elliptiques	(planètes)	et	les	trajectoires	hyperboliques	(comètes)	
+deviennent	alors	une	forme	approchée	de	ces	courbes	géodésiques	correspondant	à	
+l’approximation	Newtonienne.		
+
+(r3 +α3)1/3
+
+⎞
+⎠⎟
+
+gµν
+
+(ext)		
+(int)		
+
+	
+7	
+						Ce	résultat	relègue	les	constructions	de	Newton	et	de	Laplace	à	des	approximations	
+d’une	nouvelle	mécanique	céleste,	fondée	sur	les	solutions	géométriques	de	l’équation	
+d’Einstein,	à	prétention	d’universalité.		
+						A	partir	de	la	solution	linéarisée	qu’il	a	construite	et	publiée	Einstein	trouve	ainsi	
+l’explication	du	phénomène	de	l’avance	du	périhélie	de	la	planète	Mercure.	Il	envoie	
+alors	l’ensemble	de	ces	résultats	à	Karl	Schwarzschild	qui	est	alors	en	cantonnement	sur	
+le	front	est,	le	front	russe.		
+				Celui-ci,	mathématicien,	rompu	à	la	physique	et	à		l’astronomie,	maîtrise	totalement	
+les	nouveaux	outils	de	la	géométrie	différentielle.	Il	comprend	immédiatement	la	portée	
+des	travaux	d’Einstein.		
+				Il		envisage	alors	d’emblée	de	les	compléter	en	visant	une	modélisation	complète	du	
+problème	posé	en	termes	de	physique.		Il	décide	de	représenter	la	source	du	champ,	les	
+étoiles,	le	Soleil,	comme	des	sphères	emplies	d’un	fluide	incompressible,	de	densité	
+constante	 ρ.	Il	construit	alors,	toujours	dans	l’hypothèse	de	stationnarité,	les	deux	
+solutions	géométriques,	sous	une	forme	non-linéaire	[5]		,	décrivant	:	
+-  La	géométrie	à	l’extérieur	de	l’astre,	sous	la	forme	d’une	solution	métrique	que	
+nous	désignerons	par	 
+	
+-  La	géométrie	à	l’intérieur	de	l’astre,	sous	la	forme	d’une	solution	métrique	que	
+nous	désignerons	par	 
+					Il	entreprend	de	construire	ses	solutions	dans	un	système	de	coordonnées	
+}.	A	aucun	moment	il	ne	se	réfère	au	monde	des	complexes.	Ces	coordonnées	
+sont	des	réels,	de	même	que	l’élément	de	longueur	s,	clé	de	cette	description	
+géométrique.	Il	passe	rapidement	à	des	coordonnées		polaires	 
+}	Voir	figure	3.		
+La	grandeur	r	est	donc	automatiquement	réelle	et	positive		
+					Il	assure	la	compatibilité	de	ces	deux	solutions	en	donnant	les	conditions	de	raccord	
+des	deux	systèmes	géométriques,	sur	la	sphère.		
+					Son	but	premier	est	de	recoller	avec	le	résultat	d’Albert	Einstein	[4]	,	pour	qui	il	
+éprouve	une	profonde	admiration.	Son	but	n’est	donc	pas	d’explorer	les	tenants	et	
+aboutissants	des	solutions	qu’il	a	construites	mais	de	recoller	ses	résultats,	sous	leur	
+forme	linéarisée,	avec	celui	d’Einstein.		
+						La	version	non-linéaire	de	ces	solutions	ne	lui	semble	pas	présenter	un	intérêt	au	
+plan	de	la	physique,	dans	la	mesure	où	le	rayon	caractéristique,	qu’il	appelle	α ,	auquel	
+on	donnera	son	nom,	le	rayon	de	Schwarzschild	Rs,	se	trouve	être	très	faible	vis	à	vis	du	
+rayon	de	l’étoile	(qu’il	évalue	à	3	km	dans	le	cas	du	Soleil,	comme	le	fait	Einstein).	
+						Il	ne	présente	donc	pas	explicitement	ses	solutions	métriques	mais	se	contente,	dans	
+un	courrier	adressé	à	Einstein,	d’une	formulation	particulière,	en	coordonnées	
+sphériques,	 exprimée	 à	
+intermédiaire	 R,	 correspondant	
+à	 R = ( r3 + α3)1/3..	Quand	r	est	grand	devant	α	cette	grandeur	R	ne	diffère	donc	de	r	que	
+d’une	quantité	négligeable.	L’expression	de	la	métrique	à	l’aide	de	ce	système	de	
+
+l’aide	 d’une	 variable	
+
+t , r , θ , ϕ
+
+t , x , y , z
+
+gµν
+
+{
+ 
+
+{
+
+	
+8	
+coordonnées	 
+R > α	permet	ainsi,	de	la	façon	la	plus	simple,	d’opérer	
+une	identification	avec	la	solution	linéarisée	d’Einstein.		
+					Et	c’est	sous	cette	forme	que	Schwarzschild	présente	son	résultat	dans	son	article	de	
+janvier	1916	[3].	Ci-après	l’extrait	de	son	article	où	figure	sa	présentation	de	la	solution	:	
+		
+
+t , R , θ , ϕ
+
+}
+
+{
+
+	
+
+	
+
+	
+
+Fig.5	:	Extrait	de	son	article	où	figure	sa	présentation	de	la	solution	
+
+					On	notera	le	mot	allemand	Hilfsgröβe,	qui	se	traduit	par	:	«	grandeur	intermédiaire	».	
+La	succession	des	signes	des	termes		(		+		-		-		-		)		constitue	ce	qui	sera	plus	tard	appelé	la	
+signature	de	la	métrique.	Dans	cette	formulation,	il	est	clair	que	si	les	coordonnées	ont	
+des	valeurs	réelles	et	qu’on	veuille	que	s	le	soit	aussi	ceci	impose			:		R	>	α. 		
+					Schwarzschild	publie	un	mois	après	toujours	dans	la	même	revue,	un	second	article	
+[5]			décrivant	la	géométrique	à	l’intérieur	de	la	masse	de	l’étoile,	toujours	selon	une	
+solution	métrique	à	symétrie	sphérique	et	en	stationnaire.	Voici	le	titre	de	cet	article	.		
+	
+
+	
+
+	
+
+	
+
+	
+						Dans	cet	article	on	trouve	l’expression	de	la	seconde	métrique,	toujours	avec	cette	
+coordonnée	«	grandeur	intermédiaire	»	R,	qui	n’est	pas	une	«	coordonnée	radiale	».		
+	
+
+Fig.6	«	Champ	gravitationnel	à	l’intérieur	d’une	sphère	emplie		
+
+d’un	fluide	incompressible,	selon	la	théorie	d’Einstein.		
+
+Fig.7	Les	métriques	intérieure	et	extérieure	de	Schwarzschild	[5]		.		
+
+9	
+
+	
+
+=
+
+=
+
+{
+
+3c2
+κρo
+
+3
+κρo
+
+t , χ , θ , ϕ
+
+3c2
+8πG ρo
+
+= ˆR 2	
+
+Fig.8	:	Expression	de	l’énergie	totale,	à	l’intérieur	de	la	sphère	[5]		.	
+
+	
+10	
+				La	métrique	intérieure	(	Schwarzschild	prend	là	encore	c	=	1	)	est	exprimée	à	l’aide	
+des	coordonnées	 
+}.	Dans	celle-ci	intervient	un	facteur,	qui	a	la	dimension	du	
+carré	d’une	longueur		:		
+(4)																																																		 
+où	G	est	la	constante	de	la	gravitation	et	 ρo		la	masse	volumique,	considérée	comme	
+constante	dans	l’étoile.	Cette	grandeur	 ˆR	ne	dépend	que	de	la	densité	 ρo	de	l’étoile.	La	
+coordonnée	R	est	alors	remplacée	par	un	angle	χ	tel	que	 R = ˆR sinχ.	Dans	le	courant	de	
+l’article	Schwarzschild	évalue	la	densité	locale	d’énergie,	toujours	avec	c	=	1	:		
+	
+	
+	
+							La	valeur	 χ = 0	correspond	au	centre	de	l’étoile	tandis	que	sa	surface	correspond	à	la	
+valeur	χa.	La	densité	d’énergie	au	centre	est	donc	:	
+(5)																																																					
+					Schwarzschild	note	aussitôt	que	pour	une	valeur	 cosχa	=	1/3		cette	grandeur	devient	
+infinie.	Pour	que	cette	pression	ne	monte	pas	à	l’infini	au	centre	de	l’étoile	il	faut	que	le	
+rayon	de	celle-ci,	pour	une	masse	volumique	donnée	satisfasse	à	:		
+(6)																		 
+				En	fait	de	montée	de	la	pression	au	centre	vers	l’infini	il	s’agit	plutôt	d’une	montée	de	
+la	densité	volumique	d’énergie	(	qui	crée	la	courbure	).	Mais	une	pression	est	aussi	une	
+densité	volumique	d’énergie.	Dans	un	fluide	la	pression	est	donnée	par	  p = (ρ< v2 >) / 3.		
+A	densité	constante,	si	la	pression	dans	un	fluide	s’accroît,	cela	signifie	que	la	vitesse	
+d’agitation	thermique	moyenne	tend	vers	c	et	  p = ρc2 / 3	,	s’identifie	alors	à	la	pression	
+de	radiation.	A	densité	constante	et	à	vitesse	de	la	lumière	constante,	cette	pression	est	
+donc	limitée	par	une	valeur	maximale.		
+					Comme	Schwarzschild	reste	dans	cette	hypothèse	d’une	masse	volumique	  ρo
+constante		il	en	déduit,	comme	il	le	mentionne	dans	son	article,		que	sur	la	base	
+
+( ρo + p )χ = 0 =
+ 
+
+2cosχa
+3cosχa − 1
+
+cosχa = 1−
+
+3c2
+8πG ρo
+
+Ra
+ˆR 2 >
+
+Ra <
+
+ˆR =
+
+1
+3
+
+8
+9
+
+8
+9
+
+→
+
+	
+
+	
+
+2
+
+3
+
+3
+
+=
+
+=
+
+=
+
+c2
+
+c2
+
+8
+9
+
+8
+9
+
+Ra
+
+ˆR =
+
+2G M
+
+2G M
+
+2G M
+
+Ra →
+
+α = Rs =
+
+α = Rs =
+
+4πG Ra
+3 ρ
+
+3c2
+8πG ρ
+
+8πG Ra
+3 ρ
+3c2
+
+	
+11	
+constante,	il	en	conclut	que	quand	le	rayon	de	l’étoile	tend	vers	 ˆR,	en	son	centre	la	
+vitesse	de	la	lumière	devient	infinie.		
+	(7)																																				 
+c → ∞	
+					Historiquement	c’est	la	première	évocation	d’une	situation	où	la	vitesse	de	la	lumière	
+puisse	cesser	d’être	une	grandeur	absolue.		La	grandeur	α	ou	rayon	de	Schwarzschild	Rs	
+valait,	par	une	identification	basée	sur	l’approximation	Newtonienne	:		
+ˆR 2	
+(8)																													 
+				Dans	la	métrique	extérieure,	la	présence	du	terme	  − dR 2 / (1− α / R)		suggère	qu’une	
+criticité	géométrique	puisse	survenir	quand	R	tend	vers	le	rayon	de	Schwarzschild.	Celui-
+ci	est	proportionnel	à	la	masse	M,	donc	au	cube	du	rayon	de	l’étoile,	à	masse	volumique	
+constante.		
+																											
+(9)																																									 
+					Quand	le	rayon	Ra	de	l’étoile	devient	égal	au	rayon	de	Schwarzschild	Rs,	il	atteint	la	
+valeur	:		
+(10)																																																																		 
+qui	se	trouve	être	la	valeur	du	rayon	 ˆR,		qui	ne	dépend	que	de	la	masse	volumique.	C’est	
+en	se	centrant	sur	cette	idée	de	criticité	géométrique	que	les	astrophysiciens	évalueront	
+la	masse	maximale	d’une	étoile	à	neutrons,	assimilée	à	un	astre	de	masse	volumique	 ρo	
+constante	alors	qu’il	est	tout	à	fait	clair	en	se	fondant	sur	le	second	article	de	Karl	
+Schwarzschild	qu’une	criticité	physique	se	manifesterait	avant	que	cette	valeur	ne	soit	
+atteinte.	Mais	avant	d’envisager	ces	considérations,	revenons	sur	les	aspects	historiques.		
+					Karl	Schwarzschild	décède	d’une	infection	quelques	mois	après	avoir	publié	ses	deux	
+articles.		
+				Parlant	couramment	l’allemand,	le	jeune	Robert	Oppenheimer,	issu	d’un	famille	aisée,		
+réalise	un	complément	d’études	en	gagnant	l’université	de	Göttingen,	haut	lieu	de	toute	
+science	théorique	dans	ces	années	1900-1920.	Là-bas	il	soutient	en	1927	une	thèse	de	
+doctorat	sous	la	direction	de	Max	Born,	axée	sur	la	mécanique	quantique,	qui	n’a	donc	
+rien	à	voir	avec	la	relativité	générale.		
+					Au	début	de	1933	Einstein	séjourne	hors	d’Allemagne.	Il	apprend	alors	que	sa	maison	
+a	été	pillée	par	les	Nazis	et	décide	de	ne	plus	revenir	en	Allemagne.	Répondant	à	
+l’invitation	d’Abraham	Flexner,	fondateur	de	l’Institut	des	Etudes	Avancées	de	Princeton,	
+il	émigre	définitivement	aux	Etats-Unis	en	acceptant	un	poste	dans	cet	institut,	qu’il	
+occupera	jusqu’à	son	décès,	en	1955.		
+
+8πG Ra
+3ρ
+3c2
+
+4π Ra
+3ρ
+3
+
+3c2
+8πG ρ
+
+2G
+c2
+
+Ra =
+
+	
+
+c2
+
+=
+
+=
+
+	
+12	
+					Là–bas	il	a	des	échanges	avec	le	mathématicien	et	physicien	théoricien	américain	
+Richard	Tolmann	,	lequel	est	également	familier	de	la	langue	Allemande,	ce	qui	est	loin	
+d’être	le	cas	pour	tous	les	scientifiques	américains.	Tolman,	âgé	à	cette	époque	de	52	ans,	
+a	déjà	un	large	pan	de	sa	carrière	scientifique	derrière	lui.	Il	se	familiarise	avec	cette	
+relativité	générale	allemande,	en	même	temps	que	Robert	Oppenheimer,	qui	fréquente	
+également	Einstein.		
+				A	cette	époque	il	n’existe	aucune	traduction	anglaise	des	articles	de	Schwarzschild.	Le	
+premier	ne	sera	disponible	dans	cette	langue	qu’en	1975	et	le	second	en	1999.	La	
+présentation	faite	par	Tolman	dans	une	monographie,	en	1934,	prend	donc	la	nature	
+d’une	première	«bible	de	la	relativité	générale	».	Mais	dans	cet	ouvrage	se	réalise	la	
+confusion	entre	la	«	grandeur	intermédiaire	de	Schwarzschild	R»	et	une	coordonnée	
+radiale	r,	confusion	qui	est	également	celle	du	mathématicien	David	Hilbert.	Dès	lors	ce	
+qu’on	appelle	la	«	métrique	de	Schwarzschild	»	est	identifié	à	l’expression	présentée	par	
+T.Damour	dans	la	figure	4.	Dans	la	littérature	cette	longueur	caractéristique	est	
+indifféremment	désignée	par	Rg	,	Rs	,	2m.		
+						Les	écrits	de	Hilbert	de	1915-1916,	intitulés	«	Fondements	de	la	Physique	»	([6],	[7]),	
+dont	les	traductions	anglaises,	toujours		frappées	d’un	copyright	par	l’éditeur	allemand	
+Springer,	des	ouvrages	sur	la	relativité	et	la	physique	théorique,	restent	difficilement	
+accessibles	et	sont	la	plupart	du	temps	méconnus	des	théoriciens.		En	les	détaillant	on	
+trouve	l’origine	en	particulier	du		changement	de	signature		 (+ − − − ) → (− + + + )	
+qui	fait	qu’aujourd’hui	on	trouve	plus	communément	la	forme	:		
+(11)																																		 
+				Remarquons		qu’en	donnant	à	t		et	r	des	valeurs	réelles	on	tombe	indifféremment	sur	
+des	valeurs	réelles	ou	imaginaires	pures	de	ds.		L’explication	émerge	quand	on	détaille	
+les	écrits	de	Hilbert.	A	l’époque	où	celui-ci	produit	ces	travaux,	on	ignore	que	l’univers	a	
+connu	«		un	instant	zéro	»,	et	qu’il	évolue.	La	géométrie	de	l’espace,	et	au	delà	celle	de	
+l’espace	temps,	correspondent	donc	à	une	apparition	ex	nihilo,	inspirée	par	le	thème	
+d’une	création	biblique	(Hibert	est	croyant).		Ce	qui	préexiste	pour	Hilbert,	c’est	l’espace	
+[6],	avec	ses	trois	coordonnées	et	leur	signature	(	+	+	+	).	Puis	apparaît	une	variable	
+temps	qu’il	désigne	par	la	lettre	l.	La	métrique	tangente	de	Hilbert	est	alors	:	
+(12)																																																								 ds2 = dx2 + dy2 + dz2 + dl2	
+					Pour	satisfaire	aux	impératifs	de	la	relativité	restreinte,	Hilbert	produit	sa	propre	
+interprétation.	Alors	que	le	génie	d’Einstein	a	été	de	comprendre	que	le	temps	n’était	
+qu’une	quatrième	dimension	de	l’hypersurface	et	se	mesurait	au	départ	en	mètres,	pour	
+David	Hilbert	cette	quatrième	dimension,	temporelle,	est	en	fait	d’essence	différente,		
+imaginaire	pure	:		
+(13)																																																																									l	=	i	c	t	
+Alors	la	métrique	tangente	devient	dès	lors	:		
+(14)																																																			 ds2 = dx2 + dy2 + dz2 − c2dt2		
+
++ r2dθ2 + r2 sin2 θdϕ2	
+
+⎞
+⎠⎟ c2dt2 +
+
+dr2
+R s
+r
+
+ds2 = − 1−
+
+R s
+r
+
+1−
+
+⎛
+⎝⎜
+
+	
+
+	
+13	
+				C’est	l’origine	du	changement	soudain	de	cette	signature,	dans	les	années	qui	ont	suivi	
+l’après-guerre,	et	qui	a	fini	par	s’imposer,	sans	qu’on	puisse	trouver	un	article	où	cet	
+changement	soit	argumenté	et	justifié	En	fait,	Hilbert	ne	se	donne	pas	la	métrique	sous	
+cette	forme,	mais	considère	simplement	la	forme	bilinéaire	:		
+(15)																																																	 
+gxxdx2 + gyydy2 + gzzdz2 − gt tdt2	
+qu’il	désigne	par	la	lettre	G.	Il	définit	ensuite	deux	«	longueurs	»	[7]	.		Quand	G	est	négatif	
+il	construit	une	première	longueur,	positive	et	réelle	grâce	à	l’introduction	d’un	signe	
+moins,		qui	s’identifie	au	temps	propre	 τ	de	la	relativité	restreinte		:		
+	
+
+Fig.	9	:	La	construction	du	temps	propre,	selon	D.Hilbert.		
+						Quand	G	est	nul,	ceci	se	réfère	aux	géodésiques	de	longueur	nulle,	empruntées	par	la	
+lumière.	Quand	G	est	positif,	il	définit	alors	une	longueur	 λ,	réelle,	selon	:		
+	
+
+	
+
+	
+
+Fig.10	:	Une	second	longueur	de	l’espace-temps	[7],	définie	par	D.Hilbert	
+
+	dont	la	signification	reste	inconnue	à	ce	jour.		
+
+	
+
+	
+	
+
+	
+14	
+						Par	la	suite,	ni	lui,	ni	aucun	de	ses	commentateurs	ou	successeurs	n’évoqueront	cette	
+«	seconde	longueur	réelle	»	de	Hilbert.	Mais	on	peut	supposer	qu’il	avait	peut	être	l’idée	
+d’envisager	une	sorte	de	métaphysique	où	cette	grandeur	 λ	aurait	fait	figure	de	
+«	temps	».	Toujours	est-il	que	nous	lui	devons	cette	inversion	de	la	signature	et	le	fait	
+que	les	théoriciens	modernes	aient	perdu	tout	«	sens	des	réalités	»	en	géométrie	
+différentielle,	l’expression	utilisée	étant	en	l’occurrence	en	parfaite	adéquation	avec	la	
+situation.		Dans	l’immédiat	après	guerre	les	signatures	(	+	-	-	-	)	et	(	-	+	+	+	)	peuvent	être	
+trouvées	dans	les	différents	écrits.	Mais	en	1934,	et	avant	la	seconde	guerre	mondiale	
+c’est	la	signature	(	+	-	-	-	)	que	l’on	trouve	dans	tous	les	articles	,	en	particulier	chez	
+Tolman[8].			Comme	cela	sera	évoqué	par	la	suite	dans	des	travaux	de	Flamm	[9]	,	1916	
+et	Weyl,	1917	[10]		(qui	ne	feront	l’objet	de	traductions	anglais	qu’en	2021	et	2015),	
+certains	tentent	de	voir	dans	ces	solutions	une	façon	de	représenter	les	particules	
+massives.	Avec	son	élève	Rosen,	Einstein	publie	en	1935	un	article	allant	dans	ce	sens	
+[11],	qui	se	fonde	sur	une	présentation	de	la	solution	de	Schwarzschild,	décrivant	le	vide,	
+avec	d’autres	coordonnées.		D’où	émerge	l’idée	d’une	sorte	de	«	pont	»	entre	deux	
+espaces.	Mais	la	métrique,	ainsi	reformulée,	a	l’inconvénient	de	ne	plus	s’identifier	à	
+l’infini	avec	celle	de	Lorentz.	Ce	concept,	initialement	présent	chez	Flamm	et	Weyl,		sera	
+repris	par	de	nombreux	auteurs,		dont	C.W.Misner	et	J.A.	Wheeler	en	1957		[16].			
+	
+
+	
+
+de	Misner	et	Wheeler.	Figure	extraite	de	la	référence	[16].	
+
+Fig.	11	:	Le	«	Geon	»	:	la	conception	topologique	des	masses	et	des	charges		
+						A	partir	du	début	du	siècle	l’astronomie	fait	des	bonds	de	géant,	liés	au	
+développement	de	la	spectroscopie	et	aux	progrès	de	la	physique	théorique	et	de	la	
+mécanique	quantique.	La	source	d’énergie	des	étoiles	est	identifiée.	La	spectroscopie	
+fournit	les	données	observationnelles	précises.	Des	modèles	d’étoiles	et	de	leurs	
+scénarios	d’évolution	sont	élaborés.	Dans	les	années	trente	l’américain	Fritz	Zwicky	
+brosse	le	scénario	brutal	signalant	la	fin	de	vie	des	étoiles	massives	et	invente	le	modèle	
+des	supernovae.		
+						Le	neutron	ayant	été	découvert	en	1932	par	l’Américain	Chadwick,	on	fonde	sur	ses	
+propriétés	la	structure	du	reliquat	issu	de	telles	fins	brutales	d’étoiles	massives.	Le	
+concept	d’étoile	à	neutrons	émerge.	En	1939	Robert	Oppenheimer	publie	avec	Snyder	
+un	article	[12]		où	il	suggère,	quand	la	contre	pression	exercée	par	les	neutrons	ne	peut	
+
+C’est	l’acte	fondateur	du	modèle	du	trou	noir.	
+
+	
+15	
+contrebalancer	la	force	de	gravité,	que	les	étoiles	massives	puissent	connaître	alors	une	
+implosion	sans	autre	limite	que	le	fait	de	voir	toute	la	matière	converger	vers	un	point,	
+centre	géométrique	d’un	système	à	symétrie	sphérique.		
+					Il	tente	de	construire	le	scénario	d’une	telle	implosion,	amenant	la	matière	à	franchir	
+la	sphère	de	Schwarzschild,	déduite	de	la	simple	masse	de	l’étoile	considérée.		
+					Il	publie	ensuite	un	second	article	[13],	toujours	en	1939,	en	liaison	avec	Tolman,	où	il	
+entreprend	de		construire	la	physique	relativiste	des	objets	hypermassifs,	comme	les	
+étoiles	à	neutrons.	Dans	cet	article	on	trouve	ce	à	quoi	on	donnera	plus	tard	le	nom	
+d’équation	TOV,	pour	Tolman,	Oppenheimer	et	Volkoff,	qui	permet	de	construire	
+l’évolution	de	la	pression	à	l’intérieur	de	l’étoile.	Il	se	trouve	que	Richard	Tolman	était	
+l’auteur	d’un	travail	semblable.	Plutôt	qu’une	cosignature	les	trois	conviennent	de	
+publier	leurs	articles	au	même	moment,	dans	la	même	revue			Mais	ni	Oppenheimer	et		
+Volkoff,	ni	Tolman	ne	citent	celui	qui	est	en	fait	le	véritable	auteur	de	ce	travail	:	Karl	
+Schwarzschild,	en	1916.		
+					En	effet	ça	n’est	autre	qu’une	reproduction	à	l’identique	de	la	solution	publiée	en	
+1916	par	Karl	Schwarzschild	dans	son	second	article	[5].	Il	est	facile	de	s’en	rendre	
+compte	en	appliquant	à	sa	métrique	le	changement	de	variable	inverse,	en	passant	de	la	
+variable χ		à	la	variable	R	(maintenant	r	dans	la	littérature).	Mais	comme	personne	n’a	lu,	
+ni	même	ne	connaît	l’existence	de	cette	seconde	solution,	la	supercherie	passe	inaperçue.		
+				Sur	ce,	la	seconde	guerre	mondiale	fait	figure	d’intermède.	Déjà	âgé,	Tolman	sort	
+complètement	du	jeu	et	décède	en	1948	à	67	ans.	Oppenheimer,	quant	à	lui,	occupe	les	
+années	de	guerre	à	l’élaboration	d’intéressantes	expériences	en	plein	air.	Dans	l’après	
+guerre,	préoccupé	par	le	procès	intenté	par	ceux	qui	l’accusent	d’activité	anti-américaine	
+il	ne	retournera	plus	dans	ces	questions	de	devenir	d’étoiles.		
+						Einstein	reste	sceptique	sur	le	scénario	proposé	par	Oppenheimer.	Tentant	
+vainement	d’étendre	sa	théorie	aux	«	champs	unifiés	»,	intégrant	dans	un	même	
+contexte	géométrique	gravitation	et	électromagnétisme,	il	décède	en	1958.	C’est	alors	
+qu’une	nouvelle	génération	de	ceux	qui	s’intituleront	«	cosmologistes	»	voit	le	jour.		
+						En	1963	un	mathématicien	Néo-Zélandais,	Roy	Kerr,	construit	une	solution	de	
+l’équation	d’Einstein	sans	second	membre,	décrivant	le	vide,	toujours	stationnaire,	qui	
+n’est	plus	à	symétrie	sphérique,	mais	axisymétrique	[15].	Elle	semble	ainsi	plus	propre	à	
+décrire	les	objets	de	l’astrophysique,	l’observation	ayant	confirmé,	en	1967,	l’existence	
+d’étoiles	à	neutrons,	tout	en	précisant	que	ces	objets	sont	animés	de	rotations	très	
+rapides,	allant	jusqu’à	mille	tours	par	seconde.		
+(16)	
+	
+
+ρ2 + a 2 cos2θ
+
+ρ2 + a 2 cos2θ
+
+ds2 = 1 −
+
+)dθ2
+
+dρ2 −
+
+2mρ
+
+⎛
+⎝⎜
+
+⎞
+
+⎠⎟ c2dt2 − ρ2 + a 2 cos2θ
+)sin2 θ +
+
+ρ2 + a 2 − 2mρ
+⎤
+2mρa 2 sin4 θ
+⎥dϕ2 −
+ρ2 + a 2 cos2 θ
+⎦
+
+(
+4mρasin2θ
+ρ2 + a 2 cos2θ
+
+−
+
+(
+
+⎡
+⎢
+⎣
+
+ρ2 + a 2
+
+cdtdϕ
+
+ 
+
+	
+
+compétition	 avec	 les	 portions	 distantes	 de	 l’espace	 temps,	 Lorentziennes,	 et	 de	 ce	 fait	
+
+	
+16	
+				La	métrique	de	Kerr	possède	cette	fois	un	 terme	 croisé	en	  dt dϕ	,	alors	que	
+l’expression	classique	de	celle	de	Schwarzschild	en	est	exempte.	Cette	particularité	fait	
+que	la	vitesse	de	la	lumière,	pour	des	rayons	tirés	tangentiellement	à	un	cercle-orbite,	a	
+deux	valeurs	différentes,	selon	le	sens	choisi.	On	évoque	cet	aspect	en	écrivant		que	:	
+-	 Tout	 se	 passe	 comme	 si	 la	 source	 du	 champ,	 en	 rotation,	 entrait	 en	 quelque	 sorte	 en	
+entraîne	l’espace	temps	dans	son	mouvement	de	rotation.	(	[18]	ch.	7	).		
+					Tout	cela	ne	dépasse	par	le	stade	d’une	simple	remarque,	alors	que	cela	renvoie	à	
+l’idée	du	mathématicien	Ernst	Mach,	lequel	niait	la	réalité	d’un	espace	absolu,	pensant	
+que	l’espace	était	fondamentalement	lié	à	la	matière.	Nous	y	revendrons	par	la	suite.	
+					En	1965,	par	exemple,	Ronald	Adler,	Maurice	Bazin	et	Menaheim	Schiffer,	publient	un	
+ouvrage	intitulé	«	Introduction	to	General	Relativity	»,	aux	éditions	Mac	Graw	Hill,	
+intégrant	«	l’état	de	l’art	»	de	l’époque	[19].	On	y	retrouve	les	constructions	des	
+métriques	extérieure	et	intérieure.	A	la	fin	du	chapitre	14	où	cette	construction	se	
+trouve	reprise,	débouchant	sur	«	la	célèbre	équation	TOV	»,	dans	l’édition	de	1975	les	
+auteurs	citent	les	second	article	de	Schwarzschild,	de	1916,	sans	expliquer,	dans	le	texte,	
+que	ce	travail	est	en	fait	le	sien.	On	ne	sait	pas	si	cette	mention	était	déjà	présente	dans	
+l’édition	de	1965,	ni	même	si	le	contenu	de	ce	chapitre	faisait	partie	de	l’ouvrage,	dans	la	
+mesure	où	les	travaux	d’un	des	auteurs,	Ronald	Adler,	ne	sont	apparus	dans	la	
+littérature	spécialisée	qu’en	1971.		
+					En	cette	période	charnière,		entre	les	années	soixante	et	soixante-dix,	se	construit	le	
+modèle	du	trou	noir.		Les	principaux	artisans	sont	le	physicien	John	Archibald	Wheeler,	
+un	ancien	du	projet	Manathan	et	ses	deux	étudiants,	Kip	Thorne	[19],	futur	prix	Nobel	
+2017	et	Charles	W.	Misner	[16].	Tout	se	trouve	exposé	dans	un	ouvrage	abondamment	
+illustré,	intitulé	«	Gravitation	»,	paru	en	1973.	Enrichi	au	fil	des	années	de	très	nombreux	
+ajouts,	il	est	considéré	comme	l’ouvrage	de	référence	en	atteignant	à	ce	jour	1279	pages.		
+Que	se	passe-t-il	donc	à	cette	époque	charnière	?		
+				Wheeler	et	ses	collaborateurs	reprennent	l’article	fondateur	d’Oppenheimer	où	la	
+plupart	des	aspects	singuliers	de	la	solution	de	Schwarzschild,	telle	qu’ils	pensaient	la	
+voir	exprimée,	se	trouvent	évoqués.	La	coordonnée	r	est	considérée	comme	une	
+coordonnée	radiale.	L’objet	a	donc,	pensent-ils,	un	extérieur	et	un	intérieur.	Une	erreur	
+qui	perdure	aujourd’hui.	Voir		les	figures	2	et	4	.		
+						L’effet	de	redshift	gravitationnel	tend	vers	l’infini,	lors	qu’une	masse	voit	son	rayon	
+se	confondre	avec	sa	sphère	de	Schwarzschild.	Au	delà,	il	devient	impossible	de	
+construire	un	scénario	décrivant	cette	matière.	Toujours	est-il	qu’aucune	lumière	ne	
+peut	alors	émerger	d’un	tel	«	objet	».	D’où	le	nom	que	lui	confère	Wheeler	:	Trou	Noir.		
+					Lorsqu’on	considère	le	chemin	géodésique	suivi	par	une	masse	témoin,	plongeant	
+vers	cet	«	objet	»,	elle	atteint,	selon	le	temps	propre	s,		son	centre	géométrique	en	un	
+temps	fini,	qu’Oppenheimer	avait	déjà	situé	en	jours	en	1939.	A	l’échelle	des	
+phénomènes	géologiques,	c’est	un	temps	extrêmement	court.		
+					Par	contre	les	tenants	d’un	tel	modèle	se	basent	sur	la	coordonnée	de	temps,	utilisée	
+par	Schwarzschild	qui,	pour	eux,	s’identifie	avec	le	temps	propre	vécu	par	un	
+observateur	distant.		Un	tel	paradoxe	permet	dès	lors	de	recourir	à	cette	solution	
+
+	
+17	
+stationnaire	pour	décrire	un	phénomène	d’une	extrême	brièveté.	L’observateur	distant	
+se	trouve	ainsi	spectateur	d’un	phénomène	qui,	pour	lui,	dure	un	temps	infini.		
+	2	–	La	question	de	l’expression	de	la	solution	pour	r	<	Rs	
+			Cette	question	fut	relativement	rapidement	résolue	au	sens	où	le	scalaire	de	
+Kretschman	n’était	pas	nul	en	ce	point.	Tout	un	ensemble	de	choix	différents	de	
+variables	fut	proposés	avec	succès,	permettant	d’éliminer	cette	singularité	de	
+coordonnée	au	point	que	ce	n’est	plus	un	problème	aujourd’hui.	Restait	à	réussir	à	
+explorer	«	l’intérieur	de	cette	sphère	de	Schwarzschild	».		En	1960	Martin	Kruskal	
+propose	un	changement	de	variable		[18]		qui	prétend	parvenir	à	effectuer	ce	saut.	Son	
+projet	est,	en	partant	de	coordonnées	 
+}	de	passer	à	un	système	  v , u , θ , ϕ
+}	
+où	la	métrique	prend	la	forme	:		
+(17)																																									 ds2 = f 2(u,v)( dv2 − du2 ) − r2( dθ2 + sin2θdϕ2 )		
+						Dans	ces	conditions,	si	on	considère	les	géodésiques	radiales	et	de	longueur	nulle,	
+suivies	par	la	lumière,	on	obtient	une	valeur	constante	de		
+(18)																																																																							
+= 1		
+pour		autant	que	la	fonction	f	soit	non	nulle.	Il	introduit		deux	changements	de	variable	
+débouchant	sur	une	variable	intermédiaire	 ξ	:		
+(19)																																														
+)	
+(20)																																														
+− 1)		
+					On	a	donc	deux	formules	de	changement	de	coordonnée	r,	se	référant,	l’un	à		
+«		l’intérieur	»,	l‘autre	à	l’extérieur,	qui	doivent	en	principe	se	prendre	en	relai,	ce	qui	
+implique	une	continuité.	Or,	quand	on	trace	la	courbe,	on	obtient	ceci	:	
+
+ξ = r + Rs Ln( 1−
+
+ξ = r + Rs Ln(
+
+r > Rs
+ 
+
+r < Rs
+ 
+
+t , r , θ , ϕ
+
+dv
+du2
+
+r
+Rs
+
+r
+Rs
+
+⎛
+⎝⎜
+ 
+
+⎞
+⎠⎟
+
+{
+
+{
+
+2
+
+18	
+
+	
+
+	
+
+ 
+
+⎛
+⎝⎜
+
+dr2
+
+1−
+
+)2 −
+
+2m
+r
+
+2m
+r
+
+ds2 = 1−
+
+⎞
+(
+⎠⎟ dx°
+
+− r2( dθ2 + sin2 θdϕ2 )		
+
+Fig.	12	:	Absence	de	continuité	dans	le	changement	de	variable	de	l’article		[18]	
+						Kruskal	développe	son	calcul5	en	partant		de	l’expression	:		
+(21)																																		
+			Il	obtient	alors	:		
+(22)	
+																				
+	(23)	
+																																																								
+5	Dont	le	lecteur	pourra	trouver	le	détail	dans	la	référence	[19]			
+
+r > 2m     u = eηξ ch x°     v = eηξ sh x°
+
+⎞
+⎠⎟        f 2 =
+
+eηξ = eηr
+  
+
+r
+2m
+
+r
+2m
+
+2m
+η2r
+
+e−2ηr
+
+− 1
+
+− 1
+
+1− 4m η
+
+	
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+	
+
+19	
+
+	
+
+r < 2m     u = eηξ sh x°     v = eηξ ch x°
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+1−
+
+1− 4m η
+
+e−2ηr
+
+2m
+η2r
+
+r
+2m
+
+r
+2m
+
+eηξ = eηr 1−
+  
+
+⎞
+⎠⎟        f 2 =
+
+	où	 η	est	une	constante	d’intégration,	à	définir.	On	note	aussitôt	que	pour	r	tendant	vers	
+2m,	si	l’exposant	de	la	quantité	entre	parenthèse	est	différent	de	zéro,	la	fonction	f	
+s’annule,	ce	que	Kruskal	veut	éviter.		
+Il	alors	recours	à	un	artifice	qui	laisse	pantois	à	la	fois	le	physicien	et	le	mathématicien	:	
+						Et	il	conclut	que	pour	que	f	soit	non	nul	pour	toutes	les	valeurs	de	r	envisagées	il	faut	
+tout	simplement	que	:	
+(24)																																																																					
+						Ainsi	Kruskal	fonde-t-il	ses	conclusions	sur	une	propriété	des	nombres	que	nous	
+avons	encadrée,	tant	elle	est	aberrante	:	
+(25)																																																																							 
+					Grâce	à	cet	artifice	la	continuité	et	la	non	nullité	de	la	fonction	est	assurée,	qui	
+devient	:		
+(26)																																																																
+						Fonction	qualifiée	de	«	transcendante	»	par	Kruskal	dans	son	article	[18].	La	voici	:		
+
+		
+00 = 1 		
+e− r / 2m	
+
+f = 32m2
+r
+  
+
+1
+4m
+
+η =
+ 
+
+	
+
+20	
+
+	
+
+r
+2m
+
+r
+2m
+
+r
+2m
+
+− 1 er / 4m ch x°       
+
+er / 4m sh x°        1−
+
+r > 2m       u = 
+   
+
+r < 2m       u =  1−
+   
+
+Fig.13	:	La	«	fonction	transcendante	de	Kruskal	»	
+
+− 1 er / 4m sh x°	
+er / 4m ch x°	
+
+						La	représentation	de	Kruskal	devient	alors	:	
+(27)						
+(28)							
+					Le	fait	que,	dans	ces	deux	expressions	des	coordonnées,	en	quelque	sorte,	les	
+nouvelles	coordonnées	d’espace	et	de	temps	échangent	leur	rôles	respectifs,	donne	de	
+du	crédit	à	ce	qui	va	suivre.		
+						Ces	coordonnées	de	Kruskal,	(u,v)	ont	alors	servi	de	base	à	tout	un	florilège	d’articles,		
+s’articulant	en	particulier	sur	le	«	diagramme	de	Kruskal	»	et	on	est	en	droit	de	se	
+demander	s’il	existe	parmi	les	très	nombreux	auteurs	de	ces	articles	des	qui	aient	pris	la	
+peine	de	regarder	sur	quoi	reposait	cette	construction	de	1960.	En	l’occurrence	sur	deux	
+points	:	
+-  La	non-régularité	de	l’application	 r → ξ		
+	
+-  Le	fait	que	ce	travail	repose	sur	la	proposition	supposée	que	 00 = 1	
+	
+
+r
+2m
+
+	
+
+21	
+
+	
+
+	
+
+	
+
+Fig.14	:	Le	diagramme	de	Kruskal	[19]			
+
+						En	science	s’applique	le	principe	du	rasoir	d’Occam	qui	incite	à	opter	pour	
+l’explication	qui	requiert	les	hypothèses	les	moins	lourdes	et	les	plus	cohérentes.	Celles	
+de	Kruskal	ne	vont	pas	dans	ce	sens.	On	notera	en	particulier	que	la	métrique,	exprimée	
+à	l’aide	de	ces	coordonnées	ne	tend	pas	vers	la	métrique	de	Lorentz	à	l’infini,	loin	s’en	
+faut,	puisqu’en	l’occurrence	la	fonction	f	tend	vers	zéro.	
+3	–	Geométries	de	mondes	réels	et	géométries	de	mondes	complexes.		
+								La	cosmologie	s’appuie	sur	une	géométrie	moderne,	qui	évoque	le	concept	
+d’hypersurfaces	Riemaniennes,	à	4	dimensions,	dotées	d’une	métrique	hyperbolique.	A	
+partir	de	celle-ci	il	est	alors	possible	de	construire	un	ensemble	de	courbes	géodésiques,	
+dont	l’examen	est	censé	permettre	d’appréhender	leur	structure	géométrique.	Toutes	
+les	grandeurs	que	l’on	manipule	sont	alors	censées	relever	du	monde	des	 réels,	qu’il	
+s’agisse	de	coordonnées	ou	de	la	mesure	de	l’élément	de	longueur	s.		
+				Ce	qu’on	perd	de	vue	c’est	le	fait	qu’on	puisse	envisager	des	courbes,	en	tant	que	
+suites	de	points,	qui	ne	soient	pas	de	géodésiques,	mais	appartiennent	bel	et	bien	à	
+l’objet.	L’outil	métrique	garde	cependant	sa	fonctionnalité.	Donnons	un	exemple	à	deux	
+dimensions,	à	travers	la	métrique,	de	signature	(	+	+	)		:		
+(29)																																																														
++ r2dϕ2		
+						Notons	que	celle-ci	représente	un	fragment	de	la	métrique	de	Schwarzschild.	Elle	est	
+associé	à	une	surface	de	révolution,	la	«	surface	de	Flamm	»,	cet	auteur,	en	1916,	ayant	
+opéré	son	plongement	dans	  !3		et	construit	l’équation	de	sa	méridienne	[9].					
+
+ds2 =
+
+Rs
+r
+
+1−
+
+dr2
+
+ 
+
+	
+(30)																																																												
+		
+
+4Rs	
+
+z2
+
+r = Rs +
+ 
+
+22	
+
+	
+
+Fig.15	:	Surface	de	Flamm	
+
+					Cet	objet	est	engendré	par	la	rotation	d’une	parabole	 couchée	autour	d’un	axe.	Ses	
+méridiennes	paraboliques	sont	aussi	des	géodésiques.	Néanmoins	on	peut	analyser	sa	
+topologie	en	évaluant	le	périmètre	de	courbes	fermées,	à	r	constant,	qui	sont	des	cercles,	
+mais	ne	sont	pas	des	géodésiques	de	la	surface.	Ce	périmètre,	 2πr	cesse	d’être	réel	pour	
+	r	<	Rs.	On	considère	donc	que	celui-ci	est	minimal	et	qu’il	existe	donc	des	courbes	
+fermées	qui,	transformées	par	 homotopie	régulière,	présentent	cette	propriété.	L’objet	
+n’est	donc	pas	 contractile.	C’est	une	structure	géométrique	qui	établit	un	pont	entre	
+deux	espaces	2D	euclidiens.		
+				En	passant	en	3D	on	peut	envisager	l’hypersurface	définie	par	sa	métrique	:		
+(31)																																											
++ r2( dθ2 + sin2θdϕ2 )	
+				On	notera	que	cette	métrique	n’est	autre	que	la	partie	spatiale	de	la	métrique	de	
+Schwarzschild.	Alors	que	l’objet	3D	était	invariant	par	l’action	de	O(2),	celui-ci	est	
+invariant	par	l’action	de	O(3).	On	peut	là	encore	montrer	sa	non-contractibilité	en	
+calculant	par	intégration	l’aire	de	l’objet	constitué	du	sous	ensemble	des	points	
+correspondant	à		une	valeur	constante	de	la	coordonnée	r.		
+= 4π r2																																						
+(32)																																						
+
+dθdϕ = r2
+
+sin2θdθ
+
+ds2 =
+
+Rs
+r
+
+1−
+
+dϕ
+
+dr2
+
+ 
+
+π∫
+
+0
+
+2π∫
+
+0
+
+A(r) =
+ 
+
+∫∫
+
+gθθ gϕϕ
+
+{
+
+	
+23	
+				Là	encore,	en	se	situant	dans	le	domaine	des	réels	on	conclut	que	cette	aire	a	une	
+2qui	est	celle	de	sa	sphère	de	gorge.		L’objet	considéré,	peut	être	
+valeur	minimale		 4π Rs
+interprété	comme	résultant	de	la	déformation	régulière	(homotopie)	d’une	sphère	S2	
+d’aire	 4π Rs
+2selon	des	sphères	d’aires	inférieures	qui	possèdent	alors	leur	propre	réseau	
+de	géodésiques	(«	grands	cercles	»).	Mais	celles-ci	ne	sont	pas	des	géodésiques	de	l’objet	
+correspondant	à	la	métrique	(17).	Ces	deux	surfaces	sont	aussi	engendrées	par	l’action	
+de	groupes,	O(2)	dans	le	cas	de	la	surface	de	Flamm	et	O(3)	dans	cette	hypersurface	3D,	
+assurant	un	pont	entre	deux	espaces	3D	euclidien,	par	l’intermédiaire	d’une	sphère	de	
+gorge	d’aire	 4π Rs
+2.		
+				Cette	hypersurface	3D	présente	donc	deux	modes	d’engendrement.	Soit	celui-ci	
+s’effectue	par	un	feuilletage	à	l’aide	de	sphères	se	déduisant	de	la	sphère	de	gorge	par	
+homothétie.	La	topologie	est	alors	celle	d’une	variété	à	bord	et	les	géodésiques	des	
+sphères	ne	sont	pas	des	géodésiques	de	l’hypersurface.	Dans	un	système	de	
+}	les	sections	par	des	«	plans	»	r	=	Cst	sont	des	cercles.		Soit	celle-
+coordonnées	  r , θ , ϕ
+ci	est	engendrée	par	l’action	de	O(3)	sur	une	surface	de	Flamm.	L’objet	hérite	alors	de	la	
+non	contractibilité.	Pour	s’en	convaincre	il	faut	imaginer	que	la	surface	de	Flamm,	en	
+basculant	selon	les	deux	angles		 θ et ϕ	voit	tous	ses	points	se	maintenir	à	une	distance	
+du	centre	géométrique	supérieure	à	Rs.	Les	infinies	positions	de	cette	surface,	au	gré	des	
+rotations,	font	qu’elle	reste	toujours	tangente	au	cercle	gorge,	selon	un	de	ses	grands	
+cercles.	L’hypersurface	3D	résultante		correspond	ainsi	à	un	pont	reliant	deux	espaces	
+3D	euclidiens,	lequel	est	également	le	revêtement	à	deux	feuiller	d’une	variété	3D	à	bord,	
+celui-ci	étant	alors	la	sphère	d’aire	 4π Rs
+2.	Cette	fois	courbes	issues	de	l’action	de	O(3)	
+sur	les	géodésiques	de	la	surface	de	Flamm	sont	aussi	les	géodésiques	de	l’hypersurface	
+3D.		
+					L’hypersurface	de	Schwarzschild	est	invariante	par	l’action	de	deux	groupes	:	O(3)	et	
+par	R	(translations),	qui	se	conjuguent	selon	 O(3) × R	.	Cette	hypersurface	se	déduit	de	la	
+précédente	par	translation	temporelle.	Elle	hérite	de	sa	propriété	de	non	contractibilité.	
+Comme	suggéré	par	Ludwig	Flamm	cette	hypersurface	3D	peut	être	considérée	comme	
+l’intersection	de	l’hypersurface	4	par	des	«	plans	t	=	Cst	».	Mais	les	géodésiques	de	
+l’hypersurface	3D	ne	sont	alors	pas	des	géodésiques	de	l’hypersurface	4D	de	
+Schwarzschild.	Par	ailleurs	le	caractère	hyperbolique	de	la	métrique	fait	que	le	calcul	
+d’un	périmètre		correspondant	à	t	,	θ	et	r	constants	donne	une	valeur	imaginaire.		
+	(33)																																												
+dϕ																																																			
+					On	débouche	ainsi	sur	le	caractère	éminemment	déconcertant	de	la	géométrie	des	
+hypersurfaces	définies	par	des	métriques	hyperboliques.	Tout	dépend	alors	de	l’espace	
+dans	lequel	on	décide	de	situer	les	hypersurfaces,	correspondant	à	ce	que	nous	
+considérons	comme	relevant	de	la	réalité	physique.	Dans	un	espace	ou	tout	est	complexe,	
+les	coordonnées	comme	l’élément	de	longueur,	tout	peut	arriver,	tout	est	acceptable.	
+Une	partie	de	l’hypersurface	peut	correspondre	à	des	valeurs	réelles	des	coordonnées	
+(pour	r	>	Rs)	,	débouchant	sur	une	valeur	réelle	de	l’élément	de	longueur.		Mais,	des	
+valeurs		non	moins	réelles	de	ces	coordonnées	peuvent	conduire	à	une	valeur	imaginaire	
+pure	de	ce	même	élément	de	longueur	:		cas	de	la	métrique	de	Schwarzschild	quand		
+r	<	Rs.		
+
+p(r) =
+ 
+
+gϕϕ dϕ
+
+2π∫
+
+− r2
+
+∫∫
+
+=
+
+0
+
+	
+24	
+				Au	lieu	d’envisager	une	interprétation	topologique	les	cosmologistes	de	l’après-guerre,	
+obsédés	par	l’idée	d’une	supposée	contractibilité	de	l’espace,		n’ont	pas	réalisé	que,	sans	
+s’en	rendre	compte,	ils	opéraient	une	extension	de	la	solution	dans	le	monde	des	
+complexes.	Par	le	jeu	déroutant	du	calcul	algébrique,	l’intégration	de	la	longueur	selon	
+une	géodésique	prolongée	jusqu’en	r	=	0	donne	…	une	valeur	réelle	!		Voici	donc	une	
+courbe	dont	les	points	sont	repérés	avec	des	valeurs	réelles	des	coordonnées,	où	la	
+longueur	intégrée	est	réelle,	qui	se	situe	dans	une	portion	d’espace	temps	où	les	
+longueurs	sont	…	imaginaires	pures.	On	trouve	des	tracés	de	ces	prétendues	
+géodésiques,	spiralant	jusqu’au	centre	géométrique,	dans	l’ouvrage	de	Chandrasekhar,	
+intitulé	Mathematical	Theory	of	Black	Holes	[21],	paru	en	1983	.		
+	
+
+	
+					Il	est	intéressant	de	lire	le	commentaire	de	sa	figure	7a,	où	il	indique	qu’il	s’agit	d’une	
+géodésique	«	time	like	»,	«	du	genre	temps	».		Dans	une	autre	partie	de	l’ouvrage	on	
+trouvera	ce	que	Chandrasekhar	considère	comme	étant	le	Lagrangien	associé	à	la	
+solution	de	Schwarzschild	:		
+	
+
+de	la	géométrie	de	Schwarzschild	[21].	
+
+Fig.16	:	«	géodésique	»	plongeant	vers	le	centre	géométrique		
+
+	
+
+	
+
+Fig.	16	:	Ce	que	Chandrasekhar	considère	comme	le	Lagrangien		
+
+de	la	solution	de	Schwarzschild.		
+
+	
+
+−1
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+1−
+
+2M
+r
+
+2M
+r
+
+L =
+  
+
+⎞
+⎠⎟ !t2 − 1−
+
+!r2 − r2( θ2 + sin2θϕ2 )		
+
+	
+25	
+						Or,	en	se	basant	sur	l’expression	courante	de	la	métrique	de	Schwarzschild	
+	(	Figure	4	)	on	devrait	écrire,	avec	une	action	réelle,	et	positive		:		
+(35)																														
+					Nouveau	piège	:	Les	deux	expressions	conduisent	au	même	système	d’équations	de	
+Lagrange.	Le	théoricien,	qui	oublie	la	condition	r	<	Rs	,		bascule	ainsi	dans	une	géométrie	
+relevant	des	complexes,	sans	s’en	rendre	compte.	Cette	situation	aurait	été	évitée	si	le	
+calcul	des	géodésiques	avait	été	fondé	sur	la	véritable	formulation	de	la	solution	trouvée	
+par	Schwarzschild,	et	non	sa	transposition	à	l’aide	de	sa	variable	intermédiaire	R.	La	
+métrique	s’écrit	alors	selon	l’expression	(3).			
+D’où	l’expression	correspondante	du	Lagrangien	:		
+(36)	
+3)2/3( !θ2 +sin2θ !ϕ2)	
+qui	n’engendre	alors	pas	de	«	géodésiques	chimériques	».		
+				Tout	en	ayant	négligé	ces	précautions,	les	cosmologistes	on	opté	pour	une	
+représentation,	c’est	à	dire	un	choix	des	coordonnées	d’espace	et	de	temps,	où	les	
+géodésiques	présentent	une	discontinuité	à	la	traversée	de	la	sphère	de	Schwarzschild	
+en	même	temps	que	s’opère	un	basculement	de	90°	du	cône	de	lumière,	ce	qui	a	amené		
+par	exemple	Wheeler,	Thorne	et	Misner	[20]	à	cette	conclusion	abracadabrante	selon	
+laquelle	«	à	l’intérieur	de	la	sphère	de	Schwarzschild	r	devient	une	coordonnée	de	temps	et	
+t	une	coordonnée	d’espace	».	Ceci	est	illustré	par	la	figure	suivante	:		
+
+⎡⎣
+3) (r3 + Rs
+
+!r2 − (r3 + Rs
+
+3)1/3 − Rs
+
+3)1/3 − Rs
+
+(r3 + Rs
+
+(r3 + Rs
+
+(r3 + Rs
+
+L =
+  
+
+3)1/3
+
+d!ts
+
+2 −
+
+r4
+
+⎤⎦
+
+	
+
+	
+
+26	
+
+	
+
+∫
+
+ϕ = ϕo +
+
+Fig.17	:	Extrait	de	[20]				,	rotation	du	cône	de	lumière.	
+								Les	projections	planes	des	géodésiques	correspondent	à	la	solution	:		
+	
+(37)																																			 
+qui	dépend	de	deux	paramètres,	λ	et	h.	Le	premier	représente		le	rapport	entre	l’énergie	
+de	la	particule-témoin,	rapportée	à	son	énergie	mc2,	le	second	intervient	dans	a	loi	des	
+aires.	Plus	il	est	grand,	plus	la	géodésique	s’écartera	d’une	trajectoire	radiale.			
+				Si	on	fait	abstraction	de	cette	prolongation	des	géodésiques	«	à	l’intérieur	de	la	sphère	
+de	Schwarzschild	»	il	existe,	dans	une	représentation	 
+}	une	façon	très	
+parlante	de	produire	des	images	3D	des	géodésiques	planes	 ( θ = π / 2 )	correspondant	à	
+cette	métrique	stationnaire.	L’image	de	la	sphère	de	Schwarzschild	est	alors	celle	d’un	
+cercle	qui	se	développe,	selon	la	coordonnée	de	temps,	selon	un	cylindre.	Partant	d’une	
+projection	spatiale	d’une	géodésique,	correspondant	à	des	valeurs	données	des	
+paramètres		:		
+
+dr
+Rsr3
+h2 − r2 + Rsr
+
+t , r , θ , ϕ
+
+c2λ2 − 1
+
+r4 +
+
+h2
+
+{
+
+	
+
+Fig.18	:	Projection	plane	de	la	géodésiques	
+
+						Il	est	alors	aisé	de	construire	une	représentation	tridimensionnelle	:		
+	
+
+27	
+
+	
+
+	
+
+) 	
+
+	
+
+(
+
+Fig.19	:	Géodésiques	dans	la	représentation	  r ,ϕ, ts
+
+						Quel	que	soit	le	sens	de	parcours	des	géodésiques,	centripètes	ou	centrifuges,	avec	ce	
+choix	de	la	coordonnée	de	temps,	atteindre	ou	s’extraire	de	la	sphère	de	Schwarzschild	
+requiert	un	temps	infini.		C’est	cet	aspect	qui	constitue	un	des	piliers	de	cette	théorie	du	
+trou	noir.	Mais	n’y	a-t-il	pas	d’autre	alternative	?		
+	
+
+ 
+
+{
+
+⎛
+⎝⎜
+
+1−
+
+		
+
+R s
+r
+
+ds2 = 1−
+
+ts , r , θ , ϕ
+
+dr2
+R s
+r
+
+⎞
+⎠⎟ c2dts
+2 −
+
+− r2dθ2 − r2 sin2 θdϕ2
+
+	
+28	
+4	–	De	l’hypothèse	de	l’absence	de	terme	croisé	dans	la	métrique.		
+						Cette	hypothèse	d’absence	de	terme	croisé	est	présent	dans	l’article	de	Schwarzschild	
+[3]	et	se	trouvera	systématiquement	reconduite	dans	les	décennies	suivantes,	voir	son	
+équation	(6)	reproduite	dans	la	figure	3.	Cette	hypothèse	est	essentielle	dans	le	modèle	
+du	trou	noir,	car	c’est	elle	qui	donne	des	temps	de	chute	libre	et	d’évasion	d’une	masse-
+témoin	infinis,	ce	qui	a	permis	à	ses	concepteurs	de	présenter	la	solution	de	
+Schwarzschild,	solution	stationnaire	de	l’équation	d’Einstein,	exprimée	dans	le	jeu	
+}	comme	un	«	instantané	»	d’un	processus	
+particulier	de	coordonnées	  
+instationnaire,		permettant	ainsi	d’assimiler	le	modèle	physique	qui	en	découle	à	un	
+«	arrêt	sur	image	»	extrait	d’un	processus	d’implosion	extrêmement	rapide.	Nous	avons	
+affecté	la	variable	de	temps	d’un	indice	s	car,	stricto	sensu,	c’est	«	le	temps	de	
+Schwarzschild	».		
+(38)																																					
+				La	métrique	de	Kerr	(15),	saluée	par	Chandrasekhar	dans	son	ouvrage	[19]	comme	un	
+véritable	triomphe	d’une	recherche	mathématique	orientée	vers	la	beauté	de	la	solution	
+mathématique,	possède	un	terme	croisé	en	dr	dϕ.	Nous	avons	vu	que	ceci	avait	reçu	une	
+tentative	d’interprétation	selon	laquelle	le	système	de	coordonnées,	c’est	à	dire	
+«	l’espace	»	se	trouvait	en	quelque	sorte	«	entraîné	»	par	la	matière,	ce	qui	redonnait	
+corps	à	l’idée	d’Ernst	Mach.	Pourquoi	dont	alors	ne	pas	envisager	un	«	radial	frame	
+dragging	»,	un	entraînement	radial	du	système	de	coordonnée	?	
+							Il	est	donc	parfaitement	licite	d’explorer	les	propriétés	de	représentation	acceptant	
+la	présence	d’un	terme	en	dr	dt.	Il	y	a	eu	plusieurs	tentatives	allant	dans	ce	sens,	dont	
+celle	de	Painlevé	[20]	et	de	Gullstrand	[21].		
+(39)																								 
+basée	sur	le	changement	de	variable	:		
+(40)																																															
+					La	préoccupation	des	auteurs	a	été	de	faire	disparaître	la	singularité	en	r	=	Rs.	On	
+notera	que	cette	métrique	tend	à	l’infini	vers	la	métrique	de	Lorentz.		
+					Un	autre	changement	de	variable	a	été	proposé	[22],	[23]	par	l’Anglais	Arthur	
+Eddington	en	1921	:		
+(41)																																																			
+
+dt PGdr − r2dθ2 − r2 sin2 θdϕ2	
+
+R s / r − 1
+R s / r + 1
+
+tS = t PG −
+  
+
+⎞
+⎠⎟ c2dt PG
+
+⎟		
+
+ds2 = 1−
+
+2 − dr2 −
+
+2R s
+c
+
+R s
+r
+
+R s
+r
+
+Ln
+
+⎛
+⎜
+⎝
+
+2
+c
+
+⎛
+⎝⎜
+
+Ln
+
+⎞
+
+⎠
+
+( − ) +
+
+− 1
+
+ts = t E
+  
+
+Rs
+c
+
+⎛
+⎝⎜
+
+r
+Rs
+
+⎠⎟		
+
+⎞
+
+⎞
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+c r
+
+R s
+r
+
+R s
+r
+
+drdt E
+
+( − ) 2− 1+
+
+⎞
+⎠⎟ c2dt E
+
+ds2 = 1−
+ 
+
+⎠⎟ dr2 + 2 R s
+
+	
+29	
+					Un	changement	de	variable	qui	s’applique	au	temps	ts,	le	«	temps	de	Schwarzschild	»,	
+pour	déboucher	sur	une	autre	variable,	que	nous	désignerons	par	«		temps	d’Eddington-
+t	moins	:	 t E
+( − )».	Exprimée	à	l’aide	de	cet	autre	jeu	de	coordonnées,	la	métrique	devient	:		
+( − ) − r2 ( dθ2 + sin2 θdϕ2 )														
+(42)												
+					La	préoccupation	d’Eddington,	comme	celle	de	Painlevé,	de	Gullstrand	et	de	
+nombreux	autres	était	d’assurer	la	disparition	de	la	singularité	en	r	=	Rs,	liée	au	terme	en	
+dr2.	On	remarquera	que	cette	approche	peut	être	complétée	par	:		
+(43)																																																			
+⎠⎟		
+( + ) − r2 ( dθ2 + sin2 θdϕ2 )														
+(44)												
+Le	géodésiques,	toujours	avec	la	contrainte	r	<	Rs	se	déduisent	du	Lagrangien	:		
+(45)																					
+( + ) − r2 ( !θ2 + sin2 θ !ϕ2 )	
+	avec	 δ = ± 1	.		
+					Cette	étude	a	été	faite	par	P.Koiran	[25]	.	Comme	ce	changement	de	variable	n’affecte	
+que	la	coordonnée	de	temps,	la	projection	des	géodésiques	se	déduit	toujours	de	
+l’équation	(45).	Nous	prendrons	à	titre	d’exemple	la	géodésique	correspondant	à	la	
+}correspondent	
+}et		
+figure	(18).	Les	représentations	3D	en	
+aux	figures	qui	suivent.	Dans	la	première	on	effectue	une	comparaison	entre	le	temps	
+d’Eddington	 t E
+(+),	correspondant	à	l’expression	de	la	métrique	selon	l’équation	(45)	et	le	
+temps	de	Schwarzschild	ts	,	qui	devient	infini	quand	r	tend	vers	Rs.		
+
+r
+Rs
+⎠⎟ dr2 − 2 R s
+
+ds2 = 1−
+ 
+
+⎞
+⎠⎟ !r2 + 2δ
+
+L = 1−
+  
+
+⎞
+⎠⎟ c2dt E
+
+t E
+(+ ) , r , θ , ϕ
+
+t E
+(− ) , r , θ , ϕ
+
+ts = t E
+  
+
+⎞
+⎠⎟ c2!t E
+
+R s
+c r !r !t E
+
+( + ) 2− 1+
+
+( + ) 2− 1+
+
+drdt E
+
+Rs
+c
+
+R s
+r
+
+R s
+r
+
+R s
+r
+
+R s
+r
+
+( + ) −
+
+− 1
+
+{
+ 
+
+{
+ 
+
+Ln
+
+c r
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+⎞
+
+⎞
+
+	
+
+30	
+
+	
+
+{
+ 
+
+{
+ 
+
+tS , r , θ , ϕ
+
+t E
+(+ ) , r , θ , ϕ
+
+Fig.	20	:	Evolution	du	temps	dans	les	représentations	
+} et		
+}	
+(+)	devient	fini.	La	
+					On	voit	que	le	temps	de	chute	libre,	exprimé	dans	la	coordonnée	 t E
+courbe	est	proche	de	la	linéarité	ce	qui	va	de	pair	avec	l’entraînement	du	système	de	
+coordonnée	par	une	matière	en	implosion.	On	démontre	ainsi	que	cette	hypothèse,	
+fondement	de	la	théorie	du	trou	noir,	comme	quoi	l’implosion	de	la	matière,	pour	un	
+observateur	distant	vivant	au	rythme	du	temps	de	Schwarzschild	ts,	durerait	un	temps	
+infini,	disparaît	quand	on	opte	pour	un	autre	système	de	coordonnées	où	ce	temps	de	
+(+)devient	fini.	En	effet,	quand	on	
+chute	libre,	exprimé	avec	cette	nouvelle	coordonnée		 t E
+fait	tendre	r	vers	l’infini	dans	(36),	il	vient	:		
+(46)																																																																				 ds = cdτ = cdt E
+(+)	
+					Ce	temps	 t E
+(+)	peut	ainsi	parfaitement	faire	figure	de	temps	vécu	par	un	observateur	
+distant.	Avec	ce	mode	d’expression	de	la	métrique	le	temps	d’évasion	devient	par	contre	
+infini.	Conclusion	inverse	avec	la	métrique	(36).	On	peut	résumer	ces	résultats	à	l’aide	
+de	représentations	tridimensionnelles	:	
+
+	
+
+31	
+
+{
+ 
+
+}	
+
+t E
+(+ ) , r , θ , ϕ
+
+}et	
+
+dans	les	représentations	
+
+Fig.	21	:	Temps	de	chute	libre	et	d’évasion		
+
+	
+	5	–	Réinterprétation	 de	 l’arrêt	 des	 géodésiques	 sur	 la	 sphère	 de	 Schwarzschid.	
+par	la	topologie.		
+					Tout	de	suite	on	imagine	une	structure	à	deux	feuillets	F(+)	et	F(-)	,	le	feuillet	F(+)	étant	
+équipé	de	la	métrique	(38)	et	le	feuillet	F(-)		de	la	métrique	(36).	Cette	géométrie	
+d’espace-temps	correspond	alors	à	une	 one-way	 membrane,	celle-ci	ne	pouvant	être	
+traversée	que	dans	un	seul	sens.	La	solution	évoquerait	alors	un	cliché	instantané	d’un	
+phénomène	traduisant	le	passage	de	matière	d’un	feuillet	à	l’autre,	en	un	temps	très	
+bref.	En	projection	spatiale	nous	aurions,	en	 ( r , ϕ )		:		
+
+t E
+(− ) , r , θ , ϕ
+
+{
+ 
+
+	
+
+Fig.22	:	Projection	 ( r , ϕ ) 	de	la	géodésique	étendue	
+
+	
+
+(
+
+(+)2 −
+
+c2dt E
+
+ds2 =
+  
+
+Lnchρ
+1+ Lnchρ
+
+32	
+					Les	géodésiques	se	prolongent,	mais	subissent	une	cassure	à	la	traversée	de	la	
+sphère	de	Schwarzschild,	qui	devient	alors	une	sphère	de	gorge.		
+					Peut-on	envisager	un	autre	système	de	coordonnées	où	la	continuité	de	la	
+géodésique	puisse	être	établie	?	Une	réponse	est	dans	le	changement	de	coordonnée	
+affectant	celle	fois	la	coordonnée	r	,	introduit	dans	[25]		:		
+(47)																																																											 r = Rs 1+ Lnchρ
+)		
+Avec	 d Ω2 = dθ2 + sin2 dϕ2	les	métriques	deviennent	alors	:		
+(48)						
+2(1+ Lnchρ)2 dΩ2		
+	
+(49)						
+2(1+ Lnchρ)2 dΩ2		
+						Est-il	possible	d’assurer	la	complète	continuité	des	géodésiques	traduisant	le	transit	
+de	la	matière	à	travers	la	sphère	de	gorge,	correspondant	à	 ρ = 0	?	Réponse	:	il	suffit	que	
+la	coordonnée	de	temps	s’inverse6	lors	de	la	traversée	de	cette	sphère	de	gorge	:		
+(50)																																																																										 t E
+								On	aura	donc	simplement	la	métrique,	décrivant	les	deux	feuillets	:		
+2(1+ Lnchρ)2 dΩ2	
+(51)								
+}		
+}de	la	géodésiques	dans	la	représentation	
+								La	projection	  ρ , ϕ
+devient	[26]		:	
+
+2R sdρdt E
+c(1+ Lnchρ)
+
+2R sdρdt E
+c(1+ Lnchρ)
+
+2R sdρdt E
+c(1+ Lnchρ)
+
+2 + Lnchρ
+1+ Lnchρ
+
+2 + Lnchρ
+1+ Lnchρ
+
+2 + Lnchρ
+1+ Lnchρ
+
+Lnchρ
+1+ Lnchρ
+
+Lnchρ
+1+ Lnchρ
+
+(+)	
+
+t E , ρ , θ , ϕ
+
+2th2 ρdρ2 −
+
+2th2 ρdρ2 −
+
+2th2 ρdρ2 +
+
+ds2 =
+  
+
+ds2 =
+  
+
+(−) = − t E
+
+c2dt E
+
+c2dt E
+
+− R s
+
+− R s
+
+− R s
+
+(−)2 −
+
+2 −
+
+R s
+
+R s
+
+R s
+
+{
+  
+
+{
+
+(+)
+
+(−)
+
+																																																								
+6	Cette	conjugaison	de	deux	entités	cosmique	ayant	des	coordonnées	de	temps	opposées	
+a	été	suggérée	par	le	Russe	Andréi	Sakharov	en	1967	([26],	[27],	[28]).			
+
+	
+
+33	
+
+	
+
+	
+
+{
+
+} de	la	représentation	
+
+Fig.23	:	Projection	  ρ , ϕ
+
+								De	(41)	il	vient	:		
+(52)																																																																												 dr = Rs thρdρ	
+correspondant	à	la	courbe	:		
+
+{
+  
+
+t E , ρ , θ , ϕ
+
+}	
+
+Fig.24	:	Rapport	entre	les	deux	coordonnée	spatiales	r	et	ρ		
+
+						Le	fait	que	 thρ	soit	nul	sur	la	sphère	de	gorge	confère	la	continuité	aux	géodésiques,	
+dans	ce	système	de	référence,	quand	on	considère	les	mouvements	de	matière	allant	de	
+notre	feuillet	au	feuillet	gémellaire.		Ci-après	l’évolution	du	temps	de	transfert,	fonction	
+de	la	coordonnée	ρ	.	Sa	continuité,	de	même	que	celle	de	sa	projection	spatiale(figure	
+23)	,	entraînent	la	complète	continuité	de	cette	géodésique	plongeante.	A	l’inverse	la	
+
+	
+34	
+géodésique	émergente	comporte	deux	branches	qui	tendent	vers	l’infini.	On	a	bien	une	
+one-way	membrane.	
+
+	
+
+	
+
+} 	
+
+t E , ρ , θ , ϕ
+
+{
+Fig.25	:	Temps	de	transfert	dans	le	système	des	coordonnées	
+  
+
+						Pour	une	valeur	de	r	on	a	donc	deux	valeurs	de		ρcorrespondant	à	des	points	
+adjacents.	Ceci	correspond	à	une	structure	topologique	de	revêtement	à	deux	feuillets	
+F(+)	et	F(-).	Si	on	veut	comparer	la	projection	de	la	figure	22	au	schéma	résultant	du	
+passage	à	une	coordonnée	ρ		il	nous	faut	opérer	une	P-symétrie	dans	le	graphique	de	la	
+figure	23	(	symétrie	par	rapport	à	l’origine	)	pour	comprendre	comment	se	conjuguent	
+les	portions	de	courbes.		
+	
+
+Fig.	26	:	Projection	de	la	géodésique	dans	les	deux	représentations	polaires	
+
+	
+					
+								Nous	ne	disposons,	pour	tenter	de	nous	représenter	les	phénomènes	que	d’images	
+issues	des	choix	des	coordonnées,	chacune	de	ces	représentations	ayant	leur	intérêt,	vis	
+à	vis	de	l’intuition	géométrique,	et	leurs	défauts.	Si	nous	optons	par	une	représentation	
+selon	les	coordonnées	 ( r , ϕ )des	géodésiques	planes	nous	avons	en	tête	l’image	d’une	
+
+image	de	
+
+	
+35	
+sphère	de	gorge	d’aire	finie	  4πR s
+2	mais	où	l’intérieur	de	cette	sphère	n’appartient	pas	à	
+l’hypersurface.	Quand	une	masse	plonge	vers	cette	sphère	de	gorge,	elle	semble	
+«	rebondir	»	sur	celle-ci.	Nous	avons	une	
+la	portion	de	trajectoire	
+correspondant	à	ce	«	rebond	»	mais	les	géodésiques	de	ce	second	feuillet	constituent,	
+par	rapport	au	feuillet	de	départ,	un	ensemble	disjoint.	Comme	les	perception	que	nous	
+pouvons	avoir	ne	procèdent	que	par	le	truchement	d’ondes	électromagnétiques,	
+cheminant	sur	des	géodésiques	de	longueur	nulle,	nous	devons	renoncer	à	obtenir	une	
+mise	en	évidence	de	ces	masses	à	travers	des	observations,	une	fois	qu’elles	sont	
+passées	sur	cette	sorte	«	d’envers	de	l’univers	».	En	fait,	l’image	didactique	2D	la	plus	
+parlante	est	celle	d’un	trou,	à	bord	circulaire,	ménagé	dans	une	feuille	de	papier.		
+L’univers,	où	l’on	peut	cheminer,	c’est	le	papier.	Dans	le	trou,	le	papier	est	absent.	Un	
+trou	c’est	la	solution	topologique	permettant	de	passer	du	recto	au	verso	d’une	surface.	
+Cette	géométrie,	que	nous	voyons	se	construire,	suggère	que	les	notions	de	recto	et	de	
+verso	s’appliquent	à	des	hypersurfaces	à	plus	de	deux	dimensions.	En	3D	on	peut	
+considérer	l’hypersurface	non	contractile,	définie	par	la	métrique	(27).		Les	deux	
+feuillets	3D	euclidiens,	ainsi	mis	en	communication,	doivent	être	considérés	comme	
+«	l’endroit	»	et	«	l’envers	»	de	l’hypersfurace	3D	constituée	par	l’espace	euclidien	qui	
+nous	est	familier.	En	prendre	conscience	doit	devenir	aussi	évident	que	de	découvrir	
+qu’on	peut	écrire	sur	l‘endroit	et	l’envers	d’une	feuille	de	papier.	En	gardant	en	tête	que	
+«	les	habitants	du	recto	»	ne	peuvent	pas	«	voir	»	«	les	habitants	du	verso	»,	et	vice-versa.	
+				Si	on	opte	pour	une	représentation	
+}	la	sphère	de	gorge	disparaît,	se	
+trouve	réduite	à	un	point.	La	continuité	apparaît.	Mais	nous	devons	alors	considérer	que	
+deux	points	diamétralement	opposés	par	rapport	au	centre	de	Symétrie	correspondent	
+en	fait	à	la	même	région	de	l’espace-temps,	à	deux	point	situés	«	de	part	et	d’autre	»	de	
+l’hypersurface	4D.	En	outre,	si	nous	construisons	une	sphère	contenant	ce	point	O	et	si	
+nous	la	déformons	par	homotopie	régulière	pour	l’amener	au	contact	de	celui-ci,	son	
+aire	tend	vers	une	limite	finie	!		
+	6	–	Topologie	de	l’espace-temps	et	structure	de	groupe	dynamique	associée.		
+				Cette	section	s’appuie	sur	les	éléments	développés	dans	la	référence	[30].		Le	groupe	
+dynamique	associé	à	l’espace	euclidien,	qui	est	aussi	son	groupe	d’isométrie,	est	le	
+groupe	de	Poincaré	:		
+	(53)																																																																									
+ou	C	est	le	vecteur	translation	spatio-temporelle	:		
+(54)																																																																					
+
+⎠⎟		
+		
+
+t E , ρ , θ , ϕ
+
+L C
+0
+1
+
+⎛
+⎝⎜
+ 
+
+{
+  
+
+⎞
+
+C =
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+Δt
+Δx
+Δy
+Δz
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+ 
+
+ 
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎝
+
+G =
+
+0
+0
+−1
+0
+
+0
+0
+0
+−1
+
+0
+1
+0 −1
+0
+0
+0
+0
+
+	
+36	
+et	L	une	matrice	de	format	(4,4)	représentant	le	groupe	de	Lorentz.	Prenons	comme	
+matrice-métrique	la	matrice	de	Gramm	:		
+		
+(55)																																																							
+										La	définition	axiomatique	du	groupe	de	Lorentz	est	:	
+(56)																																																																						  
+t LG L = G		
+									Une	première	action	de	ce		groupe,	de	dimension	10,	est	son	action	sur	l’espace-
+temps.	En	posant		
+	
+(57)																																																																						
+Cette	action	s’écrit	:		
+(58)																																														
+						A	cette	action	s’ajoute	l’action	sur	le	duale	du	groupe	sur	son	algèbre	de	Lie,	sur	son	
+espace	des	moments,	dont	la	dimension	est	celle	du	groupe	:	10.	Le	moment	du	groupe	
+de	Poincaré	est	composé	:		
+-  D’un	scalaire	:	l’énergie	E	
+-  D’un	3-vecteur,	le	vecteur	impulsion	
+-  D’un	second	3-vecteur,	le	spin	
+-  D’un	trivecteur	«	passage	»	
+(
+							Qui	ne	caractérise	pas	le	mouvement	au	sens	où	il	s’annule	si	on	considère	un	
+(
+système	d’axes	liés	à	la	particule.	On	arrange	ces	composantes	pour	former.	
+	
+-  Le	quadrivecteur	énergie-impulsion	:		
+	
+(59)		
+	
+
+⎛
+⎠⎟ × X
+⎝⎜
+
+L C
+0
+1
+
+)		
+
+⎟	
+
+ct
+x
+y
+z
+
+)	
+
+)	
+
+L X + C
+
+⎞
+⎠⎟ =
+
+⎞
+⎠⎟ =
+
+X'
+1
+
+  
+s y
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+X =
+
+  
+fx
+
+⎛
+⎝⎜
+ 
+
+p y
+
+px
+
+⎛
+⎜
+⎝
+
+⎞
+⎠
+
+pz
+
+⎛
+⎝⎜
+
+sx
+
+(
+
+sz
+
+f y
+
+fz
+
+1
+
+1
+
+⎞
+
+  
+
+ 
+
+	
+
+37	
+
+	
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+E
+px
+p y
+pz
+
+  
+
+	
+
+P =
+
+M =
+
+		
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+fx
+fy
+fz
+0
+
+− sz
+0
+sx
+− fy
+
+sy
+− sx
+0
+− fz
+
+0
+sz
+− sy
+− fx
+
+M' = LM tL + C tP tL − LPtC
+P' = LP
+
+-  La	matrice	antisymétrique	:		
+	
+(60)
+																																																									 
+							L’action	du	groupe	sur	son	moment	s’écrit	[30]	
+(61)																																																										 
+									Le	groupe	de	Lorentz	a	quatre	composantes	connexes,	deux	orthochrones	
+(n’inversant	pas	la	coordonnée	de	temps)	et	deux	«	antichrones	»	(inversant	la	
+coordonnée	de	temps).		
+							Dans	la	physique,	conçue	à	travers	le	prisme	de	la	relativité,	les	particules	suivent	
+des	géodésiques	de	l’espace-temps.	Sur	de	courtes	distances	et	de	brefs	intervalles	de	
+temps	ces	géodésiques	sont	proches	de	géodésiques	de	l’espace	tangent,	l’espace	de	
+Minkowski.	Les	éléments	du	groupe	permettent	de	décliner	les	éventails	des	
+mouvements	des	différentes	particules.	Selon	des	géodésiques	de	longueur	nulle	:	il	
+s’agit	de	photons.	Selon	des	géodésiques	de	longueur	non	nulle	il	s’agit	de	particules	
+dotées	d’une	masse	non	nulle.		
+					Les	composantes	antichrones	du	groupe	de	Lorentz,	donc	du	groupe	de	Poincaré,	qui	
+hérite	de	cette	propriété,	inversent	le	temps	et,	corrélativement,	l’énergie	E	et	la	masse	
+m.	Les	formalismes	mathématiques	suggèrent	parfois	l’existence	d’objets	exotiques.	
+Parfois	cela	ne	fonctionne	pas.	Mais	parfois,	ça	fonctionne.	L’exemple	type	est	la	
+prédiction	de	l’existence	de	l’antimatière	par	Dirac,	qui	suscita	un	grand	scepticisme,	
+jusqu’à	ce	que	l’analyse	du	mouvement	d’électrons	issus	du	rayonnement	cosmique	
+confirme	la	prédiction	de	l’anglais.		
+					Le	groupe	de	Poincaré	complet	(dont	le	sous-groupe,	le	groupe	de	Poincaré	restreint	
+se	limite	à	ses	composantes	orthochrones)	prédit	l’existence	de	particules	d’énergie	et	
+de	masse	négative.	Ceci	correspond-t-il	a	une	réalité	physique	?		
+				La	réponse	gît	dans	la	mise	en	évidence	de	l’accélération	de	l’expansion	cosmique,	
+sous	l’effet	d’une	pression	négative.	Or	une	pression,	si	on	la	perçoit	ordinairement	
+comme	une	force	par	unité	de	surface,	est	aussi	une	densité	volumique	d’énergie.	D’où	la	
+naissance	du	concept	d’énergie	noire.		
+
+⎞
+
+3
+
+{
+
+ts , χ , θ , ϕ
+
+χ = arcsin r
+⎛
+⎝⎜
+ˆR
+ 
+
+p( − ) = ρ( − ) < v(− )2 >
+ 
+
+	
+38	
+					A	un	gaz	constitué	de	particule	de	masse	négative	se	trouve	automatiquement	
+associée	la	pression	négative	:		
+(62)																																																															
+< 0		
+où	 < v(−)2 >	représente	la	vitesse	quadratique	moyenne	d’agitation	thermique	dans	le	
+milieu.		
+	7-	Retour	vers	la	métrique	intérieure	de	Schwarzchild		[5]			
+					Nous	avons	déjà	évoqué	le	résultat	de	Schwarschid	dans	la	figure	7,	où	sa	métrique	
+l’aide	 de	 coordonnées	   
+intérieure	 est	 exprimée	 à	
+}.	 En	 effectuant	
+simplement	le	changement	de	variable	inverse	:		
+⎠⎟		
+(63)																																																																	
+on	retombe	aisément	sur	l’expression	classique	:	
+(64)																		 
+	avec	:	
+(65)																																																																		 
+				Nous	sommes	alors	dans	une	situation	stationnaire	avérée.	Point	n’est	donc	besoin	de	
+faire	intervenir	des	coordonnées	de	temps	avec	termes	croisés.	La	métrique	extérieure	a	
+la	forme	:	(64).	Le	premier	terme	de	la	métrique	intérieure	est	identifié	au	carré	du	
+facteur	temps	:		
+(66)																																							 
+Avec	:	
+(67)																																																			 
+						Le	temps	propre	s’écoule,	au	centre	de	l’étoile,	selon	:	
+(68)																																																																															 dτ = f dt		
+
+− r2dθ2 − r2 sin2 θdϕ2	
+ˆR 2					
+
+− r2dθ2 − r2 sin2 θdϕ2	
+
+ds 2 = f 2c2dt2 −
+
+dr2
+r 2
+ˆR 2
+
+dr2
+r 2
+ˆR 2
+
+3c2
+8πG ρ
+
+R n
+ˆR 2 −
+
+R n
+ˆR 2 −
+
+c2dt2 −
+
+f(r) =
+
+ds 2 =
+
+r 2
+ˆR 2
+
+ˆR =
+
+1−
+
+1−
+
+1−
+
+1−
+
+1−
+
+1−
+
+3
+2
+
+3
+2
+
+⎡
+⎢
+⎢
+⎣
+
+⎤
+⎥
+⎥
+⎦
+
+1
+2
+
+1
+2
+
+	
+
+r 2
+
+2
+
+2
+
+2
+
+	
+39	
+						Or,	comme	l’avait	noté	Karl	Schwarzchild	en	1916,	quand	le	rayon	de	l’étoile	devient	
+égal	à	
+ˆR	la	pression	au	centre	de	l’étoile,	de	même	que	la	valeur	locale	de	la	vitesse	
+de	la	lumière	deviennent	infinies	et	f	s’annule.	Le	cône	de	lumière	s’ouvre,	jusqu’à	
+devenir	un	plan,	et	finit	par	se	retourner	comme	un	parapluie	dans	la	bourrasque.		
+					Ci-après	l’évolution	du	facteur		temps	:		
+		
+
+8
+9
+
+ 
+
+Fig.27	:	Facteur	temps	en	fonction	du	rayon	pour	différentes	valeurs	de	la	masse	
+
+	
+
+	
+
+40	
+
+	
+
+Fig.28	:	Evolution	de	la	pression	(modèle	TOV	)	
+
+					Si	la	masse	est	un	tant	soit	peu	supérieure	à	cette	valeur	critique,	f	change	de	signe.	Or	
+le	temps	propre	 τ	,	lui,	ne	peut	pas	s’inverser,	donc	c’est	la	coordonnée	de	temps	qui	
+s’inverse,	et	par	delà	l’énergie	et	la	masse	de	particules	contenues	dans	cette	portion	de	
+l’espace.	
+					On	voit	donc	que	ce	thème	d’une	inversion	de	la	coordonnée	de	temps,	de	l’énergie		et	
+de	la	masse	se	manifeste	une	fois	de	plus.			
+			On	notera	que	les	formalismes	de	la	mécanique	quantique	engendrent	également	des	
+états	d’énergie	négative	[39],	[40]					
+	8-	Une	cosmologie	avec	inclusion	de	masses	négatives.	
+				Se	pose	alors	la	question	de	savoir	comment	introduire	des	masses	négatives	dans	le	
+modèle	cosmologique.		Si	on	se	tient	au	contexte	géométrique	Einsteinien,	fondé	sur	une	
+unique	équation	de	champ,	c’est	impossible.	En	effet,	localement,	il	n’existe	qu’une	seule	
+famille	de	géodésiques.	Donc	des	particules	témoins,	que	leur	masse	soit	positive	ou	
+négative,	réagissent	de	la	même	façon	quand	elles	sont	immergées	dans	le	champ	
+gravitationnel.	Dans	ce	contexte,	si	l’apparition	d’une	criticité	physique	entraînait	une	
+inversion	de	la	masse	des	particules	situées	au	voisinage	immédiat	du	centre	
+
+	
+41	
+géométrique	de	l’astre	resteraient	confinées	à	l’intérieur	de	celui-ci.	Par	ailleurs,	en	règle	
+générale,	l’introduction	de	masses	négatives	dans	l’univers	Einsteinien	engendre	
+l’ingérable	phénomène	runaway,	qui	contredit	deux	principes	:	
+-  Le	principe	d’action-réaction	
+	
+-  Le	principe	d’équivalence.	
+
+	
+
+gµν
+gµν
+
+(+)et	 
+
+Fig.	29	:	Phénomène	runaway.	
+
+					Une	solution	consiste	à	restaurer	ces	deux	principes,	ce	qui	implique	d’envisager	que	
+les	masses	négatives	réagissent	différemment	dans	le	champ	gravitationnel,	donc	
+suivent	des	géodésiques	issues	d’une	seconde	métrique	 
+(−)	,	les	particules	de	masse	
+(+).	Les	particules	de	masse	
+positives	suivant	les	géodésiques	issues	de	la	métrique		 
+négative	suivent	les	géodésiques	issue	de	la	métrique	 
+(−).	A	partir	de	ces	métriques	
+(−)et	deux	scalaires	de	Ricci	 R (+ )	et	 R (− ).	Ces	éléments	
+émergent	deux	tenseurs	 
+émergent	alors	du	système	d’équations	de	champ	couplées	Janus	([32]	to	[40]),	ici	sous	
+leur	forme	mixte	:		
+(69)																																											
+(70)																																											
+ g(+)	et	 g(−)	sont	les	déterminants	des	deux	métriques.	δν
+χ	la	constante	d’Einstein.	Les	tenseurs	des	seconds	membres	sont	de	la	forme	:		
+	
+
+µest	le	symbole	de	Kronecker	et		
+
+⌢Tν
+µ(+) + Tν
+
+R ν
+µ(+) −
+  
+
+R ν
+µ(−) −
+  
+
+µ = χ Tν
+
+R (+)δν
+
+R (−)δν
+
+µ = − χ
+
+g(−)
+g(+)
+
+g(+)
+g(−)
+
+µ(+) +
+
+Rµν
+
+Rµν
+
+		
+
+		
+
+⌢Tν
+
+gµν
+
+⎡
+⎢
+⎢
+⎣
+
+⎤
+⎥
+⎥
+⎦
+
+⎡
+⎢
+⎢
+⎣
+
+⎤
+⎥
+⎥
+⎦
+
+1
+2
+
+1
+2
+
+µ(−)
+
+µ(−)
+
+  
+
+  
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+0
+
+0
+0
+
+0
+0
+
+0
+0
+
+0
+0
+0
+
+0
+0
+0
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+Tν
+µ(−) =
+
+Tν
+µ(+) =
+
+−p(−) / c(−)2
+
+−p(−) / c(−)2
+
+−p(−) / c(−)2
+
+−p(+) / c(+)2
+
+−p(+) / c(+)2
+
+−p(+) / c(+)2
+
+⌢Tν
+µ(+) =
+
+42	
+
+ρ(−)
+0
+0
+0
+
+ρ(+)
+0
+0
+0
+
+							
+
+										
+
+	
+(71)																																			
+																																			
+(72)																																			
+	
+(73)																																			
+	
+(74)																																			
+							La	forme	de	tenseurs	d’interaction	est	déterminée	par	la	satisfaction	des	conditions	
+de	Bianchi	à	l’intérieur	des	masses.	A	l’extérieur,	la	forme	des	premiers	membres	suffit	à	
+satisfaire	cette	condition.		
+					L’approximation	Newtonienne	conduit	au	schéma	d’interaction	:		
+																															–	Les	masses	de	même	signe	s’attirent	par	la	loi	de	Newton	
+																															-	Les	masses	de	signes	opposés	se	repoussent	par	«	anti-Newton	»	
+	9	–	Les	Plugstars,	modèle	alternatif	au	modèle	des	trous	noirs.	
+				Dans	ces	conditions,	si	un	apport	en	masse	amène	la	métrique	  
+int(+)µ	en	état	de	
+criticité	physique,	une	quantité	équivalente	de	matière,	au	centre,	voit	sa	masse	
+
+										
+
+									
+
+ρ(−)
+0
+0
+0
+
+ρ(+)
+0
+0
+0
+
+⌢Tν
+µ(−) =
+
+p(−) / c(−)2
+
+p(+) / c(+)2
+
+p(−) / c(−)2
+
+p(−) / c(−)2
+
+p(+) / c(+)2
+
+p(+) / c(+)2
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+0
+0
+0
+
+0
+0
+0
+
+0
+0
+
+0
+0
+
+0
+0
+
+0
+0
+
+0
+
+0
+
+0
+
+g
+
+   
+
+   
+
+ν
+
+ν
+
+ν
+
+g
+
+g
+
+ext(+)µet	  
+
+	
+43	
+immédiatement	inversée.	L’interaction	entre	deux	particules	de	matière	s’effectue	
+essentiellement	par	échange	de	photons	(champ	électromagnétique).	Les	photons	 ϕ(+ )	
+et	 ϕ(− )des	deux	sous-systèmes	suivent	les	géodésiques	de	longueur	nulle	des	deux	
+métriques	  
+ext(−)µ	,	qui	sont	des	systèmes	disjoints.	Ainsi	les	masses	négatives,	
+n’interagissant	plus	avec	les	masses	positives,	quittent-elles	librement	l’étoile.		
+						Ce	système	de	feed-back	négatif	maintient	les	étoiles	à	neutrons	dans	un	état	
+subcritique,	limitant	leur	masse	à	deux	masses	solaires,	alors	que	dans	le	modèle	du	trou	
+noir	cette	masse	critique	«	géométrique	»	se	situe	autour	de	trois	masses	solaires.	Dans	
+ce	schéma	celle-ci	n’est	jamais	atteinte.	L’évaluation,	supérieure,	des	masses	de	«	trous	
+noirs	stellaires	»	serait	alors	imputable	à	des	interprétations	erronées	de	données	
+observationnelles.		
+					Les	prétendus	«	trous	noirs	géants	»,	au	centre	des	galaxies,	seraient	également	des	
+objets	subcritiques.	Ces	masses	considérables,	présentes	au	centre	de	nombreuses	
+galaxies	ne	se	forment	pas	par	accrétion.	Le	mécanisme	présidant	à	la	formation	de	ces	
+objets,	en	tant	que	résidus	du	phénomène	quasar,	fera	l’objet	d’un	autre	article.																				
+					Il	est	facile	de	construite	les	métriques	«	conjointes	»	que	suivent	dès	lors	les	masses	
+inversées.	Si	on	écrit	les	métriques	 
+ext(+)µen	utilisant	la	masse	volumique	 ρo	:	
+(75)																		
+− r2dθ2 − r2 sin2 θdϕ2	
+(76)																					
+					On	en	déduit	les	métriques	 
+(77)																		
+(78)																					
+− r2dθ2 − r2 sin2 θdϕ2	
+					Les	géodésiques	de	masse	non	nulle	se	déduisent	de	la	relation	(31)	où	le	signe	de	la	
+masse	M	créatrice	du	champ	a	été	inversée,	ce	qui	équivaut	à	affecter	Rs	d’un	signe	
+moins		:	
+
+− r2dθ2 − r2 sin2 θdϕ2	
+ext(−)µen	inversant	le	signe	devant	 ρo	:	
+
+− r2dθ2 − r2 sin2 θdϕ2	
+
+int(−)µ	et	 
+
+int(+)µ	et	 
+
+dr2
+8πG ρoR n
+
+dr2
+8πG ρoR n
+
+dr2
+8πG ρor 2
+
+dr2
+8πG ρor 2
+
+⎞
+⎠⎟ c2dts
+2 −
+
+⎞
+⎠⎟ c2dts
+2 −
+
+8πG ρoR n
+
+8πG ρoR n
+
+8πG ρoR n
+
+8πG ρoR n
+
+ds2 = 1+
+
+ds2 = 1−
+
+8πG ρor 2
+
+8πG ρor 2
+
+c2dt2 −
+
+c2dt2 −
+
+ds 2 =
+
+ds 2 =
+
+3c2r
+
+3c2r
+
+3c2r
+
+3c2r
+
+1+
+
+1−
+
+1+
+
+1−
+
+3c2
+
+3c2
+
+3c2
+
+3c2
+
+3c2
+
+3c2
+
+1+
+
+1−
+
+1+
+
+1−
+
+3
+2
+
+3
+2
+
+⎤
+⎥
+⎥
+⎦
+
+⎤
+⎥
+⎥
+⎦
+
+⎡
+⎢
+⎢
+⎣
+
+⎡
+⎢
+⎢
+⎣
+
+1
+2
+
+1
+2
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+−
+
+−
+
+g
+
+g
+
+g
+
+g
+
+ν
+
+ν
+
+ν
+
+ν
+
+ 
+
+ 
+
+ 
+
+ 
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+	
+(79)																																						
+				Ci-après,	la	forme	caractéristique	des	géodésiques	:	
+
+ϕ = ϕo +
+
+c2λ2 − 1
+
+r4 −
+
+h2
+
+∫
+
+ 
+
+	
+
+dr
+Rsr3
+h2 − r2 − Rsr
+
+	
+
+44	
+
+	
+
+Fig.30	:	Géodésique	empruntée	par	une	masse	négative,		
+
+	
+
+dans	le	champ	créé	par	la	masse	positive	M	
+
+				On	note	la	nécessaire	forte	valeur	à	donner	au	paramètre	 λ	.	L’explication	est	simple.	
+En	«	tirant	»	une	masse	négative	vers	l’objet,	de	manière	à	lui	permettre	de	s’en	
+approcher	à	une	distance	de	seulement	quelques	rayons	de	Schwarzschild,	c’est	à	dire	
+dans	des	régions	où	règne	un	champ	gravitationnel,	en	l’occurrence	ici	répulsif,	est	très	
+intense,	il	est	nécessaire	de	lui	communiquer,	à	très	grande	distance,	une	vitesse	telle	
+que	l’énergie	cinétique	qui	l’accompagne,	négative,		ne	soit	plus	négligeable	devant	son	
+énergie	également	négative	mc2.		
+				Pour	donner	une	idée	de	cette	accélération	et	de	la	façon	dont	la	projection	de	la	
+géodésiques	est	modifiée,	on	indique	ci-après	ce	qui	émerge	d’une	combinaison	des	
+deux	arcs	géodésique	dérivant	de	la	métrique	de	Schwarzschid	extérieure,	attractive,	
+puis	répulsive	dans	le	second	feuillet	dans	leur	représentation	polaire	 ( ρ , ϕ ),	une	
+courbe	à	comparer	à	celle	de	la	figure	23.		
+	
+
+	
+
+45	
+
+	
+
+	
+
+Fig	31	:	Projection	de	la	géodésiques	avec	succession	d’attraction	et	de	répulsion.	
+
+					Sur	la	figure	suivante,	l’évolution	du	temps	de	transfert,	fini	:		
+	
+
+Fig.32	:	Evolution	du	temps	lors	du	transfert	de	la	masse	avec	inversion.	
+
+							Courbe	à	comparer	avec	celle	de	la	figure	25.	Cette	double	continuité	entraîne	la	
+continuité	globale	de	la	géodésique	après	traversée	d’une	sphère	de	gorge.	
+				A	titre	de	conclusion	les	masses	négatives	éjectées	se	verront	communiquer,	sous	
+l’effet	de	la	répulsion,	une	vitesse	non	négligeable	devant	c.	L’idée	d’une	non	
+conservation	de	l’énergie	cinétique	(en	valeur	absolue)	induit	une	vision	faussée	des	
+phénomènes.	Il	faut	tenir	compte	de	l’énergie	gravitationnelle	dans	le	bilan,	impliquée	
+par	la	dispersion	des	masses	négatives.		
+	
+
+	
+46	
+	10	–	Falsifiabilité	du	modèle	des	Plugstars.		
+					Aucun	modèle	théorique	ne	peut	être	pris	en	considération	s’il	ne	cadre	pas	avec	des	
+données	observationnelles.	Le	modèle	Janus,	parmi	les	principaux	effets	expliqués	:		
+-  Rend	compte	du	confinement	des	galaxies,	subissant	la	contrepression	de	la	
+masse	négative	environnante,	qui	explique	au	passage	la	platitude	de	leurs	
+courbes	de	rotation,	ainsi	que	les	forts	effets	de	lentille	gravitationnelle	produits.	
+Constat	similaire	pour	les	amas	de	galaxies,	expliquant	les	fortes	vitesses	de	leurs	
+composants.	Ainsi	le	modèle	Janus	([30]	to	[40]),		remplace-t-il	avantageusement	
+le	recours	à	une	hypothétique	matière	sombre	de	masse	positive	par	un	contenu	
+en	masse	négative.		
+	
+-  Rend	compte	de	l’accélération	de	l’expansion	cosmique	([31],[33]),	l’énergie	
+noire	n’étant	que	l’énergie	des	particules	de	masse	négative.	
+	
+-  Rend	compte	de	la	structure	lacunaire	de	la	masse	négative,	organisée	autour	de	
+conglomérats	invisibles	de	masse	négative,	l’objet	du	Dipole	Repeller	étant	l’un	
+d’entre	eux	[30].		
+	
+-  Fournit	un	modèle	de	structure	spirale	galactique	pérenne	[31],	phénomène	
+traduisant	un	transfert	de	quantité	de	mouvement	(friction	dynamique)	par	
+ondes	de	densité	vers	l’environnement	de	masse	négative.	
+	
+-  Confère	aux	composants	invisibles	de	l’univers	une	identité	précise	:	antiprotons,	
+antineutrons,	 antiélectrons	 de	 masse	 négative,	 cet	 ensemble	 constituant	
+l’antimatière	primordiale,	échappant	à	l’observation	parce	qu’émettant	des	
+photons	d’énergie	négative	[32].		
+	-					Rend	les	voyages	interstellaires	non-impossibles,	les	distances	devenant	cent	
+												fois	plus	courtes	dans	le	second	feuillet	d’univers	et	la	vitesse	de	la	lumière,	des	
+												photons	d’énergie	négative,		dix	fois	plus	élevée	[37].		
+						S’il	faudra	attendre	longtemps	avant	de	disposer	de	données	suffisamment	précises	
+sur	les	sources	de	rayons	X,	compagnes	d’étoiles,	on	dispose	de	ces	données	concernant	
+deux	objets	hypermassifs	situés,	l’un	au	centre	de	la	galaxie	M87,	l’autre	au	centre	de	la	
+voie	lactée.	Les	mesures	des	rapports	des	températures	de	brillance,	maximale	et	
+minimale,	pour	ces	deux	objets,	se	trouve	être	très	voisin	de	3.			
+					Calculons	la	valeur	de	ce	redshift	gravitationnel	z	qui	est	alors	commun	à	tous	les	
+plugstars,	quelle	que	soit	leur	masse	M.		
+					Soit	Ra	le	rayon	de	l’étoile,	qui	vaut	alors	
+ˆR	tandis	que	le	rayon	de	Schwarzschild	
+ˆR 2.		
+est	
+
+8πG ρo Ra
+
+2G M
+
+3c2
+
+Ra
+
+8
+9
+
+c2
+
+=
+
+=
+
+ 
+
+3
+
+3
+
+Rs =
+  
+
+  
+
+1
+
+1
+
+=
+
+8
+9
+
+1−
+
+1−
+
+Rs
+Ra
+
+1+ z =
+
+	
+47	
+				Le	redshift	gravitationnel,	affectant	la	lumière	émise	à	la	surface	de	l’astre	dans	une	
+direction	radiale	pointant	vers	l’observateur	,	est	alors	:	
+= 3	
+				C’est	exactement	la	valeur	qui	se	déduit	des	deux	premières	images	des	objets	
+supermassifs	situés	au	centre	des	galaxies	M87	et	de	la	voie	Lactée.		
+				D’autres	images	d’objets	supermassifs	apparaîtront.	Nous	conjecturons	que	ces	
+rapports	des	températures	de	brillance	sera	systématiquement	égal	ou	inférieur	à	3.	Une	
+conséquence	annexe	est	la	remise	en	question	de	l’évaluation	des	masses	d’objets	
+fusionnant.	Le	scénario	de	ces	fusions,	comme	celui	de	la	création	d’étoiles	à	neutrons	
+dans	les	étoiles	dotées	des	masses	les	plus	élevées	(	jusqu’à	200	masses	solaires	)	
+restent	à	écrire.	Dans	le	phénomène	de	supernova,	la	masse	de	l’étoile	massive	
+s’effondre	sur	son	cœur	de	fer.	Si	la	masse	impliquée	dépasse	2	masses	solaires	la	
+criticité	physique	est	immédiate	et	la	masse	en	excès	se	trouve	inversée.	Cette	inversion	
+se	traduit	par	l’émission	d’une	onde	gravitationnelle	d’une	intensité	phénoménale.	
+Même	scénario	s’agissant	de	la	fusion	de	deux	étoiles	à	neutrons	subcritiques,	si	la	
+somme	de	leurs	masses	excède	les	2	masses	solaires.	
+					La	non	prise	en	compte	de	ce	scénario	alternatif	jette	le	doute	sur	l’évaluation	des	
+masses	des	«	trous	noirs	stellaires	»	,	issue	des	calculs	de	Kip	Thorne.	
+	11	–	Conclusion		
+				Nous	montrons	que	la	construction	du	modèle	des	trous	noirs	s’est	effectuée	sur	une	
+non	prise	en	compte	du	second	article	de	Karl	Schwarzschild,	décrivant	la	géométrie	à	
+l’intérieur	des	masses,	qui	faisait	dès	cette	époque	état	d’une	criticité	physique	
+survenant	avant	que	la	masse	correspondant	à	la	classique	criticité	géométrique	
+n’apparaisse.	L’explication	réside	dans	le	fait	que	la	première	traduction	en	langue	
+anglaise	de	ce	second	article	n’est	apparue	qu’en	1999.	Beaucoup	de	spécialistes	en	
+ignorent	même	aujourd’hui	la	simple	existence.	Le	modèle,	exclusivement	fondé	sur	la	
+solution	«	extérieure	»	de	Schwarzschild	(et	plus	tard	de	Kerr)	comporte	de	nombreuses	
+faiblesses	et	incongruités	sur	le	plan	mathématique	et	géométrique,	qui	sont	soulignées.	
+Avec	de	telles	erreurs	au	départ	on	ne	peut	construire	de	scénario	conduisant	à	cette	
+vision	d’une	géométrie	organisée	autour	d’une	hypothétique	«	singularité	centrale	».	En	
+effet,	lors	qu’on	part	d’une	géométrie	saine,	basée	sur	les	deux	métriques	construites	par	
+Schwarzschild	dès	1916,	décrivant	l’intérieur	et	l’extérieur	d’une	étoile,	une	criticité	
+physique	se	manifeste		avant	même	que	cette	criticité	géométrique	n’apparaisse.	On	
+montre	que	ceci	se	traduit	par	l’apparition	d’une	région,	au	voisinage	du	centre,	où	
+l’inversion	de	la	coordonnée	de	temps	entraîne	celle	de	l’énergie	et	de	la	masse	des	
+particules	impliquées.	Ce	constat	appelle	une	introduction	de	masses	négatives	dans	le	
+modèle	cosmologique.	Ceci,	du	fait	de	l’apparition	du	phénomène	 runaway	et	de	la	
+violation	des	principes	d’action-réaction	et	d’équivalence,	s’avère	impossible	dans	le	
+cadre	de	la	relativité	générale,	reposant	sur	l’unique	équation	de	champ	d’Einstein.	En	
+optant	pour	le	modèle	Janus,	s’appuyant	par	ailleurs	sur	de	très	nombreuses	
+
+	
+48	
+confirmations	observationnelles,	les	lois	d’interaction,	issues	des	approximations	
+newtoniennes,	changent.	Les	masses	de	même	signe	s’attirent	tandis	que	les	masses	de	
+signes	opposés	se	repoussent.	Sensible	au	champ	gravitationnel	créé	par	la	masse	
+négative,	les	masses	négatives	en	sont	puissamment	éjectées	en	traversant	librement	
+l’astre.	On	débouche	alors	sur	un	phénomène	de	rétroaction	qui	limite	les	masses	à	leur	
+valeur	de	sous-criticité.	Pour	les	étoiles	à	neutrons	:	autour	de	2	masses	solaires.	
+L’existence	des	trous	noirs	stellaires	est	donc	remise	en	question.	Les	objets	
+supermassifs,	dont	la	formation	sera	expliquée	dans	un	futur	article,	sont	également	des	
+objets	sous	critiques,	des	Plugstars.	La	théorie		confère	à	tous	les	plugstars	un	redshift	
+gravitationnel	de	3.	Or		c’est	exactement	ce	qui	ressort	des	mesures	issues	de	la	
+constitution	des	images	de	deux	objets	hypermassifs	situés	au	centre	des	galaxies	M87	
+et	de	la	voie	lactée.		
+					Nous	prédisons	que	ce		redshift	de	3	accompagnera	les	futures	images	d’objets	
+hypermassifs	qui	apparaitront	dans	l’avenir.		
+	
+Remerciement	:	
+Les	auteurs	remercient	M.	B.Michon	pour	sa	relecture	du	manuscrit.		
+	
+References	:		
+[1]	The	Event	Horizon	Telescope	Collaboration	:	«	First	M	87	event	horizon	telescope	
+results	I.	Imaging	the	central	supermassive	black	hole	».	Astrophysical	Journal,	Vol.	875	
+n°1.	2019	1april	1.		
+[2]	A.	Einstein	:	Die	Feldgleichungen	des	Gravitation	(	The	Field	Equation	of	Gravitation).	
+Sitzungsber.	XLIV	,	8	,	778	and	XLVI	s.	799	(	25	nov	1915)	
+
+ [3] K. Schwarzschild : Über das Gravitationsfeld Messenpunktes nach der Einsteinschen 
+Theorie. Sit. Deut. Akad. Wiss. 1916 
+English translation by S.Antoci and A.Loinger. On the gravitational field of a mass point 
+according to Einstein theory. arXiv :physics/9912033v1 [physics.hist-ph] 16 dec 1999.  
+
+ [4]			A.Einstein	:	Erlklärung	der	Perihelbeweggung	des	Merkur	aus	allgemeinen	
+Relarivitätstheorie.	Königlish	Preubische	Akademie	der	Wissenschaften	(Berlin)	?	
+Sitzungberichet	(25	nov.	1915)	p.	831-838	
+	[5]		K.Schwarzshild	:-«	Über	das	Gravitationsfeld	einer	Kugel	incompressibler	
+Flüssigkeit	nach	der	Einsteinschen	Theorie	».	Sitzungsberichte	der	Köninglish	
+Preussischen	Akademie	der	Wissenschapten	zu	Berlin.	Phys-Maths	Klasse	1916,	424-
+434	En	anglais	:	On	the	gravitational	field	of	a	sphere	of	incompressible	fluid	according	
+to	the	Einstein’s	Theory.		arXiv	:physics/9912033v1	[physics.hist-ph]	16	Dec	1999	
+	[6]		D.Hilbert.	Die	Grundlagen	der	Physik	(Erste	Mitteilung).	Nachrichten	von	der	
+Gesellschaft			der	Wissenschaften	zu	Göttingen.	Mathematisch-physikalische	Klasse.	
+(1915)	395-407.			
+
+	
+49	
+[7]		Die	Grundlangen	der	Physik.	(Zwerte	Mitteilung)	in	Nachtchriten	von	Köniniglichen	
+Gesellschaft	zu	Göttingen.	Math-Phys.	Klasse	1917	p.53-76.	Presented	in	the	Session	of	
+23	 december	 1916.	 English	 translation	:	 The	 Foundations	 of	 Physics	 (second	
+communication).	 En	 anglais	:	 D.Hilbert.	 The	
+(first	
+foundations	 of	 Physics	
+communication).	English	translation.	Boston	Series	in	Philosophy	and	Science.	Copyright	
+Springer,	Vol.250		2007	(	29$95	)		https://link.springer.com/chapter/10.1007/978-1-
+4020-4000-9_44	
+[8]		R.	Tolman	:	Static	Solutions	of	Einstein’s	field	equation	for	a	sphere	of	fluid.	Phys.	
+Rev.	1939	n°55	(	15feb.	1939)	https://authors.library.caltech.edu/4362/1/TOLpr39.pdf	
+	[9]		Ludwig	Flamm.	Beiträge	zur	Einsteinschen	Gravitationstheorie,	Physikalische	
+Zestschrift	XVII	(1916)	pp.	448-454.	
+[10]	H.Weyl	:	Zu	Gravitationstherie.	Annalen	der	physik,	Vol.35	n°	18	(1917)	
+https://onlinelibrary.wiley.com/doi/epdf/10.1002/andp.19173591804	:	49	$	
+On	the	Theory	of	Gravitation.	Reprinted	in	Gen.	Relat.	And	Gravit.	Vol.	44	pp	779-810		
+(2012).	
+	https://link.springer.com/article/10.1007%2Fs10714-011-1310-7	:	49	$		
+[11]	A.Einstein	and	N.Rosen	:	The	particle	problem	in	general	theory	of	relativity.	
+Physical	Review	110	(4)	:	73-77.	1935	
+[12]	J.R.Oppenheimer	and	H.Snyder	:	On	Continued	Gravitational	Contraction.	Phys.	Rev.	Vol.	
+56	pp	455-459	sept	1939	
+[13]	J.R.	Oppenheimer	and	G.M.	Volkoff	:	On	Massive	Neutron	Cores.	Physical	Review	vol.	
+55	pp.	344-381	Feb.	15	1939	
+[14]	R.C.Tolman	:		Static	Solutions	of	Einstein’s	field	equation	for	a	sphere	of	fluid.	Phys.	
+Rev.	1939	nol.55	(15feb.	1939)	
+[15]	R.Kerr	:	Gravitational	Filed	of	a	Spinning	Body	as	an	Example	of	
+Algebraic	Special	Metrics.	Physical	Letters	11,	237	1	sept.	1963	
+multi	Connected	Spade.	Annals	of	Physics	2,	525-603	1957		
+[16]	C.W.Misner	&	J.A.	Wheeler	:	Gravitation	as	Properties	of	a	Curved	Empty	Space.	Flux	in	
+	[17]	M.D	Kruskal	:	Maximal	extension	of	Schwarzschild	metric.	Phys.	Rev.	119,	1734	(1°	
+sept	1960).	
+[18]		R.Adler,	M.Bazin,	M.Schiffer	:	Intrduction	to	General	Relativity,	Mc	Graw	Hill,	1965	
+[19]		Chandrasekhar	:	The	Mathematical	Theory	og	Black	Holes.	Clarendon	press,	1983	
+[20]		P.Painlevé		CRAS	Paris	173,	677	(	1921)	
+[21]		A.Gullstrand	Arkiv.	Mat.	Astronom.	Fys.	16,	1	(1922)	
+[22]		A.Eddington	:	Nature	113,	192	(1921)	
+[23]		A.Eddington	:	A	comparizon	of	Withehead’s		and	Einstein’s	formulae.	Nature	113,	
+192	(	1924)		
+
+50	
+
+	
+[24]		P.Koiran	:	"Infall	time	in	the	Eddington–Finkelstein	metric,	with	application	to	
+Einstein–Rosen	bridges."	International	Journal	of	Modern	Physics	D	30,	no.	15	
+(2021).	https://arxiv.org/abs/2110.05938	
+[25]		J.P.Petit	and	G.D’Agostini	:	Cancellation	of	the	Central	Singularity	of	the	
+Schwarzschild	Solution	with	Natural	Mass	Inversion	Process.	Mod.	Phys.	Lett.	Vol.	30	n°9	
+(2015)	
+[26]	A.D.Sakharov,	ZhETF	Pis’ma	5	:	32	;	JETP	Lett.	5	:	24	(	1967	)	
+	[27]	A.D.Sakharov	,	ZhETF	Pis’ma	76	:	1172	(1979)	;	JETP	49	:	594	(1979)	
+		[28]	A.D.Sakharov	,  (1980).  Cosmological  Model  of  the  Universe  with  a  Time  Vector 
+Inversion. ZhETF (Tr. JETP 52, 349-351) (79): 689–693	
+	[29]	J.M.Souriau	:	Structure	des	systèmes	dynamiques.		Dunod	Ed.	France,	1970	and	
+Structure	of	Dynamical	Systems.	Boston,	Birkhaüser	Ed.	1997	
+[30]	J.P.PETIT,	Twin	Universe	Cosmology,	Astrophys.	and	Sp.	Science,	 226,	273-307,	
+1995	
+	[31]	J.	P.	Petit,	P.	Midy	and	F.	Landhseat,	Twin	matter	against	dark	matter,	int.	Conf.	On	
+Astrophysics	and	Cosmology,	Where	is	the	Matter?,	Tracing	Bright	and	Dark	Matter	with	
+the	New	Generation	of	Large-Scale	Surveys	(Marseille,	France,	June	2001).	
+	[32]	J.P.Petit,	G.D’Agostini	:	Negative	Mass	hypothesis	in	cosmology	and	the	nature	of	
+dark	energy.	Astrophysics	And	Space	Science,.	A	29,	145-182	(2014)	
+	[33]	J.P.Petit	&	G.D’Agostini	:	Lagrangian	derivation	of	the	two	coupled	field	equations	in	
+the	Janus	Cosmological	Model.	Astrophysics	and	Space	Science	2015,	357	:67	
+[34]	G.	DAgostini	and	J.P.Petit	:	Constraints	on	Janus	Cosmological	model	from	recent	
+observations	of	supernovae	type	Ia,	Astrophysics	and	Space	Science,	(2018),	
+363:139.https://doi.org/10.1007/s10509-018-3365-3	
+[35]	J.P.Petit,	G.D’Agostini	:	Cosmological	Bimetric	model	with	interacting	positive	and	
+negative	masses	and	two	different	speeds	of	light,	in	agreement	with	the	observed	
+acceleration	of	the	Universe.	Modern	Physics	LettersA,	Vol.29	;	N°	34,	2014	;	Nov	10th	
+DOI	:10.1142/So21773231450182X	
+	[36]	J.P.Petit	:	A	Symplectic	Cosmological	Model.	Progress	in	Physics,	Vol.	14,	jan.	2018		
+	[37]	J.P.Petit	The	Janus	Cosmological	Model	and	the	Fluctuations	of	CMB.	Progress	in	
+Physics	2018	vol.	14	issue	4	
+[38]	J.P.Petit,	G.	D’Agostini,	N.Debergh	:	Physical	and	mathematical	consistency	of	the	
+Janus	Cosmological	Model	(JCM).	Progress	in	Physics	2019	Vol.15	issue	1	
+	[39]	N.Debergh,	J.P.Petit	and	G.D’Agostini	:	Evidence	of	negative	energies	and	masses	in	
+the	Dirac	equation	through	a	unitary	time-reversal	operator.	J.	Phys.	Comm.	2	(2018)	
+115012	
+
+	
+51	
+[40]	N.Debergh	,	J.P.Petit	:	On	some	reasons	why	the	the	reversal	operator	could	be	
+unitary.	Phys.	Lett	A	442	(2022).	
+[41]	David	Bullo,	Lakovic	and	al.First	M	87	Event	Horizon	Telescope	results	IV.	Imaging	
+the	supermassive	black	hole.	Astrophysical	Journal	874,	L4.	April	10	2019.	
+Arxiv.org/ftp/arxiv/papers/1910/1910.1093.pdf	
+			
+
+

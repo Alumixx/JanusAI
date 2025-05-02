@@ -1,0 +1,1277 @@
+1
+0
+0
+2
+
+ 
+
+b
+e
+F
+3
+1
+
+ 
+
+ 
+ 
+
+1
+v
+5
+5
+0
+2
+0
+1
+0
+/
+c
+q
+-
+r
+g
+:
+v
+i
+X
+r
+a
+
+BLACK HOLES: THE LEGACY OF HILBERT’S ERROR
+
+LEONARD S. ABRAMS
+
+Abstract. The historical postulates for the point mass are shown to
+be satisﬁed by an inﬁnity of space-times, diﬀering as to the limiting
+acceleration of a radially approaching test particle. Taking this limit
+to be inﬁnite gives Schwarzschild’s result, which for a point mass at
+x = y = z = 0 has C(0+) = α2, where α = 2m and C(r) denotes the co-
+eﬃcient of the angular terms in the polar form of the metric. Hilbert’s
+derivation used the variable r∗ = [C(r)]1/2, which transforms the co-
+0 = [C(0+)]1/2. For Hilbert,
+ordinate location of the point mass to r∗
+however, C was unknown, and thus could not be used to determine r∗
+0 .
+Instead he asserted, in eﬀect, that r∗ = (x2 + y2 + z2)1/2, which places
+the point mass at r∗ = 0. Unfortunately, this diﬀers from the value (α)
+obtained by substituting Schwarzschild’s C into the expression for r∗
+0 ,
+and since C(0+) is a scalar invariant, it follows that Hilbert’s assertion
+is invalid. Owing to this error, in each spatial section of Hilbert’s space-
+time, the boundary (r∗ = α) corresponding to r = 0 is no longer a point,
+but a two-sphere. This renders his space-time analytically extendible,
+and as shown by Kruskal and Fronsdal, its maximal extension contains
+a black hole. Thus the Kruskal-Fronsdal black hole is merely an artifact
+of Hilbert’s error.
+
+Il existe un nombre inﬁni d’espace-temps non ´equivalents pour la
+masse punctuelle; ils diﬀ`erent les unes des autres quant `a l’acc´el´eration
+limite d’ une particule d’essai s’approchant radialement. En faisant cette
+limite inﬁnie, on a l’espace-temps inextensible de Schwarzschild, qui a,
+pour une masse punctuelle `a x = y = z = 0, C(0+) = α2, ou α = 2m et
+C(r) d´esigne le coeﬃcient des termes angulaires lorsque la m´etrique est
+´ecrite en polaires sph´eriques. Hilbert utilisait dans sa d´erivation la vari-
+able r∗ = [C(r)]1/2, qui transforme la position de la masse punctuelle de
+0 = [C(0+)]1/2. Pour Hilbert cependant, C ´etait une inconnue,
+0 = 0 `a r∗
+r∗
+et il ne pouvait par cons´equent l’utiliser pour determiner r∗
+0 . Au lieu de
+cela, il aﬃrmait en eﬀet que r∗ = (x2 + y2 + z2)1/2, ce qui place la masse
+punctuelle `a r∗ = 0. Malhereusement, cette valeur diﬀ`ere de la valeur
+(α) obtenue en substituant le C de Schwarzschild dans l’expression de
+0 ; comme C(0+) est une scalaire invariant, il s’ensuit que l’aﬃrmation
+r∗
+de Hilbert est invalide. Comme r´esultat, dans chaque section spatiale
+de l’espace-temps de Hilbert, la limite (r∗ = α) correspondant `a r = 0
+n’est plus un point mais une sph`ere bidimensionnelle et par cons´equent
+pas une singularit´e quasi r´eguli`ere. Cela rend son espace-temps analy-
+tiquement extensible, et, comme l’ont montr´e Kruskal et Fronsdal, son
+extension maximale contient un trou noir. Le trou noir Kruskal-Fronsdal
+n’est donc rien de plus qu’un produit de l’ erreur de Hilbert.
+
+Published in Can. J. Phys. 67 (1989) 919.
+Received November 10, 1988.
+
+1
+
+2
+
+1. Introduction
+
+Ever since Schwarzschild’s 1916 derivation [1], it has been accepted that
+the historical postulates used by him to characterize the point-mass space-
+time do, in fact, lead to a unique gravitational ﬁeld. However, Schwarz-
+schild’s result was obtained years before the concept of a ‘quasiregular’ sin-
+gularity [2] had surfaced. As shown here, when the general polar form of a
+static, spherically symmetric metric
+
+(1)
+
+gU (r) = A(r)dt2 − B(r)dr2 − C(r)dΩ2
+
+is substituted into Einstein’s vacuum ﬁeld equations and the remaining his-
+torical postulates are imposed on the solution, there results a one-parameter
+family of inequivalent, maximal space-times, each of which has a quasireg-
+ular singularity at the location of the point mass. Since each of these
+space-times assigns a diﬀerent number to the limiting value of a radially
+approaching test particle’s locally measured acceleration, it is necessary to
+supplement the historical postulates by one that ﬁxes this limit. Taking it
+to be inﬁnite gives Schwarzschild’s result
+
+gS(r) = (1 − α/R)dt2 − (1 − α/R)−1dR2 − R2dΩ2
+
+where α = 2m and R = (r3 + α3)1/3.
+
+Several months after Schwarzschild’s paper was published, another deriva-
+tion of the point-mass space-time was given by Hilbert [3]. At the start he
+introduced the radial coordinate r∗ = [C(r)]1/2, and then solved the vacuum
+ﬁeld equations for the two remaining unknowns, obtaining:
+
+gH(r∗) = (1 − α/r∗)dt2 − (1 − α/r∗)−1dr∗2 − r∗2dΩ2
+
+Of course, the use of r∗ = [C(r)]1/2 transforms the coordinate location
+of the point mass from r = 0 to r∗ = [C(0+)]1/2. As can be seen from
+Schwarzschild’s result, this is simply α. Hilbert, however, claimed that
+r∗ = (x2 + y2 + z2)1/2, so that the point mass represented by gH(r∗) was
+at r∗ = 0, and this claim went unchallenged by his contemporaries. As
+a result of this mistake, in each spatial section the locus r∗ = α is not
+a point but a two-sphere, and thus no longer constitutes a quasiregular
+singularity of Hilbert’s space-time SH. As shown by Kruskal [4] and Fronsdal
+[5], with r∗ = α having the character of a two-sphere in the t = constant
+hypersurfaces, SH is analytically extendible to r∗ > 0, and the so-extended
+space-time contains a black hole. It follows that the theoretical foundation
+of spherical black holes is based on the 1916 error of Hilbert.
+
+It is the principal objective of this paper to show how Hilbert came to
+make this mistake. It will also be shown that SH cannot be used to represent
+the ‘exterior’ of a collapsing star, and thus that spherical black holes cannot
+be produced by gravitational collapse.
+
+3
+
+2. The space-time of a point mass
+
+Consider any static, time-symmetric and spherically symmetric conﬁgura-
+tion (U ) of matter and (or) energy. In his paper [1] Schwarzschild regarded
+it as self evident that the metric of such a conﬁguration, when expressed in
+terms of quasi-Cartesian coordinates (t, x, y, and z), was necessarily of the
+form
+
+(2)
+
+gU (x, y, z | 0, 0, 0) = F (r)dt2 − G(r)(dx2 + dy2 + dz2)
+
+−H(r)(xdx + ydy + zdz)2
+
+where
+
+(3)
+
+and
+
+(4)
+
+where
+
+(5)
+
+(6)
+
+(7)
+
+r = (x2 + y2 + z2)1/2
+
+F, G, H > 0
+
+and where, without loss of generality, the center 1 2 of the spherical sym-
+metry has been taken at x = y = z = 0 for all t; this is signiﬁed by the
+notation ‘| 0, 0, 0’ in the argument of gU . (The generality of (2) for such
+conﬁgurations was subsequently established by Eiesland [7].)
+
+In polar coordinates (r, θ, and φ), where x = r sin θ cos φ, etc., the above
+
+expression of gU becomes
+
+gU (r | 0) = A(r)dt2 − B(r)dr2 − C(r)dΩ2
+
+and from (4) and the tensor transformation law, it follows that
+
+dΩ2 = dθ2 + dφ2 sin2 θ
+
+A, B, C > 0
+
+(Analogously, the ‘| 0’ in the argument of gU in (5) signiﬁes that the center
+of symmetry of (5) is at r = 0 for all t.)
+
+For later purposes, we note that apart from spatial rotations about the
+origin, which are of no relevance to what follows, the only transformations
+T that leave the structure of (5) unchanged are of the form
+
+(8)
+(9)
+
+t = k¯t + b, k 6= 0, b constants
+
+r = h(¯r),
+
+h ∈ C 1
+
+Since C(r) in (5) is readily seen to be a scalar under T , it follows that:
+
+1Since a point mass is the only conﬁguration under consideration, it will be assumed
+
+here that only a single center of symmetry is present.
+
+2The center is that three-dimensional point having the property that rotations about it
+leave the Newtonian description of U unchanged. Note that the very concept of spherical
+symmetry presupposes that the center of symmetry is a three-dimensional point in each
+spatial section [6].
+
+4
+
+LEONARD S. ABRAMS
+
+THEOREM:The value of C at a speciﬁed event P (this will be denoted by
+‘C[P ]’) is an invariant of the space-time associated with a given U .
+
+Consequently, two space-times S1 and S2 having metrics of the form (5) for
+which C1[P ] 6= C2[P ] are necessarily inequivalent. A fortiori,
+
+COROLLARY:If two space-times S1 and S2 have metrics of the form (5),
+and if lim C1[P ] 6= lim C2[P ] as P approaches the center of symmetry, then
+S1 and S2 are inequivalent.
+
+Consider now the particular U consisting of a single uncharged, nonro-
+tating, nonradiating point mass (whose Newtonian gravitational mass will
+henceforth be denoted by ‘m’). Historically, the conditions regarded as dis-
+tinguishing the space-time (MU , gU ) of this U from those of all others where
+originally formulated by Einstein [8], and together with those implicit in
+that formulation were enumerated by Finkelstein [9]. The expression on
+the right-hand side of (5), together with (6) and (7), already satisﬁes the
+static- and spherical-symmetry requirements of Finkelstein’s list, as well as
+those requiring a Lorentz signature and a global-time coordinate. As shown
+in Appendix A, the further requirements that (5) be analytic, satisfy the
+vacuum ﬁeld equations, and be asymptotically ﬂat reduce (5) to
+
+(10)
+
+gP M (r | 0) = (1 − α/C 1/2)dt2 −
+
+C ′2
+
+4C(1 − α/C 1/2)
+
+dr2 − CdΩ2
+
+where C(r) is any analytic function of the r in (3) having the following three
+properties:
+
+(11)
+(12)
+
+(13)
+
+C(0+) ≡ β2 ≥ α2
+C ′(r) > 0, r > 0
+C(r)/r2 → 1 as r → ∞
+
+(the prime denotes diﬀerentiation with respect to r). As shown there, all
+such metrics comply with the ﬁnal requirement of being analytically inex-
+tendible to r = 0.
+
+Since the center of symmetry of (5) is located at r = 0, the same is true
+of the center of symmetry of (10), whence it follows from the corollary that
+two space-times deﬁned on M0 : r > 0 and having gP M as their metric
+are inequivalent if C1(0+) 6= C2(0+). This, together with (11), shows that
+there is a one-parameter family of inequivalent space-times (distinguished
+by their value of C(0+)), which satisfy all the historical postulates for the
+point mass. That is:
+
+5
+
+The historical postulates for the point mass do not result in a
+unique space-time. To obtain such a space-time, it is necessary
+to supplement those postulates by one which ﬁxes the value of
+C(0+).3
+
+To determine this supplementary postulate, it is necessary to relate C(0+) to
+some physical property of the point mass. To this end, consider the motion
+of an uncharged, nonspinning, nonradiating test particle as it approaches
+the point mass along a radial geodesic. As shown by Doughty [13], the
+particle “locally measured” acceleration (i.e., its acceleration measured by a
+nearby observer whose position is ﬁxed with respect to the point mass (see
+Appendix B) is given by:
+
+(14)
+
+a =
+
+which approaches
+
+(15)
+
+(−grr)1/2(−grr)|g00,r|
+
+α
+
+2C(1 − α/C 1/2)1/2
+
+2g00
+
+a0 =
+
+=
+
+α
+
+2β3/2(β − α)1/2
+
+as r → 0. Consequently, for a given value of m, the value of C(0+) is deter-
+mined by the limiting value of a test-particle’s locally measured acceleration
+as it approaches the point mass along a radial path.
+
+Since there are no experimental data concerning a0, it is necessary to
+choose its value on the basis of theoretical arguments. One such argument
+is that in the corresponding Newtonian situation a0 is inﬁnite. Although
+one would not expect strict quantitative agreement (in the sense of equal
+values of a at equal values of proper distance), the fact that the curvature
+invariant f = RijkmRijkm remains ﬁnite as r → 0 indicates that the rel-
+ativistic case diﬀers from the Newtonian one only in degree, not in kind.
+Accordingly, since there are no “degrees” associated with an inﬁnite limit,
+the supplementary postulate is taken to be:
+
+(i) the limiting value of a neutral nonspinning nonradiating test
+particle’s locally measured acceleration as it approaches the point
+mass along a radial geodesic is inﬁnite.
+
+Examination of (15) shows that the only values of β that make a0 inﬁnite
+are 0 and α, and of these only the latter satisﬁes (11). Hence, the result of
+postulate (i) is
+
+(16)
+
+(17)
+
+C(0+) = α2
+
+CB(r) = (r + α)2
+
+The simplest choice of analytic C satisfying (12), (13), and (16) is
+
+3The fact that a boundary condition for r → 0 is just as necessary as the one for r → ∞
+was ﬁrst realized by Brillouin [10]. Although Abrams’ work (see ref.
+[11]) contained a
+derivation of the general point-mass metric similar to that given here in Appendix A, it
+made use of an invalid argument (see ref. [12]) to prove that C(0+) = α2, and thus did
+not turn up the fact that an additional postulate was required.
+
+6
+
+LEONARD S. ABRAMS
+
+which when substituted into (10) results in the following form, ﬁrst used by
+Brillouin [14], for the metric of a point mass at r = 0:
+
+(18)
+
+gB(r | 0) =
+
+r
+
+r + α
+
+dt2 −
+
+r + α
+
+r
+
+dr2 − (r + α)2dΩ2
+
+The metric obtained by Schwarzschild corresponds to the choice
+
+(19)
+
+CS(r) = (r3 + α3)2/3
+which satisﬁes (12), (13), and (16) by inspection.
+
+It should be noted that all space-times [M0, gP M (r | 0)] arising from (10)
+via an analytic C satisfying (12), (13), and (16) are equivalent, being related
+via C ω global diﬀeomorphisms of the form
+
+(20)
+
+Ci(r) = Cj(¯r)
+
+and being globally homeomorphic and maximal, as well as having the same
+singularity at r = ¯r = 0. Consequently, the space-time SS = [M0, gB(r | 0)]
+will henceforth be termed “Schwarzschild’s”, since it is equivalent to the
+[M0, gS(r | 0)] actually obtained by him, and its use simpliﬁes the subse-
+quent discussion.
+
+3. Transformation to Flamm’s form
+
+Let us relabel the events of M0 by adding α to their r values, and denote
+
+the new “radial” coordinate by ¯r; then
+
+(21)
+This transforms M0 to ¯Mα, where
+(22)
+
+¯r = r + α, r > 0
+
+¯Mα : ¯r > α
+
+tranforms the location of the point mass at r = 0 to ¯r = α, and transforms
+gB(r | 0) to
+
+(23)
+
+gF (¯r | α) =
+
+¯r − α
+
+¯r
+
+dt2 −
+
+¯r
+
+¯r − α
+
+d¯r2 − ¯r2dΩ2
+
+termed the Flamm metric since Flamm [15] was the ﬁrst to use this form to
+represent a point mass at r = α.
+
+(To avoid misunderstanding, note that the statement: “The point mass
+is at r = 0,” in connection with (18), and “The point mass is at ¯r = α”,
+in connection with (23), do not mean that these r or ¯r values are well-
+deﬁned quantities, let alone that events having such values are part of the
+associated space-times. What they do mean is that, in the case of (18), the
+proper distance from the point mass to an event in M0 with coordinate r
+tends to 0 as r → 0; and in the case of (23), that the proper distance from
+the point mass to an event in ¯Mα with coordinate ¯r tends to 0 as ¯r ↓ α.)
+
+Since physics is not changed by such a relabelling, it follows that the
+
+Flamm space-time:
+
+(24)
+
+SF = [ ¯Mα, gF (¯r | α)]
+
+7
+
+represents the identical physical situation as SS, namely, a single uncharged,
+nonrotating, nonradiating point mass. Thus, both SS and SF have the same
+singularity structure, i.e., a quasiregular singularity at the location of the
+point mass, and thus SF is likewise analytically inextendible to that location,
+now denoted by ¯r = α.
+
+In passing, note that the fact that the coeﬃcient of dΩ2 in (23) tends to
+
+0 as ¯r ↓ 0 does not contradict (11), since the ¯r in (23) is not the r in (3).
+
+4. Hilbert’s derivation of the point-mass metric
+
+About 10 months after the publication of ref.
+
+[1], Hilbert [3] presented
+another derivation of the point-mass metric. Although Hilbert’s starting
+point was the same expression (5) used by Schwarzschild, he immediately
+reduced the number of unknowns to two by introducing a new “radial”
+coordinate r∗, deﬁned by
+
+(25)
+
+(26)
+
+(27)
+
+(28)
+
+r∗ = [C(r)]1/2
+
+A∗, B ∗ > 0
+
+0∗ = [C(0+)]1/2
+
+This transforms (5) to
+
+where from (7)
+
+U (r∗ | 0∗) = A∗(r∗)dt2 − B ∗(r∗)dr∗2 − r∗2dΩ2
+g∗
+
+and 0∗ denotes the value of r∗ at the location of the point mass, which from
+(25) is given by
+
+Solving the resulting vacuum ﬁeld equations by means of a variational prin-
+ciple, Hilbert arrived at the following expression for the point-mass metric:
+
+(29)
+
+gF (r∗ | 0∗) =
+
+r∗ − α
+
+r∗
+
+dt2 −
+
+r∗
+
+dr∗2 − r∗2dΩ2
+
+r∗ − α
+α : r∗ > α.
+
+which by inspection is well deﬁned on M ∗
+
+However, there are two problems connected with the use of (25), which
+Hilbert evidently overlooked. The ﬁrst of these is that (25) involves a loss
+of generality [16]; for example, if U is such that the C in (5) is constant
+[17], then the use of (25) will make it impossible to determine the metric for
+U . Unfortunately (from the stand-point of subsequent developments), this
+ﬂaw had no impact on Hilbert’s derivation, since as seen in Sect. 2, for the
+point-mass metric all C(r) permissible in (5) are strictly monotonic, so that
+(25) is in fact a diﬀeomorphism for such a U .
+
+The second is that the use of (25) destroys information; once it is applied,
+it becomes impossible to determine the relationship between r∗ and r (and
+thus to ﬁnd the value of 0∗), since at this point in the derivation the function
+C(r) in (25) is unknown, and there is no way to determine what it is (or
+even its value as r → 0) from the resulting A∗ and B ∗.
+
+8
+
+LEONARD S. ABRAMS
+
+This being the case, how did Hilbert arrive at the value of 0∗? The
+answer is as follows: by assuming that for all U , the triplet (r∗, θ, and φ)
+can be regarded as polar coordinates just as validly as (r, θ, and φ), so that
+r∗ = (x2 + y2 + z2)1/2. From this assumption, together with the fact that
+the location of the point mass described by (5) is given by x = y = z = 0, it
+follows at once that even without knowing C(r), the r∗ position of the point
+mass described by (26) is given by r∗ = 0, and so Hilbert proclaimed.
+
+While it is true that there are a number of U for which Hilbert’s assump-
+tion is valid, the point mass is not one of them, as shown in Sect. 2. For
+such a U all C in (5), and thus in (25), have the property that C(0+) = α2,
+whence (28) shows that 0∗ = α > 0. Thus, as the notation on the left-hand
+side of (29) indicates, the right-hand side is simply Flamm’s metric for a
+point mass at r∗ = α.
+
+Henceforth, to avoid circumlocution the right-hand side of (29) together
+with the assumption that the r∗ appearing therein is related to the x, y, and
+z in (2) via (3), and thus that the point mass described by (29) is at r∗ = 0,
+will be termed “Hilbert’s” metric 4, and denoted by gH :
+
+(30)
+
+gH (r∗ | 0) =
+
+r∗ − α
+
+r∗
+
+dt2 −
+
+r∗
+
+r∗ − α
+
+dr∗2 − r∗2dΩ2
+
+while Hilbert’s space-time will be denoted by SH
+α, gH(r∗ | 0)]
+
+SH = [M ∗
+
+(31)
+
+5. Extendibility of Hilbert’s space-time
+
+Consider the circle γ(ǫ) mentioned at the end of Appendix A. In SS,
+its description is given by t = t0, θ = π/2, and r = ǫ, where t0 is an
+arbitrary constant, independent of ǫ. Since SS is diﬀeomorphic to SH via
+Tα : M0 → M ∗
+α by r∗ = r + α, the description of γ(ǫ) in SH can be obtained
+by applying Tα to its description in SS. This gives t = t0, θ = π/2, and
+r∗ = ǫ + α. As seen from (30), its proper circumference is still 2π(ǫ + α),
+which as in Appendix A tends to 2πα as ǫ ↓ 0. Now, however, in contrast
+to the situation in Appendix A, this no longer gives rise to a violation of
+elementary ﬂatness at Tα(0) = α in SH because, thanks to the assumption
+that gave birth to (30), γ(ǫ) no longer shrinks down to a point as ǫ ↓ 0, but
+instead simply approaches the circle r∗ = α. Thus, Hilbert’s erroneous (for
+a point mass) assumption results in the disappearance of the quasiregular
+singularity that is present in Flamm’s space-time at ¯r = α. Since it is
+well known that there are no curvature-type singularities of gH at r∗ = α,
+
+4In ref.
+
+[11], this metric was designated “Droste-Weyl”. The reason was that both
+Droste [18] in 1916 and Weyl [19] in 1917 had derived metrics having the form of gH,
+whereas my copy of Hilbert’s paper was dated 1924, so that it appeared that Droste and
+Weyl had been the ﬁrst to obtain gH. However, I subsequently discovered that Hilbert’s
+paper had originally been published in 1916, and that neither Droste nor Weyl had claimed
+that the r coordinate appearing in their metrics was (x2 + y2 + z2)1/2. Thus, Hilbert alone
+was responsible for the error.
+
+9
+
+it follows that there are no singularities of any kind there, so that SH is
+analytically extendible to r∗ = α, and as Kruskal and Fronsdal have shown,
+all the way to r∗ > 0.
+
+6. Inequivalence of Schwarzschild and Hilbert space-times
+
+If two space-times are to be equivalent, it is certainly necessary that they
+be isometric i.e., that there exists a diﬀeomorphism from one to the other
+that carries the metric of one into the metric of the other. And since the
+presence of singularities of the manifold geometry is unaﬀected by diﬀeo-
+morphisms, it is also necessary that equivalent space-times have the same
+“singularity structure”, i.e., the same singularities as one approaches corre-
+sponding boundary points. Now, SS and SH are isometric under Tα, but
+as shown in the preceding section, SH has no singularity corresponding to
+the quasiregular singularity at r = 0 in SS. Consequently, SS and SH are
+inequivalent. Since it was shown in Sect. 2 that SS is the space-time of a
+point mass, it follows that SH and its analytic extension (SK −F ) are not.
+
+7. The Kruskal-Fronsdal black hole is unnecessary
+
+Consider any phenomenon supposedly involving a single Kruskal-Fronsdal
+(K-F) black hole (e.g., x-ray spectra from accreting gas). Because of the in-
+ﬁnite red shift at the surface (r∗ = α) of the hole, all that we can ever
+know of this phenomenon must arise from information originating outside
+the hole. But the space-time “exterior” to the hole is SH, which in turn
+is diﬀeomorphic to SS. That is to say, everything that takes place outside
+the hole would occur in the identical fashion if the entire space-time (SK −F )
+were replaced by SS; it is impossible to determine which space-time is “re-
+ally” present. Thus, any observations that are explicable by postulating
+the presence of a K-F black hole are equally well explained by postulating
+the presence of a Schwarzschild point mass at the geometrical center of the
+black-hole’s surface. Consequently, there is no need to involve a K-F black
+hole to explain any set of observations, Schwarzschild’s “black point” will
+do an equally eﬀective job.
+
+Whether this observational equivalence extends to the case of two or more
+black holes (vis-a-vis two or more point masses) is unclear, but in view of
+the remarks of the next two sections it does not seem worthwhile to pursue
+the matter.
+
+8. The K-F black hole is unproducible
+
+The valid proofs of Birkhoﬀ’s theorem (e.g. refs. [7] and [20]) show only
+that any spherically symmetric solution of the vacuum-ﬁeld equations can
+be given the form of gH, but say nothing as to the relationship of the radial
+coordinate of the transformed metric and the underlying quasi-Cartesian x,
+y, and z. As emphasized by Brans [21], until this relationship is known the
+metric is undeﬁned. Thus, Birkhoﬀ’s theorem cannot be used to justify the
+
+10
+
+LEONARD S. ABRAMS
+
+claim that the metric exterior to a spherically symmetric star is identical to
+that of a point mass.
+
+However, the characteristics of the space-time exterior to a spherically
+symmetric, uncharged, nonrotating, nonradiating star are nearly the same
+as those of a point mass, the only diﬀerence being that for the star the
+postulates relating to the behavior of the space-time at r = 0 are no longer
+applicable. Consequently, to determine the exterior metric for such a star all
+that is necessary is to impose the remaining postulates for the point mass on
+(5). As can be seen by inspection of Appendix A, doing so changes nothing
+up through (A.16), while (A.17) must be replaced by
+
+(32)
+
+C(rb) ≥ α2
+
+where rb denotes the r coordinate of the star’s boundary. (The precise value
+of C(rb) consistent with (32) is determined by the junction conditions.)
+Consequently, the exterior metric of such a star is given by gP M (r | 0) in
+(10), but with C now satisfying (12) for r > rb, (13), and (32). That is
+to say, the exterior metric has the same functional form as the metric of
+a point mass located at the star’s center, but the values of the parameters
+appearing therein are diﬀerent. An example of such a situation can be found
+in ref. [22].
+
+In the case of collapse to a point, this distinction ultimately vanishes,
+so that the appropriate space-time for the exterior of a star undergoing
+catastrophic collapse tends to the (SS) of a point mass. While the precise
+details of the approach to SS will vary from case to case, it is already clear
+from the form of gP M , together with (13) and (32), that A(r) > 0 for all
+r > rb, and thus, that no black hole ever forms in the exterior of the star,
+no matter how far the collapse proceeds.
+
+Thus, the correction of Hilbert’s error not only eliminates the point mass
+as a possible source of K-F black holes, but simultaneously deprives them
+of the only mechanism for their production.
+
+9. The K-F black hole is unreal
+
+Although it was shown in Sect. 6 that SK −F does not represent the space-
+time of a point mass, it might still be hoped that it represents some other
+conﬁguration of matter and (or) energy, and is thus of physical signiﬁcance
+in its own right.
+
+However, this is not the case. Since the energy-momentum tensor vanishes
+everywhere in SK −F , the only possible locations of its sources are at its
+singularities. These are at r∗ = 0, or in terms of Kruskal’s u and v, at
+v2 − u2 = 1. As is easily seen, these loci are spacelike, whereas those of real
+matter or radiation are timelike or null, respectively. Consequently, it is
+impossible for SK −F to represent any real conﬁguration of matter and (or)
+energy, i.e., SK −F is physically unreal, and thus so is the K-F black hole.
+
+While this disposes of the reality of SK −F , SK −F possesses another prop-
+erty worth mentioning in connection with other types of black holes, namely,
+
+11
+
+the presence at r∗ = α of an interior “surface of inﬁnite acceleration” (at
+which the locally measured acceleration of test particles becomes inﬁnite:
+see ref. [23]), despite the fact that there are neither matter singularities nor
+geometrical singularities at that surface. This existence of such a surface in-
+terior to the space-time is a direct result of Hilbert’s assumption regarding
+r∗, since it was this that transferred the “Cheshire cat” (the point mass)
+to a distant point, while leaving the “grin” (the inﬁnite acceleration of test
+particles) intact at r∗ = α.
+
+10. Conclusions
+
+We summarize the result of the preceding sections as follows. The K-F
+black hole is the result of a mathematically invalid assumption, explains
+nothing that is not equally well explained by SS, cannot be generated by
+any known process, and is physically unreal. Clearly, it is time to relegate it
+to the same museum that holds the phlogiston theory of heat, the ﬂat earth,
+and other will-o’-the-wisps of physics.
+
+Consider next the family (S) of black holes obtained by analytic extension
+of metrics, which, for certain values (β0), of their parameters (β), reduce
+to gH (e.g., Reissner-Nordstr¨om, Kerr, Kerr-Newman, etc.). Some, like
+Reissner-Nordstr¨om’s solution for the point charge, were likewise derived
+from a set of postulates characterizing the speciﬁed matter and (or) energy
+conﬁguration, and thus their derivations must be analyzed to determine
+whether an error such as that made by Hilbert was committed.5 Others were
+simply “discovered”, and their sources sought afterwards, so it is impossible
+to determine whether they are based on an invalid assumption. However,
+the fact that all such metrics are regarded as reducing to gH when β = β0
+(see ref. [24], [25], and [26]) shows that it is tacitly assumed that the radial
+coordinate appearing in these metrics is equal to (x2 + y2 + z2)1/2, and
+Sect. 4 shows that this assumption is invalid when β = β0. Moreover, each
+of the associated black-hole spacetimes bears the telltale stigma (an interior
+surface of inﬁnite acceleration, see ref. [27]) associated with the transfer of
+boundary behavior to interior events that was shown in the previous section
+to be a consequence of precisely that assumption for the case of K-F black
+holes. Accordingly, members of S are highly suspect.
+
+Finally, there remain those black holes that have likewise simply been
+discovered, but whose exterior metrics do not reduce to gH for any values
+of their parameters (e.g., the “toroidal” black holes described in ref [28]).
+Their status awaits an investigation of the reasonableness of their sources.
+
+5A paper proving that this is indeed the case for the point-charge metric is shortly to
+
+be submitted by the author.
+
+12
+
+LEONARD S. ABRAMS
+
+Acknowledgments
+
+It is a pleasure to acknowledge a number of helpful conversations with B.
+O’Neill and R. Greene, and with M. Morris, as well as the critiques of the
+author’s earlier paper on this subject by R. Gautreau and C. Will.
+
+Section 6 should be replaced by the following paragraph:
+
+Erratum [33]
+
+6. Inequivalence of Schwarzschild and Hilbert universes
+
+By inspection, SS and SH are isometric via Tα and thus equivalent. How-
+ever, it was shown above that due to the diﬀerence in the topology of their
+boundaries, they are associated with diﬀerent singularity structures. Thus,
+the universes (US and UH) corresponding to SS and SH (with their indi-
+cated boundaries) are inequivalent (cf. Abrams, L.S., Physica A, 227 (1996)
+131). Since it follows from Sect. 2 that US is the universe of a point-mass,
+then a fortiori UH is not. For the same reason, this last is also true of UKF ,
+the universe corresponding to the maximal analytic extension (SKF ) of SH
+found by Kruskal and Fronsdal.
+
+Section 7, line 12 should read: black hole’s “surface”.
+
+References
+
+1. Schwarzschild, K., Sitzungsber. Preuss. Akad. Wiss., Phys. Math. Kl. 1916, 189.
+2. Ellis, G.F.R., and Schmidt, B., Gen. Rel. Gravitation 8 (1977) 915.
+3. Hilbert, D., Nachr. Ges. Wiss. G¨ottingen, Math. Phys. Kl. 1917, 53. (Read 23 Dec.
+
+1916).
+
+4. Kruskal, M., Phys. Rev. 119 (1960) 1743.
+5. Fronsdal, C., Phys. Rev. 116 (1959) 780.
+6. Demianski, M., Relativistic astrophysics, Pergamon Press, New York (1985) p. 6.
+7. Eiesland, J., Trans. Am. Math. Soc. 27 (1925) 213.
+8. Einstein, A., Sitzungsber. Preuss. Akad. Wiss., Phys. Math. Kl. 1915, 831.
+9. Finkelstein, D., Phys. Rev. 110 (1958) 965.
+10. Brillouin, L., Relativity reexamined, Academic Press, New York (1970) p. 87.
+11. Abrams, L.S., Phys. Rev. D 20 (1979) 2474.
+12. Abrams, L.S., Phys. Rev. D 21 (1980) 21.
+13. Doughty, N., Am. J. Phys. 49 (1981) 412.
+14. Brillouin, M., C. R. Seances Acad. Sci., Ser. A 175 (1922) 1009.
+15. Flamm, L., Phys. Z. 17 (1916) 448.
+16. Krasinski, A. and Plebanski, J., Rep. Math. Phys. 17 (1980) 217.
+17. Nariai, H., Sci. Rep. Tohoku Imp. Univ., Ser. 1 24 (1950) 160.
+18. Droste, J., Proc. K. Ned. Akad. Wet., Ser. A 19 (1917) 197. (Read May 1916).
+19. Weyl, H., Ann. Phys. (Leipzig) 54 (1917) 117.
+20. Bonnor, W.B., in Recent developments in general relativity, Pergamon Press, New
+
+York (1962) p. 167.
+
+21. Brans, C., Phys. Rev. 110 (1965) B1174.
+
+13
+
+22. Schwarzschild, K., Sitzungsber. Preuss. Akad. Wiss., Phys. Math. Kl. 1916, 424.
+23. Rindler, W., Phys. Rev. 119 (1960) 2082.
+24. Hernandez Jr., W., Phys. Rev. 167 (1968) 1180.
+25. Tominatsu, A. and Sato, H., Phys. Rev. Lett. 29 (1972) 1344.
+26. Lightman, A., Press, W., Price, R., and Teukolsky, S., Problem book in relativity and
+
+gravitation, Princeton University Press, Princeton, NJ. (1975) p. 101.
+
+27. Doughty, N., Am. J. Phys. 49 (1981) 720.
+28. Geroch, R. and Hartle, J.B., J. Math. Phys. (N.Y.) 23 (1982) 680.
+29. Tolman, R.C., Relativity, thermodynamics and cosmology, Oxford University Press,
+
+30. Tolman, R.C., Relativity, thermodynamics and cosmology, Oxford University Press,
+
+London (1934) pp. 265-266.
+
+London (1934) pp. 199.
+
+31. Einstein, A. and Rosen, N., Phys. Rev. 49 (1936) 404.
+32. Hagihara, Y., Jpn. J. Astron. Geophys. 8 (1931) 67.
+33. Abrams, L.S., Can. J. Phys. 74 (1996) 701.
+
+Appendix A. Derivation of point-mass metric
+
+Substituting (5) into Dingle’s expressions (see ref. [29]) for T i
+
+j gives
+
+(A.1)
+
+(A.2)
+
+(A.3)
+
+(A.4)
+
+(A.6)
+
+(A.7)
+
+− 8πT 1
+
+1 ≡ −
+
++
+
+−8πT 2
+
+2 ≡
+
+C ′′
+2BC
+
++
+
+A′′
+2AB
+
+−
+
+− 8πT 4
+
+4 ≡
+
+C ′′
+BC
+
+−
+
+1
+C
+
+A′B ′
+2ABC
+
+= 0
+
+C ′2
+4BC 2 +
+B ′C ′
+4B2C
+
+−
+
+A′2
+4A2B
+
+C ′2
+4BC 2 −
+A′C ′
+A′B ′
+4AB2 +
+−
+4ABC
+T 3
+3 = T 2
+C ′2
+4BC 2 = 0
+
+B ′C ′
+2B2C
+
+2 = 0
+
+= 0
+
+−
+
+−
+
+1
+C
+
+with all other T i
+denotes diﬀerentiation with respect to r.)
+
+j identically zero. (Here and afterwards a superscript prime
+
+Subtracting (A.1) from (A.4) and multiplying the result by BC (nonzero
+
+because of (7)) gives
+
+(A.5)
+
+C ′′ −
+
+[ln(ABC)]′ = 0
+
+C ′
+2
+
+Since C ′ = 0 would (in view of (7)) reduce (A.1) to −1 = 0, it follows that
+C ′ 6= 0, hence dividing (A.5) by C ′ gives
+
+which integrates at once to
+
+−2C ′′
+C ′ − [ln(ABC)]′ = 0
+
+C ′2 = JABC
+
+with J a constant. Since A, B, and C > 0 and C ′ 6= 0, it follows that J > 0,
+and thus C ′ never vanishes for r > 0.
+
+14
+
+LEONARD S. ABRAMS
+
+Solving (A.7) for B and substituting the result into (A.1) gives, after
+
+cancelling some nonzero factors,
+
+whence either
+
+(A.8)
+
+(A.9)
+
+−1
+C
+
++
+
+JA
+4C
+
++
+
+JA′
+2C ′ = 0
+
+C ′
+C
+
+=
+
+2JA′
+4 − JA
+
+or A =
+
+4
+J
+
+The second alternative results in no gravitational force whatever on a distant
+test particle (as seen from ref. [30], the gravitational acceleration of such a
+particle in the ﬁeld of (5) is −ψ′/2, where ψ = A − 1; thus, A = constant
+would result in zero acceleration), and is therefore ruled out. The ﬁrst
+integrates to
+
+(A.10)
+
+C(JA/4 − 1)2 = K0 ≡ α2 > 0
+
+the positivity of the constant K0 being a consequence of that of C and of
+the non-negativity of (JA/4 − 1)2. Solving (A.10) for A (and without loss
+of generality, choosing α > 0) gives
+
+A =
+
+4
+
+J (cid:16)1 ±
+
+α
+
+C 1/2(cid:17)
+
+which upon substitution into (A.7) yields
+C ′2
+
+(A.12)
+
+B =
+
+4C(1 ± α/C 1/2)
+
+Substituting A and B from (A.11) and (A.12) into (A.2) shows that the
+latter is satisﬁed identically for arbitrary C.
+
+Now, the requirement that (5) be spatially asymptotically ﬂat necessitates
+
+From this and from the fact that C ′ cannot be zero it follows that
+
+Moreover, from (A.13) and (A.11) we see that
+
+whence asymptotic ﬂatness requires that J = 4. This reduces (A.11) to
+
+C
+r2 → 1 as r → ∞
+
+C ′ > 0 f or r > 0
+
+A → 4/J as r → ∞
+
+A = 1 −
+
+α
+
+C 1/2
+
+the choice of the minus sign being compelled by the fact that the gravita-
+tional force on a distant test particle must be attractive (as noted above,
+the gravitational acceleration of a distant test particle is −ψ′/2, where
+ψ = A − 1 = ±α/C 1/2; this acceleration will only be attractive if the lower
+
+(A.11)
+
+that
+
+(A.13)
+
+(A.14)
+
+(A.15)
+
+(A.16)
+
+(A.17)
+
+(A.18)
+
+(A.19)
+
+(A.20)
+(A.21)
+
+(A.22)
+
+(A.23)
+
+(A.24)
+
+and thus
+
+(A.26)
+
+sign is chosen, since both C and C ′ are positive). From (7), (A.14), and
+(A.16) it follows at once that
+
+15
+
+Hence we conclude that the most general triplet satisfying the historical
+
+postulates for the point mass is of the form
+
+where C is an analytic function of r = (x2 + y2 + z2)1/2 having the following
+properties:
+
+Finally, consider the circle γ(ǫ) : t = t0 (a constant), θ = π/2, and r = ǫ.
+Inspection of (10) shows that the proper circumference of γ(ǫ) is 2π[C(ǫ)]1/2,
+which by (A.20) tends to 2πβ ≥ 2πα > 0 as ǫ ↓ 0. Moreover, inspection of
+(10) and (A.19) shows that the proper radius 6 of γ(ǫ) is
+
+C(0+) ≥ α2 > 0
+
+A = 1 − α/C 1/2, α > 0
+
+C ′2
+
+B =
+
+4C(1 − α/C 1/2)
+
+C(0+) ≡ β2 ≥ α2 > 0
+C ′(r) > 0, f or r > 0
+C(r)/r2 → 1 as r → ∞
+
+RP (ǫ) = Z ǫ
+
+[B(r)]1/2dr
+
+0−
+C ′dr
+
+2C 1/2(1 − α/C 1/2)1/2
+
+u − α(cid:21)1/2
+(cid:20) u
+
+du
+
+0−
+
+= Z ǫ
+= Z [C(ǫ)]1/2
+
+β
+
+Since C(0+) is ﬁnite, and C(r) monotonic and analytic for r > 0, these last
+two properties are also true of [C(ǫ)]1/2, whence
+[C(ǫ)]1/2 = β + O(ǫ)
+
+(A.25)
+
+RP (ǫ) = Z β+O(ǫ)
+≈ Z β+O(ǫ)
+
+β
+
+β
+
+u − α(cid:19)1/2
+(cid:18) u
+u − α(cid:19)1/2
+(cid:18) β
+
+du
+
+du
+
+which for all β satisfying (A.20) clearly tends to zero as ǫ ↓ 0. Consequently,
+the ratio of the proper circumference to the proper radius of γ(ǫ) does not
+tend to 2π as ǫ ↓ 0, so that there is a violation of elementary ﬂatness [31] at
+r = 0 and t = t0, and since t0 was arbitrary, at r = 0 for all t. This violation
+
+6If the boundary r = 0 in the spatial section is a point, which is the case by virtue of
+
+the point mass being located there.
+
+16
+
+LEONARD S. ABRAMS
+
+constitutes a “quasiregular singularity” [2] of the space-time associated to
+gP M , and thus we can say that the space-time (M0, gP M ) is analitically
+inextendible7 to r = 0 for all β ≥ α. Moreover, since it is well known
+[32] that those geodesics of the Hilbert metric gH that do not run into the
+boundary at r∗ = α are complete, the diﬀeomorphism between gH and gP M
+for any admissible C shows that the same is true of those geodesics of gP M
+that do not run into the boundary at r = 0. It follows that the space-times
+(M0, gP M ) are maximal.
+
+Appendix B. Acceleration scalar
+
+As shown by Doughty [13], the acceleration of a neutral test particle
+approaching the point mass along a radial path, as measured by an observer
+at rest with respect to the point mass, is given by
+
+(B.1)
+
+(B.2)
+
+(B.3)
+
+(B.4)
+
+thus
+
+(B.5)
+
+(−grr)1/2(−grr)|g00,r|
+
+a =
+
+2g00
+
+=
+
+A′
+
+2AB1/2
+
+=
+
+α
+
+f or (5)
+
+f or (10)
+
+2C(1 − α/C 1/2)1/2
+
+= O[1/2(αr)1/2] as r → 0 f or (18)
+
+RP (r) = O[2(αr)1/2] as r → 0
+
+a ∼ 1/RP (r) as r → 0
+
+However, when RP (ǫ) in (A.23) is evaluated for (18), it is readily found that
+
+which shows that unlike the Newtonian case, a test particle’s acceleration
+tends to inﬁnity inversely as the ﬁrst power of its proper distance to the
+central mass.
+
+Lockheed Corporation, 4500 Park Granada Boulevard, Calabasas, CA 91399, U.S.A.,
+
+and 24345 Crestlawn Street, Woodland Hills, CA 91367, U.S.A. (present address).
+
+7More precisely, there exists no analytic extension in which r = 0 corresponds to an
+interior point in the larger manifold. Any extension in which r = 0 corresponds to a
+nonpoint-like locus would alter the character of the point mass and is thus ruled out a
+priori.
+
+

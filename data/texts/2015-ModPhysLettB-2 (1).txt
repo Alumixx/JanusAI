@@ -1,0 +1,1733 @@
+ 
+1 
+
+ 
+
+ 
+
+Cosmological bimetric model with interacting positive and negative masses and two 
+different speeds of light, in agreement with the observed acceleration of the Universe 
+
+J. P. Petit 
+
+BP 55, 84122 Pertuis, France 
+
+and G. d’Agostini 
+
+110 route du Castellar, 06500 Menton, France 
+
+PACS number : 98.80 
+
+Keywords : Dark energy, bimetric model, negative mass, interstellar travel 
+
+An extension of a previously published model of a bimetric Universe is presented, 
+where  the  speeds  of  light  associated  to  positive  and  negative  mass  species  are 
+different. As shown earlier, the asymmetry of the model explains the acceleration of 
+the  positive  species,  while  the  negative  one  slows  down.  Asimmetry  affects  scale 
+factors linked to lengths, times and speeds of light; so that if a mass inversion of a 
+craft  can  be  achieved  then  interstellar  travels  would  become  non‐impossible,  at  a 
+velocity less than the speed of light of the negative sector, and possibly much higher 
+than that of the positive sector.  
+
+Introduction 
+
+Only a few decades ago there were many scientists who doubted that intelligent life 
+could exist in the Universe elsewhere than on Earth. Some of them doubted about the 
+possibility of life being present in other planets on the sole grounds of probabilities. 
+This position can be summed up by the famous Drake formula which is expressed as 
+a  product  of  multiple  probabilities.  And  skeptics  say:  ʺSuppose  that  one  of  those 
+factors is zero, and then the probability would fall to nothingʺ. Even further, there 
+were scientists who wondered if  a planetary system around a star could ever be a 
+common thing in the Universe. 
+
+Observations in the last decade have completely upset this view. But in fact we are 
+
+                                                
+
+ 
+
+1 
+
+ Corresponding author: jppetit1937@yahoo.fr  
+
+ 
+2 
+witnessing  a  rearguard  action  aimed  at  challenging  the  existence  of  planets  with 
+intelligent life with the same level of organization than that found on Earth. When 
+the first exoplanet was discovered in 1995 by M. Mayor and D. Queloz, 40 light‐years 
+away from Earth, it was evidently a giant planet unsuitable for hosting life. Skeptics 
+asked whether planetary systems with telluric planets could ever exist. They though 
+very  unlikely,  that  a  telluric  planet  could  have  the  conditions  conducive  to  the 
+emergence  of  life  ʺwithin  the  band  of  waterʺ.  In  the  line  of  arguments  against  this 
+eventuality  was  the  requirement  of  the  existence  of  a  satellite  around  the  planet, 
+allowing  the  latter  to  stabilize  its  rotation  movement.  In  fact,  proponents  of  the 
+theory of deterministic chaos had shown, using computer simulations, that the axis 
+of rotation of a lonely planet would be unstable and topple completely, making the 
+emergence of life very problematic. But these simulations do consider the Earth as a 
+rigid sphere, which she is far from being at the scale of the phenomena considered. 
+
+Returning to the so now called exoplanets, their number has rapidly grown, and it 
+will still grow with increasing acceleration, as it happens for any existing object in the 
+cosmos, as a function of the progress of detection systems. Telluric planets, including 
+those lying ʺwithin the band of waterʺ, were soon discovered next to the stars they 
+orbit. 
+
+All the prejudices on which one could rely to defy the existence of life on a planet 
+collapsed one after another. And it became not as evident as before the fact that not 
+only  Sun‐like  stars  may  be  conducive  to  the  emergence  of  life  in  its  associated 
+planetary system. 
+
+Nowadays the view of a scientist like Drake has been totally reversed, and it is likely 
+that his formula will soon be forgotten. According to [41], the NASA, based on the 
+fact that 1500 planets were detected within a radius of 50 light‐years from the Earth, 
+used  this  figure  to  estimate  to  100  billions  the  minimum  number  of  planets  in  the 
+Milky  Way.  This  number  should  be  weighted  by  a  coefficient  of  habitability  on 
+which  we  should  still  come  to  an  agreement.  But  that  makes  us  think  that  the 
+probability of the Earth not being the only inhabited planet in our galaxy cannot be 
+zero. An estimation of this number being made, if it is multiplied by the number of 
+galaxies in the observable Universe, a considerable figure is anyway obtained. 
+
+One can sum this up in one sentence: ʺThe probability that there does not exist, not 
+only in the Universe but in our own galaxy, a planet other than ours, which is carrier 
+of organized and intelligent life, must be considered as zeroʺ. So it was compelling to 
+recognize that the belief of the skeptics was nothing more than the manifestation a 
+
+ 
+3 
+ridiculous geocentrism. 
+
+You can still find however scientists that doubt that the level of organization of life, 
+such as it exists on Earth, can be found elsewhere in other planets. Some of them say: 
+ʺLife elsewhere, yes, but only in bacterial formʺ. 
+
+Humans are indeed facing an unprecedented awareness in Earth´s history, with the 
+obvious  impacts  on  all  their  religious  beliefs.  Some  precursors,  such  as  Andrei 
+Sakharov, have expressed a very advanced view on this, which is summarized in the 
+last lines of his acceptance speech of the Nobel Peace Prize in 1975. Given the stature 
+of this scientist and the outstanding quality of his contributions in various scientific 
+fields,  ranging  from  hot  plasma  physics  (he  was  the  designer  of  the  first  Soviet 
+hydrogen bomb) to magnetohydrodynamics (where he was, during the fifties, one of 
+the pioneers) and cosmology, it seemed important to us to quote his own words: 
+
+Thousands of years ago tribes of human beings suffered great privations in the struggle to 
+survive. In this struggle it was important not only to be able to handle a club, but also to 
+possess the ability to think reasonably, to take care of the knowledge and experience garnered 
+by the tribe, and to develop the links that would provide cooperation with other tribes. Today 
+the  entire  human  race  is  faced  with  a  similar  test.  In  infinite  space  many  civilizations  are 
+bound to exist, among them civilizations that are also wiser and more ʺsuccessfulʺ than ours. 
+I support the cosmological hypothesis which states that the development of the Universe is 
+repeated  in  its  basic  features  an  infinite  number  of  times.  In  accordance  with  this,  other 
+civilizations, including more ʺsuccessfulʺ ones, should exist an infinite number of times on 
+the ʺprecedingʺ and the ʺfollowingʺ pages of the Book of the Universe. Yet this should not 
+minimize our sacred endeavors in this world of ours, where, like faint glimmers of light in the 
+dark,  we  have  emerged  for  a  moment  from  the  nothingness  of  dark  unconsciousness  of 
+material  existence.  We  must  make  good  the  demands  of  reason  and  create  a  life  worthy  of 
+ourselves and of the goals we only dimly perceive. 
+
+End of quotation.  
+
+In  this  text  is  explicitly  mentioned  the  fact  that  earthlings  might  not  be  the  most 
+advanced intelligent species in terms of science and technology. It is the logical view 
+every reasonable scientist should assume. But it leads immediately to one question: 
+more advanced civilizations that our own, have they been able to visit us, including 
+ancient times of our history? If such visits were technically and scientifically possible, 
+do they currently continue? 
+
+Faced with this question, skeptics exhibit two arguments. Firstly, as once did Enrico 
+
+ 
+4 
+Fermi,  they  are  amazed  that  there  has  not  been  any  contact  at  all.  Secondly,  they 
+evoke the impossibility of interstellar travel due to the severe limitation imposed on 
+the speed of a craft by the laws, repeatedly checked at all scales, of special relativity 
+
+On  the  first  argument,  let’s  say  that  any  contact  between  civilisations  with  very 
+different technical and scientific levels of development is unavoidably accompanied 
+by a shock of cultures. Different scenarios are then possible. In one of them the low‐
+level scientific and technological civilization quite simply collapses. In a second one 
+the most advanced civilization does swallows up the one which it comes in contact 
+with. It can assimilate it, or enslave it (colonization). In a third scenario a powerful 
+scientific  and  technological  transfer  occurs,  which  is  immediately  converted  with 
+priority, as in any fundamental progress of technology, into new weapons. 
+
+If  one  relies  on  the  idea  that  any  progress  in  science  and  technology  is  inevitably 
+accompanied  by  a  progress  in  destruction  capacity,  one  can  figure  out  that  the 
+mastery of a technoscience, still unknown, that would allow us to achieve interstellar 
+travels might have as a corollary the power of holding means of destruction in front 
+of which our modern thermonuclear weapons would appear as matchsticks. 
+
+I don´t think I would be contradicted by saying that wisdom is far from Earth where, 
+despite  past  dramas,  we  wonder  if  humanity  would  not  soon  switch  into  a  third 
+world  war.  Thus,  any  technology  transfer  would  not  do  other  but  accentuate  the 
+deadly imbalance which we suffer and that is not going to get better with time. 
+
+This paper focuses on the second argument, the feasability of interstellar travel. 
+
+A bimetric model 
+
+The  cosmological  model  of  General  Relativity  represents  an  extension  of  the 
+revolution represented by the appearance of Special Relativity.  It is worth to think 
+for  a  moment  about  the  essence  of  these  profound  changes  of  paradigm.  The 
+transition from Newtonian physics to relativistic physics is based on a modification 
+of the geometric paradigm. Special Relativity can be summed up in the sentence: ʺWe 
+live  in  a  spacetime  which  is  an  M4  manifold  with  a  hyperbolic  Lorentz  metric  of 
+signature (+‐ ‐ ‐)”. General Relativity can be stated accordingly: “The Universe is an 
+M4 manifold with a Riemannian metric of signature (+ ‐ ‐ ‐)” which is a solution of 
+the Einstein equatio
+
+n: 
+
+ 
+
+ 
+
+ 
+5 
+
+(1)  
+
+ 
+
+ 
+
+ 
+
+R 
+
+R g   g  T 
+
+1
+2
+
+g
+
+Every  travel  in  this  context  can  proceed  only  by  moving  along  the  geodesics 
+associated  with  the  metric 
+  that  is  solution  of  the  equation.  These  geodesics 
+include two subsets: those of non‐zero length followed by particles that own a mass, 
+and  those  of  zero  length,  followed  by  photons.  This  statement  implies  an 
+unavoidable  limit  for  all  velocities,  that  is  the  speed  of  light  c.  In  the  domain  of 
+relativistic velocities an enormous energy must be involved, and the limitation to a 
+speed  c  implies  the  fact  that,  according  to  this  vision  of  the  Universe,  an  almost 
+infinite energy is necessary to reach it. 
+
+Everything else follows and all those who have tried to model the interstellar travel 
+are  led  to  travel  times  that  are  incompatible  with  the  duration  of  human  life.  The 
+conclusion  is  therefore  the  following:  if  interstellar  travel  is  scientifically  and 
+technically feasible, that is, compatible with the duration of human life, then a deep 
+change  in  the  current  cosmological  paradigm,  which  prohibits  such  an  eventuality 
+must be operated. 
+
+One  could  say  that  the  current  situation  somehow  calls  for  such  a  change  of 
+paradigm.  Theoretical  astrophysics  virtually  stopped  in  the  early  1970s  when 
+theorists,  disregarding  the  approach  initiated  by  S.  Chandrasekhar  in  1941  [1], 
+abandoned any attempt to build a self‐consistent model of galaxies and their spiral 
+structure, whenever they possess one, in favour of numerical computer simulations 
+on which high hopes were deposited and which have strictly produced nothing in 
+half  a  century.  The  improvement  of  observational  data  on  the  velocity  curves  of 
+rotation of gas in galaxies, and the discovery of gravitational arcs, soon attributed to 
+gravitational lens effects and incompatible with the amount of matter in galaxies and 
+clusters of galaxies from photometric observations, gave birth to a deus ex machina: 
+the dark matter. But all attempts to identify this new component, being it MACHOs 
+or astroparticles, have failed. And it comes that since ten years ago it is confirmed, 
+against all odds, that the Universe, rather than decelerate as a result of the attractive 
+forces  of  visible  matter  and  dark  matter,  accelerates  instead  (see  references  [2]  to 
+[10]).  Faced  with  this  new  dilemma,  astrophysicists  haven´t  done  anything  but  to 
+create a new word: dark energy. And have done so without having the slightest idea 
+of  the  nature  of  this  new  component,  which  would  represent  70  %  of  the  cosmic 
+content.  Many  attempts  were  made  in  order  to  explain  the  nature  of  such 
+phenomenon. Among them, let’s cite references [11] to [14]. 
+
+ 
+6 
+In 1967 A. Sakharov proposed a twin description of the Universe with the aid of two 
+entities  linked  by  a  Big  Bang  singularity,  and  with  antiparallel  arrows  of  time 
+([15],[16],[17]). If we exclude our own work, which was initiated in 1977 ([18], [19]) 
+using the tools of non‐relativistic Newtonian cosmology, and ignore the existence of 
+his own, this approach had no continuators. In 1994 [20], we clarified the approach 
+by offering a bimetric description of the Universe. Though it has nothing to do with 
+the  bimetric  models  of  [21],  [22]  where  the  second  metric  refers  to  gravitons  with 
+non‐zero mass. Strictly speaking, these models have not produced anything. 
+
+g
+()
+
+g
+()
+
+ and 
+
+In our model the Universe is an M4 manifold associated not to one single metric, but 
+to two: 
+, the former linked to species of positive mass and energy, the 
+latter to species of negative mass and energy. From these metrics one can build the 
+associated Ricci tensors,  
+. A system of two coupled field equations was 
+then  
+proposed [20]: 
+
+and 
+
+R
+()
+
+R
+()
+
+(2a) 
+
+(2b) 
+
+R
+
+() 
+
+R()g
+
+()  ( T
+
+()  T
+
+() )  
+
+R
+
+() 
+
+R()g
+
+()   ( T
+
+()  T
+
+() )  
+
+1
+2
+
+1
+2
+
+()
+
+
+T
+()
+
+ and T
+
+ represent positive and negative energy contents (and 
+where the tensors 
+positive and negative mass contents as well). Previously, in 1957, H. Bondi [23] did 
+study the possibility of introducing negative masses into the Einsteinian model with 
+a single metric. As a result, positive masses attracted everything and negative masses 
+repelled everything. It then led to a phenomenon that was called ʺrunawayʺ: when a 
+mass + m met a mass ‐ m, the positive mass fled, pursued by the negative mass, both 
+undergoing a continuous acceleration, with conservation of energy, since one of the 
+energies was positive and the other negative. 
+
+This  idea  of  cohabitation  of  masses  of  opposed  signs  was  therefore  abandoned 
+during fifty‐seven years. 
+
+Quantum Field  Theory  (QFT)  rejects  the  existence  of  negative  energy  states  on  the 
+basis  that  no  state  could  exist  with  energy  less  than  that  of  the  vacuum.  This 
+argument is developed by S. Weinberg in his book [24], section 2.6. But it is more a 
+
+ 
+7 
+hypothesis than a demonstration in the sense that everything depends on the choice 
+of the T operator, that is, time inversion. If it is to be considered as unitary and linear, 
+then  QFT  enables  the  existence  of  negative  energies,  time  inversion  being 
+synonymous  of  energy  inversion  (which  is  the  case  in  the  Theory  of  Dynamical 
+Groups,  build  with  real  coefficients  [25]).  In  order  to  avoid  this  “disastrous” 
+situation,  QFT  imposes  the  choice  of  an  anti‐unitary  and  anti‐linear  T  operator, 
+which does not invert energy. 
+
+The paper of 1994 [20] was completed the following year with another publication 
+[26]  and  with  a  communication  in  an  international  workshop  [27].  This  theoretical 
+description  was  also  recently  revisited  [28].  The  main  lines  of  this  model  are  as 
+follows:   
+
+‐  Particles of positive mass follow non‐null geodesics of the  g
+
+()  metric. 
+
+‐  Photons of positive energy follow null geodesics of the  g
+
+()  metric. 
+
+‐  Particles of negative mass follow non‐null geodesics of the  g
+
+()  metric . 
+
+‐  Photons of negative energy follow null geodesics of the  g
+
+()  metric. 
+
+‐  The two families of geodesics, one followed by particles of positive energy and 
+
+the other followed by particles of negative energy, are a priori disjoint. 
+
+‐  Particles  of  positive  mass  emit  positive  energy  photons  that  can  in  turn  be 
+
+captured by observational devices constituted also by positive masses.  
+
+‐  Particles  of  negative  mass  emit  negative  energy  photons  that  cannot  be 
+
+captured by our observational devices. 
+
+References [26] and [27] contain results of 2D numerical simulations carried out in 
+the Daisy Laboratory in Germany with the computing capabilities of that time. They 
+give an idea of the fertility of such approach when it comes to explain the large‐scale 
+structure  of  the  Universe,  galaxy  confinement  and  durable  spiral  structures.  The 
+initial results could not be pursued because of the lack of access to adequate means of 
+calculation.  Beyond  that,  the  goal  is  obviously  to  build  a  complete  cosmological 
+model,  with  a  radiation  dominated  era  and  a  matter  dominated  era.  The  schema 
+includes therefore a radiative phase ʺwith constant variablesʺ and free of redshift. We 
+published the first article referring to a cosmological model with variable light speed 
+in  this  same  journal  in  1988  ([29],  [30]),  and  then  in  1995  [26].  Subsequently  we 
+
+ 
+8 
+modified  the  model  [28]  on  the  assumption  that  the  secular  drift  of  the  constants 
+ceased  when  the  radiation  was  no  longer  the  dominant  component.  Laws  of 
+evolution  which  are  not  semi‐empirical,  but  are  derived  from  a  universal  gauge 
+relationship  assuring  the  invariance  of  the  equations  of  physics  (field  equation, 
+Maxwell  equations,  quantum  physics  equations)  were  provided  for  the  different 
+constants. If a is the scale factor associated with length, the evolution of c is ([26],[29]: 
+
+ (3) 
+
+ 
+
+ 
+
+ 
+
+It  leads  to  a  cosmological  horizon  that  varies  with  a,  which  ensures  cosmic 
+homogeneity  and  makes  the  appeal  to  inflation  theory  unnecessary,  what  was 
+already  stated  in  the  conclusions  of  reference  [30].  Moreover,  this  evolution  was 
+ʺLorentz  invariantʺ.  But  this  is  simply  a  remark.  The  formulation  of  the  cosmic 
+evolution in its radiative phase and in the regime of ʺconstant variablesʺ will be the 
+subject of a future paper. It is at the end of this phase that the two cosmic sets, one of 
+positive  energy,  the  other  of  negative  energy,  are  provided  with  constant  but  very 
+different 
+
+ light speeds. 
+
+ and  c
+
+c()
+
+()
+
+We mention here the work of F. Henry Couannier [31], S.Hossenfelder [32] and M. 
+Milgrom  [33]  which  also  aim  at  the  construction  of  a  bimetric  description  of  the 
+Universe. 
+
+A model with two different light speeds  
+
+This section deals with a regime with two different light speeds. Some previous work 
+was presented in [28]. We take the system of two coupled field equations: 
+
+                                   
+
+                                
+
+1
+2
+
+1
+2
+
+R
+() 
+
+R() g
+
+()  () ( T 
+
+() T 
+() )
+
+R
+() 
+
+R() g
+
+()   () (T 
+
+()  T 
+() )
+
+(4a) 
+
+(4b) 
+
+                         
+
+                         
+
+ 
+For sake of brevity we will sometimes use the notation:  f   , 
+
+. In mixed form, 
+
+ 
+9 
+we will write the tensors: 
+
+ 
+
+(5) 
+
+T 
+( f ) 
+
+
+
+
+
+
+
+
+
+( f )(c( f ))2
+
+0
+0
+0
+
+ p( f )
+
+0
+
+0
+0
+
+0
+0
+
+0
+
+ p( f )
+
+0
+0
+0
+
+ p( f )
+
+
+
+
+
+
+
+
+
+( f )  0
+p( f )  0
+
+and
+
+( f )  0
+p( f )  0
+
+with
+
+ 
+
+For f  " "
+
+For f  ""         
+
+ and  are functions determined from conservation energy requirements. Positive 
+  and  negative  energy 
+energy  photons  cruise  along  null  geodesics  of  the  metric 
+
+g
+()
+
+photons along null geodesics of the metric 
+one hand, and the constants 
+
+ and 
+
+()
+
+()
+
+g
+()
+
+. Note that the speeds 
+
+c()
+
+ and 
+
+c()
+
+on 
+
+on another hand, may be different.  
+
+We  assume  this  bimetric  Universe  is  homogeneous  and  isotropic,  so  that  the 
+Riemannian metric becomes:  
+
+                     ds ( f )
+
+
+
+2  c( f )
+
+2 d t 2  a( f )
+
+2 d u 2 u 2(d2 sin2d2 )
+
+( 1  k( f ) u2
+4
+
+)2
+
+(6) 
+
+                         
+
+Introducing these metrics in the system (3a) + (3b), we get classical systems:  
+
+3
+2 a()
+
+2
+
+c()
+
+2
+
+
+
+
+da()
+dt
+
+
+
+
+
+
+3 k()
+2 a()
+
+c()
+
+2   () () c()
+
+
+
+
+2  () c()
+
+2
+
+
+
+
+       (7a)                    
+
+    
+
+2
+2 a()
+
+2
+
+c()
+
+d 2a()
+dt 2
+
+
+
+1
+2 a()
+
+2
+
+
+
+
+c()
+
+d a()
+
+dt
+
+2
+
+
+
+
+
+
+k()
+2 a()
+
+2  0
+
+c()
+
+(7a) 
+
+                             
+
+ 
+
+  
+
+c()
+
+3
+2 a()
+
+2
+
+2
+
+
+
+
+da()
+dt
+
+
+
+
+
+
+3 k()
+2 a()
+
+c()
+
+2   () () c()
+
+
+
+
+2  () c()
+
+2
+
+
+
+
+         (7b)                    
+
+ 
+
+ 
+
+ 
+
+ 
+10 
+
+  
+
+c()
+
+2
+2 a()
+
+2
+
+d 2a()
+dt 2
+
+
+
+1
+2 a()
+
+2
+
+
+
+
+c()
+
+d a()
+
+dt
+
+2
+
+
+
+
+
+
+k()
+2 a()
+
+2  0
+
+c()
+
+(8b) 
+
+                               
+
+ 
+
+Applying  classical  mathematical  methods  [34]  the  compatibility  conditions  of  sets 
+(7a+8a) and (7b+8b) give:  
+
+                                   3 da()
+a () 
+
+                                      3 da()
+a () 
+
+The conservation of energy:  
+                             E  () c()
+
+is ensured if:  
+
+d () c()
+
+
+() c()
+
+
+
+2
+2  () c()
+2
+2  () c()
+
+
+
+
+
+
+ 0
+
+d () c()
+
+
+() c()
+
+
+
+2  () c()
+2
+2
+2  () c()
+
+
+
+
+
+
+ 0
+
+                                 (9a)                          
+
+                                 (9b)                         
+
+2 a ()
+
+
+3  () c()
+
+2 a ()
+
+
+3
+
+                                            
+
+(10) 
+
+                             
+
+3
+
+
+
+
+a ()
+a ()
+
+
+
+
+
+
+3
+
+
+
+
+a ()
+a ()
+
+
+
+
+So that our coupled field equation system becomes:  
+
+1
+
+(11) 
+
+                        
+
+R
+() 
+
+R() g
+
+()  ()
+
+                     
+
+R
+() 
+
+R() g
+
+()   ()
+
+                
+
+1
+2
+
+1
+2
+
+()  ( a ()
+T 
+
+()
+
+a () )3T 
+
+
+
+
+
+( a ()
+a () )3 T 
+
+
+
+
+
+()  T 
+()
+
+
+
+
+
+
+
+
+
+                                        
+
+                                       
+
+as previously established in [28].  Let:  
+2 d 2a()
+dt 2 
+
+                                            a()
+
+()
+2
+
+E
+
+                                            a()
+
+2 d 2a()
+
+dt 2  
+
+()
+2
+
+E
+
+                                                     
+
+                                                  
+
+                        ()  
+
+with
+
+c ()  c
+
+and
+
+G()  G                  (14) 
+
+8G
+
+c 4
+
+(12a) 
+
+(12b) 
+
+(13a) 
+
+(13b) 
+
+ 
+11 
+Let’s assume E < 0. Then 
+ < 0. If we assume further that our visible 
+part  of  the  Universe  corresponds  to  positive  mass,  then  it  accelerates,  while  the 
+negative species decelerates. As in 28 we find that the evolution equation (13b) is 
+identical to Friedmann´s equation, while (13a) is identical to Bonnor’s solution 35:  
+
+ > 0 and 
+
+a()"
+
+a()"
+
+                                         
+
+a()(u) 2ch 2u
+
+t ()(u) 2 (1 
+
+sh 2u
+
+2
+
+ u )                                            
+
+(15) 
+
+Let us now develop the Newtonian approximation. The Universe owns a global non‐
+zero  curvature.  In  steady‐state  or  quasi  steady‐state  condition  the  Universe  can  be 
+considered  as  a  large  3D  hypersurface  where  very  small  regions  contain  matter 
+surrounded  by  large  empty  spaces  where  the  metric  corresponds  to  the  Lorentz 
+solution  of  the  R 0   equation.  Consider  a  portion  of  empty  space  with  a  finite 
+extension.  If  we  consider  phenomena  occurring  over  a  characteristic  time  that  is 
+small  compared  to  the  one  corresponding  to  the  evolution  of  the  Universe,  the 
+description  by  time‐independent  metric  holds.  Introduce  a  finite  space  extension 
+perturbation, corresponding to the terms 
+
+and 
+
+. 
+
+()
+
+
+()
+
+
+                              
+
+g () ()  ()
+
+g () ()  ()
+
+(16) 
+
+                                
+
+More explicitly:  
+
+                           ds()
+
+2  c()
+
+2 dt 2  a()
+
+2
+
+
+d1
+
+2  d2
+
+
+
+2  d3
+
+
+
+2
+
+                            ds()
+
+2  c()
+
+2 dt 2  a()
+
+2
+
+
+d1
+
+2  d2
+
+
+
+2  d3
+
+
+
+2
+
+
+
+
+
+
+
+
+
+
+
+
+           (17a) 
+
+
+            (17b) 
+
+In  quasi  steady‐state  conditions  the  two  scale  factors  are  considered  as  constants. 
+Then, the field equations are expanded into a series. Neglecting second order terms 
+in the expansion, we find:  
+
+         00 
+
+()   () () c()
+
+
+
+
+
+2  ( a ()
+
+a () )3 () c()
+
+2
+
+
+
+
+
+(18a) 
+
+                          
+
+             00 
+
+()  ()
+
+( a ()
+a () )3() c()
+
+
+
+
+
+2  () c()
+
+2
+
+
+
+
+
+ 
+                      (18b)                        
+
+Defining the potentials: 
+
+ 
+12 
+
+we get:  
+
+()
+                            ()  00
+
+()
+()  00
+
+2
+
+c()
+2
+
+2
+
+c()
+2
+
+(19) 
+
+                          
+
+3
+
+  2()
+
+
+1
+
+ 
+
+() a ()
+
+2
+
+
+2
+
+
+
+
+
+() c ()
+
+2  ( a ()
+
+a () )3() c ()
+
+2
+
+
+
+
+
+         
+
+3
+
+  2()
+
+
+1
+
+
+
+() a ()
+
+2
+
+
+2
+
+( a ()
+a () )3() c ()
+
+
+
+
+
+2 () c ()
+
+2
+
+
+      
+
+
+(20a) 
+
+           
+
+(20b) 
+
+            
+
+which  are  Poisson‐like  equations  that  represent  an  extension  of  [28]  when  the  two 
+light speeds are different. Using the two forms of geodesic equations we get for the 
+positive mass particles:  
+
+                                              
+
+d 2
+dt 2  
+
+1
+a()
+
+2
+
+()
+                                           
+
+(21a) 
+
+And for the negative mass particles:  
+
+                                             
+
+d 2
+dt 2  
+
+1
+a()
+
+2
+
+()
+                                             
+
+(21b) 
+
+Building  the  dynamics  from  this  set  of  equations  would  require  a  more  refined 
+. This will be developed in a future 
+solution, involving time scale factors 
+paper.  Anyway, 
+in  the  simplified  case  
+a()  a()
+
+is  possible  to  derive  the 
+
+it 
+c()  c()
+
+and T
+
+laws 
+
+.  Then: 
+
+T ()
+
+()
+
+                                          
+
+()   ()  4 G (() () )
+
+(22) 
+
+           
+
+d 2x
+dt 2  
+
+()
+x 
+
+                         
+
+d 2x ()
+dt 2  
+
+()
+x 
+
+
+
+()
+x                           
+
+(23) 
+
+Referring to the previous works of H. Bondi 23 and G. W. Bonnor 35 the puzzling 
+problem of runaway phenomenon is eliminated. This model fits classical verification 
+associated  with  General  Relativity.  As  the  two  species  repel  each  other,  where 
+positive mass is present, negative mass is almost absent and the system of coupled 
+field equations reduces to:  
+
+                                         
+
+                         
+
+(24a) 
+
+ 
+
+ 
+13 
+
+                                       
+
+(24b) 
+
+                         
+
+On  another  hand,  considering  portions  of  space  containing  a  sphere  filled  with 
+constant  density  matter  (positive  or  negative)  surrounded  by  vacuum,  makes 
+“internal” and “external” Schwarzschild solutions features clearer, as first presented 
+in 26 introducing a negative gravitational lensing effect.  
+
+To  give  the  relative  size  of  the  parameters  involved  we  need  to  develop  the  non‐
+steady solution applying to the radiative era with variable speeds of light. This will 
+also be done in a future paper.  
+
+The basic features of the bimetric model, interaction laws and negative lensing effect, 
+were developed in [20], [26] and [27]. In [28], from dynamical group theory [25], the 
+particles  of  the  second  sector  are  CPT‐symmetrical  with  respect  to  positive  energy 
+particles  (protons,  neutrons,  electrons,  photons,  and  so  on),  which  gives  them 
+negative energy and mass. So the matter‐antimatter duality holds in the two sectors.  
+
+Given that masses of opposite signs repel each other, the component responsible for 
+the strong effects of gravitational lensing around galaxies and clusters of galaxies is 
+in an ultra‐rarified state in the galaxies and also in the solar system (where it could be 
+responsible  for  the  deceleration  of  the  Pioneer  space  probes,  a  subject  to  be 
+examinated). If the proposed model is correct, then attempts to find evidence for the 
+existence of astroparticles would be doomed to failure.  
+
+Reference  [28]  was  focused  on  the  explanation  of  the  acceleration  of  the  Universe, 
+caused  by  a  negative  pressure  associated  to  the  negative  energy  component.  The 
+present paper has shown that a bimetric model can be associated with two different 
+light speeds.  
+
+ 
+
+Back to the problem of interstellar travel 
+
+The  present  work  needs  completion.  A  study  of  the  radiation  dominated  era  with 
+“variable  constants”  must  be  carried  out  in  order  to  justify  the  difference  between 
+c()
+. As evoked above, time scale factors should be added, which we haven’t 
+done in the present paper.  
+
+and 
+
+c()
+
+Species  with  positive  and  negative  mass  behave  differently,  the  whole  being  fully 
+asymmetric. A. Sakharov ([15], [16], [17]) was the first to imagine an asymmetry in 
+
+ 
+14 
+the  characteristic  times  of  production  of  baryons  from  quarks,  and  of  antibaryons 
+from antiquarks in our Universe. He suggested that the two twin Universes owned 
+opposite arrows of time (notice that according to dynamical group theory [25] time 
+inversion goes with mass inversion). He suggested that different rates of production 
+of baryons and antibaryons could explain the absence of cosmological antibaryons in 
+our orthochron Universe of positive masses and energies, while “primeval baryons” 
+would  be  absent  in  the  twin  Universe.  This  would  go  with  a  remnant  of  free 
+antiquarks in our fold and a remnant of quarks with negative energy in the twin.  
+
+The  absence  of  primeval  antimatter  is  therefore  the  first  smoking  gun  of  such 
+asymmetry.  
+
+The second one is the Very Large Structure of the Universe, which according to that 
+model looks like joint soap bubbles (see [36] to [39]). Negative mass would form a set 
+of clumps located at the center of each bubble.  
+
+As evoked in [28] a new cosmic cartography could be built on the basis of a recent 
+idea published by a Japanese group [40], which would make possible to size the ratio 
+between  averaged  densities  of  the  two  species 
+.   Further  data  could 
+come  from  the  analysis  of  magnitude  of  distant  galaxies  with  strong  redshifts, 
+considered classically as dwarfs. We believe they are “normal” galaxies whose signal 
+is weakened by negative gravitational lensing effects. Notice that those galaxies emit 
+positive energy photons which can cross negative mass clumps. 
+
+,  and 
+
+()
+
+()
+
+As  shown  in  former  2D  simulations  [26],  macroscopic  structures  are  different  in 
+positive  and  negative  worlds.  Negative  mass  forms  spheroidal  clumps,  similar  to 
+huge  proto‐stars  whose  cooling  time  is  so  great  with  respect  to  the  age  of  the 
+Universe  that  fusion  cannot  occur.  In  the  negative  world  there  are  no  stars,  no 
+galaxies, no heavy elements, no planets. Life is absent.  
+
+a ()
+
+a ()
+
+> 
+
+Scale factors are also different : 
+, so that in order to go from a point A to a 
+point B, two ways are possible along two geodesic paths whose lengths are different 
+depending  on  the  mass  of  the  object,  positive  or  negative.  The  evolution  of  the 
+a ()  a ()
+bimetric Universe in a radiation dominated era with variable constants and 
+ 
+implies 
+
+c ()
+
+c ()
+
+ :  
+
+> 
+
+(25) 
+
+ 
+
+ 
+15 
+that is :  
+
+(26) 
+
+If mass inversion could be achieved, then the feasibility of interstellar travel should 
+be reconsidered. In effect, a transferred vehicle would cruise along geodesics of the 
+metric 
+
+, with several gains: 
+
+g ()
+
+ 
+
+‐  The speed limit (
+
+c ()  c ()
+
+) would be higher.  
+
+‐  Distances would be shorter: 
+
+a()  a()
+
+ 
+
+‐  The  addition  of  a  different  time  gauge  could  reduce  travel  duration  (to  be 
+
+developed in a future work). 
+
+Two questions remain: 
+
+‐ 
+
+Is it possible to achieve mass inversion of a craft and its passengers?  
+
+‐  How to give to the craft a relativistic velocity with respect to the new value 
+
+c ()  ?  
+
+Mass  inversion  is  accompanied  by  a  local  modification  of  the  geometry,  which 
+implies a deconnection of the geodesics of one system and a reconnection with the 
+geodesics of the other system. We believe that such process occurs in nature and will 
+give  a  theoretical  description  of  it  in  a  future  paper,  showing  subsequent 
+observations.  As  we will  show,  if  a  mass  is  inverted  it does  not  imply  that  it goes 
+backwards in time and could emerge at a point of its own past. This is so because the 
+proper time is not modified by the process.  
+
+The  theoretical  physicist  Michio  Kaku  suggests  a  classification  of  civilizations  of 
+“type I, II, III, etc. ” . He imagines that the last of them would be capable of using 
+energies defying imagination, which would make interstellar travel possible. Would 
+it be necessary, for example, in order to ensure mass inversion of a given mass M, to 
+use an energy comparable to 
+? Should we create a “wormhole” and jump in? 
+We believe that the energy we can handle today through nuclear technology and, in 
+the future, matter‐antimatter annihilation, could be enough. We believe also that our 
+present science and technology has reached the required threshold if used in a new 
+geometric context.  
+
+M c 2
+
+ 
+16 
+If  a  given  technology  makes  a  craft’s  mass  inversion  possible,  it  would  seem  to 
+dematerialize if observed by a witness. Negative mass particles, atoms and molecules 
+no  longer  interact  with  the  positive  molecules  of  the  surrounding  air  except  for 
+gravitation (in fact, anti‐gravitation). We conjecture that the mass inversion process 
+would be symmetrical. If a positive mass is inverted in a given volume, this would 
+affect the few negative masses present in the volume, whose mass would be inverted 
+too, and become positive. As a consequence, a highly rarefied medium would appear 
+in the volume, composed by few positive mass hydrogen atoms. For a positive mass 
+observer the volume occupied by the craft would look empty. The air would fill it 
+immediately,  the  process  producing  a  hydrodynamical  perturbation.  If  a  plane  is 
+flying  too  close  to  a  large  craft  that  is  inverting  its  own  mass,  the  subsequent  gas 
+perturbation could break it.  
+
+We will elaborate below, on a very conjectural basis, on a possible modification of the 
+craft  kinetic  parameters  after  the  hypothetic  mass  inversion  process.  Anyway,  an 
+inverted  mass  would be  repelled  by  the  Earth,  so  that  “it  would  fall  upward”.  An 
+appropriate cyclic mass inversion could cancel weight. In effect, values of the craft 
+weight would be alternatively P = Mg and P = ‐ Mg , that is zero on average.  
+
+A  witness  would  say  that  the  force  of  gravity  is  cancelled.  Combination  with 
+appropriate  modifications  of  the  kinetic  parameters  would  ensure  the  craft´s 
+movement.  
+
+Particles with mass m own a characteristic length, the Compton’s length c :  
+
+c 
+
+h
+m c
+
+ 
+
+If mass inversion follows gauge laws as defined in references [26], then:  
+
+ 
+
+(27) 
+
+(28) 
+
+It is an “apparent mass”, concept that will be developed in a future paper. This leads 
+to: 
+
+ 
+
+ 
+17 
+(29) 
+
+(30) 
+
+Mass  inversion  would  be  accompanied  with  some  kind  of  “Gulliver  effect”. 
+Transferred  in  the  new  frame  of  reference,  the  inverted  particles  would  have  a 
+Compton´s  length  greater  than  that  of  their  sisters  of  negative  mass  because 
+a ()  a ()
+
+. The subsequent energy is: 
+
+ 
+
+E 
+
+h c
+
+
+ 
+
+Such  transfer  would  occur  with  loss  of  energy.  If  we  assume  that  mass  transfer 
+implies  energy  conservation  during  the  process  of  mass  sign  inversion,  the 
+transferred  particles  must  have  Compton’s  lengths  equal  to  that  of  their  “sisters” 
+owing negative mass. This would be possible if, after mass inversion, particles gain 
+relativistic  velocity  so  that  their  Compton´s  length  shortening  is  ensured  by  the 
+Lorentz contraction. But the process should orient velocities in the same direction.  If 
+not, the craft and the passengers would be splitted. Would the process be possible, 
+interstellar crafts would not need any propeller at all. The words “acceleration” and 
+“deceleration” would loose meaning. Thus, if a huge amount of energy is necessary 
+to  accelerate  a  positive  mass  at  a  relativistic  velocity,  once  its  mass  is  inverted,  a 
+comparable amount of energy is required to bring its speed to zero when the craft 
+cruises in the new negative frame of reference. After mass inversion a craft would go 
+so  fast  that  it  could  not  slow  down.  But,  arriving  at  its  destination,  a  new  mass 
+inversion would give it again its former kinetic parameters.  
+
+Even in a very primitive way, these travel techniques have nothing to do with rocket 
+propulsion. All relies on mass manipulation, together with the manipulation of other 
+parameters as the spin (quite easy to handle with a magnetic field). We suggest that 
+energy  conservation  could  be  accompanied  by  a  modification  of  the  dynamical 
+parameters  that  defies  imagination.  After  mass  inversion,  a  new  modification  of 
+parameters, when the craft owns a negative mass, could give it in the positive realm 
+a velocity vector oriented in another direction, while the length of the vector and the 
+kinetic  momentum  would  be  conserved.  If  such  thing  is  possible,  a  positive  mass 
+observer would see the craft performing turns at right angles, or a total inversion of 
+its velocity, both incompatible with the conventional laws of physics.  
+
+ 
+18 
+If,  in  a  distant  future,  technical  progress  makes  it  possible  for  a  craft  to  travel 
+between  stars  in  times  comparable  with  human  life  duration,  what  would  the 
+travellers  see  through  the  windows  when  they  go  over  the  negative  world  ?  They 
+could no longer see the Universe of positive mass. They could not see planets, stars 
+or galaxies. Instead, being able to capture images mediated by photons of negative 
+energy, it would be possible for them to see the distant fuzzy spheroidal clusters of 
+negative mass emitting weakly, like proto‐stars, reddish and infrared light.  
+
+ 
+
+References :  
+
+[1]  Chandrasekhar  S.:  Principles  of  stellar  dynamics.  Dover  publications.  1941 
+[2]  Riess, A. G., et al. 1998, AJ, 116, 1009 
+[3]  Perlmutter, S., et al.  1999, ApJ, 517, 565 
+[4]  Riess A. G. 2000, PASP, 112, 1284 
+ [5]  Filippenko, A. V., & Riess, A. G. 2001, in AIP Conf. Proc. 540, Particle 
+[6]  Leibundgut, B. 2001, ARA&A, 39, 67 
+[7]  Knop, R., et al. 2003, ApJ, 598, 102 
+[8]  Tonry, J. T., et al. 2003, ApJ, 594, 1 
+[9]  Barris, B., et al. 2004, ApJ, 602, 571 
+[10] Riess, A. G. 2004. Apj : 607:665–687, 2004 June 1 
+[11] P. H. Frampton and K. J. Ludwick, Cyclic cosmology from the little rip, Mod. 
+Phys. Lett. A 28, 1350125 (2013) DOI: 10.1142/S0217732313501253 
+[12] S. del Campo, V. H. Cárdenas, and R. Herrera, Presence of anisotropic pressures 
+in Lemaître‐Tolman‐Bondi cosmological models, Mod. Phys. Lett. A 27, 1250213 
+(2012) DOI: 10.1142/S0217732312502136 
+[13] D. Savickas, Kinematic repulsions between inertial systems in an expanding 
+inflationary Universe, Mod. Phys. Lett. A, 28, 1330025 (2013) DOI: 
+10.1142/S0217732313300255 
+[14] I. Haranas and I. Gkigkitzis, Bekenstein bound of information number n and its 
+relation to cosmological parameters in a Universe with and without cosmological 
+constant, Mod. Phys. Lett. A 28, 1350077 (2013) DOI: 10.1142/S0217732313500776 
+[15] Sakharov A. D., ZhETF Pis’ma 5 : 32 ; JETP Lett. 5 : 24 ( 1967 ) 
+[16] Sakharov  A. D. , ZhETF Pis’ma 76 : 1172 (1979) ; JETP 49 : 594 (1979) 
+[17] Sakharov A. D. (1980). Cosmological Model of the Universe with a Time Vector 
+Inversion. ZhETF (Tr. JETP 52, 349‐351) (79): 689–693 
+[18] Petit J. P.  : Univers énantiomorphes à flèches du temps opposésʺ, CRAS du 8 
+mai 1977, t.285 pp. 1217‐1221  
+[19]  Petit  J.P.  :  ʺUnivers  en  interaction  avec  leur  image  dans  le  miroir  du  tempsʺ. 
+CRAS du 6 juin 1977, t. 284, série A, pp. 1413‐1416 
+[20] J. P. Petit (July 1994). The Missing Mass Problem. Il Nuovo Cimento B, 109: 697–
+710 
+[21]  Damour  T.  ,  Kogan  I  I.    Effective  Lagrangians  and  universality  classes  of 
+nonlinear bigravity Phys. Rev. D 66 (2002) 104024. hep‐th/0206042. 
+[22]  Damour  T.  ,  Kogan  I.  I.  ,  Papazoglou  A.    Non‐linear  bigravity  and  cosmic 
+acceleration Phys. Rev. D 66 (2002) 104025. hep‐th/0206044. 
+[23]  Bondi  H.  :  Negative  mass  in  General  Relativity  :  Negative  mass  in  General 
+Relativity. Rev. of Mod. Phys., Vol 29, N°3, july1957 
+[24] Weinberg S. : The quantum theory of fields, Cambridge University Press, Vol.1, 
+2005.  
+[25] Souriau J. S. : Structure des systèmes dynamiques.  Dunod Ed. France, 1970 and 
+Structure of Dynamical Systems. Boston, Birkhaüser Ed. 1997 
+
+ 
+19 
+[26] J. Petit J. P. : Twin Universe Cosmology. Astrophysics and Space Science (226): 
+273–307. 1995 
+[27] Petit J. P. , MidyP. and Landhseat F.  Twin matter against dark matter. In. Conf. 
+on Astr. and Cosm. “Where is the matter ?”, Marseille, une 2001.  
+[28] Petit J.P. and D’Agostini  G. : Negative mass hypothesis in cosmology and nature 
+of dark energy. Astrophysics and Space Science, 2014, to be published. Accepted in 
+14 august 2014.  
+[29] Petit J. P.  :  An interpretation of cosmological model with variable light velocity. 
+Modern Physics Letters A, Vol. 3, n°16, nov 1988, p.1527  
+[30] Petit J. P.  : Cosmological model with variable light velocity: the interpretation of 
+red shifts. Modern Physics Letters A, Vol.3 , n° 18, dec. 1988, p.1733  
+[31] Henry Couannier F. , Int. J. Mod. Phys. A20 2341, 2005 
+[32] Hossenfelder S. : A bimetric Theory with Exchange Symmetry. Phys. Rev. D78, 
+044015, 2008 
+[33]  Milgrom  M.  :  Matter  and  twin  matter  in  bimetric  MOND.  arXiv  :  1001.4444v3 
+[astrop‐ph.CO] 18 april 2010 
+[34] Adler R. , Bazin R. , Schiffer M. : Introduction to General Relativity, McGraw Hill 
+Book, 1967 
+[35]  Bonnor  W.  B.  :  Negative  mass  and  general  relativity.  General  Relativity  and 
+Gravitation Vol. 21, N°11, 1989 
+[36] Piran  T.   :  On  Gravitational  Repulsion,  Gen.  Relat.  and Gravit.  Vol.  29,  N°  11, 
+(1997)  
+[37] El‐Ad H. , Piran T. , and da Costa L. N. , (1996) Astrophys. J. Lett. 462 L13 
+[38] El‐Ad H. , Piran T. , and da Costa L. N. , (1997) Mon. Not. R. Astro. Soc.  
+[39] El‐Ad H. , Piran T. ( 1997 ) Astrophys. J.  
+[40]  Koki  Izumi,  Chizaki  Hagiwara,  Koki  Nakajima  ,  Takao  Kitamura  and  Hideki 
+Asada : Gravitational lensing shear by an exotic lens with negative convergence or 
+negative mass. Physical Review D 88, 024049 (2013) 
+[41] http://www.nasa.gov/topics/Universe/features/micro20120111.html 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+

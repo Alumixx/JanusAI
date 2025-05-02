@@ -1,0 +1,641 @@
+The Astrophysical Journal, 674: L1–L4, 2008 February 10
+(cid:1) 2008. The American Astronomical Society. All rights reserved. Printed in U.S.A.
+
+(cid:1)
+
+MASS FUNCTIONS OF THE ACTIVE BLACK HOLES IN DISTANT QUASARS FROM THE
+
+SLOAN DIGITAL SKY SURVEY DATA RELEASE 3
+
+M. Vestergaard,1,2 X. Fan,2 C. A. Tremonti,2,3 Patrick S. Osmer,4 and Gordon T. Richards5
+
+Received 2007 November 23; accepted 2007 December 27; published 2008 January 25
+
+ABSTRACT
+
+We present the mass functions of actively accreting supermassive black holes over the redshift range 0.3 ≤ z ≤ 5 for
+a well-deﬁned, homogeneous sample of 15,180 quasars from the Sloan Digital Sky Survey Data Release 3 (SDSS DR3)
+within an effective area of 1644 deg2. This sample is the most uniform statistically signiﬁcant subset available for the
+DR3 quasar sample. It was used for the DR3 quasar luminosity function, presented by Richards et al., and is the only
+sample suitable for the determination of the SDSS quasar black hole mass function. The sample extends from i p 15
+to i p 19.1 at
+. The mass functions display a rise and fall in the space density distribution
+of active black holes at all epochs. Within the uncertainties the high-mass decline is consistent with a constant slope of
+b ≈ (cid:1)3.3
+z p
+. Our tests suggest that the downturn toward lower mass values is due to incompleteness of the quasar sample with
+4
+respect to black hole mass. Further details and analysis of these mass functions will be presented in forthcoming papers.
+Subject headings: cosmology: observations — galaxies: active —
+
+at all epochs. This slope is similar to the bright-end slope of the luminosity function for epochs below
+
+and to i p 20.2 for
+
+z (cid:2) 3
+
+z (cid:1) 3
+
+galaxies: luminosity function, mass function — quasars: emission lines —
+quasars: general — surveys
+
+Online material: color ﬁgures
+
+1. INTRODUCTION
+
+We live in exciting times. Since their discovery, the powerhouse
+of quasars was believed to be actively accreting supermassiveblack
+holes (e.g., Salpeter 1964; Zel’dovich & Novikov 1964). Owing
+to recent advances, not only have we been able to conﬁrm the
+existence of such dense, powerful objects (e.g., Ghez et al. 2005;
+Genzel et al. 2003; Harms et al. 1994); the determination of their
+mass has become a common focus of many studies, in spite of
+the typically nontrivial nature of this process. The reasoning is
+quite simple: (1) for local galaxies, the early studies revealed a
+close connection between the black hole mass and the mass, lu-
+minosity, and velocity dispersion of the spheroidal component of
+the host galaxy (e.g., Magorrian et al. 1998; Ferrarese & Merritt
+2000; Gebhardt et al. 2000a, 2000b), suggesting an intimate con-
+nection between their evolutions; and (2) recent semianalytical and
+hydrodynamical simulations (e.g., Granato et al. 2004; Springel
+et al. 2005; Cattaneo et al. 2006; Kang et al. 2006) show that
+black hole evolution and activity may have an important inﬂuence
+on the properties of massive elliptical galaxies. Mapping the de-
+mography and mass of the black holes in the centers of galaxies
+across the history of the universe is a ﬁrst step to understanding
+this connection. Since a fraction of the matter accreted onto black
+holes as they grow is converted into radiation, the cosmic evolution
+of the quasar luminosity function helps constrain the accretion and
+growth history of black holes and can therefore also help us un-
+derstand the connection with galaxy evolution. Yet certain degen-
+eracies limit what we can learn from the luminosity functions (e.g.,
+Wyithe & Padmanabhan 2006) owing to the unknown degree of
+
+1 Current address: Department of Physics and Astronomy, Robinson Hall,
+
+Tufts University, Medford, MA 02155.
+
+2 Steward Observatory and Department of Astronomy, 933 North Cherry
+
+Avenue, Tucson, AZ 85721.
+
+3 Hubble Fellow.
+4 Graduate School, Ohio State University, 230 North Oval Mall, Columbus,
+
+5 Department of Physics, Drexel University, 3141 Chestnut Street, Phila-
+
+OH 43210.
+
+delphia, PA 19104.
+
+the radiative efﬁciency and the mass accretion rate and how these
+parameters evolve and depend on black hole properties.
+
+In principle, these degeneracies can be broken by combining
+the luminosity and mass functions. Recently, Richards et al.
+(2006, hereafter R06) presented the luminosity function and its
+cosmic evolution from redshift 5 to redshift 0.3 for a well-de-
+ﬁned, homogeneous subset of 15,180 quasars from the Sloan
+Digital Sky Survey (SDSS) Data Release 3 (DR3) quasar catalog
+of over 46,400 quasars for which the quasar selection function
+is well-determined. Therefore, the determination of the mass
+function for this speciﬁc quasar sample is of high interest. In
+this Letter we present this mass function of actively accreting
+black holes and its cosmic evolution from redshift 5 to 0.3.
+
+To determine the mass of the black holes we adopt the scaling
+relations based on the broad emission line widths and nuclear con-
+tinuum luminosities (e.g., Vestergaard 2002; Warner et al. 2003;
+Vestergaard & Peterson 2006) because (1) they are anchored in
+robust black hole mass determinations of active black holes in the
+nearby universe (Peterson et al. 2004; Onken et al. 2004), (2) several
+lines of evidence exist in favor of our application of this method to
+the most distant active black holes (see Vestergaard 2008 for details),
+and (3) the associated uncertainties on the mass estimates are among
+the lowest for the available mass estimation methods for distant
+sources. A cosmology of H0 p 70 km s(cid:1)1 Mpc(cid:1)1, p 0.7, and
+Qm
+
+p 0.3 is used throughout.
+
+QL
+
+2. SPECTRAL MEASUREMENTS
+
+As noted above, we use the quasar sample presented by R06
+because it is well-deﬁned and has a well-understood selection
+function; this is not the case for the full DR3 or the DR5 sample.
+Therefore it is currently also the only sample suitable for the
+determination of the black hole mass function. The reader is
+referred to R06 for details on the sample and its selection.
+
+In order to estimate the mass of the central black hole in each
+quasar we need to measure the widths of each of the Hb, Mg ii,
+and the C iv emission lines and the monochromatic nuclear con-
+tinuum luminosity near these emission lines. Since quasar spectra
+
+L1
+
+L2
+
+VESTERGAARD ET AL.
+
+Vol. 674
+
+z ≤ 0.5
+
+contain contributions from other emission components which often
+“contaminate” the line and continuum components of interest, we
+model each of these emission contributions so as to obtain reliable
+measurements after decomposition of the modeled components. In
+the following we provide only a very brief summary of our data
+handling. A more detailed account of our processing of the SDSS
+spectra will be presented by M. Vestergaard et al., (in preparation).
+Each spectrum is corrected for Galactic reddening based on
+E(B (cid:1) V )
+the
+value relevant for the quasar (Schneider et al.
+2005) and the Galactic extinction maps by Schlegel et al.
+(1998). The continuum components were modeled using (1) a
+nuclear power-law continuum, (2) an optical–UV iron line
+spectrum (Ve´ron-Cetty et al. 2004; Vestergaard & Wilkes
+2001), (3) a Balmer continuum, and (4) a host galaxy spectrum
+(for objects at
+for which the galaxy contribution is
+strongest and is best characterized; Bruzual & Charlot 2003).
+The continuum components were subtracted and the emis-
+sion lines were then modeled with multiple Gaussian functions
+so as to obtain smooth representations of the data. This allows
+us to eliminate most narrow absorption lines, noise spikes, and
+the contribution from the narrow emission line region, which
+is by far the strongest in the optical region. A single Gaussian
+component, not to exceed a FWHM of 600 km s
+, was used
+to model and subtract the narrow-line components. The line
+widths of Hb, Mg ii, and C iv were measured for all emission
+lines with model line peaks above 3 times the median ﬂux
+density error across the emission line (i.e., ≥3 j peaks).
+All Mg ii and C iv proﬁles with strong absorption were
+discarded from further analysis. They were identiﬁed by visual
+inspection of the spectra of the quasars listed in the catalog of
+Trump et al. (2006) to have absorption and of the quasars with
+redshifts between 1.4, when C iv enters the observing window,
+and 1.7. These quasars are prone to have strong C iv absorption
+but this redshift range is not covered by Trump et al. (2006).
+Of the 15,180 quasars on which the DR3 quasar luminosity
+function (R06) is based, black hole mass estimates were pos-
+sible for 14,434 (95%).
+
+(cid:1)1
+
+3. BLACK HOLE MASS ESTIMATES
+
+The speciﬁc mass scaling relations we use are equations (5) and
+(7) of Vestergaard & Peterson (2006) based on the FWHM of Hb
+and C iv and a new relationship for the Mg ii emission line based
+on high-quality data from the SDSS DR3 quasar sample (M. Ves-
+tergaard et al., in preparation). For each quasar a black hole mass
+estimate is computed for each of the Hb, Mg ii, and C iv emission
+lines rendered suitable for mass estimates (§ 2). The ﬁnal black hole
+mass was computed as the variance-weighted average of the indi-
+vidual mass estimates. The mass estimates based on the individual
+emission lines match well within their errors.
+
+z ≥ 3
+
+Figure 1 shows the redshift distribution of the black hole masses.
+Its detailed shape is mainly a consequence of the survey properties
+and limitations: (1) the scarcity of quasars at 2.2 ≤ z ≤ 3.0 is due
+to inefﬁcient quasar selection, discussed later, and (2) the lower
+boundary is determined mainly by the faint survey ﬂux limits (i
+! 19.1 mag at z ! 3.0; i ! 20.2 mag at
+). While the bright
+ﬂux limit (i 1 15 mag) of the SDSS is expected to eliminate the
+most massive black holes at z ! 1, this does not have a strong
+impact on the current study. Judging from the comparison made
+(Jester et al. 2005) between the Bright Quasar Survey (BQS;
+Schmidt & Green 1983) and the SDSS, the surface density of
+quasars brighter than i p 15.0 is such that at least six such bright
+quasars are expected in the 1622 deg2 of the current sample; this
+is a lower limit since the BQS itself is incomplete. If these bright
+quasars follow the same redshift distribution as the BQS quasars
+
+Fig. 1.—Redshift distribution of the black hole masses of our quasar sample
+selected from SDSS DR3. Of the 15,343 quasars detected in the selected sky area
+z ≥ 0.2
+at
+, mass estimates were possible for 14,584. Of these, 14,434 quasars have
+redshifts between 0.3 and 5.0. The median mass in each redshift bin shown in Fig.
+2 is marked with a square. The median propagated black hole mass measurement
+error is shown in the lower part of the diagram. For reference, the dashed curve
+indicates the faint SDSS ﬂux limits folded with a line width of 2000 km s . [See
+the electronic edition of the Journal for a color version of this ﬁgure.]
+
+(cid:1)1
+
+detected by the SDSS, they will mostly lie at z (cid:1) 0.25, below the
+minimum redshift bound (0.3) of the mass functions. Also, no
+upper limit in line width is imposed that would place an upper
+bound on the black hole masses. While we do deselect low-quality
+emission-line proﬁles (see § 2), this process applies to all proﬁle
+widths (and thus all black hole masses). Given our large sample
+size (nearly 15,000 quasars) and that we know of no selection
+effects that would systematically deselect the most massive black
+holes, it is fair to conclude that the upper bound in black hole
+mass is real. The mass distribution in Figure 1 therefore conﬁrms
+with larger numbers the results from previous studies (e.g., Warner
+et al. 2003; Netzer 2003; Corbett et al. 2003; Vestergaard 2004;
+McLure & Dunlop 2004; Kollmeier et al. 2006; Netzer & Trakh-
+tenbrot 2007; see also Vestergaard 2006, 2008; Shen et al. 2007)
+that ﬁnd the detected quasars at high redshift have black hole
+masses between a few # 108 and 1010
+, with typical mass of
+order 109
+
+.M,
+
+M,
+
+4. BLACK HOLE MASS FUNCTIONS
+
+MBH
+
+The differential quasar black hole mass function, W(
+
+, z), is
+the space density of quasar black holes (i.e., the number of black
+holes per unit comoving volume) per unit black hole mass as a
+function of black hole mass and redshift. We calculate this space
+density in different mass and redshift bins using the 1/ method
+following Warren et al. (1994), where
+is the accessible volume,
+deﬁned by Avni & Bahcall (1980). We adopt the method of Fan
+et al. (2001) of including the selection function of the quasars: we
+interpolate the selection function between the grid points deﬁned
+by the quasar luminosity and redshift and integrate over the selection
+function in determining
+(see eq. [6] of Fan et al). The SDSS
+DR3 quasar selection function for our quasar sample is published
+by R06. The mass function (and its statistical uncertainty) is given
+by
+
+Va
+
+Va
+
+Va
+
+(cid:1)
+
+i
+
+1
+
+1
+
+V DM
+a,i
+
+BH
+
+,
+
+,
+
+2 1/2
+
+)
+
+]
+
+V DM
+a,i
+
+BH
+
+(cid:1)(
+
+i
+
+[
+
+W(AMS, AzS) p
+
+j(W) p
+
+(1a)
+
+(1b)
+
+No. 1, 2008
+
+MASS FUNCTIONS OF DISTANT ACTIVE BLACK HOLES
+
+L3
+
+Fig. 2.—Mass functions of active supermassive black holes in the quasar sample at a range of redshifts (open diamonds; error bars denote the Poisson statistical
+uncertainty). The mean redshift of each redshift bin is labeled. The boundaries of the redshift bins are 0.3, 0.68, 1.06, 1.44, 1.82, 2.2, 2.6, 3.0, 3.5, 4.0, 4.5, and 5.0.
+In each panel the z p 0.49 and 2.01 mass functions are also shown as dotted and dashed curves for reference. The vertical dashed and dotted lines mark the masses
+of two ﬁducial black holes at the mean redshift of the z-bin, emitting a luminosity equal to the survey ﬂux limit, and around which the broad emission line gas is
+moving at 2000 and 3500 km s
+equivalent ﬁducial mass value, but
+may also affect bins of higher mass values. See text for details and discussion. [See the electronic edition of the Journal for a color version of this ﬁgure.]
+
+(FWHM), respectively. Incompleteness is expected for black hole masses below the 2000 km s
+
+(cid:1)1
+
+(cid:1)1
+
+BH
+
+AMS
+
+AzS
+DM
+
+and redshift bin of size
+
+are the average mass and redshift of each
+where
+and
+mass bin of size
+and index
+i refers to each individual quasar in this mass and redshift bin.
+In Figure 2 we show the mass functions at a range of redshifts.
+For better comparison, the redshift bins are chosen to be those
+used for the luminosity function for this sample (R06). The
+data points with large errors are typically due to very few
+quasars residing in those mass bins.
+
+Dz
+
+5. DISCUSSION AND SUMMARY
+
+For each redshift bin in Figure 2 the mass function displays a
+rise and fall in the mass distribution. The decline toward higher
+masses is expected to be intrinsic to the quasar population (§ 3);
+while the uncertainty in the mass estimates will affect the accuracy
+of the slope value, it is too small to be responsible for the decline.
+We determine6 a typical high-end slope b of about (cid:1)3.3 (W ∝
+) with uncertainties between 0.4 and 1.3 for the mass functions
+bM
+below a redshift of 4. At the mean redshifts of 4.25 and 4.75 the
+b ≈ (cid:1)1.9 (cid:2)
+high-end slope “ﬂattens” to
+, respectively. The mass function at redshift 4.75 is based on
+1.7
+very few black holes at each mass bin, especially for M ≥
+1010 M,
+, so the shape is somewhat uncertain. The mass functions
+are clearly consistent with a constant slope across all epochs. This
+
+b ≈ (cid:1)2.9 (cid:2) 1.1
+
+and
+
+BH
+
+for
+
+z 1 2
+
+z ! 2
+
+M ≥ 9.6
+
+6 The slope of the mass functions at
+
+is determined for masses above
+9.2 dex and at
+dex, since these mass bins are deemed
+(essentially) completely populated. To account somewhat for the uncertainties
+in the
+values and the fact that the mass bin population varies, the un-
+certainty in a given mass bin was estimated as the propagated uncertainty in
+the absolute mass estimates (e.g., Table 5 of Vestergaard & Peterson 2006)
+given the Poisson population statistics.
+
+MBH
+
+BH
+
+is also easily veriﬁed in Figure 2 by the reference curves for the
+mass functions at z p 0.49 (dotted curve) and at z p 2.01 (dashed
+curve), which also show that the space density of high-mass black
+holes slightly increases at
+
+z (cid:2) 1
+
+.
+
+b ≈ (cid:1)3.3
+
+The slope of the mass functions is consistent with the bright-
+end slope of the quasar luminosity function (
+; Croom
+et al. 2004; R06) to within the uncertainties with the exception
+b p (cid:1)2.5
+that the latter ﬂattens above a redshift of 4 (to
+;
+Schmidt et al. 1995; Fan et al. 2001). Another difference is
+the relative normalizations. The mass functions exhibit a
+change in space density for a given mass of only a factor of
+a few between z p 0.5 and z p 2 (cf. the dotted and dashed
+curves in Fig. 2), while the space density of quasars brighter
+than about (cid:1)27 mag drops 2 orders of magnitude or more
+between redshifts 2 and 0.5 (Fig. 18 of R06). While there is
+no one-to-one correspondence between a given mass value and
+a given luminosity value since black holes radiate at a range
+of (Eddington) rates, the different space density changes show
+that the cumulative volume density of
+) decreases
+toward low redshift. This conﬁrms what we already know based
+on the declining space density of active nuclei at later epochs
+(e.g., R06): low-redshift black holes are typically less active.
+In Figure 2 a characteristic peak shift to higher mass values with
+redshift is seen. It is important to establish the reality of these peaks
+and their shifts, given the cosmological implications. For one, it
+would be a clear manifestation of cosmic downsizing: the most
+massive black holes were more actively accreting early in the uni-
+verse and with time progressively less massive black holes dominate
+the population of actively accreting black holes. Alternatively, the
+downturn toward lower mass values may simply be due to incom-
+
+L/M L/L Edd
+
+(∝
+
+L4
+
+VESTERGAARD ET AL.
+
+Vol. 674
+
+pleteness of the sample, as the source selection is based on the
+source luminosity and broadband colors, not on black hole mass.
+As a result, we will not obtain a sharp lower boundary in mass (as
+we do in the luminosity distribution) but a decrease in space density
+below the survey ﬂux limits, owing to the distribution of black hole
+masses at a given luminosity. Unfortunately, the SDSS does not go
+deep enough for us to make meaningful cuts in black hole mass
+for the current sample, as will be clear later.
+
+(cid:1)1
+
+(cid:1)1
+
+(cid:1)1
+
+(dashed vertical line) and 3500 km s
+
+The best way to assess which part of the downturn is intrinsic
+requires detailed simulations that include the uncertainties in the
+mass estimates, the selection function, and the ﬂux limits. Since this
+is nontrivial we will address this in a forthcoming paper (B. Kelly
+et al., in preparation). Here, we instead perform crude checks as
+follows. First, in Figure 2 we mark the masses of a ﬁducial source
+at the mean bin redshift with a continuum luminosity equivalent to
+the ﬂux limit at that redshift and a broad line width of 2000 km
+(cid:1)1
+s
+(dotted vertical line),
+is the canonical lower line width for
+respectively; 2000 km s
+which a source is a bona ﬁde quasar and 3500 km s
+is the median
+line width for nearby quasars. There are objects below the dashed
+line since the observed i-band magnitude contains emission con-
+tribution in addition to the power-law continuum luminosity used
+for the mass estimates. Nonetheless, these ﬁducial masses do yield
+a guideline location of the SDSS ﬂux limits in the mass parameter
+space, and their location close to the peak of the mass distribution
+suggests that the peak shift is simply due to the survey ﬂux limits.
+Given the nontrivial relationship between the i-band magnitude
+and the monochromatic luminosity, we also performed a simple
+simulation with the aim of minimizing selection effects. We gen-
+erated a mock catalog of quasars covering redshifts between 0.2
+and 5.0 and bolometric luminosities between
+erg
+(cid:1)1
+s . For each (
+) grid point we computed the distribution of
+black hole masses by applying the typical observed line width
+distribution for these L and z values. The mass functions based
+on this mock catalog (not shown) do not display the narrowly
+peaked distributions seen in Figure 2, but display a slower con-
+tinued rise in the distribution below the high-mass fast decline and
+a sharp downturn at the lowest masses which coincides with the
+lower luminosity bound. No downturn is seen at the low-mass
+end if a sharp cut in black hole mass is imposed. Hence, this mock
+catalog conﬁrms the earlier indication that the low-mass downturn
+in the observed mass functions is a consequence of the relatively
+narrow luminosity range probed by SDSS broadened by the line
+
+L, z
+
+and
+
+10
+
+10
+
+42
+
+48
+
+Avni, Y., & Bahcall, J. N. 1980, ApJ, 235, 694
+Bruzual, G., & Charlot, S. 2003, MNRAS, 344, 1000
+Cattaneo, A., et al. 2006, MNRAS, 370, 1651
+Corbett, E. A., et al. 2003, MNRAS, 343, 705
+Croom, S. M., et al. 2004, MNRAS, 349, 1397
+Fan, X., et al. 2001, AJ, 121, 54
+Ferrarese, L., & Merritt, D. 2000, ApJ, 539, L9
+Gebhardt, K., et al. 2000a, ApJ, 539, L13
+———. 2000b, ApJ, 543, L5
+Genzel, R., et al. 2003, ApJ, 594, 812
+Ghez, A. M., et al. 2005, ApJ, 620, 744
+Granato, G. L., et al. 2004, ApJ, 600, 580
+Harms, R. J., et al. 1994, ApJ, 435, L35
+Hewett, P. C., Foltz, C. B., & Chaffee, F. H. 1995, AJ, 109, 1498
+Jester, S., et al. 2005, AJ, 130, 873
+Kang, X., Jing, Y. P., & Silk, J. 2006, ApJ, 648, 820
+Kollmeier, J. A., et al. 2006, ApJ, 648, 128
+Magorrian, J., et al. 1998, AJ, 115, 2285
+McLure, R., & Dunlop, J. 2004, MNRAS, 352, 1390
+Netzer, H. 2003, ApJ, 583, L5
+Netzer, H., & Trakhtenbrot, B. 2007, ApJ, 654, 754
+Onken, C. A., et al. 2004, ApJ, 615, 645
+Osmer, P. S. 1982, ApJ, 253, 28
+
+width distribution, especially at higher redshift. We thus conclude
+that the peaks and their shifts with redshift are mainly due to
+incompleteness of active black holes near the survey ﬂux limits.
+These crude checks are, however, unable to verify which part of
+the turnover is trustworthy. The mass functions in the lower red-
+shift bins display a slower turnover, part of which may well be
+real. B. Kelly et al. (in preparation) will present more advanced
+simulations that address these and related issues.
+The space density decline at z ≈ 2.8 relative to z p 2.4 and z
+p 3.25 in Figure 2 is caused by a much lower selection efﬁciency
+(by a factor of 8; Fig. 6 of R06) as quasars at these epochs coincide
+with the stellar loci in the selected color spaces. This suggests that
+the completeness level is slightly overestimated at these epochs.
+This situation is unfortunate since the space density of quasars is
+known to peak between redshifts of 2 and 3 (e.g., Osmer 1982;
+Warren et al. 1994; Schmidt et al. 1995; Fan et al. 2001). It is
+thus not possible with the current sample to get a complete picture
+of how the space density distribution of black holes behaves during
+this important epoch. The Large Bright Quasar Survey (LBQS;
+Hewett et al. 1995) of about 1000 quasars, extending to a redshift
+of 3, offers an opportunity to address these issues further, since
+this sample is not selected based on broadband color. The LBQS
+quasar mass function will be presented by M. Vestergaard & P.
+S. Osmer (in preparation) and discussed in concert with the DR3
+mass function by M. Vestergaard et al. (in preparation), where the
+mass functions will also be compared to previous work.
+
+We gratefully acknowledge ﬁnancial support from NSF grant
+AST 03-07384 (X. F., M. V.), HST grant HST-AR-10691 (M. V.),
+and Hubble Fellowship grant HST-HF-01192.01 (C. A. T.)
+awarded by the Space Telescope Science Institute, which is op-
+erated by the Association of Universities for Research in Astron-
+omy, Inc., for NASA, under contract NAS5-26555, a Packard
+Fellowship for Science and Engineering (X. F.), and Sloan Re-
+search Fellowships (X. F., G. T. R.). Funding for the SDSS has
+been provided by the Alfred P. Sloan Foundation, the Participating
+Institutions, the National Aeronautics and Space Administration,
+the National Science Foundation, the US Department of Energy,
+the Japanese Monbukagakusho, and the Max Planck Society. The
+SDSS Web site is http://www.sdss.org/.
+
+Peterson, B. M., et al. 2004, ApJ, 613, 682
+Richards, G. T., et al. 2006, AJ, 131, 2766 (R06)
+Salpeter, E. E. 1964, ApJ, 140, 796
+Schlegel, D. J., Finkbeiner, D. P., & Davis, M. 1998, ApJ, 500, 525
+Schmidt, M., & Green, R. F. 1983, ApJ, 269, 352
+Schmidt, M., Schneider, D. P., & Gunn, J. E. 1995, AJ, 110, 68
+Schneider, D., et al. 2005, AJ, 130, 367
+Shen, Y., et al. 2007, preprint (arXiv:0709.3098v1)
+Springel, V., Di Matteo, T., & Hernquist, L. 2005, ApJ, 620, L79
+Trump, J. R., et al. 2006, ApJS, 165, 1
+Ve´ron-Cetty, M.-P., Joly, M., & Ve´ron, P. 2004, A&A, 417, 515
+Vestergaard, M. 2002, ApJ, 571, 733
+———. 2004, ApJ, 601, 676
+———. 2006, NewA Rev., 50, 817
+———. 2008, in STScI Spring Symp. 2007, Black Holes, ed. A. Koekemoer
+
+(Cambridge: Cambridge Univ. Press), in press
+
+Vestergaard, M., & Peterson, B. M. 2006, ApJ, 641, 689
+Vestergaard, M., & Wilkes, B. J. 2001, ApJS, 134, 1
+Warner, C., Hamann, F., & Dietrich, M. 2003, ApJ, 596, 72
+Warren, S. J., Hewett, P. C., & Osmer, P. S. 1994, ApJ, 421, 412
+Wyithe, J. S. B., & Padmanabhan, T. 2006, MNRAS, 372, 1681
+Zel’dovich, Ya. B., & Novikov, I. 1964, Soviet Phys. Dokl., 158, 811
+
+Facilities: Sloan
+
+REFERENCES
+
+

@@ -1,0 +1,3755 @@
+	
+
+	
+
+1	
+
+9	octobre	0202	
+
+Cosmology	with	negative	masses.	Modification	of	the	Hossenfelder	model	to	get	
+comparisons	to	observational	data.	Identification	of	the	primeval	antimatter.		
+
+J.P.Petit1	,		G.D’Agostini2	,				N.Debergh3	
+
+Manaty	Research	Group4	
+
+_____________________________________________________________________________________________________	
+Keywords	:	negative	mass,	bimetric	models,	bigravity,	very	large	structure,	acceleration	
+of	the	cosmic	expansion,	dark	matter,	dark	energy,	spiral	structure,	great	repeller,	
+negative	gravitational	lensing,	dynamical	groups,	primeval	antimatter,	Sakharov	model	
+_____________________________________________________________________________________________________	
+Abstract	:		
+If	one	tries	to	include	negative	masses	in	General	Relativity	one	immediately	comes	up	
+against	the	runaway	effect,	violating	the	principle	of	action-reaction.	It	is	then	necessary	
+to	consider	a	bimetric	model.	The	starting	point	is	S.	Hossenfelder's	model,	which	is	
+mathematically	correct,	but	incompatible	with	the	observational	data.	This	approach	is	
+taken	up	again.	The	field	equations	then	make	it	possible	to	account	for	many	
+observational	aspects,	including	the	acceleration	of	expansion,	the	strong	gravitational	
+lens	effects	in	the	vicinity	of	galaxies	and	clusters,	and	the	flatness	of	the	rotation	curves.	
+Using	the	dynamic	group	theory	we	show	that	this	negative	mass	is	a	copy	of	classical	
+antimatter,	with	negative	mass.	This	approach,	concretizing	the	ideas	of	A.Sakharov,	
+resolves	the	paradox	of	the	absence	of	observation	of	primordial	antimatter.	The	
+questions	remaining	to	be	addressed	are	listed	so	that	the	model	could	pretend	to	be		a	
+challenger	to	the	mainstream	ΛCDM	model.		
+_____________________________________________________________________________________________________	
+	1	–	Cosmology	today.	Questions	that	remain	unsolved.	
+Fifty	years	ago	the	scientific	community	thought	it	had	built	a	model	with	a	high	level	of	
+credibility,	based	on	Einstein's	field	equation.	At	that	time	the	debate	among	specialists	
+centered	on	the	choice	between	one	of	Friedmann's	three	models	and	everyone	thought	
+that	the	cosmological	constant	was	either	null	or	negligible.	
+It	all	began	with	the	problem	posed	by	the	advance	of	Mercury's	perihelion.	Leverrier's	
+earlier	attempt	at	interpretation,	based	on	a	new	planet	he	had	called	Vulcan,	had	failed.	
+Einstein	provided	the	solution	by	creating	a	major	paradigm	shift.		His	model	was	later	
+																																																								
+1	Jean-pierre.petit@manaty.net	
+2	gilles.dagostini@manaty.net	
+3	nathalie.debergh@manaty.net	
+4	https://manaty.net/research-group/en	
+
+	
+2	
+supported	by	the	evidence	of	the	gravitational	lens	effect	that	the	Sun	had	on	the	light	
+from	the	stars.		
+The	construction	of	unsteady	solutions	led	to	a	model	where	the	universe	was	
+expanding	from	a	moment	zero.	Thus,	going	back	in	time,	one	must	deal	with	conditions	
+of	temperature	and	pressure	beyond	imagination.	It	was	therefore	essential	to	describe	
+the	cosmic	content	under	such	conditions.		
+We	thus	envisaged	conditions	where	the	universe	was	in	a	state	of	equilibrium	where	
+the	synthesis	of	pairs	of	particles	and	antiparticles	was	compensated	by	the	annihilation	
+of	these	same	pairs	by	producing	photons.	Under	these	conditions	the	cooling	due	to	the	
+expansion	stopped	this	production	of	pairs,	while	the	annihilation	reactions	continued.	
+These	primordial	photons,	corresponding	to	a	background	radiation	at	2.7°,	were	
+highlighted,	which	gave	a	strong	credibility	to	the	model.		
+But	under	these	conditions	the	annihilation	of	the	matter-antimatter	pairs	should	have	
+continued	until	their	complete	disappearance.	But	the	simple	fact	that	we	have	before	
+our	eyes	a	universe	made	up	of	matter	showed	that	this	was	not	the	case.	A	question	
+then	arose:		
+-  What	had	become	of	this	primordial	antimatter,	of	which	all	attempts	to	bring	to	light	
+proved	to	be	failures?			
+	
+	Currently,	and	we	insist	on	this	point	of	epistemology,	no	scientist	doubts	their	
+
+existence	when	it	has	not	been	possible	to	detect	the	presence	of	these	particles	of	
+primordial	antimatter	
+
+1	-	We	will	bring	in	this	article	a	consistent	answer	to	this	problem,	including	the	
+explanation	 of	 this	 non-observation	 of	 primordial	 antimatter	 and	 describing	
+precisely	the	nature	of	its	components.	
+
+Beyond	these	already	very	impressive	temperatures	it	was	desirable	to	be	able	to	
+provide	again	a	description	of	the	cosmic	content.	Particle	accelerators	thus	became	the	
+tools	to	try	to	re-create	these	conditions	in	the	laboratory.	Particle	physics	developed.	
+Not	only	did	it	make	it	possible	to	recreate	this	synthesis	of	antimatter	in	situ,	but	it	
+constituted	a	dismantling	of	the	constituents	of	the	nuclei	which	culminated	with	the	
+quarks	model,	which	allowed	the	prediction	of	the	existence	of	new,	unstable	particles,	
+whose	fleeting	presence	was	demonstrated	by	detailing	the	reaction	products.	It	was	
+then	that	it	proved	impossible	to	obtain	direct	evidence	of	quarks,	although	they	are	
+equipped	with	fractional	electric	charges.	This	question	was	resolved	by	assuming	that	
+these	quarks	in	the	free	state,	undergoing	forces	of	attraction	increasing	with	distance,	
+could	not	persist	for	their	existence	to	be	demonstrated.	Nevertheless,	given	the	fertility	
+of	the	model,	with	respect	to	the	construction	of	new	particles,	whose	existence	was	
+proven,	it	was	imposed.				
+It	was	nevertheless	necessary	to	construct	a	description	of	the	cosmic	content	for	even	
+higher	temperatures.	The	standard	particle	model	was	then	extended	by	creating	what	
+was	called	supersymmetry.		
+A	very	large	number	of	papers	were	then	published	in	high	level	journals,	bringing	the	
+description	of	superparticles,	partners	of	the	standard	particles,	such	as	photino,	
+neutralino	etc....			
+
+But	today	scientists	cannot	agree	on	both	an	inflationary	scenario	and	a	precise	
+inflaton	model.	
+
+But	 while	 this	 model	 gave	 rise,	 for	 decades,	 to	 the	 publication	 of	 innumerable	
+articles	in	very	high	level	journals,	this	model	proved	incapable	of	producing	a	
+
+But	 while	 the	 energies	 used	 had	 largely	 reached	 and	 exceeded	 the	 required	
+thresholds,	 the	 existence	 of	 any	 of	 these	 superparticles	 could	 not	 be	
+demonstrated.	
+
+model	of	anything	that	would	lend	itself	to	any	kind	of	observation.	
+
+	
+3	
+For	decades,	many	scientists	tried	to	develop	a	theory	that	was	both	more	
+comprehensive	and	totally	different	from	the	material	that	became	known	as	string	
+theory.	
+Other	problems	arose.	The	observations	made	with	the	help	of	satellites	showed	the	
+extraordinary	homogeneity	of	the	primitive	universe,	in	its	radiative	phase.	The	journals	
+published	a	very	large	number	of	articles	tending	to	explain	this	state	of	affairs	by	a	
+fantastic	primordial	inflation,	due	to	a	mysterious	field	of	inflatons	
+Other	problems	arose.	At	the	end	of	the	seventies,	the	measurement	of	the	rotational	
+velocities	of	gaseous	elements	in	galaxies	became	precise	enough	to	create	a	new	
+paradox:	the	flatness	of	these	curves	at	the	galactic	periphery	[1]	.	The	distribution	of	
+matter	deduced	from	the	observations	did	not	allow	to	reconstruct	these	curves.	
+The	scientific	community	then	saw	in	such	a	phenomenon	the	undeniable	proof	of	the	
+existence	of	particles	with	mass,	undetected.	
+-  By	reversing	the	problem	one	considered	that	instead	of	deducing	the	rotation	
+background	noise	constituted	by	cosmic	rays,	or	in	space,	in	detectors	
+2	–	In	this	paper	we	will	provide	an	alternative	interpretation	of	the	flatness	of	
+to	reconstruct	them	accurately.	
+This	problem	of	the	flatness	of	the	rotation	curves	was	joined	to	that	of	the	excessive	
+velocities	of	galaxies	in	clusters,	exceeding	the	escape	velocity	calculated	on	the	mass	of	
+such	clusters,	deduced	from	the	observations.	
+Here	again	the	new	model,	implying	the	existence	of	a	dark	matter,	of	unknown	nature,	
+over	invoked	to	account	for	this	phenomenon,	by	associating	to	the	clusters	a	vast	halo	
+constituted	by	this	unidentified	component..		
+
+-	To	date,	in	spite	of	the	very	large	means	implemented,	no	dark	matter	particles	
+have	been	detected	in	experiments	conducted	underground,	sheltered	from	the	
+
+curves	 of	 measurements	 on	 the	 local	 density	 of	 dark	 matter	 it	 was	 decided	 to		
+deduce	it	from	the	shape	of	the	curves..		
+
+the	rotation	curves	in	galaxies	at	periphery,	showing	how	this	new	model	allows	
+
+3	 –	 In	 this	 paper	 we	 will	 provide	 an	 alternative	 interpretation	 of	 this	
+phenomenon	of	galaxy	overspeed	in	clusters.		
+
+	
+4	
+These	anomalies	concerning	the	rotation	velocities	in	galaxies	and	the	random	velocities	
+of	galaxies	in	clusters	went	hand	in	hand	with	the	discovery	of	strong	gravitational	lens	
+effects,	which	could	not	be	produced	by	the	masses	deduced	from	the	observations.		
+
+While	 no	 direct	 observation	 or	 experiment	 (evidence	 of	 neutralino	 in	 particle	
+accelerators)	 has	 so	 far	 succeeded	 in	 highlighting	 these	 components	 of	 dark	
+matter,	the	scientific	community	considers	their	existence	as	an	established	fact,	
+undeniable	insofar	as	their	presence	provides	both	the	means	to	constitute	these	
+gravitational	lens	effects	in	the	vicinity	of	clusters	and	galaxies,	and	to	account	
+for	the	kinematic	anomalies	found	in	the	vicinity	of	these	same	objects.		
+
+4	 –	 In	 this	 paper	 we	 will	 provide	 an	 alternative	 interpretation	 of	 the	 strong	
+gravitational	lens	effects	in	the	vicinity	of	galaxies	and	clusters.		
+
+As	a	reminder,	we	will	mention	the	attempt	to	remotely	modify	Newton's	law,	proposed	
+by	the	Israeli	Mordechaii	Milgrom	[2],	a	theory	devoid	of	ontological	(geometrical)	
+foundation	that	fails	to	account	for	both	galaxy	and	cluster-related	effects.		
+Another	important	problem	is	the	recent	discovery	of	the	phenomenon	of	the	
+acceleration	of	cosmic	expansion,	sanctioned	in	2011	by	a	Nobel	Prize	([3],	[4],	[5]).	But	
+here,	the	Einsteinian	model	could	provide	a	beginning	of	interpretation	by	reintroducing	
+into	the	equation	the	cosmological	constant	Λ.	This	phenomenon	was	attributed	to	
+negative	pressure.	The	pressure	being	a	density	of	energy	per	unit	volume,	this	same	
+energy	was	itself	negative.		
+These	different	aspects	were	placed	under	the	same	label,	that	of	a	dark	energy,	
+associated	with	some	vacuum	energy,	which	quantum	mechanics	cannot	account	for.		
+-  That	of	the	supposed	existence	of	a	cold	dark	matter	(animated	at	low	speeds	
+-  That	of	the	existence	of	this	dark	energy,	phenomenologically	taken	into	account	
+5	–	 The	 model	 we	 propose	 provides	 an	 interpretation	 of	 the	 phenomenon	 of	
+
+Opting	 for	 a	 purely	 phenomenological	 description	 of	 the	 current	 main	 stream	
+model,	the	model	ΛCDM	combines	these	two	hypotheses:		
+
+by	the	resurgence	of	the	cosmological	constant	in	the	field	equation.		
+
+with	respect	to	c).	
+	
+
+cosmic	expansion	acceleration	which	has	been	successfully	compared	with	data	
+from	700	type	Ia	supernovae.	It	specifies	which	cosmic	elements	and	components	
+are	 responsible	 for	 this	 phenomenon,	 which	 is	 not	 done	 by	 the	 model	 ΛCDM,	
+which	only	provides	a	purely	phenomenological	reading	of	the	process.		
+
+Indeed,	there	is	to	date	no	model	of	dark	energy,	and	no	beginning	of	explanation	
+of	this	phenomenon	apart	from	the	phenomenology	associated	with	the	presence	
+of	the	cosmological	constant,	synonymous	with	vacuum	energy.		
+
+6	–	 As	 part	 of	 the	 team's	 work,	 one	 of	 the	 signatories	 of	 this	 paper,	 Nathalie	
+negative	energy	states.		
+
+Debergh,	showed	in	2018	[8]	that	quantum	mechanics	could	very	well	produce	
+
+	
+
+There	is	no	real	explanation,	with	a	theoretical	basis,	which	clearly	justifies	the	
+lacunar	structure	of	the	observed	matter,	except	for	numerical	simulation	results,	
+which	show	clusters	and	filaments.		
+
+5	
+7	–	In	this	article	we	give	the	reason	for	the	existence	of	such	a	lacunar	structure.		
+Very	recently,	in	2017,	a	very	large	scale	mapping	of	the	universe	[9],	in	a	cube	of	one	
+and	a	half	billion	light	years	on	one	side,	giving	both	the	distribution	of	matter	(galaxies)	
+and	the	general	shape	of	the	velocity	field,	a	new	anomaly	has	been	detected.	At	600	
+million	light-years	from	our	galaxy,	the	existence	of	a	very	large	vacuum,	where	no	
+galaxy	was	present,	was	revealed,	which,	given	the	direction	of	the	velocities	of	the	
+surrounding	galaxies,	evoked	a	powerful	phenomenon	of	repulsion.	This	formation	was	
+given	the	name	Great	Repeller.		
+
+No	theoretical	modeling	of	this	phenomenon	has	been	published	in	a	high-level	
+journal.	 At	 most,	 it	 has	 been	 suggested	 that	 the	 phenomenon	 could	 betray	 the	
+presence	 of	 a	 gap	 in	 a	 uniform	 distribution	 of	 dark	 matter,	 which	 was	
+tantamount	to	adding	another	hypothesis	to	a	first	hypothesis.	There	is	no	model	
+describing	the	formation	of	such	a	gap.		
+
+8	 –	 The	 model	 we	 propose	 provides	 an	 interpretation	 of	 this	 phenomenon,	
+
+implying	the	existence	of	a	repulsive,	unobservable	cluster	of	negative	matter	at	
+the	 center	 of	 this	 cell.	 This	 situation	 explains	 in	 passing	 the	 low	 magnitude	 of	
+galaxies	with	strong	reshift,	considered	in	the	literature	as	dwarf	galaxies.		
+
+		2	–	A	real	paradigm	shift.		
+The	proposed	solutions	are	deliberately	extraordinary	and	revolutionary	and	militate	
+for	the	abandonment	of	the	mainstream	model	in	favor	of	a	new,	bimetric	model	.	
+Quoting	a	well-known	aphorism	has	it	that	"extraordinary	claims	demand	extraordinary	
+evidence".	It	is	therefore	necessary	to	list	these	claims.		
+Some	points	:		
+2	–	Justification	of	the	shape	of	the	rotation	curves.	
+3	–	Explanation	of	overspeeds	in	clusters	of	galaxies.	
+4	–	Explanation	of	the	strong	gravitational	lens	effect.	
+are	only	alternative	interpretations	to	that	provided	by	the	hypothesis	of	the	existence	
+of	dark,	matter,	which	they	do	not	invalidate.	These	interpretations	simply	show	that	
+the	proposed	model	is	not	contradicted	by	these	observations.		
+But	in	the	following	points	:		
+	1	:	Nature	of	primordial	antimatter	and	explanation	of	its	non-observation.	
+5	–	Identification	of	the	nature	of	the	negative	energy	responsible	for	the	
+acceleration	of	cosmic	expansion.	
+
+	
+
+Let's	introduce	negative	masses	in	the	cosmological	model.	
+
+6	
+6	–	Justification	of	the	existence	of	negative	energy	states	in	Quantum	
+Mechanics.	
+7	–	Description	of	the	mechanism	giving	rise	to	the	lacunar	structure	of	the	
+observed	universe.	
+8	–	Description	of	the	object	giving	rise	to	the	formation	that	was	given	the	
+name	Great	Repeller.	
+are	provided	theoretical	interpretations	that	do	not	emanate	from	the	standard	model	
+ΛCDM.	Precise	answers	are	given	where	the	standard	model	does	not	provide	any.		
+This	paradigm	shift	can	be	summed	up	in	a	simple	sentence:		
+Before	describing	how	we	proceeded	it	is	essential	to	show	why	this	hypothesis	has	not	
+been	able	to	emerge	to	date.		
+	2	–	The	runaway	effect,	a	barrier	against	the	introduction	of	negative	masses.	
+This	question	of	the	introduction	of	negative	masses	was	tackled	as	early	as	1957	by	H.	
+Bondi	[10]	and	then	in	1989	by	W.	Bonnor	[11].	It	is	important	to	make	it	clear	why	this	
+causes	the	appearance	of	a	phenomenon	that	is	difficult	to	manage	in	physics,	the	
+runaway	effect,	if	only	because	it	violates	the	principle	of	action-reaction.			
+By	ignoring	the	non-linearity	of	Einstein's	equation,	we	can	schematize	it	by	saying	that	
+in	the	second	member	is	the	source	of	the	gravitational	field.	The	equation	provides	a	
+solution	in	the	form	of	a	single	metric	from	which	one	calculates	sets	of	geodesics,	
+corresponding	to	non-zero	geodesics	(masses)	and	null	geodesics	(photons).	The	
+cosmological	constant	can	be	abstracted	for	this	question.		
+(1)																																																															
+R gµν = χTµν		
+The	geometry	associated	with	the	presence	of	a	mass	M,	represented	by	a	sphere	filled	
+with	matter	of	a	given	mass	density	 ρ	,	is	perfectly	determined,	both	outside	and	inside	
+this	mass	M	and		can	be	constructed	from	equation	(1).		
+Outside	this	mass	M,	the	trajectories	of	the	control	particles	correspond	to	the	external	
+Schwarzschild	metric	
+	(2)																																		
+If	this	mass	M	is	positive,	the	behavior	of	the	control	particles	in	its	vicinity	corresponds	
+to	an	attraction,	as	shown	in	figure	1.		
+	
+
+− r2 ( dθ2 + sin2θdϕ2 )		
+
+dr2
+2G M
+c2r
+
+⎞
+⎠⎟ c2dt2 −
+
+2G M
+c2r
+
+Rµν −
+  
+
+ds2 = 1−
+
+		
+
+1−
+
+1
+2
+
+⎛
+⎝⎜
+
+ 
+
+	
+
+7	
+
+	
+
+	
+
+Fig.1	:	Geodesic	trajectories	of	control	masses	in	the	vicinity	of	a	positive	mass	
+	We	consider	that	these	geodesic	trajectories	are	those	of	particles	of	matter	but	the	
+solution	does	not	specify	what	sign	must	the	considered	mass.	Thus:		
+-	Objects	with	positive	mass	M	>	0	attract	indifferently	the	other	masses,	whether	positive	
+or	negative	
+If	the	source	mass	M	of	the	field	is	negative,	the	shape	of	the	geodetic	trajectories	taken	
+by	the	control	masses,	whether	positive	or	negative,	is	shown	in	Figure	2.		
+	
+
+	
+Fig.2	:	Geodesic	trajectories	of	control	masses	in	the	vicinity	of	a	negative	mass	
+-	 Objects	 with	 positive	 mass	 M	 <	 0	 indifferently	 repel	 other	 masses,	 whether	 positive	 or	
+negative.	
+Let's	consider	now		a	couple	of	opposite	masses:		
+	
+
+	
+
+8	
+
+	
+
+Fig.3	:	Runaway	effect.	
+
+	
+	First	paradox:	the	positive	mass	flees,	pursued	by	the	negative	mass,	in	violation	of	the	
+principle	of	action-reaction.		
+Second	paradox:	the	couple	accelerates	indefinitely,	but	this	increase	in	speed	takes	
+place	at	constant	energy	since	the	kinetic	energy	of	the	negative	mass	is	itself	negative.		
+	3	–	Two	attempts	to	introduce	negative	masses	in	Einstein's	model	
+These	attempts	remain	within	the	geometric	framework	of	General	Relativity,	described	
+by	Einstein's	field	equation.		
+In	the	first	one	(Benoit-Lévy	a	G.	Chardin	[12]),	the	authors	take	Dirac-Milne's	model,	
+where	the	positive	and	negative	mass	contents	give	a	globally	null	density.	The	
+expansion	then	takes	place	in	a	linear	way,	in	contradiction	with	the	evidence	of	cosmic	
+acceleration	([3],	[4],	[5]).	The	authors	propose	that	the	negative	mass	may	correspond	
+to	antimatter.	They	imagine,	without	providing	any	scientific	support,	that	this	
+cosmological	antimatter	could	be	repelled	by	ordinary	matter	by	suggesting	that	this	
+phenomenon	could	manifest	itself	during	the	experiments	being	set	up	at	CERN,	Gbar	
+and	Alpha,	intended	to	highlight	the	behavior	of	antimatter	created	in	the	laboratory,	in	
+the	Earth's	gravity	field.		
+Another	attempt:	that	of	the	Englishman	Jamie	Farnes	in	2018	[13].		He	then	plans	to	
+unify	dark	matter	and	dark	energy	into	a	single	entity,	identified	with	negative	mass.	To	
+do	this	he	is	obliged	to	invoke	an	undescribed	phenomenon	of	constant	creation	of	
+negative	mass,	keeping	its	density	constant	throughout	the	cosmic	expansion,	so	as	to	
+guarantee	the	constancy	of	the	negative	cosmological	constant,	according	to	the	relation.		
+(3)																																																									
+
+8πG Λ = Cst		
+
+c2
+
+ρ− =
+  
+
+	
+9	
+Since	his	model	is	always	presented	as	a	solution	to	Einstein's	equation,	the	runaway	
+phenomenon	is	automatically	part	of	it,	which	he	then	considers	as	the	mechanism	
+producing	the	high-energy	particles	constituting	cosmic	rays.	And	he	concludes:	"From	
+this	perspective	the	runaway	motion	is	not	a	challenge	for	negative	mass	models,	but	a	
+rather	useful	observational	constrainst".		
+What	is	interesting,	however,	is	a	simulation	result	where	a	Hernquist	galaxy,	composed	
+of	5,000	positive	mass	points	is	surrounded	by	45,000	negative	masses.	These	negative	
+masses,	exerting	their	repulsive	action	on	the	components	of	this	galaxy,	makes	possible	
+high	rotational	speeds	at	the	periphery.	On	figure	4	the	red	curve	gives	the	profile	of	the	
+rotation	curve	for	this	galaxy,	whereas	the	black	curve	represents	this	profile	in	the	
+absence	of	the	negative	mass	environment:		
+
+	
+
+Figure	4.	Rotation	curves	from		[13]	
+
+	4	–	Empirical	approach,	simulation	results	
+In	the	mid-nineties	[14],	numerical	simulations	were	used	to	explore	the	behavior	of	a	
+mixture	of	positive	and	negative	masses,	satisfying	the	principle	of	action-reaction,	i.e.	
+according	to	hypothetical	laws:		
+(4)	
+
+	
+10	
+	The	first	result	did	not	bring	any	element	likely	to	orient	research	in	astrophysics.	A	
+percolation	of	the	two	species	was	then	observed.	See	figure	5:		
+
+-	The	masses	of	opposite	signs	repel	each	other	according	to	"anti-Newton".		
+
+-	Masses	of	the	same	sign	attract	each	other	according	to	Newton's	law.	
+
+	
+
+	
+An	idea	then	emerged,	consisting	in	considering	the	behavior	of	a	mixture	of	positive	
+and	negative	masses,	governed	by	these	hypothetical	laws	of	interaction,	in	the	case	
+where	the	negative	mass	is	dominant.	The	following	result	was	then	obtained:		
+
+Fig.5	:	Result	of	a	simulation		with	ρ+ = ρ−	
+
+Fig.6	:	Result	of	simulation	1995	[14]		with	 ρ− >>ρ+		
+
+	
+Although	they	are	only	2D	simulations,	very	primitive,	carried	out	with	two	times	5,000	
+mass	points,	the	creation	of	a	lacunar	structure	of	the	positive	mass	appeared.	In	the	
+center	of	each	cell:	a	negative	mass	conglomerate,	repulsive.	The	negative	masses,	
+denser,	formed	the	first,	by	gravitational	instability,	a	regular	distribution	of	negative	
+
+1
+
+1
+
+(+) =
+
+		
+
+<< tJ
+
+4πGρ(+)
+
+4πG ρ(−)
+
+tJ
+(−) =
+  
+
+	
+11	
+mass	conglomerates,	repelling	the	positive	mass	into	the	interstitial	space.	The	idea	
+emerged	that	the	large-scale	structure	of	the	universe	could	result	from	such	a	
+mechanism,	implying	a	deep	asymmetry	between	the	two	populations.	Below	are	the	
+Jeans	times	of	the	two	populations.	The	Jeans	time	of	Jeans	of	the	negative,	self-
+attractive	population,	being	weaker,	structured	itself	first,	leading	the	game.		
+(4)																																											
+Assuming	that	these	negative	masses,	of	negative	mc2	energy,	emit	photons	of	negative	
+energy	that	do	not	produce	any	optical	observation,	it	seemed	possible	that	the	very	
+large	scale	structure	(VLS)	is	organized	around	basically	invisible	conglomerates	of	
+negative	mass.	See	further	the	question	of	the	Great	Repeller.		
+	5	–	First	attempt	at	bimetric	modeling.		
+Nevertheless	the	results	of	the	numerical	simulations	were	encouraging.	To	try	to	
+integrate	the	interaction	laws	(4)	in	a	relativistic	framework	was	an	obvious	fact.	With	a	
+single	field	equation	and	a	single	metric	the	runaway	effect	was	inevitable.	To	avoid	it,	
+the	field	had	to	generate	not	one	family	of	geodesics,	but	two,	the	first	translating	the	
+behaviour	of	negative	masses	and	the	second	that	of	positive	masses.	Two	metrics	
+(−)	appearing	in	
+(−)were	therefore	needed,	i.e.	two	Ricci	tensors	
+the	first	members	of	two	field	equations.		
+In	1994	[15],	a	first	approach	consisted	in	proposing	the	set		
+	(5)																																																		
+(6)																																															
+The	minus	sign,	introduced	in	the	second	equation,	made	it	possible	to	find,	by	
+implementing	 the	 Newtonian	 approximation,	 the	
+interaction	 (4).	 The	
+construction	of	joint	metric	solutions	also	allowed	[14]	to	introduce	a	negative	
+gravitational	lens	effect,	the	two	metrics	associated	with	a	mass	M,	positive	or	negative,	
+becoming:	
+(7)																							
+(8)																							
+
+⎤⎦		
+⎤⎦	
+laws	 of	
+− r 2dθ2 − r 2 sin2θdϕ2		
+− r 2dθ2 − r 2 sin2θdϕ2		
+
+Rµν
+(+) and Rµν
+  
+
+gµν
+(+) and gµν
+  
+
+⎞
+⎠⎟ c2dt 2 −
+
+(−) = − χ T µν
+
+(+) = χ T µν
+
+ds(+)2 = 1−
+
+ds(+)2 = 1+
+
+dr 2
+2G M
+
+Rµν
+(−) −
+  
+
+Rµν
+(+) −
+  
+
+(+) + T µν
+(−)
+
+(+) + T µν
+(−)
+
+R(−) gµν
+
+R(+) gµν
+
+2G M
+
+2G M
+
+1−
+
+1
+2
+
+1
+2
+
+⎛
+⎝⎜
+
+⎡⎣
+
+⎡⎣
+
+r
+
+r
+
+  
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟ c2dt 2 −
+
+r
+
+dr 2
+2G M
+
+r
+
+1+
+
+  
+
+⎡⎣
+
+⎡⎣
+
+1
+2
+
+1
+2
+
+R(−) gµν
+
+R(+) gµν
+
+(+) + T µν
+(−)
+
+Rµν
+(−) −
+  
+
+Rµν
+(+) −
+  
+
+(+) +ϕT µν
+(−)
+
+(+) = χ T µν
+
+(−) = − χ ψT µν
+
+⎤⎦		
+⎤⎦	
+
+	
+12	
+but	the	system	(5)	+	(6)	refused	to	produce	the	asymmetry	that	had	proved	so	fruitful	in	
+the	simulations.	The	solution	was	found	in	2014	[16]	by	giving	the	system	of	equations	
+the	form:		
+(9)																																																		
+(10)																																															
+When	a	FLRW	metric	is	introduced	into	Einstein's	equation,	two	differential	equations	
+are	obtained	which	contain	the	first	and	second	derivatives	of	the	scale	factor	 a.	
+Compatibility	between	these	two	equations	(existence	of	solution)	results	in	energy	
+conservation:	
+(11)																																																																						  ρa3c2 = Cst		
+With	two	equations	we	have	four	equations	that	must	be	compatible.	In	the	case	of	
+equations	(5)	+	(6)	it	is	these	compatibility	conditions	that	lead	to	an	uninteresting	
+trivial	solution	(Dirac	Milne's	model).		But	the	system:		
+(12)																																		
+(13)																														
+in	which	two	FLRW	metrics	are	introduced	then	leads	to	the	following	condition	of	
+compatibility	between	the	two	pairs	of	equations		
+(14)																																														  ρ(+) a(+)3c(+)2 + ρ(−) a(−)3c(−)2 = Cst	
+Which	is	nothing	but	energy	conservation.	It	was	desirable	to	produce	a	Lagrangian	
+derivation	of	these	equations	from	an	action.	We	produced	one	in	2015	[17],	which	
+turned	out	to	be	quite	close	to	that	of	S.	Hossenfelder	[18]	but	hers	seemed	to	be	more	
+solid	and	this	is	why	we	chose	to	link	our	own	work	to	her.	
+The	editorial	board	said	that	in	the	previous	writing	of	the	article	it	was	said,	we	quote:		
+In	what	follows	we	will	show	that	her	work	could	not	lead	to	a	true	cosmological	model	
+and	to	a	set	of	computational	results	that	could	be	successfully	confronted	with	the	
+observations,	because	she	did	not	see	that	these	required	exploring	the	hypothesis	of	a	
+very	asymmetrical	world,	where	densities,	speeds	of	light,	scale	factors	are	radically	
+different.	This	is	the	reason	why	she	could	not	develop	her	essay.		
+
+For example, the text around the discussion of  Hossenfelder’s work is so 
+confused that I cannot tell if the authors are criticizing that work or building 
+off it (or both). 
+
+c(−)2a(−)3
+c(+)2a(+)3 T µν
+
+c(+)2a(+)3
+c(−)2a(−)3 T µν
+
+⎥	
+⎥	
+
+⎡
+(−) = − χ
+⎢
+⎣
+
+(+) = χ T µν
+
+Rµν
+(+) −
+  
+
+Rµν
+(−) −
+  
+
+(+) + T µν
+(−)
+
+R(+) gµν
+
+R(−) gµν
+
+(+) +
+
+1
+2
+
+1
+2
+
+⎡
+⎢
+⎣
+
+⎤
+⎦
+
+⎤
+⎦
+
+(−)
+
+(
+  µ g Rg L
+
+   − g R dxodx1dx2dx3
+)1/4
+
+corresponding	
+
+	
+13	
+Obviously,	it	will	remain	to	justify	why	the	universe,	at	the	end	of	the	Big	Bang,	could	
+have	presented	this	configuration.	This	will	be	the	object	of	a	future	paper	of	which	it	
+will	not	be	reported	here.	
+	6	-	Massive	bigravity.		
+	We	will	begin	by	discussing	the	first	attempt	to	build	a	model	with	several	metrics.		
+	In	2002	T.Damour	and	I.Kogan	[19]	introduce	the	formalim	of	fully	non-linear	bigravity.		
+They	consider	two	branes,	«	right	»	and	«	left	»,	interacting	through	massive	gravitons.	They	
+introduce	Lagrangian	densities	in	the	action	:	the	Ricci	terms	 RRLR − g R	,	 RL − g L,	the	
+terms	corresponding	to	positive	matter	 LR − g Rand	negative	matter	  L(−) − g(−),	are	based	
+	and			
+four-dimensional	 hypervolumes	
+the	
+on	
+   − g L dxodx1dx2dx3.	They	introduce	an	interaction	term	:	
+   − g L dxodx1dx2dx3.	
+)1/4.	The	variational	method	produces	a	
+Based	on	an	«	average	volume	factor	»	
+system	of	two	coupled	field	equations.	In	the	second	members	are	the	tensors	representing	
+the	sources	of	the	two	materials	"right"	and	"left"	as	well	as	the	terms	and	reflecting	the	
+interaction	between	the	two.	The	authors	then	consider	different	models:	branes,	KK,	non-
+commutative	geometry.	This	first	article	is	quickly	followed	by	a	second	[20].	The	scientific	
+community	considers	at	the	time	that	this	essay	should	represent	an	important	contribution	
+since	the	journal	Physical	Review	D	devotes	42	and	56	pages	to	these	two	articles,	while	no	
+data	emerged	that	can	be	compared	with	any	observational	data.			
+	Let's	quote	the	message	that	accompanied	the	first	rejection	of	our	article	by	the	journal:		
+	
+	And	the	second	:		
+	
+		Note	that	articles	[19]	and	[20],	respectively	42	and	56	pages	long,	were	published	in	
+Physical	Review	D,	while	neither	article	reports	any	confrontation	with	observational	data.		
+In	general,	there	is	a	considerable	number	of	articles	published	in	Physical	Review	D,	
+referring	for	example	to	string	theory,	cosmic	strings,	mini	black	holes,	Hawking	radiation,	
+
+We therefore regret to inform you that we stand by our  decision against 
+publication  of  your  paper.     Let  me  mention  that  the  only  check  and 
+comparison with data carried out  in the manuscript is the Hubble diagram 
+of Fig. 2.  For state of the  art cosmology this is the absolute minimum and 
+it is completely  insufficient for the level of today's precision cosmology.    
+
+To  be  publishable  in  Physical  Review  D,  manuscripts  must  contain 
+significant new results in physics, be of high quality and scientific interest, 
+and be recognized as an important contribution to the literature. 
+
+g Rg L
+
+(
+
+  
+
+«	We	 consider	 a	 bi-metric	 theory	 with	 metrics	 g	 and	 h 	of	 Lorentzian	 signature	
+that	define	two	different	ways	of	measuring	angles,	distances	and	volumes	on	a	
+manifold	M		»	.		
+
+«	We	will	further	introduce	two	sorts	of	matter	on	M	:	one	tha	»	moves	according	
+to	the	usual	metric	g	and	the	measures	it	implies,	the	other	that	moves	according	
+to	 the	 other	 metric	 h .	 We	 will	 refer	 to	 these	 fields	 as	 g-fields	 and	 h-fields,	
+respectively.	»		
+
+	
+14	
+monopoles,	axions,	branes,	tachyons,	massive	bigravity,	etc.,	none	of	which	provides	any	
+element	of	comparison	with	observational	data.	
+		7	–	Bimetric	theory	with	exchange	symmetry.		
+	In	2008	[18]	S.	Hossenfelder	published	in	the	journal	PRD	a	theoretical	essay	entitled	"A	
+bimetric	theory	with	exchange	symmetry".	As	she	says	in	her	section	I,	we	quote:		
+	
+	
+These	are	the	same	metrics	that,	in	our	own	work,	we	call	   g(+) and g(−).	For	the	sake	
+of	homogeneity	we	will	keep	the	notations	of	his	paper.		
+	
+Still	in	this	section	I,	she	writes	:	
+		
+	Using	its	"pull	over"	technique,	she	defines	an	action	that	corresponds	to	equation	(32)	in	
+her	section	IV:			
+	
+	
+
+	
+-	  
+(g ) R and (h)R	are	Ricci's	scalars	associated	with	its	metrics	g	and	 h.		
+	-	 g and hbeing	the	determinants	of	both	metrics,	  d 4x − g and d 4x − h 	are	
+the	corresponding	4-volumes.		
+	-	 Ψ	is	the	g-field	and	 Φ	the	h-fields	
+	
+It	then	performs	a	"bi-variation".	It	is	then	necessary	to	introduce	a	coupling	relation,	which	
+it	does	with	equation	(27)	in	section	III	
+	
+		This	is	the	covariant	version	of	the	coupling	relationship	that	we	used	in	our	article	[17],	in	
+a	work	subsequent	to	her.	Hence	the	obvious	kinship	between	the	two	systems	of	coupled	
+field	equations.	Her	corresponds	to	equations	(34)	and	(35)	in	section	IV	of	her	article,	and	
+is	written	as	follows:		
+	
+
+x −h (( h) R / 8πG + L (Φ)) + −g Pg(L(Ψ)) (32)
+
+x −g ((g ) R / 8πG + L (Ψ)) + −h Ph(L(Φ))
+
+(27)	
+
+  δhκλ = − a−1
+
+S = d 4∫
+
+νδgµν
+⎤⎦ λ
+
+µ a−1
+⎤⎦κ
+⎡⎣
+
++ d 4∫
+
+⎡⎣
+
+  
+
+	
+
+	
+
+15	
+
+(g ) Rκν −
+
+gκν
+
+1
+2
+
+(g )R = Tκν − V h
+g
+
+aν
+ν aκ
+
+κT κν
+
+(34)
+
+	
+
+		
+
+	
+
+	
+
+a2
+
+1
+2
+
+(35)
+
+(38)
+
+hνκ
+
+νTνκ
+
+aκ
+κ aν
+
+1− kr
+
+ds2 = − dt 2 +
+
+( dr 2 + dΩ2 )
+
+(h) Rνκ −
+  
+
+( h)R = T νκ − W g
+h
+
+«	In	this	formulation		the	introduced	map	a	is	a	convenience	and	not	a	dynamic	field	».		
+
+	In	section	V	and	in	her	appendix	B,	she	specifies	the	interaction	laws	that	follow	from	the	
+model.	They	correspond	our	hypothesis	(4).	She	notes,	as	we	do,	that	this	solves	the	
+runaway	paradox.	We	find	in	section	V	of	her	paper	the	pair	of	Schwarzschild's	solutions	(7)	
+and	(8)	and	the	negative	lensing	that	results	from	them.		
+	
+In	this	system	  V and Ware	positive	constants,	see	at	the	end	of	his	section	 IV.	The	
+properties	of	element	a	are	specified	in	section	I	:		
+	
+- 
+	
+She	calls	a	and	b	the	scale	factors	present	in	its	FLRW	metrics	(38)	and	(39)	of	its	section	VI:		
+	
+		It	chooses	to	take	the	same	value	c	=	1	of	the	speed	of	light	for	the	populations	g	and	 h.		She	
+also	gives	Einstein's	constant	the	unit	value	and	assumes	from	the	outset	that	the	two	
+curvature	indices	are	the	same.		
+	As	  g = a3 and h = b3we	find	the	cube	ratios	of	the	scale	factors	of	our	equations	(12)	and	
+(13).	When	searching	for	a	FLRW	solution	we	use	the	mixed	versions	of	the	system	of	
+equations.	Ours	becomes	
+	
+(15)																																		
+(16)																														
+	Her	system	is	:		
+			
+
+c(−)2a(−)3
+c(+)2a(+)3 T µν
+
+c(+)2a(+)3
+c(−)2a(−)3 T µν
+
+ds2 = − dt 2 +
+  
+
+⎥	
+⎥	
+
+⎡
+(−) = − χ
+⎢
+⎣
+
+(+) = χ T µν
+
+( dr 2 + dΩ2 )
+
+Rµν
+(+) −
+  
+
+Rµν
+(−) −
+  
+
+(+) + T µν
+(−)
+
+R(+) gµν
+
+R(−) gµν
+
+1− kr
+
+(+) +
+
+(39)
+
+1
+2
+
+1
+2
+
+⎡
+⎢
+⎣
+
+⎤
+⎦
+
+⎤
+⎦
+
+b2
+
+(−)
+
+16	
+
+	
+(17)	
+	(18)	
+	The	introduction	of	FLRW	metrics	in	its	system	of	coupled	field	equations	leads	to	two	pairs	
+of	equations.	She	gives	only	one	pair.	These	are	equations	(42)	and	(43)	where	we	have	
+restored	her	typing	error	by	inverting	the	terms	  V and W	
+	
+
+κ − W g
+h
+
+ν − V h
+g
+
+ν	
+κ	
+
+ν (g )R = T κ
+δκ
+
+κ (h)R = T ν
+δν
+
+(g ) Rκ
+  
+
+(h) Rν
+  
+
+aκ
+κ aν
+
+aν
+ν aκ
+
+κT κ
+
+νT ν
+
+κ −
+
+ν −
+
+1
+2
+
+1
+2
+
+2
+
+⎛
+⎝⎜
+
+!a
+a
+
+⎞
+⎠⎟
+
+= ρ − V b
+⎛
+⎝⎜
+a
+
+⎞
+⎠⎟
+
+3
+
+ρ −
+
+k
+a2
+
+(42)
+
+	
+
+3
+
+2
+
+⎞
+⎠⎟
+
+⎞
+⎠⎟
+
+!b
+b
+
+⎛
+⎝⎜
+   
+
+(43)
+
+k
+b2
+
+ρ −
+
+= ρ − W a
+⎛
+⎝⎜
+b
+
+	The	other	two	equations	and	the	associated	compatibility	equations	are	not	present.	It	
+should	be	remembered,	as	can	be	seen	in	the	content	of	his	conclusions	in	section	VII,	that	
+the	author's	aim	was	not	to	create	a	new	cosmological	model	but	to	try	to	model	the	source	
+of	the	cosmological	constant	Λ	through	fluctuations	related	to	this	bimetric	situation.	In	
+section	 III	of	the	paper	the	author	examines	different	configurations.	In	the	approach	
+followed,	the	density	 ρ> 0is	positive,	which	has	been	imposed	in	such	a	way	that	evolution	
+equations	(42)	and	(43)	lead	to	similar	evolutions.	It	is	only	by	making	a	peculiar	choice	of	
+signs	in	the	action	that	the	author	manages,	with	positive	masses	to	make	them	repel	each	
+other,	we	quote,	at	the	end	of	her	section	III	:		
+		
+-  Thus,	because	of	the	presence	of	negative	gravitational	masses	…	
+	
+A	little	further	on,	in	section	VII	we	find	the	sentence	
+	
+	
+ V and Wbeing	positive	constants,	which	she	erroneously	considers	as	free	parameters,	the	
+choice	  V = W = 1effectively	leads	to	a	trivial	model	where	cosmic	evolution	is	unchanged	
+and	results	in	a	Friedmann	model,	according	to	the	choice	of	 k,	with	strictly	parallel	
+evolutions	of	the	two	populations	
+		8	–	Confusing	 conclusions	 and	 a	 lack	 of	 elements	 that	 could	 be	 compared	 with	 the	
+observations	in	the	2008	article	of	S.Hossenfelder.	
+Using	the	phrase	from	the	editorial	board	:	
+
+-	 «	We	 will	 assume	 that	 the	 field	 content	 for	 both,	 the	 g-fields	 and	 the	 h-fields,	 is	
+identical	such	that	we	have	e.g.	two	copies	of	the	Standard	Model	».			
+
+confused that I cannot tell if the authors are criticizing that work or building 
+off it (or both). 
+
+-	«	In	the	previous	section	we	have	studied	the	extension	of	GR	in	whose	framework	
+sources	 with	 negative	 energy	 appears	 in	 the	 equations	».These	 additional	 h-fields	
+interact	only	with	our	standard	matter,	and	thus	couple	only	extremely	weakly.	»		
+
+	
+17	
+	For example, the text around the discussion of  Hossenfelder’s work is so 
+Our	answer	is	that	the	Lagrangian	derivation	operated	by	Sabine	Hossenfelder	is	
+mathematically	exact,	so	that	this	construction	of	coupled	field	equations	can	be	retained	as	
+a	method	of	constructing	a	bimetric	system.	On	the	other	hand,	her	article	ends	in	confusion.	
+We	will	quote	excerpts	from	part	VII	of	his	article.	
+	
+	The	proposal	is	perfectly	clear.	It	envisages	the	introduction	of	a	negative	energy	content
+  E = m c 2 < 0,	thus	corresponding	to	elements	  m < 0,	therefore	of	negative	mass.	It	would	
+therefore	have	been	logical	to	introduce	an	equally	negative	mass	density	ρ.	At	this	stage	
+one	is	looking	at	how	these	masses m and minteract.	While	this	is	a	major	element	of	the	
+approach	this	is	not	immediately	and	clear	(which	can	be	done	immediately	thanks	to	the	
+Newtonian	limt).	These	answers	have	to	be	found	in	the	text.	In	section	V	we	read	:	
+	
+-	«	Since	 h	is	just	a	Schwarzscild	metric	with	negative	(…)	source	one	see	e.g.	by	
+taking	the	Newtonian	limit	thet	a	h-particle	will	be	repelled	by	the	g-source.	»		
+	In	section	VIII	we	find:		
+	
+	Translation	:	a	masse	m	repels	a	mass	 m	.		
+	As	confirmation,	the	author	writes	in	section	V:		
+	
+	So	there	is	mutual	repulsion	of	these	masses	 m and m,	even	though	the	mass	densities	
+ ρand ρ	are	both	positive	(...).		
+	But	while	S.Hossenfelder	is	an	excellent	mathematician,	she	seems	less	comfortable	with	
+physics	questions.	She	thinks	she	can	simplify	calculations	by	taking	all	constants	equal	to	
+unity,	and	does	the	same	for	Einstein's	constant	 χ.	However,	the	Einstein	constant	is	
+fundamentally	negative.	In	this	logic	she	should	have	given	it	the	value	-	1.		It	is	this	choice	
+that	dictates	her	choice	of	signs	in	her	field	equations,	a	source	of	confusion.		
+	
+The	fact	of	invoking	the	weakness	of	gravitational	interaction	would	only	make	sense	if	this	
+force	was	compared	to	another	force,	essentially	the	electromagnetic	interaction	force	1039	
+times	greater.	The	latter	is	absent	in	cosmological	models	where	the	cosmic	scenario,	
+involving	isotropy	and	homogeneity,	includes	the	fundamental	assumption	of	the	electrical	
+neutrality	of	the	universe,	otherwise	the	smallest	charge	would	lead	to	a	very	violent	
+
+-	«	We	further	investigated	the	spherical	symmetric	example	with	the	source	of	usual	
+matter,	and	we	found	that	the	newly	introduced	particles	would	be	repelled	by	this	
+source	».		
+
+-	«	Since	both	kinds	of	matter	repel,	one	would	expect	the	amount	of	the	h-matter	in	
+our	vicibity	to	presently	be	very	small	».		
+
+-	 «	We	 will	 assume	 that	 the	 field	 content	 for	 both,	 the	 g-field	 and	 the	 h-field,	 is	
+identical	such	that	we	wave	e.g.	two	copies	of	the	Standard	Model	».		
+
+	-	«	The	model	we	laid	out	is	purely	classical.	Nevertheless	it	is	worthwhile	to	consider	
+the	vacuum	expectation	value	of	the	stress-energy	tensor	for	quantum	fields	that	are	
+coupled	to	the	classical	background.	»	
+
+	
+18	
+expansion.	In	this	sentence	S.	Hossenfelder	means	that	the	existence	of	this	entity	of	
+negative	mass	would	couple	weakly	with	positive	mass,	whereas	the	interactions	  m / m	are	
+of	the	same	order	of	magnitude	as	the	interactions	  m / m.			
+	Further	on:		
+	
+	She	therefore	considers	her	trial	as	a	simple	modification	of	the	standard	model.	Thus	the	
+phenomenon	represented	by	this	"weak"	coupling	of	the	h-field	with	the	g-field,	would	be	at	
+the	origin	of	this	negative	energy	of	the	vacuum,	translated	by	the	presence	of	the	
+cosmological	constant	in	Einstein's	equation.	Consequently	she	writes		:		
+	
+	It	is	then	easier	to	understand	why	she	chooses	to	pose	 ρ> 0	,	which	gives	it	identical	
+evolutionary	equations	(42)	and	(43),	when	she	considers	a	mixture	of	two	similar	entities.	
+The	world	of	negative	masses	represents	for	her	a	kind	of	ghostly	entity	which	by	its	
+contribution	to	the	gravitational	field	would	not	bring	in	itself	a	perturbance	sensitive	to	
+cosmic	dynamics	("two	copies	of	the	Standard	Model")	but	would	reveal	its	presence	
+through	fluctuations	which	would	then	be	the	source	of	the	effect	attributed	to	vacuum	
+energy,	to	the	cosmological	constant.	The	author	then	focuses	her	interest	on	the	regions	of	
+the	universe	that	are	free	of	matter,	on	its	"empty"	regions,	and	she	writes	:	
+	
+	The	reasoning	here	becomes	contradictory.	The	model	no	longer	corresponds	to	"two	copies	
+of	the	standard	model".	Field	equations	with	null	second	members	lead	to	the	Dirac-Milne	
+model	with	linear	expansion	as	a	function	of	time.	These	hypothetical	middle	fluctuations	
+are	not	described.	One	simply	reads:		
+	
+	It	is	therefore	not	known	how	an	instability	of	this	vacuum,	presented	as	a	mixture	of	two	
+types	of	matter	with	identical	densities,	could	generate	a	field	corresponding	to	a	negative	
+energy	density,	two	orders	of	magnitude	greater	than	the	gravitational	field	associated	with	
+ordinary	matter,	causing	the	acceleration	of	the	expansion	translated	by	the	observations	of	
+high-redshift	supernovae.			
+	
+She	writes:		
+	
+
+-	«	If	we	consider	the	vacuum	solution	in	the	model	with	exchange	symmetry	however,	
+we	 expect	 a	 symmetry	 between	 both	 metrics.	 In	 the	 case	 with	 maximal	 number	 of	
+space-time	 symmetries,	 both	 would	 just	 be	 the	 Minkowski	 metric.	 We	 then	 have	
+  h / g = 1	and	the	pull	over	are	just	identity.	Since	the	matter	content	of	both	types	of	
+fields	is	identical	(…),	this	means	that	the	source	terms	in	equations	(34)		and	(35)	
+cancel	identically,	,no	matter	how	large	their	values	are.	»		
+
+-	«	Wether	or	not	this	solution	is	stable	or	would	run	away	is	the	constants	did	not	
+exactly	cancel	requires	further	investigation.	»		
+
+	
+
+19	
+
+-	«	Then	the	relative	density	fluctuations	could	be	larger	».	
+
+«	Since	 we	 now	 have	 only	 gravitationnally	 interacting	 density	 contribution	 that	 is	
+negative,	and	one	further	would	hope	for	symmetry	reason	that	both	densities	are	of	
+the	same	order	of	magnitude	(…)	the	total	gravitating	density	can	be	smaller	than	the	
+observed	one.	Then	the	relative	density	fluctuations	can	be	smaller	than	the	observed	
+one	».	
+
+	Indeed,	how	can	one	hope	to	create	a	field	one	hundred	times	more	intense	than	the	field	
+due	to	ordinary	matter	from	fluctuations	appearing	in	an	environment	where,	locally,	the	
+density	of	the	second	matter	is	of	the	same	order	of	magnitude?		
+	
+And	she	concludes:	
+	
+	
+Very	intense	fluctuations,	produced	by	what	mechanism?	
+	And	we	read:		
+	
+	Of	course,	since	in	the	model	ΛCDM	with	which	she	tries	to	stick,	the	confinement	of	galaxies,	
+the	flatness	of	their	rotation	curves	is	interpreted	by	the	presence	of	a	halo	of	dark	matter.		
+	
+To	conclude,	Sabine	Hossenfelder	sees	in	the	negative	gravitational	lens	effect	associated	
+with	the	Schwarzschild	Solutions	joined	together,	evoked	in	section	III,	the	only	possibility	
+of	putting	hypothetical	fluctuations	signalling,	in	vacuum,	regions	constituting	localized	
+sources	of	negative	energy.	She	writes:		
+	
+
+-	«	Besides	this,	both	components	of	matter	repel	each	other	which	is	an	effect	usually	
+not	present	».		
+
+-	 «	Another	 feature	 of	 the	 scenario	 becomes	 clear	 from	 the	 previously	 discussed	
+example	 of	 the	 Schwarzschild	 metric.	 If	 there	 was	 a	 localized	 source	 of	 negative	
+energy,	it	would	act	as	a	gravitational	lens-but	unlike	usual	matter	this	would	be	a	
+diverging	lens	since	it	would	repel	our	(usual)	photons.	Such	a	lensing	event	would	
+typically	 lower	 the	 luminosity	 of	 the	 source,	 an	 effect	 that	 could	 potentially	 add	 up	
+over	 distance	 if	 the	 contribution	 of	 such	 sources	 is	 substantial.	 The	 detection	 of	
+diffractive	 lensing	 event	 could	 serve	 as	 a	 smoking	 gun	 for	 the	 here	 proposed	
+scenario	?	».	
+
+	S.	Hossenfelder	rediscovers	here	the	effect	that	we	had	already	described	in	1995	[14].		
+	
+In	conclusion,	as	a	good	mathematician,	well	versed	in	the	techniques	of	differential	
+geometry	and	the	calculation	of	variations,	she	gave	in	2008	a	coherent	and	solid	
+mathematical	foundation	to	a	model	of	which	we	had	only	been	providing	since	1994	in	its	
+infancy,	essentially	supported	by	numerical	simulations,	more	than	ten	years	earlier.	But,	
+like	Pyrrhus,	she	has	not	been	able	to	exploit	the	physical	implications	of	her	work,	allowing	
+a	confrontation	with	observations.	
+						
+
+	
+
+⎤
+⎥
+⎥
+⎦
+
+⎡
+⎢
+⎢
+⎣
+
+1
+2
+
+1
+2
+
+gκν
+
+hνκ
+
+aν
+ν aκ
+
+κT κν
+
+(h) Rνκ −
+  
+
+(g ) Rκν −
+  
+
+(g )R + Λ gκν = χ Tκν + V h
+g
+
+( h)R + Λ hνκ = − χ T νκ + W g
+h
+
+	
+20	
+9	–	Adaptation	of	the	system	of	coupled	field	equations.		
+	We	are	going	to	adapt	her	own	model,	by	modifying	the	signs,	that	is	to	say	by	considering	
+that	the	density		 ρ< 0	and	the	pressure	  p < 0	are	this	time	negative.	We	assume	a	priori	
+that	the	speeds	of	light c and c		as	well	as	the	curvature	indices	 k and k	may	be	different.	
+We	will	make	the	cosmological	constant	reappear	(half	present	in	the	expression	of	the	
+action	through	the	factor	  8πG,	which	then	disappears).		There	is	no	reason	why	Einstein's	
+constants	 χand χ	in	the	equations	should	be	a	priori	identical.	Under	these	conditions	we	
+will	write	the	FLRW	metrics	(in	a	more	classical	form).	Following	the	same	mathematical	
+path	but	modifying	the	signs,	the	system	of	the	two	coupled	field	equations	is	written	as	
+follows:	
+	(19)																																
+	(20)																														
+	As	far	as	Schwarzschild's	external	solutions	are	concerned,	nothing	has	changed.	But	the	
+"second	masses"	are	negative,	as	well	as	density	and	pressure	  ( m < 0 , p < 0 , ρ< 0 ).	To	
+consider	the	evolution	of	this	system	of	two	interacting	materials,	we	will	write	the	FLRW	
+metrics,	allowing	the	system	to	have	two	speeds	of	light.	One	speed	c	for	(ordinary	photons)	
+of	positive	energy	and	one	speed	 c	for	photons	of	negative	energy,	travelling	according	to	
+the	geodetic	null	of	the	metric	h.	
+	(19)																																											
+	(20)																																											
+	So	we	have	a	single	manifold	 M	equipped	with	two	metrics	 g	and	 h	.	The	cosmic	history	
+resulting	from	the	introduction	of	these	metrics	in	the	field	equations	will	be	translated	by	
+the	functions	giving	the	evolution	of	the	scale	factors	  a(t) and b(t).	We	write	the	system	of	
+field	equations	in	mixed	form:	
+	(21)	
+	(22)	
+
+dr 2
+1− kr 2 + dθ2 + sin2θdϕ2
+
+dr 2
+1− kr 2 + dθ2 + sin2θdϕ2
+
+ds 2 = − c2dt 2+ b2
+  
+
+ds2 = − c2dt 2+ a2
+  
+
+⎥	
+⎥	
+
+ν (g )R = χ T κ
+δκ
+
+ν + V h
+g
+
+(g ) Rκ
+  
+
+aκ
+κ aν
+
+aν
+ν aκ
+
+νTνκ
+
+κT κ
+
+ν −
+
+1
+2
+
+⎡
+⎢
+⎢
+⎣
+
+⎤
+⎥
+⎥
+⎦
+
+⎡
+⎢
+⎢
+⎣
+
+⎤
+⎥
+⎥
+⎦
+
+	
+
+⎡
+⎢
+⎣
+
+⎤
+⎦
+
+⎤
+⎦
+
+⎡
+⎢
+⎣
+
+	
+
+ν
+
+1
+2
+
+κ −
+
+(h) Rν
+  
+
+κ (h)R = − χ T ν
+δν
+
+κ + W g
+h
+
+aκ
+κ aν
+
+νT ν
+
+κ
+
+⎡
+⎢
+⎢
+⎣
+
+	
+
+⎤
+⎥
+⎥
+⎦
+
+	
+
+!!a =
+
+!b =
+
+!!b =
+
+d 2b
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+da
+dt
+
+db
+dt
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟⎟
+⎠
+
+T µ
+ν =
+
+T µ
+ν =
+
+a =
+   
+
+d 2a
+dt 2
+
+0
+− p
+0
+0
+
+0
+0
+− p
+0
+
+0
+0
+0
+− p
+
+21	
+
+0
+0
+− p
+0
+
+0
+− p
+0
+0
+
+0
+0
+0
+− p
+
+ρc2
+0
+0
+0
+
+ρc 2
+0
+0
+0
+
+	
+	The	source	tensors	of	the	field	are	given	the	form:		
+	
+(23)
+	By	introducing	these	metrics	into	the	equations	we	obtain	two	pairs	of	differential	equations,	
+													  
+the	first	pair	containing	the	first	and	second	derivatives	of	the	corresponding	scale	factor	a	
+and	the	second	pair	containing	the	first	and	second	derivatives	of	the	second	scale	factor	b.		
+	(24)																																							
+	We	get	the	equations:		
+	(25)																																				
+	(26)																						
+	(27)																																				
+	(28)																																
+	
+	One	cannot,	as	Hossenfelder	does,	consider	only	equations	(25)	and	(27)	and	deduce	from	
+them	 evolutionary	 equations	 by	 treating	 the	 parameters	  V and W 	as	
+independent	
+quantities.	They	are	not.	The	imperative	of	the	existence	of	a	solution	must	be	assured.	Their	
+values	are	determined	by	the	compatibility	relations	that	link	equations	(25),	(26),	(27),	
+(28).	The	detailed	calculation	is	given	in	Annex	I.	It	is	modelled	on	the	classical	calculation	of	
+the	FLRW	solution	of	Einstein's	equation,	which	results	in	an	energy	conservation	
+relationship	of	
+		(29)																																																																	  ρc2 R3(1+ α
+which	gives	  ρc2 R3 = Cst	for	the	universe	of	dust	and	  ρr c2 R 4 = Cst	for	the	universe	of	
+radiation.	Here	we	get	something	similar	(the	detail	of	the	calculation	is	given	in	Appendix	I).	
+		Equations	(25)	and	(26)	then	give	:	
+	
+
+dt 2		
+c2a2		
+c 2b2		
+
+χ ρc 2 + W a3
+⎡
+⎢
+⎣
+   
+χ ρc 2 + W a3
+⎡
+⎢
+⎣
+   
+
+b3 ρc2 + p + W a3
+b3 p
+
+−χ ρc2 + V b3
+   
+
+−χ ρc2 + V b3
+   
+
+a3 ρc 2 + p + V b3
+a3 p
+
+) = Cst		
+
+⎤
+⎥ = − Λ +
+⎦
+
+⎤
+⎥ = − Λ +
+⎦
+
+⎤
+⎥ = Λ −
+⎦
+
+⎤
+⎥ = Λ −
+⎦
+
+a2 − !a2
+
+!b2
+c 2b2 −
+
+c2a2 −
+
+a3 ρc 2
+
+k
+b2 −
+
+b3 ρc2
+
+3k
+b2 +
+
+3k
+a2 +
+
+2 !!b
+c 2b
+
+2 !!a
+c2a
+
+3 !a2
+
+3 !b2
+
+⎡
+⎢
+⎣
+
+⎡
+⎢
+⎣
+
+	
+
+k
+
+3
+
+  
+
+  
+
+d
+
+d
+
+⎡⎣
+
++
+
++
+
+⎤
+⎥
+⎦
+
+⎡
+⎢
+⎣
+
+⎡
+⎢
+⎣
+
+⎡
+⎢
+⎣
+
+⎡
+⎢
+⎣
+
+⎤
+⎥
+⎦
+
+da
+
+db
+
+3
+b
+
+3
+a
+
+⎤⎦ =
+
+d
+dt
+
+22	
+
+ρc2 + V b3
+
+ρc 2 + W a3
+
+Wρc2a3 + ρc 2b3
+
+dt ρc2 + V b3
+
+dt ρc 2 + W a3
+
+dt = 0	
+
+d
+dt ρc2a3 + V ρc 2b3
+⎡⎣
+  
+
+⎤
+a3 ρc 2
+⎥
+⎦
+a3 ρc 2 + p + V b3
+a3 p
+
+⎤
+b3 ρc2
+⎥
+⎦
+b3 ρc2 + p + W a3
+b3 p
+
+	
+(30)																																						
+	And	equations	(27)	and	(28):		
+	
+(31)																																					
+dt = 0	
+	There	are	two	possible	scenarios.	If	we	are	in	a	universe	of	dust:		
+	(32)																									
+⎤⎦ = 0	
+		Which	gives	a	generalized	law	of	energy	conservation	with	
+	(33)																																																															  V = W = 1		
+		(34)																																																	  ρc2a3 + ρc 2b3 = E = Cst	
+		In	the	case	of	a	universe	made	up	of	radiations	the	compatibility	leads,	with:		
+	(35)																																																									
+		
+	to	the	generalized	conservation	of	energy,	in	this	form:		
+	(36)																																												  ρc2a4 + ρc 2b4 = E = Cst	
+	If	one	opts	for	this	modeling	it	would	then	be	necessary	to	rewrite	the	system	of	field	
+equations:		
+	(37)																									
+	
+	
+(39)																							
+	
+ α= 0corresponding	to	the	matter	dominated	era	and α= 1	to	the	radiation	dominated	era.		
+	
+
+(g ) Rκν −
+  
+(h) Rνκ −
+  
+
+( h)R + Λ hνκ = − χ T νκ + (1+α
+
+(g )R + Λ gκν = χ Tκν + (1+α
+
+⎤
+⎥
+⎥
+⎦
+⎤
+⎥
+⎥
+⎦
+
+V =
+  
+
+b
+a =
+
+κT κν
+
+aκ
+κ aν
+
+aν
+ν aκ
+
+νTνκ
+
+1
+W
+
+hνκ
+
+gκν
+
+g
+h
+
+g
+h
+
+h
+g
+
+h
+g
+
+1
+2
+
+1
+2
+
+⎡
+⎢
+⎢
+⎣
+
+⎡
+⎢
+⎢
+⎣
+
+)
+
+)
+
+3
+
+3
+
+	
+
+	
+
+E
+a
+
+E
+b
+
+		
+
+		
+
+8πG
+
+− k +
+
+− k +
+
+χ= −
+  
+
+8πG
+3c4
+
+8πG
+3c 4
+
+8πG
+c4
+
+8πG
+c 4
+
+!a = c
+   
+
+χ= −
+  
+
+!b = c
+   
+
+23	
+
+!!a
+a = −
+   
+
+3c2 E		
+3c 2 E	
+
+	
+We	can	show,	just	as	we	have	that:		
+(40)																																																																		
+that	we	get	:		
+(41)																																																																
+	By	taking	a	cosmological	constant	null	in	the	the	equations,	for	the	universe	of	dust	it	comes:		
+	(42)																																																											
+	(43)																																																									
+	(44)																																																													
+	(45)																																																											
+	As	the	measurements	referring	to	our	matter	dominated	era	show	an	acceleration,	we	
+deduce	that	the	global	energy	 E	is	negative.	Negative	mass	dominates.		This	confirms	the	
+hypothesis	that	had	prevailed	to	lead	to	interesting	numerical	simulations.	Equation	(42)	
+imposes	that	the	index	of	curvature	k	is	-1.	As	a	consequence,	all	the	negative	masses	are	in	a	
+state	of	deceleration.	These	equations	are	therefore	written:		
+	(46)																																																												
+3c2 E	
+	(47)																																																												
+3c 2 E	
+				10	–	A	universe	dominated	by	negative	mass.	
+	We	can	then	write	equation	(46)	according	as:		
+	(48)																																																								
+	The	exact	solution	of	such	an	equation	has	been	given	by	William	Bonnor	[11].	Only	the	
+part	of	the	solution	corresponding	to	the	matter	dominated	era	can	be	considered.		By	
+pushing	this	solution	to	the	origin	of	time,	the	zero	value	of	the	chronological	variable,	
+
+8πG
+c2 Eo ao
+
+a2 d 2a
+dt 2 =
+  
+
+d 2a
+dt 2 = −
+
+d 2b
+dt 2 =
+
+!!b
+b =
+   
+
+3	
+
+8πG
+
+8πG
+
+8πG
+
+1
+a
+  
+
+1
+b
+  
+
+	
+24	
+the	mathematical	solution	gives	a	non-zero	scale	factor	a	value.	The	model	accounts	for	
+the	acceleration	of	the	expansion.	([3],[4],[5]).	The	mainstream	ΛCDM	model	predicts	an	
+exponential	expansion	related	to	the	fact	that	the	energy-matter	equivalent	of	the	
+cosmological	constant	remains	unchanged	when	the	universe	expands.	Conversely,	the	
+density	of	negative	mass	decreases	and	equation	(46)	assigns	an	asymptote	to	this	
+expansion.		
+	
+The	comparison	of	the	predictions	of	this	model	with	the	data	of	700	type	Ia	supernovae	
+proved	to	be	excellent	[21]	.	
+	
+
+	
+
+	
+Fig.1	:	Comparison	to	observational	data	from	700	1a-supernovae	[21]	
+		The	interest	of	this	approach	is	that	it	unifies	the	two	invisible	components	of	the	
+universe	into	a	single	entity,	a	negative	mass,	which	now	fulfills	the	functions	performed	
+by	dark	matter	and	dark	energy.	
+		11	–	Radiative	era.	
+The	compatibility	condition	of	the	four	equations	gives	
+	.	Assuming	that	the	
+system	is	always	dominated	by	the	negative	energy	content	we	would	always	have	a	
+positive	acceleration:		
+
+V = 1
+  
+
+W =
+
+b
+a
+
+4		
+
+a3a =
+  
+
+8πG
+3c4 Eo ao
+
+	
+25	
+	(49)																																																															
+	But	as	it	stands,	this	model	does	not	provide	the	reason	why	such	a	dissymmetry	exists	
+between	the	two	entities.	In	a	next	article	we	will	show	how	this	asymmetry	manifests	
+itself,	starting	from	a	totally	symmetrical	situation,	through	another	description	of	the	
+radiative	eras	of	the	two	populations.	This	approach	will	explain	in	passing	the	
+remarkable	homogeneity	of	the	early	universe	and	will	provide	an	alternative	
+interpretation	of	the	fluctuations	of	the	CMB.	
+Let	us	now	examine	what	can	emerge	from	the	model,	as	it	stands,	in	the	matter	
+dominated	era	phase.	
+	12	–	With	respect	to	local	relativistic	observational	data.		
+The	agreement	is	immediate.	As	noted	by	S.	Hossenfelder	in	section	IV	of	his	article:		
+So	the	system	becomes:		
+(50)																																			
+(51)																																	
+The	first	equation	is	simply	that	of	the	classical	GR.	So	all	local	verifications	like	the	
+explanation	of	the	advance	of	Mercury's	perihelion	and	the	deviation	of	light	rays	by	the	
+Sun	also	derive	from	the	model.	
+	12	–	Galaxy	modeling.		
+It	has	been	possible	to	build	a	model	of	a	galaxy	with	spherical	symmetry	surrounded	by	
+negative	mass,	the	latter	having	a	confining	effect	on	it.	Self-gravitating	stellar	systems	
+had	already	been	modeled	in	1942	by	S.Chandrasekhar	[22]	using	a	solution	of	the	
+Maxwell-Botzmann	type	of	the	Vlasov	equation,	coupled	with	the	Poisson	equation.	The	
+stars	in	galaxies	form	non-collision	sets.The	Bolzmann	equation	is	written	as	follows:		
+(52)																																																						
+Ψ	being	the	gravitational	potential	and	 ρ	the	mass	density,	Poisson's	equation	is		
+	(53)																																																														  Δ Ψ = 4πGρ		
+
+«	Since	both	kinds	of	matter	repel,	one	would	expect	the	amount	of	h-matter	
+in	our	vivinity	to	presently	be		very	small	».		
+
+(g )R + Λ gκν = χTκν	
+
+1
+(g ) Rκν −
+2
+  
+1
+(h) Rνκ −
+2
+  
+
+∇vf = 0		
+
+( h)R + Λ hνκ = − χ
+
+νTνκ	
+
+∂f
+∂t + !v .
+   
+
+!
+∇rf −
+
+!
+∇rΨ.
+
+aκ
+κ aν
+
+hνκ
+
+gκν
+
+g
+h
+
+!
+
+!
+
+!
+
+!
+Vo .
+
+∇r		
+
+D ≡ ∂
+∂t +
+   
+
+	
+26	
+!vo = < !v >		being	the	mean	velocity,	residual	velocity	(term	used	by	astrophysicists,	
+		   
+while	fluid	mechanics	will	speak	of	thermal	agitation	velocity)	is   
+V = !v − !vo	.	We	define	
+an	operator			
+	(54)																																																												
+We	can	then	consider	two	Vlasov	equations,	written	in	terms	of	residual	velocities,	
+coupled	by	the	Poisson	equation.	These	equations	are	written:		
+	(55)																														
+∇!vo = 0	
+(56)																														
+∇!vo = 0	
+The	terms	   
+∇!vo	are	the	dyadic	matrices	[23]	formed	from	the	different	vectors	
+and	gradients.	The	term	   
+∇!vo	represents	the	scalar	product	of	two	dyads	defined	
+i.	The	logarithm	of	Maxwell	Boltzmann's	
+([23]	page	16	eq.	1.31.4)	by	
+distribution	function	f	is	a	spherical	polynomial	as	a	function	of	the	components	(U,V,W)	
+of	the	residual	velocity.	Elliptic	solutions	have	been	developed,	where	the	Maxwell	
+Botzmann	function	is	only	a	special	case,	where	 Logf	is	then	a	polynomial	of	degree	2	
+as	a	function	of	these	components.	We	know	that	the	distribution	of	stellar	residual	
+velocities	around	the	sun	is	not	isotropic	but	corresponds	to	an	ellipsoid	of	velocities	
+where	one	of	the	axes	is	roughly	double	the	other	two.	A	model	of	a	spheroidal	galaxy	
+(or	globular	cluster)	corresponding	to	the	drawing	below	has	been	constructed:	
+		
+
+!
+!
+!
+) −
+(
+∇rΨ + D !vo
+∇vf .
+∇v
+!
+!
+!
+(
+) −
+∇rΨ + D !vo
+∇vf .
+∇v
+
+   Df +
+   D f +
+!
+
+!
+∇rf −
+!
+∇rf −
+
+A :B = Ai
+  
+
+!
+V and
+
+!
+V :
+
+!
+V :
+
+!
+V :
+
+!
+V .
+
+!
+V .
+
+!
+∇v
+
+!
+∇v
+
+j Bj
+
+!
+
+!
+
+!
+
+Fig.2	:	Ellipsoid	of	velocities	in	spherical	symmetry.		
+
+		In	spherical	symmetry	the	two	transverse	axes	of	the	ellipsoid	of	the	velocities,	which	
+are	equal,	differ	from	the	axis	pointing	towards	the	center	of	the	galaxy.	For	an	
+axisymmetric	system	the	two	transverse	axes	differ,	which	has	been	developed	in	
+
+	
+
+	
+27	
+reference	[24].	In	the	configuration	of	figure	2	the	shape	of	the	velocity	distribution	
+function	corresponds	to:		
+	(57)																																										
+	For	the	negative	mass	environment	a	Maxwellian	velocity	distribution	is	used:		
+	(58)																																													
+	By	introducing	these	functions	into	the	two	Vlasov	equations	(55)	and	(56),	in	stationary	
+regime,	and	coupling	with	the	Poisson	equation.	The	calculation	is	facilitated	by	the	use	
+of	dyadic	algebra	[23].	We	obtain	exact	solutions	that	model	the	confinement	of	this	
+spheroidal	galaxy	corresponding	to	figure	3.		
+	
+
+Logf = LogA(r) −
+   
+
+Log f = LogA(r) −
+  
+
+V.!r )2		
+
+V2
+<v2 >
+
+V2
+<v2 >
+
++ a(r)(
+
+	
+
+!
+
+	
+
+	
+
+Fig.3	:Spheroidal	galaxy,	or	globular	cluster,	or	cluster	of	galaxies.	
+
+	This	model	highlights	the	role	of	the	negative	mass	environment	that	confines	both	
+clusters	and	clusters	and,	in	the	case	of	galaxies,	allows	to	reconstruct	the	flatness	of	
+their	rotation	curves.	See	a	more	recent	result	on	figure	4	[13].	These	objects	of	positive	
+mass	are	thus	housed	in	gaps	in	the	negative	mass	distribution.	This	gap	being	
+equivalent	to	an	equivalent	positive	mass,	this	one	will	be	the	main	responsible	for	the	
+observed	gravitational	lens	effects.	The	model	therefore	accounts	for	this	set	of	
+observations.	From	this	point	of	view	it	is	an	alternative	to	the	dark	matter	model,	but	
+does	not	invalidate	the	existence	of	the	latter.	
+	Note:	It	is	unfortunate	that	we	do	not	have	the	possibility	to	develop	a	galaxy	formation	
+scenario	using	simulations.	The	process	of	constitution	of	the	large-scale	structure	
+highlights	a	new	phenomenon:	the	intense	compression	of	the	positive	mass,	due	to	the	
+repulsive	effect	of	two	adjacent	negative-mass	conglomerates,	resulting	in	the	heating	of	
+
+	
+28	
+this	matter	in	plates,	offering	an	optimal	geometry	for	a	rapid	radiative	cooling,	favoring	
+the	formation	of	primitive	galaxies.		
+A	solid	body	rotation	is	then	introduced.	The	following	image	comes	from	numerical	
+simulations	carried	out	at	the	DAISY	laboratory	in	Hamburg	in	1992	by	the	student	
+Frédéric	Descamp.	In	a	few	turns,	after	a	transient	regime,	a	barred	spiral	is	formed,	
+lasting	for	thirty	turns	[25].	
+	
+
+	
+
+Fig.3	:	Barred	spiral	from	numerical	simulation	(1992	:	2x10,000	points)	
+
+	
+	The	evolution	of	the	kinetic	moment	of	the	galaxy,	along	with	the	establishment	of	its	
+rotation	curve	differing	from	the	initial	solid	body	rotation,	is	as	follows:		
+	
+
+	
+
+	
+
+Fig.4	:	Evolution	of	the	kinetic	moment	(1992	:	2x10,000	points)	
+
+	
+29	
+		We	are	in	the	presence	of	a	phenomenon	of	dynamical	friction.	In	collision	dominated	
+systems,	the	transfer	of	kinetic	moment	and	energy	takes	place	by	collisions.	In	non-
+collisional	systems	these	exchanges,	which	reflect	the	dissipative	mode	in	these	
+environments,	are	carried	out	via	the	appearance	of	inhomogeneities,	density	waves	
+also	called	tidal	effects.	The	interaction	implies	that	the	shape	of	the	density	waves	in	
+the	positive	world	finds	its	counterpart	in	the	negative	world.	The	curve	above	shows	
+that	the	interaction	is	intense	when	the	negative	mass	environment	is	present	and	when	
+the	galaxy	rotates	as	a	solid	body,	which	is	also	revealed	in	the	images	of	the	transient	
+phase.	The	variation	decreases	when	the	galaxy	has	reached	its	differential	rotation	
+regime	with	flatness	of	the	curve	at	the	periphery.	These	simulations	could	only	be	
+carried	out	in	Germany	for	a	few	months,	as	the	student	was	quickly	called	to	order	by	
+his	hierarchy.	As	we	had	no	access	to	adequate	computing	resources	in	France,	we	had	
+to	abandon	this	research	direction	with	regret.	In	addition,	in	spite	of	the	strong	
+mathematical	support,	the	specialized	journals	rejected	these	works	without	reading	
+them	and	replied	"sorry,	we	don't	publish	speculative	works"..		
+	13)	Large-scale	structure,	the	problem	of	the	Great	Repeller.	
+In	2017	[9]	a	very	large	scale	map	of	the	universe	is	published,	covering	a	cube	of	one	
+and	a	half	billion	light	years	on	each	side.	This	mapping	is	accompanied	by	a	
+presentation	of	the	velocity	field	which	highlights	the	existence	of	a	vast	spheroidal	
+region	exerting	a	repulsive	effect	on	the	surrounding	galaxies	and	which	has	been	
+named	Great	Repeller.		
+	
+
+	
+
+Fig.5	:	The	Great	Repeller	
+
+	
+
+	
+30	
+The	model	interprets	this	observation	as	the	presence	of	one	of	the	negative	mass	
+conglomerates	determining	the	structure	of	the	universe	on	a	very	large	scale,	formed	
+by	the	gravitational	instability	of	the	negative,	self-attracting	mass	.	The	dark	matter	
+hypothesis	does	not	provide	an	answer	in	the	sense	that	no	scenario	is	proposed	that	
+would	justify	the	existence	of	a	large	void.			
+	This	scheme	of	a	distribution	of	conglomerates	of	negative	mass	would	then	have	the	
+consequence	of	weakening	the	luminosity	of	distant	sources	by	negative	gravitational	
+lens	effect.	This	is	exactly	what	is	observed	for	redshift	galaxies	greater	than	7.		
+	
+As	it	stands,	the	negative	mass	model	presents	itself	as	a	credible	alternative	and	the	
+results	obtained	deserve	to	be	brought	to	the	attention	of	the	scientific	community	so	
+that	my	subject	can	be	discussed.	But	we	will	move	on	to	other	areas	of	research	where	
+dark	matter	does	not	provide	answers.	
+	Insofar	as	the	present	model,	with	respect	to	these	aspects,	presents	itself	as	an	
+alternative	to	the	mainstream	model	ΛCDM	the	relative	importance	of	the	negative	mass	
+is	the	same	as	that	of	the	set	dark	matter	plus	dark	energy:		
+	
+
+	
+
+	
+	
+Fig.6	:	The	components	
+		12	–	Primordial	antimatter,	nature	of	the	negative	mass.		
+	In	the	accepted	scientific	scheme,	matter	and	antimatter	are	formed	from	primitive	
+radiation,	as	long	as	the	energy	of	photons	exceeds	the	energy	equivalent	of	these	
+matter-antimatter	pairs.	When	the	expansion	lowers	this	temperature	these	syntheses	
+cease	and	these	elements	disappear	by	annihilation.	Fossil	radiation	is	considered	as	the	
+remnant	of	these	annihilations.	There	is	currently	no	theoretical	model	that	explains	
+why	one	particle	of	matter	in	a	billion	remained,	nor	why	we	have	never	had	to	highlight	
+its	counterpart	in	the	form	of	primordial	antimatter.		
+	The	Russian	Andrei	Sakharov	[26]	started	from	a	synthesis	image	of	baryons	from	
+quarks	and	antiquarks	from	anti-baryons.	According	to	him	the	rate	of	synthesis	of	
+baryons	would	have	been	faster	than	that	of	anti-baryons.	The	expansion	would	have	
+frozen	this	situation	and	there	would	exist	in	our	universe	a	remnant	of	free	antiquarks,	
+in	the	ratio	three	to	one.	He	further	suggested	that	a	twin	universe	would	coexist	with	
+
+	
+31	
+our	universe,	which	would	have	known	an	opposite	situation	and	where	anti-baryons	
+and	quarks	would	subsist	in	the	free	state.	He	also	suggested	that	the	time	arrow	of	this	
+other	universe	would	be	opposite	to	ours	and	that	it	would	be	enantiomorphic.	But	he	
+had	not	envisaged	the	involvement	of	these	two	regions.	Below	is	a	didactic	image	
+illustrating	Sakharov's	model.		
+		
+
+	Fig.7	:	Didactic	image	of	Andrei	Sakharov	model	
+
+We	can	consider	the	cosmological	model	with	negative	masses	as	suggesting	the	
+following	scheme:		
+
+	
+		
+
+	
+
+	
+
+	
+
+Fig	.8	:	Link	to	the	Sakharov	model	
+
+	One	can	imagine	a	reversal	of	time	at	the	time	of	the	Big	Bang,	a	situation	that	brings	a	
+form	of	answer	to	the	question	"what	was	there	before	the	Big	Bang".	
+	It	so	happens	that	in	1970	the	French	mathematician	J.M.Souriau	brought	an	original	
+answer	to	T-symmetry.	His	approach	is	the	following.	Starting	from	Minkowski's	
+isometry	group,	the	 complete	Poincaré	group,	he	determines,	by	the	technique	of	the	
+group's	coadjoint	action	on	the	dual	of	his	Lie	algebra	[27],	the	characteristics	of	the	
+
+⎞
+⎠⎟
+
+		
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎝⎜
+  
+
+L C
+0
+1
+
+with C =
+
+Δt
+Δx
+Δ y
+Δz
+
+	
+32	
+motions	of	the	different	particles	that	inscribe	their	motions	in	it.	These	objects	are	of	
+two	kinds:	
+	
+-	Photons,	characterized	by	their	E	energy	and	spin	s.			
+	-	Particles	with	an	energy	E	(with	a	rest	mass	m,	according	to	E	=	mc2)	and	an	
+impulse	p.		
+	
+Poincaré's	group,	represented	by	the	matrix	(5.5),	C	being	the	space-time	translation	
+vector.		
+	
+(59)																																									
+	This	group	is	constructed	from	the	Lorentz	group,	represented	by	the	metric	(4,4),	
+axiomatically	defined	according	to:		
+	
+(60)																													
+	Thus	defined,	this	group	has	four	connex	components:		
+	-	 Ln	is	the	neutral	component	because	it	contains	the	neutral	element	of	the	group.	It	
+does	not	reverse	time	or	space.	
+	-	 Ls	inverts	space	but	not	time:	P-	symmetry.		
+	-	 Lt	Inverts	time	but	not	space:	T-symmetry	
+	-	 
+Lst	Inverts	both	time	and	space:	PT	symmetry.		
+	The	first	two	components	form	the	orthochronous	subgroup	  Lo = Ln , Ls
+}	or	restricted	
+form	 the	 antichronous	 subset	
+	 The	 other	 two	 components	
+Poincaré	 group.	
+}	.	We	can	build	the	complete	group	from	the	orthochronous	group	thanks	
+Lst = − Ln which	is	translated	by	writing	the	matrix	
+to	the	properties	 
+	(61)																																																			
+
+with λ= ± 1	
+
+0
+1
+0 −1 0
+0
+0
+
+0
+0
+−1 0
+0
+−1
+
+La = Lt , Lst
+  
+
+t LG L = G
+
+Lt = − Ls
+
+		
+
+with
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎠
+
+G =
+
+0
+0
+
+{
+
+{
+
+0
+
+  
+
+λLo C
+0
+1
+
+⎞
+⎟
+⎠
+
+⎛
+⎜
+⎝
+  
+
+ 
+
+P =
+
+		
+
+		
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+E
+px
+py
+pz
+
+M ' = L M tL + C tP tL − L P tC = Lo M tLo + λC tP tLo − λLo P tC
+P' = L P = λLo P
+  
+
+	
+33	
+	The	action	of	the	group	on	its	moment	[27]	causes,	starting	from	a	movement	of	moment	
+M,	all	possible	movements	of	moment	M'	likely	to	be	inscribed	in	Minkowski's	space	to	
+unfold.	It	is	translated	by	the	relations	([27]	eq.	(13.107)	on	page	172):		
+	(62)															
+	
+P	is	the	energy-impulsion	4-vector	and		p	the	impulsion	3-vector.		:		
+	
+(63)																																																													
+	From	the	examination	of	these	relations	(62)	and	(63)	we	find	the	result	of	Souriau	([27]	
+page	190,	equation	(14.7)	):		
+	
+	So	that	the	analysis	of	the	properties	of	space-time	shows	that	T-symmetric	motions	
+should	be	included,	that	would	simply	be	those	of	particles	of	opposite	energy,	for	
+photons,	and	of	negative	mass	for	matter.	Until	2011	nothing	emerged	from	our	physics	
+that	could	give	credit	to	this	idea.	But	the	discovery	of	the	acceleration	of	expansion,	
+attributed	to	the	action	of	negative	energy,	gave	credence	to	the	idea	that	there	could	
+exist	particles	with	negative	energy,	which	could	be	particles	with	negative	mass	and	
+photons	with	negative	energy.	This	possibility	of	inversion	of	the	time	coordinate	can	be	
+read	in	any	case	in	the	expression	of	the	metric,	invariant	by	T-symmetry,	P-symmetry	
+and	PT-symmetry:		
+	(64)																																																	  ds2 = c2dt 2 − dx2 − dy2 − dz2		
+	But	this	inversion	of	the	time	coordinate	t	does	not	automatically	mean	the	inversion	of	
+the	proper	time	s	!		
+	The	cosmological	model,	where	the	presence	of	negative	masses	and	the	negative	
+energy	photons	they	emit,	and	therefore	which	our	instruments	cannot	capture,	is	a	
+simple	extension	of	Minkowski's	geometry	.	As	this	inversion	goes	hand	in	hand	with	the	
+inversion	of	time	we	call	it:		
+	
+	The	two	folds	are	linked	by	a	PT-symmetry	relationship,	like	Sakharov's	twin	universes.		
+	
+
+T-symmetry	reverses	the	energy	and	pulse,	but	not	the	spin.	
+
+Janus	Model	
+
+0
+
+⎞
+⎟
+⎟
+⎟
+⎠
+
+with
+
+		
+
+⎛
+⎜
+⎜
+⎜
+⎝
+  
+
+}	
+
+λ= ± 1
+µ= ± 1
+
+{
+   ζ, t , x , y , z
+
+µ 0 φ
+0 λL o C
+0
+1
+
+	
+34	
+The	matter-antimatter	duality	finds	its	geometrical	translation	by	inscribing	the	
+movements	in	a	Kaluza	5D	space.	The	corresponding	group	is	then	translated	by	the	
+matrices	(5.5):		
+	
+(65)																																												
+	The	value	  µ= −1represents	a	C-symmetry.	This	doubles	the	number	of	related	
+components	in	the	group.	The	group	acts	on	the	five-dimensional	Kaluza	space-time		
+	
+	The	translation	subgroup	is	introduced	along	this	fifth	dimension.	According	to	
+Noether's	theorem	this	is	translated	by	the	constant	of	a	scalar	 q	,	which	is	then	the	
+electric	charge.		
+	Matter/antimatter	symmetry	is	geometrically	translated	by	the	inversion	of	the	fifth	
+dimension	ζ.	Let	us	start	from	Feynmann's	idea	according	to	which	by	applying	to	a	
+particle	a	double	inversion	of	space	and	time,	it	behaves	like	an	antimatter	particle.	This	
+is	concretized	by	passing	to	the	Janus	group	:	
+		
+(66)																																													
+	Through	the	matrix	the	value	 λ= −1	operates	an	inversion	of	space	and	time,	at	the	
+same	time	as	an	inversion	of	the	electrical	charge.	In	passing,	the	inversion	of	time	leads	
+to	the	inversion	of	energy	and	mass.	This	Λ-symmetry	is	that	which	corresponds	to	the	
+Janus	cosmological	model.	By	adding	the	value	  µ= −1we	install	the	duality	of	
+antimatter	in	the	world	of	negative	masses.		
+Let	us	note	in	passing	that	one	can	add	as	many	additional	dimensions	to	Minkowski's	
+space	as	quantum	charges	 qi		
+	
+(67)																												
+
+λµ 0 φ
+0 λL o C
+0
+1
+
+λµ 0
+...
+0 λµ ...
+...
+...
+
+λ= ± 1
+µ= ± 1
+
+0
+0
+...
+
+⎛
+⎜
+⎜
+⎜
+⎝
+  
+
+		
+
+with
+
+⎞
+⎟
+⎟
+⎟
+⎠
+
+	
+
+...
+
+0
+
+×
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+  
+
+0
+0
+0
+
+0 ...
+0 ...
+0 ...
+
+0 φ1
+0 φ2
+...
+...
+λµ 0 φp
+0 λL o C
+1
+0
+
+0
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+ζ1
+ζ2
+...
+ζp
+ξ
+1
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+	
+
+qi ' = λµqi
+M ' = L M tL + C tP tL − L P tC = Lo M tLo + λC tP tLo − λLo P tC
+P' = L P = λLo P
+  
+
+	
+35	
+	The	complete	calculation	of	the	action	of	this	group	on	its	momentum	is	given	in	Annex	
+II	and	leads	to:	
+	
+(68)																		
+	So	there	are	two	antimatters:		
+	-	The	C-symmetric	of	ordinary	antimatter,	with	positive	mass	and	positive	energy.	
+Let	us	call	it	"antimatter	in	the	sense	of	Dirac".	
+	-	The	PT-antimatter,		PT-symmetric	of	our	own	matter,	with	negative	mass	and	
+negative	energy,	which	we	will	call	antimatter	in	the	sense	of	Feynmann.		
+	
+If	Sakharov's	idea	is	then	implemented,	the	world	of	negative	masses	would	be	
+populated	with	antimatter	of	negative	mass	and	energy.	Essentially:		
+
+	
+-	Negative	mass	antiprotons	
+	
+-	Negative	mass	anti-neutrons	
+	
+-	Negative	mass	anti-electrons	
+	
+-	Photons	of	negative	energy	
+	
+-	A	residue	of	negative	energy	quarks.		
+	It	is	of	course	impossible	to	highlight	these	components	individually,	especially	since	
+this	negative	mass	is	almost	absent	in	the	solar	system.	
+The	model	is	falsifiable	on	many	levels.	With	the	foreseeable	progress	of	observation	
+techniques,	it	will	be	possible	to	try	to	detect	at	the	center	of	the	Great	Repeller	
+formation	the	presence	of	a	conglomerate	of	negative	mass,	which	would	then	reveal	its	
+presence	by	a	significant	attenuation	of	the	magnitude	of	the	distant	sources.	If	this	
+attenuation	reveals	the	presence	of	an	object	of	limited	size,	it	will	invalidate	any	
+interpretation	in	terms	of	a	gap	in	the	dark	matter.		
+The	cooling	time	of	a	protostar	increases	with	its	mass.	These	conglomerates,	which	
+form	rapidly	after	decoupling,	can	be	compared	to	protostars	of	gigantic	mass	whose	
+cooling	time	exceeds	the	age	of	the	universe.	They	are	thus	spheroidal	sets	made	up	of	
+anti-hydrogen	 and	 anti-helium	 emitting	 negative	 energy	 photons,	 which	 our	
+instruments	cannot	capture,	in	the	red	and	infrared	range.	In	this	world	of	negative	
+masses,	there	is	no	atom	heavier	than	these.	There	are	no	stars,	no	galaxies,	no	planets.		
+	
+
+Life	is	absent	from	it.	
+
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+	
+
+36	
+-  The	Janus	Model	provides	an	answer	to	the	question	of	the	lack	of	observation	of	
+primordial	antimatter.		
+	
+- 
+It	predicts	in	passing	that	antimatter	created	in	the	laboratory,	with	a	positive	
+mass,	will	behave	like	ordinary	matter	in	experiments	to	demonstrate	its	
+behavior	in	the	Earth's	gravitational	field	(Gbar	and	Alpha	experiments).	
+	
+- 
+It	is	the	only	one	to	attribute	a	precise	identity	to	the	invisible	components	of	the	
+universe	and	to	specify	the	nature	of	the	objects	which	do	not	constitute	it.		
+			
+- 
+If	one	replaces	the	singularity	Big	Bang	by	a	bridge	connecting	the	two	folds	of	
+universe	in	interaction,	which	are	in	a	way	the	Right	side	and	the	upside	down	
+side	of	the	hypersurface	space-time,	the	model	brings	an	original	answer	to	the	
+question	"what	was	there	before	the	Big	Bang?	»	
+
+	
+
+	
+
+Fig	.9	:	Elimination	of	the	initial	singularity	
+
+	The	inversion	of	the	time	coordinate	is	not	a	problem	in	this	extension	of	general	
+relativity	since	metrics,	field	equations,	for	all	equations	of	physics	are	time-reversible.	
+What	does	Quantum	Mechanics	have	to	say	about	this?	If	we	refer	to	a	reference	work,	
+that	of	S.	Weinberg	[28]	in	section	2.6	(pages	74	to	76).	We	will	find	two	arbitrary	
+choices	concerning	the	operators	P	and	T	for	the	inversion	of	space	and	time.	In	order	to	
+avoid	the	emergence	of	negative	energy	states,	which	are	considered	a	priori	impossible,	
+the	following	two	arbitrary	choices	can	be	made,		
+	
+		13	–	Opening	of	a	new	research	field	in	Quantum	Mechanics	[8].		
+	
+
+-  P	linear	and	and	unitary		(	LU	)	
+	
+-  T	antilinear	and	anti-unitary	(AA)	
+
+	
+
+		
+
+E
+m
+ 
+
+	
+37	
+It	is	well	known	that	the	equations	of	relativistic	quantum	mechanics	(Klein-Gordon,	
+Dirac)	naturally	highlight	negative	energy	states.	They	have	always	been	eliminated	by	
+considering	that	they	lead	to	negative	probability	densities.	The	solution	that	physicists	
+have	found	is	then	to	replace,	in	a	rather	artificial	way	it	must	be	admitted,	the	so-called	
+probability	densities	by	charge	densities:	this	is	the	birth	of	antiparticles	(in	the	
+commonly	accepted	sense).	
+However,	if	we	look	a	little	closer	at	these	probability	densities,	we	see	that	they	can	be	
+reinterpreted	as	real	probabilities,	positive,	if	we	consider	that	negative	energy	states	
+are	also	associated	with	negative	masses.	This	is	particularly	striking	with	the	Klein-
+Gordon	density,	which	involves	the	ratio	
+(69)																																																																			
+Probabilistic	interpretation	is	therefore	compatible	with	negative	energy	states	
+provided	that	energies	and	mass	are	simultaneously	negative.	And	how	could	it	have	
+been	otherwise	with	Einstein's	relation	at	rest	E	=m	c2	?	Thus	quantum	mechanics	is	the	
+ideal	ground	for	reintegrating	negative	energies.	However,	the	consequences	must	be	
+discerned.	One	of	them	is	that	the	temporal	reversal	operator	will	henceforth	be	
+considered	as	a	linear	and	unitary	operator	[8].		
+We	know,	in	fact,	that	a	symmetry	operator	must	necessarily	be	[28].			
+	
+-	Linear	and	unitary	(LU)	
+	
+-	Anti-linear	and	anti-unitary	(AA)	
+It	is	customary	to	choose,	for	a	spatial	inversion	P,	the	choice	LU	and	for	a	temporal	
+inversion	T	the	choice	AA.	Thus,	the	action	of	these	discrete	symmetries	on	the	
+fundamental	operators	of	quantum	mechanics	as	well	as	on	the	imaginary	i	can	be	
+summarized	by:	
+(70a)																																						   P: !x → − !x , !p ≡ −i"
+∇ → − !p , i → i		
+(70b)																																				   T: !x → !x , !p ≡ −i"
+∇ → − !p , i → − i	
+The	fundamental	relationship	of	quantum	mechanics:		
+⎤⎦ = i !δj k		
+(71)																																																																				
+is	then	invariant	under	(70a)	as	well	as	under	(70b).		
+Moreover,	the	symmetry	  PT( t → − t , i → − i )thus	chosen	ensures	the	invariance	of	the	
+energies	
+		
+	(72)																																																																		
+Positive	energies,	if	we	limit	ourselves	to	them,	therefore	remain	exclusively	positive.	On	
+the	contrary,	in	[8]	we	have	opted	for	the	choice	LU,	for	the	two	inversions,	which	leads	
+to	the	following	result:		
+
+E → H ≡ i!
+   
+
+x j , pk
+
+∂
+∂t
+
+⎡⎣
+   
+
+!
+
+!
+
+!
+
+!
+
+∂
+
+H ≡ i!
+   
+
+	
+38	
+(73a)																																					   P: !x → − !x , !p ≡ −i"
+∇ → − !p , i → i	
+	(73b)																																			   T: !x → !x , !p ≡ −i"
+∇ → !p , i → i	
+both	ensuring	the	invariance	of	(69).	The	major	difference	is	that	the	symmetry	PT	leads	
+this	time	to	a	change	of	sign	at	the	level	of	the	energies:	
+∂t → − H		
+(75)																																																								
+There	is	nothing	to	prevent,	physically,	mathematically	and	from	a	probabilistic	point	of	
+view,	to	consider	these	negative	energy	states	as	long	as	they	are	assigned	a	negative	
+mass.		Moreover,	it	even	seems	that	this	additional	possibility	is	more	rigorous	if	we	
+stick	to	mathematics,	since	implying	that	T	is	linear,	it	is	in	agreement	with	its	usual	
+realization	(cf.	[28]	Eq	(2.3.16),	p.	58,	for	example):	
+(73)																																																									  T = diag ( −1,1,1,1)		
+	8	–	Conclusion	
+This	work	suggests	a	complete	upheaval	of	cosmology,	as	well	as	an	extension	of	
+theoretical	physics	to	the	field	of	negative	energies.	It	is	a	real	paradigm	shift.	As	it	
+stands,	the	negative	mass	model	provides	a	credible	cosmological	alternative	and	
+quantum	mechanical	framework	to	dark	energy/dark	mass	conjectures.	For	such	a	
+model	to	impose	itself,	it	is	not	enough	to	propose	alternative	interpretations	to	those	
+attributed	to	dark	matter	and	dark	energy.	It	will	have	to	provide	answers	to	all	the	
+questions	in	order	to	be	able	to	pose	as	a	challenger	of	the	ΛCDM	model,	a	standard	
+model	that	we	should	call	i-ΛCDM	insofar	as	this	last	implies	an	additional	hypothesis,	
+that	of	the	existence	of	a	field	of	inflatons,	responsible	for	the	phenomenon	of	cosmic	
+inflation,	a	hypothesis	whose	only	merit	is	to	justify	the	extreme	homogeneity	of	the	
+primitive	universe.	If	it	does	not	resort	to	this	phenomenon	of	cosmic	inflation,	the	new	
+model	will	therefore	have	to	produce	something	that	alternatively	accounts	for	this	
+homogeneity.	In	addition,	it	will	have	to	provide	its	own	model	of	the	fluctuations	of	the	
+CMB.	Finally,	it	will	have	to	provide	the	reason	why,	at	the	end	of	its	radiative	phase,	
+these	two	sets	of	masses,	positive	and	negative,	obey	the	same	equations,	equipped	with	
+different	sets	of	constants..		
+The	answers	to	these	questions	will	be	outlined	in	the	following	article.		
+	
+References	:		
+[1]		Rubin	v.c.	Ford	w.k	,	Thonnard	N.		«	Rotational	velocities	of	21	SC	galaxies	with	large	
+luminosities	and	radii	».	Apj.	1980	238	pp	471-487	
+[2]			M.Milgrom	:	«	A	modification	of	the	Newtonian	dynamics	as	a	possible	alternative	to	
+the	hidden	mass	hypothesis	».	Astrophysical Journal, Part 1 (ISSN 0004-637X), vol. 
+270, July 15, 1983, p. 365-370.	
+
+	
+39	
+	[3]	Perlmutter,	S.,	et	al.		1999,	ApJ,	517,	565	
+	[4]	Riess	A.	G.	2000,	PASP,	112,	1284	
+	[5]	Schmidt,	B.	P.,	et	al.,	1998,	Astrophys.	J.	507,	46.	
+	[8]		N.Debergh,	J.P.Petit	and	G.D’Agostini	:	Evidence	of	negative	energies	and	masses	in	
+the	Dirac	equation	through	a	unitary	time-reversal	operator.	,	J.	Phys.	Comm.	2	(2018)	
+115012			http://iopscience.iop.org/article/10.1088/2399-6528/aaedcc/pdf	
+[9]		The	Dipole	Repeller	:	Y.	Hoffman,	D.Pomarède,	R.B.Tully,	H.Courtois.	Nature	
+Astronomy	2017	1	,	0036			
+[10]	Bondi	H.	:	Negative	mass	in	General	Relativity.	Rev.	of	Mod.	Phys.,	Vol	29,	N°3,	
+july1957	
+	[11]	Bonnor	W.	B.	:	Negative	mass	and	general	relativity.	General	Relativity	and	
+Gravitation	Vol.	21,	N°11,	1989		
+	[12]	A.	Benoit-Lévy	&	G.Chardin	:	Introducing	the	Dirac-Milne	universe.	Astronomy	and	
+Astrophysics.	Vol.	537	(january	2012)	A	78	
+	[13]	J.Farnes	:	A	unifying	theory	of	dark	energy	ans	dark	matter	:	Negative	mass	and	
+matter	creation	within	a	modified	LCDM	framework.	Astronomy	ans	Asntrophysics	
+2018	
+	[14]	J.P.Petit,	Twin	Universe	Cosmology,	Astrophys.	and	Sp.	Science,	226,	273-307,	1995	
+	[15]		J.P.Petit : The missing mass problem. Il Nuovo Cimento B Vol. 109 July 1994, pp. 697-
+710	
+[16]		J.P.Petit,	G.D’Agostini	:	Negative	Mass	hypothesis	in	cosmology	and	the	nature	of	
+dark	energy.	Astrophysics	And	Space	Science,.	A	29,	145-182	(2014)	
+	[17]		J.P.Petit	&	G.D’Agostini	:	Lagrangian	derivation	of	the	two	coupled	field	equations	
+in	the	Janus	Cosmological	Model.	Astrophysics	and	Space	Science	2015,	357	:67	
+	[18]	S.	Hossenfelder	:	A	bimetric	Theory	with	Exchange	Symmetry.	Phys.	Rev.	D78,	
+044015,	2008	and	arXiv	:	0807.2838v1	(gr-qc)17	july	2008		
+	[19]	Damour	T.	,	Kogan	I	I.	Effective	Lagrangians	and	universality	classes	of	nonlinear	
+bigravity	Phys.	Rev.	D	66	(2002)	104024.	hep-th/0206042.		
+	[20]	Damour	T.	,	Kogan	I.	I.	,	Papazoglou	A.	Non-linear	bigravity	and	cosmic	acceleration	
+Phys.	Rev.	D	66	(2002)	104025.	hep-th/0206044.		
+	[21]		G.	DAgostini	and	J.P.Petit	:	Constraints	on	Janus	Cosmological	model	from	recent	
+observations	of	supernovae	type	Ia,	Astrophysics	and	Space	Science,	(2018),	
+363:139.https://doi.org/10.1007/s10509-018-3365-3	
+
+	
+40	
+[22]		S.Chandrasekhar	:	«	Principles	of	stellar	dynamics	»	Dover	Publications	1942	
+[23]		S.Chapman	and	T.G.Cowling	:	«	The	mathematical	theory	of	non	uniform	gases.	
+Cambridge	University	press	?		
+[24]		J.P.Petit	et	G.Monnet	:	»	Axisymmetrical	solution	of	the	couple	Vlasov	plus	Poisson	
+equations	».	CNRS	1974	meeting	on	the	dynamic	of	spiral	galaxies.	Institute	of	High	
+Scientific	Studies	(IHES).	  
+ [25]	J.	P.	Petit,	P.	Midy	and	F.	Landhseat,	Twin	matter	against	dark	matter,	int.	Conf.	
+onAstrophysics	and	Cosmology,	Where	is	the	Matter?,	Tracing	Bright	and	Dark	Matter	
+with	the	New	Generation	of	Large-Scale	Surveys	(Marseille,	France,	June	2001).	
+[26]	A.D.Sakharov	,  (1980).  Cosmological  Model  of  the  Universe  with  a  Time  Vector 
+Inversion. ZhETF (Tr. JETP 52, 349-351) (79): 689–693	
+	[27]	 J.M.Souriau :  Structure  des  systèmes  dynamiques.    Dunod  Ed.  France,  1970  and 
+Structure of Dynamical Systems. Boston, Birkhaüser Ed. 1997	
+Annexe	1	
+
+__________________________________________________________________________________	
+
+ 
+
+3 !a2
+
+2 !!a
+c2a
+
+c2a2		
+	
+c 2b2		
+	
+
+3 !b2
+
+2 !!b
+c 2b
+
+⎤
+⎥ = − Λ +
+⎦
+
+3k
+a2 +
+
+k
+
+a2 − !a2
+
+c2a2 −
+
+⎤
+⎥ = − Λ +
+⎦
+
+3k
+b2 +
+
+k
+b2 −
+
+!b2
+c 2b2 −
+
+⎡
+⎢
+⎣
+
+⎡
+⎢
+⎣
+
+a3 ρc 2
+
+⎤
+⎥ = Λ −
+⎦
+
+Compatibility	conditions	
+
+−χ p + V b3
+a3 p
+   
+
+−χ ρc2 + V b3
+   
+
+The	equations	are:		
+(a)																																				
+		(b)																																
+		(c)																																				
+	(d)																																	
+	A	linear	combination	of		(a)	and	(b)	gives	:		
+(e)																																	   
+Anothe	one	:		
+		
+
+χ ρc 2 + W a3
+⎡
+⎢
+⎣
+   
+χ p + W a3
+⎡
+b3 p
+⎢
+⎣
+   
+
+⎤
+⎥ = Λ −
+⎦
+
+ρc2 + V b3
+
+b3 ρc2
+
+− χ
+2
+
+⎡
+⎢
+⎣
+
+a3 ρc 2 + p + V b3
+a3 p
+
+⎤
+⎥ = Λ −
+⎦
+
+3!!a
+c 2a
+
+	
+
+41	
+
+⎠⎟	
+
+⎞
+
+k
+a2 −
+
+1
+c 2
+
+d
+dζ
+
+⎛
+⎝⎜
+
+!a
+a
+
+⎠⎟			
+
+⎞
+
+d
+dt
+
+⎛
+⎝⎜
+
+!a
+c 2a
+
+⎥ = 0	
+
+k
+
+=
+
+dt
+
+⎛
+⎝⎜
+
+⎡
+⎢
+⎣
+
+⎡
+⎢
+⎣
+
+6k
+
+6k
+
+d
+dζ
+
+⎤
+⎥ =
+⎦
+
+2 !!a
+c 2a
+
+− χ
+   
+
+!a2
+c 2a2
+
+− χ
+2
+   
+
+a3 ρc 2
+
+c 2a2 −
+
+⎞
+⎠⎟ = −
+
+⎤
+⎥ = −
+⎦
+
+ρc2 + V b3
+
+ρc2 + V b3
+
+a2 + !a2
+
+a3 !a + 6 !a
+
+a3 !a + 3 d
+
+a3 ρc 2 + p + V b3
+a3 p
+
+	
+(f)															
+		We	differentiate	(a)	with	respect	to		t	:	
+	(g)						
+	combining	to	(f)	:		
+	(g)																			
+	ou		
+(h)																																	
+En	traitant	de	la	même	manière	les	equations	(27)	et	(28)	on	obtient	:		
+	
+(i)																																				
+	
+
+a = 0		
+b = 0	
+
+⎤
+⎥
+⎦
+a3 ρc 2 + p + V b3
+a3 p
+
+⎤
+⎥
+⎦
+b3 ρc+ p + W a3
+b3 p
+
+a3 ρc 2 + p + V b3
+a3 p
+
+d ρc 2 + W a3
+⎡
+⎢
+⎣
+
+d ρc2 + V b3
+⎡
+⎢
+⎣
+
+a ρc2 + V b3
+
+ρc2 + V b3
+
+ρc2 + V b3
+
+⎥ +3 !a
+⎤
+⎦
+
+a3 ρc 2
+
+a3 ρc 2
+
+d
+dζ
+   
+
++3db
+
++3da
+
+b3 ρc
+
+⎤
+⎦
+
+⎡
+⎢
+⎣
+
+⎡
+⎢
+⎣
+
+⎡
+⎢
+⎣
+
+⎤
+⎥
+⎦
+
+⎤
+⎥
+⎦
+
+⎡
+⎢
+⎣
+
+a
+
+  
+
+ρc 2 + W a3
+
+___________________________________________________________________________________	
+
+  
+
+	
+Annexe	II	
+
+Calculation	of	the	group's	action	on	its	space	of	moments.	
+
+The	group	is	represented	by	the	matrices:	
+(a)																																						  
+For	convenience	of	calculation	we	will	carry	out	this	one	with		
+
+λµ 0 φ
+0 λLo C
+1
+0
+
+with
+
+⎛
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎠
+
+a =
+
+0
+
+λ= ±1
+µ= ±1
+
+	
+
+0
+
+0
+
+0
+
+	
+
+	
+
+	
+
+⎛
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎠
+
+⎞
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎝
+
+Z =
+
+⎞
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎝
+
+Z ≡
+
+with
+
+42	
+
+λ= ±1
+µ= ±1
+
+0
+ε
+0 Gω γ
+0
+0
+
+0
+ε
+0 δL γ
+0
+0
+
+λµ 0 φ
+L C
+0
+0
+0
+1
+
+	
+(b)																																								  
+The	element	of	its	Lie	algebra	is	then:		
+(b)																																																				  
+The	group	is	differentiated	in	the	vicinity	of	its	neutral	element.	Under	these	conditions	
+ δLcan	be	put	in	the	form	 Gωwhere	G	is	the	Gramm	matrix	and	ω	an	antisymmetric	
+matrix	
+(c)																																												
+For	computational	convenience,	we	write	the	action	of	the	group	on	its	Lie	algebra	
+  Z ' = a−1 Z a	instead	of		  Z ' = a Z a−1,	which	is	equivalent	to	computing	the	action	of	the	
+inverse	of	the	element	of	the	group	on	the	element	of	its	Lie	algebra,	but	the	result	will	
+be	equivalent	since	the	set	of	inverses	also	represents	the	group.	It	comes	:		
+	
+(d)																									
+which	gives	:		
+(e)	
+	We	are	looking	for	the	dual	of	the	group's	action	on	its	Lie	algebra.	The	element	of	this	
+Lie	algebra	depends	on	11	parameters.		
+	(f)																												 
+The	moment	space	of	the	group	will	thus	be	a	vector	space	of	dimension	11.	It	can	be	put	
+in	the	form	of	an	antisymmetric	matrix	M	of	format	(4,4),	depending	on	six	parameters,	
+
+0
+0 G tLωL γG tLG + G tLωC
+0
+
+Z = ωsx ,ωsy ,ωsz ,ωfx ,ωfy ,ωfz ,γt ,γx ,γy ,γz ,ε
+
+0
+ε'
+0 Gω' γ'
+0
+0
+
+γ' = G tLGγ + G tLωC
+  
+
+ω' = tLωL
+
+ε' = λµε
+
+}	
+
+λµε
+
+		
+
+⎛
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎠
+
+{
+
+=
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+  
+
+ 
+
+1
+2
+
+1
+2
+
+1
+2
+
+Tr ( M ω) + tPG γ + qε =
+
+Tr ( M ω) + tPG γ + qε	
+Tr ( M' tLωL) + tP' G (G tLωC + G tLGγ) + q'λµε	
+
+	
+43	
+a	quadrivector	P	and	a	scalar	q.	The	duality	can	thus	be	ensured	by	the	constancy	of	the	
+scalar:	
+(g)																																																				 
+Ce	qui	donne	:	
+(h)			 
+It	comes	immediately:		
+(i)																																																																	  q = λµq'	
+	(j)																																														 
+t P = tP' tL → P = LP'	
+	We	know	that	we	can	perform	a	circular	permutation	in	the	trace:		
+	(k)																																											 Tr( M' t LωL) = Tr( LM' t Lω)	
+	The	identification	on	the	 ω	terms	gives	
+	(l)																																							
+Tr( L M' tLω) + tP tLωC		
+t P tLωC	is	the	scalar	product	of	the	row	vector	 t Pby	the	column	vector	
+The	term	 
+tLωC.	We	can	therefore	write,	after	having	performed	a	circular	permutation	in	the	
+trace	
+	(j)																																																 
+By	making	a	circular	permutation	in	the	trace.	Thus	the	equation	(l)	provides:		
+(j)																																																										 M = LM' tL + 2C tP' tL	
+But		
+(k)																																					 
+Knowing	that	the	trace	of	the	product	of	a	symmetrical	matrix	by	an	antisymmetrical	
+matrix	is	equal	to	zero:		
+(l)																																																	 
+It	remains:		
+
+t P tLωC = Tr( tLω C tP) = Tr( C tPtLω )	
+
+sym(C tP tL) + antisym C tP tL
+
+Tr (C PT tL+ LP tC) ×ω
+
+⎤⎦ = 0	
+
+Tr( Mω) =
+
+C tP tL =
+
+⎦	
+
+1
+2
+ 
+
+1
+2
+
+1
+2
+
+)
+
+(
+
+⎡
+⎣
+
+⎡⎣
+
+⎤
+
+ 
+
+⎡⎣
+
+1
+2
+
+1
+2
+
+1
+2
+
+⎤⎦	
+
+Tr( Mω) =
+
+44	
+
+Tr( L M' tLω) +
+
+Tr (C tP tL − L Pt C) ×ω
+
+	
+(m)																				 
+Which	provides	the	last	equation	of	the	group's	action	on	its	moment:	
+(n)																																													 M = LM' tL + C P' tL − LP' tC	
+We	make	the	inversion	parameter	reappear	by	 L = λLo	and	group	the	results	together	
+		(o)																																																																	 q = λµq'	
+(p)																																							 M = Lo M' tLo + λC P' TLo − λLo P' tC											
+(r)																																																															 P' = λLo P							
+P	is	the	energy-impulsions	4-vector	:		
+(s)																																																											
+Equations	(o),(p),(r)	represent	an	extension	of	equations	13.107	of	reference	[27].	The	
+relation	(r)	makes	it	possible	to	find	Souriau's	relation	([27]	page	190,	equations	14.67	).	
+The	inversion	of	time	 ( λ= −1)	leads	to	the	inversion	of	energy	and	of	the	impulse	
+vector	  
+!p	.	The	matrix	M	depending	on	six	parameters	can	be	decomposed	into	two	
+vectors.	The	vector	f	is	what	Souriau	calls	the	pass	and	s	is	the	spin.	
+	(t)
+																																														 
+The	passage	f	is	not	an	intrinsic	attribute	of	the	motion	because	it	can	be	cancelled	by	a	
+change	of	variable	accompanying	the	particle.	Only	the	spin	remains,	of	which	Souriau	
+demonstrated	in	1970	its	geometrical	nature.	By	cancelling	the	spatio-temporal	
+translation	C	the	relation	(p),	where	λ		does	not	appear,	shows	that	the	inversion	of	
+time	does	not	modify	the	spin	vector.	With	this	way	of	carrying	out	the	calculation	one	
+obtains	the	result	of	the	action	of	the	group	on	a	movement,	characterized	by	the	
+quantities	
+}.	It	is	the	relation	(o)	which	
+informs	on	the	fact	that	starting	from	a	motion	representing	that	of	a	particle	of	matter	:		
+
+}gives	another	movement	
+
+																																													
+
+   E' , !p' , !s'
+{
+
+   E , !p , !s
+{
+
+0
+sz
+−sy
+−fx
+
+sy
+−sx
+0
+−fz
+
+−sz
+0
+sx
+−fy
+
+E
+px
+p y
+pz
+
+fx
+fy
+fz
+0
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+M =
+
+P =
+
+	
+
+  
+
+	
+45	
+-	 ( λ= −1; µ= 1)results	in	a	PT-symmetry	plus	a	C-symmetry	.	One	thus	obtains	the	
+movement	of	a	particle	of	negative	mass.		
+-	  ( λ= 1; µ= −1)operates	a	C-symmetry.	The	movement	obtained	is	that	of	an	
+antiparticle	in	the	sense	of	Dirac,	of	positive	mass.		
+-	 ( λ− = 1; µ= −1)represents	a	PT-symmetry.	The	motion	is	that	of	an	antiparticle	of	
+negative	mass	(antiparticle	in	the	sense	of	Feynmann).		
+	
+
+

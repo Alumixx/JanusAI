@@ -1,0 +1,3239 @@
+ 
+
+ 
+
+David Hilbert 
+
+LES FONDEMENTS DE LA PHYSIQUE 
+
+(Die Grundlagen der Physik) 
+
+(SECONDE COMMUNICATION) 
+
+Traduction française de G.D’Agostini 
+
+Libre de droits 
+
+ 
+
+ 
+
+Publié à l'origine sous le titre "Die Grundlagen der Physik. (Zweite Mitteilung)" dans Nachrichten 
+von der Königlichen Gesellschaft der Wissenschaften zu Göttingen. Math.-phys. Klasse. 1917. p. 
+53-76. Présenté lors de la séance du 23 décembre 1916. 
+
+Dans ma première communication1  je proposais un système d'équations de base de la 
+
+physique. Avant d'aborder la théorie de l'intégration de ces équations, il semble nécessaire de 
+discuter de certaines questions plus générales de nature logique autant que physique. 
+
+Tout d'abord, nous introduisons, à la place des paramètres spatiaux 𝑤(cid:3046)  (s=1,2,3,4), les 
+
+paramètres réels les plus généraux de l'espace-temps en posant 
+
+𝑤(cid:2869) = 𝑥(cid:2869) ,            𝑤(cid:2870) = 𝑥(cid:2870) ,            𝑤(cid:2871) = 𝑥(cid:2871) ,            𝑤(cid:2872) = 𝑖 𝑥(cid:2872) ,  
+
+et par conséquent, à la place de 
+
+nous écrivons simplement 
+
+𝑖𝑔(cid:2869)(cid:2872) ,            𝑖𝑔(cid:2870)(cid:2872) ,            𝑖𝑔(cid:2871)(cid:2872)  ,            − 𝑔(cid:2872)(cid:2872) ,  
+
+𝑔(cid:2869)(cid:2872) ,            𝑔(cid:2870)(cid:2872) ,            𝑔(cid:2871)(cid:2872) ,            𝑔(cid:2872)(cid:2872) ,  
+
+Les nouveaux  𝑔𝜇𝜈 (𝜇, 𝜈 = 1,2,3,4) - les potentiels gravitationnels d'Einstein - seront alors 
+
+tous des fonctions réelles des variables réelles  𝑥(cid:3046)  (s=1,2,3,4), d'un type tel que, dans la 
+représentation de la forme quadratique 
+
+𝐺(𝑋(cid:2869), 𝑋(cid:2870), 𝑋(cid:2871), 𝑋(cid:2872)) = (cid:3533) 𝑔(cid:3091)(cid:3092)𝑋(cid:3091)𝑋(cid:3092)
+
+ 
+
+(cid:3091)(cid:3092)
+
+  (28) 
+
+ 
+1  Ce journal, le 20 Novembre 1915. 
+
+DAVID HILBERT 
+
+comme une somme de quatre carrés de formes linéaires  𝑋(cid:3046)  dont trois carrés sont toujours de 
+signe positif, et un carré avec un signe négatif : ainsi la forme quadratique (28) fournit notre 
+espace quadridimensionnel des  𝑥(cid:3046)  avec la métrique d'une pseudo-géométrie. 
+
+Le déterminant  𝑔  de  𝑔𝜇𝜈  s'avère être négatif. 
+
+Si une courbe 
+
+𝑥(cid:3046) = 𝑥(cid:3046)(𝑝)       (𝑠 = 1, 2, 3, 4)  
+
+est donnée dans cette géométrie, où  𝑥(cid:3046)(𝑝)  signifie certaines fonctions réelles arbitraires du 
+paramètre p, alors elle peut être divisée en morceaux de courbes sur chacune desquelles 
+l'expression 
+
+ne change pas de signe : Un morceau de courbe pour lequel 
+
+sera appelé un segment et l'intégrale le long de ce morceau de courbe 
+
+est la longueur du segment; un morceau de la courbe pour lequel 
+
+sera appelé ligne de temps et l'intégrale 
+
+𝐺 (cid:3436)
+
+𝑑𝑥(cid:2869)
+𝑑𝑝
+
+,
+
+𝑑𝑥(cid:2870)
+𝑑𝑝
+
+,
+
+𝑑𝑥(cid:2871)
+𝑑𝑝
+
+,
+
+𝑑𝑥(cid:2872)
+𝑑𝑝
+
+(cid:3440) 
+
+𝐺 (cid:3436)
+
+𝑑𝑥(cid:3046)
+𝑑𝑝
+
+(cid:3440) > 0 
+
+𝜆 = (cid:3505) (cid:3496)𝐺 (cid:3436)
+
+(cid:3440)  𝑑𝑝 
+
+𝑑𝑥𝑠
+𝑑𝑝
+
+𝐺 (cid:3436)
+
+𝑑𝑥(cid:3046)
+𝑑𝑝
+
+(cid:3440) < 0 
+
+𝜏 = (cid:3505) (cid:3496)−𝐺 (cid:3436)
+
+𝑑𝑥𝑠
+𝑑𝑝
+
+(cid:3440) 𝑑𝑝 
+
+𝐺 (cid:3436)
+
+𝑑𝑥(cid:3046)
+𝑑𝑝
+
+(cid:3440) = 0 
+
+évaluée le long de ce morceau de courbe sera le temps propre de la ligne de temps ; enfin un 
+morceau de courbe le long duquel 
+
+sera appelé une ligne nulle. 
+
+Pour visualiser ces concepts de notre pseudo-géométrie, nous imaginons deux dispositifs de 
+
+mesure idéaux : le fil de mesure au moyen duquel nous sommes capables de mesurer la 
+longueur  𝜆  de n'importe quel segment, et d'autre part l’horloge de lumière avec laquelle nous 
+
+ 
+
+Page  2/23 
+
+ 
+
+THE FOUNDATIONS OF PHYSICS – SECOND COMMUNICATION - 1917 
+
+pouvons déterminer le temps propre de n'importe quelle ligne de temps. Le fil indique zéro et 
+l'horloge de lumière s'arrête le long de toute ligne nulle, alors que le premier échoue 
+totalement le long d'une ligne de temps, et le second le long d'un segment. 
+
+Nous montrons d'abord que chacun des deux instruments suffit pour calculer avec son aide 
+
+les valeurs de  𝑔𝜇𝜈  comme fonctions de  𝑥(cid:3046)  dès qu'un système de coordonnées spatio-
+temporel défini  𝑥(cid:3046)  est introduit. En effet, nous choisissons un ensemble quelconque de 10 
+segments, qui convergent au même point de l’espace  𝑥(cid:3046)  depuis des directions différentes, de 
+sorte que ce point d'extrémité suppose la même valeur de paramètre p sur chacun. A ce point 
+final, nous avons l'équation, pour chacun des 10 segments, 
+
+(cid:2870)
+
+𝑑𝜆((cid:3035))
+(cid:4678)
+𝑑𝑝
+
+((cid:3035))
+
+𝑑𝑥(cid:3046)
+𝑑𝑝
+
+(cid:4679)
+
+= 𝐺 (cid:4678)
+
+(cid:4679),    (ℎ = 1, 2, … , 10) 
+
+ici les termes de gauche sont connus dès que l'on a déterminé les longueurs  𝜆((cid:3035))  au moyen du 
+fil. Nous introduisons les abréviations 
+
+𝐷(𝑢) =
+
+(cid:4678)
+
+(cid:4720)
+
+(cid:4678)
+
+(cid:4720)
+
+(cid:2870)
+
+(cid:4679)
+
+((cid:2869))
+
+𝑑𝑥(cid:2869)
+𝑑𝑝
+… . .
+((cid:2869)(cid:2868))
+
+(cid:2870)
+
+(cid:4679)
+
+𝑑𝑥(cid:2869)
+𝑑𝑝
+(cid:2870)
+𝑋(cid:2869)
+
+((cid:2869))
+
+((cid:2869))
+
+𝑑𝑥(cid:2869)
+𝑑𝑝
+
+𝑑𝑥(cid:2870)
+𝑑𝑝
+
+… . .
+
+((cid:2869)(cid:2868))
+
+((cid:2869)(cid:2868))
+
+𝑑𝑥(cid:2869)
+𝑑𝑝
+
+𝑑𝑥(cid:2870)
+𝑑𝑝
+
+𝑋(cid:2869)𝑋(cid:2870)
+
+…
+
+((cid:2869))
+
+𝑑𝑥(cid:2872)
+𝑑𝑝
+… . .
+
+… (cid:4678)
+…
+
+(cid:2870)
+
+(cid:4679)
+
+… (cid:4678)
+
+((cid:2869)(cid:2868))
+
+(cid:2870)
+(cid:4679)
+
+𝑑𝑥(cid:2872)
+𝑑𝑝
+(cid:2870)
+𝑋(cid:2872)
+
+𝑑𝜆((cid:2869))
+(cid:4678)
+𝑑𝑝
+… . .
+𝑑𝜆((cid:2869)(cid:2868))
+
+(cid:4678)
+
+(cid:2870)
+(cid:4679)
+
+(cid:2870)
+
+ 
+
+ 
+
+(cid:4720)
+
+(cid:4720)
+
+(cid:4679)
+
+𝑑𝑝
+𝑢
+
+de sorte que clairement 
+
+d'où également la condition sur les directions des 10 segments choisis au point  𝑥(cid:3046)(𝑝) 
+
+  (29) 
+
+𝐺(𝑋𝑠) =
+
+ 
+
+𝐺(0)
+𝜕𝐷
+𝜕𝑢
+
+𝜕𝐷
+𝜕𝑢
+
+≠ 0 
+
+apparait être nécessaire. 
+
+Lorsque G a été calculé selon (29), l'utilisation de cette procédure pour n'importe 11ème segment 
+se terminant en  𝑥(cid:3046)(𝑝)  donnerait l'équation 
+
+(cid:2870)
+
+𝑑𝜆((cid:2869)(cid:2869))
+(cid:4678)
+
+(cid:4679)
+
+𝑑𝑝
+
+= 𝐺 (cid:4678)
+
+((cid:2869)(cid:2869))
+
+𝑑𝑥(cid:3046)
+
+(cid:4679) 
+
+𝑑𝑝
+
+et cette équation permettrait alors à la fois de vérifier l'exactitude de l'instrument et de 
+confirmer expérimentalement que les postulats de la théorie s'appliquent au monde réel. 
+
+Le même raisonnement s'applique à l'horloge de lumière. 
+
+ 
+
+Page  3/23 
+
+ 
+
+DAVID HILBERT 
+
+La construction axiomatique de notre pseudo-géométrie pourrait être réalisée sans 
+
+difficulté : il faudrait d'abord établir un axiome d'où il résulte que la longueur resp. le temps 
+propre doivent être des intégrales dont l'intégrant n'est qu'une fonction des  𝑥(cid:3046)  et de leurs 
+dérivées premières par rapport au paramètre; la propriété de développement du fil ou le 
+théorème bien connu de l'enveloppe pour les lignes géodésiques serait approprié pour un tel 
+axiome. Deuxièmement, il faut un axiome qui permette de valider les théorèmes de la 
+géométrie pseudo-euclidienne, c'est-à-dire l'ancien principe de relativité, dans les régions 
+infinitésimales ; pour cela, l'axiome énoncé par W. Blaschke2  serait particulièrement approprié, 
+qui stipule que la condition d'orthogonalité de deux directions quelconques - segments ou 
+lignes temporelles - sera toujours une relation symétrique. 
+
+Résumons brièvement les principaux faits que la théorie de Monge-Hamilton des équations 
+
+différentielles nous enseigne pour notre pseudo-géométrie. 
+
+A chaque point  𝑥(cid:3046)  de l’espace est associé un cône du second ordre, de sommet en  𝑥(cid:3046)  et 
+
+déterminé au point courant de coordonnées  𝑋(cid:3046)  par l'équation 
+
+𝐺(𝑋(cid:2869) − 𝑥(cid:2869), 𝑋(cid:2870) − 𝑥(cid:2870), 𝑋(cid:2871) − 𝑥(cid:2871), 𝑋(cid:2872) − 𝑥(cid:2872)) = 0 
+
+on l'appellera le cône nul appartenant au point  𝑥(cid:3046). L'ensemble des cônes nuls forme un champ 
+de cônes quadridimensionnel, qui est associé d'une part à "l'équation différentielle de "Monge"   
+
+𝐺 (cid:3436)
+
+𝑑𝑥(cid:2869)
+𝑑𝑝
+
+,
+
+𝑑𝑥(cid:2870)
+𝑑𝑝
+
+,
+
+𝑑𝑥(cid:2871)
+𝑑𝑝
+
+,
+
+𝑑𝑥(cid:2872)
+𝑑𝑝
+
+(cid:3440) = 0 
+
+et d'autre part à l'équation aux dérivées partielles de Hamilton 
+
+où H désigne la forme quadratique 
+
+𝐻 (cid:3436)
+
+𝜕𝑓
+𝜕𝑥(cid:2869)
+
+,
+
+𝜕𝑓
+𝜕𝑥(cid:2870)
+
+,
+
+𝜕𝑓
+𝜕𝑥(cid:2871)
+
+,
+
+𝜕𝑓
+𝜕𝑥(cid:2872)
+
+(cid:3440) = 0 
+
+  (30) 
+
+𝐻(𝑈1, 𝑈2, 𝑈3, 𝑈4) = (cid:3533) 𝑔(cid:3091)(cid:3092)𝑈𝜇𝑈𝜈
+
+ 
+
+(cid:3091),(cid:3092)
+
+réciproque à G. Les caractéristiques de l'équation différentielle partielle de Monge et en même 
+temps celles de Hamilton (30) sont les lignes géodésiques nulles. Toutes les lignes nulles 
+géodésiques ayant pour origine un point particulier  𝑎(cid:3046) (𝑠 = 1, 2, 3, 4) de l’espace génèrent une 
+variété de dimension 3, que nous appellerons la division temporelle appartenant au point de 
+l’espace  𝑎(cid:3046). Cette division a un nœud dont le cône tangent est précisément le cône nul 
+appartenant à  𝑎(cid:3046)  . Si nous transformons l'équation de la ligne de partage du temps sous la 
+forme 
+
+2“Räumliche Variationsprobleme mit symmetrischer Transversalitätsbedingung.” Leipziger Berichte, Math.-phys. Kl. 
+
+ 
+
+68 (1916) p. 50.   
+
+ 
+
+Page  4/23 
+
+ 
+
+THE FOUNDATIONS OF PHYSICS – SECOND COMMUNICATION - 1917 
+
+puis 
+
+𝑥(cid:2872) = 𝜑(𝑥(cid:2869), 𝑥(cid:2870), 𝑥(cid:2871)) 
+
+𝑓 = 𝑥(cid:2872) − 𝜑(𝑥(cid:2869), 𝑥(cid:2870), 𝑥(cid:2871)) 
+
+est une intégrale de l'équation différentielle de Hamilton (30). Toutes les lignes temporelles 
+ayant pour origine le point  𝑎(cid:3046)  restent totalement à l'intérieur de cette partie 
+quadridimensionnelle de l’espace dont la limite est la division temporelle de  𝑎(cid:3046). 
+
+Après ces préparatifs, nous abordons le problème de la causalité dans la nouvelle physique. 
+
+Jusqu'à présent, tous les systèmes de coordonnées  𝑥(cid:3046) qui résultent d'une transformation 
+
+arbitraire ont été considérés comme également valables. Cet arbitraire doit être restreint quand 
+on veut réaliser le concept selon lequel deux points de l’espace sur la même ligne de temps 
+peuvent être reliés comme cause et effet, et qu'il ne devrait plus être possible de transformer 
+ces points de l’espace comme étant simultanés. En déclarant  𝑥(cid:2872)  comme la véritable 
+coordonnée temporelle, nous adoptons la définition suivante : 
+
+Un véritable système de coordonnées spatio-temporelles est un système pour lequel les 
+
+quatre inégalités suivantes sont respectées, en plus de  g < 0 : 
+
+𝑔(cid:2869)(cid:2869) > 0,     (cid:4698)
+
+(cid:4698) > 0,     (cid:3629)
+
+𝑔(cid:2869)(cid:2869) 𝑔(cid:2869)(cid:2870)
+𝑔(cid:2870)(cid:2869) 𝑔(cid:2870)(cid:2870)
+
+𝑔(cid:2869)(cid:2869) 𝑔(cid:2869)(cid:2870) 𝑔(cid:2869)(cid:2871)
+𝑔(cid:2870)(cid:2869) 𝑔(cid:2870)(cid:2870) 𝑔(cid:2870)(cid:2871)
+𝑔(cid:2871)(cid:2869) 𝑔(cid:2871)(cid:2870) 𝑔(cid:2871)(cid:2871)
+
+(cid:3629) > 0,    𝑔(cid:2872)(cid:2872) < 0 
+
+  (31) 
+
+Une transformation qui transforme un tel système de coordonnées spatio-temporelles en un 
+autre véritable système de coordonnées spatio-temporelles est appelée une véritable 
+transformation de coordonnées spatio-temporelles. 
+
+Les quatre inégalités signifient qu'en tout point de l’espace  𝑎(cid:3046)  le cône nul associé exclut la 
+ligne d'espace   
+
+mais contient en son intérieur la ligne   
+
+𝑥(cid:2869) = 𝑎(cid:2869),         𝑥(cid:2870) = 𝑎(cid:2870),         𝑥(cid:2871) = 𝑎(cid:2871) 
+
+cette dernière ligne est donc toujours une ligne temporelle. 
+
+Soit une ligne temporelle quelconque  𝑥(cid:3046) = 𝑥(cid:3046)(𝑝)  donnée ; du fait que   
+
+il s'ensuit que dans un véritable système de coordonnées spatio-temporelles, nous devons 
+toujours avoir 
+
+𝑥(cid:2872) = 𝑎(cid:2872) 
+
+𝐺 (cid:3436)
+
+𝑑𝑥(cid:3046)
+𝑑𝑝
+
+(cid:3440) < 0 
+
+𝑑𝑥(cid:2872)
+𝑑𝑝
+
+≠ 0 
+
+Page  5/23 
+
+ 
+
+ 
+
+DAVID HILBERT 
+
+et donc que le long d'une ligne temporelle, la véritable coordonnée temporelle  𝑥(cid:2872)  doit 
+toujours augmenter resp. diminuer. Puisqu'une ligne temporelle reste une ligne temporelle lors 
+d’une quelconque transformation de coordonnées, ne peuvent jamais recevoir la même valeur 
+de la coordonnée temporelle  𝑥(cid:2872) par le biais d'une véritable transformation spatio-temporelle ; 
+c'est-à-dire qu'ils ne peuvent après transformation devenir simultanés. 
+
+D'autre part, si les points d'une courbe pouvaient être véritablement transformés pour être 
+
+simultanés, alors après cette transformation, nous aurions pour cette courbe 
+
+donc 
+
+𝑥(cid:2872) = 𝑐𝑜𝑛𝑠𝑡.    𝑐(cid:4593)𝑒𝑠𝑡 à 𝑑𝑖𝑟𝑒    
+
+𝑑𝑥(cid:2872)
+𝑑𝑝
+
+= 0 
+
+𝐺 (cid:3436)
+
+(cid:3440) = (cid:3533) 𝑔(cid:3091)(cid:3092)
+
+𝑑𝑥(cid:3046)
+𝑑𝑝
+
+𝑑𝑥𝜇
+𝑑𝑝
+
+𝑑𝑥𝜈
+𝑑𝑝
+
+(cid:3091),(cid:3092)
+
+,    (𝜇, 𝜈 = 1, 2, 3) 
+
+et ici le côté droit est positif à cause des trois premières de nos inégalités (31) ; la courbe 
+caractérise donc un segment. 
+
+Nous voyons donc que les concepts de cause et d'effet, qui sont à la base du principe de 
+
+causalité, ne conduisent pas non plus à des contradictions internes quelconques dans la 
+nouvelle physique, si nous considérons que les inégalités (31) font toujours partie de nos 
+équations de base, c'est-à-dire si nous nous limitons à utiliser les véritables coordonnées spatio-
+temporelles. 
+
+A ce stade, prenons note d'un système spécial de coordonnées spatio-temporelles qui sera 
+
+utile par la suite et que j'appellerai le système de coordonnées gaussien, car il s'agit de la 
+généralisation du système coordonnées polaires géodésiques introduit par Gauss dans la 
+théorie des surfaces. Dans notre espace à quatre dimensions, un espace tridimensionnel 
+quelconque est donné de sorte que toute courbe confinée dans cet espace soit un segment : un 
+espace de segments, comme j'aimerais l’appeler ; soit  𝑥(cid:2869), 𝑥(cid:2870), 𝑥(cid:2871)  les coordonnées d’un point 
+quelconque de cet espace. Nous allons maintenant construisons en chaque point  𝑥(cid:2869), 𝑥(cid:2870), 𝑥(cid:2871)  de 
+cet espace, la géodésique orthogonale à celui-ci, qui sera une ligne temporelle, et sur cette 
+ligne, nous marquons  𝑥(cid:2872)  le temps propre ; le point de cet espace quadridimensionnel ainsi 
+obtenu reçoit les coordonnées  𝑥(cid:2869), 𝑥(cid:2870), 𝑥(cid:2871), 𝑥(cid:2872). Dans ces coordonnées, nous avons, comme on le 
+voit facilement, 
+
+2
+𝐺(𝑋𝑠) = (cid:3533) 𝑔𝜇𝜈𝑋𝜇𝑋𝜈 − 𝑋4
+
+ 
+
+(cid:2869),(cid:2870),(cid:2871)
+
+𝜇,𝜈
+
+c'est-à-dire que le système de coordonnées gaussien est caractérisé analytiquement par les 
+équations suivantes 
+
+𝑔(cid:2869)(cid:2872) = 0,   𝑔(cid:2870)(cid:2872) = 0,   𝑔(cid:2871)(cid:2872) = 0,   𝑔(cid:2872)(cid:2872) = −1 
+
+ 
+
+Page  6/23 
+
+  (32) 
+
+  (33) 
+
+ 
+
+THE FOUNDATIONS OF PHYSICS – SECOND COMMUNICATION - 1917 
+
+En raison de la nature de l'espace tridimensionnel  𝑥(cid:2872) = 0  que nous avons présupposé, la 
+forme quadratique du côté droit de (32) dans les variables  𝑋(cid:2869), 𝑋(cid:2870), 𝑋(cid:2871)  est nécessairement 
+définie positive, donc les trois premières des inégalités (31) sont satisfaites, et puisque cela 
+s'applique également à la quatrième, le système de coordonnées gaussien s'avère toujours être 
+un véritable système de coordonnées spatio-temporel. 
+
+Nous revenons maintenant à l'étude du principe de causalité en physique. Comme contenu 
+principal, nous considérons le fait, valable jusqu'à présent dans toutes les théories physiques, 
+qu'à partir de la connaissance des grandeurs physiques et de leurs dérivées temporelles dans le 
+présent, les valeurs futures de ces grandeurs peuvent toujours être déterminées : sans 
+exception, les lois de la physique jusqu'à présent ont été exprimées dans un système 
+d'équations différentielles dans lequel le nombre des fonctions qui y apparaissent était 
+essentiellement le même que le nombre d'équations différentielles indépendantes ; et ainsi le 
+théorème général bien connu de Cauchy sur l'existence d'intégrales d'équations différentielles 
+partielles offrait directement la justification de la preuve du fait ci-dessus. 
+
+Or, comme je l'ai particulièrement souligné dans ma première communication, les équations 
+
+fondamentales de la physique (4) et (5) établies là ne sont nullement du type caractérisé ci-
+dessus; au contraire, selon le Théorème I, quatre d'entre elles sont une conséquence des 
+autres : nous avons considéré les quatre équations de Maxwell (5) comme une conséquence des 
+dix équations gravitationnelles (4), et ainsi nous n'avons pour les 14 potentiels  𝑔(cid:3091)(cid:3092), 𝑞(cid:3046)  que 10 
+équations (4) qui sont essentiellement indépendantes les unes des autres. 
+
+Dès lors que nous maintenons l'exigence d'invariance générale pour les équations de base de 
+la physique, la circonstance que nous venons de mentionner est essentielle et même nécessaire. 
+Car s'il y avait d'autres équations invariantes, indépendantes de (4), pour les 14 potentiels, alors 
+l'introduction d'un système de coordonnées gaussien conduirait aux 10 quantités physiques 
+selon (33), 
+
+𝑔(cid:3091)(cid:3092)   (𝜇, 𝜈 = 1, 2, 3),       𝑞(cid:3046)   (𝑠 = 1, 2, 3, 4) 
+
+à un système d'équations qui seraient à nouveau mutuellement indépendantes, et 
+mutuellement contradictoires, car il y en a plus de 10. 
+
+Dans de telles circonstances, comme c'est le cas dans la nouvelle physique de la relativité 
+générale, il n'est en aucun cas possible, à partir de la connaissance des grandeurs physiques 
+présentes et passées, de déduire de manière unique leurs valeurs futures. Pour le montrer 
+intuitivement sur un exemple, que nos équations de base (4) et (5) de la première 
+communication soient intégrées dans le cas particulier correspondant à la présence d'un seul 
+électron en permanence au repos, de sorte que les 14 potentiels 
+
+𝑔(cid:3091)(cid:3092) = 𝑔(cid:3091)(cid:3092)(𝑥(cid:2869), 𝑥(cid:2870), 𝑥(cid:2871)) 
+
+𝑞(cid:3046) = 𝑔(cid:3046)(𝑥(cid:2869), 𝑥(cid:2870), 𝑥(cid:2871)) 
+
+ 
+
+Page  7/23 
+
+ 
+
+DAVID HILBERT 
+
+deviennent des fonctions définies de  𝑥(cid:2869), 𝑥(cid:2870), 𝑥(cid:2871)  toutes indépendantes du temps  𝑥(cid:2872)  et en outre 
+de telle sorte que les trois premières composantes  𝑟(cid:2869), 𝑟(cid:2870), 𝑟(cid:2871)  de la densité de quatre courants 
+disparaissent. Ensuite, nous appliquons à ces potentiels la transformation de coordonnées 
+suivante : 
+
+𝑥(cid:2869) = 𝑥′(cid:2869)                    𝑝𝑜𝑢𝑟 𝑥′(cid:2872) ≤ 0
+
+(cid:2879)
+
+(cid:3421)
+(cid:2869)
+(cid:3118)     𝑝𝑜𝑢𝑟 𝑥′(cid:2872) > 0
+(cid:3051)(cid:4593)(cid:3120)
+𝑥(cid:2869) = 𝑥′(cid:2869) + 𝑒
+𝑥(cid:2870) = 𝑥′(cid:2870)                                           
+𝑥(cid:2871) = 𝑥′(cid:2871)                                           
+𝑥(cid:2872) = 𝑥′(cid:2872)                                           
+
+ 
+
+Pour  𝑥′(cid:2872) ≤ 0  les potentiels transformés  𝑔′(cid:3091)(cid:3092), 𝑞′(cid:3046)  sont les mêmes fonctions de  𝑥′(cid:2869), 𝑥′(cid:2870), 𝑥′(cid:2871) 
+
+que  𝑔(cid:3091)(cid:3092), 𝑞(cid:3046)  de celles des variables d'origine𝑥(cid:2869), 𝑥(cid:2870), 𝑥(cid:2871), alors que  𝑔′(cid:3091)(cid:3092), 𝑞′(cid:3046)  pour  𝑥′(cid:2872) > 0 
+dépendent de manière essentielle également de la coordonnée temporelle  𝑥′(cid:2872), c'est-à-dire que 
+les potentiels  𝑔′(cid:3091)(cid:3092), 𝑞′(cid:3046)  représentent un électron qui est au repos  𝑥′(cid:2872) = 0    jusqu'à ce qu'il 
+mette ses composantes en mouvement. 
+
+Néanmoins, je crois qu'il est seulement nécessaire de formuler plus nettement l'idée sur 
+
+laquelle repose le principe de la relativité générale3, afin de maintenir le principe de causalité 
+également dans la nouvelle physique. C'est-à-dire que, pour suivre l'essence du principe de la 
+nouvelle relativité, nous devons exiger l'invariance non seulement pour les lois générales de la 
+physique, mais nous devons accorder l'invariance à chaque énoncé distinct de la physique qui 
+doit avoir une signification physique - conformément à ceci, qu'en dernière analyse, il doit être 
+possible d'établir chaque fait physique par un fil ou une horloge lumineuse, c'est-à-dire des 
+instruments de caractère invariant. Dans la théorie des courbes et des surfaces, où un énoncé 
+dans une paramétrisation choisie de la courbe ou de la surface n'a aucune signification 
+géométrique pour la courbe ou la surface elle-même, si cet énoncé ne reste pas invariant sous 
+n'importe quelle transformation arbitraire des paramètres ou ne peut pas être amené à une 
+forme invariante ; de même, en physique, nous devons caractériser un énoncé qui ne reste pas 
+invariant sous n'importe quelle transformation arbitraire du système de coordonnées comme 
+n'ayant aucun sens physique. Par exemple, dans le cas considéré ci-dessus de l'électron au 
+repos, l'affirmation que, disons au moment  𝑥(cid:2872) = 1  cet électron est au repos, n'a aucune 
+signification physique parce que cette affirmation n'est pas invariante. 
+
+En ce qui concerne le principe de causalité, les quantités physiques et leurs dérivées 
+
+temporelles étant connues au présent dans un système de coordonnées donné : alors une 
+déclaration n'aura de sens physique que si elle est invariante sous toutes ces transformations, 
+pour lesquelles les coordonnées qui viennent d'être utilisées pour le présent restent 
+
+ 
+
+3  Dans sa théorie originale, maintenant abandonnée, A. Einstein (Sitzungsberichte der Akad. zu Berlin, 1914, p. 
+1067) avait en effet postulé certaines 4 équations non-invariantes pour les  𝑔(cid:3091)(cid:3092)  afin de sauver le principe de 
+causalité dans son ancienne forme. 
+
+ 
+
+Page  8/23 
+
+ 
+
+THE FOUNDATIONS OF PHYSICS – SECOND COMMUNICATION - 1917 
+
+inchangées; je maintiens que les déclarations de ce type sont toutes déterminées dans le futur 
+de manière unique, c'est-à-dire que le principe de causalité s'applique dans cette formulation. 
+
+De la connaissance actuelle des 14 potentiels physiques  𝑔(cid:3091)(cid:3092) , 𝑞(cid:3046)  découlent nécessairement 
+et uniquement toutes les déclarations à leur sujet pour l'avenir, à condition qu'elles aient un sens 
+physique. 
+
+Pour prouver cette proposition, nous utilisons le système de coordonnées de l'espace-temps 
+
+gaussien. L'introduction de (33) dans les équations de base (4) de la première communication 
+donne pour les 10 potentiels   
+
+𝑔(cid:3091)(cid:3092)   (𝜇, 𝜈 = 1, 2, 3),       𝑞(cid:3046)   (𝑠 = 1, 2, 3, 4) 
+
+  (34) 
+un système d’autant d'équations différentielles partielles; si nous intégrons celles-ci sur la base 
+des valeurs initiales données, nous trouvons de façon unique les valeurs de (34) pour  𝑥(cid:2872) > 0. 
+Puisque le système de coordonnées gaussien est lui-même déterminé de façon unique, par 
+conséquent, toutes les déclarations concernant ces potentiels (34) par rapport à ces 
+coordonnées sont également de caractère invariant. 
+
+Les formes sous lesquelles les déclarations physiquement significatives, i.e. invariantes, 
+
+peuvent être exprimées mathématiquement, sont très variées. 
+
+Premièrement. Cela peut être fait au moyen d'un système de coordonnées invariant. Comme 
+le système gaussien utilisé ci-dessus, on peut appliquer le système riemannien bien connu, ainsi 
+que le système de coordonnées de l'espace-temps dans lequel l'électricité apparaît au repos 
+avec une densité de courant unitaire. Comme à la fin de la première communication, désignons 
+par  𝑓(𝑞)  la fonction apparaissant dans le principe de Hamilton et dépendant de l'invariant 
+
+puis 
+
+𝑞 = (cid:3533) 𝑞(cid:3038)𝑞(cid:3039)𝑔(cid:3038)(cid:3039)
+
+ 
+
+(cid:3038),(cid:3039)
+
+𝑟 (cid:3046) =
+
+𝜕𝑓(𝑞)
+ 
+𝜕𝑞(cid:3046)
+
+est la quadri-densité de courant électrique ; elle représente un vecteur contravariant et peut 
+donc certainement être transformée en  (0, 0, 0, 1)  comme on le voit facilement. Si cela est 
+fait, alors à partir des quatre équations 
+
+𝜕𝑓(𝑞)
+𝜕𝑞(cid:3046)
+
+= 0   (𝑠 = 1, 2, 3),    
+
+𝜕𝑓(𝑞)
+𝜕𝑞(cid:2872)
+
+= 1 
+
+les quatre composantes du quadri-potentiel  𝑞(cid:3046)  peuvent être exprimées en termes de  𝑔(cid:3091)(cid:3092)  et 
+toute relation entre les  𝑔(cid:3091)(cid:3092)  dans ce système ou dans l'un des deux premiers systèmes de 
+coordonnées est alors un énoncé invariant. Pour des solutions particulières des équations de 
+base, il peut exister des systèmes de coordonnées invariants spéciaux ; par exemple, dans le cas 
+
+ 
+
+Page  9/23 
+
+ 
+
+DAVID HILBERT 
+
+traité ci-dessous du champ gravitationnel à symétrie centrale, les  𝑟, 𝜃, 𝜑, 𝑡  forment un système 
+de coordonnées invariant jusqu'aux rotations. 
+
+Deuxièmement. L'affirmation selon laquelle on peut trouver un système de coordonnées dans 
+
+lequel les 14 potentiels  𝑔(cid:3091)(cid:3092) , 𝑞(cid:3046)  ont certaines valeurs définies dans le futur, ou remplissent 
+certaines conditions définies, est toujours un invariant et donc une affirmation physiquement 
+significative. L'expression mathématiquement invariante d'une telle affirmation est obtenue en 
+éliminant les coordonnées de ces relations. Le cas considéré ci-dessus, celui de l'électron au 
+repos, en fournit un exemple : le contenu essentiel et physiquement significatif du principe de 
+causalité est ici exprimé par l'affirmation que l'électron qui est au repos pendant le temps  𝑥(cid:2872) ≤
+0  restera également au repos dans toutes ses parties pour le futur  𝑥(cid:2872) > 0, pour un système de 
+coordonnées spatio-temporel convenablement choisi. 
+
+Troisièmement. Une affirmation est également invariante et a donc une signification 
+physique si elle est censée être valable dans tout système de coordonnées arbitraire. Un 
+exemple de ceci sont les équations énergie-impulsion d'Einstein ayant un caractère de 
+divergence. En effet, bien que l'énergie d'Einstein n'ait pas la propriété d'invariance, et que les 
+équations différentielles qu'il a établies pour ses composantes ne soient nullement covariantes 
+en tant que système d'équations, l'affirmation qu'elles contiennent, à savoir qu'elles seront 
+satisfaites dans n'importe quel système de coordonnées, est une exigence invariante et a donc 
+une signification physique. 
+
+Selon mon exposé, la physique est une pseudo-géométrie à quatre dimensions, dont la 
+
+métrique  𝑔(cid:3091)(cid:3092)  est reliée aux grandeurs électromagnétiques, c'est-à-dire à la matière, par les 
+équations de base (4) et (5) de ma première communication. Si l'on comprend bien, une vieille 
+question géométrique devient mûre pour être résolue, à savoir si et dans quel sens la géométrie 
+euclidienne - dont les mathématiques nous apprennent seulement qu'elle est une géométrie à 
+quatre dimensions - est une géométrie à quatre dimensions. 
+
+L'ancienne physique, avec le concept de temps absolu, a repris les théorèmes de la 
+
+géométrie euclidienne et les a placés sans conteste à la base de toute théorie physique. Gauss 
+aussi ne procéda guère différemment : il construisit une physique hypothétique non 
+euclidienne, en maintenant le temps absolu et en révoquant seulement l'axiome du parallèle 
+des propositions de la géométrie euclidienne ; une mesure des angles d'un triangle de grandes 
+dimensions lui montra l'invalidité de cette physique non euclidienne. 
+
+La nouvelle physique du principe de relativité générale d'Einstein adopte une position 
+
+totalement différente vis-à-vis de la géométrie. Elle ne prend ni la géométrie d'Euclide ni aucune 
+autre géométrie particulière a priori comme base, afin d'en déduire les lois physiques 
+appropriées, mais, comme je l'ai montré dans ma première communication, la nouvelle 
+physique fournit d'un seul coup, par le biais du même principe de Hamilton, les lois 
+géométriques et physiques, à savoir les équations de base (4) et (5), qui nous disent comment la 
+
+ 
+
+Page  10/23 
+
+ 
+
+THE FOUNDATIONS OF PHYSICS – SECOND COMMUNICATION - 1917 
+
+métrique  𝑔(cid:3091)(cid:3092)  - en même temps l'expression mathématique du phénomène de la gravitation - 
+est liée aux valeurs  𝑞(cid:3046)  des potentiels électrodynamiques. 
+
+La géométrie euclidienne est une loi d'action à distance étrangère à la physique moderne : En 
+révoquant la géométrie euclidienne comme présupposé général de la physique, la théorie de la 
+relativité soutient au contraire que la géométrie et la physique ont un caractère identique et 
+reposent comme une seule science sur un fondement commun. 
+
+La question géométrique mentionnée ci-dessus consiste à déterminer si et dans quelles 
+
+conditions la pseudo-géométrie euclidienne à quatre dimensions... 
+
+𝑔(cid:2869)(cid:2869) = 1,   𝑔(cid:2870)(cid:2870) = 1,   𝑔(cid:2871)(cid:2871) = 1,   𝑔(cid:2872)(cid:2872) = −1,   
+𝑔(cid:3091)(cid:3092) = 0   (𝜇 ≠ 𝜈)                                                
+
+  (35) 
+
+est une solution, voire la seule solution régulière, des équations physiques de base. 
+
+Les équations de base (4) de ma première communication sont, en raison de l'hypothèse (20) 
+
+Lorsque les valeurs (35) sont substituées, nous avons 
+
+(cid:3427)(cid:3493)𝑔𝐾(cid:3431)
+
+= 0 
+
+𝜇𝜈
+
+  (36) 
+
+qui y est faite : 
+
+où 
+
+ 
+
+et pour 
+
+nous avons 
+
+(cid:3427)(cid:3493)𝑔𝐾(cid:3431)
+
++
+
+𝜇𝜈
+
+𝜕(cid:3493)𝑔𝐿
+𝜕𝑔𝜇𝜈 = 0 
+
+(cid:3427)(cid:3493)𝑔𝐾(cid:3431)
+
+= (cid:3493)𝑔 (cid:3436)𝐾𝜇𝜈 −
+
+𝜇𝜈
+
+1
+
+2
+
+𝐾𝑔𝜇𝜈(cid:3440) 
+
+𝑞(cid:3046) = 0    (𝑠 = 1, 2, 3, 4) 
+
+𝜕(cid:3493)𝑔𝐿
+𝜕𝑔𝜇𝜈 = 0 
+
+c'est-à-dire que, lorsque toutes les charges électriques sont supprimées, la géométrie pseudo-
+euclidienne est possible. La question de savoir si elle est également nécessaire dans ce cas, 
+c'est-à-dire si - ou sous certaines conditions supplémentaires - les valeurs (35), et celles des  𝑔(cid:3091)(cid:3092) 
+résultant de la transformation des coordonnées de ces dernières, sont les seules solutions 
+régulières des équations (36) est un problème mathématique qu'il n'y a pas lieu de discuter ici 
+en général. Je me limiterai plutôt à présenter quelques réflexions concernant ce problème en 
+particulier. 
+
+ 
+
+Page  11/23 
+
+ 
+
+DAVID HILBERT 
+
+Pour cela, nous revenons aux coordonnées du monde original de ma première 
+
+communication 
+
+𝑤(cid:2869) = 𝑥(cid:2869),    𝑤(cid:2870) = 𝑥(cid:2870),    𝑤(cid:2871) = 𝑥(cid:2871),    𝑤(cid:2872) = 𝑖𝑥(cid:2872),     
+
+et donnons la signification correspondante aux  𝑔(cid:3091)(cid:3092). 
+
+Dans le cas de la géométrie pseudo-euclidienne, nous avons 
+
+où 
+
+𝑔(cid:3091)(cid:3092) = 𝛿(cid:3091)(cid:3092) 
+
+𝛿(cid:3091)(cid:3091) = 1,        𝛿(cid:3091)(cid:3092) = 0  (𝜇 ≠ 𝜈) 
+
+Pour chaque métrique dans le voisinage de cette géométrie pseudo-euclidienne, l'ansatz 
+
+  (37) 
+est valide, où  𝜀  est une quantité tendant vers zéro, et  ℎ(cid:3091)(cid:3092)  sont des fonctions de la  𝑤(cid:3046). Je fais 
+les deux hypothèses suivantes sur la métrique (37): 
+
+ 
+
+𝑔(cid:3091)(cid:3092) = 𝛿(cid:3091)(cid:3092) + 𝜀ℎ(cid:3091)(cid:3092) + ⋯ 
+
+I. Les  ℎ(cid:3091)(cid:3092)  sont indépendants de la variable  𝑤(cid:2872) 
+
+II. Les  ℎ(cid:3091)(cid:3092)  doivent présenter un certain comportement régulier à l'infini. 
+
+Maintenant, si la métrique (37) doit satisfaire l'équation différentielle (36) pour tout  𝜀  alors 
+
+il s'ensuit que les  ℎ(cid:3091)(cid:3092)  doivent nécessairement satisfaire certaines équations différentielles 
+partielles homogènes linéaires du second ordre. Si nous substituons, en suivant Einstein4 
+
+ℎ(cid:3091)(cid:3092) = 𝑘(cid:3091)(cid:3092) −
+
+𝛿(cid:3091)(cid:3092) (cid:3533) 𝑘(cid:3046)(cid:3046)
+
+,    (cid:3435)𝑘(cid:3091)(cid:3092) = 𝑘(cid:3092)(cid:3091)(cid:3439) 
+
+1
+2
+
+(cid:3046)
+
+et assumer parmi les 10 fonctions  𝑘(cid:3091)(cid:3092)  les quatre relations 
+
+alors ces équations différentielles deviennent: 
+
+𝑑𝑘(cid:3091)(cid:3046)
+𝑑𝑤(cid:3046)
+
+(cid:3533)
+(cid:3046)
+
+= 0,    (𝜇 = 1, 2, 3, 4) 
+
+où l'abréviation 
+
+a été utilisée.. 
+
+𝑘(cid:3091)(cid:3092) = 0 
+
+𝜕(cid:2870)
+(cid:2870)
+𝜕𝑤(cid:3046)
+
+ 
+
+ = (cid:3533)
+(cid:3046)
+
+  (38) 
+
+  (39) 
+
+  (40) 
+
+4  “Näherungsweise Integration der Feldgleichungen der Gravitation.” Berichte d. Akad. zu Berlin 1916, p.688   
+
+ 
+
+ 
+
+Page  12/23 
+
+ 
+
+THE FOUNDATIONS OF PHYSICS – SECOND COMMUNICATION - 1917 
+
+En raison de l'ansatz (38), les relations (39) sont des hypothèses restrictives pour les 
+fonctions  ℎ(cid:3091)(cid:3092); cependant, je vais montrer comment on peut toujours obtenir, par une 
+transformation infinitésimale appropriée des variables  𝑤(cid:2869),    𝑤(cid:2870),    𝑤(cid:2871),    𝑤(cid:2872), que ces hypothèses 
+restrictives soient satisfaites pour les fonctions  ℎ′(cid:3091)(cid:3092)  correspondantes après la transformation. 
+
+Pour cela il faut déterminer quatre fonctions  𝜑(cid:2869),    𝜑(cid:2870),    𝜑(cid:2871),    𝜑(cid:2872), qui satisfont 
+
+respectivement les équations différentielles 
+
+  (41) 
+
+Au moyen de la transformation infinitésimale 
+
+𝜑(cid:3091) =
+
+1
+2
+
+𝜕
+𝜕𝑤(cid:3091)
+
+(cid:3533) ℎ(cid:3092)(cid:3092)
+(cid:3092)
+
+− (cid:3533)
+(cid:3092)
+
+𝜕ℎ(cid:3091)(cid:3092)
+𝜕𝑤(cid:3092)
+
+ 
+
+𝑤(cid:3046) = 𝑤′(cid:3046) + 𝜀𝜑(cid:3046) 
+
+𝑔(cid:3091)(cid:3092)  devient : 
+
+𝑔′(cid:3091)(cid:3092) = 𝑔(cid:3091)(cid:3092) + 𝜀 (cid:3533) 𝑔(cid:3080)(cid:3092)
+
++ 𝜀 (cid:3533) 𝑔(cid:3080)(cid:3091)
+
+𝜕𝜑(cid:3080)
+𝜕𝑤(cid:3091)
+
+(cid:3080)
+
+(cid:3080)
+
+𝜕𝜑(cid:3080)
+𝜕𝑤(cid:3092)
+
++ ⋯ 
+
+où, en raison de (37), elles deviennent 
+
+où j'ai mis 
+
+Si nous choisissons maintenant 
+
+𝑔′(cid:3091)(cid:3092) = 𝛿(cid:3091)(cid:3092) + 𝜀ℎ′(cid:3091)(cid:3092) + ⋯ 
+
+ℎ′(cid:3091)(cid:3092) = ℎ(cid:3091)(cid:3092) +
+
+𝜕𝜑(cid:3092)
+𝜕𝑤(cid:3091)
+
++
+
+𝜕𝜑(cid:3091)
+𝜕𝑤(cid:3091)
+
+ 
+
+𝑘(cid:3091)(cid:3092) = ℎ′(cid:3091)(cid:3092) −
+
+𝛿(cid:3091)(cid:3092) (cid:3533) ℎ′(cid:3046)(cid:3046)
+
+, 
+
+(cid:3046)
+
+1
+2
+
+(cid:3046)
+
+𝜕(cid:2870)𝑘(cid:3091)(cid:3092)
+𝜕𝑤(cid:2869)
+
+(cid:2870) +
+
+𝜕(cid:2870)𝑘(cid:3091)(cid:3092)
+𝜕𝑤(cid:2870)
+
+(cid:2870) +
+
+𝜕(cid:2870)𝑘(cid:3091)(cid:3092)
+𝜕𝑤(cid:2871)
+
+(cid:2870) = 0 
+
+alors ces fonctions satisfont la condition d'Einstein (39) en raison de (41), et nous avons 
+
+ℎ′(cid:3091)(cid:3092) = 𝑘(cid:3091)(cid:3092) −
+
+𝛿(cid:3091)(cid:3092) (cid:3533) 𝑘(cid:3046)(cid:3046)
+
+,    (cid:3435)𝑘(cid:3091)(cid:3092) = 𝑘(cid:3092)(cid:3091)(cid:3439) 
+
+1
+2
+
+Les équations différentielles (40), qui doivent être valides selon l'argument ci-dessus pour les 
+𝑘(cid:3091)(cid:3092)  que nous avons trouvés, deviennent en raison de l'hypothèse I : 
+
+et, puisque l'hypothèse II - mutatis mutandis - permet de conclure que les  𝑘(cid:3091)(cid:3092)  se rapprochent 
+de constantes à l'infini, il s'ensuit que celles-ci doivent être constantes en général, c'est-à-dire : 
+En faisant varier la métrique de la géométrie pseudo-euclidienne sous les hypothèses I et II, il 
+
+ 
+
+Page  13/23 
+
+ 
+
+DAVID HILBERT 
+
+n'est pas possible d'obtenir une métrique régulière qui ne soit pas non plus pseudo-euclidienne 
+et qui corresponde aussi à un monde sans électricité. 
+
+L'intégration des équations aux dérivées partielles (36) peut être effectuée dans un autre cas 
+encore, traité d'abord par Einstein5  et par Schwarzschild6. Dans ce qui suit, je présente pour ce 
+cas une procédure qui ne fait aucune hypothèse sur les potentiels gravitationnels  𝑔(cid:3091)(cid:3092)  à l'infini, 
+et qui offre en outre des avantages pour mes recherches ultérieures. Les hypothèses concernant 
+les  𝑔(cid:3091)(cid:3092)  sont les suivantes 
+
+1. La métrique est représentée dans un système de coordonnées gaussien, sauf que  𝑔(cid:2872)(cid:2872)  est 
+
+laissé arbitraire, c'est-à-dire que nous avons   
+
+𝑔(cid:2869)(cid:2872) = 0,    𝑔(cid:2870)(cid:2872)(cid:2880)(cid:2868),    𝑔(cid:2871)(cid:2872) = 0,     
+2. Les  𝑔(cid:3091)(cid:3092)  sont indépendants de la coordonnée temporelle  𝑥(cid:2872) 
+
+3. La gravitation  𝑔(cid:3091)(cid:3092)  est à symétrie centrale par rapport à l'origine des coordonnées. 
+
+Selon Schwarzschild, la métrique la plus générale conforme à ces hypothèses est représentée 
+
+en coordonnées polaires, où 
+
+𝑤(cid:2869) = 𝑟 𝑐𝑜𝑠𝜃 
+𝑤(cid:2870) = 𝑟 𝑠𝑖𝑛𝜃 𝑐𝑜𝑠𝜑 
+𝑤(cid:2871) = 𝑟 𝑠𝑖𝑛𝜃 𝑠𝑖𝑛𝜑 
+𝑤(cid:2872) = 𝑙 
+
+par l'expression 
+
+où  𝐹(𝑟), 𝐺(𝑟), 𝐻(𝑟)  sont toujours des fonctions arbitraires de  𝑟. Si nous posons 
+
+𝐹(𝑟) 𝑑𝑟(cid:2870)   +  𝐺(𝑟) (𝑑𝜃(cid:2870) + 𝑠𝑖𝑛(cid:2870)𝜃 𝑑𝜑(cid:2870))  +  𝐻(𝑟) 𝑑𝑙(cid:2870) 
+
+  (42) 
+
+𝑟∗ = (cid:3493)𝐺(𝑟) 
+
+alors nous sommes également justifiés d'interpréter  𝑟∗, 𝜃, 𝜑  comme des coordonnées polaires 
+spatiales. Si nous introduisons  𝑟∗  dans (42) au lieu de  𝑟  et que nous éliminons ensuite le signe 
+
+∗  , le résultat est l'expression suivante 
+
+𝑀(𝑟) 𝑑𝑟(cid:2870)   +   𝑟(cid:2870) (𝑑𝜃(cid:2870) + 𝑠𝑖𝑛(cid:2870)𝜃 𝑑𝜑(cid:2870))   +  𝑊(𝑟) 𝑑𝑙(cid:2870) 
+
+  (43) 
+où  𝑀(𝑟), 𝑊(𝑟)  désignent les deux fonctions essentielles et arbitraires de  𝑟. La question est de 
+savoir si et comment celles-ci peuvent être déterminées de la manière la plus générale de sorte 
+que les équations différentielles (36) soient satisfaites. 
+
+5  “Perihelbewegung des Merkur.” Situngsber. d. Akad. zu Berlin. 1915, p. 831 
+
+ 
+
+6  “Über das Gravitationsfeld eines Massenpunktes.” Sitzungsber. d. Akad. zu Berlin. 1916, p. 189 
+
+ 
+
+Page  14/23 
+
+ 
+
+THE FOUNDATIONS OF PHYSICS – SECOND COMMUNICATION - 1917 
+
+A cette fin, les expressions bien connues  𝐾(cid:3091)(cid:3092), 𝐾  données dans ma première communication 
+
+doivent être calculées. La première étape consiste à dériver les équations différentielles des 
+lignes géodésiques par variation de l'intégrale 
+
+(cid:3505) (cid:4678)𝑀 (cid:3436)
+
++   𝑟(cid:2870) (cid:3436)
+
++ 𝑟(cid:2870)𝑠𝑖𝑛(cid:2870)𝜃 (cid:3436)
+
+(cid:3440)
+
++  𝑊 (cid:3436)
+
+(cid:2870)
+
+𝑑𝑟
+𝑑𝑝
+
+(cid:3440)
+
+(cid:2870)
+
+𝑑𝜃
+𝑑𝑝
+
+(cid:3440)
+
+(cid:2870)
+
+𝑑𝜑
+𝑑𝑝
+
+(cid:2870)
+(cid:3440)
+
+𝑑𝑙
+𝑑𝑝
+
+(cid:4679) 𝑑𝑝 
+
+Comme équations de Lagrange, on obtient celles-ci: 
+
+𝑑(cid:2870)𝑟
+𝑑𝑝(cid:2870) +
+
+1
+2
+
+𝑀′
+𝑀
+
+(cid:3436)
+
+𝑑𝑟
+𝑑𝑝
+
+(cid:2870)
+(cid:3440)
+
+−
+
+(cid:2870)
+(cid:3440)
+
+−
+
+𝑟
+𝑀
+
+𝑑𝜃
+(cid:3436)
+𝑑𝑝
+
+𝑠𝑖𝑛(cid:2870)𝜃 (cid:3436)
+
+(cid:2870)
+(cid:3440)
+
+𝑑𝜑
+𝑑𝑝
+
+1
+2
+
+𝑊(cid:4593)
+𝑀
+
+(cid:3436)
+
+𝑑𝑙
+𝑑𝑝
+
+(cid:2870)
+(cid:3440)
+
+−
+
+= 0 
+
+𝑟
+𝑀
+
+(cid:2870)
+(cid:3440)
+
+𝑑𝜑
+𝑑𝑝
+
+− 𝑠𝑖𝑛𝜃 𝑐𝑜𝑠𝜃 (cid:3436)
+
+= 0 
+
++ 2 𝑐𝑜𝑡𝜃
+
+𝑑𝜃
+𝑑𝑝
+
+𝑑𝜑
+𝑑𝑝
+
+= 0 
+
+2
+𝑟
+
+𝑑𝑟
+𝑑𝑝
+
+𝑑𝜃
+𝑑𝑝
+
+2
+𝑟
+
+𝑑𝑟
+𝑑𝑝
+
+𝑑𝜑
+𝑑𝑝
+
+𝑑(cid:2870)𝜃
+𝑑𝑝(cid:2870) +
+𝑑(cid:2870)𝜑
+𝑑𝑝(cid:2870) +
+𝑑(cid:2870)𝑙
+𝑑𝑝(cid:2870) +
+
+𝑊′
+𝑀
+
+𝑑𝑟
+𝑑𝑝
+
+𝑑𝑙
+𝑑𝑝
+
+= 0 
+
+Ici et dans les calculs suivants, le signe ' désigne la dérivée par rapport à  𝑟. Par comparaison 
+avec les équations différentielles générales des lignes géodésiques: 
+
+𝑑(cid:2870)𝑤(cid:3046)
+𝑑𝑝(cid:2870) + (cid:3533) (cid:4676)
+
+(cid:3091),(cid:3092)
+
+𝜇 𝜈
+
+𝑠
+
+(cid:4677)
+
+𝑑𝑤(cid:3091)
+𝑑𝑝
+
+𝑑𝑤(cid:3092)
+𝑑𝑝
+
+= 0 
+
+nous obtenons pour les symboles accolades  (cid:4676)
+étant omises: 
+
+𝜇 𝜈
+
+𝑠
+
+(cid:4677)  les valeurs suivantes, celles qui sont nulles 
+
+(cid:4677) = −
+
+ ,      
+
+(cid:4677) = −
+
+𝑠𝑖𝑛(cid:2870)𝜃,     
+
+1 1
+(cid:4676)
+
+(cid:4677) =
+
+4 4
+(cid:4676)
+
+(cid:4677) = −
+
+𝑀′
+𝑀
+1
+2
+
+ ,         
+𝑊(cid:4593)
+𝑀
+
+ ,    
+
+𝑟
+𝑀
+
+2 2
+(cid:4676)
+
+1
+
+(cid:4676)1 2
+
+(cid:4677) =
+
+2
+
+1
+𝑟
+
+1
+2
+
+1
+𝑟
+
+1
+
+1
+
+3
+
+3 3
+(cid:4676)
+
+1
+
+3 3
+
+2
+
+4
+
+𝑟
+𝑀
+
+1
+2
+
+𝑊′
+𝑀
+
+1 3
+(cid:4676)
+
+(cid:4677) =
+
+ ,              
+
+(cid:4677) = 𝑐𝑜𝑡𝜃 ,     
+
+1 4
+(cid:4676)
+
+(cid:4677) =
+
+,                
+
+2 3
+(cid:4676)
+
+3
+
+ ,           
+
+(cid:4676)
+
+ 
+(cid:4677) = −𝑠𝑖𝑛𝜃 𝑐𝑜𝑠𝜃,   
+
+Avec ces derniers, nous formons: 
+
+𝐾(cid:2869)(cid:2869) =
+
+𝜕
+
+𝜕𝑟
+
+1 1
+
+(cid:4672)(cid:4676)
+
+(cid:4677) + (cid:4676)
+
+1 2
+
+(cid:4677) + (cid:4676)
+
+1 3
+
+(cid:4677) + (cid:4676)
+
+1 4
+
+(cid:4677)(cid:4673) −
+
+1
+
+2
+
+3
+
+4
+
+𝜕
+
+𝜕𝑟
+
+(cid:4676)
+
+1 1
+
+(cid:4677) 
+
+1
+
+            + (cid:4676)
+
+1 1
+
+1 1
+
+(cid:4677) (cid:4676)
+
+(cid:4677) + (cid:4676)
+
+1 2
+
+2 1
+
+(cid:4677) (cid:4676)
+
+(cid:4677) + (cid:4676)
+
+1 3
+
+3 1
+
+(cid:4677) (cid:4676)
+
+(cid:4677) + (cid:4676)
+
+1 4
+
+4 1
+
+(cid:4677) (cid:4676)
+
+(cid:4677)  
+
+2
+
+2
+
+3
+
+3
+
+4
+
+4
+
+1
+
+1
+
+Page  15/23 
+
+ 
+
+ 
+
+ 
+
+DAVID HILBERT 
+
+           − (cid:4676)
+
+1 1
+
+1 1
+
+(cid:4677) (cid:4672)(cid:4676)
+
+(cid:4677) + (cid:4676)
+
+1 2
+
+(cid:4677) + (cid:4676)
+
+1 3
+
+(cid:4677) + (cid:4676)
+
+1 4
+
+(cid:4677)(cid:4673)  
+
+1
+
+1
+
+2
+
+3
+
+4
+
+       =  
+
+1
+2
+
+𝑊′′
+𝑊
+
++
+
+𝐾(cid:2870)(cid:2870) =
+
+𝜕
+𝜕𝜃
+
+(cid:4676)
+
+2 3
+
+3
+
+1
+4
+
+𝑊′(cid:2870)
+𝑊(cid:2870) −
+𝜕
+
+(cid:4677) −
+
+(cid:4676)
+
+𝜕𝑟
+
+2 2
+
+(cid:4677) 
+
+1
+
+1
+𝑟
+
+𝑀(cid:4593)
+𝑀
+
+−
+
+1
+4
+
+𝑀(cid:4593)
+𝑀
+
+𝑊(cid:4593)
+𝑊
+
+ 
+
+           + (cid:4676)
+
+2 1
+
+2 2
+
+(cid:4677) (cid:4676)
+
+(cid:4677) + (cid:4676)
+
+2 2
+
+1 2
+
+(cid:4677) (cid:4676)
+
+(cid:4677) + (cid:4676)
+
+2 3
+
+3 2
+
+(cid:4677) (cid:4676)
+
+(cid:4677)  
+
+1
+
+2
+
+3
+
+3
+
+          + (cid:4676)
+
+2 2
+
+1 1
+
+(cid:4677) (cid:4672)(cid:4676)
+
+(cid:4677) + (cid:4676)
+
+1 2
+
+(cid:4677) + (cid:4676)
+
+1 3
+
+(cid:4677) + (cid:4676)
+
+1 4
+
+(cid:4677)(cid:4673)  
+
+3
+
+4
+
+1
+𝑀
+
+𝑟
+2
+
+𝑀(cid:4593)
+𝑀(cid:2870) +
+3 3
+(cid:4676)
+
+(cid:4677) −
+
+1
+
+𝜕
+
+𝜕𝑟
+
+2
+𝑊(cid:4593)
+𝑊
+
+ 
+
++
+
+1
+2
+
+𝑟
+𝑀
+
+𝜕
+𝜕𝑟𝜃
+
+3 3
+(cid:4676)
+
+(cid:4677) 
+
+2
+
+       =   −1 +
+
+𝐾(cid:2871)(cid:2871) = −
+
+2
+
+1
+
+3
+
+1
+
+1
+
+1
+
+1
+
+1
+
+            + (cid:4676)
+
+3 1
+
+3 3
+
+(cid:4677) (cid:4676)
+
+(cid:4677) + (cid:4676)
+
+3 2
+
+3 3
+
+(cid:4677) (cid:4676)
+
+(cid:4677) + (cid:4676)
+
+3 3
+
+1 3
+
+(cid:4677) (cid:4676)
+
+(cid:4677) + (cid:4676)
+
+3 3
+
+2 3
+
+(cid:4677) (cid:4676)
+
+(cid:4677)  
+
+2
+
+1
+
+3
+
+2
+
+(cid:4677) (cid:4676)
+
+3 3
+
+2 3
+
+2
+
+3
+
+3
+
+(cid:4677)  
+
+           − (cid:4676)
+
+3 3
+
+1 1
+
+(cid:4677) (cid:4672)(cid:4676)
+
+(cid:4677) + (cid:4676)
+
+1 2
+
+(cid:4677) + (cid:4676)
+
+1 3
+
+(cid:4677) + (cid:4676)
+
+1 4
+
+(cid:4677)(cid:4673) − (cid:4676)
+
+3
+
+4
+
+       =   𝑠𝑖𝑛(cid:2870)𝜃 (cid:4678)−1 +
+
+𝑟
+2
+
+𝑀(cid:4593)
+𝑀(cid:2870) +
+
+1
+𝑀
+
++
+
+1
+2
+
+𝑟
+𝑀
+
+𝑊(cid:4593)
+𝑊
+
+(cid:4679) 
+
+𝐾(cid:2872)(cid:2872) = −
+
+𝜕
+
+𝜕𝑟
+
+4 4
+(cid:4676)
+
+1
+
+(cid:4677) + (cid:4676)
+
+4 1
+
+4 4
+
+(cid:4677) (cid:4676)
+
+(cid:4677) + (cid:4676)
+
+4 4
+
+4 1
+
+(cid:4677) (cid:4676)
+
+(cid:4677) 
+
+4
+
+1
+
+1
+
+4
+
+             − (cid:4676)
+
+4 4
+
+1 1
+
+(cid:4677) (cid:4672)(cid:4676)
+
+(cid:4677) + (cid:4676)
+
+1 2
+
+(cid:4677) + (cid:4676)
+
+1 3
+
+(cid:4677) + (cid:4676)
+
+1 4
+
+(cid:4677)(cid:4673)  
+
+1
+
+1
+
+3
+
+4
+
+    =  
+
+1
+2
+
+𝑊′′
+𝑀
+
+−
+
+1
+4
+
+𝑀(cid:4593)𝑊(cid:4593)
+𝑀(cid:2870) −
+
+1
+4
+
+𝑊′(cid:2870)
+𝑀𝑊
+
+1
+𝑟
+
+𝑊(cid:4593)
+𝑀
+
+ 
+
+3
+
+2
+
+2
+
+−
+
+𝐾 = (cid:3533) 𝑔(cid:3046)(cid:3046)
+
+𝐾(cid:3046)(cid:3046) =
+
+𝑊′′
+𝑀𝑊
+
+−
+
+𝑊(cid:4593)(cid:2870)
+𝑀𝑊(cid:2870) −
+
+1
+2
+
+2
+𝑟
+
+𝑀(cid:4593)
+𝑀(cid:2870) −
+
+1
+2
+
+𝑀(cid:4593)
+𝑀(cid:2870)
+
+𝑊(cid:4593)
+𝑊
+
+−
+
+2
+𝑟(cid:2870) +
+
+2
+
+𝑟(cid:2870)𝑀
+
++
+
+2
+𝑟𝑀
+
+𝑊(cid:4593)
+𝑊
+
+ 
+
+(cid:3046)
+
+Parce que 
+
+nous avons 
+
+Et si nous posons 
+
+𝐾(cid:3493)𝑔 = √𝑀𝑊 𝑟(cid:2870)𝑠𝑖𝑛𝜃 
+
+𝐾(cid:3493)𝑔 = (cid:4688)(cid:4678)
+
+(cid:4593)
+
+(cid:4679)
+
+− 2
+
+ 𝑟(cid:2870)𝑊(cid:4593)
+
+√𝑀𝑊
+
+𝑟𝑀(cid:4593)√𝑊
+
+(cid:2871)
+(cid:2870)(cid:3415)
+
+𝑀
+
+− 2√𝑀𝑊 + 2(cid:3496)
+
+(cid:4689) 𝑠𝑖𝑛𝜃 
+
+𝑊
+𝑀
+
+ 
+
+Page  16/23 
+
+ 
+
+THE FOUNDATIONS OF PHYSICS – SECOND COMMUNICATION - 1917 
+
+où maintenant  𝑚  et  𝑤  sont les fonctions inconnues de  𝑟  nous obtenons finalement 
+
+𝑀 =
+
+𝑟 − 𝑚
+
+𝑟
+
+,     𝑊 = 𝑤(cid:2870) 𝑟 − 𝑚
+
+ 
+
+𝑟
+
+𝐾(cid:3493)𝑔 = (cid:4682)(cid:4678)
+
+(cid:4679)
+
+− 2𝑤𝑚′(cid:4683) 𝑠𝑖𝑛𝜃 
+
+(cid:4593)
+
+ 𝑟(cid:2870)𝑊(cid:4593)
+
+√𝑀𝑊
+
+(cid:3505) (cid:3505) (cid:3505) (cid:3505) 𝐾(cid:3493)𝑔  𝑑𝑟 𝑑𝜃 𝑑𝜑 𝑑𝑙 
+
+de sorte que la variation de l'intégrale quadruple 
+
+est équivalent à la variation de l'intégrale simple 
+
+et conduit aux équations de Lagrange 
+
+(cid:3505) 𝑤𝑚′𝑑𝑟 
+
+𝑚(cid:4593) = 0 
+𝑤(cid:4593) = 0 
+
+ 
+
+  (44) 
+
+Il est facile de se convaincre que ces équations impliquent effectivement que tous les  𝐾(cid:3091)(cid:3092) 
+disparaissent ; elles représentent donc essentiellement la solution la plus générale des 
+équations (36) sous les hypothèses 1., 2., 3. que nous avons faites. Si nous prenons comme 
+intégrales de (44)  𝑚 = 𝛼, où  𝛼  est une constante, et  𝑤 = 1, qui n'est évidemment pas une 
+restriction essentielle, alors pour  𝑙 = 𝑖 𝑡, (43) aboutit à la métrique désirée sous la forme 
+trouvée pour la première fois par Schwarzschild 
+
+𝐺(𝑑𝑟, 𝑑𝜃, 𝑑𝜑, 𝑑𝑙) =
+
+𝑑𝑟(cid:2870) + 𝑟(cid:2870)𝑑𝜃(cid:2870) + 𝑟(cid:2870)𝑠𝑖𝑛(cid:2870)𝜃 𝑑𝜑(cid:2870) −
+
+  (45) 
+
+𝑟
+
+𝑟 − 𝛼
+
+𝑟 − 𝛼
+
+𝑟
+
+𝑑𝑡(cid:2870) 
+
+La singularité de la métrique en  𝑟 = 0  ne disparaît que si l'on prend  𝛼 = 0; autrement dit, 
+la métrique de la géométrie pseudo-euclidienne est la seule métrique régulière qui 
+corresponde à un monde sans électricité sous les hypothèses 1, 2 et 3. 
+
+Si  𝛼 ≠ 0  alors  𝑟 = 0  et, pour  𝛼  positif également  𝑟 = 𝛼  s'avèrent être des endroits 
+
+où la métrique n'est pas régulière. J'appelle ici une métrique ou un champ gravitationnel 
+𝑔(cid:3091)(cid:3092)  régulier en un lieu donné s'il est possible d'introduire par transformation à inverse 
+unique un système de coordonnées pour lequel les fonctions  𝑔′(cid:3091)(cid:3092)  correspondantes en ce 
+lieu sont régulières, c'est-à-dire qu'elles sont continues et arbitrairement différentiables en 
+ce lieu et dans son voisinage, et ont un déterminant  𝑔′  différent de zéro. 
+
+Bien que, selon moi, seules les solutions régulières des équations physiques de base 
+représentent directement la réalité, ce sont précisément les solutions comportant des 
+endroits non réguliers qui constituent un instrument mathématique important pour 
+l'approximation des solutions régulières caractéristiques - et en ce sens, à la suite d'Einstein 
+et de Schwarzschild, la métrique (45), non régulière en  𝑟 = 0  et  𝑟 = 𝛼, doit être 
+
+ 
+
+Page  17/23 
+
+ 
+
+DAVID HILBERT 
+
+considérée comme l'expression de la gravité d'une distribution de masse à symétrie 
+centrale dans le voisinage de l'origine7. Dans le même sens, une masse ponctuelle doit être 
+comprise comme la limite d'une certaine distribution des charges électriques autour d'un 
+point, mais je m'abstiens ici de dériver ses équations de mouvement à partir de mes 
+équations physiques de base. Une situation similaire prévaut pour la question sur les 
+équations différentielles de la propagation de la lumière. 
+
+À la suite d'Einstein, les deux axiomes suivants peuvent servir de substitut à une 
+
+dérivation à partir des équations de base : 
+
+Le mouvement d'une masse ponctuelle dans un champ gravitationnel est décrit par une 
+
+ligne géodésique, qui est une ligne de temps8. 
+
+Le mouvement de la lumière dans un champ gravitationnel est décrit par une ligne 
+
+géodésique nulle 
+
+Étant donné que la trajectoire représentant le mouvement d'une masse ponctuelle est 
+
+une ligne de temps, il est facile de voir qu'il est toujours possible d'amener la masse 
+ponctuelle au repos par de véritables transformations spatio-temporelles, c'est-à-dire qu'il 
+existe de véritables systèmes de coordonnées spatio-temporelles par rapport auxquels la 
+masse ponctuelle reste au repos. 
+
+Les équations différentielles des lignes géodésiques pour le champ gravitationnel à 
+
+symétrie centrale (45) découlent du problème variationnel 
+
+𝛿 (cid:3505) (cid:4678)
+
+𝑟
+
+𝑟 − 𝛼
+
+2
+(cid:3440)
+
+(cid:3436)
+
+𝑑𝑟
+
+𝑑𝑝
+
+2
+(cid:3440)
+
+𝑑𝜃
+
+𝑑𝑝
+
++ 𝑟2 (cid:3436)
+
++ 𝑟2𝑠𝑖𝑛2𝜃 (cid:3436)
+
+2
+(cid:3440)
+
+𝑑𝜑
+
+𝑑𝑝
+
+−
+
+𝑟 − 𝛼
+
+𝑟
+
+2
+(cid:3440)
+
+(cid:3436)
+
+𝑑𝑡
+
+𝑑𝑝
+
+(cid:4679) 𝑑𝑝 = 0 
+
+et devenir, par des méthodes bien connues: 
+
+𝑟
+
+𝑟 − 𝛼
+
+(cid:2870)
+(cid:3440)
+
+𝑑𝑟
+(cid:3436)
+𝑑𝑝
+
++ 𝑟(cid:2870)𝑠𝑖𝑛(cid:2870)𝜃 (cid:3436)
+
+(cid:2870)
+
+(cid:3440)
+
+−
+
+𝑑𝜑
+𝑑𝑝
+
+𝑟 − 𝛼
+
+𝑟
+
+(cid:2870)
+
+(cid:3436)
+
+𝑑𝑡
+𝑑𝑝
+
+(cid:3440)
+
+= 𝐴 
+
+(cid:2870)
+(cid:3440)
+
++ 𝑟(cid:2870) (cid:3436)
+
+𝑑𝜃
+𝑑𝑝
+(cid:3436)𝑟(cid:2870) 𝑑𝜃
+𝑑𝑝
+
+𝑑
+𝑑𝑝
+
+(cid:3440) − 𝑟(cid:2870)𝑠𝑖𝑛𝜃 𝑐𝑜𝑠𝜃 (cid:3436)
+
+= 0 
+
+(cid:2870)
+
+𝑑𝜑
+𝑑𝑝
+
+(cid:3440)
+
+𝑟(cid:2870)𝑠𝑖𝑛(cid:2870)𝜃
+
+= 𝐵 
+
+𝑑𝜑
+𝑑𝑝
+
+𝑟 − 𝛼
+
+𝑟
+
+𝑑𝑡
+𝑑𝑝
+
+= 𝐶 
+
+  (46) 
+
+  (47) 
+
+  (48) 
+
+  (49) 
+
+ 
+
+ 
+
+ 
+
+7  Transformer les lieux à l'origine, comme le fait Schwarzschild, n'est pas à recommander à mon avis. Mon avis , la 
+
+transformation de Schwarzschild n'est d'ailleurs pas la plus simple qui permette d'atteindre ce but.. 
+
+8  Ce dernier ajout restrictif ne se trouve ni chez Einstein ni chez Schwarzschild. 
+
+Page  18/23 
+
+ 
+
+THE FOUNDATIONS OF PHYSICS – SECOND COMMUNICATION - 1917 
+
+où A, B, C sont des constantes d’intégration.   
+
+Je prouve d'abord que les orbites dans l'espace  𝑟, 𝜃, 𝜑 sont toujours situées dans des 
+
+plans passant par le centre de la gravitation. 
+
+A cette fin, nous éliminons le paramètre p des équations différentielles (47) et (48) pour 
+
+obtenir une équation différentielle pour  𝜃  en fonction de  𝜑. Nous avons l'identité : 
+
+𝑑
+𝑑𝑝
+
+(cid:3436)𝑟(cid:2870) 𝑑𝜃
+𝑑𝑝
+
+(cid:3440) =
+
+𝑑
+𝑑𝑝
+
+(cid:3436)𝑟(cid:2870) 𝑑𝜃
+𝑑𝜑
+
+𝑑𝜑
+𝑑𝑝
+
+(cid:3440) = (cid:4678)2𝑟
+
+𝑑𝑟
+𝑑𝜑
+
+𝑑𝜃
+𝑑𝜑
+
++ 𝑟(cid:2870) 𝑑(cid:2870)𝜃
+
+𝑑𝜑(cid:2870)(cid:4679) (cid:3436)
+
+𝑑𝜑
+𝑑𝑝
+
+(cid:3440)
+
++ 𝑟(cid:2870) 𝑑𝜃
+𝑑𝜑
+
+𝑑(cid:2870)𝜑
+𝑑𝑝(cid:2870) 
+
+(cid:2870)
+
+  (50) 
+
+D'autre part, la différentiation de (48) par rapport à p donne: 
+
+(cid:3436)2𝑟
+
+𝑠𝑖𝑛(cid:2870)𝜃 + 2𝑟(cid:2870)𝑠𝑖𝑛𝜃 𝑐𝑜𝑠𝜃
+
++ 𝑟(cid:2870)𝑠𝑖𝑛(cid:2870)𝜃
+
+𝑑𝜃
+𝑑𝜑
+
+(cid:3440) (cid:3436)
+
+(cid:2870)
+
+𝑑𝜑
+𝑑𝑝
+
+(cid:3440)
+
+𝑑(cid:2870)𝜑
+𝑑𝑝(cid:2870) = 0 
+
+𝑑𝑟
+𝑑𝜑
+
+et si nous en prenons la valeur de 
+
+(cid:3031)(cid:3118)(cid:3101)
+(cid:3031)(cid:3043)(cid:3118)  et la substituons à la droite de (50), cela devient 
+
+𝑑
+𝑑𝑝
+
+(cid:3436)𝑟(cid:2870) 𝑑𝜃
+𝑑𝑝
+
+(cid:3440) = (cid:4678)
+
+𝑑(cid:2870)𝜃
+𝑑𝜑(cid:2870) − 2𝑐𝑜𝑡𝜃 (cid:3436)
+
+𝑑𝜃
+𝑑𝜑
+
+(cid:2870)
+
+(cid:3440)
+
+(cid:4679) 𝑟(cid:2870) (cid:3436)
+
+(cid:2870)
+(cid:3440)
+
+ 
+
+𝑑𝜑
+𝑑𝑝
+
+Ainsi, l'équation (47) prend la forme: 
+
+une équation différentielle dont l'intégrale générale est 
+
+𝑑(cid:2870)𝜃
+𝑑𝜑(cid:2870) − 2𝑐𝑜𝑡𝜃 (cid:3436)
+
+𝑑𝜃
+𝑑𝜑
+
+(cid:3440)
+
+(cid:2870)
+
+= 𝑠𝑖𝑛𝜃 𝑐𝑜𝑠𝜃 
+
+𝑠𝑖𝑛𝜃 𝑐𝑜𝑠(𝜑 + 𝑎) + 𝑏 𝑐𝑜𝑠𝜃 = 0 
+
+où a et b sont des constantes d’intégration. 
+
+Ceci fournit la preuve souhaitée, et il est donc suffisant pour la suite de la discussion sur les 
+lignes géodésiques de ne considérer que la valeur  𝜃 = π
+simplifie alors comme suit 
+
+2(cid:3415) . Le problème variationnel se 
+
+𝛿 (cid:3505) (cid:4682)
+
+𝑟
+
+𝑟 − 𝛼
+
+2
+(cid:3440)
+
+𝑑𝑟
+
+(cid:3436)
+𝑑𝑝
+
++ 𝑟2 (cid:3436)
+
+2
+𝑑𝜑
+(cid:3440)
+
+𝑑𝑝
+
+−
+
+𝑟 − 𝛼
+
+𝑟
+
+2
+
+(cid:3436)
+
+𝑑𝑡
+
+𝑑𝑝
+
+(cid:3440)
+
+(cid:4683) 𝑑𝑝 = 0 
+
+et les trois équations différentielles du premier ordre qui en découlent sont 
+
+𝑟
+
+𝑟 − 𝛼
+
+(cid:2870)
+(cid:3440)
+
+𝑑𝑟
+(cid:3436)
+𝑑𝑝
+
++ 𝑟(cid:2870) (cid:3436)
+
+(cid:2870)
+
+(cid:3440)
+
+−
+
+𝑑𝜑
+𝑑𝑝
+
+𝑟 − 𝛼
+
+𝑟
+
+(cid:2870)
+
+(cid:3436)
+
+𝑑𝑡
+𝑑𝑝
+
+(cid:3440)
+
+= 𝐴 
+
+𝑟(cid:2870) 𝑑𝜑
+𝑑𝑝
+
+= 𝐵 
+
+  (51) 
+
+  (52) 
+
+Page  19/23 
+
+ 
+
+ 
+
+ 
+
+ 
+
+DAVID HILBERT 
+
+𝑟 − 𝛼
+
+𝑟
+
+𝑑𝑡
+𝑑𝑝
+
+= 𝐶 
+
+L'équation différentielle de Lagrange pour  𝑟 
+
+𝑑
+𝑑𝑝
+
+(cid:3436)
+
+2𝑟
+
+𝑟 − 𝛼
+
+𝑑𝑟
+𝑑𝑝
+
+𝛼
+
+(cid:3440) +
+
+(𝑟 − 𝛼)(cid:2870) (cid:3436)
+
+(cid:2870)
+(cid:3440)
+
+𝑑𝑟
+𝑑𝑝
+
+− 2𝑟 (cid:3436)
+
+(cid:3440)
+
++
+
+(cid:2870)
+
+𝑑𝜑
+𝑑𝑝
+
+(cid:2870)
+
+𝛼
+𝑟(cid:2870) (cid:3436)
+
+𝑑𝑡
+𝑑𝑝
+
+(cid:3440)
+
+= 0 
+
+est nécessairement liée aux équations ci-dessus, en fait si nous désignons les côtés gauches 
+de (51), (52), (53), (54) par [1], [2], [3], [4] respectivement, nous avons identiquement 
+
+𝑑[1]
+𝑑𝑝
+
+− 2
+
+𝑑𝜑
+𝑑𝑝
+
+𝑑[2]
+𝑑𝑝
+
++ 2
+
+𝑑𝑡
+𝑑𝑝
+
+𝑑[3]
+𝑑𝑝
+
+=
+
+𝑑𝑟
+𝑑𝑝
+
+[4] 
+
+En choisissant C=1, ce qui revient à multiplier le paramètre p par une constante, puis en 
+éliminant p et t de (51), (52), (53) on obtient l'équation différentielle pour  𝜌 =
+
+  en 
+
+(cid:2869)
+
+(cid:3045)
+
+fonction de  𝜑  trouvée par Einstein et Schwarzschild, à savoir: 
+
+(cid:2870)
+
+(cid:3436)
+
+𝑑𝜌
+𝑑𝜑
+
+(cid:3440)
+
+=
+
+1 + 𝐴
+𝐵(cid:2870) −
+
+𝐴𝛼
+𝐵(cid:2870) 𝜌 − 𝜌(cid:2870) + 𝛼𝜌(cid:2871) 
+
+Cette équation représente l'orbite de la masse ponctuelle en coordonnées polaires ; en 
+première approximation pour  𝛼=0 avec  𝐵 = √𝛼𝑏, 𝐴 = −1 + 𝛼𝑎  le mouvement de Kepler 
+en découle, et la seconde approximation que conduit à la plus brillante découverte à l’heure 
+actuelle : le calcul de l'avance du périhélie de Mercure.. 
+
+Selon l'axiome ci-dessus, la ligne du monde pour le mouvement d'une masse ponctuelle 
+
+doit être une ligne de temps ; de la définition de la ligne de temps il résulte donc que 
+toujours A<0. 
+
+Nous demandons maintenant en particulier si un cercle, c'est-à-dire  𝑟 = 𝑐𝑜𝑛𝑠𝑡, peut être 
+
+l'orbite d'un mouvement. L'identité (55) montre que dans ce cas - à cause de  (cid:3031)(cid:3045)
+(cid:3031)(cid:3043)
+l'équation (54) n'est nullement une conséquence de (51), (52), (53) ; ces trois dernières 
+équations sont donc insuffisantes pour déterminer le mouvement ; au contraire, les 
+équations nécessaires à satisfaire sont (52), (53), (54). De (54) il résulte que 
+
+= 0  - 
+
+𝑑𝑡
+𝛼
+𝑟(cid:2870) (cid:3436)
+𝑑𝑝
+ou que pour la vitesse  𝑣  sur l'orbite circulaire 
+
+𝑑𝜑
+𝑑𝑝
+
+−2𝑟 (cid:3436)
+
++
+
+(cid:2870)
+(cid:3440)
+
+(cid:2870)
+
+(cid:3440)
+
+= 0 
+
+D'autre part, puisque  𝐴 < 0, (51) implique l'inégalité 
+
+𝜈(cid:2870) = (cid:3436)𝑟
+
+(cid:2870)
+(cid:3440)
+
+𝑑𝜑
+𝑑𝑡
+
+=
+
+𝛼
+2𝑟
+
+ 
+
+𝑟(cid:2870) (cid:3436)
+
+(cid:2870)
+
+(cid:3440)
+
+−
+
+𝑑𝜑
+𝑑𝑝
+
+𝑟 − 𝛼
+
+𝑟
+
+(cid:2870)
+
+(cid:3436)
+
+𝑑𝑡
+𝑑𝑝
+
+(cid:3440)
+
+< 0 
+
+ou en utilisant (57) 
+
+  (53) 
+
+  (54) 
+
+  (55) 
+
+  (56) 
+
+  (57) 
+
+  (58) 
+
+  (59) 
+
+ 
+
+ 
+
+Page  20/23 
+
+ 
+
+THE FOUNDATIONS OF PHYSICS – SECOND COMMUNICATION - 1917 
+
+Avec (58), cela implique l'inégalité pour la vitesse du point de masse se déplaçant sur un 
+cercle9 
+
+L'inégalité (60) permet l'interprétation suivante : D'après (58), la vitesse angulaire de la 
+
+masse ponctuelle en orbite est de 
+
+  (60) 
+
+  (61) 
+
+𝑟 > 3
+
+𝛼
+2
+
+ 
+
+𝜈 <
+
+1
+
+ 
+
+√3
+
+𝑑𝜑
+𝑑𝑡
+
+= (cid:3495)
+
+𝛼
+2𝑟(cid:2871) 
+
+Ainsi, si nous voulons introduire au lieu de  𝑟, 𝜑  les coordonnées polaires d'un système de 
+coordonnées en co-rotation autour de l'origine, il nous suffit de remplacer 
+
+Après la transformation correspondante de l'espace-temps, la métrique 
+
+𝜑    𝑝𝑎𝑟    𝜑 + (cid:3495)
+
+𝛼
+2𝑟(cid:2871) 𝑡 
+
+𝑟
+
+𝑟 − 𝛼
+
+𝑑𝑟(cid:2870) + 𝑟(cid:2870)𝑑𝜑 −
+
+𝑟 − 𝛼
+
+𝑟
+
+𝑑𝑡(cid:2870) 
+
+devient 
+
+𝑟
+
+𝑟 − 𝛼
+
+𝑑𝑟(cid:2870) + 𝑟(cid:2870)𝑑𝜑 + √2𝛼𝑟 𝑑𝜑 𝑑𝑡 + (cid:4672)
+
+𝛼
+2𝑟
+
+−
+
+𝑟 − 𝛼
+
+𝑟
+
+(cid:4673) 𝑑𝑡(cid:2870) 
+
+Ici, l'inégalité  𝑔(cid:2872)(cid:2872) < 0  est satisfaite grâce à (60), et puisque les autres inégalités (31) 
+
+sont satisfaites, la transformation en question de la masse ponctuelle au repos est une 
+véritable transformation spatio-temporelle. 
+
+D'autre part, la limite supérieure  (cid:2869)
+√(cid:2871)
+
+  trouvée dans (61) pour la vitesse d'un point de 
+
+masse sur une orbite circulaire a également une interprétation simple. Selon l'axiome de la 
+propagation de la lumière, cette propagation est représentée par une géodésique nulle. En 
+conséquence, si nous mettons  𝐴 = 0  dans (51), au lieu de l'inégalité (59), le résultat pour 
+la propagation circulaire de la lumière est l'équation suivante 
+
+Avec (57), cela implique pour le rayon de l'orbite de la lumière : 
+
+𝑟(cid:2870) (cid:3436)
+
+(cid:2870)
+(cid:3440)
+
+𝑑𝜑
+𝑑𝑝
+
+−
+
+𝑟 − 𝛼
+
+𝑟
+
+(cid:2870)
+
+(cid:3436)
+
+𝑑𝑡
+𝑑𝑝
+
+(cid:3440)
+
+= 0 
+
+𝑟 = 3
+
+𝛼
+2
+
+ 
+
+ 
+
+9  L'affirmation de Schwarzschild (loc. cit.) selon laquelle la vitesse de la masse ponctuelle sur une orbite circulaire 
+s'approche de la limite au fur et à mesure que le rayon de l'orbite diminue, correspond à l'inégalité et ne doit pas 
+être considérée comme exacte, selon ce qui précède. 
+
+ 
+
+Page  21/23 
+
+ 
+
+DAVID HILBERT 
+
+𝜈 =
+
+1
+
+ 
+
+√3
+
+et pour la vitesse de la lumière en orbite, la valeur qui apparaît comme la limite supérieure 
+en (61): 
+
+En général, nous trouvons pour l'orbite de la lumière de (56) avec  𝐴 = 0  l'équation 
+
+différentielle 
+
+pour B=
+
+𝛼, il a le cercle  𝑟 = 3
+
+  comme "cycle" de Poincaré - correspondant à la 
+
+(cid:2871)√(cid:2871)
+
+(cid:2870)
+
+circonstance qu'alors  𝜌 −
+
+  est un facteur double du côté droit. 
+
+(cid:2870)
+(cid:3440)
+
+=
+
+1
+𝐵(cid:2870) − 𝜌(cid:2870) + 𝛼𝜌(cid:2871) 
+
+(cid:3436)
+
+𝑑𝜌
+𝑑𝜑
+(cid:3080)
+(cid:2870)
+
+(cid:2870)
+(cid:2871)(cid:3080)
+
+  (62) 
+
+En effet, dans ce cas - et de même pour l'équation plus générale (56) - l'équation 
+différentielle (62) possède une infinité de courbes intégrales, qui s'approchent de ce cercle 
+comme de la limite des spirales, comme l'exige la théorie générale des cycles de Poincaré.. 
+
+Si l'on considère un rayon lumineux s'approchant de l'infini et que l'on prend xxx petit 
+
+par rapport à la distance d'approche la plus proche du rayon par rapport au centre de 
+gravitation, alors le rayon lumineux a approximativement la forme d'une hyperbole avec un 
+foyer au centre10.   
+
+Une contrepartie du mouvement sur un cercle est le mouvement sur une ligne droite qui 
+passe par le centre de gravitation. Nous obtenons l'équation différentielle de ce mouvement 
+si nous fixons  𝜑 = 0  dans (54) et éliminons ensuite  𝑝  de (53) et (54) ; l'équation 
+différentielle ainsi obtenue pour  𝑟  en fonction de  𝑡  est 
+
+avec l'intégrale qui découle de (51) 
+
+𝑑(cid:2870)𝑟
+𝑑𝑡(cid:2870) −
+
+3𝛼
+
+2𝑟(𝑟 − 𝛼)
+
+(cid:2870)
+
+(cid:3440)
+
++
+
+(cid:3436)
+
+𝑑𝑟
+𝑑𝑡
+
+𝛼(𝑟 − 𝛼)
+
+2𝑟(cid:2871)
+
+  = 0 
+
+(cid:2870)
+
+𝑑𝑟
+(cid:3436)
+𝑑𝑡
+
+𝑟 − 𝛼
+
+(cid:2870)
+
+(cid:3440)
+
+= (cid:4672)
+
+(cid:4673)
+
++ 𝐴 (cid:4672)
+
+𝑟
+
+𝑟 − 𝛼
+
+(cid:2871)
+
+(cid:4673)
+
+ 
+
+𝑟
+
+  (63) 
+
+  (64) 
+
+Selon (63), l'accélération est négative ou positive, c'est-à-dire que la gravitation agit de 
+manière attractive ou répulsive, en fonction de la valeur absolue de la vitesse 
+
+𝑑𝑟
+𝑑𝑡
+
+(cid:3628)
+
+(cid:3628) <
+
+1
+
+𝑟 − 𝛼
+
+ 
+
+√3
+
+𝑟
+
+>
+
+1
+
+𝑟 − 𝛼
+
+ 
+
+√3
+
+𝑟
+
+où 
+
+ 
+
+10  Une discussion détaillée des équations différentielles (56) et (62) sera la tâche d'une communication de 
+V. Fréedericksz à paraître dans ces pages. 
+
+ 
+
+Page  22/23 
+
+ 
+
+THE FOUNDATIONS OF PHYSICS – SECOND COMMUNICATION - 1917 
+
+Pour la lumière que nous avons à cause de (64) 
+
+la lumière se propageant en ligne droite vers le centre est toujours repoussée, en accord 
+avec la dernière inégalité ; sa vitesse passe de 0 en  𝑟 = 𝛼  à 1 en  𝑟 = ∞. 
+
+Lorsque α et dr/dt sont petits, (63) devient approximativement l'équation newtonienne 
+
+(cid:3628)
+
+𝑑𝑟
+𝑑𝑡
+
+(cid:3628) =
+
+𝑟 − 𝛼
+
+ 
+
+𝑟
+
+𝑑(cid:2870)𝑟
+𝑑𝑡(cid:2870) = −
+
+𝛼
+2
+
+1
+𝑟(cid:2870) 
+
+ 
+
+ 
+
+Page  23/23 
+
+ 
+
+

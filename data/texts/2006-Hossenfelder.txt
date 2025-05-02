@@ -1,0 +1,1749 @@
+6
+0
+0
+2
+
+ 
+r
+p
+A
+1
+2
+
+ 
+
+ 
+ 
+
+3
+v
+3
+1
+0
+8
+0
+5
+0
+/
+c
+q
+-
+r
+g
+:
+v
+i
+X
+r
+a
+
+Anti-Gravitation
+
+S. Hossenfelder
+
+Department of Physics, University of California
+
+Santa Barbara, CA 93106-9530, USA
+
+Abstract
+
+The possibility of a symmetry between gravitating and anti-gravitating particles is exam-
+ined. The properties of the anti-gravitating ﬁelds are deﬁned by their behavior under gen-
+eral diffeomorphisms. The equations of motion and the conserved canonical currents are
+derived, and it is shown that the kinetic energy remains positive whereas the new ﬁelds can
+make a negative contribution to the source term of Einstein’s ﬁeld equations. The interac-
+tion between the two types of ﬁelds is naturally suppressed by the Planck scale.
+
+Key words: Negative Energy, Lorentz-Transformations
+PACS: 04.20.Cv, 11.30.-j, 11.30.Cp
+
+1 Introduction
+
+The role of symmetries in nature has marked the progress of physics during the last
+centuries. The use of symmetries has proven to be a powerful tool like no other,
+underlying General Relativity (GR), leading to the discovery of anti-particles and
+the establishment of the quark model.
+
+With these successes of symmetry principles in mind, it is a question lying at hand
+whether there is a symmetry between positive and negative masses.
+
+In this work, a framework is presented to include particles with negative gravita-
+tional charge into classical gravity and ﬁeld theory. The anti-gravitating particles
+are introduced as particles that transform in a modiﬁed way under general diffeo-
+morphisms. In a (locally) ﬂat space, they transform like the standard particles. This
+generalization of the equivalence principle leads to the introduction of a modiﬁed
+covariant derivative. The generalized covariant derivative ensures the homogeneous
+
+Email address: sabine@physics.ucsb.edu (S. Hossenfelder).
+
+PreprintsubmittedtoElsevierScience
+
+8June2018
+
+transformation behavior of the new ﬁeld’s derivatives. From this, the equation of
+motion is derived for the new ﬁelds.
+
+The introduction of anti-gravitation in this way solves three severe problems that
+seem to come along with the notion of negative masses:
+
+(1) In GR, the motion of a particle in a gravitational ﬁeld is independent of the
+particle’s mass. This seems to indicate that no particle can be repelled by
+a positvely gravitating source and leads to immediate contradictions. In the
+here discussed setup, also the anti-gravitating particle’s equation of motion is
+modiﬁed, which follows from its behavior under general diffeomorphisms. In
+this case, like gravitational charges attract, and unlike charges repel.
+
+(2) In the here used formalism, only the source to the gravitational ﬁeld can ex-
+perience a change of sign. The kinetic energy term in the Lagrangian remains
+positive and thus, the vacuum remains stable.
+
+(3) The third problem is the lacking evidence. As we will show, the interaction
+between gravitating and anti-gravitating matter is mediated by gravity only,
+and therefore is suppressed by the large value of the Planck scale.
+
+In addition to being a viable extension of GR, the here proposed existence of neg-
+ative gravitational charges can open new points of view in Cosmology and Astro-
+physics, especially with regard to singularity avoidence and Dark Energy. Though
+it will become clear from the analysis that the newly introcued particles are only
+very weakly interacting with standard matter, their presence might be relevant at
+large (cosmological) distances, at high (Planckian) densities and in strongly curved
+backgrounds.
+
+The proposal of a gravitational charge symmetry has previously been examined in
+Refs. (1; 2; 3; 4). Furthermore, there have been various approaches (5; 6; 7; 8; 9;
+10; 11; 12; 13) to include anti-gravitating matter into quantum theory as well as
+into GR. The topic of negative energies has recently received attention within the
+context of ghost condensates (14; 15; 16; 17; 18).
+
+This paper is organized as follows: In the next section, the deﬁnition for the anti-
+gravitating particles is given, based on their transformation properties under the
+gauge- and Lorentz-group. Section three examines the modiﬁed ﬁeld equations that
+follow from the inclusion of these particles into GR, as well as conservation laws,
+and the motion of test particles. General comments and discussion can be found in
+section 4. We conclude in section 5.
+
+Throughout this paper we use the convention c = ¯h = 1. The signature of the metric
+is (−1, 1, 1, 1). Small Greek indices k ,n ,e ... are space-time indices.
+
+2
+
+2 Deﬁnition of Anti-Gravitating Matter
+
+The unitary representations U of a gauge group G deﬁne the transformation be-
+havior of particle ﬁelds Y
+. For two elements of the group g, g′, the representation
+fulﬁls
+
+U (g)U (g′) = U (gg′)
+
+,
+
+and the ﬁeld transforms as Y → Y
+
+′ = U (g)Y
+construct a second representation, deﬁned by
+
+. From this, it is always possible to
+
+eU(g) = U ((gT )−1)
+
+,
+
+which belongs to the charge-conjugated particle. The anti-particle Y
+according to the contragredient representation, U, which is U(g) = U (g−1).
+
+transforms
+
+In case of a local symmetry, these transformations lead to the introduction of gauge-
+covariant derivatives in the usual way. Suitable combinations of particles with anti-
+particles allow to construct gauge-invariant Lagrangians.
+
+From the above, it is clear why there is no charge-conjugation for gravity. If the
+gauge-group is the Lorentz-group SO(3, 1), then the elements L
+fulﬁll L −1 = L T ,
+
+which means that in this case the second representation eU is equivalent to U.
+
+However, this does not apply when the ﬁeld transforms under a general diffeomor-
+phism G. Let Y
+be a vector ﬁeld and an element of the tangent space T M. Under a
+general diffeomorphism G, the ﬁelds and its conjugate behaves as
+
+T M : Y → Y
+
+′ = GY
+
+,
+
+T M∗ : Y → Y
+
+′ = Y G−1
+
+,
+
+where T M∗ is the dual to T M.
+
+The equivalence principle requires that the ﬁelds on our manifold locally transform
+like in Special Relativity. I.e. if G is an element of the Lorentz-group the ﬁelds
+have to transform like Lorentz-vectors. However, the generalization to a general
+diffeomorphism is not unique. Instead of Eq. (3) one could have chosen the ﬁeld to
+transform according to
+
+T M : Y → Y
+
+′ = (GT )−1Y
+
+, T M∗ : Y → Y
+
+′ = Y GT
+
+.
+
+Here, the space T M is a vector-space which spans the basis for these ﬁelds, and
+T M∗ is its dual. In case G was an element of the Lorentz-group, i.e. G−1 = GT ,
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+3
+
+Fig. 1. Relations between the maps. The left side depicts the tangential and co-tangential
+spaces. The right side depicts the corresponding spaces for the anti-gravitational ﬁelds.
+
+both representations (3,4) agree. For general diffeomorphisms that will not be the
+case. Indeed, one sees that the newly introduced ﬁelds will have a modiﬁed scaling
+behavior.
+For the following, it is convenient to introduce a map t which, in the vector-
+representation, is a vector-space isomorphism from T M to T M. For the map t
+:
+Y = t
+
+to transform adequately Y
+
+′ one ﬁnds the behavior
+
+′ = t
+
+′Y
+
+′ = (GT )−1t G−1
+
+.
+
+(5)
+
+It will be useful to clarify the emerging picture of space-time properties by having
+k as depicted in Figure 1. This ﬁeld is
+a close look at a contravariant vector-ﬁeld Y
+a cut in the tangent bundle, that is the set of tangent spaces T M at every point of
+the manifold which describes our space-time. The ﬁeld is mapped to its covariant
+n .
+ﬁeld, Y
+The newly introduced ﬁeld Y
+(from here on named anti-gravitating) transforms
+under local Lorentz-transformations like a Lorentz-vector in Special Relativity. But
+it differs in its behavior under general diffeomorphisms.
+
+n , a cut in the co-tangent bundle, T M∗, by the metric tensor Y
+
+n = gk
+
+In order not to spoil the advantages of the Ricci-calculus, it will be useful to intro-
+duce a basis for the new ﬁelds that transforms accordingly. Locally, the new ﬁeld
+can be expanded in this basis ¶
+k . These basis elements form again a bundle on the
+manifold, that is denoted with T M. To each of the elements of T M also a dual space
+exists, deﬁned as the space of all linear maps on T M. This space is denoted by T M∗
+and its basis as dxk . The map from T M to T M∗ will be denoted gk
+n , and deﬁnes a
+scalar product on T M.
+
+Note, that the underlined indices on these quantities do not refer to the coordinates
+of the manifold but to the local basis in the tangential spaces. All of these ﬁelds still
+are functions of the space-time coordinates xn .
+
+4
+
+Y
+t
+n
+Y
+k
+t maps the basis of one space into the other. We can expand it as t = t
+t = t
+
+respectively, where we have introduced the inverse functions by
+
+k dxk
+
+dxn
+
+k , or
+
+e = d
+
+,
+
+n = d
+
+.
+
+(6)
+
+For completeness, let us also deﬁne the combined maps:
+
+T M −→ T M∗ :
+
+n = t
+
+n gk
+
+, T M∗ −→ T M :
+
+= g
+
+.
+
+(7)
+
+As one sees from the transformation properties summarized in Eqs.(4), the map
+n maps an element of T M to its transponed. This transposition does not involve
+the metric tensor and is independent of the metric itself. In particular, one sees
+| = 1, since transposition does not change the
+
+immediately that the determinant |t
+
+determinant.
+
+Basis transformations in both spaces belong together, since their elements share
+the transformation properties Eqs.(4) with the same G. The map t
+does not in-
+troduce an additional coordinate transformation in the underlined space, it does not
+change the volume element, introduce a shear, or an additional rotation on T M∗.
+One should keep in mind that the introduction of the additional spaces is just a
+helpful tool to deal with the different transformation properties of the new ﬁelds.
+
+The relation between the introduced quantities is summarized in Figure 1 from
+which we also read off the cycle leading back to identity on T M∗ and on T M∗,
+respectively
+
+e = d
+
+gn
+
+gk
+
+(8)
+It is further helpful to note that t can be expressed in a more intuitive form. Writing
+¶ /¶ xn
+
+) ¶ /¶ xk one identiﬁes
+
+= (¶ xk
+
+/¶ xn
+
+k g
+
+g
+
+,
+
+.
+
+e = d
+
+¶ xn
+¶ xk
+
+k =
+
+,
+
+(9)
+
+n does.
+
+is a just the basis in T M and does not corre-
+
+where we should keep in mind that ¶
+spond to an actual ’direction’ on the manifold as ¶
+The coordinate expansion of t seems to depend on the basis chosen in T M as well
+as on those in T M. However, this ambiguity in the form of the map is only seem-
+ingly. The basis ¶
+n does not transform independently as stressed earlier. The
+relation between both basis transformations is ﬁxed by the map t . To see this, note
+that even though the map t
+for certain choices of coordinates might be trivial, its
+importance lies in its transformation behavior. Its covariant derivative takes into
+account the change of transformation behavior from T M to T M.
+
+n and ¶
+
+5
+
+k
+n
+¶
+n
+¶
+n
+t
+k
+n
+t
+n
+k
+e
+t
+e
+k
+t
+k
+e
+n
+t
+n
+k
+n
+t
+n
+n
+n
+k
+t
+n
+k
+t
+n
+n
+n
+n
+n
+t
+k
+n
+n
+t
+n
+k
+k
+e
+k
+n
+t
+n
+k
+n
+t
+k
+k
+e
+t
+n
+k
+The transformation behavior in Eq. (5) together with the observation that in a lo-
+cally orthonormal basis both ﬁelds transform identical under local Lorentz-trans-
+formations, gives us an explicit way to construct t . We choose a local orthonormal
+basis ˆe in T M, which is related to the coordinate basis by the locally linear map
+E ˆe = ¶ . In this basis, the metric is just h and ˆt
+is just the identity. One then ﬁnds t
+in a general coordinate system by applying Eq.(5)
+
+t = (ET )−1ˆt E−1 = (EET )−1
+
+.
+
+Using Eq. (10), we again conﬁrm that the determinant is |t
+
+| = 1 and therefore
+
+1 = gg ,
+
+|t
+
+| = |g|
+
+,
+
+|t
+
+k | = |g|
+
+.
+
+The properties of the vector-ﬁelds are transferred directly to those of fermionic
+ﬁelds by using the fermionic representation and transformations of t . In this case,
+the map ( )†g 0, instead of the metric, is used to relate a particle to the particle
+transforming under the contragredient representation.
+
+It is now straightforward to introduce a covariant derivative for the new ﬁelds,
+in much the same way as one usually introduces the derivative for the charge-
+conjugated particles. We will use the notation (cid:209)
+for the general-covariant deriva-
+tive and D for the general covariant derivative including the gauge-derivative of the
+ﬁelds. It is understood that the form of the derivative is deﬁned by the ﬁeld it acts
+on, even though this will not be noted explicitly.
+Let us ﬁrst introduce the derivative in the direction of n on the basis in a general
+way by
+
+k = G
+
+k = G
+
+.
+
+We will further also use the notation
+
+,
+
+.
+
+k = t
+
+From Eqs. (12) it follows using the Leibniz-rule that
+
+n dx
+
+=−G
+
+e dx
+
+,
+
+n dx
+
+dx
+
+.
+
+= −G
+
+So far, this is only a deﬁnition for the symbols G
+. To get an explicit
+formula for these Christoffelsymbols one commonly uses the requirement that the
+covariant derivative on the metric itself vanishes. The geometrical meaning is that
+the scalar product is covariantly conserved. To keep the symmetry between both
+
+and G
+
+6
+
+(10)
+
+(11)
+
+(12)
+
+(13)
+
+(14)
+
+k
+k
+k
+k
+k
+(cid:209)
+n
+¶
+e
+n
+k
+¶
+e
+(cid:209)
+n
+¶
+e
+n
+k
+¶
+e
+(cid:209)
+k
+k
+(cid:209)
+k
+(cid:209)
+k
+k
+n
+e
+(cid:209)
+k
+k
+n
+e
+e
+e
+n
+k
+e
+n
+k
+(15)
+
+(16)
+
+(17)
+
+(18)
+(19)
+
+spaces, we require that also the scalar product of the new ﬁelds is conserved, that is
+l | 6= 0, the latter is with Eq.(13) equivalent
+
+k = 0. Or, since |t
+
+k = 0. From this one ﬁnds in the usual way (see e.g. Ref.(22))
+
+k = 0 and (cid:209)
+l gn
+
+l gn
+to (cid:209)
+
+l gn
+
+k =
+
+k =
+
+1
+2
+1
+2
+
+g
+
+g
+
+(¶
+
+l gk
+
+a + ¶
+a + ¶
+
+l gk
+
+k gl
+
+a − ¶
+a − ¶
+k gl
+
+a (cid:16)¶
+
+a gk
+
+)
+
+,
+
+a gk
+
+l (cid:17) .
+
+Using that the Christoffelsymbols transform homogenously in the second index and
+removing the underlined derivatives we ﬁnd
+
+k =
+
+1
+2
+
+g
+
+a (cid:16)¶
+
+a + t
+
+l gk
+
+a − t
+k gl
+
+a gk
+
+l (cid:17) .
+
+From this, one can explicitly compute the form of the derivatives in Eqs. (12).
+
+At this point it is useful to state a general expectation about the connection coefﬁ-
+cients. For a particle moving in a curved spacetime, it is possible to choose a freely
+falling coordinate system, in which the Christoffelsymbols in Eq.(15) vanish. How-
+ever, this freely falling frame for the particle will in general not also be a freely
+falling frame for the anti-gravitational particle. Therefore, the Christoffelsymbols
+in Eq.(17) will not vanish in the freely falling frame of the usually gravitating par-
+ticle. Both sets of symbols therefore will not be proportional to each other.
+
+One further derives the useful relations
+
+a = ¶
+a = ¶
+
+a − G
+a + G
+
+a − G
+a − G
+
+.
+
+With these covariant derivatives, one obtains the Lagrangian of the anti-gravitational
+ﬁeld by replacing all quantities with the corresponding anti-gravitational quantities
+and using the appropriate derivative for the new ﬁelds to assure homogenous trans-
+formation behavior
+
+L = L(gk
+
+n → gk
+
+n ,Y → Y
+
+)
+
+, L = L(gk
+
+n → gk
+
+,Y → Y
+
+)
+
+.
+
+(20)
+
+To start with the most important example, the Lagrangian of fermionic ﬁelds can
+now be composed from the new ingredients as L tot
+
+F = LF + L F with
+
+LF = (D/ Y
+
+)Y + Y
+
+(D/ Y
+
+)
+
+, L F = (D/ Y
+
+)Y + Y
+
+(D/ Y
+
+)
+
+.
+
+(21)
+
+All other mixtures do not obey general covariance and/or gauge covariance.
+
+7
+
+(cid:209)
+l
+G
+n
+l
+n
+a
+l
+G
+n
+l
+n
+G
+n
+l
+n
+l
+l
+t
+k
+k
+¶
+l
+l
+t
+a
+a
+¶
+(cid:209)
+n
+t
+a
+n
+t
+a
+k
+n
+a
+t
+k
+k
+n
+a
+t
+a
+k
+(cid:209)
+n
+t
+a
+n
+t
+a
+a
+n
+k
+t
+k
+k
+n
+a
+t
+a
+k
+n
+The Lagrangian for anti-gravitational pendants Aa of the gauge ﬁelds is introduced
+via the ﬁeld strength tensor
+
+Fak
+
+n = (cid:209)
+
+k Aan − (cid:209)
+
+n Aak + e f abcAbk Acn
+
+,
+
+(22)
+
+where f abc are the structure constants of the group and e is the coupling. One then
+constructs the Lagrangian from L A = − 1
+). Again, a mixture of F with
+the usual F is forbidden by gauge-symmetry. Note, that in all cases the kinetic
+energy terms are positive. A particle with negative gravitational mass behaves like
+an ordinary particle except for its gravitational interaction, encoded in the covariant
+derivatives.
+
+4Tr (Fk
+
+n Fk
+
+As one sees by examining the Lagrangian, there is no direct interaction between
+gravitating and anti-gravitating particles. Nevertheless, both of the particle-species
+will interact with the gravitational ﬁeld, which mediates an interaction between
+them. However, this coupling is suppressed with the Planck scale. Therefore, the
+production of anti-gravitating matter is not observable today because all ingoing
+particles, in whatever scattering process we look at, are the normally gravitating
+ones that we deal with every day.
+
+3 Properties of Anti-Gravitating Matter
+
+From the results of the last section, we can now write down the most general form
+of the Lagrangian which includes the anti-gravitating matter ﬁelds and is symmetric
+under exchange of gravitational with anti-gravitational quantities. It takes the form
+
+S =Z dd+4x √−g [G R + L + L]
+
+,
+
+where G = 1/m2
+After a variation of the metric, d gk
+
+p, L = LF + LA, and L = LF + L A.
+
+, the ﬁeld equations read
+
+Rk
+n −
+
+1
+2
+
+1
+G
+
+Rgk
+
+n =
+
+(Tk
+
+n + T k
+
+)
+
+,
+
+with the stress-energy tensors (SETs) as source terms
+
+(23)
+
+(24)
+
+T
+
+=
+
+2
+
+√−g
+
+d gk
+
+(cid:0)√−gL(cid:1)
+
+, T
+
+=
+
+.
+
+(25)
+
+2
+
+√−g
+
+d gk
+
+(cid:0)√−gL(cid:1)
+
+8
+
+n
+n
+n
+k
+n
+d
+n
+k
+n
+d
+n
+(26)
+
+(27)
+
+(28)
+
+(29)
+
+(30)
+
+k gk
+
+n , and performing the functional derivative, we
+
+Using Eq.(20), and gk
+ﬁnd
+
+n = t
+
+d L
+d gk
+
+= t
+
+d L
+d gk
+
+.
+
+We recall that t
+just transpones quantities and is independent of the metric tensor.
+It does not rotate the basis relative to each other, nor does it change the volume
+element or introduce a shear. Under a variation of the metric, this quantity remains
+unaltered d
+, because it transforms
+non trivially under coordinate transformations which form a subset of the metric
+variations. In particular with Eq. (8) one obtains
+
+n = 0. This, however, is not the case for t
+
+d (cid:0)gk
+
+n gn
+
+e (cid:1) = 0
+
+,
+
+and, after contraction with t
+
+, this results in
+
+d ga
+
+e + t
+
+d gk
+
+e = 0 .
+
+Inserting Eq. (28) in Eq. (26) yields
+
+d L
+d gk
+
+d L
+d gk
+
+= −
+
+.
+
+But the SET consists of two terms, the second one arising from the variation of
+, one ﬁnds the SETs for the
+
+ﬁelds
+
+the volume element. Using d √−g = − 1
+n √−g d gk
+2gk
+n   d L
+
+d L
+n −
+d gk
+
+L , T
+
+= −t
+
+d gk
+
+1
+2
+
+=
+
+T
+
+g
+
++
+
+1
+2
+
+g
+
+L! .
+
+The interpretation of the so derived gravitational SETs is straightforward: Under a
+perturbation of the metric, the anti-gravitational ﬁelds will undergo a transforma-
+tion exactly opposite to these of the normal ﬁelds as one expects by construction.
+The t -functions convert the indices and the transformation behavior from T M to
+the usual tangential space.
+
+Most importantly, we see that the SET of the anti-gravitating ﬁeld yields a con-
+tribution to the source of the ﬁeld equations with a minus sign (and thus justiﬁes
+the name anti-gravitation). This is due to the modiﬁed transformation behavior of
+the ﬁeld components. However, we also see that the second term, arising from the
+
+9
+
+k
+k
+t
+n
+n
+k
+k
+t
+n
+n
+n
+k
+n
+t
+k
+n
+k
+t
+k
+n
+t
+n
+k
+k
+e
+t
+e
+a
+e
+a
+t
+k
+e
+n
+n
+n
+k
+n
+k
+n
+k
+n
+k
+k
+t
+n
+n
+k
+n
+variation of the metric determinant, does not change sign. For one of the most im-
+portant cases however, the fermionic matter ﬁeld, the second term vanishes since
+the Lagrangian is zero when the ﬁeld fulﬁlls the equation of motion.
+
+If one considers the Lagrangian of the Dirac-ﬁeld one has to formulate the action
+in form of the tetrad ﬁelds. The above used argument then directly transfers to the
+Dirac ﬁeld through the properties of the anti-gravitational ﬁeld under diffeomor-
+phisms. For the fermions, the SET then can be simpliﬁed inserting that the ﬁeld
+fulﬁlls the equations of motion D/ Y = D/ Y = 0.
+
+The corresponding conservation law of the derived source terms as follows from
+the Bianchi-identities is as usual (cid:209)
+
+n + T k
+
+) = 0.
+
+(Tk
+
+By variation of the action Eq. (23) with respect to the ﬁelds, on obtains the equa-
+tions of motion in form of the Euler-Lagrange equations. Using the the covariant
+form of Gauss’ law one ﬁnds as usual
+
+In complete analogy to the usual case one derives the equations of motion for the
+anti-gravitational ﬁeld
+
+n (cid:18) ¶ L
+
+¶ ((cid:209)
+
+)(cid:19)−
+
+¶ L
+
+= 0 .
+
+n (cid:18) ¶ L
+
+¶ ((cid:209)
+
+)(cid:19)−
+
+¶ L
+
+= 0 .
+
+For this derivation one can still use the usual covariant form of Gauss’ law since
+the derivatives (cid:209)
+
+transform as usual vectors with respect to the index n
+
+.
+
+Now it is crucial to note that the kinetic SET as deﬁned from the Noether current
+does not have a change in sign, as no variation of the metric is involved and the
+gravitational properties of the ﬁelds do not play a role. To clearly distinguish this
+canonical SET from the gravitational source term, let us denote the canonical SET
+with Q
+
+, whereas we keep the above used Tn
+
+for the gravitational SET.
+
+The canonical SET for a matter Lagrangian L(Y
+theorem is
+
+,(cid:209)
+
+) as follows from Noether’s
+
+¶ L
+
+¶ ((cid:209)
+
+k =
+
+Y − d
+and is covariantly conserved (cid:209)
+current for the anti-gravitational ﬁeld
+
+k L ,
+
+)
+
+10
+
+k = 0. Correspondingly one ﬁnds the conserved
+
+(31)
+
+(32)
+
+(33)
+
+n
+n
+(cid:209)
+n
+Y
+¶
+Y
+(cid:209)
+n
+Y
+¶
+Y
+n
+Y
+n
+k
+k
+n
+Y
+Q
+n
+n
+Y
+(cid:209)
+k
+n
+n
+Q
+n
+(34)
+
+(35)
+
+k = t
+
+k (cid:18) ¶ L
+
+¶ ((cid:209)
+
+Y − d
+
+)
+
+k L(cid:19) ,
+
+which is also covariantly conserved (cid:209)
+
+k = 0.
+
+Unfortunately, in general these quantities are neither symmetric, nor are they trace-
+less or gauge-invariant. For GR, Belinfante’s tensor is the more adequate one (19).
+Though the ’correct’ kinetic SET is a matter of ongoing discussion (19; 20; 21),
+the details will not be important for the following. Instead, let us note that, from the
+Noether current, we get a total conserved quantity for each space-time direction k
+,
+leading to the conservation equations
+
+k + t
+
+k = 0 .
+
+The form of the second term of Eq. (35) is readily interpreted: when the anti-
+gravitating particle gains kinetic energy on a world line, the gravitational particle
+would loose energy when traveling on the same world line. The interaction with the
+gravitational ﬁeld is inverted.
+
+One thus can identify the anti-gravitating particle as a particle whose kinetic mo-
+mentum vector transforms under general diffeomorphism according to Eq.(4), whereas
+the standard particle’s kinetic momentum transforms according to Eq.(3).
+
+It is also instructive to look at the motion of a classical test particle by considering
+the analogue of parallel-transporting the tangent vector. The particle’s world line is
+denoted xn (l ), and the anti-gravitating particle’s world line is denoted xn (l ) 1 .
+
+/dl
+
+= dxa
+
+In contrast to the gravitating particle, the anti-gravitating particle parallel trans-
+ports not its tangent vector ta
+, but instead the related quantity in T M,
+which corresponds to the kinetic momentum, and is ta
+. On the particle’s
+world line xn (l ), it is ta which is covariantly conserved. Parallel transporting is
+then expressed in evaluating the derivative in direction of the curve and set it to
+zero. For the usual geodesic which parallel transports the tangential vector one has
+tn
+
+= 0, whereas for the anti-gravitating particle one has
+
+= t
+
+ta
+
+ta
+
+t
+
+t
+
+= 0
+
+,
+
+(36)
+
+which agrees with the usual equation if and only if the covariant derivative on t
+vanishes. It is important to note that the tangent vector ta
+along the curve given by the new Eq. (36).
+
+is not parallel transported
+
+1 A word of caution is necessary for this notation: the underlined xn does only indicate that
+the curve belongs to the anti-gravitating particle; it is not related to the curve of the particle
+xn .
+
+11
+
+Q
+n
+k
+n
+Y
+(cid:209)
+k
+n
+n
+Q
+n
+(cid:209)
+n
+Q
+n
+k
+k
+(cid:209)
+n
+Q
+n
+a
+a
+(cid:209)
+n
+n
+t
+a
+a
+(cid:209)
+n
+t
+a
+k
+k
+a
+k
+Using the covariant derivative (cid:209)
+
+n ta
+
+= ¶
+
+n ta
+
++ G
+
+te , from Eq.(14) one obtains
+
+and by rewriting ¶
+
+n = (dl /dxn
+
+) d/dl one ﬁnds the anti-geodesic equation
+
+dxn
+dl
+
+·(cid:18)¶
+
+dxa
+dl + G
+
+dxe
+
+dl (cid:19) = 0 ,
+
+d2xa
+dl 2 + t
+
+dxe
+dl
+
+dxn
+dl = 0
+
+.
+
+This equation should be read as an equation for the quantity ta
+tion for the curve. To obtain the curve, one proceeds as follows
+
+rather than an equa-
+
+• Integrate Eq. (38) once to obtain ta
+• Translate this into the geometric tangential vector ta
+• Integrate a second time with appropriate initial conditions to obtain xa
+
+= t
+
+ta
+
+,
+
+,
+
+.
+
+Alternatively, one can reformulate Eq. (36) directly into an equation for the tangen-
+tial vector
+
+t
+
+t
+
++ t
+
+t
+
+k = 0 ,
+
+(39)
+
+and insert Eq.(19).
+
+It will be instructive to also derive this anti-geodesic equation in a second way,
+which makes use of the energy conservation rather than postulating parallel trans-
+port. Let us look at an anti-gravitating test particle of nonzero but negative gravita-
+tional mass m moving in a strong gravitational ﬁeld. The particle’s energy conser-
+vation law Eq.(35) in the background ﬁeld reads:
+
++ G
+
++ G
+
+= 0 .
+
+The particle moves on the world line yn
+(l ), where l = x0(l ) is the eigen
+time. For the particle of nonzero mass it can be used to parameterize the curve. The
+kinetic SET is then a function of y and can be written as (22)
+
+= xn
+
+(y) = mZ dxn
+
+dl
+
+dxk
+dl
+
+d 4(ye
+
+(l ))
+
+dl
+
+− xe
+√−g
+
+.
+
+Taking the partial derivative with respect to yn and rewriting the derivative on the
+d -function yields
+
+12
+
+(37)
+
+(38)
+
+(40)
+
+(41)
+
+a
+n
+e
+n
+a
+n
+e
+n
+n
+G
+a
+n
+e
+a
+a
+n
+(cid:209)
+n
+a
+n
+k
+t
+a
+a
+(cid:209)
+n
+t
+a
+¶
+n
+Q
+n
+k
+k
+n
+e
+Q
+n
+e
+n
+n
+e
+Q
+e
+k
+Q
+n
+k
+¶ yn
+
+(y) =−mZ
+
+dl
+√−g
+
+d 4(y
+
+− x
+
+(l ))(cid:20)d2xk
+dl 2 − G
+
+dxn
+dl
+
+dxk
+
+dl (cid:21)
+
+.
+
+(42)
+
+Inserting Eq.(40) yields
+
+0 =Z
+
+dl
+√−g
+
+d 4(y
+
+− x
+
+(l ))(cid:20)d2xk
+dl 2 − G
+
+dxn
+dl
+
+dxk
+dl + G
+
+dxn
+dl
+
+dxe
+dl + G
+
+dxe
+dl
+
+dxk
+
+dl (cid:21),
+
+where the second and the last term in the brackets cancel. Demanding that this be
+valid on the world line of the particle, one again ﬁnds Eq.(38).
+
+On both our ways to derive this equation, we have not used one of the most common
+approaches which introduces the particle’s world line as the extremal of a variation
+of the length of the curve. Here we have instead solely used the consequences from
+a variation of the action Eq. (23) which includes geodesic motion as well as anti-
+geodesic motion.
+
+It is important to note that the equations of motion Eq.(38) are invariant under
+general diffeomorphism, provided that the quantities are transformed appropriately.
+In case the space-time is globally ﬂat, one can choose g = h
+,
+and t = Id, and both sets of Christoffelsymbols vanish. Since in this case both
+curves which describe the motion of the particles are identical, they will be identical
+for all choices of coordinate systems in a globally ﬂat background.
+
+. It is then also g = h
+
+4 Discussion
+
+In the presence of strong curvature effects, one expects the interaction between both
+types of matter to become important. Since the anti-gravitating contribution to the
+source-term of the ﬁeld equations is negative, the positive energy theorem can be
+violated. The implications of this feature for the possibility of singularity avoidance
+should be investigated further.
+
+Furthermore, the existence of negative gravitational sources can allow gravity to be
+neutralized, which could be used the address the stabilization and compactiﬁcation
+problem within the context of extra dimensions.
+
+It should also be noted that the anti-gravitating particles do not alter the Hawking-
+radiation of black holes. The black hole horizon is a trapped surface only for usual
+photons, not for the anti-graviating ones. Indeed, it would be very puzzeling if a
+particle could be trapped by a source it is repelled by. Therefore, the anti-gravitating
+particles will not contribute to the Hawking ﬂux.
+
+13
+
+¶
+Q
+n
+k
+e
+e
+e
+e
+n
+e
+e
+e
+e
+n
+k
+n
+e
+n
+n
+e
+5 Conclusions
+
+We have introduced particles into the Standard Model that can cause negative grav-
+itational sources. These particles are deﬁned by their transformation behavior under
+general diffeomorphism. In ﬂat space they obey the laws of Special Relativity. We
+thereby have relaxed the equivalence principle.
+
+The number of particles in the Standard Model is doubled in this scenario: each
+particle has an anti-gravitating partner particle which only differs in its opposite re-
+action to the gravitational ﬁeld. It is not necessary to have a negative kinetic energy
+term. We have shown that the interaction between gravitating and anti-gravitating
+matter is mediated solely by gravitation. It is therefore naturally very weak, ex-
+plaining why we have not seen any anti-gravitating matter so far.
+
+Acknowledgments
+
+I thank Dharam Vir Ahluwalia-Khalilova, Marcus Bleicher, Zacharia Chacko, Keith
+Dienes, Hock Seng Goh, Petr Hajicek, Jim Hartle, Stefan Hofmann, Ben Koch, J¨org
+Ruppert, Stefan Scherer and Lee Smolin for valuable discussions. I also thank the
+Frankfurt Institute of Advanced Studies (FIAS) for kind hospitality. This work was
+temporarily supported by NSF PHY/0301998, later by the Department of Energy
+under Contract DE-FG02-91ER40618 and the DFG.
+
+References
+
+J. W. Moffat, [arXiv:hep-th/0507020].
+
+[1] A. D. Linde, Phys.Lett. B 200, 272 (1988).
+[2] A. Linde, [arXiv:hep-th/0211048].
+[3]
+[4] D. E. Kaplan and R. Sundrum, [arXiv:hep-th/0505265].
+[5] H. Bondi, Rev. Mod. Phys. 29, 423-428 (1957).
+[6]
+[7] A. Borde, L. H. Ford and T. A. Roman, Phys. Rev. D 65, 084002 (2002)
+
+I. Quiros, [arXiv:gr-qc/0411064].
+
+[8] P. C. W. Davies and A. C. Ottewill, Phys. Rev. D 65, 104014 (2002)
+
+[9] S. Ray and S. Bhadra,
+
+Int.
+
+J. Mod. Phys. D 13, 555 (2004)
+
+[arXiv:gr-qc/0109061].
+
+[arXiv:gr-qc/0203003].
+
+[arXiv:gr-qc/0212120].
+
+[10] D. E. Rosenberg, [arXiv:astro-ph/0008166].
+[11] D. F. Torres, G. E. Romero and L. A. Anchordoqui, Mod. Phys. Lett. A 13,
+
+1575 (1998) [arXiv:gr-qc/9805075].
+
+14
+
+[12] V. M. Zhuravlev, D. A. Kornilov and E. P. Savelova, Gen. Rel. Grav. 36 (2004)
+
+1719.
+
+[13] V. Faraoni, Phys. Rev. D 70, 081501 (2004) [arXiv:gr-qc/0408073].
+[14] N. Arkani-Hamed, P. Creminelli, S. Mukohyama and M. Zaldarriaga, JCAP
+
+0404, 001 (2004) [arXiv:hep-th/0312100].
+
+[15] N. Arkani-Hamed, H. C. Cheng, M. A. Luty and S. Mukohyama, JHEP 0405,
+
+074 (2004) [arXiv:hep-th/0312099].
+
+[16] N. Arkani-Hamed, H. C. Cheng, M. A. Luty, S. Mukohyama and T. Wiseman,
+
+[arXiv:hep-ph/0507120].
+
+[17] R. B. Mann and J. J. Oh, [arXiv:hep-th/0504172].
+[18] A. Krause and S. P. Ng, [arXiv:hep-th/0409241].
+[19] R. E. G. Saravi, J. Phys. A 37 (2004) 9573-9586, [arXiv:math-ph/0306020].
+[20] M. Forger
+306-389,
+
+and H. R¨omer, Ann. Phys.
+
+(2004)
+
+309
+
+[21] S. V. Babak and L. P. Grishchuk, Phys. Rev. D 61, 024038 (2000)
+
+[arXiv:hep-th/0307199].
+
+[arXiv:gr-qc/9907027].
+
+[22] S. Weinberg, ’GravitationandCosmology’: Wiley (July, 1972) .
+
+15
+
+

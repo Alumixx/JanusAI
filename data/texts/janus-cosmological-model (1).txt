@@ -1,0 +1,1876 @@
+	  
+
+1	  
+
+2016	  nov.	  	  12th	  
+
+The	  Janus	  Cosmological	  Model.	  	  
+
+Fourty	  years	  of	  work	  
+
+	  
+J.P.Petit1	  	  
+
+	  
+
+	  The	  Janus	  cosmological	  model	  is	  the	  result	  of	  40	  years	  of	  work.	  Let	  me	  tell	  you	  that	  story.	  	  
+In	  1967	  the	  Russian	  Andrei	  Sakharov	  published	  a	  very	  exotic	  work,	  presenting	  a	  theory	  
+of	  the	  twin	  universe	  (	  [1]	  ,	  [2]	  ,	  [3]	  	  ).	  	  This	  work	  remained	  ignored	  during	  a	  long	  time.	  	  
+Personally,	  I	  discovered	  his	  theory	  about	  «	  twin	  universe	  »	  in	  1984,	  seven	  years	  after	  my	  
+first	  publications	  on	  the	  subject	  (1977)	  issued	  ten	  years	  after	  his	  papers	  published	  in	  
+russian	  (1967).	  Presently	  we	  are	  the	  only	  scientists	  who	  paid	  attention	  to	  this	  idea,	  
+possibly	  because	  we	  had	  the	  same	  source	  of	  inspiration.	  	  
+Sakharov	  suggests	  that	  the	  universe	  is	  composed	  by	  two	  entities,	  he	  calls	  twin	  universes.	  
+One	  is	  the	  universe	  that	  we	  know,	  made	  of	  matter.	  The	  second	  is	  its	  twin	  universe,	  made	  
+of	  twin	  matter.	  The	  two	  are	  linked	  through	  the	  Big	  Bang	  singularity.	  Immediatlety	  we	  
+find	  a	  puzzling	  feature.	  	  
+
+	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  
+1	  jp.petit@mailaps.org	  
+
+	  
+
+	  
+
+	  	  
+
+	  
+
+2	  
+
+	  
+
+	  
+Fig.1	  :	  2D	  didactic	  image	  of	  Sakharov’s	  twin	  universe	  model	  
+	  Il	  these	  two	  folds	  of	  the	  universe	  the	  arrows	  of	  time	  are	  opposite	  !	  Moreover,	  the	  two	  
+folds	  are	  enantiomorphic,	  mirror-­‐symmetric.	  Next,	  a	  classical	  example	  of	  mirror-­‐
+symmetry	  :	  
+	  	  
+
+Fig.2	  :	  Enantiomorphic	  corkscrews	  
+
+	  
+	  
+	  What	  would	  it	  mean,	  from	  a	  cosmological	  point	  of	  view	  ?	  For	  example	  :	  two	  
+enantiomorphic	  particles	  would	  be	  identical,	  except	  the	  orientation	  of	  their	  spins.	  
+Enantiomorphic	  particles	  would	  have	  opposite	  spins.	  	  
+	  Have	  a	  look	  to	  the	  Janus	  god.	  I	  have	  discovered	  very	  recently	  that	  this	  god	  looks	  towards	  
+the	  future	  and	  towards	  the	  past,	  simultaneously.	  	  
+	  By	  the	  way,	  this	  is	  the	  cover	  of	  the	  book	  published	  in	  1984	  (french	  issues)	  which	  
+contains	  collected	  works	  of	  A.Sakharov	  :	  	  
+
+	  
+
+3	  
+
+	  
+
+	  
+Fig.3	  :	  A.	  Sakharov,	  collected	  works,	  french	  issue,	  1984	  
+	  Sakharov	  gives	  no	  explanation	  about	  such	  hypothesis.	  What	  is	  his	  leading	  idea	  ?	  	  
+You	  probably	  know	  that	  the	  absence	  of	  primeval	  antimatter	  in	  our	  universe	  is	  one	  of	  the	  	  
+most	  puzzling	  problem	  in	  science.	  Consider	  the	  Big	  Bang	  model.	  You	  may	  have	  a	  look	  to	  
+the	  comic	  book	  entitled	  Big	  Bang,	  I	  published	  in	  1994	  on	  the	  subject	  at,	  the	  following	  
+URL	  :	  	  
+http://www.savoir-­‐sans-­‐frontieres.com/JPP/telechargeables/English/big_bang.htm	  
+On	  page	  22	  :	  	  
+
+	  	  
+
+	  	  
+
+	  
+
+4	  
+
+	  
+	  When	  the	  temperature	  of	  the	  cosmic	  soup	  falls	  down	  the	  annihilation	  process	  can	  no	  
+longer	  be	  balanced	  by	  the	  creation	  	  of	  pairs	  matter-­‐antimatter,	  so	  that	  the	  (positive	  
+mass)	  components	  tend	  to	  completely	  disappear,	  replaced	  by	  photons.	  Only	  one	  part	  
+among	  a	  billion	  survives.	  
+
+	  
+
+5	  
+
+	  
+Why	  ?	  This	  is	  an	  unsolved	  mystery.	  By	  the	  way,	  if	  that	  part	  of	  matter	  corresponding	  to	  
+one	  part	  of	  one	  per	  billion	  survives,	  where	  is	  the	  corresponding	  part	  of	  antimatter	  ?	  
+Decades	  ago	  some	  scientists	  suggested	  that,	  among	  the	  observed	  galaxies	  some	  could	  be	  
+made	  of	  matter	  and	  some	  others	  of	  antimatter.	  But	  the	  observation	  showed	  that,	  due	  to	  
+the	  random	  movements	  of	  galaxies	  in	  clusters,	  collisions	  occur.	  If	  a	  single	  collision	  of	  a	  
+galaxy	  and	  an	  anti-­‐galaxy	  would	  occur,	  even	  at	  very	  large	  distance,	  the	  flux	  of	  hard	  
+gamma	  rays	  would	  be	  so	  intense	  that	  it	  would	  have	  been	  detected	  on	  Earth.	  	  
+As	  such	  gamma	  flux	  was	  not	  evidenced	  it	  became	  evident	  that	  the	  half	  part	  of	  the	  
+Universe	  was	  missing.	  	  
+Sakharov	  suggested	  in	  1967	  that	  the	  rate	  of	  production	  of	  baryons	  (protons,	  neutrons)	  
+from	  quarks	  would	  have	  been,	  in	  our	  fold	  of	  the	  universe,	  slightly	  higher	  that	  the	  rate	  of	  
+production	  of	  antibaryons	  (antiprotons,	  antineutrons)	  from	  antiquarks.	  	  
+Conversely	  :	  inverse	  situation	  in	  the	  «	  twin	  universe	  ».	  As	  a	  result	  :	  	  
+In	  our	  universe,	  we	  would	  find	  :	  
+-­‐  photons,	  as	  a	  result	  of	  annihilations	  matter-­‐antimatter	  
+remnant	  matter	  (observed)	  
+-­‐ 
+-­‐  plus	  the	  corresponding	  leftover	  of	  antiquarks	  (ratio	  3	  to	  1,	  because	  3	  antiquarks	  
+are	  required	  to	  make	  an	  anibaryon)	  
+In	  the	  twin	  universe	  :	  	  
+-­‐  «	  twin	  photons	  »,	  as	  a	  result	  of	  annihilations	  twin	  matter-­‐	  twin	  antimatter	  
+remnant	  «	  twin	  antimatter	  »	  
+-­‐ 
+
+	  
+6	  
+-­‐  plus	  the	  corresponding	  leftover	  of	  «	  twin	  quarks	  »	  (	  ratio	  3	  to	  1	  ).	  	  
+Presently	  this	  (vague	  )	  idea	  of	  A.Sakharov	  is	  the	  only	  one	  available	  to	  try	  to	  explain	  the	  
+absence	  of	  observation	  of	  the	  primeval	  antimatter.	  The	  question	  is	  so	  embarrassing	  that	  
+the	  scientific	  community	  keeps	  silent	  about	  it.	  	  
+Today,	  if	  somebedy	  would	  like	  to	  organize	  an	  international	  conference	  about	  it	  and	  
+publishes	  a	  call	  for	  papers,	  no	  papers	  would	  be	  available.	  	  
+To	  sum	  up	  :	  	  
+	  That	  was	  the	  starting	  point	  of	  A.Sakharov,	  but	  it	  does	  not	  explain	  why	  he	  decided	  that	  
+his	  twin	  universe	  would	  be	  enatiomorphic	  and	  equipped	  with	  a	  reversed	  arrow	  of	  time.	  	  
+In	  his	  papers	  (	  [1]	  ,	  [2]	  ,	  [3]	  	  )	  he	  introduces	  a	  link	  through	  the	  Big	  Bang	  singularity	  and	  
+suggests	  that	  black	  holes	  could	  possibly	  link	  the	  two	  folds.	  	  
+I	  started	  to	  work	  on	  the	  question	  of	  twin	  universes	  in	  1975	  and	  published	  three	  papers	  
+in	  1977	  	  thanks	  to	  a	  french	  academician	  and	  mathematician,	  the	  professor	  André	  
+Lichnérowicz.	  This	  is	  a	  picture	  I	  made	  of	  him.	  	  
+	  
+
+Good	  reward	  for	  any	  information	  which	  would	  help	  its	  capture	  !	  	  
+
+Lost,	  half	  part	  of	  the	  universe	  
+
+	  
+Fig.3	  :	  Pr.	  A.	  Lichnérowicz,	  collected	  works,	  1915-­‐1998	  
+
+	  
+
+	  
+7	  
+In	  1958	  I	  attended	  the	  french	  Ecole	  Supérieure	  de	  l’Aéronautique	  de	  Paris	  (Aeronautical	  
+school).	  After	  such	  studies	  	  and	  military	  service	  I	  tried	  during	  several	  years	  to	  live	  from	  
+art	  :	  
+	  
+
+	  
+
+Fig.4	  :	  Italia	  :	  Capri	  island,	  watercolour	  	  
+As	  it	  did	  not	  work	  I	  went	  back	  to	  science.	  I	  worked	  on	  MHD	  power	  plants	  and	  invented	  
+the	  first	  technique	  to	  cancel	  the	  electrothermal	  instability.	  	  	  When	  France	  gave	  up	  MHD	  I	  
+shifted	  to	  pure	  theory	  through	  kinetic	  theory	  of	  gases	  and	  Botlzmann	  equation.	  Finally,	  
+changing	  particles	  into	  stars,	  I	  shifted	  to	  galactic	  dynamics.	  	  
+This	  last	  part	  would	  deserve	  another	  paper.	  If	  interested	  you	  can	  download	  a	  
+communication	  at	  an	  international	  meeting,	  held	  at	  IHES	  in	  1974	  :	  
+http://www.jp-­‐petit.org/ihes1974	  
+Let’s	  get	  back	  to	  cosmology.	  	  
+	  
+In	  1977	  I	  built	  an	  exact	  solution	  of	  a	  system	  of	  two	  Vlasov	  equations,	  coupled	  by	  Poisson	  
+equation.	  That	  was	  made	  possible	  with	  :	  
+two	  opposite	  times	  
+-­‐ 
+-­‐  opposite	  electric	  charges	  
+-­‐  enantiomorphy.	  	  
+
+Newtonian	  version	  of	  the	  Janus	  model	  
+
+Introducing	  variable	  speed	  of	  light	  
+
+	  
+8	  
+The	  three	  papers	  may	  be	  downloaded	  at	  :	  
+http://www.jp-­‐petit.org/cras1977	  
+With	  respect	  to	  the	  model	  of	  Andrei	  Sakharov	  (	  that	  I	  discovered	  in	  1984	  )	  the	  two	  
+entities	  were	  at	  once	  interacting.	  	  
+That	  was	  very	  interesting	  ([4],	  [5],	  [6])	  and	  was	  the	  begining	  of	  my	  strong	  interest	  in	  
+cosmology.	  It	  took	  some	  time	  to	  extend	  the	  work	  to	  the	  relativistic	  field.	  And	  it	  took	  
+more	  time	  too	  succeed	  to	  publish	  this	  work	  in	  scientific	  journals.	  	  
+	  
+In	  1998	  I	  published	  abother	  work	  [8]	  ,	  in	  order	  to	  concretize	  the	  idea	  of	  a	  valable	  speed	  
+of	  ligth	  over	  the	  evolution	  of	  the	  universe.	  In	  effect	  classical	  cosmology	  brings	  a	  paradox,	  
+called	  «	  the	  paradox	  of	  the	  cosmological	  horizon	  ».	  This	  one	  arose	  when	  images	  of	  the	  
+primeval	  universe	  were	  capture	  by	  the	  satellite	  	  Cobe,	  in	  1989.	  My	  work,	  1988,	  solved	  
+the	  paradox.	  It	  may	  seem	  strange	  that	  the	  solution	  was	  bought	  before	  the	  emergence	  of	  
+the	  problem.	  I	  confess	  I	  feel	  it	  strange	  too.	  	  
+In	  spite	  of	  this	  logical	  strangeness,	  let	  us	  present	  the	  problem.	  	  
+Due	  to	  the	  redshift	  the	  farther	  the	  source	  the	  larger	  the	  wavelength,	  so	  that	  if	  you	  use	  an	  
+intrument	  (	  an	  antenna	  )	  designed	  to	  capture	  very	  large	  wavelengths	  the	  nearby	  sources,	  
+like	  stars,	  galaxies,	  will	  simply	  be	  ignored.	  
+In	  the	  seventies	  two	  researchers,	  Penzias	  and	  Wilson,	  using	  an	  antenna	  designed	  to	  
+capture	  centimetric	  radiation,	  discovered	  that,	  pointing	  it	  at	  any	  direction	  of	  the	  sky	  
+their	  antenna	  received	  such	  radiation.	  It	  was	  established	  that	  it	  corresponded	  to	  the	  
+farthest	  signal	  that	  could	  be	  received	  on	  Earth.	  	  
+	  
+
+The	  antenna	  that	  first	  received	  CMB	  
+
+	  
+
+	  
+
+	  
+9	  
+When	  the	  universe	  is	  younger	  that	  380,000	  years,	  it	  is	  fully	  ionized,	  it’s	  a	  plasma.	  Free	  
+electrons	  strongly	  react	  to	  electromagnetic	  radiation.	  For	  example,	  we	  know	  that	  it	  is	  
+impossible	  to	  communicate	  with	  an	  astronaut	  during	  the	  re-­‐entry	  phase	  because	  the	  	  
+capsule	  is	  surrounded	  by	  a	  plasma.	  	  
+During	  all	  his	  history	  the	  history	  of	  universe	  radiative	  process	  occurs.	  The	  average	  
+wavelength	  corresponds	  to	  the	  radiation	  temperature	  TR.	  The	  higher	  the	  temperature,	  
+the	  smaller	  the	  wavelength.	  But	  this	  radiation	  is	  continuously	  absorbed	  and	  reemitted.	  
+As	  time	  flies	  the	  wavelength	  of	  the	  reemitted	  radiation	  grows.	  When	  the	  recombination	  
+occurs	  the	  emitted	  photons	  can	  cross	  space,	  because	  bounded	  electrons	  become	  
+insensitive	  to	  these	  tiny	  electromagnetic	  waves	  :	  the	  universe	  becomes	  transparent.	  	  
+	  
+The	  last	  emission	  corresponds	  to	  a	  plasma	  temperature	  TR	  =	  3,000°K.	  
+k	  being	  the	  Boltzmann	  constant,	  the	  energy	  of	  photons	  is	  
+Introducing	  the	  numerical	  values	  we	  find	  λ= 4.8 microns	  
+When	  the	  universe	  expands	  the	  photon	  wavelength	  	  
+If	  the	  age	  of	  the	  univers	  is	  13	  billions	  years	  this	  corresponds	  to	  a	  ratio	  	  
+
+Why	  3	  degrees	  Kelvin	  :	  
+
+k TR = hν=
+
+→ λ=
+
+hc
+kTR
+
+h c
+λ
+
+	  
+
+	  
+
+1.31010
+
+follows	  this	  expansion	  process.	  
+3.8105 = 3.4105	  
+Assuming	  the	  expansion	  law	  is	   R ∝t 2 3	  	  
+this	  corresponds	  to	  en	  enlargement	  ratio	   ≅1000	  
+ λ' = 4.8 microns ×1000 = 4.8 millimeters	  
+which	  corresponds	  to	  a	  black	  body	  temperature	  
+≅ 3°K	  
+
+k TR = hν=
+
+→ TR =
+
+hc
+kλ
+
+h c
+λ
+
+which	  corresponds	  to	  the	  enlargement	  of	  the	  photon’s	  wavelength,	  i.e.	  to	  the	  
+redshift	  z.	  So	  that	  ,	  when	  captured,	  the	  wavelength	  corresponds	  to	  
+
+	  
+	  This	  is	  what	  appeared	  from	  the	  COBE	  data	  :	  
+
+10	  
+
+Fig.4	  :	  The	  COBE	  data	  (non	  enhanced	  )	  
+So,	  the	  cosmic	  background	  was	  found	  very	  homogeneous	  in	  any	  direction.	  This	  elliptic	  
+presentation	  corresponds	  to	  (transverse)	  Mercator	  mapping.	  	  
+
+Fig.5	  :	  Transverse	  Mercator	  mapping	  of	  the	  sphere	  
+When	  enhanced	  by	  a	  factor	  100,000	  we	  get	  the	  wellknown	  image	  	  :	  	  
+
+	  
+
+	  
+
+Fig.6	  :	  Cosmic	  background.	  Enhanced	  data,	  factor	  100,000	  
+
+	  
+
+	  
+	  
+Back	  to	  figure	  4	  :	  How	  to	  justify	  such	  almost	  perfect	  homogeneity	  ?	  	  
+Homogeneity	  needs	  an	  exchange	  process	  between	  distant	  portions	  of	  the	  universe.	  	  But	  
+the	  expansion	  process	  starts	  dramatically	  :	  	  
+	  
+
+Homogeneity	  of	  the	  primeval	  universe	  
+
+11	  
+
+	  
+
+	  
+
+Fig.7	  :	  Comparizon	  between	  horizon	  and	  distance	  between	  test	  particles	  
+
+As	  we	  can	  see,	  at	  t	  =	  0	  	  two	  test	  particles	  move	  away,	  each	  from	  the	  other,	  at	  an	  infinite	  
+velocity.	  Then,	  as	  time	  flies,	  this	  expansion	  velocity	  decreases.	  But	  during	  a	  certain	  time	  
+the	  average	  distance	  between	  two	  neighbour	  particles	  is	  much	  larger	  that	  the	  radius	  ct	  	  
+of	  an	  electromagnetic	  wave	  emitted	  at	  t	  =	  0	  bu	  the	  particles.	  So,	  during	  than	  time	  they	  
+cannot	  communicate,	  be	  cause	  nothing	  can	  go	  faster	  that	  light.	  	  
+Without	  interaction,	  any	  tiny	  unhomogeneity	  would	  be	  dramatically	  increased.	  As	  many	  
+people	  know	  this	  was	  solved	  by	  the	  so-­‐called	  inflation	  theory.	  According	  to	  this	  model,	  at	  
+the	  very	  begining	  of	  the	  universe	  an	  incredible	  expansion	  would	  occurs	  at	  10-­‐36	  sec	  and	  
+last	  to	  10-­‐33	  sec/	  .	  The	  expansion	  rate	  would	  be	  1026.	  For	  details,	  see	  	  
+https://en.wikipedia.org/wiki/Inflation_(cosmology)	  
+What	  produces	  this	  inflation	  process	  ?	  Answer	  :	  a	  mysterious	  particle	  called	  inflaton.	  	  
+There	  are	  several	  justifications	  to	  the	  theory	  of	  inflation.	  According	  Grand	  Unification	  
+Theory	  the	  Big	  Bang	  should	  produce	  a	  lot	  of	  hypothetic	  heavy	  particles	  names	  magnetic	  
+monopoles.	  Though,	  as	  cosmologist	  Martin	  Rees	  writes	  :	  "Skeptics	  about	  exotic	  physics	  
+might	  not	  be	  hugely	  impressed	  by	  a	  theoretical	  argument	  to	  explain	  the	  absence	  of	  
+particles	  that	  are	  themselves	  only	  hypothetical.	  Preventive	  medicine	  can	  readily	  seem	  
+100	  percent	  effective	  against	  a	  disease	  that	  doesn't	  exist!"	  
+
+	  
+
+12	  
+
+	  
+
+Cosmological	  model	  with	  variable	  velocity	  of	  light	  
+
+	  In	  1988	  I	  published	  a	  paper	  entitled	  :	  	  
+Later	  the	  scientists	  Moffat	  (1992)	  	  and	  Magueijo	  (1998)	  proposed	  their	  own	  versions.	  
+See	  :	  	  
+https://en.wikipedia.org/wiki/Variable_speed_of_light	  
+But,	  as	  pointed	  out	  by	  researchers	  their	  approach	  modified	  Maxwell’s	  equations	  so	  that	  
+a	  geometric	  property	  called	  «	  Lorentz	  invariance	  »	  was	  no	  longer	  preserved.	  	  
+My	  model	  was	  different,	  because	  it	  was	  fundamentally	  based	  on	  the	  preservation	  of	  all	  
+equations	  of	  physics,	  cinluding	  Maxwell.	  	  
+In	  such	  equations	  a	  certain	  number	  or	  so-­‐called	  constants	  appear	  :	  	  
+c	  :	  speed	  of	  light	  
+G	  :	  constant	  of	  gravity	  
+h	  :	  Planck’s	  constant	  
+e	  :	  unit	  electric	  charge	  
+M	  :	  mass	  
+µ:	  magnetic	  permeability	  of	  vacuum	  
+I	  added	  two	  «	  scale	  factors	  »,	  one	  for	  space,	  a,	  	  and	  the	  other	  for	  time	  t	  and	  found	  in	  1988	  
+that	  there	  was	  only	  one	  universal	  gauge	  relationship	  that	  could	  link	  these	  eight	  
+quantities,	  	  
+}	  
+while	  preserving	  all	  the	  equations	  of	  physics	  :	  Einstein’s	  field	  equation,	  Schrödinger	  or	  
+Dirac	  equations,	  Maxwell	  equations,	  Boltzmann	  equation	  etc…	  
+	  
+
+c , G , h , e, m , µ, a , t
+
+{
+
+Physics	  behind	  the	  wall	  
+
+	  
+13	  
+What	  does	  it	  mean	  ?	  	  
+As	  we	  said	  before,	  the	  early	  universe	  (	  for	  t	  <	  380,000	  yrs	  )	  remains	  a	  mystery,	  because	  
+we	  can’t	  get	  information	  from	  the	  time	  before.	  All	  what	  we	  propose	  is	  speculative.	  In	  a	  
+word,	  the	  cosmic	  background	  is	  a	  wall	  we	  can’t	  see	  through.	  How	  is	  the	  physics	  there	  ?	  	  
+This	  gauge	  relationship	  answers	  the	  question	  :	  at	  this	  time	  our	  familiar	  equations	  of	  
+physics	  can	  be	  used	  (which	  is	  classically	  assumed).	  The	  universe	  experiences	  a	  
+generalized	  «	  gauge	  process	  ».	  The	  work	  was	  continued	  in	  1995	  [9]	  and	  in	  2000	  [10]	  .	  On	  
+next	  figure	  we	  see	  how	  the	  constants	  vary	  in	  time,	  during	  the	  radiation	  dominated	  era.	  	  
+
+	  
+
+Fig.8	  :	  Secular	  evolution	  of	  the	  constants	  of	  physics	  (reduced	  values).	  	  
+
+As	  we	  can	  see,	  c	  and	  G	  tend	  to	  infinite	  when	  t	  tends	  to	  zero.	  Conversely	  the	  mass,	  the	  unit	  
+electric	  charge,	  the	  Planck’s	  constant	  (I	  have	  forgotten	  the	  magnetic	  permeability	  of	  
+vacuum	  which	  experience	  similar	  variation)	  tend	  to	  zero.	  	  
+When	  the	  density	  of	  energy	  of	  matter	  prevails	  (matter	  dominated	  era)	  	  these	  constants	  
+behave	  as	  …	  absolute	  constants.	  	  
+With	  respect	  to	  the	  other’s	  model,	  mine	  preserves	  the	  fine	  structure	  constant	  α	  ,	  which	  
+preserves	  atomic	  structure.	  	  
+Today,	  science	  strongly	  depends	  on	  marketing	  activity.	  Authors	  have	  to	  be	  present	  in	  
+international	  conferences.	  It’s	  better	  to	  form	  a	  group,	  a	  «	  pack	  ».	  Inside	  the	  group	  all	  
+guys	  quote	  the	  papers	  of	  the	  other	  members	  of	  the	  group,	  so	  that	  their	  scientific	  
+movement	  may	  grow	  like	  a	  french	  mayonnaise.	  	  
+
+	  
+14	  
+By	  the	  way,	  I	  don’t	  know	  if	  I	  will	  be	  understood	  by	  american	  readers.	  For	  them,	  the	  
+mayonnaise	  is	  a	  sauce,	  a	  salad	  dressing	  that	  comes,	  ready	  for	  use,	  from	  a	  tube.	  Frenchies	  
+still	  make	  their	  mayonnaise	  by	  hand,	  from	  elementary	  components	  :	  	  
+
+-­‐	  egg	  yolk	  :	  one	  
+-­‐	  oil	  25	  cc	  
+-­‐	  mustard	  :	  one	  spoon	  
+-­‐	  salt,	  peper	  
+-­‐	  vineger	  (	  at	  the	  end	  )	  
+
+Like	  in	  science,	  it	  requires	  to	  be	  strongly	  agitated	  to	  come	  up.	  
+
+From	  that	  point	  of	  view	  I	  was	  at	  once	  out	  of	  the	  race.	  Alone,	  with	  no	  budget	  to	  take	  in	  
+charge	  missions.	  So	  that	  my	  work	  has	  been	  completely	  ignored	  since	  28	  years.	  Perhaps	  
+that	  will	  change	  if	  the	  Janus	  model	  has	  somme	  success	  someday,	  because	  it’s	  an	  
+important	  part	  of	  this	  model.	  	  
+Let’s	  back	  to	  the	  paradox	  of	  homogeneity.	  According	  to	  this	  model	  the	  velocity	  of	  light	  is	  
+linked	  to	  the	  space	  scale	  factor	  a	  (the	  «	  size	  »	  of	  the	  universe)	  through	  :	  	  
+So,	  the	  cosmological	  horizon	  no	  longer	  varies	  linearly	  like	  t	  .	  Then	  the	  calculation	  shows	  
+that	  the	  	  cosmological	  horizon	  grows	  as	  the	  size	  	   a	  	  of	  the	  universe,	  so	  that	  its	  
+homogeneity	  is	  ensured	  at	  any	  time	  during	  the	  radiation	  dominated	  era.	  	  
+Schematically	  :	  	  
+
+	  
+  horizon ∝ a	  
+
+1
+a
+
+c ∝
+
+	  
+Fig.9	  :	  Growth	  of	  the	  cosmological	  horizon	  in	  time	  
+
+	  
+	  For	  more	  information	  go	  to	  my	  comic	  strip	  	  
+
+15	  
+
+	  
+
+http://www.savoir-­‐sans-­‐
+frontieres.com/JPP/telechargeables/English/faster_than_light/faster_than_light.pdf	  
+
+	  
+A	  modern	  version	  of	  Zeno’	  paradox.	  
+
+You	  perhaps	  know	  the	  famous	  paradox	  of	  Zeno’s	  of	  Elea	  (ca.	  490-­‐	  430	  BC)	  called	  Achilles	  
+and	  the	  tortoise.	  	  
+What	  is	  time	  ?	  An	  angle.	  An	  hour	  is	  figured	  by	  a	  turn	  of	  the	  long	  needle	  of	  your	  watch.	  A	  
+day	  is	  a	  turn	  of	  the	  Earth	  around	  itself.	  A	  year	  is	  a	  turn	  of	  the	  Earth,	  circling	  around	  the	  
+sun.	  	  
+Imagine	  a	  conceptual	  clock	  made	  of	  two	  masses	  orbiting	  arounf	  their	  common	  center	  of	  
+gravity.	  	  
+
+	  
+
+Fig.10	  :	  An	  elementary	  clock	  
+
+	  If	  we	  consider	  the	  period	  of	  rotation	  of	  such	  cloc	  it	  involves	  the	  constant	  of	  gravity,	  the	  
+value	  of	  the	  mass	  and	  the	  orbitation	  radius.	  Taking	  account	  of	  the	  gauge	  process	  all	  
+these	  quantities	  vary.	  Then	  we	  can	  compute	  the	  number	  of	  turns	  from	  the	  origin	  of	  the	  
+universe	  to	  the	  present	  time.	  	  
+
+We	  find	  an	  infinite	  number	  of	  turns	  
+
+	  
+16	  
+Sakharov	  said	  that	  the	  universe	  was	  like	  a	  book,	  opened	  at	  a	  page	  called	  «	  present	  ».	  The	  
+next	  pages	  represents	  the	  «	  future	  »	  and	  the	  precedent	  pages	  «	  the	  past	  ».	  Immediatley	  
+we	  would	  like	  to	  flip	  back	  the	  book	  in	  order	  to	  reach	  the	  first	  page,	  on	  which	  the	  author	  
+has	  inscribed	  his	  foreword,	  showing	  his	  intentions.	  	  
+But	  when	  flipping	  back	  the	  pages	  they	  begin	  thinner	  and	  thinner,	  at	  the	  end	  infinitely	  
+thin	  !	  We	  never	  reach	  that	  foreword.	  	  
+By	  the	  way,	  I	  have	  written	  another	  comic	  book	  about	  time,	  called	  	  
+	  
+
+	  
+
+	  
+
+THE	  CHRONOLOGICON	  	  
+
+What’s	  	  «	  before	  »	  the	  Big	  Bang	  ?	  	  
+
+http://www.savoir-­‐sans-­‐
+frontieres.com/JPP/telechargeables/English/chronologicon_eng/Chronologicon_anglais.pdf	  
+	  
+Perhaps	  this	  question	  has	  no	  meaning.	  Think	  about	  Sakharov’s	  model	  and	  his	  two	  
+enantiomorphic	  twin	  universes,	  created	  simultaneously,	  with	  opposite	  arrows	  of	  time.	  
+How	  could	  we	  figure	  that	  ?	  
+	  Imagine	  a	  fully	  closed	  spacetime,	  figured	  as	  a	  2-­‐sphere.	  The	  Big	  Bang	  is	  at	  one	  pole	  and	  
+the	  Big	  Crunch	  at	  the	  opposite	  pole,	  located	  at	  its	  antipode.	  Space	  is	  one-­‐dimensional,	  
+expanding,	  then	  collapsing,	  after	  a	  maximum	  expansion,	  figyred	  by	  the	  equator	  of	  the	  
+sphere.	  	  
+We	  know	  that	  we	  can	  identify	  antipodal	  points	  of	  a	  S2	  sphere	  which	  is	  transformed	  into	  
+a	  Boy’s	  surface.	  See	  another	  Comic	  book	  :	  	  
+	  
+
+	  
+
+	  
+
+TOPO	  THE	  WORLD	  :	  
+
+http://www.savoir-­‐sans-­‐
+frontieres.com/JPP/telechargeables/English/Topo_the_world_eng.pdf	  
+
+	  Remember	  it	  is	  best	  to	  avoid	  reading	  this	  album	  :	  	  
+-­‐ 
+-­‐  After	  a	  heavy	  meal	  
+-­‐  Or	  were	  you’re	  certain	  about	  nothing,	  because	  this	  will	  only	  make	  it	  worse	  
+Let’s	  get	  back	  to	  our	  2D	  space	  time	  :	  	  
+
+In	  the	  evening	  before	  going	  to	  bed	  
+
+	  
+
+	  
+
+Next	  :	  the	  result	  :	  	  
+
+17	  
+
+	  
+
+	  
+
+18	  
+
+	  
+	  The	  result	  is	  a	  mapped	  Boy	  surface.	  	  The	  Big	  Bang	  and	  Big	  Crunch	  coincide	  at	  the	  single	  
+pole	  of	  the	  Boy	  surface.	  At	  any	  time	  two	  folds	  with	  opposite	  arrows	  of	  time	  coincide	  too	  :	  
+
+Notice	  you	  can	  shift	  to	  a	  three-­‐dimensional	  Boy	  hypersurface.	  Then	  you	  can	  fold	  it	  by	  
+constant	  t	  surfaces	  :	  	  
+
+	  
+
+Fig.11	  :	  Time-­‐folding	  in	  a	  3D	  Boy	  hypersurface	  
+
+	  
+
+	  
+
+	  
+19	  
+The	  so-­‐called	  instant	  «	  	  t	  =	  0	  »	  would	  correspond	  to	  an	  achronic	  but	  highly	  chronogenic	  
+situation,	  followed	  by	  the	  immediate	  birth	  of	  two	  opposite	  arrows	  of	  time.	  The	  two	  
+«	  twin	  universe	  »	  correspond	  to	  fiber	  bundling.	  Notice	  they	  are	  enantiomorphic.	  	  
+More	  precisely,	  the	  so-­‐called	  «	  	  t	  =	  0	  »	  instant	  would	  correspond	  to	  achronic	  and	  non-­‐
+orientable	  geometric	  structure.	  The	  cosmogenesis	  would	  correspond	  to	  a	  full	  symmetry	  
+breaking.	  	  
+If	  we	  add	  electric	  charge,	  as	  will	  be	  shown	  further,	  a	  closed	  fifth	  dimension	  is	  required.	  
+Then	  we	  need	  to	  deal	  with	  a	  projective	  space	  P5	  (and	  probably	  P10,	  if	  we	  add	  other	  
+quantum	  charges).	  	  
+Eventually,	  if	  one	  wants	  to	  eliminate	  the	  Big	  Bang	  singularity	  it	  cas	  be	  replaced	  by	  a	  
+space	  bridge	  and	  the	  multi-­‐dimensional	  Boy	  Hyersurface	  Becomes	  a	  multi-­‐dimensional	  
+Klein’s	  bottle	  :	  	  
+	  
+
+	  
+	  This	  non-­‐trivial	  torus	  turning	  was	  a	  part	  of	  a	  paper	  issued	  in	  the	  french	  journal	  «	  Pour	  la	  
+Science	  »,	  french	  edition	  of	  Scientific	  American.	  But,	  due	  to	  a	  lack	  of	  fair	  play,	  the	  US	  
+journal	  refused	  to	  publish	  this	  13	  pages	  french	  paper,	  devoted	  to	  the	  eversion	  of	  the	  2-­‐
+sphere.	  	  
+frontieres.com/JPP/telechargeables/Francais/retournement_sphere/PLS_79.pdfFig.12a	  
+
+http://www.savoir-­‐sans-­‐
+
+The	  eversion	  of	  the	  2-­‐sphere	  (	  in	  french	  )	  :	  
+
+	  
+
+	  
+
+20	  
+
+	  	  
+
+From	  the	  eversion	  of	  the	  2-­‐sphere,	  after	  Morin-­‐Petit	  
+
+	  
+
+Fig.12b	  :	  From	  the	  eversion	  of	  the	  2-­‐sphere,	  after	  Morin-­‐Petit	  
+
+Next	  :	  the	  polyedric	  version	  of	  the	  central	  model	  (part	  of	  the	  eversion	  of	  the	  2-­‐cube)	  
+
+	  
+
+21	  
+
+	  
+
+	  
+
+22	  
+
+Fig.13	  :	  The	  central	  model	  of	  the	  eversion	  of	  the	  2-­‐cube.	  	  
+
+	  
+
+	  
+
+Getting	  more	  in	  relativistic	  world	  
+
+Such	  material	  formed	  the	  geometric	  support	  of	  my	  first	  paper	  about	   relativistic	   twin	  
+universe	   theory,	  issued	  in	  the	  journal	  Nuovo	  Cimento	  in	  1994	  [7],	  after	  thirty	  
+unsuccessful	  attempts	  and	  classical	  rejection	  answer	  :	  	  
+-­‐  Sorry,	  we	  don’t	  publish	  speculative	  works	  
+In	  this	  paper	  I	  developped	  the	  intuition	  that	  «	  twin	  matters	  »	  had	  opposite	  sign	  masses,	  
+with	  the	  following	  conjectural	  laws	  of	  interaction	  :	  	  
+-­‐  matter	  attracts	  matter	  through	  Netwon’s	  law	  
+-­‐  «	  twin	  matter	  »	  attracts	  «	  twin	  matter	  »	  through	  Newton’s	  law	  
+-­‐  matter	  and	  «	  twin	  matter	  »	  mutually	  repel	  through	  «	  Anti-­‐Newton’s	  law	  ».	  	  
+This	  introduced	  the	  first	  description	  of	  the	  universe	  as	  a	  M4	  manifold	  plus	  two	  metrics	  
+(+)	  and	      
+(−),	  solutions	  of	  a	  coupled	  field	  equations	  system.	  	  
+In	  the	  present	  paper	  I	  try	  to	  be	  understood	  by	  the	  largest	  publis	  as	  possible.	  So	  I	  have	  to	  
+give	  some	  insight	  on	  General	  Relativity.	  	  
+To	  become	  more	  familiar	  to	  Special	  Relativity	  ,	  perhaps	  first	  see	  	  
+
+gµν
+    
+
+gµν
+
+	  
+
+	  
+
+23	  
+
+	  
+
+EVERYTHING	  IS	  RELATIVE	  :	  
+
+http://www.savoir-­‐sans-­‐
+
+frontieres.com/JPP/telechargeables/English/EVERYTHING_IS_RELATIVE.pdf	  
+
+Then,	  for	  initiation	  to	  curved	  space,	  see	  	  
+
+	  
+
+	  
+
+	  
+
+HERE	  IS	  LOOKING	  AT	  EUCLID	  
+
+http://www.savoir-­‐sans-­‐
+
+	  
+frontieres.com/JPP/telechargeables/English/HERE_S_LOOKING_AT_EUCLID.pdf	  
+This	  book	  was	  printed	  in	  the	  US.	  The	  editor	  ,	  afraid	  of	  the	  possible	  negative	  reactions	  
+from	  american	  public	  morality	  leagues	  decided	  to	  dress	  the	  heroin	  	  in	  a	  more	  decent	  
+way.	  Following,	  the	  initial	  uncensored	  french	  version	  of	  that	  page.	  	  
+
+	  
+
+24	  
+
+	  
+
+uncensored	  version	  :	  
+http://www.savoir-­‐sans-­‐
+
+frontieres.com/JPP/telechargeables/Francais/LE%20GEOMETRICON.pdf	  
+	  More	  in	  :	  
+
+	  
+
+	  
+
+	  
+
+25	  
+
+	  
+
+	  
+
+uncensored	  version	  :	  
+
+Black	  hole,	  american	  version	  :	  
+
+frontieres.com/JPP/telechargeables/English/THE_BLACK_HOLE.pdf
+frontieres.com/JPP/telechargeables/Francais/LE_TROU_NOIR.pdf	  
+
+http://www.savoir-­‐sans-­‐
+http://www.savoir-­‐sans-­‐
+
+	  As	  you	  may	  discover	  in	  those	  albums	  the	  general	  issue	  of	  General	  Relativity	  is	  to	  change	  
+a	  description	  corresponding	  to	  an	  Euclidean	  universe	  where	  points-­‐masses	  are	  
+subjected	  to	  forces	  into	  a	  new	  model	  in	  which	  the	  paths	  of	  particles,	  or	  planets	  ,	  
+correspond	  to	  geodesics	  of	  some	  curved	  4D	  hypersurface.	  
+The	  set	  of	  geodesics	  is	  computed	  from	  a	  metric,	  which	  is	  a	  function	  of	  the	  space-­‐time	  
+coordinates	  (	  t	  ,	  x	  ,	  y	  ,	  z	  )	  
+In	  general	  this	  is	  limited	  to	  two	  extreme	  situations	  
+-­‐ 
+In	  steady	  state	  solutions	  the	  	    
+-­‐ 
+In	  time	  dependent	  solutions	    
+The	  mathematical	  objet	    
+gµν	  is	  a	  «	  tensor	  »,	  but	  you	  can,	  roughly	  talking,	  consider	  it	  as	  a	  
+matrix	  (four	  lines,	  four	  colums)	  so	  that	  it	  contains	  16	  terms.	  But	  this	  is	  strongly	  reduced	  
+by	  considerations	  of	  symmetry.	  In	  general	  the	  final	  calculation	  refers	  to	  only	  two	  
+différential	  equations.	  	  
+
+gµν	  are	  functions	  of	  (	  x	  ,	  y	  ,	  z	  )	  	  
+gµν	  are	  functions	  of	  the	  time	  coordinated	  t	  	  
+
+	  
+26	  
+We	  are	  not	  going	  to	  enter	  in	  the	  details	  of	  the	  calculation.	  In	  general,	  considerations	  of	  
+gµν.	  It	  makes	  
+symmetry	  makes	  cosmologists	  to	  choose	  some	  peculiar	  form	  of	  the	  matrix	    
+possible	  to	  compute	  another	  mathematical	  object,	  called	  the	  «	  Ricci	  tensor	  »	  (another	  
+matrix).	  Another	  operation	  gives	  a	  scalar	  called	  «	  the	  Ricci	  scalar	  ».	  Then	  one	  introduces	  
+these	  elements	  in	  the	  Einstein	  field	  equations	  (	  a	  «	  matrix	  »	  equation	  ),	  which	  rapidly	  
+reduces	  to	  two	  differential	  equations	  :	  	  
+
+	  
+The	  astrophysicists	  know	  that	  peculiar	  time-­‐independant	  solution,	  discovered	  by	  the	  
+German	  Karl	  Schwarzschild	  in	  1916	  provides	  almost	  conical	  paths	  of	  planets,	  considered	  
+as	  mass-­‐points,	  orbiting	  around	  the	  sun.	  	  
+
+Why	  nobody	  tried	  to	  introduce	  negative	  mass	  during	  57	  years	  
+
+	  
+
+27	  
+
+	  
+
+Karl	  Schwarzschild	  1873-­‐1916	  
+
+	  
+
+Schwarzschild	  was	  a	  brillant	  mathematician	  and	  astronomer.	  In	  1916,	  aged	  42	  years,	  
+married	  and	  father	  of	  a	  little	  girl,	  he	  enlists	  german	  army	  to	  fight	  Russian	  during	  the	  first	  
+world	  war.	  There,	  he	  discovers	  the	  field	  equation,	  proposed	  by	  Einstein	  in	  the	  
+proceedings	  of	  the	  Prussian	  Academy	  of	  Science.	  He	  rapidly	  finds	  two	  fundamental	  exact	  
+solutions	  of	  this	  equations,	  immediatly	  published	  in	  this	  canal,	  but	  dies	  few	  months	  after	  
+from	  an	  autoimmune	  decease.	  	  
+The	  geodesics	  paths	  from	  Schwarzschild’s	  solution	  are	  very	  close	  to	  the	  plane	  
+Newtonian	  paths	  	  (elliptical,	  hyperbolic	  or	  parabolic).	  Similarly	  when	  applying	  
+«	  Newtonian	  approximation	  »	  to	  the	  Einstein’s	  field	  equation	  this	  gives	  the	  interaction	  
+force,	  the	  newtonian	  force.	  	  
+-­‐ 
+
+(positive)	  masses	  m	  and	  m’	  mutually	  attract	  through	  a	  force	  
+
+	  	  
+
+G mm"
+  
+
+d 2
+
+Newtonian	  appriximation	  :	  one	  considers	  a	  portion	  of	  
+space	  with	  weak	  curvature	  and	  velocities	  small	  with	  
+respect	  to	  the	  onde	  of	  the	  ligth.	  	  
+
+	  
+
+G	  being	  the	  constant	  of	  gravity	  and	  d	  the	  distance	  between	  the	  two	  masses.	  	  
+	  What	  happens	  if	  one	  introduces	  negative	  masses	  ?	  	  
+It	  has	  been	  investigated	  by	  Herman	  Bondi	  in	  1957.	  	  
+
+	  
+
+28	  
+
+	  
+
+	  Then	  the	  	  Newtonian	  approximation	  provides	  the	  following	  interaction	  laws	  :	  	  
+	  
+-­‐  positive	  mass	  attracts	  positive	  mass	  through	  Newton	  
+-­‐  positive	  mass	  attracts	  negative	  pass	  through	  Newton	  
+-­‐  negative	  mass	  repels	  negative	  mass	  through	  anti-­‐Newton	  	  
+-­‐  negative	  mass	  repels	  negative	  mass	  through	  anti-­‐Newton	  
+In	  few	  words	  :	  
+	  It	  produces	  the	  so-­‐called	  Runaway	  Paradox	  
+Consider	  two	  masses	  with	  opposite	  signs	  
+
+Postive	  masses	  attract	  everything	  
+
+Negative	  masses	  repel	  everything	  
+
+	  
+
+	  
+
+29	  
+
+How	  to	  avoid	  the	  runaway	  phenomenon	  
+
+Fig.	  14	  :	  the	  unmanageable	  Runaway	  phenomenon	  
+
+	  
+	  This	  prevented	  any	  attempt	  to	  build	  a	  cosmological	  model	  with	  positive	  and	  negative	  
+masses,	  during	  57	  years.	  Until	  ….	  
+	  
+In	  1994	  	  I	  presented	  the	  first	  bimetric2	  model	  [7]	  	  ,	  where	  	  
+This	  was	  a	  complete	  change	  of	  geometric	  paradim	  	  
+In	  spite	  of	  new	  publications	  in	  high	  level	  peer	  reviewed	  journals	  in	  2014-­‐2015	  this	  work	  
+receives	  absolutely	  no	  echo.	  Recently	  I	  installed	  a	  paper	  in	  Researchgate	  website	  
+showing	  how	  the	  so-­‐called	  «	  central	  singularity	  »	  of	  the	  Schwarzschild	  solution	  (	  which	  
+becomes,	  by	  the	  way,	  «	  the	  central	  singularity	  »	  which	  stands	  «	  at	  the	  center	  of	  black	  
+holes	  »)	  can	  be	  cancelled	  by	  a	  simple	  coordinated	  change.	  	  	  
+So	  what	  ?	  	  
+
+(+)	  metric,	  which	  refers	  to	  positive	  mass	  
+(−)	  metric,	  which	  refers	  to	  negative	  mass	  
+
+This	  paper	  broke	  the	  records	  of	  downloadings.	  
+
+-­‐	      
+-­‐	      
+
+gµν
+
+gµν
+
+-­‐	  Where	  are	  the	  comments	  from	  black	  hole	  men	  ?	  No	  comments.	  	  
+
+-­‐	  Where	  are	  the	  echos	  in	  the	  Internet	  ?	  Nowhere.	  	  
+
+-­‐	  How	  the	  scientific	  journalists	  comment	  our	  works	  ?	  They	  don’t.	  
+
+	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  
+2	  Which	  has	  nothing	  to	  to	  with	  other	  bimetric	  model	  in	  which	  the	  second	  metric	  refers	  to	  
+massive	  gravitons.	  	  
+
+	  
+30	  
+Eight	  years	  ago	  (	  !...)	  I	  have	  written	  a	  new	  album,	  presenting	  the	  Janus	  Cosmological	  
+Model.	  	  
+http://www.savoir-­‐sans-­‐
+frontieres.com/JPP/telechargeables/English/gemellaire_anglais/twin_universe.pdf	  
+
+	  
+Echo	  ?	  Messages	  from	  colleagues	  ?	  	  
+If	  you	  are	  not	  specialist	  in	  differential	  geometry,	  cosmology,	  please	  look	  first	  at	  this	  
+album.	  	  
+Our	  work	  is	  a	  call	  for	  a	  full	  change	  of	  paradigm.	  It	  attacks	  the	  «	  dark	  science	  »,	  in	  which	  
+our	  science	  is	  going	  down	  with	  all	  hands.	  But	  the	  project	  is	  dangerous	  for	  a	  lot	  of	  
+researchers.	  	  
+In	  1917,	  when	  Albert	  Einstein	  introduced	  General	  Relativity	  it	  did	  not	  demolish	  the	  
+classical	  physics	  but	  extended	  it.	  Astronomers	  could	  continue	  to	  use	  the	  good	  
+
+None	  
+
+	  
+31	  
+Newtonian	  tools.	  General	  Relativy	  just	  installed	  weak	  phenomena,	  like	  the	  advance	  of	  
+the	  periphery	  of	  Mercury.	  	  
+When	  the	  phenomenon	  was	  discovered	  the	  french	  astronomer	  Le	  Verrier,	  whos	  
+discovered	  the	  Neptune	  planet	  by	  calculations,	  suggested	  that	  the	  anomaly	  coul	  be	  due	  
+to	  a	  plane	  the	  named	  Vulcania,	  whose	  orbit	  would	  be	  located	  between	  the	  one	  or	  
+Mercury	  ans	  the	  sun	  ;	  	  
+Today,	  if	  General	  Relativity	  was	  not	  invented	  somme	  would	  suggest	  it	  is	  simply	  a	  «	  dark	  
+planet	  »,	  that	  we	  cannot	  observe.	  	  
+Janus	  revolution	  is	  completely	  different.	  It	  attacks	  dark	  matter	  and	  shows	  that	  was	  a	  
+complete	  mistake.	  The	  negative	  mass	  is	  not	  «a	  new	  kind	  of	  dark	  matter	  ».	  It	  implies	  a	  
+completely	  different	  vision	  of	  the	  universe.	  	  
+If	  we	  win,	  what	  about	  the	  other’s	  works	  ?	  
+It	  makes	  me	  think	  about	  a	  painting	  of	  the	  french	  painter	  Lecomte	  du	  Nouÿ,	  entitled	  :	  	  
+
+A	  pure	  catastrophy.	  
+
+Th	  e	  men	  who	  bring	  bad	  news	  :	  
+
+	  
+
+	  
+
+	  
+
+	  
+32	  
+Indeed,	  the	  Janus	  model	  is	  a	  very	  bad	  new	  for	  cosmic	  men	  and	  black	  hole	  men.	  Too	  much	  
+things	  should	  be	  abandonned.	  How	  to	  imagine	  that	  people	  would	  accept	  to	  extend	  
+General	  relativity	  to	  a	  Janus	  model	  based	  on	  two	  coupled	  field	  equations	  !?!	  
+
+Is	  it	  the	  end	  of	  Einstein’s	  work	  ?	  No,	  it	  extends	  it.	  	  
+Positive	  and	  negative	  matter	  mutually	  repel,	  so	  that	  the	  content	  of	  negative	  mass	  in	  the	  
+solar	  system	  is	  almoste	  zero.	  	  
+(−)is	  a	  tensor	  that	  shows	  the	  local	  content	  of	  negative	  «	  energy-­‐matter	  ».	  So	  that,	  in	  the	  
+solar	  system,	  where	  positive	  matter	  prevails,	  it	  tends	  to	  zero,	  and	  the	  system	  becomes	  :	  	  
+
+Tµν
+    
+
+The	  geometric	  context	  
+
+The	  first	  equation	  is	  nothing	  but	  Einstein’s	  equation,	  which	  becomes	  the	  approximate	  
+version	  of	  Janus	  model	  when	  negative	  material	  can	  be	  neglected.	  	  
+How	  to	  sell	  that	  !?!?	  
+	  
+In	  1905	  Albert	  Einstein	  introduced	  the	  Special	  Relativity,	  which	  was	  described	  as	  a	  new	  
+vision	  of	  the	  universe,	  horribly	  difficult	  to	  understand.	  	  
+In	  effect,	  i’s	  an	  main	  change	  of	  geometric	  vision	  which	  can	  be	  summarized	  by	  an	  unique	  
+sentence	  :	  	  
+You	  don’t	  need	  anything	  more.	  All	  the	  Special	  Relativity’s	  features	  are	  contained	  in	  this	  
+short	  sentence.	  	  
+
+-­‐  We	  live	  in	  a	  Minkwoski	  space	  
+
+	  
+
+	  
+
+the	  two	  other	  sides.	  	  
+
+	  
+33	  
+But	  Minkowski	  space	  is	  higly	  puzzling.	  	  
+In	  an	  Euclidean	  space	  the	  Pythagore	  theorem	  holds.	  In	  two	  dimensions	  :	  
+-­‐  The	  square	  of	  the	  hypotenuse	  of	  a	  right-­‐angled	  triangle	  is	  the	  sum	  of	  the	  squares	  of	  
+It	  can	  be	  extended	  to	  threee	  dimensions.	  	  
+-­‐  The	  square	  of	  the	  main	  diagonal	  of	  a	  right-­‐angled	  parallelogram	  is	  the	  sum	  of	  the	  
+Consider	  an	  Euclidean	  3D-­‐space,	  with	  coordinates	     
+}	  	  and	  a	  small	  displacement	  
+}.	  The	  square	  of	  the	  length	  of	  the	  vector	  displacement	    ds	  is	  :	  
+   ds 2 = d x 2 + d y 2 + d z 2	  
+It	  corresponds	  to	  the	  metric	  of	  that	  Euclidean	  3D-­‐space	  	  
+The	  Minkowski	  space	  introduces	  the	  concept	  of	  space-­‐time,	  with	  four	  coordinates	  
+}.	  Consider	  the	  following	  2D	  space	  time	  :	     
+}	  and	  a	  displacement	  
+}	  in	  that	  space.	  	  
+	  
+
+squares	  of	  its	  three	  sides.	  	  
+
+t , x , y , z
+dt , d x
+
+d x , d y , d z
+
+x , y , z
+
+{
+   
+{
+   
+
+t , x
+
+{
+   
+
+{
+
+{
+
+	  
+Hermann	  Mikowski	  1864-­‐1909	  
+	  Minkowski	  says	  :	  	  
+   ds 2 = c 2 d x 2 − d x 2	  
+-­‐  Gosh	  !	  The	  square	  of	  the	  hypotenuse	  is	  equal	  to	  the	  difference	  of	  the	  square	  of	  the	  
+two	  other	  sides.	  How	  can	  I	  put	  that	  in	  my	  brain	  ?	  	  
+
+Died	  suddently	  of	  appendicitis	  at	  44	  years	  
+
+	  
+34	  
+No	  human	  creature	  can	  do	  that.	  You	  can’t	  do	  it	  	  and	  I	  can’t	  do	  it	  too.	  We	  are	  not	  hard-­‐
+wired	  for	  such	  pupose.	  It’s	  the	  beging	  of	  a	  puzzling	  conclusion	  :	  Our	  brain	  is	  not	  
+equipped	  to	  face	  physical	  reality.	  Same	  conclusion	  for	  Quantum	  Mechanics.	  	  
+The	  Janus	  model	  introduces	  a	  new	  geometric	  feature	  :	  	  
+-­‐  Between	  two	  distinct	  points	  there	  are	  two	  different	  distances.	  	  
+Simple	  :	  it	  depends	  what	  metric	  you	  use	  to	  measure	  length.	  	  
+	  
+
+	  
+
+A	  2D	  surface	  with	  two	  different	  scales	  
+
+In	  physics	  one	  uses	  to	  introduce	  an	  «	  observer	  ».	  In	  Janus	  model	  what	  the	  universe	  
+shows	  to	  you	  depends	  on	  the	  matter	  you	  are	  made	  of,	  positive	  or	  negative.	  It	  can	  be	  
+observed	  by	  two	  distinct	  observers	  and	  the	  apprearence	  is	  different	  for	  the	  two.	  It	  
+explains	  the	  chosen	  name	  Janus	  Univers.	  	  
+
+	  
+
+	  
+
+35	  
+
+	  
+
+A	  pioneer	  in	  Mathematical	  Physics	  is	  the	  french	  mathematician	  Jean-­‐Marie	  Souriau.	  	  
+	  
+
+	  	  
+
+J.M.Souriau	  1922-­‐20123	  
+
+	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  
+3	  In	  his	  book	  «	  structure	  of	  dynamical	  systems	  »,	  Birkhauser	  Ed	  he	  shows	  (for	  specialists,	  
+chapter	  III,	  page	  190,	  equation	  14.67)	  that	  time-­‐inversion	  goes	  with	  energy	  and	  mass	  
+inversion.	  	  
+	  
+
+	  
+Negative	  masses	  are	  invisible	  to	  us	  
+
+	  
+36	  
+We	  are	  made	  of	  positive	  mass.	  So	  our	  eyes	  and	  telescope	  capture	  positive	  energy	  
+photons.	  As	  negative	  masses	  emit	  negative	  energy	  photons	  we	  cannot	  capture	  any	  
+negative	  light	  emitted	  by	  such	  negative	  masses.	  They	  are	  fully	  invisible.	  	  
+Observation	  brings	  information	  from	  the	  «	  positive	  world	  ».	  We	  can	  just	  guess	  how	  the	  
+things	  are	  going	  on	  in	  the	  «	  negative	  world	  ».	  	  
+Where	  is	  this	  «	  negative	  world	  »,	  where	  are	  the	  negative	  masses	  ?	  Among	  us.	  In	  the	  same	  
+space.	  As	  they	  are	  repelled	  by	  positive	  masses	  they	  are	  confined	  in	  the	  space	  which	  is	  
+between	  the	  galaxies	  and	  fill	  the	  big	  voids	  of	  the	  (lacunar)	  large	  structure	  of	  the	  universe.	  	  
+In	  the	  solar	  system	  the	  very	  small	  density	  of	  negative	  matter	  could	  produce	  weak	  
+phenomena	  like	  the	  braking	  of	  the	  Pioneer	  X	  probe.	  
+With	  the	  progress	  of	  astronomy,	  observers	  measured	  the	  distance	  to	  galaxies	  with	  more	  
+and	  more	  precision.	  They	  rapidly	  discovered	  that	  galaxies	  gathered	  ,	  forming	  clusters.	  
+Before	  1989	  one	  considered	  that	  galaxy	  clusters	  were	  the	  largest	  structures.	  But	  in	  1989	  
+astronomers	  discovered	  the	  Great	  Wall,	  a	  set	  of	  galaxies	  (matter)	  500	  x	  200	  light-­‐years	  
+large,	  only	  15	  light-­‐years	  width.	  Then	  they	  discovered	  what	  the	  called	  The	  Great	  Void,	  
+130	  light-­‐years	  large.	  Following,	  the	  observational	  result	  :	  
+
+Fig.15	  :	  The	  typical	  large	  structure	  of	  the	  universe.	  Two	  «	  slices	  »	  
+
+Personnally	  I	  think	  the	  universe	  looks	  like	  joint	  soap	  bubbles	  :	  	  
+	  
+
+	  
+
+	  
+
+37	  
+
+	  
+
+	  
+
+Fig.16	  :	  Joint	  soap	  bubbles’s	  like	  structure	  
+
+Astrophysicists	  do	  not	  explain	  why	  such	  voids	  form.	  	  
+	  
+Janus	  model	  does	  it.	  In	  1991,	  through	  numerical	  2D-­‐simulations	  we	  studied,	  my	  old	  
+friend	  Pierre	  Midy	  and	  I,	  	  on	  a	  Cray-­‐one,	  a	  set	  of	  500	  mass-­‐points,	  positive	  and	  negative,	  
+with	  same	  density	  and	  averaged	  random	  velocities.	  As	  a	  result	  we	  got	  that	  :	  	  
+	  
+
+First	  2D	  simulations	  
+
+Fig.17	  :	  Percolation	  phenomenon	  
+
+	  But	  it	  did	  not	  ressembled	  the	  large	  scale	  universe.	  	  
+In	  1992	  a	  young	  student,	  Fréderic	  Dascamp,	  working	  at	  the	  DAISY	  center,	  Germany,	  
+visited	  me.	  I	  remember	  he	  said	  :	  	  
+
+I	  would	  say	  :	  	  «	  call	  me	  God	  !	  »	  
+
+a	  big	  one.	  Describe	  a	  problem,	  I	  think	  I	  could	  manage	  it.	  	  
+
+	  
+38	  
+-­‐  What	  could	  you	  do	  with	  your	  old	  Mac	  Intosh	  personal	  computer?	  At	  DAISY	  we	  have	  
+I	  suggested	  to	  introduce	  a	  difference	  of	  the	  densities	  of	  the	  two	  species,	  taking	  the	  
+negative	  one	  larger.	  I	  knew	  that	  the	  accretion	  time4	  was	  shorter,	  for	  a	  species	  with	  
+higher	  density.	  Frédéric	  went	  back	  to	  Hamburg	  and	  phoned	  me,	  few	  days	  later.	  	  
+-­‐  Well,	  what	  is	  the	  result	  ?	  	  
+-­‐ 
+As	  I	  guessed	  negative	  mass	  formed	  clusters	  and	  repelled	  matter	  in	  the	  remnant	  place,	  
+this	  last	  forming	  a	  lacunar	  structure	  (that	  was	  published	  3	  years	  later	  in	  Astrophysics	  
+and	  Space	  Science	  [9],	  after	  30	  new	  unsuccessful	  trials).	  	  
+Since	  1992	  we	  have	  never	  had	  the	  opportunity	  to	  extend	  that	  to	  3D-­‐simulations,	  in	  a	  
+bigger	  system.	  In	  2000	  I	  attended	  an	  international	  meeting	  in	  Marseille	  [10],	  France,	  20	  
+kilometers	  from	  my	  home.	  The	  subject	  of	  this	  meeting	  was	  «	  	  where	  is	  the	  matter	  ».	  You	  
+must	  understand	  «	  where	  is	  the	  dark	  matter	  ?	  ».	  Nobody	  cared	  with	  negative	  matter.	  
+I	  showed	  a	  picture	  of	  my	  2D	  lacunar	  structure.	  Reaction	  of	  the	  audience	  :	  	  
+Then	  I	  made	  70	  copies	  of	  a	  70	  pages	  repor,t	  about	  my	  work,	  	  carried	  this	  material	  the	  
+day	  after	  with	  two	  heavy	  suitcases	  with	  wheels	  and	  installed,	  before	  the	  first	  session,	  a	  
+copy	  in	  front	  of	  each	  participant.	  At	  the	  end	  of	  the	  report	  I	  mentionned	  my	  coordinates,	  
+phone	  number,	  and	  said	  I	  would	  be	  opened	  to	  any	  collaboration.	  
+I	  did	  not	  find	  any	  of	  my	  70	  report	  in	  the	  wastebaskets,	  but	  nobody	  contacted	  me.	  I	  still	  
+was	  the	  «neutrino	  »,	  a	  nickname	  that	  my	  friend	  Guy	  Monnet	  gave	  me	  in	  the	  seventies.	  Or	  
+perhaps	  people	  considered	  me	  as	  some	  sort	  or	  extraterrestrial.	  	  
+
+None	  
+
+	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  
+4	  The	  Jeans	  time	  	  
+
+	  
+
+	  
+39	  
+At	  this	  meeting	  people	  watched	  the	  first	  mapping	  of	  dark	  matter,	  based	  on	  weak	  lensing	  
+effect.	  	  
+
+Fig.18	  :	  Dark	  matter	  mapping	  	  
+
+	  
+	  I	  have	  to	  admit	  that	  their	  colour	  images	  were	  much	  more	  beautiful	  than	  my	  black	  and	  
+white	  pictures.	  
+	  
+
+Fig.19	  :	  2D	  VLS	  simulation	  on	  a	  closed	  space.	  Newton’s	  law	  based	  on	  geodesic	  distance	  
+
+	  
+
+	  
+
+Science	  in	  clandestinity	  
+
+	  
+Back	  to	  1992.	  Frederic	  said	  :	  	  
+-­‐ 
+From	  an	  exact	  solution	  of	  a	  2D	  Vlasov	  equation	  I	  had	  computed	  a	  nice	  spheroidal	  galaxy,	  
+surrounded	  by	  negative	  material.	  	  
+
+It’s	  amazing.	  Do	  you	  have	  another	  problem	  ?	  	  
+
+40	  
+
+	  
+Fig.20	  :	  2D	  rotating	  «	  galaxy	  »	  surronded	  by	  negative	  matter	  
+
+	  Freredic	  put	  that	  in	  his	  big	  computer	  and	  produced	  a	  film	  showing	  the	  quick	  birth	  of	  a	  
+barred	  galaxy,	  which	  continued,	  without	  loosing	  its	  spiral	  arms,	  during	  tens	  of	  turns.	  It	  
+was	  amazing,	  because	  other’s	  numerical	  galaxies	  lost	  their	  arms	  after	  a	  single	  turn,	  due	  
+to	  the	  increase	  of	  velocity	  of	  their	  mass	  points.	  In	  our	  simulation,	  the	  surrounding	  
+negative	  mass	  acted	  like	  a	  potential	  barrier.	  	  
+
+Fig.21	  :	  1990	  ;	  my	  nice	  numerical	  2D	  barred	  spiral	  
+
+	  
+
+	  
+41	  
+On	  the	  right	  I	  plot	  the	  rotational	  momentum.	  It	  shows	  that	  the	  galaxy	  is	  strongly	  slowed	  
+down	  during	  the	  spiral	  structure	  formation.	  Then	  the	  slowing	  down	  because	  insensitive.	  
+As	  you	  can	  see,	  a	  good	  image	  of	  a	  spiral	  galaxy	  is	  nothing	  but	  the	  rotating	  coffee	  with	  
+cream	  in	  a	  coffee	  cup.	  	  
+	  	  
+
+	  
+	  I	  suggested	  to	  Frederic	  to	  weak	  the	  density	  of	  the	  negative	  mass.	  Immediately	  such	  
+corset	  could	  no	  longer	  play	  its	  role.	  The	  galaxy	  exploded	  and	  we	  got	  all	  kinds	  of	  
+«	  irregular	  galaxies	  ».	  Conversely	  if	  that	  density	  was	  strenghtened,	  we	  got	  that	  :	  	  
+	  	  
+
+Fig.22	  :	  From	  barred	  spiral	  to	  car’s	  wheel	  galaxy	  
+
+	  
+
+	  
+
+	  
+
+	  
+
+42	  
+
+	  
+
+Fig.23	  :	  The	  galaxy	  NGC	  1010	  
+
+nothing	  to	  do	  with	  the	  accelerator	  of	  particles.	  He	  said	  the	  lab	  cannot	  stand	  such	  
+clandestine	   activity,	   that	   must	   be	   stopped	   immediately.	   I’m	   sorry,	   but	   I	   can’t	   con	  
+tinue.	  	  
+
+	  But	  suddently	  Frederic	  called	  me	  :	  	  
+-­‐  My	  boss	  has	  discovered	  that	  I	  used	  the	  computer	  of	  the	  center	  for	  a	  job	  that	  has	  
+That	  was,	  after	  three	  months,	  	  the	  end	  of	  the	  story,	  28	  years	  ago.	  
+I	  tried	  during	  years	  to	  publish	  a	  paper	  in	  astrophysical	  journals	  but	  I	  received	  ten	  times	  
+the	  copy	  and	  paste	  classical	  answer	  :	  	  
+-­‐  Sorry,	  we	  don’t	  publish	  speculative	  works	  
+Discouraged	  I	  shifted	  to	  other	  subjetcts,	  paper	  and	  pen	  works.	  	  
+	  
+The	  work	  of	  Frederic	  strengthnened	  my	  personal	  vision	  of	  the	  birth	  of	  galaxies	  	  that	  I	  
+presented	  in	  Nuovo	  Cimento	  two	  years	  after,	  in	  1994.	  According	  to	  this	  schema	  the	  
+lacunar	  structure	  forms	  rapidly,	  immediatly	  after	  the	  end	  of	  the	  radiation	  era.	  Clumps	  of	  
+negative	  mass	  form,	  	  repel	  and	  compress	  positive	  matter	  along	  flat	  plates.	  This	  
+compression	  heats	  this	  matter,	  but	  the	  geometrical	  layout	  is	  optimum	  for	  the	  dissipation	  
+of	  the	  energy	  by	  radiation	  emission.	  	  
+This	  outsider	  schema	  should	  deserve	  a	  fantastic	  campaign	  through	  3D	  simulations,	  in	  
+front	  of	  a	  complete	  lack	  of	  idea	  
+	  
+Clumps	  of	  negative	  mass	  are	  spheroidal.	  We	  can	  compare	  it	  to	  huge	  protostars.	  	  
+
+Is	  life	  present	  in	  the	  negative	  world	  ?	  	  
+
+About	  the	  formation	  of	  galaxies	  
+
+	  
+43	  
+When	  a	  star	  foms	  it	  starts	  from	  the	  condensation	  of	  a	  gaseous	  mass.	  Protostars	  are	  
+spheroïdal	  objects	  at	  2000°.	  Gravitational	  energy	  is	  converted	  into	  thermal	  energy.	  To	  
+become	  a	  real	  star,	  with	  fusion	  in	  its	  core,	  the	  protostar	  must	  shrink.	  	  But	  pressure	  force	  
+opposes	  the	  process.	  The	  amount	  of	  energy	  to	  be	  dissipated	  grows	  like	  the	  radius	  of	  the	  
+star,	  while	  the	  surface	  of	  the	  radiator	  grows	  like	  the	  square.	  So	  the	  bigger	  the	  star	  the	  
+longer	  its	  cooling	  time.	  	  
+The	  clusters	  of	  negative	  matter	  are	  so	  big	  that	  their	  cooling	  time	  exceeds	  the	  age	  of	  the	  
+universe.	  If	  a	  traveller	  could	  use	  the	  «	  negative	  world	  »	  to	  achieve	  interstellar	  travels,	  
+thanks	  to	  a	  «	  mass	  inversion	  system	  »,	  	  he	  would	  see	  masses	  emitting	  weakly	  reddish	  
+light	  (and	  infrared	  radiation).	  	  
+These	  clusters	  do	  not	  contains	  atoms	  heavier	  that	  negative	  mass	  hydrogen,	  and	  negative	  
+mass	  helium.	  They	  do	  not	  create	  any	  galaxy,	  ant	  star,	  any	  planet.	  So	  that	  life	  if	  absent,	  
+there.	  	  
+	  
+Positive	  energy	  photons,	  emitted	  by	  distant	  galaxies,	  do	  not	  interfer	  with	  negative	  mass	  
+clusters	  by	  electromagnetic	  force,	  so	  they	  can	  cross	  it	  completely.	  This	  induces	  negative	  
+gravitational	  lensing	  effect,	  firstly	  described	  in	  1995	  [9].	  	  
+We	  recall	  what	  is	  the	  gravitational	  lensing	  effect,	  first	  evidenced	  by	  Eddington	  in	  1918.	  
+In	  General	  Relativity	  masses	  follow	  geodesic	  lines.	  But	  photons	  paths	  are	  also	  modified	  
+by	  such	  curvature	  concentration.	  All	  that	  was	  described	  by	  Karl	  Schwarzschild	  in	  his	  
+paper	  of	  1916.	  	  
+We	  can	  figure	  the	  path	  of	  positive	  energy	  photons	  as	  the	  geodesics	  drawed	  on	  a	  
+smoothed	  «	  posicone	  ».	  	  
+
+What	  could	  reveal	  the	  presence	  of	  such	  clusters	  ?	  	  
+
+Fig.24	  :	  The	  geodesics	  on	  a	  smoothed	  cone	  and	  their	  projection	  on	  a	  plane	  
+
+	  
+
+	  
+
+	  
+44	  
+This	  is	  similar	  in	  3D.	  After	  the	  emergence	  of	  the	  solution	  of	  this	  General	  Relativity	  field	  
+equation	  Artur	  Eddington,	  very	  enthusiastic,	  organized	  an	  expedition	  in	  the	  gulf	  of	  
+Guinea	  in	  order	  to	  check	  the	  theory.	  	  
+	  
+
+	  
+A.S.Eddington	  1882-­‐1942	  (died	  aged	  61)	  
+
+	  
+
+At	  this	  time	  a	  total	  eclipse	  occured	  in	  this	  region,	  so	  that	  they	  could	  observe	  the	  
+apparent	  movement	  of	  distant	  stars	  as	  they	  passed	  behind	  the	  sun.	  Pictures	  were	  taken,	  
+which	  confirmed	  Einstein	  and	  Schwarschild	  calculation	  (remember	  Schwarzschild	  died	  
+few	  months	  after	  his	  dicovery).	  
+
+	  
+A.Einstein	  in	  1919	  .	  	  (1879-­‐1955)	  
+
+	  Masses	  behave	  like	  convergent	  lens.	  	  
+
+	  
+
+45	  
+
+Fig.25	  :	  A	  convergent	  lens	  concentrates	  the	  light	  rays	  
+
+If	  the	  effect	  is	  strong,	  due	  to	  huge	  concentrations	  of	  mass	  (galaxy	  clusters)	  this	  can	  
+transform	  the	  image	  of	  a	  distant	  galaxy,	  located	  in	  the	  background	  as	  a	  gravitational	  
+mirage.	  The	  space	  telescope	  Hubble	  has	  captured	  impressive	  corresponding	  images	  :	  	  
+
+	  
+
+	  
+But	  negative	  a	  negative	  mass	  acts	  on	  the	  positive	  energy	  light	  like	  a	  divergent	  lens.	  	  
+
+Fig.26	  :	  Einstein	  Ring	  Gravitational	  Lenses	  
+
+	  
+
+	  
+Fig.26	  :	  A	  divergent	  lens	  spreads	  the	  rays	  
+
+	  
+46	  
+	  A	  	  divergent	  lens	  reduces	  the	  amount	  of	  energy	  captured	  and	  the	  apparent	  magnitude	  of	  
+the	  source.	  	  
+Similarly	  a	  negative	  cluster	  reduces	  the	  magnitude	  of	  distant	  sources	  (	  young	  galaxies	  )	  
+by	  weak	  lensing	  effect.	  This	  light	  can	  cross	  the	  object.	  	  
+	  
+
+Fg.27	  :	  Reduction	  of	  the	  magnitude	  of	  distant	  galaxies,	  du	  to	  negativ	  e	  lensing	  
+	  The	  reduction	  of	  magnitude	  effect	  could	  provide	  an	  information	  about	  the	  siez	  of	  the	  
+clusters	  
+
+	  
+
+In	  effect,	  distant	  galaxies	  are	  classically	  considered	  as	  dwarves.	  But	  it	  could	  be	  the	  proof	  
+that	  negative	  mass	  cluster	  reduce	  the	  magnitude	  of	  «	  normal	  »	  galaxies,	  du	  to	  negatice	  
+lensing	  effect.	  	  
+	  
+
+	  
+
+	  
+
+	  
+47	  
+Since	  the	  en	  of	  the	  eigthies	  researchers	  started	  to	  map	  the	  universe,	  focussing	  on	  
+(positive)	  weak	  lensing	  effect.	  Imagine	  you	  observe	  a	  picture	  made	  of	  circular	  spots,	  disc,	  
+on	  a	  black	  bachground,	  through	  two	  lens,	  a	  convergent	  and	  a	  divergent.	  You	  will	  get	  
+that	  :	  	  
+
+An	  alternative	  mapping	  the	  the	  invisible	  components	  of	  the	  universe.	  	  
+
+	  
+
+Fig.28	  :	  Optical	  distorsions	  due	  to	  onvergent	  and	  divergent	  lenses	  
+
+Carefull	  analysis	  of	  available	  data,	  based	  on	  positive	  weak	  lensing	  effect,	  with	  powerfull	  
+computer	  has	  provided	  	  a	  3D	  mapping	  of	  so-­‐called	  dark	  matter.	  Hereafter	  a	  3D	  map	  built	  
+from	  the	  Hubble	  telescope	  COSMOS	  survey	  :	  
+	  
+
+Fig.29	  :	  3D	  Dark	  matter	  map	  from	  Hubble	  COSMO	  survey	  data	  
+
+	  
+
+	  
+
+48	  
+
+	  
+
+	  
+On	  the	  net	  you	  can	  find	  a	  lot	  of	  	  beautiful	  images,	  like	  this	  one,	  more	  precise.	  But,	  
+warning	  !	  	  They	  come	  from	  …	  simulations.	  	  
+	  
+
+Fig.30	  :	  3D	  Dark	  matter	  map	  (simulation)	  
+
+It’s	  beautiful	  :	  it	  must	  be	  true	  !	  ….	  
+
+	  
+
+	  
+
+	  If	  we	  assume	  that	  the	  distorsions	  come	  from	  negative	  weak	  lensing	  phenomenon	  then	  
+we	  get	  a	  different	  method	  to	  decode	  the	  available	  	  avobservational	  data.	  This	  has	  been	  
+suggested	  by	  a	  Japanese	  team	  in	  2013	  [11].	  Perhaps	  somebody	  will	  carry	  on	  this	  job.	  It	  
+would	  be	  interesting	  to	  see	  if	  he	  would	  refind	  the	  general	  mapping	  of	  the	  bid	  voids,	  
+designed	  as	  joint	  bubbles,	  as	  derived	  by	  the	  Israelian	  Tsvi	  Piràn,	  from	  observational	  data	  
+[12]	  	  	  	  :	  	  
+
+	  
+
+49	  
+
+	  
+
+	  	  Explaining	  the	  acceleration	  of	  the	  expansion.	  	  
+	  The	  accelerated	  expansion	  was	  discovered	  in	  1998,	  when	  two	  independent	  projects,	  the	  
+Supernova	  Cosmology	  Project	  and	  the	  High-­‐Z	  Supernova	  Search	  Team	  simultaneously	  
+obtained	  results	  suggesting	  an	  acceleration	  in	  the	  expansion	  of	  the	  universe	  by	  using	  
+distant	  type	  Ia	  supernovae	  as	  standard	  candles.	  The	  discovery	  was	  unexpected,	  
+cosmologists	  at	  the	  time	  expecting	  a	  deceleration	  in	  the	  expansion	  of	  the	  universe,	  and	  
+amounts	  to	  the	  realization	  that	  the	  universe	  is	  currently	  in	  a	  "dark-­‐energy-­‐dominated	  
+era".	  
+
+	  
+
+	  
+
+We	  are	  still	  in	  the	  «	  dark	  science	  »,	  with	  ad	  hoc	  explanations.	  
+
+	  
+
+50	  
+
+	  
+The	  Janus	  cosmological	  model	  provides	  an	  alternative	  explanation.	  The	  expansion	  is	  
+mastered	  by	  the	  negative	  content.	  Comparizon	  to	  avaible	  (740	  supernovae)	  is	  very	  good.	  
+The	  model	  challenges	  the	  so-­‐called	  Concordance	  model	  (cold	  dark	  matter	  plus	  effect	  of	  
+the	  cosmological	  constant	  :	  many	  free	  parameter	  to	  be	  adujsted	  to	  fit	  data).	  
+
+	  
+Fig.28	  :	  The	  JCM	  model	  fits	  quite	  well	  the	  available	  data	  
+
+	  
+
+51	  
+
+	  	  
+
+{
+
+}	  and	  
+
+c (+) , G(+) , m(+) , h(+) , e(+) , µ(+)
+
+	  
+	  
+Last	  work	  :	  the	  radiative	  era	  (2016)	  
+This	  description	  completes	  the	  model.	  Here	  we	  have	  tos	  sets	  of	  «	  variable	  constants	  »,	  
+for	  positive	  and	  negative	  masses.	  	  
+We	  shift	  to	  the	  new	  set	  of	  equations,	  describing	  the	  coupled	  radiative	  eras.	  	  
+	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	   Rµν
+	  
+	  
+	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	   Rµν
+	  We	  build	  again	  an	  exact	  solution.	  	  The	  system	  appears	  immediately	  unstable.	  The	  
+expansion	  curves	  depart	  each	  from	  the	  other	  :	  
+
+c (−) , G(−) , m(−) , h(−) , e(−) , µ(−)
+
+1
+2 R(−)gµν
+
+1
+2 R(+)gµν
+
+g(−)
+g(+) Tµν
+
+(+) = + χ Tµν
+
+g(+)
+g(−) Tµν
+
+(−) + Λ(−)gµν
+
+(+) + Λ(+)gµν
+
+(+) + Tµν
+(−)
+
+(−) = − χ
+
+}	  
+
+(−) −
+
+(+) +
+
+(+) −
+
+⎤
+⎥
+⎥
+⎦
+
+⎡
+⎢
+⎢
+⎣
+
+⎤
+⎥
+⎥
+⎦
+
+⎡
+⎢
+⎢
+⎣
+
+{
+
+(−)
+
+Fig.29	  :	  The	  two	  scale	  factors	  depart	  each	  from	  the	  other	  
+
+	  
+
+	  
+	  Similarly	  we	  get	  joint	  evolutions	  of	  the	  two	  speeds	  of	  light.	  	  
+	  
+
+52	  
+
+{
+
+	  
+
+a(+)
+   
+
+ξ1 , ξ2 , ξ3
+
+	  
+Fig.30	  :	  The	  two	  speeds	  of	  light	  depart	  each	  from	  the	  other	  
+}	  are	  the	  adimensional	  space	  coordinates	  (of	  the	  manifold	  M4),	  considering	  
+If	     
+two	  distinct	  points	  A	  and	  B	  ,	  with	  	     ξ2A = ξ2B ; ξ3A = ξ3B	  we	  have	  the	  two	  distances	  :	  	  
+    L (+) = a(+) ( ξ1B − ξ1A ) > L (−) = a(−) ( ξ1B − ξ1A )	  
+The	  ratio	  
+a(−) >1	  	  will	  be	  determined	  from	  the	  comparizon	  of	  3D	  simulations	  to	  all	  
+available	  observational	  data.	  The	  ratio	  
+c (+) >1	  	  is	  deduced	  from	     a(+) c (+)2 = a(−) c (−)2	  	  
+It	  shows	  that	  if	  some	  unknown	  technology	  would	  make	  possible	  to	  invert	  the	  mass	  of	  a	  
+craft,	  a	  given	  interstellar	  distance	  could	  be	  spanned	  in	  a	  time	  acceptable	  for	  human	  
+passengers.	  	  
+	  
+This	  was	  a	  puzzling	  remaining	  question	  until	  I	  discovered	  the	  work	  of	  the	  french	  
+mathematician	  Jean-­‐Marie	  Souriau.	  	  A	  strange	  man.	  Like	  living	  on	  a	  desert	  island	  he	  built	  
+his	  own	  scientific	  world	  and	  published	  several	  books,	  in	  french.	  You	  may	  discover	  him	  
+on	  the	  following	  video	  :	  	  
+	  
+
+http://www.jmsouriau.com/Videos/JMSouriau.mp4	  
+
+What	  about	  opposite	  arrows	  of	  time	  ?	  	  
+
+c (−)
+
+   
+
+	  
+He	  founded	  symplectic	  geometry	  with	  two	  other	  mathematicians,	  Bertram	  Kostant	  
+	  and	  Alexander	  Kirillov	  	  
+
+53	  
+
+https://en.wikipedia.org/wiki/Mathematical_physics	  
+
+	  
+During	  all	  his	  life	  Souriau	  never	  spoke	  a	  word	  of	  english.	  Personally	  I	  think	  Souriau	  
+bought	  a	  major	  contribution	  to	  mathematical	  physics,	  but	  suprizingly	  his	  work	  is	  not	  
+mentionned	  :	  	  
+He	  published,	  in	  french,	  a	  book	  devoted	  to	  his	  theory	  of	  Dynamical	  systems5,	  which	  was	  
+published	  in	  english,	  word	  to	  word,	  	  28	  years	  later6	  (…).	  
+I	  has	  been	  very	  difficult	  to	  me	  to	  enter	  this	  mathematical	  labyrinth.	  	  Souriau,	  retired,	  was	  
+my	  neigbour.	  He	  developped	  	  a	  great	  patience	  to	  explain	  his	  work	  to	  me.	  The	  link	  to	  
+physics	  seems	  to	  me	  very	  important.	  
+In	  mathematics	  a	  «	  group	  »	  is	  a	  mathematical	  tool	  you	  can	  use	  to	  transport	  mathematical	  
+objects.	  For	  example	  with	  the	  elements	  the	  Euclid’s	  group	  (	  translations	  +	  rotations	  +	  
+symmetries	  )	  you	  can	  «	  transport	  »	  geometrical	  objects	  like	  points,	  straight	  lines,	  planes,	  
+invariant	   through	   the	   action	   of	   elements	   forming	  	  
+spheres,	   cylinders.	   All	   are	  
+«	  subgroups	  ».	  For	  example	  an	  object	  with	  rotational	  symmetry	  is	  invariant	  through	  the	  
+action	  of	  a	  subgroup	  which	  is	  the	  set	  of	  the	  rotation	  around	  an	  axis.	  
+A	  sphere	  is	  invariant	  through	  the	  subgroup	  of	  rotations	  around	  a	  point.	  And	  so	  on.	  	  
+But	  this	  provides	  a	  powerful	  idea.	  We	  can	  define	  the	  3D	  geometric	  objets	  as	  being	  
+invariant	  trought	  the	  action	  of	  a	  given	  subgoup.	  Thus	  the	  sphere	  becomes	  the	  
+geometrical	  objects	  that	  is	  invariant	  through	  the	  action	  of	  three-­‐dimensional	  rotations	  
+around	  a	  point.	  	  
+Notice	  that	  this	  is	  different	  from	  the	  classical	  following	  definition	  :	  	  
+	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  
+5	  J.M.Souriau	  :	  Structure	  des	  Systèmes	  Dynamiques.	  Editions	  Dunod,	  France,	  1970.	  	  
+6	  J.M.Souriau	  :	  Structure	  of	  Dynamical	  Systems.	  Ed.	  Birkhauser	  1997	  
+
+Yes,	  it	  is	  called	  the	  Poincaré’s	  grou7p.	  
+
+fixed	  point	  is	  the	  same,	  and	  is	  called	  «	  radius	  ».	  
+
+	  
+54	  
+-­‐  A	  sphere	  is	  composed	  by	  the	  set	  of	  points	  whose	  distance	  with	  respect	  to	  a	  given	  
+We	  are	  famliar	  with	  transformations	  like	  translations,	  rotations,	  symmetries.	  But	  where	  
+do	  they	  come	  from	  ?	  	  
+They	  form	  a	  set	  of	  transformations	  which	  keep	  the	  lengths	  invariant	  in	  an	  Euclidean	  
+space	  so	  that	  we	  say	  that	  they	  form	  its	  isometry	  group.	  	  
+What	  about	  4D	  spaces	  ?	  In	  the	  Minkowski	  space	  time	  the	  (elementary)	  length	  is	  defined	  
+by	  (	  let’s	  take	  c	  =	  1	  )	  	  	  
+   ds 2 = dt 2 − d x 2 − d y 2 − d z 2	  
+Does	  a	  group	  exists	  which	  preserves	  such	  puzzling	  length	  ?	  	  
+But	  what	  are	  the	  «	  geometrical	  objects	  »	  which	  inhabit	  this	  4D-­‐space	  ?	  	  
+The	  3D-­‐Euclidean	  group’s	  inhabitants	  are	  steady	  objets,	  like	  lines.	  	  
+The	  Minkowski	  space	  contains	  …	  paths,	  trajectories.	  	  A	  physicist	  would	  say	  that	  such	  
+lines	  must	  be	  oriented	  from	  the	  past	  to	  the	  future.	  	  
+We	  only	  consider	  straight	  paths	  (	  which	  are	  geodesics	  of	  such	  space	  ).	  
+Given	  a	  path	  in	  that	  space,	  an	  element	  of	  the	  group	  will	  transform	  such	  path	  in	  another	  
+one.	  	  
+In	  the	  Euclidean	  paths	  we	  considered	  geometrical	  objects.	  Using	  the	  tool	  of	  the	  «	  Euclid’s	  
+group	  »	  we	  discovered	  a	  system	  of	  classification	  of	  peculiar	  geometric	  inhabitants	  of	  
+such	  space,	  which	  formed	  classes	  of	  objects.	  	  
+Using	  the	  dynamic	  group	  of	  Poincaré	  we	  can	  define	  classes	  of	  movements.	  And	  there	  is	  
+the	  fundamental	  idea	  of	  Souriau	  :	  	  
+-­‐  A	  particle	  corresponds	  to	  a	  peculiar	  class	  of	  movements.	  
+He	  used	  to	  say	  :	  
+-­‐  Tell	  me	  how	  you	  move	  and	  I	  will	  tel	  you	  what	  you	  are.	  
+In	  effect,	  what	  is	  a	  particle	  like	  an	  electron	  ?	  Just	  something	  that	  moves	  that	  way.	  	  
+The	  theory	  of	  dynamic	  groups	  brings	  a	  classification	  of	  particles	  as	  a	  classification	  of	  
+movements.	  From	  the	  Poincaré’s	  group,	  two	  classes	  of	  movements	  appear	  :	  
+-­‐  particle	  with	  zero	  mass	  (	  photons	  and	  neutrinos,	  if	  we	  assume	  they	  don’t	  own	  
+one	  )	  
+-­‐  massive	  particles	  
+	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  
+7	  It	  preserves	  the	  length	  E2	  –	  p2	  of	  the	  vector	  «	  Energy-­‐impulsion	  »	  	  	  
+
+55	  
+
+	  
+Such	  particles	  own	  no	  electric	  charge.	  	  
+Let’s	  go	  back	  to	  the	  Euclid’s	  group	  as	  defined	  by	  the	  Euclidean	  metric	  	  
+Keep	  away	  any	  intuition,	  any	  image.	  A	  mathematician	  can	  build	  its	  isometry	  group,	  the	  
+set	  of	  transformations	  which	  preserves	  this	  length.	  This	  confirms	  the	  experience.	  The	  
+physicist	  may	  transport	  physical	  object	  through	  translations	  and	  rotations.	  .	  	  
+Then	  a	  surprise	  arises	  :	  	  
+The	  mathematician	  shows	  that	  if	  one	  consider	  a	  crokscrew,	  some	  elements	  of	  the	  group	  
+can	  transform	  it	  into	  its	  enantiomorophic	  brother	  :	  	  
+	  
+
+   ds 2 = d x 2 + d y 2 + d z 2	  
+
+	  
+
+Fig.31	  :	  Enantiomorphic	  corkscrews	  
+
+This	  transformation	  is	  definitively	  not	  physical.	  In	  the	  ordinary	  world	  only	  one	  kind	  of	  
+corkscrew	  does	  exist	  :	  the	  right	  handed	  corkscrew.	  We	  only	  find	  the	  other	  one	  in	  a	  
+different	  world,	  the	  joke	  chop’s	  world.	  	  
+We	  live	  in	  the	  «	  serious	  world	  »,	  not	  in	  the	  «	  joke	  chop’s	  world	  ».	  Thus	  the	  approch	  
+«	  	  group	  »	  makes	  us	  to	  discover	  the	  possible	  existence	  of	  exotic	  objects.	  	  
+Same	  thing	  for	  the	  Poincaré’s	  group.	  Similar	  analysis	  provides	  two	  sets	  of	  movements	  :	  	  
+-­‐  orthochronic	  movements	  (from	  past	  to	  future)	  
+-­‐  antichronic	  movements	  (from	  future	  to	  past)	  
+In	  a	  very	  serious	  world	  one	  could	  ask	  if	  enantiomorphic	  corkscrews	  do	  exist.	  	  
+Similarly,	  physicists	  can	  ask	  if	  antichronic	  movements	  correspond	  to	  something	  real.	  
+This	  study	  was	  carried	  out	  by	  Souriau	  in	  1970	  and	  provided	  what	  I	  consider	  as	  a	  
+findamental	  theorem	  :	  	  
+-­‐  Time	  inversion	  goes	  with	  energy	  ans	  mass	  (if	  the	  object	  owns	  one)	  inversion	  
+In	  a	  word	  :	  
+-­‐  The	  antichronic	  movement	  of	  a	  photon	  corresponds	  to	  a	  negative	  energy	  photon.	  
+
+	  
+
+	  
+
+negative	  energy)	  particle.	  	  
+
+	  
+Extension	  of	  Souriau’s	  work	  
+
+56	  
+-­‐  The	   antichronic	   movement	   of	   a	   mass	   m	   corresponds	   to	   a	   negative	   mass	   (and	  
+I	  have	  extended	  Souriau’s	  work,	  shifting	  to	  a	  Kaluza	  five-­‐dimensional	  space,	  as	  defined	  
+by	  its	  metric	  :	  
+    ds 2 = dt 2 − d x 2 − d y 2 − d z 2 − dς 2	  
+I	  built	  a	  subgroup	  of	  its	  isometry	  group	  and	  classified	  all	  possible	  (geodesic)	  movements.	  
+In	  addition	  I	  assumed	  the	  fifth	  dimension	  to	  be	  closed.	  This	  «	  world	  »	  inherits	  the	  
+properties	  of	  the	  Poincaré’s	  group.	  The	  movements	  are	  splitted	  into	  orthochronic	  and	  
+antichronic	  movements.	  But,	  among	  those	  two	  sets	  we	  find	  an	  additional	  classification,	  
+with	  respect	  to	  the	  closed	  fifth	  dimension	  :	  
+-­‐	  movements	  with	  a	  positive	  increment	      dς > 0	  	  
+-­‐	  movements	  	  with	  a	  negative	  increment	      dς < 0	  
+This	  is	  a	  new	  symmetry.	  What	  is	  the	  corresponding	  object	  ?	  	  
+Consider	  the	  movement	  of	  a	  neutral	  particle	  in	  Minkowski	  space-­‐time	  that	  is	  compacted	  
+into	  a	  straight	  line,	  time-­‐oriented.	  	  
+We	  add	  the	  closed	  dimension	  (fiber	  bundle)	  so	  that	  the	  movement	  is	  inscribed	  on	  a	  
+cylinder	  :	  	  
+
+Antimatter	  
+
+	  
+Fig.32	  :	  Geometric	  representation	  of	  matter-­‐antimatter	  duality	  
+
+	  The	  figure	  shows	  the	  geometrical	  meaning	  of	  the	  electric	  charge	  and	  the	  geometric	  
+transcription	  of	  the	  matter-­‐antimatter	  duality,	  which	  is	  nothing	  but	  the	  inversion	  of	  fifth	  
+dimension	  in	  a	  five	  dimensional	  Kaluza	  space-­‐time.	  	  
+
+	  
+57	  
+This	  analysis	  starts	  from	  the	  action	  of	  the	  group	  on	  its	  momentum.	  It	  refers	  to	  
+symplectic	  geometry,	  that	  requires	  an	  even	  number	  of	  coordinates.	  	  
+By	  the	  way	  Souriau’s	  method	  of	  geometric	  quantification	  is	  based	  on	  the	  closure	  of	  the	  
+fifth	  dimension	  (mathematicians	  call	  it	   compact	  dimension).	  Kaluza	  space	  have	  a	  odd	  
+number	  of	  coordinates	  (five).	  In	  our	  mind	  that	  work	  is	  the	  standing	  point	  of	  a	  
+generalization	  of	  the	  theory	  to	  a	  complex	  Kaluza	  space,	  but	  this	  is	  out	  of	  the	  scope	  of	  the	  
+present	  paper.	  	  
+The	  analysis	  from	  Kaluza	  space	  can	  be	  extended	  adding	  other	  closed	  dimensions	  :	  
+},	  with	  new	  additional	  possible	  translations	  along	  those	  extra	  dimensions.	  
+Then	  the	  famous	  theorem	  of	  Emmy	  Noether	  produces	  an	  equivalent	  number	  of	  invariant	  
+},	  the	  electric	  charges	  being	  
+scalars,	  which	  become	  the	  quantum	  charges	     
+one	  of	  those.	  As	  a	  wellknown	  feature	  :	  	  the	  matter	  antimatter	  duality	  goes	  ith	  the	  
+inversion	  of	  all	  those	  quantum	  charges	  (	  and	  inversion	  of	  all	  closed	  additional	  
+dimensions	  ).	  	  
+	  
+
+q1 , q2 , q3 ...
+
+ς1 , ς2 , ς3 ...
+
+{
+   
+
+{
+
+Emmy	  Noether	  	  1882-­‐1935	  
+
+	  This	  general	  study	  provides	  a	  classification	  of	  particles.	  They	  are	  two	  sets	  :	  
+
+	  
+
+-­‐	  The	  orthochronic	  (positive	  energy	  and	  positive	  mass	  if	  the	  win)	  particles	  
+
+-­‐	  The	  antichronic	  	  (negative	  energy	  and	  negative	  mass	  if	  the	  win)	  particles	  
+
+	  
+58	  
+Among	  the	  two	  the	  matter-­‐antimatter	  duality	  holds.	  	  
+We	  know	  that	  the	  photon	  is	  identical	  to	  its	  antiparticle	  (because	  all	  its	  quantum	  charges	  
+are	  zero).	  
+Thus,	  we	  find	  :	  	  
+-­‐  Positive	  energy	  photons	  
+-­‐  Negative	  energy	  photons	  
+The	  matter	  antimatter	  symmetry	  is	  also	  called	  C-­‐symmetry	  (charge	  conjugation	  )	  
+In	  the	  Euclid’s	  three	  dimensional	  space	  we	  evoked	  the	  symmetry	  that	  transforms	  any	  
+object	  into	  an	  enantiomorphic,	  mirror-­‐symmetrical	  object.	  Physicists	  call	  it	  P-­‐
+symmetry	  (	  P	  for	  «	  parity	  »	  right-­‐left	  symmetry	  ).	  	  
+-­‐  Among	  particles	  we	  find	  their	  P-­‐symmetrical.	  	  
+But	  what	  could	  be	  the	  P-­‐symmetrical	  of	  a	  photon	  ?	  	  
+Souriau	  was	  the	  first	  to	  give	  the	  spin	  a	  pure	  geometrical	  status.	  The	  photon	  owns	  a	  spin.	  
+Its	  inversion	  corresponds	  to	  the	  polarization	  phenomenon.	  	  
+-­‐  The	  T-­‐symmetrical	  of	  a	  massive	  particle	  is	  the	  same	  particle	  with	  inversed	  mass	  
+	  
+This	  famous	  theorem	  says	  that	  the	  CPT	  symmetrical	  of	  a	  particle	  is	  identical	  to	  that	  
+particle.	  	  
+C	  :	  inversion	  of	  the	  quantum	  charges	  (and	  electric	  charge	  )	  
+P	  :	  right-­‐left	  symmetry	  
+But	  T-­‐symmetry	  implies	  the	  inversion	  of	  the	  mass	  and	  energy	  !?!?	  
+According	  to	  such	  extension	  of	  dynamic	  group’s	  theory	  the	  CPT	  symmetrical	  of	  a	  particle	  
+should	  correspond	  to	  the	  same	  particle,	  plus	  the	  inversion	  of	  its	  mass	  and	  energy.	  	  
+I	  had	  to	  look	  at	  the	  basis	  of	  such	  theorem,	  the	  Quantum	  Theory	  of	  Fields.	  So	  I	  bought	  the	  
+bible	  in	  the	  	  field8.	  Pages	  74-­‐76	  we	  find	  a	  section	  devoted	  to	  «	  Space	  inversion	  and	  Time-­‐
+Reversal	  ».	  	  
+In	  Quantum	  Mechanics	  thing	  depend	  on	  the	  structure	  of	  «	  operators	  ».	  	  So	  that	  we	  find	  P	  
+and	  T	  operators.	  	  
+	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  
+8	  S.Weinberg	  :	  The	  Quantum	  Theory	  of	  Field,	  Cambridge	  University	  Press,	  2005	  edition	  
+
+(	  a	  «	  theorem	  for	  physicists	  »	  Sourau	  used	  to	  say	  )	  
+
+This	  contradicts	  the	  well-­‐known	  CPT	  theorem	  
+
+About	  the	  CPT	  theorem	  
+
+unitary	  –	  anti-­‐unitary	  
+
+linear	  –	  antilinear	  
+
+	  
+59	  
+In	  dynamical	  groups’	  theory	  these	  operator	  are	  real,	  so	  that	  a	  T-­‐inversion	  goes	  with	  the	  
+inversion	  of	  energy.	  In	  Quantum	  Mechanics	  operators	  become	  complex	  so	  that	  they	  may	  
+be	  	  
+If	  the	  time-­‐inversion	  T	  would	  be	  unitary	  and	  linear,	  T-­‐inversion	  would	  create	  negative	  
+energy	  states.	  	  
+We	  read,	  page	  76	  (	  we	  quote	  )	  :	  	  
+-­‐	  There	  are	  no	  states	  of	  negative	  energy.	  If	  we	  supposed	  that	   T	  is	  linear	  and	  
+unitary	  then	  we	  get	  the	  disastrous	  conclusion	  that	  for	  any	  state	   Ψ of	  energy	  E	  
+there	  is	  another	  state	  	   T-1Ψ	  of	  energy	  –E.	  To	  avoid	  it	  we	  are	  forced	  here	  to	  
+conclude	  that	  T	  is	  antilinear	  and	  antiunitary.	  	  
+Until	  the	  discovery	  of	  the	  acceleration	  of	  the	  universe	  nothing	  in	  physics	  indicated	  that	  
+negative	  energy	  would	  be	  present	  somewhere.	  But	  this	  acceleration	  implies	  the	  action	  of	  
+negative	  pressure.	  A	  pressure	  is	  a	  density	  of	  energy	  per	  unit	  of	  volume.	  	  
+	  
+The	  antimatter	  we	  produce	  in	  labs	  is	  C-­‐symmetrical	  of	  the	  matter.	  	  
+We	  suggest	  to	  call	  it	  «	  Dirac-­‐antimatter	  ».	  
+Dynamic	  groups	  theory	  shows	  that	  CPT-­‐symmetry	  refers	  to	  negative	  mass	  matter.	  In	  
+this	  negative	  world	  electrons	  have	  a	  negative	  mas,	  but	  a	  positive	  charge.	  Protons	  with	  
+negative	  mass	  have	  a	  negative	  electric	  charge.	  	  
+C	  x CPT	  =	  PT-­‐symmetry	  gives	  negative	  mass	  antimatter.	  	  
+We	  suggest	  to	  call	  it	  «	  Feynman-­‐antimatter	  ».	  
+In	  effect	  Richard	  Feyman	  suggested	  that	  an	  electron,	  cruising	  backwards	  in	  time	  and	  
+observed	  through	  a	  mirror	  (P-­‐symmetry)	  would	  behave	  like	  a	  positron.	  	  
+We	  have	  to	  add	  «	  with	  negative	  mass	  ».	  	  
+In	  the	  negative	  world	  the	  position	  owns	  a	  negative	  mass,	  but	  a	  positive	  electric	  charge.	  	  
+All	  that	  couples	  to	  the	  Gbar	  experiment,	  at	  CERN,	  where	  researchers	  will	  test	  the	  
+behaviour	  of	  antimatter	  in	  the	  gravitational	  of	  the	  Earth.	  	  
+	  
+
+I	  predict	  that	  such	  C-­‐symmetrical	  antimatter	  will	  fall	  down	  
+
+So	  that	  this	  question	  must	  be	  reconsidered	  
+
+Two	  kinds	  of	  antimatters	  
+
+	  
+
+What	  about	  the	  primeval	  antimatter	  ?	  	  
+
+Inverse	  situation	  amoung	  the	  negative	  energy	  particles.	  
+
+	  
+60	  
+We	  can	  go	  back	  to	  Andrei	  Sakharov’s	  schema.	  His	  so-­‐called	  twin	  universe	  corresponds	  to	  
+ou	  negative	  sector,	  to	  the	  world	  of	  negative	  energy	  and	  negative	  mass	  (if	  the	  own	  one)	  
+particles.	  So	  that	  we	  can	  suggest	  the	  following	  scenario	  :	  	  
+The	  rate	  of	  production	  of	  positive	  mass	  baryon	  	  from	  positive	  energy	  quarks	  is	  higher	  
+than	  the	  rate	  of	  production	  de	  positive	  mass	  antibaryons	  from	  positive	  energy	  
+antiquarks.	  	  
+After	  annihilations	  we	  get	  :	  
+-­‐  positive	  energy	  photons	  
+-­‐  a	  small	  reliquat	  of	  positive	  mass	  matter	  
+-­‐ 
+the	  corresponding	  reliquat	  of	  positive	  energy	  antiquarks,	  ratio	  3/1	  	  
+-­‐  no	  positive	  mass	  antimatter	  
+On	  the	  other	  hand	  :	  	  
+-­‐  negative	  energy	  photons	  
+-­‐  a	  small	  reliquat	  of	  negative	  mass	  antimatter	  
+-­‐ 
+the	  corresponding	  reliquat	  of	  negative	  energy	  quarks,	  ratio	  3/1	  	  
+-­‐  no	  negative	  mass	  matter	  
+As	  opposite	  energy	  and	  negative	  energy	  particles	  do	  not	  interact,	  the	  negative	  mass	  
+antimatter	  cannot	  be	  evidenced	  in	  labo.	  Moreover	  it	  is	  located	  between	  galaxies	  and	  at	  
+the	  center	  of	  the	  big	  voids	  of	  the	  very	  large	  structure	  of	  the	  universe.	  	  
+The	  existence	  or	  non	  existence	  of	  singularities	  in	  physics	  is	  a	  matter	  of	  belief.	  
+Personnally	  I	  tend	  to	  think	  that	  Nature	  hosts	  no	  singularities.	  In	  a	  paper	  published	  in	  
+2014	  in	  Modern	  Physics	  Letters	  A	  [13]	  we	  have	  showed	  how	  the	  so-­‐called	  «	  central	  
+singularity	  »	  of	  so-­‐called	  «	  black	  holes	  »	  could	  be	  eliminated	  by	  a	  simple	  change	  of	  
+coordinate,	  so	  that	  it	  is	  not	  a	  true	  singularity,	  but	  a	  coordinate	  singularity.	  In	  addition	  this	  
+paper	  suggests	  how	  mass	  inversion	  could	  be	  naturally	  achieved	  in	  the	  universe.	  	  
+Looking	  back	  to	  the	  Sakharov’s	  model	  we	  can	  figure	  a	  link	  between	  the	  two	  twin	  
+universes,	  without	  singularity	  :	  	  
+
+	  
+What	  about	  the	  so-­‐called	  initial	  singularity	  ?	  	  
+
+	  
+
+61	  
+
+Fig.33	  :	  2D	  didactic	  image	  of	  the	  Sakharov’s	  model,	  without	  singularity	  
+
+With	  a	  Big	  Bang	  singularity	  the	  Janus	  model	  could	  be	  figured	  as	  :	  	  
+
+	  
+Fig.34	  :	  2D	  didactic	  image	  of	  Janus	  model	  with	  singularity	  
+
+	  
+
+Without	  singularity	  :	  	  
+	  
+
+Fig.35	  :	  2D	  didactic	  image	  of	  Janus	  model	  without	  singularity	  
+
+	  
+
+	  
+
+	  
+62	  
+	  The	  two	  5D	  folds	  are	  linked	  by	  a	  4D	  structure.	  Thus	  we	  have	  a	  dimensional	  degeneracy.	  
+One	  dimension	  must	  disappears	  :	  the	  one	  which	  has	  no	  symmetry	  equivalence	  in	  the	  
+folds.	  Check	  :	  	  
+
+-­‐	  Symmetry	    x → − x	  	  	  holds	  in	  both	  folds	  (	  P-­‐symmetry	  )	  
+-­‐	  Symmetry	    y → − y	  	  	  holds	  in	  both	  folds	  (	  P-­‐symmetry	  )	  
+-­‐	  Symmetry	    z → − z	  	  	  holds	  in	  both	  folds	  (	  P-­‐symmetry	  )	  
+-­‐	  Symmetry	    ς → −ς	  	  	  holds	  in	  both	  folds	  (	  C-­‐symmetry	  )	  
+
+Thus	  the	  symmetry	  degeneracy	  is	  about	  the	  t	  coordinated	  and	  the	  metric	  of	  th	  linking	  
+structure	  is	  :	  	  
+It	  is	  euclidean	  with	  imaginary	  length.	  	  
+	  
+
+    ds 2 = − d x 2 − d y 2 − d z 2 − dς 2	  
+
+	  
+
+	  
+References	  
+
+[1]	  A.D.Sakharov,	  ZhETF	  Pis’ma	  5	  :	  32	  ;	  JETP	  Lett.	  5	  :	  24	  (	  1967	  )	  
+	  [2]	  A.D.Sakharov	  ,	  ZhETF	  Pis’ma	  76	  :	  1172	  (1979)	  ;	  JETP	  49	  :	  594	  (1979)	  
+	  [3]	  A.D.Sakharov	  ,  (1980).  Cosmological  Model  of  the  Universe  with  a  Time  Vector 
+ [4]	  J.P.Petit,	  Univers	  Enantiomorphes	  à	  flèches	  du	  temps	  opposées.	  CRAS	  (French	  
+
+Inversion. ZhETF (Tr. JETP 52, 349-351) (79): 689–693 
+
+	  
+63	  
+Comptes	  Rendus	  at	  the	  Academy	  of	  Science	  of	  Paris	  )	  1977,	  math,t.284,pp.1217-­‐°-­‐122.	  
+(	  "Enantiomorphic	  universes	  with	  opposite	  time	  arrows"	  ).	  
+	  [5]	  J.P.	  Petit	  (May	  23,	  1977).	  "Enantiomorphic	  universes	  with	  opposite	  time	  arrows".	  
+Comptes	  rendus	  de	  l'Académie	  des	  Sciences	  263:	  1315–1318.	  Paris:	  French	  Academy	  of	  
+Sciences.	  
+[6]	  J.P.	  Petit	  (June	  6,	  1977).	  Univers	  en	  interaction	  avec	  leur	  image	  dans	  le	  miroir	  du	  
+temps.("Universes	  interacting	  with	  their	  opposite	  time-­‐arrow	  fold"-­‐.	  Comptes	  rendus	  de	  
+l'Académie	  des	  Sciences	  284:	  1413–1416.	  Paris:	  French	  Academy	  of	  Sciences..	  	  
+[7]	  	  J.	  P.	  Petit,	  Nuovo	  Cimento	  B.	  The	  missing	  mass	  problem.	  	  109,	  697	  (1994).	  
+[8]	  	  J.P.PETIT	  	  :	  Cosmological	  model	  with	  variable	  velocity	  of	  light.	  Modern	  Phys	  Letters	  
+A3,	  1988,	  pp.	  1527	  	  
+	  [9]	  J.P.PETIT,	  Twin	  Universe	  Cosmology,	  Astrophys.	  and	  Sp.	  Science,	  226,	  273-­‐307,	  1995	  
+ [10]	  J.P.PETIT,	  P.MIDY	  &	  F.LANDSHEAT	  :	  Twin	  matter	  against	  dark	  matter.	  Intern.	  Meet.	  
+on	  Atrophys.	  and	  Cosm.	  "Where	  is	  the	  matter	  ?	  ",	  Marseille	  2001	  june	  25-­‐29	  
+[11]	  	  Koki	  Izumi,	  Chizaki	  Hagiwara,	  Koki	  Nakajima	  ,	  Takao	  Kitamura	  and	  Hideki	  Asada	  :	  
+Gravitational	  lensing	  shear	  by	  an	  exotic	  lens	  with	  negative	  convergence	  or	  negative	  
+mass.	  Physical	  Review	  D	  88,	  024049	  (2013)	  
+	  [12]	  	  El-­‐Ad	  H.	  ,	  Piran	  T.	  (	  1997	  )	  Astrophys.	  J.	  	  
+	  [13]	  	  J.P.Petit	  &	  G.D’Agostini	  :	  Cancellation	  of	  the	  singularity	  of	  the	  Schwarzschild	  
+solution	  with	  natural	  mass	  inversion	  process.	  Mo.	  Phys.	  Lett.	  A	  vol.	  30	  n°9	  	  2015	  
+ 	  	  	  
+
+

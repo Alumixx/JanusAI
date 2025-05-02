@@ -1,0 +1,793 @@
+	
+
+1	
+
+H.	Zejli1,	F.Margnat2,		J.P.Petit3		
+
+The	Nature	of	Hypermassive	Objects	at	the	Center	of	M87	and	the	Milky	Way.	
+
+________________________________________________________________________________________________	
+Keywords	:	giant	black	hole,	hypermassive	object,	M87,	Sgr	A*,	Geometric	criticity,	
+physical	criticity,	plugstar,	internal	metric,	Flamm	meridian	surface,		time	factor,	
+variable	speed	of	light,	Hoag	galaxy,	quasar.		
+________________________________________________________________________________________________	
+Abstract	:	En	se	concentrant	sur	les	images	de	Sgr	A*	de	l’objet	hypermassif	situé	au	
+centre	de	M87	on	note	une	divergence	vis	à	vis	d’une	identification	à	des	images	de	
+trous	noirs	géants	ainsi	que	l’identité,	dans	les	deux	cas,	de	la	valeur	3,	représentant	le	
+rapport	se	la	température	maximale	sur	la	température	minimale.	On	suggère	que	ce	
+sont	des	objets	subcritiques,	où	l’assombrissement	de	leur	partie	centrale	découle	du	
+fait	que	leur	rayon	soit	(8/9)1/2	Rs.	Dans	ces	conditions	un	très	fort	gradient	de	pression	
+peut	s’opposer	à	la	force	de	gravité.	On	suggère	un	schéma	de	formation	de	tels	objets.		
+________________________________________________________________________________________________	
+1	–	Introduction	
+La	cinématique	des	objets	orbitant	autour	de	la	partie	centrale	des	galaxies	M87	et	Voie	
+Lactée	est	suffisamment	bien	documentée	pour	qu’on	ne	puisse	mettre	en	doute	les	
+valeurs	des	masses	responsables	de	telles	observations.	Néanmoins,	quand	les	
+premières	images	apparurent,	en	2019	[1]	et	en	2022t[2]	les	revues	titrèrent	«	Shadow	
+of	Giant	Black	Holes.	La	raison	invoquée	étant	qu’n	ne	voyait	aucune	autre	
+interprétation	possible.	Or	les	parties	centrales	de	ces	objets	sont	loin	d’être	noires.	
+
+	
+1	hicham.zejli@manaty.net	
+2	florent.margnat@univ-poitiers.fr	
+3	jean-pierre.petit@manaty.fr	
+
+	
+
+2	
+
+	
+Fig.1	:Les	images	des	objets	hypermassifs	situés	au	centre	de	M87	et	de	la	Voie	Lactée.	
+	S’il	est	peut	être	problématique	d’accorder	foi	aux	valeurs	des	températures	affichées	on	
+peut	évaluer,	dans	chaque	image,	le	rapport	des	températures	maximale	et	minimale	et	
+on	trouve	alors	des	valeur	très	proches	de	3.	Certains	ont	voulu	justifier	cette	
+température	centrale	par	la	présence	du	disque	d’accrétion	chaud,	au	premier	plan.	Mais	
+dans	ces	conditions	pourquoi	celui-ci	ne	révèle-t-il	pas	sa	présence	dans	le	voisinage	de	
+l’objet	?		Dans	[3]	on	a	tenté	de	reconstituer	les	caractéristiques	du	trou	noir	le	plus	
+probable	en	donnant	ainsi	ce	que	nous	devrions	voir	si	une	présence	de	gaz	chaud	sur	
+l’arrière-plan	ne	venait	pas	perturber	l’observation	:		
+	
+
+	
+
+3	
+
+	
+
+Fig.2	:	Reconstruction	de	l’image	[3]	
+
+	2	–	Identification	à	des	objets	sous-critiques.		
+C’est	une	façon	d’interpréter	les	observations.	Une	autre	est	de	s’en	tenir	strictement	
+aux	données	disponibles.	On	peut	alors	relier	l’assombrissement	de	la	partie	central	à	un	
+effet	de	redshift	gravitationnel.	Dans	ces	conditions	ceci	nous	permet	d’en	déduire	le	
+rapport	entre	le	rayon	de	l’objet	et	la	valeur	correspondante	du	rayon	de	Schwarzschild	
+lié	à	sa	masse	:		
+(1)																																																
+L’objet	pourrait	donc	être	un	objet	sous-critique	tel	que	le	décrit	Karl	Schwarzschild	
+dans	son	second	article	[4]	décrivant	la	géométrie	à	l’intérieure	d’une	sphère	emplie	
+d’un	fluide	incompressible	de	densité	constante.	Dans	[5]		on	trouve	l’allure	de	la	courbe	
+de	pression,	qui	tend	alors	vers	l’infini	au	centre,	quand	cette	situation	critique	est	
+atteinte.		
+	
+
+1
+2G M
+c2 Ra
+
+! 3 =
+
+λ'
+λ
+
+		
+
+1−
+
+1−
+
+8
+9
+
+=
+
+1
+
+  
+
+	
+
+4	
+
+	
+
+Fig.3	:	Evolution	de	la	pression	[5].	
+	Si	on	assimile	ces	objets	hypermassifs	à	des	gaz	parfaits	la	pression,	en	supposant	que	la	
+masse	volumique	est	constante,	ou	varie	peu,	représente	une	mesure	de	la	densité	
+volumique	d’énergie	d’agitation	thermique,	avec	une	vitesse	v	:		
+(2)																																																																			
+Le	schéma	du	Big	Bang	donne,	en	remontant	dans	le	passé,	une	succession	d’états	de	
+plus	en	plus	denses	et	chauds.	Très	vite	la	pression	dominante	devient	la	pression	de	
+radiation	:		
+(3)																																																																								
+Pour	pousser	plus	avant	il	est	nécessaire	d’envisager	que	la	vitesse	de	la	lumière	puisse	
+être	considérée	comme	variable,	dans	des	conditions	extrêmes.	Dans	[5]	on	se	refuse	à	
+envisager	que	cette	envolée	de	la	pression	ait	un	caractère	physique	en	arguant	que	la	
+vitesse	du	son	dans	ce	milieu	excéderait	alors	celle	de	la	lumière,	considérée	comme	une	
+
+p = ρ< v2 >
+ 
+
+ρr c2
+3
+
+pr =
+ 
+
+	
+	
+
+3
+
+5	
+	
+constante	absolue.	Dans	son	article	de	février	1916	[4]		K.Schwarzschild	envisage	
+		
+pourtant	cette	possibilité.	A	l’intérieur	de	la	masse	il	utilise	une	coordonnée	angulaire	
+et	un	rayon	caractéristique	
+(4)																																											
+	désigne	alors	la	vitesse	de	la	lumière	à	l’extérieur	de	l’objet.	La	métrique	
+La	valeur	
+intérieure	s’écrit	alors	:		
+
+	tels	que	:		
+
+3co
+2
+8πG ρ
+
+R = ˆR sin χ
+
+ˆR =
+ 
+
+ co
+
+	
+
+ ˆR
+
+χ
+
+Fig.4	:	La	métrique	intérieure	de	Schwarzschild	[4]	
+
+	
+La	continuité	est	assurée	avec	la	métrique	extérieure,	donnée	en	dessous.	L’auteur,	avec	
+	,	donne	la	variation	de	la	densité	volumique	d’énergie,	dont	la	pression	fait	partie,	
+à	l’intérieur	de	l’objet.		
+	
+
+ co = 1
+
+	
+
+6	
+
+	
+Fig.5	:	Evolution	de	la	pression	totale	à	l’intérieur	de	l’objet	[4]	
+	Comme	Schwarzschild	le	note,	il	y	a	plus	d’un	siècle,	ceci	impose	la	contrainte	
+.	L.Flamm	a	donné	[6]	une	description	de	la	géométrie	de	l’ensemble	en	
+produisant	la	courbe	méridienne	correspondant	à	la	section	de	l’objet	4D,	d’abord	par	
+des	plans	t	=	cst	puis	par	les	plans	
+	
+
+	.	Il	obtient	alors	ceci	:		
+
+  cos χ < 1 / 3
+
+ θ = cst
+
+	
+
+Fig.6	:	Méridienne	de	L.Flamm	[6]	
+
+	La	solution	de	l’équation	d’Einstein,	invariante	par	SO(3)	correspond	à	un	objet	3D	
+subissant	une	translation	selon	la	coordonnée	de	temps.	Cet	objet	est	constitué	de	deux	
+parties,	raccordées.	La	première	est	une	portion	d’hypersphère	S3,	de	rayon	de	courbure	
+.	La	seconde	est	une	portion	d’une	hypersurface	de	Flamm	dont	la	méridienne	est	une	
+parabole	couchée.	On	voit	ainsi	se	dégager	deux	criticités.	La	première	est	celle	
+
+ ˆR
+
+7	
+	
+qu’envisagent	les	partisans	de	la	théorie	des	trous	noirs.	Les	conditions	deviennent	alors	
+	.	Nous	qualifierons	alors	cette	criticité	de	«	géométrique.	
+telles	que	
+La	méridienne	devient	alors	:		
+	
+
+ R a = ˆR   ( χ = π / 2 )
+
+	
+
+	
+
+Fig.7	:	Criticité	géométrique.	
+	Mais,	avant	même	que	ne	survienne	cette	«	criticité	géométrique	»	interviendrait	la	
+«	criticité	physique	»	signalée	par	Schwarzschild	[4],	qui	correspond	à	une	valeur	de	
+l’angle	
+.		Nous	reproduisons	ci-après	la	portion	de	courbe	méridienne	
+	proche	de	
+donnée	dans	[5].		
+
+  π / 3
+
+χ
+
+	
+Fig.8	:	Criticité	physique.	Méridienne	[5]	
+			et	le	coefficient	correspondant	de	sa	métrique	par	f4	:	
+
+	Si	on	retient	cette	idée	d’une	forte	montée	de	la	valeur	de	la	vitesse	de	la	lumière	à	
+l’intérieur	de	l’objet,	le	gradient	de	pression	correspondant	est	donc	à	même	de	pouvoir	
+s’opposer	à	la	force	de	gravité.	Dans	son	article	Schwarzschld	désigne	la	coordonnée	de	
+temps	par	
+
+ x4
+
+	
+
+8	
+
+Fig.9	:	Extrait	de	[4].		
+
+	
+Ce	coefficient	est	qualifié	dans	la	littérature	[5]	de	carré	d’un	«	time	factor	».	
+Schwarzschild	donne	son	évolution	selon	:		
+	
+
+	
+
+Fig.10	:	Evolution	du	time	factor	selon	Schwarzschild	[4].	
+
+	
+On	voit	que	celui-ci	tend	vers	zéro	lors	que	les	conditions	de	criticité	physique	sont	
+atteintes.	Dans	la	figure	ci-après	nous	reproduisons	l’évolution	de	ce	time	factor,	pour	
+différentes	valeurs	de	la	masse	:		
+
+Fig.11	:	Evolution	du	time	factor	pour	différentes	valeurs	de	la	masse	[5].	
+
+Les	auteurs	se	sont	alors	limités	à	la	valeur	de	la	masse	critique.	Mais	voyons	ce	qu’il	
+advient	quand	on	pousse	au-delà,	ce	qui	se	passerait	si	un	tel	objet	bénéficiant	soudain	
+d’un	léger	apport	de	masse	:		
+	
+
+	
+
+9	
+
+	
+	Le	time	factor	devient	alors	négatif	à	l’intérieur	d’une	sphère	centrée	sur	l’origine	dont	
+le	rayon	croit	extrêmement	rapidement	:		
+
+Fig.12	:	Au-delà	de	la	criticité	physique.		
+
+Fig.13	:	Rapide	extension	de	la	région	à	time	factor	négatif.		
+
+	
+
+	
+
+	
+
+10	
+	
+3	–	Mécanisme	d’auto	stabilité	de	l’objet.			
+Quelle	signification	donner	à	ce	passage	en	négatif	de	ce	time	factor	?	Le	premier	qui	a	
+envisagé	cette	possibilité	est	H.Weyl,	en	1917	[7].	Lui	aussi	présente	l’équation	de	la	
+méridienne	de	l’hypersurface	:		
+
+	
+
+Fig.14	:	Weyl,	équation	de	la	méridienne	[7]	
+	Il	est	aussi	le	premier	à	donner	l’expression	de	la	métrique	extérieure	à	l’aide	de	
+coordonnées	isotropes	et	c’est	sous	cette	forme	qu’il	envisage	le	passage	en	négatif	du	
+time-factor,	pour	lui	sur	la	sphère	de	Schwarzschild	(r	=	a/2	).		
+	
+
+Fig.15	:	Le	time	factor	de	Weyl,	en	coordonnées	isotropes	[7].	
+
+	
+	Dans	ce	qui	nous	occupe	cette	inversion	du	time	factor	concerne	la	métrique	intérieure.	
+Considérons	un	observateur	immobile	se	situant	dans	cette	région	centrale.	L’évolution	
+du	temps	propre	correspond	à	:		
+(5)																																																											
+Celui-ci,	s’identifiant	avec	la	longueur	s,	ne	peut	s’inverser	(on	ne	peut	faire	demi-tour	le	
+long	d’une	géodésique).	Si	on	envisage	de	prolonger	les	géodésiques	dans	cette	région	
+ou	le	time	factor	s’inverse,	cela	ne	peut	se	faire	qu’en	inversant	la	coordonnée	de	temps	t.	
+Son	inversion	est	maintenant	largement	envisagée,	de	même	que	l’existence	d’un	second	
+feuillet	d’univers	T-symétrique	du	nôtre	([8]	à	[13]).	Les	physiciens	théoriciens	
+envisagent	 aujourd’hui	 une	 possible	
+feuillets	 par	
+«	entanglement	»,	ce	qui	alors	justifie	l’accélération	de	l’expansion	de	l’univers.	Dans	
+[14],	[15]	cette	interaction	est	alors	fondée	sur	une	configuration	de	l’univers	en	
+revêtement	à	deux	feuillets,	le	bénéfice	tiré	de	cette	opération	étant	également	
+
+interaction,	 entre	 ces	 deux	
+
+ ds = (time factor) dt
+
+		
+
+ν
+
+ν
+
+ν
+
+⎤
+⎥
+⎥
+⎦
+
+⎡
+⎢
+⎢
+⎣
+
+	
+
+	
+
+g
+g
+
+1
+2
+
+1
+2
+
+⎤
+⎥
+⎥
+⎦
+
+⎡
+⎢
+⎢
+⎣
+
+1
+2
+
+ν +
+
+ν −
+
+ν +
+
+ν −
+
+ν −
+
+ˆT µ
+
+g
+g
+
+ˆT µ
+
+gµ ν
+ 
+
+gµ ν
+ 
+
+R g µ
+
+ g = g
+
+R g µ
+
+R µ
+ 
+
+R g µ
+
+R µ
+  
+
+R µ
+ 
+
+ν = χ T µ
+
+ν = χ T µ
+
+ν = − χ T µ
+
+			les	
+
+11	
+	
+l’accélération	de	l’expansion	[16].	Ce	modèle,	bimétrique,	repose	alors	sur	un	système	de	
+deux	équations	de	champ	couplées	[17]:		
+(6)
+																																								
+(7)																																										
+Dans	la	situation	considérée,	en	considérant	pour	simplifier	une	situation	où	
+	et	
+deux	métriques	
+	sont	alors	solutions	du	système	:		
+(8)
+																																																														
+	
+(9)																																																																		
+	
+La	solution	de	l’équation	(8)	est	représentée	par	le	couple	des	deux	métriques,	
+intérieure	et	extérieure	de	Schwarzschild,	avec	la	coordonnée	:		
+		
+(10)															
+(11)																		
+Dans	le	second	feuillets,	dans	les	conditions	de	l’approximation	Newtonienne	[17]		on	
+obtient	avec	:		
+(12)																																																						
+le	couple	des	métriques	:		
+(13)																	
+
+ρ 0 0 0
+0 p 0 0
+0 0 p 0
+0 0 0 p
+
+− R 2dθ2 − R 2 sin2 θdϕ2
+
+− R 2dθ2 − R 2 sin2 θdϕ2
+
+− R 2dθ2 − R 2 sin2 θdϕ2
+
+ν = − χ ˆT µ
+
+dR 2
+R 2
+ˆR 2
+
+dR 2
+R 2
+ˆR 2
+
+Ra
+ˆR 2 −
+
+⎞
+⎠⎟ dt2 −
+
+ds 2 = 1−
+
+ˆT µ
+ν =
+
+ds 2 =
+
+R µ
+ 
+
+R 2
+ˆR 2
+
+R 2
+ˆR 2
+
+R g µ
+
+ds 2 =
+
+dt2 −
+
+dt2 −
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+		
+
+1−
+
+1−
+
+ν −
+
+1+
+
+1+
+
+1−
+
+1−
+
+3
+2
+
+⎡
+⎢
+⎢
+⎣
+
+⎤
+⎥
+⎥
+⎦
+
+1
+2
+
+1
+2
+
+	
+
+	
+
+⎛
+⎝⎜
+
+ 
+
+ 
+
+ 
+
+2
+
+2
+
+2
+
+2
+
+ν
+
+3
+2
+
+⎡
+⎢
+⎢
+⎣
+
+Ra
+ˆR 2 −
+
+1
+2
+
+R 2
+ˆR 2
+
+⎤
+⎥
+⎥
+⎦
+
+dR 2
+R 2
+ˆR 2
+
+1+
+
+ 
+
+ds 2 = 1+
+
+12	
+	
+(14)																								
+Conduisant	à	des	géodésiques	qui	évoquent	alors	une	répulsion.		La	situation	s’éclaire	
+alors.	Quand	un	apport	de	matière	intervient,	un	passage	se	crée	dans	la	partie	centrale	
+de	l’objet.	Les	masses	qui	s’y	trouvent	cheminent	dans	le	second	feuillet	d’univers	
+comprenant	une	inversion	de	la	coordonnée	de	temps,	donc	de	la	masse	[18].	Suivant	les	
+géodésiques	de	ce	second	feuillet,	cette	masse	en	excès	est	alors	expulsée	hors	de	l’objet,	
+dans	un	mécanisme	qui	empêche	une	chasse	d’eau	de	déborder.	Nous	proposons	
+d’appeler	de	tels	objets	sous-critiques	des	plugstars	:	
+
+− R 2dθ2 − R 2 sin2 θdϕ2
+
+dR 2
+R 2
+ˆR 2
+
+⎞
+⎠⎟ dt2 −
+
+R 2
+ˆR 2
+
+1+
+
+	
+
+⎛
+⎝⎜
+
+ 
+
+	
+
+diffèrent	
+
+Fig.16	:	Plugstar.	
+	Ce	modèle	s’oppose	à	l’interprétation	des	images	des	objets	hypermassifs	en	tant	que	
+trous	noirs	géants,	mais	a	l’avantage	de	coller	avec	les	données	observationnelles.	Il	est	
+tout	à	fait	remarquable	que	pour	ces	deux	objets,	alors	que	les	masses	et	les	
+que	
+notablement,	
+températures	
+température	
+leurs	
+rapports	
+maximale/température	minimale	soient	si	voisins.		
+	4	–	Sur	la	formation	des	objets	hypermassifs	et	des	quasars.		
+Jusqu’à	présent	l’idée	était	que	ces	objets,	considérés	comme	des	trous	noirs	géants,	
+devaient	s’être	formés	par	fusion	de	trous	noirs	stellaires.	Mais	en	découvrant	de	tels	
+objets	hypermassifs	à	un	âge	de	l’univers	se	situant	en	seulement	quelques	centaines	de	
+millions	d’années,	ce	scénario	devenait	difficilement	envisageable.	Le	terme	trous	noirs	
+primordiaux	a	alors	été	suggéré	[19].	Mais	le	qualificatif	de	primordial	ne	donne	guère	
+d’information	sur	la	façon	sont	ces	objets	se	seraient	formés.	Nous	étudions	
+actuellement,	dans	le	contexte	de	ce	modèle	bimétrique	[17],	un	scénario	où	des	
+fluctuations	conjointes	des	métriques	interviennent.	Dans	ce	modèle	le	confinement	des	
+galaxies	est	assuré,	non	par	des	halos	de	matière	sombre	de	masse	positive,	mais	par	le	
+fait	que	ces	galaxies	sont	logées	dans	des	lacunes	se	constituant	dans	la	distribution	de	
+
+Si	le	modèle	proposé	est	exact	nous	conjecturons	qu’il	en	sera		
+de	même	pour	toutes	les	futures	images	d’objets	hypermassifs.	
+
+13	
+	
+	
+masse	négative.	Les	fluctuations	conjointes	des	métriques	agissent	sur	le	facteur	
+«	facteur	de	masse	apparente	».	Quand	il	se	trouve	affaibli,	le	confinement	se	relâche	et	
+la	galaxie	se	disloque.	Se	forment	alors	les	galaxies	irrégulières.	Quand	ce	facteur	au	
+contraire	de	renforce,	il	engendrerait	la	formation	d’une	onde	onde	de	densité	
+centripète	dont	la	galaxie	de	Hoag	pourrait	représenter	un	exemple.	
+	
+
+g
+g
+
+ 
+
+	
+
+Fg.17	:	Galaxie	de	Hoag	
+
+	Cette	onde	de	densité	se	renforce	au	fur	et	à	mesure	qu’elle	se	rapproche	du	centre	
+galactique.	Elle	donne	sur	son	passage,	naissance	à	de	nouvelles	étoiles	et	c’est	le	
+rayonnement	UV	émis	par	celle-ci	qui,	excitant	le	gaz,	révèle,	comme	dans	le	cas	de	
+ondes	spirale,	sa	présence.	Si	le	nombre	de	Reynolds	magnétique	est	alors,	localement	
+important,	l’onde	ramassera	sur	son	passage	toutes	les	lignes	de	force	correspondant	au	
+faible	champ	magnétique,	préexistant	dans	la	galaxie.		
+
+	
+
+	
+
+14	
+
+Fig.	17	:	Formation	d’un	quasar.	
+
+	
+
+15	
+	
+	Quand	la	convergence	est	achevée	il	se	crée	au	centre	de	la	galaxie	un	objet	à	la	fois	
+dense	et	chaud	où	les	réactions	de	fusions	entraîneront	une	émission	de	plasma,	
+focalisée	selon	les	deux	lobes	du	très	puissant	champ	magnétique,	c’est	à	dire	un	quasar.		
+Le	gradient	de	champ	magnétique	transforme	ces	jets	de	plasma	en	accélérateur	de	
+particules	naturels,	lieu	de	naissance		des	rayons	cosmiques.	La	masse	en	excès	sera	
+éliminée	 par	
+le	 phénomène	 plugstar,	 ce	 qui	 engendre	 une	 puissante	 onde	
+gravitationnelle.	Ceci	correspondrait	alors	à	l’objet	situé	au	centre	de	la	galaxie	M87.	Au	
+bout	d’un	certain	temps	l’émission	de	plasma	cesse.	L’objet	au	centre	de	la	Voie	Lactée	
+serait	alors	un	quasar	éteint.	Si	des	fluctuations	surviennent	à	nouveaux,	le	mécanisme	
+reprend	et	l’émission	de	plasma	par	le	quasar	est	alors	sporadiques	ce	qui	semble	être	le	
+cas	pour	celui	de	87.	Dans	un	futur	article	nous	présenterons	la	théorie	des	fluctuations	
+conjointes	des	métriques.	Ce	qui	se	dégage	est	que	le	phénomène	est	d’autant	plus	
+important	qu’on	se	situe	dans	l’état	le	plus	primitif	de	l’univers,	qui	connaît	ainsi	une	
+prime	enfance	extrêmement	agité	et	turbulente.	A	l’échelle	d’une	galaxie	les	ondes	de	
+densité	engendrent	les	nouvelles	étoiles.	Mais	à	beaucoup	plus	grande	échelle	ce	sont	les	
+anneaux	de	galaxies	qui	se	forment,	comme	celui	récemment	découvert		[20].		
+		5	-	Conclusion.		
+On	considère	les	deux	images	d’objets	hypermassifs	situés	au	centre	des	galaxies	M87	et	
+Voie	Lactée,	immédiatement	identifiées	à	celles	de	trous	noirs	géants.	En	notant	
+l’identité	pour	ces	deux	objets,	de	la	valeur	3	du	rapport	température	maximale	sur	
+température	minimale	et	assimilant	l’effet	d’assombrissement	de	leur	partie	centrale	on	
+montre	que	ceux-ci	pourraient	être	des	objets	subcritiques	dont	le	rayon	serait	alors	
+	,	tels	que	l’énorme	remontée	de	la	pression	vers	le	centre	permette	alors	à	ce	
+que	celle-ci	puisse	équilibrer	la	force	de	gravité.	Anticipant	sur	la	future	publication	de	
+travaux	faisant	état,	dans	un	modèle	bimétrique,	de	fluctuations	conjointes	de	celles-ci,	
+modifiant	le	coefficient	de	masse	apparente	
+,	on	évoque	un	possible	schéma	de	
+formation	résultant	de	la	formation	d’une	onde	de	densité	centripète,	donnant,	quand	
+elle	atteint	le	centre	naissance	à	un	quasar.		
+Références	:	
+[1]	First	M87	Event	Horizon	Telescope	Results.	I.	The	Shadow	of	the	Supermassive	Black	
+Hole.	K.	Akiyama,	A.Alberdi,W.Alef,K.Asada,	R.Azulay,	A.K.Backo,	D.Ball,M.	Balakovic,	J.	
+Barrett.		Astrophysical	Journal,	vol.	875,	n°1,2019	
+[2]	First	Sagittarius	A*	Event	Horizon	Telescope	Results.	I.	The	Shadow	of	the	
+Supermassive	Black	Hole	in	the	Center	of	the	Milky	Way.	K.	Akiyama,	A.Alberdi,	W.	Alef,	
+J.C.Algaba,	E.	Anantua,	K.	Asada,	R.	Azulay,	U.	Bach,	A.K.Backo.	The	Astrophysical	Journal	
+Letters,	vol.	930,	number	2.	2022.	DOI	10.3847/2041-8213/ac6674	
+[3]	L.Medeiros,D.Psaltis,T.R.Lauer,F.Ozel	:	Principal-component	Interferometric	
+Modeling	(PRIMO),	and	Algorithme	for	EHT	Data.	I.	Recontructing	Images	from	
+Simulated	EHT	Observations.	Astrophysical	Journal.	943	:144	(19p),	2023,	February.		
+
+   8 / 9 R s
+
+   g / g
+
+	
+
+	
+
+16	
+
+to  Einstein 
+
+fluide  according 
+
+[4]  K.  Schwarzschild :  Über  das  Gravitionalsfeld  einer  Kugel  Aus  incompressibler 
+Flüssigkeit  nach  der  Einsteinschen  Theorie.  Sitzung  der  phys.  Math.  Klasse  v.23  märz 
+1916.  English  translation,  by  S.Antoci.    On  the  gravitational  field  of  a  sphere  of 
+incompressible 
+theory.  arXiv :physics/9905030v1 
+[physics.hist-ph] 12 may 1999.  
+
+	[5]	Gravitation.	C.W.Misner,	K.S.Thorne,	J.A.Wheeler.	Pinceton	University	Press.	2017.	
+[6]	Ludwig	Flamm.	Beiträge	zur	Einsteinschen	Gravitationstheorie,	Physikalische	
+Zestschrift	XVII	(1916)	pp.	448-454.		
+[7]	H.Weyl.Zur	Gravitationtheorie.	Annalen	der	Physik	IV	Fogl.	54	pp	117-145	
+[8]	N.Kumar	:	On	the	Accelerated	Expansion	of	the	Universe.	Gravitation	and	Cosmology.	
+2024-Springer	Link.	Vol.	30	pages	85-88.	April	2024.		
+	[9]	C.Deffayet,	G.Dvali,	G.	Gabadadze	:	Accelerated	Universe	from	gravity	leaking	to	extra	
+dimension.	Phys.	Rev.	D	65,	044023	(2002).	
+[10]	L.Boyle,	K.	Finn,	N.Turok	:	CPT-symmetric	universe.	Phys.Rev.Lett.	121,	251301	
+(2018)	
+[11]	L.Boyle,	K.	Finn,	N.Turok	:The	Big	Bang,	and	beutrino	daek	matter.	Annals	of	
+Physics.	438,	168767	(2022)	
+[12]	S.J.Robles,	Pirez	:	Time-reversal	symmetry	in	cosmology	and	creation	of	a	universe-
+antiuniverse	pair.Universe	2019	(5),	150.	
+[13]	S.J.Robles,	Pirez	:	Quantum	creation	of	a	universe-antiunverse	pair.	arXiv	:	
+2002.09863	
+[14]	J.P.Petit,	G.D’Agostini	:	Negative	Mass	hypothesis	in	cosmology	and	the	nature	of	
+dark	energy.	Astrophysics	And	Space	Sccience,.	A	29,	145-182	(2014)	
+[15]	J.P.PETIT,	Twin	Universe	Cosmology,	Astrophys.	and	Sp.	Science,	 226,	273-307,	
+1995	
+	[16]	G.	DAgostini	and	J.P.Petit	:	Constraints	on	Janus	Cosmological	model	from	recent	
+observations	of	supernovae	type	Ia,	Astrophysics	and	Space	Science,	(2018),	
+[17]	J.P.Petit	
+,	H.Zejli	:	Janus	Cosmological	Model	mathematically	and	Physically	
+Consistent.	Cnrs	scientific	data	base.	Hal-04583560v1halDOI	10.5281/zenodo.112377996	
+[18]	 J.M.Souriau :  Structure  des  systèmes  dynamiques.    Dunod  Ed.  France,  1970  and 
+	[19]	A.Escriva,	C.	Germani,	R.K.Seth	Universal	Threshold	for	Primordial.Phys.	Rev.	D		101,	
+044022	13	February	2020	
+	[20]	A.M.Lopez,	T.G.Clowes,	G.M.Willinger.	A	Big	Ring	in	the	Sky.	arXiv	:2402.07591,	12	
+Feb.	2024	
+	
+
+Structure of Dynamical Systems. Boston, Birkhaüser Ed. 1997 
+
+

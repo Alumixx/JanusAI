@@ -1,0 +1,5372 @@
+	
+1	
+En	annexe	à	la	vidéo	Janus	27du	6	mars	2019	
+Dans	cette	vidéo	j’ai	présenté	le	concept	d’Action,	en	partant	du	principe	de	Fermat.	Le	
+problème,	maintenant,	est	d’étendre	cela	à	la	Relativité	Générale,	ce	qui	sera	
+indispensable	pour	suivre	ce	qui	sera	dit	sur	l’équation	d’Einstein,	les	couillonnades	de	
+Damour,	ses	critiques	concernant	les	identités	de	Bianchi,		la	dérivation	Lagrangienne	de	
+Janus	et	le	système	d’équations	de	champ	légèrement	modifié	qui	va	avec.		
+En	préambule	je	me	trouve	contraint	de	dire	quelques	mots	sur	les	tenseurs.		
+Ce	sont	des	objets	«	invariants	par	changements	de	coordonnées	».	Comme	on	
+n’appliquera	ça	qu’à	la	Relativité	Générale,	cela	se	réfère	à	des	hypersurfaces	4D.	Sur	
+celles-ci	la	seule	grandeur	intrinsèque	c’est	la	longueur	s,	mesurée	le	long	d’une	courbe	
+quelconque	tracée	sur	celle-ci.	L’élément	de	longueur	est	donné	par	une	forme	bilinéaire	
+qui	est	la	métrique	:		
+(1)																																					 ds2 = goo(dxo)2 + g11(dx1)2 + g22(dx2)2 + g33(dx3)2		
+On	notera	que	j’ai	mis	les	indices	à	hauteur	de	ligne.	Ils	ne	sont	«	ni	en	haut	»,	«	ni	en	
+bas	».	De	plus	je	ne	garde	que	les	termes	diagonaux.	Je	suppose	les	autres	nuls.	Je	ne	
+mets	pas	:		
+∑ gµνdxµdxν	
+(2)																																																											
+Tout	simplement	parce	que,	qu’ils	s’agisse	de	matrice	ou	de	tenseurs,	les	termes	non-
+diagonaux	seront	pris	invariablement	égaux	à	zéro.		
+Ainsi	la	matrice	 gµν		s’écrit	(4	lignes,	4	colonnes	parce	qu’on	est	en	4D):		
+(3)																																														
+Pourquoi	le	mot	«		tenseur	»	?	Ca	vient	de	la	résistance	des	matériaux,	du	mot	«	tension	».	
+En	un	point	d’un	matériau	soumis	à	des	contraintes	on	pourra	définir	une	matrice	de	
+format	(3,3),	vu	qu’on	est	en	trois	dimensions	:	
+(4)																																																
+En	ce	point	du	matériau	on	définit	un	vecteur  d!s	,	c’est	à	dire	un	petit	élément	de	surface,	
+d’aire	élémentaire	ds	,	orienté	dans	une	certaine	direction.		
+
+σ01 σ0 2 σ03
+σ11 σ12 σ13
+σ31 σ32 σ33
+
+goo
+0
+0
+0
+
+0
+0
+g2 2
+0
+
+0
+0
+0
+g33
+
+ds2 =
+ 
+
+0
+g11
+0
+0
+
+σµν =
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+gµν =
+
+∑
+
+⎛
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎠
+
+	
+
+	
+
+ν=0
+
+µ=0
+
+ 
+
+ 
+
+4
+
+4
+
+!
+
+!
+
+!
+
+!
+
+!
+f .d
+
+!
+l = (σµν d!s).d
+
+	
+2	
+On	dira	que	sur	cet	élément	de	surface	s’exerce	une	force	  d
+f	et	que	celle-ci	sera	donnée	
+par	:		
+(5)																																																																				  d
+f =σµν d!s	
+On	emploiera	alors	l’expression	«	tenseur	des	contraintes	»,	alors	qu’à	ce	stade	on	
+devrait	parler	de	«	matrice	des	contraintes	».		
+Pourquoi	ce	mot	«	tenseur	»	?		
+l		.	On	aura	un	travail		
+Imaginons	qu’on	fasse	travailler	cette	force	le	long	de	  d
+l	
+(6)																																																							  dW = d
+Ce	travail	élémentaire		se	mesurera	en	watts	ou	en	joules.		
+La	matrice	est	un	tableau	de	nombres.	Mais	comment	chiffrer	ces	quantités	si	on	décide	
+de	changer	les	unités	de	longueur	et	de	surface	?	Par	exemple	si	on	passe	pour	des	
+mètres	aux	centimètres	et	des	mètres	carrés	aux	centimètres	carrés.	Il	faudra	que	cela	
+induise	une	transformation	dans	le	sens	inverse	pour	les	coefficients	pour	qu’on	
+retrouve	la	même	quantité	de	joules	dans	(6).		
+On	voit	que	si	on	passait	des	mètres	aux	centimètres	il	faudrait	ajuster	les	coefficients	de	
+:		
+la	matrice	σµνen	les	remplaçant	par		
+Imaginons	que,	quelque	part,	on	ait	des	coordonnées	 x1 , x2 , x3		telles	que	 ds = dx1 dx2	et	
+ dl = x3.	D’élément	énergie	est		
+(7)																																																							 dW = ∑ σijk dxi dxjdxk	
+Imaginons	un	changement	de	coordonnée	qui	fasse	jouer	une	«	jauge	d’espace	a	».	Alors	
+les	trois	coordonnées	seraient	multipliées	par	a.	Donc	les	éléments	de	la	matrice	
+seraient	à	diviser	par	a3	.		
+façons	 classique	 de	 manipuler	
+Selon	
+les	 appelle	
+les	
+«	contravariantes	».	Pourquoi	?	Pourquoi	pas	«		covariantes	»,	mystère.	Simple	question	
+de	définition.		
+Dans	ces	conditions	le	tableau	σµν,	s’il	se	transforme	de	telle	façon	que	les	coefficients	
+soient	divisés	par	a3	,	on	dira	que	c’est	«	un	tenseur	«	d’ordre	trois	»,		trois	fois	
+covariant	».	Et	dW	sera	qualifiée	de	«	forme	trilinéaire	».		
+Le	«	contravariant	»	ce	sont	des	indices	en	haut.	On	notera	donc	ces	coordonnées	 xi		
+Pour	les	objets	«	covariants	»	on	met	les	indices	en	bas.	Dont	le	tenseur	s’écrirait		
+
+les	 coordonnées,	 on	
+
+Cela	débouchera	sur	le	concept	de	covariance	et	de	contravariance.	
+
+σµν
+ 
+1000
+
+a i jk	
+
+ 
+
+!
+
+	
+
+πµν =
+
+Au	passage,	quid	de	termes	non-diagonaux	pour	ces	contraintes.		
+
+	
+3	
+	J’ai	pris	ce	cas	de	tenseur	associé	à	une	forme	trilinéaire,	parce	là	était	l’origine	de	ces	
+outils.	D’où	ces	mots	de	«	tenseurs	».		
+	
+Si	on	plonge	une	capsule	manométrique	dans	un	fluide	dans	un	état	quelconque,	elle	
+sera	l’équivalent	d’un	élément	de	surface	ds,	orienté.		
+La	force	qui	s’exerce	sur	la	membrane	ne	sera	pas	automatiquement	normale	à	celle-ci.		
+La	composante	normale	sera	qualifiée	de	pression	et	la	composante	tangentielle	de	
+tension	visqueuse.		
+f = πµν d!s		avec	:		
+On	écrira	:	  d
+Etat	hydrostatique	de	contrainte	:		
+Ca	correspond	à	:		
+(8)																																																											
+Alors,	en	un	point	donné	du	fluide	(supposé	en	situation	stationnaire)	si	on	tourne	cette	
+capsule	manométrique	dans	toutes	les	direction	elle	subit	une	force,	perpendiculaire	à	
+celle-ci,	d’intensité	constante	p	ds.		
+S’il	y	a	des	termes	non-diagonaux		cela	correspondra	à	un	fluide	visqueux.	Ce	fluide	est	
+en	mouvement	et	si	la	membrane	est	disposée	tangentiellement	aux	lignes	de	courant	du	
+fluide,	celui-ci	exercera	une	tensions	visqueuse,	tangentielle,	sur	celle-ci.		
+On	rencontre,	en	mécanique	des	fluides	une	situation	où	les	composantes	diagonales	
+peuvent	différer,	par	exemple	selon	:		
+avec Px x > ( pyy = pzz )	
+(9)																																													
+Cette	situation	correspondra	par	exemple	à	la	traversée	d’une	onde	de	choc,	sur	une	
+épaisseur	de	quelques	libres	parcours	moyens.	C’est	donc	très	exceptionnel.		
+
+π01 π0 2 π03
+π11 π12 π13
+π31 π32 π33
+
+p 0 0
+0 p 0
+0 0 p
+
+0
+pyy
+0
+
+0
+0
+pzz
+
+Px x
+0
+0
+
+pµν =
+
+pµν =
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎠
+
+	
+
+ 
+
+ 
+
+ 
+
+ 
+
+0
+
+⎞
+⎠
+
+⎛
+⎜
+⎝
+
+0 R 2 sin2θ
+
+gµν = R 2
+ 
+
+	
+4	
+Par	contre	en	résistance	des	matériaux	on	aura	tous	les	cas	de	figure.	Ce	qui	
+s’interprétait	en	mécanique	des	fluides	comme	de	la	viscosité	deviendra	du	cisaillement.		
+	
+Venons-en	aux	surfaces	2D.		
+En	choisissant	des	coordonnées	«	contravariantes	»	on	écrira	:		
+ds2 = gµνdxµdxν	
+(10)																																																																					
+Tout	de	suite,		un	exemple,	la	métrique	de	la	sphère	(	forme	bilinéaire	)		:		
+(11)																																																							 ds2 = R 2 dθ2 + R 2 sin2θdϕ2	
+C’est	à	dire	:		
+⎟		
+(12)																																																					
+Comment	traduire	l’invariance	par	changement	de	coordonnées	?	Donnez	vous	une	
+changement	quelconque	:		
+ϕ=ϕ(u1,u 2 )		
+																																																										 θ=θ(u1,u 2 )
+Vous	différenciez	tout	cela,	vous	replacez	dans	(12)	et	vous	obtiendrez	les	nouveaux	
+coefficients	 de	
+la	 métrique,	 écrite	 dans	 ces	 nouvelles	 coordonnées,	 avevc	
+éventuellemment	des	termes	non	diagonaux.		
+(13)																																																													
+ds2 = gi j dui du j	
+Passons	en	4D.	La	métrique	s’exprime	toujours	selon	la	forme	bilinéaire	(10)	mais	ce	
+sont	alors	des	tenseurs	qui	s’expriment	sous	la	forme	de	matrices	(4,4)	
+Disons-le	tout	de	suite,	dans	tout	ce	qui	va	suivre	ces	matrices	seront	uniquement	
+diagonales.	Quel	est	le	sens	de	cette	absence	de	termes	non-diagonaux.	C’est	l’absence	de	
+torsion	(	torsion-free).	Donc	pour	nous	une	métrique	de	la	relativité		Générale	cela	sera,	
+pratiquement	:		
+(14)																																														
+Avec	:		
+(15)																																						
+
+ds2 = goo (dx°) 2 + g11( dx1) 2 + g22 (dx2)2 + g33 (dx3)2		
+
+0
+0
+g22
+0
+
+goo
+0
+0
+0
+
+0
+0
+0
+g33
+
+0
+g11
+0
+0
+
+gµν =
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+		
+
+ 
+
+ 
+
+ 
+
+Signature		
+
+ ( + − − − )	
+ ( − + + + )	
+
+	
+5	
+On	comprend	aisément	que	si	on	effectue	n’importe	quel	changement	de	variable	sur	ces	
+coordonnées,	les	signes	des	termes	de	la	diagonale	ne	changement	pas.	On	appelle	cette	
+suite	de	signes	la	signature	de	la	métrique.		
+La	Relativité	Restreinte	et	la	Relativité	générale	se	traduisent	par	une	signature	:		
+C’est	la	signature	qui	a	été	adoptée	initialement	par	tous	les	relativistes,	Einstein	en	tête	
+(	Schwarzschild,	Weyl,	Adler	Schiffer	et	Bazin,	etc	).	Mais,	question	de	mode,	les	
+théoriciens	optent	aujourd’hui	pour	:		
+Dans	la	relativité	restreinte	les	termes	diagonaux	de	la	métrique	valent	 ± 1	.	Cela	
+correspond	à	la	métrique	de	l’espace	de	Minkowski,	la	métrique	de	Lorentz,	représentée	
+par	la	matrice	:		
+(16)																																																	
+qui	peut	s’écrire	:		
+(17)																																														 ds2 = (dx°)2 − (dx1)2 − (dx2)2 − (dx3)2		
+x°	est	alors	la	«	variable	chronologique	».		
+	
+Ici	je	resterai	très	schématique,	me	contentant	de	donner	des	règles.		
+La	Relativité	Générale	s’écrit	en	utilisant	des	tenseurs	qui	s’expriment	sous	forme	de	
+matrices	(4,4)	selon	leurs	différentes	représentations.		
+Le	contenu	en	énergie-matière	sera	décrit	à	l’aide	d’un	tenseur	T	qui	aura	trois	formes	
+d’expressions	matricielles	différentes	:		
+Tµν			covariante	
+ Tµν	contravariante	
+ν		«	mixte	»	
+
+Toutes	ces	expressions	seront	prises	sous	forme	de	matrices	diagonales.		
+
+Manipulations	de	tenseurs.		
+
+1
+0
+0 −1
+0
+0
+0
+0
+
+0
+0
+0
+−1
+
+0
+0
+−1
+0
+
+ηµν =
+
+T µ
+ 
+
+		
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎠
+
+ 
+
+ 
+
+ 
+
+ 
+
+g µ
+ 
+
+R µ
+ 
+
+	
+6	
+L’aspect	géométrique	sera	pris	en	charge	par	le	tenseur	de	Ricci	 R	,	sous	ses	trois	
+formes	:		
+
+Rµν			covariante	
+ Rµν	contravariante	
+ν		«	mixte	»	
+Même	chose	:	formes	diagonales.		
+Le	tenseur	métrique	aura	les	mêmes	trois	expressions	:		
+gµν			covariante	
+ gµν	contravariante	
+ν		«	mixte	»	
+On	a	:		
+µ		(	symboles	de	Kronecker	ou	matrice	unité	)	
+Les	équations	de	la	Relativité	Générale	s’écrivent	sous	forme	tensorielle,	comme	:		
+G µν = χTµν		
+ G µν = χTµν	
+ν	
+		
+En	fait	c’est	la	même	égalité	de	tenseurs			:	 G = χT	écrite	sous	trois	formes	différentes.	
+L’équation	d’Einstein	s’écrira	sous	ces	trois	formes.	Pourquoi	choisit-on	une	forme	
+plutôt	qu’une	autre	?	Pour	des	commodités	de	calcul.	Les	calculs	de	RG	sont	fastidieux	et	
+on	opte	sur	ce	qui	pose	le	moins	de	soucis.		
+	
+On	montre	que	cela	se	fait	en	utilisant	le	«	tenseur	métrique	».		
+Prenons	le	tenseur	impulsion-énergie,	écrit	par	exemple	sous	sa	forme	mixte	(	c’est	alors	
+la	plus	simple	)		:		
+(18)	
+
+gµµ						et				
+
+Comment	passer	d’une	forme	à	une	autre	?		
+
+G µ
+ν = χTµ
+ 
+
+g µ
+µ =δµ
+ 
+
+gµµ =
+ 
+
+1
+
+ 
+
+	
+
+7	
+
+o
+
+	
+
+ 
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+−
+
+−
+
+=
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+p
+c2
+
+p
+c2
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟⎟
+⎠
+
+0 −
+
+Tµ
+ν =
+
+T o
+0
+0
+0
+
+0
+0
+0
+T 3
+3
+
+ρ 0
+p
+c2
+
+0
+0
+0
+T1
+1
+0 T 2
+2
+0
+0
+
+	
+		ρ	c’est	la	masse	volumique,	en	kilos	par	mètres	cubes	et	p	c’est	la	pression.		
+Remarque	:	
+En	multipliant	par	la	constante	d’Einstein	χ	on	aura	le	second	membre	de	l’équation	
+(écrite	sous	forme	mixte).	Je	n’écris	pas	le	premier	membre	pour	le	moment.		
+Il	y	a	deux	écoles	pour	l’écriture	de	ce	tenseur.	Celle-ci	convient	si	la	constante	d’Einstein	
+est	
+	alors	le	tenseur	s’écrit	comme	indiqué	plus	haut.	C’est	le	mode	d’écriture	
+pour	lequel	j’ai	opté,	qui	est	aussi	celui	de	l’ouvrage	d’Adler	Schiffer	et	Bazin,	que	je	cite	
+toujours	en	référence,	pour	garder	une	cohérence	dans	les	notations.		
+	(	c’est	la	mode	maintenant	)	alors	ce	tenseur	devient	:	
+Mais	si	on	décide	que		
+(19)		
+
+8πG
+c2
+
+8πG
+c4
+
+χ= −
+ 
+
+χ= −
+ 
+
+Tµ
+ν = =
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+ρc2
+0
+0
+0
+
+0
+− p
+0
+0
+
+0
+0
+− p
+0
+
+0
+0
+0
+− p
+
+	
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+ 
+
+Qu’est-ce	qu’on	remarque	?		
+Que	 ρc2est	une	densité	d’énergie	par	mètre	cube.	Et	p	est	aussi	une	densité	d’énergie	
+par	mètre	cube.	La	pression	p	c’est	une	quantité		de	Newtons	par	mètre	carré,	mais	c’est	
+aussi	des	joules	par	mètre	cube.	
+Cela	pour	illustrer	l’idée	que	les	termes,	dans	ce	tenseur,	sont	tous	de	même	dimension.		
+Je	 reviens	 à	 mon	 problème	:	 comment	 obtenir	 des	 formes	 covariante	  
+Tµνet	
+contravariante	 Tµν	?		
+ν	à	 
+Pour	passer	de	
+Tµνil	faut	 descendre	un	indice.	Et	pour	cela	on	utilise	la	matrice	
+métrique	(diagonale)	sous	sa	forme	covariante	 
+gµν.		
+
+Tµ
+ 
+
+	
+8	
+En	écrivant	les	choses	avec	rigueur	cela	donnerait	:	
+α gαν	
+(20)																																																															
+ce	qui	veut	dire	qu’on	somme	sur	puisque,	convention	d’Einstein,	cet	indice	figure	à	la	
+fois	en	haut	et	en	bas	dans	cette	expression.	
+De		manière	plus	rustique	j’écrirai	:		
+(21)	
+
+Tµν = T µ
+ 
+
+Tµν =
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+ρc2
+0
+0
+0
+
+0
+− p
+0
+0
+
+0
+0
+− p
+0
+
+0
+0
+0
+− p
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+×
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+goo
+0
+0
+0
+
+0
+g11
+0
+0
+
+0
+0
+g22
+0
+
+0
+0
+0
+g33
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+⎟	
+
+ 
+
+On	se	servira	plus	loin	d’une	métrique	particulière	qui	est	la	métrique	correspondant	à	
+un	solution	stationnaire	à	symétrie	sphérique	et	qui	s’écrit	:		
+(22)																																								 ds2 = eν(dx°)2 − eλdr2 − r2dθ2 − r2 sin2θdϕ2		
+où	ν	et	λ	sont	des	fonctions	de	r.	Cette	notation	a	un	siècle	d’âge.	Elle	a	été	introduite	
+par	des	gens	qui	pensait	que	cela	serait	une	bonne	idée	de	conserver	la	signature	de	
+cette	métrique.	En	effet	si	ν	et	λ	sont	réels,	alors	les	fonctions	 eνet	 eλsont	strictement	
+positives.	Cela	nous	amène	à	écrire	la	matrice	métrique	sous	sa	dorme	covariante	:		
+(23)
+																																								 
+⎟	
+et	on	obtient	la	forme	covariante	du	tenseur	énergie-impulsion	:		
+	
+(24)																																						
+On	va	maintenant	construire	la	forme	contravariante	du	tenseur	 T.	Pour	cela	il	faut	
+«	monter	un	indice	»	et	pour	ce	faire	on	va	utiliser	la	métrique,	écrite	sous	sa	forme	
+contravariante.	Les	termes	de	celle-ci	sont	simplement	inverses	de	ceux	de	la	forme	
+covariante,	c’est	à	dire	que	:	
+
+ρeν
+0
+0
+0
+
+0
+−eλ
+0
+0
+
+0
+peλ
+0
+0
+
+0
+0
+−r2
+0
+
+0
+0
+pr2
+0
+
+−r2 sin2θ
+
+pr2 sin2θ
+
+eν
+0
+0
+0
+
+gµν =
+
+Tµν =
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+0
+0
+0
+
+0
+0
+0
+
+ 
+
+ 
+
+1
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+−
+
+−
+
+0
+0
+
+−e−λ
+
+gµν =
+
+e−ν
+0
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+9	
+
+r2 sin2θ
+
+0
+0
+1
+r2
+
+	
+(25)																																										
+	
+Et	on	aura	la	forme	contravariante	 Tµνdu	tenseur	énergie	impulsion	:	
+(26)
+																																								
+A	propos,	je	pourrais	appliquer	cette	technique	de	montée	et	de	descente	d’indice	au	
+tenseur	métrique	lui-même	et	je	vois	que	le	produit	de	la	forme	covariante	par	la	forme	
+contravariante	me	donne	la	matrice	unité	:		
+(27)								
+
+r2 sin2θ
+
+0
+0
+p
+r2
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜⎜
+⎝
+
+1
+goo
+
+Tµν =
+
+1
+g11
+
+ρe−ν
+
+pe−λ
+
+0
+0
+
+	
+
+	
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+p
+
+ 
+
+=
+
+×
+
+0
+
+0
+
+1
+g22
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎝
+
+1 0 0 0
+0 1 0 0
+0 0 1 0
+0 0 0 1
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎠
+
+goo
+0
+0
+0
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+0
+g11
+0
+0
+
+0
+0
+g22
+0
+
+0
+0
+0
+g33
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+ 
+
+0
+
+0
+
+0
+
+Donc	la	forme	mixte	de	la	matrice	métrique	
+
+Mais	au	fait,	puisque	j’ai	monté	on	descendu	un	indice	ceci	c’est	autre	que	
+ν		
+νest	la	matrice	identité	δµ
+ν	
+A	stocker	dans	un	coin	de	votre	tête.		
+Continuons	à	approcher	les	problèmes	en	douceur.	L’équation	d’Einstein	est	donc	une	
+équation	traduisant	l‘égalité	 G = χT		et	qui	peut	s’écrire	de	trois	façons,	strictement	
+équivalentes	:		
+(28)																																																																							 
+(29)																																																																							
+
+G µν = χTµν		
+ν		
+
+gµ
+ 
+
+gµ
+ 
+
+G µ
+ν = χTµ
+ 
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟⎟
+⎠
+
+0
+
+1
+g33
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜⎜
+⎝
+
+ 
+
+	
+10	
+(30)																																																																					 G µν = χTµν		
+Des	équations	qui	produiront	la	même	solution	métrique,	sous	trois	formes	différentes.		
+Maintenant	on	va	considérer	ce	mystérieux	tenseur	de	Ricci,	dont	les	composantes	se	
+calculent	à	partir	du	tenseur	métrique.	On	expliquera	pas	comment	car	c’est	long	et	
+fastidieux.	Plus	loin,	on	ne	fournira	que	le	résultat.	Un	tenseur	de	Ricci	qui	existe	
+évidemment	lui	aussi	sous	trois	formes.	Connaissant	l’une	d’elle	on	peut	en	déduire	les	
+deux	autres	et	utilisant	le	tenseur	métrique	pour	des	montées	ou		descentes	d’indices.		
+	
+Le	scalaire	de	Ricci	:	
+On	le	calcule	à	partir	du	tenseur	de	Ricci	et	de	la	métrique,	selon	:		
+R = Rµνgµν		
+(31)																																																																		
+Il	nous	manque	encore	un	outil	supplémentaire.	Reprenons	la	métrique	de	la	sphère	:		
+(32)																																																		 ds2 = R 2dθ2 + R 2 sin2θdϕ2		
+Si	ce	considère	l’élément	de	surface	correspondant	à	ces	deux	accroissements,	il	vaut	:		
+(33)																																			 dσ = ( R dθ)×( R sinθdϕ) = R 2 sinθdθdϕ		
+Le	déterminant	de	la	métrique	est	:		
+(34)																																																							
+g = det(gµν) = R 4 sin2θ		
+Alors		
+(35)																																																													 dσ = g dθdϕ	
+Eh	bien	cette	loi	est	générale.	Si	vous	repreniez	par	exemple	la	métrique	du	tore,	qui	doit	
+traîner	quelque	part	dans	une	de	les	vidéos	;	Si	vous	voulez	évaluer	le	bout	de	surface	
+qui	correspond	à	 (θ, dθ,ϕ, dϕ)	ça	sera	
+dσ = det (gµν) dθdϕ		
+On	va	pousser	es	choses	plus	loin	et	considérer	la	métrique	3D	:	
+(36)																																			 ds2 = R 2du2 + R 2dθ2 + R 2 sin2θdϕ2	
+L’élément	de	volume	sera				
+d3x = R3 sinθdudθdϕ= det gµν dudθdϕ		
+Et	on	peut	même	pousser	jusqu’à	du	4D	en	écrivant	:		
+d4v = −det gµν dx°dx1dx2 dx3 = d4x	
+(37)																																										
+		
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+D4∫
+
+D4∫
+
+S =
+ 
+
+R −g
+
+δS =δ R −g
+ 
+
+L’Action	d’Einstein-Hilbert	
+
+	
+11	
+R −det gµν	où	R	est	le	
+Nous	voilà	au	bout	de	nos	peines.	On	va	fabriquer	une	quantité		
+scalaire	de	Ricci.	Ca	ressemble	à	une	espèce	de	densité	de	courbure	4D.	Et	avec	ça	
+Hilbert	fabrique	l’action	:		
+(38)																																																															
+d4x		
+Elle	est	prise	dans	un	domaine	D4,	un	domaine	à	quatre	dimensions.		Il	applique	alors	
+une	méthode	variationnelle.	Quelle	est	l’inconnue	?	C’est	la	métrique	qui	structure	ce	
+domaine.	Ces	métriques	solutions	selon	telles	que	:		
+d4x = 0	
+(39)																																																							
+La	première	solution	c’est	la	métrique	de	Lorentz	(16).	Vous	remarquez	au	passage	que	
+la	racine	carré	de	moins	sont	déteminant	donne	1.		
+Donc	l’élément	d’hypervolume	de	la	métrique	de	Lorentz,	de	l’espace	4D	de	Minkowski		
+est		
+(40)																																																								 d4v = dx° dx1 dx2 dx4		
+C’est	un	bête	hypercube.	C’est	aussi	une	indication	que	l’espace	structuré	par	cette	
+métrique	est	«	plat	».	La	somme	des	anges	d’un	triangle	tracé	avec	trois	géodésiques	
+vaut	π	.	L’espace	de	Minkoski	est	«	non	courbe	».	
+Quand	on	a	sous	les	yeux	la	façon	dont	on	calcule	le	tenseur	de	Ricci	on	voit	qu’il	est	fait	
+avec	des	dérivées	de	coefficients	de	la	métrique.		Or	dans	la	métrique	de	Lorentz	ces	
+coefficients	sont	constants.	Donc	le	tenseur	de	Ricci	est	nul	et	ça	colle	avec	l’équation	
+(39).	Mais	ça	n’est	pas	la	seule	solution.	Il	faut	alors	expliciter	:		
+(41)					
+gµν + Rµνδgµν −g + Rµνgµνδ −g ) d4x = 0	
+Vous	trouverez	le	détail	de	ce	calcul	aux	pages	359	et	360	du	Adler	Schiffer	et	Bazin.	On	
+a	trois	intégrales.	La	première	est	nulle.	Et	on	montre	que	:		
+−g gµνδgµν	(	c’est	l’équation	(11.30)		)		
+(42)																																							
+Voyons	ce	qui	reste.		
+R gµν ) −gδgµν d4x = 0	
+(43)																																													
+qui	sera	satisfaite	si	:		
+R gµν = 0 	
+(44)																																																														
+
+D4∫
+δ Rµνgµν −g
+ 
+
+δ −g = −
+ 
+
+(δRµν
+
+Rµν −
+
+Rµν −
+
+d4x =
+
+D4∫
+
+D4∫
+
+1
+2
+
+1
+2
+
+(
+
+ 
+
+1
+2
+
+ 
+
+	
+12	
+Et	voilà	la	première	équation		trouvée	par	Einstein,	sans	second	membre.	C’est	avec	elle	
+qu’il	pourra	calculer	l’avance	du	périhélie	de	Mercure	et	c’est	également	à	partir	de	cette	
+équation	que	Schwarzschild,	mobilisé	sur	le	front	russe	en	1917,	trouvera	sa	première	
+solution.		
+On	peut	faire	une	analogie	avec	le	film	de	savon.	Dans	le	pdf	du	Voyage	de	Nicolas	
+Bourbakof	:		
+		Dans	ce	cas	l’intégrale	d’action	était	la	surface	s’appuyant	sur	deux	cercles	:		
+
+http://ww.jp-petit.org/papers/bourbakof_fr.pdf	
+
+	
+
+	
+
+On	procédait	par	méthode	variationnelle	en	faisant	varier	la	fonction	f(x)	représentant	
+la	courbe	de	la	méridienne	de	cette	surface,	de	révolution,	si	les	deux	cercles	sont	
+coaxiaux.	
+
+C’est	à	dire	qu’on	faisait	:		
+dx = 0	
+ce	qui	nous	conduisait	à	l’équation	différentielle	:		
+ 1+ f ' 2 − f f " = 0	
+qui	donnait	l’aire	minimale,	correspondant	à	l’équation	de	la	méridienne	:		
+
++l∫
+δ f
+ 
+−l
+
+1+ f ' 2
+
+	
+correspondant	à	la	courbe	:		
+
+	
+
+f (x) =
+ 
+
+esx + e−sx
+
+s
+
+13	
+
+	
+
+gµν	correspondante	et	le	tenseur	de	Ricci	 
+
+Ceci	est	une	surface	2D.	A	partir	de	l’équation	de	la	méridienne	on	peut	calculer	la	
+métrique	 
+Rµν	qui	en	découle	(ce	que	je	ne	fais	
+pas).		
+Je	conjecture	que	l’équation	de	la	surface	devrait	correspondre	à	une	équation	 
+(ce	qui	serait	à	vérifier,	mais	je	laisse	à	d’autres	le	soin	de	le	faire).		
+Peut-on	modifier	le	profil	de	cette	surface	?		
+Imaginons	qu’on	plonge	dans		cette	eau	savonneuse	non	deux	cercles,	mais	deux	
+cylindre	coaxiaux	bordés	chacun	par	deux	cercles	de	même	diamètre.	Quand	les	
+cylindres	sont	immergés,	deux	cercles-bord	sont	en	coïncidence.	Puis	on	les	écarte.	On	
+devrait	retrouver	le	même	problème,	avec	la	même	solution	:		
+
+Rµν = 0
+
+	
+Mais	ce	système	devrait	permettre,	en	adaptant	des	embouts,	de	modifier	la	différence	
+de	pression	de	part	et	d’autre	du	film	de	savon,	en	modifiant	sa	forme.		
+Avec	deux	situations	extrêmes,	se	traduisant	par	des	inexistences	de	solutions.	Une	
+recherche	théorique	qui	s’accompagnerait	du	travail	expérimental.		
+
+	
+
+14	
+
+	
+
+ 
+
+Rµν =Tµν	
+
+Je	conjecture	que	la	solution	correspondrait	alors	à	une	équation	tensorielle	du	type	:		
+Le	second	membre	comprenant	la	différence	de	pression	entre	l’intérieur	et	l’extérieur	
+du	film	de	savon.		
+Un	étudiant	pourra	alors	approcher	ce	problème	par	méthode	variationnelle	en	
+construisant	l’action	dont	découle	une	telle	équation.	Il	ne	s’agit	plus	de	minimiser	la	
+surface,	mais	de	rendre	compte	de	l’équilibre	du	film	de	savon,	où	la	force	résultat	de	la	
+différence	de	pression	entre	les	deux	côtés	du	film	est	équilibré	par	les	forces	de	tension	
+superficielle	dans	le	film.	L’équation	serait	sans	doute	un	peu	plus	compliquée	que	ce	qui	
+est	écrit	ci-dessus,	mais	c’est	un	intéressant	problème	de	physique	mathématique.		
+A	travers	cette	image	on	percevra	la	non-linéarité	foncière	du	problème.	En	effet,	soit	p	
+la	différence	de		pression	appliquée.	On	pourrait	s’attendre	à	ce	que	la	problème	puisse	
+être	formulée	de	cette	façon	:		
+1	–	J’ai	une	surface,	un	film	de	savon,	qui	est	solution	de	 
+Rµν = 0	
+2	–	Ce	crée	une	différence	de	pression	p	qui	modifie	la	forme	du	film	et	que	je	traduis	par	
+Tµν = 0	construit	à	partir	de	cette	différence	de	pression.		
+l’adjonction	d’une	tenseur	 
+Rµν ← Tµν	
+3	–	La	nouvelle	forme	de	la	surface	se	déduit	de	:	 
+et	du	tenseur	de	Ricci	j’en	déduis	la	métrique	et	les	géodésiques-solutions	 
+gµν.	Mais	
+vous	voyez	de	suite	que	ça	n’est	pas	si	simple	et	qu’ainsi	le	problème	est	mal	posé.	En	
+effet	pour	évaluer	«	la	cause	»	vous	avez	besoin	de	calculer	la	résultante	des	forces	de	
+tension	sur	l’élément	du	film.	Et	pour	cela,	vous	devez	faire	intervenir	la	géométrie	de	la	
+surface.		
+
+	
+
+15	
+
+	
+
+)	
+
+Rµν(g
+ 
+
+Donc	ça	signifie	que	:		
+expression	de	la	non-linéarité	du	problème.		
+Ainsi	la	solution	de	la	Relativité	Générale	présente	des	analogies	avec	cette	histoire	de	
+surface	2D,	que	j’avais	déjà	évoquée	en	montrant	Lanturlu	modifiant	localement	la	
+géométrie	d’une	tôle	avec	un	jet	d’air	surchauffé	ou	au	contraire	plus	froid.	C’est	à	dire	
+en	concentrant	en	certains	endroits	plus	ou	moins	d’énergie.	Il	serait	tout	à	fait	possible	
+de	créer	en	image	de	synthèse	cet	image	d’une	surface	constitué	d’un	pavage	de	petits	
+éléments,	isolés	les	uns	des	autres,	qui	puisse	matérialiser	un	«	champ	de	tension	»	 
+Tµν.	
+L’isolation	empêcherait	la	conduction	de	la	chaleur	d’un	élément	à	l’autre.		
+
+) =Tµν( p,g
+
+µν
+
+µν
+
+	
+
+Une	sorte	de	nid	d’abeille	dont	les	cellules	seraient	isolées	les	unes	des	autres.	Si	ça	
+serait	compliqué	à	réalise	physiquement,	ça	serait	faisable	en	images	de	synthèses.	En	
+jouant	sur	la	quantité	de	chaleur	déposée	dans	chaque	cellule	on	pourrait	voir	la	surface	
+se	contorsionner	et	changer	de	forme.	Une	sorte	d’expérience	(de	pensée)	de	géométrie	
+différentielle.		
+En	fait	on	pourrait	aussi	envisager	un	dispositif	expérimental	avec	des	pavages	
+hexagonaux		joints	par	un	matériau	suffisamment	isolant	pour	que	la	conduction	reste	
+
+ 
+
+1
+2
+
+Rµν −
+
+	
+16	
+faible,	d’élément	à	éléments	adjacents.	On	pourrait	communiquer	de	la	chaleur	à	chaque	
+élément	en	y	immergeant	une	résistance	électrique	alimentée	par	un	fil.	Du	froid	;	ça	
+serait	un	peu	plus	compliqué.	Il	faudrait	des	micro-tubulures.	Mais	nous	vivons	à	l’ère	
+des	nanotechnologies.	On	pourrait	alors	créer	des	champs	de	dilatation	à	volonté,	et	voir	
+la	surface	se	contorsionner	en	conséquence.		Au	passage	son	comportement	mécanique	
+serait	modifié.	Un	tel	«	matériau	intelligent	»	pourait	,	avec	un	temps	de	réponse	adapté,	
+suffisamment	court,	réagir	en	interdisant	la	propagation	de	trains	d’ondes	en	son	sein.	
+Avant	même	qu’on	dispose	de	la	technologie	ad	hoc,	ces	simulations	numériques	
+pourraient	être	à	même	d’orienter	des	recherches.		
+Avec	cette	image	vous	pouvez	comprendre	que	l’adjonction	d’un	second	membre	dans	
+l’équation	d’Einstein	modifie	la	forme	de	l’hypersurface	4D1.		
+(45)																																																					
+R gµν = χTµν 		
+Toujours	est-il	que	cette	équation	dérive	d’une	action,	celle	d’Einstein-Hilbert,	qui	s’écrit	
+comme	cela2	:		
+(46)																																																					
+d4x		
+Dans	les	méthodes	variationnelles,	l’action	s’écrit	:		
+(47)	
+	
+A	dessin,	je	n’ai	pas	pris	la	même	police	de	caractère	pour	cette	lettre	L ,	qui	est	alors	le	
+Lagrangien.	Dans	 ( R − χL) − g	on	parle	alors	de	«	densité	Lagrangienne	».	Ce	qui	est	
+mis	dans	l’intégrale	d’action	et	qui	déterminera	la	forme	de	l’hypersurface	4D	solution,	
+s’appuyant	sur	son	contour	D4.		Et	c’est	en	écrivant	:		
+d4x = 0	
+(48)																																																			
+qu’on	tombe	sur	l’équation	d’Einstein	(45).		
+		
+Einstein	n’a	pas	construit	son	équation	en	partant	de	l’action.	C’’est	l’inverse	qui	s’en	
+produit.	Et	c’est	ce	qui	se	produit	en	général.	Quand	Maxwell	a	écrit	ses	équations	en	
+																																																								
+1	En	prenant	l’exemple	de	la	non	linéarité	du	problème	du	film	de	savon	cela	permet	
+d’évoquer	celui	de	l’équation	d’Einstein.	Pour	ceux	qui	veulent	aller	plus	loin,	voir	les	
+pages	366	à	370	du	Adler	Schiffer	et	Bazin,	avec	l’introduction	d’un	«	pseudo-tenseur	»	
+ν	,	qui	montre	que	donnant	au	second	membre	la	forme	(19)	on	escamote	en	quelque	
+sorte	cette	non-linéarité.		
+2	Adler,	Schiffer	et	Bazin,	équation	(11.111)	page	377	
+
+La	contrainte	mathématique	de	l’équation	d’Einstein	
+
+D4∫
+δ ( R − χL) −g
+ 
+
+( R − χL) −g
+
+J =
+ 
+
+D4∫
+
+t µ
+ 
+
+	
+17	
+1862,	le	concept	d’action	lui-même	n’avait	pas	été	reconnu,	et	c’est	longtemps	après	
+qu’on	a	montré	que	ces	équations	pouvaient	émerger	d’une	technique	variationnelle	et	
+d’une	action.		
+
+	
+
+	De	même	c’est	Hilbert	qui	a	reconstruit	l’action	d’où	découlait	cette	équation	de	la	
+Relativité	Générale.		
+Pour	construire	son	équation	Einstein	a	procédé	différemment.	Il	a	d’abord	tenté	
+d’écrire	:		
+(49)																																																																 
+Rµν = χTµν	
+Puis	il	a	tenté	de	recoller	avec	la	physique	du	laboratoire,	non	relativiste.	Ca	paraît	
+logique.	Alors,	qu’est-ce	que	nous	dit	cette	physique	non	relativiste	?	Qu’il	y	a	des	choses	
+qui	se	conservent,	et	des	équations	de	conservation.	On	les	retrouve	en	écrivant	que	le	
+Tµν	est	«	à	divergence	zéro	»,	ce	qui	s’écrit	:		
+tenseur	 
+(50)																																																																		 ∇Tµν = 0	
+Pour	qu’on	retrouve	tout	cela	à	l’échelle	de	la	physique	du	laboratoire,	d’abord	avec		une	
+courbure	faible	(
+gµν !ηµν	:	métrique	de	Lorentz	)	puis	même	en	non-relativiste	(	v	<<	c	).	
+Il	fallait	donc	que	l’équation	(59)	aient	«	une	dérivation	covariante	nulle	»,	qui	est	
+l’équivalent	de	la	dérivation	précédemment	invoquée,	mais	en	espace	courbe.	Soit	un	
+tenseur	
+ν	.	On	écrit	que	sa	dérivation	covariante	est	nulle	comme	ceci	(une	des	
+multiples	notations):		
+(51)																																																																			
+Le	problème	est	que	la	dérivé	covariante,	la	divergence	du	tenseur	de	Ricci	c’est	pas	
+nulle.	Einstein,	qui	avait	récupéré	ce	tenseur	comme	on	farfouille	dans	une	boite	à	outils,		
+a	donc	bricolé	son	premier	membre	pour	que	l’ensemble	ait	une	divergence	zéro	et	ça	
+lui	a	donné	:	
+
+ν	
+
+ ∂νAµ
+
+Aµ
+ 
+
+  
+
++
+
+R
+
+1
+2
+
+1
+2
+
+−
+ 
+
+D4∫
+
+D4∫
+
+D4∫
+
+D4∫
+
+Rµν
+
+J =
+ 
+
+d4x =
+
+gµν d4x =
+
+Rµν −
+ 
+
+18	
+
+D4∫
+δ Rµν
+ 
+
+Rµνδgµν d4x
+
+δRµνgµν d4x
+
+= 0	
+
+gµν d4x	
+
+	
+(51)																																																								
+R gµν = χTµν	
+Voilà	d’où	vient,	chez	lui,	ce	terme		
+R gµν	
+D’une	démarche	de	physicien.	Car	Einstein	était	un	physicien	génial,		pas	un	
+mathématicien.			Le	matheux	(également	génial),	c’était	Hilbert.	Celui-ci	raisonnait	en	
+terme	d’action	,	de	dérivation	variationnelle.		
+Essayons	avec	une		action		
+(52)																																																
+La	variation	donne	:		
+(53)																									
+Il	se	trouve	que	la	première	intégrale	est	nulle,	donc	cette	approche	fournit	l’équation	de	
+champ	:		
+(54)																																																																				 
+Il	est	possible	que	cela	soit	ce	qu’a	fait	Hilbert.	A	ce	moment	il	s’est	dit	«		Teufel	!	je	ne	
+retrouve	pas	l’équation	de	ce	maudit	physicien	autrichien	!	Que	faire	?		»	
+La	solution	a	été	de	mettre	dans	l’intégrale	non	simplement	le	scalaire	de	Ricci,	mais	une	
+densité	Lagrangienne	,	en	écrivant	:		
+	(55)																																																									
+d4x	
+Et	à	ce	moment	l’approche	variationnelle	donne	:		
+(56)																																																									
+R gµν = 0	
+En	passant	à	l’action		
+(57)																																																									
+On	obtient	l’équation	d’Einstein	:		
+			(58)																																																												
+Et	tout	rentre	dans	l’ordre.		
+Au	passage,	vous	savez	qu’en	essayant	de	construire	un	modèle	d’univers	stationnaire	
+Einstein	a	eu	un	souci.	Cet	univers	s’effondrait	sur	lui-même	instantanément.	C’est	alors	
+qu’Hilbert	lui	a	dit	:		
+
+d4x	
+R gµν = χTµν	
+
+Rµν = 0	
+
+( R − χL) −g
+
+Rµν −
+ 
+
+Rµν −
+ 
+
+R −g
+
+S =
+ 
+
+J =
+ 
+
+D4∫
+
+D4∫
+
+1
+2
+
+1
+2
+
+	
+
+1
+2
+
+Rµν −
+ 
+
+multipliée	par	le	tenseur	métrique,	comme	ceci	:		
+
+													et	je	vais	vous	fabriquer	l’action	qui	va	avec.		
+
+R gµν + Λ gµν = χTµν	
+
+19	
+-  Mon	 cher,	 vous	 n’avez	 qu’à	 refaire	 le	 même	 coup.	 Vous	 rajoutez	 une	 constante,	
+	
+			(59)																																																												
+Avec	cet	exemple	de	cette	collaboration	entre	Einstein	le	physicien	et	Hilbert	le	
+mathématicien,	vous	avez	un	exemple	qui	illustre	la	création	d’équations	à	partir	de	faits	
+expérimentaux	et	observationnels	et	la	création	d’actions	à	partir	de	considérations	
+purement	géométriques,	ces	démarches	n’étant	pas	automatiquement	synchrones.	
+Avec	Maxwell	(	et	évidemment	avant	celui-ci,	Newton	)	vous	avez	un	exemple	du	génie	
+des	physiciens	anglais.	Et	si	vous	regardez	les	dates,	vous	constatez	encore	une	fois	que	
+la	physique	anglaise	était	au	dix-neuvième	siècle	une	véritable	forge	d’où	émergaient	
+des	fantastiques	outils.		
+Einstein	et	Hilbert	(	et	bien	d’autres	à	cette	époque	)	continuent	dans	cette	veine.	Puis	le	
+XX°	siècle	voit	émerger	la	mécanique	quantique	(exploitant	cet	autre	outil	que	
+constituent	les	espaces	de	Hilbert).	De	manière	sous-jacente,	c’est	toujours	cette	idée	
+d’action	et	de	principe	variationnel	qui	est	le	fil	conducteur,	jusqu’à	Feynmann,	avec	ses	
+intégrales	de	chemin.	
+Puis	la	source	semble	se	tarir,	l’intuition	créatrice	disparaît.	Alors,	que	vont	nos	
+modernes	physiciens	théoriciens,	et	…	cosmologistes	?	Il	perdent	le	contact	avec	
+l’observation,	et	se	lancent	dans	une	sorte	de	rêverie.		
+Arthur	Koestler	avait	écrit	un	célèbre	ouvrage	intitulé	«	Les	Somnambules	».	Il	y	
+montrait	que	les	grands	novateurs	ressemblent	à	ces	somnambules	qui	avancent	à	
+tâtons	dans	l’obscurité.	On	ne	sait	pas	pourquoi,	certains,	soudain,	certains	s’engagent	
+dans	des	voies	nouvelles,	insoupçonnées,	sans	qu’on	sache	ce	qui	les	guide,	pourquoi	ils	
+empruntent	ce	couloir	plutôt	qu’un	autre,	dans	le	dédale	de	la	connaissance.	Quitte	tout	
+d’un	coup,	comme	il	me	montrait,	à	louper	la	bonne	correspondance	et	à	s’entêter	sans	
+une	impasse,	alors	qu’ils	passent	à	côté	d’un	nouveau	couloir,	de	la	suite	logique	de	leur	
+démarche.		
+Quelles	sont	les	voies	suivies	par	nos	modernes	physiciens	théoriciens	?	Si	vous	écoutez	
+un	type	comme	Michael	Green	(«	l’univers	élégant	»,	1999,	un	best	seller	mondial)	il	
+vous	dira	que	les	théories	physiques	que	lui	et	ses	pareils	sont	en	train	d’élaborer	(la	
+théorie	des	cordes)	sont	si	en	avance	que	leur	confirmations	observationnelles	ou	
+expérimentales	n’émergeront	peut	être	que	dans	des	siècles	(…).	Si	vous	lisez	ou	relisez	
+cet	ouvrage	vous	y	trouverez	une	suite	ininterrompue	de	ce	qui	ne	mérite	pas	d’autre	
+qualificatif	que	de	bouffonneries.		
+Une	démarche	totalement	stérile,	qui	a	empoisonné	la	physique	théorique	pendant	un	
+demi	siècle.		
+
+	
+
+20	
+
+	
+
+pourraient	 se	 trahir	 lorsqu’elles	 s’enroulent	 sur	 elles-mêmes	 et	 claquent	 à	 la	
+manière	 de	 fouets.	 Loin	 dans	 le	 temps,		 tels	 des	 fouets	 qui,	 à	 la	 fin,	 laissent	 leur	
+marque,	de	gigantesques	cordages	claquent.	Alors	l’espace	se	crée	(…).		
+
+Dans	ce	style,	tout	le	monde	s’y	est	mis.	Citons	cette	phrase	grandiloquente	de	
+l’académicien	Thibaud	Damour,	dans	le	numéro	de	juillet	2005	de	Science	et	vie	:		
+-  L’annihilation	de	branes	aurait	pu	donner	naissance	à	des	cordes	gigantesques,	qui	
+	
+La	physique	d’aujourd’hui	:	L’intuition	est	morte.	Il	ne	reste	que	du	vide	et	des	mots,	
+beaucoup	de	mots.	De	la	grandiloquence,	partout,	dans	tous	les	pays,	pour	masquer	le	
+vide	qui	est	derrière.		
+		
+	Je	vais	vous	donner	un	exemple	qui	est	l’article	de	40	pages	publié	en	2002	par	
+Thibaud	Damour	dans	la	prestigieuse	revues	Physical	Review	D,	figurant	en	annexe	de	
+ce	pdf,	pour	que	vous	puissiez	suivre.		
+	
+
+De	la	physique	à	deux	branes.		
+
+	
+
+21	
+
+	
+
+	
+
+	Pourquoi	«		Bigravity	»	?	Parce	que	Damour	considère	deux	«	branes	».		
+	Je	ne	vais	rien	inventer,	mais	simplement	traduire	les	phrases	qui	émaillent	cet	article.		
+Dans	l’introduction,	vous	pouvez	lire	:		
+
+	Je	traduis	:		
+
+La	modification	de	la	Relativité	Générale	que	nous	allons	considérer	est	issue	
+de	la	«	gravité	massique	»,	en	tenant	compte	de	gravitons	de	très	faible	masse	
+(lesquels	ont	alors	une	longueur	de	Compton	associée	qui	est	comparable	à	la	
+taille	de	l’univers).		
+
+	
+
+Une	prédiction	générale	à	propos	de	ces	constructions	multidimensionnelles	
+est	l’existence	de	gravitons	dotés	d’une	masse.	En	particulier	tout	modèle	de	
+Kaluza-Klein	 prédit	 qu’il	 existe,	 en	 dehors	 des	 gravitons	 de	 masse	 nulle,	 un	
+spectre	infini	de	gravitons	dotés	d’une	masse.			
+
+Et	cela	alors	que	l’existence	du	graviton	n’est	nullement	établie.	Mais	Damour	ne	s’arrête	
+pas	à	ce	détail.	Continuons.		
+
+22	
+
+	
+
+Lorsqu’on	 considère	 les	 théories	 où	 l’univers	 est	 doté	 de	 dimensions	
+supplémentaires	ceci	débouche	sur	une	spectre	infini	de	masse	de	gravitons.		
+
+En	 même	 temps	 que	 nous	 nous	 situerons	 dans	 le	 contexte	 de	 modèle	
+multidimensionnels,	
+celui	 des	 branes,	 dotées	 d’une	
+multilocalisation,	voire	d’une	quasi-localisation	(…),	nous	prendrons	en	charge	
+l’image	de	Mondes	faiblements	couplés.		
+
+en	 particulier	
+
+			C’est	très	simple	(…).	On	considère	qu’il	y	a	plusieurs	univers,	numérotés	de	1	à	
+gµν 	et	 leur	 propre	 distribution	 de	
+N,	 qui	 ont	 chacun	 leur	 propre	 métrique	 
+matière,	 et	 qui	 sont	 couplés	 à	 travers	 un	 certain	 mélange	 de	 leurs	 champs	
+gravitationnels.		
+
+Un	peu	plus	loin	:		
+
+Traduction	:		
+
+	
+Un	 théorème	 récent	 (10)	(et	là,	il	se	cite	lui-même)	 a	 montré	 que	 la	 seule	
+
+théorie	 non-linéaire	 cohérente	 avec	 N	 gravitons	 sans	 masse	 reposait	 sur	 la	
+somme	de	N-	actions	du	type	de	celle	de	la	Relativité	Générale.		
+
+	
+23	
+Et	là	vous	reconnaissez	dans	(2)	l’action	S,	l’élément	de	volume,	un	scalaire	de	Ricci	par	
+univers,	un	Lagrangien	L	et,	pour	faire	bonne	mesure,	une	constante	cosmologique	par	
+univers.		
+Plus	loin	:		
+
+Pour	plus	de	simplicité	(…),	dans	ce	papier,	nous	nous	concentrerons	sur	le	cas	
+d’une	«	bigravité	»,	avec	N	=	2.		Comprendre	ce	qui	se	passe	avec	deux	branes	
+est	un	prérequis	pour	comprendre	une	multigravité	générale,	à	N	branes	(…).		
+
+Bien	sûr	….	
+
+	
+
+	
+
+Donc,	quand	N	=	2	nous	utiliserons	l’indice	L,	left	(gauche)	pour	une	des	branes	
+et	R	(Right)	pour	l’autre	brane.	L’action	générique	de	la	bigravité	est	donc	:			
+
+	
+Les	deux	premières	lignes	ce	sont	deux	copies	de	l’action	classique	de	la	Relativité	
+Générale.	A	cela	il	ajoute	un	«	terme	d’interaction	»	et	pour	que	cela	ressemble	à	une	
+densité	Lagrangienne	il	faut	trouver	l’équivalent	du	classique		  − g	.	Alors	Damour	dit	
+qu’il	va	utiliser	un	«	volume	moyen	»	en	prenant	  gR gL
+	.	Autrement	dit	il	prend	la	
+racine	quatrième	du	produit	des	déterminants	des	deux	métriques.	Quelle	est	la	
+signification	géométrique	d’un	tel	terme	?	Mystère.	On	est	dans	le	bricolage	complet.		
+Où	se	situe,	dans	cette	bouillie,	cette	logorrhée,	la	cohérence	physique	et	mathématique	?	
+Souriau	avait	raison	quand	il	qualifiait	le	physique	théorique	contemporaine	de	
+physique	sans	expérience	et	de	mathématique	sans	rigueur.		
+
+4
+
+	
+24	
+Si	on	effectue	ensuite	une	dérivation	de	l’action	on	va	tomber	sur	deux	équations	qui	
+contiennent	chacune	les	termes	qui	émergent	de	la	présence	des	deux	scalaires	de	Ricci,	
+de	la	constante	cosmologique	et	des	Lagrangiens	de	la	matière.	Voilà	donc	les	deux	
+équations	de	champ	couplées	qui	émergent	de	ce	Lagrangien	:		
+
+	
+Réécrivons-les	avec	les	notations	«	Janus	»	pour	pouvoir	ultérieurement	comparer.	Ca	
+s’écrit	:		
+
+Rµν
+(+) −
+
+R(+)gµν
+
+(+) + Λ(+)gµν
+
+(+) = T µν
+
+(+) + tµν
+(+)
+
+1
+2
+
+1
+2
+
+R(−)gµν
+
+(−) = T µν
+
+Rµν
+(−) −
+ 
+
+(−) + Λ(−)gµν
+
+	Tout	se	joue,	évidemment,	dans	ces	termes	de	couplage	
+.	La	suite,	il	y	en	a	sur	
+quarante	pages.	Damour	passe	en	revue	les	différences	«	modèles	».	Il	y	a	d’abord	les	
+branes,	bien	sûr.	Ensuite	on	évoque	les	modèles	de	Kaluza-Klein,	inspirés	de	la	théorie	
+des	cordes.		
+
+(−) + tµν
+(−)
+
+tµν
+(+)
+ 
+
+tµν
+(−)
+ 
+
+	
+	et	
+
+Je	traduis	:		
+
+Comme	il	a	été	dit	dans	l’introduction	et	illustré	sur	la	figure	1	on	s’attend	à	ce	
+que	les	modèles	génériques	du	type	de	Kaluza	Klein	créent	un	spectre	régulier,	
+
+	
+
+	
+
+exempt	de	gap,	où	on	peut	ranger	un	nombre	fini	de	gravitons	légers	et	les	
+séparer	ainsi	d’une	série	infinie	de	gravitons	lourds.	Nous	tenons	cependant	à	
+
+25	
+rappeler		que	dans	le	cadre	de	ces	modèles	de	Kaluza	Klein	il	existe	un	tel	gap	
+(	séparant	les	gravitons	légers	des	gravitons	lourds	…	)		
+	C’est	vraiment	de	la	pseudo	science,	avec	un	enchaînement	de	pseudo-résultats.	Qui	est	
+le	découvreur	qui	a	ainsi	démontré	l’existence	d’un	tel	gap	dans	le	spectre	infini	des	
+gravitons	massifs	?	C’est	Kogan,	le	cosignataire	de	cet	article.	C’est	grâce		à	ce	résultat	
+essentiel	que	Damour	peut	s’étendre	sur	quarante	pages,	en	pouvant	ainsi	se	restreindre	
+à	un	petit	nombre	de	gravitons	massifs,	au	milieu	d’une	infinité	….	
+On	apprend	au	passage	que	des	branes	pourraient	être	connectées	:		
+
+	
+A	gauche,	deux	branes	sur	le	point	de	se	séparer.	Mais	le	texte	précise	qu’elles	
+pourraient	rester	connectées	à	un	niveau	quantique	….	
+
+	
+
+26	
+
+	
+Je	n’ai	pas	le	courage	de	tout	traduire.	Vous	lirez.	Damour	rappelle	l’architecture	de	
+l’article,	les	hypothèses.	Un	travail	qui	évoque	«	l’existence	d’une	classe	de	solutions	
+compatibles	avec	notre	propre	univers	»	(…).	Puis	il	recense	la	longue	liste	des	
+problèmes	en	suspens.	Bien	entendu	il	n’émerge	strictement	rien	qui	puisse	être	
+confronté	à	une	observation,	qui	puisse	décrire	un	quelconque	phénomène.	Et	de	
+conclure,	je	cite	:		
+
+	
+
+27	
+
+la	 bigravité	 non	
+
+En	 supposant	 que	 tous	 ces	 problèmes	 soient	 résolus	 (…)	 ou	 simplement	 en	
+notant	 que	
+linéaire	 apporte	 un	 point	 de	 vue	
+phénoménologique	intéressant	(…)	et	un	nouveau	champ	d’investigation	vis	à	
+vis	d’effets	gravitationnels	non-standards,	nous	projetons	de	poursuivre	cette	
+investigation	 à	 travers	 de	 futures	 publications,	 en	 portant	 en	 particulier	
+l’attention	 sur	 les	 aspects	 cosmologiques,	 dans	 la	 mesure	 où	 ceci	 pourrait	
+fournir	un	candidat	naturel	pour	un	nouveau	type	d’énergie	noire.		
+
+	En	clair	zéro	résultat,	rien.	Quarante	page	de	vide	cosmique,	d’épistémo-blabla,	publié	
+dans	la	revue	la	plus	élitiste,	Physical	Review	D		(mais	dont	les	referees	sont	de	gens	
+comme	Damour).	
+Mais	ils	sont	légions	comme	ça.	Dans	ce	rayon	de	la	gravité	massique	il	y	a	l’anglaise	
+Claudia	de	Rahm,	d’Imperial	Collège.		
+
+	
+
+Comme	tous	ceux-là,	et	celles-là,		celle-ci	se	répand	à	perte	de	vue	en	conférences	et	en	
+prestations	dans	les	médias,	devant	un	public	en	extase.	Bien	sûr,	tous	insistent	sur	le	
+fait	qu’ils	travaillent	sur	une	question-clé	:	l’unification	entre	la	Relativité	Générale	et	la	
+Mécanique	Quantique	(c’est	également	ce	que	fait	Aurélien	Barrau).	Alors	qu’il	n’y	a	pas	
+eu	l’ombre	d’un	progrès	dans	ce	domaine	depuis	cinquante	ans.	Mais	ça	fait	très	chic	de	
+dire	cela.	Las,	la	«	gravité	quantique	»	reste	un	mot	dénué	de	contenu,	mais	ça	remplace	
+les	cordes,	en	perte	de	vitesse	depuis	quelques	années.	Les	journalistes	scientifiques,	
+évidemment	en	mal	de	copies,	pour	tenir	les	lecteurs	en	haleine,	présentent	tous	ces	
+gens	comme	de	successeurs	d’Einstein.		
+Ne	cherchez	pas	les	Fermat,	les	Lagrange,	les	Maxwell,	les	Newton,	les	Laplace	
+d’aujourd’hui.	L’intuition	scientifique	semble	avoir	aujourd’hui	déserté	les	cerveaux.		
+En	France,	pour	masquer	ce	vide	on	distribue	des	médailles	d’or,	des	prix,	on	attribue	
+des	distinctions,	on	pare	d’habits	rutilants		des	gens	dont	pas	un	ne	laissera	l’ombre	
+d’une	contribution	mémorable	dans	l’histoire	des	sciences	et	dont	les	écrits,	les	livres,		
+partiront	dans	les	poubelles	de	la	connaissance.		
+Depuis	un	demi	siècle	en	physique,	décidément				
+
+Au	royaume	des	aveugles,	les	borgnes	sont	rois.	
+
+28	
+
+	
+	7	janvier	2019	:	
+Cela	se	traduit	par	deux	documents.	Le	premier	est	un	rapport	que	Damour	publie	dans	
+sa	page	du	site	de	l’Institut	des	Hautes	Etudes	de	Bures	sur	Yvette,	téléchargeable	à	
+l’adresse	suivante	:		
+
+http://www.ihes.fr/~damour/publications/JanusJanvier2019-1.pdf	
+
+	Thibaud	Damour,	Luc	Blanchet	et	Nathalie	Deruelle	passent	à	l’attaque	
+
+	
+
+	
+	Le	second	est	une	lettre	recommandée	avec	accusé	de	réception	(…)	que	je	reçois	le	7	
+janvier	et	dont	voici	la	copie.		
+
+	
+
+		
+
+29	
+
+	
+
+	
+30	
+L’analyse	pondue	par	les	trois	est	à	leurs	yeux	si	imparable	qu’ils	l’ont	gravée	dans	le	
+marbre	en	l’inscrivant	dans	les	pages	du	site	de	l’Institut	des	Hautes	Etudes	Scientifiques	
+de	Bures	sur	Yvette.	Nathalie	Deruelle,	mathématicienne,	qui	fait	autorité	pour	toute	
+chose	touchant	à	la	Relativité	Générale	a	apposé	son	sceau	sur	ce	jugement.	On	notera	
+dans	la	dernière	ligne	que	l’Allemande	Sabine	Hossenfelder,	également	auteur	d’une	
+théorie	bimétrique,	avec	deux	équations	de	champ	couplées,		a	aussi	droit	à	sa	volée	de	
+bois	vert.		
+De	quoi	s’agit-il	?		
+J’ai	évoqué	plus	haut	les	contraintes	mathématiques	liées	à	ces	équations,	le	fait	que	
+leurs	dérivées	covariantes	doivent	être	nulles,	pour	les	premiers	membres	comme	pour	
+les	seconds.		
+Un	modèle	à	un	instant	donné,	n’est	jamais	définitif.	On	peut	être	amené	à	modifier,	
+perfectionner,	arranger.	Rappelez-vous	qu’Einstein	a	aussi	commencé	avec	des	
+problèmes	d’équilibrage	entre	les	deux	membres	de	son	équation,	qu’il	a	arrangé	en		
+introduisant	son	
+Mais,	finalement,	vous	savez,	tout	s’arrange.	En	fait,	le	modèle	Janus,	c’est	avant	tout	un	
+concept.	On	a,	non	une	seule	entité,	mais	deux.	La	seconde	se	comporte	comme	si	elle	
+possédait	une	masse	négative.	On	tente	alors	de	rendre	compte	de	ce	jeu	entre	ces	deux	
+matières	en	écrivant	:		
+(60)	
+
+R gµν	dans	le	premier	membre.		
+
+−
+ 
+
+1
+2
+
+Rµν
+(+) −
+
+R(+)gµν
+
+(+) = χ Tµν
+
+(+) +ϕ Tµν
+(−)
+
+⎡
+⎣
+
+(
+
+)
+
+⎤
+⎦
+
+1
+2
+
+1
+2
+
+R(−)gµν
+
+Rµν
+(−) −
+ 
+
+ϕet	φ	sont	des	fonctions	des	contenus	en	énergie-matière	de	l’autre	secteur.		
+J’ai	commencé	par	écrire	:		
+(61)	
+
+(−) = − χ Tµν
+
+(−) +φ Tµν
+(+)
+
+(
+
+)
+
+⎡
+⎣
+
+⎤
+⎦
+
+Rµν
+(+) −
+
+R(+)gµν
+
+(+) = χ Tµν
+
+(+) + Tµν
+(−)
+
+⎡⎣
+
+⎤⎦
+
+1
+2
+
+	
+
+	
+
+Cela	donnait	des		lois	d’interaction	qui	permettaient	d’échapper	à		ce	fichu	phénomène	
+runaway.	Mais,	bien	sûr,	il	y	avait	déjà	ce	problème	de	grincement	mathématique,	que	je	
+remettais	à	plus	tard.	Un	problème	qui	était	au	passage	absent	dans	le	vide	(ce	qui	
+représente	une	bonne	partie	du	cosmos)	et	quand	on	considère	l’univers	comme	
+
+(−) = − χ Tµν
+
+Rµν
+(−) −
+ 
+
+(+) + Tµν
+(−)
+
+R(−)gµν
+
+1
+2
+
+⎡⎣
+
+⎤⎦
+
+	
+31	
+homogène,	c’est	à	dire	dans	deux	des	trois	solutions	qui	constituent	l’essentiel	de	la	
+Relativité	Générale.			
+Ceci	étant,	quand	je	tentais	de	construire	une	solution	instationnaire	je	n’arrivais	pas	à	
+construire	une	solution	où	apparaisse	la	dissymétrie	entre	les	deux	secteurs,	où	la	
+valeur	absolue	de	la	densité	négative	soit	grande	devant	celle	de	notre	propre	matière,	
+ce	qui	avait	donné	des	tas	de	résultats	intéressants	avec	les	simulations	de	la	structure	à	
+grande	échelle.		
+J’ai	donc	essayé	autre	chose.	En	faisant	apparaître	les	«	facteurs	d’échelle	»	des	deux	
+univers,	 a(+)	et	 a(−).	Ca	m’a	amené	à	écrire	:		
+(62)	
+
+Rµν
+(+) −
+
+R(+)gµν
+
+(+) = χ Tµν
+
+(+) +
+
+1
+2
+
+⎡
+⎢
+⎢
+⎣
+
+3
+
+⎛
+⎝⎜
+
+a(−)
+a(+)
+
+⎞
+⎠⎟
+
+Tµν
+(−)
+
+⎤
+⎥
+⎥
+⎦
+
+	
+
+⎤
+⎥
+⎥
+⎦
+
+3
+
+⎡
+⎢
+⎢
+⎣
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+1
+2
+
+a(+)
+a(−)
+
+R(−)gµν
+
+(−) = − χ
+
+Tµν
+(+) + Tµν
+(−)
+
+Rµν
+(−) −
+ 
+
+Pas	de	problème	d’incohérence	mathématique	à	ce	stade.	Ca	n’apparaît	que	quand	
+l’univers	cesse	d’être	homogène.	En	prime	il	y	avait	une	jolie	solution,	trouvé	la	
+première	fois	par	William	Bonnor.	J’ai	échangé	pendant	quelques	mois	avec	lui	en	lui	
+disant	qu’il	allait	devenir	célèbre	parce	qu’il	avait	trouvé	la	solution	exacte	qui	décrivait	
+l’accélération	cosmique.	Il	n‘avait	jamais	pensé	à	cela.	En	bon	Anglais	il	avait	écrit	dans	
+son	article	:		
+
+	
+
+Ce	qui	donne	:		
+
+Au	 stade	 de	 mon	 exposé	 il	 devient	 clair	 que	 l’univers	 que	 je	 considère	 n’a	 aucun	
+rapport	avec	celui	dans	lequel	nous	vivons.	Ce	que	j’écris	peut	être	considéré	comme	
+de	la	science	fiction	et	un	lecteur	très	occupé	sera	entièrement	fondé	à	abandonner	
+cette	lecture.		
+
+Mon	 but	 est	 de	 continuer	 à	 voir	 si	 les	 propriétés	 de	 cet	 univers	 hypothétique	
+pourraient	 expliquer	 pourquoi	 le	 véritable	 univers	 n’est	 constitué	 que	 de	 masses	
+positives.	Mes	intentions	sont	bien	résumées	par	la	phrase	métaphorique	d’Einstein	:	
+
+«	Ce	 qui	 m’intéresse	 est	 de	 savoir	 si	 Dieu,	 quand	 il	 a	 créé	 le	 monde,	 disposait	
+vraiment	de	choix	».		
+
+	
+32	
+Mais	Bonnor	est	décéde	en	2015.		
+Pour	répondre	à	la	lettre	de	Damour,	j’ai	trouvé	une	première	dérivation	Lagrangienne	
+que	j’ai	publiée	en	2015,	mais	qui	n’a	pas	retenu	son	intérêt.	Ceci	étant,	elle	débouchait	
+sur	le	système	:		
+(63)	
+
+Rµν
+(+) −
+
+R(+)gµν
+
+(+) = χ Tµν
+
+(+) +
+
+1
+2
+
+⎡
+⎢
+⎢
+⎣
+
+g(−)
+g(+) Tµν
+
+(−)
+
+⎤
+⎥
+⎥
+⎦
+
+	
+
+⎤
+⎥
+⎥
+⎦
+
+⎡
+⎢
+⎢
+⎣
+
+1
+2
+
+R(−)gµν
+
+(−) = − χ
+
+(+) + Tµν
+(−)
+
+Rµν
+(−) −
+ 
+
+g(+)
+g(−) Tµν
+
+Le	lien	avec	les	deux	formulations	devient	clair	si	on	écrit	les	deux	métriques	sous	leur	
+forme	«	Friedmann-Lemaître-Robertson-Walker	».	Ce	sont	simplement	les	formes	
+qu’acquièrent	des	métriques	Riemaniennes,	de	signature	 (+ − − − )	quand	on	opte	pour	
+les	symétries	(	Adler,	Schiffer	et	Bazin,	page	409	)	:		
+-  Dépendance	par	rapport	au	temps	(à	la	variable	chronologique	x°	)		
+	
+-  Homogénéité,	isotropie.		
+(64)	
+
+ds(+)2 = dx° 2 − (a ( x°)
+
+(+) )2 du2 +u2dθ2 + u2 sin2θdϕ2
+
+⎡⎣
+
+1+ (k(+) / 4)u2
+
+2
+
+⎤⎦
+
+⎡
+⎢
+⎢
+⎣
+
+⎡
+⎢
+⎢
+⎣
+
+	
+
+⎤
+⎥
+⎥
+⎦
+
+⎤
+⎥
+⎥
+⎦
+
+2
+
+⎤⎦
+
+⎡⎣
+
+− g(+) =
+
+1+ (k(−) / 4)u2
+
+ds(−)2 = dx° 2 − (a ( x°)
+ 
+
+(−) )2 du2 +u2dθ2 + u2 sin2θdϕ2
+
+Les	déterminants	de	ces	deux	métriques	donnent	:		
+(65)												
+Pour	recoller	avec	la	formulation	précédente	cela	implique	que	les	indices	de	courbure	
+des	deux	secteurs	soient	égaux	:			 k(+) = k(−) = k		
+Je	pensais	à	modifier	de	nouveau	ce	modèle	en	faisant	jouer,	non	deux	masses,	positives	
+et	négatives,	mais	quatre,	les	deux	autres	étaient	également	de	signes	opposées,	mais	
+imaginaires	pures.	Un	sacré	projet,	selon	lequel	ces	quatre	masses	auraient	été	
+indifférenciées	à	l’origine	mais,	au	fil	d’une	instabilité,	chacune	auraient	pris	son	rôle,	
+
+a(−)3 u2 sinθ
+1+ (k(−) / 4)u2
+
+a(+)3 u2 sinθ
+1+ (k(+) / 4)u2
+
+3	
+
+− g(−) =
+
+⎡⎣
+
+⎤⎦
+
+⎡⎣
+
+⎤⎦
+
+ 
+
+3
+
+	
+33	
+ceci	expliquant	au	passage	cette	dissymétrie	cosmique	foncière3,	affectant	les	quatre	
+secteurs.		Cela	devrait	m’amener,	je	pense,	à	reformuler	cette	géométrie	dans	un	
+contexte	complexe,	ce	qui	ne	semblait	guère	facile	a	priori.	Un	formalisme	qui	devait	
+déboucher	sur	des	fluctuations	conjointes	des	métriques,	se	traduisant	par	des	
+fluctuations	de	la	loi	de	Hubble,	dont	l’isotropie	n’est	qu’un	voeu	pieux	.	Mais,	disons	que		
+j’avais	quelques	pistes.		
+C’est	là	que	la	lettre	de	Damour	m’a	contraint	à	régler	ce	petit	problème	de	dérivation	
+covariante,	de	satisfaction	des	égalités	de	Bianchi.		
+Ca	a	été	assez	vite	vu.	Voilà	le	résultat	:		
+(66)	
+
+Rµν
+(+) −
+
+R(+)gµν
+
+(+) = χ Tµν
+
+(+) +ϕ
+
+1
+2
+
+⎡
+⎢
+⎢
+⎣
+
+g(−)
+g(+) Tµν
+
+(−)
+
+⎤
+⎥
+⎥
+⎦
+
+	
+
+ 
+
+	
+
+⎡
+⎢
+⎢
+⎣
+
+⎤
+⎥
+⎥
+⎦
+
+1
+2
+
+ϕ=
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎝
+
+R(−)gµν
+
+(+) + Tµν
+(−)
+
+0
+0
+−1
+0
+
+0
+0
+0
+−1
+
+Rµν
+(−) −
+ 
+
+(−) = − χ ϕ
+
+g(+)
+g(−) Tµν
+
+1
+0
+0 −1
+0
+0
+0
+0
+
+où	ϕ	est	cette	fois	la	matrice	:		
+(67)																																																				
+Alors	ce	bête	problème	de	mathématique	disparaît.		
+Tout	le	reste	c’est	pareil,	les	résultats,	les	confirmations	avec	les	observations.	
+Finalement,	Damour	m’a	rendu	service	en	me	contraignant	à	régler	cette	histoire,	qui	
+traînait	depuis	des	années,	mais	que	j’avais	la		flemme	de	traiter.	Janus	est	un	tel	
+chantier.	Au	passage	a	émergé	une	dérivation	Lagrangienne	améliorée.		
+J’ai	soumis	cela	à	une	revue	à	comité	de	lecture	et	après	quelques	échanges	avec	le	
+referee,	ça	a	été	accepté.		J’ai	intitulé	l’article,	que	j’ai	mis	également	en	annexe	de	ce	
+pdf	:		
+J’ai	envoyé	l’article	à	Damour,	à	titre	de	réponse	à	sa	lettre	recommandée	avec	accusé	de	
+réception.	Pour	essayer	de	détendre	l’atmosphère	j’ai	joint	une	boite	de	calissons.	
+Espérons	que	ça	fera	effet.		
+																																																								
+3	Qui	échappe	à	l’Allemande	Sabine	Hossenfelder	
+
+Cohérence	physique	et	mathématique	du	Modèle	Cosmologique	Janus	
+
+	
+
+34	
+
+A	partager	équitablement	entre	les	trois	coauteurs	du	rapport	IHES	sur	Janus	:	
+	
+
+	
+
+	
+	
+										Thibaud	Damour																								Luc	Blanchet																						Nathalie	Deruelle		
+	Je	lui	ai	reformulé	au	passage	ma	demande	de	pouvoir	présenter	ça	à	l’Institut	des	
+Hautes	Etudes	Scientifique,	où	il	est	«	Monsieur	Cosmologie	».		
+Ceci	étant,	essayons	d’apporter	quelques	explications	pour	les	lecteurs	de	ce	pdf	à	
+propos	de	la	dérivation	Lagrangienne	du	modèle	Janus.			
+Vous	avez	bien	compris	qu’à	chaque	fois	qu’on	aborde	un	problème	de	Relativité	
+Général	c’est	à	travers	des	hypothèses	de	symétrie.	Il	y	en	a	deux.		
+Soit	on	opte	pour	:		
+-  Dépendance	par	rapport	au	temps	(à	la	variable	chronologique	x°	)		
+	
+-  Homogénéité,	isotropie.		
+Et	on	construit	une	solution	instationnaire.	Les	formes	(FLRW)	ont	été	données	plus	
+haut.		
+Soit	on	opte	pour	:		
+
+Rµν
+ 
+
+Rµν
+ 
+
+35	
+
+(−) = 0		et	on	écrit	:		
+
+	
+- 
+Indépendance	par	rapport	au	temps	(à	la	variable	chronologique	x°	)		
+	
+-  Symétrie	sphérique	(	par	rapport	au	groupe	O(3)	)	.		
+Les	métriques	prennent	alors	la	forme	(	Adler,	Schiffer	et	Bazin	page	)	
+(68)																																				 ds(+)2 = eν( + ) dx° 2 − eλ( + ) dr2 − r2dθ2 − r2 sin2θdϕ2	
+(69)																																				 ds(−)2 = eν( − ) dx° 2 − eλ( − ) dr2 − r2dθ2 − r2 sin2θdϕ2	
+Il	existe	une	troisième	classe	de	solution	où	on	se	limite	à	une	symétrie	O(2),	et	qui	
+donne	la	métrique	de	Kerr	(	«	axisymétrie	»,	ce	qui	est	un	mot	trompeur	qui	suggère	
+l’existence	d’un	«	axe	»	).	On	renverra	cela	à	plus	tard.		
+(+)	et	
+A	partir	des	métriques	(68)	et	(69)	on	calcule	les	composantes	des	tenseurs	Ricci	
+(−)correspondants.	Ce	qui	se	traduit	in	fine	par	de	bêtes	matrices	diagonales.		
+On	se	place,	comme	le	fait	Damour,	dans	le	cas	où	
+(70)																																										
+Alors,	ça	n’est	plus	que	du	calcul.		
+Depuis	des	décennies	je	réutilise	du	vieux	matériel.	Là	c’est	à	recherche	dans	le	Adler	
+Schiffer	et	Bazin	aux	pages	462	à	472.	Les	calculs	sont	simplement	dupliqués.	On	a	les	
+métriques	exprimées	dans	leurs	deux	formes.	Ajouter	des	indices	(+)	et	(-)	:		
+(70)								
+θ						
+Des	coefficients	des	tenseurs	de	Ricci	sont	:		
+(71)	
+⎦	
+
+θ	
+λ ν νλ ν ν 	
+
+'
+− ⎡
+ν λ ν νλ ν ν
+e
+=−+−
+−⎢
+r
+⎣
+
+0
+0
+0
+r sin
+2
+
+0
+e
+−
+λ
+0
+0
+
+⎛
+⎜
+⎜
+= ⎜
+⎜
+⎜
+⎝
+
+⎛
+⎜
+⎜
+= ⎜
+⎜
+⎜
+⎝
+
+0
+0
+0
+sin
+
+0
+e
+λ
+0
+0
+
+0
+0
+r
+2
+−
+0
+
+0
+0
+r
+−
+0
+
+e
+0
+0
+0
+
+e
+ν
+0
+0
+0
+
+− ⎛
+⎜
+⎝
+
+0
+p(+)
+c2
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+Tµν
+ 
+
+p(+)
+c2
+
+p(+)
+c2
+
+"
+2
+
+"
+2
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+2
++
+
+g
+µν
+
+=−
+
+'
+4
+
+'
+4
+
+'
+4
+
+'
+4
+
+ρ(+)
+
+ν =
+µ
+
+⎞
+⎟
+⎠
+
+T(+)
+
+'
++
+
+	
+
+R
+
+R
+
+⎤
+⎥
+
+−
+
+e
+
+−
+
+µν
+
+g
+
+oo
+
+−
+ν
+
+r
+
+0
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+2
+−
+
+2
+−
+
+r
+
+−
+
+−
+
+−
+
+−
+
+−
+
+−
+
+−
+
+'
+
+'
+
+2
+
+ 
+
+2
+
+2
+
+	
+
+36	
+
+R
+
+11
+
+"
+'
+'
+ν νλ ν λ
+=− + −
+2
+r
+4
+
+'
+4
+
+'
+
+2
+
+	
+
+	
+
+λ ν νλ ν λ 	
+
+− ⎛
+⎜
+⎝
+
+"
+2
+
+'
+4
+
+'
+4
+
+⎞
+⎟
+⎠
+
+2
+−
+
+'
++
+
+−
+
+r
+
+'
+
+R
+
+1
+1
+
+=−
+
+e
+
+	
+
+2
+
+'
+
+2
+
+ 
+
+2
+2
+
+2
+2
+
+3
+3
+
+e
+
+e
+
+33
+
+22
+
+22
+
+=
+
+e
+
+R
+
+R
+
+1
+
+=
+
+⎛
+⎝⎜
+
+−
+
+=
+
+⎛
+⎝⎜
+
+⎞
+⎟
+⎠
+
+⎛
+⎜
+⎝
+
+	
+
+⎤
+⎥
+⎦
+
+R
+
+R
+
+=−
+
+⎤
+⎥
+⎦
+
+⎞
++
+⎟
+⎠
+
+1−
+
+'
++
+r
+
+2
+r
+2
+
+2
+r
+2
+
+µλ
+=
+µ
+
+1
+r
+2
+
+R=
+
+1
++−
+
+'
+−+−
+4
+
+R R
+
+1
++
+r
+2
+
+2m
+r
+
+2m
+r
+
+− ⎛
+λ
+⎜
+⎝
+
+'
+− +
+4
+
+R sin
+
+− ⎡
+λ
+⎢
+⎣
+
+'r
+'r
+ν λ
+2
+2
+
+ds(−)2 = 1+
+
+ds(+)2 = 1−
+
+dr2
+2m
+r
+
+'
+'
+ν λ
+−
+2r
+2r
+
+⎞
+⎠⎟ c2dt2 −
+
+⎞
+⎠⎟ dx° 2 −
+
+− ⎡
+2
+−+ −
+⎢
+⎣
+
+2 '
+2 '
+ν λ
+2r
+2r
+
+"
+'
+ν νλ ν ν λ
+2
+r
+
+	
+− r2dθ2 − r2 sin2θdϕ2	
+− r2dθ2 − r2 sin2θdϕ2	
+
+θ	
+Et	le	scalaire	de	Ricci	:		
+(72)									
+Tout	cela	avec	les	indices	(+)	et	(-).		
+On	donne	aux	métriques	extérieures	les	formes	:		
+(75)																																		
+(76)																																		
+en	se	débrouillant	pour	que	ces	métriques	se	raccordent	avevc	les	solutions	intérieures.		
+Je	ne	vais	pas	détailler	les	calculs.	Cela	donne	:		
+(77)																																		
+(78)																																		
+On	a	deux	conditions	de	linéarisation.	La	pression	c’est	une	densité	d’énergie	par	unité	
+de	volume.	On	peut	écrire	 ρ(+)c2 + p(+)et	il	est	alors	clair	que	le	second	terme	est	
+négligeable	devant	le	premier.	Par	ailleurs	on	a	:		
+(79)																																																													
+C’est	le	rayon	de	Schwarzschild	calcul	à	partir	de	la	masse	 M(r)	contenue	dans	une	
+sphère	de	rayon	r,	inférieur	au	rayon	de	l’étoile.	Si	le	champ	est	faible	cela	implique	:		
+(80)																																																																					 r >> 2m(r)		
+Au	résultat	on	obtient	la	même	équation	:		
+
+( ρ(+) + p(+) / c2 ) (m(r) + 4πG pr3 / c4 )c2
+
+( ρ(+) + p(+) / c2 ) (m(r) + 4πG pr3 / c4 )c2
+
+p(+) ' = −
+ 
+
+p(+) ' = −
+ 
+
+dr2
+2m
+r
+
+2m(r) =
+ 
+
+r(r + 2m(r) )
+
+r(r − 2m(r) )
+
+8πr3ρ(+)
+
+2G M(r)
+
+	
+	
+
+		
+
+G
+c2
+
+1+
+
+	
+
+c2
+
+=
+
+3
+
+ 
+
+3
+
+3
+
+2
+r
+
+		
+
+dΨ
+dr
+
+Ψ =
+ 
+
+4πG ρ(+) r
+
+4πG ρ(+) r2
+
+37	
+
+p(+)' = −
+ 
+
+d2Ψ
+dr2 +
+ 
+
+= 4πG ρ(+)		
+	
+	
+		
+
+	
+(81)																																																											
+Qui	exprime	que	la	force	de	pression,	à	l’intérieur	de	l’étoile,	équilibre	la	contrainte	
+d’origine	gravitationnelle.	Ce	sont	les	conditions	qui	règnent	à	l’intérieur	de	la	Terre.	
+Appelons	 Ψ	le	potentiel	d’où	dérive	la	force	de	gravité.	Il	est	solution	de	l’équation	de	
+Poisson,	écrire	en	coordonnées	radiales	:		
+(82)																																																								
+qui	a	pour	solution	:		
+(83)																																																								
+Le	champ	gravitationnel	est		
+(84)																																																								
+Il	est	nul	au	centre	de	la	Terre,	puis	croît	proportionnellement	à	la	distance	au	centre,	
+jusqu’à	la	surface	terrestre.	Au	delà	il	décroît	en	1/r2	
+En	écrivant	que	ce	champ	contrebalance	la	force	de	pression	on	retrouve	l’équation	(81)	
+En	poursuivant	ce	calcul,	directement	inspiré	du	Adler	Schiffer	et	Bazin,	on	obtient	
+l’expression	des	métriques	:		
+(85)			
+(86)	
+qu’il	faut	interpréter	sous	leurs	formes	linéarisées	:		
+(87)	
+(87)			
+
+⎠⎟ dr2 − r2 dθ2 − r2 sin2θdϕ2	
+
+⎞
+⎠⎟ c2dt2 − 1 +
+
+− r2dθ2 − r2 sin2θdϕ2
+
+− r2dθ2 − r2 sin2θdϕ2
+
+dr2
+r2
+ˆR 2
+
+dr2
+r2
+ˆR 2
+
+4πG ρ(+) r
+
+rs
+ˆR 2 −
+
+rs
+ˆR 2 −
+
+rs
+ˆR 2 −
+
+rs
+ˆR 2 +
+
+ds(−)2 =
+
+ds(+)2 =
+
+c2dt2 −
+
+c2dt2 −
+
+dΨ
+dr
+
+r2
+ˆR 2
+
+r 2
+ˆR 2
+
+r 2
+ˆR 2
+
+r2
+ˆR 2
+
+= −
+
+1+
+
+1−
+
+−
+ 
+
+1+
+
+1+
+
+1−
+
+1−
+
+3
+2
+
+3
+2
+
+3
+2
+
+⎤
+⎥
+⎥
+⎦
+
+⎡
+⎢
+⎢
+⎣
+
+3
+2
+
+⎤
+⎥
+⎥
+⎦
+
+⎡
+⎢
+⎢
+⎣
+
+1
+2
+
+1
+2
+
+1
+2
+
+1
+2
+
+	
+
+	
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+3
+
+⎞
+
+ 
+
+ 
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+ds(+)2 = 1 −
+ 
+
+						
+
+2
+
+2
+
+⎞
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+1
+2
+
+1
+2
+
+3
+2
+
+3
+2
+
+r 2
+ˆR 2
+
+r 2
+ˆR 2
+
+rs
+ˆR 2 +
+
+rs
+ˆR 2 −
+
+ds(−)2 = 1 +
+ 
+
+⎞
+⎠⎟ c2dt2 − 1 −
+
+	
+38	
+(88)			
+⎠⎟ dr2 − r2 dθ2 − r2 sin2θdϕ2	
+En	permutant	ces	deux	métriques	on	décrit	une	situation	inverse	où	lé	géométrie	du	
+secteur	positif,	le	nôtre,	est	influencée	par	la	présence	d’un	conglomérat	de	masse	
+négatif.	On	obtient	alors	des	géodésiques	divergentes,	et	un	effet	de	lentille		
+gravitationnelle	négatif,	qui	correspond	au	Great	Repeller.	Il	devient	alors	possible	
+d’envisager	de	calculer	la	réduction	de	luminosité	de	galaxies	situées	à	l’arrière	plan,	
+lorsque	leur	lumière	se	trouve	diffractée	à	la	traversée	de	tels	objets.		
+Il	nous	reste	à	regarder	cette	histoire	de	dérivation	Lagrangienne.		
+On	considère	les	deux	matrices	diagonales	:		
+(89)																									
+		
+Et	on	introduit	cette	nouvelle	action	Janus	:		
+(89)	
+On	introduit	cette	«	bi-variation	»	des	deux	métriques				:		
+On	introduit	cette	«	bi-variation	»	
+du	fait	que	 Iϕ=ϕ	et	 ϕϕ= I	:		
+
+d4x	
+(+) )	des	deux	métriques	en	tenant	compte	
+					
+					
+
+I R(+) −g(+) +ϕR(−) −g(−) − χ( I +ϕ)L(+) −g(+) + χ( I+ϕ)L(−) −g(−)
+
+1 0 0 0
+0 1 0 0
+0 0 1 0
+0 0 0 1
+
+1
+0
+0 −1 0
+0
+0
+
+0
+0
+−1 0
+0
+−1
+
+(+) ) − g(+) δg(+)µν
+
+(−) ) − g(−) δg(−)µν
+
+R (−) − g(−)
+
+R (+) − g(+)
+
+(+) ,δgµν
+
+(δgµν
+ 
+
+R (+)gµν
+
+( Rµν
+(+)
+
+S =
+ 
+
+d4x =
+
+d4x =
+
+D4∫
+
+D4∫
+
+D4∫
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎠
+
+ϕ=
+
+I =
+
+1
+2
+
+0
+0
+
+	
+
+δ
+
+⎡
+⎣⎢
+
+⎤
+⎦⎥
+
+⎡
+⎣⎢
+
+⎤
+⎦⎥
+
+−
+
+0
+
+ 
+
+ 
+
+ 
+
+ 
+
+−
+
+⎡
+⎣⎢
+
+⎤
+⎦⎥
+
+⎡
+⎣⎢
+
+⎤
+⎦⎥
+
+δ
+
+δ
+
+1
+2
+
+D4∫
+
+D4∫
+
+D4∫
+
+d4x =
+
+( Rµν
+(−)
+
+R (−)gµν
+
+L(+) −g(+)
+
+				
+				
+																																
+	
+Puis	on	reprend	l’hypothèse	introduise	dans	la	publication	de	2015		
+(90)																																																																				 δg(−)µν = −δg(+)µν	
+
+Tµν
+(+) −g(+) δg(+)µν d4x
+
+Tµν
+(−) −g(−) δg(−)µν d4x
+
+L(−) −g(−)
+
+d4x =
+
+D4∫
+
+D4∫
+
+D4∫
+
+δ
+
+⎤
+⎦⎥
+
+⎡
+⎣⎢
+
+ 
+
+			
+
+	
+			
+
+	
+39	
+Et	on	obtient	le	nouveau	système	Janus	avec	son	coefficient	matriciel.	Toutes	les	
+métriques	évoquées,	sous	leur	forme	linéarisées,	satisfont	cette	relation,	qui	met	en	jeu	
+le	principe	de	Mach.		
+	
+
+Mais,	comme	dirait	Kipling,	ceci	est	une	autre	histoire	…	
+
+						
+
+Physical	and	mathematical	consistency	of	the	Janus	Cosmological	Model	
+
+Jean-Pierre	Petit	
+BP	55	84122	Pertuis	
+Le	12	mars	2019		
+A	.	Thibaud	Damour	
+IHES,	Bures	sur	Yvette	
+Route	des	Chartres	
+Copie	à	G.D’Agostini	et	N.Debergh	
+	Cher	Collègue,	
+			Ne	croyez-vous	pas	qu’il	serait	temps	de	détendre	un	peu	l’atmosphère	?		
+			Quand	j’ai	reçu	votre	lettre	recommandée	du	7	janvier	2019	il	se	trouve	que	je	venais	
+de	résoudre	le	problème	que	vous	soulevez	et	dont	je	connaissais	l’existence	de	longue	
+date.	J’avais	donc	entrepris	de	publier	ce	nouveau	travail	et	étais	en	contact	avec	le	
+referee	de	la	revue	Progress	in	Physics.	J’ai	donc	attendu	l’acceptation	de	notre	nouvel	
+article	intitulé		
+qui	lève	les	critiques	que	vous	avez	formulées,	pour	vous	répondre.	Vous	trouverez	la	
+copie	de	ce	papier,	jointe	à	mon	envoi.	Comme	vous	le	verrez,	c’était	assez	peu	de	chose	
+et	amène	à	une	légère	modification	des	seconds	membres	des	équations	Janus,	ce	qui	ne	
+change	rien	à	ce	qui	a	été	déjà	été	obtenu	et	publié	depuis	cinq	ans,	vis	à	vis	de	l’accord	
+avec	la	dizaine	de	données	d’observations	disponible.			
+			Je	réédite	donc	ma	demande	de	présentation	de	nos	travaux	à	l’Institut	des	Hautes	
+Etudes	Scientifiques.		
+			Comme	vous	dite	que	vous	avez	envoyé	copie	de	votre	courrier	«	à	toutes	les	
+personnes	s’intéressant	au	modèle	Janus	»	Seriez-vous	assez	aimable	pour	leur	faire	
+suivre	la	copie	du	présent	courrier,	ainsi	que	cette	de	notre	article,	dont	vous	pourriez	
+au	passage	faire	état	dans	votre	page	du	site	de	l’IHES,	à	la	suite	du	rapport	que	vous	
+avez	publié,	concernant	nos	travaux.	.		
+			Je	vous	ai	vu	revenir	sur	«	cette	longue	lettre	que	vous	m’avez	envoyée	»	en	2015,	où	
+vous	repreniez	les	éléments	de	votre	propre	travail	sur	la	«	massive	bigravity	»,	qui	
+traite	de	deux	«	branes	»	interagissant	à	l’aide	de	«	gravitons	dotés	d’une	masse	».	
+Comme	je	vous	l’avais	dit	à	l’époque,	le	modèle	Janus	n’a	vraiment	rien	à	voir	avec	cette	
+approche,	qui	par	ailleurs	ne	produit	rien	qui	puisse	être	relié	à	des	observations.		
+			Nathalie	Debergh	se	joint	à	moi	pour	reformuler	sa	demande	de	présentation	à	l’IHES	
+du	développement	du	modèle	dans	le	cadre	de	la	Mécanique	Quantique,	c’est	à	dire	en	
+ouvrant	vers	l’étude	des	états	d’énergie	négative.		
+Sincèrement	vôtre		
+	
+
+Issue x (August)
+
+PROGRESS IN PHYSICS
+
+Volume xx (2018)
+
+Physical and mathematical consistency of the Janus Cosmological
+
+J.P.Petit1, G.D’Agostini2, and N.Debergh3
+
+Model (JCM)
+
+Manaty Research Group
+
+1 jean-pierre.petit@manaty.net
+2 gilles.dagostini@manaty.net
+3 nathalie.debergh@manaty.net
+
+The Janus Cosmological Model is based on a system of two coupled ﬁeld equa-
+tions. It explains the nature of dark matter and dark energy with negative
+mass and without the runaway paradox that arises in general relativity. We
+ﬁrst recall how this system was built, from a simple Newtonian toy model to
+a relativistic bimetric theory, that is now improved in order to fulﬁll mathe-
+matical constraints and set up on a Lagrangian derivation.
+
+1 The long genesis of the Janus Cosmological Model
+
+Roots of the Janus Cosmological Model are like assembling diﬀerent pieces of a puzzle. There are indeed several
+starting points for this bimetric approach. The ﬁrst is the missing primordial antimatter, a problem solved in 1967
+by Andrei Sakharov in [1] with the representation of the universe not as a single entity born from the beginning of
+time, but two spacetimes with opposite arrows of time communicating only through their common initial singular-
+ity, forming a ”twin universe” in complete CPT symmetry, as represented in the didactic Figure 1.
+
+Fig. 1: 2D representation of Sakharov’s twin universe model
+
+Then, the ﬁrst step is to consider that these two entities can interact gravitationally, which is equivalent to folding
+the object of Figure 1 on itself as in Figure ﬁg. 2.
+
+In 1977, a ﬁrst modeling using non relativistic theoretical tools is attempted in [2] and [3] with two Boltzmann
+equations coupled with Poisson’s equation. We then realize Sakharov’s seminal idea of a complete CPT symmetry
+between these two entities, an idea also independently used by other authors recently citeBOYLE2018. Such work
+suggests that a profound paradigm shift involving geometrical grounds should be performed.
+
+Early 1990’s, we explore, through computer simulations, what could emerge from interaction laws associated with
+a mix of positive and negative point masses, according to the following assumption.
+
+(1)
+
+Interactions laws:
+
+• Like masses attract, according to Newton’s law.
+• Unlike masses repel, according to ”anti-Newton”.
+
+At this stage, it is only a toy model. In 1992, ﬁrst 2D simulations of two populations with opposite mass and same
+absolute value of density show a separation of the two entities, as shown in [5], a result reproduced below in Figure
+
+J.P.Petit, G.D’Agostini and N.Debergh . Physical and mathematical consistency of the JCM
+
+1
+
+Volume xx (2018)
+
+PROGRESS IN PHYSICS
+
+Issue x (August)
+
+Fig. 2: Sakharov’s model with ”conjugate folds”
+
+3.
+
+Fig. 3: Flocculation and percolation phenomena between two populations of opposite mass and same overall density. Right:
+Showing the optically-visible positive mass matter only
+
+The purpose was to account for the large-scale structure of the universe, which admittedly wasn’t a tight ﬁt with
+these early experiments. But if we now introduce asymmetry in the two mass densities, taking a greater density
+for the negative mass species, then this population has a shorter Jeans time, hence it is the ﬁrst to coalesce into
+conglomerates, by gravitational instability.
+
+if |ρ(−)| (cid:29) ρ(+) ⇒ tj(−) =
+
+1(cid:112)4 π G|ρ(−)| (cid:28) tj(+) =
+
+1(cid:112)
+
+4 π G ρ(+)
+
+(2)
+
+Following simulations conﬁrm this second hypothesis as they produce an evolution of the positive mass distribution
+into a large-scale structure with big negative mass conglomerates (optically invisible) repelling the positive mass
+matter in the remnant space around them as shown in [6], a decisive result reproduced below in Figure 4, this time
+in very good agreement with the observation of the lacunar, foam-like structure of the universe, where galaxies,
+clusters and superclusters are organized as a web of ﬁlaments, walls and nodes distributed around giant repulsive
+cosmic voids.
+
+Same approach but diﬀerent boundary conditions in [7], reproduced in Figure 5.
+Such a scenario also produces, in 3D, a mechanism helping galaxy formation along. Indeed, after recombination, if
+large volumes of gas can coalesce into giant conglomerates, then a problem arises: how to dissipate such enormous
+gravitational energy transformed into heat? Considering an object of radius R, the amount of energy collected
+varies according to R3 while the surface of the heatsink varies as R2. Therefore, larger masses have a more im-
+portant cooling time. But the constitution of the large-scale structure suggested by these simulations leads to a
+compression of the positive mass which distributes according to walls (as observed) that are actually sandwiched
+
+2
+
+J.P.Petit, G.D’Agostini and N.Debergh . Physical and mathematical consistency of the JCM
+
+Issue x (August)
+
+PROGRESS IN PHYSICS
+
+Volume xx (2018)
+
+Fig. 4: Result of a 2D large-scale structure simulation [6]
+
+Fig. 5: Result of a 2D large-scale structure simulation on a 2-sphere [7]
+
+between two repulsive conglomerates of negative mass. A strong compression of the positive mass occurs in such
+planar structures, which are optimal for a quick radiative dissipation of energy, as explained in [6].
+
+Besides 2D simulations, an eﬀective conﬁnement of galaxies despite their high peripheral velocity is analytically
+demonstrated using an exact solution of two Vlasov equations coupled with Poisson’s equation, using the method-
+ology exposed in [5]. The ﬂat rotation curve obtained from such a solution, made possible by the repulsive eﬀect
+of the surrounding negative mass, has been shown for the ﬁrst time in [6], a curve reproduced in Figure 6. It is
+worth noting that such a typical rotation curve has been similarly obtained more recently using the same repulsive
+action of a negative mass distribution around galaxies, but from 3D computer simulations made by an independent
+researcher[8].
+
+Using the exact solution of the analytical set of two Vlasov equations coupled with Poisson’s equation (image of a
+2D galaxy conﬁned by a repulsive negative mass environment), we show in numerical simulations that the rotational
+motion of the galaxy generates a good-looking barred spiral structure in a few turns (1992 DESY results, published
+in [6] and [7]).
+
+In order to progress beyond a simple toy model that opens up interesting prospects thanks to the various above-
+mentioned positive results, it was still necessary at that time to derive interaction laws ?? from a coherent math-
+ematical formalism. The introduction of negative mass in cosmology had been considered as soon as the 1950s,
+
+J.P.Petit, G.D’Agostini and N.Debergh . Physical and mathematical consistency of the JCM
+
+3
+
+Volume xx (2018)
+
+PROGRESS IN PHYSICS
+
+Issue x (August)
+
+Fig. 6: Flat rotation curve of a galaxy surrounded by a negative mass distribution [6]
+
+Fig. 7: 2D barred spiral structure [6][7]
+
+Rµν − 1
+2
+
+R gµν = +χTµν
+
+using general relativity, deﬁned by the well-known Einstein ﬁeld equations which may be written, with a zero
+cosmological constant:
+
+Let’s notice that Einstein’s equation describes the motion of point masses embedded in a given mass-energy ﬁeld
+Tµν along geodesics that derive from a single metric gµν . Then, one gets Bondi’s result from [9]:
+
+Interactions laws with a single metric:
+
+• Positive masses attract everything.
+• Negative masses repel everything”.
+
+Which inevitably produce the preposterous ”runaway motion” paradox (see Figure 8), a term coined by Bonnor in
+[10].
+
+Nonetheless, a few authors (Farnes [8], Chardin [11]) still consider that it is possible to introduce negative mass
+in cosmology keeping the general relativity framework, hence putting up with such phenomenon; despite the fact
+
+4
+
+J.P.Petit, G.D’Agostini and N.Debergh . Physical and mathematical consistency of the JCM
+
+(3)
+
+(4)
+
+Issue x (August)
+
+PROGRESS IN PHYSICS
+
+Volume xx (2018)
+
+Fig. 8: Runaway motion in general relativity
+
+that the runaway motion has been associated with the possibility of perpetual motion machines since the 1950s,
+as discussed by Gold with Bondi, Bergmann and Pirani in [12].
+
+On the contrary, from 1995 in [13] we propose a bimetric description of the universe with two coupled metrics
+and which produce trajectories along their own geodesics, for positive and negative mass particles, respectively.
+Then, the classical Schwarzschild solution allows, by simply reversing the integration constant, to get trajectories
+suggesting a gravitational repulsion of positive masses by a negative mass, and vice versa:
+
+(cid:18)
+(cid:18)
+
+(cid:19)
+(cid:19)
+
+ds2 =
+
+1 − 2 G M
+r c2
+
+c2dt2 −
+
+− r2dθ2 − sin2θdϕ2
+
+ds2 =
+
+1 +
+
+2 G M
+
+r c2
+
+c2dt2 −
+
+− r2dθ2 − sin2θdϕ2
+
+dr2
+
+1 − 2 G M
+r c2
+
+dr2
+2 G M
+
+r c2
+
+1 +
+
+Exploiting this idea, we introduce the concept of negative (diverging) gravitational lensing in the same paper [13].
+Considering that a gap within a negative mass distribution is equivalent to a positive mass concentration, we
+suggest to attribute the strong gravitational lensing eﬀects, observed in the vicinity of galaxies and galaxy clusters,
+not to a dark matter halo made of positive mass, but instead to their negative mass environment.
+
+From 1994, we also suggest in [5] that such a bimetric description could result from the combination of two
+Lagrangian densities, due to two Ricci scalars R(+) and R(−). In 2001 [6], we proposed for the ﬁrst time a system
+of two coupled ﬁeld equations, which can be written as:
+
+(cid:104)
+(cid:104)
+
+(cid:105)
+(cid:17)
+
+µν − 1
+R(+)
+2
+µν − 1
+R(−)
+2
+
+R(+) g(+)
+
+µν = +χ
+
+µν + T (−)
+T (+)
+
+µν
+
+R(−) g(−)
+
+µν = −χ
+
+µν + T (−)
+T (+)
+
+µν
+
+(5)
+
+(6)
+
+(7)
+
+(8)
+
+whose purpose was to account for the postulated interaction laws ??. Indeed, we make such laws emerge from a
+dual Newtonian approximation of this system of two coupled equations. Depending locally on the type of dominant
+species in a given region of space, equations with no RHS produce solutions of type 39 or 40.
+
+Aforementioned results of simulations showed that an asymmetry in the mass densities of the positive vs neg-
+ative mass species is required to account for observations of the large-scale structure of the universe. Such density
+asymmetry can be caused, not because of a larger quantity of negative mass, but if the two space gauge factors a(+)
+and a(−) are diﬀerent. Alas, at this level it is impossible to produce a time-dependent solution with a(+) (cid:54)= a(−).
+Inconsistency becomes inevitable when FRLW metrics are introduced in the two ﬁeld equations: similarly to Fried-
+mann solutions, they produce a couple of diﬀerential equations in a(+), a(cid:48)(+), a”(+) on one hand, and in a(−),
+a(cid:48)(−), a”(−) on the other. In the calculation based on Einstein’s equations, compatibility betweeen two equations
+
+J.P.Petit, G.D’Agostini and N.Debergh . Physical and mathematical consistency of the JCM
+
+5
+
+Volume xx (2018)
+
+PROGRESS IN PHYSICS
+
+Issue x (August)
+
+leads to the relation ρ a3 = cst in the matter-dominated era, which expresses mass-energy conservation. In the
+bimetric framework of the Janus model based on the two coupled equations 7 and 8, such compatibility reduces
+the time-dependent solution to a(+) = a(−) .
+
+Still in the same 2001 paper [6][6], we establish the connection between Sakharov’s seminal work about two uni-
+verses with opposite arrows of time, and negative gravity, using dynamical group theory from [14][14], which shows
+that time reversal goes with energy inversion, hence mass inversion as −m = − E/c2. We then introduce the
+”Janus group” to handle the electric charge in a ﬁve-dimensional spacetime:
+
+ λ µ
+
+0
+0
+
+
+
+λ , L0
+
+0
+
+0
+
+0
+0
+1
+
+with λ = ±1
+
+and µ = ±1
+
+(9)
+
+where L0 is the component of the orthochronous (forward in time) subset of the Lorentz group. It is the extension
+of the Poincar´e group to ﬁve dimensions, which describes the existence of two diﬀerent kinds of antimatter: one
+being C-symmetric with respect to normal matter, it has a positive mass; while the other antichronous (backward
+in time) antimatter is PT-symmetric and has a negative mass. Therefore, the CPT theorem has to be reconsidered,
+since the exclusion of negative energy states follows on from an a priori axiom in quantum ﬁeld theory, which
+postulates that the operator T has to be antiunitary and antilinear, a hypothesis not necessarily true as shown in
+[15].
+
+Sakharov’s conditions in [1] states that the baryon creation rate from an excess of quarks has been faster than the
+antibaryon creation rate from fewer antiquarks at t > 0, but such CP violation is opposite for t < 0 (the ”initial
+singularity” triggering complete CPT reﬂections) thereby preserving the global symmetry of the whole universe.
+This allows to deﬁne the true nature of the invisible antichronous components of the universe: these are copies of
+antiparticles that are usually made in a lab, but with negative energy and mass, due to T-symmetry.
+
+The invisibility of such objects is deduced from the idea that PT-symmetric antiparticles emit negative energy
+photons that follow null-geodesics of their own metric g(−)
+µν hence escape detection by optical instruments that are
+made of positive mass matter.
+
+In 2002, Damour and Kogan in [16] situate the issue with massive bigravity theories, where bimetry covers a
+diﬀerent approach. In such models, two branes interact using various massive gravitons (hence the name) with a
+mass spectrum. The authors propose a Lagrangian derivation, based on an action, which leads to a system of two
+coupled ﬁeld equations. But such a model, although mathematically consistent, does not stand up to scrutiny as
+it does not provide any solution able to be confronted with observations. As it has not been further pursued, it
+cannot answer this question.
+
+On the other hand, in 2008 and 2009, Hossenfelder in [17] and [18] builds her own bimetric model involving
+negative mass, from a Lagrangian derivation where she produces a system of two coupled ﬁeld equations. This
+g(−)
+in the Lagrangian densities considered. Exploiting her Lagrangian derivation, she reveals the determinant ratios
+
+g(+) and R(−)(cid:112)
+time, LHS are identical to the system (7;8) which follows on from the presence of terms R(+)(cid:112)
+of the two metrics(cid:112)g(+)/g(−) and(cid:112)g(−)/g(+) that had already been pointed out in previous work [19] and [20].
+
+She ﬁnally tackles two Friedmann solutions, without confronting them to observational data. Actually, although
+sharing many similarities, having the same kind of coupled ﬁeld equations regarding negative mass, a fundamental
+diﬀerence remains between Hossenfelder’s bimetric theory and the Janus Cosmological Model.
+
+Indeed, Hossenfelder doubts that the second entity can have an important eﬀect on the distribution of stan-
+dard matter, qualifying the gravitational coupling between the two species as ”extremely weak”. This is because
+”for symmetry reason” she considers that the absolute values of the mass density of the two populations should
+be of the same order of magnitude. Such hypothesis leads to a global zero ﬁeld conﬁguration, which does not
+ﬁt with observations, as she notices. Then, examination of possible ﬂuctuations seems to be her main concern.
+Not perceiving that a profound dissymmetry is on the contrary the key to the interpretation of many phenomena,
+including the acceleration of the cosmic expansion, she will not develop her model further during the following
+
+6
+
+J.P.Petit, G.D’Agostini and N.Debergh . Physical and mathematical consistency of the JCM
+
+Issue x (August)
+
+PROGRESS IN PHYSICS
+
+Volume xx (2018)
+
+decade, focusing instead on other research topics.
+
+Nonetheless, Hossenfelder points out a ”smoking gun signal” that could highlight the existence of invisible negative
+mass in the universe, through the detection of diﬀracted light rays caused by diverging lensing, an eﬀect previously
+predicted in [13]. We indeed showed from 1995 that photons emitted by high redshift galaxies (z > 7) are diﬀracted
+by the presence of invisible conglomerates of negative mass on their path. This reduces the apparent magnitude of
+such galaxies, making them appear as dwarf, which is consistent with observations.
+
+In 2014 in [21] we take again the system (7;8) and attempt to modify it according to:
+
+Introducing two functions ϕ() and φ() that allow a time-dependent homogeneous and isotropic solution, so that
+a(+) (cid:54)= a(−). This is possible by switching to the system:
+
+µν − 1
+R(+)
+2
+
+µν − 1
+R(−)
+2
+
+R(+) g(+)
+
+µν = +χ
+
+R(−) g(−)
+
+µν = −χ
+
+(cid:104)
+(cid:104)
+
+(cid:105)
+µν + ϕT (−)
+T (+)
+(cid:17)
+
+µν + T (−)
+
+φT (+)
+
+µν
+
+µν
+
+(cid:19)3
+
+(cid:34)
+(cid:34)(cid:18) a(+)
+
+T (+)
+µν +
+
+(cid:18) a(−)
+(cid:19)3
+
+a(+)
+
+(cid:35)
+(cid:33)
+
+T (−)
+
+µν
+
+µν − 1
+R(+)
+2
+
+R(+) g(+)
+
+µν = +χ
+
+µν − 1
+R(−)
+2
+
+R(−) g(−)
+
+µν = −χ
+
+a(−)
+
+µν + T (−)
+T (+)
+
+µν
+
+We obtained such a result by assuring energy conservation, not by deriving these equations from the system
+proposed in [18]. From (12;13) we then build an exact solution involving a large asymmetry, so that |ρ(−)| (cid:29) ρ(+)
+, accounting fot the acceleration of the expansion of the universe. D’Agostini thereafter showed in 2018 in [?] that
+this exact solution is in very good agreement with latest observational data. In parallel we publish in 2015 in [23]
+a Lagrangian derivation based on the functional relation:
+
+giving the following system of two coupled ﬁeld equations:
+
+δg(−)µν = −δg(+)µν
+
+(cid:115)−g(−)
+(cid:115)
+
+−g(+)
+
+T (+)
+T (−)
+
+
+
+
+µν − 1
+R(+)
+2
+
+R(+) g(+)
+
+µν = +χ
+
+µν +
+
+T (−)
+
+µν
+
+µν − 1
+R(−)
+2
+
+R(−) g(−)
+
+µν = −χ
+
+µν +
+
+g(+)
+g(−)
+
+T (+)
+µν
+
+which is similar to Hossenfelder’s system in her previous Lagrangian derivation [18], although both constructions
+are completely diﬀerent. In our derivation, the square root in the determinant ratio of the metrics directly follows
+on from hypothesis (14). Let’s recall that such a ratio always appears as soon as a bimetric approach is attempted,
+see for example [19] and [20]. Admittedly however, we cannot rule out that the system (15);(16), as well as the
+newer one exposed hereinbelow, can be considered as a particular case of Hossenfelder’s own model.
+
+In 2015 in [?] we extend the Janus framework to a class of solutions where the two speeds of light and , in
+the positive and negative sectors, are diﬀerent. In 2018 in [25] we propose to evaluate the magnitude of their ratio,
+based on a study of the ﬂuctuations in the CMB, which leads to the following conclusion:
+
+a(−)
+a(+)
+
+(cid:39) 1
+100
+
+c(−)
+c(+)
+
+(cid:39) 1
+10
+
+J.P.Petit, G.D’Agostini and N.Debergh . Physical and mathematical consistency of the JCM
+
+(10)
+
+(11)
+
+(12)
+
+(13)
+
+(14)
+
+(15)
+
+(16)
+
+(17)
+
+7
+
+Volume xx (2018)
+
+PROGRESS IN PHYSICS
+
+Issue x (August)
+
+The combination of such diﬀerent space scale factors and speeds of light would allow a gain factor of 1000 in travel
+time, regarding a hypothetical technology making apparent FTL interstellar travel by mass inversion possible, as
+evoked in [?] and [26].
+
+The paper [?] then summarizes many observational data in good agreement with features of the Janus Cosmological
+Model.
+
+2 The 2014 JCM and the Bianchi identities
+
+From 2014, the Janus system of two coupled ﬁeld equations (15;jcm2) satisﬁes the Bianchi identities, either trivially
+when the RHS are zero, or when one considers time-dependent homogeneous and isotropic solutions. However,
+inconsistency appears when one tries to describe with this system a time-independent situation with a spherical
+symmetry, modeling a star of constant density surrounded by a vacuum. Thus, a new modiﬁcation of the equation
+system must be considered, as explained below.
+
+Let’s consider a portion of the universe where one of the two species is absent, e.g. the negative energy species,
+repelled away by a local concentration of positive mass. Let’s limit our analysis to the search of a time-independent
+solution for a spherically symmetric system, and Newtonian approximation. The corresponding system is:
+
+We consider a sphere whose radius rs is ﬁlled by matter of constant density ρ(+) surrounded by vacuum. Outside
+of the sphere, the two metrics are:
+
+Then the two metrics have the form:
+
+with:
+
+We can write the stress-energy tensor as:
+
+µν − 1
+R(+)
+2
+µν − 1
+R(−)
+2
+
+R(+) g(+)
+R(−) g(−)
+
+µν = +χT (+)
+µν
+µν = −χT (+)
+
+µν
+
+ds(+)2 = eν(+)
+ds(−)2 = eν(−)
+
+c2dt2 − eλ(+)
+c2dt2 − eλ(−)
+
+dr2 − r2dθ2 − r2sin2θ dφ2
+dr2 − r2dθ2 − r2sin2θ dφ2
+
+(cid:18)
+(cid:18)
+
+ds(+)2 =
+
+1 − 2m
+r
+
+ds(−)2 =
+
+1 +
+
+2m
+r
+
+(cid:19)
+(cid:19)
+
+c2dt2 − dr2
+1 − 2m
+r
+c2dt2 − dr2
+2m
+1 +
+r
+
+− r2dθ2 − r2sin2θ dφ2
+
+− r2dθ2 − r2sin2θ dφ2
+
+m =
+
+4πr3
+s
+
+ρ(+)
+
+G
+c2
+
+3
+
+ρ(+)
+
+µ =
+
+T (+)ν
+
+
+
+ρ(+)c2 + p(+)(cid:17) m(r) + 4πGp(+)r3/c4
+p(+)(cid:48) = −(cid:16)
+
+0
+− p(+)
+c2
+0
+0
+
+0
+0
+− p(+)
+c2
+0
+
+0
+0
+0
+− p(+)
+
+0
+0
+0
+
+c2
+
+r (r − 2m(r))
+
+Where p(+) is the pressure insides the star of radius rs ﬁlled with constant density ρ(+). Equations (18) and (19)
+give the following diﬀerential equations:
+
+8
+
+2 The 2014 JCM and the Bianchi identities
+
+(18)
+
+(19)
+
+(20)
+
+(21)
+
+(22)
+
+(23)
+
+(24)
+
+(25)
+
+(26)
+
+Issue x (August)
+
+Volume xx (2018)
+
+PROGRESS IN PHYSICS
+
+(cid:16)
+
+ρ(+)c2 + p(+)(cid:17) m(r) + 4πGp(+)r3/c4
+
+r (r + 2m(r))
+
+p(+)(cid:48) = +
+
+where:
+
+After Newtonian approximation:
+
+which gives:
+
+m(r) =
+
+4πr3
+
+ρ(+)
+
+G
+c2
+
+p(+) (cid:28) ρ(+)c2
+
+r (cid:29) 2m
+
+p(+)(cid:48) = − ρ(+)c2m(r)
+
+p(+)(cid:48) = +
+
+ρ(+)c2m(r)
+
+3
+
+,
+
+r2
+
+r2
+
+So that we get a physical and mathematical contradiction, that must be cured.
+
+3 Lagrangian derivation of a new JCM, as of 2019
+
+Consider the two diagonal constant matrices:
+
+ 1 0
+
+0 1
+0 0
+0 0
+
+
+
+0
+0
+1
+0
+
+0
+0
+0
+1
+
+I =
+
+ 1
+
+ϕ =
+
+0
+0
+0
+0 −1
+0
+0
+0 −1
+0
+0
+0 −1
+0
+0
+
+
+
+Let’s perform the following bivariation, taking account of Iϕ = ϕ and ϕϕ = I
+
+Introduce the action:
+
+(cid:90)
+
+S =
+
+D4
+
+d4x
+
+(33)
+
+(cid:104)
+IR(+)(cid:112)−g(+) + ϕR(−)(cid:112)−g(−) − χ (I + ϕ) L(+)(cid:112)−g(+) + χ (I + ϕ) L(−)(cid:112)−g(−)
+(cid:90)
+(cid:90)
+
+(cid:19)(cid:112)−g(+) δg(+)µν d4x
+(cid:19)(cid:112)−g(−) δg(−)µν d4x
+
+R(−)g(−)
+
+R(+)g(+)
+µν
+
+D4
+
+D4
+
+δ
+
+δ
+
+(cid:105)
+
+(cid:90)
+(cid:90)
+
+R(+)(cid:112)−g(+) d4x =
+R(−)(cid:112)−g(−) d4x =
+(cid:90)
+(cid:90)
+
+(cid:18)
+(cid:18)
+L(+)(cid:112)−g(+) d4x =
+L(−)(cid:112)−g(−) d4x =
+
+D4
+
+D4
+
+δ
+
+δ
+
+µν − 1
+R(+)
+2
+µν − 1
+R(−)
+(cid:90)
+2
+(cid:90)
+
+D4
+
+D4
+
+D4
+
+T (+)
+µν
+
+T (−)
+
+µν
+
+µν
+
+(cid:112)−g(+) δg(+)µν d4x
+(cid:112)−g(−) δg(−)µν d4x
+
+D4
+
+From a previous Lagrangian derivation [7] :
+
+δg(−)µν = −δg(+)µν
+
+Our goal: to set up a system of two coupled ﬁeld equations providing joint solutions corresponding to Newtonian
+approximation. In such conditions the external metrics are:
+
+(cid:18)
+(cid:18)
+
+(cid:19)
+(cid:19)
+
+(cid:18)
+(cid:18)
+
+(cid:19)
+(cid:19)
+
+ds(+)2 =
+
+s ρ(+)
+1 − 8πG r3
+c2
+
+r
+
+c2dt2 −
+
+1 +
+
+8πG r3
+s ρ(+)
+c2
+
+r
+
+dr2 − r2dθ2 − sin2θdϕ2
+
+ds(−)2 =
+
+1 +
+
+8πG r3
+s ρ(+)
+c2
+
+r
+
+c2dt2 −
+
+1 − 8πG r3
+s ρ(+)
+c2
+
+r
+
+dr2 − r2dθ2 − sin2θdϕ2
+
+J.P.Petit, G.D’Agostini and N.Debergh . Physical and mathematical consistency of the JCM
+
+(27)
+
+(28)
+
+(29)
+
+(30)
+
+(31)
+
+(32)
+
+(34)
+
+(35)
+
+(36)
+
+(37)
+
+(38)
+
+(39)
+
+(40)
+
+9
+
+Volume xx (2018)
+
+PROGRESS IN PHYSICS
+
+Issue x (August)
+
+We may consider that such metrics belong to subsets of Riemannian metrics with signature (+ − −−) which obey
+relationship (38). Indeed:
+
+00 = − 8πG r3
+s ρ(+)
+δg(+)
+c2
+
+r δρ(+) = −δg(−)
+
+00
+
+11 = − 8πG r3
+s ρ(+)
+δg(+)
+c2
+
+r δρ(+) = −δg(−)
+
+11
+
+If we consider that (38) deﬁnes joint metrics, they obey:
+
+µν − 1
+R(+)
+2
+
+R(+) g(+)
+
+µν = +χ
+
+µν +
+
+ϕ T (−)
+
+µν
+
+µν − 1
+R(−)
+2
+
+R(−) g(−)
+
+µν = −χ
+
+µν +
+
+ϕ T (+)
+µν
+
+T (+)
+T (−)
+
+(cid:115)−g(−)
+(cid:115)
+
+−g(+)
+
+g(+)
+g(−)
+
+
+
+
+4 Back to the star model
+
+Starting from the new joint system (42);(43) we obtain the analogous of the system (18);(19) where, in the second
+equation, we would replace the tensor T (+) g(+)
+
+, so that:
+
+µν by ˆT (+)
+µν
+
+ˆT (+)
+00 = T (+)
+
+00 = ρ(+)
+
+ii = −T (+)
+ˆT (+)
+
+ii
+
+with
+
+j = {1, 2, 3}
+
+µν − 1
+R(−)
+2
+
+R(−) g(−)
+
+µν = −χ ˆT (+)
+
+µν
+
+p(+)(cid:48) = −(cid:16)
+p(+)(cid:48) = −(cid:16)
+
+ρ(+)c2 + p(+)(cid:17) m(r) + 4πGp(+)r3/c4
+ρ(+)c2 − p(+)(cid:17) m(r) − 4πGp(+)r3/c4
+
+r (r − 2m(r))
+
+r (r + 2m(r))
+
+With the joint metrics (20) and (21), inside the star, plus compatibility conditions satisfying (22) and (23) at its
+border r = rs we get the following result:
+
+with m(r) given by (28).
+
+(47) is nothing but the famous Tolman-Oppenheimer-Volkoﬀ equation.
+Applying the Newtonian approximation, any inconsistency vanishes. Such equations mean that inside the star, the
+pressure counterbalances the gravitational pull. The geodesics are given by:
+
+(cid:115)
+(cid:115)
+
+ 3
+ 3
+
+2
+
+2
+
+ds(+)2 =
+
+ds(−)2 =
+
+(cid:115)
+(cid:115)
+
+2
+2
+
+1 − r2
+s
+ˆR2
+
+− 1
+2
+
+1 − r2
+ˆR2
+
+c2dt2 − dr2
+1 − r2
+ˆR2
+
+− r2dθ2 − r2sin2θdφ2
+
+1 +
+
+r2
+s
+ˆR2
+
+− 1
+2
+
+1 +
+
+r2
+ˆR2
+
+c2dt2 − dr2
+1 + r2
+ˆR2
+
+− r2dθ2 − r2sin2θdφ2
+
+with:
+
+10
+
+ˆR2 =
+
+3c2
+
+8πGρ(+)
+
+4 Back to the star model
+
+(41)
+
+(42)
+
+(43)
+
+(44)
+
+(45)
+
+(46)
+
+(47)
+
+(48)
+
+(49)
+
+(50)
+
+(51)
+
+Issue x (August)
+
+PROGRESS IN PHYSICS
+
+Volume xx (2018)
+
+We linearize:
+
+ds(+)2 =
+
+(cid:18)
+(cid:18)
+00 = − 4πG(cid:0)3r3
+
+ds(−)2 =
+
+3c2
+
+δg(+)
+
+s − r2(cid:1)
+
+Notice that:
+
+(cid:19)
+(cid:19)
+
+(cid:18)
+(cid:18)
+
+(cid:19)
+(cid:19)
+
+1 − 3
+2
+
+r2
+s
+ˆR2
+
++
+
+1
+2
+
+r2
+ˆR2
+
+c2dt2 −
+
+1 +
+
+3
+2
+
+r2
+s
+ˆR2
+
+− 1
+2
+
+r2
+ˆR2
+
+dr2 − r2dθ2 − r2sin2θdϕ2
+
+1 +
+
+3
+2
+
+r2
+s
+ˆR2
+
+− 1
+2
+
+r2
+ˆR2
+
+c2dt2 −
+
+1 − 3
+2
+
+r2
+s
+ˆR2
+
++
+
+1
+2
+
+r2
+ˆR2
+
+dr2 − r2dθ2 − r2sin2θdϕ2
+
+δρ(+) = −δg(−)
+
+00
+
+r δρ(+) = −δg(−)
+
+11
+
+(54)
+
+11 = − 4πG(cid:0)3r3
+
+s − r2(cid:1)
+
+δg(+)
+
+3c2
+
+ﬁts (38).
+5 Back to our basic assumption : δg(−)µν = −δg(+)µν
+The time-dependent joint solutions presented in [21] correspond to the following FRLW metrics:
+
+ds(+)2 =(cid:0)dx0(cid:1)2 − a(+)2 du2 + u2 dθ2 + u2 sin2θ dϕ2
+ds(−)2 =(cid:0)dx0(cid:1)2 − a(−)2 du2 + u2 dθ2 + u2 sin2θ dϕ2
+
+k(+) u2
+
+1 +
+
+4
+
+(cid:19)2
+(cid:19)2
+
+(cid:18)
+(cid:18)
+
+1 +
+
+k(−) u2
+
+4
+
+which give, with the single solution k(+) = k(−) = −1 :
+
+Whose exact parametric solutions are, for (57):
+
+and for (58):
+
+= 0
+
+= 0
+
+(dx0)2 − 8πGρ0
+
+3c2
+0
+
+(dx0)2 +
+
+8πGρ0
+
+3c2
+0
+
+a(+)2 d2a(+)
+a(−)2 d2a(−)
+(cid:18)
+
+4πGρ0
+
+x0 =
+
+3c2
+0
+
+1 +
+
+sh(2v)
+
+2
+
++ v
+
+(cid:19)
+
+a(+) =
+
+ch2(v)
+
+4πGρ0
+
+3c2
+0
+
+x0 =
+
+4πGρ0
+
+3c2
+0
+
+a(−) =
+
+4πGρ0
+
+3c2
+0
+
+(sh(2w) − 2 w)
+
+(cid:0)ch2(w) − 1(cid:1)
+
+Let’s compute the variations δg(+)
+density ρ0. The variations δg(+)
+
+µν and δg(−)
+00 , δg(−)
+00 , δg(+)
+
+µν under a variation δρ0 of their single parameter, the dominant matter
+11 , δg(−)
+11 depend on the factors a(+)δa(+) and a(−)δa(−). But we have:
+d2a(+)
+(dx0)2 =
+
+(cid:18) da(+)
+
+1
+dx0
+
+2 ch4(v)
+
+(cid:19)
+
+3c2
+0
+
+dx0
+
+1
+
+(63)
+and similar equations for the second metric solution, so that δa(+)/δρ0 = δa(−)/δρ0 = 0 which ﬁts our fundamental
+relationship (38).
+
+4πGρ0
+
+=
+
+da(+)
+dx0 = th(v)
+
+J.P.Petit, G.D’Agostini and N.Debergh . Physical and mathematical consistency of the JCM
+
+11
+
+(52)
+
+(53)
+
+(55)
+
+(56)
+
+(57)
+
+(58)
+
+(59)
+
+(60)
+
+(61)
+
+(62)
+
+Volume xx (2018)
+
+PROGRESS IN PHYSICS
+
+Issue x (August)
+
+6 Conclusion
+
+A model is never deﬁnitively ﬁxed in time. The set of two coupled ﬁeld equations ﬁrst established in [9] corre-
+sponded to a ﬁrst step. The present paper proposes an updated system that has been mathematically enriched to
+give a precise description of the matter-dominated era. In its Newtonian approximation, it provides a new insight
+on astrophysics, especially in galactic dynamics which no longer depends on a set of a single Vlasov equation plus
+Poisson but on two Vlasov equations coupled with Poisson’s equation. New results in that ﬁeld will be published
+soon.
+
+At the present time, JCM provides:
+
+• joint solutions
+
+µν , g(−)
+g(+)
+
+µν
+
+(cid:16)
+
+(cid:17)
+
+−−), ﬁtting fundamental relationship g(+)
+
+µν = −g(−)
+µν .
+
+• with stationary and spherically symmetric conditions in the vacuum.
+• time dependent homogeneous and isotropic solutions.
+
+Which cover everything that can currently be confronted with observations.
+
+corresponding to the functional space of Riemannian metrics of signature (+ −
+
+To a model already compliant with many observational data [22], a physically and mathematically coherent repre-
+sentation of joint geometries for positive energy and mass species, in the solar system and its neighborhood, has
+been added. Therefore, the Janus cosmological model agrees with classical veriﬁcations of general relativity.
+
+By reversing this situation, considering instead a portion of space where negative mass largely dominates lo-
+cally, i.e. where positive mass has been repelled away so its mass density can be taken equal to zero, we obtain the
+ﬁrst coherent theoretical description of the Great Repeller, which has been exposed in [26].
+
+When photons emitted by high redshift galaxies (z¿7) cross negative mass conglomerates in the center of big
+cosmic voids, in the large-scale structure of the universe, negative gravitational lensing reduces their apparent
+magnitude, making them appear as dwarf galaxies, which is consistent with observations.
+
+One may argue that the Janus theory exhibiting tow coupled metrics as a “natural” hypothesis with the conﬁdence
+that subsequent results would eventually corroborate the postulate. However this bimetric model is formally sus-
+tained by a speciﬁc splitting of the Riemann Tensor which yields to 2nd rank tensor ﬁeld equations, as shown in
+[27].
+
+References
+
+Letters. 5 (1): 24–26.
+
+1. Sakharov, A. D. (January 1967). ”Violation of CP invariance, C asymmetry, and baryon asymmetry of the universe”. JETP
+
+2. Petit, J.-P. (23 May 1977). ”Univers jumeaux, ´enantiomorphes, `a temps propre oppos´ees” [tr. Enantiomorphic twin universes with
+
+opposite proper times]. Comptes Rendus de l’Acad´emie des Sciences. 263: 1315–1318.
+
+3. Petit, J.-P. (6 June 1977). ”Univers en interaction avec leurs images dans le miroir du temps” [tr. Universes interacting with their
+
+opposite time-arrow fold]. Comptes Rendus de l’Acad´emie des Sciences. 284: 1413–1416.
+
+4. Boyle, L.; Finn, K.; Neil Turok, N. (21 December 2018). ”CPT-Symmetric Universe”. Physical Review Letters. 121, 251301.
+
+arXiv:1803.08928. doi:10.1103/PhysRevLett.121.251301.
+
+5. Petit, J.-P. (July 1994). ”The missing-mass problem”. Il Nuovo Cimento B. 109 (7): 697–709. doi:10.1007/BF02722527.
+
+6. Petit, J.-P.; Midy, P.; Landsheat, F. (June 2001). ”Twin matter against dark matter”. Marseille Cosmology Conference Where’s
+
+the Matter? Tracing Dark and Bright Matter with the New Generation of Large Scale Surveys, Marseille, France.
+
+7. Petit, J.-P.; d’Agostini, G. (May 2015). ”Lagrangian derivation of the two coupled ﬁeld equations in the Janus cosmological model”.
+
+Astrophysics and Space Science. 357 (67): 67. doi:10.1007/s10509-015–2250–6.
+
+8. Farnes, J. S. (December 2018). ”A unifying theory of dark energy and dark matter: Negative masses and matter creation within
+
+a modiﬁed ΛCDM framework”. Astronomy & Astrophysics. 620. A92. arXiv:1712.07962. doi:10.1051/0004–6361/201832898.
+
+9. Bondi, H.
+
+(July 1957). ”Negative Mass
+
+in General Relativity”. Reviews of Modern Physics. 29 (3):
+
+423–428.
+
+doi:10.1103/RevModPhys.29.423.
+
+doi:10.1007/BF00763458.
+
+10. Bonnor, W. B. (November 1989). ”Negative mass in general relativity”. General Relativity and Gravitation. 21 (11): 1143–1157.
+
+11. Chardin, G.; Manfredi, G. (December 2018). ”Gravity, antimatter and the Dirac-Milne universe”. General Relativity and Quantum
+
+Cosmology. 239: 45. arXiv:1807.11198. doi:10.1007/s10751–018-1521–3.
+
+12
+
+6 Conclusion
+
+Issue x (August)
+
+PROGRESS IN PHYSICS
+
+Volume xx (2018)
+
+12. Bondi, H.; Bergmann, P.; Gold, T.; Pirani, F. (January 1957). ”Negative mass in general relativity” in The Role of Gravitation in
+
+Physics: Report from the 1957 Chapel Hill Conference, Open Access Editions Epubli 2011. ISBN:978-3869319636.
+
+13. Petit, J.-P. (April 1995). ”Twin universes cosmology”. Astrophysics and Space Science. 227 (2): 273–307. doi:10.1007/BF00627375.
+14. Souriau, J.-M. (1997). ”§14: A mechanistic description of elementary particles:
+
+Inversions of space and time” in Structure
+of Dynamical Systems. Progress in Mathematics. Boston: Birkh¨auser. pp. 189–193. doi:10.1007/978–1–4612–0281–3 14. ISBN
+978–1–4612–6692–1. Published originally in French in Structure des Syst`emes Dynamiques, Dunod 1970
+
+15. Debergh, N.; Petit, J.-P.; d’Agostini, G. (November 2018). ”On evidence for negative energies and masses in the Dirac
+equation through a unitary time-reversal operator”. Journal of Physics Communications. 2 (11): 115012. arXiv:1809.05046.
+doi:10.1088/2399-6528/aaedcc.
+
+16. Damour, T.; Kogan, I. I. (November 2002). ”Eﬀective Lagrangians and universality classes of nonlinear bigravity”, Physical Review
+
+D. 66: 104024. arXiv:hep-th/0206042. doi:10.1103/PhysRevD.66.104024
+
+17. Hossenfelder, S. (15 August 2008). ”A Bi-Metric Theory with Exchange Symmetry”. Physical Review D. 78 (4): 044015.
+
+arXiv:0807.2838. doi:10.1103/PhysRevD.78.044015.
+
+18. Hossenfelder, S.(June 2009). Antigravitation. 17th International Conference on Supersymmetry and the Uniﬁcation of Fundamental
+
+Interactions. Boston: American Institute of Physics. arXiv:0909.3456. doi:10.1063/1.3327545.
+
+19. Lightman, A. P.; Lee, D. L. (November 1973). ”New Two-Metric Theory of Gravity with Prior Geometry”. Physical Review D.
+
+20. Rosen, N. (December 1973). ”A bi-metric Theory of Gravitation”. General Relativity and Gravitation. 4 (6):
+
+435–447.
+
+8(10): 3293. doi:10.1103/PhysRevD.8.3293.
+
+doi:10.1007/BF01215403.
+
+21. Petit, J.-P.; d’Agostini, G. (December 2014). ”Negative mass hypothesis in cosmology and the nature of dark energy”. Astrophysics
+
+and Space Science. 354 (2): 611. doi:10.1007/s10509-014-2106-5.
+
+22. D’Agostini, G.; Petit, J.-P. (June 2018). ”Constraints on Janus Cosmological model from recent observations of supernovae type
+
+Ia”. Astrophysics and Space Science. 363 (7): 139. doi:10.1007/s10509-018-3365-3.
+
+23. Petit, J.-P.; d’Agostini, G. (November 2014). ”Cosmological bimetric model with interacting positive and negative masses and
+two diﬀerent speeds of light, in agreement with the observed acceleration of the Universe”. Modern Physics Letters A. 29 (34):
+1450182. doi:10.1142/S021773231450182X.
+
+24. Petit, J.-P. (October 2018). ”Janus Cosmological Model and the Fluctuations of the CMB”. Progress in Physics. 14 (4): 226–229.
+
+25. Petit, J.-P.; Debergh, N.; d’Agostini, G. (September 2018). ”Negative energy states and interstellar travel”. Advanced Propulsion
+
+Workshop. Estes Park, CO: Space Studies Institute.
+
+26. Hoﬀman, Y.; Pomar`ede, D.; Tully, R. B.; Courtois, H. M. (January 2017). ”The dipole repeller”. Nature Astronomy. 1 (2): 0036.
+
+arXiv:1702.02483. doi:10.1038/s41550-016-0036.
+
+27. Marquet P.(2017) “On a 4th Tensor Gravitational Theory. Progress in Physics vol. 13
+
+J.P.Petit, G.D’Agostini and N.Debergh . Physical and mathematical consistency of the JCM
+
+13
+
+

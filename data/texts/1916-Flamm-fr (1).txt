@@ -1,0 +1,546 @@
+	
+
+1	
+
+Ludwig	Flamm	
+
+	
+
+Contribution	à	la	Théorie	de	la	Gravitation	d’Einstein1	
+
+Libre	de	droits.	
+
+Publication	initiale	reçue	le	3	septembre	1916	
+
+______________________________________________________________________________________________	
+
+	Republié	le	30	mai	2015,		en	anglais,	dans	Gravitation	and	Cosmology,	sous	copyright,	
+par	les	éditions	Springer.		
+Traduit	en	français	en	novembre	2021	par	Jean-Pierre	Petit	et	Patrick	Marquet.	
+								A.	Einstein	a	considérablement	amélioré	la	compréhension	de	cette	nouvelle	
+théorie	de	la	gravitation	par	le	par	le	résumé	que	nous	avons	donné	récemment	.	Les	
+explications	populaires	données	par	M.Born2	et	E.Freundlich3	ont	également	été	
+éclairantes.	Cependant,	les	solutions	exactes	pour	les	champs	gravitationnels	à	
+symétrie	sphérique,	qui	ont	été	trouvées	et	discutées	par	K.	Schwarzschild	(4),	sont	
+particulièrement	instructives.	Dans	les	présentes	lignes,	l'auteur	s'efforce	d'ajouter	des	
+conclusions	supplémentaires	à	celles-ci.	En	particulier,	les	propriétés	remarquables	du	
+champ	gravitationnel	seront	mises	en	évidence.			De	cette	manière,	les	hypothèses	
+physiques	de	la	théorie	générale	de	la	relativité	pourraient	peut-être	apparaître	encore	
+plus	transparentes.	En	outre,	
+lumière	dans	un	champ	
+gravitationnel	peut	être	traité	avec	plus	de	précision	qu'auparavant.	De	même,	un	
+calcul	numérique	strict	des	constantes	pertinentes	pour	le	champ	gravitationnel	du	
+Soleil	pourrait	être	souhaitable.		
+	1	Il	est	conseillé	de	considérer	d'abord	le	cas	du	champ	gravitationnel	à	l'intérieur	
+d'une	boule	de	fluide	incompressible,	qui	a	été	discuté	plus	tard	par	Schwarzschild.	La	
+présence	du	champ	gravitationnel	se	manifeste	par	le	fait	que	l'élément	linéaire	de	
+Minkowski	ne	peut	plus	être	réduit	à	la	forme	spéciale		
+	
+	par	un	choix	approprié	de	coordonnées.	Au	contraire,	dans	le	cas	le	plus	simple,	elle	se	
+présente	comme	suit		
+	
+																																																								
+1	Ludwig	Flamm.	Beiträge	zur	Einsteinschen	Gravitationstheorie,	Physikalische	
+Zestschrift	XVII	(1916)	pp.	448-454	
+2	Physikalische	Zeitschrift	17,	51	,	1916	
+3	Narurwissenschaften	4	,	363	et	366	,	1916,		
+
+le	mouvement	de	
+
+la	
+
+	
+
+	
+
+	
+
+2	
+	
+	où		les	coordonnées	ont	déjà	été	choisies	d'une	manière	particulière	et	appropriée.	
+Voici	une	coordonnée	qui	augmente	radialement	à	partir	du	centre	de	la	boule	de	fluide,	
+atteignant	la	valeur	 χa	à	la	surface	limite,	et	 ϑ	et	ϕ	sont	les	coordonnées	sphériques	
+habituelles.	La	constante	 ρoreprésente	la	densité	de	la	boule	de	fluide	et	 κ	représente	
+la	constante	gravitationnelle	de	la	théorie	d'Einstein,	qui	a	pour	valeur	
+	
+	
+Où	κ	est	la	constante	gravitationnelle	habituelle	
+	
+	Et	c	la	vitesse	de	la	lumière.		
+				Il	est	pratique	d'écrire	la	métrique	selon	
+	
+	C'est-à-dire	de	le	diviser	en	une	partie	temporelle	
+	
+	et	une	partie	spatiale		
+	
+	Ici,	la	nouvelle	constante	
+	a	été	introduite.	Comme	le	remarque	Schwarzschild,	l'expression	ci-dessus	pour  dσ2		
+ne	représente	rien	d'autre	que	l'élément	linéaire	de	l'espace	sphérique	avec	rayon	de	
+courbure	;	par	conséquent,	ce	doit	être	la	géométrie	à	l'intérieur	de	la	boule	fluide.		
+
+	
+
+	
+
+	
+
+	
+
+	
+
+.	Dans	ce	cas,	l'élément	linéaire	se	lit	comme	suit.		
+
+	
+3	
+				Pour	avoir	une	vue	d'ensemble	des	relations,	il	suffit,	en	raison	de	la	symétrie	
+sphérique,	de	considérer	la	géométrie	de	toute	section	plane	passant	par	l'origine,	donc	
+pour	
+	On	peut	voir	que	ce	sont	les	mêmes	propriétés	métriques	que	sur	une	sphère	de	rayon	
+  Ro.	D'après	FiG.1	,	on	peut	penser	que	cela	est	généré	par	une	rotation	autour	du	
+diamètre	vertical	AB	.	L'élément	méridien	de	longueur	d'arc	est	alors		
+	
+
+ϑ = π
+2
+ 
+
+	
+
+	
+
+	
+
+		
+	si	  Roest	le	rayon	du	cercle	méridien,	l'élément	de	la	longueur	de	l'arc	sur	les	cercles	
+parallèles	est	
+(30)																																																															  dσ n = R.dϕ		
+	si	ϕ	est	l'angle	de	rotation	et		
+	
+	
+désigne	la	distance	par	rapport	à	l'axe	de	rotation.	Par	conséquent,	l'élément	linéaire	
+sur	cette	sphère	est	également	donné	par	la	formule	(2).		
+	
+			Une	différence	frappante	entre	la	géométrie	sur	la	sphère	par	rapport	à	la	
+géométrie	euclidienne	consiste,	par	exemple,	dans	le	fait	que	les	circonférences	des	
+cercles	concentriques	
+
+	
+
+	
+
+	
+	
+
+	
+4	
+	
+n'augmentent	pas	proportionnellement	au	rayon	 σm,	mais	sont	obtenues	à	partir	de	
+celui-ci	par	la	formule	compliquée	suivante		
+	
+Ainsi,	la	circonférence	atteint	un	maximum	pour		
+	
+	pour	diminuer	à	nouveau	et	revenir	complètement	à	zéro	pour	:	
+	
+On	a	
+et,	donc	
+	
+alors	qu'en	géométrie	euclidienne,	seul	le	signe	d'égalité	est	valable.	Exactement	les	
+mêmes	relations	doivent	exister	alors	qu'en	géométrie	euclidienne	seul	le	signe	
+d'égalité	existe.	Exactement	les	mêmes	relations	doivent	exister	pour	le	rayon	et	la	
+circonférence	des	cercles	à	l'intérieur	de	chaque	section	centrale	plane	de	la	boule	
+fluide.		
+	
+			Pour	une	meilleure	compréhension	de	ce	qui	suit,	un	petit	réarrangement	sera	
+effectué.		
+	
+Puisque		
+	
+l’équation	(3)	peut	également	s'écrire	comme	suit		
+	
+et,	sous	cette	forme,	peut	être	lue	directement	à	partir	de	la	Fig.	1	car	elle	représente	
+également	l'angle	 χ	entre	l'élément	de	longueur	d'arc	et	l'horizontale.	Par	conséquent,	
+la	formule	(2)	peut	également	être	donnée	sous	la	forme		
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+5	
+					Mais	il	s'agit	alors	de	l'expression	générale	de	la	métrique		d'une	surface	de	rotation,	
+où	 χ	désigne	l'angle	que	fait	la	tangente	à	la	courbe	méridienne,	qui	est	tout	à	fait	
+arbitraire,	avec	le	plan	équatorial.		
+	
+			2	.	Nous	pouvons	maintenant,	de	manière	analogue,	examiner	le	premier	cas	
+traité	par	Schwarzschild,	le	champ	gravitationnel	d'une	masse	ponctuelle.	L'élément	de	
+ligne,	dans	sa	forme	la	plus	simple,	a	la	même	structure	que	ci-dessus	et	se	lit	comme	
+suit		
+						Une	quantité	est	entièrement	nouvelle	dans	cette	expression,	la	constante	α4,	qui	a	
+la	valeur	suivante		
+où	 Mo	représente	la	masse	centrale,	telle	qu'elle	serait	obtenue	à	partir	de	mesures	
+astronomiques.	L'élément	de	ligne	sera	à	nouveau	décomposé	selon	la	formule	(1).		
+							La	partie	spatiale	de	la	métrique	n’est	pas	non	plus	de	nature	Euclidienne.	Encore	
+une	fois,	du	fait	de	la	symétrie	sphérique,	il	semble	suffisant	de	nous	limiter	à	
+considérer	la	métrique	dans	une	section	arbitraire	effectuée	selon	un	plan	passant	par	
+l’origine,	correspondant	à	la	valeur	
+	
+	La	métrique	a	aussi	la	forme	(2’),	parce	qu’on	peut	poser	:		
+	
+et	c’est	aussi	identique	avec	la	métrique	d’une	surface	de	rotation.	En	désignant	par	z	la	
+coordonnée	selon	la	direction	de	l’axe	de	rotation,	l’équation	de	la	courbe	méridienne	
+suit	alors	:	
+ou	:		
+Ceci	correspond	à	une	parabole	avec	le	paramètre		
+	
+p	=	2	α	
+																																																									
+4	NT	:	Le	«	rayon	de	Schwarzschild	»	
+
+	.	Maintenant,	nous	obtenons		
+
+ϑ = π
+2
+ 
+
+	
+
+	
+
+	
+6	
+				Cette	équation	se	réfère	à	l'axe	et	à	la	directrice	comme	ligne	de	coordonnées,	
+comme	indiqué	sur	la	figure	2.	Ainsi,	l’expression	(4)	est	identique	à	la	métrique	d’une	
+surface	obtenue	en	faisant	tourner	cette	parabole	selon	l’axe	directeur	ZZ’	
+	Le	rayon	méridien	de	la	courbure	principale	de	cette	surface	de	rotation	est	le	suivant	
+	
+								Le	rayon	de	courbure	principal	orthogonal	est	donné	par	la	ligne	de	la	Fig.	2	et	a	la	
+valeur		
+	
+
+	
+
+		
+
+	
+
+	
+
+	
+
+	
+
+7	
+
+	
+									On	obtient	ainsi	pour	la	courbure	de	Gauss	de	ce	paraboloïde	de	révolution	:		
+	
+					Quoiqu’il	en	soit	dans	la	sphère	dont	il	a	été	question	dans	la	section	précédente	la	
+courbure	de	Gauss	est		
+						C’est	à	dire	qu’elle	est	positive	et	constante.	Dans	le	cas	du	paraboloïde	de	
+révolution	la	courbure	est	négative	et	variable.	Elle	décroît	au	fur	et	à	mesure	que	R	
+croît.	Et	c'est	précisément	pour	cette	raison	que	la	géométrie	de	cette	surface	est	
+encore	plus	complexe.	Pour	la	sphère	cette	dépendance	de	la	valeur	de	la	circonférence	
+par	rapport	au	rayon	n’était	pas	aussi	simple	que	dans	une	géométrie	euclidienne.	Mais	
+on	avait	une	courbure	uniforme	sur	toute	la	sphère.	Pour	le	paraboloïde	de	à	la	main,	
+cela	dépend	en	outre	de	la	position	des	cercles	sur	cette	surface.	Ces	propriétés	
+métriques	sont	exactement	les	mêmes	pour	toute	section	plane	contenant	le	point-
+masse.		
+	3.	Le	point	masse,	qui	est	la	source	du	champ	gravitationnel,	se	situe	au	sommet	S	de	
+la	parabole.	La	surface	de	rotation	de	la	branche	 Sπ	de	la	parabole,	voir	figure	3,	
+correspond	à	la	section	plane	complète,		passant	par	le	centre,	en	préservant	les	
+propriétés	métriques.	La	particularité	est	que	cette	«	masse	ponctuelle	»	a	une	
+extension	finie,	selon	une	sphère	dont	périmètre	à	l’équateur	est	 2πα		,	comme	
+Schwarzschild	l’avait	déjà	remarqué	ce	qui	est	évident	sur	la	figure.		
+	
+
+	
+
+	
+
+8	
+
+	
+
+					A	l’extérieur	de	la	sphère	fluide,		dont	nous	avons	parlé	au	premier	paragraphe,	la	
+métrique	est	la	même	que	pour	la	géométrie	créée	par	une	«	masse	ponctuelle	».	La	
+jonction	entre	ces	deux	solutions	est	donnée	par	des	conditions	aux	limites.	Cela	
+consiste	simplement	dans	le	fait	que	les	termes	de	la	métrique	et	leurs	dérivées	
+premières	doivent	coïncider,	avoir	les	mêmes	valeurs.		
+						Concernant	notre	représentation	des	propriétés	métriques	dans	un	plan	passant	par	
+le	centre,	ceci	implique	que	la	sphère,	qui	représente	la	géométrie	à	l’intérieur	de	cette	
+masse	fluide,	doit	se	raccorder	avec	la	paraboloïde	de	révolution	qui	se	réfère	à	la	
+géométrie	à	l’extérieur	de	la	boule	fluide.	Ceci	est	indiqué	par	l’arc	de	cercle	GAG’	qui	
+touche	les	paraboles.	Maintenant	la	surface	de	révolution	combinant	les	deux	portions	
+de	courbes	AF	représente	l’ensemble	de	la	coupe	plane		passant	par	le	centre	et	
+préservant	les	propriétés	métriques.	L’angle	qui	croit	sur	le	segment	sphérique	jusqu’à	
+une	valeur	maximale		à	la	frontière	décroit	lentement	le	long	de	la	portions	située	sur	
+le	paraboloïde,	qui	fait	suite,	jusqu’à	la	valeur	zéro.	Le	tout	évoque	une	forme	
+d’entonnoir.		
+		4	.				Ainsi,	les	longueurs	élémentaires,	qui	sont	représentées	par	 dσ	,	sont	soumises	à	
+l’effet	du	champ	gravitationnel	de	telle	manière	que	lorsqu’on	les	utilise	en	tant		
+«	qu’outils		naturels	de	mesure	de	longueur	dans	l’espace		de	l'espace"		cela	ne	
+correspond	pas,	en	général	à	une	géométrie	Euclidienne.	On	retrouve	quelque	chose	
+d’analogue	pour	les	mesures	des	temps	avec	des	horloges	élémentaires,	en	considérant	
+une	«mesure	naturelle	du	temps	»	correspondant	à	 dτ	En	général,	il	n'est	plus	possible	
+de	s'identifier	simplement	 dτ	avec	dt	comme	dans	le	monde	de	Minkowski,	mais	la	le	
+
+dσ
+dτ
+  
+
+ds2	=	0		
+= 1		
+
+	
+9	
+rapport	entre	les	deux	est	plus	élaboré.	Quoiqu’il	en	soit,	la	vitesse	de	la	lumière	est	
+donnée	par	l’équation		
+	comme	dans	l’espace	de	Minkowski.	Pour	ce	dernier	nous	avons	:		
+	
+	tel	que	cette	mesure	naturelle	de	la	vitesse	de	la	lumière	soit	une	constante.	Les	unités	
+sont	en	particulier	choisies	de	telle	manière	que	cette	vitesse	soit	égale	à	l’unité.	En	ce	
+sens,	la	théorie	de	la	relativité	générale	postule	égale	cette	constance	de	la	vitesse	de	la	
+lumière.		
+						Il	est	important	d'examiner	la	signification	de	la	proposition	que	nous	venons	juste	
+d’énoncer.	Exprimée	à	l’aide	des		coordonnées,	qui	sont	de	simples	paramètres	utilisés	
+pour		la	formulation	du	champ	gravitationnel,	la	vitesse	de	la	lumière	n'est	en	aucun	
+cas	constante,	elle	est	même	différente	dans	différentes	directions,	dans	un	même	lieu.	
+Mais,	lorsqu'elle	est	mesurée	à	l'aide	d’instruments	de	mesure	de	longueur,	matériels,	
+et	d'horloges,	la	propagation	de	la	lumière	apparaît	également	homogène	et	isotrope	
+dans	un	champ	gravitationnel.	En	choisissant	comme	horloge	élémentaire	la	molécule	
+qui	émet	la	raie	rouge	du	cadmium,	et	en	fixant	sa	période	comme	unité	de	temps,	on	
+s'aperçoit	immédiatement	que	-	en	raison	de	la	constance	de	la	vitesse	de	la	lumière	-	
+l'unité	métrique	de	longueur	doit	être	couverte	à	tout	moment	et	en	tout	lieu	par	le	
+même	nombre	de	longueurs	d'onde	de	la	raie	rouge	du	cadmium.	Si	l'on	attache,	en	
+outre,	l’unité	de	mesure	de	longueur	à	la	distance	entre	les	éléments	dans	le	réseau	du	
+cristal	de	chlorure	de	sodium,	on	arrive	à	une	conclusion	similaire	vis	à	vis	de	la	
+constance	de	la	vitesse	de	la	lumière	«	mesurée	naturellement	".	Ainsi,	la	théorie	de	la	
+relativité	générale	repose	sur	l'hypothèse	fondamentale	selon	laquelle,	par	exemple,	le	
+rapport	entre	la	longueur	d'onde	de	la	raie	rouge	du	cadmium	et	la	constante	de	réseau	
+du	cristal	de	chlorure	de	sodium	est	une	constante	absolue.	Même	dans	un	champ	
+gravitationnel,	ceci	doit	être	complètement	indépendant	du	lieu,	de	l’orientation	et	de	
+l’instant.		
+	Par	conséquent,	si	les	instruments	de	mesure	de	longueur	et	les	horloges	élémentaires	
+sont	influencées	par	le	champ	gravitationnel,	la	propagation	de	la	lumière	doit	être	
+influencée	exactement	de	la	même	manière,	de	sorte	que	lorsqu'elles	sont	comparées	
+les	unes	aux	autres,	elles	ne	présentent	aucune	différence.	Il	doit	en	être	de	même	pour	
+les	autres	phénomènes	physiques.	C'est	peut-être	la	raison	pour	laquelle	on	peut	
+décrire	le	mouvement	d'une	particule	ponctuelle	par	l'équation	variationnelle	simple	
+	
+	
+	même	si	l'expression	ne	contient	que	des	quantités	liées	aux	propriétés	métriques.	
+L'influence	du	champ	gravitationnel	sur	le	mouvement	de	la	particule	ponctuelle	est	
+tout	à	fait	conforme	au	changement	que	présentent	les	instruments	de		mesure	de	
+;	le	
+longueur	et	les	horloges	élémentaires,	les	uns	par	rapport	aux	autres	
+
+	
+10	
+comportement	des	phénomènes	est	resté	le	même.	De	cette	façon,	le	principe	général	
+de	la	relativité	peut	être	formulé	de	manière	plus	concrète.	
+			5.	Puisque	la	propagation	de	la	lumière	obéit	à	la	condition		
+	
+	elle	doit	être	un	cas	particulier	dans	les	équations	(5)	du	mouvement	général	d'une	
+particule	ponctuelle.	En	effet,	il	suffit	de	mettre	à	zéro	la	seule	constante	 h	dans	les	
+intégrales	intermédiaires	du	mouvement	des	particules,	qui	ont	été	dérivées	par	
+Schwarzschild,	pour	satisfaire	à	la	condition	ci-dessus.	Ainsi,	les	équations	qui	
+décrivent	la	propagation	de	la	lumière	dans	un	champ	gravitationnel	créé	par	une	
+masse	centrale	s’écrivent		
+	
+
+ds2	=	0	
+
+1
+
+R = x		
+
+	
+	La	seconde	équation	représente	la	seconde	loi	de	Kepler	et,	puisque	la	vitesse	de	la	
+lumière	à	l’infini	est	1,	la	constante	Δ	a	un	sens	physique	clair.	Ce	n'est	rien	d'autre	
+que	la	longueur	de	la	perpendiculaire	abaissée	du	centre	au	rayon	lumineux,	s'il	ne	
+changeait	pas	de	direction	en	venant	de	l'infini	;	c'est,	pour	ainsi	dire,	la	distance	Δ,	
+par	laquelle	le	rayon	lumineux	à	l'infini	manque	le	centre5		
+					En	introduisant		
+	l’équation	de	la	trajectoire,	dérivée	du	système	(6)	s’écrit	de	manière	analogue	à	ce	que	
+fait	Schwarzschild		
+	et	ainsi	représente	l’équation	pour	un	rayon	de	lumière,	dans	le	présent	champ	
+gravitationnel.	Il	vient	:		
+	
+																																																									
+5	NDT	:	La	distance	minimale	à	laquelle	le	rayon	passera	vis	à	vis	du	centre.		
+
+	
+
+	
+
+  
+
+	
+
+	
+	
+
+= 0		
+
+	
+11	
+et	ainsi	cela	mène	à	une	intégrale	elliptique	comme	dans	le	mouvement	des	planètes.	
+En	introduisant	la	nouvelle	variable	:		
+	
+	il	vient,	au	second	ordre	près	en	α	
+	
+et	on	obtient		
+						On	désigne	par	 ϕ a	l'angle	balayé	par	le	rayon	vecteur,	lorsqu'un	élément	du	rayon	
+lumineux	provenant	de	l'infini	s’approche	au	plus	près		de	la	masse	centrale,	ce	qui	est	
+le	cas	quand	
+on	a	alors		
+	puisque		µ,	entre-temps,	passe	de	zéro	à	exactement	la	valeur	1.	L'élément	du	rayon	
+lumineux	se	déplaçant	à	toute	allure	du	périhélie	vers	l'infini,	le	rayon	vecteur	balaie	
+l'angle	 ϕb	,	pour	lequel	on	trouve	également.		
+	
+		Le	rayon	vecteur	aurait	balayé	l'angle	π	au	total	si	le	rayon	lumineux	s'était	propagé	en	
+ligne	droite.	Ce	qui	fait	qu’on	obtient	l’angle	de	déflexion	subi	par	le	rayon	dans	un	
+champ	gravitationnel6,	
+	
+	
+		ce	qui	coïncide		avec	la	formule	obtenue	par	Einstein7	dans	ce	cas.	Ceci	étant,	le	calcul	
+présenté	ici	est	complètement	identique	au	calcul	du	mouvement	du	périhélie	des	
+trajectoires	planétaires8.		Ainsi,	l’influence	du		champ	gravitationnel	sur	les	rayons	
+																																																								
+6	NDT	:	Flamm	évalue	l’effet	de	lentille	gravitationnelle	
+7		Ann.	D.	Phys.		49,	822,	1916	
+8		A.Einstein,	Berliner	Sitzungsberichte	1915,	p.	831	
+
+dx
+dϕ
+  
+
+	
+
+	
+
+	
+
+dR
+  
+
+	
+12	
+lumineux	a	la	même	cause.	Ainsi	on	peut	également	regarder	la	déflexion	du	rayon	
+lumineux	comme	un	déplacement	du	périhélie.		
+						La	valeur	de	la	coordonnée	R	quand	le	rayon	lumineux	est	à	la	périhélie	peut	aussi	
+être	calculée	et	découle	du	système	(6)	en	faisant		
+	
+ds = 0	
+sous	la	forme	de	la	relation		
+	
+	Finalement,	au	second	ordre	près	on	obtient			
+	
+	
+						De	ce	fait	on	pourrait	remplacer	dans	le	dénominateur	de	(7)	la	grandeur	Δ	par	R	
+sans	nuire	à	la	précision	de	la	formule	finale.		
+	6.	Les	calculs	numériques	relatifs	au	champ	gravitationnel	du	Soleil	ont	été	effectués	
+de	manière	plus	ou	moins	approximative	par	Einstein	et	Schwarzschild.	Cependant,	
+dans	ce	qui	suit,	l'auteur	souhaite	présenter	une	réévaluation	unifiée	et	exacte	des	
+grandeurs	impliquées.		Les	données	astronomiques	employées	ont	été	extraites	de	la	
+table	des	constantes	de	«	l’Astronomie	Théorique	»	de	W.Klinkerfue9.	Ainsi,	en	
+particulier	nous	nous	sommes	basés	sur	la	valeur	suivante	du	parallaxe	horizontal	et	
+équatorial	du	Soleil	:		
+	
+et	pour	le	vitesse	de	la	lumière		
+	telle	qu’elle	a	été	arrêtée	lors	de	la	conférence	d’astronomie	de	Paris.	On	a	pris	le	rayon	
+équatorial	de	la	Terre	fourni	par	Bessel.		
+			Pour	le	produit	de	la	constante	de	gravitation	par	la	masse	du	Soleil	on	obtient		
+	
+	
+	A	partir	de	là	on	détermine	la	valeur	de	l’importante		longueur	α		
+	
+ α = 2.945 105 cm		
+																																																									
+9		2nd	edition	by	H.	Bulchholz,	Brauschweig	1899,	p.	927		
+
+ π = 8.80"		
+  c = 2.9986 1010 cms−1	
+
+	
+13	
+qui	a	été	évaluée	approximativement	par	Schwarzschild	à	3	km.	Il	est	facile	de	voir	
+qu'en	raison	de	la	courbure	de	la	lumière,	le	rayon	solaire	réel,	qui	est	déterminé	à	
+partir	du	rayon	apparent	de	la	manière	habituelle,	est	en	réalité	dénoté	par	Δ	dans	la	
+section	précédente.	Nous	désignons	cette	quantité	par	 Δasi	elle	se	rapporte	au	cas	
+particulier	d'un	rayon	lumineux	rasant	la	surface	du	soleil.		En	se	basant	sur	la	valeur	
+du	rayon	apparent	du	soleil,	d’après	Auwers,	on	obtient		
+	
+ Δa = 6.9545 1010cm		
+	et	il	faut	déterminer	la	valeur	correspondante	de	Ra	pour	le	rayon	solaire	à	partir	de	
+l'équation	(8).		Ceci	étant,	vues	les	précisions	des	mesures	astronomique	du	moment	
+on	peut	identifier	les	quantités	 Ra		et	 Δa.	Avec	les	quantités	données	plus	haut	on	
+obtient,	pour	un	rayon	lumineux	qui	passe	au	ras	du	soleil		
+	
+ εa = 1.75"		
+	Ce	qui	est	en	bon	accord	avec		le	résultat	du	calcul	d’Einstein.		
+					Enfin,	voici	les	constantes	que	l'on	obtient	lorsque	le	soleil	est	considéré	comme	une	
+boule	de	fluide	incompressible.	La	relation	
+	
+fait	apparaître	l'angle	à	la	surface	du	soleil	comme	une	petite	quantité	pour	le	calcul	de	
+laquelle	la	formule	
+suffit.		Alors	il	vient		
+				Par	conséquent,	cette	cartographie	de	la	surface	de	l'entonnoir,	la	géométrie	dans	
+une	coupe	centrale	du	système	solaire	est	assez	plate.	Encore	une	fois,	pour	le	rayon	de	
+courbure	
+de	l’espace	sphérique	à	l’intérieur	du	Soleil	la	formule	simplifiée	suffit.	
+	
+	Le	calcul	numérique	montre	que	le	rayon	de	courbure	Ro	dans	l’intérieur	du	Soleil	est	
+486	fois	plus	grand	que	le	rayon	  Ra			du	Soleil.	Si	on	effectue	le	calcul	en	centimètres	
+
+	
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+Résumé	
+
+14	
+
+	
+ce	qui	représenterait	une	distance	allant	du	soleil	à	la	ceinture	de	planétoïdes.	
+		
+						Toute	 coupe	 plane	 effectuée	 à	
+l’intérieur	 d’une	 boule	 emplie	 d’un	 fluide	
+incompressible	possède	la	même	géométrie	qu’un	sphère	(1).	Autour	d'une	masse	
+centrale,	chaque	coupe	centrale10	a	la	même	géométrie	qu'une	surface	générée	par	une	
+parabole	tournant	autour	de	sa	directrice	(2).	La	coquille	sphérique	qui	représente	
+chaque	coupe	centrale	du	fluide	en	conservant	ses	propriétés	métriques	doit	toucher	le	
+segment	du	paraboloïde	de	rotation	qui	remplit		la	même	fonction	à	l'extérieur	(3).		Le	
+principe	d'une	vitesse	de	la	lumière	constante,	et	notamment	"	naturellement	mesurée	
+",	est	une	hypothèse	fondamentale,	également	pour	la	théorie	générale	de	la	relativité	
+(4).	La	déviation	des	rayons	lumineux	passant	par	une	masse	centrale	peut	également	
+être	interprétée	comme	le	mouvement	du	périhélie	de	manière	similaire	aux	planètes	
+( 5).	Les	déviations	de	la	géométrie	euclidienne	dans	le	système	solaire	sont	
+extrêmement	faibles	(6).		
+Laboratoire	de	physique	de	l'Université	technique	impériale	et	royale	de	Vienne.	
+	
+
+	
+
+Manuscrit	reçu	le	3	septembre	1916.		
+
+																																																								
+10	NDT	:	coupe	plane,	passant	par	le	centre	
+
+

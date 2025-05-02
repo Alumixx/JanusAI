@@ -1,0 +1,993 @@
+Astrophys Space Sci
+DOI 10.1007/s10509-014-2106-5
+
+O R I G I NA L A RT I C L E
+
+Negative mass hypothesis in cosmology and the nature of dark
+energy
+J.P. Petit · G. d’Agostini
+
+Received: 18 June 2014 / Accepted: 13 August 2014
+© Springer Science+Business Media Dordrecht 2014
+
+Abstract The observed acceleration of the universe arises
+a puzzling question. What is the nature of a dark energy
+that would cause this phenomenon? We recall the arguments
+against the existence of negative matter on General Relativ-
+ity grounds. They vanish if the universe is considered as a
+manifold M4 associated to two coupled metrics, solutions of
+a coupled ﬁeld equation system. We build a non-steady so-
+lution where the positive species accelerates while the neg-
+ative one decelerates. So that dark energy is replaced by
+(dominant) negative matter action.
+Keywords Dark energy · Bimetric model · Negative mass
+
+1 Introduction
+
+As pointed out by Riess et al. (1998), Perlmutter et al.
+(1999), reviewed by Riess (2000), Filippenko and Riess
+(2001), Leibundgut (2001), observations of type Ia super-
+novae at redshift z < 1 rise a serious problem, showing that
+the universe accelerates, this phenomenon being attributed
+to some puzzling “dark energy”. Expanding this investiga-
+tion on SNe Ia comforts such conclusion (Knop et al. 2003).
+This has been extended to larger redshifts samples (Tonry
+et al. 2003; Barris et al. 2004). See also Riess (2004). No-
+body anticipated such startling phenomenon. The magnitude
+of the observed acceleration was not anticipated by theory
+and continues to defy a post facto explanation. What this
+
+J.P. Petit (B)
+BP 55, 84122 Pertuis, France
+e-mail: jppetit1937@yahoo.fr
+
+G. d’Agostini
+110 route du Castellar, 06500 Menton, France
+
+newly discovered component of the universe could be made
+of?
+
+2 Can negative mass play a role in physics?
+
+The observed acceleration of the universe suggests the effect
+of a negative pressure, associated to a negative mass con-
+tent. Is it possible that the Universe would contain negative
+energy particles? The dynamic group theory (Souriau 1970)
+shows that such concept comes from the antichron compo-
+nents of the Poincaré group. This last contains four connex
+components. The ﬁrst four form the orthochron subgroup, or
+restricted Poincaré group. The last four form the antichron
+subset, whose elements reverse time. The coadjoint action of
+this group on its momentum shows that time inversion goes
+with energy, and mass inversion. Quantum theory of ﬁelds
+analyzes the inversion of space and time too. In dynamical
+groups theory groups are built with real components. In QFT
+the T operator become complex, so that it can be either lin-
+ear and unitary, either antilinear and antiunitary. Weinberg
+(2005, pp. 75–76) writes, we quote:
+
+“At this point we have not decided whether P and T
+are linear and unitary or antilinear and antiunitary. The de-
+cision is an easy one. Setting ρ = 0 in Eq. (2.6.4) gives
+−1 = −iH , where H ≡ P° is the energy operator. If P
+PiH P
+were antiunitary and antilinear then it would anticommute
+−1 = −H . But for any state Ψ of energy
+with i, so PH P
+−1Ψ of energy −E.
+E > 0, there would be another state P
+There are no states of negative energy (energy less than that
+of the vacuum), so we are forced to choose the other al-
+ternative: P is linear and unitary and commutes than an-
+ticommutes with H . On the other hand, setting ρ = 0 in
+−1 = −iH . If we supposed that T
+Eq. (2.6.6) yields TiH T
+is linear and unitary we could simply cancel the is, and ﬁnd
+
+−1 = −H , with the again disastrous conclusion that for
+TH T
+−1Ψ of en-
+any state Ψ of energy E there is another state T
+ergy −E. To avoid this, we are forced to conclude that T is
+antilinear and antiunitary”. We see than the quantum theory
+of ﬁelds is built from a priori choices about fundamental
+operators, which are done in order to avoid the disastrous
+fact to include negative energy particles in the theory”.
+
+This absence is nothing but a pure hypothesis. A stronger
+critic comes from General Relativity theory and was pointed
+out in Bondi (1957). Newton’s law emerges naturally from
+Einstein’s equation,
+through Newtonian approximation.
+Considering the action of a particle (2) on a particle (1),
+Bondi deﬁnes three kinds of masses:
+
+m(1)
+
+i
+
+d2r1
+dt 2
+
+= G(r2 − r1)m(1)
+|r2 − r1|
+
+p m(2)
+
+a
+
+mi is the inertial mass, mp the passive gravitational mass
+and ma the active gravitational mass. Immediately the equiv-
+alence principle gives mi = mp so that (1) becomes:
+
+d2r1
+dt 2
+
+= G(r2 − r1)m(2)
+
+a
+
+|r2 − r1|
+
+(1)
+
+(2)
+
+which shows that positive mass attracts both positive and
+negative matter. Negative mass repels the two. So that two
+negative masses repel each other and cannot form clumps
+by gravitational instability. On another hand, if two masses
+with same absolute values and opposite signs encounter, the
+positive one escapes, while the negative one runs after it.
+The two experience a constant acceleration, but energy and
+momentum are conserved, because of the two masses are
+negative. Such preposterous features banned negative mass
+from cosmology during more than half a century.
+
+3 Regions that behave as if they were ﬁlled by negative
+
+matter
+
+Several authors suggested that the voids are a fundamental
+element of the large scale structure (LSS), with bubble-like
+structure (De Lapparent et al. 1986; Kirshner et al. 1987;
+Rood 1988; Geller and Huchra 1989; Petit 1994, 1995; Piran
+1997; El-Ad et al. 1996, 1997). El-Ad and Piran (1997) sug-
+gested that initial tiny perturbations, in the primordial den-
+sity ﬁeld, “acting as if the had a negative mass”, could extend
+and play a role in the LSS. He made the hypothesis, without
+justiﬁcation, that negative mass could own a negative active
+mass (from Bondi’s deﬁnition), but positive inertial and pas-
+sive masses, so that two negative masses would mutually
+attract. Negative material could form clusters. Positive and
+negative masses would repel each other, which was studied
+in references of Petit (1994, 1995). Piran developed a Void
+Finder Algorithm which identiﬁes voids in reshift surveys
+
+Astrophys Space Sci
+
+and measure their size and underdensity. In a more recent
+paper Izumi et al. (2013) consider gravitational lensing shear
+by the magnifying lens models such as negative mass com-
+pact objects causing gravitational repulsion on light, like a
+concave lens. They suggest, as on reference of Knop et al.
+(2003) that negative masses might attract each other, and
+form negative massive clumps, so that they could reside in
+cosmological voids (and there, they mention Piran’s work ).
+The demagnifying effect was previously predicted in Knop
+et al. (2003), due to negative lensing effect. In addition they
+have shown that the images by the lens models are radially
+distorsed, due to the repulsive effect (instead tangentially,
+when due to positive masses).
+
+Classically, the observed distorsion of the images of
+galaxies (weak lensing effect) is used to determine the three-
+dimensional distribution of some hypothetical CDM. Con-
+versely, when decoding the data, if one assumes that the ob-
+served distorsion is radial, instead tangential, it could pro-
+vide three-dimensional negative matter distribution. If this
+last is found as a regular set of clumps, located at the cen-
+ter of the observed big voids that would be in favor of the
+presence of such negative mass clumps in our universe.
+
+4 Towards a bimetric description of the universe
+
+General relativity is based on a M4 manifold, associated to
+a single Riemannian metric, considered as solution of Ein-
+stein’s ﬁeld equation. On such grounds, negative matter can-
+not cohabit with positive matter. What about a different ge-
+ometrical framewok? A ﬁrst bimetric description was pro-
+posed in Petit (1994, 1995) and Petit et al. (2001), then in
+Henry-Couannier (2005) and Hossenfelder (2008). Let us
+consider the following coupled ﬁeld equations system:
+R(+)
+R(−)
+g(+)
+μν metric refers to positive energy (and mass if the have
+one) particles. g(−)
+refers to negative energy (and mass if
+the have one) particles. R(+)
+μν and R(−)
+μν are Ricci tensors,
+built from metrics g(+)
+μν and g(−)
+μν . For sake of brevity we will
+sometimes use the notation: f ∈ {+,−}. In mixed form, we
+will write the tensors:
+
++ ϕT (−)
++ T (−)
+
+(cid:2)
+T (+)
+μν
+(cid:2)
+φT (+)
+
+R(+)g(+)
+R(−)g(−)
+
+= χ
+= −χ
+
+− 1
+2
+− 1
+2
+
+(3b)
+
+(3a)
+
+μν
+
+μν
+
+μν
+
+μν
+
+μν
+
+μν
+
+μν
+
+μν
+
+(cid:3)
+
+(cid:3)
+
+⎛
+⎜⎜
+⎝
+
+=
+
+T (f )μ
+ν
+
+ρ(f )c2
+
+0
+0
+0
+
+0
+−p(f )
+0
+0
+
+0
+0
+−p(f )
+0
+
+0
+0
+0
+−p(f )
+
+⎞
+⎟⎟
+⎠ with
+
+ρ(f ) > 0
+p(f ) > 0
+
+For f = “ + ”
+
+and
+
+ρ(f ) < 0
+p(f ) < 0
+
+For f = “ − ”
+
+(4)
+
+Astrophys Space Sci
+
+ϕ and φ are functions that will be deﬁned further (to en-
+sure energy conservation). Each metric produces its own
+geodesics family. The two are distinct, so that opposite en-
+ergy particles cannot encounter, on pure geometric grounds.
+They interact only through gravitation. We assume that pos-
+itive light, composed by positive energy photons, cruises
+along null geodesics of metric g(+)
+μν , while negative light,
+composed by negative energy photons, cruises along null
+geodesics of metric g(+)
+μν . We assume that structures made
+of positive masses can emit and capture positive energy pho-
+tons. Similarly, structures made of negative masses can emit
+and capture negative energy photons. So that on geomet-
+ric grounds, negative structures would be invisible to us,
+through our eyes or astronomic instruments.
+
+5 Non-steady solution for dust universe
+
+We assume this bimetric universe is homogeneous and
+isotropic, so that the Riemannian metrics become:
+
+(cid:3)2 du2 + u2(dθ 2 + sin2 θ dϕ2)
+
+(cid:2)
+ds(f )
+
+(cid:3)2 = c2dt 2 − (cid:2)
+
+a(f )
+
+(1 + k(f ) u2
+4 )2
+p(+) ∼= 0 and p(−) ∼= 0 we get classical systems:
+
+Introducing these metrics in the system (3a) and (3b), with
+
+(5)
+
+3
+
+c2(a(+))2
+
+(cid:10)
+
+da(+)
+
+dt
+
+(cid:11)2 + 3k(+)
+c2(a(+))2
+
+= −χ c2
+
+(cid:12)
+ρ(+) + ϕρ(−)
+
+(cid:13)
+
+da(−)
+a(−)
+
++ d[φρ(+) + ρ(−)]
+[φρ(+) + ρ(−)] = 0
+
+3
+
+The conservation of the energy (and mass):
+E = ρ(+)c2
+
+(cid:3)3 + ρ(−)c2
+
+(cid:2)
+a(+)
+
+(cid:2)
+a(−)
+
+(cid:3)3
+
+(cid:10)
+
+is ensured if:
+(cid:11)3
+a(−)
+ϕ =
+a(+)
+
+,
+
+φ =
+
+(cid:10)
+
+(cid:11)3
+
+,
+
+a(+)
+a(−)
+
+φ = ϕ
+
+−1
+
+(10)
+
+So that our coupled ﬁeld equation system becomes:
+
+R(+)
+
+μν
+
+R(−)
+
+μν
+
+− 1
+2
+− 1
+2
+
+R(+)g(+)
+
+μν
+
+= χ
+
+R(−)g(−)
+
+μν
+
+= −χ
+
+(cid:14)
+
+T (+)
+μν
+(cid:14)(cid:10)
+
+(cid:10)
+
+(cid:11)3
+
+a(−)
+a(+)
+(cid:11)3
+T (+)
+
+μν
+
++
+a(+)
+a(−)
+
+(cid:15)
+
+T (−)
+
+μν
+
+(cid:15)
+
++ T (−)
+
+μν
+
+Let:
+χ = − 8π G
+c4
+(cid:3)2 d2a(+)
+dt 2
+(cid:3)2 d2a(−)
+dt 2
+
+(cid:2)
+a(+)
+(cid:2)
+a(−)
+
+= − 4π G
+c4 E
+= + 4π G
+c4 E
+
+(8b)
+
+(9)
+
+(11a)
+
+(11b)
+
+(12)
+
+(13a)
+
+(13b)
+
++
+
+1
+
+c2(a(+))2
+
+(cid:10)
+
+da(+)
+
+(cid:11)2
+
+dt
+
+2
+
+d2a(+)
+dt 2
+
+c2(a(+))2
++ k(+)
+c2(a(+))2
+da(−)
+
+(cid:10)
+
+3
+
+c2(a(−))2
+
+dt
+
+= 0
+(cid:11)2 + 3k(−)
+c2(a(−))2
+
+d2a(−)
+dt 2
+
++
+
+1
+
+c2(a(−))2
+
+(cid:10)
+
+da(−)
+
+(cid:11)2
+
+dt
+
+2
+
+c2(a(−))2
++ k(−)
+c2(a(−))2
+
+= 0
+
+= +χ c2
+
+(cid:12)
+φρ(+) + ρ(−)
+
+(cid:13)
+
+Applying classical mathematical methods (Adler et al.
+1967) the compatibility conditions of sets (6a) and (7a) and
+(6b) and (7b) gives:
+da(+)
+a(+)
+
++ d[ρ(+) + ϕρ(−)]
+[ρ(+) + ϕρ(−)] = 0
+
+(8a)
+
+3
+
+(6a)
+
+(7a)
+
+(6b)
+
+(7b)
+
+6 The nature of “dark energy”
+
+(cid:5)(cid:5)(+) > 0 and a
+
+(cid:5)(cid:5)(−) < 0. If we sup-
+Assume E < 0. Then a
+pose that our visible part of the universe corresponds to pos-
+itive mass, then it accelerates, while the negative species
+decelerates. Equation (13b) identiﬁes to Friedman equation,
+while (13a) identiﬁes to Bonnor’s (1989) solution:
+a(+)(u) = α2ch2u
+t (+)(u) = α2
+
+(cid:11)
++ u
+
+(14)
+
+(cid:10)
+
+1 + sh2u
+2
+
+From dynamic group theory (Souriau 1970) all particles, in-
+cluding photons, may have negative mass. If Lo is the ele-
+ment of the orthochron restricted Lorentz group, let us con-
+sider the following extension of the Poincaré group.
+⎛
+
+⎞
+⎠ with λ = ±1 and μ = ±1
+
+(15)
+
+⎝
+
+λμ
+0
+0
+
+0
+
+φ
+λLo C
+1
+
+0
+
+which acts on a ﬁve-dimensional Kaluza space. The dimen-
+sion of the group is 11. Then the momentum gets an extra
+scalar q, identiﬁed by J.M. Souriau as the electric charge
+
+(Souriau 1964). The coadjoint action of the group gets an
+additional relation:
+(cid:5) = λμq
+
+(16)
+
+q
+
+Matter-antimatter duality holds in the negative mass world.
+The negative matter, which acts as “dark energy” is com-
+posed by negative energy (and negative mass,
+if they
+have one) particles: electrons, protons, neutrons, neutrinos,
+quarks, an so on, plus their antiparticles, plus photons.
+
+7 Newtonian approximation
+
+To develop approximation we need to expand the met-
+rics into series around Lorentzian metrics. The Universe
+is not homogeneous. When we develop classical Newto-
+nian approximation we assume that the zeroth order term
+is Lorentzian, which means that this metric is solution of
+the ﬁeld equation with a null second member, describing
+an empty portion of space. It is not necessary that this ze-
+roth order solution corresponds to a description of the whole
+universe, only a restricted portion of space, small enough
+to encompass the interaction of particles, planets or stars,
+considered as mass-points. Similarly, whatever is the time-
+dependent model, it is possible to consider that the system
+is quasi steady. In our bimetric description, we consider a
+ﬁnite portion of quasi-steady empty space-time (null curva-
+ture, Lorentzian metrics).
+g(+) = η(+) + εη(+),
+(17)
+The two scale factor a(+) and a(−) are considered as con-
+stants. Then, ﬁeld equations are expanded into a series. Ne-
+glecting the second order terms, we ﬁnd:
+εγ (+)
+00|β|β
+εγ (−)
+00|β|β
+
+g(−) = η(−) + εη(−)
+
+= −χ c2
+(cid:14)(cid:10)
+
+δρ(+) + δρ(−)
+
+δρ(+) +
+(cid:11)3
+a(+)
+a(−)
+
+δρ(−)
+(cid:15)
+
+a(−)
+a(+)
+
+= χ c2
+
+(18b)
+
+(18a)
+
+(cid:11)3
+
+(cid:10)
+
+(cid:14)
+
+(cid:15)
+
+3(cid:16)
+α=1
+
+∂2ϕ(−)
+
+∂x(−)α∂x(−)
+
+α
+
+= −4π G
+
+(cid:14)(cid:10)
+
+(cid:11)3
+
+a(+)
+a(−)
+
+Astrophys Space Sci
+
+(cid:15)
+
+δρ(+) + δρ(−)
+
+(21b)
+
+which are Poisson-like equations, associated to our bimet-
+ric model. Building the dynamics from this set of equa-
+tions would perhaps require a more reﬁned solution, involv-
+ing different speeds of light c(+)and c(−), and possibly time
+scale factors T (+) and T (−). Anyway, it is possible to derive
+those laws in the simpliﬁed case a(+) = a(−). Then:
+(cid:2)
+(cid:18)ϕ(+) = −(cid:18)ϕ(+) = 4π G
+δρ(+) + δρ(−)
+= − ∂ϕ(−)
+d2x(−)α
+d2xα
+dt 2
+dt 2
+
+= − ∂ϕ(+)
+
+= ∂ϕ(+)
+
+(22)
+
+(23)
+
+(cid:3)
+
+,
+
+∂xα
+
+∂xα
+
+∂xα
+
+The subsequent interaction laws differ from GR’s: posi-
+tive masses attract together through Newton’s law. Negative
+masses attract together though Newton’s law. Opposite signs
+masses repel each other through an anti-Newton’s law.
+
+Referring to the previous works of Bondi (1957) and
+Bonnor (1989) the puzzling problem of runaway phe-
+nomenon is eliminated. By the way this model ﬁts classical
+veriﬁcation associated to GR. In effect, as the two species
+repel each other, where positive mass is present, negative
+mass is almost absent and the coupled ﬁeld equations sys-
+tem reduces to:
+R(+)
+
+R(+)g(+)
+
+(24a)
+
+μν
+
+− 1
+2
+− 1
+2
+
+μν
+
+R(−)
+
+μν
+
+R(−)g(−)
+
+μν
+
+(cid:6) χ T (+)
+μν
+(cid:10)
+(cid:6) −χ
+
+(cid:11)3
+
+a(+)
+a(−)
+
+T (+)
+
+μν
+
+(24b)
+
+On another hand, considering portions of space containing
+a sphere ﬁlled by constant density matter (positive or neg-
+ative), surrounded by void makes “internal” and “external”
+Schwarzschild solutions features clearer, as ﬁrstly presented
+in Petit (1995), introducing negative gravitational lensing ef-
+fect, evoked in Izumi et al. (2013).
+
+Deﬁning the potentials:
+ϕ(+) = εγ (+)
+
+,
+
+00
+
+c2
+2
+
+ϕ(−) = εγ (−)
+
+00
+
+c2
+2
+
+we get:
+d2x(+)α
+dt 2
+
+= − ∂ϕ(+)
+∂x(+)
+
+α
+
+,
+
+d2x(−)α
+dt 2
+
+3(cid:16)
+α=1
+
+∂2ϕ(+)
+
+∂x(+)α∂x(+)
+
+α
+
+(cid:14)
+= 4π G
+
+δρ(+) +
+
+= − ∂ϕ(−)
+∂x(−)
+(cid:11)3
+
+α
+
+(cid:10)
+
+a(−)
+a(+)
+
+Adler, R., Bazin, R., Schiifer, M.: Introduction to General Relativity.
+
+McGraw-Hill, New York (1967)
+
+Barris, B., et al.: Astrophys. J. 602, 571 (2004)
+Bondi, H.: Negative mass in general relativity. Rev. Mod. Phys. 29(3),
+
+Bonnor, W.B.: Negative mass and general relativity. Gen. Relativ.
+
+Gravit. 21(11) (1989)
+
+De Lapparent, V., Geller, M.H., Huchra, J.P.: Astrophys. J. Lett. 302,
+
+(19)
+
+423 (1957)
+
+(20)
+
+El-Ad, H., Piran, T.: Astrophys. J. 491, 421 (1997)
+El-Ad, H., Piran, T., da Costa, L.N.: Astrophys. J. Lett. 462, L13
+
+References
+
+L1 (1986)
+
+(1996)
+
+(1997)
+
+(cid:15)
+
+δρ(−)
+
+(21a)
+
+El-Ad, H., Piran, T., da Costa, L.N.: Mon. Not. R. Astro. Soc. 287, 790
+
+Filippenko, A.V., Riess, A.G.: In: AIP Conf. Proc., vol. 540, pp. 227–
+
+246 (2001), Particle
+
+Astrophys Space Sci
+
+Geller, M.J., Huchra, J.P.: Science 246, 897 (1989)
+Henry-Couannier, F.: Int. J. Mod. Phys. A 20, 2341 (2005)
+Hossenfelder, S.: A bimetric theory with exchange symmetry. Phys.
+
+(1997)
+
+Rev. D 78, 044015 (2008)
+
+Izumi, K., Hagiwara, C., Nakajima, K., Kitamura, T., Asada, H.: Gravi-
+tational lensing shear by an exotic lens with negative convergence
+or negative mass. Phys. Rev. D, Part. Fields 88, 024049 (2013)
+
+Kirshner, R.P., Oemler, A. Jr., Schlechter, P.L., Schectman, S.A.: As-
+
+trophys. J. 314, 496 (1987)
+
+Knop, R., et al.: Astrophys. J. 598, 102 (2003)
+Leibundgut, B.: Annu. Rev. Astron. Astrophys. 39, 67 (2001)
+Perlmutter, S., et al.: Astrophys. J. 517, 565 (1999)
+Petit, J.P.: The missing mass problem. Il Nuovo Cimento B 109, 697–
+
+Petit, J.P.: Twin universe cosmology. Astrophys. Space Sci. 226, 273–
+
+710 (1994)
+
+307 (1995)
+
+Petit, J.P., Midy, P., Landhseat, F.: Twin matter against dark matter.
+In: Conf. on Astr. and Cosm. “Where Is the Matter?”, Marseille
+(2001).
+
+Piran, T.: On gravitational repulsion. Gen. Relativ. Gravit. 29(11), 1363
+
+Riess, A.G.: Publ. Astron. Soc. Pac. 112, 1284 (2000)
+Riess, A.G.: Astrophys. J. 607, 665–687 (2004)
+Riess, A.G., et al.: Astron. J. 116, 1009 (1998)
+Rood, H.J.: Annu. Rev. Astron. Astrophys. 26, 245 (1988)
+Souriau, J.M.: Géométrie et Relativité. Hermann, Paris (1964) (French
+
+edition only)
+
+Souriau, J.M.: Structure des Systèmes Dynamiques. Dunod, France
+(1970) (Structure of Dynamical Systems. Birkhaüser, Boston,
+1997)
+
+Tonry, J.T., et al.: Astrophys. J. 594, 1 (2003)
+Weinberg, S.: The Quantum Theory of Fields. Cambridge University
+
+Press, Cambridge (2005)
+
+

@@ -1,0 +1,631 @@
+1	
+
+	
+
+Thibaud	Damour,	IHES	2019	January	the	fourth	
+
+About	the	«	Janus	Cosmological	Model	of	J.P.Petit	
+
+(	translated	by	J.P.Petit	)	
+
+	
+
+(−)
+
+	
+
+	
+
+⎤
+⎥
+⎥
+⎦
+
+⎡
+⎢
+⎢
+⎣
+
+⎤
+⎥
+⎥
+⎦
+
+⎡
+⎢
+⎢
+⎣
+
+1
+2
+
+1
+2
+
+(+) +
+
+(+) −
+
+(−) −
+
+		
+
+G µν
+
+Tµν
+ 
+
+gµν
+ 
+
+G µν
+ 
+
+G µν
+ 
+
+G µν
+ 
+
+R(−) gµν
+(−)
+
+R(+) gµν
+(+)
+
+(+) + Tµν
+(−)
+
+(−) = Rµν
+
+(+) = Rµν
+
+(−) = − χ −
+
+(+) = χ Tµν
+
+g(+)
+g(−) Tµν
+
+g(−)
+g(+) Tµν
+
+The	«	Janus	Cosmoloogical	Model	»	is	physically	(and	mathematically	)	unconsistent	
+
+Before	all	let	us	give	our	conclusion	:		
+The	Janus	equations	are	the	following	:		
+(1a)																																											
+(1b)																																								
+With																
+The	classical	definition	of	
+(+) which	ensures	its	tensorial	conservation	with	respect	to	
+(+)is	:	
+Where	
+Smatter(+)	refers	to	the	action	of	the	ordinary	matter.	There	is	no	need	to	give	the	
+definition	of		
+,	which	was	not	precised	in	the	works	of	Petit	and	d’Agostini.		
+The	«	Janus	Model	»	does	not	fit	the	Bianchi	identities.	In	effect	the	system	(1a)	+	(1b)	
+goes	with	:		
+(2a)																																																																	
+(2b)																																																																	
+TµνConsider	the	case		
+(3a)																																																																	
+(3b)																																																																
+	
+
+(−) = 0		so	that	the	Janus	system	becomes	:		
+
+(+) = 0	
+(−) = 0		
+(+)	
+(+)	
+
+G µν
+ 
+G µν
+ 
+
+ ∇(+)
+ ∇(−)
+
+(−) = − χTµν
+
+Tµν= −
+ 
+
+2δSmatter(+)
+
+(+) = χTµν
+
+−g(+) T µν
+
+ν G µν
+
+ν G µν
+
+(+) ≡ −
+
+Tµν
+(−)
+ 
+
+δg(+)
+
+Tµν
+ 
+
+w
+w
+
+	
+
+ 
+
+ 
+
+2	
+
+	
+		Let	us	write	:			
+
+gµν
+(+) = gµν
+ 
+
+  −g(+) = w
+G µν
+(+) = G µν
+ 
+
+	
+
+gµν
+(−) = gµν
+
+−g(−) = w		
+	
+Tµν	
+
+Tµν= −
+
+G µν
+
+(−) = G µν
+
+	
+
+ 
+
+ 
+
+w
+w
+
+w
+w
+
+w
+w
+ 
+
+Tµν	
+
+Tµν= −
+
+Tµν
+(+) = Tµν
+ 
+
+																																																																								 
+
+G µν = χTµν	
+G µν = χTµν	
+
+The	the	Janus	system	becomes	:		
+(4a)																																																																	
+(4b)																																																																
+with	(4c)	:		
+The	authors	have	introduced	the	factor	
+		is	order	to	cure	a	difficulty	to	some	
+unconsistency	linked	to	a	simplified	model	but	as	will	be	shown	further	this	does	not	
+prevent	the	severe	unconsistency	in	the	case	of	the	hydrostatic	equilibrium	when	we	
+consider	the	cas	of	a	self-gravitating	star,	in	the	Newtonian	limit	 c → ∞	
+The	central	point	is	based	on	the	constainsts		
+(5a)																																																																	
+ ∇ νTµν = 0	
+(5b)																																																																	
+ ∇ νTµν = 0		
+where	 ∇	is	the	connection	linked	to	
+gµν.		
+To	illustrate	such	point	let	us	consider	the	simple	case	where	the	«	positive	»	matter	
+comes	both	from	a	background	source		
+o	(	for	example	a	star,	or	the	sun	in	our	solar	
+system	),	considered	as	a	sphere	filled	by	a	uniform	distribution	of	«	dust	»,	i.e	
+1 = ρ1 uµuν,	then	:		
+(6a)																																																																	
+o + ρ1 uµuν	
+o + ρ1 uµuν		
+(6b)																																																																	
+where			
+
+Tµν = Tµν
+ 
+Tµν = Tµν
+ 
+
+Tµν
+ 
+
+Tµν
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+w
+w
+
+Tµν
+
+uµ
+N
+
+3	
+
+uµ =
+ 
+
+Tµν
+o = −
+ 
+
+ρ1	
+o	
+
+ρ1 = − N2 w
+w
+ 
+
+with N2 ≡ − gµνuµuν	
+
+uµ	is,	defined	with	respect	to	the	metric	
+g − unitary uµ	(with	
+
+	
+(7)																																																								
+(8)																																																																							
+(9)																																																																							
+	Here	the	covariant	4-velocity	field	
+gµν	,	so	that	
+gµνuµuν = − 1	.		Considered	with	respect	to	the	second	metric	
+gµν		the	co-vectorial	field	
+defines	in	a	unique	way	the	equivalent	4-velocity	field	
+gµν uµuν = − 1)	as	defined	above.		
+Now	consider	the	two	conservation	laws	(5a)	and	(5b).		
+Let	us	first	concentrate	on	the	movement	of	the	test	dust	matter.	The	laws	(5a)	and	(5b)	
+the	following	constrainst	:		
+ ∇µ uµ = 0	
+(10)																																																																							
+(11)																																																																							
+ ∇µ (ρ1uµ) = 0	
+ ∇µ uµ = 0	
+(12)																																																																							
+ ∇µ (ρ1uµ) = 0	
+(12)																																																																							
+	The	physical	meaning	of	the	equation	(10)	is	the	following.	It	shows	that	the	lines	of	the	
+universe	of	the	matter	(defined	by	 uµ = gµνuν	)	are	geodesics	of	
+(+)	,	while	the	
+third	equation	(12)	says	that	the	same	positive	matter	is	also	ruled	(by	the	equations	
+ "−"	)	to	obey	another	equations	of	the	movement		
+ ∇µ uµ = 0	which	shows	that	the	line	
+of	the	universe	defined	by	 uµ = gµν uν	must	be	geodesics	derived	from	the	
+metric.	But	the	4-velocity	field	 uµ	is	not	independent	of		 uµ.	Considered	as	a	covariant	
+field	it	is	basically	the	same	through	a	renormalization	factor	 uµ = uµ / N,	equation,	so	
+that	
+uµ = gµνuν / N = gµσ gσνuν / N.	As	the	two	metrics	
+(+)	are	a	
+(+)	and	
+priori	different	I	don’t	see	how	it	could	be	possible	(	considering	a	complex	general	time	
+gµν and gµν	)	to	have	the	same	
+dependent	solution,	defined	by	arbitrary	Cauchy	data	for		
+matter	following	different	motion	equations.	If	we	consider	for	example	some	initial	
+velocity	data	for	a	a	test	dust,	such	velocity	would	be	supposed	to	folllow	at	the	same	
+
+gµν ≡ gµν
+(+)
+ 
+
+gµν ≡ gµν
+ 
+
+gµν ≡ gµν
+ 
+
+gµν ≡ gµν
+ 
+
+ 
+
+ 
+
+;
+
+Too
+c2
+
+Tµν = T µν
+ 
+
+gi j = + (1+ 2 U
+
+Δ U = − 4πG
+ 
+
+goo = − (1− 2 U
+c2 )
+ 
+
+	
+4	
+time	two	distinct	rules	of	evolution,	which	is	mathematically	absurd	for	a	classical	
+theory	!	
+			Another	physico-mathematical	contradiction	may	arise	from	equations	(4a)	and	(4b)	
+applying	such	system	to	the	structure	of	a	self-gravitating	star,	in	Newtonian	limit.	
+Consider	a	background	source	corresponding	to	a	perfect	fluid	:		
+(13)																																									
+o(+) = ( ρc2 + p ) uµuν + pgµν		
+I	will	limit	the	analysis	to	the	almost	Newtonian	conditions.	I	will	show	that	this	theory	
+is	self	contradictory	and	does	not	lead	to	any	physical	solution.		
+I	recall	that	the	linearized	solution	of	the	Einstein	equations	may	be	written	:		
+c2 )δi j			
+(14)																																			
+where	U	is	the	newtonian	potential	from	Poisson	equation	:		
+(15)																									
+Due	to	the	formal	symmetry	of	the	system	(4a)	+	(4b)	we	get	the	corresponding	
+linearized	solution	:	
+(16)																																				
+c2 )δi j	
+where	the	quasi	Newtonian	potential	 U	obeys	:		
+(17)																								
+)
+c2(
+c2(
+⎞
+from	(9)	with	
+⎠⎟ = − 4πG ρ 1+ 0 1
+1+ 0 1
+(18)																																																		
+Now	I	shift	to	another	thing	that	shows	the	unconsistency	of	the	«	Janus	Model	».	After	
+equation	(4c)			
+(19)																																															
+It	is	now	very	important	to	take	in	charge	the	consequences	of	the	equations	(5a)	and	
+(5b)	which	act	on	the	same	energy-impulsion	tensor.	
+I	recall	:		
+
+c 2 )	ρ		is	simply		-	ρ	.	So	that	:		
+⎠⎟		
+)
+
+c2(
+U = − U 1 + 0 1
+ 
+
+⎞
+⎠⎟ = − 4πG ρ 1+ 0( 1
+c 2 )
+
+goo = − (1− 2 U
+c2 )
+ 
+
+w / w = 1+ 0( 1
+ 
+
+⎠⎟ Ti j		
+
+Δ U = − 4πG
+ 
+
+Ti j = − 1+ 4 U
+
+c2 + 0( 1
+c4 )
+
+1+ 0( 1
+c 2 )
+
+gi j = + (1+ 2
+
+⎠⎟	
+)
+
+⎠⎟		
+
+Ti j = −
+ 
+
+Too
+c2
+
+w
+w
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+⎞
+
+⎞
+
+⎞
+
+⎞
+
+;
+
+ 
+
+⎞
+
+c 2
+
+1
+2
+
+1
+2
+
+5	
+
+ν =
+
+ν =
+
+j) −
+
+1
+w
+
+1
+w
+
+ν) −
+
+ν) −
+
+∂ν(w Ti
+
+∇νTi
+ 
+
+∂ν(w Tµ
+
+∇νTµ
+ 
+
+ν = ∂ j(Ti
+
+0 = ∇νTi
+ 
+
+⎞
+⎠⎟ = ∂ j(Ti
+
+Too
+⎛
+c2 ∂i U + 0 1
+⎝⎜
+
+⎛
+j) − ρ∂i U + 0 1
+⎝⎜
+c 2
+
+	
+(20)																																																					
+∂µgαβTαβ		
+If	i	refers	to	space	:		
+(21)																																																					
+∂i gαβTαβ		
+In	the	Newtonian	approximation,	in		the	last	term	the	contribution	from	 α= β= 0		is	
+dominant	because	 Too = 0(c2)	while	 Toi = 0(c1)	and	 Ti j = 0(co).	Then		
+⎠⎟		
+	(22)										
+Ti j	is	unity,	i.e.	is	
+I	recall	that	in	the	Newtonian	approximation	the	order	of	magnitude	of	
+when	 c → ∞		.			
+Ti j = ρvi v j + pδi j + 0(1/ c2).	Then	the	
+For	example,	for	a	perfect	moving	fluid	we	have	
+o) = ∂t (ρvi) + 0(1/ c2)	)	is	nothing	(	when	
+above	equation	(when	fullfilled	by	
+ c → ∞)	but	the	classical	hydrodynamical	Euler	equation.		I	have	considered	a	static	case,	
+with	the	equilibrium	of	a	self-gravitating	star.		
+Now,	consider	the	second	conservation	law	(5b).	We	shall	have	:		
+(23)																																											
+∂i gαβ Tαβ		
+Thus,	finally	:		
+j) − ρ∂i U + 0(1/ c2)		
+(24)																																											
+In	this	second	Euler	equation	:		 T i
+j) − ρ∂i U + 0(1/ c2)		
+(25)																																											
+which	contradicts	the	classical	Euler	equation	(22).		
+If	the	star	is	filled	by	a	perfect	fluid	this	static	equilibrium	implies	both		
+∂i p = − ρ∂i U		
+(26)																																	
+	CONCLUSION	:	The	system	of	coupled	equations	of	the	«	Janus	Model	»	are	
+mathematically	and	physically	contradictory.		
+	
+
+U → − U		then		
+
+ ∂i p = + ρ∂i U
+
+0 = ∇νTi
+ 
+
+0 = ∇νTi
+ 
+
+ν = − ∂ j(Ti
+
+ν = ∂ j(Ti
+
+j → − T i
+
+∂o (w T i
+
+ρ→ − ρ
+
+∇νTi
+ 
+
+∂ j(w Ti
+
+1
+w
+ 
+
+1
+w
+
+and
+
+j) −
+
+ν =
+
+1
+2
+
+ 
+
+j
+
+

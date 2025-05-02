@@ -1,0 +1,2818 @@
+Masses et Energies positives et négatives, réelles,
+
+complexes et Imaginaires
+
+Jean Pierre Petit, F Zejli, Florent Margnat
+
+To cite this version:
+Jean Pierre Petit, F Zejli, Florent Margnat. Masses et Energies positives et négatives, réelles, com-
+plexes et Imaginaires. 2024. ￿hal-04733996￿
+
+HAL Id: hal-04733996
+
+https://hal.science/hal-04733996v1
+
+Preprint submitted on 13 Oct 2024
+
+HAL is a multi-disciplinary open access
+archive for the deposit and dissemination of sci-
+entific research documents, whether they are pub-
+lished or not. The documents may come from
+teaching and research institutions in France or
+abroad, or from public or private research centers.
+
+L’archive ouverte pluridisciplinaire HAL, est
+destinée au dépôt et à la diffusion de documents
+scientifiques de niveau recherche, publiés ou non,
+émanant des établissements d’enseignement et de
+recherche français ou étrangers, des laboratoires
+publics ou privés.
+
+	
+
+1	
+
+Masses	et	énergies	positives,	négatives,		réelles,	complexes	et	imaginaires.	
+
+____________________________________________________________________________________________________	
+
+____________________________________________________________________________________________________	
+
+____________________________________________________________________________________________________	
+1	–	Introduction	:		
+
+J.P.Petit,	H.Zejli,	F.Margnat		
+Mots-clés	:	P-symmetry,	T-symmetry,	dynamic	groups,	momentum,	coadjoint	action,	
+extended	Poincaré	group,	orthochron	group,	antichron	set,	Kaluza	space,	paradigm	shift,	
+complex	Poincaré	group,	complex	mass,	imaginary	mass.		
+Résumé	:	On	passe	en	revue	différentes	voies	qui	pourraient	se	présenter,	constituant	le	
+changement	de	paradigme	rendu	nécessaire	par	les	multiples	contradictions	qui	pèsent	
+de	plus	en	plus	sur	l’ensemble	du	modèle	standard,	qu’il	s’agisse	de	physique	des	
+particules	ou	de	cosmologie.	Celles-ci	sont	basées	sur	la	mise	en	œuvre	de	nouvelles	
+symétries.	On	note	alors	la	convergence	entre	ce	qui	émane	de	la	mécanique	quantique	et	
+de	la	théorie	des	groupes	dynamiques,	à	savoir	les	inversions	de	la	masse	et	de	l’énergie.	
+On	explore	la	voie	d’une	extension	au	champ	complexe.		
+Sur	la	tombe	du	grand	mathématicien	David	Hilbert,	à	Göttingen,	on	trouve	sa	devise,	
+gravée	sur	sa	tombe	:		
+On	peut	difficilement	envisager	une	ambition	aussi	illimitée.	Mais	cette	connaissance,	
+après	laquelle	courent	les	scientifiques,	ne	leur	échappe-t-elle	pas	sans	cesse	?	A	cela	on	
+peut	ajouter	une	phrase	attribuée	à	Goethe	:	«	Le	but,	c’est	le	chemin	».	Et	c’est	peut-être	
+là	que	se	résume	le	destin	de	l’homme	de	science	:	tenter	de	progresse	en	sachant,	
+l’histoire	des	sciences	en	témoigne,	que	tout	nouveau	pas	en	avant	s’effectuera	pour	
+transcender	une	nouvelle	contradiction		en	attendant	la	suivante.	Le	mathématicien	Jean-
+Marie	Souriau	disait	:	«	les	mathématiques	sont	la	grammaire	de	la	Nature	».	On	pourrait	
+dire	que	c’est	le	langage	à	travers	lequel	nous	nous	efforçons	de	décrire	les	phénomènes	
+naturels.	Un	langage	qui	est	appelé	à	s’enrichir	sans	cesse	par	l’adjonction	de	nouveaux	
+mots	et	de	nouvelles	règles	de	syntaxe	et	de	grammaire.	Mais	ça	ne	marche	pas	toujours.	
+Nous	avons	trois	exemples	:	les	cordes,	la	matière	sombre	et	l’énergie	noire.		
+La	physique	théorique,	la	cosmologie,	sont	dans	une	impasse.	Depuis	de	décennies	la	
+Nature	se	refuse	à	entrer	dans	le	moule	que	les	théoriciens	ont	construit.	La	physique	des	
+particules	avait	prédit	l’existence	des	superparticules.	Mais	celles-ci	refusent	de	se	
+manifester.	Jusqu’à	présent,	les	progrès	en	physique	avaient	été	attachés	à	une	montée	de	
+l’énergie	mise	en	jeu	dans	les	collisionneurs	de	particules.	Depuis	cet	échec,	quelle	voie	
+suivre	?	Certains,	au	CERN,	suggèrent	de	construire	un	collisionneur	de	91	kilomètres	de	
+diamètre,	pour	un	coût	de	20	milliards	d’euros.		But	de	cette	recherche	?	Non	précisé.	Il	
+s’agit	simplement	de	s’aventurer	dans	un	domaine	inconnu.	Mais,	que	se	passera-t-il	si	on	
+ne	trouve	rien	de	précis,	sauf	des	gerbes	encore	plus	fournies,	qui	évoquant	les	étincelles	
+qui	jaillissent	de	l’enclume	du	forgeron.	En	cosmologie	et	astrophysique	la	matière	
+
+Nous	devons	savoir	et	nous	saurons	
+
+Wir	müssen	wissen,	wir	werden	wissen	
+
+2	
+	
+sombre	refuse	de	se	laisser	capturer.	Les	télescopes	spatiaux		ont	apporté	une	moisson	de	
+problèmes.	En	2017	le	télescope	Hubble	avait	mis	en	évidence	la	présence	d’un	immense	
+vide,	de	cent	millions	d’années-lumière	de	diamètre,	à	600	millions	d’années-lumière	de	
+la	Terre.	Par	la	suite	l’observation	a	confirmé	une	structure	d’univers	systématiquement	
+lacunaire.	Le	télescope	spatial	James	a	accru	la	confusion	en	découvrant	des	galaxies	
+entièrement	formées,	âgées	de	moins	de	300	millions	d’années.	En,	pour	clore	le	tout,	les	
+premières	images	des	objets	hypermassifs,	situés	au	centre	des	galaxies	M87	et	Voie	
+Lactée,	qualifiées	de	trous	noirs	géants,	n’ont	pas	de	parties	centrales	parfaitement	noires.	
+Quelles	voies	pourraient-elles	alors	se	présenter	?	Explorons	quelques	pistes.		
+	2	–	Existence possible d'états d'énergie négative en mécanique quantique. 
+
+En  mécanique  quantique,  les  états  d'énergie  négative  sont  depuis  longtemps  un  sujet  de 
+controverse. La théorie quantique des champs utilise les opérateurs d'inversion de l'espace (P) 
+et  du  temps  (T),  qui  peuvent  être  linéaires  et  unitaires,  ou  antilinéaires  et  antiunitaires. 
+Historiquement,  les  physiciens  ont  souvent  évité  les  états  d'énergie  négative  en  choisissant 
+arbitrairement des états P linéaires et unitaires, et T antilinéaires et antiunitaires [1]. Cependant, 
+la  découverte  de  l'accélération  de  l'expansion  cosmique  en  2011  a  remis  en  question  cette 
+approche.  Dans  l'équation  du  champ  d'Einstein,  ce  phénomène  peut  être  interprété  par  la 
+présence  d'une  pression  négative,  une  forme  de  densité  d'énergie  volumique.  En  résolvant 
+l'équation de Dirac, Paul Dirac a découvert des solutions avec des termes d'énergie positifs et 
+négatifs : 
+
+(1)																																																															
+
+	correspondent  aux  énergies  positives  attendues  pour  les 
+
+Les  solutions 
+p2c2 + m2c4
+particules, tandis que celles avec 
+suggèrent l'existence d'états d'énergie 
+négative.  Cette  double  solution  est  inhérente  à  toute  théorie  relativiste.  En  mécanique 
+quantique, une énergie négative conduirait à une densité de probabilité négative, ce qui est 
+physiquement  inacceptable  puisque  les  probabilités  négatives  n'existent  pas.  En  effet,  en 
+utilisant l'équation de Klein-Gordon, on a : 
+
+p2c2 + m2c4
+
+p2c2 + m2c4
+
+  E = ±
+
+  E = −
+
+  E = +
+
+	
+
+  
+
+jo =
+
+i
+2m
+
+(ψ * ∂t ψ − ψ ∂t ψ * )
+
+Si la fonction d'onde Ψ est de type onde plane, on a : 
+
+	
+(2)																																																				
+ (3)																																																										
+	
+En remplaçant cette fonction dans l'expression jo, on obtient :		
+ (4)																																							
+
+i
+2m ψ * (−i Eψ ) - ψ(i Eψ * )
+
+   ψ( !r ,t ) = N e− i( Et− !p.!r )
+
+jo =
+
+⎡⎣
+
+  
+
+	
+
+⎤⎦ = N 2 E
+m
+
+Cela montre que jo est proportionnel à E. Ainsi, une énergie négative E conduit à une densité 
+de probabilité négative, ce qui n'est pas acceptable en mécanique quantique. Les solutions à 
+l'équation de Dirac posent un défi similaire. Dirac a introduit quatre solutions : deux avec une 
+énergie positive et deux avec une énergie négative. Pour contourner ce problème, Stueckelberg 
+
+	
+
+3	
+
+et  Feynman  ont  proposé  d'interpréter  les  particules  d'énergie  négative  comme  voyageant  à 
+rebours dans le temps. Cela signifie qu'en changeant la direction du temps, l'énergie négative 
+peut être transformée en énergie positive. Feynman a illustré cette idée avec des diagrammes, 
+où  les  particules  se  déplaçant  à  rebours  dans  le  temps  sont  considérées  comme  des 
+antiparticules. Par exemple, un électron avec une énergie négative peut être interprété comme 
+un positon se déplaçant à rebours dans le temps. Dirac a cependant critiqué cette approche, 
+affirmant que les états d'énergie négative doivent être pris en compte. Chaque solution d'état 
+d'énergie négative correspond à une antiparticule avec une charge opposée. La symétrie CPT 
+(charge, parité et temps) joue un rôle important en physique quantique. Les transformations C, 
+P et T combinées maintiennent la cohérence des états quantiques. Par exemple, la conjugaison 
+de charge C transforme une particule en son antiparticule en inversant la charge : 
+
+	
+
+	
+
+	
+
+  C ψ = iγ 2ψ *
+
+En appliquant cette transformation, les solutions de Dirac peuvent être reliées aux solutions de 
+Feynman-Stueckelberg. La transformation γ5, définie par : 
+
+(5)																																																																
+ (6)																																																														
+ (7)																																																							
+
+  ψ1
+
+  γ 5 = γ oγ 1γ 2 γ 3
+
+− ( m → − m ) = γ 5 ψ1
+
++
+
+	
+
+	
+
+	
+
+	
+
+relie les états d'énergie positifs et négatifs en inversant la masse : 
+
+Cette transformation suggère que les énergies négatives sont acceptables si elles sont associées 
+à  des  masses  négatives.  Ainsi,  grâce  à  l'examen  des  solutions  de  Dirac  et  de  Feynman-
+Stueckelberg  et  des  symétries  discrètes  C,  P  et  T,  l'application  unitaire  de  l'opérateur  T  et 
+l'application antiunitaire de l'opérateur P à l'équation de Dirac permettent de transformer des 
+particules d'énergie et de masse positives en leurs équivalents négatifs, tout en préservant la 
+norme  de  l'état  quantique.  Cette  approche  est  également  cohérente  avec  les  principes  de  la 
+théorie quantique des champs et l'utilisation des champs de Dirac, montrant que l'application 
+d'un potentiel électromagnétique variable à un faisceau de fermions peut les transformer en 
+antifermions de masse négative. Ce processus implique le couplage des opérateurs de création 
+et d'annihilation pour les états de masse positifs et négatifs, fournissant un cadre expérimental 
+pour explorer la nature fondamentale de la matière. [1],[2],[3]. Cette transformation suggère 
+que les énergies négatives sont acceptables si elles sont associées à des masses négatives. Ainsi, 
+en examinant les solutions de Dirac et de Feyman-Stueckelberg et les symétries discrètes C , P 
+, T , et l'application unitaire de l'opérateur T et l'application anti-unitaire de l'opérateur P à 
+l'équation de Dirac permet de transformer des particules d'énergie et de masse positives en leurs 
+équivalents,  tout  en  préservant  la  norme  de  l'état  quantique.  Cette  approche  est  également 
+cohérente avec les principes de la théorie quantique des champs et l'utilisation des champs de 
+Dirac, montrant que l'application d'un potentiel électromagnétique variable à un faisceau de 
+fermions peut les transformer en antifermions de masse négative. Ce processus implique le 
+couplage des opérateurs de création et d'annihilation pour les états de masse positifs et négatifs, 
+fournissant un cadre expérimental pour explorer la nature fondamentale de la matière. Jusqu'en 
+2011, cela aurait pu sembler justifié. Mais ensuite, un prix Nobel a été décerné aux découvreurs 
+de l'accélération de l'expansion cosmique ([4],[5],[6]). Or, dans l'équation de champ d'Einstein, 
+un tel phénomène peut s'interpréter par la présence d'une pression négative, qui est une densité 
+volumique  d'énergie.  L'étude  des  états  d'énergie  négatifs  doit  donc  être  envisagée.  La 
+probabilité d'existence de ces états d'énergie négatifs est E/m, m étant la masse. Cette approche 
+impliquerait donc l'introduction de masses négatives dans le modèle cosmologique. Ceci a fait 
+
+ 
+
+C =
+
+		
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+t
+x
+y
+z
+
+with ξ =
+
+Δt
+Δx
+Δy
+Δz
+
+l'objet  d'articles  ([7],[8]),  dans  lesquels  nous  nous  sommes  efforcés  de  nous  en  tenir  aux 
+données observationnelles. 
+
+	
+4	
+ 	3	–	La	matière	dans	la	théorie	des	groupes	dynamiques.		
+	En	1970	le	mathématicien	J.M.Souriau	[10]	a	apporté	une	définition	purement	
+géométrique	des	grandeurs	de	la	physique	que	sont	l’énergie,	l’impulsion,	le	spin.	Pour	ce	
+faire	il	part	du	groupe	d’isométrie	de	l’espace	de	Minkowski.	Un	premier	sous-groupe	est	
+celui	des	translations	spatio-temporelles		
+	
+(8)																																												
+	Le	second	sous-groupe	est	le	groupe	de	Lorentz.	Soit	X	un	vecteur	de	l’espace	de	
+Minkowski.	Soit	G	la	matrice	de	Gramm	:		
+	
+(9)																																																									
+	
+La	longueur	du	vecteur	X	est	:		
+	(10)																																																																										
+		
+	Cherchons	un	groupe	qui	préserve	cette	longueur,	dont	l’élément	est	représenté	par	la	
+matrice	L	qui	agit	sur	le	vecteur	X	selon	:		
+	(11)																																																																											
+		
+	La	conservation	de	la	longueur	du	vecteur	impose	que	:		
+	(12)																																												
+	D’où	la	définition	axiomatique	du	groupe	de	Lorentz	:	
+	(13)																																																																											
+	
+	En	combinant	les	deux	sous-groupes	on	forme	le	groupe	de	Poincaré,	groupe	d’isométrie	
+de	l’espace	de	Minkowski	:		
+	
+
+ Xt G X = X't G X' = (LX)tG L X = Xt(LtG L)X
+
+0
+1
+0 −1
+0
+0
+0
+0
+
+ LtG L = G
+
+ X' = L X
+
+ Xt G X
+
+0
+0
+0
+−1
+
+0
+0
+−1
+0
+
+		
+
+G =
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎠
+
+	
+
+ 
+
+ 
+
+1
+
+⎛
+⎝⎜
+
+⎛
+⎜
+⎝
+
+⎞
+⎟
+⎠
+
+⎞
+⎟
+⎠
+
+⎛
+⎜
+⎝
+
+⎛
+⎜
+⎝
+
+ξ
+1
+
+		
+
+		
+
+		
+
+		
+
+⎞
+⎠⎟ ×
+
+Lξ + C
+
+⎞
+⎟ =
+⎠
+
+5	
+
+ g−1m g
+
+ ξ' = gξ
+
+δg =
+ 
+
+L C
+1
+0
+
+ δg' = g−1δgg
+
+δL δC
+0
+0
+
+	
+(14)																																																									
+	Outre	l’action	:		
+(15)																																																																																			
+On	a	une	seconde	action	:		
+(16)																																																																																							
+	Soit	l’algèbre	de	Lie	du	groupe	:		
+(17)																																																																									
+	Le	groupe	de	Poincaré	est	de	dimension	10.	Son	algèbre	de	Lie	est	donc	un	espace	
+vectoriel	de	même	dimension.	On	peut	faire	agir	le	groupe	sur	son	algèbre	de	Lie	selon	:	
+	(18)																																																																																
+	
+	Ceci	fait	apparaître	ce	que	Souriau	appelle	le	moment	
+	du	groupe,	en	tant	que	dual	de	
+son	algèbre	de	Lie.	Ce	qui	va	permettre	de	construire	l’action	du	groupe	sur	son	moment,	
+un	moment	qui	sera	également	de	dimension	10.	Calculons	la	matrice	inverse	de	g.		
+	(19)																																																											
+		
+	(20)																																																														
+	On	peut	différencier	autour	d’un	élément	quelconque	du	groupe.	Plaçons-nous	au	
+voisinage	de	l’éléments	neutre	en	posant:		
+	(21)																																																																						
+On	a	:	
+(22)																																																								
+	(23)																																																							
+	(24)																																																												
+	Soit,	au	second	ordre	près		:		
+(25)																																																																								
+	
+	est	une	matrice	antisymétrique.	En	posant	
+devient	:		
+
+	
+	L’élément	de	l’algèbre	de	Lie	
+
+ ( I + TεωG )G ( I + εG ω ) =G
+
+ ( I + εGω)TG ( I + εGω) =G
+
+ ωT + ω + εωT G ω = 0
+
+⎛
+⎠⎟ × L' C'
+⎝⎜
+
+L−1 L−1C
+1
+0
+
+ L = I + εG ω
+
+ ωT + ω = 0
+
+⎞
+⎠⎟ = I4
+
+L C
+1
+0
+
+g−1 =
+ 
+
+ δC = γ
+
+		
+
+		
+
+	
+	
+
+⎛
+⎝⎜
+ 
+
+	
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+ω
+
+µ
+
+0
+
+1
+
+⎞
+
+6	
+
+	
+
+Gω γ
+0
+0
+
+⎞
+⎟
+⎠
+
+	
+
+⎞
+⎠⎟ ×
+
+⎛
+⎜
+⎝
+
+Gω γ
+0
+0
+
+⎞
+⎟ ×
+⎠
+
+⎛
+⎝⎜
+
+L C
+0
+1
+
+⎞
+⎠⎟
+
+0
+
+⎛
+⎝⎜
+
+⎛
+⎜
+⎝
+
+⎛
+⎜
+⎝
+
+⎛
+⎜
+⎝
+ 
+
+⎛
+⎜
+⎝
+ 
+
+ L−1
+
+γ '
+0
+
+γ '
+0
+
+⎞
+⎟ =
+⎠
+
+⎞
+⎟ =
+⎠
+
+Gω'
+0
+
+Gω'
+0
+
+L−1 L−1C
+1
+0
+
+δg = Z =
+ 
+
+	
+(26)																																																																	
+	L’action	sur	cette	algèbre	de	Lie	devient	:		
+	(27)																																			
+Soit	:		
+(28)																																												
+	.		
+Calculons	
+(29)																																																																																						
+	(30)																																																																					
+D’où	:	
+(31)																																																																																	
+	(32)																																																		
+D’où	:		
+(33)																																																																							
+	(34)																																												
+	(35)																																																																	
+	Le	moment	du	groupe	de	Poincaré	est	un	torseur	:	
+	(36)																																																								
+Il	sera	défini	par	l’identité	:	
+(37)																																																													
+On	exprimera	la	dualité	selon	:		
+	(38)																																											
+Ce	qui	donne	:		
+(39)	
+																												
+
+Tr(M.ω ) + Pt.G γ =
+
+Tr(M.ω ) + Pt.G γ =
+
+ µ ≡ M,P
+
+µ(Z) ≡
+ 
+
+1
+2
+ 
+
+1
+2
+
+1
+2
+
+1
+2
+
+{
+
+=
+
+ ω' = Lt ω L
+
+ 
+
+L−1G ω L L−1G ωC+ L−1γ
+
+		
+
+ G G = I
+
+ L−1L = I = G G = G LtG L
+
+ L−1 = G LtG
+
+																																			
+	
+
+ Gω' = L−1G ω L= G LtG G ω L= G Lt ω L
+
+ γ ' = G LtGG ωC+ L−1γ = G LtG G ωC+G LtG γ
+
+ γ ' = G Lt ωC+G LtG γ
+
+	
+																		
+	
+
+0
+
+		
+
+} with M t = − M P ∈E4
+
+Tr(M.ω ) + Pt.G γ
+
+Tr(M'.ω') + P't .G γ '
+
+1
+Tr(M'.Lt ω L) + P't .( G G Lt ωC+G LtG γ )
+2
+1
+2
+
+Tr(M'.Lt ω L) + P't . Lt ωC + P't . LtG γ
+
+	
+
+	
+
+⎞
+⎟
+⎠
+
+	
+		
+
+	
+
+γ
+
+ω
+
+	
+
+	
+
+1
+2
+
+ t P
+
+1
+2
+ 
+
+		
+
+t Lω C
+ 
+
+et	
+
+Tr( Mω) =
+
+Tr( L M' tLω) + tP tLωC
+
+ Pt = P't Lt → P = L P'
+
+ Tr(M'Lt ω L) = Tr(LM'Lt ω )
+
+7	
+	
+On	peut	immédiatement	identifier	sur 		,	ce	qui	donne	:		
+	(40)																																																													
+	On	sait	que	quand	on	a	la	trace	d’un	produit	si	à	l’intérieur	de	celui-ci	on	effectue	une	
+permutation	circulaire.	On	peut	donc	écrire	:	
+	(41)																																																										
+	Identifions	maintenant	selon	
+		
+	(42)																																															
+	Le	produit	scalaire	des	deux	vecteurs		
+	est	égal	à	la	trace	de	la	matrice	
+constituée	en	plaçant	les	vecteurs	dans	l’ordre	inverse,	soit	:		
+	(43)																																																					
+	
+	Dans	cette	trace	on	peut	opérer	une	permutation	circulaire:	
+		(44)																																																							
+	
+d’où	:		
+(45)																																						
+Et		:		
+(46)																																																							
+	On	sait	qu’une	matrice	réelle	quelconque	peut	être	mis	sous	la	forme	d’une	demi-somme	
+d’une	matrice	symétrique	et	d’une	matrice	antisymétrique,	ce	qui	nous	donne	:	
+(47)	
+	
+									
+	La	trace	du	produit	d’une	matrice	symétrique	par	la	matrice	antisymétrique	
+à	zéro.	Ce	qui	lui	donne	:		
+(48)	
+Il	reste	:		
+(49)	
+
+⎤⎦
+Tr (C PT tL + L P tC) ×ω+ (C tP tL− L P tC) ×ω
+
+	est	égale	
+
+t P tLωC = Tr( tLω C tP)
+ 
+
+t P tLωC = Tr( C tPtLω )
+ 
+
+Tr( L M' tLω) + Tr( C tP tLω )
+
+ M = L M' tL + 2C tP' tL
+
+Tr (C PT tL+ L P tC) ×ω
+
+Tr( L M' tLω)
+
+Tr( Mω) =
+
+Tr( Mω) =
+
+⎤⎦ = 0
+
+1
+2
+ 
+
++
+ 
+
+1
+2
+
+1
+2
+
+1
+2
+
+1
+2
+
+	
+
+	
+
+	
+
+	
+
+ω
+
+⎡⎣
+
+⎡⎣
+
+ 
+
+⎡⎣
+
+	
+
+	
+
+	
+
+1
+2
+
+1
+2
+
+1
+2
+ 
+
+		
+
+		
+
+8	
+
+ P' = LP
+
+ P = L P'
+
+Tr( Mω) =
+
+Tr( L M' tLω) +
+
+⎤⎦
+Tr (C tP tL − L Pt C) ×ω
+
+ M' = LM tL + C P tL − LP tC
+
+ M = LM' tL + C P' tL − LP' tC
+
+	
+	Donc	au	total		:	
+(50)																																																			
+	(51)																																																																												
+On	ainsi	construit	l’action	du	groupe	de	Poincaré	sur	son	espace	des	moments.	Si	on	
+voulait	passer	de	P’	à		P	cela	reviendrait	à	utiliser	l’inverse	de	l’élément	du	groupe.	Pour	
+simplifier	on	peut	tout	simplement	écrire	:		
+	(52)																																																	
+	(53)																																																																			
+	
+	Quel	est	le	sens	physique	de	l’action	de	ce	groupe	dynamique	?	Par	la	translation	
+spatiotemporelle	on	se	situe	ailleurs	et	à	une	autre	époque.	Le	groupe	de	Lorentz	peut	
+être	considéré	comme	le	groupe	des	rotations	quadridimensionnelles	(auxquelles	il	faut	
+ajouter	des	symétries).	Il	conserve	la	longueur	du	vecteur	P,	qui	sera	tout	simplement	le	
+quadrivecteur	énergie-impulsion	(	avec	c	=	1	)	:		
+	
+(54)																																																																	
+	Cette	conservation	se	traduira	par	:		
+(55)																																																																				
+		
+	Le	moment	avait	dix	composantes.	Une	pour	l’énergie,	trois	pour	l’impulsion.	Il	en	reste	
+six,	que	nous	allons	agencer	en	matrice	antisymétrique	:		
+	
+(56)																																																					
+	On	montre	alors	que	le	3-vecteur	f,	appelé	«	passage	»	par	Souriau,	peut	être	annulé	quand	
+on	accompagne	la	particule	dans	son	mouvement.	Il	ne	caractérise	donc	pas	un	
+mouvement,	en	identifiant	la	nature	d’une	particule	avec	le	type	de	mouvement	considéré.	
+Le	dernier	3-vecteur	est	le	spin,	non	quantifié,	qui	émerge	alors	comme	une	grandeur	de	
+pure	géométrie.		
+
+ E2 − p2 = Cst
+
+0
+sz
+−sy
+−fx
+
+sy
+−sx
+0
+−fz
+
+−sz
+0
+sx
+−fy
+
+E
+px
+py
+pz
+
+fx
+fy
+fz
+0
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+		
+
+M =
+
+P =
+
+	
+
+ 
+
+ 
+
+ 
+
+s =
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎝
+
+		
+
+		
+
+sx
+sy
+sz
+
+9	
+
+	
+	
+(57)																																																																							
+	Nous	avons	ici	l’illustration	de	la	stratégie	par	Souriau	[g],	qui	se	résume	à	ce	qui	suit	:		
+	
+-  On	se	donne	un	espace,	avec	sa	métrique	et	son	groupe	d’isométrie.		
+	
+-  On	écrit	l’action	coadjointe	de	ce	groupe	sur	le	dual	de	son	algèbre	de	Lie,	de	même	
+dimension	que	ce	groupe.	
+	
+-  Les	composantes	de	ce	moment	définissent	alors	«	une	physique	»,	celle	dont	«	le	
+terrain	de	jeu	»	est	cet	espace	particulier.		
+		
+Pour	illustrer	cette	technique	nous	allons	partir	de	l’espace	euclidien	3D.	Sa	métrique	est	:		
+(58)																																																														
+	Sa	matrice	de	Gramm	est	alors	la	matrice	unité	I4.	Son	groupe	d’isométrie	est	le	groupe	
+d’Euclide	:		
+(59)																																																																						
+	Les	matrices	a	sont	alors	les	matrices	orthogonales,	définies	par	:		
+	(60)																																																																											
+	C	est	le	vecteur	des	translations	3D	:	
+(61)																																																																					
+	Le	groupe	d’Euclide,	de	dimension	6,	peut	être	considéré	comme	un	groupe	dynamique	
+particulier,	celui	de	la	statique.	Le	calcul	précédent	peut	être	reconduit.	Le	moment	se	
+compose	alors	de	deux	3-vecteurs	qui	seront	alors	assimilés	à	une	force	et	à	un	couple	de	
+torsion.		Les	composantes	du	moment	permettent	d’effectuer	des	sommations.	En	
+statique	on	sommera	des	forces	et	des	moments	de	torsion,	en	dynamique,	des	énergies,	
+des	impulsions	et	des	spins.	En	3D	ce	qui	«	habite	»	l’espace	euclidien,	considéré	comme	
+lié	à	la	statique,	ce	dont	des	états	de	contrainte	d’un	matériau	uniforme	et	infini.	En	4D	ce	
+sont	des	classes	de	mouvements,	chaque	classe	étant	assimilé	à	un	type	de	particule.	Ces	
+mouvements	s’inscrivent	le	long	de	géodésiques	de	l’espace	de	Minkowski.	De	longueur	
+non	nulle	il	s’agit	de	masses,	de	longueur	nulle	de	photons.		
+	
+
+ ds2 = dx2 + dy2 + dz2
+
+		
+		
+
+a C
+0
+1
+
+Δx
+Δy
+Δz
+
+ a t a = I
+
+		
+
+C =
+
+⎛
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎝⎜
+ 
+
+⎞
+⎠⎟
+
+ 
+
+}
+
+{
+  Ln
+
+10	
+	
+Le	groupe	d’Euclide	a	deux	composantes	connexes.	Une	propriété	héritée	de	son	sous-
+groupe,	celui	des	matrices	orthogonales,	selon	que	l’espace	est	ou	non	inversé,	selon	qu’on	
+envisage	les	groupes	O(3)	ou	SO(3).		
+	Revenons	maintenant	au	groupe	de	Poincaré.		
+		4	–	Les	groupes	dynamiques	et	le	réel.		
+	Hilbert	pensait	que	les	mathématiques	constituaient	une	sorte	de	lampe	éclairant	le	
+chemin	de	la	connaissance.	Dans	son	attitude	résolument	optimiste	il	était	convaincu	que,	
+face	à	quelque	problème,	émergerait	toujours	à	bon	escient	un	outil	mathématique	qui	
+permette	de	trouver	des	solutions,	quitte	à	ce	que	celui-ci	se	comporte	comme	une	clé	
+permettant	d’actionner	une	porte	donnant	sur	un	nouveau	domaine	du	réel.			
+A	titre	d’exemple,	quand	la	théorie	des	groupes	dynamiques	permet	d’intégrer	des	
+grandeurs	de	la	physique	dans	un	contexte	géométrique,	celui-ci	suggère	au	passage	une	
+extension	du	«	terrain	de	jeu	»	avec	des	nouveaux	objets.	En	effet	le	groupe	de	Lorentz	a	
+quatre	composantes	connexes.		
+	
+	constituent	la	composante	neutre,	parce	que,	contenant	
+-  Les	éléments	
+	.	Ils	n’inversent	ni	le	temps,	ni	
+l’élément	neutre,	il	sont	un	sous-groupe	de	
+l’espace.		
+	
+inversent	l’espace,	mais	pas	le	temps.		
+-  Les	éléments	
+	
+inversent	le	temps,	mais	pas	le	l’espace.		
+-  Les	éléments	
+	
+inversent	à	la	fois	le	temps	et	l’espace.		
+-  Les	éléments	
+	En	regroupant	les	deux	premiers	éléments	on	forme	:		
+	
+-  Le	groupe	orthochrone	
+	,	appelé	
+aussi	groupe	de	Lorentz	restreint.		
+	
+-  Le	sous	ensemble	antichrone	
+	Le	groupe	de	Poincaré	hérite	de	ces	propriétés	avec	quatre	composantes	connexes.	Le	
+sous-groupe	de	Poincaré	orthochrone,	appelé	aussi	groupe	de	Poincaré	restreint,	était	le	
+seul	dont	les	scientifiques	faisaient	usage.	Mais	alors,	que	faire	de	ses	composantes	
+antichrones	?		
+	Nous	pouvons	jouer	sur	la	propriété	:		
+	(62)																																															
+Qui	entraine	:		
+
+,	sous-groupe	de
+	
+
+  Ls{
+{
+Lt
+ 
+{
+ 
+
+} = − Ln
+
+} = − Ls{
+
+}∪ Lst
+
+}
+}
+}
+
+} = Ln
+
+}∪ Ls{
+
+} = Lt
+
+La{
+ 
+
+  Lo{
+
+  L{
+
+  L{
+
+Lst
+
+Lst
+
+Lt
+
+{
+ 
+
+	
+
+{
+
+}
+
+{
+
+{
+
+}
+
+}
+
+{
+
+}
+
+}
+
+{
+
+}
+
+}
+
+{
+
+}
+
+	
+
+	
+
+	
+
+⎞
+⎟
+⎠
+
+{
+ 
+
+⎛
+⎜
+⎝
+ 
+
+Lst
+
+		
+
+  L{
+
+ λ = ± 1
+
+11	
+
+} = λ Lo
+
+λ Lo C
+1
+0
+
+} = − Lo{
+
+ M' = Lo M tLo + λC P tL o − λ Lo P tC
+
+	
+	(63)																																																																					
+	D’où	la	représentation	du	groupe	de	Lorentz	complet		
+	(64)																																																					
+avec				
+	Ce	qui	nous	permet	de	réécrire	le	groupe	de	Poincaré	complet,	ou	«	étendu	»	:		
+	(65)																																																																		
+		
+Et	l’action	:	
+	(66)																																																	
+	(67)																																																																			
+	Nous	obtenons	ainsi	la	signification	physique	de	l’inversion	de	la	coordonnée	de	temps,	
+de	la	T-symétrie.	
+			
+	
+-  Elle	inverse	l’énergie	(donc	la	masse	à	travers	E	=	m	c2)	et	l’impulsion	
+	
+-  Elle	laisse	le	spin	inchangé	
+	On	voit	donc	apparaître	le	même	«	message	»	qu’en	mécanique	quantique,	sous	la	forme	
+d’une	incitation	à	envisager	une	extension	du	champ	physique	incluant	les	énergies	et	les	
+masses	négatives.		
+		5	–	Une	autre	extension	de	la	théorie	des	groupes	dynamiques.		
+	Pour	ce	moment	notre	«	monde	réel	»	n’est	peuplé	que	de	photons	et	de	masses	
+dépourvues	de	charge	électrique.	Dès	1915	D.Hilbert	avait	tenté	d’inclure	les	phénomènes	
+électromagnétiques	dans	un	formalisme	géométrique.	Comme	à	l’époque	la	mécanique	
+quantique	n’avait	pas	encore	émergé,	pas	plus	que	la	physique	des	hautes	énergies	les	
+scientifiques	de	l’époque	ne	connaissaient	que	deux	forces	:	la	force	de	gravitation	et	la	
+fore	électromagnétique.	Hilbert	publia	donc	en	1915	et	1916	un	essai	intitulé	
+«	Fondements	de	la	physique	».	Dans	la	première	version,	présentée	le	20	novembre	1915	
+[11]	se	trouvait	la	première	présentation	de	l’équation	de	champ,	qu’Einstein	présenta	
+cinq	jours	plus	tard	[12],	dans	la	même	revue.	D’un	commun	accord	la	paternité	de	ce	qui	
+allait	constituer	le	fondement	de	la	relativité	générale	fut	laissée	à	Einstein.	Ci-après	
+l’équation	de	champ	publiée	par	Hilbert:	
+
+ P' = λ Lo P
+
+ ( λ = − 1)
+
+	
+
+	
+
+	
+
+12	
+
+Fig.1	:	L’équation	de	champ	de	David	Hilbert,	20	novembre	1915	[11]	
+
+	
+
+	
+
+	
+	
+
+Kµν
+ 
+
+Fig.2	:	La	même,	publiée	par	Einstein	le	25	novembre	1915	[12]	
+
+	
+	et	K	le	tenseur	et	le	scalaire	de	Ricci.	Dans	l’équation	d’Einstein,	
+Hilbert	désigne	par	
+celui-ci	place,	dans	le	second	membre,	le	scalaire	de	Laue	 T.	Ces	formulations	sont	
+équivalentes.	Mais	celle	d’Einstein	peut	être	considérée	comme	plus	aboutie.	Jusqu’à	sa	
+mort,	en	1955,	Einstein	poursuivit	le	projet	d’intégrer	dans	une	même	équation	de	champ	
+gravitation	et	électromagnétisme	sans	y	parvenir.	En	fait	c’est	impossible	avec	seulement	
+4	dimensions.	Cette	tentative	d’extension	fut	opérée	en	1921	par	Theodor	Kaluza	[13]	et	
+en	1926	par	Oskar	Klein	[14].		Le	calcul	complet	fut	donné	par	J.M.Souriau	en	1964	[15].	
+C’est	un	travail	très	peu	connu	car	publié	uniquement	en	français.	Dans	cet	ouvrage	figure	
+la	traduction	géométrique	de	la	symétrie	matière-antimatière,	par	inversion	de	la	
+cinquième	dimension.	On	va	donc	étendre	ce	contexte	dimensionnel	à	un	espace	4D,	dit	
+		est	de	type	espace,	c’est	à	dire	où	la	métrique	
+de	Kaluza,	où	la	cinquième	dimension	
+devient	:	
+(68)																																																		
+	La	matrice	de	Gramm	devient	:		
+	
+(69)																																																			
+	Si	on	recherche	le	groupe	d’isométrie	d’un	tel	espace,	il	sera	constitué	par	le	produit	du	
+sous-groupe	des	translations	pentadimensionnelles	:	
+
+0 0 0 0
+0
+−1 0
+0
+0
+−1 0
+0
+0
+0
+−1
+
+ ds2 = dt2 − dx2 − dy2 − dz2 − dζ2
+
+0
+−1 0
+0
+0
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+ 
+
+1
+0
+0
+0
+0
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+		
+
+		
+
+ζ
+
+ 
+
+Λ
+
+Γ =
+
+		
+
+		
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+13	
+
+ Λt Γ Λ = Γ
+
+Δt
+Δx
+Δy
+Δz
+Δζ
+
+	
+	
+(70)																																																												
+	Et	du	sous-groupe	
+	qu’on	pourrait	qualifier	de	«	Lorentz	étendu	»		,	axiomatiquement	
+défini	par		
+(71)																																																																			
+	Il	est	alors	possible	de	reconduire	l’ensemble	du	calcul	du	moment,	étant	donné	que	le	
+nombre	des	dimensions	n’y	figure	pas	explicitement.	On	peut,	d’emblée,	utiliser	le	
+théorème	de	Noether	en	disant	que,	s’il	y	a	un	sous-groupe	à	un	paramètre,	des	
+translations	selon	une	dimension	additionnelle,	ceci	doit	aller	de	pair	avec	la	conservation	
+d’un	scalaire	q,	qu’on	assimilera	alors	à	la	charge	électrique.	Cette	charge	constituera	une	
+onzième	composante	du	moment	d’un	groupe	dynamique	de	dimension	11.	Mais	cette	
+démarche,	dans	toute	sa	généralité,	briserait	la	constance	de	la	charge	électrique.	On	peut	
+alors	ne	considérer	qu’un	sous-groupe	de	ce	groupe	de	Lorentz	étendu	:		
+(72)																																																									
+	Ce	sous-groupe	n’agit	sur	le	scalaire	supplémentaire,	sur	cette	charge	électrique	q,	que	de	
+deux	façons.		
+	
+Il	conserve	cette	charge	électrique	q	
+- 
+	
+- 
+Il	l’inverse	
+	Nous	pouvons	alors	construire	un	sous-groupe	de	cette	extension	du	groupe	de	Poincaré	
+complet	en	combinant	avec	le	sous-groupe	des	translations	pentadimensionnelles	:	
+	
+(73)																																					
+	et	en	désignant	par	
+	
+
+	l’accroissement		
+
+λ = ± 1
+µ = ± 1
+
+Δt
+Δx
+Δy
+Δz
+
+with ξ =
+
+	:		
+
+λ Lo
+0
+
+t
+x
+y
+z
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+		
+
+⎛
+⎜⎜
+⎝
+ 
+
+C =
+
+C
+φ
+
+0
+µ
+
+Δζ
+
+⎞
+⎟⎟
+⎠
+
+	
+
+⎛
+⎜
+⎝
+
+⎞
+⎟
+⎠
+
+φ
+
+ 
+
+ 
+
+1
+
+×
+
+=
+
+	
+
+Z =
+
+⎞
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎠
+
+ξ
+ζ
+1
+
+		
+
+⎛
+⎜
+⎜
+⎜
+⎝
+ 
+
+δφ = β
+
+λ Lo
+0
+0
+
+λ = ± 1
+µ = ± 1
+
+0 C
+µ φ
+0
+1
+
+λ Loξ +C
+µζ + φ
+
+Gω 0 γ
+0 β
+0
+0
+0 0
+
+	
+14	
+(74)																																		
+	C’est	un	groupe	dynamique	où	l’adjonction	de	la	symétrie	d’inversion	de	charge	porte	le	
+nombre	des	composantes	connexes	à	8.	Le	calcul	d	l’action	sur	le	moment	ne	présente	pas	
+	l’élément	de	l’algèbre	de	lie	du	groupe	est	la	matrice	de	
+de	difficulté.	En	posant	
+format	(5,5)	:	
+	
+(53)																																																						
+	L’inverse	de	la	matrice	du	groupe	est		
+	
+(75)																																																					
+La	dualité	est	assurée	par	la	constance	du	scalaire	:		
+	(76)																											
+	L’expression	de	l’action	du	groupe	sur	le	dual	de	son	algèbre	de	lie	se	traduit	finalement	
+par	l’adjonction	d’une	dimension	supplémentaire	:		
+	(77)																																																																				
+		
+	(78)																																																	
+	(79)																																																																			
+	
+	On	passant	à	l’espace	de	Kaluza	et	en	introduisant	une	symétrie	sur	la	cinquième	
+dimension	on	donne	corps	à	l’idée	de	J.M.Souriau	[15].	Ajoutons	que	dans	le	chapitre	V	de	
+[10]	celui-ci	montre	comment	la	compactification	de	cette	cinquième	dimension	permet	
+de	retrouver	l’équation	relativiste	de	Klein-Gordon.	On	voit	donc	comment	La	théorie	des	
+groupes	dynamiques	et	la	théorie	des	champs,	y	compris	dans	sa	version	mécanique	
+quantique,	se	répondent.		
+			6	-			La	question	du	changement	de	paradigme.		
+
+ M' = Lo M tLo + λC P tL o − λ Lo P tC
+
+0 λLo
+− φ
+µ
+0
+1
+
+Tr ( M'ω') + tP'G γ' + q'ε'
+
+Tr ( Mω) + tPG γ + qε=
+
+ P' = λ Lo P
+
+λLo
+0
+0
+
+ q' = µq
+
+g−1 =
+
+1
+2
+ 
+
+⎞
+⎟
+⎟
+⎟⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜⎜
+⎝
+
+−1C
+
+1
+2
+
+	
+
+	
+
+	
+
+−1
+
+ 
+
+l’idée	 d’un	 nécessaire	 changement	 de	 paradigme.	 Celui-ci	
+
+15	
+	
+	Comme	évoqué	dans	l’introduction,	l’échec	de	mise	en	évidence	d’une	matière	sombre,	
+d’identification	d’une	énergie	noire,	de	modélisation	de	la	structure	lacunaire	de	l’univers	
+et	de	la	naissance	anormalement	précoce,	en	son	sein,	des	étoiles	et	des	galaxies,	a	fait	
+naître	
+impliquera	
+nécessairement	une	révision	du	contexte	géométrique	puisque	le	modèle	de	la	relativité	
+générale	ne	parvient	plus	à	rendre	compte	des	observations.	On	mentionnera	donc	deux	
+voies.	La	première	consiste	à	faire	l’hypothèse	de	l’existence	d’un	second	univers,	CPT	
+symétrique	du	nôtre,	que	les	auteurs	situent	alors	de	l’autre	côté	du	Big	Bang	[16].	Plus	
+récemment	N.Kumar	[17]	a	envisagé	de	faire	interagir	ces	deux	univers	par	intrication	
+(«	entanglement	»)	et	montré	qu’alors	ceci	entraînait	l’accélération	de	l’expansion	dans	
+notre	propre	univers.	La	T-symétrie	évoquent	ce	qui	avait	déjà	été	prévu	dès	les	années	
+soixante	par	Andréi	Sakharov	([18],[19],[20]).	L’image	didactique	2D	est	alors	ce	qui	suit	:	
+	
+
+	
+
+	
+Fig.3	:	Image	didactique	2D	du	Modèle	de	Sakharov,	Boyle,	Finn,	Turok	[16]	
+	Un	 autre	
+le	 modèle	 cosmologique	
+façon	 d’envisager	
+([21],[22],[23],[24],[25])	Avec	une	structure	en	revêtement	à	deux	feuillets	:		
+		
+
+	and	Kumar[17].	
+les	 choses	 est	
+
+Janus	
+
+Fig.4	:	Image	didactique	2D	du	Modèle	Cosmologique	Janus.		
+
+	Traduisons	cette	CPT-symétrie	en	termes	de	groupe	dynamique.	Cela	donne	le	groupe	
+Janus	[8].		
+
+	
+
+	
+
+1
+
+=
+
+×
+
+	
+
+⎞
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎠
+
+ξ
+ζ
+1
+
+⎛
+⎜
+⎜
+⎜
+⎝
+ 
+
+ λ = − 1
+
+ q' = λµq
+
+		
+	
+
+λ Lo
+0
+0
+
+ P' = λ Lo P
+
+λ = ± 1
+µ = ± 1
+
+λ Loξ + C
+λµζ + φ
+
+0 C
+λµ φ
+0
+1
+
+ M' = Lo M tLo + λC P tL o − λ Lo P tC
+
+	
+16	
+(80)																																								
+	
+	Algèbriquement,	le	calcul	est	très	peu	différent.	Seule	la	première	équation	se	trouve	
+modifiée.		
+(81)																																																																				
+	(82)																																																	
+	(83)																																																																			
+	La	CPT-symétrie	correspond	à	
+	.	Vis	à	vis	d’une	comparaison	avec	l’observation,	ce	
+modèle	donne	des	résultats	intéressants,	dont	une	description	chiffrée	de	l’accélération	
+de	l’expansion	cosmique	[9].	
+	Mais	ici	une	remarque,	d’ordre	géométrique,	s’impose.	Dans	le	modèle	Janus	4D	on	
+suggère	que	l’hypersurface	univers,	la	variété	V4	soit	le	revêtement	à	deux	feuillets	d’un	
+projectif	P4.	Ce	dernier	est	inorientable	et	la	configuration	du	revêtement	li	les	deux	
+	4-feuillets	adjacents	dans	une	PT-symétrie.	Mais	si	on	envisage	d’ajouter	une	dimension	
+supplémentaire	en	obtenant	alors	un	modèle	Janus	5D	la	configuration	en	revêtement	ne	
+donne	pas	la	symétrie	CPT	escomptée.	En	effet	les	espaces	projectifs	de	dimension	
+impaire	sont	orientables,	alors	que	le	projectifs	de	dimensions	paires	sont	inorientable.	
+Dans	le	revêtement	à	deux	feuillets	d’un	projectif	P5	les	deux	feuillets	héritent	de	
+l’orientation	du	projectif.	Si	on	veut	accroître	le	nombre	des	dimensions	il	faudra	le	faire	
+avec	un	nombre	pair	de	dimensions,	soit	passer	de	4	à	6	,	8	ou		10.	On	notera	au	passage	
+que	ce	chiffre	de	dix	dimensions	est	celui	sur	lequel	aboutissent	les	gens	des	cordes.			
+				7	–	Ajout	de	dimensions	supplémentaires.		
+	La	charge	électrique	q	n’est	qu’une	des	charges	quantiques,	comme	sont	la	charge	
+	.	Sans	ce	qui	précède	on	
+	,	la	charge	leptonique	
+baryonique	
+a	vu	que	l’apparition	de	la	charge	électrique	découlait	de	l’adjonction	d’une	dimension	
+supplémentaire.	On	peut	alors	envisager	l’adjonction	de	p	dimensions	supplémentaires,	
+en	nombre	pair,	selon	:		
+	
+
+	,	la	charge	muonique	
+
+qµ
+ 
+
+ qλ
+
+ q b
+
+	
+
+17	
+
+		
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+t
+x
+y
+z
+ζ1
+...
+ζp
+1
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+t
+x
+y
+
+X =
+
+z
+ζ1
+...
+ζp
+
+(84)																																																								
+	En	introduisant	les	vecteurs	«	charges-quantiques		
+	
+(85)																																										
+	Toujours	en	limitant	le	groupe	de	Lorentz	étendu	à	:		
+	(86)			
+
+ζ1
+ζ2
+...
+ζp
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+ζ =
+
+ζ
+
+ 
+
+ 
+
+	
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+φ =
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+φ1
+φ2
+...
+φp
+
+	»	et	«translations	quantiques	
+
+	»:		
+
+φ
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+λ = ± 1
+µ = ± 1
+
+λ Loξ + C
+λµζ1 + φ1
+
+...
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+λ Lo
+
+0 ... 0 C
+
+0
+...
+0
+0
+
+0
+...
+
+λµ ...
+φ1
+...
+...
+...
+0 λµ φp
+0
+0
+...
+1
+
+0
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+×
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜⎜
+⎝
+
+ξ
+ζ1
+...
+ζp
+1
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟⎟
+⎠
+
+=
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+ 
+
+1
+
+λµζp + φp
+
+		On	peut,	au	passage,	étendre	le	groupe	Janus	en	4	+	p	dimensions.	Ceci	se	traduira	par	
+	
+l’ajout	de	p	charges	quantiques	avec	la	relation	:	
+	(87)																																																																			
+	De	plus,	en	étendant	la	construction	de	Souriau,	si	ces	p	dimensions	sont	compactes,	alors	
+ces	p	charges	additionnelles	sont	quantifiées.		
+		8	–	Extension	en	complexe.		
+	Il	existe	de	nombreux	travaux	représentant	des	tentatives	de	resituer	le	formalisme	de	la	
+relativité	générale	dans	un	champ	complexe,	en	envisageant	une	cosmologie	quantique	
+([27],[27],[28]).	Voyons	ce	que	cela	donnerait	dans	le	cadre	de	la	théorie	des	groupes	
+
+ qi ' = λµqi
+
+		
+
+ 
+
+	
+
+	
+
+	
+
+X =
+
+X =
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎝
+
+X°
+X1
+X2
+X3
+
+X°
+X1
+X2
+X3
+
+X* = ( X°, X1, X2, X3 )
+
+XT = ( X°, X1, X2, X3 )
+
+ ds2 = (dX°)* dX° − (dX1)* dX1 − (dX2)* dX2 − (dX3)* dX3
+
+18	
+	
+dynamiques.	On	va	considérer	ces	4-vecteurs,	appartenant	à	un	espace	complexe,	avec	les	
+notations	transposée	et	adjointe	:	
+	
+(88)																																														
+	La	métrique,	avec	un	ds	réel,	se	rapporte	à	un	espace	de	Hermite	:	
+	(89)																																					
+	La	matrice	de	Gramm,	réelle,	est	donc	:	
+	
+(90)																																																								
+	La	longueur		
+(91)																																																															
+	Est	encore	ici	invariante	par	translation,	selon	le	vecteur	des	translations	complexes	:		
+	
+(92)																																																																	
+	Soit	L	l’élément	L	d’un	groupe	va	faire	passer	d’un	vecteur	X	à	un	vecteur	X	selon	X’	=	L	X		
+	Si	la	longueur	de	X	est	conserve,	alors	
+ce	qui	s’écrit	:		
+	(93)																																																										
+	ce	qui	donne	la	définition	axiomatique	d’un	groupe	de	Lorentz	complexe	:	
+	
+
+ (L X)*G L X = X*G X
+
+ < X',Y'> = < X,Y>
+
+ < X , X > = X*G X
+
+1
+0
+0 −1
+0
+0
+0
+0
+
+ΔX°
+ΔX1
+ΔX2
+ΔX3
+
+0
+0
+0
+−1
+
+0
+0
+−1
+0
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+G =
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎠
+
+C =
+
+	
+
+	
+
+	
+
+	
+
+ 
+
+ 
+
+0
+
+0
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+⎛
+⎜
+⎝
+
+	
+
+	
+
+⎛
+⎝⎜
+ 
+
+L C
+0
+1
+
+19	
+
+ L * G L =G
+
+⎞
+⎟ = Λ Γ
+1
+⎠
+
+Z ≡ δL δC
+1
+ 
+
+⎤⎦ = 0
+⎡⎣
+ δ L * G L
+(
+)*G L + L * GδL
+
+	
+(94)																																																																				
+	
+	On	construit	alors	un	groupe	de	Poincaré	complexe:		
+		(94)																																																																					
+	
+La	dimension	du	groupe	de	Lorentz	complexe	est	12+4	=	16	(les	composantes	imaginaires	
+de	la	diagonale	principale).	Le	groupe	de	Poincaré	complexe	a	une	dimension	18+8	=	24.		
+L’élément	de	son	algèbre	de	Lie	est	:	
+	(96)																																																	
+	(97)																																																																			
+	(98)																																																							
+	En	différenciant	autour	de	la	matrice	unité,	il	vient	;	
+	(99)																																																										
+Soit	:	
+(100)																																																																		
+Donc		
+,		est	une	matrice	antihermitienne.	On	écrira	donc	l’élément	de	l’Algèbre	de	
+Lie	:	
+(101)																																																																		
+	étant	une	matrice	antihermitienne.	Formons	l’inverse	de	l’élément	du	groupe	est		
+	(102)											
+	
+	(103)																																																																
+L’action	coadjointe	du	groupe	sur	son	algèbre	de	Lie	donne	:		
+																																																														
+(104)																								
+Ce	qui	nous	donne	:	
+⎛
+⎠⎟ × GΩ Γ
+		
+(105)																																																																			
+⎝⎜
+
+ L *G L = G → L *G LL −1 = G L −1 → L *G = G L −1 → G L *G = G G L −1
+
+)* G + GδL
+(
+  GδL
+
+)* + GδL = 0
+
+GΩ' Γ'
+0
+0
+
+L−1 L−1C
+0
+1
+
+ L −1 = G L *G
+
+G Ω Γ
+0
+0
+
+L C
+0
+1
+
+Z =
+ 
+
+) = 0
+
+) = 0
+
+ δL(
+
+ δL(
+
+⎞
+⎟ =
+⎠
+
+ GδL
+
+⎞
+⎠⎟ ×
+
+		
+
+⎛
+⎜
+⎝
+ 
+
+	
+
+	
+
+	
+
+	
+
+	
+
+⎛
+⎜
+⎝
+
+⎞
+⎟
+⎠
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+Ω
+
+(
+
+0
+
+0
+
+⎞
+
+ Ω' = L *Ω L
+
+ 
+
+ 
+
+}
+
+{
+
+	
+
+	
+
+Ω =
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+20	
+
+ Γ' = G L * ΩC + G L *G Γ
+
+Ωsx , Ωsy , Ωsz , Ωfx , Ωfy , Ωfz, iω11, iω22 , iω33 , iω44
+
+iω11 Ω12 Ω13 Ω14
+iω22 Ω23 Ω24
+−Ω12
+iω33 Ω34
+−Ω23
+−Ω13
+iω44
+−Ω14
+−Ω24
+−Ω34
+
+	
+	(106)																																																								
+	Dans	une	matrice	antihermitienne	les	termes	diagonaux	ne	sont	pas	nuls			
+	
+(107)
+																																															
+	On	a	donc	ces	seize	composantes,		six	complexes	et	quatre	imaginaires	pures		
+	(108)
+	
+	Les	lettres	majuscules	désigneront	des	quantités	complexes,	le	lettre	minuscules	des	
+																																
+grandeurs	réelles.	Au	total	nous	avons	:		
+	(109)
+		Soit	vingt-quatre	quantités	qui	seront	associées	à	un	moment	complexe	:	
+		
+												
+	(110)
+On	aura	une	énergie	complexe,	et	une	masse	complexe	:		
+													
+																									
+	(111)																																																					
+																																											
+																													
+	On	pourra	former	un	quadrivecteur	impulsion-énergie	complexe	:	
+	
+	
+(112)																																																																											
+	En	combinant	les	vecteurs	S	,	F	,	
+	
+(113)
+																																																										
+
+	on	forme	une	matrice	complexe	M	:	
+	
+
+Z = Ωsx , Ωsy , Ωsz , Ωfx , Ωfy , Ωfz , Γ t , Γ x , Γ y , Γz, iω11, iω22 , iω33 , iω44
+ 
+
+  µ = Sx , Sy , Sz , Fx , Fy , Fz
+
+, E , Px , Py , Pz, iθ11, iθ22 , iθ33 , iθ44
+
+									
+
+−Sz
+iθyy
+Sx
+−Fy
+
+iθxx
+Sz
+−Sy
+−Fx
+
+Sy
+−Sx
+iθzz
+−Fz
+
+Fx
+Fy
+Fz
+iθt t
+
+ E = e + iε
+
+E
+Px
+Py
+Pz
+
+m + iµ
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜⎜
+⎝
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+M =
+
+P =
+
+ iθ
+
+	
+
+{
+
+}
+
+{
+
+}
+
+  
+
+ 
+
+{
+
+	
+
+	
+
+	
+
+	
+
+1
+2
+
+1
+2
+
+1
+2
+
+1
+2
+ 
+
+1
+2
+ 
+
+1
+2
+ 
+
+		
+
+M(Z) =
+  
+
+Tr ( M Ω) + P * G Γ =
+
+Tr ( M Ω) + P * G Γ =
+
+Tr ( M' L *ΩL) + P'* L *ΩC + P'* L *G Γ
+
+  complex momentum ≡ M , P
+
+Tr ( M Ω) + P * G Γ = Tr ( M' Ω') + P'* G Γ'
+
+ M
+Tr ( M Ω) + P * G Γ
+
+Tr ( M' L *ΩL) + P'* G (G L *ΩC + G L *G Γ )
+
+} with M* = − M ; P ∈!4
+
+21	
+	
+	Combinée	avec	le	quadrivecteur	impulsion-énergie	nous	aurons	le	moment	complexe	:	
+	(114)																							
+	Nous	pourrons	exprimer	la	dualité	à	l’aide	d’une	quantité	
+(115)																																																					
+Ceci	se	traduisant	par:		
+(116)																																											
+D’où	:		
+(117)															
+	(118)																			
+																																																								
+L’identification	sur	les	termes	en		 donne	:		
+	(119)																																																									
+		9	–	Conclusion.		
+	Ce	qui	est	peut-être	le	plus	intéressant	dans	le	tour	d’horizon	que	nous	venons	de	faire	
+est	le	fait	que	les	inversions	de	l’énergie	et	de	la	masse	apparaissent	à	la	fois	dans	la	
+théorie	quantique	des	champs	et	dans	celle	des	groupes	dynamiques.	Une	approche	qui,	
+à	travers	le	modèle	cosmologique	Janus,	trouve	son	répondant	en	géométrie	différentielle.	
+On	suggère	en	outre	une	interprétation	géométrique	des	charges	quantiques	et	de	la	
+symétrie	matière	antimatière.	Enfin,	on	explore	des	aspects	d’une	extension	dans	le	
+champ	complexe,	avec	un	emploi	possible	en	physique	théorique,	à	moins	que	ceci	ne	
+débouche	sur	un	couple	physique+métaphysique.			
+		
+References.	
+[1]		Steven	Weinberg	:	The	quantum	theory	of	fields,	Cambridge	University	Press,	2005.		
+[2]		Riess, A. G., et al. 1998, ApJ, 116, 1009 
+[3]		Perlmutter, S., et al.  1999, ApJ, 517, 565 
+[4]		 B.Schmidt  Observational  evidence  from  supernovae  for  an  accelerating  universe  and 
+[5]		N.Debergh,	J.P.Petit	and	G.D’Agostini	:	Evidence	of	negative	energies	and	masses	in	
+the	Dirac	equation	through	a	unitary	time-reversal	operator.	,	J.	Phys.	Comm.	2	(2018)	
+115012	
+[6]	N.Debergh,	J.P.Petit.	On	some	reasons	why	the	rime	reversal	operator	could	be	unitary.	
+Phys.	Lett.	A	422,	(2022)	127791	
+
+cosmological constant. Astron. J. 116, pp 1009-1038 (1998). 
+
+ P * = P'* L * → P = L P'
+
+		
+
+	
+
+γ
+
+22	
+	
+[7]		N.Debergh,	J.P.Petit.	On	spacetime	algebra	and	its	relations	with	negative	masses.	
+https://hal.archives-ouvertes.fr/hal-03683117	
+[8]		J.P.Petit,	G.D’Agostini	:	Negative	Mass	hypothesis	in	cosmology	and	the	nature	of	dark	
+energy.	Astrophysics	And	Space	Sccience,.	A	29,	145-182	(2014)	
+[9]		G.	DAgostini	and	J.P.Petit	:	Constraints	on	Janus	Cosmological	model	from	recent	
+observations	 of	 supernovae	 type	 Ia,	 Astrophysics	 and	 Space	 Science,	 (2018),	
+363:139.https://doi.org/10.1007/s10509-018-3365-3	
+[10]	J.M.Souriau	:	Structure	des	systèmes	dynamiques.		Dunod	Ed.	France,	1970	and	
+Structure	of	Dynamical	Systems.	Boston,	Birkhaüser	Ed.	1997	
+[11]	D.Hilbert.	Die	Grundlagen	der	Physik	(Esrte	Mitteilung).	Nachrochten	von	der	
+Gesellschaft			der	Wissenschaften	zu	Göttingen.	Mathematisch-ohysikalische	Klasse.	
+(1915)	395-407.			
+[12]	A.	Einstein	:	Die	Feldgleichungen	des	Gravitation	(	The	Field	Equation	of	Gravitation).	
+Sitzungsber.	XLIV	,	8	,	778	and	XLVI	s.	799	(	25	nov	1915)	
+[13]	T.Kaluza.	Sitzungsber	Preuss	Akad.	Wiss.	Berlin	Math.	Phys.	K1,	966	
+[14]	O.Klein.	Z	;	Phys.	37,	895	
+[15]		J.M.Souriau	:	Géométrie	et	Relativité.	Ed.	Hermann,	1964	(french	edition	only).	
+[16]	L.Boyle,	K.Finn,	N.Turok.	CPT-symmetric	universe.	Physical	Review	Letters	121,	251301	
+20	dec.	2018	
+[17]	N.Kumar	On	the	Accelerated	Expansion	of	the	Universe.	Gravitation	and	Cosmology,	
+2024,	Vo.30,	n°1	;	pp.	85-88	
+[18]	A.D.Sakharov,	ZhETF	Pis’ma	5	:	32	;	JETP	Lett.	5	:	24	(	1967	)	
+[19]	A.D.Sakharov	,	ZhETF	Pis’ma	76	:	1172	(1979)	;	JETP	49	:	594	(1979)	
+[20]	A.D.Sakharov	,	(1980).	Cosmological	Model	of	the	Universe	with	a	Time	Vector	
+Inversion.	ZhETF	(Tr.	JETP	52,	349-351)	(79):	689–693	
+[21]	H.Zejli,	F.Margnat,	J.P.Petit	:	The	Janus	Cosmological	Model,	Mathematically	and	
+Physically	Consistent.	https://hal.science/hal-04583560.	Jan.	2024	
+[22]	H.Zejli,	F.Margnat,	J.P.Petit	:	The	Legacy	of	Andrei	Sakharov.	https://hal.science/hal-
+04572588	may	2024	
+[23]	H.Zejli,	F.Margnat,	J.P.Petit	:	Challenging	the	Standard	Model.	https://hal.science/hal-
+04589263	2024	
+[24]	H.Zejli,	F.Margnat,	J.P.Petit	:	Plugstars,	Alternative	to	Black	Holes.	2024	https://hal-
+science/hal-04606255	
+[25]	H.Zejli,	F.Margnat,	J.P.Petit	:	About	the	Fundations	of	Black	Holes	Theory/	
+https://hal-science/hal-04637824	
+	[26]C.Jonas,	JL.	Lehners,	J.	Quintin.	Use	of	complex	metrics	ins	cosmology.	Journal	of	
+High	Energy	Physics.	2022.	Vol.	22	n°	284	
+[27]	Edward	Witten	:	A	Note	on	Complex	Spacetime	Metrics.;	arXiv	:2111.06514v2	:	11	
+Feb.	2022	
+[28]	JL.Lehners.	Allowable	complex	metrics	in	minisuperspace	quantum	cosmology.	
+Phys.	Rev.	D	,	105,	026022,	25	january	2022.		
+				
+
+23	
+
+	
+
+							
+
+		
+
+

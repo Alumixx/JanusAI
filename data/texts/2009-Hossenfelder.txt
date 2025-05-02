@@ -1,0 +1,454 @@
+9
+0
+0
+2
+
+ 
+
+p
+e
+S
+8
+1
+
+ 
+
+ 
+ 
+]
+c
+q
+-
+r
+g
+[
+ 
+ 
+
+1
+v
+6
+5
+4
+3
+
+.
+
+9
+0
+9
+0
+:
+v
+i
+X
+r
+a
+
+Antigravitation
+Sabine Hossenfelder
+
+Nordita, Roslagstullsbacken 23, 106 91 Stockholm, Sweden
+
+Abstract. We discuss why there are no negative gravitational sources in General Relativity and
+show that it is possible to extend the classical theory such that repulsive gravitational interaction
+occurs. This is the summary of a talk given at the 17th International Conference on Supersymmetry
+and the Uniﬁcation of Fundamental Interactions in Boston, June 2009.
+Keywords: General Relativity, Antigravitation, Mirror-matter
+PACS: 04.20.Cv, 11.30.-j, 11.30.Cp
+
+WHY NO NEGATIVE GRAVITATIONAL CHARGES?
+
+In General Relativity (GR) the gravitational charge of the source, its energy, is always
+positive. If one considers the Newtonian potential describing the interaction between
+two point masses, it seems straightforward to introduce negative gravitational masses:
+to obtain a repulsive interaction, just change the sign of one of the masses. Unlike
+Electrodynamics which is mediated by a spin-1 ﬁeld, the gravitational interaction is
+transmitted by a spin-2 ﬁeld, thus like charges will attract and unlike charges repel.
+
+So far, so good. But if one takes into account the motion of a testparticle in a
+gravitational background ﬁeld, one knows that this curve, a geodesic, is independent of
+the mass of the particle. If the curve does not depend on the particle’s mass then a particle
+of negative gravitational mass, henceforth called ‘antigravitating,’ would fall towards a
+gravitating source of either kind. One then had a situation in which a gravitating and an
+antigravitating particle did both, attract and repel [1]; a scenario that is very implausible.
+Another common objection to antigravitation is that the existence of negative masses
+would allow for inﬁnite production of particle pairs. Because energy conservation does
+not forbid production of a zero net sum out of nothing, a disastrous vacuum decay would
+result. While this is a quantum effect and the following discusses a merely classical
+scenario, it is a serious concern that will be brieﬂy addressed later.
+
+A frequently occurring misunderstanding stems from the deﬁnition of antigravitation,
+so some words of clariﬁcation are in order. Antigravitation has sometimes been used [2]
+to mean a repulsive gravitational interaction between particles and their antiparticles.
+While experimental data on the gravitational interaction of antiparticles is not entirely
+conclusive, a different gravitational behavior of antiparticles is from a quantum ﬁeld
+theoretical perspective not very plausible. What is here referred to as antigravitating
+particles instead is an entirely new type of matter that, in the simplest case, would be
+a copy of the Standard Model (SM). These particles are identical to the particles of the
+SM except for their gravitational interaction. They attract each other but repel our usual
+matter.
+
+The gravitating and antigravitating particles interact only gravitationally. Thus, not
+
+Antigravitation
+
+September 26, 2018
+
+1
+
+only would the antigravitating matter be dark, the interaction is also too weak for these
+particles to be produced in experiments on Earth. Such matter would be detectable
+only by its gravitational effects. Since it was repelled by our normal matter during the
+formation of structures in the universe, one would not expect it to be present in our
+vicinity in sizeable amounts. It would instead collect in what we think are voids.
+
+We will in the following propose such an extension of GR with negative gravitational
+charges based on the assumption that the antigravitating particles are just like the com-
+mon particles, and that exchanging both sorts of particles would not alter the physics.
+We are thus postulating a symmetry between gravitating and antigravitating particles.
+This does not necessarily mean though that the amount of both types of matter in our
+universe is the same.
+
+Since we know from cosmological and astrophysical observations that our under-
+standing of the matter content of the universe and/or its gravitational dynamics is incom-
+plete, such a symmetry is appealing for both theoretical as well as experimental reasons.
+It is thus not surprising it has been studied before in various approaches [3, 4, 5, 6, 7, 8].
+The scenario outlined in the following, and explained in more detail in [9], has the virtue
+of being entirely covariant and not allowing vacuum decay because it does not necessi-
+tate negative kinetic energies.
+
+HOW TO ADD NEGATIVE GRAVITATIONAL CHARGES
+
+As discussed above, an antigravitating particle that moves on a geodesic is implausible.
+However, a geodesic is uniquely deﬁned only through the connection employed, and the
+connection itself is uniquely deﬁned only by requiring it to be torsion-free and metric-
+compatible. Since torsion does not affect geodesics, one wants a second connection that
+is torsion-free but not metric-compatible. To that end, introduce a second metric h over
+the manifold, and construct a second derivative, denoted h(cid:209)
+, that is compatible, not
+with the usual metric g, but with the second metric h. The antigravitating particles will
+feel a background with distance measures deﬁned by the second metric and move on
+geodesics deﬁned according to this metric. With this derivative one can then deﬁne a
+second curvature tensor and its contractions as usual.
+
+We refer in the following to the antigravitating (normally gravitating) ﬁelds, particles
+and observers as h-ﬁelds, h-particles, h-observers etc (g-ﬁelds, g-particles, g-observers).
+It is straightforward to write down a Lagrangian for the h-ﬁelds by replacing the usual
+metric with the second metric and the usual derivative with the corresponding second
+derivative. One should not forget to also replace the volume-element, since otherwise
+Gauss’s law cannot be applied and the equations of motion one obtains are not symmetric
+to the usual ones. For a massless scalar h-ﬁeld f
+
+the action then looks like
+
+S =Z d4xp−
+
+nk
+
+h h
+
+(h)(cid:209)
+
+k f (h)(cid:209)
+
+n f
+
+.
+
+These h-ﬁelds are tensors over the manifold and can be expanded in a local basis of the
+tangential space. However, there is no tool to contract the basis of the tangential space
+in which the h-ﬁelds are expanded with those of the g-ﬁelds. The local bases of both
+spaces are trivially isomorphic in each point, but they cannot be directly compared to
+
+Antigravitation
+
+September 26, 2018
+
+(1)
+
+2
+
+tell whether they are indeed the same. This is conceptually similar to Special Relativity.
+We have two observers. Here, one is constituted or normal matter, the other one of anti-
+gravitating matter. They do both describe their physics in tensor equations and we know
+these equations have the same form for both observers. Yet to compare them, we need to
+ﬁnd a transformation from one set of observables to the other. These transformations to
+pull over the tensors of the antigravitating observer to that of the normally gravitating,
+and vice versa we will call the ‘pull-overs.’
+
+The pull-overs do assign observables for h-ﬁelds to the g-observer, and observables
+for g-ﬁelds to the h-observer. By this, they do preserve the tensor structure of objects, and
+also the covariance of derivatives. In particular, for the g-observer they assign a 2-tensor
+h = Ph(h) to the second metric h, and similarly the h-observer assigns a pulled-over
+2-tensor g = Pg(g) to our metric g. Note underlines. The underlined quantities are the
+observables of the h-observer, but cannot be observed directly by the g-observer. Only
+after applying the pull-over are they converted into standard tensor-ﬁelds. The situation
+is the same the other way round.
+
+We further deﬁne a map a that transforms the one metric into the pull-over of the other
+
+Since both g and h are symmetric, a is not completely determined by (2). We ﬁx the
+remaining six degrees of freedom by requiring it to be symmetric, i.e. gkn ae
+=
+ake
+
+. We can pull over a by
+
+n = aek
+
+gel = a
+
+n
+e a
+
+k
+l hnk
+
+.
+
+.
+
+n
+e
+e = [Pg]
+
+a
+
+e a
+
+n
+
+n
+
+n
+
+e (cid:2)Ph(cid:3)
+
+,
+
+gel = a
+
+n
+e a
+
+k
+l hnk
+
+which then gives the relation
+
+This pulled-over quantity is also required to be symmetric. It is further useful to deﬁne
+a combination of a and the pull-overs that maps g to h via
+
+n
+e = a
+
+e
+
+a
+
+n
+
+n
+
+[Ph]
+
+n
+
+gel = a
+
+,
+
+n
+e a
+
+k
+l hnk
+
+.
+
+And by raising and lowering some indices we also have
+
+gel = a
+
+n
+e aln
+
+, hnk = a
+
+n aek
+
+.
+
+e
+
+This introduced map a is a convenience and not an independent dynamical ﬁeld, since it
+is deﬁned by relating g to Ph(h).
+
+Now that the basics of the bi-metric formalism is in place, the ﬁeld equations need
+to be found to determine the equations of motion for the second metric. We thus
+extend Einstein’s ﬁeld equations by adding a negative source term constituted of the
+antigravitating type of matter. Then, making use of the symmetry principle, we add a
+second set of equations for the second metric. For this metric, it is the h-source that has
+the usual sign, whereas our g-ﬁelds have the negative sign.
+
+However, if one simply does this, the system of equations is over-constrained due to
+the contracted Bianchi identities. These two times four equations require the additional
+
+Antigravitation
+
+September 26, 2018
+
+3
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+source terms to be covariantly conserved, yet there are no more degrees of freedom left.
+The reason for this inconsistency is the neglect to pull over the source terms which adds
+additional degrees of freedom. Together with the requirement of torsion-free-ness the
+pull-overs provide the missing two times four degrees of freedom. In special cases, the
+pull-overs are just the identity but in general they are non-trivial. The ﬁeld equations
+then read
+
+(g)Rkn
+
+(h)Rnk
+
+1
+2
+
+1
+2
+
+gkn
+
+hnk
+
+−
+
+−
+
+−sh
+(g)R = 8p G Tkn
+(h)R = 8p G(cid:18)T nk −rg
+
+g
+
+h
+
+n
+n a
+
+a
+
+k
+
+a
+
+k a
+
+k
+
+k T nk !
+n Tkn (cid:19) ,
+
+n
+
+(7)
+
+(8)
+
+with
+
+Tmn
+
+= −
+
+d L
+d gmn +
+
+1
+2
+
+1
+√
+
+g
+−
+
+gmn L
+
+, T nk = −
+
+d L
+d hnk +
+
+1
+2
+
+1
+√
+
+h
+−
+
+hnk L
+
+.
+
+(9)
+
+Also note the factors converting the measures of the stress-energy tensors in Eqs. (7,8),
+since they are densities.
+
+There is an action principle from which the above equation can be derived [9]. Though
+the constrained space of this summary is insufﬁcient for more details, it should be
+mentioned that the action does not have any negative kinetic energy terms. The minus
+sign in the source term stems from the variation over the both metrics, together with the
+requirement that the variation of the a’s vanishes, i.e. d ank
+= 0. The change of
+sign thus appears only for the sources of the gravitational ﬁeld. It does not appear if one
+takes the variation with respect to the ﬁelds which provides the stress-energy that can be
+considered a generalization of ‘inertial’ mass. Then, to ﬁnally come back to the concern
+about an unstable vacuum, both the gravitational and the inertial mass of particles is
+conserved separately which means in particular it is not possible to produce a pair of
+gravitating and anti-gravitating particles out of the vacuum.
+
+= d ank
+
+Note added: A no-go theorem for bi-metric gravity with positive and negative mass
+was recently put forward in [10]. It has been shown in [11], that this does not affect the
+here discussed model.
+
+REFERENCES
+
+1. H. Bondi, Rev. Mod. Phys. 29, 423-428 (1957).
+2. R. P. Feynman, F. B. Morinigo, W. G. Wagner and D. Pines, Feynman Lectures on Gravitation,
+
+Westview Press (1995).
+
+3. A. D. Linde, Phys.Lett. B 200, 272 (1988); A. D. Linde, [arXiv:hep-th/0211048].
+4. J. P. Petit, Astrophys. Space Sci. 226, 273 (1995).
+5. I. T. Drummond, Phys. Rev. D 63, 043503 (2001) [arXiv:astro-ph/0008234].
+6. J. W. Moffat, Int. J. Mod. Phys. D 12, 281 (2003) [arXiv:gr-qc/0202012].
+7. I. Quiros, [arXiv:gr-qc/0411064].
+8. F. Henry-Couannier, arXiv:gr-qc/0610079.
+9. S. Hossenfelder, Phys. Rev. D 78, 044015 (2008) [arXiv:0807.2838 [gr-qc]].
+10. M. Hohmann and M. N. R. Wohlfarth, arXiv:0908.3384 [gr-qc].
+11. S. Hossenfelder, arXiv:0909.2094 [gr-qc].
+
+Antigravitation
+
+September 26, 2018
+
+4
+
+

@@ -1,0 +1,316 @@
+16/01/2018
+
+T2-44/92
+D 69-2
+Titre de la lettre:Les astronefs d'Ummo
+
+Date :Juin 1968
+Destinataires :Villagrasa
+
+ajh
+
+Corr: 06/05/04
+
+III-II-101/178
+
+Il s'agit d'un très long document de 41 pages comprenant de nombreux dessins et symboles. Les notes
+(en vert) sont autant (si ce n'est plus) importantes que le texte proprement dit, c'est donc pour cette
+raison que nous les avons présentées "en regard", sur la partie droite, ainsi que les images. Certaines
+sont donc répliquées.
+Ce document est présenté en cinq "pages" (de D69-1 à D69-5). Les liens bas de page vous permettent
+donc de suivre la lecture.
+La répartition des chapîtres dans les pages est la suivante:
+
+Notes :
+
+69-1 : Introduction / Éclaté et détails de l'UEWA / Structure de l'UEWA / L'ENNAOEII - Note 6 /
+Systèmes et équipements - Note 1 et 2 /
+69-2 : Propulsion / Inversion de particules / Enceinte équipage / Phase OEE / Phase AGOIA
+69-3 : Revêtement structural XOODOU - Note 15, 3 - 4 - 7 - 19
+69-4 : UAXOO AXOO / Navigation sidérale et atmosphérique - Notes 5 - 10 -11
+69-5 :Explications concernant le comportement apparent des OVNI / Disparition du vaisseau /
+Changements brusques de vitesse - Note 12 / Fin de la lettre .
+
+Certaines images sont dues au talent de Nicolas Lecot (nicolas.lecot@wanadoo.fr) qui a nettoyé et
+colorié les photocopies noir et blanc.
+Les notes 8, 9, 13, 14 ,16 et 17 sont manquantes ou censurée postérieurement par les ummites.
+
+IDUUWII AYII
+(propulsion)
+
+En ce qui concerne la technique que nous utilisons pour l'inversion de toutes les
+subparticules atomiques inclues dans l'enceinte géométrique de l'UEWA, nous nous
+permettons d'omettre toute information susceptible d'être immédiatement appliquée par vos
+physiciens et ingénieurs terrestres. Je dois censurer aussi la transmission de documents
+(bien qu'elle soit simplement indicative) concernant les bases scientifiques de leur
+application au système de propulsion de nos vaisseaux.
+
+Dans ce cas, donc, je peux seulement vous offrir une description purement topographique
+de l'emplacement des équipements correspondants.
+
+L'équipement IDUUWII AYII (propulsion) est réparti à l'intérieur d'un toroïde de
+révolution assemblé (embouti) à l'intérieur de la DUII (ailette ou couronne: Image 1- 6)
+qui entoure le vaisseau sur son plan central. La source énergétique de celle-ci est située
+dans l'ENNOI (tourelle ou coupole). Ce générateur énergétique présente aussi une
+morphologie toroïde. Son élément le plus caractéristique est constitué par un treillis de gaz
+fortement ionisé dont la circulation est contrôlée par un champ magnétique complexe de
+très haute fréquence (j'utilise dans ce cas le mot "treillis" comme synonyme de Réseau ou
+Grille spatiale). La température du gaz ionisé quand il est en résonance avec la fréquence
+de l'environnement magnétique atteint les 0,7.106 grades Kelvin (j'utilise naturellement les
+unités physiques terrestres).
+
+Le contrôle de la propulsion est très complexe : la direction, la vitesse de croisière et le
+contrôle automatique des accélérations à chaque instant donné, dépendent du XAANMOO
+
+1 / 7
+
+16/01/2018
+
+AYUUU (réseau central d'ordinateurs ). La fonction cinématique est très compliquée,
+fonction dont les multiples paramètres correcteurs dépendent par exemple de :
+1 - ce que nous appelons USAGIISOO (état "isodynamique" de l'espace cosmique),
+2 - de la présence de champs gravitationnels intenses,
+3 - de la menace de "COSMOLITOS" (excusez-nous d'utiliser notre néologisme que nous
+jugeons plus approprié que le terme "météorite" ou "aérolithe"),
+4 - d'éventuelles attaques de vaisseaux étrangers,
+5 - des zones spatiales de radiations ioniques, électromagnétiques, gravitationnelles,
+dangereuses ou perturbatrices pour nos systèmes de bord, etc...
+
+IBOZOOAIDAA
+
+(inversion des particules)
+
+Image 1
+
+Cet équipement est présent dans toute la masse solide de la structure, bien que le centre de
+contrôle soit fixé dans tous nos modèles de vaisseaux dans l'ENNOI, espèce de tourelle
+cylindroïde qui couronne nos vaisseaux - Image 1 - 1 ). C'est peut-être, si nous exceptons
+l'équipement IDUWII AYII , le facteur vital de nos OAWOOLEA UEWA OEMM (dont les
+racines phonétiques : OAWOO = dimension; OOLEEA = pénétrer, percer; UEWAA =
+véhicule, vaisseau; OEMM = entre les astres; sidéral; de masse spérique; à masse
+sphérique ).
+
+[Note: Le phonème OOLEA a un sens différent en fonction du contexte verbal dans lequel
+il est intégré. L'acception la plus correcte quand il s'applique au champ technique est la
+suivante : changer, passer d'un milieu physique à un autre. En langage scientifique il
+signifie: augmenter ou diminuer la valeur d'un angle en un autre angle infinitésimal. Ceci
+serait, dans le cas que nous étudions, la version la plus fidèle de la racine phonétique.]
+
+Toute la superstructure du vaisseau, comme nous l'expliquerons plus loin, est protégée par
+une substance céramique finement perforée, qui recouvre le blindage extérieur.
+
+On délimite une couche spatiale de sécurité dont l'épaisseur atteint une valeur de ΔU =
+0,0176 ENMOO (1 ENMOO équivaut à quelques 1,873 mètres) (Ndt: donc 33 mm) et qui
+entoure toute l'UEWA. Nous appelons IITOOA la couche externe idéale dont la
+morphologie est semblable à celle du vaisseau (image 7) et qui sépare l'enceinte du reste
+de l'Espace.
+
+Image 7
+
+2 / 7
+
+16/01/2018
+
+Toute particule subatomique ou "quanton" énergétique (IBOZOO UU) située à l'intérieur
+de cette enceinte peut être inversée dans un autre système tridimensionnel.
+
+(IITOAA)
+
+----------------
+
+Image 6
+
+(IITOA, XODINAA)
+
+----------------
+
+Par exemple (image 6) : un neutron "A" correspondant à une quelconque masse de
+l'intérieur du vaisseau, ainsi que les masses des membres de l'équipage, les gaz, les
+radiations ioniques, etc. Ainsi par exemple un autre proton "B" appartenant à l'enveloppe
+ou blindage, ainsi que toutes les sousparticules atomiques et énergétiques "C" d'une
+quelconque molécule de gaz ou particule de poussière cosmique contenue dans le mince
+environnement cortical d'épaisseur ΔU délimité par l'IITOA, sembleraient "disparaître" à
+la vue d'un observateur imaginaire pourvu d'un exceptionnel équipement d'observation,
+situé à l'extérieur de l'enceinte délimité par l'ITOOA.
+
+Cette transformation instantanée que nous appelons OAWOOLEAIDAA est provoquée par
+le même équipement IBOZOO AIDAA (image 1 - 8) qui inverse simultanément les "axes"
+orientés de tous les IBOZOO UU y compris ceux de sa propre structure.
+
+Je ne peux même pas vous suggérer quelle est la base technique de ce système dont, sans
+doute, la seule allusion doit représenter aujourd'hui pour vos ingénieurs terrestres une
+fantaisie entourée de science-fiction.
+
+Mais en revanche, je peux vous offrir quelques faits complémentaires : l'apport d'énergie
+nécessaire pour cette transformation physique est très grand, et se trouve représenté pour
+nos UEWA par la représentation graphique de la fonction P = phi (t) (image 8).
+
+3 / 7
+
+16/01/2018
+
+Image 8
+
+---------------
+
+L'énergie nécessaire mise en jeu jusqu'à l'instant t0 OAWOOLEAIDAA (instant où toutes
+les subparticules subissent leur inversion) est restituée intégralement sans perte, de tel
+manière que ΔW1 = ΔW2, représentés tous deux par les surfaces hachurées (mauves) du
+graphique, et se transforment dans le nouveau cadre tridimensionnel sous forme de
+MASSE (ΔW2 représente l'équivalent énergétique de la Masse engendrée). Vous
+comprendrez mieux sa signification physique si je vous indique qu'immédiatement après
+t0, dans le nouveau cadre tridimensionnel, l'UEWA se déplace à une vitesse supérieure
+sans que le changement brusque de vitesse (accélération infinie à l'instant t0) soit accusé
+par le vaisseau et son équipage.
+
+P0 représente le seuil de Puissance nécessaire pour transformer toute la masse m0 de
+l'UEWA (m0 représente non pas la masse au repos absolu mais la masse réelle par rapport
+à un système référentiel en l'instant t0). La puissance limite P0 = phi(m0) n'englobe pas
+seulement la masse de l' UEWA mais aussi celles des particules contenues dans l'enceinte
+de la ITOOA (image 7) (lire aussi la note 10 - voir page 69-5).
+
+AYIYAA OAYUU
+
+(Enceinte pour les membres de l'équipage)
+
+Image 1
+
+Comme nous vous l'avons indiqué, l'équipage de l'un de nos vaisseaux ne se trouve pas
+dans l'ENNAOEI même (image 1- 2). Au contraire, cette structure en forme de cavité
+possède à l'intérieure une seconde structure "flottante" annulaire et creuse que nous
+nommons AYIYAA OYUU ; à l'intérieur de laquelle se trouvent non seulement les
+voyageurs, mais aussi toute la gamme d'équipements auxiliaires transportés et une série de
+dispositifs de contrôle et de détection directe (image 9). La situation de cette CABINE
+
+4 / 7
+
+16/01/2018
+
+FLOTTANTE pourvue de sorties ou écoutilles que nous appelons IMMAA (image 1-15) à
+l'intérieur de la cavité YAAXAIUU peut présenter deux Phases. (Voir Phase OEE et Phase
+AGIOA, çi-dessous).
+
+Supposez une première phase de "vol" ou déplacement de la UEWA, dans laquelle celle-
+ci ne se déplace pas à une vitesse de croisière modérément constante ou avec des pointes
+d'accélération supportables. C'est-à-dire, un intervalle pendant lequel le Vaisseau pour
+atteindre de hauts niveaux de vitesse, est obligé de subir de grandes "pentes" de la
+fonction vitesse "t "
+
+Image 9
+
+Phase OEE
+
+Image 1
+
+L'intérieur de la AYIYAA UU se rempli au préalable d'une masse visqueuse à l'état de
+"GEL", comme l'appellent les physiciens chimistes de la Terre. Il s'agit d'un composé de
+faible degré de gélification en suspension "hydrosol" (NdT; solution colloïdale dont le
+solvant est l'eau) contenue au départ dans le YAAXAIUU (image 1 -13). Sa coagulation
+dans certains cas et sa régression ultérieure à l'état de solution colloïde s'effectue grâce
+aux caractéristiques du dissolvant employé, car pour un seuil de température de 24,611°C,
+il se convertit en électrolyte de forte conductivité. Ses propriétés thixotropes sont nulles,
+de façon qu'aucun effet dynamique en son sein (agitation) ne provoque sa transformation en
+
+5 / 7
+
+16/01/2018
+
+"SOL".
+
+Nos frère voyageurs ont aussi revêtu au préalable l'EEWEANIXOO (vêtement protecteur
+hermétique - note 6, vue précédemment, page 69-1) de manière à ce que les OEMII
+restent en suspension au sein de la gelée à indice élevé de viscosité (TAXEE) qui, entre
+autres fonctions, agit comme protecteur ou amortisseur face aux pointes d'accélération que
+subit la structure dans des occasions déterminées.
+
+Simultanément l'AYIIYAA OYUU "flotte" à l'intérieur de la superstructure de l'UEWA, au
+sein d'un champ magnétique très énergétique généré dans la membrane de l'AAXOO
+XAIUU AYII (situé dans un autre toroïde plongé dans la DUII (image 1- 14 ). Ce champ
+de moyenne fréquence engendre, dans la membrane de la AYIYAA OAYUU (membrane
+dont le coefficient de résistivité électrique est très bas quand elle est maintenue à des
+températures de l'ordre de 0,000825° Kelvin), des courants électriques circulaires dont le
+champ magnétique axial, en s'opposant à l'inducteur, maintient en suspension la cabine
+toroïdale dans laquelle voyagent les membres de l'équipage protégés par la masse
+gélatineuse.
+
+Cette suspension magnétique n'a pas été spécialement provoquée pour compenser les
+actions gravitationelles qui sont naturellement quasi inexistantes dans les espaces intra-
+galactiques, mais en maintenant un contrôle rigoureux sur tous les points de la cavité, quant
+à l'intensité du champ, fréquence et gradient, cette YAAXAIUU se comporte comme un
+"matelas parfaitement élastique" qui amortit les effets dynamiques brusques subis par le
+vaisseau.
+
+De cette manière, nous jouissons pendant le voyage de la double protection que
+représentent d'une part la TAXEE (gelée) et d'autre part le milieu élastique contrôlé
+magnétiquement. Il est clair qu'une telle protection ne suffirait pas pour certains taux
+d'accélération, mais ceux-ci ne sont jamais dépassés même si certains effets semblent
+montrer le contraire comme je l'expliquerai à la fin de ce document.
+
+Pendant la longue trajectoire de notre voyage, et une fois atteint un régime cinématique
+stable, tous les moyens de sécurité décrits antérieurement sont inutiles. Le processus de
+stabilisation est le suivant : par un contrôle rigoureux du champ magnétique, la cabine
+AYIYAA OAYUU se situe exactement dans l'axe de la UEWA, en descendant son centre de
+gravité par rapport à celui du vaisseau jusqu'à s'assembler ou s'emboîter dans une
+protubérance située à la base, appelée ENNOII AGIOAA ( image 10 - 22 ).
+
+Phase AGIOA
+
+Image 3
+
+Image 10
+
+Cette connexion ou assemblage ne suppose pas un contact mécanique entre les surfaces, au
+
+6 / 7
+
+16/01/2018
+
+contraire, il reste une séparation de quelques 0,6 douzièmes d'ENMOO (image 10 - 58) qui
+se remplit, comme nous le verrons plus loin, d'une suspension colloïde qui agit comme
+lubrifiant.
+
+En effet, un second processus a commencé simultanément à l'intérieur de la cabine. La masse
+gélifiée est amenée par un double effet (changement thermique et ionisation contrôlée) à
+l'état d'hydrosol, comme le dénomment vos frères scientifiques (autrement dit la gelée
+protectrice adopte de nouveau la structure liquide initiale de suspension colloïde). Cette
+masse liquide est pompée à l'extérieur, c'est à dire dans l'YAAXAIUI ( cavité magnétique
+remplie d'ARGON-OXYGENE ). Cette masse liquéfiée peut se diviser en l'absence de
+champ gravitationnel en une multitude de corpuscules sphéroïdes qui flottent au sein de la
+cavité.
+
+Nous, les membres de l'équipage, pouvons alors nous déplacer librement à l'intérieur du
+long couloir annulaire, après nous être débarrassés d'une partie de notre EEWEANIXOO.
+On nomme cette phase l'AGIIOA.
+
+Image 1
+
+Dans l'image 1- 9, vous pouvez observer que nous avons représenté les voyageurs marchant
+en maintenant leurs corps parallèles au plan équatorial de l'AYIYAA toroïde. Ceci est dû au
+fait que dans la phase AGIIOA et dans celle de OOE, la cabine annulaire maintient un
+régime de vitesse angulaire constant afin de provoquer une gravité artificielle (force
+centrifuge). Les effets secondaires provoqués sur le système vestibulaire de l'ouïe interne et
+autres petits troubles psychophysiologiques, ont été résolus.
+
+Dans des cas déterminés, il faut que la vitesse relative des deux structures (ENNAEOI et
+AYIYAA OAYUU) soit nulle. C'est-à-dire que la cabine intérieure annulaire forme un seul
+corps avec l'enceinte extérieure. Cela est nécessaire quand il faut avoir accès aux différentes
+zones de la superstructure (n'oubliez pas qu'elle renferme de nombreux équipements vitaux et
+aussi des réserves de produits nécessaires pour le long voyage) et dans d'autres occasions
+pour sortir à l'extérieur grâce aux IMMAA (écoutilles hermétiques).
+
+Dans ce cas, le vaisseau tourne autour de son axe central pour adapter son moment angulaire
+avec celui de la cabine de manière à ce que l'accélération centrifuge (gravité artificielle)
+continue d'être constante.
+
+Mais dans tous les cas, le contrôle automatique du système est autocompensé. Le
+XAANMOO central (ordinateur) n'est pas seulement informé à chaque instant des variations
+du Centre de Gravité et du Centre d'Inertie de l'UEWA, mais il a aussi un enregistrement
+permanent de toutes les déformations et micro-déformations de la masse structurale ; par
+exemple, si un quelconque élément du vaisseau commence une rotation, provocant, par le
+principe que vous connaissez de "Conservation de la quantité de mouvement", une rotation
+opposé dans l'UEWA, le XAANMOO contrôle la dynamique des autres composants en les
+stimulant pour compenser cet effet.
+
+7 / 7
+
+

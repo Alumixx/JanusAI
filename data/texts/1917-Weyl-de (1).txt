@@ -1,0 +1,1606 @@
+117 
+
+3.  Zwr 
+von 
+
+Uravdtatdomstheorie; 
+Herrnamlz  Weyl. 
+
+Inhalt. 
+
+A.  Zusatze  zur  allgemeinen  Theorie. 
+
+3  1.  Herleitung  eines Hamiltonschen Prinzips  zur  Losung solcher 
+Probleme,  die  bei  w e r e r   heutigen  sehr  luckenhaften  Kenntnis  der 
+Materie behandelt  werden  konnen. 
+
+5  2.  Der  Energieimpulssatz  ist  allgemein der  Ausdruck dafur,  daB 
+das  Hainiltonsche Prinzip  fur  solche  Variationen  der  ZustandsgroBen 
+gilt, welche durch  eine infinitesimale  Deformation des  vierdimensionalen 
+Wrltkontinuums  hervorgebracht  werden,  wenn  die  ZustandsgroBen  von 
+cler  Deformation  ,,mitgenomrnen"  werden. 
+
+J 3.  Prinzipielles  uber  den  Zusammenhang  zwischen  Theorie  und 
+Beobachtung.  Herleitung  des  Fermatschen Prinzips  der kiirzesten  An- 
+kunft  fur  Lichtstrahlen  im  statischen  Gravitationsfeld  und  eines  ana- 
+logen  Prinzips  fur die  Bahnkurve  eines  mit  Ladung  behafteten  Massen- 
+punktes  unter  dem  EinfluB von  Gravitation  und  Elektrizitat. 
+
+B.  Theorie  des  statischen axielsymmetrischen  Peldes. 
+5  4.  Einfache  Herleitung  der  Schwarzschildschen  Losung  fur 
+einen Massenpunkt und Transformation  auf  ein anderes, f k  das Folgende 
+wichtiges  Koordinatensystem.  Elektrostatisches  und  Gravitations-Feld 
+rines geladenen Masscnpunktes. 
+
+5.  Durch Konstruktion eines ausgezeichneten Koordinatensystems, 
+der eindeutig  bestimmten  ,,kanonischen Zylinderkoordinaten",  gelingt  es, 
+dah  Feld  ruhender  Massen, die rotationssymmetrisch  verteilt sind, ebenso 
+einfach  zu  ermitteln  wie  nach  der  Newtonschen  Theorie;  es  besteht 
+zwischen  den  Losungen  nach  Newton  und  Einstein ein  allgemeiner, 
+durch  elenientare  E'unktionen ausdriickbarer  Zusammenhang. 
+
+5  6.  Entsprechendes  gilt  fur  das  elektrostatische  und  das  Gravi- 
+tationsfeld rotationssymmetrisch verteilter  Ladungen.  Die Abweichungen 
+von  der  klassischen  Theorie  sind  aber  selbst  in  den  Abmessungen  des 
+Atonis  dul3erst  gering. 
+
+-~ 
+
+118 
+
+H .  Weyl. 
+
+A.  ZnslSQe  zur  allgemeinen  Theorie. 
+5 1.  Ein Hamiltoneohee Prinsip. 
+
+Von H i l b e r t l )  sind im AnschluB an die Miesche Theorie2), 
+in  allgemejnerer  Weise  von  H.  A.  Lorent z8)  und  von  den1 
+Begriinder  der  Gravitationstheorie  selbst"),  die  Gravitstions- 
+gleichungen  auf  ein  H a m i l  tonsches  Prinzip  zuruckgefiihrt 
+worden.  Dessen  endgultige  Formulierung  scheitert  freilich 
+daran,  daB  wir  die  Hamiltonsche  Funktion  (Weltdichte  der 
+Wirkung)  fiir die Materie nicht kennen, ja nicht einmal wissen, 
+durch  welche  unabhsngigen  ZustandsgroSen  die  Materie  zu 
+beschreiben  ist.  Unter  diesen  Umstanden  scheint  es  mir  \-on 
+Wichtigkeit,  ein  Hamiltonsches  Prinzip  zu  formulieren,  clas 
+so  weit  tragt,  als  unsere  augenblickliche Kenntnis  der  Materie 
+(im  weiten  Eins teinschen  Sinne,  d. h.  des  Energie-Inipuls- 
+tensors)  heute  sicher  reicht.  Aus  diesem  Prinzip,  das  eine 
+von den bisher angegebenen Formulierungen etwas abweichendc 
+Gestalt  besitzt,  sollen  also  als  aus  einer  genieinsainen  Quelle 
+folgende  Gesetze  entspringen : 
+
+1.  Die  inhomogenen Gravitatioltsgleichungen: zufolge  dwell 
+cler  Energie-Impulstensor  die  Kriimmung  der  Welt  bestininit. 
+Der  Energie-Impulstensor  wird  sich  dabei  allein  aus  dem- 
+jenigen  zusammensetzen,  der  fiir  das  elektromagnetische  Feld 
+in1  Ather  gilt,  und  den1  ,.kinetischen"  Energie-Impulstensor 
+der Materie im engeren  Sinne e ui uk, in welchem die invariante 
+Massendichte e auftritt und  die Komponentm u, (i = 1,2,3,4) 
+der  Vierergeschwindigkeit.  Ton  der  in  wichtigen  Punkten 
+nocli  unaufgeklarten  Konstitution  der  Materie  unc! 
+ihren 
+Kohiisionskraften  ist  dabei also  abgesehen ; 
+
+2.  die  Maxwell-Lorsntaschen  Gleichungen, die  wie  in 
+tler  Elektronentheorie  dadurch  einen  konkreten  Inhalt  ge- 
+winnen,  daB  als  elektrischer  Strom nur  der Konvektionsstrom 
+auftritt ; 
+
+3. das  Gesetz fiir  die ponderornotorischew Kfafte in1 elektio- 
+magnetischen  Felde  und  die  mechalzischelz  Glekhurzgen, welche 
+
+1)  Gott.  Nachr.  1915,  Sitzung  voni  20. November. 
+2) Ann. d. Phys. 37.  p. 511.  39.  p.  1.  1912; 40. p.  1.  1913. 
+3)  Vier Abhandlungen in  den Jahrgangen 1915 und 1916 der Versl. 
+
+4) A. Einstein,  Sitzungsber. d. PreuB.  Akad. d. Wiss.  43. p. 1111. 
+
+B. Aked.  van  Wetensch. 
+
+1916. 
+
+Zur Gravitationstheorie . 
+
+119 
+
+die  Bewegung  der  Massen  unter  dem  EinfluB  dieser  Kxiifte 
+uiid  des  Gravitationsfeldes  bestimmen. 
+
+Es  seien  x1 die  vier  Koordinaten  BUT  Festlegung  der 
+
+Weltpunkte l), 
+(1) 
+die  invarisnte  quadratische  Differentialform  (vom  Triigheits- 
+index  3) 3, deren  Koeffizienten  das  Gravitationspotential 
+bilden,  und  plf dzi  die  invariante  lineare  Differentialform, 
+deren  Koeffizienten  t.pc  die  Komponenten  des  elektromagne- 
+tischen  Viererpotentials sind.  Das iiber irgendein Weltgebiet  (8 
+erstreckte  Integral 
+
+gik 
+
+bezeichne  ich  als  die  (in  diesem  Weltgebict  enthaltrne)  Feld- 
+u<rkung  der  Gradation, das  Integral 
+
+L J L d m   von 
+2 
+
+.L = - . B : k J ' i k   = -q2"k1kPik  qh 
+
+.. 
+
+1 
+2 -  
+
+1 
+2 
+
+als  die  Feldwirkung der  Eblctrizitat.  Darin  bedeuten 
+
+die  Komponenten  des  elektromagnetischen  Feldes,  und  d w  
+ist  das  vierdimensionale  Volumelement 
+
+ds dx, dz, dz3 da, ,  - g  = det. 1 gik I . 
+
+Den1  ,,Felde"  tritt  in  dieser  phiinomenologischen  Tlieorie 
+,,Substanz"  gegenuber,  ein  dreidimensionalrs,  sich  be- 
+die 
+wegendes  Kontinuum,  das  wir  uns  (mathematisch)  in  infini- 
+trsimale  Elemente  zerlegt  denken. 
+Jedern  Element  konirnt 
+eine bestimmte, unveranderliche Masse oder  ,,Massenladung"  dm 
+und  eine  unveranderliche  rlektri~clie Ladung  de  zu ; rs  korre- 
+
+1) In  den  Bezeichnungen schliede ich  mich  an  A.  Einsteins  Ab- 
+handlung  ,,Die  Grundlage  der  allgemeinen  Relativitiitstheorie",  Ann.  d. 
+Phys.  49.  p.  769.  1916  an,  insbesondere  auch  der  bequemen Regel uber 
+das  Fortlassen  von  Summenzeichen. 
+
+2)  Jede  quadratische  Form  liidt  sich  linear  auf  eine  Sumnie  und 
+Differenz von  Quadraten tranaformieren;  die Zahl der negativen  Glieder, 
+die  dabei  auftreten,  heiBt  der  Tragheitsindex.  DaB  dieser  durch  die 
+Form  eindeutig  bestimmt  ist,  bildet  den  Inhalt  des  ,,Triigheitsgesetzes 
+der  quadratischen  Formen." 
+
+120 
+
+H.  Weyl. 
+
+spondiert ihni  als  Ausdruck  seiner  Geschichte  eine  bestimmte 
+Weltlinie,  deren Richtung durch  das Verhiiltnis  der  vier  Diffe- 
+i~ntiale dx, : ax, : d G  : ax4 zu  charakteiisieren ist.  Die  GroBe 
+
+in  cler  sich  das  SiuBere  Integral  uber  die  gesanite  Substanz, 
+das  innere  aber  iiber  denjenigen  Teil  der  Weltlinie  des  Sub- 
+stanzelementes  dm erstrrckt. welcher  innerhalb tlrs  Gebietes @ 
+vrrlauft,  nenne  ich  die  Xubstanzwirkung  der  Gravitation.  Wir 
+setzen  voraus,  dab  die  Bewegung  der  Substanz  in  solcher 
+Weise  mit  den1  Gravitationsfeld  verknupft  ist,  daB  die  unter 
+tleni  inneren  Integralzeichcn  auftretrnde  Quadratwurzel,  die 
+Eigenzeit  as, stets positiv  ist.  Wenn  wir  (a), was  moglich  ist, 
+in  ein  iibvr  clas  Weltgebiet  8 erstrecktes Integral f e d w   vt'i - 
+mandeln,  heiBc  die  invariantr  Raum-Zeitfunktion  e  die  ab- 
+solnte  Massrndichte.  Vollig  analog  zu  (2)  gebildet  ist  das 
+In trgral,  clas  die  Xubstanznxwirkung  dey  Elektrizitat  darstellt : 
+
+die  absolutr  rlektrische  Ladungsdiahte  E  ist  drfiniert  durch 
+
+(3 
+
+Dai  H a  inil t80 n sche  Prinzip  lautet : 
+
+Die  S'umme  aus Feld-  und  Substanzwirkung  der  Gravitation 
+uibd  Elektrizitat  ist  in  jedem  Weltgebiet  ein  Extremum  gegen- 
+iiber  beliebigen,  an  den Grenzen verselawindenden  Variatwnen  des 
+elektromagnetischen  und  Gravitationsfeldes  und  ebensolchen raunz- 
+zeitlichn  Versehiebungen der  sich bewegenden Substanzebmente. 1) 
+Variation  der  gik  (bei  ungeandertem  elektromagnetischen 
+Felde  und  ungeantlerteii  Weltlinien  der  Substanz)  ergibt  die 
+Eins teinschen  Gravitationsgleichungen  (I), Variation  des 
++lrktromagnetischen Potentials vi die Maxwell  L o r r n t  zschen 
+Glrichungen 
+
+1)  Dabei  sind  die  MaDeinheiten  rationell,  d. h.  so  gewahlt  ge- 
+dacht, daB die Lichtgeschwindigkeit c im leeren Raume  = l ist und ebenso 
+die Einsteinsche Konstante 8 n x  ( x  = k/ca,  k die Gravitationskonstante); 
+Illektrostatisches MaBsystem  nach  He avi side. 
+
+Zur  Gravitationstheorie . 
+
+121 
+
+die  Variation  der  Weltlinien  der  Substanzelemente  endlich 
+die  mechanischen  Gleichungen 
+
+in  denen  pi  die  kontravarianten  Komponenten  der  &aft 
+sind , deren  kovariante durch 
+
+pi  = Fi, Jk 
+
+gegeben  sind.  Diese  Gesetze  sind  natiirlich  nicht  unabhangig 
+voneinander.  Vielmehr  sind  die mechanischen  Gleichungen (111) 
+zusammen  mit  der  Kontinuitiitsgleichung  der  Materie  eine 
+niathematische Folge  der  Gesetze  (I) und  (11), wie  man  durcli 
+eine  rinfache  Rechnung  bestatigen  kann. 
+
+2.  Der  Energie-Impulssats. 
+
+Sacli den oben  zitierten  Autoren  wird  - wir  kehren  von 
+der  eben  besprochenen  phanomenologischen  zu  einer  strengen, 
+freilich  heute  nur  ihrem  allgemeinen  Ansatze  nach  formulier- 
+baren  Theorie  zuriick  - die  Welt  beherrscht  von  einem 
+Wirkungsprinzip  der  folgendrn  Form 
+
+J ( H -   B) do = Extremum. 
+@ 
+
+Dir  Weltdichte  M  der  Wirkung  des  materiellen  Vorganges 
+ist  ciabei  pine  universelle  Funktion  der  unabhiingigen,  diesen 
+Vorgang  charakterisierenden  ZustandsgroBen, ihrer Ableitungen 
+(eltster,  vielleicht  auch  hoherer  Ordnung)  nach  den  Koordi- 
+naten  zi und  der  gik.  So  hangt  in der  Mieschen  Theorie,  uni 
+an  ein  konkretes  Beispiel  anzukniipfen,  M aul3er  von  den  # k  
+a b   von  den  vier  Komponenten  yr  des  elektromagnetischen 
+,  Potentials  und  den  Feldkomponenten  Fik, die  aus  den  qt 
+durch  Differentiation  entspringen.  Die  Herleitung  der  mecha- 
+nischen  Gleichungen in der obigen  phanomenologischen  Theorie 
+legte  mir  den  Gedanken  nahe, ob nicht allgemein  das  PrinXip 
+der  Erhaltung  von  Energie  und  Impuls  der  Ausdruck  dafiir 
+ist, dab das  H a m i l  tonsche  Prinzip  insbesondere  bei  denjenigen 
+unendlich  kleinen  Variationen  erfiillt 
+ist,  welche  durch  eine 
+infinitesimale  Deformation  der  Welt  in  der  Weise  hervorgerufen 
+werhn,  dag  die Zustandsgroben  von  dieser  Deformat;on 
+,,rnit- 
+genommen"  werden.  Das ist in der Tat der Fall, und  es  scheint 
+
+122 
+
+H .  Weyl. 
+
+sich  so  die  einfachste  und  naturgemtlseste  Herleitung  des 
+Energieprinzips  zu  ergeben. 
+Setzen wir M fi= 9JI, so ist der Energie-Impulstensor  Tik 
+definiert durch die Gleichung fiir das totale Differential von 93: 
+
+wo  (S !flt)o  diejenigen  Terme  zusammenfafit,  welche  die  Diffe- 
+rentiale  der  materiellen  ZustandsgroBen  (z.  B.  der  rppi und 
+Fi8) linear  enthalten.  Bei  einer  beliebigen  Koordinatentrans- 
+formation 
+
+zi  = zi (XI, xz, x 3 ,  2-3 
+
+transformiert  sich  der  kontravariante  Tensor  gik  nach  den 
+Formeln 
+
+Wenn  jene  Transformation  infinitesimal  ist : 
+
+5: = % + 6  &(x+2,x3,24) 
+
+( E   bezeichnet  die  infinitesimale,  d . h.  gegen  Null  konver- 
+gierende  Konstante),  ergibt  sich  daraus  fiir  den  Unterschied 
+
+g i k  (5) - g'k  (z) = J g i k  
+
+cler Werte von gik und Pk fur zwei Argumrntsysteme  (2) und  (Z), 
+welche  im  alten  und  neuen  Koordinatensystem  den  gleichm 
+Weltpunkt  darstellen,  die  Gleichung : 
+
+Verfahren  wir  fiir  die  ZustandsgroBen  des  materiellen  Vor- 
+gangs  entsprechend:  so  erhalten  wir,  indem  wir  ausdriicken, 
+daB  bei  einer  derartigen  infinitesimalen  Transformation  die 
+Invariante  M  ungeiindert  bleibt,  das  Gesetz,  nach  dem  der 
+Energie-Impulstensor  von  den  gik und  den  materiellen  ZU- 
+standsgrosen  abhtlngt. 
+
+Fassen  wir  rin  Weltgebiet  @  ins  Auge,  den1 bei  der  Der- 
+stellung  durch  die  Koordinaten  xi rin  bestimmtes  mathe- 
+matisches  Gebiet  2 im  Bereich  jener  Variablen  si entspricht. 
+Hat  die  obige  infinitesimale  Transformation  die  Eigenschaft, 
+daB  die  Variationen  ti  am  Rande  des  Gebietes 65  samt  ihren 
+Ableitungen  vcrschwinden,  so  entspricht  dem  Weltgebiet  (3 
+
+Zur  Gravitationstheorie . 
+
+123 
+
+in  den  neuen  Variablen  Zi genau  das  gleiche  matheniatische 
+Gebiet  d .   Ich  setze 
+
+bilde  also  die  Differenz  von  gik  und  g i k   an  zwei  Raumzeit- 
+stellen, deren  zweite im neuen  Koordinatensystem  die gleichen 
+Koordinatenwrte  besitzt  wie  die  erste  im  alten ; ich  nehnie 
+- mit  anderen  Worten  - eine  virtuelle  Verruckuq  vor. 
+Die gleiche  Bedeutung hat d  fiir alle ubrigen GroBen.  Schreibe 
+ich  kurz  d x  fiir  das  Integrationselement  ax, ax2 ax3 ax4, so 
+ist [!Dl 
+
+S m d x  = S ' @ ( Z ) d Z   = J @ ( z ) d z ;  mithin s d'2Jtxndz = 0 .  
+
+a x  eine  Invariante, daher 
+
+x 
+
+x 
+
+A m = - Ikik A$'*  + ( d  !In)()  (Xi, = l/s. TiJ. 
+
+Dabei  ist  folgendes  zu  beachten : Im  transformierten  KO- 
+ordinatensystem  gelten  - ich  wiihle  als  Beispiel  die  Miesche 
+Theorie  - wie  im  urspriinglichen  die  Gleichungen 
+
+.t 
+Es  ist  aber 
+
+B 
+
+also,  da  es  doch  auf  die  Benennung  der  Variablen  nicht  an- 
+kommt, 
+
+Die  Relationen 
+
+bleiben  demnach  erhalten,  wenn  wir  von  den  Funktioncn 
+q i ,  Fik  zu  den  Funktionen  vd, &k 
+derselben  Variablm  zi 
+iibergehen;  d.  h.  sip  bleiben  bei  der  Variation  A  (dagegen 
+iiicht  bei  der  Variation  S)  bestehen.  Nach  dem  allgenieinen 
+Wirkungsprinzip,  in  welchem  wir  die  gik  unveriiert  lassen, 
+d .  h.  zufolge  der  Gesetxe  des  materiellen  Vorganges,  ist  tlaher 
+
+l ( A  !In), dx = 0 ,   also  auch  l'XEik 
+
+d yi* . d x  = 0. 
+
+Setzen  wir  darin  den  Ausdruck  von  Agfk ein  und  beseitigen 
+
+3 
+
+124 
+
+H .  We$. 
+
+die  Ableitungen  der  Verschiebungskomponenten  durch  par- 
+tielle  Integration, so  haben  wir 
+
+und  damit  sind  die  Energie-Impulsgleichungen 
+
+(3) 
+bewiesen. 
+
+Fur  eine  Variation  des  Gravitationsfeldes,  die  an  den 
+
+Grmzen  des  Weltgebietes  @  verschwindet,  gilt 
+
+clarin  ist  Rik der  symmetrische  Iliemannsche  Kriimmungs- 
+tensor  und  die  Invariante 
+
+R  = gik R,,  . 
+
+Wenclen  wir  die  eben  angestellte  Uberlegung  statt  auf  M 
+auf  H  an  (daB H auch  die  Differentialquotienten  der gik ent- 
+hiilt,  ist  dabei  ganz  unwesentlich),  so  findrn  wir  ohnc  Re&- 
+nung,  daB  der  Tensor 
+
+RtI, - s 9,kR  3 
+
+mi  Stelle  von  TIK gesetzt,  die  Gleichungrn  (3)  idrntisch  PI'- 
+fullt.  Der  Energie-Impulssatz  ist  demnach  nicht  nur,  wie 
+wir  soeben  zeigten,  eine  mathematische  Folge  der  Gesetze 
+des  materiellen  Vorganges,  sondern  auch  der  Gravitations- 
+g1Pichungm 
+
+Ri, - 4 gik R  = - Ti,c . 
+
+An  die  Stelle  der  alten  Einteilung  in  Geometrie,  Mechanili 
+und  Physik  tritt  in  der  Einsteinschen  Theorie  die  Gegen- 
+uberstellung  von  materiellem  Vorgang  und  Gravitation.  Die 
+Yechanik  aber ist  sozusagen  die  Eliminante aus  beiden ; denn 
+clas  Bestehen  des  Energie-Impulssatzes 
+ist  einerseits  eine 
+Folge  der  Gesetze  des  materiellen  Vorganges,  andererseits  die 
+notwendige  Bedingun;:  dafiir,  daB  die  Materie  dr-m  Gravi- 
+tationsgesetz  gemHD  der  Welt 
+ihre  MaBbestimmung  auf- 
+pxggen  kann. 
+In  dem  System  cler  materiellen  und  Gravi- 
+tationsgesetze  sind  daher  vier  uberschussige .Gleichungen  ent- 
+halten;  in  der  Tat  mussen  in  der  allgemeinen  Losung  vier 
+willkii~-liche Funktionen  auftreten,  da  dit.  Gleichungen  ja 
+
+Zur  Gravitationsthemie. 
+
+125 
+
+w e e n   ihrer  invarianten  Natur  das  Koordinatensystem  der 
+z1 vollig  unbestimmt  1assen.l) 
+
+3.  Zusammenhang mit den Beobachtungen.  Liahtetrahlen  und 
+
+Bahnkurven im  statiechen  Gravitationsfeld. 
+
+Jene  ,,objektive"  Welt,  welche  die  Physik  aus  dei  1-011 
+iins  unniittelbar  erlebten  Wirklichkeit  herauszuschiilen  be- 
+Jtrebt  ist,  konnen  wir  nach  ihrem  bezeichenbaren  Gelialt 
+nur  durch  mathematische  Begriffe  erfassen.  Um  aber  die 
+Bedeutung,  welche  dieses  mathematische  Begiiffssystem  fui 
+die  Wirklichkeit  besitzt,  zu  kennzeichnen,  niusscn  wir  irgend- 
+wit.  seinen  Zusammenhang  mit  dem  unmittelbm  Gegebencn 
+zu  beschreiben  versuchen,  eine Aufgabe  der  Erkenntnistheorie. 
+{Lie  naturgemaB  nicht  mit  physikalischen  Begriffen  allein , 
+bondern  nur  durch  bestandige  Berufung  auf  das  im  BewuBt- 
+Rein  anschaulich  Erlebte  geleistet  werden  kann.  Von  diesel 
+Art  ist  etwa  der  Zusammenhang  zwischen  tier  Schwingungs- 
+A i l  eines  elektromagnetischen  Feldes  und  der  Sinnesqnalitii t 
+. ,Farbe".  Ganz  nllgemein  scheint  der  auf  das  Sinnesepithel 
+ciuftreffende  Energie-Impulsstrom  durch  seine  Intensitat  fur 
+(lie  korrespondierende  Empfindungsintensitat,  durch  die  Art 
+seiner raumzeitlichen  Veranderlichkeit  fur deren  Qualitat  nial3- 
+gebend  zu  sein.  Ich  mochte  hier  fiir  ein  sehr  vereinfachtes 
+Verhaltnis  von  Subjekt  und  Objekt  diesen  Zusaminenl-iaiir! 
+(itwas genauer  beschreiben. 
+
+Wir  denken  uns  in  der  vierdimensionalen  physikalischen 
+Wclt  einzelne  sich  bewegende  und  Lich t  aussendende  Massen- 
+punkte,  die  Sternc.  Wir  legen  der  Einfachheit  halber  die 
+geometrische  Optik  zugrunde,  nach  der  die  Weltlinitn  der 
+von  den  Sternen  ausgehenden  Lichtsignale  singuliire  Feo - 
+tlatische  Linien  sind.  Allgemein  lauten  die  Gleichungen  einer 
+geodatischen  Weltlinie  bei  Benutzung  eines  geeignetrn  Para- 
+iiirters s: 
+(4) 
+Aus  ihnen  folgt 
+
+~  ~ _ _ _ _  
+
+1) Vgl.  die  Herleitung des  Energie-Impulssatzes bei  A.  Einstein, 
+Sitzungsber. d.  PreuB.  Akad.  d.  Wiss.  42.  p.  1111.  1916,  und  die  Be- 
+merkungen von D. Hilbert, Gott. Nachr.  1917 (Sitzung v.  23. Dez. 1916) 
+uber Kausalitiit. 
+
+126 
+
+H .  Weyl. 
+
+,,Punktaugel'. 
+
+Die  singularen  geodatischen  Weltlinien  sind  dadurch  gekenri- 
+aeichnet,  daB fiir  sie diese  Konstante insbesondere  gleich  Mull 
+ist  (wahrend  sie fiir die  Weltlinien  von  Massenpunkten  positiv 
+ausfallt).  Das  auffassende  BewuBtsein,  die  ,,Monade",  vex- 
+In  jedem  Moment 
+einfachen  wir  zu  einem 
+seines  Lebens  nimmt  es  eine  bestimmte  Raumzeitstelle  ein. 
+es  beschreibt  eine  Weltlinie ; die  Punkte  clieser  Weltlinie  er- 
+lebt  es  als  in  ,,zeitlicher  Sukzession"  aufeinander  folgend. 
+Wir fassen einen bestimmten  Moment ins Auge ; an der  Stelle P, 
+welche  in ihm  die  Monade  einnimmt, mogen  die  Gravitations- 
+potentiale  die  Werte  g i k   haben;  dsi  seien  die  Komponenten 
+des  Elementes  e  seiner  Weltlinie  daselbst,  das  Verh&ltnis der 
+d zi bezeichnet  deren  Weltrichturkg  (Geschwindigkeit).  Wir 
+mussen  voraussetzen,  daR  diese  Richtung  eine  zeitartige  ist, 
+d. h.  daB fiir  sie 
+
+a s2 = g i k  axi ask > o 
+
+mird.  Statt  der  Differentiale  dxi  schreibe  ich  fortan, da  alle 
+unsere  Betrachtungen  sich  auf  die  ejne  Stelle  P  beziehen, 
+einfach  xi. 
+
+Zwei  Linienelemente  zi  , x/ heiBen  orthogonal,  wenn 
+
+g i k  xi xk)  = 0 
+
+ist.  Ich  behaupte  zuniichst,  daB  alle  (von  P  ausgehenden) 
+Linienelemente,  die  zu  dem  zeitartigen  e  orthogonal  sind, 
+ihrerseits  raumartig  sind,  daB  sie  also  ein  unendlich  kleines 
+dreidimensionales  Gebiet  '8  aufspannen,  welcliem  duroh  die 
+Form  - as2  eine  positiv-definite  MaBbestimmung  aufgepragt 
+ist.  Die  Monade  erlebt  dieses  Gebiet  '$3  als  seine  unmittel- 
+bare 
+,,raumliche  Umgebung".  Um  unsere  Behauptung  zu 
+beweisen,  nehmen  wir  e als vierte  Koordinatenachse  an; dann 
+3ind  die  ersten  drei  Komponenten  von  e  gleich  Null  untl 
+y a   > 0.  Wir  konnen  setzen 
+
+- quadr. F. (zl xz z.J. 
+
+Fuhren  wir 
+
+x4 + a x l  + - t ,  
+
+Ss4  + -x3 
+
+944 
+
+944 
+
+9 8 4  
+S44 
+
+an  Stelle des bisherigen  z4 ah vierte  Koordinate  eio, so kommt 
+also 
+
+as2 = g,  x42  - Q 
+
+x2 s) . 
+
+Zur  Gravitatwnstheorie . 
+
+127 
+
+Da  dsa  den  Triigheitsindex  3  besitzt,  mu6  die  quadratische 
+Form Q positivdefinit sein.  Alle und nur diejenigen  Elemente, 
+fiir  welche  jetzt  x4 = 0  ist,  sind  zu  e  orthogonal.  Damit  ist 
+unsere  Behauptung  bewiesen.  Wir  sehen  ferner,  daB  jedes 
+Linienelement  in  eindeutiger  Weise  in  zwei  Summanden  ge- 
+spalten  werden  kann,  von  denen  der  eine  parallel  zu  e  ist 
+(Komponenten  besitzt,  die  denen  von  e  proportional  sind), 
+cler  andere  orthogonal  zu  e.  Die  Richtung  dieses  zweiten 
+Summanden  bezeichnen  wir  als  die 
+,,Raumichtung"  des 
+Linienelements.  Verschiedene  solche  zu  e  orthogonale  Raum- 
+richtungen  bilden  Winkel  miteinander, die in  bekannter  Weise 
+niit  Hilfe  der  fur  sie  positiven  quadratischen  Form  - a s 2   m 
+berechnen  sind.  Den  so  bestimmten  Winkel  der  Rauni- 
+richtungen  der  Weltlinien  zweier  von  zwei  S t e r n a  in  P  ein- 
+treffender  Lichtsignale  identifizieren  wir  mit  dem  Winkel- 
+uiiterschied  der  beiden  Richtungen  (im  anschaulicheii  Sinne), 
+in  welchen  das  Punktauge  in  dem  betrachteten  Moment  die 
+beiden  Sterne erblickt.  Wir  sehen diesen  Richtungsunterschied 
+als  etwas  wenigstens  approximativ  unmittelbar  anschaulicli 
+Feststellbares  an; in der Tat ist uns im Sehen nicht nur  Quali- 
+t'itives  durch  Empfindung  gegeben,  sondern  dieses  Quali- 
+tative  als  ,,raumlich  Ausgebreitetes"  (ein  Moment,  tlas  sich 
+iii  keiner  Weise  auf  das  Materiale  der  Empfindung  zuruck- 
+fuhren  1aBt).  Durch  Heranziehung  geeigneter  Beobachtungs- 
+instrumente  laBt  sich  die  Winkelbeobachtung  exakter  ge- 
+stalten;  wobei  dem  BewuBtsein  nur  noch  die  Leistung  zu- 
+fiillt,  die  Unterscheidbarkeit  oder  Ununterscheidbarkeit  zweier 
+Richtungen  (Deckung  von  Fadenkreuz  uncl  Sternort,  Ab- 
+lesung am Teilkveis) zu konstatieren. - Dieses einfache Schenia 
+gent@ 
+jedenfalls  fur  die  prinzipielle  Beschreibung  der  Art 
+unil  Weise,  in  welcher  Sternbeobachtungen  zur  Kontrolle  der 
+Einsteinschen  Theorie  benutzt  werden  konnen. 
+
+Im  AnschluB  an  das  Vorige  niochte  ich  noch  zeigen,  wie 
+n u n   am  einfachsten  aus  dem  allgeineinen  Prinzip  ,,Die  Wtlt- 
+linie  eines  Lichtsignals  ist  eine  singulare  geodatische  Linie" 
+im  Falle  des  statischen  Gravitationsfeldes  das  Fermatsche 
+Prinzip  der  kurzesten  Anhnft  herleiten  kann.  Wiihlen  wir 
+den  Parameter  s  zur  Darstellung  einer  geodatischen  Linie  so, 
+wie  es  den  Gleichungen  (4)  entspricht,  so  ist  sie  charskteri- 
+siert  durch  das  Variationsprinzip 
+
+128 
+
+H .   Weyl. 
+
+S S P d s  == 0 ,  
+
+(5) 
+giiltig  fiir  eine  virtuelle  Verriickung,  bei  der  die  Enden  des 
+betrachteten  Weltlinienstiickes  fest  bleibtn. 
+(AuBer  f~  die 
+singuliiren  Weltlinien  kann  man  statt  dessen  auch  V O ~  der 
+Gleichung 
+
+S J p d s  = 0 
+
+ausgehen.)  Im  statisehen  Falle  setzen w i ~  x4 = t ;  die  quadia- 
+tische  Grundform (1)  hat die  Gestalt 
+f d t 2 -   d o a ,  
+
+wo  do2 eine  positive  quadratische Form  der  Raumdifferentiale 
+d q ,  a x 2 ,  
+ist, deren Koeffizienten ebenso wie f ,  das  Quadrat 
+der  Lichtgeschwindigkeit,  von  der  Zeit  t  unabhiingig  sind. 
+In  diesem  Falle  gilt, wenn  wir  nur  t  variieren? 
+
+Mithin  muS 
+
+sein.  Lassen  wir  die  Voraussetzung,  da13  auSw  axl,  8 x 2 ,  dx3 
+auch 8 t  an den  Enden des  Integrntionsintervalls  x-erschwindet, 
+fallen,  so  haben  wir,  wie  aus  (6)  weiter  hervorgeht,  (5) zu 
+ersetzen  durch 
+(7) 
+Variieren  wir  die  riiumliche  Bahnkurve  dcs  Lichtsignals  be- 
+liebig  unter  Festhaltung  der  Entlen,  denken  uns  aber  die 
+variierte  Kurve  gleichfalls  mit  Lichtgeschwindigkeit  durch- 
+laufen, SO  gilt fiir die urspriingliche  wie fiir  die variierte Kurve 
+
+S j P d s  = [ 2 E d t ]  == 2 d J E d t .  
+
+P =  0 ,  
+
+d a  = 1/7* d t ,  
+
+und  (7) geht  uber  in 
+
+s 
+
+S  d t = O  
+
+oder  6 
+
+d.  i. in das  Fermatsche  Prinzip.  Die  Zeit  ist jetzt  ganz eli- 
+miniert;  die  lethe Formulierung  hezieht  sich  allein  auf  die 
+rgumliche  Bahn  des  Lichtstrahls  und  gilt  fiir  jedes  Stuck 
+derselben,  wenn  dieses  beliebig  unter  Festlialtnng  seines  An- 
+fangs- und  Endpunktes  variiert  wird. 
+
+Die gleiche Methode konnen wir anwenden,um ein Minimal- 
+prinzip  fiir  die  Bahnkurve  eines  Massenpunktes  im  statischen 
+Gravitationsfeld  zu  ermitteln.  Nehmen  wir  sogleich  an,  daB 
+der  Punkt  von  der  Masse  m  auBerdem  noch  eine  elektrische 
+Ladung  e  triigt  und  einem  elektrostatischen  Felde  vom  Poten- 
+tial  @  ausgesetzt  ist.  Nach  0  1 lautet  d a m  das  Variations- 
+prinzip, wenn  ds das  Differential  der  Eigenzeit  bedeutet, 
+(8) 
+Variieren  wir  nur  t, nicht  die  Raumkoordinaten,  so  ist  die 
+linke  Seite 
+
+8 {  mJds + e p n t )  = 0. 
+
+Also  ist 
+
+m f -   + e @  = const. = E ,  
+
+at 
+d s  
+
+(9) 
+und das Variationspinzip (8) muB, wenn wir die Voraussetmng, 
+daB  auBer  6xl,  Bx,,  6%  auch  Bt  an den  Enden  des  Integra- 
+tionsintervalls  verschwindet,  aufgeben,  durch 
+
+3 { m l d s  + e J @ d t )   = [Bat] = 3 J B d t  
+
+(10) 
+ersetzt werden.  N h r e n  wir  in  (9) den  Wert 
+- 
+
+d s  = 1 f d t ' -   d o 2  
+
+ein  und  setzen  ZUY  Abkiirzung 
+
+so  Prgibt  sich  das  Geschwindigkeitsgesetz 
+
+Denken  wir  uns  die  beliebig  unter  Festhaltung  ihrer  Enden 
+variierte  r&umliche  Bahnkurve 
+insbesondere  nach  dieeem 
+selben  Geschwindigkeitsgesetz  wie  die  Ausgangskurve  durch- 
+laufen,  so  ist  (9)  auch  fur  die  variierte  Kurve  giiltig.  Daher 
+bekomnien wir  ;bus  (10): 
+
+Derin konnen  wir  den  Ausdruck  (11) fiir  dt einsetzen, da diese 
+Gleichung  j a   voraussetzungsgemal3  bei  der  Variation  bestehen 
+
+Annden  der  Phpsik.  IV. F d e .   64. 
+
+9 
+
+180 
+
+H. Weyl. 
+
+bleibt ; dadurch  wird  die  Zeit  vollstiindig  eliminitrt  und  wir 
+finden,  dap  die  raumliche  Bahnkiirve  durch  das  Minimal- 
+
+B.  Theorie des  statisehen rotationssymmetrisehen Gravitatioasfeldes. 
+
+0  4.  hta8eenpunkt ohne  und  mit  elektriecher Ladung. 
+Fiir clas  Folgende  ist  PS  niitig,  zu  der  Schwarzschiltl- 
+1 uhciidcn 
+sclien  Bestinmurig 
+Mssscnpunlrtes2)  einige  Bemcrkungen  zu  machen.  Ein  cli t i- 
+diniensionales  kugelsymmetrisches  Linitnclcmcnt  hat  bc  i  BP- 
+nutzung  gec'ignetcr  Koordinattn  notwendig  die  Gcststlt 
+
+tles  Grevitibtionsfeld(~s eines 
+
+a a 2   = p (a 1 ~ 1 2  A a s 2 2  4- d T32) + I (TI a TI + T 2  d x2 + 23 d r 3 ) 2 .  
+
+\TO  p  untl  2  nur  von  tler  Entfeimung 
+
+r  = 1/z,2 + zza + zs2 
+
+--_ - 
+
+abhangcn.  Ubcr  die  Skala, in  tier  clicw  Entfeirliiiig  gc.inessc.n 
+wird,  kann  noch  PO  verfugt  wrden,  daJ3  ,u  = 1  ausfiillt;  das 
+nioge  geschehen.  Fiir  das  vierdimcnsionale  Liiiicnt lcnit nt-  . 
+haben  wir  den  Ansatz  zu  niachen 
+
+u o  auch  f  nur  cine  finktion  von  r  ist.  Setzcll  wir  noell 
+
+ds2 = f ax42 --  a a 2  , 
+
+1 + Zr2 == h 
+
+und  die  Wurzel  aus  der  Detemiinante  hf  gleicll  w ,  so  aikibt 
+eine  kurze  Rechnung,  die  wir  zweckmiiBig  fiir  den  Punkt 
+z1 = r ,  x2 = 0,  = 0 dnrchfuhrcn, fiir 
+
+Der  Akzcnt  bedcutet  die  Ablcitnng  nach  r .   Ferner  sei 
+
+1)  Vgl.  auch  T.  Levi-Civita,  ,,Statics  Einsteiniana",  Rend.  d. 
+
+R.  Accad.  dei  Lincti  26.  p. 464.  1917. 
+
+2) Sitzungsber. d.  Kgl.  PreuB.  Akiid.  d.  Wiss.  7.  p. 189.  1916. 
+
+Zur  Gravdtatwnstheorie . 
+danii  hat  man  also  das  Variationsproblem 
+
+S S v u i d r = O  
+
+oder  S  w v ' d r = O  
+
+S 
+
+zu losen; dabei diirfen v und  w als die unabhangig  zu  variieren- 
+den  Punktionen  betrachtet  werden.  Variatioii  von  v  ergibt 
+
+131 
+
+W'  = 0 , W = Const. 
+
+und  bei  geeigneter  Verfiigung  uber  die nooh  willkurlichr  &I:&- 
+einheit der  Zeit:  w  = 1.  Variation  von  w  ergibt 
+v  = const. = - 2 n ; 
+ 
+
+v'  = 0 ,  
+f  = - = 1  - --  . 
+-
+
+1
+h 
+
+2 a  
+r 
+
+a  h&ngt niit  der  Masse  m  iturch  die  Gleichung  a  = xm  mi- 
+sltniiiien;  wir  nennen  a  dcn  Grazvitatwnsradius  der  Masse  m. 
+Zur  Veranschaulichung  dtr  Geometric  mit  dem  Linicn- 
+element  do2  beschranken  wir  uns  auf  die  6 . ~ 1  ch  clas  Zentiuin 
+gehencle  Ebene  = 0.  Fiihren  wir in ihr Po1arkooidin:iten  c in 
+
+so  wird 
+
+xl = r  GO':  6 , 
+
+x2 = r Gii 6  , 
+do2 = h dr2 + r2 d a 2  . 
+
+Dieses  Linicnelenunt  charakterisiti t  die  Gtonietiie,  die  auf 
+tirm  folgenden  Ro tationsparaboloid 
+in1  EuklidiFchcn  Raum 
+mit  den  rechtwinkligen  Koordinaten  xl, x2, z  hilt: 
+
+2 = p a ( ? .  - 2 4 ,  
+
+~ 
+
+wtlnn  dasselbe  durch  orthogonale  Plojektion  auf  die  Ebene 
+z  = 0  iiiit den  Polarkoordinattn  r ,  6 bezogtn  wild.  Die  PIO- 
+jektion  bedeckt  das  AuBere  des  Kreises  r Z 2a  doppelt,  das 
+Iniiwe  uberhaupt  nicht.  Bei  naturlicher  anzlytischcr  Fort- 
+setzung  wird  also  der  wirkliche  Raum in den1 zur  Da 
+benutzten  Koordinatenrauni  der  xi das  duich  r Z 2a  ge- 
+kennzeichnete  Gebiet  doppelt  uberdecken.  Die  beidcn  Ubw- 
+deckangen  sincl  durch  die  Kugel  r  = 2a,  auf  drr  sich  die 
+Messe  befindet  uncl  die  Maljbestimmung  singular  wird , ge- 
+schieclen,  uncl  man  wircl  jene  beiden  Halften als das ,,AuBere" 
+wid  das  ,,Innere"  des Massenpunktes  zu  bezeichnen  haben. 
+
+Vielleicht  wird  das  noch  deutlicher  durch  Einfuhrung 
+tkies  andern  Koordinatensystems,  auf  das  ich  die  Schwarz- 
+schild sohen  Formeln  ohnehin  uni  der  weiteren  Entwick- 
+
+9' 
+
+132 
+
+H. Weyl. 
+
+lungen  willen transformierrn  muB.  Die Transforma tionsformehi 
+sollen  lau ten 
+
+Lasse  ich  nach  Durchfiihrung  der  Transformation  die  Akzrntt: 
+wieder  fort, so  ergibt  sich 
+
+c - a12 
+
+f = (=a) 
+
+In  den  neuen  Koordinaten  ist  das  Linienelcment  des  Gravi- 
+tBtionsraumes  also dem  Euklidisehcn  kolzform ; das lineare  Ver- 
+groSerungsvrrha1tnis  ist 
+
+do2  ist  reguliir  fur  alle  Werte  r > 0, f  ist  durchweg  positiv 
+nnd  wird  nur  fur 
+zu  Null.  Drr  Umfang  des  Kreises  q2 + x22 = r2 betdpt 
+
+a 
+r = -  
+2 
+
+T = -  
+
+a 
+2 
+
+a 
+'>y 
+a 
+r < y  
+
+diese  Funktion ninimt,  wenn  wir  r  abnehmend  die Werte  von 
++a ab  durchlaufen  lassen,  monoton  ab bis  Zuni  Werte  4na, 
+der  fur 
+
+erreicht  wird,  beginnt  aber  dann,  wenn  r  weiter  zu  Kull  ab- 
+nimmt,  wieder  zu  wachsen,  und  zwar  schlieBlich  uber  alle 
+Grenzen.  Nach  der  obigen  Auffassung  wiirde  liier  das  Gebiet 
+
+Clem  AuBeiii, 
+
+cleni  Innern  des  Massenpunktes  entsprechen.  Bei  analytischer 
+For tse t zung  wird 
+
+im  Innern uegativ, so  daB also  dort fur einen  ruhenden  Puiikt 
+kosinische  Zeit  (x4) und  Eigenzeit  gegenlaufig  sind. 
+(In  der 
+Natur  kann  selbstverstandlich  nur  immer  ein  bis  an  die 
+singuliire  Kugel nicht  heranreichendes  Stuck  der  Losung ver- 
+w irk1 ieh t  sei n .) 
+
+‘Zur Grawitationstheorie . 
+
+133 
+
+Triigt  der  Massenpunkt  eine  elektrische  Ladung  untl  ist 
+@ clas  elektrostatische  Potential, so kutet das Wiikungsprinzip 
+bei  Zugrundelegung  des  CGS-Systems 
+
+Variation  von  v  ergibt  wie  oben 
+
+w’ = 0 ,   w  = const. = 1  , 
+
+Variation  von  @ 
+
+Fur  das  elektrostatische  Potential  ergibt  sich  also  die  glriche 
+Forinel  wie  ohne  Berucksichtigung  der  Gravitation.  Die  Kon- 
+stante  e  ist  die  elektrische  Ladung  (in  gewohnlichem  elektro- 
+ctatixhen  MaBe).  Variiert  man  aber  w ,  so  kommt 
+
+und  deraus 
+
+111  f  tritt, wie  man  sieht, auBer den1 von  der Masse abhdngigen 
+Olird  -2aJr  noch  ein  elektrisches  Zusatzglied  auf.  a = xw 
+ist  wiecler  der  Gravitationsradius  der  Massc  m.  Ganz  analog 
+wird  die  Lange 
+
+,  e f i  
+a  =-- 
+c 
+
+sls  G+ravitationsradius der  ebktrischen  Ladung  e  zu  bezejchnen 
+gliecl, in  Entfernungen  r - a‘  aber  das  elektrische  Glkd  - 1. 
+sein.  In  Entfernungen  r  vergleichbsr  mit  a  ist  tlas  Masscn- 
+f  bleibt  fiir  alle  Werte  von  r  positiv,  wenn  la’( > a  ist;  fiir 
+Pin Elektron ist der  Quotient a’ia  von  der GroBenordnimg 1020. 
+In  Entfernungen, die  mit 
+
+~-eigleichbar sind , haben  das  Massenglied  und  das  elektrische 
+Glietl  im  Gravitationspo tential  f  die  gleiche  Grohnordnung ; 
+erst  wenn  r  grol3  gegen  a”,  gilt  das  Superpositionsprinzip  in 
+clem  Sinne,  dal3  das  elektrostatische  Potential  durch  clip 
+Ladung,  das  Gravitationspo tential  durch  die  Masse  mittels 
+clei  gemohnlichen  Formeln  bestimmt  ist.  Demnech  wird  man 
+
+134 
+
+H. Weyl. 
+
+a",  eine  GroSe,  die  in  ftndern  Zusammenhangen  als  ,,Radius 
+des  Elektrons"  auftritt,  jedenfalls  als  den  Radius  seiner 
+Wirkungssphare  betrachten  kiinnen.  Es  besteht  die  Relation 
+a'  F f a *  a". 
+Nachdem  das  Feld  des  init  elektrischer  Ladung  behaf - 
+teten  Massmpunktes  aufgestellt  ist,  kann  man  nach  Clem 
+letzten  Absatze  von  $ 3  leicht die  Bewegung  eines  den  Kraft- 
+wirkungpn  dieses  Feldm  unterliogenden  Probekorpers  be- 
+reohnen,  dessen  Masse  und  Ladung  gegenuber  der  felderzeu- 
+genden  schwach  ist;  das  Problem  wird  wie  jm  ladungslosw 
+Falle  (Planetenbewegung '1) 
+streng  durch  elliptische  Funk- 
+tionen  gelost. 
+
+8  5.  Dae  Feld rotationeeymmetriech verteilter  Xaeren. 
+Sich  in  den  Besitz  strenger  Losungen  der  Gravitations- 
+gleichungen  zu  setzen,  scheinZl  mir  namentlich  von  Wichtig- 
+keit  mit  Riicksicht  auf  die  Frage  nach  iltn  Vorgangen  im 
+Atom.  Denn  es  ist  moglich,  daB  in  cliesen  Abnicssungen  (tic 
+Nichtlinearitat  tler  exakten  Naturgesetze  wescntlich  in  Bc  - 
+trecht  kommt.  Den  Matheniatikern  ist  wit  1angt.m  bekannt, 
+daB  bei  nichtlinearen  Diffrr~ntialgleichullgcn , was  vor  alleim 
+ihre  Singularitaten  betrifft ,  Vei haltnisse  vorliegcn ,  welche 
+gegenuber  den  bri  linearen  Gleichungen  auftretenden  anl3er- 
+ordentlich  kompliziert,  unerwartet  und  vorerst  iioch  g m z  
+und  gar  unbeherrschbar  sind.  Es  ist  den  Phyqikern  bekannt, 
+daI3  sich  im  Innern  tles  Atoms  tmigtntunilichr  Vorgangc.  ab- 
+spielen  mussen,  zu  denen  das  vom  Superpositions~rinzip be- 
+herrschte  Kraftespiel  der  sichtbarfn  Welt  keine  Analoga  auf- 
+Ich  glaube,  daB  diese  beiden  Diiige  in  engem  Zu- 
+weist. 
+sammenhange miteiaander stehen kijnnen, ja daB von Aeher viel- 
+leicht  sogar  die  enrlgultige  Dmtung  d ~ r  Quantenthtorie  zu 
+erwarten  ist.  Urn  solcher,  heute  frrilich  noch  in weiter  Ftine 
+liegtndcn  Zwecke  willen  schien  es  mir  euniichst  von  Intertsw 
+zu  scin,  das  Gravitationsfeld  ~~otationssynimetrisch vrrteilter 
+Nassen  und  Ladungen  nach  der  Eins teinschen  Theorie 
+strenge  zu  bestiminen.  Das  sol1 liitr  fiir  d m   Fall  der  Ruhe 
+gesohehen ; die  Untrrsuchung  'fuhr t  m  uberrafichend  (.in- 
+fachen  Ergebnissen. 
+
+1) K.  Schwarzschild, 1.  c. 
+
+Zur  Grawitationstheorie . 
+
+135 
+
+Als  Koordinatcn  tvettn  auf:  1.  die  &it  x4 = t ;  2.  eine 
+ausgezeichnete  Raumkoordinate,  der  Dichwinktl  z3 = 6 uni 
+die  Rotationsachse,  mit  der  Periode  2 z ;  6 = const.  ist  eine 
+an  die  Ro tstionsachse  ansetzende  Mericlianhalbebene. 
+In 
+tlieser  haben  wir  3.  zur  Festlegung  ihrer  Punkte  zwei  KO- 
+ordinaten  %,  %,  die  wir  sogleich  genauer  normieren  we~dcii. 
+Das  Linicnelement  mu6  die  Gestalt habtn 
+ass = fax,2  - da2  , 
+
+vl  0 
+
+a o 2   = (hl a x12 + 2 h,,  a x1 a x2 + h,,  a x22)  + i a 
+
+; 
+
+die  Koeffizienten  f ,  2;;  hll,  h12, h,,  sind  Funktionen  iiui  von 
+q und  5,.  Nach  eineni  allgemeinen  Satz uber  positive  qua- 
+dratische  Differentialformen  von  zwei  Variablen  ist  es  mog- 
+iich,  die  Koordinaten  xl, x2 genauer  PO  zu  wahlen,'daB  drr 
+in  Klammern  gesetztc  Teil  rnit  den  Koeffizienten  h  die  ,,iso- 
+tlicrrne"  Form 
+
+11  (a 2,2  + a x22) 
+
+btalioniint;  damit  ist  dann  das  Vaiiablenpesr  zl, z2 bii  auf 
+t iiie  koiiforme  Abbildung  bestimmt.  Nach  solcher  Wahl  der 
+V,wiablen  werde  allgemein  fuy  irgend  zwei  Funktionen  a ,  fi 
+
+Fuhre  ich  r  = 1-  ein,  so  ist  die Wurzel  aus  der 
+
+gtsetzt. 
+llctei~niina~ntt~ 
+
+,- V S  = UJ = h r .  
+
+Fur  clic,  Wirliungsdichte  H  gilt  allgemrin -die  Formel 
+
+I11 unsereiii  Falle  ist das  erste  Glicd  gleich 
+
+iiiari  fiiidet  dafur  sofort 
+
+1)as  zweite  Olied  ab&  wird 
+
+136 
+
+H.  Weyl. 
+
+Nun  ist [7,f]=-u7++ 
+
+lf fl 
+
+--- 
+
+I%fl 
+f 
+
+also, wenn  lg h = p  ist, 
+
+= - w [ l g f ,  k f ]  + 7  [hl  k f l  + h [r, k f l ,  
+
+1 w  
+& f ]  
+
+= - . [ l e f ; I g ; f l + r [ ~ ~ 1 8 f l + [ 1 . I k ! f l .  
+
+Bildet  man  ebenso  den  andcrn  Summandm  von  8‘ und  be- 
+rachtet, daB 
+ist, so  kommt 
+
+2 lg r  = lg I  -k 1:: 
+
+f 
+
+8’ = r  [ P ,  k TI + [r , lg r ]  - 4 r ([lx f ,I:: 
+
+f ]  + [I? I ,  1g 11j. 
+
+Fiihren  wir 
+
+ein, so  ist 
+
+Dsniit  finden  wir 
+
+SchlieSlich  ist 
+
+A.  = lg y-qj- 
+
+4 ( k f ,  1,n  f-j  + [lg 1 ,  lg 21)  = [lg  r ,  1g r ]  + [A,].]  . 
+
+b’ = [ p ,  r3  - r [3., 3 6 1   . 
+
+So  habeii  wir  insgesamt 
+
+Q=4(”’+5?”)=[P,Tl 
+Zur  Formulierung  dcs  Wirkungsprin z i p  s  niuw 11  wir 
+
+-B1.rw1-+2[llr,l/r]. 
+
+biltlen 
+
+q-43 dx, d X 2  
+
+fur  Variationen  d p ,  dA,  6 r ,  die  an1  Rmdc  des  (brliebigcn) 
+Intcgrationsgebieter; verschwindon.  Setzt n  wir  allgeniein 
+
+so  verwandrlt  sich  durcli  partielle  Integration 
+6 j - @ d z 1 d t )   in  j - S $ y d Z l d Z 2 ,  
+
+wo 
+
+Zur  Gravitationstheorie . 
+
+137 
+
+Fiir  ruhende  (ungeladene)  Materie,  deren  Spannung  zu 
+vernachlassigen  ist,  besteht  der  Energie-Impulstensor  Tlk aus 
+der  einzigen  Komponente 
+
+T,,  = 3- 944  (e = absolute  Massendichte) , 
+
+uncl  es  ist 
+
+(@* = h e) - 
+
+N:di  dem  Wirkungsprinzip  muB  nun  dieses  Differential  6 !N 
+mit  6 @*  Koeffizient  fur  Koeffizient  ubereinstiwmcn.  Das 
+
+eiqibt  zunachst  (Koeffizient  von  8 p) : n daT  = 0 .  
+s2-Ebene eine  Potentialfunktion.  Be- 
+r  1st demnnach  in der 
+zeichnet  z  die  konjugierte  Potentialfunktion,  so  daIj  x + i r  
+eine  analytische  Funktion  von  q + i x2 ist, so  ist  der  uber- 
+gang  von  q, x2 zu  2 ,  r  eine konforme  Abbildung.  Wir  konntn 
+cla her  \-on  vornherein  annehmen , daI3 
+
+x  = zl, r  = z2 
+
+ist.  In  der  Definition  tier  Operationssymbole  [ 3,  LI  , 4 2  er- 
+setze man demgemiifi zl, z2 durch z  und  r .   Das  Koordinaten- 
+system  ist  nunmehr  bis  auf  eine  willkiirliche  additive  Kon- 
+stnnte in z  vollstandig eindeutig bestimmt.  Auf  der Rotations- 
+achse  muB,  damit  das  Liniendement  daselbst  regular  bleibt, 
+T  verschwinden.  2 ,  r ,  6 bezeichne  ich  als  kanonische  Zylinder- 
+koordinaten ; die xugehiirdge  kanonische Form  des  L i n i e n e h n t s  
+lautet 
+
+f d P -  
+
+Drr  ,,Euklidische"  Fall  ist  darin  mit  f  = 1, h = 1  enthalten. 
+Wir  stellen  aber  allgemein , urn  uns  geometrisch  ausdruckrn 
+zu  konnen,  den  Gravitationsraum  dar  durch  einen  Eukli- 
+dischen  Bildraum  mit  den  Zylinderkoordinaten  z ,  r ,  6. Die 
+Abbildung  der  beiden  Raume  aufeinandcr  durch  die  kano - 
+ni.;chen  Koordinaten  ist  eindeutig bestimmt  bis  auf  eine  will- 
+kiirlich  bleibende  Translation  des  Euklidischen  Bildraumes  in 
+Richtung  drr  x-Achse.  In  dieseni  Bildraum ist, 
+
+138 
+der gemeine Po tentialoperator  fur rot,ationssymmetrische Funk- 
+tionen. 
+
+H .  Weyl. 
+
+Gleichsetzung  der  Koeffizienten  yon  6 iz  in 
+
+liefert 
+(1 3) 
+Gleichsetzung  der  Koeffizitnttn  w,ti 6 r : 
+
+6 @* = 6 rm 
+A n =   - Q *  
+
+a
+
+A  p + 
+
+1
+
+ 
+
+[n,q - ,-  = - 
+
+1 
+2 re 
+
+(14) 
+Betrachten wir  zunachst (13) und fuhrc-n y = lg ffein;  dann i.t 
+
+A = l g r   - 2   Y 
+
+und  daher 
+(1 5 )  
+oder, wenn  wir  zu  den MaBeinheitr ri  des CGS-Systems  zuiucli- 
+kehrend,  rechts  den  Faktor  8 n x  hinzufiigeii. 
+
+A y = % e *  f 
+
+und  zwar  konnnt  diejenige  Losung  y  in  P ~ a g e ,  tile  auf  der 
+Rotationsachse  regular  ist.  Daniit  sincl  wir  irn  kanonischen 
+Koordinatensysteni  zu  der  gewolinlichtn  Poissonschtn  Glei- 
+chung  gelangt; da sie  linear  ist, gilt  fui  y  = 1g f f  tlas  Super- 
+positionsprin zip. 
+
+K r  den  unendlich  diinntn  Ring,  dti  von  cltm  Flac1it.n- 
+element  d r d z   der  kanonischen  r,z-Ebtne  bei  drr  Rot a t’ ion 
+urn die z-Achse  beschriebon  wird , findet 
+man als  Losung  der  Po is 10 n schen Glei- 
+chung , wenn 
+
+- 
+
+!he* r d r  dx = ?n 
+
+gesetzt  wird, wie  bekannt, 
+?/,I  = - - . 
+
+x m  
+R 
+
+R, die  ,,Entferniirig“  d r s  Aufpunktes  P 
+voni  Ringr,  ist  clas  arithmrtisch -,am- 
+nietrische  Mittel  aus  den  Entfei riungen 
+r,,  r,  des  Punktes  Y von  den  beiden 
+l)urchstoI3punkten des Ringes mit tlj r Meridi:tnebenr,  in welcher 
+P gelegen  ist: 
+
+Fig. 1. 
+
+Zur  Graviiationstheorie . 
+
+139 
+
+alle  Ausdrucke  iin  Euklidischen  Sinne  verstanden , bezogen 
+auf  die  kanonischen  Koordinaten!  1st  nur  dieser  Ring  mit 
+M:tsse  behaftet, so  wird 
+
+clas  ist fiir  groBe  R  gleich 
+
+I - - .  
+
+xm 
+R 
+
+W L  eiweist sich  damit als die in1 Ringe  enthaltene gravitierende 
+MIasse  und  e*  somit  als  die Mmsmdichte  ian  lcanolzischen Ko- 
+ordinatensystem.  - Wir  sind  zu  folgendem  einfachcn  Resultat 
+g rlang t : 
+
+Ist  die  (rotationssymmt tiischt) Massenverteilung  im h n o -  
+nischen  Koordinaknsystem  bekannt  und  c2 y  ihr  N e w  tonsches 
+Potential,  so  ist  nach  der  Einsteinschen  Theorie 
+
+c= e w .  
+
+Such in die  Gleichung  (14) fiihren  wir  y  statt A  ein; es ist 
+
+[ n , q  = - - -- a w  +~[v,vI. 
+
+r  a r  
+
+* 
+
+rI 
+
+hlnltiplizieren  wir  dann  (14) niit  3, addiercn  (15)  oder 
+
+uiicl  nt.hmen  als  Unbekaniite 
+
+A2.y + __ 1  a l y  - = -p* 1 
+
+r  a 7  
+
+s 
+
+y  = Igl/ht’ = 5 + ?p  , 
+
+(1.  i.  einr  Poissonv&e  Gleichung  in  der  r,x-Ebene.  Damit 
+tlas  Linit nelemtnt  auf  cler  Rotationsachse regular  bleibt,  rnuB 
+auf  ihr  y  verschwindm ; es  ist  also  diejenige  eindeutig  br- 
+stimnitr  Liisung der  Po is so nschen  Gleichung in dcr  Meridian- 
+balbebene  fur  y  zu  nehmen, die im  Unendlichtn  und  auf  dm 
+Rotationsachse  verschwindet.  Bcgniigen  wir  uns  ubrigens  niit 
+drrjenigen  Approximation,  die  sich  duich  Streichung  der 
+qnadratischen Gliedcr rrgibt, so ist y = 0, h = l / f  zu  setzrn. - 
+
+I- 
+
+140 
+
+H .  Weyl. 
+
+Es  ist  sehr  instruktiv,  zu  verfolgen,  wie  sich  in  die  eben 
+entwickelte  allgemeine  Theorie  der  rotationssymmetrischen 
+Massenverteilung  der  Massenpwdd einordnet.  Wir  gehen  von 
+der  Darstellung  (12)  aus  und  fiihren  darin  statt  der  ,,recht- 
+winkligen"  Koordinaten  xi  Zylinderkoordinaten  ein : 
+
+q = r c o s 8 ,   x 2 = r s i n 6 ,   x , = x ;  
+
+das  in (12) auftretende r  mu8 dann  natiirlich  durch  F+T 
+ersetzt  werden.  Darauf  bewerkstelligen  wir  in  der  Meridian- 
+halbebene  die  konforme  Transformation 
+
+clann  nimmt  unser  Linienelement  in  der  Tat  die  kanonische 
+Form  an, und  mar  ergibt  die  Rechnung: 
+
++Ifp,* 
+
+wo  die Bedeutung  von  r,,  r,  aus  Fig. 2  zu 
+entnehmen ist.  tp = lg 1/Fist  im kanonischen 
+Raum mit den Zyljnderkoordinaten  z*,  !I-*,  6* 
+das  Newtonsche  Potential  der  gleichmal3ig 
+mit  Masse  belegten  Strecke 
+
+r* = 0 ,  
+
+- a s z z * s + a :  
+
+-a 
+'7  $6 
+
+Figo 2* 
+
+der ,,Massenpunkt"  erscheint  demnach  in  clc n 
+kanonischen  Koordinaten nicht als eine Kugel, 
+Pondern  als  eine  Strecke,  die  Meridian-Halb- 
+ebene  als  die  langs  der  beiden  stark  ausge- 
+zogenen Halbgeraden  geschlitzte  Vollebene,  die Rotationsachse 
+als  der  (im  Unendlichen  zusammenhangende)  Schlitz:  der  so 
+durchlaufen  werden muB,  wie es in der Figur durch beigesetzte 
+Pfeile  und  Nummern  angedeutet  ist.  Die  rechte  Hlilfte  der 
+Vollebene  entspricht  dem  AuBeren,  die  linke  dem  Inneren 
+cles  Massenpunktes.  Hier  bestatigt  sich  von  neueni  unsere 
+in 0  4 geltend gemachte Auffassung:  wiirden wir jenes  ,,Innere" 
+tigeii  Losung.  Man  uberzeuge  sich,  da8  lg lv in  der  Tat 
+nicht  mitberucksichtigen,  so  gelangben  wir  nicht  zu  cler  rich- 
+
+diejenige  Losung  der  Gleichung  (16)  in  der  geachlitzten  Voll- 
+ebene T*,  z*  ist, die an den RBndern des  Schlitzes verschwindet. 
+
+Zur  GraPribtiolzstheork. 
+
+141 
+- Man  wiire  auf  die  vorliegende  strenge  Losung  der  Gravi- 
+tationsgleichungen  naturgemaB  durch  die  Aufgabe  gefiihrt 
+worden,  das  Feld  einer  mit  der  Masse  m  belegten  Strccke 
+voii  der  LBnge  2xm  zu  bestimmen.  Nach  Ermittlung  des 
+Gravitationsfeldes  hatte  sich  dann  aber  durch  Ausmessung 
+der ,,Streeke"  mit dem invarianten raumlicha Linimelement do2 
+rrgeben,  dal3  sie  in  Wahrheit  gar  keine  Strecke,  sondern  eine 
+Kugeloberflache  ist : man  kann  in  der  strengen  Gravitations- 
+throrie immer erst a posteriori feststellen, einer wie beschaffencn 
+Massenverteilung  eine  Losung  entspricht,  auf  die  man  von 
+irgendc inem  bestimmten  Ansatz  her  grkommen  ist. 
+
+§  6.  Dae  Feld rotationssymmetrisoh verteilter  Ladungen. 
+Tragen die ruhenden Massen statische elektrische Ladungen, 
+so  entsteht auBer dem  Gravitations-  ein elektrostatisches  FelJ , 
+das  sich  aus  einem  Potential  di = @ (q, 5,) ableitet.  rl, 5, 
+sind  wie  zu  Beginn  des  3  5  isotherme  Koordinatcn  in  der 
+Merid ian-Halbe bene.  Die  Wirkungsdich te der  Elek tri zi tat  br - 
+stinimt sich  aus 
+
+Das Integral von 6 (Lfi) iibrr irgendein Gebiet der zl, z2-Ebene, 
+ist,  wenn  die  Variationen  ddi,  61 an  den  Grenztn  des  Ge- 
+bietes  verschwinden,  gleioh  dem  Integral  des  Differentials 
+
+8B* = -  [@@]zSil+ 
+
+2 r  Ar@  S@, 
+
+f 
+
+8, @ = -e*  = -he 
+
+( E   = absolute  Ladungsdichte). 
+
+Beriidcsichtigen  wir  nach  1 neben  der  Feld-  auch  die  Sub- 
+3tanzwirkung  der  Elektrizitat,  so  liefert  das  allgemrine  Wir- 
+kungsprinzip  durch  Variation  von  di zunachst : 
+(17) 
+Zur  Bestimmung  des  Gravitationsfeldes  aber  erhalten  wir, 
+indem  wir  nunmehr  d@ = 0 setzen, die  Gleichung 
+(1 8) 
+Aus  ihr  finden  wir  zuniichst  wieder  A 2 r  = 0 ;   dadurch  ist 
+die  Einfuhrung  der  kanonischen  Koordinakn  ermoglicht , und 
+in diesem  Sinne  setzen  wir  wiederum  z1 = Z, 2, = T .   G1.  (17) 
+butet jetet : 
+
+S @ *   = d r n + d 6 * .  
+
+142 
+
+(19) 
+
+ftp = -  (-  -)  + - (-  -)]  = - &* . 
+
+r
+f  8 %  
+
+T a c ~  
+f a r  
+
+1  a 
+r 
+x 
+
+~
+
+a
+
+H. Weyl. 
+ a 
+a r  
+
+Die  willkiirliche  additive  Konstante,  welche  in  4i  auftritt, 
+werde,  wie  iiblich,  so  gewahlt,  daB  4i im  Unendlichen  ver- 
+schwindet , 
+
+Vergleichung  der  Koeffizienten  von  6 1   in  (18)  ergibt 
+die  G1.  (18)  des  vorigen  Paragraphen  mit  der  Modifi,kation, 
+daS  rechts  zu  dem  Massenglied  e*  das  von  der  gleichfalls 
+gravitierend wirkenden elektrischen Energie herriihrende Zusatz- 
+glied  l / f [ @ @ ]  hinzutritt; also : 
+
+G1.  (14),  0  5  kann  unverPndert  iibernommen  werden.  Wir 
+bilden  den  Ausdruck  4 A, (a2) ; auf  Grund  tler  Gleichungen 
+
+1 a w  
+--- 
+2  a %  - @ x ?  
+
+a @  
+
+a @  
+1 a @  
+--= 
+2 a r   @ -  a r  
+
+und  des  elektrostatisohen  Grundgesetzes  (19)  hat  er  den  Wert 
+
+- 6*@  + +[@,@I. 
+
+Fuhren  wir  also 
+
+Q * + E * @ = o *  
+ein, so  konnen  wir  Formel  (90) ersetzen  dnich 
+
+f  - & @ ' = F ,  
+
+Befindet sich Masse und  Ladung nur auf  einem  Elementw- 
+ring,  der  im  kanonischen  Koordinatensystem  den  Radius  r 
+und  den  Querschnitt  d r d x  hat, und  setzen  wir 
+
+2 n a * r d r d z  = rn , 
+
+2728" r d r d z  = e ,  
+
+so  folgt  aus  den  Gleichungen  (19),  (N), daB  notwendig 
+
+P = const. - - @ 
+?n 
+
+ist.  Bei  geeignettr  Wahl  der  MaBoinheit  der  Zeit  wird  die 
+liier  auftretende const.  = 1, und  wir  haben 
+
+f =  1 - - @ + y @ Z ,  
+
+rn 
+8 
+
+1 
+
+oder  bei  Einfuhrung des  CGS-Systems 
+
+f = l - -  2 m x  
+
+@ + $ 0 2 .  
+
+e 
+
+Zur  Gravitationstheorie . 
+
+143 
+
+Setzt man  diesen  Wert  in  (19)  ein, so  erhiilt  man  fiir 
+
+das  lineare  Potentialgesetz  der  gewohnlichen  Elektrostatik. 
+Erniittelt  man  daraus  dieses  Integral  als  Funktion  des  Ortes 
+in cler  Meridian-Halbebene und  aus ihm d, und f  - wir  werden 
+(lie Rechnung  sogleich  dmchfuhren  -,  so  erkennt  man,  daB 
+m  die  im  Ringe  enthaltene  gravitierende  Masse,  e  die  in  ihm 
+cnthaltene  Laclung  ist.  Folgiich  Rind  u*  und  E*  Massen-  und 
+Ldungsdichtc  ini  kanonischen  Koordinattnsystem ; es  ist  vor 
+dlem  bemerkenswert,  dab  nicht  e*  , sondern  u*  = e*  + E*  d, 
+als  llrlassendichte  auftritt.l) 
+,411gernriner  lafit  sic11  in  tlieser  R'eise  das  Probleni  losen, 
+M tmi  wir  annehmrn,  claB  Masse  und  Ladung  beliebig,  aber 
+in  der  gleichen  Wrise  verteilt  sind, d. h.  daB  das  Verhdtnis 
+cr*  : E*  eine  \-om  Ort  unabhangige  Konstante  ist.  Dtls  Eukli- 
+dische  Volumintegral  \-on  u*  ini  Reume  der  kanonischen  Ko- 
+ordinaten, die  Gesamtmassc,  bezeichncn  wir  mit m, das ebenso 
+Jenks 
+gvbildete  Integral  von  E * ,   die  Gesamtladung,  mit  e. 
+(22)  ist 
+lionstante  Vt.rliBltnis  wild  dann  gleich  m : e  sein. 
+ni~cli jetzt  das  grw-uhnliclie, ohm  Bcrucksichtigung  der  Cravi- 
+tation  bestiinmte  elektrostatische  Potential  der  Ladungs- 
+iAi  kanonischtn  Raum.  Wir  fiihren  (vgl.  $  4, 
+verteilung  E* 
+letzter  Absatz)  die  Gravitatioiisradien  a,  a'  der  (auf  einen 
+Puiikt  konzentrierten)  Masse  m  und  Ladung e  ein  und  setzen 
+untw  Bevorzugung  clts  FLtlles  a'  > a :  
+_ -  - sin y o .  
+a 
+a' 
+
+Rechnrn wir rlas Integral (22) aus, so konimen wir  zu folgendeni 
+Ergebnis : 
+
+1) Nimnit  man  e*  = 0,  so  ergibt  sich  fur  den  Bereich,  uber  den 
+die  Ladung  eines  Elektrons  verteilt  ist,  der  ubliche  Radius  a".  Es  ist 
+aber  nicht  ausgesehlossen,  daB  durch  ein  negatives  e*  das  Glied  E*@ 
+fast vollstandig  kompensiert  wird;  ich  verweise  dieserhalb auf  die  Mie- 
+sche  Theorie.  Es  kame  ja  gerade  darauf  an,  zu  erkliiren,  warum  das 
+Elektron  eine  so  kleine  Masse  besitzt,  d.  h.  woher  die  rehe  Zahl  a/a' 
+von  der  GroBe  1 O P o  kommt!  Die  eigentliche  Ladung  des  Elektrons  ist 
+drinnach  vielleieht  auf  einen  sehr  vie1  kleineren  Bereich  konzentriert, 
+uiid  u''  hat  lediglich  die  Bedeutung  des  ,,Wirkungsradius". 
+
+1 44 
+
+H.  weyz. 
+
+Isst  die  Ladungswerteilung  (xu  der  nach  Voraussetxung  die 
+Massenwerteilung  proportional  ist)  im kanonischn  Koordinaten- 
+system  bekannt  und  q~  ihr  ,,elementares".  d. h.  ohne  Beruck- 
+sichtigung  der  Gravitation  nach  der  elementuren  Theorie  be- 
+stimmtes  Potential,  multipliziert  mit  dem  luynstanten  Faktor 
+
+V X  
+7 c 0 3  yo  9 
+
+so'  gilt  strenge 
+(23)  @j = e  sincp  - 
+a'  COB  (cp - (Po) ' 
+Im Falle  des  Ringes  ist insbesondere 
+
+1/T=-"?L. 
+COB (9' - Po) 
+
+a'  co8 (P,, 
+
+YO=-- R
+
+'
+
+ 
+
+wo  R  die  ,,Entfernung"  des  Aufpunktes  P  vom  Ring  be- 
+deutet.  Fiir groI3e R ergibt sich daraus fur YTdie asymptotische 
+Formel 
+
+a 
+
+1 - -   R' 
+
+aus  der  hervorgeht,  daB  m  in  der  Tat,  wie  oben  behauptet, 
+die gravitierende Masse  ist. 
+
+Es  bleibt  unter  den  gegenwktigen  Annahmen  noch  der 
+zweite  Koeffizient  h  des  kanonischen  Linienelenientcs  zu  be- 
+rechnen.  Dazu  steht  uns  die  GI.  (14),  $  5 ,   zur  Verfiigung. 
+Behandeln  mir  sie in  der  gleichen  Weise wie  dort, so  erhalten 
+
+wir  fur  y  = lg lv zunachst 
+
+Gehen  wir  Zuni  CGS-System  uber  - der  Faktor  4  auf  rler 
+yeohten  Seite  ist  dann  durch  x / c 2   zu  ersetzen  - und  be- 
+nutzen  die  Ausdriicke  (23),  so  nimmt  dime  Bestirnmungs- 
+gleichung  fiir  y  die  einfaohe  Form  an 
+
+(24) 
+
+1-1 
+
+Lassen  wir  die Voraussetzung  der  Proportionalitiit  yon  La- 
+dung und Masse  fallen,  so lBBt sich die  Liisung  nicht  niehr  auf 
+so einfachem Wege ermitteln.  Nun  liegen aber  flir  das Elektroii 
+und  den  Atomkern  die numerischen  Verhaltnisse  so, dab ala' 
+sehr  klein,  von  der  GroBenordnung 
+ist. 
+
+bzw.  1O-l' 
+
+Zur  Graz4ntionstheorie. 
+
+145 
+
+Unter  diesen  Unistandtn  kann  alpo  die  Masstnwirkuiig  vollig 
+nrben  derjenigen  der  Ladung  XTernachlassigt  werden.  Speziali- 
+sieren  wir  unsere  Formeln  in  dieser  Weise,  d. h.  daduich, 
+(la6 wii  a = 0, qo = 0  setzen, so  kommtn  wir  zu  dem  Satx: 
+ruhender  La- 
+tlungen ,  neben  deren  Wirkung  die  Massenwirkung  vernacla- 
+l%sigt  werden  kann,  im  kanonischen  Koordinatens ystem  be- 
+ihr  elementares  Potential  multipliziert  mit  1/L/c, 
+Imnnt  und 
+.so  gilt  un ter  Beriicbichtigung  der  Gravitation 
+
+(rotationssymmetrische)  T'erteilung 
+
+Ist  die 
+
+Das  Auftreten  der  durch  ihre  Periodizitat  in  so  engeni 
+Zuqammenhang  mit  den  ganzen  Zahlen  stehenden  trigono - 
+iiietrischen  Funktionen  hat  etwas  ~berraschendes ; in  Be- 
+ieichen,  in  denen  g~ mit  1  vergleichbare  Werte  erreicht,  gilt 
+nicht mehr  das  Superpositionsprinzip, vielmehr  sind  die  Poten- 
+tiale  der  wirkenden  Krafte  trigonometrischr,  Funktionen  der- 
+jenigen  GroBe , wrlche diesem  Prinzipe  geniigt.  Bei hinreichencl 
+konzentrierten  Ladungtn  konnte  ES  geschehtn,  da13  eine  die- 
+srlben einschlieBende Flache S auftritt, auf  der Q, den Wert n/2 
+rrreicht und  daher  0 und  VTunendlich werden.  Da  auf  dieser 
+,,Grenzflache  der  AuBtnwelt"  nach  (24)  hf  encllich  bleibt, 
+mird  auf  ihr  das  raumliche  Linicnelement  do2 = 0 ;   mittels 
+tlrs  invarianttn  Linienoltmtnts  ausgemessen,  stellt  sich  daher 
+X d s  ausdehnungelas heiaus.  -  das Verstanclnis der Vor- 
+gange  iin ,Atom  ist unser  Eigebnis  kaum  nutzbar  zu machen ; 
+tlenn  die Abweichungen  des Feldes der  Elektroncnladung  e  von 
+d em  durch  die  gravitationslose  klassische  Thtorie  bestimniten 
+sind  nur  in  Distanzen  meiklich, die  von  drr  GioBenordnung 
+
+a'  - 
+
+em  sind ! 
+
+Die  kugclsymmetrische  Punktladung  erscheint  irii  kano- 
+nischen Koordinatcnsystem als eine Kreisecheibe vom Radius a', 
+auf  der  die  Elektrizitat  so  verteilt  ist,  wie  es  nach  der  ele- 
+nirntaren  Elektrostatik  auf  einer  gladenen  Metallplatte  (lei. 
+Fall  ist. 
+
+(Eingegangen 8. August  1917.) 
+
+Annalen der  Physik.  IY. Folge.  64. 
+
+10 
+
+

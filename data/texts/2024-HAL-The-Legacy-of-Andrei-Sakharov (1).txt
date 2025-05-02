@@ -1,0 +1,3989 @@
+The Legacy of Andrei Sakharov
+
+J P Petit, H Zejli
+
+To cite this version:
+
+J P Petit, H Zejli. The Legacy of Andrei Sakharov. 2024. ￿hal-04572588￿
+
+HAL Id: hal-04572588
+
+https://hal.science/hal-04572588
+
+Preprint submitted on 11 May 2024
+
+HAL is a multi-disciplinary open access
+archive for the deposit and dissemination of sci-
+entific research documents, whether they are pub-
+lished or not. The documents may come from
+teaching and research institutions in France or
+abroad, or from public or private research centers.
+
+L’archive ouverte pluridisciplinaire HAL, est
+destinée au dépôt et à la diffusion de documents
+scientifiques de niveau recherche, publiés ou non,
+émanant des établissements d’enseignement et de
+recherche français ou étrangers, des laboratoires
+publics ou privés.
+
+ 
+
+1 
+
+The Legacy of Andrei Sakharov 
+
+J.P.Petit1 , H.Zejli2 
+
+ 
+
+ 
+
+ 
+
+___________________________________________________________________________ 
+ 
+Keywords : Sakharov, twin universe, antimatter, dynamic groups theory, momentum, fifth 
+dimension,  topology,  biometric  model,  Janus,    T-symmetry,  PT-symmetry,  CPT-symmetry, 
+Poincaré group, orthochron subgroup, antichron subset, Janus group, Kaluza space, two-folds 
+cover of a manifold, negative mass, coupled field equations system, runaway phenomenon, 
+action,  enantiomorphy,  dipole  repeller,  dark  matter,  dark  energy,    very  large  structure, 
+Newtonian approximation.  
+___________________________________________________________________________ 
+ 
+Abstract :  The  fact  that  the  standard  model  of  cosmology  LCDM  cannot  account  for  the 
+presence of immense voids in the very large-scale structure, as well as the early birth of first-
+generation stars and galaxies, combined with the impossibility of explaining the absence of 
+observations of primordial antimatter, means that we are forced to consider a paradigm shift, 
+which is what the Janus model represents. This model has its origins in the one proposed by 
+Andrei  Sakharov  in  1967.  We  retrace  this  genesis,  focusing  on  the  model's  physical  and 
+mathematical coherence.  
+________________________________________________________________________ 
+ 
+1 - Introduction. 
+ 
+Between 1967 and 1980, A.Sakharov published articles ([1], [2], [3]) presenting a cosmological 
+model with two universes, linked by an initial singularity, the Big Bang. The first is our own 
+universe. The second is described by him as a twin universe. The time arrows of these two 
+universes are antiparallel, and they are enantiomorphic, or mirrored. Through such a model, 
+he proposed a possible answer to the lack of observation of primordial antimatter. For over 
+half a century now, cosmology has been unable to conceal one of its greatest weaknesses. Not 
+only has no answer been found to the fact that one particle of matter in a million escaped 
+complete  annihilation,  but  no  explanation  has  yet  been  proposed  for  the  absence  of 
+observation of the corresponding quantity of primordial antimatter. Sakharov's attention was 
+focused  on  the  violation  of  CP  symmetry.  To  re-establish  a  generalized  symmetry,  he 
+hypothesized that our universe would be endowed with a twin in which these violations would 
+be reversed. Based on the fact that matter arises from the assembly of quarks and antimatter 
+from the assembly of antiquarks, he hypothesized that the former reaction would have been 
+faster than the latter in our sheet of universe, with the opposite situation in its twin. Thus, in 
+our matter universe we would find a small remnant of matter, associated with an equivalent 
+remnant  of  free-state  antiquarks,  with  the  opposite  situation  in  this  twin  universe,  which 
+would  therefore  contain  antimatter  with  a  corresponding  remnant  of  free-state  quarks. 
+However exotic this model may seem, we have to agree that it's the only answer we've been 
+
+1 Jean-Pierre.petit@manaty.net 
+2 Hicham.Zejli@manaty.net 
+
+ 
+
+ 
+
+2 
+
+given to this loss of half the cosmic content. Thus it's only logical that we should try to examine 
+the aspects of such a model. 
+ 
+2 – The significance of this inversion of time. 
+ 
+This T-symmetry refers to the inversion of the time coordinate. In 1970 [4], contributing to the 
+development  of  symplectic  geometry  and  its  application  to  physics,  mathematician 
+J.M.Souriau provided the physical interpretation of this inversion of the time coordinate. The 
+Gramm matrix defining the Minkowski space is : 
+ 
+
+(1)                                                       
+
+G =
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎝
+
+0
+
+1
+0
+0 −1 0
+0
+0
+
+0
+0
+−1 0
+0
+−1
+
+0
+0
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎠
+
+  
+
+ 
+
+ 
+Its isometry group is the Poincaré group:  
+ 
+
+⎛
+(2)                                                                       
+⎝⎜
+ 
+
+L C
+0
+1
+
+⎞
+⎠⎟
+
+  
+
+ 
+Where L is the matrix representing the Lorentz group, axiomatically defined by:  
+ 
+(3)                                                                          
+ 
+nd where C is the quadrivector of space-time translations :  
+ 
+
+ LtG L = G
+
+  
+
+(4)                                                                     
+
+C =
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+Δt
+Δx
+Δy
+Δz
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+  
+
+ 
+
+ 
+A very detailed commentary on the work can be found in reference [5]. The approach is based 
+on the introduction of the space of motions as a dual of the Lie algebra of the group. This 
+space of motions is thus a vector space of dimension 10, that of the group. Within these 
+dimensions, one is identified with the energy E, of the motion, three others with its impulse, 
+three with the spin (not quantized) and three others with a 3-vector qualified by Souriau as 
+“passage f”. Together, they form a torsor : 
+(5) 
+ 
+
+ 
+
+ with :  
+ 
+
+3 
+
+M =
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜⎜
+⎝
+
+0
+sz
+−sy
+−fx
+
+−sz
+0
+sx
+−fy
+
+sy
+−sx
+0
+−fz
+
+fx
+fy
+fz
+0
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟⎟
+⎠
+
+ 
+
+      
+                                              
+
+P =
+
+           
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+E
+pxc
+pyc
+pzc
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+µ = ( M,P ) = M −P
+0
+ 
+
+Pt
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+  
+
+(6)                                           
+
+M =
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜⎜
+⎝
+
+0
+sz
+−sy
+−fx
+
+−sz
+0
+sx
+−fy
+
+sy
+−sx
+0
+−fz
+
+fx
+fy
+fz
+0
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟⎟
+⎠
+
+ 
+
+P =
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+E
+pxc
+pyc
+pzc
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+ 
+
+  
+
+ 
+If we opt for a coordinate system accompanying motion, then the 3-vector f is zero. Seven 
+parameters thus define a motion, defining a geodesic trajectory of Minkowski space.  The 
+action of the group on its motion space allows us to define all possible motions. This is written 
+( equations (13.107) in chapter 13 of reference [4] ).  
+
+	(7)																																																												
+	(8)																																																																																
+
+ M' = LM tL + C tP tL − LPtC
+
+	
+
+ P' = LP
+
+ 
+
+}
+
+  is  the  neutral  component,  which  contains  the  neutral  element  of  the  group  and 
+
+It's the second equation that sheds light on the physical significance of this inversion of the 
+time coordinate.  The Lorentz group has four related components:  
+ 
+  Ln{
+- 
+reverses neither space nor time.  
+ 
+  Ls{
+- 
+ 
+Combining these two related components forms the orthochronous subgroup or restricted 
+Lorentz group.   
+ 
+
+ reverses space, but not time. It is synonymous with P-symmetry.  
+
+}
+
+  Lo{
+
+} = Ln{
+
+} ∪ Ls{
+
+}
+
+ 
+
+  
+ 
+- 
+ 
+- 
+
+  Lt{
+  Ls{
+
+}
+}
+
+ reversing time but not space  
+
+reversing both time and space. 
+
+ 
+
+4 
+
+  
+By grouping these last two components together, we form the antichronous subset :  
+  
+
+La{
+ 
+
+} = Lt{
+
+} ∪ Lst
+
+{
+
+}
+
+ 
+
+}
+
+} ∪ La{
+
+  L{ } = Lo{
+
+ represents the complete Lorentz group.  
+
+ 
+Finally, 
+ 
+The Poincaré group inherits this property. Classically, physics limits its use to its orthochronous 
+components. Note that :  
+ 
+(9)                                                               
+ 
+(10)                                                            
+ 
+We can then present the complete Poincaré group as :  
+ 
+
+} = − Ln{
+}
+} = − Ls{
+
+                                                                      
+
+{
+ 
+  Lt{
+
+Lst
+
+}
+
+ 
+
+(11)                                              
+
+λ = ± 1
+
+                                                   
+
+λ Lo C
+0
+1
+
+⎞
+⎟
+⎠
+
+⎛
+⎜
+⎝
+ 
+
+ gives the elements of the antichronous, time-reversing subgroup. 
+
+ gives the restricted, orthochronous Poincaré group 
+
+ λ = +1
+ λ = −1
+
+ 
+ 
+ 
+ 
+ 
+We can see that : 
+
+  (12)																																																												
+	(13)																																																																																	
+
+	
+
+ M' = Lo M tLo + λC tP tLo − λ Lo PtC
+
+																																																																									  
+
+ P' = λ Lo P
+
+ 
+This gives the result of reference [4]: time inversion is synonymous with energy inversion. This 
+also leads to mass inversion [4].  
+ 
+(14)                                                                  
+ 
+Here we discover the physical interpretation of the model proposed by A. Sakharov: his second 
+universe contains particles with negative energy and negative mass, when they have them. 
+ 
+ 
+3 – Introduction of electric charge.  
+ 
+This is synonymous with charge conjugation and matter-antimatter duality. The geometrical 
+interpretation of this C-symmetry was given in 1964 by J.M.Souriau in chapter V of reference 
+
+ m = Pt.P sgn(E)
+
+                                                                        
+
+[4]. The chapter is entitled “Relativity in 5 dimensions”. The latter is then inscribed in Kaluza 
+space, whose Gramm matrix is : 
+
+5 
+
+(15)                                                
+
+ˆG =
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+1
+0
+0
+0
+0
+
+0 0 0 0
+0
+−1 0
+0
+0
+−1 0
+0
+−1
+0
+0
+
+0
+−1 0
+0
+0
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+ 
+
+ 
+
+ 
+This fifth dimension is of the space type. The associated dynamic group is :  
+ 
+
+(16)                                                                 
+
+Λ Γ
+0
+1
+
+⎞
+⎠⎟
+
+ 
+
+⎛
+⎝⎜
+ 
+
+ 
+where L  is the 5D analog of the Lorentz group and axiomatically defined  by: 
+ 
+(17)                                                                     
+ 
+and where 
+
+, is the fifth dimension : 
+
+ Λt ˆG Λ = ˆG
+
+  
+
+ζ
+
+(18)                                                                  
+
+Γ =
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+Δt
+Δx
+Δy
+Δz
+Δζ
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+  
+
+ 
+
+ 
+ Whereas the Lorentz group is of dimension 6, this group is of dimension 10, bringing the 
+number of dimensions of the isometry group of Kaluza space to 15. Adding a fifth dimension 
+has the effect of endowing the moment space with additional dimensions, five in this case. In 
+2014 [7] the author restricted the extension of the group L under bounded space to : 
+ 
+
+⎛
+(19)                                                                 
+⎜
+⎝
+ 
+
+1
+0
+0 λ Lo
+
+⎞
+⎟
+⎠
+
+  
+
+ 
+Translating this according to the group's action on 5D space gives : 
+ 
+
+(20)                                        
+
+0
+
+1
+φ
+0 λLo C
+0
+1
+
+0
+
+⎞
+⎟
+⎟
+⎟
+⎠
+
+×
+
+⎛
+⎜
+⎜
+⎜
+⎝
+
+ζ
+ξ
+1
+
+⎞
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎝
+
+⎛
+⎜
+⎜
+⎜
+⎝
+ 
+
+=
+
+λLoξ+C
+
+  
+
+ζ + φ
+
+1
+
+⎞
+⎟
+⎟
+⎟
+⎠
+
+ 
+
+ 
+
+ 
+
+6 
+
+This  limits  us  to  the  subgroup  of  translations  in  this  fifth  dimension.  The  treatment  by 
+constructing the action of this new group on the dual of its Lie algebra endows the moment 
+with an additional scalar, which can be identified with the electric charge q with : 
+(21)                                                                                   
+
+  
+
+ q' = q
+
+ (22)																																																												
+	(23)																																																																																	
+
+ M' = Lo M tLo + λC tP tLo − λ Lo PtC
+
+																																																																									  
+
+ P' = λ Lo P
+
+	
+
+ 
+If we are satisfied with this subgroup, we obtain the constancy of this electric charge. But in 
+reference  [8],  the  author  decides  to  rely  on  the  orthochronous  isometry  subgroup,  of 
+dimension 15, with its two connected components. The action of the group reveals, in addition 
+to the scalar q, a quadrivector Q. But this is the equivalent of the passage f, which appeared 
+in the Poincaré group. Like the latter, it is cancelled out when we opt for a coordinate system 
+linked to the particle. It is therefore not a characteristic of motion, a relevant attribute of 
+momentum.  
+ 
+In 4D, the Lorentz group can be interpreted as the “group of hyperbolic rotations in 4D space”. 
+As such, it preserves the length of the energy-impulse quadrivector P : 
+ 
+(24)                                                               
+ 
+In the same way, we can consider that the group represents “hyperbolic rotations in 5D”.  
+Consider the pentavector:  
+ 
+
+ PtG P = E2 − p2c2
+
+  
+
+(25)                                                        
+
+Π =
+
+⎛
+⎜
+⎝
+
+P
+q
+
+⎞
+⎟ =
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+E
+pxc
+pyc
+pyc
+q
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+  
+
+ 
+
+ Πt ˆG Π = E2 − p2c2 − q2
+
+The Group's action maintains its length: 
+ 
+(26)                                                                
+ 
+But in approach [8], these transformations no longer a priori preserve the electric charge q, 
+which then becomes dependent on the chosen coordinate system.  In reference [8], taking up 
+the approach initiated in [6], the author opts for a closed fifth dimension, in which the radius 
+of  this  “universe  tube”  becomes  very  small,  of  the  order  of  Planck's  length.  He  then 
+rediscovers the invariance of electric charge and concludes [8], we quote 
+ 
+ 
+
+ 
+
+ 
+
+7 
+
+ 
+
+ 
+The expression for this characteristic dimension of this universal tube is given in [6] on page 
+
+412 :	
+(27)																																																																					
+
+	 
+
+!
+e
+  
+
+χ
+2π
+
+ 
+c being the Einstein constant taken equal to [6]: 
+ 
+
+ 
+
+8πG
+c2 = 1.85610−27cmgr−1
+
+(28)                                                     
+χ = −
+ 
+ 
+By introducing numerical values, this characteristic length is 3.782 10-32 cm. Dividing by 2p 
+gives us the order of magnitude of Planck's length. In this view, the quantization of electric 
+charge and its constancy are derived from the closure of the extra dimension associated with 
+the decrease in the characteristic dimension associated with it.  
+ 
+This  group  refers  to  an  extension  of  Poincaré's  group,  i.e.  to  a  field-free,  curvature-free 
+universe. This construction of a five-dimensional relativity was suggested in 1964 in reference 
+[6] and has been taken up again more recently in [8]. Note that it is in [6], page 413, that the 
+link between charge conjugation and fifth-dimensional inversion is first mentioned.  
+ 
+By  generalizing  [9],  we  can  envisage  an  extension  of  space-time  to  a  space  with  4  +  p 
+dimensions, all of which may see their characteristic dimensions reduced, like that of this fifth 
+dimension,  each  of  these  collapses  leading  to  the  emergence  and  quantization  of  new 
+quantum numbers, baryonic, leptonic, unique etc., the electric charge being only the first of 
+these.   
+ 
+ 
+4 – Introduction of matter-antimatter symmetry. 
+ 
+The above technique can be extended and the letter 
+ζ
+dimension, but p additional dimensions, according to : 
+
+ no longer designates one additional 
+
+ 
+
+8 
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+ζ1
+ζ2
+...
+ζp
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+ 
+
+ 
+
+(29)                                                                   
+
+ζ =
+
+The Gramm matrix becomes : 
+ 
+
+(30)                                          
+
+⌢
+G =
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+0
+
+1
+0
+0 −1 0
+0
+−1
+0
+0
+...
+...
+0
+0
+
+0
+0
+...
+0
+
+0 ... 0
+0 ... 0
+0 ... 0
+−1 ... 0
+...
+...
+−1
+0
+
+...
+...
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+  
+
+  
+
+ 
+If we extend the group from the restricted Poincaré group and its orthochronous subgroup, 
+the isometry group of this 4 + p-dimensional space is written as : 
+ 
+
+(31)                                                                  
+
+⌢
+Λo
+0
+
+⎛
+⎜
+⎝
+  
+
+⌢
+Γ
+1
+
+⎞
+⎟
+⎠
+
+ 
+
+ 
+
+⌢
+G
+
+t ⌢
+G
+
+⌢
+Λo =
+
+Avec :  
+⌢
+(32)                                                                           
+Λo
+  
+ 
+The  closure  and  shortening  of  the  characteristic  lengths  associated  with  the  additional  p 
+dimensions leads to quantization and constancy of the resulting quantum numbers. If the 
+basic  group  is  the  orthochronous  restricted  Poincaré  group,  the  number  of  related 
+components remains limited to two.  In passing, we can return to a simplified formulation 
+where  the  group  extension  of  is  limited  to  p  translations  along  p  additional  dimensions, 
+ensuring the constancy of the p quantum charges that result:  
+ 
+ 
+
+(33)                          
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+ 
+
+1
+0
+...
+
+0 ...
+1 ...
+...
+...
+
+0 0 ...
+0 0 ...
+0 0 ...
+
+0
+0
+φ1
+0 φ2
+0
+...
+...
+...
+1
+0
+φp
+0 Lo C
+1
+0
+
+0
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+ζ1
+ζ2
+...
+ζp
+ξ
+1
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+×
+
+=
+
+ζ1 + φ1
+ζ2 + φ2
+
+...
+
+ζp + φp
+Loξ + C
+
+1
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+  
+
+ 
+By  introducing  a  charge  symmetry,  a  C-symmetry,  we  double  this  number  of  related 
+components by writing this group according to : 
+
+ 
+
+9 
+
+ (34)                    
+
+×
+
+=
+
+µ = ± 1
+
+  
+
+µ 0 ...
+0 µ ...
+...
+...
+
+...
+
+0 0 ...
+0 0 ...
+0 0 ...
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+ 
+
+0
+0
+φ1
+0 φ2
+0
+...
+...
+...
+0
+µ
+φp
+0 Lo C
+1
+0
+
+0
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+ζ1
+ζ2
+...
+ζp
+ξ
+1
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+µζ1 + φ1
+µζ2 + φ2
+
+...
+
+1
+
+µζp + φp
+Loξ + C
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+ 
+The corresponding group action is : 
+ 
+q1' = µq1
+(35)                                                   
+ 
+
+ (36)																																																												
+	(37)																																																																																	
+
+; q2 ' = µq2
+
+;
+
+...
+
+; q p ' = µq p
+
+  
+
+ M' = Lo M tLo + C tP tLo − Lo PtC
+
+																																																																									  
+
+ P' = Lo P
+
+ µ = −1
+
+reverses all quantum charges.  
+
+ 
+Symmetry 
+ 
+ 
+5 – Group associated with A.Sakharov's model: the Janus group. 
+ 
+If we want to construct a group that translates the T-symmetry invoked by Sakharov, we'll 
+ λ = ±1
+replace 
+ . But, as proposed in [7], we can translate what had already 
+been proposed [1], we quote :  
+ 
+
+ λ Lo
+
+ with 
+
+ Lo
+
+ by 
+
+- All phenomena corresponding to t <0 are, in this hypothesis, assumed to 
+be CPT images of phenomena corresponding to t > 0 . 
+
+ 
+$ 
+(38)   
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+ 
+
+λµ
+0
+...
+
+0
+...
+λµ ...
+...
+...
+
+0 0 ...
+0 0 ...
+0 0 ...
+
+0
+0
+...
+λµ
+0
+0
+
+0
+φ1
+0 φ2
+...
+...
+0
+φp
+λLo C
+1
+0
+
+                  
+⎛
+ζ1
+⎜
+⎜
+ζ2
+⎜
+...
+⎜
+⎜
+ζp
+⎜
+⎜
+ξ
+⎜
+⎜
+1
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+=
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+×
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+λµζ1 + φ1
+λµζ2 + φ2
+
+...
+
+1
+
+λµζp + φp
+λLoξ + C
+
+  is then synonymous with CPT-symmetry.  
+
+ 
+The value
+ 
+
+ λ = − 1
+
+µ = ± 1
+λ = ± 1
+
+ 
+
+	
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+6 – Topology of the Janus model. 
+ 
+Let's consider a universe closed in all its dimensions, including space and time. We then have 
+the 2D didactic image below, that of a sphere S2 : 
+ 
+
+10 
+
+Fig.1 : 2D didactic image of a closed universe 
+
+ 
+
+ 
+Diametrically opposed, antipodal points can be brought into coincidence. The image is then 
+that of a P2 projective. The north and south poles, one representing the Big Bang and the 
+other  the  Big  Crunch,  come  into  coincidence.  The  sphere  cannot  be  paved  without  the 
+presence of these two singularities. The same applies to any sphere S2n if n is even, especially 
+if this dimension is 4. This geometry was proposed in [10].  
+ 
+The  following  figure  shows  how  this  coincidence  of  antipodal  regions  generates  this  T-
+symmetry. On the S2 sphere, the direction of time is given by the orientation of the meridian 
+curves. This orientation is shown on the left at the new state of maximum expansion, when 
+space is identified with the sphere's equator. During this folding of the S2 sphere, described 
+in reference [11], the vicinity of this equator is configured as the two-folds cover of a Möbius 
+strip with three half-turns. See figure on the right. 
+
+Fig.2 : How the coincidence of antipodal regions creates T-symmetry 
+
+ 
+
+ 
+
+ 
+
+ 
+
+In the figure below, we evoke the appearance of T-symmetry by manipulating the vicinity of a 
+meridian line. In addition, we evoke the possible elimination of the Big Bang - Big Crunch 
+double singularity by replacing them with a tubular passage, which then gives this geometry 
+the nature of the two-fold lcover of a Klein bottle. 
+ 
+ 
+
+11 
+
+ 
+
+Fig.3 : Coincidence of antipodal regions on a sphere S2, according to the two-folds cover of a 
+half-turn Möbius strip, with the appearance of T-symmetry.   
+ 
+For enantiomorphy and P-symmetry to appear, the operation would have to be performed on 
+a larger sphere. This aspect can be highlighted by considering the conjunction of antipodal 
+regions in the vicinity of a meridian line, which is then configured according to the two-sheet 
+covering  of  a  half-turn  Möbius  strip.  The  following  figure  illustrates  this  enantiomorphic 
+situation.  
+ 
+ 
+
+Fig.3 : P-symmetry as a consequence of contacting antipodal region neighborhoods on an S2 
+
+ 
+
+sphere. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+12 
+
+By  bringing  the  antipodal  points  of  even-dimensional  spheres  into  coincidence,  we  locally 
+create a configuration associating two T-symmetrical sheets. By adding further dimensions, 
+the coincidence of the antipodes creates a two-sheet CPT-symmetric coating configuration of 
+a projective space. In the case of the sphere S2, which corresponds only to a 2D didactic image, 
+the image of the projective P2 is its immersion in , which corresponds to the surface described 
+in 1903 by the German mathematician Werner Boy [12]. See next figure. 
+ 
+
+ 
+
+ 
+
+Fig.4 : Boy's surface, immersion of the P2 projective in 
+
+  !3
+
+ . 
+
+ 
+In this figure, we show how the coincidence of the antipodal points of the equator of the 
+sphere S2 gives the two-sheet covering of a Möbius ribbon with three half-turns.  
+In this section, we show that the P and T symmetries invoked by A. Sakharov can be manifested 
+as consequences of a purely topological structure, the covering of a projective P4. 
+ 
+ 
+7 – First attempt to introduce negative masses into the model. 
+ 
+Using dynamical group theory, we showed that this T-symmetry was synonymous with the 
+introduction  of  negative  masses  into  the  cosmological  model.  A.Sakharov's  primordial 
+antimatter  would  therefore  be  endowed  with  negative  mass.  This  first  step  is  far  from 
+anecdotal since, if we neglect it, we admit to losing nothing less than half the universe from 
+the outset. Is it then possible to introduce negative masses into the standard model of general 
+relativity?  
+ 
+A first idea would be to consider that the field comes from two sources, represented by two 
+tensors,  the  first  referring  to  a  positive  mass  content  and  the  second  to  a  negative  mass 
+content:  
+ 
+
+                                              
+
+Rµν −
+ 
+
+1
+2
+
+R gµν = χ Tµν
+
+(+) + Tµν
+(−)
+
+⎡⎣
+
+ 
+
+⎤⎦
+
+(39) 
+ 
+
+ 
+
+13 
+
+We can then consider the metric solution corresponding to a region where the field is created, 
+firstly by a positive mass content : 
+
+Rµν −
+(40)                                                          
+ 
+ 
+Geodesics are given by a solution in the form of an external metric: : 
+ 
+
+R gµν = χTµν
+(+)
+
+ 
+
+1
+2
+
+(41)                         
+
+ds2 = 1−
+
+⎛
+⎝⎜
+
+2G M(+)
+
+c2r
+
+⎞
+⎠⎟ c2dt2 −
+
+dr2
+2G M(+)
+
+c2r
+
+1−
+
+The geodesics evoke an attraction. 
+ 
+
+− r2 ( dθ2 + sin2 θdϕ2 )
+
+  
+
+Fig.5 Geodesics created by a positive mass. 
+
+ 
+
+ 
+
+In this context, our single field equation provides only a single family of geodesics, which the 
+test particles, with both positive and negative masses, must follow. We deduce that :  
+ 
+
+- Positive masses attract both positive and negative masses. 
+
+ 
+Now consider the field created by a negative mass M(-):  
+ 
+
+(42)                                                        
+ 
+The solution then corresponds to the metric : 
+ 
+
+Rµν −
+ 
+
+1
+2
+
+R gµν = χTµν
+(−)
+
+ 
+
+(43)                         
+
+ds2 = 1+
+
+− r2 ( dθ2 + sin2 θdϕ2 )
+
+ 
+
+⎛
+⎜⎜
+⎝
+
+2G M(−)
+
+c2r
+
+⎞
+⎟⎟
+⎠
+
+c2dt2 −
+
+dr2
+2G M(−)
+
+c2r
+
+1+
+
+The geodesics then represent a repulsion: 
+ 
+
+ 
+
+ 
+
+ 
+
+14 
+
+Fig.6 Geodesics created by negative mass. 
+
+ 
+
+ 
+ 
+We deduce that :  
+ 
+
+- Negative masses repel both positive and negative masses. 
+
+- 
+
+ 
+This result was illustrated in 1957 by H. Bondi [13]. If two masses of identical absolute values 
+but opposite signs are brought together, the positive mass flees, pursued by the negative 
+mass. Both then accelerate uniformly, but without any energy input, since the energy of the 
+negative mass is itself negative. This phenomenon is known as runaway. What's more, this 
+scheme violates the action-reaction principle. In 1957, the conclusion was reached that it was 
+physically impossible to include negative masses in the cosmological model. This would only 
+be possible at the price of a profound paradigmatic shift, not by denying the achievements of 
+general relativity, but by considering its extension in a wider geometric context. 
+On en déduit que :  
+ 
+
+Les  masses  négatives  repoussent  aussi  bien  les  masses  positives  que  les  masses 
+négatives. 
+ 
+
+ 
+8 – A paradigm shift to escape the crisis of today's cosmology. 
+ 
+n the mid-1970s, the excessive rotation speeds of stars in galaxies had already led specialists 
+to propose the existence of dark matter, ensuring their cohesion. In 2011, the discovery that 
+the cosmic expansion was accelerating was attributed to a new, unknown ingredient known 
+as dark energy. Over the decades, all attempts to assign an identity to these new components 
+ended in failure. 
+ 
+In 2017 [14] Hélène Courtois, Daniel Pomarède, Brent Tully and Yeudi Hoffman produced the 
+first  very-large-scale  mapping  of  the  universe,  in  a  cube  one  and  a  half  billion  light-years 
+across, with the Milky Way, our observation point, at the center. By subtracting the radial 
+component  of  the  velocity  linked  to  the  expansion  motion,  they  indicate  the  trajectories 
+followed by the masses.  A dipolar structure appears. One formation, the Shapley attractor, 
+comprising hundreds of thousands of galaxies, attracts galaxies to itself. But, symmetrically to 
+this formation, 600 million light-years from the Milky Way, there is an immense void, some 
+one hundred million light-years across, which, on the contrary, repels galaxies, and to which 
+
+ 
+
+15 
+
+we give the name of dipole repeller. To date, no theory has been able to explain the existence 
+of this vast void. While the idea of a gap in dark matter, positive and attractive, has been 
+evoked, it doesn't hold water, as no mechanism has been found to give rise to it. Since 2017, 
+several other such voids have been detected and located. 
+ 
+
+Fig.7 : The dipole repeller 
+
+ 
+
+ 
+The launch of the James Webb Space Telescope has only added to this crisis [15]. The Standard 
+Model  LCDM  proposes  a  hierarchical  mechanism  for  the  birth  of  stars  and  galaxies. 
+Gravitational instability appears as soon as matter and radiation are decoupled. The scenarios 
+for the formation of both stars and galaxies in this model make use of the attributes conferred 
+on hypothetical dark matter.   But even with these parameters, it's impossible to imagine 
+galaxies forming before a billion years. The Hubble Space Telescope was already able to obtain 
+images in the near infrared. Early images of distant objects appeared to show groups of mini-
+galaxies. But the James Webb telescope showed that these objects were nothing other than 
+HII regions belonging to barred spiral galaxies, fully formed, hosting old stars, only 500 million 
+years old. 
+ 
+For decades, the Standard Model has relied on its ability to account for CMB fluctuations as 
+gravito-acoustic oscillations, by adapting the numerous parameters relating to dark matter, 
+dark  energy  and,  in  particular,  the  value  of  the  Hubble  constant.  This  desire  to  match 
+observational  data  has  resulted  in  a  Hubble  constant  value  of  67  kms-1Mpc-1.  This  is 
+significantly  lower  than  the  value  of  70  kms-1Mpc-1  deduced  from  direct  observation  of 
+standard candles. 
+ 
+All these factors are creating a deep crisis within the specialist community, and some voices 
+are beginning to be heard, suggesting the need to consider a profound paradigm shift. This is 
+what the Janus cosmological model proposes. 
+ 
+Since  we  are  unable  to  introduce  negative  masses  into  the  general  relativity  model,  let's 
+consider a profound change of geometric paradigm, already evoked in the previous sections 
+under the aspect of group theory and topology. The motion of positive masses, immersed in 
+the gravitational field, takes place according to geodesics that we consider to be derived from 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+16 
+
+gµν
+ 
+
+{
+ 
+
+x0, x1, x2, x3
+
+gµν
+ 
+, equipped with a pair of metrics ( 
+
+ . We will therefore describe the motion of negative masses using a second 
+a first metric 
+set of geodesics, derived from a second metric 
+. We thus have a manifold, whose points 
+}
+ ). 
+are marked by the coordinates 
+We shall neglect the action of electromagnetic fields and consider only the field of gravity. 
+From the metrics and we can construct Ricci tensors 
+ and their associated Ricci 
+scalars 
+ 
+ 
+9 – The Janus Cosmological Model.  
+ 
+To build this model, we'll start with the action.  
+
+gµν  
+,
+ 
+
+Rµν
+ 
+
+Rµν
+ 
+
+and 
+
+and 
+
+gµν
+
+ R
+
+ R
+
+. 
+
+(
+
+⎡
+⎣
+
+D4∫
+
+R + S + σ
+
+J =
+(44)                                   
+ 
+ 
+Terms  involving  Ricci  scalars  are  treated  as  classically,  in  the  derivation  of  the  Einstein 
+equation from the Hilbert-Einstein action. It comes to: 
+(45)  
+
+d4x
+
+  
+
+) −g + R + S + σ
+
+(
+
+) −g
+
+⎤
+⎦
+
+ 
+
+δJ =
+
+⎡
+δR
+D4∫
+δgµν +
+⎢
+⎢
+⎣
+⎡
+δR
+δgµν +
+⎢
+⎢
+⎣
+
+D4∫
+
++
+
+R
+−g
+
+R
+−g
+
+δ −g
+δgµν +
+δ −g
+δgµν +
+
+1
+−g
+1
+−g
+
+δ( −g S )
+
+δgµν
+
++
+
+δ( −g S)
+
+δgµν
+
++
+
+⎤
+⎥
+⎥
+⎦
+
+δ( −g σ )
+
+1
+−g
+δ( −g σ )
+
+δg( + )µν
+⎤
+⎥
+⎥
+⎦
+
+δgµν
+
+1
+−g
+
+−g δgµνd4x
+
+ 
+
+−g δgµνd4x
+
+ 
+
+ 
+Posing:  
+
+(46)                                                   
+ 
+
+1
+−g
+
+δ( −g S )
+
+δgµν
+
+= − χ Tµν
+
+ 
+
+(47)                                                    
+
+1
+−g
+
+ 
+
+δ( −g S)
+
+δgµν
+
+= − χ Tµν
+
+ 
+
+  (29)                                                   
+ 
+
+1
+−g
+
+δ( −g σ )
+
+δgµν
+
+= χ tµν
+
+ 
+
+(40)                                                      
+
+1
+−g
+
+δ( −
+
+g σ )
+!
+δgµν
+
+= χ tµν
+
+ 
+
+  
+
+ 
+Hence the system  :  
+ 
+
+17 
+
+(49a)                                                      
+
+R gµν = χ Tµν +
+
+1
+2
+
+1
+2
+
+R µν −
+ 
+
+R µν −
+ 
+
+⎡
+⎢
+⎢
+⎣
+
+⎡
+⎢
+⎢
+⎣
+
+g
+g
+
+tµν
+
+  
+
+⎤
+⎥
+⎥
+⎦
+
+g
+g
+
+tµν
+
+  
+
+⎤
+⎥
+⎥
+⎦
+
+(49b)                                                      
+
+R gµν = − χ Tµν +
+
+ 
+Tµν
+ 
+The term 
+
+g
+g
+
+tµν
+
+ 
+
+ is the source tensor of the field acting on positive masses and positive-energy photons. 
+
+ is the source of this field attributed to the action of negative masses on 
+
+tµν
+ 
+
+Tµν
+ 
+
+ and are 
+
+ is therefore referred to as the interaction tensor. The 
+these positive masses. The tensor 
+ being 
+terms 
+the second corresponding interaction tensor. Let's write this system of coupled equations in 
+mixed notation: 
+ 
+
+the corresponding source elements of the second equation, 
+
+tµν
+
+tµν
+
+ 
+
+ 
+
+(50a)                                                      
+
+R δµ
+
+ν = χ T µ
+
+ν +
+
+R µ
+ν −
+ 
+
+1
+2
+
+1
+2
+
+⎡
+⎢
+⎢
+⎣
+
+⎡
+⎢
+⎢
+⎣
+
+g
+g
+
+ν
+
+tµ
+
+  
+
+⎤
+⎥
+⎥
+⎦
+
+g
+g
+
+ν
+
+t µ
+
+  
+
+⎤
+⎥
+⎥
+⎦
+
+R µ
+(50b)                                                      
+ν −
+ 
+
+R δµ
+
+ν = − χ T µ
+
+ν +
+
+ 
+General relativity produces only a limited number of exact solutions. We'll follow the same 
+logic.   
+ 
+ 
+10 – Construction of a time-dependent, homogeneous and isotropic solution. 
+ 
+Given the symmetry assumptions, the metrics then have the FLRW form. The variable x° is the 
+common chronological coordinate (time marker).   
+ 
+
+(51a)                                
+
+gµν = dx°2 − a 2
+ 
+
+du2
+1− ku2 + u2dθ2 + u2 sin2 θdϕ2
+
+⎡
+⎢
+⎣
+
+ 
+
+⎤
+⎥
+⎦
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+gµν = dx°2 − a 2
+(51b)                                  
+ 
+
+ 
+The determinants of the two metrics are : 
+ 
+(52)                                           
+ 
+
+ g = − a6 sin2 θ
+
+du2
+1− ku2 + u2dθ2 + u2 sin2 θdϕ2
+
+⎡
+⎢
+⎣
+
+ 
+
+⎤
+⎥
+⎦
+
+g = − a 6 sin2 θ
+
+  
+
+ 
+
+18 
+
+ ρc 2a 3 + ρc 2a 3 = E = Cst
+
+As  shown  in  reference  [7]  the  treatment  of  the  two  equations  leads  to  the  compatibility 
+relation : 
+(53)                                                           
+ 
+This translates into conservation of energy, extended to both populations. The exact solution, 
+referring to two dust universes, corresponds to : 
+ 
+(54)                                                                  
+ 
+and :  
+
+ k = k = −1
+
+  
+
+  
+
+ 
+
+(55a)                                                
+ 
+ 
+
+a 2 d2a
+ 
+
+dx°2 = −
+
+4πG
+c2 E
+
+  
+
+a 2 d2a
+ 
+
+4πG
+c2 E
+
+ 
+
+dx°2 = +
+
+(55b)                                                 
+ 
+A theoretical model is of no interest if it cannot be compared with observational data. The 
+evolution of the positive species will correspond to an acceleration if the energy E of the 
+system is negative. This provides a physical interpretation of the acceleration of the cosmic 
+expansion  ([16],  [17]),  which  then  follows  from  the  fact  that  the  energy  content  is 
+predominantly negative. Numerical data have been successfully compared with observational 
+data [18]. The corresponding curve is shown below. 
+
+ 
+
+19 
+
+ 
+
+ 
+
+ 
+
+Fig.8 : Comparison of observed and theoretical magnitudes as a function of z. 
+
+To complete the model, we now need to provide exact stationary solutions. We'll restrict 
+ourselves to SO(3) symmetry. 
+ 
+ 
+11 – Lois d’interaction et conséquences au plan des observations.  
+ 
+From the metrics we note and we know how to construct covariant derivatives that we note: 
+ 
+(56)                                                                  
+ 
+By construction we have :  
+
+ ∂ ν
+
+∂ ν
+
+et
+
+  
+
+∂ ν R µν −
+(57)                                       
+ 
+
+⎛
+⎝⎜
+
+1
+2
+
+R gµν
+
+⎞
+⎠⎟ = ∂ ν R µν −
+
+⎛
+⎝⎜
+
+1
+2
+
+R gµν
+
+⎞
+⎠⎟ = 0
+
+ 
+
+ 
+The corresponding covariant derivatives of the two second members must therefore also be 
+zero, which corresponds to the Bianchi conditions, implying : 
+ 
+(58)                                                                 
+ 
+
+ ∂ νTµν = 0
+
+ 
+
+ 
+
+20 
+
+(59)                                                           
+
+tµν
+
+= 0
+
+ 
+
+ 
+(60)                                                                 
+ 
+
+ ∂ νTµν = 0
+
+ 
+
+(61)                                                           
+∂ ν
+ 
+
+tµν
+
+= 0
+
+ 
+
+⎡
+⎢
+⎢
+⎣
+
+∂ ν
+ 
+
+⎡
+⎢
+⎢
+⎣
+
+g
+g
+
+g
+g
+
+⎤
+⎥
+⎥
+⎦
+
+⎤
+⎥
+⎥
+⎦
+
+ 
+In  stationary  conditions,  the  square  roots  of  the  ratios  of  the  determinants  behave  like 
+constants, reflecting an “apparent mass effect”. Conditions (59) and (61) can therefore be 
+replaced by :  
+(62)                                                                     
+ 
+(63)                                                                      
+ 
+Let's write the system of equations in mixed notation, replacing the square roots, which have 
+become constant, by the positive constants 
+ 
+
+ ∂ ν tµν = 0
+
+ ∂ ν tµν = 0
+
+and 
+
+ b2
+
+ b2
+
+:  
+
+ 
+
+ 
+
+ 
+
+1
+2
+
+⎤⎦
+
+⎡⎣
+
+ν
+
+  
+
+⎡⎣
+
+1
+2
+
+R δµ
+
+R δµ
+
+R µ
+ν −
+ 
+
+ν + b2 tµ
+
+ν = χ T µ
+
+ν + b2 t µ
+
+ν = − χ T µ
+
+                                                   
+
+(64a)    
+ 
+R µ
+(64b)                                                      
+ν −
+ 
+ 
+Using the Newtonian approximation, in both populations the non-zero tensor terms reduce 
+to: 
+ 
+(65)         
+ 
+In our system of coupled field equations, the presence of a minus sign in front of the second 
+member of the second equation gives the following interaction laws:  
+ 
+
+0 = ρc2 > 0
+ T 0
+
+0 = ρ c 2 < 0
+T 0
+
+t 0
+0 = ρ c 2 < 0
+
+t 0
+0 = ρc2 > 0
+
+⎤⎦
+
+  
+
+  
+
+ν
+
+- Masses of the same sign attract each other 
+
+- Masses of opposite signs repel each other. 
+
+ 
+
+ 
+We have thus eliminated the runaway effect.  
+ 
+The first conclusion to be drawn is that where one of the two types of mass is present, the 
+other is absent, as immediately confirmed by simulations [19]. This is the case in the vicinity 
+of the Sun, and under these conditions the first equation is identified with Einstein's 1915 
+equation. The model is therefore in line with all the classical local observational data of general 
+relativity:  Mercury's  perihelion  advance,  deflection  of  light  rays  by  the  Sun.    The  model 
+
+ 
+
+21 
+
+therefore does not invalidate that of general relativity, but presents itself as its extension, 
+made essential to integrate the new observational data, which can no longer be managed by 
+introducing the hypothetical components of dark matter and dark energy.   
+ 
+We have seen, in our construction of the unsteady solution, that negative energy dominates. 
+The model is thus profoundly asymmetrical. Negative mass content will now replace the dark 
+matter + dark energy pair. By the way, going back to the original idea, inspired by the work of 
+Andrei Sakharov, this allows us to attribute a well-defined identity to these components. They 
+are invisible, insofar as negative masses emit photons of negative energy that our optical 
+instruments cannot capture. They are therefore simply copies of our own antimatter, assigned 
+a negative mass. We then have a new distribution of contents:  
+ 
+
+ 
+
+ 
+
+ 
+
+Fig.9 : Comparative contents of the LCDM and Janusus models :  
+
+ 
+At the moment of decoupling, when the gravitational instability can play its role (we must then 
+speak of joint gravitational instabilities), the characteristic Jeans time is shorter for negative 
+masses: 
+ 
+
+(66)                                               
+ 
+
+tJ =
+
+1
+
+4πG ρ
+
+<< tJ =
+
+1
+
+4πG ρ
+
+  
+
+ 
+The  result  will  be  a  regular  distribution  of  negative-mass  conglomerates  of  spheroidal 
+antihydrogen and negative-mass antihelium. These will behave like immense negative-mass 
+protostars. As soon as their temperature causes hydrogen reionization, their contraction will 
+cease.  These  formations  will  then  radiate  in  the  red  and  infrared  wavelengths.  But  their 
+cooling time is then large compared to the age of the universe, which means that these objects 
+will no longer evolve. The history of this negative world is totally different from our own. It 
+will not give rise to stars, galaxies or planets. It will contain no atoms heavier than negative-
+mass antihelium. And there will be no life. And, as we'll see later: these negative formations 
+are deliberately situated within the Newtonian approximation. 
+ 
+But there's another very important point. When these spheroidal conglomerates form, they 
+confine the positive mass to the residual space, giving it a lacunar structure, comparable to 
+joined  soap  bubbles.  The  negative  mass  is  thus  distributed  in  the  form  of  thin  plates, 
+
+22 
+
+ 
+
+sandwiched between two negative conglomerates that exert a strong back pressure on it. The 
+positive  mass  is  thus  violently  compressed  and  heated.  However,  due  to  its  plate-like 
+arrangement, it can cool down very quickly through the emission of radiation..   
+ 
+ 
+
+Fig.10 : Early rapid star and galaxy formation.  
+
+ 
+The result is a pattern of first-generation star and galaxy formation totally different from the 
+standard  one.  This  configuration  had  been  the  subject  of  simulations  [19]  since  the  first, 
+heuristic, approach to the model, and the fact that objects all form within the first hundred 
+million years was one of its predictions, largely confirmed by JWST data.  
+ 
+The  lacunar  structure,  advocated  as  early  as  1995,  predicted  the  existence  of  large  voids, 
+which the discoveries of the dipole repeller and other similar large voids have also confirmed.  
+ 
+Once this lacunar structure has been formed, matter tends to concentrate along the segments 
+common to three gaps, forming filaments.  The nodes of this distribution will only develop 
+into galaxy clusters.  
+ 
+ 
+
+Fig.11 : Structure of positive mass in contiguous bubbles 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+23 
+
+12 – The problem of the model's mathematical consistency. 
+ 
+This is ensured in an isotropic, homogeneous and unsteady situation, the required condition 
+being the generalized conservation of energy expressed by equation (53). We now turn to the 
+case of stationary solutions, limiting ourselves to those that satisfy SO(3) symmetry. Bianchi 
+conditions must then be satisfied, i.e. relations (58), (60), (62),(63).  
+ 
+First,  we'll  show  the  existence  of  asymptotic  consistency  in  Newtonian  approximation 
+situations. Let's recall its various aspects. 
+ 
+- Velocities must be negligible compared to the speed of light. This is the case for velocities 
+ < v >
+ of thermal agitation in both media, which are involved in the definition of 
+pressures and in both media. After decoupling : 
+ 
+
+ < v >
+
+ and 
+
+ε p = ερ< v2 >
+
+ε p = ε ρ< v2 >
+ 
+
+3
+
+(66)                                       
+ 
+- Curvature effects must be neglected. We translate this by saying that the values of the radial 
+coordinate  must  be  large  in  front  of  the  length  characterizing  curvature  effects,  i.e.  the 
+Schwarzschild radius 
+ 
+ 
+
+                                       
+
+3
+
+- 
+
+ < v >
+
+Les vitesses doivent être négligeables devant la vitesse de la lumière. C’est le 
+ d’agitation thermique dans les deux milieux, 
+cas des  vitesses 
+qui interviennent ans la définition des pressions 
+ dans les deux milieux. 
+Après le découplage : 
+ 
+
+ < v >
+
+ p
+ et 
+
+ et 
+
+ p
+
+(66)                            
+ 
+
+ε p = ε ρ< v2 >
+ 
+
+3
+
+ε p = ερ< v2 >
+
+  
+
+3
+
+-  Curvature  effects  must  be  negligible.  We  translate  this  by  saying  that  the 
+values  of  the  radial  coordinate  must  be  large  in  front  of  the  length 
+characterizing the curvature effects, i.e. the Schwarzschild radius. 
+
+- 
+
+ 
+ 
+
+12a – Newtonian approximation, field created by a positive mass 
+ 
+We introduce the Schwarzschild radius, e being a small parameter:  
+
+ M
+
+  
+
+2G M
+
+ 
+
+c2
+
+ε Rs = ε
+ 
+
+(67)                                                              
+ 
+SO(3) symmetry imposes the shapes of the two metrics:  
+ 
+(68a)                                   
+ 
+(68b)                                   
+
+ ds2 = eνdx°2 − eλdr2 − r2dθ2 − r2 sin2 θdϕ2
+
+  
+
+ ds 2 = eνdx°2 − eλdr2 − r2dθ2 − r2 sin2 θdϕ2
+
+  
+
+ 
+
+ 
+
+24 
+
+ 
+The construction of a stationary solution then requires to calculate the functions :  
+ 
+
+    
+
+ ν(r), λ(r),ν(r),λ(r)
+
+ 
+
+ 
+To locate this solution, we need to consider the shapes of the field source tensors: 
+ 
+T µ
+ν , t µ
+(69)                                                                 
+ 
+ 
+Let's start by considering a situation where only positive mass is present. The tensors 
+T µ
+ 
+ 
+
+ are then zero. The form of the tensor 
+
+ν , T µ
+
+ν , t µ
+
+T µ
+ 
+
+ is : 
+
+ 
+
+ν
+
+ν
+
+ν
+
+ and 
+
+ν
+
+t µ
+ 
+
+(70)                                                    
+
+Tµ
+ν =
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+ρc2
+0
+0
+0
+
+0
+− ε p
+0
+0
+
+0
+0
+− ε p
+0
+
+0
+0
+0
+− ε p
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+  
+
+ 
+
+ 
+As we're in the Newtonian approximation, 
+ is very small. With the introduction of the metric 
+(68a) and the tensor (70) in the first field equation we are led to introduce the function m(r) 
+such that : 
+
+ε
+
+(71)                                                                   
+ 
+The classic calculation then leads to the relationship:  
+ 
+
+e−λ = 1−
+ 
+
+r
+
+2m(r)
+
+  
+
+m(r) = 2 4πG r3ρ
+(72)                                             
+ 
+
+3c2
+
+≤
+
+2G M
+
+c2
+
+= Rs
+
+  
+
+ 
+We then obtain the TOV equation (Tolman-Oppenheimer-Volkoff). Relation (72) places the 
+small quantity in front of any quantity that will be neglected in the Newtonian approximation.:  
+ 
+
+(69)                                  
+
+= −
+
+dp
+dr
+ 
+
+( ρ + ε p / c2 )( m + 4πεG pr3 / c4 )c2
+
+r( r − 2εG m / c2 )
+
+  
+
+ 
+When e tends to zero (or c tends to infinity) we get : 
+ 
+
+dp
+(70)                                                 
+dr
+ 
+
+= − ρ mc2
+r2
+
+= −
+
+Gρ
+r2
+
+4 πr3ρ
+
+ 
+
+3
+
+The  quantity 
+
+  represents  the  amount  of  matter 
+
+  contained  inside  a  sphere  of 
+
+ µ(r)
+
+radius  r.  We  know  that  the  force  of  gravity  exerted  inside  a  mass  of  constant  density  is 
+
+4 πr3ρ
+
+3
+
+ 
+
+ 
+
+25 
+
+Gρµ(r)
+
+r2
+
+−
+ 
+
+equivalent to that exerted by the mass located at the center of the sphere, and that the mass 
+
+located outside this sphere gives a force of zero. So the quantity 
+
+ is the force of 
+
+gravity, per unit volume, acting on the matter contained in an elementary volume around a 
+point at distance r from the center. Thus the relation (70), which follows from the Newtonian 
+approximation, expresses that the force of gravity balances the force of pressure. This is the 
+classic Euler relationship.  
+ 
+To ensure the mathematical consistency of the system of two field equations, we therefore 
+need to consider a form of the tensor 
+ that gives back this same Euler relation when the 
+Newtonian approximation is also applied to this solution. This is guaranteed with the form : 
+ 
+
+tµ
+ 
+
+ν
+
+(71)                                            
+
+tµ
+ν =
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+ρc2
+0
+0
+0
+
+0
++ ε p
+0
+0
+
+0
+0
++ ε p
+0
+
+0
+0
+0
++ ε p
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+ 
+
+ 
+
+ 
+The calculation leads to the TOV equation equivalent of the second equation:  
+ 
+
+dp
+(72)                                         
+dr
+ 
+
+= −
+
+( ρ − ε p / c2 )( m − 4πεG pr3 / c4 )c2
+
+ 
+
+r( r + 2εG m / c2 )
+
+ 
+This is not identical to equation (69) but, like it, identifies with the Euler equation when 
+tending towards zero.  
+
+ε
+
+ 
+
+ 
+-  We  deduce  that  mathematical  consistency  is  asymptotically  assured  when  the 
+conditions satisfy the Newtonian approximation. 
+
+ 
+It is then possible to construct the two metric solutions describing the geometry inside the 
+sphere of radius 
+ 
+
+ containing matter of constant density 
+
+ ro
+
+ρ
+
+. 
+
+Posing :                          
+
+ˆR =
+ 
+
+3c2
+8πG ρ
+
+ 
+I have used a lower-case letter 
+Newtonian approximation 
+the interior metric I have used a capital letter 
+metric corresponds to the classical solution : 
+ 
+
+ rs
+ rs << ro
+
+rs =
+
+2G M
+
+c2
+
+( Schwarzschild's lenght )
+
+  
+
+ for the Schwarzschild radius to illustrate the fact that in the 
+ . Conversely, for the characteristic radius associated with 
+.  The first interior 
+
+, because then 
+
+ ˆR
+
+ˆR >> ro
+ 
+
+26 
+
+3
+2
+
+⎡
+⎢
+⎢
+⎣
+
+1 −
+
+2
+
+ro
+ˆR 2 −
+
+1
+2
+
+1 −
+
+r 2
+ˆR 2
+
+2
+
+⎤
+⎥
+⎥
+⎦
+
+3
+2
+
+1 +
+
+2
+
+ro
+ˆR 2 −
+
+1
+2
+
+1 +
+
+r 2
+ˆR 2
+
+2
+
+⎤
+⎥
+⎥
+⎦
+
+(73a)      
+
+ 
+
+ds2 =
+
+ 
+
+The second is :  
+⎡
+⎢
+⎢
+⎣
+
+(73b) 
+
+ds 2 =
+
+ 
+
+ 
+
+dr2
+r 2
+ˆR 2
+
+1−
+
+dr2
+r 2
+ˆR 2
+
+1+
+
+ 
+These metrics connect with external metric solutions:  
+ 
+
+dx°2 −
+
+− r 2dθ2 − r 2sin2θdϕ2
+
+ 
+
+dx°2 −
+
+− r 2dθ2 − r 2sin2θdϕ2
+
+ 
+
+(74a)                                    
+
+ds2 = 1−
+
+− r2dθ2 − r2 sin2 θdϕ2
+
+ 
+
+ 
+ds 2 = 1+
+(74b)                                    
+
+− r2dθ2 − r2 sin2 θdϕ2
+
+ 
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+rs
+r
+
+⎞
+⎠⎟ c2 dt2 −
+
+rs
+r
+
+⎞
+⎠⎟ c2 dt2 −
+
+1−
+
+dr2
+rs
+r
+dr2
+rs
+r
+
+1+
+
+ 
+
+Let's now consider the case, still in the Newtonian approximation, where the geometry is 
+determined by the presence of negative mass, corresponding to the dipole repeller.. 
+ 
+ 
+12b – Newtonian approximation, field created by negative mass 
+ 
+We'll follow a similar procedure in every respect. The forms of the two metrics will remain 
+(68a) and (68b), which simply reflect the assumption of SO(3) symmetry. The field equations 
+become:  
+
+ M
+
+  
+
+1
+2
+
+ν
+
+  
+
+R δµ
+
+R µ
+ν −
+ 
+
+ν = χ b2 tµ
+
+                                                   
+
+(75a)    
+ 
+R µ
+(75b)                                                      
+ν −
+ 
+ 
+T µ
+Our task is to shape the tensors 
+ in such a way that the geodesics derived from the 
+ 
+inner and outer metrics reflect repulsion, and that the compatibility conditions of the two 
+equations  are  satisfied  when  the  Newtonian  approximation  is  applied.  This  leads  to  the 
+following ad hoc choices: 
+ 
+
+ν = − χT µ
+
+R δµ
+
+ and 
+
+tµ
+ 
+
+1
+2
+
+  
+
+ν
+
+ν
+
+ν
+
+(76)                                            
+
+T µ
+ν =
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+ρc 2
+0
+0
+0
+
+0
++ ε p
+0
+0
+
+0
+0
++ ε p
+0
+
+0
+0
+0
++ ε p
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+27 
+
+(77)                                            
+
+t µ
+ν =
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+ρc 2
+0
+0
+0
+
+0
+− ε p
+0
+0
+
+0
+0
+− ε p
+0
+
+0
+0
+0
+− ε p
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+ 
+
+ 
+
+ 
+The expressions are similar, but the signs of the pressure terms are reversed. This is due to 
+the  desire  to  find,  in  Newtonian  approximation,  the  equivalent  of  Euler's  equation  in  the 
+object of negative mass, meaning that within it, pressure forms balance the force of gravity. 
+For an observer made up of the same type of matter, this negative matter would behave in 
+exactly the same way as our own. The change in sign is due to the presence of a minus sign in 
+the second member of the second field equation.  
+ 
+Under these conditions, the second equation generates its own “TOV” equation: 
+ 
+
+(78)                                
+
+= −
+
+dp
+dr
+ 
+
+( ρ + ε p / c 2 )( m + 4πεG pr3 / c 4 ) c 2
+
+r( r − 2εG m / c 2 )
+
+ 
+With the first equation, we obtain:  
+ 
+
+dp
+(79)                                
+dr
+ 
+
+= −
+
+( ρ − ε p / c 2 )( m − 4πεG pr3 / c 4 ) c 2
+
+r( r + 2εG m / c 2 )
+
+ 
+Once again, by tending to zero or, what amounts to the same thing, by tending 
+these two equations can be identified with the Euler equation.  
+ 
+
+The asymptotic consistency of the Newtonian approximation is clearly restored. 
+
+ c
+
+ to infinity, 
+
+ 
+
+ 
+
+rs =
+
+2G M
+
+c 2
+
+( Schwarzschild's lenght )
+
+  
+
+ 
+Let’s write      : 
+
+(80)                     
+
+ˆR =
+ 
+
+3c 2
+8πG ρ
+
+ 
+The inner metric of the positive sector becomes:  
+ 
+
+3
+2
+
+⎡
+⎢
+⎢
+⎣
+
+1 +
+
+2
+
+ro
+ˆR 2 −
+
+1
+2
+
+1 +
+
+r 2
+ˆR 2
+
+2
+
+⎤
+⎥
+⎥
+⎦
+
+That of negative sector  :  
+ 
+
+ (81b) 
+
+ 
+
+ds 2 =
+
+3
+2
+
+⎡
+⎢
+⎢
+⎣
+
+1 −
+
+2
+
+ro
+ˆR 2 −
+
+1
+2
+
+1 −
+
+r 2
+ˆR 2
+
+2
+
+⎤
+⎥
+⎥
+⎦
+
+ 
+
+ 
+
+dr2
+r 2
+ˆR 2
+
+1+
+
+dr2
+r 2
+ˆR 2
+
+1−
+
+(81a)      
+
+ 
+
+ds2 =
+
+dx°2 −
+
+− r 2dθ2 − r 2sin2θdϕ2
+
+ 
+
+dx°2 −
+
+− r 2dθ2 − r 2sin2θdϕ2
+
+ 
+
+ 
+
+28 
+
+These metrics connect with external metric solutions:  
+ 
+
+(82a)                                    
+
+ds2 = 1+
+
+− r2dθ2 − r2 sin2 θdϕ2
+
+ 
+
+ 
+(82b)                                     
+
+− r2dθ2 − r2 sin2 θdϕ2
+
+ 
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+rs
+r
+
+⎞
+⎠⎟ dx°2 −
+
+1+
+
+dr2
+rs
+r
+dr2
+rs
+r
+
+1−
+
+ds 2 = 1−
+
+rs
+r
+
+⎞
+⎠⎟ dx°2 −
+
+ 
+
+ 
+13 – Dipole repeller prediction. 
+ 
+The  Janus  model  is  essentially  falsifiable  in  Popper's  sense.  It  predicted  a  large-scale  twin 
+structure with large voids. This has been confirmed. It predicted a very early birth of first-
+generation  stars  and  galaxies.  Also  confirmed.  A  new  prediction  this  time  concerns  the 
+magnitude of sources located in the background of the large void. According to the model, the 
+magnitude of the light emitted by these distant sources will be attenuated by negative lensing. 
+This is a novel aspect, since it has been assumed that the two entities, positive and negative, 
+interact only through antigravitation. Photons from these distant sources can then freely pass 
+through  the  negative-mass  conglomerates.  This  means  that  both  external  and  internal 
+geodesics must be used. The deflection effect of light rays will be greatest when they graze 
+the surface of the object, with radius . This effect weakens as you move deeper into the object, 
+becoming zero when the photons pass through its center.. 
+ 
+ 
+
+ 
+
+ 
+
+Fig.12 – Photon paths through the negative-mass object. 
+
+ 
+Eventually, we'll be able to map the magnitudes of objects in the background of the dipole 
+repeller. Schematically, their luminosity will be attenuated in a ring-shaped formation.:  
+ 
+
+ 
+
+29 
+
+ 
+
+ 
+
+ ro
+
+Fg.13 – Attenuation of the magnitude of objects in the background of the dipole repeller 
+
+  of this formation. 
+
+ 
+ 
+This measurement will immediately give us the value of the radius
+ 
+ 
+14- ABeyond the Newtonian approximation..  
+ 
+These objects are absent in the negative world. In the positive world, objects that deviate from 
+the  Newtonian  approximation  are  neutron  stars  and  hypermassive  objects  located  at  the 
+center of galaxies, which early images show to be the seat of a strong gravitational redshift 
+effect, darkening their central part. These objects are a priori manageable using the classic 
+pair of outer and inner metrics, taking rotation into account. It should be remembered that 
+we are under no obligation to provide the form of the source tensor of the other sector, in 
+this  case  an  interaction  tensor,  whose  form  would  be  precisely  imposed  by  the  Bianchi 
+condition. It's conceivable that one day someone will provide the exact form of this tensor.  
+ 
+
+But even in the absence of such an object, there is no a priori inconsistency. 
+
+ 
+ 
+15 – Conclusion. 
+ 
+The genesis of the Janus model spanned several decades. The starting point in 1965 was the 
+attempt by the Russian Andrei Sakharov to provide the beginnings of an explanation for the 
+absence of observations of primordial antimatter, which remains a major flaw in the Standard 
+Model,  which  provides  no  explanation  for  such  loss  of  half  the  universe's  content.    He 
+therefore suggested a universe structure with two sectors, the second being T-symmetrical to 
+our  own.  A  few  years  later,  in  1970,  as  an  application  of  symplectic  geometry,  the 
+mathematician Jean-Marie Souriau showed that this inversion of the time coordinate, this T-
+symmetry,  is  synonymous  with  the  inversion  of  energy  and  mass.    Taking  this  desire  to 
+reconstitute  global  symmetry  a  step  further,  Sakharov  envisaged  what  he  called  a  twin 
+universe  as  CPT-symmetrical  with  our  own.  In  this  view,  the  invisible  components  of  the 
+universe boil down to negative-mass antimatter. In 1994, we suggested that this universe 
+structure corresponds to the two folds cover of a projective P4 by a compact universe with 
+the topology of an S4 sphere. The two singularities of this spherical universe, the Big Bang and 
+
+30 
+
+the  Big  Crunch,  then  coincide.  By  substituting  a  tubular  structure,  these  singularities 
+disappears. This configuration combines two PT-symmetrical sheets. These adjacent sectors 
+are assumed to interact exclusively through gravity. The interaction between positive masses 
+and  negative  masses  in  the  other  sector  must  therefore  be  considered.  However,  the 
+introduction of negative masses is impossible within the framework of general relativity, as it 
+would  lead  to  interaction  laws  that  are  incompatible  with  physics.  A  bimetric  model  is 
+therefore envisaged. A system of coupled field equations is then constructed from an action. 
+Its form eliminates the unmanageable runaway effect. The model's interaction laws are such 
+that masses of the same sign attract each other according to Newton's law, while masses of 
+opposite signs repel each other according to anti-Newton's law. As these masses are mutually 
+exclusive, the negative mass can be neglected in the vicinity of the Sun, and the first field 
+equation is then identified with Einstein's equation. In this way, the model is consistent with 
+local relativistic observations, such as the advance of Mercury's perihelion and the deflection 
+of light rays by the Sun. The model is therefore an extension of the general relativity model. 
+An exact, unsteady solution is constructed, revealing a generalized energy conservation law, 
+extended to both sectors. Adaptation of the model to observations, revealing an acceleration 
+of the expansion, then imposes a total dissymmetry between the two entities in presence. The 
+vast majority of negative mass replaces the hypothetical components of dark matter and dark 
+energy.  The  result  is  a  distribution  of  4%  visible  matter  and  96%  negative  mass,  invisible 
+because it emits photons of negative energy that escape our observation instruments. This 
+dissymmetry means that, after decoupling, the negative masses form a regular network of 
+spheroidal conglomerates, while the positive mass, confined to the remaining space, adopts 
+a patchy distribution. The model accounts for the existence of large voids, the dipole repeller 
+having been The model accounts for the existence of large voids, the dipole repeller having 
+been  the  first  of  these.  At  the  center  of  these  large  voids  are  invisible  spheroidal 
+conglomerates, behaving like gigantic protostars, with a cooling time greater than the age of 
+the universe. These objects, which emit negative-energy photons corresponding to light in the 
+red and infrared regions, do not evolve, nor do they give rise to stars, galaxies or atoms heavier 
+than helium. Life is therefore absent from this negative sector, which is made up of a mixture 
+of negative-mass antihydrogen and antihelium. The model also accounts for the very early 
+birth  of  first-generation  stars  and  galaxies,  as  recently  demonstrated  by  the  James  Webb 
+telescope.  We  then  examine  the  question  of  the  model's  mathematical  consistency,  i.e. 
+whether  the  Bianchi  conditions  are  satisfied.  We  show  that  these  can  be  asymptotically 
+satisfied under conditions corresponding to the Newtonian approximation. We then settle the 
+question of objects that don't fit into this approximation, essentially located on the positive 
+side, by simply pointing out that we are under no obligation to provide the exact form of the 
+interaction tensor, which is then determined by the zero divergence condition, and that the 
+lack of definition of this tensor in no way invalidates the consistency of a non-linear solution.    
+ 
+References :  
+
+[1]	A.D.Sakharov,	ZhETF	Pis’ma	5	:	32	;	JETP	Lett.	5	:	24	(	1967	)	
+	[2]	A.D.Sakharov	,	ZhETF	Pis’ma	76	:	1172	(1979)	;	JETP	49	:	594	(1979)	
+	[3]	A.D.Sakharov	, (1980). Cosmological Model of the Universe with a Time Vector Inversion. 
+ZhETF (Tr. JETP 52, 349-351) (79): 689–693	
+
+ 
+
+ 
+
+ 
+
+ 
+
+31 
+
+[4] J.M.Souriau : Structure des systèmes dynamiques.  Dunod Ed. France, 1970 and Structure 
+of Dynamical Systems. Boston, Birkhaüser Ed. 1997	
+ [5]	G.	de	Saxcé	,	CM.Marle	:	Presentation	of	Jean-Marie	Souriau’s	book	«	Structure	des	
+Systèmes	Dynamiques	»	(Structure	of	Dynamical	Systems),	arXiv	:	2306.03106	[5	
+maths.DS]	3	june	2023.		
+	[6]	J.M.Souriau	:	Géométrie	en	Relativité	;	Ed.	Hermann,	1964	(en	français).	Réimprimé	
+par	Ed.	J.	Gabay,	Paris	
+	
+
+[7] J.P.Petit, G.D’Agostini : Negative Mass hypothesis in cosmology and the nature of dark 
+energy. Astrophysics And Space Science,. A 29, 145-182 (2014) 
+ 
+[8]  G.deSaxcé :  « Which  symmetry  group  for  elementary  particles  with  an  electric  charge 
+today and in the past ? » arXiv : 2403.14846V1 [math-ph] 21 mars 2024 
+ 
+[9] R.Kerner : Generalization of the Kaluza-Klein theory for an arbitrary non-abelian gauge 
+group. Ann. Insta. Heuri Poincaré, 34(4), 437-463 (1981)  
+ 
+[10] J. P. Petit, Nuovo Cimento B. The missing mass problem.  109, 697 (1994). 
+ 
+[11] J.P.Petit : « Topo the World », 2006. 
+ www.savoir-sans-frontieres.com/JPP/telechargeables/English/Topo_the-world_eng.pdf 
+ 
+[12] W.Boy : Über die Curvatura integra und die Topologie geschlossener Flächen. Math. Ann. 
+57(2) : 151-184 , 1903, doi : 1007/BF1444342 
+ 
+[13] H. Bondi: Negative mass in General Relativity : Negative mass in General Relativity. Rev. 
+of Mod. Phys., Vol 29, N°3, july1957 
+ 
+[14] The Dipole Repeller : Y Hoffman, D.Pomarède, R.B.Tully, H.Courtois. Nature 
+
+Astronomy 2017 1 , 0036   
+
+ 
+[15] L.Ferreira and Al.  Panic !First Rest-Frame Optical Observations of Galaxy Structure at z 
+> 3 with JWST in the SMACS 0723 Field. Apj-Lett. 938 :L2(9pp), 2022 october 10 
+ 
+[16] A. G. Riess et al., The Astrophysical Journal 116, 1009 (1998). 
+ 
+[17] S. Perlmutter et al., The Astrophysical Journal 517, 565 (1998). 
+ 
+
+[18] G.	DAgostini	and	J.P.Petit	:	Constraints	on	Janus	Cosmological	model	from	recent	
+observations	of	supernovae	type	Ia,	Astrophysics	and	Space	Science,	(2018),	
+363:139.https://doi.org/10.1007/s10509-018-3365-3	
+ [19]	J.P.PETIT,	Twin	Universe	Cosmology,	Astrophys.	and	Sp.	Science,	226,	273-307,	1995	
+
+ 
+
+

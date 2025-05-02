@@ -1,0 +1,865 @@
+1
+2
+0
+2
+
+ 
+r
+a
+
+ 
+
+M
+3
+2
+
+ 
+ 
+]
+c
+q
+-
+r
+g
+[
+ 
+ 
+
+1
+v
+5
+4
+8
+2
+1
+
+.
+
+3
+0
+1
+2
+:
+v
+i
+X
+r
+a
+
+Cancellation of the central singularity of the Schwarzschild
+
+solution with natural mass inversion process.
+Published inModern Physics Letters A, Vol. 30, No. 9 (2015) 1550051
+
+J.P. Petit∗
+
+G. D’Agostini†
+
+March 25, 2021
+
+Abstract
+
+We reconsider the classical Schwarzschild solution in the context of a Janus cosmological
+model. We show that the central singularity can be eliminated through a simple coordinate
+change and that the subsequent transit from one fold to the other is accompanied by mass
+inversion. In such scenario matter swallowed by black holes could be ejected as invisible
+negative mass and dispersed in space.
+
+Keywords: Black hole; space bridge; Schwarzschild metric; Kerr metric; central singularity; Janus
+
+cosmological model; Gaussian coordinates; mass inversion process.
+
+PACS Nos.: 98.80.Bp, 98.80.Qc
+
+1
+
+Introduction
+
+When Schwarzschild published his solution1 of Einstein equation, in 1916, the basic hypothesis
+was just time-independence and spherical symmetry. Nobody suspected that there was an addi-
+tional one: null-homotopy. The consequence of this last one was that, in the proposed solution,
+r was a radial coordinate:
+
+(cid:18)
+
+(cid:19)
+
+ds2 =
+
+1 − Rs
+r
+
+c2 dt2 − dr2
+
+(cid:0)1 − Rs
+
+r
+
+(cid:1) − r2(cid:0)dθ2 + sin2 θ dϕ2(cid:1) .
+
+(1)
+
+A ﬁrst problem at r = Rs, considered as coordinate singularity, was eliminated by various
+
+coordinates changes. See Fig. 1.
+
+But r = 0 was considered as a true singularity, a point of space where the geodesics end.
+The goal of this paper is to show, through a very simple coordinate change, that this so-called
+“central singularity” is due to a wrong choice of local topology.
+
+We must introduce the concept of representation space which is the space in which we build
+a mental image of an object. As an example we believe we live in R3 and that space and time
+are separated. This old belief is useful and enough for today’s life. But if the speed of light
+was much smaller we should shift to Minkowski’s spacetime. Similarly, when we send a probe
+to Jupiter or predict an eclipse we neglect space curvature. If this last was not neglectible, we
+should use Einstein’s equation instead of Newton’s. If we intend to describe an object through
+a line element it is easy to show, through 2D examples that inadequate coordinate choice may
+induce wrong image of a geometric object. For example, consider the following metric:
+
+ds2 =
+
++ r2 dϕ,
+
+dr2
+1 − r2
+
+R2
+s
+
+(2)
+
+∗CNRS, BP 55, 84122 Pertuis, France, e-mail: jppetit1937@yahoo.fr
+†dagostini.gilles@laposte.net
+
+1
+
+Coordinates
+
+Line element
+
+Eddington-Finkelstein
+
+(ingoing)
+
+Eddington-Finkelstein
+
+(outgoing)
+
+Gullstrand-Painlevé
+
+Isotropic
+
+(cid:17)
+(cid:17)
+
+(cid:16)
+(cid:16)
+
+1 − rs
+s
+
+1 − rs
+s
+
+dv2 − 2 dv dr − r2 dΩ2
+
+du2 − 2 du dr − r2 dΩ2
+
+(cid:114) τs
+
+r
+
+1 − rs
+s
+
+(cid:16)
+(cid:0)1 − rs
+(cid:0)1 + τs
+
+dT 2 − 2
+
+(cid:17)
+(cid:1)
+(cid:1)2 dt2 −(cid:16)
+
+4R
+
+4R
+
+1 +
+
+rs
+4R
+
+dT dr − dr2 − r2 dΩ2
+
+(cid:17)4(cid:0)dx2 + dy2 + dz2(cid:1)
+
+regular at horizon,
+extends across
+future horizon
+regular at horizon,
+extends across
+past horizon
+
+regular at horizon
+
+isotropic lightcones
+on constant
+time slices
+
+Fig. 1. Schwarzschild’s geometry. Alternative coordinates.
+
+whose signature (+, +) changes into (−, +) when r > Rs. But, through the simple following
+coordinate change
+
+this object becomes a sphere:
+
+r = Rs sin θ,
+
+(cid:0)dθ2 + sin2 θ dϕ2(cid:1) .
+
+ds2 = R2
+s
+
+Another example. Consider the metric:
+
+ds2 =
+
+−r2 + 2rR + r2
+
+0 − R2 + r2 dϕ2
+
+dr2
+
+R − r0 < r < R + r0,
+
+The signature is (+, +) if
+
+but through the new coordinate change
+
+we get the well-known metric of the torus:
+
+r = R + r0 cos θ,
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+(7)
+
+nates:
+
+(8)
+Now, let us focus on the space part of Schwarzschild’s line element, limited to {r, ϕ} coordi-
+
+ds2 = r0 dθ2 + (R + r0 cos θ) dϕ2.
+
+dΣ2 =
+
+(9)
+For r < Rs, the signature (+, +) is changed into (−, +). Let us make the change of variable:
+(10)
+
+r = Rs (1 + Log ch ρ) ,
+
++ r2 dϕ2
+
+r
+
+dr2
+1 − Rs
+
+which gives:
+
+dΣ2 = R2
+s
+
+th2 ρ dρ2 + (1 + Log ch ρ)2 dϕ2
+
+.
+
+(11)
+
+(cid:21)
+
+(cid:20) (1 + Log ch ρ)
+
+Log ch ρ
+
+2
+
+All singularities disappear, r = Rs corresponds to ρ = 0. In this point the determinant of
+
+the metric
+
+det g = R4
+s
+
+(1 + Log ch ρ)2
+
+Log ch ρ
+
+th2 ρ,
+
+is no longer zero. The metric is well deﬁned for all values of ρ. If we embed the surface in a
+3D-Euclidean space we can deﬁne the meridians, corresponding to
+
+And we immediately get the meridians as∗
+
+dΣ2 =
+
++ dz2
+
+dr2
+1 − Rs
+
+r
+
+(cid:114) r
+
+Rs
+
+z = ±2Rs
+
+− 1,
+
+r2 = Rs +
+
+z2
+4Rs
+
+.
+
+The surface is a space bridge, a “2D diabolo” linking two 2D-Euclidean surfaces.
+
+(12)
+
+(13)
+
+Fig. 2. The 2D diabolo embedded in R3.
+
+The problem of the signature has disappeared. From Lagrange equations we can calculate
+the geodesics in the [ρ, ϕ] coordinate system. If embedded, the surface owns a throat circle whose
+perimeter is 2πRs. We can shape the surface as a twofold F (+) and F (−) cover of a M2 manifold
+with a 1D common circular border, and create induced mapping between adjacent points M (+)
+and M (−).
+
+Figure 4 shows the projection αβγ of a geodesic ABC (see Fig. 2) tangent to the common
+boundary, which ensures the continuity of the geodesics of the fold F (+) with the ones of the fold
+F (−) (dotted lines). Radial line λµν is the image of a geodesic meridian curve LMN of Fig. 2.
+This will be important for the following.
+
+Figure 5 shows how vicinities of adjacent points are linked by enantiomorphy relationship.
+Figures 3–5 correspond to a reduction of our representation space to a 2D Euclidean rep-
+resentation space, through a non-isometric imbedding which artiﬁcially transforms the throat
+into a pleat and couples points through an adjacent and enantiomorphic relationship. “The circle
+owns no center and there is nothing inside”, because we are out of the considered 2D surface,
+the 2D diabolo.
+
+∗Erratum page 11
+
+3
+
+Fig. 3. Twofold cover of a manifold with a circle as common boundary.
+
+Now introduce the 3D metric
+
+Fig. 4. Projection of geodesics.
+
++ r2(cid:0)dθ2 + sin2 θ dϕ2(cid:1) ,
+
+dΣ2 =
+
+dr2
+1 − Rs
+
+r
+
+(14)
+
+(15)
+
+which is Euclidean at inﬁnity. When r < Rs the signature (+ + +) is changed into (− + +).
+Applying (10) we get
+
+(cid:20) (1 + Log ch ρ)
+
+Log ch ρ
+
+th2 ρ dρ2 + (1 + Log ch ρ)2(cid:0)dθ2 + sin2 θ dϕ2(cid:1)(cid:21)
+
+.
+
+ds2 = R2
+s
+
+Its determinant never vanishes. The metric is well deﬁned for all values of ρ and is Euclidean
+at inﬁnite. It is a 3D space bridge linking to 3D Euclidean spaces. Its throat, corresponding to
+ρ = 0, is a S2 sphere.
+
+Unfortunately we do not own a 4D Euclidean representation space to operate an isometric
+imbedding. So that, similarly as in Fig. 3, we will use a non-isometric imbedding in 3D Euclidean
+space. Then the throat is converted into a “pleat” along the projected S2 sphere. Similarly, some
+geodesics, continuous in this 3D hypersurface, seem to turn back on the sphere (see Fig. 6).
+
+To show 3D space orientation we will use a tetrahedron (see Fig. 7). To illustrate the enan-
+tiomorphy relationship we need to project this object through the S2 throat sphere, each vertice
+following a geodesic, as showed in Fig. 8.
+
+4
+
+Fig. 5. When the triangle crosses the common boundary, the orientation is reversed.
+
+Fig. 6. When geodesics of the 3D hypersurface cross the throat sphere they appear tangent to it in this 3D
+non-isometric imbedding in a 3D Euclidean space.
+
+Fig. 7. Oriented tetrahedron.
+
+5
+
+Fig. 8. By crossing the throat sphere, the tetrahedron is inverted.
+
+In the 2D {ρ, ϕ} representation the adjacent points are deﬁned by the relation:
+
+M : (ρ, θ) → M(cid:48) : (−ρ, θ).
+
+In the 3D {ρ, θ, ϕ} representation the adjacent points in 2D and 3D are deﬁned by the
+
+relation:
+
+M : (ρ, θ, ϕ) → M(cid:48) : (−ρ, θ, ϕ).
+
+The association of points M and M(cid:48) goes hand in hand with an enantiomorphic relation
+
+between their corresponding neighborhoods.
+
+Now let us go back to (2) and apply (10). We get
+
+(cid:20) (1 + Log ch ρ)
+
+th2 ρ dρ2 + (1 + Log ch ρ)2(cid:0)dθ2 + sin2 θ dϕ2(cid:1)(cid:21)
+
+ds2 =
+
+Log ch ρ
+
+c2 dt2 − R2
+
+s
+
+Log ch ρ
+
+1 + Log ch ρ
+
+.
+(16)
+When ρ tends to ±∞, Log ch ρ → ρ and th ρ → 1. The metric tends to Lorentz metric. Space
+is extended to (ρ > 0; ρ < 0) domain. The hypersurface becomes a spacetime bridge, linking two
+Lorentz spaces through a throat surface S2. When we calculate the geodesics in the plane θ = π
+in the {t, r, θ, ϕ} representation we ﬁnd the following (Eq. (6.90) in Ref. 8):
+2
+
+dϕ = ± 1
+r2
+
+h2r − 1
+
+r2 + Rs
+f 3
+
+,
+
+dr
+h2 + Rs
+
+(cid:113) c2l2−1
+(cid:12)(cid:12)(cid:12)(cid:12)r=Rs
+(cid:12)(cid:12)(cid:12)(cid:12) dϕ
+
+dr
+
+tg α = Rs
+
+=
+
+h
+
+.
+
+Rscl
+
+where l and h are the classical parameters of the quasi-Keplerian trajectory (Eqs. (6.80) and
+(6.81) in Ref. 8). On the Schwarzschild’s sphere (r = Rs) we get:
+
+In a {t, ρ, θ, ϕ} representation, with θ = π
+
+in two (adjacent) folds F (+) and F (−).
+
+With
+
+2 , we obtain curves ρ = f (ϕ) that will be inscribed
+
+(tg β)ρ→0 =
+
+ρ dϕ
+dρ
+
+=
+
+r dϕ
+dr
+
+ρ
+r
+
+dr
+dρ
+
+=
+
+h
+R2
+s cl
+
+ρ2 → 0.
+
+The throat sphere r = Rs is reduced to a point. But the geodesics of the fold F (+) can be
+prolonged continuously in the adjacent fold F (−). The central singularity disappears. Now let us
+deal with spacetime structures.
+
+Referring to Introduction to General Relativity, Sec. 2.6 of Ref. 8:
+
+6
+
+(17)
+
+(18)
+
+(19)
+
+Fig. 9. Geodesical path in a [ρ, ϕ] representation (plane, θ = π/2).
+
+By letting a family of geodesics play a particular role among the coordi-nates lines
+Gauss introduced a useful coordinate system. Consider a 4D space with hyperbolic
+metric with signature (1,−1,−1,−1). Assume we can imbed a 3D hypersurface Σ3,
+imbedded in the 4D space Σ4. Assume, in some place, we can deﬁne a vector n
+normal to Σ3, which satisﬁes:
+
+n0n0 +(cid:0)n1n1 + n1n1 + n1n1
+
+(cid:1) > 0
+
+which, in the familiar language of special relativity theory, implies that Σ3 is “oriented
+in space” (whereas the vector n, normal to s, is “oriented in time”).
+We introduce in the surface Σ3 three coordinates x∗1, x∗2, x∗3 which serve to charac-
+terise the point P ∗ ∈ Σ3. Through each point P ∗ of the 3D surface Σ3 we draw the
+geodesic which is orthogonal to Σ3 at P ∗. These geodesic will form a non-intersecting
+curves in some neighborhood M of Σ3 such that, through each point P of M there
+will be exactly one of the geodesics constructed. We introduce now, in the entire
+4D domain M, coordinates as follows: Given P , we consider the geodesic passing
+through P and its original point P ∗ ∈ Σ3. We deﬁne the coordinate xi of P in terms
+of the arc length P ∗P of the geodesic and of the coordinate x∗i of P ∗.
+In this manner, the three coordinates x1, x2, x3 remain constant along any geodesic
+perpendicular to Σ3. It follows that, along such a geodesic,
+
+ds2 = (d ˙x)2 ,
+
+g00 = 1.
+
+This is the classical way Gaussian coordinates are deﬁned. This is possible if and only if
+g00 (cid:54)= 0, if the term of the line element related to time-marker is nonzero. Note that, in Fig. 1,
+
+Fig. 10
+
+7
+
+Fig. 11. Building a 3D spacetime.
+
+Fig. 12. In turning the throat circle, the arrow of time is inverted.
+
+through various choices of coordinate systems, in Schwarzschild solution this term g00 (called
+gtt) vanishes on the so-called horizon (r = Rs), or throat surface (ρ = 0). It means that on this
+peculiar portion of the hypersurface, normal vector and space orientation cannot be deﬁned.
+
+Let us build a 3D spacetime on a 2D surface, as the twofold cover of a manifold M2, as shown
+
+in Fig. 11.
+
+As shown in Fig. 12 we will ﬁnd some problem at the common boundary, where it is impossible
+to deﬁne space orientation and arrow of time (identiﬁed to normal vector). But, for adjacent
+regions we have imbricated PT-symmetrical spacetime structures. Such coupling concept, called
+at that time “twin universe theory”, was ﬁrst presented by Sakharov in 196712–15 and later in
+Ref. 11. In addition, this goes with recent works9,10 (Janus Cosmological Model).
+
+We have to deal with 4D spacetime, not 3D spacetime, which is just a didactic image of such
+
+geometric structure.
+
+Back to the expression of the Schwarzschild metric in the new coordinates (16) we see that,
+on the throat surface (ρ = 0), gtt vanishes (as well as in expressions shown in Fig. 1). According
+to Sec. 2.6 of Ref. 8, Gaussian coordinates cannot be deﬁned, which means that on the throat
+surface, time and space cannot be oriented. This ﬁts time and space inversion from fold F (+) to
+fold F (−), so that we must write joint metrics:
+
+ds(+)2 =
+
+Log ch ρ
+
+1 + Log ch ρ
+− R2
+
+s
+
+c2 dt(+)2
+
+(cid:20) (1 + Log ch ρ)
+
+th2 ρ dρ2 + (1 + Log ch ρ)2(cid:0)dθ2 + sin2 θ dϕ2(cid:1)(cid:21)
+
+Log ch ρ
+
+,
+
+(20a)
+
+ds(−)2 =
+
+Log ch ρ
+
+1 + Log ch ρ
+− R2
+
+s
+
+c2 dt(−)2
+
+(cid:20) (1 + Log ch ρ)
+
+th2 ρ dρ2 + (1 + Log ch ρ)2(cid:0)dθ2 + sin2 θ dϕ2(cid:1)(cid:21)
+
+Log ch ρ
+
+,
+
+(20b)
+
+8
+
+with
+
+In the neighborhood of ρ = 0 it is possible to write the nearby expressions:
+
+t(−) = −t(+).
+
+(cid:16)
+(cid:16)
+
+ds(+)(cid:17)2
+ds(−)(cid:17)2
+
+=
+
+=
+
+ρ2
+2
+
+ρ2
+2
+
+(cid:16)
+(cid:16)
+
+dt(+)(cid:17)2 − 2 dρ2 − R2
+dt(−)(cid:17)2 − 2 dρ2 − R2
+
+s dϕ2,
+
+s dϕ2.
+
+(21)
+
+(22a)
+
+(22b)
+
+The inversion of the time variable does not imply a change in the sign of the proper time, and
+from one fold to the other ds(−) takes the reins of ds(+). It is not possible to have an inversion
+
+in the length measure along a geodesic. In other words we have (cid:0)ds(+)(cid:1)(cid:0)ds(−)(cid:1) > 0. But t(+)
+
+and t(−) are nothing more than “time markers”, simple coordinates, and thus one will have:
+dt(−) = − dt(+). So here one ﬁnds again the central idea of diﬀerential geometry: the length
+element has an only intrinsic reality. Lagrange equations give always in the vicinity of ρ = 0 the
+relations:
+
+(23)
+These functions are linear and monotonic as a function of the proper times (lengths s(+) and
+
+s(−)) that enchain themselves in passing from one fold to the other without inversion.
+
+¨ϕ = ¨ρ = 0.
+
+dt(+)
+ds(+)
+
+=
+
+C
+ρ2 ,
+
+dt(−)
+ds(−)
+
+−C
+ρ2 , C = Cst.
+
+=
+
+(24)
+
+The sign of the constant C depends on the sense adopted for the passage from one fold to the
+other. The object is thus a “black hole” and a “white fountain” at the same time. But, if measured
+with variable t(+) the passage is achievable only in an inﬁnite time. If the object results from
+the implosion of a neutron star, its mass would be transferred to the negative energy region. But
+for the observers located in one of the folds such phenomena of implosion–explosion will appear
+to be “freezed in time”.
+
+As shown in Ref. 16 time-inversion goes with mass and energy inversion. In Refs. 11 and 12,
+according to Janus Cosmological Model the universe is composed by positive and negative energy
+(and mass if they own) particles, respectively described by metrics g(+)
+µν , solutions of a
+coupled ﬁeld equation system. Spacetime bridges operate mass inversion. From Ref. 11 we know
+that masses with opposite signs repel each other. On another hand negative matter does not
+interact with positive matter by electromagnetic, strong or weak interaction.
+
+µν and g(−)
+
+2 Conclusion and Discussion
+
+If black holes exist and swallow matter this last, instead to be crushed in a central singularity,
+would be discretely rejected as an invisible negative matter.
+
+The main feature of the theory presented here is the mass (and space) inversion process. The
+advantage is to avoid the puzzling problem of a “central singularity” and to explain the fate of
+matter swallowed by black holes. But it implies injection of negative energy (and mass if the
+own) particles in spacetime, considered as a manifold plus two metrics g(+)
+
+µν and g(−)
+µν .
+
+As precised in Ref. 9 we assumed that particles of opposite masses do not interact neither
+by electromagnetic forces nor strong or weak forces, they could not enter into a collision. Some
+colleagues have criticized this idea arguing that “the particles are on the same spacetime”. The
+answer to this question is: if one considers the problem on purely geometrical grounds, those
+encounters would be “geometrically impossible” because the two subsets move along disjoint
+families of geodesics.
+
+9
+
+A second criticism may rely on the immediate instability of a quantum vacuum which could
+create pairs (+m,−m). But it is based on the theoretical framework of quantum gravity that,
+however, still today remains purely hypothetical. The creation and annihilation of pairs of par-
+ticles of opposite mass has not been de-scribed till today.
+
+A third criticism may issue from Quantum Field Theory, which excludes straight away states
+of negative energy “because a particle could not have an energy less than that of the vacuum”
+(p. 76 of Ref. 17). We quote:
+
+If we suppose that T is linear and unitary then we should face the disastrous conclu-
+sion that for any state Ψ of energy E there is another state T−1Ψ of energy −E. To
+avoid this we are forced here to conclude that T is anti-linear and anti-unitary.
+
+In order to refute this statement we would say that it is bootstrap talk and that the conclusion
+
+is contained in the hypothesis, as occurs with the “CPT theorem”.
+
+In his book Weinberg,17 let us quote his sentence on p. 104:
+
+No examples are known of particles that furnish unconventional representation of
+inversions, so these possibilities will not be pursued here. From now on, the inversions
+will be assumed to have the conventional action assumed in Sec. 2.6.
+
+This sentence refers of course to the hypothesis expressed on p. 76 of Ref. 17 about the
+anti-unitary and anti-linear character of the T operator. However, cosmic acceleration implies
+the action of a negative pressure and hence of negative energy (pressure is an energy density by
+unit volume). The discovery of such quite un-foreseen phenomenon18–27 makes it compelling for
+Quantum Field Theory to be extended in order to include negative energy states.
+
+References
+
+1. K. Schwarzschild, Sitzber. Preuss. Akad. Wiss. Berlin 189 (1916).
+
+2. D. Hilbert, Math. Ann. 92, 1 (1924).
+
+3. P. Painlevé, C. R. Acad. Sci. (Paris) 173, 677 (1921).
+
+4. A. Gullstrand, Arkiv. Mat. Astron. Fys. 16, 1 (1922).
+
+5. A. S. Eddington, Nature 113, 192 (1924).
+
+6. D. Finkelstein, Phys. Rev. 110, 965 (1958).
+
+7. G. Lemaître, Ann. Soc. Sci. Bruxelles A 53, 51 (1933).
+
+8. R. Adler, M. Bazin and M. Schiﬀer, Introduction to General Relativity (McGraw-Hill, 1965).
+
+9. J. P. Petit and G. D’Agostini, Astrophys. Space Sci. 354, 611 (2014).
+
+10. J. P. Petit and G. D’Agostini, Mod. Phys. Lett. A 29, 34 (2014).
+
+11. J. P. Petit, C. R. Acad. Sci. 284, 1217 (1977).
+
+12. A. Sakharov, ZhETF Pis’ma 5, 32 (1967) (in Russian); JETP Lett. 5, 24 (1967).
+
+13. A. Sakharov, ZhETF Pis’ma 76, 1172 (1979) (in Russian); JETP 49, 594 (1979).
+
+14. A. Sakharov, ZhETF Tr. JETP 52, 349 (1980); 79, 689 (1980) (in Russian).
+
+15. A. Sakharov, Collected Scientiﬁc Works (Library of Congress, 1982).
+
+10
+
+16. J. M. Souriau, Structure Des Systèmes Dynamiques (Dunod France, 1970) (in French); Struc-
+
+ture of Dynamical Systems, Chap. III (Birkhaüser, 1997).
+
+17. S. Weinberg, The Quantum Theory of Fields (Cambridge Univ. Press, 2005), Vol. 1.
+
+18. A. G. Riess et al., Astron. J. 116, 1009 (1998).
+
+19. S. Perlmutter et al., Astrophys. J. 517, 565 (1999).
+
+20. A. G. Riess, Publ. Astron. Soc. Pac. 112, 1284 (2000).
+
+21. A. V. Filippenko and A. G. Riess, AIP Conf. Proc. 540, 227 (2000).
+
+22. B. Leibundgut, Annu. Rev. Astron. Astrophys. 39, 67 (2001).
+
+23. R. Knop et al., Astrophys. J. 598, 102 (2003).
+
+24. J. T. Tonry et al., Astrophys. J. 594, 1 (2003).
+
+25. B. Barris et al., Astrophys. J. 602, 571 (2004).
+
+26. A. G. Riess, Astrophys. J. 607, 665 (2004).
+
+27. B. Schmidt, Rev. Mod Phys. 84, 987 (2012).
+
+Erratum
+
+Equation (13) page 3 has a typo (extra square) and should be written:
+
+r = Rs +
+
+z2
+4Rs
+
+11
+
+

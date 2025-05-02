@@ -1,0 +1,3995 @@
+Journal of Modern Physics, 2021, 12, 218-228 
+https://www.scirp.org/journal/jmp 
+ISSN Online: 2153-120X 
+ISSN Print: 2153-1196 
+
+ 
+ 
+ 
+
+ 
+ 
+
+On the Poincaré Algebra in a Complex 
+Space-Time Manifold 
+
+Nathalie Debergh1*, Gilles D’Agostini2, Jean-Pierre Petit2 
+
+1Department of Agronomy, Haute Ecole Charlemagne, Huy, Belgium 
+2Manaty Research Group, Glanon, Dijon, France 
+
+   
+
+How  to  cite  this  paper:  Debergh,  N., 
+D’Agostini, G. and  Petit, J.-P. (2021) On the 
+Poincaré Algebra in  a Complex Space-Time 
+Manifold. Journal of Modern Physics,  12, 
+218-228. 
+https://doi.org/10.4236/jmp.2021.123017 
+ 
+Received: December 27, 2020 
+Accepted: February 7, 2021 
+Published: February 10, 2021 
+ 
+Copyright © 2021 by author(s) and   
+Scientific Research Publishing Inc. 
+This work is licensed under the Creative 
+Commons Attribution International   
+License (CC BY 4.0). 
+http://creativecommons.org/licenses/by/4.0/     
+
+ 
+
+Open Access
+
+ 
+
+ 
+
+Abstract 
+We extend the Poincaré group to the complex Minkowski space-time. Special 
+attention is paid to the corresponding algebra that we achieve through ma-
+trices as well as differential operators. We also point out the generalizations of 
+the two Casimir operators. 
+ 
+Keywords 
+Complex Minkowski Manifold, Poincaré Group, Lie Algebraic Methods   
+Applied to Physics 
+
+1. Introduction 
+Complex  numbers  are  known  to  be  powerful  mathematical  tools  to  describe 
+physical phenomena. Usually, their role is limited to intermediate calculations 
+and they are not welcome in final results. However, sometimes these results do 
+depend on these numbers in the sense that they explicitly appear in the final eq-
+uations. 
+
+To our knowledge, complex energies first appeared as intrinsic components of 
+the  physical  paradigm  in  the  relativistic  Kemmer-Duffin-Petiau  equation  [1], 
+dealing with vector mesons. When they are subject to a sufficiently strong mag- 
+
+netic field (
+
+), their energies, whose squares are given by1 [2] 
+
+2mB
+>
+e
+
+2
+
+E
+
+=
+
+2
+
+m
+
++
+
+2
+
++ +
+
+s
+
+;
+
+n
+
+=
+
+0,1,2,
+
+
+
+;
+
+s
+
+0, 1
+= ±
+
+                          (1) 
+
+become purely imaginary ones. 
+
+More recently, some cosmological models [3] used an imaginary time. They 
+
+1Here and all along this paper, we take the velocity of light equal to 1. 
+
+
+eB n
+
+
+
+1
+2
+
+
+
+
+
+ 
+
+218 
+
+Journal of Modern Physics 
+
+ 
+
+ 
+DOI: 10.4236/jmp.2021.123017    Feb. 10, 2021 
+ 
+
+N. Debergh et al. 
+ 
+
+all  conjecture  a  join  between  areas  of  imaginary  time  and  areas  of  real  time. 
+Somehow,  real  time  emerges  from  imaginary  time,  the  latest  being  helpful  to 
+remove gravitational singularities. 
+
+This idea is clearly not unanimous because an imaginary time is most of the 
+time seen as non-physical, even heretical. Also voices [4] rose to emphasize the 
+inconsistency of such a transition between imaginary and real times which still 
+remains vague. Some attempts have been performed to specify it. For instance, 
+in [5], imaginary time stands before the Planck time and is related to imaginary 
+energies seen as pure information. Thus, an imaginary time is compatible with 
+the fact that time does not go by and the information, which in a sense, replaces 
+matter, is retained until time rotates and becomes real. To cite the authors of [5], 
+this imaginary time is analogous to the moment when the music is burned on a 
+CD but not yet listened to. It can wait indefinitely until one decides to put the 
+CD in a drive: time then becomes real and follows its arrow. 
+
+We think that imaginary time and, by extension, complex space-time coordi-
+nates, are one of the most promising tracks for generalizing relativistic quantum 
+mechanics. 
+
+One of the advances of complex numbers in this direction is the concept of 
+Minkowski  complex  space-time.  A  first  attempt  with  emphasis  on  specific  as-
+pects of twistors has been performed in [6]. In the present paper, we come back 
+to this idea but with a different metric. In fact, the metric considered in [6] in-
+volved a complex space-time interval while we want to limit ourselves to a real 
+one.  We  could  compare  this  to  the  wavefunction  role  in  usual  quantum  me-
+chanics. Indeed this function, although complex, appears on a real form, like the 
+square of its modulus, when physics concepts must be discussed. 
+
+More precisely, the key idea involved by our proposal of (3 + 1)-D complex 
+Minkowski manifold is to extend spatial as well as time coordinates to complex 
+numbers with a Hermitian metric given by 
+x
+d d
+
+                                                  (2) 
+
+xµ ν
+
+µνη=
+
+2d
+s
+
+with 
+
+η
+=
+
+diag
+
+(
+)
+1, 1, 1, 1 ;
+
+− − −
+
+µ
+
+x
+
+=
+
+}
+{
+t x y z
+,
+,
+
+,
+
+;
+
+µν
+
+,
+
+=
+
+0,1,2,3
+
+                    (3) 
+
+Here  the  notation  xµ   refers  to  the  complex  conjugate  of  xµ  while  the  diag 
+notation means that we consider a diagonal matrix. 
+
+The purpose of this paper is to investigate this (3 + 1)-D Minkowski manifold 
+and, in particular, to see what would the Poincaré group/algebra become when 
+coordinates are complex numbers. 
+
+To do so, we first have to consider a (6 + 2)-D real manifold by considering 
+real as well as imaginary parts of the involved complex numbers. This is the sub-
+ject of the next Section. Then, we use the corresponding coadjoint action to put 
+in evidence the transformation laws on  momenta which  are nothing else than 
+basis operators for the algebra. Sections 4 and 5 are devoted to the differential 
+realization of these momenta in the real as well as the complex cases. The trans-
+
+219 
+
+Journal of Modern Physics 
+
+ 
+DOI: 10.4236/jmp.2021.123017 
+ 
+
+N. Debergh et al. 
+
+ 
+DOI: 10.4236/jmp.2021.123017 
+ 
+
+formations of the group are then available in Section 6. We point out the Casi-
+mir operators in Section 7 and finally conclude in Section 8. 
+
+ 
+
+2. The Extended Poincaré Group/Algebra 
+As well known the Lorentz group 
+
+  preserves 
+
+)1,3O
+(
+TX
+
+where  η  has been defined in (3) while 
+)
+=
+
+{
+(XT refers here to the transposition of X). 
+
+t x y z
+,
+,
+
+X
+
+=
+
+(
+
+,
+
+T
+
+xµ µ
+=
+
+,
+
+}
+0,1,2,3
+
+ 
+
+Xη                                                           (4) 
+
+If  we  now  consider  complex  coordinates  xµ,  Equation  (4)  is  replaced  by 
+†
+X
+C
+
+) 
+
+C
+
+(
+X≡
+
+)T
+
+(
+
+(
+
+C
+
+;
+
+=
+
+T
+C
+
+†
+η
+C
+
+X
+(
+1,3,
+
+t x y z
+,
+,
+
+X X
+)
+C   is, by definition, the one leaving the quadratic form 
+
+                          (5) 
+
+µ
+=
+
+xµ
+,
+
+=
+
+,
+
+}
+0,1,2,3
+
+)
+
+{
+
+The Lie group 
+(5) invariant. 
+
+U
+
+This quadratic form (5) is equivalent to the orthogonal one 
+
+X GX                                                         (6) 
+
+R
+
+T
+R
+
+X
+
+T
+R
+
+=
+
+x
+
+µ µ µ
+,
+=
+R
+
+x
+
+,
+
+I
+
+0,1,2,3
+
+A
+x A
+
+,
+
+=
+
+0,1,2,
+
+                       (7) 
+
+} {
+=
+
+}
+,7
+
+{
+
+with 
+
+and 
+
+G diag
+
+=
+
+)
+(
+1, 1, 1, 1,1, 1, 1, 1
+
+− − −
+
+− − −                                   (8) 
+
+We obviously have 
+
+µ
+R
+
++
+
+ix
+
+µ
+I
+
+                                                    (9) 
+
+µ
+
+=
+
+x
+x
+)2,6O
+
+(
+
+. 
+
+The Lie group preserving (6) is 
+
+Even if the quadratic forms are formally equivalent, the two groups 
+(
+1,3,
+
+)
+C  
+U
+)
+C   and 29 
+  have a different number of parameters (16 for 
+).  This  finding,  that  might  be  surprising  at  first  sight,  will  be  ex-
+
+)2,6O
+(
+)2,6O
+
+(
+1,3,
+
+U
+
+(
+
+and 
+for 
+plained in a next Section. 
+
+Due  to  the  embedding  of 
+
+U
+
+(
+1,3,
+
+)
+C   in 
+
+)2,6O
+
+(
+
+,  we  focus  on  the  larger 
+
+group. 
+
+Consequently, we define the extended Poincaré group on the (6 + 2)-D real 
+
+Minkowski space as the set of the following (9 by 9) matrices 
+
+g
+
+L
+α
+
+= 
+
+0
+1
+
+
+
+                                                  (10) 
+
+where the 8-vector 
+
+T
+
+(
+α α=
+
+A A
+,
+
+=
+
+0,1,2,
+
+)
+  
+
+,7
+
+is associated with (real) translations in the (6 + 2)-D manifold and L is the (8 by 
+8) matrix of the 
+
+  group i.e. 
+
+)2,6O
+
+(
+
+220 
+
+Journal of Modern Physics 
+
+N. Debergh et al. 
+ 
+
+TGL GL I=                                                     (11) 
+The Lie algebra corresponding to (10) is the vector space of the matrices given 
+by 
+
+Z
+
+=
+
+
+
+
+
+ω γ
+
+
+0
+0
+
+
+T
+γ
+
+;
+
+=
+
+(
+A
+γ
+
+,
+
+A
+
+=
+
+0,1,2,
+
+                             (12) 
+
+,7
+
+)
+
+Aγ   are real numbers and ω is the matrix of the 
+
+so
+
+(
+
+)2,6
+
+ 
+
+TG Gω
+
+ω= −                                                   (13) 
+
+Here the coefficients 
+algebra defined by 
+
+In details, we have 
+
+J
+
+AB
+
+AB
+
+j
+
+                                              (14) 
+
+7
+
+ω
+
+= ∑
+
+=
+
+0
+
+A B
+,
+ABj
+
+ABJ
+
+  are real numbers and 
+
+  are the (28) basis matrices of 
+
+so
+
+(
+
+)2,6
+
+ 
+
+where 
+namely 
+
+AB
+
+j
+
+=
+
+(
+ε
+
+)
+AB e
+
+AB
+
+−
+
+(
+ε
+
+)
+BA e
+
+BA
+
+                                  (15) 
+)1
+= ±  
+
+(
+ABε
+
+)(
+
+(no summation on repeated indices). In Equation (15), the numbers 
+are constrained by 
+(
+ε
+
+)
+δ
+
+)
+δ
+
+CD
+
+CD
+
+AD
+
+(
+ε
+
+(
+ε
+
+(
+ε
+
+(
+ε
+
+AB
+
+AB
+
+G
+
+G
+
+=
+
+=
+
+AD
+
+AD
+
+BC
+
+BC
+
+)
+
+)
+
+)
+
+;
+
+(
+ε
+
+CB
+
+)
+
+      (16) 
+
+while the notation 
+cept a “1” at the intersection of the  (
+
+ABe
+
+  stands for a 8 by 8 matrix made of “0” everywhere ex-
+
+A +
+
+)1 th
+
+  line and the  (
+
+B +
+
+)1 th
+
+  column. 
+
+Noticing that 
+
+we come easily to the 
+ =
+
+
+CD
+
+
+
+
+AB
+
+j
+
+j
+
+,
+
+so
+
+(
+G j
+
+)2,6
++
+
+BC AD
+
+BC AD
+
+eδ=
+
+AB CD
+e e
+  commutation relations 
+
+                                              (17) 
+
+BD CA
+
+G j
+
++
+
+AC DB
+
+G j
+
++
+
+AD BC
+
+G j
+
+;
+
+j
+
+AB
+
+= −
+
+j
+
+BA
+
+        (18) 
+
+We will come back to this algebra in Section 4. Let us just conclude this one by 
+mentioning that the adjoint representation of the extended Poincaré group is, by 
+definition, given by 
+
+Z
+
+′ =
+
+1
+gZg −
+
+                                                  (19) 
+
+This leads to 
+
+as well as to the following relation 
+
+1
+ω ω −
+L L
+
+′ =
+
+                                                  (20) 
+
+γ ω α ω
+
+1
+−
+L L
+
+′ = −
+
+L
+
++
+
+                                          (21) 
+
+3. The Coadjoint Representation: Transformation Laws of 
+
+the Momenta 
+
+Here we follow Souriau’s approach [7], one of us has already successfully applied 
+it  [8]  to  Kaluza  5-D  space-time.  By  analogy  with  what  has  been  done  in  the 
+  case,  we  define  a  torsor  µ  of  the  extended  Poincaré  group  by  the 
+so
+
+(
+)1,3
+
+221 
+
+Journal of Modern Physics 
+
+ 
+DOI: 10.4236/jmp.2021.123017 
+ 
+
+N. Debergh et al. 
+
+ 
+DOI: 10.4236/jmp.2021.123017 
+ 
+
+ 
+
+1
+2
+
+1
+2
+
+1
+2
+
+1
+2
+
+identity 
+
+where 
+
+We require the invariance 
+
+or, in other words 
+
+(
+µ
+
+Z
+
+)
+
+≡
+
+Tr M
+
+(
+
+)
+ω
+
++
+
+(
+
+GP
+
+)T
+
+γ
+
+                                  (22) 
+
+µ≡
+
+{
+
+P M P
+,
+
+,
+
+}
+
+∈
+
+8
+
+R
+
+,
+
+T
+
+GM G
+
+= −
+
+M
+
+                              (23) 
+
+′
+µ
+
+(
+
+Z
+
+)
+′ =
+
+(
+µ
+
+Z
+
+)
+
+                                              (24) 
+
+Tr M
+
+(
+
+)
+ω
+
++
+
+(
+
+GP
+
+T
+
+)
+
+γ
+
+=
+
+1
+−
+Tr M L L
+ω
+
+′
+
+(
+
+)
+
++
+
+′
+T
+1
+−
+P G L L
+
+−
+
+)
+ω α ω
+
+L
+
++
+
+(
+
+        (25) 
+
+1
+2
+
+where we have used Equations (20)-(21) of the adjoint representation. 
+
+The relation (25) implies the following transformation on the momenta P: 
+
+P
+
+′ =
+
+LP
+
+                                                    (26) 
+
+Thus, Equation (25) reduces to 
+)
+ω
+
+Tr M
+
+(
+
+=
+
+1
+2
+
+−
+Tr M L L
+ω
+
+′
+
+−
+
+1
+T
+−
+P G L
+
+ω α
+
+ 
+
+)1
+
+1
+2
+
+(
+
+Remembering that the last term is the product of a transposed 8-vector and an 
+8-vector, we can rewrite this relation as 
+(
+
+1
+−
+Tr M L L
+ω
+
+1
+−
+Tr G L
+
+P
+ω α
+
+Tr M
+
+)
+ω
+
+=
+
++
+
+′
+
+T
+
+ 
+
+)
+
+(
+
+)
+
+which, after usual manipulations on the trace, leads to 
+
+′
+Tr L M L
+
+1
+−
+
+)
+ω
+
+=
+
+Tr M
+
+(
+
+)
+ω
+
++
+
+(
+)
+1
+−
+Tr L
+α ω
+
+T
+P G
+
+ 
+
+1
+2
+
+1
+2
+
+(
+
+(
+
+=
+
+Tr M
+
+(
+
+)
+ω
+
++
+
+(
+)
+1
+−
+Tr L
+α ω
+
+T
+P G
+
+−
+
+Tr P GL
+
+)
+α ω
+
+(
+
+T
+
+            (27) 
+
+or, in an equivalent way 
+)
+ω
+
+′
+Tr L M L
+
+(
+
+1
+−
+
+We thus come to the conclusion that 
+T
+M LMGL G
+
+′ =
+
++
+
+α
+
+T T
+P L G LP G
+
+T
+α
+
+−
+
+                              (28) 
+
+Equations (26) and (28) provide the transformation laws of the momenta. 
+
+4. Differential Realization of the Momenta: The (6 + 2)-D 
+
+Real Poincaré Algebra 
+
+Let us take a look at the result (26). If we write the transformations on the coor-
+dinates through the group as (cf. Equation (10)) 
+LX α
+
++                                                 (29) 
+
+′ =
+
+X
+
+they can be inversed following 
+
+This implies that 
+
+X GL GX GL Gα
+
+=
+
+−
+
+T
+
+T
+
+′
+
+                                        (30) 
+
+′∇ =
+
+GLG
+
+∇                                                   (31) 
+
+222 
+
+Journal of Modern Physics 
+
+where  ∇   is the 8D-gradient 
+
+T
+
+∇ =
+
+∂
+
+x
+∂
+
+A A
+,
+
+
+
+
+
+=
+
+0,1,2,
+
+                                       (32) 
+
+,7
+
+N. Debergh et al. 
+ 
+
+Comparing with (26), it is obvious to conclude that 
+)
+constant
+
+(
+P CG C
+
+∇
+
+=
+
+=
+
+ 
+
+With the conventions (7) and 
+
+∂ ≡
+A
+
+∂
+Ax
+∂
+
+ 
+
+the momenta P are thus 
+
+P
+A
+
+C
+= ∂
+
+A
+
+A
+
+;
+
+P
+
+= ∂ =
+
+C
+
+A
+
+AB
+
+CG P
+B
+
+                                  (33) 
+
+We recover the momenta of usual Quantum Mechanics if the constant C is fixed 
+as  C ih=
+  and A limited to the first four values. However, for simplicity, we fix 
+here 
+
+1C =   so that 
+
+P
+A
+
+= ∂
+
+A
+
+;
+
+P
+
+A
+
+=
+
+AB
+
+G P
+B
+
+                                          (34) 
+
+In the same way, the momenta M satisfying (28) can be realized through a ma-
+trix similar to  ω  (see Equation (14)) 
+= ∑
+
+M
+
+J
+
+AB
+
+AB
+
+j
+
+ 
+
+7
+
+A B
+,
+
+=
+
+0
+
+AB
+
+J
+
+=
+
+x
+
+A B
+∂ −
+
+x
+
+B A
+∂
+
+,
+
+A B
+,
+
+=
+
+0,1,2,
+
+                             (35) 
+
+,7
+
+but with 
+
+In other words, we have 
+
+algebra by using 
+
+They read 
+
+M XP G PX G
+
+−
+
+=
+
+T
+
+T
+
+ 
+
+And it is straightforward to convince ourselves of (28) to be satisfied by using 
+(26) and (29). 
+
+It is then easy to find out the commutation relations of the (6 + 2)-D Poincaré 
+
+x
+
+,A
+
+
+
+
+∂
+B
+
+
+= −
+
+G
+
+AB
+
+                                              (36) 
+
+J
+
+,AB
+
+J
+
+CD
+
+
+
+
+ =
+
+
+BC
+G J
+
+AD
+
++
+
+BD CA
+
+G J
+
++
+
+AC DB
+
+G J
+
++
+
+AD BC
+
+G J
+
+                (37) 
+
+in agreement with Equation (18) and 
+
+J
+
+,AB
+
+P
+
+C
+
+
+
+
+AC
+
+G P
+
+B
+
++
+
+BC
+
+G P
+
+A
+
+                                  (38) 
+
+0
+
+                                                (39) 
+
+ = −
+
+
+
+
+P P
+
+,
+
+A
+
+B
+
+ =
+
+
+5. The (3 + 1)-D Complex Poincaré Algebra 
+By making use of the change of variables (9), we can define linear combinations 
+AP   operators in order to restore the extended Poin-
+of the 
+caré algebra in a (3 + 1)-D complex manifold. These linear combinations write 
+
+  as well as the 
+
+ABJ
+
+223 
+
+Journal of Modern Physics 
+
+ 
+DOI: 10.4236/jmp.2021.123017 
+ 
+
+N. Debergh et al. 
+
+ 
+DOI: 10.4236/jmp.2021.123017 
+ 
+
+ 
+
+M
+IM
+
+N
+IN
+
+µν
+
+= −
+
+µν
+
+−
+
+µν
+
+= −
+
+(
+µν
++
+
+4
+
+)
+
+4
+
+4
+
++
+
+(
+)(
++
+J µ ν
+)
+−
+
+J
+ν µ
++
+
+(
+
+                                          (40a) 
+                                          (40b) 
+
+µν
+
+= −
+
+µν
+
++
+
+µν
+
+= −
+
+(
++
+µν
+
+4
+
+4
+
++
+
+(
+)(
+J µ ν
++
+)
++
+
+J
++
+ν µ
+
+(
+
+                                          (40c) 
+                                          (40d) 
+
+J
+J
+
+J
+J
+
+4
+
+)
+
+)
+
+4
+
+4
+
+)
+
+µ
+P
+C
+
+=
+
+µ
+
+P
+
+−
+
+iP
+
+µ
++
+
+4
+
+(
+
+1
+2
+
+)
+
+;
+
+µ
+P
+C
+
+=
+
+(
+
+1
+2
+
+µ
+
+P
+
++
+
+iP
+
+µ
++
+
+4
+
+                            (40e) 
+
+)
+
+They lead to the following realizations in terms of complex coordinates  xµ  and 
+their derivatives 
+∂
+µ
+x
+∂
+
+∂
+∂
+t
+x
+∂ ∂
+
+          (41) 
+
+∂ =
+µ
+
+∂
+y
+∂
+
+∂
+x
+∂
+
+∂
+y
+∂
+
+∂
+z
+∂
+
+∂
+z
+∂
+
+µ
+∂ =
+
+∂
+t
+∂
+
+∂
+x
+∂
+µ
+
+=
+
+=
+
+−
+
+−
+
+−
+
+,
+
+,
+
+,
+
+,
+
+,
+
+,
+
+,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+µν
+
+M
+
+= − ∂ +
+
+µ ν
+
+x
+
+ν µ
+x
+∂ −
+
+x
+
+µ ν
+∂ +
+
+ν µ
+x
+∂                                 (42a) 
+
+µν
+
+IM
+
+= −
+
+ix
+
+µ ν
+∂ −
+
+ν µ
+ix
+∂ +
+
+ix
+
+µ ν
+∂ +
+
+ix
+
+ν µ
+∂                             (42b) 
+
+µν
+
+N
+
+= − ∂ +
+
+µ ν
+
+x
+
+ν µ
+x
+∂ −
+
+x
+
+µ ν
+∂ +
+
+ν µ
+x
+∂                                 (42c) 
+
+µν
+
+IN
+
+= −
+
+ix
+
+µ ν
+∂ +
+
+ix
+
+ν µ
+∂ +
+
+ix
+
+µ ν
+∂ −
+
+ν µ
+∂                             (42d) 
+ix
+
+µ
+P
+C
+
+= ∂
+
+µ µ
+P
+,
+C
+
+µ
+
+= ∂                                               (42e) 
+
+It was already evident through Equations (40) but it is even more obvious here 
+that  M µν,  N µν, 
+IN µν  are  antisymmetric  on  their  indices  and  thus  there  are 
+IM µν  is symmetric leading to ten different 
+six of them for each category while 
+CPµ  are complex and 
+operators. These 28 operators are real ones: only the four 
+have to be supplemented by their conjugates. 
+
+The corresponding commutation relations are then 
+αµ νβ
+η
++
+
+,M M
+
+αν βµ
+
+βν µα
+
+η
++
+
++
+η
+
+η
+
+M
+
+M
+
+M
+
+αβ
+
+µν
+
+βµ αν
+
+M
+
+                  (43a) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+µν
+
+M M
+
+,
+
+αβ
+I
+
+η
+
+αν βµ
+
+M
+
+I
+
+−
+η
+
+βν µα
+
+M
+
+I
+
++
+η
+
+αµ νβ
+
+M
+
+I
+
++
+η
+
+βµ αν
+
+M
+
+I
+
+                (43b) 
+
+M M
+
+µν
+I
+
+,
+
+αβ
+I
+
+η
+
+αν βµ
+
+M
+
++
+η
+
+βν µα
+
+M
+
++
+η
+
+αµ νβ
+
+M
+
+−
+η
+
+βµ αν
+
+M
+
+                (43c) 
+
+µν αβ
+
+,M N
+
+αν βµ
+
+N
+
+η
++
+
+βν µα
+
+N
+
+η
++
+
+αµ νβ
+
+N
+
+η
++
+
+βµ αν
+
+N
+
+                      (43d) 
+
+M N
+
+µν αβ
+I
+
+,
+
+η
+
+αν βµ
+
+N
+
+I
+
+−
+η
+
+βν µα
+
+N
+
+I
+
+η
++
+
+αµ νβ
+
+N
+
+I
+
+η
++
+
+βµ αν
+
+N
+
+I
+
+                    (43e) 
+
+µν αβ
+
+,N
+
+N
+
+αν βµ
+
+M
+
++
+η
+
+βν µα
+
+M
+
++
+η
+
+αµ νβ
+
+M
+
++
+η
+
+βµ αν
+
+M
+
+                    (43f) 
+
+µν αβ
+
+M N
+
+,
+
+I
+
+αν βµ
+
+N
+
+I
+
+η
++
+
+βν µα
+
+N
+
+I
+
+η
++
+
+αµ νβ
+
+N
+
+I
+
+η
++
+
+βµ αν
+
+N
+
+I
+
+                      (43g) 
+
+M N
+
+µν αβ
+I
+
+,
+
+I
+
+αν βµ
+
+N
+
+η
++
+
+βν µα
+
+N
+
+η
+−
+
+αµ νβ
+
+N
+
+η
+−
+
+βµ αν
+
+N
+
+                      (43h) 
+
+N
+
+µν αβ
+
+,
+
+N
+
+I
+
+η
+
+αν βµ
+
+M
+
+I
+
+η
++
+
+βν µα
+
+M
+
+I
+
+η
++
+
+αµ νβ
+
+M
+
+I
+
+η
+−
+
+βµ αν
+
+M
+
+I
+
+                  (43i) 
+
+N
+
+µν αβ
+I
+
+N
+
+,
+
+I
+
+αν βµ
+
+M
+
+η
++
+
+βν µα
+
+M
+
+η
++
+
+αµ νβ
+
+M
+
+η
++
+
+βµ αν
+
+M
+
+                    (43j) 
+
+µν α
+M P
+C
+
+,
+
+ =
+
+
+η
+
+αµ ν
+P
+C
+
+η
+−
+
+µν α
+αν µ
+P M P
+;
+C
+C
+
+,
+
+=
+
+η
+
+αµ ν
+P
+C
+
+η
+−
+
+αν µ
+P
+C
+
+          (43k) 
+
+
+
+
+
+
+
+η
+
+ =
+
+ = −
+
+ = −
+
+ =
+
+ = −
+
+ =
+
+ =
+
+ =
+
+ = −
+
+ =
+
+
+η
+
+η
+
+η
+
+η
+
+224 
+
+Journal of Modern Physics 
+
+N. Debergh et al. 
+ 
+
+i
+η
+
+αµ ν
+P
+C
+
++
+
+i
+η
+
+αν µ
+µν α
+P M P
+;
+I
+C
+C
+
+,
+
+i
+= −
+η
+
+αµ ν
+P
+C
+
+−
+
+i
+η
+
+αν µ
+P
+C
+
+      (43l) 
+
+η
+
+αµ ν
+P
+C
+
+η
+−
+
+αν µ
+P
+;
+C
+
+N
+
+µν α
+P
+C
+
+,
+
+=
+
+η
+
+αµ ν
+P
+C
+
+η
+−
+
+αν µ
+P
+C
+
+            (43m) 
+
+µν α
+M P
+I
+C
+
+,
+
+ =
+
+
+N
+
+µν α
+P
+C
+
+,
+
+ =
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+N
+
+µν α
+P
+I
+C
+
+,
+
+ = −
+i
+η
+
+
+αµ ν
+P
+C
+
++
+
+i
+η
+
+αν µ
+P
+;
+C
+
+N
+
+µν α
+P
+I
+C
+
+,
+
+=
+
+i
+η
+
+αµ ν
+P
+C
+
+−
+
+i
+η
+
+αν µ
+P
+C
+
+      (43n) 
+
+α β
+P P
+,
+C
+C
+
+ =
+
+
+
+
+
+α β
+P P
+,
+C
+C
+
+
+
+
+=
+
+
+
+
+α β
+P P
+,
+C
+C
+
+=
+
+0
+
+                                              (43o) 
+
+The usual Poincaré algebra is recovered through Equations (42a), (43k) and 
+(43o). It is now realized through complex variables and corresponds to the pro-
+)
+C  
+posal  made  by  one  of  us  in  [8].  We  can  also  recognize  the  algebra 
+through the operators (42a)-(42b) and their commutation relations (43a)-(43c). 
+The operators (42c)-(42d) are the complement of 
+
+)
+C   in 
+
+(
+1,3,
+
+(
+1,3,
+
+)2,6
+
+so
+
+u
+
+u
+
+. 
+
+(
+
+6. Transformations of the Extended Poincaré Group 
+Now that the algebraic content is clear, let us come to the group approach sub-
+tended by the transformations (29). 
+
+We  recognize  in  (29)  eight  real  translations  associated  with  α,  or,  in  an 
+equivalent  way,  four  complex  ones.  The  contributions  of  the  matrix L  can  be 
+understood as follows: 
+
+1) Twelve transformations of “boost” type i.e. “rotations” between a (real or 
+
+imaginary) time component and three (real or imaginary) space components: 
+
+with 
+
+j
+
+=
+
+1,2,3;
+
+a R I b R I
+,
+
+=
+
+=
+
+;
+
+. 
+
+2) Twelve rotations between (real or imaginary) space components: 
+
+(
+)
+j
+0
+t
+θ
+ab
+(
+j
+0
+sinh
+θ
+ab
+
+a
+
+−
+)
+
+t
+
+a
+
+sinh
+
+(
+)
+j
+j
+0
+x
+θ
+b
+ab
+(
+j
+0
+cosh
+θ
+ab
+
+)
+
++
+
+j
+x
+b
+
+cosh
+
+a
+′ = −
+j
+x
+b
+
+ ′ =
+t
+
+
+
+,
+
+ ′ =
+k
+x
+
+a
+
+′ = −
+j
+x
+
+b
+
+cos
+
+)
+
+(
+jk
+θ
+ab
+(
+jk
+sin
+θ
+ab
+
++
+
+sin
+
+(
+)
+jk
+θ
+ab
+(
+jk
+cos
+θ
+ab
+
+j
+x
+b
+)
+j
+x
+b
+
++
+
+k
+x
+a
+)
+k
+x
+a
+. 
+
+R
+′ =
+I
+
+ ′ =
+t
+
+
+t
+
+ ′ =
+x
+
+
+
+
+x
+
+j
+
+R
+′ = −
+j
+I
+
+sin
+
+(
+)
+00
+cos
+θ
+(
+)
+00
+t
+θ
+(
+)
+jj
+cos
+θ
+(
+jj
+sin
+θ
+
+t
+
+R
+
+−
+
++
+
+R
+
++
+
+j
+R
+x
+
+x
+)
+
+j
+R
+
+t
+
+I
+
+I
+
+cos
+
+sin
+
+(
+)
+00
+θ
+(
+)
+00
+t
+θ
+(
+)
+jj
+sin
+θ
+(
+jj
+cos
+θ
+
++
+
+j
+I
+
+x
+)
+
+x
+
+j
+I
+
+                                  (44) 
+
+                                    (45) 
+
+                                    (46a) 
+
+                                (46b) 
+
+with 
+
+j
+
+=
+
+1,2,3,
+
+j
+
+≠
+
+k a R I b R I
+;
+,
+
+=
+
+=
+
+;
+
+,
+
+3) Four rotations between real and imaginary parts of one of the components: 
+
+Let us rewrite these results within the complex coordinates: 
+
+′
+
+t
+
+=
+
+i
+θ
+
+00 ;
+t x
+
+′
+
+e
+
+j
+
+=
+
+e
+
+jj
+i
+θ−
+
+j
+
+x
+
+                                          (47) 
+
+These equations are remarkable in the sense that they show that the complexifi-
+cation  enables  the  connection  between  the  Lorentz  components.  Indeed  we 
+↑
+PTL
+know [9] that the Lorentz group has four components: 
+ 
++
+
+↓
+PL L
++
+
+↑
+↑
+L L
++
+−
+
+=
+
+=
+
+↑
++
+
+,
+
+,
+
+225 
+
+Journal of Modern Physics 
+
+ 
+DOI: 10.4236/jmp.2021.123017 
+ 
+
+N. Debergh et al. 
+
+ 
+DOI: 10.4236/jmp.2021.123017 
+ 
+
+ 
+
+=
+
+↑
+TL
++
+
+↓
+and  L
+. Each of the three last ones is related to the first one by acting on 
+−
+it with a discrete symmetry, either the parity operator P or the time-reversal op-
+erator T. Two objects in “mirror symmetry” are necessarily linked by a rotation 
+in a higher dimensional space and that’s exactly what happens  here: the com-
+plexification allows these dimensions to exist in order to relate a coordinate and 
+its opposite (which corresponds to  µµθ = π ). 
+
+U
+
+(
+1,3,
+
+Similar discussions can be made with the complex algebra. We will just men-
+)
+C   operators  perform  transformations  such  as 
+tion  here  that  if  the 
+boosts or rotations on the four complex coordinates  xµ, the other 12 ones (cor-
+IN µν) realize, in addition, a complex 
+responding to exponentiations of  N µν  or 
+conjugation. It is actually the reason why, despite of the fact that the quadratic 
+forms  (5)  and  (6)  are  equivalent,  the  Lie  groups 
+  are 
+not isomorphic. 
+
+)
+C   and 
+
+)2,6O
+
+(
+1,3,
+
+U
+
+(
+
+7. The Casimir Operators 
+The  number  of  Casimir  operators  associated  with  the  inhomogeneous  group 
+ISO
+  (which  is  the  one  subtended  by  our  approach  in  the  real  space)  is 
+equal to 4 [10]. 
+
+)2,6
+
+(
+
+We put here explicitely in evidence two of them i.e. the ones generalizing the 
+
+two Casimirs of the Poincaré algebra. 
+
+The first Casimir operator is 
+
+1C
+
+=
+
+T
+P GP
+
+                                                    (48) 
+
+It is indeed invariant under the transformation (26). Another way to be con-
+
+vinced of the form (48) is to rewrite it in details 
+P Pµ
+C C
+
+P P
+A
+
+C
+1
+
+=
+
+=
+
+4
+
+A
+
+                                          (49) 
+
+µ
+
+and verify that it commutes with each of the 36 operators of the extended Poin-
+caré algebra by using Equations (38)-(39) or (43k)-(43o) depending on whether 
+we choose to work with eight real coordinates or four complex ones. 
+
+By analogy with the real case, we can thus define the mass of a particle living 
+
+in the complex Minkowski space-time by 
+;
+
+E
+
+−
+
+=
+
+p
+
+2
+
+2
+
+2
+
+m E P p
+
+=
+
+,
+
+0
+C
+
+j
+
+=
+
+j
+P
+C
+
+                                (50) 
+
+a relation which simplifies when the system is at rest and gives 
+
+i
+E me φ
+
+=
+
+                                                    (51) 
+
+This is the complex version of the famous Einstein relation2  E m=
+
+. 
+
+The second Casimir operator requests more calculations. We indeed need to 
+
+introduce the following 3-rank tensor 
+AB C
+J P
+
+W
+
+=
+
+ABC
+
+                                (52) 
+It is antisymmetric on the two first indices as well as on the two last ones but is 
+(evidently) symmetric on A and C. It thus gives rise to 56 operators. 
+2Recall that c = 1. 
+
+AC
+J P
+
+BC
+J P
+
+−
+
++
+
+B
+
+A
+
+ 
+
+226 
+
+Journal of Modern Physics 
+
+ 
+
+N. Debergh et al. 
+ 
+
+Let us take a while to mention that, in the real case, these operators reduce to 
+
+the four well known ones 
+
+W
+µ
+
+µνλαε=
+
+J Pνλ α
+
+                                              (53) 
+
+1
+2
+
+namely the four components of the Pauli-Lubanski pseudo-vector. No need to 
+say  that,  here,  there  is  no  interest  to  go  through  the  dual  to  obtain  a  similar 
+writing, as this will lead to a pseudo-tensor of rank 5. 
+
+So let us focus on the operators (52). It is easy (even if laborious) to convince 
+
+ourselves that they are such that 
+AD
+
+ABC
+
+DE
+
+
+W
+
+
+,
+
+J
+
+ =
+
+
+G W
+BE
++
+
+G W
+
+BCE
+
+−
+
+ACD
+
+−
+
+BCD
+
+AE
+
+G W
+CD
++
+
+G W
+
+ABE
+
+ACE
+
+BD
+
+G W
+CE
+−
+
+G W
+
+ABD
+
+                  (54a) 
+
+
+W
+
+
+ABC
+
+D
+
+,
+
+P
+
+ =
+
+
+0
+
+                                              (54b) 
+
+and 
+
+F
+
+AD
+
+
+
+
+ABC
+
+BCE
+
+DEF
+
+W
+
+,
+(
+
+
+W
+
+G W P W P
+=
+
+)
+BCE D
+G W P W P
+CDF
+
+ADF C
+
+BCD E
+
+BCF
+
+−
+
+−
+
++
+
+BE
+
+AF
+
+E
+
++
+
++
+
++
+
+A
+
+CD
+
+G
+
++
+
+W P W P
+−
+F
+
+ABF
+
+ABE
+
+G
+
+W P W P
+−
+EAB D
+DAB
+G W P W P
+
++
+
+−
+
+CF
+
+E
+
+E
+
++
+)
+
+(
+(
+(
+(
+
+)
+
++
+)
+)
+
+AE
+
+−
+
+BCF D
+
+BCD F
+G W P W P
+CEF
+
+)
+(
+G W P W P
+
+)
+ACD E
+G W P W P
+
+ACE D
+
+AEF C
+
+−
+
++
+
+−
+
+(
+
+BD
+
+BF
+
+A
+
+CE
+
++
+
+G
+
+ABD F
+
+ABF D
+W P W P
+−
+
++
+
+(
+(
+
+)
+
+)
+
+        (54c) 
+
+The two first relations show that 
+
+C W W
+2
+
+ABC
+
+=
+
+ABC
+
+                                              (55) 
+
+does commute with each of the 36 generators of the extended Poincaré algebra 
+and, consequently, is the second Casimir operator. 
+
+Its  interpretation  goes  through  the  so-called  “little  groups”  technics i.e.  re-
+stricting ourselves to particular momenta P. If the rest is considered, only two P 
+operators do not vanish: 
+
+0
+
+P
+
+=
+
+m
+2 cos ;
+φ
+
+P
+
+4
+
+=
+
+m
+2 sin
+
+φ
+
+                                    (56) 
+
+2C  
+This implies the following form for 
+2
+J
++
++
+23
+J
++
+
+(
+m J
+
+C
+
++
+
++
+
+=
+
+4
+
+J
+
+J
+
+2
+
+2
+
+2
+14
+
+2
+35
+J
+
+2
+27
+cos
+
+2
+2
+31
+12
+J
+J
++
++
+) (
+(
+2
+φ
+) (
+(
+2
+J
+sin
+φ
+01
+(
+sin cos
+φ φ
+}
++{
+J
+J
+,
+
+2
+
+{
+,
+
+45
+
+06
+
+2
+
+2
+
+2
+
+2
+26
+m
+
+−
+
+4
+
+−
+
+−
+
++
+
+m
+4
+m
+4
+{
+J
+
+05
+
++
+
+J
+
+2
+15
+J
++
+
++
+
+J
+
+2
+16
+J
++
+
++
+
+J
+
+2
+17
+J
++
+
+J
+
+2
+25
+J
++
+
+2
+37
+J
++
+
+2
+34
+
+2
+56
+J
++
+
+2
+45
+
+2
+57
+J
++
+
+2
+24
+
+2
+46
+
+2
+36
+J
++
+
+)
+2
+67
+J
++
+
+2
+47
+
++
+
+J
+J
+
+J
+
+2
+2
+J
+J
++
+02
+03
+}
+J
+,
++
+14
+} {
+J
++
+
++
+{
+,
+
+J
+02
+J
+
+07
+
+47
+
+2
+05
+J
+,
+})
+
+01
+
+46
+
++
+
+24
+
+2
+J
++
+06
+} {
++
+
+J
+J
+
+2
+07
+,
+
+03
+
+}
+
+34
+
+)
+)
+J
+
+              (57) 
+
+We notice that the only JAB that does not appear in (57) is J04 namely the rotation 
+on time. We also recover the spin interpretation of the real case except that we 
+
+227 
+
+Journal of Modern Physics 
+
+ 
+DOI: 10.4236/jmp.2021.123017 
+ 
+
+N. Debergh et al. 
+
+ 
+
+have  here  20  possibilities  for  one  spin  algebra  (
+This is evidently due to the increasing of spatial dimensions which are now 6. 
+
+)  to  be  put  in  evidence. 
+
+( )3so
+
+8. Conclusions 
+We have extended the Poincaré group as well as its algebra to a complex Min-
+kowski space. Beyond the real operators corresponding to transformations of the 
+real coordinates, our approach shows that supplementary imaginary as well as 
+complex operators appear to form with the previous ones a 36-dimensional real 
+or complex algebra according to choosing 8 real coordinates or 4 complex ones. 
+What are the unirreps of the extended Poincaré algebra? What physical im-
+plications could have this complex algebra? What would be a complex version of 
+usual quantum mechanics? 
+
+These questions remain open at this stage and will be the subject of further 
+
+considerations. 
+
+Data Availability 
+The data that support the findings of this study are available within this article. 
+
+Conflicts of Interest 
+The authors declare no conflicts of interest regarding the publication of this paper. 
+
+References 
+[1]  Petiau, G. (1936) Classe des Sciences, 8, 16.   
+[2]  Velo, G. and Zwanziger, D. (1969) Physical Review, 186, 1337.   
+[3]  Hartle, J.B. and Hawking, S.W. (1983) Physical Review D, 28, 2960.   
+
+https://doi.org/10.1103/PhysRevD.28.2960 
+
+[4]  Deltete, R.J. and Guy, R.A. (1996) Synthese, 108, 185-203. 
+
+https://doi.org/10.1007/BF00413497 
+
+[5]  Bogdanoff, G. and Bogdanoff, I. (2002) Annals of Physics, 296, 90-97.   
+
+https://doi.org/10.1006/aphy.2001.6212 
+
+[6]  Hansen, R.O., Newman, E.T., Penrose, R. and Tod, K.P. (1978) Proceedings of the 
+
+Royal Society of London A, 363, 445-468. https://doi.org/10.1098/rspa.1978.0177 
+
+[7]  Souriau, J.M. (1997) Structure of Dynamical Systems. In: Progress in Mathematics, 
+
+Springer, Boston, Vol. 149. https://doi.org/10.1007/978-1-4612-0281-3 
+
+[8]  Petit, J.P. (2018) Progress in Physics, 14, 38.   
+[9]  Srinivasa Rao, K.N. (1988) The Rotation and Lorentz Groups and Their Representa-
+
+tions for Physicists. Wiley, New-Delhi, p. 213.   
+
+[10]  Chaichian,  M.,  Demichev,  A.P.  and  Nelipa,  N.F.  (1983) Communications in Ma-
+
+thematical Physics, 90, 353-372. https://doi.org/10.1007/BF01206887 
+
+ 
+DOI: 10.4236/jmp.2021.123017 
+ 
+
+228 
+
+Journal of Modern Physics 
+
+

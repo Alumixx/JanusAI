@@ -1,0 +1,13471 @@
+Practical Calculations in General Relativity
+
+in the Case of Diagonal Metrics
+
+David Pigeon 1
+
+May 23, 2023
+
+The present text focuses exclusively on the exploration of a space-time manifold(M, g), where the metric
+
+g is diagonal.
+
+In the first chapter, a comparative study is undertaken to evaluate two distinct methods for accurately
+calculating the components of classical curvature-related tensors, such as the curvature tensor, the Riemann
+tensor, the Ricci tensor, and the Einstein tensor.
+
+(∂0, ∂1, ∂2, ∂3).
+(θ0, θ1, θ2, θ3), specially chosen to orthonormalize the metric g and thus facilitate calculations and geometric
+
+The first approach adopted is the standard method, which relies on the use of the vector field basis
+
+The second method, known as the ”tetrad method,” distinguishes itself by using an alternative basis
+
+interpretations.
+
+These two methods are applied in the context of a specific metric h that exhibits diagonal properties
+and spherical symmetry. This metric encompasses well-known metrics such as Schwarzschild, Reissner-
+Nordstr¨om, and Friedmann-Lemaˆıtre-Robertson-Walker metrics.
+
+The second chapter is dedicated to solving the Einstein equation for the metric h in the presence of a
+general energy-momentum tensor. Efforts are focused on the analysis and resolution of the Einstein equation
+to deduce the initial properties of the functions appearing in the metric.
+
+Examples are presented to illustrate the application of the obtained results. Special attention is given to
+the study of the Friedmann-Lemaˆıtre-Robertson-Walker metric, which is used to describe the expansion of
+the Universe in the field of cosmology. Subsequently, a more detailed analysis is devoted to the Schwarzschild
+and Reissner-Nordstr¨om metrics, representing solutions for a non-charged and charged massive object in a
+curved space-time, respectively.
+
+Finally, general results are demonstrated regarding the general form of the metric in these specific cases.
+
+1Associate professor in preparatory classes and in charge of tutorials at the University of Caen-Normandy.
+
+Contact: david.pigeon@unicaen.fr
+
+1
+
+Practical Calculations in General Relativity
+
+2
+
+David Pigeon
+
+Contents
+
+1 Calculations of Objects Associated with Curvature for Diagonal Metrics
+
+1.1 Generalities and Notations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.1.1 Tangent and Cotangent Bundles . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.1.2 The Language of Tensors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.1.3 Tensor Fields . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.1.4 The diagonal metric of the text . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.1.5 Orthonormalization . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.1.7 Tensor Notations
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.1.8 Lowering indices with the tensor g . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+1.1.6 The bases E and E∗
+1.1.9 Raising indices with the tensor g∗ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+1.2 Connections associated with curvature . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.2.1 Lie Derivative and Lie Bracket . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.2.2 Levi-Civita Connection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.2.3 Trace and divergence . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+. . . . . . . . . . . . .
+1.3 Curvature Tensor and Riemann Tensor . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.3.1 Generalities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+1.2.4 Definition of the connection in the bases E and E∗ . . . . . . . . . . . . . . . . . . . . .
+1.2.5 Practical Calculations of Connection in C and C∗ bases . . . . . . . . . . . . . . . . . .
+1.2.6 Practical calculations of the connection in the C⊥ and C∗⊥ bases
+1.3.2 Computation of components in E and E∗ . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.3.3 Practical calculations in C and C∗ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.3.4 Practical computations of the curvature 2-form in C⊥ and C∗⊥ . . . . . . . . . . . . . . .
+1.3.5 Practical computations in C⊥ and C∗⊥
+1.4.2 Computation of the components in E and E∗ . . . . . . . . . . . . . . . . . . . . . . . .
+1.4.3 Calculation of components in C and C∗
+1.4.4 Calculation of components in C⊥ and C∗⊥ . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.5.1 Practical calculations in C and C∗ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.5.2 Practical calculations in C⊥ and C∗⊥
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.4.1 Generalities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.6 Tensor of Einstein . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+1.5 Scalar Curvature . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+1.4 Tensor of Ricci
+
+2 Practical Resolution in the Case of Spherically Symmetric Metrics
+
+2.1 General Solution . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.1.1 Objects Associated with Curvature
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.1.2 Form of the tensor field Sjl
+2.1.3 Using the Bianchi Identity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.1.4 The six fundamental equations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.1.5 Case where G and S are diagonal . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+2.1.6 Case where the functions u′ and ξ are zero . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+5
+5
+5
+9
+12
+14
+16
+17
+18
+19
+23
+27
+27
+29
+34
+36
+38
+45
+51
+51
+55
+59
+60
+64
+68
+68
+69
+71
+72
+76
+78
+79
+80
+
+87
+87
+87
+88
+90
+91
+92
+93
+
+3
+
+CONTENTS
+
+CONTENTS
+
+2.2 Case where the functions ˙b and ξ are zero. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+96
+98
+2.2.1
+Section plan . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.2.2 General solution . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+98
+2.2.3 Exterior Metric . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 102
+2.2.4
+Interior Metric . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 104
+
+2.2.5 Case where β(r)= 0 for r> R . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 109
+
+2.2.6 Example of the Reissner-Nordstr¨om Metric . . . . . . . . . . . . . . . . . . . . . . . . . . 112
+
+Bibliography
+
+117
+
+Practical Calculations in General Relativity
+
+4
+
+David Pigeon
+
+Chapter 1
+
+Calculations of Objects Associated with
+Curvature for Diagonal Metrics
+
+1.1 Generalities and Notations
+
+(U, φ∶=(x0, x1, x2, x3))
+
+Throughout this chapter, we consider a differentiable manifold M of dimension 4. We have a maximal atlas
+on M , and at each point p in M , we have a chart of the form:
+
+where p∈ U and the calculations will be performed on this chart. Thus, we have a diffeomorphism φ∶ U—→
+φ(U)⊂ R4, and for each i∈{0, 1, 2, 3}, we have an infinitely differentiable function:
+We denote C∞(M) as the set of infinitely differentiable functions f from M to R (on each chart U , the
+function f∣U ∶ U—→ R is such that f○ φ−1∶ φ(U)⊂ R4—→ R is infinitely differentiable in the usual sense).
+
+xi∶ U—→ R
+
+called the i-th coordinate function.
+
+Throughout this chapter, all considered objects will be infinitely differentiable.
+
+To simplify notation, we will use the symbol M instead of U from now on. It will be understood that
+
+we are working in a chart with coordinates.
+
+References for the concepts discussed in this chapter are:
+
+[2], [6], [8],
+
+[9], [11], [17],
+
+[20].
+
+1.1.1 Tangent and Cotangent Bundles
+
+We begin by defining the notion of vectors and tangent spaces.
+
+Definition 1.1.1.1: Tangent Space at a Point
+
+Let p∈ M .
+
+v∶ C∞(M)—→ R
+
+(i) A vector at p in M is a function:
+
+such that for all f1, f2∈ C∞(M) and all a, b∈ R:
+(a) v(af1+ bf2)= av(f1)+ bv(f2);
+(b) v(f1f2)= f1(p)v(f2)+ f2(p)v(f1).
+
+(ii) The tangent space TpM at p in M is defined as the set of vectors at p in M .
+
+5
+
+CHAPTER 1. CALCULATIONS OF OBJECTS ASSOCIATED WITH CURVATURE FOR DIAGONAL
+1.1. GENERALITIES AND NOTATIONS
+METRICS
+
+We notice that if f∶= a is constant on M , then v(f)= 0 because of point (i.b):
+i.e., v(1)= 0. Therefore, using point (i.a), we have:
+
+v(1)= 2v(1)
+v(f)= v(a)
+= av(1)
+= 0
+
+Notation 1.1.1.2: Notation for Tangent Space at a Point
+
+Let p∈ M .
+(1) We define two operations on TpM . For all v1, v2∈ TpM , a∈ R, and f∈ C∞(M), we have:
+(a) (v1+ v2)(f)∶= v1(f)+ v2(f);
+(b) v1(af)∶= av1(f).
+(2) The element ∂i,p∶ C∞(M)—→ R is defined for all f∈ C∞(M) by:
+−1)∣φ(p) .
+
+∂i,p(f)∶= ∂
+
+∂xi(f○ φ
+
+We have the following classical result.
+
+Proposition 1.1.1.3: Vector Space Structure of TpM
+
+(i) We have:
+
+∂i,p∈ TpM.
+
+we have:
+
+(ii) The ∂i,p are linearly independent.
+
+(iii) Let p∈ U . The triplet(TpM,+, .) is an R-vector space of dimension 4 generated by the ∂i,p, i.e.,
+(i) Let f1, f2∈ C∞(M) and a, b∈ R. Using linearity of differentiation, composition on the left, and
+
+TpM= spanR(∂i,p) .
+
+Proof.
+
+evaluation, we have:
+
+∂
+
+∂xi((af1+ bf2)○ φ
+−1)∣φ(p)
+∂i,p(af1+ bf2)= ∂
+∂xi(af1○ φ
+−1)∣φ(p)
+−1+ bf2○ φ
+= ∂
+∂xi(f2○ φ
+−1)∣φ(p)+ b
+∂xi(f1○ φ
+= a
+= a∂i,p(f1)+ b∂i,p(f2)
+∂xi((f1f2)○ φ
+−1)∣φ(p)
+∂i,p(f1f2)= ∂
+∂xi((f1○ φ
+−1))∣φ(p)
+= ∂
+−1)(f2○ φ
+−1)∣φ(p)+ f2(φ
+∂xi(f2○ φ
+−1(φ(p)) ∂
+= f1(φ
+= f1(p)∂i,p(f2)+ f2(p)∂i,p(f1)
+
+∂
+
+−1)∣φ(p)
+
+−1(φ(p)) ∂
+
+∂xi(f1○ φ
+
+−1)∣φ(p)
+
+Using the product rule for differentiation, we have:
+
+Practical Calculations in General Relativity
+
+6
+
+David Pigeon
+
+CHAPTER 1. CALCULATIONS OF OBJECTS ASSOCIATED WITH CURVATURE FOR DIAGONAL
+1.1. GENERALITIES AND NOTATIONS
+METRICS
+
+Therefore, we have:
+
+(ii) Let a0, a1, a2, a3∈ R such that:
+i.e., for all f∈ C∞(M), we have:
+Since xj∶ M—→ R∈ C∞(M), we have:
+
+∂i,p∈ TpM.
+ai∂i,p= 0
+3∑
+i=0
+ai∂i,p(f)= 0.
+3∑
+i=0
+0= 3∑
+ai∂i,p(xj)
+i=0
+∂xi(xj○ φ
+−1)∣φ(p)
+= 3∑
+i=0
+= 3∑
+−1(φ(p)))
+j(φ
+i=0
+= 3∑
+i=0
+= aj
+(iii) Let v∈ TpM , f∈ C∞(M), and q∈ M . Let’s define:
+F∶= f○ φ
+z∶=(z0, z1, z2, z3)∶= φ
+−1(q)
+λ∶=(λ0, λ1, λ2, λ3)∶
+
+Thus, the ∂i,p are linearly independent.
+
+Let’s denote:
+
+ai ∂
+
+aiδi
+j
+
+aiδi
+
+−1∶ R4—→ R.
+y∶=(y0, y1, y2, y3)∶= φ
+[0, 1] —→
+z→ (1− s)y+ sz
+
+R4
+
+s
+
+−1(p).
+
+0
+
+0
+
+d
+
+f(q)− f(p)= F(z)− F(y)
+= F(λ(1))− F(λ(0))
+=[F(λ(s))]1
+ds(F○ λ)(s)ds
+=∫ 1
+(λi)′(s)∂iF(λ(s))ds
+=∫ 1
+3∑
+i=0
+(zi− yi)∂iF((1− s)y+ sz)ds
+=∫ 1
+3∑
+i=0
+∂iF((1− s)y+ sz)ds
+(zi− yi)∫ 1
+= 3∑
+i=0
+(zi− yi)Gi(z)
+= 3∑
+i=0
+= 3∑
+(xi○ φ(q)− xi○ φ(q))Gi(φ(q))
+i=0
+
+0
+
+0
+
+0
+
+as the line segment connecting y and z in R4. Since F is differentiable on R4 and λ′= z− y, by the
+
+fundamental theorem of calculus and the chain rule, we have:
+
+David Pigeon
+
+7
+
+Practical Calculations in General Relativity
+
+CHAPTER 1. CALCULATIONS OF OBJECTS ASSOCIATED WITH CURVATURE FOR DIAGONAL
+1.1. GENERALITIES AND NOTATIONS
+METRICS
+
+Since v is linear and zero on constants, and using the properties satisfied by v, we apply v to obtain:
+
+With:
+
+Thus, the function f is given by:
+
+0
+
+∂iF((1− s)y+ sz)ds.
+(xi○ φ(q)− xi○ φ(p))Gi(φ(q)).
+
+Gi(z)∶=∫ 1
+f∶ qz→ f(p)+ 3∑
+i=0
+v((xi○ φ(q)− xi○ φ(p))Gi(φ(q)))
+v(f)= v(f(p))+ 3∑
+i=0
+= v(f(p))+ 3∑
+(xi○ φ(q)− xi○ φ(p))q=pv(Gi(φ(p)))+ 3∑
+i=0
+i=0
+= 3∑
+v(xi○ φ)∂i,p(f)
+i=0
+
+By setting:
+
+we have:
+
+vi∶= v(xi○ φ)
+
+v= vi∂i,p∈ VectR(∂i,p) .
+
+Gi(φ(p))v(xi○ φ− xi○ φ(p))
+
+Definition 1.1.1.4: Tangent and Cotangent Bundles
+
+(i) (a) The tangent bundle of M is defined as:
+
+{(p, v), v∈ TpM}
+
+T M∶= ⋃
+p∈M
+={(p, v), p∈ M ∧ v∈ TpM}
+π∶
+(b) A vector field is a section of T M , i.e., a map X∶ M—→ T M such that π○ X= IdM .
+(ii) (a) Let p∈ M . The cotangent space T∗
+
+T M —→ M
+(p, v) z→ p
+
+It is naturally equipped with a projection map:
+
+p M at p of M is defined as the dual of TpM , i.e., we
+
+have:
+
+The elements of T∗
+
+p M are called covectors.
+(b) The cotangent bundle of M is defined as:
+
+∗
+
+T
+
+T
+
+.
+
+p M∶=(TpM)∗
+∗
+{(p, ϕ), ϕ∈ T
+
+p M}
+M∶= ⋃
+∗
+p∈M
+={(p, ϕ), p∈ M ∧ ϕ∈ T
+π∗∶ T∗M —→ M
+(p, ϕ) z→ p
+
+p M}
+∗
+
+It is naturally equipped with a projection map:
+
+(c) A covector field or 1-form (differential) is a section of T∗M , i.e., a map α∶ M—→ T∗M
+such that π∗○ α= IdM .
+
+Practical Calculations in General Relativity
+
+8
+
+David Pigeon
+
+CHAPTER 1. CALCULATIONS OF OBJECTS ASSOCIATED WITH CURVATURE FOR DIAGONAL
+1.1. GENERALITIES AND NOTATIONS
+METRICS
+
+Example 1.1.1.5: Tangent and Cotangent Bundles
+
+(1) For every i∈{0, 1, 2, 3}, we denote the section:
+The family C ∶= (∂0, ∂1, ∂2, ∂3) forms a basis of vector fields,
+for every p ∈ M ,
+(∂0,p, ∂1,p, ∂2,p, ∂3,p) is a basis of TpM .
+(2) We denote(dx0,p, dx1,p, dx2,p, dx3,p) as the dual basis of(∂0,p, ∂1,p, ∂2,p, ∂3,p), i.e., for every j∈
+{0, 1, 2, 3}, we have a linear form:
+
+∂i∶ M —→ T M
+p z→ (p, ∂i,p)
+
+i.e.,
+
+such that:
+
+We then define the section:
+
+The family C∗ ∶= (dx0, dx1, dx2, dx3) forms a basis of covector fields, i.e., for every p ∈ M ,
+(dx0,p, dx1,p, dx2,p, dx3,p) is a basis of T∗
+
+p M .
+
+Throughout, we will omit the subscript ”p”. Thus, we identify vectors with vector fields and covectors
+
+with covector fields. For example, we have:
+
+dxj,p∶ TpM—→ R
+dxj,p(∂xi,p)= δj
+dxj∶ M —→
+T∗M
+p z→ (p, dxj,p)
+
+i .
+
+dxj(∂i)= δj
+
+i .
+
+1.1.2 The Language of Tensors
+Let E, F, E1, . . . , Ek be R-vector spaces.
+
+Lk(E1×⋯× Ek, F)
+
+● We denote:
+the set of k-linear maps from E1×⋯× Ek to F .
+● We denote:
+the dual space of E and E∗∗∶=(E∗)∗ the bidual space of E. There exists a canonical isomorphism
+between E and its bidual E∗∗ given by:
+
+E
+
+∗∶= L(E, R)
+E —→
+E∗∗
+u z→ (ϕz→ ϕ(u))
+
+From now on, we identify them.
+
+In this subsection, we consider the bases B∶=(e1, . . . , en) and B′∶=(f1, . . . , fm) on E and F , respectively.
+We denote B∗∶=(e1, . . . , en) and B′∗∶=(f 1, . . . , f m) as the bases of E∗ and F∗, respectively, derived from
+B and B′ (where ei(ej)= δi
+
+j and f i(fj)= δi
+
+j).
+
+David Pigeon
+
+9
+
+Practical Calculations in General Relativity
+
+CHAPTER 1. CALCULATIONS OF OBJECTS ASSOCIATED WITH CURVATURE FOR DIAGONAL
+1.1. GENERALITIES AND NOTATIONS
+METRICS
+
+1×⋯× E
+∗
+
+k , R).
+∗
+
+The tensor product of vector spaces E1, . . . , Ek is defined as:
+
+Definition 1.1.2.1: Tensor Product
+
+E1⊗⋯⊗ Ek∶= Lk(E
+The elements of E1⊗⋯⊗ Ek are called tensors.
+(1) For any T∈ E⊗ F , we have a decomposition:
+m∑
+j=1
+
+Example 1.1.2.2: Usual Examples
+
+T= n∑
+i=1
+
+Tijei⊗ fj= Tijei⊗ fj.
+
+The second equality is the Einstein convention that we adopt from now on. Thus, we have:
+
+(2) We have:
+
+j= Tkl.
+T(ek, f l)= Tijei⊗ fj(ek, f l)= Tijei(ek)fj(f l)= Tijδk
+∗× E, R)
+, R) , E⊗ E
+∗× E
+E⊗ E∶= L2(E
+∗∶= L2(E
+For all k, l∈ N, we have for example:
+⊗k⊗ E
+⊗k⊗ E
+⊗l∶= E
+⊗(k+1)∶= E
+⊗k)⊗l∶= E
+(E
+⊗1∶= L(E
+∗∗= E
+, R)= E
+∗
+⊗0∶= R
+
+i δl
+
+∗
+
+E
+
+E
+
+E
+
+⊗(k+l)
+⊗(kl)
+
+which allows us to identify these two
+
+E
+
+vector spaces.
+
+There exists a canonical isomorphism (E∗)⊗k = (E⊗k)∗
+∗)⊗l
+⊗k⊗(E
+T k,lE∶= E
+T E∶= ⊕
+k,l≥0
+
+T k,lE.
+
+We define:
+
+Thus, we construct the set:
+
+● The elements of T kE∶= T k,0E (with k> 0) are called contravariant tensors.
+● The elements of T 0,lE (with l> 0) are called covariant tensors.
+● The elements of T k,lE (with k, l> 0) are called mixed tensors.
+triple(T E,+,⋅) an R-vector space. A tensor T of type(k, l) admits a unique decomposition of the form:
+ei1⊗⋯⊗ eik⊗ ej1⊗⋯⊗ ejl
+We say that this is the decomposition of T in the bases B and B∗.
+
+Naturally, we define addition and scalar multiplication between tensors of the same type, making the
+
+T= T i1⋯ik
+j1⋯jk
+
+Below, we define a multiplication operation.
+
+Definition 1.1.2.3: Tensor Products
+
+Let x1, . . . , xk∈ E and ψ1, . . . , ψk∈ E∗. We have an element:
+x1⊗⋯⊗ xk⊗ ψ1⊗⋯⊗ ψl ∈ T k,lE∶= E
+
+⊗k⊗(E
+
+∗)⊗l
+
+Practical Calculations in General Relativity
+
+10
+
+David Pigeon
+
+CHAPTER 1. CALCULATIONS OF OBJECTS ASSOCIATED WITH CURVATURE FOR DIAGONAL
+1.1. GENERALITIES AND NOTATIONS
+METRICS
+
+defined for all ϕ1, . . . , ϕk∈ E∗ and y1, . . . , yl∈ E by:
+
+(x1⊗⋯⊗ xk⊗ ψ1⊗⋯⊗ ψl)(ϕ1, . . . , ϕk, y1, . . . , yl)∶= k∏
+i=1
+
+ϕi(xi)× l∏
+j=1
+
+ψj(yj).
+
+Example 1.1.2.4: Simple Examples of Tensor Products
+
+This product generalizes by linearity to arbitrary multilinear forms. Therefore, the product S⊗ T of
+tensors of order(k1, l1) and(k2, l2) is of order(k1+ k2, l1+ l2).
+(1) The product of x, y∈ E is an element x⊗ y∈ E⊗ E= L2(E∗× E∗, R) defined by:
+(2) The product of ϕ, ψ∈ E∗ is an element ϕ⊗ ψ∈ E∗⊗ E∗= L2(E× E, R) defined by:
+(3) The product of x∈ E and ψ∈ E∗ is an element x⊗ ψ∈ E⊗ E∗= L2(E∗× E, R) defined by:
+These products are associative, non-commutative, and distributive with respect to+.
+The quadruple(T E,+,⋅,⊗) is thus a graded R-algebra.
+
+∀ϕ, ψ∈ E
+, (x⊗ y)(ϕ, ψ)∶= ϕ(x)ψ(y).
+∀x, y∈ E, (ϕ⊗ ψ)(x, y)∶= ϕ(x)ψ(y).
+,∀y∈ E, (x⊗ ψ)(ϕ, y)∶= ϕ(x)ψ(y).
+∀ϕ∈ E
+∗
+
+∗
+
+We conclude this subsection with the contraction of tensors.
+
+Definition 1.1.2.5: Contractions of Tensors
+
+j= yj(xi)x1⊗⋅⋅⋅⊗ xi−1⊗ xi+1⊗⋅⋅⋅⊗ xk⊗ y1⊗⋅⋅⋅⊗ yj−1⊗ yj+1⊗⋅⋅⋅⊗ yl
+[T]i
+
+Let T∶= x1⊗⋅⋅⋅⊗ xk⊗ y1⊗⋅⋅⋅⊗ yl∈ E⊗k⊗(E∗)⊗l be a tensor of type(k, l) with k, l≥ 1, i∈{1, . . . , k},
+and j∈{1, . . . , l}. The contraction of T along indices i and j is the tensor:
+It is a tensor of type(k− 1, l− 1).
+These contractions are associative and distributive with respect to +. It can be shown that they are
+Example 1.1.2.6: Trace of a(1, 1) Tensor
+Let T∈ T 1
+1 E be a tensor of type(1, 1). Since
+T can also be viewed as a linear map on E. Let’s denote its decomposition in the bases B and B∗
+
+T 1
+
+independent of the chosen basis.
+
+as:
+
+The trace of T is defined as:
+
+∗= L(E)
+1 E= E⊗ E
+T∶= Ti
+jei⊗ ej.
+tr(T)∶=[T]1
+
+1.
+
+David Pigeon
+
+11
+
+Practical Calculations in General Relativity
+
+CHAPTER 1. CALCULATIONS OF OBJECTS ASSOCIATED WITH CURVATURE FOR DIAGONAL
+1.1. GENERALITIES AND NOTATIONS
+METRICS
+
+Therefore, we have:
+
+1
+
+tr(T)=[T]1
+= Ti
+jej(ei)
+= Ti
+= Tj
+
+jδj
+
+i
+
+j
+
+This definition is the same as the standard definition of trace for an endomorphism. The trace is
+independent of the chosen basis.
+
+1.1.3 Tensor Fields
+
+We denote T k,lM the set of real tensor fields on M of type(k, l), i.e., the set of fields A such that at
+each point p∈ M , we have a tensor Ap of type(k, l). Thus, we have a k-linear map:
+
+using the equality:
+
+We denote T M the set of tensor fields on M :
+
+Ap∶(TpM)k×(T
+T k,lTpM=(TpM)⊗k⊗(T
+
+p M)l—→ R
+∗
+p M)⊗l
+∗
+
+.
+
+T M∶= ⊔
+k,l≥0
+
+T k,lM.
+
+All the operations defined on tensors in the previous subsection extend naturally to tensor fields.
+
+Definition 1.1.3.2: Examples of Tensor Fields
+
+Example 1.1.3.1: Examples of Tensor Fields
+
+(1) A scalar field is a tensor field of type(0, 0).
+(2) A vector field is a tensor field of type(1, 0).
+(3) A covector field or 1-form is a tensor field of type(0, 1).
+(4) A linear map from M to M (i.e., for each p∈ M , there is a linear map from TpM ) can be seen
+as a tensor of type(1, 1).
+A spacetime metric (of signature(1, 3)) is a tensor field g of type(0, 2) such that for every p∈ M :
+(i) gp is symmetric, i.e., for all vector fields X and Y and every p∈ M , we have:
+(ii) gp is nonsingular, i.e., for all vector fields X and Y and every p∈ M , we have:
+gp(X(p), Y(p))= 0R (cid:212)⇒ X(p)= 0TpM ∨ Y(p)= 0TpM .
+(iii) gp has signature(1, 3), i.e., there exists a basis Bp of TpM such that
+⎞⎟⎟⎟⎠ .
+
+M atBp(g)=⎛⎜⎜⎜⎝
+0 −1
+
+gp(X(p), Y(p))= gp(Y(p), X(p)).
+
+−1
+
+0
+0
+0
+
+0
+0
+
+1
+
+0
+
+0
+0
+
+0
+0
+
+0
+
+−1
+
+Practical Calculations in General Relativity
+
+12
+
+David Pigeon
+
+CHAPTER 1. CALCULATIONS OF OBJECTS ASSOCIATED WITH CURVATURE FOR DIAGONAL
+1.1. GENERALITIES AND NOTATIONS
+METRICS
+
+We then say that the pair(M, g) is a spacetime manifold or Lorentzian manifold of signature
+(1, 3).
+From now on, we omit the letter ”p”. For example, we say that g is symmetric and write g(X, Y)=
+g(Y, X) instead of gp(X(p), Y(p))= gp(Y(p), X(p)).
+
+Example 1.1.3.3: Spherically Symmetric Metrics
+
+(1) Metric on the unit 2-sphere. Consider the unit 2-sphere in R3:
+
+The change of variables between Cartesian and spherical coordinates is given by:
+
+The Jacobian matrix of the change of variables is:
+
+f∶
+
+S2∶={(x, y, z)∈ R3, x2+ y2+ z2= 1} .
+]0, π[×[0, 2π[ —→
+S2⊂ R3
+(ϑ, φ)
+z→ (x, y, z)∶=(sin ϑ cos φ, sin ϑ sin φ, cos ϑ)
+⎞⎟⎟⎠=⎛⎜⎝cos ϑ cos φ − sin ϑ sin φ
+J∶=⎛⎜⎜⎝ ∂x
+⎞⎟⎠ .
+− sin ϑ
+δ∶= dx⊗ dx+ dy⊗ dy+ dz⊗ dz
+⎞⎟⎠ ,
+M at(∂x,∂y,∂z)(δ)= I3∶=⎛⎜⎝1 0 0
+
+cos ϑ sin φ sin ϑ cos φ
+
+0 1 0
+0 0 1
+
+∂x
+∂ϕ
+∂y
+∂ϕ
+∂z
+∂ϕ
+
+∂ϑ
+∂y
+∂ϑ
+∂z
+∂ϑ
+
+0
+
+Let:
+
+and hΩ∶= f∗δ be the metric on the unit 2-sphere induced by δ through the parameterization f .
+
+M at(∂φ,∂ψ)(hΩ)= tJM at(∂x,∂y,∂z)(δ)J
+= tJI3J
+=( cos ϑ cos φ cos ϑ sin φ − sin ϑ
+− sin ϑ sin φ sin ϑ cos φ
+=(1
+0 sin2 ϑ)
+
+0 )⎛⎜⎝1 0 0
+⎞⎟⎠
+hΩ∶= dϑ⊗ dϑ+ sin2 ϑ dφ⊗ dφ
+
+0 1 0
+0 0 1
+
+0
+
+⎛⎜⎝cos ϑ cos φ − sin ϑ sin φ
+⎞⎟⎠
+− sin ϑ
+
+cos ϑ sin φ sin ϑ cos φ
+
+0
+
+(2) Transformation from Cartesian to Spherical Coordinates. The metric η in the C∗ basis
+
+Since:
+
+we have:
+
+So we have:
+
+is given by:
+
+So we have:
+
+η= dx0⊗ dx0− dx1⊗ dx1− dx2⊗ dx2− dx3⊗ dx3
+⎞⎟⎟⎟⎠
+NC ∶= MatC(η)=⎛⎜⎜⎜⎝
+0 −1
+
+−1
+
+0
+0
+0
+
+0
+0
+
+1
+
+0
+
+0
+0
+
+0
+0
+
+0
+
+−1
+
+David Pigeon
+
+13
+
+Practical Calculations in General Relativity
+
+CHAPTER 1. CALCULATIONS OF OBJECTS ASSOCIATED WITH CURVATURE FOR DIAGONAL
+1.1. GENERALITIES AND NOTATIONS
+METRICS
+
+The Jacobian matrix of the coordinate transformation is:
+
+The change of variables from Cartesian to spherical coordinates is given by:
+
+⎧⎪⎪⎪⎪⎪⎪⎪⎨⎪⎪⎪⎪⎪⎪⎪⎩
+x0∶= t
+x1∶= r sin ϑ cos φ
+x2∶= r sin ϑ sin φ
+x3∶= r cos ϑ
+⎞⎟⎟⎟⎟⎟⎟⎠
+⎞⎟⎟⎟⎠
+=⎛⎜⎜⎜⎝
+0 sin ϑ cos φ r cos ϑ cos φ −r sin ϑ sin φ
+B∶=(∂t, ∂r, ∂ϑ, ∂φ)
+
+−r sin ϑ
+, B∗∶=(∂t, ∂r, ∂ϑ, ∂φ)
+
+0 sin ϑ sin φ r cos ϑ sin φ r sin ϑ cos φ
+0
+
+∂x0
+∂ϑ
+∂x1
+∂ϑ
+∂x2
+∂ϑ
+∂x3
+∂ϑ
+
+∂x0
+∂φ
+∂x1
+∂φ
+∂x2
+∂φ
+∂x3
+∂φ
+
+cos ϑ
+
+1
+
+0
+
+0
+
+0
+
+0
+
+J∶=
+
+⎛⎜⎜⎜⎜⎜⎜⎝
+
+∂x0
+∂t
+∂x1
+∂t
+∂x2
+∂t
+∂x3
+∂t
+
+∂x0
+∂r
+∂x1
+∂r
+∂x2
+∂r
+∂x3
+∂r
+
+Let’s define:
+
+For simplicity, let’s define:
+
+NB∶= MatB(η) , c(ϑ)∶= cos ϑ , s(ϑ)∶= sin ϑ , c(φ)∶= cos φ , s(φ)∶= sin φ
+
+By change of basis, we have:
+
+0
+
+0
+
+1
+
+0
+
+⎞⎟⎟⎟⎠
+⎛⎜⎜⎜⎝
+rc(ϑ)c(φ) −rs(ϑ)s(φ)
+0 s(ϑ)c(φ)
+rc(ϑ)s(φ)
+0 s(ϑ)s(φ)
+rs(ϑ)c(φ)
+−rs(ϑ)
+c(ϑ)
+−1
+⎞⎟⎟⎟⎠
+rc(ϑ)c(φ) −rs(ϑ)s(φ)
+rc(ϑ)s(φ)
+rs(ϑ)c(φ)
+−rs(ϑ)
+
+0
+
+0
+
+0
+
+⎞⎟⎟⎟⎠
+
+0
+
+0
+
+0
+
+1
+
+1
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+0
+
+0
+0
+
+0
+0
+
+1
+0
+0
+
+0
+0
+0
+
+⎛⎜⎜⎜⎝
+0 −1
+−1
+⎛⎜⎜⎜⎝
+0 s(ϑ)c(φ)
+0 s(ϑ)s(φ)
+c(ϑ)
+
+NB=tJNC J
+⎞⎟⎟⎟⎠
+=⎛⎜⎜⎜⎝
+s(ϑ)s(φ)
+c(ϑ)
+s(ϑ)c(φ)
+rc(ϑ)s(φ) −rs(ϑ)
+rc(ϑ)c(φ)
+rs(ϑ)c(φ)
+0 −rs(ϑ)s(φ)
+⎞⎟⎟⎟⎠
+=⎛⎜⎜⎜⎝
+−s(ϑ)s(φ) −c(ϑ)
+0 −s(ϑ)c(φ)
+0 −rc(ϑ)c(φ) −rc(ϑ)s(φ)
+rs(ϑ)
+rs(ϑ)s(φ) −rs(ϑ)c(φ)
+⎞⎟⎟⎟⎠
+=⎛⎜⎜⎜⎝
+0 −1
+−r2
+η= dx0⊗ dx0− dx1⊗ dx1− dx2⊗ dx2− dx3⊗ dx3
+= dt⊗ dt− dr⊗ dr− r2dϑ⊗ dϑ− r2 sin2 ϑdφ⊗ dφ
+
+−r2 sin2 ϑ
+
+So we have:
+
+0
+0
+0
+
+0
+0
+
+0
+0
+
+0
+0
+
+0
+
+0
+
+0
+
+0
+
+1
+
+0
+
+0
+
+1
+
+0
+
+1.1.4 The diagonal metric of the text
+
+Let’s recall what has been defined.
+
+● A differential manifold M of dimension 4.
+
+Practical Calculations in General Relativity
+
+14
+
+David Pigeon
+
+CHAPTER 1. CALCULATIONS OF OBJECTS ASSOCIATED WITH CURVATURE FOR DIAGONAL
+1.1. GENERALITIES AND NOTATIONS
+METRICS
+
+● At each point p of M , we have a chart of M of the form:
+
+(U, φ∶=(x0, x1, x2, x3))
+
+i.e., we have:
+
+on which we will perform calculations.
+
+● C ∶=(∂0, ∂1, ∂2, ∂3) is the basis of vector fields on U associated with the coordinates x∶=(x0, x1, x2, x3),
+● C∗∶=(dx0, dx0, dx0, dx0) is the dual basis associated with C of covector fields, i.e., we have:
+
+∂xi
+
+.
+
+∂i∶= ∂
+dxi(∂j)= δi
+
+j.
+
+We omit the ”p” in the notations as well as the ”U ”.
+
+We have a metric g on M that is an spacetime metric (of signature(1, 3)) and is locally given by the
+
+form:
+
+where
+
+g= ηk(euk(x)
+= ηke2uk(x)
+= e2u0(x)
+ηk∶={ 1
+● the components of g as:
+● the metric:
+
+We also denote:
+
+dxk)⊗(euk(x)
+dxk)
+dxk⊗ dxk
+dx1⊗ dx1− e2u2(x)
+dx0⊗ dx0− e2u1(x)
+if k∶= 0
+, ηij∶= δi
+−1 otherwise
+gij∶= g(∂i, ∂j)= ηije2ui(x)
+
+, δi
+
+jηi
+
+dx3⊗ dx3
+
+dx2⊗ dx2− e2u3(x)
+j∶= δij∶= δij∶={ 1 if i= j
+
+0 otherwise
+
+η= ηkdxk⊗ dxk
+= dx0⊗ dx0− dx1⊗ dx1− dx2⊗ dx2− dx3⊗ dx3
+
+ηij∶= η(∂i, ∂j) .
+, ui,kl∶= ∂2
+
+ui,k∶= ∂kui∶= ∂ui
+
+∂xk
+
+klui∶= ∂2ui
+
+∂xk∂xl
+
+.
+
+and thus we have:
+
+● the derivatives:
+
+We will omit the variable ”x” in the functions ui from now on.
+
+Example 1.1.4.1: Example of the metric h
+
+In this text, we will consider the following diagonal metric h as an example:
+
+h= e2u(t,r)
+= e2u(t,r)
+
+dt⊗ dt− e2v(t,r)
+dt⊗ dt− e2v(t,r)
+
+dr⊗ dr− r2e2b(t)(dϑ⊗ dϑ+ sin2 ϑdφ⊗ dφ)
+dr⊗ dr− r2e2b(t)
+
+hΩ
+
+where:
+
+hΩ∶= dϑ⊗ dϑ+ sin2 ϑdφ⊗ dφ
+
+is the metric on the unit 2-sphere in spherical coordinates (see point (2) of Example 1.1.3.3). We are
+
+David Pigeon
+
+15
+
+Practical Calculations in General Relativity
+
+CHAPTER 1. CALCULATIONS OF OBJECTS ASSOCIATED WITH CURVATURE FOR DIAGONAL
+1.1. GENERALITIES AND NOTATIONS
+METRICS
+
+considering the case where:
+
+and
+
+(x0, x1, x2, x3)∶=(t, r, ϑ, ϕ).
+u0(t, r)∶= u(t, r)
+u1(t, r)∶= v(t, r)
+u2(t, r)∶= b(t)+ ln(r)
+u3(t, r, ϑ)∶= b(t)+ ln(r)+ ln sin(ϑ)
+(0, 1, 2, 3)≡(t, r, ϑ, ϕ)
+
+For indices or exponents, we use the notation:
+
+Derivatives with respect to t are denoted with a dot (e.g., ˙u and ¨u), and derivatives with respect to
+
+r are denoted with a prime (e.g., u′ and u′′).
+
+This metric allows us to consider two common cases in the next chapter.
+
+(a) The interior and exterior Schwarzschild metrics (SCHW), and the Reissner–Nordstr¨om
+
+metric (RN) correspond to the case where:
+
+b= 0.
+
+(b) The Friedmann–Lemaˆıtre–Robertson–Walker metric (FLRW) corresponds to the case
+
+where:
+
+˙u= u
+
+′= 0 , v(t, r)= v(r)+ b(t).
+
+We want to have:
+
+Thus, we have:
+
+Therefore, we have:
+
+1.1.5 Orthonormalization
+
+The basis C is not orthonormal for g in general, meaning that we generally have:
+
+We will construct an orthonormal basis C⊥∶=(θ0, θ1, θ2, θ3) associated with C . Let us define:
+
+g(∂i, ∂j)= gij≠ ηij.
+θk∶= f k∂k.
+ηk= g(θk, θk)= g(f k∂k, f k∂k)=(f k)2
+g(∂k, ∂k)=(f k)2
+1√∣gkk∣= e
+=
+−uk
+1√∣gkk∣ ∂k= e
+−uk ∂k
+θk∶= fkdxk.
+
+f k=√ ηk
+θk= f k∂k=
+
+gkk
+
+gkk
+
+We denote C∗⊥ ∶=(θ0, θ1, θ2, θ3) as the dual basis associated with C⊥, where:
+1= θk(θk)= f kdxk(fk∂k)= f kfkdxk(∂k)= f kfk
+
+Thus, we have:
+
+Therefore, we have:
+
+fk=(f k)−1= euk .
+
+(1.1.5.1)
+
+Practical Calculations in General Relativity
+
+16
+
+David Pigeon
+
+CHAPTER 1. CALCULATIONS OF OBJECTS ASSOCIATED WITH CURVATURE FOR DIAGONAL
+1.1. GENERALITIES AND NOTATIONS
+METRICS
+
+Thus, we have:
+
+Consequently, we have:
+
+θk= fkdxk= euk dxk.
+
+(1.1.5.2)
+
+g= θ0⊗ θ0− θ1⊗ θ1− θ2⊗ θ2− θ3⊗ θ3= ηkθk⊗ θk= ηijθi⊗ θj.
+
+Example 1.1.5.1: Extension 1 of the metric h
+
+Let’s continue with the example of the metric h (see 1.1.4.1) with:
+
+We denote:
+
+the orthonormal basis associated with:
+
+and
+
+the dual basis associated with B⊥. We have:
+
+u0(t, r)∶= u(t, r)
+u2(t, r)∶= b(t)+ ln(r)
+
+u1(t, r)∶= v(t, r)
+u3(t, r, ϑ)∶= b(t)+ ln(r)+ ln sin(ϑ)
+B⊥∶=(θ0, θ1, θ2, θ3)∶=(θt, θr, θϑ, θϕ)
+B∶=(∂0, ∂1, ∂2, ∂3)∶=(∂t, ∂r, ∂ϑ, ∂ϕ)
+B∗⊥∶=(θ0, θ1, θ2, θ3)∶=(θt, θr, θϑ, θϕ)
+θr= θ1= e
+θt= θ0= e
+−u∂t
+−v∂t
+θϕ= θ3= r
+θϑ= θ2= r
+−1e
+−b∂ϑ
+−1 sin
+−1 ϑe
+θr= θ1= evdr
+θt= θ0= eudt
+θϕ= θ3= r sin ϑeadϕ
+θϑ= θ2= readϑ
+h= θt⊗ θt− θr⊗ θr− θϑ⊗ θϑ− θϕ⊗ θϕ.
+
+−b∂ϕ
+
+Thus, we have:
+
+For the rest of the discussion, we define:
+
+1.1.6 The bases E and E∗
+● E ∶=(e0, e1, e2, e3) as a basis of vector fields on M ;
+● E∗∶=(e0, e1, e2, e3) as the dual basis associated with E , i.e., we have:
+The bases E and E∗ will be used to handle the general case. Let’s define:
+
+j.
+
+ei(ej)= δi
+ggij∶= g(ei, ej)
+g= ggijei⊗ ej.
+i≠ j ∧ ggij≠ 0.
+
+which means that we can write:
+
+It is important to note that unlike C and C⊥, the metric g is not diagonal in E , i.e., we can have:
+
+David Pigeon
+
+17
+
+Practical Calculations in General Relativity
+
+CHAPTER 1. CALCULATIONS OF OBJECTS ASSOCIATED WITH CURVATURE FOR DIAGONAL
+1.1. GENERALITIES AND NOTATIONS
+METRICS
+
+1.1.7 Tensor Notations
+
+Let A be a tensor field of type(k, l). We denote:
+
+AAj1⋯jk
+i1⋯il
+Aj1⋯jk
+i1⋯il
+Aj1⋯jk
+i1⋯il
+
+∶= A(ej1, . . . , ejk , ei1, . . . , eil)
+∶= A(dxj1, . . . , dxjk , ∂i1, . . . , ∂il)
+∶= A(θj1, . . . , θjk , θi1, . . . , θil)
+
+We will use specific letters depending on the basis used to calculate the components of the tensor fields.
+Here is a table explaining the letter conventions used:
+
+Tensor Fields
+
+In E and E∗ Bases
+
+In C and C∗ Bases
+
+In C⊥ and C∗⊥ Bases
+
+R, G , T , . . .
+
+RR, GG, TT, . . .
+
+R, G, T, . . .
+
+R, G, T, . . .
+
+Thus, we have the following decompositions:
+
+A = AAj1⋯jk
+i1⋯il
+A = Aj1⋯jk
+i1⋯il
+A = Aj1⋯jk
+i1⋯il
+
+ej1⊗⋯⊗ ejk⊗ ei1⊗⋯⊗ eil
+∂j1⊗⋯⊗ ∂jk⊗ dxi1⊗⋯⊗ dxil
+θj1⊗⋯⊗ θjk⊗ θi1⊗⋯⊗ θil
+
+Proposition 1.1.7.1: Relations between components
+
+We have:
+
+i1⋯il = exp( l∑
+Aj1⋯jk
+n=1
+
+uin− k∑
+n=1
+
+ujn) Aj1⋯jk
+i1⋯il
+
+.
+
+Proof. We have:
+
+∂j1⊗⋯⊗ ∂jk⊗ dxi1⊗⋯⊗ dxil
+Thus, by the uniqueness of the decomposition of A in the C and C∗ bases, we have:
+
+−ujk ∂jk⊗ eui1 dxi1⊗⋯⊗ euil dxil
+ujn) Aj1⋯jk
+i1⋯il
+
+e
+
+∂j1⊗⋯⊗ ∂jk⊗ dxi1⊗⋯⊗ dxil
+Aj1⋯jk
+i1⋯il
+=A=Aj1⋯jk
+θj1⊗⋯⊗ θjk⊗ θi1⊗⋯⊗ θil
+i1⋯il
+−uj1 ∂j1⊗⋯⊗ e
+=Aj1⋯jk
+i1⋯il
+uin− k∑
+= exp( l∑
+n=1
+n=1
+i1⋯il = exp( l∑
+Aj1⋯jk
+n=1
+
+uin− k∑
+n=1
+
+ujn) Aj1⋯jk
+i1⋯il
+
+.
+
+In the following example, we provide the main tensor fields studied in this chapter.
+
+Practical Calculations in General Relativity
+
+18
+
+David Pigeon
+
+CHAPTER 1. CALCULATIONS OF OBJECTS ASSOCIATED WITH CURVATURE FOR DIAGONAL
+1.1. GENERALITIES AND NOTATIONS
+METRICS
+
+Example 1.1.7.2: Common examples
+
+(1) The curvature tensor decomposes as follows:
+
+Thus, by the previous proposition 1.1.7.1, we have:
+
+(2) The Riemann tensor decomposes as follows:
+
+Thus, by the previous proposition 1.1.7.1, we have:
+
+(3) The Ricci tensor decomposes as follows:
+
+Thus, by the previous proposition 1.1.7.1, we have:
+
+(4) The Einstein tensor decomposes as follows:
+
+Thus, by the previous proposition 1.1.7.1, we have:
+
+Ri
+
+jkl.
+
+R= RRi
+jkl ei⊗ ej⊗ ek⊗ el
+R= Ri
+jkl ∂i⊗ dxj⊗ dxk⊗ dxl
+R= Ri
+jkl θi⊗ θj⊗ θk⊗ θl
+jkl= e
+−ui+uj+uk+ulRi
+Rm= RRijkl ei⊗ ej⊗ ek⊗ el
+Rm= Rijkl dxi⊗ dxj⊗ dxk⊗ dxl
+Rm= Rijkl θi⊗ θj⊗ θk⊗ θl
+Rijkl= eui+uj+uk+ulRijkl.
+Ric= RRjl ej⊗ el
+Ric= Rjl dxj⊗ dxl
+Ric= Rjl θj⊗ θl
+Rjl= euj+ulRjl.
+G = GGjl ej⊗ el
+G = Gjl dxj⊗ dxl
+G = Gjl θj⊗ θl
+Gjl= euj+ulGjl.
+
+g= ggijei⊗ ej
+ggij∶= g(ei, ej) .
+
+1.1.8 Lowering indices with the tensor g
+
+In this subsection, we define an operation that lowers indices. We recall that:
+
+where:
+
+David Pigeon
+
+19
+
+Practical Calculations in General Relativity
+
+CHAPTER 1. CALCULATIONS OF OBJECTS ASSOCIATED WITH CURVATURE FOR DIAGONAL
+1.1. GENERALITIES AND NOTATIONS
+METRICS
+
+Example 1.1.8.1: A simple calculation
+
+Consider two vector fields X∶= X kek and Y ∶= Y lel. Let’s calculate g(X, Y) using the given decom-
+
+position of g. We have:
+
+Definition 1.1.8.2: Lowering of the i-th index
+
+The natural isomorphism associated with g is the flat musical application ag defined as:
+
+g(X, Y)= ggijei⊗ ej(X kek, Y lel)
+= ggijei(X kek) ej(Y lel)
+= ggijX kY lei(ek) ej(el)
+= ggijX kY lδi
+= ggklX kY l
+
+kδj
+
+l
+
+ag∶ T M —→
+
+X z→ Y z→ g(X, Y)
+
+T∗M
+♭∶= ag(X).
+
+X
+
+ag(ei)(ej)= g(ei, ej)= ggij
+
+♭(ei)
+XXi∶= X
+♭= XXiei.
+
+X
+
+X
+
+ag(ei)= ggijej
+♭= ag(X)
+= ag(XXiei)
+= XXiag(ei)
+= XXiggijej.
+XXj= XXiggij.
+
+We also denote, for any vector field X:
+
+Notation 1.1.8.3: Common notations
+
+Let X∶= XXiei be a vector field. We define:
+
+i.e., we have:
+
+Since:
+
+we have:
+
+and by linearity, we have:
+
+Thus, by the uniqueness of the decomposition, we have:
+
+In matrix form, we have:
+
+G∶= M atC ,C∗(ag)= M atC(g)=(ggij)ij .
+
+Practical Calculations in General Relativity
+
+20
+
+David Pigeon
+
+CHAPTER 1. CALCULATIONS OF OBJECTS ASSOCIATED WITH CURVATURE FOR DIAGONAL
+1.1. GENERALITIES AND NOTATIONS
+METRICS
+
+Example 1.1.8.4: Example of ag and g in the bases C and C⊥
+
+(1) In C , we have:
+
+Thus, we have:
+
+(2) In C⊥, we have:
+
+−uj .
+
+−eu1
+
+gij= ηije
+M atC ,C∗(ag)= M atC(g)=⎛⎜⎜⎜⎝
+M atC⊥,C∗⊥(ag)= M atC⊥(g)=⎛⎜⎜⎜⎝
+0 −1
+
+eu0
+0
+0
+0
+
+0
+0
+
+0
+
+0
+
+1
+
+0
+0
+
+0
+0
+
+⎞⎟⎟⎟⎠ .
+
+0
+0
+
+−eu2
+
+0
+
+0
+0
+
+−1
+
+0
+
+0
+0
+0
+
+−eu3
+⎞⎟⎟⎟⎠ .
+−1
+
+0
+0
+0
+
+and vector fields X0, . . . , Xl as:
+
+Definition 1.1.8.5: Flat musical isomorphism
+
+Let A be a tensor field of type(k, l) with k≥ 1 and n∈{1, . . . , k}. The n-lowered tensor field of
+A is the tensor field[A]n of type(k− 1, l+ 1) defined for all covector fields α1, . . . , αn−1, αn+1, . . . , αk
+[A]n(α1, . . . , αn−1, αn+1, . . . , αk, X0, . . . , Xl)∶= g(X0, A(α1, . . . , αn−1,●, αn+1, . . . , αk, X1, . . . , Xl)) .
+[A]n(α1, . . . , αn−1, αn+1, . . . , αk, X0, . . . , Xl)= ag(A(α1, . . . , αn−1,●, αn+1, . . . , αk, X1, . . . , Xl))(X0) .
+
+We have the following relation:
+
+The following proposition shows why the term ”lowered” has been used.
+
+Proposition 1.1.8.6: Lowering of the n-th index
+
+Let A be a tensor field of type(k, l) with k≥ 1 and n∈{1, . . . , k}. Define:
+
+Then we have:
+
+Proof. We have:
+
+∶= A(ej1, . . . , ejk , ei1, . . . , eil)
+AAj1⋯jk
+i1⋯il
+∶=[A]n(ej1, . . . , ejn−1, ejn+1, . . . , ejk , ejn, ei1, . . . , eil)
+AAj1⋯jn−1jn+1⋯jk
+jni1⋯il
+= AAj1⋯jn−1mjn+1⋯jk
+AAj1⋯jn−1jn+1⋯jk
+i1⋯il
+jni1⋯il
+=[A]n(ej1, . . . , ejn−1, ejn+1, . . . , ejk , ejn, ei1, . . . , eil)
+= g(ejn, A(ej1, . . . , ejn−1,●, ejn+1, . . . , ejk , ei1, . . . , eil))
+= g(ejn, AAj1⋯jn−1mjn+1⋯jk
+em)
+i1⋯il
+g(ejn, em)
+= AAj1⋯jn−1mjn+1⋯jk
+i1⋯il
+= AAj1⋯jn−1mjn+1⋯jk
+i1⋯il
+
+AAj1⋯jn−1jn+1⋯jk
+jni1⋯il
+
+ggmjn.
+
+ggmjn
+
+Since g is diagonal in the bases C and C⊥, we have the following result.
+
+David Pigeon
+
+21
+
+Practical Calculations in General Relativity
+
+CHAPTER 1. CALCULATIONS OF OBJECTS ASSOCIATED WITH CURVATURE FOR DIAGONAL
+1.1. GENERALITIES AND NOTATIONS
+METRICS
+
+Corollary 1.1.8.7: Lowering of the n-th index
+
+Let A be a tensor field of type(k, l). Then we have:
+= ηjne2ujn Aj1⋯jk
+Aj1⋯jn−1jn+1⋯jk
+i1⋯il
+jni1⋯il
+= ηjn
+Aj1⋯jn−1jn+1⋯jk
+jni1⋯il
+
+Aj1⋯jk
+i1⋯il
+
+Example 1.1.8.8: Two simple examples
+
+(1) Let A ∶= AAi
+
+jei⊗ ej be a tensor field of type(1, 1). We denote:
+
+which means:
+
+Since:
+
+and
+
+we have:
+
+For example, we have:
+
+which means:
+
+Thus, we have:
+
+AAkl∶=[A]1(ek, el)
+[A]1= AAkl ek⊗ el.
+
+l ei
+
+lggki
+
+jδj
+l ei
+
+[A]1(X, Y)= g(X, A(●, Y))
+A(●, el)= AAi
+jej(el) ei
+= AAi
+= AAi
+AAkl=[A]1(ek, el)
+= g(ek, A(●, el))
+= g(ek, AAi
+l ei)
+= AAi
+lg(ek, ei)
+= AAi
+Akl= ηkiAi
+= ηkAk
+Akl= gkiAi
+= gkkAk
+= ηke2uk Ak
+XXk∶=[X]1(ek)
+♭=[X]1= XXkek
+XXk=[X]1(ek)
+= g(ek, X)
+= g(ek, XXiei)
+= XXig(ek, ei)
+= XXiggki
+
+X
+
+l
+
+l
+
+l
+
+l
+
+(2) Let X∶= XXiei be a vector field, i.e., X is a tensor field of type(1, 0). We denote:
+
+l
+
+Practical Calculations in General Relativity
+
+22
+
+David Pigeon
+
+CHAPTER 1. CALCULATIONS OF OBJECTS ASSOCIATED WITH CURVATURE FOR DIAGONAL
+1.1. GENERALITIES AND NOTATIONS
+METRICS
+
+For example, we have:
+
+Xk= Xiηki
+= ηkXk
+Xk= Xigki
+= Xkgkk
+= ηke2uk Xk
+
+1.1.9 Raising indices with the tensor g∗
+
+In this subsection, we define an operation that raises indices.
+
+Definition 1.1.9.1: The sharp musical isomorphism
+
+The sharp musical isomorphism associated with g is the inverse mapping a−1
+
+g of ag defined by:
+
+We also denote, for any covector field α:
+
+Notation 1.1.9.2: Definition of a−1
+
+(1) We denote:
+
+Hence:
+
+Since:
+
+we have:
+
+g
+
+α
+
+a−1
+
+∶ T∗M —→ T M
+♯∶= a
+g (α).
+−1
+g and g∗
+ggij∶= a
+g (ei)(ej)
+−1
+g (ei)= ggijej.
+−1
+g = IdT∗M
+g ○ ag= IdT M , ag○ a
+−1
+−1
+IdT M(ek)= ek= δj
+g (ggkiei)
+g (ag(ek))= a
+−1
+−1
+g (ei)
+= ggkia
+−1
+= ggkiggijej
+
+kej
+
+a
+
+a
+
+a
+
+Therefore, by the uniqueness of the decomposition, we have:
+
+(2) Let α∶= ααiei be a covector field. We define:
+
+k.
+
+ggkiggij= δj
+ααj∶= α♯(ej)
+α♯= ααjej.
+
+Thus:
+
+David Pigeon
+
+23
+
+Practical Calculations in General Relativity
+
+CHAPTER 1. CALCULATIONS OF OBJECTS ASSOCIATED WITH CURVATURE FOR DIAGONAL
+1.1. GENERALITIES AND NOTATIONS
+METRICS
+
+Hence, by the uniqueness of the decomposition, we have:
+
+(3) We associate the(2, 0)-type tensor g∗ to a−1
+
+Since:
+
+we have, by linearity:
+
+as:
+
+Thus:
+
+and by bilinearity:
+
+with:
+
+Therefore, we have:
+
+Matricially, we have:
+
+G
+
+Example 1.1.9.3: Example of a−1
+(1) In C∗, we have:
+
+g
+
+g
+
+a
+
+g (ei)= ggijej
+−1
+α♯= a
+g (α)
+−1
+= a
+g (ααiei)
+−1
+= ααia
+g (ei)
+−1
+= ααiggijej.
+ααj= ααiggij.
+g , defined for any covector fields α∶= ααiei and β∶= ββjej
+∗(α, β)∶= β(a
+g (α)).
+−1
+∗(ei, ej)= ej(a
+g (ei))
+−1
+= ej(ggikek)
+= ggikδj
+= ggij
+∗(ααiei, ββjej)
+∗(α, β)= g
+= g
+∗(ei, ej)ααiββj
+= ggijααiββj
+= ααjββj
+= ααiββi
+, ββjej∶= β
+♯
+∗= ggijei⊗ ej
+g )= M atC∗(g
+−1= M atC∗,C(a
+−1
+
+∗)=(ggij)ij
+g and g∗ in the bases C∗ and C∗⊥
+
+ααiei∶= α
+
+♯
+
+g
+
+g
+
+k
+
+.
+
+.
+
+gkigij= δj
+gki= ηikeuk
+
+k
+
+Practical Calculations in General Relativity
+
+24
+
+David Pigeon
+
+CHAPTER 1. CALCULATIONS OF OBJECTS ASSOCIATED WITH CURVATURE FOR DIAGONAL
+1.1. GENERALITIES AND NOTATIONS
+METRICS
+
+So we have:
+
+Thus we have:
+
+(2) In C∗⊥ , we have:
+
+So we have:
+
+Thus we have:
+
+0
+0
+
+−e−u2
+
+0
+
+0
+
+0
+0
+
+0
+0
+0
+
+−e−u1
+
+gij= ηije
+−uk .
+∗)=⎛⎜⎜⎜⎝
+e−u0
+gkigij= δj
+gki= ηki
+gij= ηij.
+∗)= M atC⊥(g)=⎛⎜⎜⎜⎝
+0 −1
+
+1
+
+0
+
+0
+0
+
+0
+0
+
+k
+
+⎞⎟⎟⎟⎠ .
+
+0
+0
+0
+
+−e−u3
+
+⎞⎟⎟⎟⎠ .
+
+0
+0
+0
+
+−1
+
+0
+0
+
+−1
+
+0
+
+M atC∗,C(a
+g )= M atC∗(g
+−1
+
+g )= M atC∗⊥(g
+M atC∗⊥ ,C⊥(a
+−1
+
+Definition 1.1.9.4: Raising the n-th index
+
+Let A be a tensor field of type(k, l) with l≥ 1 and n∈{1, . . . , l}. The n-th raised tensor field
+of A is the tensor field[A]n of type(k+ 1, l− 1) defined for any covector fields α0, α1, . . . , αk and
+vector fields X1, . . . , Xn−1, Xn+1, . . . , Xl by:
+[A]n(α0, . . . , αk, X1, . . . , Xn−1, Xn+1, . . . , Xl)∶= g
+∗(α0, A(α1, . . . , αk, X1 . . . , Xn−1,●, Xn+1, . . . , Xl)) .
+g (A(α1, . . . , αk, X1 . . . , Xn−1,●, Xn+1, . . . , Xl))(α0) .
+[A]n(α1, . . . , αk, X1, . . . , Xn−1, Xn+1, . . . , Xl)= a
+−1
+Let A be a tensor field of type(k, l) and n∈{1, . . . , l}. Let’s define:
+
+Proposition 1.1.9.5: Raising the n-th index
+
+These two concepts are then related by:
+
+The following proposition shows why the term ”raised” has been used.
+
+Then we have:
+
+Proof. We have:
+
+i1⋯in−1in+1⋯il∶=[A]n(ein, ej1, . . . , ejk , ei1, . . . , ein−1, ein+1, . . . , eil)
+AAinj1⋯jk
+
+AAj1⋯jk
+i1⋯il
+
+∶= A(ej1, . . . , ejk , ei1, . . . , eil)
+i1⋯in−1in+1⋯il= AAj1⋯jk
+AAinj1⋯jk
+
+i1⋯in−1min+1⋯il
+
+ggmin.
+
+i1⋯in−1in+1⋯il=[A]n(ein, ej1, . . . , ejk , ei1, . . . , ein−1, ein+1, . . . , eil)
+AAinj1⋯jk
+∗(ein, A(ej1, . . . , ejk , ei1, . . . , ein−1,●, ein+1, . . . , eil))
+∗(ein, AAj1⋯jk
+
+i1⋯in−1min+1⋯il
+
+= g
+= g
+
+em)
+
+David Pigeon
+
+25
+
+Practical Calculations in General Relativity
+
+CHAPTER 1. CALCULATIONS OF OBJECTS ASSOCIATED WITH CURVATURE FOR DIAGONAL
+1.1. GENERALITIES AND NOTATIONS
+METRICS
+
+g
+ggmin
+
+= AAj1⋯jk
+i1⋯in−1min+1⋯il
+= AAj1⋯jk
+i1⋯in−1min+1⋯il
+
+∗(ein, em)
+As g∗ is diagonal in C∗ and C∗⊥ , we have the following result.
+Let A be a tensor field of type(k, l) with l≥ 1. Then we have:
+−2uin
+−2uin
+
+i1⋯in−1in+1⋯il= Aj1⋯jk
+Ainj1⋯jk
+i1⋯il
+i1⋯in−1in+1⋯il= Aj1⋯jk
+Ainj1⋯jk
+i1⋯il
+
+Corollary 1.1.9.6: Raising the i-th index
+
+ηine
+
+ηine
+
+Therefore, we see that the defined operation raises the indices of a tensor field. Let’s continue the cal-
+
+culations with two simple examples.
+
+Example 1.1.9.7: Two simple examples
+
+(1) Let A ∶= AAi
+
+Since:
+
+we have:
+
+iej
+jδl
+j ej
+
+jei⊗ ej be a tensor field of type(1, 1). We denote:
+AAkl∶=[A]1(ek, el) .
+∗(α, A(β,●))
+[A]1(α, β)= g
+jei(el) ej
+A(el,●)= AAi
+= AAi
+= AAl
+AAkl=[A]1(ek, el)
+∗(ek, A(el,●))
+= g
+∗(ek, AAl
+j ej)
+= g
+∗(ek, ej)
+= AAl
+= AAl
+Akl= ηkjAl
+= ηkAl
+Akl= gkjAl
+= ηke
+−2uk Al
+ααk∶=[α]1(ek)
+♯=[α]1= ααkek
+
+jg
+jggkj
+
+α
+
+k
+
+j
+
+j
+
+(2) Let α∶= ααiei be a covector field, i.e., α is a tensor of type(0, 1). We denote:
+
+k
+
+Hence, we have:
+
+Therefore, for example:
+
+Practical Calculations in General Relativity
+
+26
+
+David Pigeon
+
+CHAPTER 1. CALCULATIONS OF OBJECTS ASSOCIATED WITH CURVATURE FOR DIAGONAL
+1.2. CONNECTIONS ASSOCIATED WITH CURVATURE
+METRICS
+
+Thus, we have:
+
+Therefore, for example:
+
+ααk=[α]1(ek)
+∗(ek, α)
+= g
+∗(ek, ααiei)
+= g
+∗(ek, ei)
+= ααig
+= ααiggki
+αk= αiηki
+= ηkkαk
+αk= αigki
+= αkgkk
+= ηkke
+
+−2uk αk
+
+1.2 Connections associated with curvature
+
+1.2.1 Lie Derivative and Lie Bracket
+
+action of X on f . This is also known as the Lie derivative of f along X.
+
+We start by recalling the definition of the Lie derivative and the Lie bracket along a vector field. They
+are useful for defining the Levi-Civita connection. We will focus on the derivative of scalar fields. By the
+
+definition of the tangent vector (see 1.1.1.1), we have defined the object ”X(f),” which can be seen as an
+Let X be a vector field given by X∶= X j∂j, and let f be a scalar field. The Lie derivative along
+
+Definition 1.2.1.1: Lie Derivative
+
+X is defined as:
+
+Remark 1.2.1.2: Remark on the Lie derivative
+
+We can extend the definition of the Lie derivative along X to ΩM (the algebra of differential forms
+on M ) as the unique linear map:
+
+X(f)∶= X i∂i(f).
+
+LX∶ ΩM→ ΩM
+
+such that:
+
+(i) for any scalar field f , we have:
+
+LX(f)∶= X(f)∶= df(X) ;
+
+(ii) LX is a derivation of the algebra ΩM , i.e.:
+
+∀α, β∈ ΩM, LX(α∧ β)= LX(α)∧ β+ α∧ LX(β);
+
+(iii) the maps LX and d commute.
+
+We will only use the definition for scalar fields in the following.
+
+David Pigeon
+
+27
+
+Practical Calculations in General Relativity
+
+CHAPTER 1. CALCULATIONS OF OBJECTS ASSOCIATED WITH CURVATURE FOR DIAGONAL
+1.2. CONNECTIONS ASSOCIATED WITH CURVATURE
+METRICS
+
+Lemma 1.2.1.3: Alternative expression for the Lie derivative
+
+Let X be a vector field. We have:
+
+X(f)= df(X) .
+df= ∂i(f)dxi
+df(X)= df(X j∂j)
+= X jdf(∂j)
+= X j∂i(f)dxi(∂j)
+= X j∂i(f)δi
+= X i∂i(f)
+= X(f)
+
+j
+
+Proof. Since:
+
+we have:
+
+i.e., we have:
+
+(i) We have:
+
+(ii) We have:
+
+Proof.
+
+(i) Since:
+
+we have:
+
+This leads us to the definition of the Lie bracket.
+
+Definition 1.2.1.4: Lie Bracket
+
+Let X and Y be two vector fields. The Lie bracket of X and Y is the map[X, Y] that associates
+to any scalar field f the scalar field:[X, Y](f)∶= X(Y(f))− Y(X(f)).
+[∂i, ∂j](f)= ∂i(∂j(f))− ∂j(∂i(f))
+
+In particular, by the Schwartz theorem, we have:
+
+Lemma 1.2.1.5: Local descriptions
+
+Let X and Y be two vector fields and f be a scalar field.
+
+(1.2.1.1)
+
+= ∂i,j(f)− ∂j,i(f)
+= 0
+[∂i, ∂j]= 0.
+
+Y(X(f))= Y j∂jX i∂if+ Y jX i∂2
+[X, Y](f)=(X j∂jY i− Y j∂jX i) ∂if.
+
+jif
+
+X(f)= X i∂if
+Y(X(f))= Y j∂j(X i∂if)
+= Y j∂jX i∂if+ Y jX i∂2
+
+jif
+
+Practical Calculations in General Relativity
+
+28
+
+David Pigeon
+
+CHAPTER 1. CALCULATIONS OF OBJECTS ASSOCIATED WITH CURVATURE FOR DIAGONAL
+1.2. CONNECTIONS ASSOCIATED WITH CURVATURE
+METRICS
+
+(ii) Since:
+
+we have:
+
+∂2
+
+ijf= 0
+jif− ∂2
+[X, Y](f)= X(Y(f))− Y(X(f))
+jif− Y j∂jX i∂if− Y jX i∂2
+= X j∂jY i∂if+ X jY i∂2
+ijf)
+=(X j∂jY i− Y j∂jX i) ∂if+ X jY i(∂2
+jif− ∂2
+=(X j∂jY i− Y j∂jX i) ∂if
+
+jif
+
+Finally, we have the Jacobi identity.
+
+Proposition 1.2.1.6: Jacobi Identity
+
+Let X, Y , and Z be three vector fields. We have:
+
+[X,[Y, Z]]+[Y,[Z, X]]+[Z,[X, Y]]= 0.
+Proof. We have:[X,[Y, Z]](f)= X((Y Z− ZY)(f))−(Y Z− ZY)(X(f))
+= X(Y(Z(f)))− X(Z(Y(f)))− Y(Z(X(f)))+ Z(Y(X(f)))
+[X,[Y, Z]]= XY Z− XZY − Y ZX+ ZY X
+[Y,[Z, X]]= Y ZX− Y XZ− ZXY + XZY
+[Z,[X, Y]]= ZXY − ZY X− XY Z+ Y XZ
+[X,[Y, Z]]+[Y,[Z, X]]+[Z,[X, Y]]= 0.
+
+By removing the parentheses and the f , and permuting the variables X, Y , and Z, we have:
+
+By summing the three equations, we get:
+
+1.2.2 Levi-Civita Connection
+
+We start with a simplified definition of a connection that highlights the two essential properties that will be
+used in calculations.
+
+Definition 1.2.2.1: Koszul Connection
+
+A connection∇ is a linear map that associates a vector field∇X Y to every pair of vector fields X
+
+and Y , satisfying the following two properties:
+
+(i) (Linearity in X) For any scalar field f and vector fields X and Y , we have:
+
+∇f X Y = f∇X Y.
+
+(ii) (Leibniz Rule) For any scalar field f and vector fields X and Y , we have:
+
+∇X(f Y)= df(X)Y + f∇X Y = df(X)Y +∇f X Y.
+
+We then define the Levi-Civita connection as the unique torsion-free and g-parallel connection.
+
+David Pigeon
+
+29
+
+Practical Calculations in General Relativity
+
+CHAPTER 1. CALCULATIONS OF OBJECTS ASSOCIATED WITH CURVATURE FOR DIAGONAL
+1.2. CONNECTIONS ASSOCIATED WITH CURVATURE
+METRICS
+
+Proposition 1.2.2.2: The connection associated with g
+
+The Levi-Civita connection is the unique connection∇ on T M such that:
+(i) ∇ is torsion-free, i.e., for any vector fields X and Y , we have:
+
+∇X Y −∇Y X=[X, Y].
+
+(ii) g is parallel, i.e., for any vector fields X, Y , and Z, we have:
+
+Z(g(X, Y))= g(∇ZX, Y)+ g(X,∇ZY).
+
+Proof. We present a proof by analysis-synthesis.
+
+all vector fields Z. Using bilinearity and symmetry of g, for any vector field Z, we have:
+
+● Analysis-Uniqueness: Let X and Y be two vector fields on M . Since the metric g is a symmetric
+non-degenerate bilinear form, to compute∇X Y , it suffices to have an expression for 2g(∇X Y, Z) for
+2g(∇X Y, Z)= g(2∇X Y, Z)
+
+= g(∇X Y, Z)+ g(∇X Z, Y)+ g(∇Y Z, X)+ g(∇Y X, Z)− g(∇ZX, Y)− g(∇ZY, X)
++ g(∇X Y −∇Y X, Z)+ g(∇ZX−∇X Z, Y)− g(∇Y Z−∇ZY, X)
+= g(∇X Y, Z)+ g(Y,∇X Z)+ g(∇Y Z, X)+ g(Z,∇Y X)− g(∇ZX, Y)− g(X,∇ZY)
++ g([X, Y], Z)+ g([Z, X], Y)− g([Y, Z], X)
+= X(g(Y, Z))+ Y(g(Z, X))− Z(g(X, Y))+ g([X, Y], Z)+ g([Z, X], Y)− g([Y, Z], X)
+Thus, the value of∇X Y is uniquely determined.
+● Synthesis-Existence: For any vector fields X and Y , we define∇X Y as the unique vector field on
+2g(∇X Y, Z)= X(g(Y, Z))+ Y(g(Z, X))− Z(g(X, Y))+ g([X, Y], Z)+ g([Z, X], Y)− g([Y, Z], X).
+Let us show that∇ is indeed a connection on M . For any vector field Z, we have:
+(i) For any vector field Z and any scalar field f∈ C p(X, R), we have:
+2g(∇X(f Y), Z)= X(g(f Y, Z))+(f Y)(g(Z, X))− Z(g(X, f Y))
++ g([X, f Y], Z)+ g([Z, X], f Y)− g([f Y, Z], X)
+= df(X)g(Y, Z)− df(Z)g(X, Y)+ df(X)g(Y, Z)
++ df(Z)g(X, Y)+ f 2g(∇X Y, Z)
+= 2g(df(X)Y + f∇X Y, Z),
+
+M such that for any vector field Z, we have:
+
+and we also have:
+
+2g(∇f X Y, Z)=(f X)(g(Y, Z))+ Y(g(Z, f X))− Z(g(f X, Y))
++ g([f X, Y], Z)+ g([Z, f X], Y)− g([Y, Z], f X)
+=df(Y).g(Z, X)− df(Z).g(X, Y)− df(Y).g(X, Z)
++ df(Z).g(X, Y)+ f.2g(∇X Y, Z)
+=2g(f∇X Y, Z).
+
+Hence, the result follows from the degeneracy of g.
+
+Practical Calculations in General Relativity
+
+30
+
+David Pigeon
+
+CHAPTER 1. CALCULATIONS OF OBJECTS ASSOCIATED WITH CURVATURE FOR DIAGONAL
+1.2. CONNECTIONS ASSOCIATED WITH CURVATURE
+METRICS
+
+(ii) Let’s show that∇ is torsion-free. For any vector field Z, we have:
+
+2g(∇X Y −∇Y X, Z)=X(g(Y, Z))+ Y(g(Z, X))− Z(g(X, Y))+ g([X, Y], Z)
++ g([Z, X], Y)− g([Y, Z], X)− Y(g(X, Z))− X(g(Z, Y))
++ Z(g(Y, X))− g([Y, X], Z)− g([Z, Y], X)+ g([X, Z], Y)
+=2g([X, Y], Z).
+
+Hence, the result follows from the degeneracy of g.
+
+(iii) Let’s show that g is parallel with respect to∇. For any vector field Z, we have:
+
+2g(∇X Y, Z)+ 2g(Y,∇X Z)=X(g(Y, Z))+ Y(g(Z, X))− Z(g(X, Y))+ g([X, Y], Z)
++ g([Z, X], Y)− g([Y, Z], X)+ X(g(Z, Y))+ Z(g(Y, X))
+− Y(g(X, Z))+ g([X, Z], Y)+ g([Y, X], Z)− g([Z, Y], X)
+=2X(g(Y, Z)).
+
+Hence, the result follows from the degeneracy of g.
+
+Thus,∇ is the unique Koszul connection satisfying the theorem.
+Therefore, we have shown that∇ satisfies:
+2g(∇X Y, Z)= X(g(Y, Z))+ Y(g(Z, X))− Z(g(X, Y))+ g([X, Y], Z)+ g([Z, X], Y)− g([Y, Z], X).
+action of∇ on 1-forms and with respect to the operations+ and⊗.
+
+We extend the definition of the connection to arbitrary tensor fields. For this purpose, we define the
+
+Definition 1.2.2.3: Connection on tensors
+
+Let f be a scalar field, A and B be tensor fields, X and Y be vector fields, and α be a covector field.
+
+(i) We denote:
+
+(ii) We denote:
+
+(iii) We denote:
+
+∇X f∶= X(f) .
+
+(∇X α)(Y)∶= X(α(Y))− α(∇X Y) .
+∇X(A⊗ B)∶=(∇X A)⊗ B+ A⊗(∇X B) .
+
+∇X(A+ B)∶=∇X A+∇X B.
+
+(iv) Suppose A and B are of the same type. We denote:
+
+We then have the following result, which gives an explicit formula for the action of∇ on tensor fields.
+Let A be a tensor field of type (k, l). For any covector fields α1, . . . , αk and any vector fields
+
+Proposition 1.2.2.4: Formula for the connection on tensors
+
+X1, . . . , Xl, Y , we have:
+
+(∇Y A)(α1, . . . , αk, X1, . . . , Xl)
+=Y(A(α1, . . . , αk, X1, . . . , Xl))
+− A(∇Y α1, . . . , αk, X1, . . . , Xl)−⋯− A(α1, . . . ,∇Y αk, X1, . . . , Xl)
+− A(α1, . . . , αk,∇Y X1, . . . , Xl)−⋯− A(α1, . . . , αk, X1, . . . ,∇Y Xl)
+
+David Pigeon
+
+31
+
+Practical Calculations in General Relativity
+
+the proposition.
+
+CHAPTER 1. CALCULATIONS OF OBJECTS ASSOCIATED WITH CURVATURE FOR DIAGONAL
+1.2. CONNECTIONS ASSOCIATED WITH CURVATURE
+METRICS
+
+Proof. We fix Y as a vector field. We prove the result by a double induction on(k, l)∈ N2. Let Q(k, l) be
+(i) Case Q(0, 0) true: The result follows directly from the definition of∇ on vector fields (see point (i)
+(ii) Case Q(0, l) true ⇒ Q(0, l+ 1) true: Let l∈ N and A be a tensor field of type(0, l+ 1). Assume
+that Q(k, l) is true. Then, by linearity of∇ (see point (iv) of Definition 1.2.2.3), we can assume that
+
+of Definition 1.2.2.3).
+
+A contains only one term of the form:
+
+Let’s define:
+
+Therefore, we have:
+
+Then, by point (iii) of Definition 1.2.2.3, we have:
+
+A∶= AAei1⊗⋯⊗ eil+1.
+B∶= AAei1⊗⋯⊗ eil.
+A= B⊗ eil+1.
+∇Y A=∇Y(B⊗ eil+1)
+
+=(∇Y B)⊗ eil+1+ B⊗(∇Y eil+1)
+
+Using the Leibniz formula, we have:
+
+= Y(B(X1, . . . , Xl)) eil+1(Xl+1)+ B(X1, . . . , Xl) Y(eil+1(Xl+1)) .
+
+Y(A(X1, . . . , Xl+1))= Y(B(X1, . . . , Xl) eil+1(Xl+1))
+Hence, by Q(0, l) and point (iii) of Definition 1.2.2.3, we have:
+(∇Y A)(X1, . . . , Xl+1)
+=(∇Y B)⊗ eil+1(X1, . . . , Xl+1)+ B⊗(∇Y eil+1)(X1, . . . , Xl+1)
+=(∇Y B)(X1, . . . , Xl) eil+1(Xl+1)+ B(X1, . . . , Xl)(∇Y eil+1)(Xl+1)
+=Y(B(X1, . . . , Xl)) eil+1(Xl+1)− B(∇Y X1, . . . , Xl) eil+1(Xl+1)−⋯− B(X1, . . . ,∇Y Xl) eil+1(Xl+1)
++ B(X1, . . . , Xl)(Y(eil+1(Xl+1))− eil+1(∇Y Xl+1))
+=Y(A(X1, . . . , Xl+1))− A(∇Y X1, . . . , Xl+1)−⋯− A(X1, . . . ,∇Y Xl+1)
+Thus, Q(0, l+ 1) is true.
+(iii) Cas Q(k, l) vraie ⇒ Q(k+ 1, l) vraie. Soit (k, l) ∈ N2 et un champ tensoriel A de type (k, l).
+Supposons que Q(k, l) soit vraie. Alors par lin´earit´e de∇ (voir le point (iv) de la d´efinition 1.2.2.3),
+
+on peut supposer que A ne contient qu’un seul terme du type :
+
+Posons :
+
+Donc on a :
+
+On a alors par le point (iii) de la d´efinition 1.2.2.3 :
+
+A∶= AAej0⊗⋯⊗ ejk⊗ ei1⊗⋯⊗ eil.
+B∶= AAej1⊗⋯⊗ ejk⊗ ei1⊗⋯⊗ eil.
+
+A= ej0⊗ B.
+∇Y A=∇Y(ej0⊗ B)
+
+=(∇Y ej0)⊗ B+ ej0⊗(∇Y B)
+
+Practical Calculations in General Relativity
+
+32
+
+David Pigeon
+
+CHAPTER 1. CALCULATIONS OF OBJECTS ASSOCIATED WITH CURVATURE FOR DIAGONAL
+1.2. CONNECTIONS ASSOCIATED WITH CURVATURE
+METRICS
+
+On a par la formule de Leibniz :
+
+Y(A(α0, . . . , αk, X1, . . . , Xl))
+=Y(ej0(α0) B(α1, . . . , αk, X1, . . . , Xl))
+=Y(ej0(α0)) B(α1, . . . , αk, X1, . . . , Xl)+ Y(B(α1, . . . , αk, X1, . . . , Xl)) ej0(α0) .
+
+Ainsi on a par Q(k, l) et par le point (iii) de la d´efinition 1.2.2.3 :
+
+(∇Y A)(α0, . . . , αk, X1, . . . , Xl)
+=(∇Y ej0)⊗ B(α0, . . . , αk, X1, . . . , Xl)+ ej0⊗(∇Y B)(α0, . . . , αk, X1, . . . , Xl)
+=(∇Y ej0)(α0) B(α1, . . . , αk, X1, . . . , Xl)+ ej0(α0)(∇Y B)(α1, . . . , αk, X1, . . . , Xl)
+=Y(ej0(α0)) B(α1, . . . , αk, X1, . . . , Xl)+ ej0(α0)[Y(B(α1, . . . , αk, X1, . . . , Xl))
+− B(∇Y α1, . . . , αk, X1, . . . , Xl)−⋯− B(α1, . . . ,∇Y αk, X1, . . . , Xl)
+−B(α1, . . . , αk,∇Y X1, . . . , Xl)−⋯− B(α1, . . . , αk, X1, . . . ,∇Y Xl)]
+=Y(A(α0, . . . , αk, X1, . . . , Xl))
+− A(∇Y α0, . . . , αk, X1, . . . , Xl)−⋯− A(α0, . . . ,∇Y αk, X1, . . . , Xl)
+− A(α0, . . . , αk,∇Y X1, . . . , Xl)−⋯− A(α0, . . . , αk, X1, . . . ,∇Y Xl)
+
+So Q(k+ 1, l) is true.
+
+(iv) By the double induction principle, Q(k, l) is true for all(k, l)∈ N2.
+
+Notation 1.2.2.5: Notations for components
+
+Let A be a tensor field of type(k, l). We will use a component notation for the action of∇ on A .
+
+(1) Suppose the local description of A is given by:
+
+(2) Suppose the local description of A is given by:
+
+We then write:
+
+We then write:
+
+We then write:
+
+ej1⊗⋯⊗ ejk⊗ ei1⊗⋯⊗ eil.
+A = AAj1⋯jk
+i1⋯il
+A(ej1, . . . , ejk , ei1, . . . , eil) .
+∇mAAj1⋯jk
+∶=∇em
+i1⋯il
+∂j1⊗⋯⊗ ∂jk⊗ dxi1⊗⋯⊗ dxil.
+A = Aj1⋯jk
+i1⋯il
+A(dxj1, . . . , dxjk , ∂i1, . . . , ∂il) .
+∶=∇∂m
+∇mAj1⋯jk
+i1⋯il
+θj1⊗⋯⊗ θjk⊗ θi1⊗⋯⊗ θil.
+A = Aj1⋯jk
+i1⋯il
+A(θj1, . . . , θjk , θi1, . . . , θil) .
+∶=∇θm
+∇mAj1⋯jk
+i1⋯il
+
+(3) Suppose the local description of A is given by:
+
+Thus, the writing style of the component of A indicates whether m refers to em, ∂m, or θm.
+
+David Pigeon
+
+33
+
+Practical Calculations in General Relativity
+
+CHAPTER 1. CALCULATIONS OF OBJECTS ASSOCIATED WITH CURVATURE FOR DIAGONAL
+1.2. CONNECTIONS ASSOCIATED WITH CURVATURE
+METRICS
+
+1.2.3 Trace and divergence
+
+field contraction (see definition 1.1.2.5). We begin with a standard notation for the action of nabla on tensor
+fields.
+
+Throughout this subsection, we fix a tensor field A of type(k, l). We use the notations introduced in tensor
+Notation 1.2.3.1: The tensor field∇A
+We denote by∇A the tensor field of type(k, l+ 1) defined by:
+
+∇A(α1, . . . , αk, X1, . . . , Xl+1)∶=(∇Xl+1
+
+A)(α1, . . . , αk, X1, . . . , Xl)
+
+by:
+
+Definition 1.2.3.2: Trace of a tensor field
+
+(i) Suppose k, l≥ 1. Let m∈{1, . . . , k} and n∈{1, . . . , l}. The trace of A along (n, m) is given
+(a) If k∶= 1 (thus m∶= 1), it is simply denoted as:
+(b) If l∶= 1 (thus n∶= 1), it is simply denoted as:
+(ii) Suppose l≥ 2 and k∶= 0. Let m∈{1, . . . , l− 1} and n∈{1, . . . , l}. The g-trace of A along
+(m, n) is given by:
+
+tr(m,n)A ∶=[A]m
+tr(n)A ∶=[A]1
+tr(m)A ∶=[A]m
+trg,(m,n)A ∶=[[A]n]1
+
+m .
+
+1 .
+
+n .
+
+n .
+
+Let’s examine the type of tensor fields appearing in the definitions.
+
+(ii) We have:
+
+(i) We have:
+
+● A is a tensor field of type(k, l).
+● tr(m,n)A is a tensor field of type(k− 1, l− 1).
+● A is a tensor field of type(0, l).
+● [A]n is a tensor field of type(1, l− 1).
+● trg,(m,n)A is a tensor field of type(0, l− 2).
+Example 1.2.3.3: Example of the trace of a tensor field of type(1, 1)
+Let A be a tensor field of type(0, 2). Suppose that A is symmetric, meaning that for all vector
+fields X and Y , we have A(X, Y)= A(Y, X). Then we have:
+[A]1=[A]2.
+trg,(1,1)A = trg,(2,1)A .
+trgA ∶= trg,(i,1)A .
+
+In this case, we simply write:
+
+Therefore, we have:
+
+Practical Calculations in General Relativity
+
+34
+
+David Pigeon
+
+CHAPTER 1. CALCULATIONS OF OBJECTS ASSOCIATED WITH CURVATURE FOR DIAGONAL
+1.2. CONNECTIONS ASSOCIATED WITH CURVATURE
+METRICS
+
+Definition 1.2.3.4: Divergence of a tensor field
+
+(i) Suppose k≥ 1. Let n∈{1, . . . , k}. The divergence of A along n is given by:
+If k∶= 1 (thus n∶= 1), it is simply denoted as:
+
+(ii) Suppose l≥ 1. Let n∈{1, . . . , l}. The g-divergence of A along n is given by:
+
+div(n)A ∶=[∇A]n
+l+1 .
+divA ∶= div(1)A ∶=[∇A]1
+l+1 .
+divg,(n)A ∶=[∇[A]n]1
+l+1 .
+divgA ∶= divg,(1)A ∶=[∇A]1
+l+1 .
+
+If l∶= 1 (thus n∶= 1), it is simply denoted as:
+
+Let’s examine the type of tensor fields appearing in the definitions.
+
+(ii) We have:
+
+(i) We have:
+
+● A is a tensor field of type(k, l).
+● ∇A is a tensor field of type(k, l+ 1).
+● div(n)A is a tensor field of type(k− 1, l).
+● A is a tensor field of type(k, l).
+● [A]n is a tensor field of type(k+ 1, l− 1).
+● ∇[A]n is a tensor field of type(k+ 1, l).
+● divg,(n)A is a tensor field of type(k, l− 1).
+Example 1.2.3.5: Divergences of a vector field and covector field in C and C∗
+(1) Let X be a vector field given by X∶= X j∂j. By the definition of a connection, we have:
+
+div(X)=[∇X]1
+
+1
+
+= dxi(∇∂iX)
+= dxi(∇∂i(X j∂j))
+= dxi(dX j(∂i) ∂j+ X j∇∂i∂j)
+= dxi(∂iX j∂j+ X j∇∂i∂j)
+j+ X jΓi
+= ∂iX jδi
+= ∂iX i+ X jΓi
+(2) Let α be a covector field given by α∶= αjdxj. The divergence of α is defined as:
+♯∶= div[α]1.
+divgα∶= divα
+(3) Let A be a tensor field of type(0, 2). Suppose that A is symmetric, meaning that for all vector
+fields X and Y , we have A(X, Y)= A(Y, X). Then we have:
+
+ij
+
+ij
+
+[A]1=[A]2
+
+David Pigeon
+
+35
+
+Practical Calculations in General Relativity
+
+CHAPTER 1. CALCULATIONS OF OBJECTS ASSOCIATED WITH CURVATURE FOR DIAGONAL
+1.2. CONNECTIONS ASSOCIATED WITH CURVATURE
+METRICS
+
+Therefore, we have:
+
+In this case, we simply write:
+
+divg,(1)A = divg,(2)A
+divgA ∶= divg,(i)A .
+
+1.2.4 Definition of the connection in the bases E and E∗
+The elements∇ek ej are vector fields and thus they can be expressed in the E basis. Hence the following
+Let i, j, k∈{0, 1, 2, 3}.
+
+Definition 1.2.4.1: Rotation coefficients
+
+definitions.
+
+(i) The rotation coefficients ΓΓi
+
+kj are defined as:
+
+(ii) The matrix of 1-forms of rotation
+
+is defined as:
+
+Thus, we have:
+
+ΓΓi
+
+ωω∶=(ωωi
+
+kj∶= ei(∇ek ej) .
+j)ij∈ M4(Λ1(U))
+j∶= ΓΓi
+
+kjek.
+
+ωωi
+
+j(ek)= ΓΓi
+kjei=∇ek ej= ωωi
+
+kj
+
+ΓΓi
+
+ωωi
+
+j(ek) ei
+
+Γi
+
+ω∶=(ωi
+
+kj∶= dxi(∇∂k ∂j) .
+j)ij∈ M4(Λ1(U))
+j∶= Γi
+j(∂k)= Γi
+kj∂i=∇∂k ∂j= ωi
+
+j(∂k) θi
+
+kjdxk.
+
+ωi
+
+kj
+
+Γi
+
+ωi
+
+Example 1.2.4.2: Christoffel symbols and tetradic coefficients
+
+Let i, j, k∈{0, 1, 2, 3}.
+(1) The elements∇∂k ∂j are vector fields and thus they can be expressed in the C basis.
+
+(a) The Christoffel symbols Γi
+
+kj are defined as:
+
+(b) The matrix of 1-forms of Christoffel
+
+is defined as:
+
+Thus, we have:
+
+(2) The elements∇θk θj are vector fields and thus they can be expressed in the C⊥ basis.
+
+Practical Calculations in General Relativity
+
+36
+
+David Pigeon
+
+CHAPTER 1. CALCULATIONS OF OBJECTS ASSOCIATED WITH CURVATURE FOR DIAGONAL
+1.2. CONNECTIONS ASSOCIATED WITH CURVATURE
+METRICS
+
+(a) The tetradic coefficients of Γi
+
+(b) The matrix of tetradic 1-forms
+
+is defined as:
+
+Thus, we have:
+
+Γi
+
+kj are defined as:
+
+ϖ∶=(ϖi
+
+kj∶= θi(∇θk θj) .
+j)ij∈ M4(Λ1(U))
+j∶= Γi
+j(θk)= Γi
+kjθi=∇θk θj= ϖi
+
+j(θk) θi
+
+kjθk.
+
+ϖi
+
+kj
+
+Γi
+
+ϖi
+
+The following lemma establishes the relationship between Γj
+
+ki and Γj
+
+ki.
+
+kj
+
+ki
+
+kj
+
+kj
+
+Γi
+
+Γi
+
+Γj
+
+Γj
+
+ϖj
+
+ki and Γj
+
+kj)
+
+(b) We have:
+
+(b) We have:
+
+(i) (a) We have:
+
+(ii) (a) We have:
+
+Lemma 1.2.4.3: Relationship between Γj
+
+Let i, j, k∈{0, 1, 2, 3} such that i≠ j.
+−uk(−uj,k+ Γj
+kj= uj,k+ eukΓj
+kj= e
+kj= e
+kj= eui−uj−uk Γi
+−ui+uj+ukΓi
+j+ uj,kdxk
+j= ϖj
+j− uj,ke
+j= ωj
+−uk θk
+j= e
+j= eui−uj ωi
+−ui+uj ϖi
+∇gX(f Y)= g∇X(f Y)= gdf(X)Y + f g∇X Y.
+−uj ∂j)
+∇θk θj=∇e−uk ∂k(e
+−uj−uk∇∂k ∂j
+= e
+−uk d(e
+−uj)(∂k)∂j+ e
+=−uj,ke
+−uj−uk ∂j+ e
+−uj−uk Γi
+⎡⎢⎢⎢⎢⎣(−uj,k+ Γj
+kj) ∂j+∑
+= e
+−uj−uk
+i≠j
+∇θk θj= Γi
+= Γi
+−ui∂i
+
+(i) For all scalar fields f and g, and vector fields X and Y , we have:
+
+On the other hand, we have:
+
+Thus, we have:
+
+kjθi
+kje
+
+⎤⎥⎥⎥⎥⎦
+
+kj∂i
+
+kj∂i
+
+ϖi
+
+ωj
+
+ωi
+
+Γi
+
+j
+
+j
+
+Proof.
+
+David Pigeon
+
+37
+
+Practical Calculations in General Relativity
+
+CHAPTER 1. CALCULATIONS OF OBJECTS ASSOCIATED WITH CURVATURE FOR DIAGONAL
+1.2. CONNECTIONS ASSOCIATED WITH CURVATURE
+METRICS
+
+By uniqueness of the decomposition, we have for i≠ j:
+−uj−uk(−uj,k+ Γj
+−uj= e
+−ui= e
+−uj−uk Γi
+kj= uj,k+ eukΓj
+kj= e
+−ui+uj+ukΓi
+
+and also:
+
+kje
+kje
+
+Γj
+Γi
+
+Γj
+Γi
+
+kj
+
+kj
+
+kj
+
+kj)
+
+Hence, the points (a) and (b).
+
+(ii) (a) Using (i.a), we have:
+
+Thus, we have:
+
+j= ωj
+
+j− uj,ke
+
+ϖj
+
+(b) We have:
+
+j= ϖj
+
+j+ uj,kdxk
+
+ωj
+
+ωj
+
+kjdxk
+
+j= Γj
+=(uj,k+ eukΓj
+= uj,kdxk+ Γj
+= uj,kdxk+ Γj
+j+ uj,kdxk
+= ϖj
+−uk θk
+j= Γi
+= e
+−ui+uj+ukΓi
+= e
+−ui+uj ϖi
+
+kjdxk
+
+ωi
+
+j
+
+kj) dxk
+
+kjeuk dxk
+kjθk
+
+−uk θk
+
+kje
+
+j
+
+ϖi
+
+Thus, we have:
+
+j= eui−uj ωi
+
+j= e
+1.2.5 Practical Calculations of Connection in C and C∗ bases
+tensor fields g and g∗. We begin with a proposition that provides an explicit formula for the calculation of
+∇ on a tensor field using the Christoffel symbols.
+
+In this subsection, we calculate the Christoffel symbols using a classical approach that relates Γi
+
+−ui+uj ϖi
+
+jk to the
+
+ωi
+
+j
+
+Let’s start with an example.
+
+Example 1.2.5.1: Calculation Example
+
+(1) We have:
+
+(∇∂k dxi)(∂j)= ∂k(dxi(∂j))− dxi(∇∂k ∂j)
+
+j)− Γi
+
+kj
+
+= ∂k(δi
+=−Γi
+
+kj
+
+Practical Calculations in General Relativity
+
+38
+
+David Pigeon
+
+CHAPTER 1. CALCULATIONS OF OBJECTS ASSOCIATED WITH CURVATURE FOR DIAGONAL
+1.2. CONNECTIONS ASSOCIATED WITH CURVATURE
+METRICS
+
+(∇∂k α)(∂j)=(∇∂k(αidxi))(∂j)
+
+(2) Let α be a covector field given by α∶= αidxi. Then, using (1), we have:
+= ∂k(αidxi(∂j))− αidxi(∇∂k ∂j)
+= ∂kαj− αiΓi
+(∇∂k A)(∂j, ∂p)=∇∂k(Aildxi⊗ dxl)(∂j, ∂p)
+kj) δl
+p− Ailδi
+kj− AjlΓl
+
+(3) Let A be a tensor field given by A∶= Aildxi⊗ dxl. Then, using (1) and (2), we have:
+=(∇∂k(Aildxi)⊗ dxl)(∂j, ∂p)+(Aildxi⊗∇∂k(dxl))(∂j, ∂p)
+=∇∂k(Aildxi)(∂j)dxl(∂p)+ Aildxi(∂j)∇∂k(dxl)(∂p)
+=(∂kAjl− AilΓi
+= ∂kAjp− AipΓi
+
+jΓl
+kp
+
+kp
+
+kj
+
+Proposition 1.2.5.2: Formula for the Connection on Tensors
+
+Let A be a tensor field of type(k, l) with the following local coordinate representation:
+
+Then we have:
+
+A = Aj1⋯jk
+∂j1⊗⋯⊗ ∂jk⊗ dxi1⊗⋯⊗ dxil.
+i1⋯il
+i1⋯il =∂mAj1⋯jk
+∇mAj1⋯jk
+i1⋯il
+i1⋯il +⋯+ Γjk
++ Γj1
+nmAnj2⋯jk
+ni2⋯il−⋯− Γn
+− Γn
+i1mAj1⋯jk
+
+nmAj1⋯jk−1n
+i1⋯il
+ilmAj1⋯jk
+i1⋯il−1n
+
+Proof. Using the notations 1.2.2.5, we have:
+
+∇mAj1⋯jk
+
+i1⋯il =∇∂m
+
+A(dxj1, . . . , dxjk , ∂i1, . . . , ∂il) .
+
+We have three relations:
+
+● For any scalar field f , we have:
+∇∂mf= ∂mf
+● By the definition of Γn
+∇∂m∂i= Γn
+● From point (1) of Example 1.2.5.1, we have:∇∂mdxj=−Γj
+
+im, we have:
+
+im∂n
+
+nmdxn.
+
+David Pigeon
+
+39
+
+Practical Calculations in General Relativity
+
+CHAPTER 1. CALCULATIONS OF OBJECTS ASSOCIATED WITH CURVATURE FOR DIAGONAL
+1.2. CONNECTIONS ASSOCIATED WITH CURVATURE
+METRICS
+
+Therefore, using Proposition 1.2.2.4, we obtain:
+
+∇mAj1⋯jk
+i1⋯il
+=(∇∂mA)(dxj1, . . . , dxjk , ∂i1, . . . , ∂il)
+=∇∂m(A(dxj1, . . . , dxjk , ∂i1, . . . , ∂il))
+− A(∇∂mdxj1, . . . , dxjk , ∂i1, . . . , ∂il)−⋯− A(dxj1, . . . ,∇∂mdxjk , ∂i1, . . . , ∂il)
+− A(dxj1, . . . , dxjk ,∇∂m∂i1, . . . , ∂il)−⋯− A(dxj1, . . . , dxjk , ∂i1, . . . ,∇∂m∂il)
+=∇∂mAj1⋯jk
+i1⋯il
+− A(−Γj1
+nmdxn, . . . , dxjk , ∂i1, . . . , ∂il)−⋯− A(dxj1, . . . ,−Γjk
+nmdxn, ∂i1, . . . , ∂il)
+− A(dxj1, . . . , dxjk , Γn
+ilm∂n)
+i1m∂n, . . . , ∂il)−⋯− A(dxj1, . . . , dxjk , ∂i1, . . . , Γn
+=∇∂mAj1⋯jk
+i1⋯il
+nmA(dxn, . . . , dxjk , ∂i1, . . . , ∂il)+⋯+ Γjk
+nmA(dxj1, . . . , dxn, ∂i1, . . . , ∂il)
++ Γj1
+i1mA(dxj1, . . . , dxjk , ∂n, . . . , ∂il)−⋯− Γn
+ilmA(dxj1, . . . , dxjk , ∂i1, . . . , ∂n)
+− Γn
+=∂mAj1⋯jk
+i1⋯il
+i1⋯il +⋯+ Γjk
++ Γj1
+nmAnj2⋯jk
+ni2⋯il−⋯− Γn
+− Γn
+i1mAj1⋯jk
+
+nmAj1⋯jk−1n
+i1⋯il
+ilmAj1⋯jk
+i1⋯il−1n
+
+We could generalize this result in the bases E and E∗, but the result is not practical.
+The connection∇ is g-parallel, i.e.,
+
+∇∂j g= 0.
+
+From this, we deduce the following usual result.
+
+Lemma 1.2.5.3: Expression of Christoffel symbols in terms of the metric
+
+We have:
+
+kl= 1
+
+gim(gmk,l+ gml,k− gkl,m).
+
+Γi
+
+2
+
+Proof. Using point (3) of Example 1.2.5.1, we have:
+
+Hence, we have:
+
+By permuting the indices and exponents, we obtain:
+
+in
+
+in
+
+0=∇∂ig(∂m, ∂n)
+= gmn,i− gjnΓj
+= gmn,i− gpnΓp
+gmn,i= gpnΓp
+(1)∶ gmk,l= gpkΓp
+(2)∶ gml,k= gplΓp
+(3)∶ gkl,m= gplΓp
+
+im− gmlΓl
+im− gmpΓp
+im+ gmpΓp
+lm+ gmpΓp
+km+ gmpΓp
+mk+ gkpΓp
+
+in.
+
+lk
+
+kl
+
+ml
+
+Practical Calculations in General Relativity
+
+40
+
+David Pigeon
+
+CHAPTER 1. CALCULATIONS OF OBJECTS ASSOCIATED WITH CURVATURE FOR DIAGONAL
+1.2. CONNECTIONS ASSOCIATED WITH CURVATURE
+METRICS
+
+lm+ gmpΓp
+
+lk+ gplΓp
+
+km+ gmpΓp
+
+kl− gplΓp
+
+mk− gkpΓp
+ml)
+
+By taking(1)+(2)−(3), we have:
+
+1
+2
+
+gim(gpkΓp
+gim(gmk,l+ gml,k− gkl,m)= 1
+= 1
+= Γp
+= Γp
+= Γi
+
+lkgimgmp
+lkδi
+
+gim2Γp
+
+2
+
+2
+
+kl
+
+p
+
+lkgmp
+
+From this, we obtain the exact values of Γj
+
+ki.
+
+Theorem 1.2.5.4: Exact values of Γj
+
+Let i, j, k∈{0, 1, 2, 3} distinct, and l arbitrary.
+
+ki
+
+(i) We have:
+
+(ii) We have:
+
+(iii) We have:
+
+Proof.
+
+(i) Since g is symmetric, we have:
+
+Furthermore, we have:
+
+(ii) We have:
+
+Γi
+
+li= Γi
+il= ui,l.
+ii=−ηiηjui,je2ui−2uj .
+
+Γj
+
+ki= 0.
+
+Γj
+
+Γi
+
+Γi
+
+Γj
+
+il
+
+2
+
+2
+
+2
+
+2
+
+li= 1
+gim(gml,i+ gmi,j− gli,m)
+= 1
+gim(gmi,l+ gml,i− gil,m)
+= Γi
+li= 1
+gim(gml,i+ gmi,l− gli,m)
+gii(gil,i+ gii,l− gli,i)
+= 1
+= 1
+= ui,l
+gjm(gmi,i+ gmi,i− gii,m)
+ii= 1
+= 1
+gjj(gji,i+ gji,i− gii,j)
+=− 1
+=−ηiηjui,je2ui−2uj
+
+gjjgii,j
+
+giigii,l
+
+2
+
+2
+
+2
+
+2
+
+David Pigeon
+
+41
+
+Practical Calculations in General Relativity
+
+CHAPTER 1. CALCULATIONS OF OBJECTS ASSOCIATED WITH CURVATURE FOR DIAGONAL
+1.2. CONNECTIONS ASSOCIATED WITH CURVATURE
+METRICS
+
+(iii) Since g is diagonal, we directly have:
+
+2
+
+2
+
+2
+
+Γj
+
+ki= 1
+= 1
+= 1
+= 0
+Γi∶=⎛⎜⎜⎜⎝
+
+Γi
+Γi
+Γi
+Γi
+
+gjm(gmk,i+ gmi,k− gki,m)
+gjj(gjk,i+ gji,k− 0)
+gjj(0+ 0)
+
+00 Γi
+10 Γi
+20 Γi
+30 Γi
+
+01 Γi
+11 Γi
+21 Γi
+31 Γi
+
+02 Γi
+12 Γi
+22 Γi
+32 Γi
+
+03
+
+13
+
+23
+
+33
+
+⎞⎟⎟⎟⎠ .
+
+Γ0=⎛⎜⎜⎜⎝
+Γ1=⎛⎜⎜⎜⎝
+Γ2=⎛⎜⎜⎜⎝
+Γ3=⎛⎜⎜⎜⎝
+
+u0,2
+0
+
+u2,0e−2u0+2u2
+
+0
+
+u0,3
+0
+0
+
+u3,0e−2u0+2u3
+
+u0,0
+
+u0,1 u1,0e−2u0+2u1
+
+u0,1
+
+u0,2
+u0,3
+
+0
+0
+
+u0,1e−2u1+2u0 u1,0
+
+u1,2 −u2,1e−2u1+2u2
+
+0
+u1,2
+
+u1,1
+
+u1,3
+
+0
+
+0
+u1,3
+0
+
+−u3,1e−2u1+2u3
+
+u0,2e−2u2+2u0
+
+−u1,2e−2u2+2u1 u2,1
+
+u2,0
+
+0
+
+0
+0
+u2,3
+
+u2,3 −u3,2e−2u2+2u3
+
+u2,2
+
+0
+0
+
+−u2,3e−2u3+2u2 u3,2
+
+u3,0
+u3,1
+
+u3,2
+
+u3,3
+
+u2,1
+0
+
+0
+u3,1
+
+u0,3e−2u3+2u0
+
+−u1,3e−2u3+2u1
+
+0
+
+u1,0
+0
+0
+
+0
+u2,0
+0
+
+0
+0
+u3,0
+
+⎞⎟⎟⎟⎠ .
+⎞⎟⎟⎟⎠ .
+⎞⎟⎟⎟⎠ .
+⎞⎟⎟⎟⎠ .
+
+We denote:
+
+● Case i∶= 0. We have:
+
+● Case i∶= 1. We have:
+
+● Case i∶= 2. We have:
+
+● Case i∶= 3. We have:
+
+Example 1.2.5.5: Sequence 2 of the metric h
+
+We resume the example with the metric h (see 1.1.4.1 and 1.1.5.1) with:
+
+u0(t, r)∶= u(t, r)
+u2(t, r)∶= b(t)+ ln(r)
+
+u1(t, r)∶= v(t, r)
+u3(t, r, ϑ)∶= b(t)+ ln(r)+ ln sin(ϑ)
+
+Practical Calculations in General Relativity
+
+42
+
+David Pigeon
+
+CHAPTER 1. CALCULATIONS OF OBJECTS ASSOCIATED WITH CURVATURE FOR DIAGONAL
+1.2. CONNECTIONS ASSOCIATED WITH CURVATURE
+METRICS
+
+˙v
+
+0
+
+0
+
+˙u
+
+0
+0
+
+0
+0
+
+0
+0
+
+0
+0
+
+0
+0
+
+0
+0
+0
+
+0
+0
+0
+
+0
+0
+0
+
+˙v
+0
+0
+
+0
+˙b
+
+0
+0
+˙b
+0
+
+We have:
+
+⎞⎟⎟⎟⎠
+
+⎞⎟⎟⎟⎟⎠
+
+r−1
+
+u′
+˙ve−2u+2v
+
+u′
+u′e2u−2v
+
+r2 ˙be2b−2u
+v′
+0 −re2b−2v
+r−1
+
+r2 ˙b sin2 ϑe2b−2u
+−r sin2 ϑe2b−2v
+⎞⎟⎟⎟⎟⎠
+
+Γ0=⎛⎜⎜⎜⎜⎝
+Γ1=⎛⎜⎜⎜⎝
+Γ2=⎛⎜⎜⎜⎜⎝
+Γ3=⎛⎜⎜⎜⎜⎝
+r−1
+u′dx0+ ˙ve−2u+2vdx1
+˙udx0+ u′dx1
+ω=⎛⎜⎜⎜⎜⎝
+r2 ˙b sin2 ϑe−2b−2udx3
+˙vdx0+ v′dx1
+u′e2u−2vdx0+ ˙vdx1
+−r sin2 ϑe2b−2vdx3
+− cos ϑ sin ϑdx3
+r−1dx2
+˙bdx0+ r−1dx1+ cot ϑdx2
+r−1dx3
+We conclude this subsection with another formula for computing the sum∑3
+i=0 Γi
+For j∈{0, 1, 2, 3}, we have:
+
+− cos ϑ sin ϑ
+⎞⎟⎟⎟⎟⎠
+r−1
+r2 ˙be2b−2udx2
+−re2b−2vdx2
+˙bdx0+ r−1dx1
+
+Proposition 1.2.5.6: Another formula for Γi
+ij
+
+Thus, we have:
+
+˙bdx2
+˙bdx3
+
+cot ϑdx3
+
+0
+0
+0
+˙b
+
+cot ϑ
+
+cot ϑ
+
+0
+0
+0
+
+0
+0
+0
+
+ij.
+
+0
+0
+
+˙b
+
+0
+
+0
+
+⎞⎟⎟⎟⎟⎠ .
+
+ij= ∂j(ln
+
+Γi
+
+3∑
+i=0
+
+√∣ det g∣) .
+
+(1) We start with a result from linear algebra. We equip Mn(R) with the Frobenius norm:
+
+(2) We have:
+
+Proof. We prove the result in two steps:
+
+(1) For any A∈ GLn(R), we have:
+
+Γi
+
+ij= ∂j(ln
+
+−1H).
+dA det∶ H↦ det(A)tr(A
+√∣ det g∣) .
+3∑
+i=0
+∀M∈ Mn(R), ∣∣M∣∣∶=√
+tr(tM M).
+This norm is a sub-multiplicative norm on Mn(R), i.e., we have:
+∀A, B∈ Mn(R), ∣∣AB∣∣≤∣∣A∣∣.∣∣B∣∣.
+Let us show that for any A∈ GLn(R), we have:
+dA det∶ H↦ det(A)tr(A
+−1H).
+
+David Pigeon
+
+43
+
+Practical Calculations in General Relativity
+
+CHAPTER 1. CALCULATIONS OF OBJECTS ASSOCIATED WITH CURVATURE FOR DIAGONAL
+1.2. CONNECTIONS ASSOCIATED WITH CURVATURE
+METRICS
+
+n∑
+i=1
+
+(1+ tλn)= 1+ t
+
+−1H∣∣))
+−1H∣∣) det(A)
+
+det(In+ tH)= n∏
+i=1
+
+λi+ O(t2)= 1+ t tr(H)+ O(t2).
+
+To do this, let us first calculate the differential of det at In. Since det is of class C∞, it suffices to
+calculate the derivative of det at In in an arbitrary direction H ∈ Mn(R). Let H be a real matrix
+H∈ Mn(R) with eigenvalues λ1, . . . , λn. For any real number t in the vicinity of 0, we have:
+Since the map H↦ tr(H) is linear, we have:
+dIn det∶ H↦ tr(H).
+Let A∈ GLn(R). We deduce that for any matrix H∈ Mn(R):
+det(A+ H)= det(A(In+ A
+−1H)
+= det(A) det(In+ A
+−1H)
+−1H)+ o(∣∣A
+= det(A)(det(In)+ dIn(A
+−1H)+ o(∣∣A
+= det(A)+ det(A)tr(A
+Now,∣∣.∣∣ is a sub-matrix norm, so we have∣∣A−1H∣∣≤∣∣A−1∣∣.∣∣H∣∣. Thus:
+−1H∣∣) det(A)= o(∣∣H∣∣).
+o(∣∣A
+Since the map H↦ det(A)tr(A−1H) is linear, we have:
+−1H).
+dA det∶ H↦ det(A)tr(A
+gkl(glj,i+ gli,j− gij,l)
+ij= 1
+2(gilglj,i+ gilgil,j− gilgij,l)
+ij= 3∑
+i,l=0
+⎡⎢⎢⎢⎢⎣ 3∑
+gilglj,i+ 3∑
+gilgil,j− 3∑
+= 1
+i,l=0
+i,l=0
+i,l=0
+⎡⎢⎢⎢⎢⎣ 3∑
+gilgil,j− 3∑
+gilglj,i+ 3∑
+= 1
+i,l=0
+i,l=0
+i,l=0
+= 1
+3∑
+i,l=0
+∂j(det g) dxj= d(det g)
+
+Using (1), we have:
+
+⎤⎥⎥⎥⎥⎦
+⎤⎥⎥⎥⎥⎦
+
+3∑
+i=0
+
+we have:
+
+gilgil,j
+
+gilglj,i
+
+gilgij,l
+
+Γk
+
+Γi
+
+2
+
+2
+
+2
+
+2
+
+1
+
+(2) Since:
+
+Thus:
+
+Therefore, we have:
+
+1
+
+=(det g) gildgil
+=(det g) gilgil,jdxj
+∂j(det g)
+gilgil,j=
+ij=
+∂j(det g)
+3∑
+i=0
+√∣ det g∣
+1√∣ det g∣ ∂j
+=
+√∣ det g∣) .
+= ∂j(ln
+
+2 det g
+
+det g
+
+Γi
+
+1
+
+Practical Calculations in General Relativity
+
+44
+
+David Pigeon
+
+CHAPTER 1. CALCULATIONS OF OBJECTS ASSOCIATED WITH CURVATURE FOR DIAGONAL
+1.2. CONNECTIONS ASSOCIATED WITH CURVATURE
+METRICS
+
+Corollary 1.2.5.7: Alternative formulas for Γi
+ij
+
+For j∈{0, 1, 2, 3}, we have:
+
+3∑
+i=0
+
+ij= 3∑
+i=0
+
+Γi
+
+ui,j.
+
+Proof. Since g is diagonal, we have:
+
+Thus, we have:
+
+And therefore we have:
+
+gii
+
+det g= 3∏
+i=0
+=−e2u0+2u1+2u2+2u3
+√∣ det g∣= u0+ u1+ u2+ u3.
+3∑
+i=0
+
+ij= 3∑
+i=0
+
+ui,j.
+
+Γi
+
+ln
+
+1.2.6 Practical calculations of the connection in the C⊥ and C∗⊥ bases
+
+In this subsection, we calculate the tetradic coefficients Γj
+ki and the 1-forms ϖi
+simple properties of the symbols Γj
+j.
+
+ki using the tetrad method. We start with some
+
+Lemma 1.2.6.1: Symmetries of the symbols Γj
+
+For i, j, k, l∈{0, 1, 2, 3}, we have:
+
+ki and ϖi
+
+j
+
+(i) We have:
+
+(ii) We have:
+
+(iii) We have:
+
+(iv) We have:
+
+ϖl
+
+Γj
+
+l.
+
+kj.
+
+k=−ηlηkϖk
+ki=−ηjηiΓi
+j= 0.
+kj= 0.
+
+ϖj
+
+Γj
+
+David Pigeon
+
+45
+
+Practical Calculations in General Relativity
+
+CHAPTER 1. CALCULATIONS OF OBJECTS ASSOCIATED WITH CURVATURE FOR DIAGONAL
+1.2. CONNECTIONS ASSOCIATED WITH CURVATURE
+METRICS
+
+Proof.
+
+(i) Since ηkl is constant, for any vector field X, we have:
+
+l(X)θi)
+l(X)g(θk, θi)
+
+0=∇X ηkl
+=∇X g(θk, θl)
+= g(∇X θk, θl)+ g(θk,∇X θl)
+= g(ϖi
+k(X)θi, θl)+ g(θk, ϖi
+= ϖi
+k(X)g(θi, θl)+ ϖi
+l(X)ηki
+k(X)ηil+ ϖi
+= ϖi
+= ϖl
+k(X)ηl+ ϖk
+l(X)ηk
+=(ηlϖl
+l)(X)
+k+ ηkϖk
+k+ ηkϖk
+l= 0
+k=−ηlηkϖk
+j(θk)=−ηiηjϖj
+j=−ηjηjϖj
+kj= ϖj
+
+kj= ϖi
+
+ηlϖl
+
+ϖj
+
+ϖl
+
+Γj
+
+l.
+
+i(θk)=−ηiηjΓj
+j=−ϖj
+j(θk)= 0.
+
+j.
+
+ki.
+
+Since this is true for any vector field X, we have:
+
+Thus, we have:
+
+(ii) We have by (i):
+
+(iii) We have by (i):
+
+Therefore, we have ϖj
+
+(iv) We have by (iii):
+
+Γi
+
+j= 0.
+
+We denote:
+
+Thus, we have:
+
+and:
+
+Proposition 1.2.6.2: Calculation of dθi
+
+For i∈{0, 1, 2, 3}, we have:
+
+(i) We have:
+
+(ii) We have:
+
+dθi∈ Λ2(U)
+θj,i∶= θj∧ θi
+θj,i=−θi,j
+
+dθi= ui,je
+dθi=−ϖi
+
+−uj θj,i.
+j∧ θj.
+
+The following fundamental result establishes the connection between the 1-forms ϖi
+
+ui appearing in the metric. This will allow us to compute the symbols Γj
+do this, we will calculate the 2-forms in two different ways:
+
+j and the functions
+ki in terms of these functions. To
+
+θi,j(θk, θl)= θi∧ θj(θk, θl)= θi⊗ θj(θk, θl)− θj⊗ θi(θk, θl)= δi
+
+l − δj
+
+kδi
+
+l
+
+kδj
+
+(1.2.6.1)
+
+Practical Calculations in General Relativity
+
+46
+
+David Pigeon
+
+CHAPTER 1. CALCULATIONS OF OBJECTS ASSOCIATED WITH CURVATURE FOR DIAGONAL
+1.2. CONNECTIONS ASSOCIATED WITH CURVATURE
+METRICS
+
+Proof.
+
+(ii) We have fkf k= 1, which implies:
+
+(i) We have:
+
+dθi= d(fidxi)
+= ∂j(fi) dxj∧ dxi
+= ∂j(fi) f jθj∧ f iθi
+= ∂j(eui) f if jθj∧ θi
+= ui,jeuie
+−uj−uiθj∧ θi
+−uj θj∧ θi
+= ui,je
+= ui,je
+−uj θj,i
+f kdfk+ f kdfk= 0
+Thus, we have f kdfk=−fkdf k. Therefore, we have:
+dθi= d(fidxi)= dfi∧ dxi
+= dfi∧ f iθi
+= f idfi∧ θi
+=−fidf i∧ θi
+=−fi∂j(f i) dxj∧ θi
+=−fi∂j(f i) f jθj∧ θi
+
+Using equation (1.2.6.1), we have:
+
+dθi(θk, θl) θi= fif j∂j(f i) θj∧ θi(θk, θl) θi
+= fif j∂j(f i)(δj
+k) θi
+= flf k∂k(f l) θl− fkf l∂l(f k) θk
+
+l+ δj
+
+kδi
+
+l δi
+
+Using the identity:
+
+∇θk θl=∇f k∂k(f l∂l)
+= f k∇∂k(f l∂l)
+= f kd(f l)(∂k) ∂l+ f kf l∇∂k(∂l)
+j(θk, θl) θi
+j(θl) θi
+
+ϖi
+
+and since[∂k, ∂l]= 0, we have:
+j⊗ θj(θk, θl) θi− θj⊗ ϖi
+j∧ θj(θk, θl) θi= ϖi
+j(θk) θi− θj(θk) ϖi
+= θj(θl) ϖi
+l∇θk θj− δj
+= δj
+k∇θlθj
+=∇θk θl−∇θlθk
+= f kd(f l)(∂k) ∂l+ f kf l∇∂k(∂l)− f ld(f k)(∂l) ∂k− f kf l∇∂l(∂k)
+= f k∂k(f l) ∂l− f l∂l(f k) ∂k+ f kf l[∂k, ∂l]
+= f k∂k(f l) ∂l− f l∂l(f k) ∂k
+=−dθi(θk, θl) θi
+
+Hence the result, as this holds for any vector fields θk, θl, θi.
+
+David Pigeon
+
+47
+
+Practical Calculations in General Relativity
+
+CHAPTER 1. CALCULATIONS OF OBJECTS ASSOCIATED WITH CURVATURE FOR DIAGONAL
+1.2. CONNECTIONS ASSOCIATED WITH CURVATURE
+METRICS
+
+So we have:
+
+dθ0= u0,je
+dθ1= u1,je
+dθ2= u2,je
+dθ3= u3,je
+
+−uj θj,0= u0,1e
+−uj θj,1= u1,0e
+−uj θj,2= u2,0e
+−uj θj,3= u3,0e
+
+−u1θ1,0+ u0,2e
+−u0θ0,1+ u1,2e
+−u0θ0,2+ u2,1e
+−u0θ0,3+ u3,1e
+
+−u2θ2,0+ u0,3e
+−u2θ2,1+ u1,3e
+−u1θ1,2+ u2,3e
+−u1θ1,3+ u3,2e
+
+−u3θ3,0
+−u3θ3,1
+−u3θ3,2
+−u2θ2,3
+
+Example 1.2.6.3: Sequence 3 of the metric h
+
+We revisit the example with the metric h (see 1.1.4.1, 1.1.5.1, and 1.2.5.5) with:
+
+u1(t, r)∶= v(t, r)
+u3(t, r, ϑ)∶= b(t)+ ln(r)+ ln sin(ϑ)
+
+u0(t, r)∶= u(t, r)
+u2(t, r)∶= b(t)+ ln(r)
+dθt= u0,1e
+−u1θ1,0
+= u
+′
+dθr= u1,0e
+−u0θ0,1
+= ˙ve
+−uθt,r
+−u0θ0,2+ u2,1e
+dθϑ= u2,0e
+−u1θ1,2
+= ˙be
+−uθt,ϑ+ r
+−1e
+−vθr,ϑ
+dθϕ= u3,0e
+−u0θ0,3+ u3,1e
+−u1θ1,3+ u3,2e
+−vθr,ϕ+ r
+= ˙be
+−uθt,ϕ+ r
+−1 cot ϑe
+−1e
+
+evθr,t
+
+−u2θ2,3
+−bθϑ,ϕ
+
+We have:
+
+Theorem 1.2.6.4: Exact values of Γj
+
+Let i, j, k∈{0, 1, 2, 3} distinct.
+
+ki and ϖi
+
+j
+
+(i) We have:
+
+(ii) We have:
+
+ij= ui,je
+−uj
+ii=−ηiηjui,je
+−uj
+ki= 0
+
+Γi
+Γj
+Γj
+
+j= 0
+j= ui,je
+
+ϖj
+ϖi
+
+−uj θi− ηiηjuj,ie
+
+−uiθj
+
+We can then deduce the exact values of the symbols Γj
+
+ki and ϖi
+
+j in terms of the elements of the functions
+
+ui appearing in the metric.
+
+Proof. Let’s define the following for the proof:
+
+kj∶= Γi
+
+kj− Γi
+
+jk , bji∶= ui,je
+
+−uj .
+
+ai
+
+Practical Calculations in General Relativity
+
+48
+
+David Pigeon
+
+CHAPTER 1. CALCULATIONS OF OBJECTS ASSOCIATED WITH CURVATURE FOR DIAGONAL
+1.2. CONNECTIONS ASSOCIATED WITH CURVATURE
+METRICS
+
+Using the notations and the previous proposition 1.2.6.2, we have:
+
+jk) θj∧ θk
+
+ai
+
+ij.
+
+kjθj,k.
+
+0= ai
+
+bjiθji= ui,je
+−uj θj,i
+= dθi
+=−ϖi
+j∧ θj
+kjθk∧ θj
+=−Γi
+(Γi
+= ∑
+kj− Γi
+0≤j<k≤3
+= ∑
+0≤j<k≤3
+jk= 0 ⇒ Γi
+kj− Γi
+kj= Γi
+bji=−ai
+ji= ai
+kj= Γi
+ki=−Γj
+ki= 0 by demonstrating that Γj
+ki=−ηiηjΓi
+=−ηiηjΓi
+= ηiηjηkηiΓk
+= ηjηkΓk
+ik=−Γj
+=−Γj
+ji+ Γi
+ji=−Γi
+−uj= bji=−ai
+ij= ui,je
+−uj .
+ii=−ηjηiΓi
+=−ηiηjui,je
+
+ki= Γj
+
+−uj .
+
+jk , Γk
+
+ik , Γi
+
+ui,je
+
+Γj
+
+Γj
+
+Γj
+
+Γi
+
+jk
+
+kj
+
+ki
+
+ji
+
+ij
+
+ij
+
+kj= Γi
+
+jk.
+
+ij= Γj
+
+ji
+
+ij= Γi
+
+ij
+
+ϖi
+
+kjθk
+
+j= Γi
+ijθi+ Γi
+= Γi
+= ui,je
+−uj θi− ηiηjuj,ie
+
+jjθj
+
+−uiθj
+
+Thus, we have:
+
+(I) for all distinct i, j, k:
+
+(II) for all distinct i, j:
+
+Let’s prove the theorem.
+
+(i) We have the symmetries:
+
+We will show that Γj
+we have:
+
+Hence, the result follows from symmetry.
+
+ji= 0, we have:
+
+(ii) Since Γi
+
+Therefore, we have:
+
+(iii) We have by (ii):
+
+(iv) We have:
+
+ki. Using (I) and point (ii) of lemma 1.2.6.1,
+
+David Pigeon
+
+49
+
+Practical Calculations in General Relativity
+
+CHAPTER 1. CALCULATIONS OF OBJECTS ASSOCIATED WITH CURVATURE FOR DIAGONAL
+1.2. CONNECTIONS ASSOCIATED WITH CURVATURE
+METRICS
+
+We denote:
+
+● Case i∶= 0. We have:
+
+● Case i∶= 1. We have:
+
+● Case i∶= 2. We have:
+
+● Case i∶= 3. We have:
+
+Γi
+Γi
+Γi
+Γi
+
+00 Γi
+10 Γi
+20 Γi
+30 Γi
+
+01 Γi
+11 Γi
+21 Γi
+31 Γi
+
+02 Γi
+12 Γi
+22 Γi
+32 Γi
+
+03
+
+13
+
+23
+
+33
+
+⎞⎟⎟⎟⎠
+
+Γi=⎛⎜⎜⎜⎝
+Γ0=⎛⎜⎜⎜⎝
+Γ1=⎛⎜⎜⎜⎝
+Γ2=⎛⎜⎜⎜⎝
+Γ3=⎛⎜⎜⎜⎝
+
+0
+
+0
+
+0
+
+0
+
+0
+0
+
+0
+0
+
+0
+0
+
+0
+0
+
+0
+0
+
+u2,0e−u0
+
+u0,1e−u1
+u1,0e−u0
+
+⎞⎟⎟⎟⎠ .
+0 u0,1e−u1 u0,2e−u2 u0,3e−u3
+0 u1,0e−u0
+u3,0e−u0
+⎞⎟⎟⎟⎠ .
+u1,3e−u3
+−u3,1e−u1
+⎞⎟⎟⎟⎠ .
+⎞⎟⎟⎟⎠ .
+
+u1,2e−u2
+0 −u2,1e−u1
+−u1,2e−u2
+u2,1e−u1
+−u1,3e−u3
+u3,1e−u1
+
+u2,3e−u3
+0 −u3,2e−u2
+−u2,3e−u3
+u3,2e−u2
+
+u0,2e−u2
+u2,0e−u0
+u0,3e−u3
+u3,0e−u0
+
+0
+0
+0
+0
+
+0
+0
+0
+
+0
+0
+
+0
+0
+
+0
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+Therefore, we have:
+
+By Lemma 1.2.4.3, we obtain the values Γi
+
+jk found in the previous subsection.
+
+Example 1.2.6.5: Sequence 4 of the metric h
+
+We revisit the example with the metric h (see 1.1.4.1, 1.1.5.1, 1.2.5.5, and 1.2.6.3) with:
+
+u0(t, r)∶= u(t, r)
+u2(t, r)∶= b(t)+ ln(r)
+Γ0=⎛⎜⎜⎜⎜⎝
+Γ1=⎛⎜⎜⎜⎝
+Γ2=⎛⎜⎜⎜⎜⎝
+
+0
+0
+
+0
+0
+0
+
+u1(t, r)∶= v(t, r)
+u3(t, r, ϑ)∶= b(t)+ ln(r)+ ln sin(ϑ)
+⎞⎟⎟⎟⎟⎠
+˙be−u
+˙be−u
+⎞⎟⎟⎟⎠
+0 −r−1e−v
+−r−1e−v
+r−1e−v 0
+0 −r−1 cot ϑe−b
+
+⎞⎟⎟⎟⎟⎠
+
+0
+0
+0
+
+0
+0
+0
+
+0
+0
+
+0
+0
+
+0
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0 u′e−v
+˙ve−u
+u′e−v 0
+˙ve−u
+
+0
+0
+0
+
+0
+0
+
+0
+0
+
+0
+0
+
+˙be−u
+
+0
+
+Practical Calculations in General Relativity
+
+50
+
+David Pigeon
+
+CHAPTER 1. CALCULATIONS OF OBJECTS ASSOCIATED WITH CURVATURE FOR DIAGONAL
+1.3. CURVATURE TENSOR AND RIEMANN TENSOR
+METRICS
+
+0
+0
+0
+
+0
+0
+0
+
+Γ3=⎛⎜⎜⎜⎜⎝
+˙be−u
+r−1e−v
+u′e−vθ0+ ˙ve−uθ1
+ϖ=⎛⎜⎜⎜⎜⎝
+u′e−vθ0+ ˙ve−uθ1
+r−1e−vθ2
+r−1e−vθ3
+
+˙be−uθ2
+˙be−uθ3
+
+0
+
+0
+
+⎞⎟⎟⎟⎟⎠
+
+0
+0
+0
+
+0
+0
+0
+
+r−1 cot ϑe−b 0
+˙be−uθ2
+−r−1e−vθ2
+r−1 cot ϑe−bθ3
+
+0
+
+˙be−uθ3
+−r−1e−vθ3
+−r−1 cot ϑe−bθ3
+
+0
+
+⎞⎟⎟⎟⎟⎠ .
+
+Thus, we have:
+
+1.3 Curvature Tensor and Riemann Tensor
+
+1.3.1 Generalities
+
+Definition 1.3.1.1: Curvature mappings
+
+the mapping R(X, Y) defined by:
+
+(i) Let X and Y be two vector fields. The curvature mapping associated with X and Y is
+
+That is, for any vector field Z, we associate the vector field:
+
+R(X, Y)∶=[∇X ,∇Y]−∇[X,Y]
+
+R(X, Y)Z∶=∇X∇Y Z−∇Y∇X Z−∇[X,Y]Z.
+Rm(W, Z, X, Y)∶= g(W, R(X, Y)Z) .
+
+(ii) The Riemann mapping is the mapping that associates a scalar field to all vector fields X, Y ,
+
+Z, and W :
+
+The mapping R is a tensor field of type(1, 3) and the mapping Rm is a tensor field of type(0, 4).
+
+Proposition 1.3.1.2: Usual properties
+
+Let X, Y , Z, W , and T be vector fields.
+
+(i) (First Bianchi identity) We have:
+
+R(X, Y)Z+ R(Y, Z)X+ R(Z, X)Y = 0
+Rm(W, Z, X, Y)+ Rm(W, X, Y, Z)+ Rm(W, Y, Z, X)= 0
+
+(ii) We have:
+
+(iii) We have:
+
+(iv) We have:
+
+R(X, Y)Z=−R(Y, X)Z
+
+Rm(W, Z, X, Y)=−Rm(W, Z, Y, X)
+Rm(W, Z, X, Y)=−Rm(Z, W, X, Y).
+Rm(W, Z, X, Y)= Rm(X, Y, W, Z).
+
+David Pigeon
+
+51
+
+Practical Calculations in General Relativity
+
+CHAPTER 1. CALCULATIONS OF OBJECTS ASSOCIATED WITH CURVATURE FOR DIAGONAL
+1.3. CURVATURE TENSOR AND RIEMANN TENSOR
+METRICS
+
+(v) (Second Bianchi identity) We have:
+
+Proof.
+
+(i) By the Jacobi identity (see Proposition 1.2.1.6), we have:
+
+(∇XR)(Y, Z)+(∇Y R)(Z, X)+(∇ZR)(X, Y)= 0
+∇XRm(T, W, Z, Y)+∇Y Rm(T, W, X, Z)+∇ZRm(T, W, Y, X)= 0
+∇Rm(T, W, Z, Y, X)+∇Rm(T, W, X, Z, Y)+∇Rm(T, W, Y, X, Z)= 0
+R(X, Y)Z+ R(Y, Z)X+ R(Z, X)Y
+=∇X∇Y Z−∇Y∇X Z−∇[X,Y]Z
++∇Y∇ZX−∇Z∇Y X−∇[Y,Z]X
++∇Z∇X Y −∇X∇ZY −∇[Z,X]Y
+=∇X(∇Y Z−∇ZY)+∇Y(∇ZX−∇X Z)+∇Z(∇X Y −∇Y X)
+−(∇[X,Y]Z+∇[Y,Z]X+∇[Z,X]Y)
+=(∇X[Y, Z]−∇[Y,Z]X)+(∇Y[Z, X]−∇[Z,X]Y)+(∇Z[X, Y]−∇[X,Y]Z)
+=[X,[Y, Z]]+[Y,[Z, X]]+[Z,[X, Y]]
+=0
+
+Thus, by linearity of g, we have:
+
+Rm(W, Z, X, Y)+ Rm(W, X, Y, Z)+ Rm(W, Y, Z, X)
+=g(W, R(X, Y)Z)+ g(W, R(Y, Z)X)+ g(W, R(Z, X)Y)
+=g(W, R(X, Y)Z+ R(Y, Z)X+ R(Z, X)Y)
+=g(W, 0)
+=0
+
+(ii) As:
+
+we have:
+
+And thus we have:
+
+(iii) We have:
+
+−∇[X,Y]Z=∇−[X,Y]Z
+=∇[Y,X]Z
+
+R(X, Y)Z=∇X∇Y Z−∇Y∇X Z−∇[X,Y]Z
+=−(∇Y∇X Z−∇X∇Y Z−∇[Y,X]Z)
+=−R(Y, X)Z
+
+Rm(W, Z, X, Y)= g(W, R(X, Y)Z)
+= g(W,−R(Y, X)Z)
+=−g(W, R(Y, X)Z)
+=−Rm(W, Z, Y, X)
+X(g(Y, Z))= g(∇X Y, Z)+ g(Y,∇X Z)
+
+Practical Calculations in General Relativity
+
+52
+
+David Pigeon
+
+CHAPTER 1. CALCULATIONS OF OBJECTS ASSOCIATED WITH CURVATURE FOR DIAGONAL
+1.3. CURVATURE TENSOR AND RIEMANN TENSOR
+METRICS
+
+i.e., we have:
+
+g(∇X Y, Z)= X(g(Y, Z))− g(Y,∇X Z).
+
+Thus, we have:
+
+Rm(W, Z, X, Y)=g(W, R(X, Y)Z)
+
+=g(W,∇X∇Y Z−∇Y∇X Z−∇[X,Y]Z)
+=g(W,∇X∇Y Z)− g(W,∇Y∇X Z)− g(W,∇[X,Y]Z)
+=[X(g(W,∇Y Z))− g(∇X W,∇Y Z)]
+−[Y(g(W,∇X Z))− g(∇Y W,∇X Z)]
+−[X, Y](g(W, Z))− g(∇[X,Y]W, Z)
+=[X(Y(g(W, Z)))− X(g(∇Y W, Z))− g(∇X W,∇Y Z)]
+−[Y(X(g(W, Z)))− Y(g(∇X W, Z))− g(∇Y W,∇X Z)]
+−[X, Y](g(W, Z))− g(∇[X,Y]W, Z)
+=(XY − Y X)(g(W, Z))− X(g(∇Y W, Z))− g(∇X W,∇Y Z)
++ Y(g(∇X W, Z))+ g(∇Y W,∇X Z)−[X, Y](g(W, Z))+ g(∇[X,Y]W, Z)
+=[X, Y](g(W, Z))− g(∇X∇Y W, Z)− g(∇X W,∇Y Z)
++ g(∇Y∇X W, Z)+ g(∇Y W,∇X Z)−[X, Y](g(W, Z))+ g(∇[X,Y]W, Z)
+=− g(∇X∇Y W, Z)− g(∇X W,∇Y Z)+ g(∇Y∇X W, Z)
++ g(∇Y W,∇X Z)+ g(∇[X,Y]W, Z)
+=−[g(∇X∇Y W, Z)− g(∇Y∇X W, Z)− g(∇[X,Y]W, Z)]
+=− g(∇X∇Y W−∇Y∇X W−∇[X,Y]W, Z)
+=− g(Z, R(X, Y)W)
+=− Rm(Z, W, X, Y)
+
+(iv) We have by (i, ii, iii):
+
+2Rm(Z, W, X, Y)− 2Rm(X, Y, Z, W)
+=Rm(Z, W, X, Y)+ Rm(W, Z, Y, X)+ Rm(X, Y, W, Z)+ Rm(Y, X, Z, W)
+=Rm(Z, W, X, Y)+ Rm(Z, X, Y, W)+ Rm(Z, Y, W, X)
++ Rm(W, Z, Y, X)+ Rm(W, Y, X, Z)+ Rm(W, X, Z, Y)
++ Rm(X, Y, W, Z)+ Rm(X, W, Z, Y)+ Rm(X, Z, Y, W)
++ Rm(Y, X, Z, W)+ Rm(Y, Z, W, X)+ Rm(Y, W, X, Z)
+−(Rm(Z, X, Y, W)+ Rm(Z, Y, W, X))−(Rm(W, Y, X, Z)+ Rm(W, X, Z, Y))
+−(Rm(X, W, Z, Y)+ Rm(X, Z, Y, W))
+−(Rm(Y, Z, W, X)+ Rm(Y, W, X, Z))
+=0+ 0+ 0+ 0
+−(Rm(Z, X, Y, W)+ Rm(X, Z, Y, W))−(Rm(W, Y, X, Z)+ Rm(Y, W, X, Z))
+−(Rm(X, W, Z, Y)+ Rm(W, X, Z, Y))
+−(Rm(Y, Z, W, X)+ Rm(Z, Y, W, X))
+=0− 0− 0− 0
+=0
+
+i.e. we have:
+
+Rm(Z, W, X, Y)= Rm(X, Y, Z, W).
+
+David Pigeon
+
+53
+
+Practical Calculations in General Relativity
+
+CHAPTER 1. CALCULATIONS OF OBJECTS ASSOCIATED WITH CURVATURE FOR DIAGONAL
+1.3. CURVATURE TENSOR AND RIEMANN TENSOR
+METRICS
+
+(v) We have by the action of∇ on tensor fields (see Proposition 1.2.2.4):
+
+∇XR(Y, Z)W+∇Y R(Z, X)W+∇ZR(X, Y)W
+=∇X(R(Y, Z)W)+∇Y(R(Z, X)W)+∇Z(R(X, Y)W)
+− R(∇X Y, Z)W− R(Y,∇X Z)W− R(∇Y Z, X)W− R(Z,∇Y X)W− R(∇ZX, Y)W− R(X,∇ZY)W
+− R(Y, Z)∇X W− R(Z, X)∇Y W− R(X, Y)∇ZW
+=∶(I)− (II)
+− (III)
+
+Let’s calculate elements (II) and (I) separately. We have:
+
+By the Jacobi identity, we have:
+
+∇[X,[Y,Z]]W+∇[Y,[Z,X]]W+∇[Z,[X,Y]]W=∇[X,[Y,Z]]+[Y,[Z,X]]+[Z,[X,Y]]W
+
+Thus, we have:
+
+(II)=R(∇X Y, Z)+ R(Y,∇X Z)+ R(∇Y Z, X)+ R(Z,∇Y X)
++ R(∇ZX, Y)+ R(X,∇ZY)
+=R(∇X Y −∇Y X, Z)+ R(∇Y Z−∇ZY, X)
++ R(∇ZX−∇X Z, Y)
+=R([X, Y], Z)+ R([Y, Z], X)+ R([Z, X], Y)
+=∶ (IV)
+
+=∇0W= 0
+(I)=∇X(R(Y, Z)W)+∇Y(R(Z, X)W)+∇Z(R(X, Y)W)
+=∇X∇Y∇ZW−∇X∇Z∇Y W+∇Y∇Z∇X W
+−∇Y∇X∇ZW+∇Z∇X∇Y W−∇Z∇Y∇X W
+−∇X∇[Y,Z]W−∇Y∇[Z,X]W−∇Z∇[X,Y]W
+=∇Y∇Z∇X W−∇Z∇Y∇X W+∇Z∇X∇Y W
+−∇X∇Z∇Y W+∇X∇Y∇ZW−∇Y∇X∇ZW
+−∇[Y,Z]∇X W− R(X,[Y, Z])−∇[X,[Y,Z]]W
+−∇[Z,X]∇Y W− R(Y,[Z, X])−∇[Y,[Z,X]]W
+−∇[X,Y]∇ZW− R(Z,[X, Y])−∇[Z,[X,Y]]W
+=R(Y, Z)∇X W+ R(Z, X)∇Y W+ R(X, Y)∇ZW
+− R(X,[Y, Z])W− R(Y,[Z, X])W− R(Z,[X, Y])W
+=(III)+ R([Y, Z], X)W+ R([Z, X], Y)W+ R([X, Y], Z)W
+=(III)+ (IV)
+
+Therefore, we have:∇XR(Y, Z)+∇Y R(Z, X)+∇ZR(X, Y)= (I)− (II)− (III)
+
+= (III)+ (IV)− (IV)− (III)
+= 0
+
+Practical Calculations in General Relativity
+
+54
+
+David Pigeon
+
+CHAPTER 1. CALCULATIONS OF OBJECTS ASSOCIATED WITH CURVATURE FOR DIAGONAL
+1.3. CURVATURE TENSOR AND RIEMANN TENSOR
+METRICS
+
+We also have:
+
+∇XRm(T, W, Z, Y)=X(Rm(T, W, Z, Y))− Rm(∇X T, W, Z, Y)− Rm(T,∇X W, Z, Y)
+− Rm(T, W,∇X Z, Y)− Rm(T, W, Z,∇X Y)
+=X(g(T, R(Z, Y)W))− Rm(∇X T, W, Z, Y)− Rm(T,∇X W, Z, Y)
+− Rm(T, W,∇X Z, Y)− Rm(T, W, Z,∇X Y)
+=g(∇X T, R(Z, Y)W)+ g(T,∇X(R(Z, Y)W))− g(∇X T, R(Z, Y)W)
+− g(T, R(Z, Y)∇X W)− g(T, R(∇X Z, Y)W)− g(T, R(Z,∇X Y)W)
+=g(T,∇X(R(Z, Y)W)− R(Z, Y)∇X W− R(∇X Z, Y)W− R(Z,∇X Y)W)
+=g(T,∇XR(Z, Y)W)
+
+Thus, by permuting X, Z, and Y , we have:
+
+∇XRm(T, W, Z, Y)+∇Y Rm(T, W, X, Z)+∇ZRm(T, W, Y, X)
+=g(T,∇XR(Z, Y)W)+ g(T,∇Y R(X, Z)W)+ g(T,∇ZR(Y, X)W)
+=g(T,∇XR(Z, Y)W+∇Y R(Z, X)W+∇ZR(Y, X)W)
+=g(T, 0)
+=0
+
+1.3.2 Computation of components in E and E∗
+
+Definition 1.3.2.1: Curvature and Riemann tensors
+
+(i) The components of the curvature tensor in E and E∗ are given by:
+(ii) The components of the Riemann tensor in E and E∗ are given by:
+
+RRi
+
+We have the following decompositions:
+
+There is a simple relation between these two components.
+
+Lemma 1.3.2.2: Relation between the two components
+
+We have:
+
+jkl∶= ei(R(ek, el) ej) .
+RRijkl∶= Rm(ei, ej, ek, el) .
+R= RRi
+jkl ei⊗ ej⊗ ek⊗ el
+Rm= RRijkl ei⊗ ej⊗ ek⊗ el
+
+jkl.
+
+RRijkl= gginRRn
+RRijkl= Rm(ei, ej, ek, el)
+= g(ei, R(ej, ek) el)
+= g(ei, RRn
+jkl en)
+jklg(ei, en)
+= RRn
+= gginRRn
+
+jkl
+
+Proof. This follows directly from proposition 1.1.8.6. We provide the proof here for completeness. We have:
+
+David Pigeon
+
+55
+
+Practical Calculations in General Relativity
+
+CHAPTER 1. CALCULATIONS OF OBJECTS ASSOCIATED WITH CURVATURE FOR DIAGONAL
+1.3. CURVATURE TENSOR AND RIEMANN TENSOR
+METRICS
+
+From proposition 1.3.2.3, we deduce the following proposition.
+
+Proposition 1.3.2.3: Usual properties
+
+Let i, j, k, l∈{0, 1, 2, 3}.
+
+(i) (First Bianchi identity) We have:
+
+(ii) We have:
+
+(iii) We have:
+
+(iv) We have:
+
+klj+ RRi
+
+jkl+ RRi
+ljk= 0
+RRijkl+ RRiklj+ RRiljk= 0
+
+RRi
+
+jlk
+
+RRi
+
+jkl=−RRi
+RRijkl=−RRijlk
+RRijkl=−RRjikl.
+RRijkl= RRklij.
+
+(v) (Second Bianchi identity) We have:
+
+∇nRRijkl+∇kRRijln+∇lRRijnk= 0.
+
+Proof. We use proposition 1.3.2.3.
+
+(i) Since:
+
+we have:
+
+jkl+ RRi
+
+klj+ RRi
+
+RRi
+
+R(ek, el)ej+ R(el, ej)ek+ R(ej, ek)el
+ljk= ei(R(ek, el)ej)+ ei(R(el, ej)ek)+ ei(R(ej, ek)el)
+= ei(R(ek, el)ej+ R(el, ej)ek+ R(ej, ek)el)
+= ei(0)
+= 0
+= 0
+
+RRijkl+ RRiklj+ RRiljk= Rm(ei, ej, ek, el)+ Rm(ei, ek, el, ej)+ Rm(ei, el, ej, ek)
+
+(ii) We have:
+
+RRi
+
+jkl= ei(R(ek, el)ej)
+= ei(−R(el, ek)ej)
+=−ei(R(el, ek)ej)
+=−RRi
+RRijkl= Rm(ei, ej, ek, el)
+=−Rm(ei, ej, el, ek)
+=−RRijlk
+
+kjl
+
+Practical Calculations in General Relativity
+
+56
+
+David Pigeon
+
+CHAPTER 1. CALCULATIONS OF OBJECTS ASSOCIATED WITH CURVATURE FOR DIAGONAL
+1.3. CURVATURE TENSOR AND RIEMANN TENSOR
+METRICS
+
+(iii) We have:
+
+(iv) We have:
+
+RRijkl= Rm(ei, ej, ek, el)
+=−Rm(ej, ei, ek, el)
+=−RRjikl
+
+RRijkl= Rm(ei, ej, ek, el)
+= Rm(ek, el, ei, ej)
+= RRklij
+
+(v) We have:
+
+∇nRRijkl+∇kRRijln+∇lRRijnk=∇en
+= 0
+
+Rm(ei, ej, ek, el)+∇ek
+
+Rm(ei, ej, el, en)+∇el
+
+Rm(ei, ej, en, ek)
+
+This implies the nullity of a class of components.
+
+Corollary 1.3.2.4: Nullities and symmetries of certain components
+
+Let i, j, k, l∈{0, 1, 2, 3}.
+
+(i) We have:
+
+(ii) We have:
+
+RRijki= RRkiij=−RRkiji=−RRikij=−RRijik=−RRjiki= RRjiik= RRikji.
+
+Proof.
+
+(i) We have from point (ii) of proposition 1.3.2.3:
+
+RRjkii= RRiijk= 0.
+
+RRijll=−RRijll
+RRijll= 0.
+RRiikl=−RRiikl
+RRiikl= 0.
+
+0= RRijll+ RRillj+ RRiljl
+= 0+ RRillj+ RRiljl
+RRillj=−RRiljl.
+
+We have from point (iii) of proposition 1.3.2.3:
+
+(ii) From (i) and point (i) of proposition 1.3.2.3, we have:
+
+i.e., we have:
+
+i.e., we have:
+
+i.e., we have:
+
+David Pigeon
+
+57
+
+Practical Calculations in General Relativity
+
+CHAPTER 1. CALCULATIONS OF OBJECTS ASSOCIATED WITH CURVATURE FOR DIAGONAL
+1.3. CURVATURE TENSOR AND RIEMANN TENSOR
+METRICS
+
+And we have:
+
+i.e., we have:
+
+By point (iv) of proposition 1.3.2.3, we have directly:
+
+0= RRiikl+ RRikli+ RRilik
+= 0+ RRikli+ RRilik
+RRikli=−RRilik.
+RRijil= RRilij
+RRijki= RRkiij
+
+jkl∶= dxi(R(∂k, ∂l) ∂j) .
+Rijkl∶= Rm(∂i, ∂j, ∂k, ∂l) .
+jkl ∂i⊗ dxj⊗ dxk⊗ dxl
+R= Ri
+Rm= Rijkl dxi⊗ dxj⊗ dxk⊗ dxl
+
+Rijkl= ginRn
+= giiRi
+= ηieuiRi
+
+jkl
+
+jkl
+
+jkl∶= θi(R(θk, θl) θj) .
+Rijkl∶= Rm(θi, θj, θk, θl) .
+R= Ri
+jkl θi⊗ θj⊗ θk⊗ θl
+Rm= Rijkl θi⊗ θj⊗ θk⊗ θl
+
+Rijkl= ηiiRi
+= ηiRi
+
+jkl
+
+jkl
+
+Example 1.3.2.5: Examples of components
+
+(1) (a) The components of the curvature tensor in the bases C and C∗ are:
+(b) The components of the Riemann tensor in the bases C and C∗ are:
+
+Ri
+
+Therefore, we have the decompositions:
+
+By lemma 1.3.2.2, we have the relations:
+
+(2) (a) The components of the curvature tensor in the bases C⊥ and C∗⊥ are:
+(b) The components of the Riemann tensor in the bases C⊥ and C∗⊥ are:
+
+Ri
+
+jkl
+
+Therefore, we have the decompositions:
+
+By lemma 1.3.2.2, we have the relations:
+
+Practical Calculations in General Relativity
+
+58
+
+David Pigeon
+
+CHAPTER 1. CALCULATIONS OF OBJECTS ASSOCIATED WITH CURVATURE FOR DIAGONAL
+1.3. CURVATURE TENSOR AND RIEMANN TENSOR
+METRICS
+
+1.3.3 Practical calculations in C and C∗
+
+We begin with a proposition that establishes a link between the components of the curvature tensor and the
+Christoffel symbols.
+
+Proposition 1.3.3.1: Usual properties
+
+Let i, j, k, l∈{0, 1, 2, 3}. We have:
+
+Proof. By definition of R:
+
+Ri
+
+lm.
+
+jl Γi
+
+kjΓi
+
+kj+ Γm
+
+jl− ∂lΓi
+
+jkl= ∂kΓi
+
+km− Γm
+R(∂k, ∂l) ∂j=∇∂k∇∂l∂j−∇∂l∇∂k ∂j−∇[∂k,∂l]∂j
+=∇∂k(Γm
+jl ∂m)−∇∂l(Γm
+kj∂m)
+= dΓm
+jl(∂k) ∂m+ Γm
+jl∇∂k ∂m− dΓm
+kj(∂l) ∂m+ Γm
+= ∂kΓm
+jl ∂m+ Γm
+km∂n− ∂lΓm
+kj∂m− Γm
+jkl= dxi(R(∂k, ∂l) ∂j)
+= dxi(∂kΓm
+jl ∂m+ Γm
+m+ Γm
+= ∂kΓm
+= ∂kΓi
+kj+ Γm
+jl− ∂lΓi
+
+km∂n− ∂lΓm
+kj∂m− Γm
+m− Γm
+n− ∂lΓm
+km− Γm
+
+jl Γn
+kmδi
+jl Γi
+
+kjδi
+kjΓi
+lm
+
+kjΓn
+
+kjΓn
+
+kjΓn
+
+lmδi
+n
+
+jl Γn
+
+jl Γn
+
+lm∂n
+
+jl δi
+
+Ri
+
+lm∂n)
+
+kj∇∂l∂m
+
+Therefore, we have:
+
+According to Corollary 1.3.2.4, there are only two types of components to calculate, as the others can
+
+be obtained through symmetry:
+
+Ri
+
+jil
+
+, Ri
+
+jij.
+
+(i) We have:
+
+Theorem 1.3.3.2: Values of the curvature and Riemann tensors
+
+Let i, j, k, l∈{0, 1, 2, 3} distinct, i.e.,{0, 1, 2, 3}={i, j, k, l}.
+jil=−ui,jl+ ui,j(uj,l− ui,l)+ ul,jui,l
+iil=−ηiηje2ui−2uj Ri
+ili=−Rj
+jli=−Ri
+
+Ri
+Rj
+Rj
+Ri
+
+jil
+
+jil
+
+iil
+
+(ii) We have:
+
+and:
+
+jij=−(ui,jj+ ui,j(ui,j− uj,j))− ηiηj(uj,ii+ uj,i(uj,i− ui,i)) e2uj−2ui
+− ηkηjui,kuj,ke2uj−2uk− ηlηjui,luj,le2uj−2ul
+
+Ri
+
+iij=−ηiηjRi
+
+Rj
+
+jij.
+
+(iii) All other components of the Riemann tensor are zero.
+
+David Pigeon
+
+59
+
+Practical Calculations in General Relativity
+
+CHAPTER 1. CALCULATIONS OF OBJECTS ASSOCIATED WITH CURVATURE FOR DIAGONAL
+1.3. CURVATURE TENSOR AND RIEMANN TENSOR
+METRICS
+
+Proof.
+
+(i) We have:
+
+Ri
+
+jl Γi
+
+ij+ Γm
+ij+ Γl
+
+jil=∂iΓi
+jl− ∂lΓi
+im− Γm
+=− ∂lΓi
+ij+ Γj
+il− Γi
+=− ∂l(ui,j)+ uj,lui,j+ ul,jui,l− ui,jui,l
+=− ui,jl+ ui,j(uj,l− ui,l)+ ul,jui,l
+=− ui,jl+ ui,j(uj,l− ui,l)+ ul,jui,l
+
+ij Γi
+lm
+ijΓi
+li
+
+jlΓi
+
+jlΓi
+
+(ii) We have:
+
+Ri
+
+ij+ Γm
+ij+ Γm
+
+im− Γm
+im− Γi
+
+jj− ∂jΓi
+jij=∂iΓi
+=∂iΓi
+jj− ∂jΓi
+=∂i(−ηiηjuj,ie2uj−2ui)− ∂j(ui,j)+(−ηmηjuj,me2uj−2um) ui,m− u2
+=−(ui,jj+ ui,j(ui,j− uj,j))− ηiηj(uj,ii+ uj,i(uj,i− ui,i)) e2uj−2ui
+− ηkηjui,kuj,ke2uj−2uk− ηlηjui,luj,le2uj−2ul
+
+ji− Γj
+
+jjΓi
+jjΓi
+
+ij Γi
+ijΓi
+
+ijΓi
+
+jm
+
+jj
+
+i,j− uj,i(−ηiηjuj,ie2uj−2ui)
+
+1.3.4 Practical computations of the curvature 2-form in C⊥ and C∗⊥
+Let X and Y be two vector fields. For any vector field ∂j, the element R(X, Y)∂j is a vector field, so it can
+be decomposed in the C⊥ basis. This leads to the definition of the curvature 2-forms.
+Let X and Y be two vector fields, and i, j∈{0, 1, 2, 3}. We define the scalar field Ωi
+
+j(X, Y) by:
+
+Definition 1.3.4.1: Curvature applications
+
+Thus, we have a 2-form Ωi
+
+X and Y . We have the decomposition:
+
+j(X, Y)∶= θi(R(X, Y)θj) .
+j∈ Λ2(U) that associates the scalar field Ωi
+
+Ωi
+
+R(X, Y)θj= Ωi
+
+j(X, Y)θi.
+
+j(X, Y) to every pair of vector fields
+
+Lemma 1.3.4.2: Usual properties
+
+Let i, j, k∈{0, 1, 2, 3}.
+
+(i) We have:
+
+(ii) We have:
+
+(iii) We have:
+
+Ωi
+
+j
+
+j= dϖi
+k∧ ϖk
+j+ ϖi
+j=−ηkηjΩj
+k= 0.
+
+Ωk
+
+Ωk
+
+k.
+
+Practical Calculations in General Relativity
+
+60
+
+David Pigeon
+
+CHAPTER 1. CALCULATIONS OF OBJECTS ASSOCIATED WITH CURVATURE FOR DIAGONAL
+1.3. CURVATURE TENSOR AND RIEMANN TENSOR
+METRICS
+
+Proof.
+
+Ωi
+
+(i) For all vector fields X and Y , we have:
+
+j(X, Y)θi=R(X, Y)θj=∇X∇Y θj−∇Y∇X θj−∇[X,Y]θj
+=∇X(ϖi
+j(Y)θi)−∇Y(ϖi
+j(X)θi)− ϖi
+j([X, Y])θi
+j(X)) θk− ϖk
+j(Y)∇X θk− Y(ϖk
+j(Y)) θk+ ϖk
+=X(ϖk
+j(X)∇X θk− ϖi
+j([X, Y])θi
+j(Y)) θk+ ϖk
+=X(ϖk
+k(X)θi− Y(ϖk
+j(X)) θk− ϖk
+j(Y)ϖi
+j(X)ϖi
+k(Y)θi− ϖi
+j([X, Y])θi
+=X(ϖi
+j(Y)) θi+ ϖk
+k(X)θi− Y(ϖi
+j(X)) θi− ϖk
+j(Y)ϖi
+j(X)ϖi
+k(Y)θi− ϖi
+j([X, Y])θi
+j([X, Y])) θi
+j(X))− ϖk
+k(X)− Y(ϖi
+j(Y))+ ϖk
+=(X(ϖi
+k(Y)− ϖi
+j(X)ϖi
+j(Y)ϖi
+=(X(ϖi
+j(Y))− Y(ϖi
+j(X))− ϖi
+k(Y)) θi
+j([X, Y])+ ϖk
+k(X)− ϖk
+j(Y)ϖi
+j(X)ϖi
+=(dϖi
+j(X, Y)+(ϖi
+k)(X, Y)) θi
+k⊗ ϖk
+j− ϖk
+j⊗ ϖi
+=(dϖi
+j)(X, Y)θi
+j+ ϖi
+k∧ ϖk
+
+Since this holds for all vector fields X, Y , and θi, we have the result.
+
+(ii) We have:
+
+−ηkηjΩj
+
+k=−ηkηj(dϖj
+=−ηkηjdϖj
+= d(−ηkηjϖj
+j− ϖi
+= dϖk
+= dϖk
+j+ ϖk
+= Ωk
+
+j
+
+k)
+i∧ ϖi
+k+ ϖj
+i∧ ϖi
+k− ηkηjϖj
+k)−(−ηiηjϖj
+i)∧(−ηkηiϖi
+j∧ ϖk
+i∧ ϖi
+
+k
+
+j
+
+i
+
+k)
+
+(iii) We have by (ii):
+
+In other words, we have Ωk
+
+k= 0.
+
+k=−ηkηkΩk
+
+k=−Ωk
+
+k
+
+Ωk
+
+(i) We have:
+
+Lemma 1.3.4.3: Lemma for the computation of the two forms Ωi
+j
+
+Let i, j, k, l∈{0, 1, 2, 3} distinct such that{0, 1, 2, 3}={i, j, k, l}, and p, q≠ i, j.
+−2upθi,j+ ηiηjup,iuj,pe
+−uj−uq θq,i− ηiηj(uj,iq+ uj,i(uj,q− ui,q)) e
+
+p∧ ϖp
+j=(ui,jq+ ui,j(ui,q− uj,q)) e
+
+−up−uj θi,p− ηpηjui,puj,pe
+
+j= ui,pup,je
+
+(ii) We have:
+
+dϖi
+
+ϖi
+
+−ui−upθp,j.
+−ui−uq θq,j.
+
+Proof.
+
+(i) We have:
+
+p∧ ϖp
+
+ϖi
+
+j=(ui,pe
+= ui,pup,je
+
+−uiθp)∧(up,je
+−upθi− ηiηpup,ie
+−up−uj θi,p− ηpηjui,puj,pe
+
+−upθj)
+−uj θp− ηpηjuj,pe
+−2upθi,j+ ηiηjup,iuj,pe
+−ui−upθp,j
+
+David Pigeon
+
+61
+
+Practical Calculations in General Relativity
+
+CHAPTER 1. CALCULATIONS OF OBJECTS ASSOCIATED WITH CURVATURE FOR DIAGONAL
+1.3. CURVATURE TENSOR AND RIEMANN TENSOR
+METRICS
+
+(ii) We have:
+
+dϖi
+
+j=d(ui,je
+−uiθj)
+−uj θi− ηiηjuj,ie
+=d(ui,je
+−uj θi)− ηiηjd(uj,ie
+−uiθj)
+−uj d(θi)− ηiηjd(uj,ie
+=d(ui,je
+−uj)∧ θi+ ui,je
+−ui)∧ θj− ηiηjuj,ie
+=(ui,jq− ui,juj,q) e
+−uj dxq∧ θi+ ui,je
+−uj ui,qe
+−uq θq,i
+− ηiηj(uj,iq− uj,iui,q) e
+−uidxq∧ θj− ηiηjuj,ie
+−uiuj,qe
+−uq θq,j
+−uj−uq θq,i− ηiηj(uj,iq+ uj,i(uj,q− ui,q)) e
+=(ui,jq+ ui,j(ui,q− uj,q)) e
+
+−uid(θj)
+−ui−uq θq,j
+
+−ui−upθp,j]
+−up−uj θp,i+ ηiηj(up,iuj,p− uj,ip+ uj,i(ui,p− uj,p)) e
+⎤⎥⎥⎥⎥⎦ θj,i
+−2up
+
+−2ui+ ηj ∑
+p≠i,j
+
+−2uj+ ηiηj(uj,ii+ uj,i(uj,i− ui,i)) e
+
+ηpui,puj,pe
+
+Proposition 1.3.4.4: Exact values of the two forms Ωi
+j
+
+Proof. We have:
+
+Ωi
+
+j
+
+Ωi
+
+ϖi
+
+We have:
+
+p∧ ϖp
+−up−uj θi,p− ηpηjui,puj,pe
+
+[(ui,jp+ ui,j(ui,p− uj,p)− ui,pup,j) e
+j= ∑
+p≠i,j
++⎡⎢⎢⎢⎢⎣(ui,jj+ ui,j(ui,j− uj,j)) e
+j+ ∑
+j=dϖi
+p≠i,j
+=(ui,jq+ ui,j(ui,q− uj,q)) e
++ ∑
+p≠i,j
+=(ui,jj+ ui,j(ui,j− uj,j)) e
++(ui,jl+ ui,j(ui,l− uj,l)) e
+− ηiηj(uj,ik+ uj,i(uj,k− ui,k)) e
++ ui,kuk,je
+−uk−uj θi,k− ηkηjui,kuj,ke
++ ui,lul,je
+−ul−uj θi,l− ηlηjui,luj,le
+[(ui,jp+ ui,j(ui,p− uj,p)− ui,pup,j) e
+= ∑
+p≠i,j
++⎡⎢⎢⎢⎢⎣(ui,jj+ ui,j(ui,j− uj,j)) e
+
+ui,pup,je
+
+−uj−uq θq,i− ηiηj(uj,iq+ uj,i(uj,q− ui,q)) e
+−ui−uq θq,j
+−2upθi,j+ ηiηjup,iuj,pe
+−ui−upθp,j
+−uj−uj θj,i+(ui,jk+ ui,j(ui,k− uj,k)) e
+−uj−uk θk,i
+−uj−ulθl,i− ηiηj(uj,ii+ uj,i(uj,i− ui,i)) e
+−ui−uiθi,j
+−ui−uk θk,j− ηiηj(uj,il+ uj,i(uj,l− ui,l)) e
+−2uk θi,j+ ηiηjuk,iuj,ke
+−ui−uk θk,j
+−2ulθi,j+ ηiηjul,iuj,le
+−ui−ulθl,j
+−2uj+ ηiηj(uj,ii+ uj,i(uj,i− ui,i)) e
+
+−ui−upθp,j]
+−uj−upθp,i− ηiηj(uj,ip+ uj,i(uj,p− ui,p)− up,iuj,p) e
+⎤⎥⎥⎥⎥⎦ θj,i
+−2up
+
+−2ui+ ηj ∑
+p≠i,j
+
+ηpui,puj,pe
+
+−ui−ulθl,j
+
+Example 1.3.4.5: Sequence 5 of metric h
+
+We continue the example with the metric h (see 1.1.4.1, 1.1.5.1, 1.2.5.5, 1.2.6.3, and 1.2.6.5) with :
+
+● We have :
+
+u0(t, r)∶= u(t, r)
+u2(t, r)∶= b(t)+ ln(r)
+0=(u1,02+ u1,0(u1,2− u0,2)− u1,2u2,0) e
+
+u1(t, r)∶= v(t, r)
+u3(t, r, ϑ)∶= b(t)+ ln(r)+ ln sin(ϑ)
+−u2−u0θ2,1
+
+Ω1
+
+Practical Calculations in General Relativity
+
+62
+
+David Pigeon
+
+CHAPTER 1. CALCULATIONS OF OBJECTS ASSOCIATED WITH CURVATURE FOR DIAGONAL
+1.3. CURVATURE TENSOR AND RIEMANN TENSOR
+METRICS
+
+● We have :
+
+Ω2
+
+● We have :
+
+Ω3
+
+● We have :
+
+Ω2
+
+−2u1] θ0,1
+−2u1] θ0,1
+
+−2u2] θ0,2
+−2u0] θ0,2
+
+−2u− r
+
+−u2−u1θ1,0
+−u2−u3θ3,0
+
+−u1−u2θ2,0
+−u1−u3θ3,0
+
+−2u0+ η2η0(u0,22+ u0,2(u0,2− u2,2)) e
+−u1−u0θ1,2+[(u2,00+ u2,0(u2,0− u0,0)) e
+−2v] θ0,2
+
++ η1η0(u2,1u0,2− u0,12+ u0,1(u1,2− u0,2)) e
++(u1,03+ u1,0(u1,3− u0,3)− u1,3u3,0) e
+−u3−u0θ3,1
++ η1η0(u3,1u0,3− u0,13+ u0,1(u1,3− u0,3)) e
++[(u1,00+ u1,0(u1,0− u0,0)) e
+−2u0+ η1η0(u0,11+ u0,1(u0,1− u1,1)) e
+−2u3] θ0,1
++[η0η2u1,2u0,2e
+−2u2+ η0η3u1,3u0,3e
+=[(u1,00+ u1,0(u1,0− u0,0)) e
+−2u0+ η1η0(u0,11+ u0,1(u0,1− u1,1)) e
+−2u−(u
+=[(¨v+ ˙v( ˙v− ˙u)) e
+′(u
+′)) e
+−2v] θ0,1
+′′+ u
+′− v
+0=(u2,01+ u2,0(u2,1− u0,1)− u2,1u1,0) e
+−u1−u0θ1,2
++ η2η0(u1,2u0,1− u0,21+ u0,2(u2,1− u0,1)) e
++(u2,03+ u2,0(u2,3− u0,3)− u2,3u3,0) e
+−u3−u0θ3,2
++ η2η0(u3,2u0,3− u0,23+ u0,2(u2,3− u0,3)) e
++[(u2,00+ u2,0(u2,0− u0,0)) e
+−2u3] θ0,2
++[η0η1u2,1u0,1e
+−2u1+ η0η3u2,3u0,3e
+=(u2,0(u2,1− u0,1)− u2,1u1,0) e
++ η0η1u2,1u0,1e
+−2u1θ0,2
+−u−vθ1,2+[(¨b+ ˙b(˙b− ˙u)) e
+−1 ˙v) e
+′)− r
+=(˙b(r
+−1− u
+0=(u3,01+ u3,0(u3,1− u0,1)− u3,1u1,0) e
+−u1−u0θ1,3
++ η3η0(u1,3u0,1− u0,31+ u0,3(u3,1− u0,1)) e
++(u3,02+ u3,0(u3,2− u0,2)− u3,2u2,0) e
+−u2−u0θ2,3
++ η3η0(u2,3u0,2− u0,32+ u0,3(u3,2− u0,2)) e
++[(u3,00+ u3,0(u3,0− u0,0)) e
+−2u0+ η3η0(u0,33+ u0,3(u0,3− u3,3)) e
+−2u2] θ0,3
++[η0η1u3,1u0,1e
+−2u1+ η0η2u3,2u0,2e
+=(u3,0(u3,1− u0,1)− u3,1u1,0) e
+−u1−u0θ1,3+(u3,0u3,2− u3,2u2,0) e
+−2u1] θ0,3
++[(u3,00+ u3,0(u3,0− u0,0)) e
+−2u0+ η0η1u3,1u0,1e
+−u−vθ1,3+[(¨b+ ˙b(˙b− ˙u)) e
+−1 ˙v) e
+′)− r
+=(˙b(r
+−2u− r
+−1− u
+−1u
+′
+1=(u2,10+ u2,1(u2,0− u1,0)− u2,0u0,1) e
+−u0−u1θ0,2
++ η2η1(u0,2u1,0− u1,20+ u1,2(u2,0− u1,0)) e
++(u2,13+ u2,1(u2,3− u1,3)− u2,3u3,1) e
+−u3−u1θ3,2
++ η2η1(u3,2u1,3− u1,23+ u1,2(u2,3− u1,3)) e
++[(u2,11+ u2,1(u2,1− u1,1)) e
+−2u1+ η2η1(u1,22+ u1,2(u1,2− u2,2)) e
++[η1η0u2,0u1,0e
+−2u3] θ1,2
+−2u0+ η1η3u2,3u1,3e
+=(u2,1(u2,0− u1,0)− u2,0u0,1) e
+−u0−u1θ0,2
++[(u2,11+ u2,1(u2,1− u1,1)) e
+−2u1+ η1η0u2,0u1,0e
+−1(˙b− ˙v)− ˙bu
+′) e
+−u−vθ0,2+[−r
+=(r
+−2v− ˙v ˙be
+′
+−1v
+
+−u3−u1θ1,0
+−u3−u2θ2,0
+
+−u2−u0θ0,1
+−u2−u3θ3,1
+
+−2u0] θ1,2
+−2u] θ1,2
+
+−1u
+′
+
+e
+
+e
+
+e
+
+−2u3] θ0,3
+−u2−u0θ2,3
+−2v] θ0,3
+
+−2u2] θ1,2
+
+David Pigeon
+
+63
+
+Practical Calculations in General Relativity
+
+CHAPTER 1. CALCULATIONS OF OBJECTS ASSOCIATED WITH CURVATURE FOR DIAGONAL
+1.3. CURVATURE TENSOR AND RIEMANN TENSOR
+METRICS
+
+● We have :
+
+Ω3
+
+● We have :
+
+−2u0] θ1,3
+−2u] θ1,3
+
+−u3−u0θ0,1
+−u3−u2θ2,1
+
+1=(u3,10+ u3,1(u3,0− u1,0)− u3,0u0,1) e
+−u0−u1θ0,3
++ η3η1(u0,3u1,0− u1,30+ u1,3(u3,0− u1,0)) e
++(u3,12+ u3,1(u3,2− u1,2)− u3,2u2,1) e
+−u2−u1θ2,3
++ η3η1(u2,3u1,2− u1,32+ u1,3(u3,2− u1,2)) e
++[(u3,11+ u3,1(u3,1− u1,1)) e
+−2u1+ η3η1(u1,33+ u1,3(u1,3− u3,3)) e
+−2u2] θ1,3
++[η1η0u3,0u1,0e
+−2u0+ η1η2u3,2u1,2e
+−u0−u1θ0,3+(u3,1u3,2− u3,2u2,1) e
+=(u3,1(u3,0− u1,0)− u3,0u0,1) e
++[(u3,11+ u3,1(u3,1− u1,1)) e
+−2u1+ η1η0u3,0u1,0e
+−1(˙b− ˙v)− ˙bu
+=(r
+′) e
+−u−vθ0,3+[−r
+−2v− ˙v ˙be
+′
+−1v
+2=(u3,20+ u3,2(u3,0− u2,0)− u3,0u0,2) e
+−u0−u2θ0,3
++ η3η2(u0,3u2,0− u2,30+ u2,3(u3,0− u2,0)) e
+−u3−u0θ0,2
++(u3,21+ u3,2(u3,1− u2,1)− u3,1u1,2) e
+−u1−u2θ1,3
++ η3η2(u1,3u2,1− u2,31+ u2,3(u3,1− u2,1)) e
+−u3−u1θ1,2
++[(u3,22+ u3,2(u3,2− u2,2)) e
+−2u1] θ2,3
++[η2η0u3,0u2,0e
+−2u0+ η2η1u3,1u2,1e
+=u3,2(u3,0− u2,0) e
+−u0−u2θ0,3+ u3,2(u3,1− u2,1) e
+−u1−u2θ1,3
++[(u3,22+(u3,2)2) e
+−2u0+ η2η1u3,1u2,1e
+−2u2+ η2η0u3,0u2,0e
+−2b−(˙b)2
+−2u+ r
+=[−r
+−2v] θ2,3
+−2e
+−2e
+1.3.5 Practical computations in C⊥ and C∗⊥
+
+−2u2+ η3η2(u2,33+ u2,3(u2,3− u3,3)) e
+−2u1] θ2,3
+
+Ω3
+
+e
+
+e
+
+−2u3] θ1,3
+−u2−u1θ2,3
+
+−2u3] θ2,3
+
+We start with a link between Ri
+
+jkl and Ωi
+j.
+
+Lemma 1.3.5.1: Link with the 2-forms Ωi
+j
+
+We have:
+
+Proof. By definition of Ri
+
+jkl, we have:
+
+Therefore, we have:
+
+Ri
+
+Ri
+
+j(θk, θl) .
+jkl= Ωi
+jkl= θi(R(θk, θl) θj)
+= θi(Ωl
+j(θk, θl) θl)
+= Ωl
+j(θk, θl) δi
+= Ωi
+j(θk, θl)
+j(θi, θl)
+jil= Ωi
+= dϖi
+j(θi, θl)+ ϖi
+
+p∧ ϖp
+
+l
+
+Ri
+
+j(θi, θl)
+
+Practical Calculations in General Relativity
+
+64
+
+David Pigeon
+
+CHAPTER 1. CALCULATIONS OF OBJECTS ASSOCIATED WITH CURVATURE FOR DIAGONAL
+1.3. CURVATURE TENSOR AND RIEMANN TENSOR
+METRICS
+
+The following lemma gives the value of each term on the right-hand side.
+
+(i) (a) We have:
+
+Lemma 1.3.5.2: Preliminary lemma for the calculation of Riemann tensors
+
+Let i, j, k, l such that{0, 1, 2, 3}={i, j, k, l} and p≠ i, j.
+j(θi, θl)= δp
+p∧ ϖp
+−ul−uj .
+p∧ ϖp
+j(θi, θj)=−ηpηjui,puj,pe
+−2up.
+j(θi, θl)=−(ui,jl+ ui,j(ui,l− uj,l)) e
+−uj−ul.
+
+(ii) (a) We have:
+
+(b) We have:
+
+l ui,lul,je
+
+dϖi
+
+ϖi
+
+ϖi
+
+(b) We have:
+
+dϖi
+
+j(θi, θj)=−(ui,jj+ ui,j(ui,j− uj,j)) e
+p∧ ϖp
+
+ϖi
+
+−2uj− ηiηj(uj,ii+ uj,i(uj,i− ui,i)) e
+−2ui.
+−2upθi,j(θi, θl)
+
+Proof.
+
+(i) (a) We have:
+
+−ui−upθp,j(θi, θl)
+
+−up−uj θi,p(θi, θl)− ηpηjui,puj,pe
+j(θi, θl)=ui,pup,je
++ ηiηjup,iuj,pe
+−up−uj θi,p(θi, θl)
+=ui,pup,je
+=δp
+−ul−uj
+−up−uj θi,p(θi, θj)− ηpηjui,puj,pe
+j(θi, θj)=ui,pup,je
+
+l ui,lul,je
+
++ ηiηjup,iuj,pe
+−ui−upθp,j(θi, θj)
+−2upθi,j(θi, θj)
+=− ηpηjui,puj,pe
+=− ηpηjui,puj,pe
+−2up
+
+(b) We have:
+
+p∧ ϖp
+
+ϖi
+
+−2upθi,j(θi, θj)
+
+(ii) (a) We have:
+
+(b) We have:
+
+dϖi
+
+dϖi
+
+−ui−uq θq,j(θi, θl)
+
+j(θi, θl)=(ui,jq+ ui,j(ui,q− uj,q)) e
+−uj−uq θq,i(θi, θl)
+− ηiηj(uj,iq+ uj,i(uj,q− ui,q)) e
+−uj−uq θq,i(θi, θl)
+=(ui,jq+ ui,j(ui,q− uj,q)) e
+=−(ui,jl+ ui,j(ui,l− uj,l)) e
+−uj−ul
+−uj−uq θq,i(θi, θj)
+−ui−uq θq,j(θi, θj)
+−uj−uq− δq
+i ηiηj(uj,iq+ uj,i(uj,q− ui,q)) e
+−2uj− ηiηj(uj,ii+ uj,i(uj,i− ui,i)) e
+−2ui
+
+j(θi, θj)=(ui,jq+ ui,j(ui,q− uj,q)) e
+− ηiηj(uj,iq+ uj,i(uj,q− ui,q)) e
+=− δq
+j(ui,jq+ ui,j(ui,q− uj,q)) e
+=−(ui,jj+ ui,j(ui,j− uj,j)) e
+
+−ui−uq
+
+We deduce the exact values of the components of the Riemann tensor Ri
+
+jkl.
+
+David Pigeon
+
+65
+
+Practical Calculations in General Relativity
+
+CHAPTER 1. CALCULATIONS OF OBJECTS ASSOCIATED WITH CURVATURE FOR DIAGONAL
+1.3. CURVATURE TENSOR AND RIEMANN TENSOR
+METRICS
+
+(i) We have:
+
+Theorem 1.3.5.3: Values of the Riemann tensor
+
+Let i, j, k, l be such that{0, 1, 2, 3}={i, j, k, l}.
+jil=−(ui,jl+ ui,j(ui,l− uj,l)− ui,lul,j) e
+iil=−ηiηjRi
+ili=−Rj
+jli=−Ri
+
+Ri
+Rj
+Rj
+Ri
+
+jil
+
+jil
+
+iil
+
+−uj−ul
+
+(ii) We have:
+
+and:
+
+Ri
+
+jij=−(ui,jj+ ui,j(ui,j− uj,j)) e
+− ηkηjui,kuj,ke
+
+−2uj− ηiηj(uj,ii+ uj,i(uj,i− ui,i)) e
+−2uk− ηlηjui,luj,le
+−2ul
+iij=−ηiηjRi
+
+jij.
+
+Rj
+
+−2ui
+
+(iii) All other values of the Riemann tensor are zero.
+
+Proof.
+
+(i) We have:
+
+Ri
+
+Ri
+
+j(θi, θl)
+−ul−uj
+
+j(θi, θl)
+jil= Ωi
+j(θi, θl)
+p∧ ϖp
+j(θi, θl)+ ϖi
+= dϖi
+l∧ ϖl
+= dϖi
+j(θi, θl)+ ϖi
+k∧ ϖk
+j(θi, θl)+ ϖi
+=−(ui,jl+ ui,j(ui,l− uj,l)) e
+−uj−ul+ ui,lul,je
+=−(ui,jl+ ui,j(ui,l− uj,l)− ui,lul,j) e
+−uj−ul
+j(θi, θj)
+jij= Ωi
+j(θi, θj)
+p∧ ϖp
+j(θi, θj)+ ϖi
+= dϖi
+j(θi, θj)+ ϖi
+k∧ ϖk
+= dϖi
+j(θi, θj)+ ϖi
+=−(ui,jj+ ui,j(ui,j− uj,j)) e
+−2uj− ηiηj(uj,ii+ uj,i(uj,i− ui,i)) e
+−2uk− ηlηjui,luj,le
+− ηkηjui,kuj,ke
+−2ul
+i= 0, we have for all p, q:
+ipq= 0.
+qii= 0.
+
+j is an alternating form, we have:
+
+j(θi, θj)
+
+l∧ ϖl
+
+Rp
+
+Ri
+
+−2ui
+
+jkl= 0.
+
+Using the general expression found for Ωi
+
+j in Proposition 1.3.4.4, we have Ri
+
+(ii) We have:
+
+(iii) Since Ωi
+
+Since Ωi
+
+The values can be deduced in the case of the metric h.
+
+Practical Calculations in General Relativity
+
+66
+
+David Pigeon
+
+CHAPTER 1. CALCULATIONS OF OBJECTS ASSOCIATED WITH CURVATURE FOR DIAGONAL
+1.3. CURVATURE TENSOR AND RIEMANN TENSOR
+METRICS
+
+Example 1.3.5.4: Sequence 6 of the metric h
+
+We resume the example with the metric h (see 1.1.4.1, 1.1.5.1, 1.2.5.5, 1.2.6.3, 1.2.6.5, and 1.3.4.5)
+with:
+
+u0(t, r)∶= u(t, r)
+u2(t, r)∶= b(t)+ ln(r)
+
+u1(t, r)∶= v(t, r)
+u3(t, r, ϑ)∶= b(t)+ ln(r)+ ln sin(ϑ)
+, (2) Ri
+
+jil.
+
+(1) Ri
+
+jij
+
+We consider two cases:
+
+(1) Calculations of Ri
+
+−2u0
+
+jij.
+
+R0
+
+R0
+
+−2b−2u
+
+−2v−2b+(¨v+ ˙v( ˙v− ˙u)) e
+
+● Case where i∶= 0. We have:
+101=−(u0,11+ u0,1(u0,1− u1,1)) e
+−2u1
+− η0η1(u1,00+ u1,0(u1,0− u0,0)) e
+−2u0
+− η2η1u0,2u1,2e
+−2u2− η3η1u0,3u1,3e
+−2u3
+−2u1− η0η1(u1,00+ u1,0(u1,0− u0,0)) e
+=−(u0,11+ u0,1(u0,1− u1,1)) e
+=−(u
+′(u
+′)) e
+′′+ u
+′− v
+● Case where j∶= 2, 3 (k∶= 3, 2). We have:
+j0j=−(u0,jj+ u0,j(u0,j− uj,j)) e
+−2uj
+− η0ηj(uj,00+ uj,0(uj,0− u0,0)) e
+−2u0
+− η1ηju0,1uj,1e
+−2u1− ηkηju0,kuj,ke
+−2uk
+=− η0ηj(uj,00+ uj,0(uj,0− u0,0)) e
+−2u0− η1ηju0,1uj,1e
+=(¨b+ ˙b(˙b− ˙u)) e
+−2u− r
+−1u
+′
+−2v
+j1j=−(u1,jj+ u1,j(u1,j− uj,j)) e
+−2uj
+− η1ηj(uj,11+ uj,1(uj,1− u1,1)) e
+−2u1
+−2u0− ηkηju1,kuj,ke
+− η0ηju1,0uj,0e
+−2uk
+=− η1ηj(uj,11+ uj,1(uj,1− u1,1)) e
+−2u1− η0ηju1,0uj,0e
+−2v+ ˙v ˙be
+=− r
+−2u
+−1v
+′
+● Case where i∶= 2. We have:
+323=−(u2,33+ u2,3(u2,3− u3,3)) e
+−2u3
+− η2η3(u3,22+ u3,2(u3,2− u2,2)) e
+−2u2
+−2u0− η1η3u2,1u3,1e
+− η0η3u2,0u3,0e
+−2u1
+=− η2η3(u3,22+(u3,2)2) e
+−2u2
+−2u0− η1η3u2,1u3,1e
+− η0η3u2,0u3,0e
+−2u1
+−2b+(˙b)2
+−2u− r
+=r
+−2e
+−2v
+−2e
+
+−2u0
+
+−2u1
+
+R1
+
+R2
+
+e
+
+e
+
+e
+
+The other terms are obtained by symmetry.
+
+(2) Calculations of Ri
+
+jil. We have:
+
+Ri
+
+jil=−(ui,jl+ ui,j(ui,l− uj,l)+ ui,lul,j) e
+=−(ui,j(ui,l− uj,l)+ ui,lul,j) e
+−uj−ul
+
+−uj−ul
+
+David Pigeon
+
+67
+
+Practical Calculations in General Relativity
+
+CHAPTER 1. CALCULATIONS OF OBJECTS ASSOCIATED WITH CURVATURE FOR DIAGONAL
+1.4. TENSOR OF RICCI
+METRICS
+
+● Case where j, l= 3. We have:
+
+3il=−(ui,3(ui,l− u3,l)+ ui,lul,3) e
+ji3=−(ui,j(ui,3− uj,3)+ ui,3ul,j) e
+
+−u3−ul= 0
+−uj−u3= 0
+
+Ri
+Ri
+
+−u2−ul= 0
+−uj−u2= 0
+−u2−ul
+
+−uj−u2
+
+R3
+
+Ri
+Ri
+
+● Case where i∶= 0, 1 (thus j, l= 1, 0= 1− i). We have:
+
+● Case where i∶= 3. For j, l= 0, 1 we have:
+
+2il=−(ui,2(ui,l− u2,l)+ ui,lul,2) e
+ji2=−(ui,j(ui,2− uj,2)+ ui,2u2,j) e
+230=−(u3,2(u3,l− u2,l)− u3,lul,2) e
+=−(u3,2(u2,l− u2,l)) e
+−u2−ul
+= 0
+j32=−(u3,j(u3,2− uj,2)− u3,2u2,j) e
+=−(u3,ju3,2− u3,2u2,j) e
+−uj−u2
+=−(u2,ju3,2− u3,2u2,j) e
+−uj−u2
+= 0
+0i1=−(ui,0(ui,1− u0,1)− ui,1u1,0) e
+=−(˙b(r
+−1 ˙v) e
+′)− r
+−1− u
+−u−v
+1i0=−(ui,1(ui,0− u1,0)− ui,0u0,1) e
+−1(˙b− ˙v)− u
+=−(r
+′ ˙b) e
+−u−v
+These are the only non-zero terms of the form Ri
+
+● Case where i∶= 2, 3. We have:
+
+R3
+
+Ri
+
+Ri
+
+jil.
+
+−u0−u1
+−u1−u0
+
+1.4 Tensor of Ricci
+
+1.4.1 Generalities
+
+The curvature tensor R is of type(1, 3), so we can contract the upper index with the second index.
+
+Definition 1.4.1.1: The Ricci tensor
+
+The Ricci tensor is defined by:
+
+That is, for any vector fields Y and Z:
+
+Ric=[R]1
+Ric(Y, Z)=[R]1
+
+2
+
+2(Y, Z).
+
+Practical Calculations in General Relativity
+
+68
+
+David Pigeon
+
+CHAPTER 1. CALCULATIONS OF OBJECTS ASSOCIATED WITH CURVATURE FOR DIAGONAL
+1.4. TENSOR OF RICCI
+METRICS
+
+Next, we demonstrate the usual properties of the Ricci tensor. For part (ii), note that for any vector
+fields Y and Z, we have a linear mapping from T M (at each point p of M , we have a linear mapping from
+TpM ):
+
+Definition 1.4.2.1: The Ricci tensor
+
+1.4.2 Computation of the components in E and E∗
+The components of the Ricci tensor in E and E∗ are:
+RRjl∶= Ric(ej, el).
+Ric= RRjl ej⊗ el.
+Xz→ R(X, Y)Z.
+
+Therefore, we have the decomposition:
+
+Thus, we can consider the trace of this linear mapping.
+
+Proposition 1.4.2.2: Usual properties
+
+Let j, k, l, n∈{0, 1, 2, 3} and two vector fields Y and Z.
+RRjl= RRlj.
+
+(i) (Symmetry) We have:
+
+(iii) (Contracted Bianchi identity) We have:
+
+Proof.
+
+(i) We use the first three points of Proposition 1.3.2.3.
+
+(ii) (a) We have:
+
+(b) We have:
+
+● By point (i), we have:
+● By point (iii), we have:
+
+Thus, we have:
+
+● By point (ii), we have:
+
+Ric(Y, Z)= tr(Xz→ R(X, Y)Z) .
+
+RRjl= RRi
+
+jil.
+
+∇nRRjl−∇lRRjn=−∇kRRk
+
+jln.
+
+RRijkl+ RRiklj+ RRiljk= 0
+gkiRRiklj= gikRRiklj
+=−gikRRkilj
+=−gkiRRikjl
+gkiRRiklj= 0.
+0= gki(RRijkl+ RRiklj+ RRiljk)
+jkl+ 0+ RRk
+= RRk
+= RRjl− RRk
+= RRjl− RRlj
+
+ljk
+
+lkj
+
+David Pigeon
+
+69
+
+Practical Calculations in General Relativity
+
+CHAPTER 1. CALCULATIONS OF OBJECTS ASSOCIATED WITH CURVATURE FOR DIAGONAL
+1.4. TENSOR OF RICCI
+METRICS
+
+(ii) We prove both points simultaneously. Recall that for any endomorphism ϕ of T M , the trace of ϕ is
+
+The trace is independent of the chosen basis.
+
+Thus, we have:
+
+defined by:
+
+Since:
+
+we have:
+
+Thus, we have:
+
+mkn δk
+
+RRjl= RRlj.
+tr(ϕ)∶= ei(ϕ(ei)) .
+R= RRi
+mkn ei⊗ em⊗ ek⊗ en
+[R]1
+mkn ek(ei)em⊗ en
+2= RRi
+i em⊗ en
+= RRi
+min em⊗ en
+= RRi
+2(ej, el)
+Ric(ej, el)=[R]1
+min em⊗ en)(ej, el)
+=(RRi
+mkn em(ej)en(el)
+= RRi
+= RRi
+= RRi
+= ep(RRi
+= RRi
+= RRi
+= RRi
+= RRi
+
+j ep(ei)
+
+mkn δm
+lpj δp
+i
+
+min δm
+
+j δn
+l
+
+l δk
+
+p δn
+
+jil
+
+lij
+
+∇nRRijkl+∇kRRijln+∇lRRijnk= 0.
+∇nRRijkl+∇jRRiknl+∇kRRinjl= 0.
+0= gki(∇nRRijkl+∇kRRijln+∇lRRijnk)
+jln+∇lRRk
+jkl+∇kRRk
+=∇nRRk
+jln−∇lRRk
+=∇nRRjl+∇kRRk
+∇nRRjl−∇lRRjn=−∇kRRk
+
+jln.
+
+jkn
+
+jnk
+
+On the other hand, we have:
+
+tr(Xz→ R(X, ej)el)= ep(R(ep, ep)el)
+
+mkn em(el)ek(ep)en(ej)ei)
+
+Hence, the result follows from the bilinearity of Ric and(Y, Z)z→ tr(Xz→ R(X, Y)Z).
+● By point (iv), we have:
+
+(iii) We use points (ii) and (iv) of Proposition 1.3.2.3.
+
+jil
+
+● Thus, with point (ii), we have:
+
+Thus, we have:
+
+Practical Calculations in General Relativity
+
+70
+
+David Pigeon
+
+CHAPTER 1. CALCULATIONS OF OBJECTS ASSOCIATED WITH CURVATURE FOR DIAGONAL
+1.4. TENSOR OF RICCI
+METRICS
+
+Example 1.4.2.3: Components of the Ricci tensor in bases C and C⊥
+(i) The components of the Ricci tensor in C and C∗ are given by:
+
+ikj.
+
+Rij∶= Rk
+Ric= Rjl dxj⊗ dxl.
+Rij∶= Rk
+Ric= Rjl θj⊗ θl.
+Rij= e
+−ui−uj Rij.
+
+ikj.
+
+Thus, we have the decomposition:
+
+(ii) The components of the Ricci tensor in C⊥ and C∗⊥ are given by:
+
+Thus, we have the decomposition:
+
+We also have:
+
+1.4.3 Calculation of components in C and C∗
+ij+ Γp
+jl− ∂lΓi
+
+Lemma 1.4.3.1: Usual properties
+
+We have:
+
+ip− Γp
+
+jlΓi
+
+ijΓi
+lp.
+
+Rjl= ∂iΓi
+Rjl= Ri
+= ∂iΓi
+
+jil
+
+jl− ∂lΓi
+
+ij+ Γp
+
+jlΓi
+
+ip− Γp
+
+ijΓi
+
+lp
+
+Proof. By Proposition 1.3.3.1, we have:
+
+Notation 1.4.3.2: Hat notation
+
+We denote:
+
+ˆui,i∶=∑
+k≠i
+
+uk,i
+
+ˆui,jj∶=∑
+k≠i
+
+uk,jj
+
+Theorem 1.4.3.3: Exact values of Rjl
+
+Let j, l∈{0, 1, 2, 3} be distinct. We have:
+
+i,i∶=∑
+k≠i
+
+ˆu2
+
+u2
+k,i
+
+ˆuij,j∶= ∑
+k≠i,j
+
+uk,j
+
+ˆuij,jj∶= ∑
+k≠i,j
+
+uk,jj
+
+Rjl=−⎡⎢⎢⎢⎢⎣∑
+Rjj=−(ˆuj,jj+ ˆu2
+
+p≠j,l
+
+up,jl− uj,lup,j− ul,jup,l+ up,jup,l
+j,j− uj,j ˆuj,j)− ηj∑
+p≠j
+
+⎤⎥⎥⎥⎥⎦
+ηp[uj,pp+ uj,p(ˆup,p− up,p)] e2uj−2up
+
+David Pigeon
+
+71
+
+Practical Calculations in General Relativity
+
+CHAPTER 1. CALCULATIONS OF OBJECTS ASSOCIATED WITH CURVATURE FOR DIAGONAL
+1.4. TENSOR OF RICCI
+METRICS
+
+Proof. We have two cases.
+
+● We have:
+
+● We have:
+
+il
+
+ilΓl
+
+ipΓp
+
+jpΓp
+
+jpΓp
+ijΓj
+
+jl+ Γi
+
+jl− Γi
+li+ Γi
+
+Rjl=∂iΓi
+jl− ∂jΓi
+li+ Γi
+jl− Γi
+=∂jΓj
+jl− ∂jΓi
+jl+ ∂lΓl
+=−⎡⎢⎢⎢⎢⎣∑
+⎤⎥⎥⎥⎥⎦
+up,jl− uj,lup,j− ul,jup,l+ up,jup,l
+p≠j,l
+ij− Γi
+jj− Γi
+Rjj=∂iΓi
+jj− ∂jΓi
+ji+ Γi
+=∂i(−ηjηiuj,ie2uj−2ui)− ∂jui,j+ ui,p(−ηjηpuj,pe2uj−2up)− u2
+i,j−(−ηjηiuj,ie2uj−2ui) uj,i
+=− ηjηi(uj,ii+ 2uj,i(uj,i− ui,i)) e2uj−2ui− ui,jj− ηjηpui,puj,pe2uj−2up− u2
+i,j+ ηjηiu2
+=−(ˆuj,jj+ ˆu2
+j,j− uj,j ˆuj,j)− ηj∑
+ηp[uj,pp+ uj,p(ˆup,p− up,p)] e
+−2up+2uj
+p≠j
+
+ipΓp
+
+jjΓj
+
+jiΓi
+
+ij
+
+il
+
+j,ie2uj−2ui
+
+We will calculate the values of the components of the Ricci tensor in the following subsection.
+
+1.4.4 Calculation of components in C⊥ and C∗⊥
+j(θi, θl)+ ωi
+
+Rjl= dωi
+
+Lemma 1.4.4.1: Usual properties
+
+We have:
+
+k∧ ωk
+
+j(θi, θl) .
+
+Proof. We have directly:
+
+j(θi, θl)
+Rjl= Ωi
+j(θi, θl)+ ωi
+= dωi
+
+k∧ ωk
+
+j(θi, θl)
+
+We deduce the values of the components of the Ricci tensor.
+Theorem 1.4.4.2: Exact values of Rjl
+
+Let i, j, k, l such that{0, 1, 2, 3}={i, j, k, l} and p≠ j, l. We have:
+⎤⎥⎥⎥⎥⎦ e
+−uj−ul
+ηp[uj,pp+ uj,p(ˆup,p− up,p)] e
+−2up
+
+up,jl− uj,lup,j− ul,jup,l+ up,jup,l
+j,j− uj,j ˆuj,j) e
+−2uj− ηj∑
+p≠j
+
+Rjl=−⎡⎢⎢⎢⎢⎣∑
+Rjj=−(ˆuj,jj+ ˆu2
+
+p≠j,l
+
+Proof. We have two cases.
+
+● Since:
+
+jjl= 0 , Rl
+
+jll
+
+Rj
+
+Practical Calculations in General Relativity
+
+72
+
+David Pigeon
+
+CHAPTER 1. CALCULATIONS OF OBJECTS ASSOCIATED WITH CURVATURE FOR DIAGONAL
+1.4. TENSOR OF RICCI
+METRICS
+
+we have:
+
+● Since:
+
+we have:
+
+jpl
+
+Rp
+
+Rjl=Rp
+= ∑
+p≠j,l
+=−⎡⎢⎢⎢⎢⎣∑
+p≠j,l
+
+jpl
+
+up,jl− uj,lup,j− ul,jup,l+ up,jup,l
+
+−uj−ul
+
+⎤⎥⎥⎥⎥⎦ e
+
+jjj= 0
+
+Rj
+
+jlj
+
+jpj
+
+Rjj=Rp
+= Ri
+jkj+ Rl
+jij+ Rk
+=−(ui,jj+ ui,j(ui,j− uj,j)) e
+−2uj− ηiηj(uj,ii+ uj,i(uj,i− ui,i)) e
+−2ui
+−2uk− ηlηjui,luj,le
+− ηkηjui,kuj,ke
+−2ul
+−(uk,jj+ uk,j(uk,j− uj,j)) e
+−2uj− ηkηj(uj,kk+ uj,k(uj,k− uk,k)) e
+−2uk
+− ηiηjuk,iuj,ie
+−2ui− ηlηjuk,luj,le
+−2ul
+−2uj− ηlηj(uj,ll+ uj,l(uj,l− ul,l)) e
+−(ul,jj+ ul,j(ul,j− uj,j)) e
+−2ul
+−2uk− ηiηjul,iuj,ie
+− ηkηjul,kuj,ke
+−2ui
+=−∑
+(up,jj+ up,j(up,j− uj,j)) e
+−2uj
+p≠j
+− ηlηj[(uj,ll+ uj,l(uj,l+ uk,l+ ui,l− ul,l))] e
+−2ul
+j,j− uj,j ˆuj,j) e
+=−(ˆuj,jj+ ˆu2
+−2uj− ηj∑
+p≠j
+
+ηp[uj,pp+ uj,p(ˆup,p− up,p)] e
+
+−2up
+
+We deduce the values of the components for the metric h.
+
+Example 1.4.4.3: Example 7 for the metric h
+
+1.2.6.5, 1.3.4.5,
+
+(1) First method. We use Theorem 1.4.3.3. We deal with the off-diagonal elements first, and then
+
+1.2.5.5, 1.2.6.3,
+
+We revisit the example with the metric h (see 1.1.4.1, 1.1.5.1,
+and 1.3.5.4) with:
+
+the diagonal elements.
+
+u0(t, r)∶= u(t, r)
+u2(t, r)∶= b(t)+ ln(r)
+● Off-diagonal zero terms. We have:
+R3l=−⎡⎢⎢⎢⎢⎣∑
+Rj3=−⎡⎢⎢⎢⎢⎣∑
+R12=−⎡⎢⎢⎢⎢⎣∑
+
+u1(t, r)∶= v(t, r)
+u3(t, r, ϑ)∶= b(t)+ ln(r)+ ln sin(ϑ)
+⎤⎥⎥⎥⎥⎦ e
+−u3−ul= 0
+−u3,lup,3− ul,3up,l+ up,3up,l
+⎤⎥⎥⎥⎥⎦ e
+−uj−u3= 0.
+−uj,3up,j− ul,jup,3+ up,jup,3
+⎤⎥⎥⎥⎥⎦ e
+−u1−u2=−[−u2,1u3,2+ u3,1u3,2] e
+−u1,2up,1− u2,1up,2+ up,1up,2
+
+p≠3,l
+p≠j,3
+p≠1,2
+
+−u1−u2= 0
+
+David Pigeon
+
+73
+
+Practical Calculations in General Relativity
+
+CHAPTER 1. CALCULATIONS OF OBJECTS ASSOCIATED WITH CURVATURE FOR DIAGONAL
+1.4. TENSOR OF RICCI
+METRICS
+
+−u2−ul= 0
+
+p≠2,l
+
+⎤⎥⎥⎥⎥⎦ e
+
+−u1−u0
+
+−u1−u0
+
+⎤⎥⎥⎥⎥⎦ e
+−u2−ul=−[−u2,lu3,2+ u3,2u3,l] e
+
+R2l=−⎡⎢⎢⎢⎢⎣∑
+−u2,lup,2− ul,2up,l+ up,2up,l
+● Non-zero terms. We have :
+R10=−⎡⎢⎢⎢⎢⎣∑
+up,10− u1,0up,1− u0,1up,0+ up,1up,0
+p≠1,0
+=−[−u1,0u2,1− u0,1u2,0+ u2,1u2,0− u1,0u3,1− u0,1u3,0+ u3,1u3,0] e
+=− 2[−u1,0u2,1− u0,1u2,0+ u2,1u2,0] e
+−u1−u0
+=− 2[− ˙vr
+−1] e
+−1− ˙bu
+′+ ˙br
+−u−v
+=2[ ˙vr
+−1)] e
+−1+ ˙b(u
+′− r
+−u−v
+0,0− u0,0 ˆu0,0] e
+R00=−[ˆu0,00+ ˆu2
+−2u0− η0η1[u0,11+ u0,1(ˆu1,1− u1,1)] e
+−2u1
+−2u2− η0η3[u0,33+ u0,3(ˆu3,3− u3,3)] e
+− η0η2[u0,22+ u0,2(ˆu2,2− u2,2)] e
+−2u3
+0,0− u0,0 ˆu0,0] e
+=−[ˆu0,00+ ˆu2
+−2u0− η0η1[u0,11+ u0,1(ˆu1,1− u1,1)] e
+−2u1
+′)] e
+′(u
+−2u+[u
+=−[¨v+ 2¨b+( ˙v)2+ 2(˙b)2− ˙u( ˙v+ 2˙b)] e
+′′+ u
+′+ 2r
+−1− v
+−2v
+1,1− u1,1 ˆu1,1] e
+R11=−[ˆu1,11+ ˆu2
+−2u1− η1η0[u1,00+ u1,0(ˆu0,0− u0,0)] e
+−2u0
+−2u2− η1η3[u1,33+ u1,3(ˆu3,3− u3,3)] e
+− η1η2[u1,22+ u1,2(ˆu2,2− u2,2)] e
+−2u3
+=−[ˆu1,11+ ˆu2
+1,1− u1,1 ˆu1,1] e
+−2u1− η1η0[u1,00+ u1,0(ˆu0,0− u0,0)] e
+−2u0
+−1)] e
+′)2− v
+−2v+[¨v+ ˙v( ˙v+ 2˙b− ˙u)] e
+′(u
+′′+(u
+=−[u
+′+ 2r
+−2u
+R22=−(ˆu2,22+ ˆu2
+2,2− u2,2 ˆu2,2) e
+−2u2− η2η0[u2,00+ u2,0(ˆu0,0− u0,0)] e
+−2u0
+− η2η1[u2,11+ u2,1(ˆu1,1− u1,1)] e
+−2u1− η2η3[u2,33+ u2,3(ˆu3,3− u3,3)] e
+−2u3
+=−(ˆu2,22+ ˆu2
+2,2) e
+−2u2− η2η0[u2,00+ u2,0(ˆu0,0− u0,0)] e
+−2u0
+− η2η1[u2,11+ u2,1(ˆu1,1− u1,1)] e
+−2u1
+−2b+[¨b+ ˙b( ˙v+ 2˙b− ˙u)] e
+−1(u
+−1) e
+=r
+−2u− r
+′− v
+−2e
+−2v
+3,3− u3,3 ˆu3,3) e
+R33=−(ˆu3,33+ ˆu2
+−2u3− η3η0[u3,00+ u3,0(ˆu0,0− u0,0)] e
+−2u0
+−2u1− η3η2[u3,22+ u3,2(ˆu2,2− u2,2)] e
+− η3η1[u3,11+ u3,1(ˆu1,1− u1,1)] e
+−2u2
+−2u0− η3η1[u3,11+ u3,1(ˆu1,1− u1,1)] e
+=− η3η0[u3,00+ u3,0(ˆu0,0− u0,0)] e
+−2u1
+− η3η2[u3,22+ u3,2(ˆu2,2− u2,2)] e
+−2u2
+−1(u
+−2b+[¨b+ ˙b( ˙v+ 2˙b− ˙u)] e
+=r
+−2u− r
+′− v
+−2e
+● Case j∶= 0. We have:
+000+ R1
+R00=R0
+020+ R3
+010+ R2
+010+ 2R2
+=R1
+′)) e
+=(u
+′(u
+′′+ u
+′− v
+−2v−(¨v+ ˙v( ˙v− ˙u)) e
+=−[¨v+ 2¨b+( ˙v)2+ 2(˙b)2− ˙u( ˙v+ 2˙b)] e
+021+ R3
+011+ R2
+001+ R1
+R01=R0
+=2R2
+−1 ˙v)e
+′− r
+=2(˙b(u
+−1)+ r
+−u−v
+022+ R3
+R02=R0
+002+ R1
+012+ R2
+032= 0
+
+−2u− 2(¨b+ ˙b(˙b− ˙u)) e
+−2u+ 2r
+−1u
+′
+′)] e
+−2u+[u
+−1− v
+′(u
+′′+ u
+′+ 2r
+−2v
+
+−1) e
+
+′+ r
+
+′+ r
+
+−2v
+
+031
+
+020
+
+021
+
+030
+
+e
+
+−2v
+
+(2) Second method. We use definition 1.4.1.1.
+
+Practical Calculations in General Relativity
+
+74
+
+David Pigeon
+
+CHAPTER 1. CALCULATIONS OF OBJECTS ASSOCIATED WITH CURVATURE FOR DIAGONAL
+1.4. TENSOR OF RICCI
+METRICS
+
+−2v+[¨v+ ˙v( ˙v+ 2˙b− ˙u)] e
+
+−2u
+
+e
+
+121
+
+131
+
+021
+
+130
+
+120
+
+R03=R0
+
+033= 0
+023+ R3
+013+ R2
+003+ R1
+● Case j∶= 1. We have:
+R10=R0
+120+ R3
+110+ R2
+100+ R1
+=2R2
+=2R2
+=R01
+121+ R3
+111+ R2
+R11=R0
+101+ R1
+=R0
+101+ 2R2
+′)) e
+=−(u
+′′+ u
+−2v+(¨v+ ˙v( ˙v− ˙u)) e
+′(u
+′− v
+−2u
++ 2r
+−2v+ 2 ˙v ˙be
+−2u
+−1v
+′
+=−[u
+−1)] e
+′′+(u
+′)2− v
+′(u
+′+ 2r
+R12=R0
+132= 0
+122+ R3
+112+ R2
+102+ R1
+R13=R0103+ R1
+113+ R2
+123+ R3
+133= 0
+● Case j∶= 2. We have:
+230= 0
+220+ R3
+210+ R2
+200+ R1
+R20=R0
+221+ R3
+211+ R2
+201+ R1
+R21=R0
+231= 0
+222+ R3
+212+ R2
+202+ R1
+R22=R0
+212+ R3
+202+ R1
+=R0
+−2u− u
+=(¨b+ ˙b(˙b− ˙u))e
+−1e
+′
+−2v
++ r
+−2v+ ˙v ˙be
+′
+−1v
+−2u
++ r
+−2+(˙b)2e
+−2u− r
+−2e
+−2v
+−2+[¨b+ ˙b( ˙v+ 2˙b− ˙u)]e
+−2u− r
+=r
+213+ R2
+R23=R0
+203+ R1
+223+ R3
+233= 0
+320+ R3
+310+ R2
+300+ R1
+R30=R0
+321+ R3
+311+ R2
+301+ R1
+R31=R0
+322+ R3
+312+ R2
+302+ R1
+R32=R0
+323+ R3
+313+ R2
+303+ R1
+R33=R0
+313+ R2
+=R0
+303+ R1
+202+ R1
+=R0
+212+ R3
+=R22
+⎞⎟⎟⎟⎠ , Rjl=⎛⎜⎜⎜⎝
+
+● Case j∶= 3. We have:
+
+Rjl=⎛⎜⎜⎜⎝
+
+330= 0
+331= 0
+332= 0
+
+R00 R01
+R10 R11
+0
+0
+
+R00 R01
+R10 R11
+0
+0
+
+0
+0
+0 R22
+0
+
+−1(u
+′− v
+
+0
+0
+0
+0 R33
+
+232
+
+232
+
+323
+
+333
+
+232
+
+e
+
+r
+
+Therefore, the matrices Rjl and Rjl have the form :
+
+′+ r
+
+−1)e
+
+−2v
+
+⎞⎟⎟⎟⎠
+
+0
+0
+0 R22
+0
+
+0
+0
+0
+0 R33
+
+David Pigeon
+
+75
+
+Practical Calculations in General Relativity
+
+CHAPTER 1. CALCULATIONS OF OBJECTS ASSOCIATED WITH CURVATURE FOR DIAGONAL
+1.5. SCALAR CURVATURE
+METRICS
+
+with:
+
+−2u+[u
+′)] e
+R00=−[¨v+ 2¨b+( ˙v)2+ 2(˙b)2− ˙u( ˙v+ 2˙b)] e
+−1− v
+′′+ u
+′(u
+′+ 2r
+−2v
+′)] e2u−2v
+R00=−[¨v+ 2¨b+( ˙v)2+ 2(˙b)2− ˙u( ˙v+ 2˙b)]+[u
+−1− v
+′′+ u
+′(u
+′+ 2r
+−1)+ r
+R01=2(˙b(u
+′− r
+−1 ˙v)e
+−u−v
+−1)+ r
+R01=2(˙b(u
+′− r
+−1 ˙v)
+−2v+[¨v+ ˙v( ˙v+ 2˙b− ˙u)] e
+R11=−[u
+−1)] e
+′)2− v
+′′+(u
+′(u
+′+ 2r
+−2u
+−1)]+[¨v+ ˙v( ˙v+ 2˙b− ˙u)] e
+R11=−[u
+′(u
+′)2− v
+′′+(u
+′+ 2r
+−2u+2v
+−2+[¨b+ ˙b( ˙v+ 2˙b− ˙u)] e
+R22=R33= r
+−2u− r
+−1)e
+′+ r
+−1(u
+′− v
+−2v
+R22=1+ r2[¨b+ ˙b( ˙v+ 2˙b− ˙u)]e
+−1)e
+′+ r
+−2u− r(u
+′− v
+−2v
+R33= sin2 ϑR22
+
+1.5 Scalar Curvature
+
+Definition 1.5.0.1: Scalar Curvature
+
+The scalar curvature is defined by:
+
+S ∶=[[Ric]1]1
+
+.
+
+Since the operations [●]1
+
+1 and [●]1 are independent of the chosen basis, S is also independent of the
+
+1
+
+chosen basis.
+
+Proposition 1.5.0.2: Usual Properties
+
+(ii) (Twice Contracted Bianchi Identity)
+
+(i) (a) We have:
+
+(b) We have:
+
+(a) We have:
+
+(b) We have:
+
+S = trgRic.
+S = ggikRRik.
+
+∇lRRlj= 1
+2∇jS
+∇kRRk
+j= 1
+2∇jS
+ggkl∇kRRlj= 1
+2∇jS
+[[Ric]1]1
+2= 1
+div[Ric]1= 1
+divgRic= 1
+
+dS
+
+dS
+
+dS
+
+2
+
+2
+
+2
+
+Practical Calculations in General Relativity
+
+76
+
+David Pigeon
+
+CHAPTER 1. CALCULATIONS OF OBJECTS ASSOCIATED WITH CURVATURE FOR DIAGONAL
+1.5. SCALAR CURVATURE
+METRICS
+
+Proof.
+
+(i) Since:
+
+we have:
+
+and we have:
+
+Since:
+
+we then contract:
+
+i.e., we have:
+
+∗(α, Ric(●, X))
+[Ric]1∶(α, X)z→ g
+Ric= RRkl ek⊗ el
+∗(ei, Ric(●, ej))
+[Ric]1(ei, ej)= g
+∗(ei, RRkl el(ej)ek)
+= g
+∗(ei, RRkl δl
+jek)
+= g
+∗(ei, RRkj ek)
+= g
+∗(ei, ek)
+= RRkjg
+= RRkjggik
+S = tr([Ric]1)
+= ei([Ric]1(●, ei))
+l el(ei)ej)
+= ei(RRj
+= RRj
+iei(ej)
+= RRj
+= RRi
+= ggikRRki
+
+l δl
+i δi
+j
+
+i
+
+jln= 0.
+∇nRRjl−∇lRRjn+∇kRRk
+njl= ggnlggkp∇kRRpnjl
+ggnl∇kRRk
+= ggnl∇pRRpnjl
+= ggnl∇pRRnplj
+=∇pRRl
+=∇pRRpj
+=∇pRRjp
+
+plj
+
+njl
+
+0= ggnl(∇nRRjl−∇jRRnl+∇kRRk
+njl)
+= ggnl∇nRRjl− ggnl∇jRRnl+ ggnl∇kRRk
+=∇lRRjl−∇jS+∇pRRjp
+∇lRRjl= 1
+2∇jS .
+∇lRRjl= ggkl∇kRRlj
+2∇jS
+= 1
+
+(ii) (a) By the twice contracted Bianchi identity (see proposition 1.4.2.2), we have:
+
+For the other two equalities, we just need to notice that:
+
+David Pigeon
+
+77
+
+Practical Calculations in General Relativity
+
+CHAPTER 1. CALCULATIONS OF OBJECTS ASSOCIATED WITH CURVATURE FOR DIAGONAL
+1.5. SCALAR CURVATURE
+METRICS
+
+(b) We consider the base C . Since:
+
+we have:
+
+Since this is true for all j, we have:
+
+Example 1.5.0.3: Examples of calculations in bases C and C⊥
+
+Therefore, we have:
+
+We can directly show the last equality without using the invariance under change of basis. Since gjl
+and ηjl are diagonal, we have:
+
+divgRic=[∇[Ric]1]1
+divgRic(∂j)=[∇[Ric]1]1
+2(∂j)
+
+2
+
+,
+
+j
+
+=∇kRRk
+= 1
+2∇jS
+dS(∂j)
+= 1
+divgRic= 1
+
+dS .
+
+2
+
+2
+
+S = gjjRjj= ηjjRjj.
+S = gjlRjl
+= gjjRjj
+= gjje2ujRjj
+= gjjηjgjj
+= ηjRjj
+
+Rjj
+
+We have:
+
+Proposition 1.5.1.1: Value in terms of Christoffel symbols
+
+1.5.1 Practical calculations in C and C∗
+S = gkl(∂iΓi
+kl− ∂kΓi
+li+ Γi
+S = gklRkl.
+li+ Γi
+kl− ∂kΓi
+kl− ∂kΓi
+li+ Γi
+
+Rkl= ∂iΓi
+S = gkl(∂iΓi
+
+Proof. Using lemma 1.5.0.2, we have:
+
+we can conclude that:
+
+Since:
+
+kl− Γi
+
+ipΓp
+
+il) .
+
+kpΓp
+
+kl− Γi
+kl− Γi
+
+ipΓp
+
+kpΓp
+il,
+
+ipΓp
+
+kpΓp
+
+il) .
+
+Corollary 1.5.1.2: Exact value
+
+We have:
+
+S =−∑
+
+k
+
+ηk(2ˆuk,kk+ ˆu2
+
+k,k− 2uk,k ˆuk,k+(ˆuk,k)2) e
+
+−2uk .
+
+Practical Calculations in General Relativity
+
+78
+
+David Pigeon
+
+CHAPTER 1. CALCULATIONS OF OBJECTS ASSOCIATED WITH CURVATURE FOR DIAGONAL
+1.5. SCALAR CURVATURE
+METRICS
+
+Proof. We have:
+
+kkΓk
+
+ipΓp
+ipΓp
+
+kpΓp
+kiΓi
+
+li+ Γi
+kl− ∂kΓi
+kk− ∂kΓi
+ki+ Γi
+
+S =gkl(∂iΓi
+il)
+kl− Γi
+=gkk(∂iΓi
+ik)
+kk− Γi
+ik− Γi
+=ηk(∂i(−ηkηiuk,ie2uk−2ui)− ∂kui,k+ ui,p(−ηkηpuk,pe2uk−2up)− u2
+i,k−(−ηkηiuk,ie2uk−2ui) uk,i) e
+−2uk
+=ηk(−ηkηi(uk,ii+ 2uk,i(uk,i− ui,i)) e2uk−2ui− ui,kk− ηkηpui,puk,pe2uk−2up− u2
+k,ie2uk−2ui) e
+−2uk
+=− ηi(uk,ii+ 2uk,i(uk,i− ui,i)) e
+−2ui− ηkui,kke
+−2uk− ηpui,puk,pe
+−2up− ηku2
+−2ui
+=− ηk(ui,kk+ 2ui,k(ui,k− uk,k)) e
+−2uk− ηkui,kke
+−2uk− ηkui,kup,ke
+−2uk− ηku2
+−2uk
+=− ηk(ui,kk+ 2ui,k(ui,k− uk,k)− ui,kk− ui,kup,k+ u2
+i,k) e
+i,k+ u2
+−2uk
+i,k) e
+=− ηk(2ui,k(ui,k− uk,k)− ui,kup,k+ u2
+−2uk
+=− ηk(2(u2
+i,k− ui,kuk,k)− ui,kup,k) e
+−2uk
+ηk(2ˆuk, kk+ ˆu2k, k− 2uk,k ˆuk, k+(ˆuk, k)2) e
+=−∑
+−2uk
+
+i,k+ ηkηiu2
+−2uk+ ηiu2
+−2uk+ ηku2
+
+i,ke
+
+k,ie
+
+i,ke
+
+i,ke
+
+k
+
+We will calculate the value of S using the metric h in the next subsection.
+
+1.5.2 Practical calculations in C⊥ and C∗⊥
+
+Using the formula:
+
+S = ηjRjj,
+
+we can determine the value of the scalar curvature.
+
+Theorem 1.5.2.1: Value of the scalar tensor
+
+We have:
+
+S =−∑
+
+k
+
+ηk(2ˆuk,kk+ ˆu2
+
+k,k− 2uk,k ˆuk,k+(ˆuk,k)2) e
+
+−2uk .
+
+Proof. We have:
+
+j
+
+ηje
+
+S =ηjRjj
+⎛⎝uj,kk+ uj,k(−uk+∑
+=−∑
+(uk,jj+ uk,j(uk− uj),j)−∑
+−2uj∑
+∑
+k≠j
+k≠j
+i≠k
+⎞⎠ e
+⎛⎝uj,kk+ uj,k(−uk+∑
+−2uk−∑
+ui)
+=−∑
+∑
+∑
+j≠k
+i≠k
+j≠k
+⎛⎜⎝2uj,kk+ uj,k
+⎞⎟⎠
+⎛⎝2uj− 2uk+ ∑
+⎞⎠,k
+=−∑
+−2uk∑
+i≠j,k
+j≠k
+k,k− 2uk,k ˆuk,k+(ˆuk,k)2) e
+ηk(2ˆuk,kk+ ˆu2
+=−∑
+−2uk
+
+⎞⎠ e
+−2uk
+−2uk(uj,kk+ uj,k(uj− uk),k)
+
+ui)
+
+ηke
+
+ηke
+
+ηk
+
+ηk
+
+ui
+
+,k
+
+,k
+
+k
+
+k
+
+k
+
+j
+
+k
+
+David Pigeon
+
+79
+
+Practical Calculations in General Relativity
+
+CHAPTER 1. CALCULATIONS OF OBJECTS ASSOCIATED WITH CURVATURE FOR DIAGONAL
+1.6. TENSOR OF EINSTEIN
+METRICS
+
+Example 1.5.2.2: Example 8 of the metric h
+
+We revisit the example with the metric h (see 1.1.4.1, 1.1.5.1, 1.2.5.5, 1.2.6.3 , 1.2.6.5, 1.3.4.5 , 1.3.5.4,
+and 1.4.4.3) with:
+
+u0(t, r)∶= u(t, r)
+u2(t, r)∶= b(t)+ ln(r)
+
+u1(t, r)∶= v(t, r)
+u3(t, r, ϑ)∶= b(t)+ ln(r)+ ln sin(ϑ)
+
+We calculate Scal in two different ways.
+
+(1) Using Theorem 1.5.2.1, we have:
+
+−2v
+
+−2e
+−2b
+
+S =− η0(2ˆu0,00+ ˆu2
+0,0− 2u0,0 ˆu0,0+(ˆu0,0)2) e
+−2u0
+− η1(2ˆu1,11+ ˆu2
+1,1− 2u1,1 ˆu1,1+(ˆu1,1)2) e
+−2u1
+− η2(2ˆu2,22+ ˆu2
+2,2− 2u2,2 ˆu2,2+(ˆu2,2)2) e
+−2u2
+=−(2(¨v+ 2¨b)+( ˙v)2+ 2(˙b)2− 2 ˙u( ˙v+ 2˙b)+( ˙v+ 2˙b)2) e
+−2u
+−1)2) e
+′(u
+−2)+(u
+−1)+(u
+′)2+ 2r
++(2(u
+′′− 2r
+′+ 2r
+′+ 2r
+−2− 2v
+− 2r
+−2e
+−2b
+=− 2[¨v+ 2¨b+( ˙v)2+ 3(˙b)2− ˙u ˙v− 2 ˙u˙b+ 2 ˙v ˙b] e
+−2u
+′)2+ 3r
+−2+(u
+′′− 2r
++ 2[u
+′] e
+′)u
+′+ 2r
+−2− u
+−1(u
+′− v
+−2v− 2r
+′
+S =ηjRjj
+=η0R00+ η1R11+ η2R22+ η3R33
+=R00− R11− 2R22
+=−[¨v+ 2¨b+( ˙v)2+ 2(˙b)2− ˙u( ˙v+ 2˙b)] e
+−2u+[u
+′(u
+′′+ u
+′+ 2r
+−1− v
+′)2− v
+′′+(u
+−2v−[¨v+ ˙v( ˙v+ 2˙b− ˙u)] e
+−1)] e
+′(u
++[u
+′+ 2r
+−2u
+−1(u
+−1) e
+−2− 2[¨b+ ˙b( ˙v+ 2˙b− ˙u)] e
+′+ r
+′− v
+− 2r
+−2u+ 2r
+−2v
+=− 2[¨v+ 2¨b+( ˙v)2+ 3(˙b)2− ˙u ˙v− 2 ˙u˙b+ 2 ˙v ˙b] e
+−2u
+′)2+ 3r
+−2+(u
+−2v− 2r
+′)u
+′+ 2r
+−2− u
+′′− 2r
+′] e
++ 2[u
+−1(u
+′− v
+′
+
+−2e
+
+v
+
+v
+
+−2b
+
+′)] e
+−2v
+
+(2) Using Definition 1.5.0.1, we have:
+
+We see the efficiency of the first method, which directly gives a very good factorization.
+
+1.6 Tensor of Einstein
+
+Practical Calculations in General Relativity
+
+80
+
+David Pigeon
+
+CHAPTER 1. CALCULATIONS OF OBJECTS ASSOCIATED WITH CURVATURE FOR DIAGONAL
+1.6. TENSOR OF EINSTEIN
+METRICS
+
+Definition 1.6.0.1: The tensor of Einstein
+
+The tensor of Einstein is defined by:
+
+That is, for all vector fields X and Y , we have:
+
+G ∶= R− 1
+G(X, Y)= R(X, Y)− 1
+
+2
+
+S g.
+
+2
+
+S g(X, Y).
+
+Next, we define the components of G in the E basis.
+
+Definition 1.6.0.2: The components of the tensor of Einstein in E and E∗
+The components of the Ricci tensor in E and E∗ are:
+GGjl∶= G(ej, el).
+
+Proposition 1.6.0.3: Simple properties of the tensor of Einstein in E and E∗
+
+(ii) (Twice contracted Bianchi identity)
+
+(i) (Symmetry)
+
+(a) We have:
+
+(b) We have:
+
+(a) We have:
+
+(b) We have:
+
+G(X, Y)= G(Y, X).
+
+GGjl= GGlj.
+
+∇lGGlj= 0
+j= 0
+∇kGGk
+ggkl∇kGGlj= 0
+[[G]1]1
+2= 0
+div[G]1= 0
+divgG = 0
+
+Proof.
+
+(i) (Symmetry)
+
+(a) Since R and g are symmetric, we have:
+
+G(X, Y)= R(X, Y)− 1
+= R(Y, X)− 1
+= G(Y, X)
+
+2
+
+2
+
+S g(X, Y)
+S g(Y, X)
+
+David Pigeon
+
+81
+
+Practical Calculations in General Relativity
+
+CHAPTER 1. CALCULATIONS OF OBJECTS ASSOCIATED WITH CURVATURE FOR DIAGONAL
+1.6. TENSOR OF EINSTEIN
+METRICS
+
+(ii) By proposition 1.5.0.2, we have:
+
+(b) We have:
+
+GGjl= G(ej, el)
+= G(el, ej)
+= GGlj
+∇nRRnl= 1
+2∇lS
+ggnl∇nS .
+∇nRRnl= 1
+Therefore, by linearity of∇, we obtain:∇nGGnl=∇n(RRnl− 1
+ggnlS)
+
+Hence, we have:
+
+2
+
+2
+
+= 0
+
+Example 1.6.0.4: Components of the Einstein tensor in the bases C and C⊥
+(i) The components of the Einstein tensor in C and C∗ are:
+
+We have the decomposition:
+
+(ii) The components of the Einstein tensor in C⊥ and C∗⊥ are:
+
+S .
+
+2
+
+gjl
+
+Gjl∶= Rjl− 1
+G = Gjl dxj⊗ dxl.
+Gjl∶= Rjl− 1
+G = Gjl θj⊗ θl.
+Gij= e
+−ui−uj Gij.
+
+2
+
+ηjlS .
+
+We have the decomposition:
+
+We have:
+
+Theorem 1.6.0.5: Value of the Einstein tensor
+
+Let j, l∈{0, 1, 2, 3} distinct.
+
+(i) We have:
+
+Gjl=−⎡⎢⎢⎢⎢⎣∑
+p≠j,l
+Gjl=−⎡⎢⎢⎢⎢⎣∑
+p≠j,l
+j,j] e
+2[(ˆuj,j)2− ˆu2
+−2uj+ ηj∑
+k≠j
+
+up,jl− uj,lup,j− ul,jup,l+ up,jup,l
+up,jl− uj,lup,j− ul,jup,l+ up,jup,l
+ηk[ˆujk,kk+ 1
+
+k,k+ 1
+
+ˆu2
+
+2
+
+2
+
+−uj−ul
+
+⎤⎥⎥⎥⎥⎦ e
+⎤⎥⎥⎥⎥⎦
+
+(ii) We have:
+
+Gjj= 1
+
+ˆuk,k(ˆujk,k− 2uk,k− uj,k)+ uj,kuk,k] e
+
+−2uk
+
+Practical Calculations in General Relativity
+
+82
+
+David Pigeon
+
+CHAPTER 1. CALCULATIONS OF OBJECTS ASSOCIATED WITH CURVATURE FOR DIAGONAL
+1.6. TENSOR OF EINSTEIN
+METRICS
+
+Proof.
+
+(ii) We have:
+
+2
+
+2
+
+2
+
+ˆu2
+
+ηjR
+
+p≠j,l
+
+(i) We have:
+
+k,k+ 1
+
+Gjj= 1
+
+⎤⎥⎥⎥⎥⎦ e
+−uj−ul.
+
+2[(ˆuj,j)2− ˆu2
+
+up,jl− uj,lup,j− ul,jup,l+ up,jup,l
+
+ˆuk,k(ˆujk,k− 2uk,k− uj,k)+ uj,kuk,k] e2uj−2uk
+
+j,j]+ ηj∑
+ηk[ˆujk,kk+ 1
+k≠j
+Gjl= Rjl=−⎡⎢⎢⎢⎢⎣∑
+Gjj=Rjj− 1
+=−(ˆuj,jj+ ˆu2
+j,j− ˆuj,juj,j) e
+−2uj− ηj∑
+k≠j
+k,k− 2uk,k ˆuk,k+(ˆuk,k)2) e
+ηk(2ˆuk,kk+ ˆu2
++ 1
+ηj∑
+−2uk
+=−(ˆuj,jj+ ˆu2
+j,j− ˆuj,juj,j) e
+−2uj− ηj∑
+k≠j
+k,k− 2uk,k ˆuk,k+(ˆuk,k)2) e
+ηk(2ˆuk,kk+ ˆu2
++ 1
+ηj∑
+−2uk
+k≠j
+2(2ˆuj,jj+ ˆu2
+j,j− 2uj,j ˆuj,j+(ˆuj,j)2) e
++ 1
+−2uj
+j,j] e
+2[(ˆuj,j)2− ˆu2
+k,k− 2uk,k ˆuk,k+(ˆuk,k)2− 2uj,kk− 2uj,k(ˆuk,k− uk,k)) e
+= 1
+ηk(2ˆuk,kk+ ˆu2
+−2uj+ 1
+ηj∑
+k≠j
+ˆuk,k(ˆuk,k− 2uk,k− uj,k)+ uj,kuk,k] e
+2[(ˆuj,j)2− ˆu2
+j,j] e
+= 1
+−2uj+ ηj∑
+ηk[ˆuk,kk− uj,kk+ 1
+−2uk
+k≠j
+j,j] e
+2[(ˆuj,j)2− ˆu2
+= 1
+k,k+ 1
+ηk[ˆujk,kk+ 1
+−2uj+ ηj∑
+−2uk
+k≠j
+
+ηk(uj,kk+ uj,k(ˆuk,k− uk,k)) e
+ηk(uj,kk+ uj,k(ˆuk,k− uk,k)) e
+
+k,k+ 1
+ˆuk,k(ˆujk,k− 2uk,k− uj,k)+ uj,kuk,k] e
+
+−2uk
+
+−2uk
+
+ˆu2
+
+ˆu2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+k
+
+−2uk
+
+1.2.5.5, 1.2.6.3,
+
+1.2.6.5, 1.3.4.5,
+
+u1(t, r)∶= v(t, r)
+u3(t, r, ϑ)∶= b(t)+ ln(r)+ ln sin(ϑ)
+ˆuk,k(ˆujk,k− 2uk,k− uj,k)+ uj,kuk,k] e
+k,k+ 1
+
+ˆu2
+
+2
+
+−2uk
+
+Example 1.6.0.6: Sequence 9 of the metric h
+
+We revisit the example with the metric h (see 1.1.4.1, 1.1.5.1,
+1.3.5.4, 1.4.4.3, and 1.5.2.2) with :
+
+We have:
+
+u0(t, r)∶= u(t, r)
+u2(t, r)∶= b(t)+ ln(r)
+j,j] e
+2[(ˆuj,j)2− ˆu2
+−2uj+ ηj∑
+ηk[ˆujk,kk+ 1
+Gjj= 1
+k≠j
+● Case j∶= 0. We have :
+0,0] e
+2[(ˆu0,0)2− ˆu2
+G00= 1
+−2u0
++ η0η1[ˆu01,11+ 1
+1,1+ 1
+2,2+ 1
++ η0η2[ˆu02,22+ 1
++ η0η3[ˆu03,33+ 1
+3,3+ 1
+
+ˆu2
+
+ˆu2
+
+ˆu2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+ˆu1,1(ˆu01,1− 2u1,1− u0,1)+ u0,1u1,1] e
+−2u1
+ˆu2,2(ˆu02,2− 2u2,2− u0,2)+ u0,2u2,2] e
+−2u2
+ˆu3,3(ˆu03,3− 2u3,3− u0,3)+ u0,3u3,3] e
+−2u3
+
+David Pigeon
+
+83
+
+Practical Calculations in General Relativity
+
+CHAPTER 1. CALCULATIONS OF OBJECTS ASSOCIATED WITH CURVATURE FOR DIAGONAL
+1.6. TENSOR OF EINSTEIN
+METRICS
+
+′] e
+−2v
+
+v
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+ˆu2
+
+ˆu2
+
+ˆu2
+
+−1− 2v
+
+′)+ u
+′− u
+′
+
+2[( ˙v+ 2˙b)2−( ˙v)2− 2(˙b)2] e
+= 1
+−2u
+′)2+ 2r
+2((u
+2(u
+−1)(2r
+−2)+ 1
+−[−2r
+−2+ 1
+′+ 2r
++ r
+−2e
+−2b
+′) e
+−1(r
+=˙b(2 ˙v+ ˙b) e
+−1− 2v
+−2u− r
+−2v+ r
+−2b
+−2e
+● Case j∶= 1. We have :
+2[(ˆu1,1)2− ˆu2
+1,1] e
+G11= 1
+−2u1
+ˆu0,0(ˆu10,0− 2u0,0− u1,0)+ u1,0u0,0] e
+0,0+ 1
++ η1η0[ˆu10,00+ 1
+−2u0
+ˆu2,2(ˆu12,2− 2u2,2− u1,2)+ u1,2u2,2] e
++ η1η2[ˆu12,22+ 1
+2,2+ 1
+−2u2
+ˆu3,3(ˆu13,3− 2u3,3− u1,3)+ u1,3u3,3] e
+3,3+ 1
++ η1η3[ˆu13,33+ 1
+−2u3
+′)2] e
+2[(u
+−1)2−(u
+′)2− 2(u
+= 1
+′+ 2r
+−2v
+2(( ˙v)2+ 2(˙b)2)+ 1
+2( ˙v+ 2˙b)(2˙b− 2 ˙u− ˙v)+ ˙u ˙v] e
+−[2¨b+ 1
+−2u
+− r
+−2e
+−2b
+=[˙b(2 ˙u− 3˙b)− 2¨b] e
+−1(2u
+−2u+ r
+′+ r
+−2e
+−2b
+● Case j∶= 2. We have :
+2[(ˆu2,2)2− ˆu2
+2,2] e
+−2u2
+0,0+ 1
++ η2η0[ˆu20,00+ 1
+ˆu0,0(ˆu20,0− 2u0,0− u2,0)+ u2,0u0,0] e
+−2u0
+1,1+ 1
++ η2η1[ˆu21,11+ 1
+ˆu1,1(ˆu21,1− 2u1,1− u2,1)+ u2,1u1,1] e
+−2u1
++ η2η3[ˆu23,33+ 1
+3,3+ 1
+ˆu3,3(ˆu23,3− 2u3,3− u2,3)+ u2,3u3,3] e
+−2u3
+2(( ˙v)2+ 2(˙b)2)+ 1
+2( ˙v+ 2˙b)( ˙v+ ˙b− 2 ˙u− ˙b)+ ˙u˙b] e
+=−[¨v+ ¨b+ 1
+−2u
+′)2+ 2r
+2((u
+′)+ r
+2(u
+−1)(u
+−2+ 1
++[u
+′′− r
+−2)+ 1
+′] e
+′+ 2r
+′− 2v
+−1v
+−2v
+′] e
+−1)− r
+′(u
+−2u+[u
+=[−¨v− ¨b+( ˙u− ˙v)( ˙v+ ˙b)−(˙b)2] e
+′+ r
+′′+ u
+′− v
+−1v
+● Case j∶= 3. Since R33= R22, we have:
+G33= G22.
+● We have:
+−1)+ r
+G01= G10= R01= 2(˙b(u
+′− r
+⎞⎟⎟⎟⎠ , Gjl=⎛⎜⎜⎜⎝
+
+Therefore, the matrices Gjl and Gjl are of the form:
+
+Gjl=⎛⎜⎜⎜⎝
+
+G00 G01
+G10 G11
+0
+0
+
+0
+0
+0 G22
+0
+
+0
+0
+0 G22
+0
+
+0
+0
+0
+0 G33
+
+0
+0
+0
+0 G33
+
+G22= 1
+
+−2v− r
+
+−1 ˙v) e
+
+G00 G01
+G10 G11
+
+−1) e
+
+−u−v.
+
+⎞⎟⎟⎟⎠
+
+ˆu2
+
+ˆu2
+
+ˆu2
+
+0
+0
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+−2v
+
+Practical Calculations in General Relativity
+
+84
+
+David Pigeon
+
+CHAPTER 1. CALCULATIONS OF OBJECTS ASSOCIATED WITH CURVATURE FOR DIAGONAL
+1.6. TENSOR OF EINSTEIN
+METRICS
+
+with:
+
+′) e
+−1(r
+G00=˙b(2 ˙v+ ˙b) e
+−2v+ r
+−1− 2v
+−2u− r
+−2e
+−2b
+′) e2u−2v+ r
+G00=˙b(2 ˙v+ ˙b)− r
+−1(r
+−1− 2v
+−2b+2u
+−2e
+G01=2(˙b(u
+−1 ˙v) e
+−1)+ r
+′− r
+−u−v
+−1 ˙v)
+G01=2(˙b(u
+−1)+ r
+′− r
+−1) e
+G11=[˙b(2 ˙u− 3˙b)− 2¨b] e
+−1(2u
+−2u+ r
+′+ r
+−2v− r
+−2e
+−2b
+−1)− r
+−1(2u
+G11=[˙b(2 ˙u− 3˙b)− 2¨b] e
+−2u+2v+ r
+′+ r
+−2b+2v
+−2e
+′] e
+G22=G33=[−¨v− ¨b+( ˙u− ˙v)( ˙v+ ˙b)−(˙b)2] e
+−2u+[u
+′(u
+−1)− r
+′′+ u
+′− v
+′+ r
+−1v
+−2v
+G22=r2[−¨v− ¨b+( ˙u− ˙v)( ˙v+ ˙b)−(˙b)2] e
+′] e
+−1)− r
+′(u
+−2u+ r2[u
+′+ r
+′′+ u
+′− v
+−2v
+−1v
+G33= sin2 ϑG22
+
+David Pigeon
+
+85
+
+Practical Calculations in General Relativity
+
+CHAPTER 1. CALCULATIONS OF OBJECTS ASSOCIATED WITH CURVATURE FOR DIAGONAL
+1.6. TENSOR OF EINSTEIN
+METRICS
+
+Practical Calculations in General Relativity
+
+86
+
+David Pigeon
+
+Chapter 2
+
+Practical Resolution in the Case of
+Spherically Symmetric Metrics
+
+We study the metric h discussed in the examples of the previous chapter, see:
+
+1.1.4.1, 1.1.5.1, 1.2.5.5, 1.2.6.3 , 1.2.6.5, 1.3.4.5 , 1.3.5.4, 1.4.4.3, 1.5.2.2, 1.6.0.6
+
+h= e2u(t,r)
+= e2u(t,r)
+
+dt⊗ dt− e2v(t,r)
+dt⊗ dt− e2v(t,r)
+
+dr⊗ dr− r2e2b(t)(dϑ⊗ dϑ+ sin2 ϑdφ⊗ dφ)
+dr⊗ dr− r2e2b(t)
+
+hΩ
+
+is the metric on the unit 2-sphere in spherical coordinates (see point (2) of example 1.1.3.3).
+
+Following Einstein’s article [3], several solutions to the general relativity equation have been given in
+
+specific cases. Here are the references for those discussed in this chapter:
+
+hΩ∶= dϑ⊗ dϑ+ sin2 ϑdφ⊗ dφ
+(0, 1, 2, 3)∶=(t, r, ϑ, ϕ)
+
+[18],
+
+[19],
+
+[20]
+
+[7], [12],
+
+[13]
+
+[10],
+
+[14],
+
+[15],
+
+[16],
+
+[20], [21],
+
+where:
+
+We will denote, as desired:
+
+● Schwarzschild metric:
+● Reissner-Nordstr¨om metric:
+● FLRW metric:
+
+[1],
+
+[4],
+
+[5],
+
+2.1 General Solution
+
+2.1.1 Objects Associated with Curvature
+
+For the calculations, we will need the Christoffel symbols and the components of the Einstein tensor.
+
+According to example 1.2.5.5, the Christoffel symbols are given by:
+
+⎞⎟⎟⎟⎟⎠
+
+0
+0
+0
+
+r2 ˙b sin2 ϑe2b−2u
+
+Γ0=⎛⎜⎜⎜⎜⎝
+Γ2=⎛⎜⎜⎜⎜⎝
+
+˙u
+
+u′
+
+0
+0
+
+0
+0
+˙b
+0
+
+u′
+˙ve−2u+2v
+
+0
+0
+
+˙b
+
+r−1
+
+0
+0
+
+0
+0
+
+r−1
+
+0
+
+0
+0
+
+r2 ˙be2b−2u
+
+0
+
+0
+0
+0
+
+− cos ϑ sin ϑ
+
+⎞⎟⎟⎟⎟⎠
+
+Γ1=⎛⎜⎜⎜⎝
+Γ3=⎛⎜⎜⎜⎜⎝
+
+0
+0
+0
+˙b
+
+u′e2u−2v
+
+˙v
+
+0
+
+0
+0
+
+v′
+0 −re2b−2v
+⎞⎟⎟⎟⎟⎠
+r−1
+
+cot ϑ
+
+0
+0
+0
+
+0
+˙b
+
+0
+
+cot ϑ
+
+˙v
+0
+0
+
+0
+0
+0
+
+r−1
+
+⎞⎟⎟⎟⎠
+
+0
+0
+0
+
+−r sin2 ϑe2b−2v
+
+87
+
+CHAPTER 2. PRACTICAL RESOLUTION IN THE CASE OF SPHERICALLY SYMMETRIC
+METRICS
+
+2.1. GENERAL SOLUTION
+
+According to example 1.6.0.6, the non-zero components of the Einstein tensor are given by:
+
+In the
+bases
+
+C⊥ and C∗⊥ G11 =[˙b(2 ˙u− 3˙b)− 2¨b] e−2u+ r−1(2u′+ r−1) e−2v− r−2e−2b
+
+G00 = ˙b(2 ˙v+ ˙b) e−2u− r−1(r−1− 2v′) e−2v+ r−2e−2b
+G01 = 2(˙b(u′− r−1)+ r−1 ˙v) e−u−v
+G22 =[−¨v− ¨b+( ˙u− ˙v)( ˙v+ ˙b)−(˙b)2] e−2u+[u′′+ u′(u′− v′+ r−1)− r−1v′] e−2v
+G33 = G22
+G00 = e2uG00
+C and C∗ G01 = eu+vG01
+G11 = e2vG11
+G22 = r2G22
+G33 = r2 sin2 ϑG33
+
+= ˙b(2 ˙v+ ˙b)− r−1(r−1− 2v′) e2u−2v+ r−2e−2b+2u
+= 2(˙b(u′− r−1)+ r−1 ˙v)
+=[˙b(2 ˙u− 3˙b)− 2¨b] e−2u+2v+ r−1(2u′+ r−1)− r−2e−2b+2v
+= r2[−¨v− ¨b+( ˙u− ˙v)( ˙v+ ˙b)−(˙b)2] e−2u+ r2[u′′+ u′(u′− v′+ r−1)− r−1v′] e−2v
+=−r2 sin2 ϑ[2¨b+ 3(˙b)2] e2b−2u+ r2 sin2 ϑ[u′′+(u′+ r−1)(u′− v′)] e−2v
+
+In the
+bases
+
+2.1.2 Form of the tensor field Sjl
+
+Depending on the utility of the tensors, it is useful to raise or lower indices (see subsections 1.1.8 and 1.1.9).
+The obtained tensors are related by simple formulas. We begin with an example.
+
+Example 2.1.2.1: Forms of the energy-momentum tensor in the case of a perfect fluid
+
+In the literature, an usual example of the energy-momentum tensor is the energy-momentum tensor
+for a perfect fluid in thermodynamic equilibrium. It can be expressed in six different equivalent forms:
+
+Tjl=⎛⎜⎜⎜⎝
+l =⎛⎜⎜⎜⎝
+Tjl=⎛⎜⎜⎜⎝
+
+Tj
+
+ρc2
+0
+0
+0
+ρc2
+0
+0
+0
+ρc2
+0
+0
+0
+
+⎞⎟⎟⎟⎠
+−P
+⎞⎟⎟⎟⎠
+
+0
+0
+0
+
+⎞⎟⎟⎟⎠
+
+0
+0
+0
+P 0
+0
+0 P 0
+0
+0 P
+
+−P
+
+0
+
+0
+0
+
+0
+0
+
+−P
+
+0
+
+0
+0
+0
+P 0
+0
+0 P 0
+0
+0 P
+
+⎞⎟⎟⎟⎠
+
+0
+0
+0
+
+r2 sin2 ϑP
+
+Tjl=⎛⎜⎜⎜⎝
+l =⎛⎜⎜⎜⎝
+Tjl=⎛⎜⎜⎜⎝
+
+Tj
+
+ρc2e2u
+
+0
+
+0
+0
+0
+ρc2
+0
+0
+0
+
+−P
+ρc2e−2u
+
+0
+0
+
+0
+0
+0
+
+P e2v
+
+0
+
+0
+0
+
+0
+0
+
+−P
+P e−2v
+
+0
+
+0
+
+0
+0
+
+0
+0
+r2P
+0
+
+⎞⎟⎟⎟⎠
+
+0
+0
+0
+
+−P
+r−2P
+
+0
+0
+
+0
+
+⎞⎟⎟⎟⎠
+
+0
+0
+0
+
+r−2 sin−2 ϑP
+
+where ρ is the mass density of the fluid and P is the hydrostatic pressure. As indicated by the
+notation T or T and the indices, these six tensors represent the case of a perfect fluid with or without
+
+tetrads and of type(2, 0) or(1, 1) or(0, 2).
+
+These six tensors are related by the standard formulas (see the results in subsections 1.1.8 and 1.1.9):
+
+j= hjjTjj
+
+Tj
+
+Tjj= hjjTj
+
+j
+
+Practical Calculations in General Relativity
+
+88
+
+David Pigeon
+
+CHAPTER 2. PRACTICAL RESOLUTION IN THE CASE OF SPHERICALLY SYMMETRIC
+METRICS
+
+2.1. GENERAL SOLUTION
+
+j= ηjjTjj
+Tjj= e2ujTjj
+
+Tj
+
+j
+
+Tj
+
+Tjj= ηjjTj
+j= Tj
+j= Tj
+
+Tj
+
+j.
+
+j
+
+Tjj= e
+
+−2ujTjj
+
+It can be observed that in the case where the tensor Tjl is diagonal, we have:
+
+This is no longer true if Tjl is non-diagonal.
+We will prefer the tensors Tjl and Tjl when using the Einstein equation, and the tensors Tj
+when using the Bianchi identity.
+
+l and Tj
+
+l
+
+The Einstein equation is written as:
+
+with a right-hand side that, in the case with a cosmological constant, is given by:
+
+In the C⊥ and C∗⊥ bases
+
+In the C and C∗ bases
+
+Gjl= Sjl
+
+Gjl= Sjl
+
+.
+
+In the C⊥ and C∗⊥ bases
+Sjl∶=−Ληjl+ κTjl
+
+In the C and C∗ bases
+Sjl∶=−Λgjl+ κSjl
+
+We have defined:
+
+two non-zero off-diagonal terms that are equal in symmetric positions(j, l)∶=(0, 1) and(j, l)∶=(1, 0):
+
+In this section, we will consider tensors Sjl and Sjl of the following form, as Gjl and Gjl only contain
+
+⎞⎟⎟⎟⎠
+
+0
+0
+r2γ
+0
+
+0
+0
+0
+
+r2 sin2 ϑγ
+
+ξeu+v
+
+βe2v
+
+.
+
+c4
+
+0
+0
+
+0
+0
+
+αe2u
+
+ξeu+v
+
+κ∶= 8πG
+⎞⎟⎟⎟⎠∶=⎛⎜⎜⎜⎝
+⎞⎟⎟⎟⎠∶=⎛⎜⎜⎜⎝
+⎞⎟⎟⎟⎠=⎛⎜⎜⎜⎝
+−ξeu−v
+⎞⎟⎟⎟⎠=⎛⎜⎜⎜⎝
+−ξ −β
+
+α ξ
+0 0
+ξ β 0 0
+0 γ 0
+0
+0
+0
+0 γ
+
+0
+0
+0
+S3
+3
+0
+0
+0
+S3
+3
+
+0
+0
+
+0
+0
+
+α
+
+α
+
+ξ
+
+⎞⎟⎟⎟⎠
+
+S00 S01
+S10 S11
+0
+0
+0
+0
+S00 S01
+S10 S11
+0
+0
+0
+0
+
+Sjl∶=⎛⎜⎜⎜⎝
+Sjl=⎛⎜⎜⎜⎝
+l = gllSjl=⎛⎜⎜⎜⎝
+l = ηllSjl=⎛⎜⎜⎜⎝
+
+Sj
+
+Sj
+
+0
+0
+S22
+0
+
+0
+0
+S22
+0
+
+0
+0
+0
+S33
+0
+0
+0
+S33
+
+S0
+0 S0
+1
+0 S1
+S1
+1
+0
+0
+0
+0
+S0
+S0
+1
+0
+S1
+S1
+1
+0
+0
+0
+0
+0
+
+0
+0
+S2
+2
+0
+
+0
+
+0
+0
+
+−γ
+⎞⎟⎟⎟⎠
+
+0
+0
+
+−γ
+
+0
+
+0
+0
+0
+
+−γ
+
+where α(t, r), β(t, r), γ(t, r), ξ(t, r) are functions of the variables t and r. Thus, we have:
+⎞⎟⎟⎟⎠
+
+ξe−u+v
+−β
+
+0
+0
+0
+
+0
+0
+S2
+2
+0
+
+0
+0
+
+0
+0
+
+−γ
+
+David Pigeon
+
+89
+
+Practical Calculations in General Relativity
+
+CHAPTER 2. PRACTICAL RESOLUTION IN THE CASE OF SPHERICALLY SYMMETRIC
+METRICS
+
+2.1. GENERAL SOLUTION
+
+Matrix representations are given by:
+
+In the C⊥ and C∗⊥ bases
+
+In the C and C∗ bases
+
+0
+0
+0
+0 G33
+
+0
+0
+0 G22
+0
+
+G00 G01
+G10 G11
+0
+0
+
+⎛⎜⎜⎜⎝
+(E0 ∶ G00= S00)
+(E01 ∶ G01= S01)
+(E1 ∶ G11= S11)
+(E2 ∶ G22= S22)
+
+0
+0
+
+0
+0
+S22
+0
+
+0
+0
+0
+S33
+
+G00 G01
+G10 G11
+
+⎞⎟⎟⎟⎠=⎛⎜⎜⎜⎝
+
+0
+0
+0 G22
+0
+
+0
+0
+0
+0 G33
+
+S00 S01
+S10 S11
+0
+0
+0
+0
+
+⎛⎜⎜⎜⎝
+⎞⎟⎟⎟⎠=⎛⎜⎜⎜⎝
+⎞⎟⎟⎟⎠
+˙b(2 ˙v+ ˙b) e
+′) e
+−1(r
+−2b= α
+−2v+ r
+−1− 2v
+−2u− r
+∶
+−2e
+−1 ˙v) e
+−1)+ r
+∶ (˙b(u
+−u−v= ξ
+′− r
+[˙b(2 ˙u− 3˙b)− 2¨b] e
+−1) e
+−1(2u
+−2b= β
+−2v− r
+′+ r
+∶
+−2u+ r
+−2e
+[−¨v− ¨b+( ˙u− ˙v)( ˙v+ ˙b)−(˙b)2] e
+−2u+[u
+′(u
+′− v
+∶
+′′+ u
+′+ r
+
+In both cases, we have the following four fundamental equations:
+
+.
+
+⎞⎟⎟⎟⎠
+
+0
+0
+0
+S33
+
+S00 S01
+S10 S11
+0
+0
+0
+0
+
+0
+0
+S22
+0
+
+−1)− r
+
+−1v
+
+′] e
+−2v= γ
+
+2.1.3 Using the Bianchi Identity
+
+According to Proposition 1.6.0.3, the twice-contracted Bianchi identity gives four equations for l∈{0, 1, 2, 3}:
+
+∇jGj
+l = 0.
+Using Proposition 1.2.5.2, we have: ∇jGj
+l = ∂jGj
+l+ Γj
+∇jGj
+l = ∂jGj
+l+ Γj
+l = Sj
+l = ∂jSj
+l+ Γj
+
+0=∇jSj
+
+Therefore, we have:
+
+Using the equality:
+
+jkGk
+
+Gj
+
+jkGk
+
+l − Γk
+l − Γk
+
+ljGj
+k.
+
+k= 0.
+
+ljGj
+
+l − Γk
+
+jkSk
+
+ljSj
+k
+
+and the linearity of∇j, we obtain the following four equalities for l∈{0, 1, 2, 3}:
+
+l
+
+The following proposition gives the two nontrivial equalities derived from these four equations.
+
+Proposition 2.1.3.1: Application of the Bianchi Identity
+
+The identity:
+
+is equivalent to the two equations:
+
+(B0 ∶ ∇jSj
+(B1 ∶ ∇jSj
+
+0= 0)
+1= 0)
+
+∶
+∶
+
+∇jGj
+l = 0
+′+ 2(u
+−1) ξ] eu−v+ 2˙b(α+ γ)−(u
+˙α−[ξ
+′+ r
+α− v
+β+ 2r
+′
+′
+[ ˙ξ+( ˙v− 2 ˙u− 2˙b) ξ] e
+−1(γ− β)= 0
+′+ 2r
+−u+v− β
+′−(α+ β) u
+l − Γk
+l = ∂jSj
+l+ Γj
+
+0=∇jSj
+
+ljSj
+k
+
+jkSk
+
+−1γ)+ ˙vβ= 0
+
+Proof. We have:
+
+There are four cases.
+
+Practical Calculations in General Relativity
+
+90
+
+David Pigeon
+
+2.1. GENERAL SOLUTION
+
+01S1
+
+0jSj
+j
+
+jkSk
+j0S0
+
+jkSk
+j0S0
+
+0jSj
+k
+j1S1
+
+1jSj
+k
+j1S1
+
+0− Γ0
+
+CHAPTER 2. PRACTICAL RESOLUTION IN THE CASE OF SPHERICALLY SYMMETRIC
+METRICS
+
+● Case l∶= 0. We have:
+0− Γk
+0+ Γj
+0= ∂jSj
+0=∇jSj
+0+ Γj
+0+ Γj
+0+ ∂1S1
+= ∂0S0
+0− Γj
+−1) ξeu−v− ˙vα−( ˙uα− ˙vβ− 2˙bγ)
+′) ξ] eu−v+( ˙u+ ˙v+ 2˙b) α−(u
+′+(u
+= ˙α−[ξ
+′+ 2r
+′+ v
+′− v
+−1γ)+ ˙vβ
+= ˙α−[ξ
+′+ 2(u
+−1) ξ] eu−v+ 2˙b(α+ γ)−(u
+′+ r
+β+ 2r
+α− v
+′
+′
+● Case l∶= 1. We have:
+1= ∂jSj
+1+ Γj
+1− Γk
+0=∇jSj
+= ∂0S0
+1+ ∂1S1
+1+ Γj
+1+ Γj
+1− Γ1
+1− Γj
+−u+v−(u
+′−( ˙u+ ˙v+ 2˙b) ξe
+=[ ˙ξ+( ˙v− ˙u) ξ] e
+′+ 2r
+−u+v− β
+′+ v
+=[ ˙ξ+( ˙v− 2 ˙u− 2˙b) ξ] e
+−1(γ− β)
+−u+v− β
+′−(α+ β) u
+′+ 2r
+● Case l∶= 2. We have:
+0=∇jSj
+2− Γk
+2+ Γj
+2= ∂jSj
+2− Γj
+= Γj
+2− cot ϑS3
+= cot ϑS2
+= 0
+0=∇jSj
+3= ∂jSj
+3+ Γj
+3− Γj
+= Γj
+2− cot ϑS3
+= cot ϑS2
+= 0
+
+● Case l∶= 3. We have:
+
+−1) β− ˙vξe
+
+−u+v−(u
+′
+
+β− 2r
+
+3− Γk
+
+α− v
+
+2jSj
+k
+
+3jSj
+k
+
+3jSj
+j
+
+2jSj
+j
+
+1jSj
+j
+
+jkSk
+
+jkSk
+
+10S0
+
+j2S2
+
+j3S3
+
+′
+
+3
+
+3
+
+The last two cases are trivial.
+
+−1γ)
+
+2.1.4 The six fundamental equations
+
+The six fundamental equations that will be used throughout this section are:
+
+(E0 ∶ G00= S00)
+(E01 ∶ G01= S01)
+(E1 ∶ G11= S11)
+(E2 ∶ G22= S22)
+0= 0)
+(B0 ∶ ∇jSj
+1= 0)
+(B1 ∶ ∇jSj
+
+˙b(2 ˙v+ ˙b) e
+−1(r
+′) e
+∶
+−2u− r
+−1− 2v
+−2v+ r
+−2b= α
+−2e
+−1 ˙v) e
+∶ (˙b(u
+−1)+ r
+−u−v= ξ
+′− r
+−1) e
+−1(2u
+[˙b(2 ˙u− 3˙b)− 2¨b] e
+−2b= β
+−2v− r
+′+ r
+−2u+ r
+∶
+−2e
+′] e
+[−¨v− ¨b+( ˙u− ˙v)( ˙v+ ˙b)−(˙b)2] e
+−2u+[u
+′(u
+−1)− r
+′− v
+∶
+′′+ u
+′+ r
+−2v= γ
+−1v
+˙α−[ξ
+′+ 2(u
+−1) ξ] eu−v+ 2˙b(α+ γ)−(u
+−1γ)+ ˙vβ= 0
+∶
+′+ r
+α− v
+β+ 2r
+′
+′
+[ ˙ξ+( ˙v− 2 ˙u− 2˙b) ξ] e
+∶
+−u+v− β
+′−(α+ β) u
+′+ 2r
+−1(γ− β)= 0
+
+The first four equations are derived from the general relativity equation, and the last two are due to the
+
+Bianchi identities.
+
+The two Bianchi identities are derived from the general relativity equation, but due to their importance
+
+in the calculations, they are considered as two additional fundamental equations.
+
+David Pigeon
+
+91
+
+Practical Calculations in General Relativity
+
+CHAPTER 2. PRACTICAL RESOLUTION IN THE CASE OF SPHERICALLY SYMMETRIC
+METRICS
+
+2.1. GENERAL SOLUTION
+
+(i) Gjl and Sjl are diagonal;
+
+2.1.5 Case where G and S are diagonal
+
+From equation(E01), we have the following equivalences:
+(ii) ξ= 0;
+(iii) r ˙bu′+ ˙v− ˙b= 0.
+Proposition 2.1.5.1: Case where ξ= 0
+
+simple result.
+
+Consider the case:
+
+ξ= 0.
+
+The last equation is a criterion that is generally difficult to exploit. However, we have the following
+
+(i) The following conditions are equivalent:
+
+(a) u′= 0, i.e., u is independent of r;
+(b) ˙v= ˙b;
+(c) The function v can be decomposed as v(t, r)= b(t)+ vr(r).
+Then ˙v= 0, i.e., v is independent of t.
+(i) From point (iii) of the equivalence mentioned before the proposition and since ξ= 0, we have:
+
+˙b= 0.
+
+(ii) Suppose that:
+
+Proof.
+
+′+ ˙v− ˙b= 0.
+
+r ˙bu
+
+This leads to the equivalences between:
+
+● u′= 0;
+● ˙v− ˙b= 0;
+● ˙v= ˙b.
+
+(ii) Suppose that:
+
+The last point is equivalent, by integration, to the existence of a function vr depending only on r such
+that:
+
+v(t, r)= b(t)+ vr(r).
+
+Then, according to point (iii) of the equivalence mentioned before the proposition:
+
+i.e., v is independent of t.
+
+˙b= 0.
+˙v= 0
+
+The two cases studied in this proposition will be treated separately, the first one in the following sub-
+
+section, and the second one, which is more extensive, will be addressed in the next section.
+
+Practical Calculations in General Relativity
+
+92
+
+David Pigeon
+
+CHAPTER 2. PRACTICAL RESOLUTION IN THE CASE OF SPHERICALLY SYMMETRIC
+METRICS
+
+2.1. GENERAL SOLUTION
+
+By point (i) of Proposition 2.1.5.1, the function v has separated variables. We assume that v can be written
+as:
+
+Throughout this subsection, we consider an energy-momentum tensor that satisfies the six fundamental
+
+equations of the form:
+
+We consider the case where:
+
+2.1.6 Case where the functions u′ and ξ are zero
+′= ξ= 0.
+eu= c.
+
+Hence, there exists a constant c such that:
+
+u
+
+Thus, the studied metric is of the form:
+
+v(t, r)∶= b(t)+ v(r).
+dr⊗ dr+ r2(dϑ⊗ dϑ+ sin2 ϑdφ⊗ dφ))
+
+h= c2dt⊗ dt− e2b(t)(e2v(r)
+α(t, r)
+Sjl∶=⎛⎜⎜⎜⎝
+(B1 ∶ ∇jSj
+
+0
+0
+0
+
+β(t, r)
+
+0
+
+0
+0
+
+0
+0
+
+β(t, r)
+
+0
+
+⎞⎟⎟⎟⎠
+
+0
+0
+0
+
+β(t, r)
+′= 0
+
+where α, β are functions of the variables t and r.
+
+We have:
+
+Thus, β does not depend on r, so we have:
+
+∶ −β
+1= 0)
+β(t, r)= β(t).
+The equation(E01) is trivial, and the five fundamental equations become:
+−2(˙b)2+ r
+−2b[(2v
+−1) e
+∶ 3c
+′− r
+−2v+ r
+−1e
+−2[2¨b+ 3(˙b)2]+ r
+−2b(e
+−2v− 1)= β
+∶ −c
+−2e
+−2[2¨b+ 3(˙b)2]− r
+−2b−2v= β
+∶ −c
+′
+−1v
+˙α+ ˙b(2α+ 3β)+(v
+−1) β= 0
+∶
+′− 2r
+′= 0
+∶ −β
+
+(E0 ∶ G00= S00)
+(E1 ∶ G11= S11)
+(E2 ∶ G22= S22)
+(B0 ∶ ∇jSj
+0= 0)
+1= 0)
+(B1 ∶ ∇jSj
+There exists k∈ R such that:
+
+Theorem 2.1.6.1: Generalized metric
+
+e
+
+−1]= α
+
+where:
+
+dr⊗ dr+ r2hΩ)
+
+1
+
+h= c2dt⊗ dt− e2b(t)(
+(˙b)2+ kc2e
+
+1− kr2
+−2b= αc2
+¨b+(˙b)2=− c2
+
+3
+
+6 (3β+ α)
+
+David Pigeon
+
+93
+
+Practical Calculations in General Relativity
+
+CHAPTER 2. PRACTICAL RESOLUTION IN THE CASE OF SPHERICALLY SYMMETRIC
+METRICS
+
+2.1. GENERAL SOLUTION
+
+′
+
+−1v
+
+e
+
+−2b−2v
+
+−2v= 1− kr2
+Proof. We prove the result in three steps:(1)
+(˙b)2+ kc2e
+(2)
+(3) ¨b+(˙b)2=− c2
+
+e
+
+−2b= αc2
+6 (3β+ α)
+
+3
+
+(1) We provide two methods.
+
+1
+
+r
+
+e
+
+e
+
+g
+
+2
+
+−1
+
+−1.
+
+(a) We have
+
+We have the constant particular solution:
+
+Thus, g is a solution of the differential equation:
+
+The homogeneous solutions are generated by the function:
+
+0= β− β
+= G11− G22
+−2[2¨b+ 3(˙b)2]+ r
+−2[2¨b+ 3(˙b)2]+ r
+−2v− 1)+ c
+−2b(e
+=−c
+−2e
+−1)
+−2b(r
+= r
+−2v− r
+−2v+ v
+−1e
+−1e
+′
+So, by setting g∶= e−2v, we have:
+0= r
+−2v− r
+−2v+ v
+′
+−1e
+′− r
+−1g− 1
+= r
+−1
+−1y=−2r
+′− 2r
+(E) ∶ y
+rz→ exp(2∫ r
+−1dr)= e2 ln(r)= r2.
+rz→ 1.
+g= 1− kr2.
+g=
+e2v= 1
+1− kr2
+(b) Using(E1) and separating the variables r and t, we have:
+−2[2¨b+ 3(˙b)2])= r
+−2(e
+−2(e
+−2v− 1)=−k
+e2v=
+1− kr2
+−2[2¨b+ 3(˙b)2])=−k
+e2b(β+ c
+2¨b+ 3(˙b)2+ kc2e
+−2b=−βc2.
+
+We also obtain another equation that appears in point (3):
+
+Therefore, there exists a real constant k such that:
+
+Hence, there exists a constant k such that:
+
+e2b(β+ c
+
+−2v− 1)
+
+In other words, we have:
+
+In other words, we have:
+
+Thus, we have:
+
+1
+
+1
+
+r
+
+.
+
+.
+
+Practical Calculations in General Relativity
+
+94
+
+David Pigeon
+
+CHAPTER 2. PRACTICAL RESOLUTION IN THE CASE OF SPHERICALLY SYMMETRIC
+METRICS
+
+2.1. GENERAL SOLUTION
+
+The advantage of the second method is that it only uses equation(E1).
+
+(2) Since:
+
+we have:
+
+Therefore, we have:
+
+(3) We have:
+
+′=−2kr
+
+g
+
+α= G00
+−1(2v
+−1) e
+−2(˙b)2+ r
+′− r
+−2b−2v+ r
+= 3c
+−2e
+−2b
+−1)
+−2b(2v
+−2(˙b)2+ r
+−2v+ r
+−2v− r
+= 3c
+−1e
+′
+−1e
+−2b(−g
+−1)
+−2(˙b)2+ r
+′− r
+−1g+ r
+= 3c
+−1e
+−1)
+−2b(2kr− r
+−2(˙b)2+ r
+= 3c
+−1+ kr+ r
+−1e
+−2(˙b)2+ 3ke
+= 3c
+−2b
+˙b+ kc2e
+
+−2b= αc2
+
+e
+
+.
+
+3
+
+−2b−2v
+−2b
+
+e
+
+e
+
+g
+
+2r
+
+β= G22
+−2(2¨b+ 3(˙b)2)− r
+=−c
+−1v
+′
+−2(2¨b+ 3(˙b)2)− 1
+=−c
+′
+−2(2¨b+ 3(˙b)2)− ke
+=−c
+−2b
+2¨b+ 3(˙b)2+ kc2e
+−2b=−βc2
+(˙b)2+ kc2e
+−2b= αc2
+¨b+(˙b)2=− c2
+6 (3β+ α)
+
+3
+
+Thus, we have the two equations (the second one is from point (ii)):
+
+By subtracting these two equations, we obtain:
+
+In the following corollary, we give the relations with the usual notations used in the case of the Friedmann-
+
+Lemaˆıtre-Robertson-Walker (FLRW) metric.
+
+Corollary 2.1.6.2: Other versions
+
+(i) The scale factor is defined as:
+
+Then there exists k∈ R such that:
+
+a∶= eb.
+h= c2dt⊗ dt− a(t)2(
+1− kr2
+
+1
+
+dr⊗ dr+ r2hΩ)
+
+David Pigeon
+
+95
+
+Practical Calculations in General Relativity
+
+CHAPTER 2. PRACTICAL RESOLUTION IN THE CASE OF SPHERICALLY SYMMETRIC
+METRICS
+
+2.2. CASE WHERE THE FUNCTIONS ˙B AND ξ ARE ZERO.
+
+where:
+
+(ii) The Hubble parameter is defined as:
+
+The spatial curvature is defined as:
+
+Then we have:
+
+6 (3β+ α)
+
+3
+
+¨a
+
+( ˙a
+a)2+ kc2
+
+a2 = αc2
+a=− c2
+H∶= ˙b= ˙a
+−b= k
+K∶= ke
+( ˙H)2+ Kc2
+a = αc2
+˙H+ H 2=− c2
+
+a
+
+3
+
+.
+
+a
+
+.
+
+6 (3β+ α)
+
+c4
+
+c2
+
+α∶= 8πG
+( ˙a
+a)2+ kc2
+
+P+ Λ.
+
+ρ− Λ , β∶= 8πG
+a2 = 8πG
+ρ− Λc2
+c2 (P+ ρc2)− Λ
+a=− 8πG
+
+¨a
+
+3
+
+3
+
+3
+
+Example 2.1.6.3: Usual example
+
+We take the notations from Example 2.1.2.1. We consider the case where:
+
+Therefore, we have the Friedmann-Lemaˆıtre equations:
+
+By point (ii) of Proposition 2.1.5.1, the function v is independent of the variable t, i.e., v can be written as:
+
+Thus, the studied metric is of the type:
+
+2.2 Case where the functions ˙b and ξ are zero.
+
+We consider the case where:
+
+˙b= 0 ∧ ξ= 0.
+v(t, r)∶= v(r).
+dr⊗ dr− r2(dϑ⊗ dϑ+ sin2 ϑdφ⊗ dφ)
+dr⊗ dr− r2hΩ
+β(t, r)
+
+0
+
+0
+0
+
+γ(t, r)
+
+0
+
+0
+0
+0
+
+γ(t, r)
+
+⎞⎟⎟⎟⎠
+
+0
+0
+
+h= e2u(t,r)
+= e2u(t,r)
+
+dt⊗ dt− e2v(r)
+dt⊗ dt− e2v(r)
+α(t, r)
+Sjl∶=⎛⎜⎜⎜⎝
+
+0
+0
+0
+
+In this subsection, we consider an energy-momentum tensor of the general form:
+
+Practical Calculations in General Relativity
+
+96
+
+David Pigeon
+
+CHAPTER 2. PRACTICAL RESOLUTION IN THE CASE OF SPHERICALLY SYMMETRIC
+METRICS
+
+2.2. CASE WHERE THE FUNCTIONS ˙B AND ξ ARE ZERO.
+
+and since the left-hand side only depends on r, we deduce that α is independent of t, i.e.,
+
+where α, β, γ are functions of the variables t and r.
+
+r
+
+−1) e
+
+From the equation:
+
+−2v+ r
+
+(E0 ∶ G00= S00)
+
+−1[(2v
+−1]= α
+∶
+′− r
+α(t, r)∶= α(r).
+The equation(E01) is trivial, and the five fundamental equations become:
+−1[(2v
+−1) e
+−1]= α
+∶
+′− r
+−2v+ r
+−1[(2u
+−1) e
+−1]= β
+′+ r
+∶
+−2v− r
+−1)(u
+′′+(u
+[u
+′)] e
+′− v
+′+ r
+∶
+−2v= γ
+∶ u
+α− v
+β+ 2r
+−1γ= 0
+′
+′
+∶ −β
+′−(α+ β) u
+′+ 2r
+−1(γ− β)= 0
+α(r)r2dr.
+A(r)∶=∫ r
+
+(E0 ∶ G00= S00)
+(E1 ∶ G11= S11)
+(E2 ∶ G22= S22)
+(B0 ∶ ∇jSj
+0= 0)
+(B1 ∶ ∇jSj
+1= 0)
+
+We define:
+
+r
+
+r
+
+0
+
+Example 2.2.0.1: Three simple examples
+
+notations). We assume that the functions ρ(r) and P(r) are independent of t.
+
+Throughout this section, we will consider three usual cases as examples (see Example 2.1.2.1 for the
+
+(1) Case of a perfect fluid. We are in the case where (also see Example 2.1.2.1):
+
+κP e2v
+
+0
+
+0
+0
+
+0
+0
+
+0
+
+κr2P
+
+0
+0
+0
+
+κr2 sin2 ϑP
+
+⎞⎟⎟⎟⎠
+
+Λe2v
+
+0
+
+0
+0
+
+0
+0
+r2Λ
+0
+
+0
+0
+0
+
+r2 sin2 ϑΛ
+
+⎞⎟⎟⎟⎠
+
+(2) Case with a cosmological constant. We are in the case where:
+
+Sjl∶=⎛⎜⎜⎜⎝
+
+κρc2
+
+0
+0
+0
+
+0
+κP
+0
+0
+
+0
+0
+κP
+0
+
+0
+0
+0
+κP
+
+We are thus in the case where:
+
+−Λ 0
+Sjl∶=⎛⎜⎜⎜⎝
+
+0
+0 Λ 0
+0
+0
+
+0
+0
+0 Λ 0
+0
+0 Λ
+
+⎞⎟⎟⎟⎠
+
+We are thus in the case where:
+
+0
+
+κρ− Λ
+Sjl∶=⎛⎜⎜⎜⎝
+κP+ Λ
+(κρ− Λ) e2u
+Sjl∶=⎛⎜⎜⎜⎝
+
+0
+0
+0
+
+0
+0
+0
+
+0
+0
+
+⎞⎟⎟⎟⎠
+
+0
+0
+0
+
+κρc2e2u
+
+Sjl∶= κ
+
+Sjl∶=⎛⎜⎜⎜⎝
+α∶= κρc2 , β∶= κP.
+−Λe2u
+⎛⎜⎜⎜⎝
+α∶=−Λ , β∶= Λ.
+⎞⎟⎟⎟⎠
+κP+ Λ
+r2(κP+ Λ)
+
+κP+ Λ
+(κP+ Λ) e2v
+
+0
+0
+0
+
+0
+0
+0
+
+0
+0
+
+0
+0
+
+0
+
+0
+
+0
+0
+
+0
+
+⎞⎟⎟⎟⎠
+
+0
+0
+0
+
+r2 sin2 ϑ(κP+ Λ)
+
+(3) Case of a perfect fluid with a cosmological constant. We are in the case where:
+
+David Pigeon
+
+97
+
+Practical Calculations in General Relativity
+
+CHAPTER 2. PRACTICAL RESOLUTION IN THE CASE OF SPHERICALLY SYMMETRIC
+METRICS
+
+2.2. CASE WHERE THE FUNCTIONS ˙B AND ξ ARE ZERO.
+
+We are thus in the case where:
+
+α∶= κρ− Λ , β∶= κP+ Λ.
+
+At the end of the section, we will consider a more complicated example with an electric charge.
+
+2.2.1 Section plan
+
+We will consider different cases in this section. Here is a brief outline:
+
+● General solution. In this subsection, we make no additional assumptions.
+● Exterior metric. We assume the existence of a real number R> 0 such that for all r> R:
+
+and the metric is asymptotically flat, i.e., we have:
+
+α(r)=−β(r)
+r→∞ gii= ηi.
+
+lim
+
+We examine what happens inside a ”ball” of radius R.
+
+We examine what happens outside a ”ball” of radius R.
+
+● Interior metric. We retain the assumptions of the exterior metric. Additionally, we assume that α is
+constant on[0, R], γ= β, β is independent of t, and β is continuous at r∶= R.
+● Case where β(r)= 0 for r> R. We assume the hypotheses from the previous point, with the additional
+assumption that β (and thus α) is zero for r> R.
+● Example of the Reissner–Nordstr¨om metric. We consider a longer example involving an electric
+
+We start with general results on the functions appearing in the equation of general relativity.
+
+charge.
+
+2.2.2 General solution
+
+Theorem 2.2.2.1: Usual properties
+
+(i) We have:
+
+(ii) We have:
+
+(iii) We have:
+
+.
+
+r)−1
+e2v=(1− A
+′= r3β+ A
+2r(r− A) .
+′=− r3β+ A
+2r(r− A)(α+ β)+ 2
+
+u
+
+β
+
+γ− β
+
+r
+
+.
+
+Practical Calculations in General Relativity
+
+98
+
+David Pigeon
+
+CHAPTER 2. PRACTICAL RESOLUTION IN THE CASE OF SPHERICALLY SYMMETRIC
+METRICS
+
+2.2. CASE WHERE THE FUNCTIONS ˙B AND ξ ARE ZERO.
+
+To determine the value of C, we consider the neighborhood of r∶= 0+. We can assume that α is a
+constant with value α0 in this neighborhood of 0+. Therefore, in this neighborhood of 0+, we have:
+
+Proof.
+
+.
+
+0
+
+r
+
+e
+
+e
+
+d
+
+and hence:
+
+(i) We have:
+
+Thus, we have:
+
+r(1− e
+
+Upon integration, there exists a constant C such that:
+
+By equation(E0), we have:
+
+−1)+ r
+−2v(2v
+′− r
+G00= r
+−2
+−1e
+−2v))
+−2v+(1− e
+−2(rv
+= r
+′
+−2v))
+dr(r(1− e
+= r
+−2 d
+−2v))= αr2
+dr(r(1− e
+−2v)=∫ r
+α(r)r2dr+ C= A+ C
+r(A+ C)
+−2v= 1− 1
+e2v=(1− A+ C
+)−1
+α0r2dr≈ α0
+A(r)≈∫ r
+−2v≈ 1− α0r3/3+ C
+≈ 1− α0r2
+3 + C
+Thus, to avoid a singularity in the metric at 0+, we set:
+C∶= 0.
+r)−1
+e2v=(1− A
+r)−1
+e2v=(1− A
+β= G11
+−2v(2u
+−1)− r
+= r
+′+ r
+−1e
+−2
+−1)− r
+r)(2u
+′+ r
+−1(1− A
+= r
+−2
+−1= r3β+ A
+rβ+ r−1
+′= 1
+− 1
+2r(r− b) .
+1− A
+
+we have from(E1):
+
+Consequently, we have:
+
+which leads to:
+
+which gives:
+
+r3
+3
+
+u
+
+2
+
+2
+
+e
+
+r
+
+r
+
+r
+
+0
+
+.
+
+.
+
+r
+
+(ii) Since:
+
+(iii) Two proofs are provided.
+
+David Pigeon
+
+99
+
+Practical Calculations in General Relativity
+
+CHAPTER 2. PRACTICAL RESOLUTION IN THE CASE OF SPHERICALLY SYMMETRIC
+METRICS
+
+2.2. CASE WHERE THE FUNCTIONS ˙B AND ξ ARE ZERO.
+
+(1) Using(B1), we have:
+
+(2) Another proof is given without using the Bianchi identity. By differentiating equation
+
+β
+
+′+ 2r
+
+−1(γ− β)
+′=−(α+ β) u
+=− r3β+ A
+γ− β
+2r(r− A)(α+ β)+ 2
+∶ G11= β
+(E1)
+
+r
+
+we obtain:
+
+β
+
+e
+
+v
+
+u
+
+u
+
+dr
+
+−3
+
+G11
+
+′= d
+−2)
+−2)− r
+−2v(2r
+dr(e
+= d
+′+ r
+−1u
+−2v(−4r
+−3)+ 2r
+′− 2r
+= e
+′− 2r
+′+ 2r
+′′− 2r
+−2v
+−1v
+′
+−2u
+−1u
+−2)+ 2r
+−2v(−2v
+′+ u
+′− r
+′− r
+= 2r
+′′− r
+−1v
+−3
+−1u
+′
+−1e
+−1[−e
+−2v(−u
+−2)
+′)+ r
+= 2r
+′′+ u
+′−(u
+′)2+ r
+−1(u
+′+ v
+′
+[−u
+−2v(v
+′)]+ 2r
+′+ u
+′
+−3
+−2e2v)− u
+−2v(u
+−1[e
+′− v
+−2e2v+ r
+′)− r
+−1(u
+′)2+ r
+′+(u
+′′− u
+= 2r
+′
+′
+−2e2v)− u
+−2v(v
+′)]+ 2r
+−2v(e2vG11− e2vG22− r
+−1[e
+′+ u
+= 2r
+′
+−3
+−2v(v
+−1[β− γ− r
+′)]+ 2r
+−2− u
+= 2r
+′+ u
+′
+−3
+γ− β
+′(v
+′) e
+=−2r
+′+ u
+−2v+ 2
+−1u
+γ− β
+−2v+ 2
+=−(G00+ G11) u
+′
+γ− β
+=−(α+ β) u
+′+ 2
+=− r3β+ A
+γ− β
+2r(r− A)(α+ β)+ 2
+
+v
+
+e
+
+e
+
+e
+
+r
+
+r
+
+r
+
+r
+
+−2v(v
+
+′)]+ 2r
+′+ u
+
+−3
+
+e
+
+So the metric is of the form:
+
+where:
+
+dr⊗ dr− r2hΩ
+
+r)−1
+h= e2udt⊗ dt−(1− A
+′= r3β+ A
+2r(r− A) .
+
+u
+
+Point (iii) is a generalization of the Tolman-Oppenheimer-Volkoff equation (known as TOV).
+
+Example 2.2.2.2: Suite 1 - Two Simple Examples
+
+Let’s consider the three examples from 2.2.0.1.
+
+(1) Case of perfect fluid. We have:
+
+Let’s define:
+
+α∶= κρc2,
+m(r)∶= 4π∫ r
+
+β∶= κP.
+ρ(r)r2dr.
+
+0
+
+Practical Calculations in General Relativity
+
+100
+
+David Pigeon
+
+CHAPTER 2. PRACTICAL RESOLUTION IN THE CASE OF SPHERICALLY SYMMETRIC
+METRICS
+
+2.2. CASE WHERE THE FUNCTIONS ˙B AND ξ ARE ZERO.
+
+Therefore, by theorem 2.2.2.1, we have:
+
+Then we have:
+
+(i) We have:
+
+(ii) We have:
+
+(iii) We have:
+
+.
+
+0
+
+u
+
+P
+
+c2
+
+c2r
+
+8πG
+c2
+
+m(r)
+
+ρ(r)r2dr
+
+A(r)=∫ r
+= 2G
+e2v=(1− 2Gm(r)
+)−1
+′= r3κP+ 2Gm(r)/c2
+2r(r− 2Gm(r)/c2)
+= 8πGr3P+ 2Gc2m(r)
+2c2r(c2r− 2Gm(r))
+′=− 8πGr3P+ 2Gc2m(r)
+2c2r(c2r− 2Gm(r))(ρc2+ P).
+h= e2udt⊗ dt−(1− 2Gm(r)
+)−1
+dr⊗ dr− r2hΩ
+β∶= Λ.
+Λr2dr=− Λr3
+3 )−1
+e2v=(1+ Λr2
+′= r3Λ− Λr3/3
+2r(r− Λr3/3)
+= Λr
+3− Λr2
+ln∣3− Λr2∣+ k
+u=− 1
+3 ∣−1
+3 ∣1− Λr2
+e2u= e2k
+
+α∶=−Λ,
+A(r)=−∫ r
+
+c2r
+
+u
+
+3
+
+2
+
+0
+
+.
+
+.
+
+.
+
+(iv) The metric is of the form:
+
+(2) Case with cosmological constant. We have:
+
+Therefore, we have:
+
+By theorem 2.2.2.1, we have:
+
+(i) We have:
+
+(ii) We have:
+
+Thus, there exists a constant k such that:
+
+Therefore, we have:
+
+David Pigeon
+
+101
+
+Practical Calculations in General Relativity
+
+CHAPTER 2. PRACTICAL RESOLUTION IN THE CASE OF SPHERICALLY SYMMETRIC
+METRICS
+
+2.2. CASE WHERE THE FUNCTIONS ˙B AND ξ ARE ZERO.
+
+(3) Case of perfect fluid with cosmological constant. We have:
+
+(iii) The metric is of the form:
+
+.
+
+0
+
+3
+
+c2
+
+dr⊗ dr− r2hΩ
+
+A(r)=∫ r
+
+3 ∣−1
+3 )−1
+3 ∣1− Λr2
+h= e2k
+dt⊗ dt−(1+ Λr2
+α∶= κρ− Λ,
+β∶= κP+ Λ.
+(κρc2− Λ) r2dr= 2Gm(r)
+− Λr3
+e2v=(1− 2Gm(r)
+3 )−1
++ Λr2
+′= r3(κP+ Λ)+ 2Gm(r)/c2− Λr3/3
+2r(r− 2Gm(r)/c2+ Λr3/3)
+= 24πGr3P+ 6Gc2m(r)− Λc4r3
+2c2r(3c2r− 6Gm(r)+ Λc2r3)
+′=− 24πGr3P+ 6Gc2m(r)− Λc4r3
+2c2r(3c2r− 6Gm(r)+ Λc2r3)(ρc2+ P).
+h= e2udt⊗ dt−(1− 2Gm(r)
+3 )−1
+dr⊗ dr− r2hΩ
++ Λr2
+
+c2r
+
+c2r
+
+P
+
+u
+
+.
+
+Therefore, we have:
+
+By theorem 2.2.2.1, we have:
+
+(i) We have:
+
+(ii) We have:
+
+(iii) We have:
+
+(iv) The metric is of the form:
+
+2.2.3 Exterior Metric
+
+We make two assumptions:
+
+● There exists a real number R> 0 such that:∀r> R, α(r)=−β(r).
+● The metric is asymptotically flat, meaning:
+r→∞ gii= ηi.
+
+lim
+
+Theorem 2.2.3.1: Form of the exterior metric
+
+For r> R, we have:
+
+h= c2(1− A
+
+r)−1
+r) dt⊗ dt−(1− A
+
+dr⊗ dr− r2hΩ.
+
+Practical Calculations in General Relativity
+
+102
+
+David Pigeon
+
+CHAPTER 2. PRACTICAL RESOLUTION IN THE CASE OF SPHERICALLY SYMMETRIC
+METRICS
+
+2.2. CASE WHERE THE FUNCTIONS ˙B AND ξ ARE ZERO.
+
+Proof. We have:
+
+−2v(2u
+′+ r
+Thus, we have u′+ v′= 0. Therefore, there exists a constant C such that:
+
+−1e
+
+Since the spacetime is asymptotically flat, we have:
+
+−2
+
+−1)− r
+
+0= α(r)− α(r)
+= α(r)+ β(r)
+= G00+ G11
+−2v(2v
+−1)+ r
+′− r
+−2+ r
+= r
+−1e
+′)
+−2v(u
+= r
+′+ v
+−1e
+u+ v= C
+r→∞ e2u= g00= c2η00= c2 ,
+r→∞−e2v= g11= η11=−1
+r→∞ u= ln c ,
+r→∞ v= 0.
+C= lim
+r→∞(u+ v)= ln c.
+e2u= e2 ln c−2v
+= c2e
+−2v
+= c2(1− A
+r)
+
+lim
+
+lim
+
+lim
+
+lim
+
+This implies:
+
+Hence, we have:
+
+Thus, we have u= ln c− v and:
+
+Example 2.2.3.2: Sequence 2 - Two Simple Examples
+
+Let’s consider examples (1) and (3) from 2.2.2.2 of the perfect fluid with or without a cosmological
+constant (also see 2.1.2.1 and 2.2.0.1). For both examples, we assume that there exists a constant
+
+R> 0 such that:
+
+ρ(r)∶={ ρ(r)
+
+0
+
+if r≤ R
+if r> R.
+
+(a) The mass of the central object is defined by:
+
+0
+
+, P(r)∶={ P(r)
+ρ(r)r2dr.
+
+if r≤ R
+if r> R.
+M∶= m(R)= 4π∫ R
+m(r)= m(R)= M.
+
+0
+
+Rs∶= A(R)= 2G
+A(r)= 2G
+
+m(R)= 2GM
+m(r).
+m(r)= Rs
+
+c2
+
+c2
+
+.
+
+c2
+
+M
+
+Thus, for all r≥ R, we have:
+
+(b) The Schwarzschild radius is defined by:
+
+Therefore, we have:
+
+Let’s analyze both examples.
+
+David Pigeon
+
+103
+
+Practical Calculations in General Relativity
+
+CHAPTER 2. PRACTICAL RESOLUTION IN THE CASE OF SPHERICALLY SYMMETRIC
+METRICS
+
+2.2. CASE WHERE THE FUNCTIONS ˙B AND ξ ARE ZERO.
+
+α∶= κρc2 , β∶= κP.
+r )−1
+r ) dt⊗ dt−(1− Rs
+α∶= κρc2− Λ , β∶= κP+ Λ.
+3 )−1
+r + Λr2
+3 ) dt⊗ dt−(1− Rs
+
+(1) We consider the case where:
+
+Using example (1) from 2.2.3.2, the metric has the form:
+
+h=(1− Rs
+
+dr⊗ dr− r2hΩ.
+
+Using example (3) from 2.2.3.2, the metric has the form:
+
+dr⊗ dr− r2hΩ.
+
+(3) We consider the case where:
+
+r + Λr2
+
+h=(1− Rs
+For r> R, the metric h is static.
+
+Corollary 2.2.3.3: Static Metric
+
+Proof. Since v is independent of time and:
+
+Thus, u is independent of t. Therefore, the metric h is static for r> R.
+By(E1) and(E2), we also see that β and γ are independent of t for r> R.
+
+u= ln(c)− v
+
+2.2.4
+
+Interior Metric
+
+We assume that:
+
+● α is constant on[0, R], i.e., there exists a constant α0 such that α= α0 on[0, R]. We assume that:
+α= α0< 3
+√
+3− α0r2 appearing in the results of this subsection.
+
+R2
+
+The condition on α0 is due to the square root
+
+● γ∶= β, β is independent of t, and β is continuous at r= R. We define:
+● for all r> R, we have:
+
+βR∶= β(R−)= β(R+).
+α(r)=−β(r).
+
+This condition will allow us to match the interior metric with the exterior metric.
+
+Throughout this subsection, we have:
+
+α0
+0
+0
+0
+
+r≤ R ∶ Sjl∶=⎛⎜⎜⎜⎝
+α(r)
+r> R ∶ Sjl∶=⎛⎜⎜⎜⎝
+
+0
+0
+0
+
+0
+
+β(r)
+−α(r)
+
+0
+0
+
+0
+
+0
+0
+
+0
+0
+0
+
+⎞⎟⎟⎟⎠
+β(r)
+−α(r)
+
+0
+0
+0
+
+⎞⎟⎟⎟⎠
+
+0
+
+0
+0
+
+β(r)
+−α(r)
+
+0
+0
+
+0
+
+Practical Calculations in General Relativity
+
+104
+
+David Pigeon
+
+CHAPTER 2. PRACTICAL RESOLUTION IN THE CASE OF SPHERICALLY SYMMETRIC
+METRICS
+
+2.2. CASE WHERE THE FUNCTIONS ˙B AND ξ ARE ZERO.
+
+Therefore, on[0, R] we have:
+
+A(r)=∫ r
+= α0r3
+
+0
+
+3
+
+α0r2dr
+
+Theorem 2.2.4.1: Interior Metric
+
+For r≤ R, we have:
+h=
+
+√
+
+(3(α0+ βR)√
+
+c2
+3α2
+0
+
+4
+
+Proof. By(B1) and since γ= β, we have:
+
+3− α0R2−(α0+ 3βR)√
+′=− β′
+α0+ β
+
+u
+
+.
+
+Thus, there exists a constant C1 such that:
+
+3− α0r2)2
+
+dt⊗ dt−
+
+dr⊗ dr− r2hΩ.
+
+3− α0r2
+
+3
+
+We have:
+
+and:
+
+u=− ln∣α0+ β∣+ C1.
+α0+ β= G00+ G11
+′)
+−2v(v
+′+ u
+= 2r
+−1e
+r)(v
+′)
+′+ u
+= 2r
+−1(1− A
+3 )(v
+′)
+′+ u
+−1(1− α0r2
+= 2r
+reC1= r exp(u+ ln∣α0+ β∣)
+= reu∣α0+ β∣
+−2v∣v
+= reu(2r
+′∣)
+′+ u
+−1e
+−2v∣v
+′∣> 0
+= 2eue
+′+ u
+−2v∣v
+′∣
+reC1= 2eue
+′+ u
+−2v(v
+′)
+= 2εeue
+′+ u
+−2v)
+dr(e
+= 2εu
+−2v− εeu d
+′
+= 2εu
+3 )+ 2εα0r
+eu(1− α0r2
+′
+= 2ε(1− α0r2
+3 ) U
+′+ 2εα0r
+(E) ∶ 2ε(1− α0r2
+3 ) y
+′+ 2εα0r
+
+eue
+
+U.
+
+3
+
+3
+
+3
+
+eu
+
+y= reC1
+
+Thus, by continuity of v′+ u′, ε∈{±1} such that∣v′+ u′∣= ε(v′+ u′). With U∶= eu, we have:
+
+Thus, U is a solution of the differential equation:
+
+David Pigeon
+
+105
+
+Practical Calculations in General Relativity
+
+CHAPTER 2. PRACTICAL RESOLUTION IN THE CASE OF SPHERICALLY SYMMETRIC
+METRICS
+
+2.2. CASE WHERE THE FUNCTIONS ˙B AND ξ ARE ZERO.
+
+We have:
+
+which means 1− α0/r2≥ 0. Thus, the homogeneous solutions are generated by the function:
+1− α0r2
+
+ln(1− α0r2/3))=√
+
+r↦ exp(−∫ r
+
+r2
+
+.
+
+0
+
+3
+
+We have the constant particular solution:
+
+α0< 3
+R2≤ 3
+2εα0r/3
+2ε(1− α0r2/3) dr)= exp( 1
+r↦ 3εeC1
+√
++ C2
+
+2α0
+
+2
+
+.
+
+2α0
+
+1− α0r2
+
+U= 3εeC1
+reC1= reu∣α0+ β∣= εr(α0+ β) U
+
+3
+
+.
+
+Thus, there exists a constant C2 such that:
+
+Let’s calculate the two constants C1 and C2.
+
+● Using β(R−)= βR= β(R+). We have:
+
+⎞⎠
+1− α0R2
+
+3
+
+3
+
+e
+
+2α0
+
+2α0
+
+εeC1
+2α0
+
+which means:
+
+which means:
+
+and thus at R−, we have:
+
+−C1(α0+ β) U= ε
+ε= e
+−C1(α0+ β(R−)) U(R)
+= e
+−C1(α0+ βR) U(R)
+√
+−C1(α0+ βR)⎛⎝ 3εeC1
+= e
+1− α0R2
++ C2
+√
+= 3ε(α0+ βR)
++ C2(α0+ βR) e
+−C1
+√
+(α0+ βR)
+1− α0R2
+=−C2
+(α0+ 3βR)
+● Using the continuity of the metric at R. Since:
+g00(R−)= g00(R+)
+3 )= c2(1− A(R)
+R )
+= g00(R+)
+= g00(R−)
+= e2u(R−)
+= U(R−)2
+√
+=⎛⎝ 3εeC1
+⎞⎠2
++ C2
+=⎛⎝−3C2
+(α0+ βR)
+1− α0R2
+3 + C2
+(α0+ 3βR)
+(α0+ 3βR)2(1− α0R2
+= 4C2
+3 )
+
+1− α0R2
+√
+
+c2(1− α0R2
+
+we have:
+
+2α0
+
+α2
+0
+
+3
+
+3
+
+2
+
+.
+
+√
+
+1− α0R2
+
+3
+
+⎞⎠2
+
+Practical Calculations in General Relativity
+
+106
+
+David Pigeon
+
+CHAPTER 2. PRACTICAL RESOLUTION IN THE CASE OF SPHERICALLY SYMMETRIC
+METRICS
+
+2.2. CASE WHERE THE FUNCTIONS ˙B AND ξ ARE ZERO.
+
+Corollary 2.2.4.2: Integral form and central value of β
+
+which means:
+
+and thus:
+
+Thus, we have:
+
+Therefore, we have:
+
+Hence the result.
+
+(i) We have:
+
+(ii) We have:
+
+Proof. We have:
+
+Therefore, we have:
+
+2α0
+
+2α0
+
+εeC1
+2α0
+
+C2=± c(α0+ 3βR)
+√
+=∓ c(α0+ βR)
+1− α0R2
+√
+√
+eu= U=∓ 3c(α0+ βR)
+3 ± c(α0+ 3βR)
+1− α0R2
+1− α0r2
+⎛⎝3(α0+ βR)√
+3 −(α0+ 3βR)√
+⎞⎠2
+1− α0r2
+1− α0R2
+e2u= c2
+3− α0R2−(α0+ 3βR)√
+(3(α0+ βR)√
+√
+3− α0r2)2
+=
+
+2α0
+
+2α0
+
+3
+
+3
+
+3
+
+.
+
+4α2
+0
+c2
+3α2
+0
+
+4
+
+.
+
+.
+
+3
+
+eu=∓ 3c(α0+ βR)
+
+(α0+ 3βR)√
+3(α0+ βR)√
+β= α0
+r→0+ β= α0
+βc∶= lim
+
+3− α0r2−(α0+ βR)√
+3− α0R2
+3− α0R2−(α0+ 3βR)√
+3− α0r2
+3−(α0+ βR)√
+(α0+ 3βR)√
+3− α0R2
+3(α0+ βR)√
+3− α0R2−(α0+ 3βR)√
+α0+ β= εeC1e
+−u
+√
+3 ± c(α0+ 3βR)
+1− α0R2
+εeC1=∓c(α0+ βR)√
+1− α0R2
+−u− α0
+β= εeC1e
+∓2cα0(α0+ βR)√
+1− α0R2/3
+1− α0R2/3± c(α0+ 3βR)√
+∓3c(α0+ βR)√
+=
+1− α0r2/3
+2α0(α0+ βR)√
+3− α0R2
+3(α0+ βR)√
+3− α0R2−(α0+ 3βR)√
+=
+3− α0r2− α0
+3− α0r2−(α0+ βR)√
+(α0+ 3βR)√
+3− α0R2
+3− α0R2−(α0+ 3βR)√
+3(α0+ βR)√
+= α0
+3− α0r2
+
+√
+1− α0r2
+
+2α0
+
+2α0
+
+3
+
+3
+
+.
+
+− α0
+
+Hence the result for βc by taking the limit r→ 0.
+
+David Pigeon
+
+107
+
+Practical Calculations in General Relativity
+
+CHAPTER 2. PRACTICAL RESOLUTION IN THE CASE OF SPHERICALLY SYMMETRIC
+METRICS
+
+2.2. CASE WHERE THE FUNCTIONS ˙B AND ξ ARE ZERO.
+
+Example 2.2.4.3: Sequence 3 - Two simple examples
+
+We revisit examples (1) and (3) from 2.2.3.2 of the perfect fluid with or without a cosmological
+constant (also see 2.1.2.1, 2.2.0.1, and 2.2.2.2). For both examples, we assume the existence of a
+
+constant R> 0 such that:
+
+dr⊗ dr− r2hΩ
+
+Thus, we have:
+
+We will consider the two examples.
+
+(1) We are in the case where:
+
+We observe that:
+
+(i) The metric takes the form:
+
+(ii) We have:
+
+(iii) We have:
+
+(3) We are in the case where:
+
+We observe that:
+
+3
+
+3
+
+0
+
+0
+
+4
+
+R
+
+r2
+
+R3
+
+R3
+
+α0R2
+
+3
+α0r2
+
+⎛⎝3
+
+h= c2
+
+if r≤ R
+if r> R.
+
+ρ(r)∶={ ρ0
+
+, P(r)∶={ P(r)
+if r≤ R
+if r> R.
+PR= P(R−)= P(R+)= 0
+α∶= κρc2 , β∶= κP.
+= A(R)
+R = Rs
+R2= Rsr2
+= α0R2
+R −√
+√
+⎞⎠2
+R3 )−1
+dt⊗ dt−(1− r2Rs
+1− r2Rs
+1− Rs
+√
+1− Rsr2/R3−√
+1− Rs/R
+1− Rs/R−√
+√
+P= ρ0c2
+1− Rsr2/R3
+r→0+ P= ρ0c2 1−√
+1− Rs/R
+√
+Pc∶= lim
+1− Rs/R− 1
+α∶= κρc2− Λ , β∶= κP+ Λ.
+= Rs
+R − ΛR2
+= α0R2
+R2= Rsr2
+R3 − Λr2
+βR= β(R−)= β(R+)= Λ.
+√
+3 −√
+⎞⎠2
+R3 + Λr2
+R + ΛR2
+1− r2Rs
+1− Rs
+√
+1− Rsr2/R3+ Λr2/3−√
+1− Rs/R+ ΛR2/3−√
+√
+P= ρ0c2
+r→0+ P= ρ0c2 1−√
+√
+Pc∶= lim
+
+3
+α0r2
+
+α0R2
+
+3
+r2
+
+3
+
+3
+
+3
+
+3
+
+3
+
+3
+
+3
+
+.
+
+.
+
+3
+
+(i) The metric takes the form:
+
+Thus, we have:
+
+h= c2
+
+4
+
+⎛⎝3
+
+(ii) We have:
+
+(iii) We have:
+
+dr⊗ dr− r2hΩ
+
+3 )−1
+dt⊗ dt−(1− r2Rs
+R3 + Λr2
+1− Rs/R+ ΛR2/3
+1− Rsr2/R3+ Λr2/3
+1− Rs/R+ ΛR2/3
+1− Rs/R+ ΛR2/3− 1
+
+.
+
+.
+
+Practical Calculations in General Relativity
+
+108
+
+David Pigeon
+
+CHAPTER 2. PRACTICAL RESOLUTION IN THE CASE OF SPHERICALLY SYMMETRIC
+METRICS
+
+2.2. CASE WHERE THE FUNCTIONS ˙B AND ξ ARE ZERO.
+
+2.2.5 Case where β(r)= 0 for r> R
+
+We consider the conditions from the previous subsection. Additionally, we assume the existence of two
+tensors:
+
+r≤ R ∶ S(1)
+
+jl
+
+∶=⎛⎜⎜⎜⎝
+
+α0
+0
+0
+0
+
+⎞⎟⎟⎟⎠
+
+0
+0
+0
+
+µβ(r)+ δ(r)
+
+β(r)
+
+jl
+
+0
+
+0
+
+0
+
+0
+0
+
+0
+0
+
+0
+0
+
+0
+0
+0
+
+λα0
+0
+0
+0
+
+⎞⎟⎟⎟⎠ , S(2)
+β(r)
+β(r)
+∶=⎛⎜⎜⎜⎝
+r> R ∶ S(1)
+δ(r)∶={ δ(r)
+
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+
+∶=⎛⎜⎜⎜⎝
+µβ(r)+ δ(r)
+∶=⎛⎜⎜⎜⎝
+⎞⎟⎟⎟⎠ , S(2)
+if r≤ R
+if r> R.
+
+0
+
+jl
+
+jl
+
+0
+
+0
+0
+
+µβ(r)+ δ(r)
+⎞⎟⎟⎟⎠
+
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+
+Next, we will study the Newtonian limits of the obtained formulas. Let us recall the classical definition
+
+jl are solutions of the five fundamental equations discussed earlier.
+
+where α0, λ, and µ are real constants, and:
+
+We assume that S(1)
+
+jl and S(2)
+
+of the Newtonian limit.
+
+Example 2.2.5.1: Newtonian limit
+
+In the usual Newtonian limit, we require:
+
+(1) The velocity v of the fluid is much smaller than the speed of light, i.e., v<< c. This implies:
+
+(2) The Schwarzschild radius is much smaller than the position r and the radius R, i.e.,
+
+In the case G∶=∶ c= 1, we have:
+
+Definition 2.2.5.2: Definition of the Newtonian limit
+
+Let’s consider a tensor:
+
+2
+
+c2
+
+ρv2<< ρc2.
+P≡ 1
+<< r, R.
+Rs= 2GM
+P<< ρ
+m(r), M, Rs<< r, R
+Sjl∶=⎛⎜⎜⎜⎝
+
+β(r)
+
+β(r)
+
+α0
+0
+0
+0
+
+0
+0
+
+0
+0
+
+0
+
+⎞⎟⎟⎟⎠
+
+0
+0
+0
+
+0
+
+β(r)
+α0r2, α0R2<< 1.
+β<< α0.
+
+We say that a tensor Sjl satisfies the Newtonian condition if it fulfills the following conditions:
+
+(i) We have:
+
+(ii) We have:
+
+David Pigeon
+
+109
+
+Practical Calculations in General Relativity
+
+CHAPTER 2. PRACTICAL RESOLUTION IN THE CASE OF SPHERICALLY SYMMETRIC
+METRICS
+
+2.2. CASE WHERE THE FUNCTIONS ˙B AND ξ ARE ZERO.
+
+Suppose that Sjl satisfies the five fundamental equations and the Newtonian condition.
+
+Proposition 2.2.5.3: Newtonian approximation of β
+
+Let’s consider a tensor:
+
+(i) Then we have:
+
+(ii) Then we have:
+
+Sjl∶=⎛⎜⎜⎜⎝
+
+α0
+0
+0
+0
+
+β(r)
+
+0
+
+0
+0
+
+β(r)
+
+0
+0
+0
+
+⎞⎟⎟⎟⎠
+
+0
+
+0
+
+0
+0
+
+R2.
+
+0
+12
+
+β(r)
+12(R2− r2) .
+β≈ α2
+βc≈ α2
+(i) Since β(r)= 0 for r> R (and thus βR= 0), we have:
+3− α0r2−√
+√
+3− α0R2
+3− α0R2−√
+√
+β= α0
+3− α0r2
+1− α0r2/3−√
+√
+1− α0R2/3
+1− α0R2/3−√
+√
+= α0
+1− α0r2/3
+(1− α0r2/6)−(1− α0R2/6)
+= α0
+12(R2− r2)
+≈ α2
+βc= lim
+r→0+ β(r)≈ α2
+
+R2.
+
+2
+
+3
+
+3
+
+0
+
+0
+12
+
+(ii) We have:
+
+Proof.
+
+Example 2.2.5.4: Example 4 - Two simple examples
+
+We revisit the example of 2.2.4.3 of a perfect fluid without a cosmological constant (also
+see 2.1.2.1, 2.2.0.1, 2.2.2.2, and 2.2.3.2). Suppose that:
+
+In the Newtonian approximation, we recover the standard approximations:
+
+P.
+
+ρ0 , β∶= 8πG
+0(R2− r2)
+
+ρ2
+
+c4
+
+c2
+
+α0∶= 8πG
+P≈ 2πG
+Pc≈ 2πG
+
+3
+
+3
+
+0R2
+ρ2
+
+Proposition 2.2.5.5: Conditions for having two equal TOVs
+
+Suppose that S(1)
+
+jl and S(2)
+
+jl are solutions to the five fundamental equations.
+
+Practical Calculations in General Relativity
+
+110
+
+David Pigeon
+
+CHAPTER 2. PRACTICAL RESOLUTION IN THE CASE OF SPHERICALLY SYMMETRIC
+METRICS
+
+2.2. CASE WHERE THE FUNCTIONS ˙B AND ξ ARE ZERO.
+
+(i) We have:
+
+δ= α0
+
+(3− µ)F(R2)F(λr2)+(1− 3µ)F(r2)F(λR2)+ 3(µ− 1)[F(R2)F(λR2)+ F(r2)F(λr2)]
+
+(3F(λR2)− F(λr2))(3F(R2)− F(r2))
+
+where:
+
+F(x)∶=√(3− α0x).
+
+Proof.
+
+(ii) In the Newtonian approximation, we have:
+
+24[(3− µ)(R2+ λr2)+(1− 3µ)(r2+ λR2)+ 3(µ− 1)(1+ λ)(r2+ R2)] .
+δ≈ α2
+
+0
+
+(i) By Corollary 2.2.4.2, we have two integral forms for β and µβ+ δ:
+√
+3− α0r2−√
+3− α0R2
+√
+3− α0R2−√
+(F1) ∶ β= α0
+3− α0r2
+3− λα0r2−√
+√
+3− λα0R2
+3− λα0R2−√
+√
+(F2) ∶ µβ+ δ= α0
+3− λα0r2
+By subtracting µ(F1) from(F2), we obtain:
+3− α0r2−√
+√
+3− α0R2
+3− λα0R2
+√
+3− α0R2−√
+3− λα0r2− µα0
+δ= α0
+3− α0r2
+= α0
+
+3− λα0r2−√
+√
+√
+3− λα0R2−√
+(3− µ)F(R2)F(λr2)+(1− 3µ)F(r2)F(λR2)+ 3(µ− 1)[F(R2)F(λR2)+ F(r2)F(λr2)]
+
+(3F(λR2)− F(λr2))(3F(R2)− F(r2))
+
+3
+
+3
+
+3
+
+3
+
+(ii) We have:
+
+α0r2, α0R2<< 1.
+Therefore, for x∶= r2, R2, λr2, λR2, we have:
+F(x)≈√
+3(1− α0x
+6 ) .
+
+Thus, we have:
+
+24[(3− µ)(R2+ λr2)+(1− 3µ)(r2+ λR2)+ 3(µ− 1)(1+ λ)(r2+ R2)] .
+δ≈ α2
+
+0
+
+Corollary 2.2.5.6: Case λ∶=−1 and µ∶= 1
+We consider the case where λ∶=−1 and µ∶= 1.
+δ= 2α0
+
+(i) We have:
+
+(ii) In the Newtonian approximation, we have:
+
+(a) We have:
+
+F(R2)F(−r2)− F(r2)F(−R2)
+(3F(−R2)− F(−r2))(3F(R2)− F(r2)) .
+
+6 (R2− r2)≈ 2β.
+δ≈ α2
+
+0
+
+David Pigeon
+
+111
+
+Practical Calculations in General Relativity
+
+CHAPTER 2. PRACTICAL RESOLUTION IN THE CASE OF SPHERICALLY SYMMETRIC
+METRICS
+
+2.2. CASE WHERE THE FUNCTIONS ˙B AND ξ ARE ZERO.
+
+We revisit the example from 2.2.5.4 of a perfect fluid without a cosmological constant (also
+see 2.1.2.1, 2.2.0.1, 2.2.2.2, 2.2.3.2, and 2.2.4.3). We assume that:
+
+(b) We have:
+
+S(1)
+
+jl ≈⎛⎜⎜⎜⎝
+
+α0 0 0 0
+0 0 0
+0
+0
+0 0 0
+0 0 0
+0
+
+−α0 0 0 0
+⎞⎟⎟⎟⎠ , S(2)
+⎞⎟⎟⎟⎠ .
+jl ≈⎛⎜⎜⎜⎝
+
+0 0 0
+0 0 0
+0 0 0
+
+0
+0
+0
+
+Example 2.2.5.7: Example 6 - Perfect Fluid
+
+α0∶= 8πG
+We consider the case where λ∶=−1 and µ∶= 1.
+
+(i) We have:
+
+with:
+
+δ= 2
+
+8πG
+c2
+
+ρ0
+
+(ii) In the Newtonian approximation, we have:
+
+c4
+
+c2
+
+P.
+
+ρ0 , β∶= 8πG
+F(R2)F(−r2)− F(r2)F(−R2)
+(3F(−R2)− F(−r2))(3F(R2)− F(r2))
+F(x)∶=√
+δ≈ 2πG
+
+3− 8πGρx/c2.
+0(R2− r2)≈ 2P.
+− 8πG
+⎞⎟⎟⎟⎠ , S(2)
+jl ≈⎛⎜⎜⎜⎝
+
+ρ2
+
+3
+
+c2 ρ0 0 0 0
+0 0 0
+0
+0
+0 0 0
+0 0 0
+0
+
+⎞⎟⎟⎟⎠ .
+
+S(1)
+
+jl ≈⎛⎜⎜⎜⎝
+
+8πG
+c2 ρ0 0 0 0
+0 0 0
+0
+0
+0 0 0
+0 0 0
+0
+
+(a) We have:
+
+(b) We have:
+
+2.2.6 Example of the Reissner-Nordstr¨om Metric
+
+In this subsection, we study the Reissner-Nordstr¨om metric. It corresponds to the gravitational field of a
+non-rotating, spherically symmetric, charged body with mass M and charge q.
+
+We start with a proposition.
+
+Suppose that for all r> R:
+
+Proposition 2.2.6.1: Simple expression of α and β
+
+Let:
+
+Then, for r> R:
+
+h= c2(1− As
+
+r − ν0r2
+3 + ν1
+
+.
+
+r4
+
+α(r)=−β(r)= ν0+ ν1
+As∶= A(R)− ν0R3
+3 + ν1
+r2)−1
+3 + ν1
+r − ν0r2
+r2) dt⊗ dt−(1− As
+
+R
+
+.
+
+dr⊗ dr− r2hΩ.
+
+Practical Calculations in General Relativity
+
+112
+
+David Pigeon
+
+CHAPTER 2. PRACTICAL RESOLUTION IN THE CASE OF SPHERICALLY SYMMETRIC
+METRICS
+
+2.2. CASE WHERE THE FUNCTIONS ˙B AND ξ ARE ZERO.
+
+Proof. For r> R, we have:
+
+0
+
+0
+
+R
+
+A(r)=∫ r
+α(r)r2dr
+α(r)r2dr+∫ r
+=∫ R
+α(r)r2dr
+= A(R)+∫ r
+ν0r2dr+∫ r
+R+ ν0r3
+3 + ν1
+3 − ν1
+= A(R)− ν0R3
+= As+ ν0r3
+3 − ν1
+r − ν0r2
+r = 1− As
+3 + ν1
+1− A
+
+ν1
+r2
+
+dr
+
+r2
+
+r
+
+r
+
+R
+
+R
+
+.
+
+Thus, we have:
+
+The energy-momentum tensor is derived from the electromagnetic tensor. We assume that there is no
+magnetic field, and the electric field has only a radial component. We provide the definition of the energy-
+momentum tensor.
+
+Definition 2.2.6.2: Definition of the energy-momentum tensor
+
+In spherical polar coordinates, the energy-momentum tensor is defined as:
+
+µ0
+
+Tjl∶= 1
+, Fjl∶=⎛⎜⎜⎜⎝
+−Er/c
+
+0
+0
+
+0
+
+4
+
+ηjlFikF ik− ηlkFjiF ki)
+( 1
+Er/c 0 0
+⎞⎟⎟⎟⎠ , F jl∶=⎛⎜⎜⎜⎝
+Er/c
+
+0 0
+0 0
+0 0
+
+0
+0
+0
+
+0
+0
+
+0
+
+−Er/c 0 0
+
+0
+0
+0
+
+0 0
+0 0
+0 0
+
+⎞⎟⎟⎟⎠
+
+where:
+
+Er∶= Q
+
+4πε0r2
+
+The energy-momentum tensor has a simple form.
+
+Lemma 2.2.6.3: Value of the components of the energy-momentum tensor
+
+We have:
+
+where:
+
+Proof. Since:
+
+⎞⎟⎟⎟⎠
+
+0
+0
+0
+
+−1
+
+Tjl= Φ
+
+1
+
+0
+0
+
+−1 0
+⎛⎜⎜⎜⎝
+0 −1
+Φ∶=− GQ2
+
+0
+0
+0
+
+r4
+
+4πε0c4r4
+
+0
+
+0
+
+.
+
+F01F 01= F10F 10
+
+David Pigeon
+
+113
+
+Practical Calculations in General Relativity
+
+CHAPTER 2. PRACTICAL RESOLUTION IN THE CASE OF SPHERICALLY SYMMETRIC
+METRICS
+
+2.2. CASE WHERE THE FUNCTIONS ˙B AND ξ ARE ZERO.
+
+we have:
+
+4
+
+µ0
+
+( 1
+Tjl= 1
+( 1
+= 1
+( 1
+= 1
+= F01F 01
+
+ηjlFikF ik− ηlkFjiF ki)
+ηjl(F01F 01+ F10F 10)− ηlkFj0F k0− ηlkFj1F k1)
+ηjlF01F 01− ηl1δj,1F01F 01− ηl0δj,0F01F 01)
+( 1
+
+ηjl− ηl1δj,1− ηl0δj,0)
+
+µ0
+
+µ0
+
+4
+
+2
+
+µ0
+
+2
+
+We have two cases.
+
+(1) Case j≠ l. We have:
+
+(2) Case j= l. We have:
+
+And since c2ε0µ0= 1, we have:
+
+Tjl= F01F 01
+= 0
+
+µ0
+
+( 1
+
+2
+
+ηjl− ηl1δj,1− ηl0δj,0)
+
+η00− η01δ0,1− η00δj,0)
+η11− η11δ1,1− η10δ1,0)
+η22− η21δ2,1− η20δ2,0)
+η33− η31δ3,1− η30δ3,0)
+
+2
+
+2
+
+µ0
+
+µ0
+
+2µ0
+
+T00= F01F 01
+( 1
+=− F01F 01
+( 1
+T11= F01F 01
+= F01F 01
+T22= F01F 01
+( 1
+=− F01F 01
+T33= F01F 01
+( 1
+=− F01F 01
+
+2µ0
+
+2µ0
+
+µ0
+
+µ0
+
+2
+
+2
+
+2µ0
+
+F01F 01
+
+2µ0
+
+2µ0c2
+
+=− Er
+=− GQ2
+= Φ
+
+r4
+
+4πε0c4r4
+
+Practical Calculations in General Relativity
+
+114
+
+David Pigeon
+
+CHAPTER 2. PRACTICAL RESOLUTION IN THE CASE OF SPHERICALLY SYMMETRIC
+METRICS
+
+2.2. CASE WHERE THE FUNCTIONS ˙B AND ξ ARE ZERO.
+
+We use the notations from the examples in this chapter (see, for example, 2.1.2.1) with:
+
+r4
+
+r4
+
+−Λ+ Φ0
+Λ− Φ0
+
+if r≤ R
+α(r)∶={ κc2ρ(r)− Λ+ Φ(r)
+if r> R.
+β(r)∶={ κP(r)+ Λ− Φ(r)
+if r≤ R
+if r> R.
+γ(r)∶= δ(r)∶={ κP(r)+ Λ+ Φ(r)
+Λ+ Φ0
+Q= Q2G
+⎞⎠ dt⊗ dt−⎛⎝1− Rs
+
+r − Λr2
+
+3 + R2
+
+4πε0c4
+
+Q
+r2
+
+R2
+
+r4
+
+.
+
+if r≤ R
+if r> R.
+
+3 + R2
+
+Q
+r2
+
+⎞⎠
+−1
+
+dr⊗ dr− r2hΩ
+
+Let’s define:
+
+For r> R, we have:
+h=⎛⎝1− Rs
+
+r − Λr2
+
+David Pigeon
+
+115
+
+Practical Calculations in General Relativity
+
+CHAPTER 2. PRACTICAL RESOLUTION IN THE CASE OF SPHERICALLY SYMMETRIC
+METRICS
+
+2.2. CASE WHERE THE FUNCTIONS ˙B AND ξ ARE ZERO.
+
+Practical Calculations in General Relativity
+
+116
+
+David Pigeon
+
+Bibliography
+
+[1] R. Adler, M. Bazin, M Schiffer, Introduction to General Relativity, First ed., McGraw-Hill Book Com-
+
+pany, (1965).
+
+[2] E. Cartan, Sur les vari´et´es `a connexion affine et la th´eorie de la relativit´e g´en´eralis´ee, Annales scien-
+
+tifiques de l’´Ecole Normale Sup´erieure, S´erie 3, Tome 40, pp. 325-412, (1923).
+
+[3] A. Einstein, Die Feldgleichungen der Gravitation, Sitzungsberichte der Preussischen Akademie der Wis-
+
+senschaften zu Berlin, (1915).
+
+[4] A. Friedmann, ¨Uber die Kr¨ummung des Raumes, Z. Phys., vol. 10, no 1, p. 377-386, (1922).
+
+[5] A. Friedmann, ¨Uber die M¨oglichkeit einer Welt mit konstanter negativer Kr¨ummung des Raumes, Z.
+
+Phys., vol. 21, no 1, p. 326-332, (1924).
+
+[6] S. Gallot, D. Hulin, J. Lafontaine, Riemannian Geometry, Springer-Verlag, (2004).
+
+[7] G. B. Jeffery, The field of an electron on Einstein’s theory of gravitation, Proc. R. Soc. Lond. A. 99 (697),
+
+(1921).
+
+[8] S. Kobayashi, Theory of Connections, Ann. Mat. Pura Appl., 43: 119–194, (1957).
+
+[9] S. Kobayashi, K Nomizu, Foundations of Differential Geometry, Vol.I, Wiley Interscience, (1963).
+
+[10] G. Lemaitre, Un univers homog`ene de masse constante et de rayon croissant rendant compte de la
+vitesse radiale des n´ebuleuses extragalactiques, Annales de la Soci´et´e scientifique de Bruxelles, p. 49-56,
+(1927).
+
+[11] M. Ludvigsen, General Relativity: A Geometrical Approach, Cambridge University Press, (1999).
+
+[12] G. Nordstr¨om, On the Energy of the Gravitational Field in Einstein’s Theory, Verhandl. Koninkl. Ned.
+
+Akad. Wetenschap, Afdel Natuurk, Amsterdam 26: 1201–1208, (1918).
+
+[13] H. Reissner, ¨Uber die Eigengravitation des elektrischen Feldes nach der Einsteinschen Theorie, Annalen
+
+der Physik, 50 (9): 106–120, (1916).
+
+[14] H. P. Robertson, Kinematics and world-structure, Astrophys. J., vol. 82, no 4,, p. 284-301, (1935).
+
+[15] H. P. Robertson, Kinematics and world-structure. II, Astrophys. J., vol. 83, no 3, p. 187-201, (1936).
+
+[16] H. P. Robertson, Kinematics and world-structure. III, Astrophys. J., vol. 83, no 4, p. 257-271, (1936).
+
+[17] L. Schwartz, Les tenseurs, Hermann, (1975).
+
+[18] K. Schwarzschild, ¨Uber das Gravitationsfeld eines Massenpunktes nach der Einsteinschen Theorie,
+Sitzungsberichte der Deutschen Akademie der Wissenschaften zu Berlin, Klasse fur Mathematik, Physik,
+und Technik, p. 189, (1916).
+
+[19] K. Schwarzschild, ¨Uber das Gravitationsfeld einer Kugel aus inkompressibler Flussigkeit nach der Ein-
+steinschen Theorie, Sitzungsberichte der Deutschen Akademie der Wissenschaften zu Berlin, Klasse fur
+Mathematik, Physik, und Technik, p. 424, (1916).
+
+117
+
+BIBLIOGRAPHY
+
+BIBLIOGRAPHY
+
+[20] R. M. Wald, General Relativity, University of Chicago Press, (1984).
+
+[21] A. G. Walker, On Milne’s theory of world-structure, Proceedings of the London Mathematical Society,
+
+2e s´erie, vol. XLII, no 1, p. 90-127, (1937).
+
+[22] H. Weyl, Zur Gravitationstheorie, Annalen der Physik, 54 (18), (1917).
+
+Practical Calculations in General Relativity
+
+118
+
+David Pigeon
+
+

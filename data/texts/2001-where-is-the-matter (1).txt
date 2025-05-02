@@ -1,0 +1,1432 @@
+Twin matter against dark matter
+
+Jean-Pierre Petit, Pierre Midy and Frederic Landsheat
+
+Marseille Observatory, France 
+
+International Conference on Astrophysics and Cosmology "Where is the matter?"
+
+Marseille, France, June 25-29, 2001
+
+ 
+
+ 
+
+Abstract 
+
+Recent 3d mapping of dark matter (Fort and Meillier, 1999) implies the existence of "dark clusters",
+which would be exclusively composed by dark matter. Exploring a new way, one assume in a first
+step that dark matter owns  a  negative mass and energy and shows  it fits observational data: VLS,
+spiral  structure  formation,  confinement  and  rotation  curves  of  galaxies,  gravitational  lensing.  By
+passing  it suggests  a  possible scenario  for  galaxies'  formation. A  new  geometrical description  of
+matter-dark matter couple is proposed, through a two-points cover of a M4 manifold, forming a two
+folds ( F , F )  space-time structure. The fold F is called the twin fold (Sakharov 1967) and the matter
+it contains is called the twin matter. In such geometrical background matter and (negative mass and
+energy) twin matter interact  only through gravitational forces, the last  one being optically invisible
+from  our  fold  of  the  Universe.  Our  world  and  the  twin  world  being  disconnected  this  prevents
+encounters  between  opposite  energy  particles.  Group  theory  shows  that  matter-antimatter  duality
+holds  in  the  twin  universe  and  that  it  is  filled  by  CPT  and  PT-symmetrical  matter,  so  that  the
+Feynman  PT-symmetrical  antimatter  is  nothing  but  the  antimatter  of  the  twin  fold,  while
+CPT-symmetrical  composes  its  matter,  going  backwards  in  time,  enantiomorphic,  and  owing
+opposite electric charge. We present a coupled  field equations system. Exact solutions are derived,
+including spherically symmetric one, similar to Schwarzschild. We get conjugated geometries, with
+opposite scalar curvatures R = - R. It is shown that the presence of twin matter in an adjacent portion
+of space creates induced local negative curvature in our fold, which goes with negative gravitational
+lensing effect. Comparizon with observational data is discussed. As a cosmological model the couple
+universe-twin  universe  shows  different  histories.  The  twin  matter  acts  as  a  repulsive  matter  and
+accelerates the expansion of our universes, playing the role of a “cosmological constant”. Conversely
+the expansion  of the twin in  slowed down.  For  radiative era we  develop a variable speed  of light
+model, which  ensures  the homogeneity  of the  early  univers: the  inflation hypothesis  is  no longer
+necessary.  Time’s  nature  is  discussed. In  Newtonian  approximation,  joint  gravitational  instability
+theory is developed,  based on two coupled  Jeans-like equations. Starting from  the TOV  equation,
+we build a model of sleaking neutron star (SNS)  in which a central space bridge, connecting fold F
+and  F,  drains  off  any  excess  of  matter  in  the  twin  space,  preventing  geometrical  criticity.  This
+challenges black hole model, whose validity is contested on theoretical grounds. 
+
+1 of 42
+
+1- Introduction
+
+Dark matter is now  the unique answer to any astrophysical problem. It ensures the confinement of
+galaxies,  shapes  their rotation  curves,  is  responsible  on  the  observed strong  gravitational  lensing
+effects,  shapes  the  VLS.  A  today's  specialist  in  galactic  dynamics  deposits  ad  hoc  dark  matter
+distribution in each galaxy, in order to fit its observational rotation curve, which is now known with
+good accuracy, due to the  efforts of many observers. But galactic  dynamics, as conceived by men
+like Oort, Chandrasekhar, based on the joint resolution of Vlasov and Poisson equations is now  an
+empty box. The law of physics become fuzzy. In order to explain the problem due to new evaluation
+of  the  Hubble's  constant,  theoreticians  reactivate  the  so-called  cosmological  constant,  while
+physicists wonder where the "repulsive power of vacuum" comes from. Astronomy shows a strange
+paradox:  the observations  become  more  and  more precise,  richer  and  sophisticated  each year  but
+nobody knows how a galaxy works and forms. The contemporary epoch is devoted to the discovery
+of the  invisible.  As  the  Machos' research  finally failed,  after ten  years' effort,  all  speculations are
+now  considered, the  goal  being  to discover  what  dark  matter is  made  of.  Several research  teams
+stake on the  (indirect) observation of the  neutralino, an exotic  particle which is  supposed  to come
+from  the supersymmetry's  world and  depends  on 120  free  parameters (seven,  the specialists  say,
+with  some  convenient  and  reasonable  assumptions).  Active  search  of  "astroparticles"  starts
+everywhere, in new labs. In France, Fort and  Meillier have recently "mapped" dark matter, basing
+their  study  on the  observed  gravitational  lensing  effects.  Since  1989  they have  built  an  adequate
+method. They presented [1], march 2000,  a 3d map of some portion of the Universe, showing the
+invisible, the underlyling dark matter. But in 1994 the first discrepancy arises [2]. The two French
+researchers discover a portion of the sky where their analysis locates a large concentration of matter,
+desperately dark. In 1998 a new picture, from the CFHT  shows the  same phenomenon, near by the
+Abell 1942 galaxies' cluster. See figure 1.
+
+Fig.1: Arrow: the (dark) portion of the sky where the analysis of Fort and Meillier locates a
+concentration of dark matter equivalent to 5 1014 solar mass. The border of the exotic dark 
+
+matter cluster is indicated by closed dark loops.
+
+Puzzled, in order  to clear up the  problem, they decide to  make new observations  in different light
+frequencies. But this result is confirmed. If their method is correct a "dark cluster" lies there. As said
+Fort, interviewed in june 1999 [2]: "It seems difficult to me to think that such huge concentration of
+dark matter would have captured no galaxy nor gas". As their study refers to a square degree portion
+of the sky, it means than astrophysicists will have, in the future, when the whole sky will have been
+mapped with their method, to deal with some 10,000 "dark clusters". This shows that the question of
+the dark matter is far to be clear, today. There is a room for challenging approaches.
+
+2 of 42
+
+2- What about negative masses and energies?
+
+Can Universe contain both positive and negative masses, obviously owing negative energy? Today,
+all speculations about "exotic particles" are allowed. In a first step let us assume than our Universe is
+a mixture of positive and negative masses and see what happens. We can assume that this negative
+energy  matter  corresponds  to  some  sort  of an  exotic  matter,  which  would  interact  with  ordinary
+matter only though gravitational force, emit and capture no photon (i.e. this matter would be dark and
+invisible). Later we deal with another hypothesis, implying an "exotic geometry" (section 8). .Let us
+choose the laws of interaction (which will be justified latter too, in section 12).
+
+- positive masses attracts each other through Newton law.
+- negative masses attract each other through Newton law.
+- a positive mass m and a negative mass m repel each other through "anti-Newton law".
+
+Former  results  were  published  in  Nuevo  Cimento  in  1994  [3].  The  two  population  separate,
+experiencing joint gravitational instabilities. 
+
+3- 2d simulation of the VLS in terms of interaction of two populations, with opposite masses.
+
+In  1970  Zel'dovich  proposed  his  well-known  pancakes  theory  [5].  The  pancake  effect  was  first
+demonstrated by Doroshkevich and al.[6], Klypin and Shandarin  [7] , and Centrella & Mellot [8].
+Mellot and Shandarin (1990)] gave an elegant demonstration of the effect by using two-dimensional
+computations that afforded considerably better resolution for a given particle number [9]. Shandarin,
+Kofman and  Pogosyan  presented  a powerful  semi-analytic method  for predicting  the  positions of
+pancakes from the initial conditions [10] & [11]. More recently Mellot used a 3d set of 643 particles,
+with periodic boundary conditions. From Mellot, the density fluctuations remain small. As  pointed
+out by Peebles [12] "This cannot be the whole story, for the pancakes found are a transient effect:
+with increasing time the mass in the pancakes drains into clumps that are concentrated in all the three
+dimensions. This means that if the local sheet of galaxies was  a pancake, it must have been formed
+recently". Then Peebles asked: "could there be a second generation of pancakes that formed out of
+the first generation?" But he concluded immediately: "This does not follow from the analysis given
+here,  for  it  depends  on  the  continuity  of  the  velocity  field  that  allows  to  write  down  a  series
+expansion for the  evolution of the relative  positions. After the  formation of the  first generation of
+clumps, which might be the galaxies or their progenitors, the velocity field in general does not have
+the  coherence  length,  and  the  analysis  from  the continuity  does  not  apply".  As  a  conclusion  the
+pancake theory cannot describe, in the  present state, the observed large structure,  so  that let us  try
+something else: we take initial condition with uniform mass distributions for normal matter (that we
+simply call matter) and twin matter. ρ being the mass density of the matter and ρthe mass-distribution
+
+of the twin matter, we choose for initial conditions |ρo| = 64  ρo. At this level, just see what happens.
+We have performed 2d  numerical simulations  with two sets of 5000 mass-points,  that are supposed to
+represent some clusters of matter and twin matter, with masses M>0 and M <0 (which means that |M| =
+64 M).  We give these two sets maxwellian distributions of  2d thermal  velocities with <V> = 4 < V > .
+We neglect  the expansion  phenomena  (it  would  be very  difficult  to deal  with, for  we do  not  know
+how  to describe gravitational  force  in an expanding universe).  The  result is the following.  The  more
+massive population,  the twin matter's one, whose Jeans time is eight times shorter than the other one’s
+runs  the game  and  forms  clumps,  through  gravitational  instability, that repel and  confines  the other
+population  in  the remnant  place. We get  a 2d-cellular  structure.  The  characteristic  birth  time  of  the
+whole  structure  is close to the Jeans time of the heavier  population  (of  the negative  mass matter, the
+twin matter).
+
+3 of 42
+
+Fig. 2: Results of simulations performed by F.Lansheat.
+
+Left: twin matter clumps. Right: matter structure.
+
+ 
+
+These 2d simulations are remarkably stable in time. Of course, they are 2d simulations, so  that we
+must consider this result as an illustration of an idea. 3d simulation are far beyond the capabilities of
+our computational system. But we think that, in 3d, we would get 3d cells, looking like joint soap
+bubbles, centred around negative mass clusters. The general pattern depends on the initial conditions.
+The  larger  the  twin  matter  temperature,  the  bigger  are  the  clumps.  This  approach,  aiming  at  a
+modelisation of  the very large  scale structure of  the Universe,  is fundamentally different  from the
+classical approaches  based  on the  dark matter.  In classical  matter-dark matter  systems,  stability is
+problematic: gravitational instability, by rising up the density locally, increases the thermal velocities
+and makes the observed structures to disappear in time. The system with two repelling populations is
+qualitatively different, each population creating a potential barrier for the other one. This explains the
+great stability in time and space: the cells of matter keep the clumps of twin matter in place, and the
+clumps prevent the dissipation of the cellular structure.
+
+On  figure 5, call d the  diameter of a cell and Φ the diameter of  a clump. For  different given initial
+conditions, and randomized initial positions of mass-points, the number of clumps nc (and cells on
+the screen) does not change so much. The standard deviation obeys (a). Same thing for the masses
+and diameters of the clumps (b), (c)
+
+We  can  examine  some  features,  for  this  peculiar  numerical  computation.  Matter  forms  a  cellular
+
+4 of 42
+
+structure. Call  ρs  the mean  mass density  of matter  in  that structure.  Outside the  clumps,  the twin
+matter has a constant density (subscript e, for "external"), corresponding to (d)..The mean diameter
+of  the  clumps,  compared  to  the  mean  diameter  of  the  cells,  obeys  (e).    We  define  some  sort  of
+"pseudo-temperature", as a measure of the mean kinetic energy in these 2d gazes (f). Where we have
+(g).  T refers to a temperature (of a gas  of matter) before galaxies' formation. Can we estimate the
+effect of these hypothetic twin matter clumps on the light coming from distant sources? A  photon,
+located in our fold of the universe, cannot be captured by a twin matter particle, on pure geometric
+grounds. But twin matter clumps act on the photon’s paths by negative gravitational lensing. Can the
+presence  of  twin matter  clumps  be  evidenced  by  some  cosmological  test?  We can  build  a  rough
+evaluation, taking a non-realistic situation where the universe is described as euclidean and steady,
+that would fit  moderate distances. The diameters Φ  of the twin matter clumps  are very similar. As
+seen before, the standard deviations are weak so that we can figure space, over large distances, as a
+regular distribution of cells, with a spheroidal clump nested at the centre of each cell, and we can take
+the  same  diameter Φ  for  all  clumps.  Call  n the  number  of  density  of  the  clumps, assumed  to  be
+constant over space (h). A photon travels with the velocity c. The cross-section of a clump is (i). The
+encounter frequency is (remember that the photon cannot be absorbed by the clumps) (j). The mean
+free path is  (k).   Can we size the  number of galaxies whose  image would be altered by negative
+lensing effect, at a given distance r? From kinetic theory we know how to compute the probability to
+observe a free path of a given length r. It is (l).  Let (m) +  (n) then (o). p strongly depends on the
+value of  α. The probability η to get a gravitational lensing effect is 1 - p , which correspond to the
+curves: 
+
+Fig. 3: probability to observe anti-lensing (negative lensing) effect
+
+versus distance, for different values of Φ/d
+
+The computational results, presented in the paper, correspond to the value Φ/d ≈ 0.14. But dissipative
+processes may occur in the clumps, that could drastically reduce their diameter, transforming these
+objects.  The  today’s  averaged  ratio  (twin  matter  density  /  normal  matter  density)  |ρ|  /ρ  is  64.  If
+clumps transform into relatively small objects we could expect to get unaltered images from distant
+sources (quasars, galaxies). A cluster of galaxies, roughly speaking, acts as a biconvex lens. A twin
+matter clump would act as a concave lens. The images of distant galaxies, through such gravitational
+
+5 of 42
+
+lens, should appear smaller, fainter  and more numerous as pointed out  by Peebles (ref. [12], page
+311).
+
+4- A possible schema for galaxies' formation.
+
+When the cells  form, the two populations separate.  The twin matter clumps repel  an compress the
+ordinary  matter,  forming  the  cell's  walls.  In  these  walls  the  temperature  grows  and  this  peculiar
+geometric configuration is optimum for fast radiative energy dissipation. The subsequent decrease of
+temperature in the gas of the walls makes them gravitationally unstable, and proto galaxies form. In
+the same time twin matter takes place in the inter-galactic space and exert a counter-pressure on them,
+which ensures their confinement.
+
+Fig. 4: A possible schema for galaxies’ formation. Left, matter is compressed by repulsive effect of
+twin matter’s clumps, located at the centre of the cells. Right: fast radiative cooling of this matter,
+which becomes unstable an forms young galaxies.
+
+As wee  see this model bring new insights of astrophysical problems and deserves 3d computations.
+Let us look more closely to the question of the confinement of galaxies.
+
+5- Galaxies confined by surrounding twin matter counter-pressure.
+
+Everybody knows that no self-consistent model of a galaxy exists. Their description remains purely
+empirical.  The  galactic  dynamics  is  a  complete  mystery.  Today,  theoreticians  spray  ad  hoc
+distributions  of unidentified  dark  matter,  in order  to  fit  gas rotation  curves,  that's  all.  Let's try  to
+modelize  this  through  the  interaction  of  matter  and  surrounding  twin  matter.  We  start  from  the
+galaxy's density profile as given by Myamoto and Nagaï [13]:
+
+6 of 42
+
+Around,  we  install  a  succession  of  elliptic  twin  matter  shells,  owing  same  eccentricity,  whose
+density grows from the centre to infinite (see their density profile, figure 5, below). The Newtonian
+field created by such thick shell is given by simple analytic formula [14]. Now we  add the galaxy,
+which reinforces the gravitational field, mainly close to the centre, where the pressure force balances
+the  field.  As  shown  on  figure  3  the  gravitational  force  has  a  confining  z-component.  Such  a
+phenomenon might explain the anomalous large z-velocities, evidenced by Bahcall ( [16] and [17] )
+for K  stars. A  complete and  systematic study should be carried out  by this method. Finding these
+large velocities, Bahcall concludes that some dark matter must be present in the disk of the galaxies.
+According to our model, that could be due to the repulsive effect of:
+
+Fig. 5: Ad hoc twin matter distribution, for 3d confinement. 
+
+The density is constant between successive homothetic flat ellipsoids.
+
+surrounding  repulsive  dark  matter:  an  alternative  interpretation.  In  general,  starting  from
+observational  data, people  can  compute  the distribution  ρ
+(r,z)  of  "conventional"  dark matter  in
+
+dm
+
+space. Similarly, from same observational data, it is possible to build a corresponding distribution   
+ρ (r,z) of repulsive repulsive dark matter, through the method presented above. The local intensity of
+the gravitational field depends on the chosen distribution. Here we have used a system of concentric
+shells  figured  as a  set  of  thick  ellipsoids with  the  same  eccentricities  (but eccentricities  might  be
+different: any kind of distribution ρ (r,z) of repulsive repulsive dark matter can be managed by this
+method). We get a rotation curve, corresponding to gas orbiting in the z = 0 plane, good-looking, as
+shown on figure 7. The scale, shown, corresponds to figure 8.
+
+7 of 42
+
+ 
+
+ 
+
+ 
+
+8 of 42
+
+Fig. 6: Confining field and corresponding rotation curve
+
+ (circular velocity of m = +1 test-particle)
+
+Fig. 7: The galaxy, plus its environment of hot twin matter.
+
+Fig. 8: Combining the two fields we get a good-looking galactic rotation curve.
+
+The  repulsive  dark  matter  environment  acts  as  a  "box".  The  flatter  that  box,  the  stronger  the
+corresponding impact on the z-confinement effect is. With the chosen parameters, the z-confinement
+enlarges the velocity of the stars located at z = 0.2 dg (where dg is the overall diameter of the galaxy)
+by a factor 1.4. By the way, the presence of repulsive material at the vicinity of the galaxy explains
+the steep fall of the density at the periphery of the gas disk. The global gravitational field (acting on
+the repulsive dark matter) tends to enlarge the hole. But its pressure gradient balances it: if the galaxy
+was  removed, the  repulsive  dark matter  fills  the  hole. The  repulsive  dark  matter distribution  was
+shaped  on  empirical  grounds,  through  numerous  trials  and  various  sets  of  massive  ellipsoids.  It
+could  be  a  starting  point  for  full  3d  numerical  simulations,  which  are  beyond  our  today’s
+computational possibilities.  Moreover, we  believe that  a more  elegant model  could be  built, using
+Vlasov equations, coupled with Poisson  equation. By the way, are spheroidal galaxies confined in
+the  same  way,  nested  in  spheroidal  holes  managed  in  constant  density  twin  matter?  Isin’t
+contradictory  the the  Gauss  theorem  which  would tend  to give  a  zero Newtonian  field inside  the
+hole? To get the answer, go to section 18.
+
+6- Spiral structure.
+
+Since many years astrophysicists try to understand what produces the spiral patterns of the galaxies,
+and if it is a transient phenomenon or not. In 1959 Lindblad [18] suggested that the spiral arms could
+be  density  waves.  Later  Lin  and  Shu  regarded  the  spiral  pattern  as  a  wave  pattern  [19].  Their
+analysis,  based  on  the  set  of  the  equations  of  Vlasov  and  Poisson,  used  a  perturbation  method,
+which  could  not  provide  non-linear  patterns,  so  that  they  imagined  that  some  spiral  perturbation
+could appear  in the star  population and trigger  the gas,  whose  strongly non-linear  response could
+explain the observed Grand Design. Toomree  gave later theoretical arguments supporting this idea
+[20]. At the begining of the seventies, Toomree explored another interpretation of the spiral origin:
+the action of a companion [21]. This was extended later ([22] and [23]). In effect, some of the nicest
+examples of global spiral structures have close companions, like the well-known M51 [24], but not
+all the galaxies with global spiral structure have a close companion. Typically, a galaxy is composed
+by 1011 stars. In numerical simulations, one deals with 104 to 106 interacting objects, considered as
+self-gravitating  groups  of  stars.  Most  of  the  simulations  tried  so  far  were  2d,  and  neglected
+z-motions. Some fully calculations have been attempted [25]. A number of early simulations verified
+that isolated disks could be axisymmetrically unstable: a bar forms in the early stage of the evolution
+and, with relatively small change of amplitude, shape and pattern speed, and survives the end of the
+calculation.  But,  if  spiral  pattern  appears,  it  tends  to  disappear  quite  rapidly.  Transient  spiral
+structures appears in the initial stage of each run but, unless the bar instability has been suppressed,
+it heats the disk to temperatures suffocating the spirals [26].  The sweedish school has been pionneer
+in the study of interacting galaxies device [27] . See also reference [28]. But all the spiral galaxies are
+not interacting galaxies, so that the problem remains unsolved. In other works, based on numerical
+
+9 of 42
+
+simulations, people studied "impulsively perturbed galaxies",  omitting to describe the origin of the
+perturbation [29].  As  a conclusion we still do not have a convincing model explaining why  many
+galaxies have a spiral structure, barred or not, and if it  is or not a transient phenomenon. Through
+analytic  methods or  numerical  simulations many  people  suggested  different mechanisms,  evoked.
+Some think now that the solution requires a better knowledge of the physics of the galaxy, including
+dissipative  process.  Such  process  could  cool  the  material  of  the  spiral  arms  and  prevent  their
+dissipation,  but the  problem  is to  justify how  these  dissipative processs  occur.  In 1972  Toomree
+wrote [30]:  "Happily it remains  a subject  where it makes  sense to  start almost at  the beginning". 
+That is what we are going to do. This work  was  initiated by Frederic Landsheat at the begining of
+the nineties, through 2d simulations. To deal with border conditions, we used a classical periodical
+lattice.  With  such  method  (see  discussion  about  spatially  periodic  systems  in  F.Bouchet  and
+L.Hernquist, reference [31] and F.Bouchet, L.Hernquist and Y.Suto, reference [32] ) we obtained in
+1992 good looking films showing  the birth of a barred spiral (figure 9) with 2 x 5000 mass-points.
+The twin structure is not shown.  As for  VLS, the good surprise was  the remarkable stability of the
+Grand  Design,  over  50  turns.  Same  explanation:  the  surrounding  repellent  twin  matter  forms  a
+potential barrier which prevents spiral arms dissipation. On figure 9 the evolution of the momentum
+of  the  galaxy,  versus  the  number  of  turns.  When  the  grand  design  forms,  the  strong  observed
+slowing down is due to dynamical friction. Then, after few turns, tidal effects dominate.
+
+Fig. 9: Barred spiral (J.P.Petit & F.Landsheat, 1993)
+
+These  images  were  encouraging,  but  the  work  was  stopped  because  Landsheat,  who  worked  at
+DAISY, Germany, had to join a new lab where he could not use an adequate computational system.
+ 
+
+7- Gravitational lensing due to negative mass matter.
+
+In classical general relativity the (steady) geometry of space-time,  in and around a sphere filled by
+constant density matter, and surrounded by void is described by two joined metrics. The first is the
+"internal Schwarzschild metric":
+
+10 of 42
+
+with the condition:
+
+and the second the "external Schwarzschild metric":
+
+Classical gravitational lensing is computed with the second, where m, a simple integration constant,
+is chosen positive. Then the plane trajectory of a massive particle is given by
+
+where φ is  the polar angle, and u the inverse of radial distance r, with respect to the geometric centre
+of the system. The photons obey:
+
+where c is the light velocity, h and l paths parameters. This gives the classical schema of figure 10-a 
+where the central mass is reduced to a simple mass-point. Now,  have a look to (16) and (18). We
+can change ρ into - ρ and R 
+s
+
+. Then we get the:
+
+ into – R 
+s
+
+(16bis)
+
+These solution can be linked and describe the geometry in and out a sphere filled by negative mass.
+
+11 of 42
+
+The first is solution of  S = χ T . The second comes from  S = 0 . As introduced in 1995 in reference
+[3] we get a negative lensing effect. See figure 10-b:
+
+Fig. 10-a: Positive gravitational                     Fig.10-b:  Negative gravitational
+
+lensing effect                                                    lensing effect
+
+Notice  we  may  now  use  the  internal  solution  for  photons  can  cross  a  negative  mass  clump,
+according  to our  assumption  (like  neutrinos can  cross  the  sun.  But  we  have  no telescopes  using
+neutrinos).  Now,  examine  the  impact  on  observations.  The  first  one  is  the  reduction  of  the
+luminosity  of  large  redshift  galaxies,  by  negative  gravitational  lensing  effect  due  to  twin  matter
+clumps. As the matterfact, we find many faint galaxies at large distance. The classical interpretation
+consists to say that dwarfs galaxies form first, then merge to give heavier objetcs. Negative lensing
+provides an alternative explanation. Now, let us show that negative lensing, due to surrounding twin
+matter, can explain observed strong lensing effects, around galaxies and clusters of galaxies. First,
+notice  than  any  homogeneous  distribution  of  matter,  with  positive  or  negative  density,  does  not
+induce gravitational lensing. Only non-homogeneous distribution dot it. Let us figure schematically a
+galaxy imbedded in some sort of hole in an homogeneous twin matter distribution. See fig. 11-a:
+
+Fig. 11: Combination of  positive (due to the confined object) and negative (due to the
+
+surrounding twin matter) lensing effects. Reinforcement of the global effect.
+
+We have schematised the reinforcement of the gravitational effect due to twin matter surrounding a
+
+12 of 42
+
+spheroidal mass M ( spheroidal galaxy or spheroidal cluster of galaxies). As shown in section 18 the
+gravitational  field  due  to  a  spheroidal  hole  in  a  constant  density  negative  mass  distribution  is
+equivalent to  the field  due to  a constant  density sphere,  filled by  positive mass  (figure  11-b). On
+figure  11-c  we  have  figured  the  contribution  of the  positive  mass  M  to  the  gravitational  lensing
+effect. The main effect (figure 11-c) is due to the hole, which focuses the light rays. On  figure 11-a
+we find the two effects, combined. As  a conclusion the observation of strong gravitational lensing
+effects at the vicinity of galaxies or clusters of galaxies is not the final proof that some positive mass
+invisible dark matter is present. There is an alternative interpretation: the object could be surrounded
+by negative matter, which focusses the light rays.
+
+8- Exotic matter or exotic geometry?
+
+As  said  above,  physicists  have  difficulty  to  stand  the idea  that  negative  mass  could  exist  in  our
+universe.  By the  way,  the  classical standard  model  does  not bring  all  the  answers.  For  example,
+nobody knows  where  the primeval antimatter is gone,  so  that half part of  the universe is missing.
+The  question  became  so  embarrassing  that  today  scientists  just  choose  to  avoid  it.  In  1967
+A.Sakharov suggested that some "twin universe" would have been created during the so-called Big
+Bang,  where the  arrow  of time  could  be reversed  ([33],[34],[35]&[36]).  The idea  of  a couple  of
+universes  interacting  only  through  gravitational  force  is  in  progress,  see  a  recent  paper  of
+Nima-Arkani  Ahmed  (Dept.  of  Phys.  of  Berkeley  U.),  Savas  Domopoulos  (Dept.  of  Phys  of
+Stanford U.) and Georgi Dvali (Dept. of Phys.  Of  new-York Univ.), reference [43] and references
+[37] to [42] . 
+Assume the universe is the two-folds cover of a M4 manifold.
+
+Fig.12: Two folds cover of a manifold.
+
+We  get  a  point-to-point  mapping,  linking  two  "conjugated  points"  M  and  M  ,  which  can  be
+described by a same system of coordinates {µ
+}  We can give this non simply connected two-folds
+
+i
+
+cover a metric structure (similar to the two-points bundle of a manifold M4).  Call F  and F  its two
+folds. Give the fold  F  a Riemanian metric g with (+  - - - ) signature. Call  g the Riemanian metric
+with same signature, associated to fold F.  From these two metrics we can build geodesics systems
+but, as F and F and disconnected, the two families of geodesics are disconnected. As a conclusion, if
+these metrics give null-geodesics and if one assume that light travels along them in both folds, any
+
+13 of 42
+
+structure  of  a  given  fold  will  be  geometrically  invisible  from  the  other  one.  In  classical  General
+Relativity one considers a single fold, associated to the Einstein field equation:
+
+S = χ T - Λ g
+
+where S  is a geometrical tensor, χ is the Einstein constant, T is the energy-matter tensor and Λ the
+so-called, puzzling cosmological constant, introduced by the French mathematician Elie Cartan. 
+During a long time theoreticians used to assume that this last was zero. Then, non-steady solutions,
+corresponding  to  homogeneous  and  isotropic  conditions  give  the  Friedman  models.  Steady-state
+solutions,  while  spherical  symmetry  gives  the  internal  Schwarzschild  solution  (16),  from  the
+equation  S = χ T where T is a constant tensor field, inside a sphere whose radius is r
+. The external
+
+o
+
+Schwarzschild solution (18) comes from  S =  0  with spherical symmetry too. The choice of a field
+equation is an  a priori choice. If metric  solutions are asymptotically flat, Lorentzian,  it ensures the
+validity of Special  relativity in vacuum. If  one makes an expansion  into a series  around a Lorentz
+metric, in steady state conditions, the field equation can be identified to Poisson equation   Δ ψ = 4 π
+G ρ where ψ is the gravitational. In addition, the Newtonian approximation provides the Newton law
+of interaction. Friedman models, corresponding to solutions of the field equation, provide a redshift,
+which  is  observed.  Locally,  the  bending  of  light  rays  at  the  vicinity  of  the  sun  as  well  as  the
+precession  of  Mercury's  perihelion  are  observed  too.  But  recently  some  discrepancy  between
+Friedman models and Hubble's constant measurements lead today the cosmologists to reintroduce a
+non-zero cosmological constant, corresponding to some mysterious "repulsive power of vacuum". 
+Now,  return to the two-folds structure. Introduce two tensor fields T and T which are supposed to
+describe the contents of folds F and F. From metrics g and g we can define derive geometric tensors
+S  and S.  We can link the  four tensors S  , S  , T , T into  a system of two coupled field equations,
+inspired by Einstein equation
+
+9- First geometrical interpretation of the dark matter phenomenon.
+
+Consider the following coupled field equations:
+
+S = χ ( T + T )                              S = χ ( T + T )
+
+Basically, they are identical, so  that  g identifies to g: the image of a geodesic  of fold F  becomes a
+geodesic of fold F.  We get two "parallel" universes, which interact only through gravitational force.
+Dark matter  can  be composed  by atoms,  neutrons,  protons, photons,  identical to  ours,  except we
+cannot observe twin matter on geometrical grounds.  If we study the Newtonian approximation, we
+get the following Poisson equation:  Δ ψ = 4 π G ( ρ + ρ )
+
+In this model:
+
+- matter attracts matter
+- twin matter attracts twin matter
+- matter and twin matter attract each other.
+
+But this does not solve  all the observational data: even if  some geometrically invisible dark matter
+would  lie  in  the  adjacent  portion  of  our  universe,  near  by  the  Abell  1942  cluster,  this  does  not
+explain why this attractive force field would not capture our own galaxies and gas, lying in our fold
+of the universe. That's for we deal with the following set of equations (reference [3] and [4] ):
+
+14 of 42
+
+10- Second geometrical interpretation of the dark matter phenomenon.
+
+Consider the following coupled field equations system:
+
+S = χ ( T - T )                       S = χ ( T - T )              from which  S = - S
+
+Notice this definitively not imply g = -  g . The Newtonian approximation supports the assumptions
+of section 3. We get the following Poisson equation:
+
+Δ ψ = 4 π G (matter density in fold F - matter density in fold F)
+
+We prefer  to consider that  the twin  universe, the twin  fold, is  filled by intrinsically  positive mass
+matter and that the minus sign in the field equation gives it the appearance of a negative mass for an
+observer located  in our fold. Then  we may call  it "apparent mass".  The symmetry of  system (29)
+plus  (30) makes  the  definition of  positive  and  negative energies  purely  arbitrary.  What about  the
+classical local check of the RG? In this new model:
+
+- matter attracts matter, through Newton law. 
+- twin matter attracts twin matter through Newton law. 
+- matter and twin matter repel each other through an "anti-Newton law".
+
+The solar system  is a very dense portion  of the universe. In  the adjacent portion of  the twin fold,
+twin matter is pushed away. Then the system is very close to:
+
+S = χ T                                        S = - T
+
+The first equation identifies to Einstein equation, so that all the classical verifications fit. . What about
+gravitons? Which path do they follow? The answer is composed by two arguments :
+
+- Field  equations provide  macroscopic description of  the universe,  which ignores the  existence of
+particles and just gives geodesic systems. 
+
+- By the way: what's a graviton?
+
+Notice  that  recently    [49],  anomalous  long-range  (negative)  acceleration  has  been  evidenced  for
+space probes Pioneer 10 and Pioneer 11, at long distance from the sun (40-60 AU).  An unmodelled
+acceleration, directed towards the Sun, (8.09  ± 0.20)  x 10-8 cm/s2 for Pioneer 10 and (8.56 ± 0.15)
+x 10-8 cm/s2  for Pioneer 11, was  evidenced and described as a not-understood viscous drag force.
+Similarly, and unmodelled acceleration towards the sun was found for   the probe Ulysse (12   ± 3) x
+10-8  cm/s2.  See complete  discussion  in  this  interesting paper.  The  authors  say:  The paradigm  is
+obvious: s  is it dark matter or  modification of gravity”. As the pointed out, if dark matter is called
+for  explanation, it  would correspond  to  a total  dark matter  amount  >  3  x 10-4  solar  mass, which
+would be in conflict with the accuracy of the ephemeris. A 3d neutrino model also did not solve the
+problem  [50].  Others  try  to  modify  the  Newton  law,  adding  a  Yukawa  force    [51].  But  “this
+anomalous  acceleration  is too  large to have  gone undetected  in planetary orbits,  particularly for
+Earth and Mars”. Then they focus on available Viking probes data and conclude: “But a large error
+would  cause  inconsistency  with  the  overall  planetary  ephemeris….  if  the  anomalous  radial
+acceleration acting on spinning spacecraft is gravitational in origin,  it is not universal. That is, it
+
+15 of 42
+
+must affect bodies in the 1000 kg range more  that bodies of planetary size by a factor 100 or more
+(…),  which would be a strange violation of the equivalence principle”. An alternative interpretation
+of  this still  puzzling  phenomenon would  be the  action  of weak  repulsive  twin matter  distribution
+between stars, inside galaxies, which would form, as for spiral structure, a weak potential barrier. To
+be investigated.
+
+11- The question of the repulsive power of vacuum. An alternative answer.
+
+When  we look  to  equation  (29) we  see  that  T  acts like  a  "cosmological  constant".  It figures  the
+"repulsive  power  of  the  twin  universe",  which  can  play  a  role  in  non-steady  coupled  solutions.
+Assumption  of  homogeneity  and  isotropy  gives 
+the  Riemanian  metrics  the  well-known
+Robertson-Walker form, as follows:
+
+The radial distances between conjugated points (same u, an non-dimensional "radial distance", with
+respect to an arbitrary point) are not automatically equal:
+
+Write non-dimensional coordinates, where τ is the time-marker.
+
+r = R u                r = R u
+
+{ u , θ, φ} are classical spherical coordinates. Remember that a field equation is coordinate-invariant.
+The choice of coordinates remains free, in each fold, where we can define different cosmic times:
+
+These variables are linked to the non-dimensional variable τ through:
+
+where T and T are characteristic times scales. Introducing non-dimensional proper times σ and σ:
+
+we transform the two metrics into their non-dimensional forms, introducing non-dimensional scale
+factors R(τ) and R(τ), through: 
+
+{ τ , u , θ, φ}
+
+. t       and       t 
+
+t = T τ                t  = T  τ
+
+s = cT σ                s = - c T  σ  
+
+R = cT R                R = c T  R
+
+16 of 42
+
+We put the field equations into their non-dimensional forms, using:
+
+ρ = ρo ω                    ρ  = ρo ω              p = po π                     p  = po π
+
+Following, these tensors, written in their non-dimensional forms:
+
+At  the end,  we  get four  second  order coupled  differential  equations (instead  two,  in the  classical
+approach):
+
+  
+
+We  need some  additional hypothesis.  Assume  that the  two  universes have  "parallel lives"  during
+their radiative epoch, i.e: ω (τ) =  ω* (τ), which impose negative curvature indexes ( k =  k =  -1 ).
+After decoupling we neglect the pressure terms (dust universes):
+
+from which we get immediately:
+
+Introducing the mass-conservation in both folds:
+
+ω R3 = constant ω R3 = constant 
+
+the system becomes:
+
+Notice that R =  R gives R" =  R" =  0. On  another hand, if the two universes were "fully coupled",
+i.e.  R/R =  constant,  this peculiar  solution  would  correspond to  Friedmann  models, with  "parallel
+
+17 of 42
+
+evolutions". But we consider that they are coupled by gravitational field, through (54-a) and (54-b),
+which shows  that the  linear expansion  is unstable.  If, for an  example, if  R >  R then  R" >  0 and
+R" <  0. The system can be numerically solved. The typical solution corresponds to figure 13. The
+numerical values have been chosen in order to fit the initial condition for VLS numerical simulation.
+The law of evolution, for the radiative epoch will be justified in section 15.
+
+Fig.13: The evolution of the scale parameters  of the universe and twin universe.
+
+We see that this system of two universes interacting  through gravitational force is unstable. If one
+universe goes faster, pushed by his twin, the other  one slows  down.  The observed acceleration of
+our universe is then caused bay the "repulsive power of its twin universe". The histories of the two
+differ.  Ours  is  cooler  and  more  rarefied.  The  twin  is  warmer  and  denser.  This  justifies  the
+assumption of section 2, which determines the VLS.
+What could be the evolution of our twin universe? As  we have seen, it is filled by huge clumps of
+twin matter which look like huge proto-stars, whose cooling time is fairly larger than the age of the
+universe.  Fusion  does  not  occur  in  the  twin  universe.  We  think  after  first  nucleo-synthesis,  it
+remains filled by hydrogen and helium. Life phenomenon would not exist in the twin universe.
+
+  
+12- Newton’s law and Poisson equation.
+
+In  classical  General  Relativity  the  Newton  law  and  the  Poisson  equation  can  be  derived  from
+Einstein  field equation,  considering  an  almost steady  state  and  almost  Lorentzian metric  solution.
+Here, we have two perturbed metrics, written in non-dimensional coordinates ω*(time) , ζα(space)
+
+18 of 42
+
+Expanding the two field equations into series, and considering an almost uniform universe we get
+
+Introduce a non-dimensional gravitational potential:
+
+Defining a non-dimensional Laplacian operator:
+
+we get a non-dimensional Poisson equation:
+
+The classical method of identification gives the Newton law. In fold F:
+
+In fold F:
+
+The gravitational potential acts differently on a  (m = +1  ) test-particle. Depends the fold it belongs
+to.  In  general  a  (m=  +1)  particle  located  in  fold  F  gives  the  following  contribution  the  the
+(non-dimensional) gravitational potential.
+
+As  we  can  see, the  system of  coupled field  equations determines  completely the  dynamics  of the
+system, corresponding to Newtonian approximation, as introduced as an hypothesis in the beginning
+of the paper. In the model  the velocities of light c and c may be  different (and we think they are).
+Using  the  dimensional quantities  introduced in  section 11  we may  return to  dimensional  laws, as
+following:
+
+The Newton law, expressed in the two folds, becomes:
+
+19 of 42
+
+The Poisson equation can be expressed indifferently in both folds
+
+Δ ψ = 4 π G (ρ - ρ)
+
+ 
+
+13- Scalar curvatures.
+
+What is the geometrical  meaning of the system (29)  plus (30)? The scalar curvatures  R and R are
+opposite. We may give a didactic image of this new geometrical framework. First, remember that the
+structure corresponds to  a two-folds cover of a  manifold. We get two distinct  folds, with coupled
+metrics g and g. They are note independent, for they are solution of the field equation system. They
+produce their  own  system of geodesics  and the image,  in fold F,  of a geodesic  of fold F  is  not a
+geodesic of that twin fold F.  Light follows null-geodesics in both folds, but no null-geodesic links
+the two, so  that the structure of  one fold are geometrically  invisible for an observer  located in the
+other one. Assume now  a mass is present un fold F, while the adjacent portion of fold F is  empty.
+The corresponding field equations system would be:
+
+S = χ T                            S = -  χ T
+
+Assume  this  mass distribution  corresponds  to  a  sphere with  radius  r
+
+,  filled  by constant  density
+
+o
+
+material,  and  surrounded  by  void.  Then  the  geometry,  in  fold  F,  is  steady  state  is  assumed,
+corresponds  to  two linked  Schwarzschild  solutions  (internal  and  external).  They are  solutions  of
+equation  (68).  In fold  F  we  get  a  conjugated geometry,  with  opposite  scalar  curvature  R =  -  R.
+Outside the sphere (and outside the corresponding adjacent space in fold F)  R =  R =  0. Inside the
+scalar curvatures are constant. The didactic model corresponds to a blunt “posicone”, associated to a
+“blunt negacone”, as shown on  figure 15. In a blunt “posicone” the central portion is a portion of a
+sphere.
+
+Fig.14: A mass is present in the fold F. Induced negative curvature in fold F
+
+20 of 42
+
+In  un  “blunt  negacone”  the  associated  region  corresponds,  in  this  2d  didactic  image,  to  a  horse
+saddle.  Below,  a  plane  which  figures  how  an  observer located  in  fold  F  conceives  this.  He  can
+observe both the mass M  (grey disk) and the path of a mass cruising in his fold, “attracted by this
+mass” , this path, in this Euclidean representation corresponding  to the projection of a geodesic of
+the “blunt posicone”. The observer cannot see the path of a particle of “twin matter”, cruising in the
+twin fold F and repelled by the mass.
+
+Now, assume the mass is located in the fold F,  in the twin space. The situations are reversed. See on
+figure 15. Following this 2d didactic image, the fold F is shaped as a blunt negacone, while the fold
+F  looks  like  a  blunt  posicone.The  geometry  of  F,  close  to  the  geometrical  centre  of  the  system
+evokes the vicinity of a twin matter clump located at the centre of a “cell” in the VLS. Light travelling
+in our fold can cross it, but it is sprayed. As  evoked in section 3 and on figure 7 it implies that the
+clumps’  diameters  could  not  be  larger  than  a  certain  value,  to  be  computed,  in  order  to  fit  the
+available  observations.  Below: two  plane  representations  showing  Euclidean projections  (how  an
+observer could conceive the phenomenon, when located in fold F or in fold F).
+
+Fig.15: A mass of “twin matter” is present in the fold F, while the fold F is empty. 
+
+It produces a negative (induced) curvature in F.
+
+14- The radiative era.
+
+Our  field  equations  system  is  not  compatible  to  the  observational  data  for  radiative  era.  An
+expansion corresponding to  R  ≈  R ≈  t is too slow.  All the  hydrogen would have been converted
+into helium, for a example. That’s for the radiative era corresponds to a different dynamics. The idea
+is that  the so-called constants  of physics behave  like absolute constants  during the matter  era, but
+change drastically  during the  radiative era.  It may  look very  artificial, but  this idea  may  solve the
+
+ 
+
+21 of 42
+
+problem of the  homogeneity of the early  universe, as recently  pointed out by  several authors, like
+Magueijo  (1999),  but  was  discovered  by  the  author  13  years  before,  at  the  end  of  the  eighties
+([44],[45], [46] ) and developed later ( [4] and[47] ). First, notice that the choice of the time marker t
+remains arbitrary. It is nothing but “the way we think  the things happened”. Absolute time has no
+meaning in cosmology. Any phenomenon does not “exist” if there is no observer in the Universe to
+look at it, to compare a succession of events to his proper time flow. At present time all is compared
+to the time of the observer, the way he lives. But past and future depends on the way he imagines it,
+for he cannot travel in past or future. Past and future are nothing but images we shape. We will say
+that  these  images  are  correct  if  they  fit  peculiar  local  phenomena,  that  we  call  “observations”,
+“measurements”. Consider the “constants of physics”. They were discovered quite recently. They are
+the light speed c , the  gravitational constant G,  the Planck constant h ,  the masses of particles, the
+unit  electric charge e, the permittivity of vacuum εo , and some others. Measurements performed in
+labs show no significant change. People have tried to study the impact over large period of time of a
+change of these constants on various cosmic phenomena. But they moved these constants one after
+the  other,  independently. In  such  conditions  one  can show  that  any  light  variation of  an  isolated
+constant  produces  contradictions  with  observational  data.  But  what  about  joint  variations?
+Surprinsingly we may  conceive a joint variation  of all the  constant, which cannot  be evidenced in
+lab,  for the  lab’s  instruments are  built  with  the basic  equations  of physics.  If  this gauge  process
+keeps these equations invariant, it will be impossible to  evidence the variation of any constant, for
+the instruments and the  constants they are supposed  to measure  experience parallel drifts. Imagine
+you  want  to  measure  the  length  of  an  iron  table,  with  an  iron  scaled  rule.  Both  are  at  room
+temperature. If the  table’s length is found  constant in time, you  cannot sware this  length does not
+vary, for this table and your scaled rule may experience a room temperature variation and expand in
+the same  way.   Let us  search such  basic gauge process.  Consider for  example the  field equation,
+where we find  the Einstein constant. We assume  the divergence of this equation  is zero which, in
+Newtonian  approximation, corresponds  to  the conservation  of  matter  and energy.  If  it  is not,  we
+must deal with source term. According to this hypothesis the Einstein constant χ must be an absolute
+constant. Does  it imply that G  and c must  be absolute constants?  Definitively not. It  only implies
+that:
+
+As introduced first in 1988 we assume that the energies, all kind of energies, are conserved, but  not
+the masses, electric charge and so on. This gives, for example:  
+
+In physics all students know  the technique  called dimensional analysis. Given a physical problem,
+ruled by an  equation, or a set of  equations, we produce characteristic lengths,  times and numbers,
+composed with constants and laboratory condition data. Now we  consider that all what is present in
+the equation may vary, including the “constants”.  We put everything into a non-dimensional form.
+Consider for example the Boltzmann equation:
+
+22 of 42
+
+We introduce a characteristic length scale R and a characteristic time scale T:
+
+The equation becomes:
+
+We see that the Schwarzschild length varies like the scale factor R. To sum up get:
+
+We see that the Jeans length L
+j
+
+ varies like R, while Jeans time t
+j
+
+ varies like T. R and T are linked
+
+through a relation which evokes a Friedman model. But if one looks that closer and see it as a gauge
+relation,  it  means  that  the  Kepler  laws  are  also  invariant:    T2  ≈  R3  .  By  the  way,  introducing
+pressures  (as energy  densities)  we get  the  gauge  variations of    these parameters  and  see that  the
+subsequent  energies  are  conserved  (in  this  model  all  kinds  of  energy  are  conserved  during  the
+radiative era).  We have  figured the  way the  speed of  light c  varies with  the energy  density when
+radiation dominates.
+
+Now consider the Schrödinger equation:               
+
+Introduce non-dimensional potential expression and transform this equation:
+
+As a  result, the energy is unchanged by this gauge process. The Planck constant h grows with T, as
+conjectured  first by  Milne  [48]. The  characteristic lengths:  Planck  length Lp,  Compton  λc and  de
+
+23 of 42
+
+Broglie λdb wavelengths vary like the space scale factor R, while the Planck time tp varies like the
+time scale factor T. From this point of view, the evolution, during the radiative era is conceived as a
+gauge process.  This makes  the “Planck barrier”  questionable. Does  the “pre-quantic” epoch  has a
+real meaning? Now, to finish the job we have to deal with Maxwell equations.
+
+Continue to perform that sort of “generalized dimensional analysis”. We get:
+
+In  order  to maintain  the  structure  of  the  atoms  during  the  evolution  process we  assume  the  fine
+structure constant is an absolute constant, which gives the whole solution:
+
+We get easily:
+
+As  we can see, during the radiative era, is the cosmic evolution is identified to a gauge process, all
+characteristic lengths vary like R (above, the Bohr radius), all the characteristic times vary like T, all
+the energies are constant. Q is a Coulomb cross-section, which ≈ R2. Similarly the associated mean
+free path and the Debye length ≈ R, and so on. All the constants, space and time scales are involved
+in  this  gauge  process,  which  can  be  described  chosing  any  of  them.  We  can  take  T  as  our
+time-marker t .
+
+ 
+
+Next, the variation of the constants, during the radiative era, versus the radiative pressure p
+r:
+
+24 of 42
+
+If we assume that the values of the constants depend on the radiative pressure, introducing a critical
+value p
+
+, to be defined, we can write:
+
+cr
+
+G
+
+ , m
+o
+
+o
+
+ , h
+
+ , c
+
+o
+
+, e
+o
+
+o 
+
+ correspond to  the today’s values. We assume that this critical conditions are
+
+achieved for a value t = t
+
+ of the chosen time-marker and we introduce a non-dimensional variable  
+
+τ = t / t
+
+ . Then we can write:
+
+cr
+
+cr
+
+which corresponds to figure 16:
+
+Fig. 16: Variation of the constants during the radiative era. 
+
+τ >> τcr corresponds to matter era
+
+25 of 42
+
+15- The homogeneity of the Universe.
+
+Any  model  requires  an  observational  confirmation.  Figure  17,  left,  the  classical  paradox  of  the
+homogeneity of the early Universe. “Classical explanation”: the “Inflation Theory”, requiring heavy
+hypothesis. Today, some people begins to think about a variable constants model, including a secular
+variation of c. The called it “VLS”: “variable light speed”. In fact I developed this idea in 1988 [44].
+With the suggested time-variation of c , which with the precedent section the horizon varies like R(t)
+which ensures homogeneity at any time.
+
+Fig. 17: The horizon, according to the standard model and to the present model.
+
+16- When the adverb “before” fails.
+
+As  said above, a time marker corresponds to an arbitrary choice. It has no intrinsic meaning. In the
+standard model if we deal with the distant past of the Universe, the temperature rises and elements’
+velocities tend to c. All particles become relativistic, so that a question arises: “how to build a clock,
+with which material?”. When we look at a clock, what do we look at? To the rotation of a needle. A
+turn corresponds to  a minute, or hour. A  turn of the Earth  around the Sun  corresponds  to a year.
+Whatever  we  call  it,  this  360°  rotation  has  a  physically  real  meaning.  It  is  an  undeniable  event.
+Similarly  we  can  consider  a  reference  system composed  by  two  masses  m  orbiting  around  their
+common  centre  of  gravity.  We  may  call  it  our  “elementary  clock”.  In  a  gas  at  thermodynamic
+equilibrium  the  available  energy  is  distributed  in    translational  energy,  the  rotational  energy,
+vibrational  energy.  A  couple  of  particles  orbiting  around  their  common  centre  of  gravity  is
+conceivable if the energy of the  system is comparable to the energy  of free particles, which cruise
+around. In a variable constant system this is possible. Then we can count the number of turns, using
+the time-marker t, which has no real significance: it’s only a chronological marker.
+
+Fig.18: The elementary clock.
+
+26 of 42
+
+What does it mean? According to this description of the Universe, an infinite number of “elementary
+events” occurred in the past. If this clock corresponds to a measure of time, past is infinite and the
+time-marker t is nothing but a fiction. Let’s give an image. Suppose  you visit an editor and say “I
+want to publish a two inches thick book”. Depends on the width of the pages. You may deceive the
+editor if you use pages whose  width tends to zero when trying to read “the first pages”. Although
+the global width of the book seemed finite it tells a infinite story. The good question the editor must
+ak you is “how many types  in your book, how  many sentences, words,  letters?”. A  letter of your
+book  can  be  compared  to  an  “elementary  event”.  As  your  book,  called  “Universe  story”,  going
+towards the past, shows  an infinite number of “elementary events”, it has… no beginning and you
+will never succeed in reading the foreword of the author. By the way, as shown in reference [4]  the
+number of  turns of our  elementary clock identifies  to the entropy  per baryon.  Log t is  also called
+“conformal time”. In effect if chosen as a new time-marker the metric becomes conformally flat:
+
+In  the precedent  section  we found  that the  Planck  time vary  like  the time-marker  t.  It means  that
+when one goes back to the so-called “initial singularity (t = 0)” the Planck time shrinks. What does it
+mean? I haven’t the answer. Anyway this model doesn’t clear up all problems. We don’t deal with
+strong and weak interaction. It’s only a different glimpse on what we call “time”.
+
+17- Joint gravitational instabilities.
+
+In  section  3  we  have  presented  a  model  of  a  galaxy  confined  by  its  repulsive  twin  matter
+environment.  This  work  was  semi-empirical.  In  the  present  section  we  present  a  spherically
+symmetric  exact  solution.  If  we  start  from  the  coupled  field  equation,  we  assume  that  it  is
+divergenceless, which implies: ∂ ( T - T)  =  0. In a first step we assume that ∂ T =  0 and  ∂ T  = 0,
+separately,  which  means  that  no  energy-matter  can  flow  from  a  fold  to  the  other.  From  such
+equations one can derive Euler equation. The method is completely similar to the one applying to the
+Einstein equation.
+
+Coupled to Poisson equation:
+
+ΔΨ = 4 π G ( ρ - ρ )
+
+The  classical  perturbation  method  gives  two  Jeans  like  coupled  equations,  Lj  and  Lj  being
+characteristic Jeans lengths.
+
+27 of 42
+
+A steady-state spherically symmetric solution, with initial conditions:
+
+( δρo = δρo , T = T , <V> = <V> ):
+
+On figure 19 the typical numerical solution.
+
+Fig. 19: Joint gravitational instabilities. Formation of a clump of matter
+
+surrounded by repulsive twin matter environment.
+
+ 
+
+18- The confinement of spheroidal galaxies.
+
+In section 7, figure 11, we said that the field due to a hole in a uniform negative energy matter was
+equivalent  to  the  field  created  by  an  equivalent  sphere,  filled  by  positive  energy  matter  and
+surrounded by void. It has now to be justified. Let us recall how the link to Poisson equation is built
+in classical theory ( see for example[52]  ). We start from a perturbed Lorentz metric g = g 
+ +  ε  γ 
+
+L
+
+where  ε  is  a  small  parameter.  The  geometric  tensor  is  expanded  into  a  series,  as  well  as  the
+energy-matter tensor, limited to the ρ term. This gives (a):
+
+28 of 42
+
+The one writes  (b). With (d) and  (c) the equation (b)  is identified to Poisson  equation. But notice
+immediately  that  the  given  perturbed  metric  corresponds  to  steady-state  conditions.  This  is
+conceivable only if the  zero order solution (the Lorentz metric) corresponds  to an empty universe,
+where no  gravitational force and no  pressure are acting.  The we can  perturb it with a  steady state
+term ε γ  , assuming that this perturbation is weak enough to do prevent the collapse of the universe,
+due to gravitational force. Then there is a link between the field and the Poisson equations. But is the
+Universe is supposed  to be non-empty and uniform this method  does not hold any longer, for we
+cannot refer to steady state metric. What is the impact? We cannot define a gravitational potential in
+an  uniform  universe,  filled  by  constant  density  material.  If  we  look  at  the  Poisson  equation  (e),
+written in spherical coordinates and if we suppose ρ is a constant, we find the spherically solution (f)
+and the  corresponding gravity field  is (g). Isn’t  surprinzing to  find a non-zero  gravitational force,
+pointing  towards  an  arbitrary  centre  of  coordinates  and  tending  to  infinite  with  radial  distance?
+Explanation: this  pseudo-solution  is not  correct, for  Poisson  equation does  not exist  in  an steady
+state uniform universe. The field is zero everywhere, which looks more physical.
+
+Fig. 20: Spherical hole in a constant density twin matter distribution 
+
+and associated gravitational potential.
+
+The figure  (b) shows  the  gravitational field around  and inside a  sphere filled by  constant positive
+density material (like the Earth). In (c) the associated gravitational potential. If we reverse the arrows
+of (b) we get the field associated to a sphere filled by negative mass. If this is added to (a) we get an
+uniform and unbounded region, filled by negative mass, with a zero field, so that (a) figure the field
+inside a spherical cavity, which is non-zero. We get a confining effect and the intensity of the field is
+maximum at the internal border. This explains why the spiral galaxies keeps their arms and why the
+decrease of the gas density of the disk is so abrupt at periphery.
+ 
+ 
+ 
+
+29 of 42
+
+19- What twin matter could be made of.
+
+Theoretical physics is in a big crisis since mode than 30 years. A lot of papers were published many
+years ago about magnetic monopole, but no one appeared. The existence of supersymetric partners
+has  not  been  proved  yet.  Nobody  knows  what  a  “graviton”  could  be.  When  scientists  tried  to
+evidence the proton’s decay, this last did not cooperate. Almost all that new telescopes bring is still e
+complete mystery.  Nobody  knows  what  are QSO,  gamma  flashes and  how  it works.  Giant black
+holes are strangely silent, and so  on. Superstring is nothing but a  new fashion, in spite thousands
+papers  published  in this  “new  field”.  Superstring  world  is  a  strange  play field  in  which  physics
+seems desperately absent. In the following we give the first geometrical description of antimatter. As
+J.M.Souriau    uses  to  say,  group  theory  is  the  most  basic  tool  we  have  to  deal  with  physical
+phenomena. A natural action of a Lie group is its coadjoint action on its Lie algebra, as introduced by
+J.M.Souriau in 1970 [53]. The dimension of a group G   is the number of parameters it depends on.
+This is also the number of components of its moment J . The Lorentz group L is a six-dimensional
+group,  which owns  four  connex components.  Introduce  the  four elements  group  Ω,  in its  matrix
+representation (a). Then we can built the complete Lorentz group L from its neutral component L
+,
+n
+through a direct group product (b), where (c) is the matrix representation. A new semi-direct product
+
+(d)  gives the  Poincaré  group. Introduce  the  event-fourvector  ξ: (e)  and  the space-time  translation
+vector C: (f). We can give a matrix representation (g) of the  Poincaré element. In (h) its action on
+space-time. But this one hides a more important action: the coadjoint action of the group on its ten
+components  moment  space  J  (the  Poincaré  group  owns  ten  dimensions).  Souriau  writes  this
+moment:
+
+J = { E , p , f , l }
+
+E    is the  energy,  p  the  impulsion,  f    the “passage”  an  l    the  spin.  It is  convenient  to  introduce,
+following Souriau,  an antisymmetric  matrix M:  (a) and  the quadrivector  impulsion-energy  P: (b).
+The  calculation  of  the  dual  of  the  action  of the  group  on  its  Lie  algebra  gives  the  action  on  the
+momentum { (c) , (d) }.
+
+30 of 42
+
+Now,  il we want to evidence symmetries I , P , T and PT we choose (e) and (f). The the coadjoint
+action becomes { (g) , (h) } , which gives:
+
+As pointed out in 1970 by J.M.Souriau, with the matrixes (c) we build the P
+o
+
+: (d), composed by two
+
+connex components:  the neutral one  P
+
+ and by the  space-inversion component P
+
+.   The   terms of
+
+n
+
+s
+
+these two components do not inverse the sign of the energy E. Conversely, the matrixes (e) produce
+the antichron subset, whose  terms inverse the sign of  the energy, so  that time-inversion goes with
+energy inversion, i.e. mass-inversion, if the particles own one. As a conclusion we see that negative
+mass and negative energy arise from the dynamic Poincaré group description, referring to relativistic
+mass-point movements. Now, we are going to extend the Poincaré group, considering:
+
+We introduce the matrix (a) and (b). Then we give a matrix representation of the group, acting (e)  on
+a bundle Z  2 x U(1)  x R4.  In (f) we get the  geometrical expression of the  C-symmetry. The fifth
+dimension (c) is compact. Then any element of the group corresponding to choices (f) implies a
+
+symmetry with  respect to  the indicated  straight line.  The calculation  of the  coadjoint action  of the
+group  on  its  momentum  shows  no  peculiar  difficulty.  As  pointed  out  by  Souriau  in  1970  the
+addition  compact  dimension  θ  goes  with  a  quantified  additional  scalar,  identified  to  the  electric
+charge  q. The  action on  the  part of  the  moment corresponding  to  Poincaré does  not change.  The
+action on the electric charge gives:
+
+ 
+
+q’ λ μ ν q
+
+31 of 42
+
+Particles are  describes in  terms  of orbits  of the  group. Some  own  a  positive energy  and  others a
+negative one. f can be considered as a fold index.
+
+f = +1 refers to fold F                           f = -1 refers to fold F
+
+Wet get a geometrical twin structure. The action is simply:
+
+f ’ = ν f
+
+This can be summarized on figure 21.
+
+Fig. 21: Impact of symmetries on the momentum components.
+
+Notice that ( ν = - 1 ) refers to antichron terms of the group. A particle and its movement correspond
+to  a  peculiar  element  of  the  momentum.  Antichron  terms  transform  orthochron  movements  into
+antichron ones and  reverse mass and energy. As  space time is composed by  two separate folds F
+and F  , encounters of opposite energy particles can be avoided if we put positive energy particles in
+one  fold,  F  for  example,  and  negative  energy  in  its  twin  fold  F.  This  physical  description  is
+consistent to the group properties.
+ 
+ 
+
+20- PT-Symmetry and CPT-symmetry.
+
+As  pointed out by Souriau in 1970, all symmetry which includes a T-symmetry reverse the energy
+and  the  mass.  If  we  consider  a  normal  particle,  with  mass  m  and  electric  charge  q,  its
+CPT-symmetrical owns  negative energy and mass.  Feynman showed  that the PT-symmetrical of a
+particle  behaved  as an  antiparticle,  but,  according  to Souriau’s  result,  it  owns  negative mass  and
+energy.. From  above, we have  built a  new description of  the Universe  as composed by  two twin
+entities.  The  first  is  a  fold  F,  supposed  to  be  ours,  filled  by  matter  and  Dirac-antimatter,
+C-symmetrical with respect to the first. In the second fold F the matter-antimatter duality holds too.
+Its matter is CPT-symmetrical with respect to ours,  while its antimatter identifies to Feynman one.
+As  a whole, the  two folds are CPT symmetrical.  This goes with initial Sakharov’s  ideas ([33]  to
+[36] ). The initial work of the author, devoted to twin Universe cosmology, was published in 1977.
+ 
+
+32 of 42
+
+21- Leaking neutron star model: a challenger to black hole model.
+
+Classically  the  criticity  of  a  neutron  star  is  based  on  a  geometrical  criticity.  A  constant  density
+sphere,  surrounded  by  void  can  be  described  by  two  linked  Schwarzschild  metric  (internal  and
+external).  These expressions  have  been give  in  section  7. Both  become  critical  when the  neutron
+star’s  radius  tends  to  its  associated  Schwarzschild  radius.  Tolmann,  Oppenheimer  and  Volkov
+derived (see [52], eq. 144.22) a famous “TOV equation” giving pressure versus radial distance in a
+neutron star.
+
+Fig. 22: Left, geometrical criticity. Right: physical criticity.
+
+The calculation shows that, before the geometrical conditions are reached, a physical criticity occurs:
+pressure tends to infinite at the centre of the star (left).
+
+Fig. 23: Pressure versus radial distance in a neutron star.
+
+33 of 42
+
+We are going now to make assumptions. In section 15 we tried to describe the primitive stage of the
+Universe,  going  backward in  its  past.  In  order to  explain  its  great  homogeneity we  introduced  a
+variation of  the constants of physics,  during the radiative  era. By the  way, this exploration  is still
+very hazardous. We only tried to give new insights on the question: “What happens when we look at
+the distant past of the Universe?”
+
+I think  we don’t own  all  the keys. I  will just expression  an opinion. I  would think that  when the
+pressure reaches a critical value (to be determined) our Universe becomes linked to its twin which,
+as A.  Sakharov  suggested “lies in  its past”. Although it  is still confused,  I admit, I  think that our
+universe interacts with its past, which would extends over some sort of space-time bridge. Sakharov
+thought that our Universe and its twin were linked. I add they would be interacting, everywhere, all
+the time. That’s for the arrow of time is found to be reversed in the twin, from section 19. That’s for
+the twin’s atoms  seem to own  a negative mass and  repel ours.  For  us,  they just  live backward in
+time, that’s for, according to Souriau’s works, their apparent mass is negative. By analogy I would
+think that  when physical  criticity is reached  at the  centre of a  neutron star,  the local values  of the
+constants of  physics change  drastically. Such  condition would  “reproduce” locally  the  “Big Bang
+conditions”.  A  spaced  bridge  would  open,  sucking  matter  at  relativistic  velocity.  Such  “soft
+scenario” would occur  when the matter’s flux due  to the solar wind of  a companion star achieves
+critical conditions at the centre of the star.
+
+Then a steady state can be geometrically described, using the four Schwarzschild metrics.
+
+For fold F:  
+ 
+
+ 
+
+ 
+
+For the adjacent, conjugated region of the twin fold F:
+
+One can study the geodesic systems and link them, through a space bridge whose single parameter is
+its area. Tiny space bridges can absorb the matter corresponding to stellar wind of a companion star,
+for, close to it, the density is enormous and the velocity relativistic. On figure 24 a 2d didactic image
+of the model:
+
+34 of 42
+
+Fig. 24: 2d didactic image of a sleaking neutron star (SNS).
+
+ 
+
+ 
+
+A  violent inflow of matter, due for example to more eruptive phenomena of a companion star or to
+the fusion  of  two neutron  stars, forming  a binary  system,  could produce  fast opening  of  a space
+bridge, as suggested on the right of figure 24. The explanation of gamma bursts could lie there.
+
+This    model  challenges  the  black  hole  model.  We  will  see  further  how  this  last  is  questionable.
+Something  goes wrong  with  this black  hole  model.  There are  too  few  candidates and  everybody
+knows  that  a  slight  error  about  distance  evaluation  can  convert  such  black  holes  candidates  into
+simple neutron stars. There is no undeniable proof of  their existence. People only believe in. They
+always said: “what could you imagine else?”.
+
+Look at the beginning of the paper. We evoked the issue of the newspaper Le Monde in which Fort
+and Meillier presented a coloured  3d map of dark matter and  the journalist, enthusiastic, titled [1]:
+“The  dark  matter  does  exist:  it  bends  the  light  rays”.  But  what  about  the  “dark  clusters”  [2],
+discovered  by  the  same  people,  which  “attract  the  light  rays,  bend  it,  but  apparently  repel  the
+ordinary  matter”.  If this  is  confirmed  they  would  be  made,  as  suggested by  Fort,  exclusively  of
+“exotic  matter”,  and  if  they  are,  what  is  that  stuff?  What  about  the  acceleration  of  the  space
+probes [49], that a dark matter distribution cannot explain?
+
+Today people need to find giant black holes at the centre of galaxies, in order to justify the dynamical
+parameters of such regions. But these giants seem very silent, like sleeping beauty, don’t they? Some
+suggested they could be “satiated black holes”. How long time will we try to answer these problems
+just inventing new names.
+ 
+ 
+ 
+ 
+ 
+
+35 of 42
+
+22- Black holes do not exist.
+
+Where  the  black  hole  model  does  come  from?  From  the  null  second  member  field  equation.
+Paradoxically such very dense object rises from an equation which was initially built to describe empty
+regions  of  the Universe.  The Kerr  metric does  not  bring  so much:  the object  becomes  more  complex,
+that’s  all.  Rotation  brings  an  azimutal  frame-dragging  phenomenon,  which  means  that  the  speed  of
+light is different if one looks forward or backward with respect to the spinning movement. Whatever is
+the  technique  you  choose,  the things become  frankly  pathological  when you pass  the  horizon  and  get
+in.  At the  centre  lies “the  singularity”.  Let  us  start with  an  exercise.  Consider the  2d  metric  (a). If  we
+consider r  as a  radial distance  and  φ  as a polar  angle, we  get  problems  for r  < Rs.  But if  we  introduce
+the  change  (b)  the  expression  of  the  metric  becomes  (c).  All  pathologies  disappear.  Moreover  this
+surface  can be  imbedded  in R3:  the  meridian  equation is  (d).  See  figure  25  where  we  have  figured  a
+geodesic.  This  illustrates the  fact  that  a  pathology  can  depend  on  a  wrong  choice  of  coordinates  and
+on  a  wrong  choice  of  topology.
+
+In  the  3d  example  we  have  computed  (plane)  geodesics  (see  figure  26)  which  are  projected  on  the
+initial  (  r  ,  θ  ,  φ  )  representation  space.    We get  a  “throat  sphere”  linking  two  Euclidean  3d  spaces.
+There  is  nothing  inside.  Space  for  r  <  Rs  has  no  physical  meaning.  If  we  would  try  to  compute
+geodesics in  that place,  we would  find  an  imaginary  solution.  Oppositely,  in (  ρ ,  θ ,  φ  )  coordinates,
+all pathologies  disappear.  The  geodesic system becomes  regular. By  the way, in  (e) we  recognize  “the
+space part of the Schwarzschild metric”.
+
+Fig. 25: 2d metric of a surface with a “bridge” linking two folds.
+
+36 of 42
+
+Fig. 26: 3d metric hypersurface   with a “space bridge”. Geodesics.
+
+ 
+
+Now,  let  us  start  from  the  Schwarzschild  metric  (h),  written  in  classical coordinates  (  x°  ,  r  ,  θ,  φ  )
+where  x°  is  nothing  but  a  time  marker  .  Classically,  one  introduce  a  proper  time  (j)  and  a
+“time-coordinate  t (i).  Then  the  study of  radial  geodesics  gives two  differential  equations  (k)  and  (l),
+whose  solutions  correspond  to  curves  (m),  fig.  6.2,  reference  [52].
+
+The curves  shown  on  figure  (m)  are the  basis of the  black  hole  model.  One  identifies the  coordinate  t
+to  the  proper  time  of  a  “distant  observer”  so  that  the  free  fall  time  of  a  test  particle,  towards  the
+Schwarzshild  Sphere  become  infinite  for  him.  Let  us  show that  this  is completely  due  to this  peculiar
+choice  of  time  coordinate.  In  [54]  1925  Eddington   suggested  a  new  time-marker  (p).
+
+37 of 42
+
+Following,  the  study  of  corresponding  radial  geodesics.
+
+We use Lagrange equations.   On  the right we see that the speed of light,  following radial paths has two
+values. ν  = -  1  corresponds  to centripetal  paths: the  speed has  a constant  value –  c. Similarly  (left)  the
+transit  time  from a  distant  point  to  the Schwarzschild  sphere  depends  on  the  orientation  of  the  paths.
+Centripetal (ν = - 1) free fall time is achieved in finite time interval Δt . Oppositely a centrifugal path (ν
+= + 1), starting from the  Schwarzschild sphere gives an infinite time  interval, so that the Schwarzschild
+sphere  works  like  a  one-way  membrane.  This  corresponds  to  a  radial  frame-dragging  effect.  This  is
+not  a  reason  to  reject  this  interpretation  of  the  Schwarzschild  geometry.  In  effect  we  find  a  similar
+phenomenon  in the  Kerr  metric (azimutal  frame-dragging).  Next,  the classical  expression  of the  Kerr
+metric. We see  that we get two distinct  values for azimutal speed  of light. Depends if  we consider  light
+following  the  rotation  or  going  backwards.
+
+ 
+
+We can  give  a new  interpretation  of  the  Schwarzschild  geometry,  through  a  space-bridge  linking  two
+folds  F  and  F.  If  the  fold  F  corresponds  to  the  twin  fold,  the  time  coordinate  t  =  -  t  (  T-symmetry).
+From  section  19  we  know  that  this  T-symmetry  goes  with  a  mass-inversion,  so  that  when  a  positive
+mass  passes  through  the  Schwarzschild  sphere,  considered  as a  throat  surface,  the  sign  of  it  becomes
+negative.  The  conjugated  geometry,  as  presented  in  section  13  corresponds  to  change  Rs into – Rs.
+ 
+
+38 of 42
+
+Then  we  introduce  the  following  Eddington-like  time  marker  change:
+
+Still using  Lagrange’s  equation  we  study the  radial geodesics system  and  build  a link between  the two
+folds.  A  test particle  can  go  from  fold  F  to  the  twin  fold  F  in  a  finite  time  Δt,  passing  through  the
+throat  surface: the  Schwarzschild  sphere. But  the  inverse  paths requires  an  infinite time,  so  that  it is  a
+one-way  passage  from  a  Universe  to  the  other.  Here  again  we  find  a  frame-dragging  effect,  in  the
+opposite  direction.
+
+During  the  transit  the  proper  time  flow  is  unchanged:  ds  >  O  .  This  makes  the  black  hole  model
+questionable.  In  effect, according to this  new  interpretation  of  the  Schwarzschild  geometry  such space
+bridge  can  swallow  in  a  very  short  time  (  ≈  10-4  sec)  unlimited  amounts  of  matter.  By  the  way,  an
+analysis based on the Kerr metric, although a little bit more complicated gives similar results.
+
+ 
+
+Following, the solution of the geodesic systems.
+
+39 of 42
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+How  to  figure  such  paths?  We  can  use  the  initial  (  r  ,  θ,  φ  )  representation  space.  Then  we  get  the
+above  system  of  differential  equations  and  the  schema  of   figure  27.
+
+Fig.27: Income and outcome geodesics.
+
+The geodesic seems to “bounce” on the Schwarzschild sphere, as shown of figure 28 too.
+ 
+
+Fig. 28: Plane  trajectory,  as  figured  in  a (r , θ, φ ) representation. 
+
+The income geodesic is in fold F, while the outcome is in the twin fold F. 
+
+In fold F the structure attracts the test particle. In the twin fold, it is repelled.
+
+But  all that  comes  from  such naïve  Euclidean  representation  of the  path.  Using  the  following  change
+of  space  marker:
+
+r = Rs + Log ch ρ
+
+40 of 42
+
+The  expression  of  joint  metrics  become:
+
+We have  figured  the  pitch  angle,  which tends  to  zero  when  the  geodesic passes  from  the F  fold  ( ρ  >
+0 )  to  the twin  fold  F  (  ρ <  0 )  and  ensures the  continuity  of  the  geodesic line.  On  figure  30  we  have
+given  a  2d  didactic  image  of  such  space  bridge  linking  a  portion  of  posicone  and  the  conjugated
+portion  of  a negacone.  There,  the  Schwarzschild  sphere  becomes  a simple  circle.
+
+Fig. 29: Didactic image of a fast flow space bridge. 
+
+ 
+ 
+
+References.
+
+[1] J.F.  Augereau: « Si la matière  sombre dévie les rayons  lumineux, c’est donc  qu’elle existe” (If dark matter bends
+light rays it shows it does exist). Le Monde, March 17th 2000. 
+[2] Interview of B. Fort in Ciel et Espace, June 2000.
+[3] J.P. Petit: The missing mass effect. Il Nuovo Cimento, B, vol. 109, July 1994, pp. 697-710
+[4] J.P. Petit, Twin Universe Cosmology. Astrophysics and Space Science. Astr. And Sp. Sc. 226: 273-307, 1995
+[5] Zel'dovich Ya.B., Astrophysica 6. 319 MNRAS 192, 192(1970)
+[6] Doroskhevich A.G. MNRAS 192, 32 (1980) 
+[7] Klypin A.A & Shandarin S.F. MNRAS 204, 891 (1983) 
+[8] Centrella J.M. & Mellot A.L. Nature 305, 196 (1983) 
+
+41 of 42
+
+[9] Mellot J.M. & Shandarin S.F. Nature 346 , 633 (1990) 
+[10] Shandarin S.F.  In Large Structures of the Universe, ed. J.Audouze, M.C. Peleton  and A.Szalay, 273. Dordrecht:
+Kulwer (1988).
+[11] Kofman. L.A., Pogosyan D. and Shandarin S. MNRAS 242, 200 (1990)
+[12] Peebles P.J.E. Principles of Physical Cosmology, Princeton University Press (1993). 
+[13] M. Myamoto and R. Nagai Publ. Astrom. Soc. Japan 27, 583, 1975  
+[14] J. Binney  and S. Tremaine, "Galactic  Dynamics", Princeton University  Press, Princeton, 1987.  [16] Bahcall J.N
+& Soneira R.M. APJ. S 44 p. 73 1980
+[17] Bahcall J.N., Flynn A and Gould A. APJ 389 p.234 1992 
+[18] B. Lindblad, Handbuch der Physik 53, (1959) 21 
+[19] C.C. Lin and F.H. Shu: Astrophysics and Gen. Relat. Vol.2 Gordon and Breach Sc. Publ. 1971, p. 235 
+[20] Toomree A. (1981) The structure and dynamics of normal galaxies. Cambridge University Press, p.111
+[21] Toomree A. and Toomree J. (1972) Astrophys. J. 178, 623 & Rev. Astronom. Astrophys. 15 (1977) 437
+[23]  E.  Athanassoula:  Companion  driven  spirals  and  bars.  International  Astronomic  Union.  Symposium  n°  146
+(1991) 
+[24] A. Toomree Astrophys. J. 158 (1969) 89 
+[25] R. H.Miller and B.F. Smith, Astrophys. J. 277 (1979) 785 
+[26] F. Hohl, Astrophys. Sp. Sc. 14 (1971) 91 
+[27] Holmberg E. (1941) Astrophys. J. 94, 
+[28] B. Sundelius and K.J. Donner: Interaction galaxies, Dynamics of Disk Galaxies (1991) Sundelius ed. p. 195 
+[29] S.  Engström: Feature  velocitys in  numerical simulations.  , Dynamics  of Disk  Galaxies (1991) Sundelius  ed. p.
+332 
+[30] A.Toomree Ann. Rev. Astron. Astrophys. 15 (1977) 437. 
+[31]  F.  Bouchet and  L.  Hernquist:  Cosmological  simulations using  theoretical tree  methods.  Astr. Jr  Suppl.  Series
+68, pp. 521, 538, 1988. 
+[32]  F.  Bouchet,  L.  Hernquist  and  Y.Suto:  Application  of  the  Ewald  method  to  cosmological  N-body  simulation.
+Apj. Suppl. Series 75 , pp. 231-240, 1991
+[33]  A.  Sakharov:  "CP  violation  and  baryonic  asymmetry  of  the  usniverse".  ZhETF  Pis'ma  5:  32-35  (1967):
+Traduction JETP Lett. 5: 24-27 (1967)
+[34] A. Sakharov: "A multisheet Cosmological Model" Preprint 
+[35] A.  Sakharov:  "Cosmological Model  of the  Universe with  a time-vector inversion". ZhETF  79:  689-693 (1980):
+Traduction in Sov. Phys. JETP 52: 349-351 (1980)
+[36]  A.  Sakharov:  "Topological  structure of  elementary particles and  CPT  asymmetry"  in  "problems  in  theoretical
+physics", dedicated to the memory of I.E. Tamm, Nauka, Moscow 1972, pp. 243-247
+[37]  Green  M.B.  &  Schwarz  J.H.  Nucl.  Phys.  B181,  502-530  (1981)  ;  B198,  225-268  (1982)  ;  Phys.  Lett.  B,
+444-448 (1982)
+[38] Green M.B. Surv. High Energy Phys. 3, 127 (1982) &Rohm R. , Phys. Rev. Lett. 54, pp 503-505 (1985)
+[40]  Kolb  E.W., Seckel  D  ,  Turner  M.S.:  The shadow world  of  superstring  theories,  Nature  Vol. 314,  April  1984,
+pp. 415-419
+[41] P.C.W.Davies & J.B.Brown: Superstrings, Cambridge University Press, 1988 
+[42] Abdus Salam, Nuovo Cimento 5, 299 (1957)
+[43]  Nima-Arkani Ahmed,  Savas  Dimopoulos  and  Georgi  Dvali:  "Les  dimensions  cachées  de  l'univers",  PLS,  Oct
+2000, n° 276, pp. 56-64  
+[44] J.P. Petit: An interpretation  of cosmological model with variable light velocity.  Modern Physics Letters A, Vol.
+3, n°16, Nov 1988, p.1527   
+[45]  J.P.  Petit:  Cosmological  model  with  variable  light  velocity:  the  interpretation  of  red  shifts.  Modern  Physics
+Letters A, Vol.3 , n° 18, Dec. 1988, p.1733   
+[46]  J.P.  Petit  &  M.  Viton:  Gauge  cosmological  model  with  variable  light  velocity.  Comparizon  with  QSO
+observational data. Modern Physics Letters A Vol.4 , n°23 (1989) pp. 2201-2210
+[47]  P.Midy  &  J.P.  Petit:  Scale  Invariant  Cosmology. The  international  Journal  of  Modern  Physics D,  Vol.8  June
+1999 pp.271-280 
+[48] E.A. Milne: Kinematic Relativity Oxford 1948. 
+[49]  J.D.  Anderson,  P.A.  Laing,  E.L.Lau,  A.S.Liu,  M.M.  Nieto  and  S.  Turchev:  Indication  for  Pioneer  10/11,
+Galileo  and  Ulysse  Data,  an  an  Apparent  Anomalous,  Weak,  Long-Range Acceleration. Phys.  Rev.  Letters:  81  31
+August 1998.  
+[50] G.J. Stephenson Jr., T. Goldman, Phys. Rep. 205, 211 (1992) ; 216, 343 (1992).
+[51] M.N. Nieto and T. Goldman, Phys. Re. 205, 221, 1991; 216, 343. 
+[52]  R.  Adler,  M.  Bazin &  M.  Schiffer: Introduction  to  general relativity,  Mac  Graw  Hill book,  1975,  chapter 10,
+section 10.5: Classical limit of gravitational equations, p. 345. 
+[53]  J.M.  Souriau,  Structure  des  Systèmes  Dynamiques,  Ed.  Dunod,  1970,  France  &  Structure  of  Dynamical
+Systems, Birkhauser Ed. Boston-Zurich, 1997.
+[53]  J.P.  Petit:  Univers énantiomorphes à  flèches  du  temps  opposés  (Enantiomorphic universes with  opposite  time
+arrows). Comptes rendus de l’Académie des Sciences de Paris, t.284, pp. 1977
+[54] Eddington S.A: A comparizon of Withead’s and Einstein’s formulæ. Nature 113: 192 (1924).
+
+42 of 42
+
+

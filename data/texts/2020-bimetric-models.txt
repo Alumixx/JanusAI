@@ -1,0 +1,3764 @@
+S. Michea 1, J.-P. Petit 2, N.Debergh 3 and G. D’Agostini 4
+
+3 Department of agronomy, Haute Ecole Charlemagne, 3, rue Saint-Victor, 4500 Huy,
+
+Bimetric models
+
+1 sebastien.michea@manaty.net
+
+2 jean-pierre.petit@manaty.net
+
+Belgium, nathalie.debergh@hech.be
+
+4 gilles.dagostini@manaty.net
+
+Abstract
+
+Following a brief review of existing bimetric models, we show that
+Janus Cosmological Model brings an alternative solution to the (cid:3)CDM
+model by introducing negative masses that preserve action-reaction
+principle (eliminating the runaway eﬀect). By limiting ourselves to
+Newtonian approximation solutions, an action leads to coupled (cid:12)eld
+equations satisfying Bianchi identities. This model provides an expla-
+nation to the recently discovered Great Repeller eﬀect.
+
+Keywords : Cosmology, General Relativity, Bimetric models
+
+1
+
+Introduction
+
+Nowadays the central question in Cosmology and Astrophysics can be sum-
+marized to the following:
+
+With no evidence so far of dark matter existence and a clear
+dark energy model, can we continue to be contented with the
+mainstream (cid:3)CDM, or are we ready to reconsider completely our
+theoretical tools, including General Relativity?
+
+Subsequent to the recent failures in attempts to reveal the existence of
+dark matter, whether under deep layers of rock or in space from the in-
+ternational space station, the second option should be seriously considered.
+Pushing through the quest of dark matter detection, assuming each failure
+implies weaker and weaker interaction with conventional matter, brings ex-
+periments to boundaries where the detection become practically impossible,
+the signal being scrambled by cosmic neutrinos (cid:13)ow noise.
+
+1
+
+The MOND (Modi(cid:12)ed Newtonian Dynamics) that consist in proposing
+a modi(cid:12)cation of the Newton law in order to account for some observations
+like the (cid:13)atness of rotation curves in galaxies. But the adaptation of the
+law is ad-hoc and it is diﬃcult to (cid:12)nd ontological base that would serve as a
+starting point of this cosmologic model revision.
+
+For an alternative to general relativity to be able to compete with the
+mainstream (cid:3)CDM model, it has to describe the nature of those two uniden-
+ti(cid:12)ed components that are dark matter and black energy. Several attempts
+have been made in this direction, via cosmological modes including some neg-
+ative masses. Among them some keep the geometrical vision of the General
+Relativity, being variations the Einstein equation, others propose a complete
+change of paradigm by introducing a biometric description of the universe.
+Let us start with the (cid:12)rst models. There is the approach of the French
+researchers Gabriel Chardin et Benoit-L(cid:19)evy [1] that suggest turning to the
+1933 Dirac Milne model [2]. This model is based on the hypothesis of matter-
+antimatter symmetric cosmology in which antimatter is supposed to present
+a negative active gravitational mass. In addition the global mass is assumed
+to be zero in average so that the model gives a linear evolution of the scale
+factor in time, in contradiction with the acceleration of the cosmic expansion
+([3],[4],[5]) while still bringing a solution to the problem of the cosmological
+horizon. This model furthermore assumes the existence of a mechanism in-
+suring the separation of this mix of matter/anti-matter. The interest in such
+a model, although missing theoretical justi(cid:12)cations of its assumptions, is to
+bring an insight about the abundance of light elements in the hypothesis of
+a dynamic close to an expansion linear in time. Antimatter classical models
+confer to it a priori a positive mass. The authors of this model have high
+expectations form weighting experiments of the antimatter that are ongoing
+that the CERN (alpha et Gbar experiments).
+
+We must then quote the article of the English researcher J. Farnes [6].
+He proposes to unify dark matter and dark energy in a single entity of neg-
+ative mass.
+In order to (cid:12)t with the mainstream (cid:3)CDM model, in which
+the equivalent density in constant over time, and to mimic the cosmological
+constant (cid:3), the author is led to invoke an hypothetical mechanism of nega-
+tive mass continuous creation hence bringing more questions than answers.
+Nevertheless, some numerical simulations are given based on the assumption
+that galaxies would (cid:12)t in gaps inside some negative masses distribution, this
+later one con(cid:12)ning the galaxies. The author recovers the (cid:13)atness of rotation
+curves by using ideas introduced earlier in [7]. For a detailed analysis of that
+
+2
+
+publication see the references [8], [9] and [10].
+
+In those two approaches the authors keep the geometric context of General
+
+Relativity, meaning that their model is derived from Einstein equations.
+
+2 The runaway eﬀect
+
+This eﬀect, exhibited in 1957 by Hermann Bondi [11] comes from the fact
+that the behavior of test masses, put in a gravitational (cid:12)eld, is deduced
+from a single metric solution. Therefore, put in a gravitational (cid:12)eld created
+by positive masses, the positive or negative test masses are subject to an
+attraction force. Put in a gravitational (cid:12)eld created by negative masses, the
+positive or negative test masses are subject to a repulsion force. Hence the
+schema of positive/negative masses interaction, according to the Einstein
+model, correspond to
+
+- Positive masses attract each other according to the Newton law
+
+- Negative masses repel each other according to an (anti-)Newton law
+
+- When masses of opposite signs are put in the presence of each other,
+
+the positive mass run away, followed by the negative mass
+
+If those masses are equal in absolute value, then while undergoing a uni-
+formly accelerated motion, the distance between them stay constant. At the
+extreme, this paradoxical eﬀect (called runaway eﬀect) is done at constant
+energy as the kinetic energy of the negative mass is itself negative. Let us
+note also that this eﬀect is in contradiction with the action-reaction principle.
+In [6] J.Farnes simply says that this runaway phenomenon could be at the
+origin of the huge energy of the so-called cosmic rays in spite his introduction
+of negative masses in the geometrical context of general relativity implies the
+abandonment of the action-reaction principle. Can we envisage physics with
+such a choice?
+
+3 The choice of a bimetric geometry
+
+If we plan to maintain the action-reaction principle, it is necessary to envision
+a major paradigm shift in which the 1917 Einstein model is a step in building
+a more elaborated bimetric cosmological model.
+
+3
+
+Historically, a (cid:12)rst proposal has been made in the 1994 article [12]. In
+this (cid:12)rst article, several aspects are covered, like the fact that galaxies could
+be trapped in gaps in the negative mass (cid:12)eld exercising a con(cid:12)nement. If the
+model presented raises the explanation of those phenomena with the help of
+coupled (cid:12)eld equations, it lacks mathematical foundation. The year after,
+the author introduces the negative gravitational lensing eﬀect to explain the
+strong lensing eﬀect observed that always suggest introducing some missing
+mass.
+
+The (cid:12)rst paper to introduce a bimetric model based on more solid mathe-
+matical foundation is the one of T.Damour and I.Kogan, in 2002 ([13], [14]).
+The authors invoke two left and right branes, that interact via some gravi-
+ton having a mass spectrum. Later several interaction models including this
+kind of vectors are considered. Noticing that taking into account Kaluza
+type models lead to the conclusion that a gap would exist between light and
+heavy gravitons, the authors decide to focus on light gravitons. The two
+(cid:22)(cid:23) and gL
+right and left populations behavior is described by two metrics gR
+(cid:22)(cid:23)
+from which they derive two Ricci tensor (cid:12)elds R(cid:22)(cid:23)(gR
+(cid:22)(cid:23)) and R(cid:22)(cid:23)(gL
+(cid:22)(cid:23)). Then
+an action integral is proposed :
+
+∫
+
+∫
+
+p(cid:0)gR(M 2
+
+RR(gR) (cid:0) (cid:3)R) +
+
++
+
+d4x
+
+S =
+
+d4x
+
+∫
+
+∫
+p(cid:0)gL(M 2
+LR(gL) (cid:0) (cid:3)L) +
+p(cid:0)gRL(ϕR; gR) (cid:0) (cid:22)4
+
+d4x
+
+p(cid:0)gLL(ϕL; gL)
+
+d4x
+
+d4x(gRgL)
+
+1
+
+4 V (gL; gR) (1)
+
+in that expression we (cid:12)nd the Lagrangian densities
+
+p(cid:0)gL(M 2
+p(cid:0)gR(M 2
+
+LR(gL) + L(ϕL; gL) (cid:0) (cid:3)L)
+
+RR(gR) + L(ϕR; gR) (cid:0) (cid:3)R)
+
+p(cid:0)gL and
+p(cid:0)gR represent two elementary hypervolumes de(cid:12)ned in the two branes.
+
+that reveal a generalization of the Lagrangian derivation technic whih is at
+the base of the Einstein equation construction. The quantities d4x
+d4x
+In order to introduce an interaction term, they suggest to use kind of an
+average hypervolume d4x
+Variation calculus lead them to propose the following system of two coupled
+
+gLgR .
+
+p
+
+∫
+
+and
+
+4
+
+equations :
+
+L(R(cid:22)(cid:23)(gL) (cid:0) 1
+2
+R(R(cid:22)(cid:23)(gR) (cid:0) 1
+gR
+(cid:22)(cid:23)R(gR)) + (cid:3)RgR
+
+gL
+(cid:22)(cid:23)R(gL)) + (cid:3)LgL
+
+2M 2
+
+2M 2
+
+(cid:22)(cid:23) = tL
+
+(cid:22)(cid:23) + T L
+(cid:22)(cid:23)
+
+(cid:22)(cid:23) = tR
+
+(cid:22)(cid:23) + T R
+(cid:22)(cid:23)
+
+2
+
+(2)
+
+(3)
+
+∫
+∫
+
+S =
+
++
+
+d4x
+
+d4x
+
+p(cid:0)g((g) R
+√
+8(cid:25)G
+(cid:0)h((h) R
+8(cid:25)G
+p(cid:0)g((g) R
+√(cid:0)g.
+
+The quantities R(gL); R(gR) are two Ricci scalars. The terms T L
+(cid:22)(cid:23) are
+the left and right matter tensor (cid:12)elds. The tensors tL
+(cid:22)(cid:23); tR
+(cid:22)(cid:23) are supposed
+to be terms describing the interaction between the two branes. From those
+(cid:23) ;∇R
+two metrics we build the covariant derivation operators ∇L
+(cid:23) from which
+Bianchi identities are supposed to be expressed. The article does not describe
+the construction of the tensor (cid:12)elds tL
+(cid:22)(cid:23) and their theoretical progress
+stops there.
+
+(cid:22)(cid:23); T R
+
+(cid:22)(cid:23); tR
+
+A more elaborated work is the one of the researcher Hossenfelder ([15],
+[16], [17]). The two populations are associated to metrics designated by the
+letters g and h. Le matter tensor (cid:12)elds are designated by the letters ϕ and
+  . She proposes the following action :
+
+∫
+∫
+
++ L( )) +
+
+d4x
+
++ L(ϕ)) +
+
+d4x
+
+p(cid:0)hPh(L(ϕ))
+√(cid:0)gPg(L( ))
+
+p(cid:0)h((h) R
+
+8(cid:25)G +L( )) and
+
+There are four Lagrangian densities in the integral.
+The terms
+of the General Relativity Lagrangian densities. The terms
+
+√(cid:0)gPg(L( )) characterize the interaction of the the two entities, one on
+p(cid:0)hPh(L(ϕ)) and
+p(cid:0)h and d4x
+
+the other. Those terms are built from the quadridimensional hypervolumes
+d4x
+From this action the author produces a system of two equations:
+
+8(cid:25)G +L(ϕ)) are the generalization
+
+√
+
+(g)R(cid:20)(cid:23) (cid:0) 1
+
+√
+(cid:20)(cid:23) R = T(cid:20)(cid:23) (cid:0) (V a(cid:23)
+g(g)
+(cid:23))
+T(cid:23)(cid:20)
+T(cid:20)(cid:23) (cid:0) T (cid:23)(cid:20)]
+
+(cid:23)(cid:20) R = (cid:0)[(W a(cid:20)
+(cid:20)a(cid:23)
+h(h)
+(cid:23))
+
+h
+g
+
+2
+
+g
+h
+
+(h)R(cid:23)(cid:20) (cid:0) 1
+
+(4)
+The underline indicates that two diﬀerent coordinate systems are fx0; x1; x2; x3g
+and fx0; x1; x2; x3g the line elements can be written :
+
+2
+
+ds(g)2 = g(cid:20)(cid:23)dx(cid:20)dx(cid:23) ; ds(h)2 = g(cid:20)(cid:23)dx(cid:20)dx(cid:23)
+g(cid:20)(cid:23) = g(cid:20)(cid:23)(x(cid:20); x(cid:23)) ; h(cid:20)(cid:23) = h(cid:20)(cid:23)(x(cid:20); x(cid:23))
+
+(5)
+
+5
+
+The map a , introduces a link between the two metrics that the author de(cid:12)ne
+by:
+
+g(cid:28) (cid:21) = a(cid:23)
+
+(cid:28) a(cid:20)
+
+(cid:21)h(cid:23)(cid:20) ; g(cid:28) (cid:21) = a(cid:23)
+
+(cid:28) a(cid:20)
+
+(cid:21)h(cid:23)(cid:20)
+
+(6)
+
+depending whether the application is de(cid:12)ned in one coordinate system or
+the other. The search of a solution implies to de(cid:12)ne that application.
+In
+the article [15] the author assumes, for sake of symmetry, that one of the
+two population is a copy of the other, which hence make it physically less
+sound. The author focuses on giving an interpretation to the signi(cid:12)cance
+of the cosmological constant, the fact that its value is small. She mainly
+considers that the interaction between the two classes of matter is of relative
+importance, due to the weakness of the force of gravity.
+
+4 Diﬀerential geometry in a dimensionless con-
+
+text
+
+Let us consider the Einstein equation without its cosmological constant:
+
+In which the Einstein constant takes the form:
+
+R(cid:23)
+(cid:22)
+
+(cid:0) 1
+2
+
+R(cid:14)(cid:23)
+
+(cid:22) = (cid:31)T (cid:23)
+(cid:22)
+
+(cid:31) = (cid:0)8(cid:25)G
+c2
+
+(7)
+
+(8)
+
+(cid:22) in this form is M L
+
+(cid:0)2
+M , the one of the
+(cid:0)3 and the dimension of the Ricci tensor is
+
+The dimension of the the gravitation constant is G (cid:24) L3T
+tensor T (cid:23)
+R (cid:24) L
+(cid:0)2.
+We write the metric
+(9)
+where gaussian coordinates fx0; x1; x2; x3g are lengths.
+fx1; x2; x3g are then space coordinates and x0 is a time-marker classically
+identi(cid:12)ed to ct.
+The s variable is also a length. Divided by the speed of light c it becomes
+the proper time. Therefore g(cid:22)(cid:23) numbers do not have any dimension.
+We usually write the FLRW in the form:
+
+ds2 = g(cid:22)(cid:23)dx(cid:22)dx(cid:23)
+
+ds2 = dx02 (cid:0) a2[
+
+du2
+1 (cid:0) ku2 + u2d(cid:18)2 + u2sin2(cid:18) dϕ2]
+
+(10)
+
+6
+
+Let us divide the terms by a characteristic length L by setting:
+
+(cid:27) =
+
+; (cid:24)0 =
+
+; (cid:11) =
+
+x0
+L
+
+a
+L
+
+s
+L
+
+the FLRW metric is then written, in a dimensionless form:
+
+d(cid:27)2 = d(cid:24)02 (cid:0) (cid:11)2[
+
+du2
+1 (cid:0) ku2 + u2d(cid:18)2 + u2sin2(cid:18) dϕ2]
+
+(11)
+
+The choice in the dimension conferred to s and to other variables determines
+the dimension of the metric coeﬃcients. With our choice, those are numbers.
+In order to indicate that our metric coeﬃcients are in a dimensionless form,
+we will use greek letters and replace g(cid:22)(cid:23) by (cid:22)!(cid:22)(cid:23) . The metric can then be
+written:
+
+0BB@ 1
+
+(cid:22)!(cid:22)(cid:23) =
+
+0
+0 (cid:0) (cid:11)2
+1(cid:0)ku2
+0
+0
+0
+0
+
+0
+0
+
+0
+
+(cid:0)(cid:11)2u2
+
+(cid:0)(cid:11)2u2sin2(cid:18)
+
+1CCA
+
+where all coeﬃcients are dimensionless numbers . We can therefore build
+dimensionless Ricci tensor (cid:0)(cid:23)
+(cid:22) and Ricci scalar (cid:0) . We will also write the
+matter tensor in a dimensionless way, here in a mixed form:
+
+Hence the Einstein equation would write in a mixed dimensionless form:
+
+5 The dimensionless bimetric approach
+
+We shall start from a manifold M4 equipped with a dimensionless coordinate
+system (simples numbers designated by Greek letters) :
+
+0
+0
+0
+
+1CCA
+
+0BB@ !
+
+(cid:4)(cid:23)
+
+(cid:22) =
+
+0
+0
+0
+0 (cid:0)(cid:25)
+0
+0
+0 (cid:0)(cid:25)
+0
+0
+0 (cid:0)(cid:25)
+0
+0
+
+(cid:0)(cid:23)
+(cid:22)
+
+(cid:0) 1
+2
+
+(cid:0)(cid:14)(cid:23)
+
+(cid:22) = 8(cid:25)(cid:4)(cid:23)
+(cid:22)
+
+f(cid:24)0; (cid:24)1; (cid:24)2; (cid:24)3g
+
+7
+
+(12)
+
+(13)
+
+(14)
+
+(15)
+
+or, in polar form
+
+and two Riemanian metrics (cid:22)!(+)
+We now have to build an action S((cid:22)!(+)
+(cid:22)(cid:23) ) , knowing that its variation
+will be built from the variations of both metrics and that those variations
+will be linked
+
+(cid:22)(cid:23) with signature (+ - - - ).
+
+(cid:22)(cid:23) ; (cid:22)!((cid:0))
+
+The two metrics belong to the functional space of Riemanian metrics with
+signature ( + - - - ). We link those variations by the following simple relation:
+
+f(cid:24)0; u; (cid:18); ϕg
+
+(cid:22)(cid:23) , (cid:22)!((cid:0))
+
+(cid:14) (cid:22)!(+)
+
+(cid:22)(cid:23) ; (cid:14) (cid:22)!(+)
+(cid:22)(cid:23)
+
+! (cid:14)S
+
+(cid:22)(cid:23) = (cid:0)(cid:14) (cid:22)!((cid:0))
+
+(cid:22)(cid:23)
+
+(cid:14) (cid:22)!(+)
+
+(16)
+
+(17)
+
+(18)
+
+This will be motivated later, on the ground of linearized solutions coming
+from coupled (cid:12)eld equation resulting from the lagrangian derivation under
+those symmetry constraints.
+Let us recall that we want to build a system of coupled (cid:12)eld equations sat-
+isfying to equation identities coming from Bianchi identities and allowing
+to produce solutions that can be written in the form of a couple of metrics
+((cid:22)!(+)
+
+(cid:22)(cid:23) ) , linearized and corresponding to the following symmetries :
+
+(cid:22)(cid:23) ; (cid:22)!((cid:0))
+
+- Stationary linearized solutions with spherical symmetry of the homo-
+
+geneous system (in vacuum)
+
+- Stationary linearized solutions with spherical symmetry of the inhomo-
+
+geneous system (in the presences of masses)
+
+- Stationary linearized solutions with axial symmetry
+
+- Non-stationary linearized solutions with isotropy and homogeneity
+
+Relation (18) will be justi(cid:12)ed a-posteriori.
+We are writing the action:
+
+√
+[((cid:0)(+)(cid:0)2(cid:21)(+))
+
+√
+(cid:0)(cid:22)!((cid:0))+((cid:0)((cid:0))+2(cid:21)((cid:0)))
+
+∫
+∫
+
+(cid:6) =
+
+D4
+
+We have
+
+√
+
+√
+(cid:0)(cid:22)!((cid:0))(cid:0)2^(cid:21)(+)
+(19)
+
+√
+(cid:0)(cid:22)!(+)]d4(cid:24)
+
+√
+(cid:0)(cid:22)!(+)(cid:14) (cid:22)!(+)(cid:22)(cid:23)
+
+d4(cid:24)
+
+(20)
+
+(cid:14)
+
+[(cid:0)(+)
+
+D4
+
+(cid:0)(cid:22)!(+)]d4(cid:24) =
+
+[(cid:0)(+)
+(cid:22)(cid:23)
+
+(cid:0)(+) (cid:22)!(+)
+(cid:22)(cid:23) ]
+
+D4
+
+(cid:0)(cid:22)!(+)+2^(cid:21)((cid:0))
+∫
+
+(cid:0) 1
+2
+
+8
+
+∫
+
+∫
+
+[(cid:0)((cid:0))
+
+(cid:14)
+
+D4
+
+√
+∫
+∫
+
+(cid:14)
+
+(cid:14)
+
+∫
+∫
+
+(cid:14)
+
+(cid:14)
+
+[^(cid:21)(+)
+
+D4
+
+[^(cid:21)((cid:0))
+
+D4
+
+(cid:22)(cid:23)
+
+D4
+
+[(cid:21)(+)
+
+[(cid:21)((cid:0))
+
+√
+(cid:0)(cid:22)!((cid:0))]d4(cid:24) =
+[(cid:0)((cid:0))
+√
+(cid:0)(cid:22)!(+)]d4(cid:24) =
+(cid:0)(cid:22)!((cid:0))]d4(cid:24) =
+∫
+∫
+
+√
+(cid:0)(cid:22)!(+)]d4(cid:24) = (cid:0)
+√
+(cid:0)(cid:22)!((cid:0))]d4(cid:24) = (cid:0)
+
+D4
+
+∫
+∫
+
+(cid:0) 1
+2
+1
+2
+1
+2
+
+D4
+
+1
+2
+
+1
+2
+
+^(cid:4)(+)
+(cid:22)(cid:23)
+
+^(cid:4)((cid:0))
+
+(cid:22)(cid:23)
+
+D4
+Taking (18) into account we can write:
+
+D4
+
+D4
+
+D4
+We get the coupled (cid:12)eld equations:
+
+√
+(cid:0)(cid:22)!((cid:0))(cid:14) (cid:22)!((cid:0))(cid:22)(cid:23)
+
+d4(cid:24)
+
+(21)
+
+d4(cid:24)
+
+d4(cid:24)
+
+(cid:22)(cid:23)
+
+(cid:4)(+)
+(cid:22)(cid:23)
+
+(cid:4)((cid:0))
+
+√
+√
+
+√
+√
+
+(cid:0)((cid:0)) (cid:22)!((cid:0))
+(cid:22)(cid:23) ]
+(cid:0)(cid:22)!(+)(cid:14) (cid:22)!(+)(cid:22)(cid:23)
+(cid:0)(cid:22)!((cid:0))(cid:14) (cid:22)!((cid:0))(cid:22)(cid:23)
+√
+√
+√
+√
+
+(cid:22)!(+)
+(cid:22)!((cid:0))
+(cid:22)!((cid:0))
+(cid:22)!(+)
+
+(cid:22)!((cid:0))
+(cid:22)!(+)
+
+^(cid:4)((cid:0))
+(cid:22)(cid:23) ]
+
+(cid:0)(cid:22)!((cid:0))(cid:14) (cid:22)!((cid:0))(cid:22)(cid:23)
+
+d4(cid:24)
+
+(cid:0)(cid:22)!(+)(cid:14) (cid:22)!(+)(cid:22)(cid:23)
+
+d4(cid:24)
+
+(cid:0)(+)
+(cid:22)(cid:23)
+
+(cid:0)(+) (cid:22)!(+)
+
+(cid:22)(cid:23) = (cid:0)[(cid:4)(+)
+(cid:22)(cid:23) +
+
+(cid:0)((cid:0))
+
+(cid:22)(cid:23)
+
+(cid:0)((cid:0)) (cid:22)!((cid:0))
+
+(cid:22)(cid:23) = [(cid:4)((cid:0))
+
+(cid:22)(cid:23) +
+
+(cid:22)!(+)
+(cid:22)!((cid:0))
+
+^(cid:4)(+)
+(cid:22)(cid:23) ]
+
+(cid:0) 1
+2
+(cid:0) 1
+2
+
+which are the Janus equations, written in dimensionless form. We can then
+look for FLRW solutions, written in dimensionless form:
+
+d(cid:27)(+)2
+
+= d(cid:24)(0)2 (cid:0) (cid:11)(+)2
+
+[
+
+d(cid:27)((cid:0))2
+
+= d(cid:24)(0)2 (cid:0) (cid:11)((cid:0))2
+
+[
+
+du2
+
+du2
+
+1 (cid:0) k(+)u2 + u2d(cid:18)2 + u2sin2(cid:18) dϕ2]
+
+1 (cid:0) k((cid:0))u2 + u2d(cid:18)2 + u2sin2(cid:18) dϕ2]
+
+whose determinants are
+
+(cid:22)!(+) = (cid:0) (cid:11)(+)6u6
+
+1 (cid:0) k(+)u2 ; (cid:22)!((cid:0)) =
+
+(cid:11)((cid:0))6u6
+1 (cid:0) k((cid:0))u2
+
+By limiting ourself (this will be justi(cid:12)ed in the sequel) to hyperbolic solutions:
+
+Hence
+
+k(+) = k((cid:0)) = (cid:0)1
+√
+
+(cid:22)!((cid:0))
+(cid:22)!(+) = (
+
+(cid:11)((cid:0))
+(cid:11)(+) )3
+
+9
+
+(22)
+
+(23)
+
+(24)
+
+(25)
+
+(26)
+
+(27)
+
+(28)
+
+(29)
+
+(30)
+
+(31)
+
+(32)
+
+and we obtain
+
+(cid:0)(+)
+(cid:22)(cid:23)
+
+(cid:0)(+) (cid:22)!(+)
+
+(cid:22)(cid:23) = (cid:0)[(cid:4)(+)
+
+(cid:22)(cid:23) + (
+
+(cid:0)((cid:0))
+
+(cid:22)(cid:23)
+
+(cid:0)((cid:0)) (cid:22)!((cid:0))
+
+(cid:22)(cid:23) = [(cid:4)((cid:0))
+
+(cid:22)(cid:23) + (
+
+(cid:0) 1
+2
+(cid:0) 1
+2
+
+(cid:22)(cid:23) ]
+
+(cid:11)((cid:0))
+(cid:11)(+) )3 ^(cid:4)((cid:0))
+(cid:11)((cid:0))
+(cid:11)(+) )3 ^(cid:4)(+)
+(cid:22)(cid:23) ]
+
+those are the equations used in 2014’s article [18], written in dimensionless
+form, that allowed to bring out the acceleration of the cosmic expansion. In
+that article the form of the second members have been determined to ensure
+the existence of the solution (in virtue of mass conservation) of the system
+of diﬀerential equations determining the solutions (cid:11)(+)((cid:24)0) and (cid:11)((cid:0))((cid:24)0) .
+
+6
+
+Induced Geometry
+
+(cid:22)(cid:23) and (cid:22)!((cid:0))
+The geometry of the entities are described by the two metrics (cid:22)!(+)
+.
+In the right hand side of the two equations (33) and (34) are some terms ^(cid:4)(+)
+(cid:22)(cid:23)
+and ^(cid:4)((cid:0))
+(cid:22)(cid:23) that can be considered as the sources of induced geometries, by the
+matter of one species on the geometry of the other. As show in 2019’s article
+[19], it is the satisfaction of the Bianchi identities that determines their form.
+By considering the (constant) Lorentz matrix
+
+(cid:22)(cid:23)
+
+0BB@ 1
+
+(cid:17)(cid:22)(cid:23) =
+
+0
+0
+0
+0 (cid:0)1
+0
+0
+0 (cid:0)1
+0
+0
+0 (cid:0)1
+0
+0
+
+1CCA
+
+^(cid:4)(+)
+(cid:22)(cid:23) = (cid:17)(cid:22)(cid:23)(cid:4)(+)
+
+(cid:22)(cid:23) ; ^(cid:4)((cid:0))
+
+(cid:22)(cid:23) = (cid:17)(cid:22)(cid:23)(cid:4)((cid:0))
+
+(cid:22)(cid:23)
+
+(33)
+
+(34)
+
+(35)
+
+(36)
+
+We have
+
+or, more explicitely
+
+0BB@ !(+)
+
+(cid:4)(cid:23)
+(cid:22)
+
+(+) =
+
+0
+
+0 (cid:0)(cid:25)(+)
+0
+0
+
+0
+0
+
+(cid:0)(cid:25)(+)
+
+0
+0
+
+0
+
+0
+0
+0
+
+(cid:0)(cid:25)(+)
+
+1CCA ; (cid:4)(cid:23)
+
+(cid:22)
+
+((cid:0)) =
+
+0BB@ !((cid:0))
+
+1CCA
+
+0
+
+0 (cid:0)(cid:25)((cid:0))
+0
+0
+
+0
+0
+
+0
+0
+0
+
+(cid:0)(cid:25)((cid:0))
+
+0
+0
+
+(cid:0)(cid:25)((cid:0))
+
+0
+(37)
+
+10
+
+0BB@ !(+)
+
+0
+0
+0
+
+^(cid:4)(cid:23)(+)
+
+(cid:22) =
+
+1CCA ; ^(cid:4)(cid:23)((cid:0))
+
+(cid:22) =
+
+0BB@ !((cid:0))
+
+0
+0
+0
+
+(cid:25)(+)
+
+0
+
+0
+0
+
+0
+0
+
+0
+
+(cid:25)(+)
+
+0
+0
+0
+
+(cid:25)(+)
+
+0
+(cid:25)((cid:0))
+0
+0
+
+0
+0
+(cid:25)((cid:0))
+0
+
+0
+0
+0
+(cid:25)((cid:0))
+
+(38)
+Let us review the linearized solutions corresponding to the diﬀerent symme-
+tries considered earlier. In order to do that let us write the (cid:12)eld equations
+in their mixed form:
+
+(cid:0)(+)(cid:23)
+
+(cid:22)
+
+(cid:0)(+)(cid:14)(cid:23)
+
+(cid:22) = (cid:0)[(cid:4)(+)(cid:23)
+
+(cid:22) + (
+
+(cid:0)((cid:0))(cid:23)
+
+(cid:22)
+
+(cid:0)((cid:0))(cid:14)(cid:23)
+
+(cid:22) = [^(cid:4)((cid:0))(cid:23)
+
+(cid:22) + (
+
+(cid:0) 1
+2
+(cid:0) 1
+2
+
+]
+
+(cid:22)
+
+(cid:11)((cid:0))
+(cid:11)(+) )3 ^(cid:4)(+)(cid:23)
+(cid:11)(+)
+(cid:11)((cid:0)) )3(cid:4)((cid:0))(cid:23)
+
+(cid:22)
+
+]
+
+7 Solution in the vacuum with spherical sym-
+
+metry
+
+The equations are
+
+(cid:22)
+
+(cid:0)(+)(cid:23)
+(cid:0)((cid:0))(cid:23)
+
+(cid:22)
+
+(cid:0) 1
+2
+(cid:0) 1
+2
+
+(cid:0)(+)(cid:14)(cid:23)
+(cid:0)((cid:0))(cid:14)(cid:23)
+
+(cid:22) = 0
+
+(cid:22) = 0
+
+whose solution is the classical exterior Schwarzschild solution:
+
+d(cid:27)(+)2
+
+= (1 (cid:0) 2(cid:22)
+u
+
+)d(cid:24)02 (cid:0) du2
+1 + 2(cid:22)
+u
+)d(cid:24)02 (cid:0) du2
+1 (cid:0) 2(cid:22)
+u
+We consider them in their linearized form:
+
+d(cid:27)((cid:0))2
+
+= (1 +
+
+2(cid:22)
+u
+
+(cid:0) u2(d(cid:18)2 + sin2(cid:18) dϕ2)
+
+(cid:0) u2(d(cid:18)2 + sin2(cid:18) dϕ2)
+
+d(cid:27)(+)2
+
+= (1 (cid:0) 2(cid:22)
+u
+
+d(cid:27)((cid:0))2
+
+= (1 +
+
+)d(cid:24)02 (cid:0) (1 +
+
+2(cid:22)
+u
+)d(cid:24)02 (cid:0) (1 (cid:0) 2(cid:22)
+u
+
+2(cid:22)
+u
+
+)du2 (cid:0) u2(d(cid:18)2 + sin2(cid:18) dϕ2)
+
+)du2 (cid:0) u2(d(cid:18)2 + sin2(cid:18) dϕ2)
+
+Those metrics belong to the sub space of spherically symmetric Riemanian
+metrics of signature ( + - - - ), solution of the system of the two (cid:12)eld equations
+
+11
+
+1CCA
+
+(39)
+
+(40)
+
+(41)
+
+(42)
+
+(43)
+
+(44)
+
+(45)
+
+(46)
+
+without right hand side. Those solutions depend in a single parameter and
+the satisfy relation (18) :
+
+0BB@ (cid:0) 2
+
+u
+
+0
+0 0
+0 (cid:0) 2
+u 0 0
+0 0
+0
+0
+0
+0
+0 0
+
+1CCA ; (cid:14) (cid:22)!((cid:0))
+
+0BB@ 2
+
+0 0 0
+u
+2
+0
+u 0 0
+0 0 0 0
+0 0 0 0
+
+1CCA
+
+(cid:14) (cid:22)!(+)
+
+(cid:22)(cid:23) = (cid:14)(cid:22)
+
+(cid:22)(cid:23) = (cid:14)(cid:22)
+
+(47)
+
+We might argue that the relation (18) is not covariant, i.e. not independent
+of the choice of coordinates. Let us remind here that in 2017 this covari-
+ance principle has been questioned subsequently through the presentation of
+a large scale map of the universe [20] in a huge cube of 1.5 billion light years
+extension with our galaxy in the center. The kinetic map has been obtained
+by subtracting the Hubble (cid:12)eld hence bringing out the proper motion of the
+galaxies with respect to the space itself.
+Moreover, the observers determined the dynamic parameters of an observing
+system that would annihilate the anisotropy of the CMB. It turned out that
+an observer moving at a speed of 651 km/s relative to our galaxy, point-
+ing towards the geometric centre of the Great Repeller, would capture a
+totally isotropic image of the CMB. We can therefore consider that this ob-
+server would be motionless in relation to the universe itself, animated at zero
+speed. The (cid:13)ow of time would therefore be maximal for this observer. This
+corresponds to a resurgence of Mach’s principle, linking space to matter,
+identifying container and content.
+According to this principle, by considering a concentration of matter cen-
+tered on a point, this point can then claim to play the role of the origin of a
+radial coordinate u.
+
+8 Spherically symmetrical solution in mate-
+
+rial of constant density
+
+We (cid:12)nd the solution of the system of two equations with a second mem-
+ber, which is associated with so-called inner Schwarzschild metrics. These
+solutions depend only on one parameter, the density ! (expressed in dimen-
+sionless form).
+
+12
+
+In a non-adimensional form, inside a sphere of radius rs :
+
+√
+√
+1 (cid:0) r2
+s
+^R2
+
+√
+√
+1 (cid:0) r2
+^R2
+
+(cid:0) 1
+2
+
+ds(+)2 = [
+
+ds((cid:0))2 = [
+
+3
+2
+
+3
+2
+
+with
+
+]2c2dt2(cid:0) dr2
+1 (cid:0) r2
+
+^R2
+
+(cid:0)r2d(cid:18)2(cid:0)r2sin2(cid:18) dϕ2 (48)
+
+1 +
+
+r2
+s
+^R2
+
+(cid:0) 1
+2
+
+1 +
+
+r2
+^R2
+
+]2c2dt2(cid:0) dr2
+1 + r2
+^R2
+
+(cid:0)r2d(cid:18)2(cid:0)r2sin2(cid:18) dϕ2 (49)
+
+^R2 =
+
+8(cid:25)Gj(cid:26)j
+3c2
+
+(50)
+
+√
+1 (cid:0) !u2
+√
+
+s
+
+3
+2
+
+d(cid:27)(+)2 = [
+
+But in dimensionless form with a dimensionless density ! we get :
+
+p
+1 (cid:0) !u2]2d(cid:24)(0)2 (cid:0) du2
+1 (cid:0) !u2
+1 + !u2]2d(cid:24)(0)2 (cid:0) du2
+1 + !u2
+
+(cid:0) u2d(cid:18)2 (cid:0) u2sin2(cid:18) dϕ2
+(51)
+(cid:0) u2d(cid:18)2 (cid:0) u2sin2(cid:18) dϕ2
+(52)
+These metrics depend only on the single parameter ! . By linearizing and
+diﬀerentiating these metrics also satisfy the relationship (26).
+
+(cid:0) 1
+2
+(cid:0) 1
+2
+
+d(cid:27)((cid:0))2 = [
+
+1 + !u2
+s
+
+p
+
+3
+2
+
+9 Linearized metric coupled stationary ax-
+
+isymmetric solutions
+
+(after Lense and Thiring )
+ds(+)2 = (1(cid:0) 2m
+r
+
+2m
+r
+
+ds((cid:0))2 = (1+
+
+)c2dt2(cid:0)(1+
+
+)dr2(cid:0)r2(d(cid:18)2 +sin2(cid:18) dϕ2)+
+
+2m
+r
+)c2dt2(cid:0)(1(cid:0) 2m
+r
+
+4GJ
+c2r
+)dr2(cid:0)r2(d(cid:18)2 +sin2(cid:18) dϕ2)(cid:0) 4GJ
+c2r
+
+sin2(cid:18) dϕ dt
+(53)
+sin2(cid:18) dϕ dt
+(54)
+The couple of metrics depends on two parameters, m and J (angular mo-
+mentum). Switching from one to the other is done by changing both m into
+- m and J into - J.
+In their dimensionless form
+)d(cid:24)(0)2 (cid:0) (1 +
+d(cid:27)(+)2 = (1 (cid:0) (cid:22)
+u
+
+)du2 (cid:0) u2(d(cid:18)2 + sin2(cid:18) dϕ2) +
+
+(cid:22)
+u
+
+(cid:12)
+u
+
+sin2(cid:18) dϕ d(cid:24)(0)
+(55)
+
+13
+
+d(cid:27)((cid:0))2 = (1 +
+
+)d(cid:24)(0)2 (cid:0) (1 (cid:0) (cid:22)
+u
+
+)du2 (cid:0) u2(d(cid:18)2 + sin2(cid:18) dϕ2) (cid:0) (cid:12)
+u
+
+(cid:22)
+u
+
+sin2(cid:18) dϕ d(cid:24)(0)
+(56)
+
+Here again formula (26) is satis(cid:12)ed.
+
+10 Conjugated, stationary, homogeneous, isotropic
+
+and linearized solutions
+
+FLRW metrics in their dimensionless form are written as :
+
+d(cid:27)(+)2 = d(cid:24)(0)2 (cid:0) (cid:11)(+)2[
+
+d(cid:27)((cid:0))2 = d(cid:24)(0)2 (cid:0) (cid:11)((cid:0))2[
+
+du2
+
+du2
+
+1 (cid:0) k(+)u2 + u2(d(cid:18)2 + sin2(cid:18) dϕ2)]
+
+1 (cid:0) k((cid:0))u2 + u2(d(cid:18)2 + sin2(cid:18) dϕ2)]
+
+The introduction of these metrics in the system of (cid:12)eld equations, modulo
+the hypothesis of negligible pressure (matter dominated era) leads to the
+system of diﬀerential equations:
+
+′2
+
+(cid:11)(+)
+(cid:11)(+)2 +
+
+k(+)
+
+(cid:11)(+)2 = (cid:0)1
+
+3
+′2
+
+′′
+
+[!(+) + (
+
+(cid:11)((cid:0))
+(cid:11)(+) )3!((cid:0))]
+
+(cid:11)((cid:0))
+′2
+(cid:11)((cid:0))2 +
+
+2
+
+2
+
+(cid:11)(+)
+(cid:11)(+)2 +
+
+k(+)
+(cid:11)(+)2 = 0
+(cid:11)(+)
+(cid:11)((cid:0)) )3!(+)]
+
+(cid:11)(+)
+(cid:11)(+) +
+k((cid:0))
+(cid:11)((cid:0))2 = (cid:0)1
+[!((cid:0)) + (
+3
+(cid:11)((cid:0))
+k((cid:0))
+(cid:11)((cid:0))
+′2
+(cid:11)((cid:0)) +
+(cid:11)((cid:0))2 +
+(cid:11)((cid:0))2 = 0
+
+′′
+
+which are analogous to the Einstein classic equations of general relativity.
+The condition of compatibility between these equations leads to the conser-
+vation of the mass :
+
+!(+)(cid:11)(+)3 + !((cid:0))(cid:11)((cid:0))3 = 3(cid:22) = cst
+
+(63)
+Such constant can be positive, negative or zero. We also get k(+) = k((cid:0)) =
+(cid:0)1. The resulting diﬀerential equations are :
+(cid:11)((cid:0))
+(cid:11)(+) = (cid:0)[!(+) + (
+(cid:11)(+) )3!((cid:0))]
+
+(cid:11)(+)
+
+(64)
+
+2
+
+′′
+
+14
+
+(57)
+
+(58)
+
+(59)
+
+(60)
+
+(61)
+
+(62)
+
+Then we have the two equations
+
+′′
+
+(cid:11)((cid:0))
+(cid:11)((cid:0)) = [!((cid:0)) + (
+
+2
+
+(cid:11)(+)
+(cid:11)((cid:0)) )3!(+)]
+
+′′
+
+(cid:11)(+)
+
+= (cid:0) (cid:22)
+
+(cid:11)(+)2 ; (cid:11)((cid:0))
+
+′′
+
+=
+
+(cid:22)
+(cid:11)((cid:0))2
+
+The observational evidence of the acceleration of cosmic expansion ([3], [4],
+[5]) indicates that the dynamics of the set is dominated by the negative mass
+content, i.e. (cid:0)(cid:22) < 0 . We then have (cid:11)(+)
+These second derivatives tend towards zero when the dimensionless time
+marker (cid:24)(0) tends towards in(cid:12)nity. The equation of the asymptote corre-
+sponds to the line:
+
+> 0; (cid:11)((cid:0))
+′′
+
+< 0 .
+
+′′
+
+(cid:11) = (cid:24)(0)
+
+The goal of the Janus model is to take account of available observational data.
+As regards cosmic evolution (700 type Ia supernovae), these data relate to
+relatively low redshift values, and thus to a relatively recent past. This then
+corresponds to the linearization of the solutions, in the form of perturbation
+terms with respect to the asymptotic form
+
+(cid:11)(+) = (cid:24)(0) + ϵ(cid:16) (+) ; (cid:11)((cid:0)) = (cid:24)(0) + ϵ(cid:16) ((cid:0))
+
+with schematical evolution curves like this (see Fig 1)
+We get
+
+′′
+
+(cid:11)(+)
+
+= ϵ(cid:16) (+)
+
+′
+
+(cid:11)(+)
+
+= ϵ(cid:16) (+)
+
+′′
+
+′′ ≃ j(cid:22)j
+′ ≃ 1 (cid:0) j(cid:22)j
+
+2(cid:24)(0)2 ; (cid:11)((cid:0))
+2(cid:24)(0) ; (cid:11)((cid:0))
+
+= ϵ(cid:16) ((cid:0))
+
+′
+
+= ϵ(cid:16) ((cid:0))
+
+′′ ≃ (cid:0) j(cid:22)j
+2(cid:24)(0)2
+j(cid:22)j
+′ ≃ 1 +
+2(cid:24)(0)
+
+The comparison of the model with observational data has already been done
+and published [21] (see Fig. 2)
+The purpose of this work is not to revisit this point but to justify the rela-
+tionship (18).
+The metrics in question are part of the sets of metrics describing an un-
+steady situation associated with isotropic and homogeneous media, in their
+linearized form (confronted with observations).
+These metrics depend on only one parameter (cid:22) , the variation (cid:14)(cid:22) of which
+determines the variations of (cid:14) (cid:22)!(+)
+
+(cid:22)(cid:23) and (cid:14) (cid:22)!((cid:0))
+
+(cid:22)(cid:23) . We have
+/ 2(cid:11)(+)(cid:14)(cid:11)(+) / 2(cid:24)(0)(cid:14)(cid:11)(+)
+
+(cid:14) (cid:22)!(+)
+(cid:22)(cid:23)
+
+15
+
+(65)
+
+(66)
+
+(67)
+
+(68)
+
+(69)
+
+(70)
+
+(71)
+
+Figure 1: Schematical evolution of the spatial scale factor in the dimension-
+less linear representation
+
+(cid:14) (cid:22)!((cid:0))
+
+(cid:22)(cid:23)
+
+/ 2(cid:11)((cid:0))(cid:14)(cid:11)((cid:0)) / 2(cid:24)(0)(cid:14)(cid:11)((cid:0))
+
+(72)
+
+to the second order.
+The variations being opposite, the relationship (18) is well satis(cid:12)ed. This
+study completes the examination of the mathematical basis of the model.
+The system of coupled (cid:12)eld equations results from an action and satis(cid:12)es,
+asymptotically, the conditions of zero divergence. The ratio of the dimen-
+sionless scale factors remains close to unity. How is it then possible that they
+diﬀer so much in their dimensional form :
+≃ 100
+
+(73)
+
+a(+)
+a((cid:0))
+
+16
+
+Figure 2: Dashed line: the model (cid:3)CDM. Red line: the Janus model
+
+11 Two diﬀerent ways of reading physical phe-
+
+nomena
+
+In his article [15] S.Hossenfelder insists on the fact that in his bimetric model
+there are two diﬀerent observers, designated by the letters g and h .
+It is the same in the Janus model. For us, who are made up of positive mass,
+it all comes down to making all quantities dimensional using the quantities
+
+fc(+); G(+); h(+); e(+); m(+); (cid:22)(+)
+
+; L(+); T (+)g
+
+0
+
+(74)
+
+In this set we (cid:12)nd
+
+- The speed of light c(+)
+
+- The constant of gravity G(+)
+
+- The Planck’s constant h(+)
+
+- The unit electric charge e(+)
+
+17
+
+- The \elementary mass" m(+)
+
+- The magnetic permeability of vacuum (cid:22)(+)
+
+0
+
+- A space scale factor L(+)
+
+- A time scale factor T (+)
+
+These magnitudes are not totally independent since we assume that
+
+T (+) =
+
+L(+)
+c(+)
+
+This reduces the number of these quantities to seven. We will transform the
+metric into its dimensional form by multiplying left and right sides by L(+)
+, which gives
+
+L(+)2d(cid:27)(+)2 = L(+)2d(cid:24)(0)2 (cid:0) L(+)2
+
+(cid:22)!(+)
+(cid:22)(cid:23) d(cid:24)(cid:22)d(cid:24)(cid:23)
+
+(76)
+
+∑
+
+space
+
+The proper time t(+)
+
+pr and the time coordinate t(+) are displayed according to
+
+t(+)
+pr =
+
+L(+)(cid:27)(+)
+
+c(+)
+
+; t(+) =
+
+L(+)(cid:24)(0)
+
+c(+)
+
+same for space variables
+
+x(+)(cid:22) = L(+)(cid:24)(cid:22)
+
+By the way can replace (cid:22)!(+)
+, insofar as these coeﬃcients of the
+metric are numbers. It comes, always by separating the temporal part and
+the spatial part
+
+(cid:22)(cid:23) by g(+)
+(cid:22)(cid:23)
+
+c(+)2dt(+)2
+
+pr = c(+)2dt(+)2 (cid:0)
+
+g(+)
+(cid:22)(cid:23) dx(+)(cid:22)dx(+)(cid:23)
+
+(75)
+
+(77)
+
+(78)
+
+(79)
+
+(80)
+
+In vacuum,
+
+c(+)2dt(+)2
+
+pr = c(+)2dt(+)2 (cid:0)
+
+dx(+)(cid:22)dx(+)(cid:23)
+
+If, in the manifold, where the points are marked by the coordinates f(cid:24)0; (cid:24)1; (cid:24)2; (cid:24)3g,
+we consider two distinct points A and B , with coordinates
+
+∑
+∑
+
+space
+
+space
+
+f(cid:24)0; (cid:24)1
+
+A; 0; 0g ; f(cid:24)0; (cid:24)1
+
+B; 0; 0g
+
+18
+
+they will be separated by diﬀerent distances
+
+D(+)
+
+AB = L(+)((cid:24)1
+
+B
+
+(cid:0) (cid:24)1
+
+A) ; D((cid:0))
+
+AB = L((cid:0))((cid:24)1
+
+B
+
+(cid:0) (cid:24)1
+A)
+
+(81)
+
+depending on whether this distance will be taken into account by an observer
+(+) or an observer (-).
+The histories (cid:11)(+)((cid:24)0) and (cid:11)((cid:0))((cid:24)0) will be read in a diﬀerent way, both
+spatially and temporally according to the scales used in (abscissa/ordinate).
+
+12 Poisson’s equation and the action-reaction
+
+principle
+
+This is known to derive from the linearization of the (cid:12)eld equation. We
+will have two readings of the gravitational potential  (+) and  ((cid:0)) with two
+diﬀerent gravitational (cid:12)elds (cid:0) @ (+)
+@x((cid:0)) .But we can consider a grav-
+itational potential without dimension noted and a gravitational (cid:12)eld also
+without dimension
+
+@x(+) and (cid:0) @ ((cid:0))
+
+(cid:0)@(cid:8)
+@(cid:24)
+
+Let’s come to the establishment of the Poisson equation, as a linearization
+of a (cid:12)eld equation. Let us take again the system of coupled (cid:12)eld equations
+(33), (34) written in covariant form where we operate a double development
+into a series in the vicinity of a Lorentzian metric
+
+The calculation analogy [22] leads us to
+
+(cid:22)!(+)
+(cid:22)(cid:23) = (cid:17)(cid:22)(cid:23) + ϵ (cid:13)(+)
+(cid:22)(cid:23)
+
+; (cid:22)!((cid:0))
+
+(cid:22)(cid:23) = (cid:17)(cid:22)(cid:23) + ϵ (cid:13)((cid:0))
+
+(cid:22)(cid:23)
+
+3∑
+3∑
+
+i=1
+
+i=1
+
+ϵ
+
+ϵ
+
+00jii = (cid:0)[!(+) + (
+(cid:13)(+)
+
+(cid:11)((cid:0))
+(cid:11)(+) )3!((cid:0))]
+
+(cid:13)((cid:0))
+00jii = [!((cid:0)) + (
+
+(cid:11)(+)
+(cid:11)((cid:0)) )3!(+)]
+
+Here we exploit the fact that
+
+(cid:11)((cid:0))
+(cid:11)(+)
+
+≃ 1
+
+19
+
+(82)
+
+(83)
+
+(84)
+
+(85)
+
+3∑
+3∑
+
+i=1
+
+i=1
+
+ϵ
+
+ϵ
+
+3∑
+
+00jii = (cid:0)[!(+) + !((cid:0))]
+(cid:13)(+)
+
+(cid:13)((cid:0))
+00jii = [!((cid:0)) + !(+)]
+
+Knowing that
+
+@2(cid:13)(+)
+00
+@(cid:24)22 +
+we introduce gravitational potentials according to
+
+@2(cid:13)(+)
+00
+@(cid:24)12 +
+
+(cid:13)(+)
+00jii =
+
+i=1
+
+@2(cid:13)(+)
+00
+@(cid:24)32
+
+(cid:0)ϵ(cid:13)(+)
+
+00 =
+
+(cid:8)(+)
+4(cid:25)
+
+; (cid:0)ϵ(cid:13)((cid:0))
+
+00 =
+
+(cid:8)((cid:0))
+4(cid:25)
+
+which leads us to Poisson’s (cid:12)rst equation
+
+@2(cid:8)(+)
+@(cid:24)12 +
+
+@2(cid:8)(+)
+@(cid:24)22 +
+
+@2(cid:8)(+)
+
+@(cid:24)32 = 4(cid:25)[!(+) + !((cid:0))]
+
+By posing
+
+∆ =
+
+@2
+@(cid:24)12 +
+
+@2
+@(cid:24)22 +
+
+@2
+@(cid:24)32
+
+we have two Poisson equations, written in dimensionless form
+
+∆(cid:8)(+) = 4(cid:25)[!(+) + !((cid:0))] ; ∆(cid:8)((cid:0)) = (cid:0)4(cid:25)[!(+) + !((cid:0))]
+
+In other words,
+
+(cid:8)(+) = (cid:0)(cid:8)((cid:0))
+Hence the gravity (cid:12)elds and the accelerations
+
+@(cid:8)(+)
+
+@(cid:24)i = (cid:0)@(cid:8)((cid:0))
+
+@(cid:24)i
+
+(86)
+
+(87)
+
+(88)
+
+(89)
+
+(90)
+
+(91)
+
+(92)
+
+(93)
+
+(94)
+
+Placed in a given (cid:12)eld of gravity two test particles of equal and opposite mass
+have equal and opposite reactions. This re(cid:13)ects the action-reaction princi-
+ple. The latter will project itself into the two coordinate systems, and this
+principle of action-reaction will also be observed by plus or minus observers.
+We will write the projection of this Poisson equation in the positive mass
+
+20
+
+(95)
+
+(96)
+
+(97)
+
+(99)
+
+system. To do this we multiply the two sides by G(+)M (+)L(+)
+member will become
+
+(cid:0)3 . The (cid:12)rst
+
+G(+)M (+)L(+)
+
+(cid:0)3(
+
+@2(cid:8)(+)
+@(cid:24)12 +
+@2(cid:8)(+)
+@x32 ) =
+
+@2(cid:8)(+)
+@(cid:24)22 +
+G(+)M (+)
+
+@2(cid:8)(+)
+@(cid:24)32 )
+
+L(+) ∆ (cid:8)(+)
+
+=
+
+G(+)M (+)
+
+L(+)
+
+(
+
+@2(cid:8)(+)
+@x12 +
+
+@2(cid:8)(+)
+@x22 +
+
+With
+
+and
+
+we get
+
+1
+L(+)2 ∆ = ∆(+) ;  (+) =
+
+G(+)M (+)
+
+L(+) (cid:8)(+)
+
+(cid:26)(+) =
+
+M (+)
+L(+)3 !(+)
+
+∆(+) (+) = 4(cid:25)G(+)[(cid:26)(+) + (cid:26)((cid:0);+)]
+
+(98)
+The density (cid:26)((cid:0);+) represents the apparent negative mass as it contributes
+to the apparent gravitational potential  (+) . For an observer with negative
+mass this equation would become
+
+∆((cid:0)) ((cid:0)) = (cid:0)4(cid:25)G((cid:0))[(cid:26)((cid:0)) + (cid:26)(+;(cid:0))]
+
+The construction of the mechanism of joint gravitational instabilities; de-
+scribed for example by a positive mass observer will involve the Poisson
+equation projected into this particular frame of reference. In the study of the
+dynamics of cosmic expansion we have assumed that j!((cid:0))j >> !(+) . This
+leads to
+
+j(cid:26)((cid:0))j >> (cid:26)(+)
+
+(100)
+
+which justi(cid:12)es the drafts of the numerical simulations carried out since 1995
+[23] as well as those leading to the spiral structure [7].
+
+13 Conclusion
+
+We have placed the Janus cosmological model on the required mathematical
+basis, by locating in which domain this model is currently valid, i.e.
+for
+all relativistic observations where the comparison is made with linearized
+metrics, which excludes situations with high gravitational (cid:12)eld. The Bianchi
+
+21
+
+(cid:22)(cid:23) = (cid:0)(cid:14)g(+)
+equations are then satis(cid:12)ed and the fundamental relationship (cid:14)g((cid:0))
+(cid:22)(cid:23)
+between the metrics, which is involved in the Lagrangian derivation of the
+system, is justi(cid:12)ed. For the moment we are not in a position to go further
+into the past, i.e.
+to describe the radiative era, where pressures can no
+longer be neglected. Beyond that it will remain to justify the hypothesis
+of deep asymmetry j!((cid:0))j >> !(+) from which arise the phenomenon of
+acceleration of expansion, the phenomenon of con(cid:12)nement of galaxies, the
+(cid:13)atness of their rotation curves, the con(cid:12)nement of clusters, the intensity of
+observed gravitational (negative) lens phenomenon, the spiral structure, the
+large-scale structure, the Great Repeller phenomenon, the low magnitude of
+galaxies with high redshift, as presented in previously published papers . In
+a future paper we will extend to the two cosmic entities the hypothesis of a
+double evolution with systems of variable constants evoked in [23]. In this
+scheme we start from a totally symmetrical situation, which turns out to be
+unstable and leads to an exponential break in symmetry.
+
+References
+
+[1] A. Benoit-L(cid:19)evy and G.Chardin : Introducing the Dirac-Milne universe.
+
+Astronomy and Astrophysics. Vol. 537 (january 2012) A 78
+
+[2] Milne E.A. : 1933 Zeitschrift fur Astrophysik , 6 , 1
+
+[3] Perlmutter, S., et al. 1999, ApJ, 517, 565
+
+[4] Riess A. G. 2000, PASP, 112, 1284
+
+[5] Schmidt, B. P., et al., 1998, Astrophys. J. 507, 46.
+
+[6] J.Farnes : A unifying theory of dark energy ans dark matter : Neg-
+ative mass and matter creation within a modi(cid:12)ed (cid:3)CDM framework.
+Astronomy ans Astrophysics 2018, 620, A 92
+
+[7] J.P.Petit, P.Midy and F.Landsheat : Twin matter against dark matter.
+Intern. Meet. on Astrophys. and Cosm. Where is the matter ?, Marseille
+2001 june 25-29
+
+[8] S.Bondarenko : Negative mass and Schwarzschild Spacetime in general
+
+relativity Modern Physics Letters A 2019 july Vol. 34, 11
+
+22
+
+[9] H.Socas-Navarro : Can a negative mass explain dark matter and dark
+
+energy ? Astronomy and Astrophysics 625 A5 2019
+
+[10] A.Stepanian : The invalidity of negative mass description of the dark
+
+sector. Mod. Phys. Lett. A Vol.34, 35, juin 2019
+
+[11] ] H. Bondi: Negative mass in General Relativity : Negative mass in
+
+General Relativity. Rev. of Mod. Phys., Vol 29, 3, July 1957
+
+[12] J.P.Petit : Nuovo Cimento B. The missing mass problem. 109, 697
+
+(1994).
+
+[13] Damour T. , Kogan I I. Eﬀective Lagrangians and universality classes
+of nonlinear bigravity Phys. Rev. D 66 (2002) 104024. hep-th/0206042.
+
+[14] Damour T. , Kogan I. I. , Papazoglou A. Non-linear bigravity and cosmic
+
+acceleration Phys. Rev. D 66 (2002) 104025. hep-th/0206044.
+
+[15] S. Hossenfelder : A bimetric Theory with Exchange Symmetry. Phys.
+
+Rev. D78, 044015, 2008 and arXiv : 0807.2838v1 (gr-qc)17 july 2008
+
+[16] S.Hossenfelder : Antigravitation. Phys Letters B Vol. 636, issue 2 , may
+
+2006
+
+[17] S.Hossenfelder : Static Field Solutions in Symmetric Gravity. arXiv :
+
+1603.07075v2 (gr-qc) 30 sept 2016
+
+[18] J.P.Petit, G.D’Agostini : Negative Mass hypothesis in cosmology and
+the nature of dark energy. Astrophysics And Space Science,. A 29, 145-
+182 (2014)
+
+[19] J.P.Petit, G. D’Agostini, N.Debergh : Physical and mathematical con-
+sistency of the Janus Cosmological Model (JCM). Progress in Physics
+2019 Vol.15 issue 1
+
+[20] Y.Hoﬀman , D.Pomar(cid:18)ede, R.B.Tully and H.Courtois : The Dipole Re-
+peller, Anture Astronomy 1 , 0036 (2017) DOI 10.1038/s4 1550-016-0036
+
+[21] G. DAgostini and J.P.Petit : Constraints on Janus Cosmological model
+from recent observations of supernovae type Ia, Astrophysics and Space
+Science, (2018), 363:139.https://doi.org/10.1007/s10509-018-3365-3
+
+23
+
+[22] R.Adler, M.Bazin and M.Schiﬀer : Introduction to General Relativity
+
+Mc Graw Hill Book 1965-1975, pages 346-347.
+
+[23] J.P.Petit, Twin Universe Cosmology, Astrophys. and Sp. Science, 226,
+
+273-307, 1995
+
+Appendix
+
+In the case of spherical symmetry the two metrics are written
+ds(+)2 = e(cid:23)(+)dx02 (cid:0) e(cid:21)(+)dr2 (cid:0) r2(d(cid:18)2 + sin2(cid:18) dϕ2)
+ds((cid:0))2 = e(cid:23)((cid:0))dx02 (cid:0) e(cid:21)((cid:0))dr2 (cid:0) r2(d(cid:18)2 + sin2(cid:18) dϕ2)
+
+In the following, in order to lighten the writing, we will pose
+
+(A1)
+
+(A2)
+
+(cid:22)(cid:23)
+
+g(+)
+(cid:22)(cid:23)
+
+(cid:17) g(cid:22)(cid:23) ; g((cid:0))
+(cid:17) R(cid:22)(cid:23) ; R((cid:0))
+
+(cid:17) (cid:22)g(cid:22)(cid:23)
+(cid:17) (cid:22)R(cid:22)(cid:23)
+R(+)
+(cid:22)(cid:23)
+R(+) (cid:17) R ; R((cid:0)) (cid:17) (cid:22)R
+(cid:17) (cid:22)E(cid:22)(cid:23)
+E(+)
+(cid:22)(cid:23)
+
+(cid:22)(cid:23)
+
+(cid:22)(cid:23)
+
+(cid:17) E(cid:22)(cid:23) ; E((cid:0))
+(cid:26)(+) (cid:17) (cid:26) ; (cid:26)((cid:0)) (cid:17) (cid:22)(cid:26)
+(cid:23)(+) (cid:17) (cid:23) ; (cid:23)((cid:0)) (cid:17) (cid:22)(cid:23)
+(cid:21)(+) (cid:17) (cid:21) ; (cid:21)((cid:0)) (cid:17) (cid:22)(cid:21)
+√
+
+We will perform the calculations starting from an expression of the (cid:12)eld
+equations presented in mixed form
+
+E(cid:23)
+
+(cid:22) = R(cid:23)
+(cid:22)
+
+Rg(cid:23)
+
+(cid:22) = (cid:31)[T (cid:23)
+
+(cid:22) +
+
+(cid:0) 1
+2
+
+(cid:22)E(cid:23)
+
+(cid:22) = (cid:22)R(cid:23)
+
+(cid:22)
+
+(cid:0) 1
+2
+
+(cid:22) = (cid:0)(cid:31)[T ((cid:0))(cid:23)
+
+(cid:22) +
+
+(cid:22)R(cid:22)g(cid:23)
+
+g((cid:0))
+g(+)
+
+√
+
+^T ((cid:0))(cid:23)
+
+(cid:22)
+
+]
+
+g((cid:0))
+g(+)
+
+^T (cid:23)
+(cid:22) ]
+
+E(cid:23)
+
+(cid:22) = R(cid:23)
+(cid:22)
+
+Rg(cid:23)
+
+(cid:22) = (cid:31)T (cid:23)
+(cid:22)
+
+(cid:0) 1
+2
+
+24
+
+(A3)
+
+(A4)
+
+(A5)
+
+Let us consider the calculation of the geometry inside an object consisting of
+a sphere (cid:12)lled with a positive mass. The equations become
+
+√
+
+(cid:22)E(cid:23)
+
+(cid:22) = (cid:22)R(cid:23)
+
+(cid:22)
+
+(cid:0) 1
+2
+
+(cid:22) = (cid:0)(cid:31)
+
+(cid:22)R(cid:22)g(cid:23)
+
+(cid:22)g
+g
+
+^T (+)(cid:23)
+(cid:22)
+
+(A6)
+
+The (cid:12)rst equation can then be identi(cid:12)ed with Einstein’s equation without
+cosmological constants.
+The second equation acconts for an induced geometry eﬀect (on the geodesics
+of the negative mass species, due to the presence of positive mass inside a
+sphere of radius and density (cid:26)(+) = (cid:26) .
+We will place ourselves in weak (cid:12)eld conditions.
+With the metric in this form the non-zero components of the Ricci tensor are
+
+′′
+
+R00 = e(cid:23)(cid:0)(cid:21)((cid:0)(cid:23)
+′′
+
++
+
+′
+
+2
+(cid:0) (cid:23)
+
+′
+(cid:23)
+(cid:21)
+2
+4
+(cid:0)(cid:21)(1 +
+
+R11 =
+
+R22 = e
+
+(cid:23)
+
+′
+
+′
+
+(cid:21)
+4
+
++
+
+′
+
+(cid:23)
+r
+2
+
+′′
+
+(cid:0)(cid:21)(
+′′
+
+(cid:23)
+2
+(cid:0) (cid:23)
+
+′2
+
+′
+
+′
+
+′2
+
+) ; R0
+
+0 = (cid:0)e
+
+(cid:0) (cid:23)
+r
+
+(cid:0) (cid:23)
+4
+(cid:0) (cid:21)
+; R1
+r
+′
+) (cid:0) 1 ; R2
+
+1 = (cid:0)e
+(cid:0)(cid:21)(
+2 = (cid:0)e
+R33 = R22sin2(cid:18) ; R3
+
+(cid:23)
+4
+(cid:0) (cid:21)
+r
+2
+
+(cid:23)
+2
+(cid:0)(cid:21)(
+
+3 = R2
+2
+
+1
+r2 +
+
+′
+
+(cid:23)
+r
+
+)
+
++
+
+′2
+
+(cid:0) (cid:23)
+
+′
+
+′
+(cid:21)
+4
+
+′
+
+′
+
+(cid:21)
+4
+(cid:23)
+2r
+
+′
+
+(cid:23)
++
+4
+′
+(cid:0) (cid:21)
+2r
+
++
+
+′2
+
+(cid:23)
+4
+′
+(cid:0) (cid:21)
+r
+1
+r2
+
+)
+
+) +
+
+(A7)
+
+and the Ricci scalar
+(cid:0)(cid:21)[2((cid:0)(cid:23)
+2
+
+R = R(cid:22)
+
+(cid:22) = e
+
+′′
+
+which gives the Einstein tensor
+
+(cid:23)
+
+′
+
+′
+
+(cid:21)
+4
+
+′2
+
+(cid:0) (cid:23)
+4
+
+′
+
+) (cid:0) (cid:23)
+r
+
++
+
+′
+(cid:21)
+r
+
+′
+
+(cid:0) 2
+r2
+
+(cid:0) 2(cid:23)
+2r
+
++
+
+′
+2(cid:21)
+2r
+
++
+
+] +
+
+2
+r2 (A8)
+
+E0
+
+0 = e
+
+(cid:0)(cid:21)(
+
+1
+r2
+
+′
+
+(cid:0) (cid:21)
+r
+′
+
+) (cid:0) 1
+r2
+) (cid:0) 1
+r2
+′2
+(cid:23)
+
++
+
+′
+
+′ (cid:0) (cid:21)
+2r
+
+)
+
+E1
+
+1
+r2 +
+′
+′
+(cid:21)
+4
+Consider the (cid:12)rst of the two equations
+
+1 = e
+′′
+(cid:0)(cid:21)(
+
+(cid:0)(cid:21)(
+(cid:0) (cid:23)
+
+2 = e
+
+(cid:23)
+2
+
+E2
+
++
+
+(cid:23)
+r
+(cid:23)
+4
+
+(A9)
+
+(A10)
+
+(A11)
+
+(A12)
+
+(A13)
+
+(A14)
+
+′
+
+(cid:22) = (cid:31) T (cid:23)
+(cid:22)
+) (cid:0) 1
+) (cid:0) 1
+
+E(cid:23)
+(cid:0) (cid:21)
+r
+′
+(cid:23)
+r
+
+1
+r2
+1
+r2 +
+
+0
+
+r2 = (cid:31) T 0
+r2 = (cid:31) T 1
+
+1
+
+(cid:0)(cid:21)(
+e
+
+(cid:0)(cid:21)(
+e
+
+25
+
+(cid:0)(cid:21)(
+e
+
+′′
+
+(cid:23)
+2
+
+(cid:0) (cid:23)
+
+′2
+
+(cid:23)
+4
+
+′
+
+′
+
++
+
+(cid:21)
+4
+(cid:0) (cid:31) T 1
+
+(cid:31) T 0
+0
+
+(cid:23)
+
+′ (cid:0) (cid:21)
+′
+2r
+
++
+
+) = (cid:31) T 2
+2
+
+′
+
+1 = (cid:0)(cid:23)
+
+′
+
+(cid:0)(cid:21)
+
+e
+
++ (cid:21)
+r
+
+We will now consider the outer metric, where the right sides of the equations
+are zero. The method is described in reference [2] , in chapter 14, and it
+corresponds to
+
+(cid:0)(cid:21) = 1 (cid:0) 2m
+r
+
+e(cid:23) = e
+)dx02 (cid:0) dr2
+1 (cid:0) 2m
+
+r
+
+ds2 = (1 (cid:0) 2m
+r
+
+(cid:0) r2(d(cid:18)2 + sin2(cid:18) dϕ2)
+
+and
+
+with
+
+M being the (positive) mass of the star.
+Let’s move on to the classical construction of the inner metric [2] . We have
+
+The equations are written
+
+m =
+
+GM
+c2
+
+0BB@ (cid:26)
+
+T (cid:23)
+(cid:22) =
+
+0
+0
+0
+0 (cid:0) p
+0
+0
+0 (cid:0) p
+0
+0
+0 (cid:0) p
+0
+0
+
+c2
+
+c2
+
+c2
+
+1CCA
+
+(cid:0)(cid:21)(
+
+e
+
+1
+r2
+
+(cid:0)(cid:21)(
+e
+′′
+(cid:0) (cid:23)
+′
+
+(cid:0)(cid:23)
+
+1
+r2 +
+′
+′
+(cid:21)
+4
++ (cid:21)
+r
+
+′
+
+′
+(cid:0) (cid:21)
+r
+) (cid:0) 1
+′2
+
+) (cid:0) 1
+r2 = (cid:31) (cid:26)
+r2 = (cid:0)(cid:31)
+(cid:23)
+p
+c2
+r
+′ (cid:0) (cid:21)
+) = (cid:0)(cid:31)
+(cid:23)
+4
+2r
+(cid:0)(cid:21) = (cid:31) ((cid:26) +
+
++
+
+(cid:23)
+
+e
+
+′
+
++
+′
+
+p
+c2 )
+
+p
+c2
+
+(cid:0)(cid:21)(
+
+e
+
+(cid:23)
+2
+
+(A15)
+
+(A16)
+
+(A17)
+
+(A18)
+
+(A19)
+
+(A20)
+
+(A21)
+
+(A22)
+
+(A23)
+
+(A24)
+
+from which we get
+
+(cid:0)(cid:21)(
+
+e
+
+1
+r2 +
+
+′
+
+(cid:23)
+r
+
+) (cid:0) 1
+
+r2 = e
+
+(cid:0)(cid:21)(
+
+′′
+
+(cid:23)
+2
+
+(cid:0) (cid:23)
+
+′
+
+′
+
+(cid:21)
+4
+
+′2
+
+(cid:23)
+4
+
++
+
++
+
+(cid:23)
+
+′ (cid:0) (cid:21)
+′
+2r
+
+)
+
+26
+
+e(cid:21)
+r2 =
+For the resolution, we ask
+
+1
+r2
+
+′′
+
+(cid:0) (cid:23)
+2
+
+(cid:23)
+
+′
+
+′
+
+(cid:21)
+4
+
+′2
+
+(cid:0) (cid:23)
+4
+
++
+
+′
+
+(cid:23)
+
+′
+
++ (cid:21)
+2r
+
++
+
+(cid:0)(cid:21) (cid:17) 1 (cid:0) 2m(r)
+
+e
+
+! 2m(r) = r(1 (cid:0) e
+
+(cid:0)(cid:21))
+
+We derive this expression
+
+r
+
+′
+
+′
+
+′
+
+2m
+
+′
+m
+
+= (1 (cid:0) e
+= (cid:0)r2(cid:31)(cid:26)
+∫
+2
+
+r
+
+(cid:0)(cid:21)) + r(cid:21)
+
+′
+
+e
+
+(cid:0)(cid:21)
+
+= 4(cid:25)r2 G
+c2 (cid:26)
+
+(cid:25)r3(cid:26)
+
+G
+c2
+
+m
+
+′
+
+(r)dr =
+
+4
+3
+m + 4(cid:25)Gp r3
+r(r (cid:0) 2m)
+c4
+
+0
+
+′
+
+(cid:23)
+
+= 2
+
+m(r) =
+
+′
+
+(cid:0)(cid:31)
+
+p
+
+c2 = (cid:0)e
+
+(cid:0)(cid:21) (cid:23)
+2r
+
+′
+
+′
++ (cid:21)
+
+)
+
+((cid:23)
+
+′
+
+p
+
+c2 = (cid:0) (cid:23)
+
+2
+
+((cid:26) +
+
+p
+c2 )
+
+′
+
+p
+
+c2 = (cid:0)m + 4(cid:25)Gp r3
+r(r (cid:0) 2m)
+
+c4
+
+((cid:26) +
+
+p
+c2 )
+
+m =
+
+(cid:25)r3(cid:26)
+
+4
+3
+
+G
+c2
+
+′
+
+p
+
+= (cid:0)(cid:26)mc2
+
+r2 = (cid:0)GM (cid:26)
+
+r2
+
+27
+
+Deriving Eq(21) and combining with Eq (25) we get
+
+Using (23) we get
+
+At the end we get the well-known TOV equation 1 ( Tolmann-Oppenheimer-
+Volkoﬀ )
+
+When moving to the Newtonian approximation (p << (cid:26)c2 , 2m << r)and
+taking into account that
+
+1which corresponds to equation (14.22) of reference [22]
+
+We get
+
+we get
+
+(A25)
+
+(A26)
+
+(A27)
+
+(A28)
+
+(A29)
+
+(A30)
+
+(A31)
+
+(A32)
+
+(A33)
+
+(A34)
+
+In spherical symmetry, the gravitational (cid:12)eld that prevails at a distance
+r < rs (inside the star of supposed constant density) is equal to the (cid:12)eld
+that would be created by the mass M (r) contained in a sphere of radius rs ,
+concentrated in the center.
+The calculation is then identical to that of the reference [22] and leads to the
+expression of the inside metric 2
+
+[
+
+3
+2
+
+(1 (cid:0) r2
+s
+^R
+
+2
+
+)
+
+1
+
+2 (cid:0) 1
+2
+
+(1 (cid:0) r2
+^R
+
+2
+
+)
+
+1
+
+2 ]2dx02 (cid:0) dr2
+1 (cid:0) r2
+
+2
+
+^R
+
+(cid:0) r2(d(cid:18)2 + sin2(cid:18) dϕ2)
+
+(A35)
+
+We are now going to deploy the same calculation scheme, but this time
+adapting it to the metric describing the negative mass species, which is then
+the solution of the equation
+(cid:0) 1
+2
+
+p(cid:0)gp(cid:0)(cid:22)g
+
+(cid:22)R = (cid:0)(cid:31)
+
+(cid:17) (cid:0)(cid:31)
+
+(cid:17) (cid:22)R(cid:23)
+
+(A36)
+
+w
+(cid:22)w
+
+(cid:22)E(cid:23)
+(cid:22)
+
+^T (cid:23)
+(cid:22)
+
+T (cid:23)
+(cid:22)
+
+(cid:22)g(cid:23)
+(cid:22)
+
+(cid:22)
+
+The determinants ratio can be written
+
+√(cid:0)det(g(cid:22)(cid:23))
+√(cid:0)det((cid:22)g(cid:22)(cid:23))
+
+p(cid:0)gp(cid:0)(cid:22)g
+
+=
+
+p
+p
+e(cid:23)e(cid:21)r4sin2(cid:18)
+e(cid:23)e(cid:21)r4sin2(cid:18)
+
+=
+
+(cid:23)
+
+= e
+
+2 e
+
+(cid:21)
+
+2 e
+
+(cid:0) (cid:23)
+
+2 e
+
+2 (cid:17) kD
+(cid:0) (cid:21)
+
+(A37)
+
+kD will be taken little diﬀerent from 1 because we will always be in the New-
+tonian approximation.
+Now we calculate the impact of the presence of positive masses on the ge-
+ometry (cid:22)g(cid:22)(cid:23) of the negative sector.
+It should be remembered that we are
+perfectly free to choose this tensor ^T (cid:23)
+(cid:22) , insofar as this choice can result from
+a Lagrangian derivation. And we opt for
+
+0BB@ (cid:26)
+
+0
+0
+0
+
+^T (cid:23)
+(cid:22) =
+
+1CCA
+
+0
+p
+c2
+0
+0
+
+0
+0
+p
+c2
+0
+
+0
+0
+0
+p
+c2
+
+(A38)
+
+The construction of the left side of the (cid:12)eld equation is again based on a
+metric which this time is
+
+d(cid:22)s2 = e(cid:23)dx02 (cid:0) e(cid:22)(cid:21)dr2 (cid:0) r2(d(cid:18)2 + sin2(cid:18) dϕ2)
+
+(A39)
+
+2Equation (14.47) from reference [22]
+
+28
+
+The Ricci tensor coeﬃcients are recalculated. The (cid:12)rst members of the equa-
+tions are the same, simply replacing ((cid:23); (cid:21)) by ((cid:23); (cid:22)(cid:21)) . We then get
+
+(cid:0)(cid:22)(cid:21)(
+
+e
+
+e
+′′
+
+(cid:0)(cid:21)(
+(cid:0) (cid:23)
+′
+
+(cid:23)
+2
+(cid:0) (cid:22)(cid:23)
+
+(cid:0)(cid:21)(
+
+e
+
+1
+r2
+
+(cid:0) (cid:22)(cid:21)′
+r
+′
+
+) (cid:0) 1
+
+) (cid:0) 1
+′2
+
+r2 = (cid:0)(cid:31) (cid:26)
+r2 = (cid:0)(cid:31)
+′ (cid:0) (cid:22)(cid:21)
+2r
+
+(cid:22)(cid:23)
+r
+(cid:23)
+4
+(cid:0)(cid:22)(cid:21) = (cid:0)(cid:31) ((cid:26) (cid:0) p
+c2 )
+e
+′
+(cid:22)(cid:23)
+
++
+
+′2
+
+(cid:22)(cid:23)
+
+(cid:23)
+
+′
+
+′
+
+′(cid:22)(cid:21)
+4
+
+(cid:0) (cid:22)(cid:23)
+4
+
++
+
++
+
++
+
+1
+r2 +
+′(cid:22)(cid:21)
+′
+4
+′
++ (cid:22)(cid:21)
+r
+(cid:0) (cid:22)(cid:23)
+2
+
+′′
+
+p
+c2
+) = (cid:0)(cid:31)
+
+′
++ (cid:22)(cid:21)
+2r
+
+p
+c2
+
+(cid:0)(cid:21) (cid:17) 1 (cid:0) 2 (cid:22)m
+r
+
+e
+
+! 2 (cid:22)m = r(1 (cid:0) e
+
+(cid:0)(cid:21))
+
+e(cid:22)(cid:21)
+r2 =
+For the resolution, we ask
+
+1
+r2
+
+Similarly we derive this expression
+
+′
+2m
+
+= (1 (cid:0) e
+
+(cid:0)(cid:21)) + r (cid:22)(cid:21)′e
+
+Using (40),
+
+r2 = (cid:0) 1
+
+r2 + e
+
+(cid:0)(cid:22)(cid:21)(
+
+1
+r2
+
+(cid:0) (cid:22)(cid:21)′
+
+)
+
+r
+
+(cid:0)(cid:21) ! (cid:0) 2 (cid:22)m′
+∫
+
+′
+m
+
+= (cid:0)4(cid:25)r2 G
+
+c2 (cid:26) ! (cid:22)m(r) =
+
+r
+
+0
+
+(cid:22)m′(r)dr = (cid:0)4
+3
+
+(cid:25)r3(cid:26)
+
+G
+
+c2 = (cid:0)m
+
+In conclusion, at this point
+
+We get
+
+To eliminate (cid:22)(cid:23)′′, we derive (A41). Combining to (A44) we get
+
+(cid:22)m(r) = (cid:0)m(r)
+
+(cid:22)(cid:23)′ = 2
+
+(cid:0)m + 4(cid:25)Gp r3
+r(r + 2m)
+
+c4
+
+′
+
+p
+
+c2 = (cid:0)m (cid:0) 4(cid:25)Gp r3
+
+c4
+r(r + 2m)
+
+((cid:26) (cid:0) p
+c2 )
+
+29
+
+(A40)
+
+(A41)
+
+(A42)
+
+(A43)
+
+(A44)
+
+(A45)
+
+(A46)
+
+(A47)
+
+(A47)
+
+(A48)
+
+to be compared to what emerged from the analysis for positive masses, i.e.
+equation (A34)
+
+′
+
+p
+
+c2 = (cid:0)m + 4(cid:25)Gp r3
+r(r (cid:0) 2m)
+
+c4
+
+((cid:26) +
+
+p
+c2 )
+
+If we introduce the Newtonian approximation these equations become iden-
+tical. The pressure terms are negligible. The variable r is large in front of
+2m (Schwarschild radius).
+Finally we have to introduce on the value of m
+
+m =
+
+(cid:25)r3(cid:26)
+
+4
+3
+
+G
+c2
+
+′
+
+p
+
+= (cid:0)m(cid:26)c2
+r2
+
+Both equations lead to the same result
+
+(A49)
+
+We can, as before, (cid:12)nalize the calculation of the inner metric of the negative
+species.
+Hence the (cid:12)nal expression of the inner metric (cid:22)g(cid:22)(cid:23)
+
+[
+
+3
+2
+
+(1 +
+
+r2
+s
+^R
+
+2
+
+1
+
+2 (cid:0) 1
+2
+
+)
+
+(1 +
+
+2
+
+)
+
+r2
+^R
+
+1
+
+2 ]2dx02 (cid:0) dr2
+1 + r2
+^R
+
+2
+
+(cid:0) r2(d(cid:18)2 + sin2(cid:18) dϕ2)
+
+(A50)
+
+which links to the outside metric
+
+d(cid:22)s2 = (1 +
+
+2GM
+c2r
+
+)c2dt2 (cid:0) dr2
+1 + 2GM
+c2r
+
+(cid:0) r2(d(cid:18)2 + sin2(cid:18) dϕ2)
+
+(A51)
+
+Under linearized forms
+
+d(cid:22)s2 = (1 +
+
+3r2
+s
+2 ^R2
+
+)dx02 (cid:0) (1 (cid:0) r2
+^R2
+
+)dr2 (cid:0) r2(d(cid:18)2 + sin2(cid:18) dϕ2)
+
+(A52)
+
+d(cid:22)s2 = (1 +
+
+2GM
+c2r
+
+)c2dt2 (cid:0) (1 (cid:0) 2GM
+c2r
+
+)dr2 (cid:0) r2(d(cid:18)2 + sin2(cid:18) dϕ2)
+
+(A53)
+
+30
+
+

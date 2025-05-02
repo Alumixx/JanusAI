@@ -1,0 +1,479 @@
+Nature of the Dipole Repeller
+Hasnae Zejli, Jean-Pierre Petit, Hicham Zejli
+
+To cite this version:
+Hasnae Zejli, Jean-Pierre Petit, Hicham Zejli. Nature of the Dipole Repeller. Russian Journal of
+Earth Science, In press, 2. ￿hal-04068080￿
+
+HAL Id: hal-04068080
+
+https://hal.science/hal-04068080
+
+Submitted on 13 Apr 2023
+
+HAL is a multi-disciplinary open access
+archive for the deposit and dissemination of sci-
+entific research documents, whether they are pub-
+lished or not. The documents may come from
+teaching and research institutions in France or
+abroad, or from public or private research centers.
+
+L’archive ouverte pluridisciplinaire HAL, est
+destinée au dépôt et à la diffusion de documents
+scientifiques de niveau recherche, publiés ou non,
+émanant des établissements d’enseignement et de
+recherche français ou étrangers, des laboratoires
+publics ou privés.
+
+Copyright
+
+  
+  
+
+Nature of the Dipole Repeller  
+
+____________________________________________________________________________ 
+Hasnae ZEJLI - PhD in Physics & Mechanical Engineering, Hicham ZEJLI – Engineer,  
+
+Jean-Pierre Petit - Astrophysicist & Retired Research Director at CNRS 
+
+  
+
+  
+  
+
+  
+1 – Introduction 
+
+Keywords : dipole repeller, primeval antimatter, dark matter, dark energy, runaway 
+paradox, Sakharov model, bimetric model, negative mass, Janus cosmological model 
+Abstract : It's shown through the Janus cosmological model framework that the object 
+responsible for the phenomenon called "dipole repeller" is a spheroidal cluster made 
+exclusively with anti-hydrogen and anti-helium of dark matter of negative mass. Emitting 
+photons of negative energy, this object is not observable with optical instruments, but it 
+plays a crucial role in the structure of the world of negative dark matters which contains 
+neither galaxies, nor stars, nor heavy elements, nor planets, nor biomolecules. This model 
+thus proposes an important extension of the theory of dark matter by including the existence 
+of negative masses in the universe, and thus opens up new perspectives for understanding 
+the structure and evolution of the universe as a whole. 
+  In 2017 Yehudi Hoffman, B. Tully, H.Courtois and D.Pomarède published the first very large 
+scale map of the universe (Hoffman et al. 2017), based not only on the position of galaxies, 
+but also including the velocity field, subtracting the Hubble field from what emanated from 
+the raw measurements of their redshift. The result is extremely impressive and will be, we 
+believe, one of the major discoveries of observational cosmology today, comparable to that 
+made by Edwin Hubble a century earlier. It was already known that the motions of a certain 
+set of galaxies reflected a convergence toward a formation that had been given the name of 
+Great Attractor. The analysis published in 2017 highlighted the action of another, larger 
+formation, located beyond this one, to which the name Shapley Attractor was given. But the 
+most singular result was to highlight a region, roughly diametrically opposed to these two 
+formations, where no galaxies were found, only a large  void around which the neighboring 
+galaxies presented a flight motion, centered on this object. This formation was first given the 
+name of dipole repeller. Then, deciding to couple it to the attractive formations, it was 
+included in the name of Dipole Attractor. There is no doubt that the understanding of such a 
+phenomenon, which cannot be qualified as an artifact, will require an important progress in 
+our understanding of cosmic dynamics. 
+  Four years after this discovery, few attempts have been made to  model  this phenomenon. 
+The article published by Neiser in 2020 does not focus on this question of the dipole repeller 
+which follows from the hypotheses made. It is known that observations have highlighted a 
+phenomenon of acceleration of the cosmic expansion (Perlmutter et al. 1999, Riess et al. 
+2004, Schmidt B.P. et al. 1998). This implies the action of a component associated with a 
+
+  
+2 – Some attempts at interpretation. 
+
+negative pressure. One  of  the models considered is to suppose the existence, within the 
+cosmos, of elements of  negative mass, which would then exert a repulsive action on the 
+components of positive mass. This hypothesis is at the center of the works corresponding to 
+the references (Petit et al. 2014b, Petit et al. 2014a, Petit et al. 2019, Petit et al. 2018, Petit et 
+al. 2021b, Petit et al. 2021a). Neiser in 2020 makes numerous hypotheses in different fields, 
+on the nature of the Big Bang, the quantum vacuum, the origin of the universe "which would 
+have been created by the gravitational collapse of  an  antineutrino star". To the point that 
+he recalls that the conclusions of his article remain speculative. Among these hypotheses is 
+that antimatter would have a negative gravitational mass, which would allow, according to 
+him, "the progressive formation of neutrino stars and stars made up of antineutrinos which 
+would repel each other". This repulsive aspect of a primordial antimatter is also mentioned 
+by Benoit-Lévy et al. in 2012, but without further justification. All these people are waiting 
+for the result of the analysis of the behavior of the antimatter created in the LHC, slowed 
+down and subjected to the earth gravitational field (Nieto et al. 1994), aspects discussed by 
+Nieto et al. in 1991. This is a question that we will address later. Heald evokes in 2020 the 
+situation of Laniakea, pushed by the dipole repeller and pulled by the Shapley Attractor. Here 
+again, a repulsion between matter and antimatter is evoked, which would have given rise to 
+the present large-scale structure of the universe, organized around large voids. But we do 
+not find any real model of the object that would be located at the center of this great void, 
+nor why we would not receive any light signal from it. Vuyk appeals in 2018 to a hypothetical 
+5th force. Hoffman et al. in 2018 through numerical simulations reconstruct the ad hoc 
+distribution of dark matter consistent with the observational data (Hoffman et al. 2017). 
+From this exploration we retain  two explanatory schemes. That of the existence of 
+hypothetical objects made of  repulsive antimatter, unobservable and that of a gap in the 
+dark matter distribution. 
+  One is entitled to ask the question: can a gap in the dark matter produce the observed 
+repulsion effect? Conceptually one is then tempted to start by considering a spherical gap in 
+a uniform dark matter distribution. We then think that this system should obey the Poisson 
+equation. 
+(1)                                               
+This equation is linear. We can therefore say that by superimposing two given density 
+distributions ρ1 and ρ2 , the resulting gravitational potential is the sum of the potentials 
+associated 
+with 
+these 
+two 
+ . 
+, creating a potential Ψ1. We will create 
+  Let us consider a uniform density distribution 
+the gap by assuming that in a certain volume contained in a sphere we superimpose an equal 
+and opposite density 
+creating a potential ψ2 . 
+ Let us start by calculating this one, solution of 
+
+  
+3 – About the interpretation through a gap in the dark matter. 
+
+distributions 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+is 
+
+Its 
+
+the 
+
+(1). 
+
+solution 
+
+equation 
+
+(2)                                              
+This solution is : 
+(3)                              
+We thus obtain a repulsive gravitational field, proportional to the distance to the center of 
+the sphere. It remains to calculate the gravitational field created by the uniform distribution, 
+still 
+considering 
+then 
+: 
+Poisson 
+(4)                                  
+We obtain the same force field, of opposite sign. Consequently, by superimposing, inside the 
+gap the gravitational field is null:   
+(5)                                                            
+In any case the solution (4), of the Poisson equation, corresponding to a uniform distribution 
+is a paradox. We have placed ourselves in a stationary or quasi-stationary situation, 
+considering a uniform distribution of density 
+. Then, whatever the point chosen as the 
+origin of the coordinates, we find a non-zero gravitational field 
+ , whose modulus increases 
+the  distance 
+proportionally 
+faced  with  a paradox. 
+to 
+this  point.  We  are 
+to 
+ We  are 
+the  construction  of 
+to 
+forced 
+this  Poisson  equation. 
+to  go  back 
+Unlike electromagnetism, this equation cannot be constructed by calculating the flow of 
+the gravitational field through a closed surface, because of the non-nullity at infinity. 
+In gravitation we will be forced to consider the Poisson equation as the linearized version of 
+Einstein's equation in a very restrictive case: in a stationary (or quasi-stationary) situation 
+and when we can describe the metric as a perturbation of a Lorentz metric : 
+ (6)                                                              
+The classical calculation gives : 
+(7)                                                           
+The gravitational potential is thus defined by: 
+
+ 
+
+ 
+
+ 
+
+4 – The dipole repeller in the Janus cosmological model. 
+
+(8)                                                                 
+ and equation (7) is then identified with the Poisson equation. But, in this approach, it should 
+be noted that everything is based on the fact that we can consider a stationary metric 
+solution, in the zero order, expressed in the form of a Lorentz metric, immediately associated 
+to a portion of empty space. In the above, the perturbation of the metric is due to a density 
+of finite extension. It is not possible to reconcile this approach on the basis of a non-empty, 
+uniform and infinite density of order zero. The conclusion is that it is simply impossible to 
+define a gravitational potential in a uniform matter distribution. One can consider that this 
+remark is of little interest. It remains that this question had never been raised before. 
+However, the problem of the existence of large voids in the large scale structure of the 
+universe is not solved. Indeed, the gravitational instability produces clusters, not vacuums, 
+so that we do not have a scheme for their formation. 
+This translates into an introduction of negative masses in the cosmological model 
+is 
+that satisfies  the  equivalence  principle.  This 
+in  the  framework  of 
+classical general relativity, based on a single field equation, that of Einstein, with or without 
+its cosmological constant: 
+(9)                                                  
+Indeed the control particles, positive or negative, follow the same geodesics, whatever the 
+source of the field. As a consequence, we get the following interaction scheme: 
+•  The positive masses attract the positive and negative masses. 
+•  The negative masses repel the positive and negative masses. 
+This leads to the runaway paradox (see Fig. 1), according to which a couple constituted by 
+masses of opposite signs accelerates uniformly while keeping a constant kinetic energy. 
+
+impossible 
+
+ 
+
+ 
+
+When the authors Neiser in 2020, Benoit-Lévy et al. in 2012 and Nieto et al. in 1994 mention 
+the existence of negative mass structures, these aspects are not considered, although they 
+are fundamental. It is not possible to invoke the presence of negative masses without 
+clarifying this point. In 2018, Farnes justifies what he calls himself a "toy model" by saying 
+that this runaway effect could be the source of cosmic rays. To remain within the framework 
+of a description using a single field equation, he is forced to invoke a hypothetical mechanism 
+of continuous creation of negative mass so that this leads to the constancy of its value over 
+time, which would then constitute an interpretation of the presence of the cosmological 
+constant in the equation. But this scheme does not exclude the runway phenomenon which 
+he then considers as the source of the existence of particles of very high energy, so-called 
+cosmic rays. Because of this undescribed mechanism of constant creation of negative mass 
+the author only obscures the situation even more. 
+The Janus cosmological model (Petit et al. 2014b, Petit et al. 2014a, Petit et al. 2019, Petit et 
+al. 2018, Petit et al. 2021b, Petit et al. 2021a) takes up the idea of a bimetric description of 
+the universe, initiated by Damour et al. in 2002, then taken up through articles published by 
+Hossenfelder in 2006 and 2008. If the description done by Damour et al. in 2002 corresponds 
+to branes whose points are connected by a hypothetical force field, the description done next 
+by  Hossenfelder in 2006 and 2008 is clearer and more constructed, geometrically. The 
+system of the two field equations resulting from their construction, from a Lagrangian, 
+satisfies the Bianchi conditions. The universe is then an M4 manifold equipped with two 
+metrics, the first one producing the geodesics along which the positive masses and the 
+positive energy photons move and the second one the geodesics along which the negative 
+mass particles and the negative energy photons move. The disjoint character of these two 
+systems of geodesics leads to the fact that each set of masses interacts with the other only 
+through an antigravity force and that the negative masses are therefore invisible for an 
+observer constituted of positive masses. The model was created by Hossenfelder in 2006 and 
+2008 at a time when the phenomenon of accelerating cosmic expansion was not recognized. 
+In an effort to fit with what she considers as the standard model (of Friedmann) the author 
+makes choices of signs which lead to a nonsatisfaction of the principle of equivalence for the 
+negative masses, which are then endowed with a negative gravitational mass, but a positive 
+
+inertial mass. In the Janus model, on the contrary, we try to satisfy the equivalence principle 
+within the two populations, which leads to the system of equations: 
+
+The tensors 
+ and
+correspond to “induced geometry”, i.e. the way each population 
+contributes to the geometry of the other. Their form is determined by the Bianchi conditions. 
+In their mixed form : 
+
+ 
+
+ 
+
+These geometrical conditions are only problematic in regions where the densities of matter, 
+of positive or negative mass, are non-zero. By explaining these conditions, in the conditions 
+of the Newtonian approximation they simply translate the fact that inside these masses, 
+where the density is assumed to be constant, the pressure force balances the gravity force. 
+Outside these regions it is the vacuum. The second members are zero and the 
+Bianchi conditions are satisfied identically because of the form of the first members, 
+themselves resulting from the presence of the terms 
+ in action as 
+first introduced by Damour et al. in 2002. The Janus model is based on a set of agreements 
+with observation. What interests us here is a possible justification of the Great Repeller 
+phenomenon. In its Newtonian approximation the system of the two coupled field equations 
+leads to the following interaction laws: 
+
+ and 
+
+•  Masses of the same sign attract each other according to Newton's law 
+•  Masses of opposite signs repel each other according to "anti-Newton" 
+The runaway phenomenon is thus eliminated and the principle of equivalence is satisfied in 
+both populations. For negative masses, their gravitational masses and their inertial masses 
+are negative and equal. It is then possible to do numerical simulations. If the absolute values 
+of the two densities ρ(+) > 0 and ρ(−) < 0 the values of the thermal agitation velocities <V(+) 
+> = <V(−) > are equal we obtain a percolation, which does not fit with the observational data 
+referring to the large scale structure of the universe (see Fig. 2). 
+
+On the other hand, if we assume that there is a strong dissymmetry between the 
+two populations, so that ρ(−) >> ρ(+) then the pattern changes completely. As the 
+Jeans times vary as the inverse of the square root of the density, the negative masses 
+are shorter. These then form a regular network of spheroidal conglomerates. The 
+positive mass is forced to occupy the remaining space, which gives it a lacunar structure (El-
+Ad et al. 1997) comparable to a set of joined bubbles (see Fig. 3), a pattern repeated by 
+Farnes in 2018. 
+
+ 
+
+On Fig. 4, there is the result of a 2D simulation (Petit 1995) : 
+
+ 
+
+ 
+
+Teams with adequate means will easily extend this to 3D. As developed by Petit et al. through 
+articles referenced in 2014b, 2021b, 2021a, the negative mass content accounts for both the 
+dark matter and the dark energy, which is identified with the contribution 
+ and 
+is therefore responsible for the acceleration of the expansion of positive masses. According 
+to this model, the phenomenon of the dipole repeller translates the presence, within this 
+great void, of a spheroidal conglomerate of negative mass, invisible, because it emits 
+photons of negative energy that our eyes and our measuring instruments cannot capture. 
+
+5 – Nature of the objects of negative masses 
+
+ 
+
+This question has been examined by Petit et al. in 2014b and the detailed calculations can be 
+found in the article published by Petit et al. in 2021a. In the theory of dynamical groups 
+(Souriau 1970) the link between geometric structure and content is translated by the nature 
+of the associated dynamical group. The General Relativity goes with the restricted Poincaré 
+group, where we keep only the set of terms which do not reverse time. It is thus the 
+orthochron subgroup of the complete Poincaré group, built from the orthochron Lorentz 
+subgroup. Here after its matrix representation: 
+(12)                                                                 
+C being the space-time translation vector. It is a group of dimension 10. By making this group 
+act on the dual of its Lie algebra, or momentum space, one makes appear the energy E, the 
+momentum p and the spin s, as attributes of the particle, of purely geometric essence. In 
+order to endow the particles with n quantum charges, it is necessary to endow the space with 
+n additional dimensions {ζ0 , ζ1, ... , ζn} and move on to the group below, where we have 
+included its action. 
+(13)                                                           
+
+ 
+
+ 
+
+The action on the momentum space adds to the particle n quantum numbers qi, including 
+the electric charge, which are all constants. By introducing the group: 
+(14)                                                  
+We translate geometrically the concept of antimatter, the inversion of quantum charges (C-
+symmetry) going hand in hand with the inversion of movements in additional dimensions. 
+If we want to introduce negative energies, it is enough to pass from the restricted Poincaré 
+group Lo, orthochronic, to the full group λLo with λ = ± 1 . Immediately we find that the time-
+inversion ( λ = − 1) goes with energy and mass-inversion. The corresponding dynamic group 
+is according to the article published by Petit et al. in 2014b : 
+
+ 
+
+ 
+
+6 – About the lack of observation of primordial antimatter. 
+
+(15)                                             
+In this model the C-symmetry exists both in the world of positive and negative masses. There 
+are thus two antimatter. 
+•  The first one, C-symmetric ( λ = 1; μ = −1) of the ordinary matter, of positive mass 
+•  The second, PT-symmetric ( λ = −1; μ = 1) of ordinary matter, of negative mass. 
+It is the first one that we make appear in laboratory. The model therefore predicts that this 
+one will behave like ordinary matter in the earth's gravity field. 
+If we suppose, as A. Sakharov (1967, 1979, 1980), that the couple : 
+•  Matter of positive mass 
+•  Antimatter of positive mass 
+is formed from quarks and antiquarks of positive energy, and that a couple : 
+•  Matter of negative mass 
+•  Antimatter of negative mass 
+was formed from quarks and antiquarks of negative energy, and that in addition 
+the synthesis of the matter of positive mass, in the first couple, was faster, whereas it is 
+that of the antimatter of negative mass, in the second couple which was it one leads on 
+the idea that the objects, in the center of the great voids of the large-scale structure of 
+the universe, whose presence is betrayed by the phenomenon of the dipole repeller, 
+would be constituted of antimatter, that is to say of antiprotons, anti-neutrons and 
+antielectrons of negative mass. These would then form spheroidal objects made of 
+antihydrogen (light elements) of negative mass comparable to immense protostars with 
+a cooling time superior to the age of the universe, which could not be the seat of 
+fusion reaction, thus generating neither stars, nor galaxies, nor planets. 
+As presented by Petit in 1995, these negative mass objects decrease the luminosity of 
+the background sources by negative lensing. But the luminosities of galaxies at z > 7 
+are indeed weak. The classical approach is to consider them as dwarfs. But these could 
+be galaxies  of  normal  size  and  mass,  so  the 
+luminosity  would  be  affected  by 
+this phenomenon. Finer measurements, in large voids, could reveal a threshold that 
+would allow access to the diameter of these formations. 
+
+7 – Observations specifically related to these objects. 
+
+8 – Conclusion. 
+
+References 
+
+Data availability  
+
+We have examined the very few attempts to model the dipole repeller phenomenon. Then 
+we have moved on to the interpretation of the Janus cosmological model. We recall the origin 
+and the essential aspects of this model, based on the hypothesis that the universe has a 
+content of negative masses, such that the principle of equivalence is satisfied in both 
+populations and that eliminates the runaway phenomenon and produces the same effects 
+attributed so far to dark matter and dark energy. In this model the dominant negative mass 
+forms a regular set of spheroidal clusters, which repel the positive mass by confining it in the 
+residual space, giving it a lacunar structure. One of these can then produce the phenomenon 
+of dipole repeller. 
+The data underlying this article are included within the article and in its online 
+supplementary material. 
+Benoit-Lévy A., Chardin G., 2012, Introducing the Dirac-Milne universe, Astronomy and 
+Astrophysics Vol. 537 A 78 
+Damour T., Kogan I., 2002, Effective Lagrangians and universality classes of nonlinear 
+bigravity, Phys. Rev. D Vol. 66, Iss. 10 
+El-Ad H., Piran T., da Costa L.N., 1997, Mon. Not. R. Astro. Soc. 
+Farnes J., 2018, A unifying theory of dark energy and dark matter : Negative mass and matter 
+creation within a modified ΛCDM framework, Astronomy and Astrophysics 
+Heald G., 2020, The Stronger Case for Gravitational Repulsion between Matter and 
+Antimatter, Research Gate publication Num. 339339776 
+Hoffman Y., Carlesi E., Pomarede D., Tully R.B., Courtois H., Gottlober S., Libeskind N.I., Sorce 
+J.G.,  Yepes  G.,  2018,  The  quasi-linear  nearby  Universe,  Nature  Astronomy, 
+arxiv:1807.03724.pdf 
+Hoffman Y., Pomarède D., Tully R.B., Courtois H., 2017, The Dipole Repeller, Nature 
+Astronomy 1.0036 
+Hossenfelder S., 2006, Antigravitation, Phys Letters B Vol. 636 issue 2 
+Hossenfelder S., 2008, A bimetric Theory with Exchange Symmetry, Phys. Rev. D78 044015, 
+arXiv:0807.2838v1 
+
+Neiser T.F., 2020, Fermi Degenerate Antineutrino Star Model of Dark Energy. Advances in 
+Astronomy, Volume 2020, Article ID 8654307 
+Nieto M.M., Goldman T., Anderson J.D., Lau E.L., Mercader J.P., 1994, Theoretical motivation 
+for  gravitation  experiments  on  ultra-low  energy  antiprotons  and  antihydrogen, 
+arxiv:9412234.pdf 
+Nieto M.M., Goldman T., 1991, The arguments against “antigravity” and the gravitational 
+acceleration of antimatter, Physics Reports Vol. 205 Issue. 5, p. 221-281 
+Perlmutter S. et al., 1999, Measurements of Ω and Λ from 42 High-Redshift Supernovae, APJ, 
+Vol. 517 Number. 2 
+Petit J.P., 1995, Twin Universe Cosmology, Astrophysics and Space Science Volume 226 Issue 
+2 pp.273-307 
+Petit J.P., D’Agostini G., 2014a, Cosmological Bimetric model with interacting positive and 
+negative masses and two different speeds of light, in agreement with the observed 
+acceleration of the Universe, Modern Physics Letters A Vol. 29 Number. 34 
+Petit J.P., D’Agostini G., 2014b, Negative Mass hypothesis in cosmology and the nature of dark 
+energy, Astrophysics And Space Science, A 354, pp. 611-615 
+Petit J.P., D’Agostini G., Debergh N., 2018, Evidence of negative energies and masses in the 
+Dirac equation through a unitary time-reversal operator, J. Phys. Comm. 2 Number. 115012 
+Petit J.P., D’Agostini G., Debergh N., 2019, Physical and mathematical consistency of the Janus 
+Cosmological Model (JCM), Progress in Physics 2019 Vol. 15 issue. 1 
+Petit J.P., D’Agostini G., Debergh N., 2021a, Bimetric models. When negative mass replaces 
+both dark matter and dark energy. Excellent agreement with observational data. Solving the 
+problem of the primeval antimatter, Database of the French National Center 
+Petit J.P., D’Agostini G., 2021b, Constraints on Janus Cosmological model from recent 
+observations of supernovae type Ia, Astrophysics and Space Science, In press. hal-03426721f 
+Riess A. et al., 2004, Type Ia Supernova Discoveries at z > 1 from the Hubble Space Telescope, 
+Evidence for Past Deceleration and Constraints on Dark Energy Evolution, APJ Vol. 607 
+Number. 2 
+Sakharov A.D., 1967, ZhETF Pis’ma 5 : 32, JETP Lett. 5 : 24 
+Sakharov A.D., 1979, ZhETF Pis’ma 76 : 1172, JETP 49 : 594 
+Sakharov A.D., 1980, Cosmological Model of the Universe with a Time Vector Inversion, 
+ZhETF Tr. JETP 52, 349-351, 79 : 689–693 
+
+Schmidt B.P. et al., 1998, The high-Z supernova search. Measuring cosmic deceleration and 
+global curvature of the universe using type Ia supernovae, APJ, Vol. 507 Number. 1 
+Souriau J.M., 1970, Structure des systèmes dynamiques, Dunod Ed. France, 1997, Structure 
+of Dynamical Systems, Boston Birkhaüser Ed. 
+Vuyk V., 2018, A Fifth Force Vacuum Dipole Repeller, Needed to Create all Attraction Forces 
+even around Black Holes in Quantum FFF Theory, Research Gate publication Num. 
+325995732 
+
+

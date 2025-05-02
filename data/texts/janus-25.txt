@@ -1,0 +1,1349 @@
+	
+
+et	interprétation	des	fluctuations	dans	le	CMB.	
+
+	
+Le	cas	d’un	grumeau	de	matière.		
+
+9-15-23	août	2018	:		
+Instabilité	gravitationnelle	dans	la	matière	et	dans	un	gaz	de	photons	
+
+1	
+	J’avais	d’abord	pensé	mettre	ces	calculs	directement	dans	la	vidéo,	vu	qu’ils	sont	
+accessibles	à	un	terminale	S.	Mais	quand	j’ai	vu	où	cela	me	conduisait	j’ai	estimé	
+préférable	de	les	mettre	dans	une	annexe,	en	pdf.	
+Ce	qu’on	montre	avec	ces	calculs	:	que	le	temps	ne	dépend	que	de	l’inverse	de	la	racine	
+carrée	de	la	masse	volumique	initiale		 ρo	.		Ca	n’a	rien	d’intuitif	et	cela	demande	à	être	
+montré.		
+Considérons	un	grumeau	de	matière,	de	rayon	R,	de	masse	M	et	de	densité	uniforme	 ρo.	
+Bien	sûr,	on	a	tout	de	suite	:		
+Considérons	une	particule-témoin	de	masse	m	située	à	la	surface	du	grumeau.	Elle	subit	
+une	force	d’origine	gravitationnelle	qui,	par	raison	de	symétrie,	est	dirigée	vers	le	centre	
+de	la	sphère.	Cette	force	vaut	:		
+En	écrivant	que	cette	force	est	égale	à	la	mass	m	multipliée	par	l’accélération	on	obtient	
+l’équation	:		
+	
+La	masse	m	s’élimine	et	on	orient	l’équation	différentielle	:		
+  R2 R" + G M = 0	
+qui	peut	aussi	s’écrire	:		
+dt 2 + G M = 0	
+qui	est	invariante	en	changeant	t	en	–	t	.	En	jouant	sur	cette	symétrie	on	va	recherche	
+des	solutions	:		
+  R = R(t 2)	
+
+3 ρo	
+	
+
+m R" = − G M m
+  
+
+− G M m
+  
+
+R2 d 2R
+  
+
+π Ro
+
+M =
+
+4
+3
+
+R2
+
+R2
+
+  
+
+2	
+
+  R = a t 2λ	
+  R' = 2λa t 2λ−1	
+  R" = 2λ(2λ− 1) a t 2λ−2	
+  2λ( 2λ− 1 ) a3 t6λ− 2 + G M = 0	
+t 2/3	
+
+	
+et	plus	précisément		sous	la	forme	:		
+La	dérivée	première	est	:		
+et	la	dérivée	seconde	:		
+On	introduit		dans	l’équation	et	on	obtient	:		
+Ceci	est	un	polynôme	avec	deux	termes.	Le	second	est	d’ordre	zéro.	Donc	le	premier	doit	
+être	également	d’ordre	zéro,	que	qui	implique	que	 λ= 1/ 3	.	Ceci	permet	de	calculer	la	
+valeur	de	la	constante	a	et	on	obtient	:		
+On	fait	apparaître	le	rayon		du	grumeau,	avant	implosion,	à	partir	de	la	valeur	de	la	
+Masse	M,	qui	est	conservée,	ce	qui	donne	:		
+Cette	solution	nous	donne	deux	scénarios,	correspondant	à	la	forme	complète	de	la	
+courbe-solution	:		
+
+t 2/3	
+
+6πGρo Ro
+
+6πGρo
+
+t 2/3 = Ro
+
+R =
+  
+
+  R =
+
+G M
+
+9
+2
+
+3
+
+3
+
+3
+
+3
+
+	
+A	droite	on	a	ce	qu’on	obtiendrait	en	faisant	exploser	une	grenade	dont	les	débris	
+seraient	freinés	par	la	force	gravitationnelle.	Des	débris	qui	correspondraient	à	
+
+c2
+
+Do
+
+2G M
+
+Do =
+  
+
+R" = −
+  
+
+	
+3	
+l’expansion	d’un	«	gaz	à	pression	nulle	»		dont	les	éléments	de	mass	m	ne	sont	animés	
+que	par	une	vitesse	radiale.		
+	Ca	n’est	rien	d’autre	que	le	modèle	cosmologie	dit	d’Einstein-de	Sitter,	solution	de	
+l’équation	de	Friedmann.	Et	cette	équadif	n’est	rien	d’autre	que	celle	de	Friedmann.		
+Je	vous	ai	donné	la	possibilité	de	télécharger	le	livre	d’Ader	Schiffer	et	Bazin.	In	va	s’y	
+référer.	Ca	nous	amène	page	433,	équation	:		
+2 R 2 c2		
+(13.22)																																																										
+avec	:		
+		
+(13.24)																																																											
+Vous	retrouvez	notre	équadif.	Elle	décrit	«	un	univers	de	poussière	»	(	en	annulant	le	
+terme	de	pression	dans	le	tenseur	du	second	membre	)	
+Pourquoi	une	telle	convergence	entre	deux	modèles,	l’un	Newtonien	et	l’autre	
+relativiste	?		
+Cela	a	été	mis	en	évidence	par	Milne	et	Mac	Crea	en	1934		et	représenté	à	l’époque	une	
+grosse	surpris	pour	tous	les	relativistes,	qui	aboutissaient	à	cela	après	des	calculs	fort	
+compliqués.		
+La	partie	gauche	de	la	courbe,	toujours	lue	dans	un	sens	passé/futur,	décrit	l’implosion,	
+le	collapse	d’une	masse	gazeuse	à	pression	nulle.		
+Si	ce	schéma	est	acceptable	pour	une	première	partie	du	processus,	cela	impliquerait	
+qu’en	se	condensant	cette	masse	gazeuse	resterait	à	température	nulle,	ce	qui	n’est	pas	
+réaliste.	En	fait	une	partie	de	cette	énergie	gravitationnelle	se	transforme	en	chaleur.	
+Apparaît	alors	un	gradient	de	pression,	entre	pression	au	centre	et	pression	)	la	
+périphérie,	qui	s’oppose	au	collapse	complet.		
+On	obtient	alors	une	proto-étoile	et	sa	contraction	s’arrête	quand	la	température	en	son	
+centre	atteint	3000°.	L’hydrogène	qui		la	constitue	se	transforme	alors	en	plasmas,	
+lequel	s’oppose	à	ce	phénomène	de	contraction.		
+La		température	périphérique	est	plus	faible.	L’étoile	rayonne	alors	dans	le	rouge	et	dans	
+l’infrarouge.	Elle	ne	pourra	se	transforme	en	véritable	étoile,	avec	des	réaction	de	fusion	
+à	cœur,	que	quand	elle	aura	terminé	son	processus	de	condensation	et	que	la	
+température	en	son	centre	aura	atteint	700.000°,	seuil	pour	le	démarrage	des	réactions	
+de	fusion.		
+La	reprise	du	processus	de	concentration	ne	peut	se	faire	que	quand	l’étoile	émet	de	
+l’énergie	par	rayonnement.	On	parle	alors	de	«	cooling	time	».	Si	la	température	de	
+l’étoile	et	sa	densité	correspondent	à	des	chiffres	assez	voisins,	la	quantité	d’énergie	à	
+
+3
+
+3
+
+3
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+t
+tc
+
+  R =
+
+t 2/3 = Ro
+
+6πGρo
+
+2/3	
+
+6πGρo Ro
+
+R = Ro
+  
+
+t 2/3	
+
+	
+4	
+dissiper	croit	comme	le	cube	du	rayon	de	la	proto-étoile,	alors	que	son	radiateur,	sa	
+surface,	varie	comme	le	carré	de	ce	rayon.		
+Qualitativement,	donc,	les	étoiles	massives	ont	des	cooling	times	plus	important	que	les	
+étoiles	légères.	En	poussant	les	choses	à	l’extrême	les	conglomérats	de	masses	négatifs	
+ont	des	cooling	times	grands	devant	l’âge	de	l’univers.	On	peut	alors	les	comparer	à	
+d’immenses	proto-étoiles	qui	ne	s’allumeront	jamais.		
+Mais	revenons	à	notre	solution		
+  6πGρo		a	la	dimension	de	l‘inverse	du	carré	d’un	temps.	Appelons	ce	temps		tc	
+Alors	:		
+Pour	que	 R	=	 Ro	il	faut	que	 t	=	 tc	.	Ce	temps	caractéristique	est	donc	ce	temps	 to	
+d’accrétion	:	
+		
+Ce	temps	d’accrétion	est	donc	comme	l’inverse	de	la	racine	carrée	de	la	masse	
+volumique	du	grumeau.		
+Introduisons	maintenant	une	vitesse	d’agitation	thermique	<V>	
+Si	on	faut	cette	fois	abstraction	de	la	force	de	gravité,	le	grumeau	dont	la	dimension	
+caractéristique	est	Ro	va	se	disperser	en	un	temps	:		
+L’instabilité	gravitationnelle	se	manifestera	pour	des	formations	telles	que	le	temps	de	
+dispersion	soit	supérieur	au	temps	d’accrétion	:		
+On	voit	donc	que	l’échauffement	du	milieu	stabilise,	vis	à	vis	de	l’instabilité	
+gravitationnelle.	Au	contraire	la	perte	d’énergie	est	déstabilisante.		
+Le	gaz	interstellaire	de	notre	galaxie	représente	une	couche	épaisse	de	quelques	
+centaines	d’années	lumière,	alors	que	le	diamètre	de	la	galaxie	est	100.000	années	
+lumière.	Ces	objets	sont	donc	comparables	aux	…	disques	microsillons.		
+Un	milieu	rayonne	toujours,	perd	de	l’énergie	par	rayonnement.	La	couche	de	gaz	
+interstellaire	se	maintient	donc	par	un	phénomène	d’homéostasie.	Le	refroidissement	
+par	rayonnement	suscite	la	naissance	d’étoiles,	qui	réinjectent	de	l’énergie	dans	ce	gaz.	
+
+= Longueur de Jeans	
+
+< V >
+6πGρo
+
+ou temps de Jeans
+
+tdispersion !
+  
+
+Ro
+< V >
+  
+
+taccrétion
+  
+
+Ro
+< V >
+
+6πGρo
+
+6πGρo
+
+Ro >
+
+tJ =
+
+soit
+
+	
+
+>
+
+1
+
+1
+
+Cas	d’un	«	gaz	de	photons	».		
+
+	
+5	
+L’explosion	de	supernovae	joue	aussi	un	rôle	très	actif	dans	ce	maintien.	Il	éclate	une	
+supernova	par	siècle.	Comme	les	galaxies	font	un	tour	en	cent	millions	d’années,	il	éclate	
+cent	mille	supernova	par	tour	de	galaxie.	Celles-ci	peuvent	communiquer	de	l’énergie	au	
+gaz	dans	un	rayon	de	l’ordre	de	la	centaine	d’années	lumière.		
+Une	compression	du	gaz	interstellaire	représente	une	montée	locale	de	température.	
+D’où	un	accroissement	de	la	perte	par	rayonnement.	Quand	la	détente	se	produit,	les	
+conditions	de	Jeans	sont	atteintes	et	des	étoiles	se	forment.		
+Les	bras	spiraux	des	galaxies	sont	des	ondes	de	choc	spiralées.	Elles	suscitent	la	
+naissance	d’étoiles	jeunes,	qui	émettent	beaucoup	d’énergie	dans	leur	prime	enfance,	
+dans	le	domaine	de	X	.	Le	gaz	est	alors	excité	et	réémet	dans	le	visible	par	fluorescence.		
+Les	formes	spiralées	que	l’on	observe	avec	les	télescopes	ne	traduisent	pas	tant	un	
+surcroît	de	densité	que	l’intensité	de	l’émission	X	dans	ces	régions.	Mais	celle-ci	est	de	
+brève	durée.	Les	étoiles	quittent	cette	enfance	tumultueuse,	cesse	d’émettre	des	X	et	ceci	
+correspond	à	une	«	sortie	des	bras	spiraux.		
+	
+Dans	sa	prime	enfance,	dans	l’univers,	le	rayonnement	domine.	Il	s’agit	donc	d’un	«	gaz	
+de	photons	».		
+Dans	l’équation	d’Einstein	on	pourra	écrire	:		
+Dans	le	second	membre	le	premier	terme	correspond	à	la	contribution	de	la	matière	au	
+champ	de	gravité,	et	le	second	à	la	contribution	du	rayonnement.	Dans	l’ère	radiative	on	
+a	:		
+On	peut	considérer	que	chaque	photon	contribue	au	champ	de	gravité	par	une	masse	
+gravifique	équivalente	:		
+Les	photons	ont	une	masse	inertielle	nulle,	mais	leur	masse	gravifique	est	non	nulle.		
+Les	photons	sont	sensibles	au	champ	de	gravité,	phénomène	qui	correspond	à	l’effet	de	
+lentille	gravitationnelle.		
+On	peut	se	demander	alors	si	l’instabilité	gravitationnelle	peut	se	produire	dans	un	gaz	
+de	photons.		
+Pour	ce	faire	imaginons	une	surdensité	de	cette	matière	photonique,	de	rayon	Ro		et	de	
+densité	de	rayonnement	 ρr o	.	La	masse	équivalente	de	ce	grumeau	de	lumière	est	:		
+
+R gµν = χ Tµν(m) + Tµν(r )
+
+R gµν ! χTµν(r )
+
+⎤⎦	
+
+Rµν −
+   
+
+Rµν −
+  
+
+hν
+c2 =
+
+mϕ =
+  
+
+hc
+λ
+
+1
+R
+
+1
+2
+
+1
+2
+
+	
+
+	
+
+∝
+
+⎡⎣
+
+  
+
+  
+
+4
+3
+
+π Ro
+
+Mϕ =
+
+3 ρorLa	force	de	gravitation	est	newtonienne.		
+
+	
+6	
+On	va	reproduire	le	même	raisonnement	et	regarder	ce	qui	peut	arriver	à	un	photon	de	
+ce	grumeau,	qui	se	situe	en	surface.	C’est	évidemment	délicat	à	montrer,	mais	le	fait	que	
+la	force	varie	comme	l’inverse	du	carré	de	la	distance	est	une	propriété	métrique,	
+géométrique.		
+On	va	donc	aboutir	à	la	même	équation	différentielle	:		
+R2 R" + G Mϕ = 0	
+Est-ce	à	dire	que	ce	«	grumeau	de	photons	»	va	imploser,	ou	exploser	en	suivant	la	même	
+loi	que	pour	la	matière	.		
+Donc,	parce	que	l’évolution	du	gaz	de	photons	s’opère	avec	une	non	conservation	de	
+l’énergie.		
+Chaque	grain	de	matière	représente	une	énergie	mc2,	constante.		
+Mais	les	énergies	individuelles	de	photons		
+décroissent	avec	l’expansion,	ou	croissent	quand	ces	grumeaux	se	contractent.	Donc	:		
+	
+Autrement	dit,	l’équation	d’évolution	du	grumeau	est	de	la	forme	:		
+   R3 R" + constante = 0	
+C’est	à	dire	:		
+dt 2 + constante = 0	
+symétrique	par	rapport	à	la	variable	temps.	Donc	on	cherche	  R ≡ R(t 2)	et	:		
+  R = a t 2λ	
+On	opère	les	dérivations	et	on	obtient	une	équation	comme	:		
+  2λ( 2λ− 1 ) a4 t8λ− 2 + (constan te positive) = 0	
+Ce	qui	donne	
+		La	loi	d’évolution	est	donc	:		
+
+R3 d 2R
+   
+
+G Mϕ ∝
+  
+
+hν=
+  
+
+hc
+λ
+
+1
+R
+
+1
+R
+
+	
+
+∝
+
+1
+4
+
+λ=
+ 
+
+	
+
+ R = a
+
+t
+
+4
+
+4
+
+4
+
+  
+
+1
+
+4
+3
+
+a =
+
+λ=
+
+		
+
+16
+3
+
+π Ro
+
+Mϕo =
+
+πGρϕo
+
+t1/2 = Ro
+
+R = Ro
+  
+
+4G Mϕo Ro
+
+5,33 πGρϕo
+
+  2λ( 2λ− 1 ) a4 t8λ− 2 + G MϕoRo = 0	
+
+	
+7	
+On	retrouve	ce	que	génère	la	Relativité	Générale.	Autrement	dit	nous	venons	de	refaire,	
+avec	notre	gaz	de	photons,	la	même	démarche	que	Milne	et	Mac	Crea	en	1934.		
+L’équation	différentielle	est	:		
+R2 R" + G MϕoRo = 0		et	donne	:		
+4	on	obtient	:			  
+en	y	faisant		 
+avec		  
+3ρϕo		
+On	peut	écrire	ceci	:		
+On	obtient	un	temps	d’accrétion	avec	une	formule	très	semblable	au	gaz	de	particules	de	
+matière.		
+Les	photons	se	déplacent	à	une	vitesse	c.	Si	on	a	un	grumeau	de	rayon	Ro	il	se	dissipera	
+en	un	temps	de	l’ordre	de	:		
+Ne	pourront	s’amplifier	que	des	perturbations	dont	la	taille	dépassera	la	longueur	de	
+Jeans	des	photons	:		
+	Reprenons	maintenant	la	loi	d’expansion,	en	lisant	la	solution	dans	l’autre	sens		:		
+Le	temps,	une	époque	donnée	où	l’univers	peut	être	considéré	comme	empli	de	
+rayonnement	avec	une	masse	volumique	équivalente	 ρϕo;	le	temps		
+	
+
+1/2				si								
+
+	
+t1/2	
+
+t1/2	
+	
+
+tdissipation !
+  
+
+5,33 πGρϕo
+
+5,33 πGρϕo
+
+5,33 πGρϕo
+
+R = Ro
+  
+
+c	
+
+LJ =
+  
+
+R = Ro
+  
+
+to =
+  
+
+t
+to
+
+Ro
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+1
+
+c
+
+4
+
+c
+
+1
+
+	
+	
+
+8	
+
+to =
+  
+
+H =
+  
+
+5,33 πGρϕo
+
+5,33 πGρϕo
+
+Une	remarque	importante.		
+
+	
+	
+est	simplement	le	temps	qui	s’est	écoulé	depuis	l’instant	zéro	et		
+N’est	autre	que	l’horizon	cosmologique.	Donc	un	univers	empli	de	photons	peut	
+effectivement	s’avérer	instable	vis	à	vis	de	l’instabilité	gravitationnelle,	mais	ces	
+fluctuations	ne	sont	pas	observables,	car	s’étendant	au	delà	de	l’horizon.		
+	
+Ce	qui	s’oppose	au	collapse	d’une	grumeau	de	matière,	ce	sont	les	forces	de	pression.	Un	
+milieu	où	il	n’y	a	aucune	vitesse	d’agitation	initiale	ça	n’est	pas	physique.	La	
+compression	s’effectue	alors	de	manière	adiabatique,	avec	pv	=	constante.	Autrement	dit		
+Quand	on	envisage	la	contraction	d’un	grumeau	constitué	de	rayonnement	de	gaz	de	
+photons,	il	ne	saurait	y	avoir	de	pression	nulle,	puisque	la	pression	de	radiation	c’est	:		
+Ensuite,	lorsqu’on	comprime	un	élément	de	rayonnement,	l’accroissement	de	pression	
+s’effectue	différemment.	La	pression	est	une	densité	volumique	d’énergie.	Pour	la	
+matière	la	relation	ci-dessus	expeime	simplement	que	cette	énergie	est	conservée.		
+Quand	les	photons	se	trouvent	«	comprimés	»	leur	longueur	d’onde	s’en	trouve	réduite	
+et	suit	la	contraction	linéaire.	Et	de	ce	fait	:		
+Ainsi	ce	«	gaz	de	photons	se	prête	mal	à	ce	phénomène	de	condensation	de	grumeaux.	Le	
+contraste	de	densité	restera	très	limité.		
+On	retrouve	cet	aspect	au	moment	du	découplage	matière	–	rayonnement.	Quand	le		
+fluide	cosmique	(	de	l’hydrogène	)	a	une	température	supérieure	à	3000°	l’instabilité	
+gravitationnelle	ne	peut	se	manifester,	car	le	fluides	est	un	mélange	de	gaz	de	matière	et	
+de	gaz	de	photons	»,	les	deux	étant	intiment	liés.	Toute	tentative	du	milieu	matière	de	
+forer	des	condensations	se	trouve	contrariée	par	le	fait	qu’en	se	contractant	il	
+entraînerait	avec	lui	ce	gaz	de	photons,	difficilement	compressible.	Ca	n’est	que	quand	le	
+
+R3	
+3 	
+
+R4	
+
+pm ∝
+
+ρr c2
+
+pr ∝
+
+pr =
+
+1
+
+1
+
+  
+
+  
+
+  
+
+	
+Une	autre	façon	de	procéder	pour	retrouver	ce	thème	des	fluctuations		
+
+	
+9	
+milieu	se	désionise	que	l’instabilité	gravitationnelle	peut	se	manifester.	La	masse	de	
+Jeans	correspondante	est	alors	voisine	de	100.000	masses	solaires.		
+Comme	souligné	dans	la	vidéo,	quand	l’instabilité	gravitationnelle	se	manifeste	dans	le	
+«	gaz	de	photons	»,	la	pression	n’est	pas	nulle.	De	plus	quand	un	grimeau	de	matière	fait	
+mine	de	se	contracter	la	pression	varie	en	1/R3.	Mais	quand	le	grumeau	de	photons	les	
+longueurs	d’onde	varient	comme	R,	donc	elles	diminue	et	la	pression	de	radiation	croit	
+comme	1/R4.	Le	«	gaz	de	photons	»	est	donc	très	difficilement	compressible.		
+Je	pense	qu’on	devrait	pouvoir	retrouver	le	facteur	10-5	;	mais	pour	le	moment	je	n’ai	
+pas	de	solution	à	proposer.		
+(15	août	2018)		
+Il	y	a	une	autre	façon	de	faire	apparaître	les	inhomogénéités,	directement	à	
+partir	de	l’équation	de	Poisson,	en	s’inspirant	d’une	méthode	mise	en	
+œuvre	en	physique	des	plasmas.		
+En	électromagnétisme,	appelons	V	le	potentiel	électrique	et	ρela	densité	
+locale	de	charge	électrique	L’équation	de	Poisson	s’écrit	alors	:	
+		
+On	va	faire	l’hypothèse	de	l’équilibre	thermodynamique,	ce	qui	implique	
+	 	Te =Ti =T soit	 uniforme.	 Les	 fonctions	 de	
+que	
+la	 température	
+distribution	des	vitesse	des	ions	et	des	électrons	sont	alors	les	fonctions	
+Maxwelliennes			
+me2πkT
+		
+	
+mi2πkT
+		
+D’où	il	vient	:		
+
+2 − eV)/kT	
+2 + ZeV)/kT	
+
+e −(12me w e
+e −(12mi w i
+
+=0	
+
+⎞
+⎠⎟
+3/2
+
+3/2
+
+fe =
+
+ΔV +
+
+fi =
+
+ρe
+εo
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+ΔV −
+
+ni =
+
+εo k T
+
+10	
+
+neo
+Z
+
+V =
+	
+
+e
+εo r
+
+(1+ Z)e2 neo
+
+		
+ne = neo e eV/kT
+		
+
+	
+e −Z eV/kT	
+en	rentrant	dans	l’équation	de	Poisson	est	en	différenciant	:		
+V =0	
+On	se	place	alors	en	symétrie	sphérique,	pour	étudier	l’effet	d’écran	
+affectant	le	potentiel	d’une	charge	électrique	+	e	.	Le	potentiel	d’une	charge	
+isolée	est		
+	
+La	réaction	des	charges	voisine	au	champ	créé	par	cette	charge	va	donner	
+au	potentiel	la	forme	:		
+d	
+et	ce	potentiel	sera	solution	de	l’équation	de	Poisson.	Si	nous	dérivons	cette	
+expression	cela	nous	conduit	à	:		
+(1+ Z)neo e2
+1
+=0	
+		
+rd2 −
+et	nous	trouvons	la	classique	distance	de	Debye	:		
+	
+(1+Z)neo e2	
+		
+	Nous	allons	faire	la	même	chose	en	gravitationnel.	L’équation	de	Poisson	
+est	:		
+		ΔΨ =4πGρ	
+
+e
+εo r
+
+εo kT
+
+εo kT
+
+V =
+	
+
+d =
+
+e −
+
+r
+
+m Ψ
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+considérer	 une	
+situation	
+f = n m2πkT
+3/2
+		
+
+	
+11	
+l’équilivre	
+On	
+va	
+stationnaire,	 plus	
+thermodynamique,	c’est	à	dire	un	champ	de	température	T	uniforme.	
+L’étude	se	fonde	alors	sur	l’équation	de	Boltzmann	et	la	solution	s’exprime	
+sous	la	forme	d’une	fonction	de	distribution	de	Maxwell-Boltzmann	:	
+e −(12m w2 + m Ψ)/2kT	
+D’où	:		
+k T	
+En	développant	en	série	et	en	injectant	dans	l’équation	de	Poisson	on	
+	ρ= ρo e −
+obtiendra,	en	symétrie	sphérique		:	
+4πGρo
+2
+=0	
+		
+d2Ψ
+dr2 +
+C’est	à	dire	la	forme	stationnaire	de	l’équation	de	Jeans	:		
+L2 =0	
+		
+avec	pour	solution	:		
+cos r
+Avec	la	longueur	de	Jeans	(	avec	un	4	au	lieu	d’un	6	…	)		:		
+	
+k T4πGρ
+		
+C’est	normal.	En	électromagnétisme	une	charge	électrique	positive	crée	un	
+champ	centrifuge,	alors	qu’une	masse	positive	crée	un	champ	centripète.	Le	
+signe	change	dans	l’équation	de	Poisson	et	au	bout	du	compte	on	obtient	un	
+cosinus	au	lieu	d’une	exponentielle.		
+	Le	milieu	se	structure	donc	périodiquement	avec	une	longueur	d’onde	L.		
+
+ΔΨ + Ψ
+
+d Ψ
+dr
+
+Gm
+r
+
+Ψ = −
+
+kT
+
+L =
+
+		
+
+	
+
++
+
+L
+
+r
+
+Une	forme	de	Multivers	
+
+	
+12	
+	Si	on	reprend	un	milieu	constitué	par	deux	espèce,	il	en	sera	de	même.	
+Chacun	peuplera	l’espace	de	fluctuations	au	rythme	de	sa	propre	longueur	
+de	Jeans.	On	retrouve	ce	qui	a	été	établi	plus	haut.		
+	
+Cette	instabilité	gravitationnelle	peut	se	produire	quand	l’univers	est	en	régime	de	
+constantes	variables.	Auquel	cas	cette	instabilité	crée	une	succession	d’univers	dotés	
+chacun	de	leur	lot	de	constante	et	assorti	de	paramètres	d’échelle	et	de	temps			
+Mais	les	phénomènes,	dans	ces	différents	univers,	se	dérouleront	de	manière	semblable,	
+avec	les	mêmes	lois	physiques,	mais	à	un	rythme	différent.		
+	
+Chaque	«	bulle	d’univers	»	interagit	avec	son	secteur	de	signe	opposé.	Dans	le	secteur	
+négatif	le	paramètre	d’échelle	est	tel	que	:		
+Ainsi	les	fluctuations	qui	se	produisent	dans	le	secteur	négatif	peuvent	créent	leur	
+empreinte	dans	le	secteur	positif.	C’est	mon	interprétation	des	fluctuations	dans	le	CMB.		
+
+  a(−) << a(+)	
+
+Le	sens	des	fluctuations	dans	le	CMB	
+
+ti	
+
+ ai
+
+et
+
+	
+
+	
+
+	
+13	
+On	sait	aussi	que	les	distances	de	Jeans,	en	régime	de	constantes	variables,	varient	
+comme	les	paramètre	d’échelle	spatiaux.		
+La	longueur	d’onde	caractéristique	des	fluctuations	du	CMB	et	de	l’ordre	de	un	centième	
+du	périmètre	cosmique.	On	en	déduit	que	:		
+100	
+Comme	les	évolutions	en	régime	de	constantes	variables	s’effectuent	avec		
+  a(−) c(−)2 = a(+) c(+)2	
+on	en	déduit	que	:		
+c(+) ! 10	
+Ci-après	ce	schéma	des	paires	d’univers-bulles,	évoqué	dans	une	lettre	que	j’ai	reçue	en	
+octobre	1993	et	qui	a	servi	de	support	à	cette	idée.		
+
+a(−)
+a(+) !
+   
+
+c(−)
+
+1
+
+   
+
+	
+Les	formes	alternativement	sphérique,	ellipsoïde	aplaties	et	ellipsoïdes	allongés,	
+suggère	des	fluctuations	conjointes	des	métriques,	anisotropes.	Quand	un	des	univers	se	
+contracte	dans	une	direction,	l’autre	se	dilate	dans	la	ou	les	directions	opposées.		
+	Dans	un	prochain	travail	il	me	faudra	intégrer	une	structure	quadripolaire,	avec	quatre	
+types	de	masses	en	interaction	;	dont	une	paire	de	masses	imaginaires	(	+	im	,	-	im	)		
+Je	subodore	qu’il	existe	dans	les	schémas	que	j’ai	reçus	des	idées	directrices,	d’ordre	
+géométrique.	C’est	un	autre	vaste	projet.		
+
+	
+
+	
+
+	
+
+14	
+
+	
+Jean-Pierre	Petit		
+
+	
+Je	rajoute	les	éléments	qui	suivent,	même	si	cela	n’est	pas	évoqué	dans	Janus	25	
+Tout	le	monde	connaît	le	camembert	suivant	:		
+
+23	août	2018	:			Pourquoi	l’énergie	noire	est	négative	
+
+15	
+
+	
+
+	On	y	effectue	une	comparaison	entre	des	objets	qui	semblent	être	de	natures	différentes.	
+En	effet	un	des	secteurs	se	réfère	à	de	la	«	matière	»	et	un	autre	à	«	de	l’énergie	».	
+Comment	peut-on	les	comparer	?		
+Intuitivement,	comme	on	traite	de	gravitation,	le		mot	«	matière	»	évoque	aussitôt	une	
+masse	,	ou	plutôt	une	densité	volumique	de	masse	ρ	.		
+Comme	il	s’agit	de	matière	sombre	on	pourrait	écrire	:		
+ ρdm	
+en	appelant	cela	«		densité	de	dark	matter	»,	en	kilos	par	mètre	cube.		
+Pour	les	4	%	se	référant	aux	atomes	on	écrirait	:		
+ ρm	
+Avec	un	rapport		
+! 5	
+Comme	évoqué	dans	les	pages	précédentes	on	a	aussi	un	«	équivalent-masse	»	lié	au	
+rayonnement,	et	on	peut	introduire	le	terme		
+ ρr	
+	
+
+ρd m
+ρm
+   
+
+ ρr << ρm	
+
+	
+16	
+Ce	terme	cesse	d’être	négligeable,	en	devient	même	prépondérant	quand	on	arrive	à	
+«	l’ère	radiative	».	Mais	le	camembert	ci-dessus	se	réfère	à	l’ère	matière,	donc	:		
+Ceci	étant,	en	Relativité	Générale,	ce	qui	détermine	la	géométrie	de	l’univers	(et	sa	
+dynamique)	c’est	en	fait	l’énergie.	En	exprimant	la	constante	cosmologique,	de	manière	
+plus	contemporaine,	selon	:		
+(	cela	dépend	de	ce	qu’on	décide	de	mettre	dans	le	tenseur	T,	soit	des	termes		de	densité	
+volumique	d’énergie	(comme	ρc2	)	soit	des	termes	de	masse	volumique)		
+le	tenseur	énergie-matière,	du	second	membre	de	l’équation	d’Einstein,	s’écrit,	sous	sa	
+forme	contravariante	:		
+
+au lieu de χ=
+
+8πG
+c 4
+
+8πG
+c 2
+
+χ' =
+  
+
+	
+
+	
+	
+<V>	est	la	valeur	moyenne	de	la	vitesse	d’agitation	thermique.	Les	termes	présents	dans	
+la	diagonale	représente	une	pression.	Mais	on	ne	doit	pas	perdre	de	vue	qu’une	pression	
+c’est	une	densité	d’énergie	par	unité	de	volume,	qui	s’exprime	en	joules	par	mètre	cube.		
+On	pourrait	alors,	en	faisant	intervenir	une	vitesse	d’agitation	thermique	de	matière	
+sombre	froide	<Vdm>	(	Cold	dark	Matter	)	écrire	:		
+
+	
+C’est	licite,	du	fait	que	cette	matière	sombre	est	supposée	être	«	froide	».	Quelle	est	la	
+différence	avec	une	matière	sombre	«	chaude	»	?		
+
+   
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎝
+
+Tm
+µν !
+
+Tdm
+µν !
+
+ρmc2
+0
+0
+0
+
+ρdmc2
+0
+0
+0
+
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+
+	
+17	
+Un	matière	chaude	serait	une	matière	où	les	vitesses	des	éléments	seraient	relativistes,	
+de	l’ordre	de	c.		Matière	sombre	froide	signifie	simplement	que		
+Mais,	si	tant	est	que	cette	matière	sombre	existerait,	on	ignorerait	tout	de	la	vitesse	
+d’agitation	qui	règne	dans	ce		milieu.		
+Néanmoins,	comme	tout	ceci	est	«	froid	»	et	qu’on	a	aussi		<Vm>	<<		c	
+On	peut	écrire	:		
+
+<Vdm>	<<		c	
+
+	
+On	commence	à	y	voir	un	tout	peu	plus	clair.	Comme	c’est	l’énergie	qui	détermine	la	
+géométrie,	et	la	dynamique	de	l’univers,	on	voit	que,	s’agissant	de	la	matière	sombre	les	
+importances	relatives	de	ces	contributions	en	énergie	reposent	sur	la	comparaison	de		
+soit	de	:		
+Mais	quid	de	cette	«	énergie	noire	»	?	Comment	celle-ci	se	manifeste-t-elle	dans	
+l’équation	de	champ	de	la	relativité	Générale	classique	?		
+Réponse	:	en	introduisant	la	constante	cosmologique	dans	l’équation	d’Einstein.		
+⎤⎦	
+Si	vous	allez	sur	Wikipedia	à	la	page	«	constante	cosmologique	»		
+https://fr.wikipedia.org/wiki/Constante_cosmologique	
+vous	verrez	qu’on	bascule	le	terme	faisant	intervenir	la	constante	cosmologique	dans	le	
+second	membre	:		
+La	constante	cosmologique	se	trouve	gérée	dans	un	tenseur	qui	contribuera	
+(majoritairement)	à	la	géométrie	et	à	la	dynamique	du	cosmos.		
+
+ρd mc2	
+
+R gµν + Λ gµν= χ' Tm
+
+! 5	
+
+R gµν = −
+
+Tm
+µν + Tdm
+
+Rµν −
+  
+
+8πG
+c4
+
+Rµν −
+  
+
+ρd m
+ρm
+   
+
+µν + Tdm
+
+µν − TΛ
+
+⎤⎦	
+
+  ρmc2
+
+1
+2
+
+1
+2
+
+et
+
+⎡⎣
+
+⎡⎣
+
+µν
+
+µν
+
+µν
+
+⎡⎣
+
+1
+2
+
+⎤⎦	
+
+µν + TΛ
+
+Rµν −
+  
+
+8πG
+c4
+
+Tm
+µν + Tdm
+
+R gµν = −
+
+18	
+
+	
+Mais	moi	je	préfère	écrire	cela	avec	des	signes	«	plus	»	:		
+ce	terme		
+	représentant	alors	la	contribution	au	champ	de	cette	mystérieuse	énergie	noire	«	au	
+sens	le	plus	général	».		
+On	introduit	même	un	équivalent	en	terme	d’énergie	matière.	Les	rédacteurs	de	
+Wikipedia	écrivent	(	en	indiquant	une	valeur	positive	)		:		
+8πG	
+Comment	cela	se	combine-t-il	avec	le	tenseur	métrique	?		
+Celui-ci	s’écrit	:		
+
+ρΛ c2 =
+  
+
+µν	
+
+c4 Λ
+
+ TΛ
+
+gµν =
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+c2
+0
+0
+0
+
+0
+−u2
+0
+0
+
+0
+0
+−u2
+0
+
+0
+0
+0
+
+	
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+  
+
+Mais	là	encore	intervient	l’approximation		u	<<	c		donc	:	
+! gµν	
+
+gµν !
+
+−u2 sin2θ
+
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎝
+
+c2
+0
+0
+0
+
+et	le	tenseur	peut	s’écrire	:		
+
+   
+
+TΛ
+µν !
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎝
+
+ρΛc2
+0
+0
+0
+
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+
+⎟	
+
+⎞
+⎟
+⎟
+⎟
+⎠
+
+Pour	se	recaler	avec	le	signe	moins	il	faut	que	la	densité	d’équivalent	énergie	matière,	
+issue	d’une	constante	cosmologique	supposée	positive	soit	négative	:		
+
+   
+
+19	
+
+	
+Introduisons	un	tenseur	:		
+
+8πG	
+
+c2 Λ
+
+ρΛ = −
+  
+
+Aµν =
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎝
+
+c2
+0
+0
+0
+
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+
+⎟	
+
+⎞
+⎟
+⎟
+⎟
+⎠
+
+  
+
+⎡⎣
+
+⎤
+⎦
+
+⎡
+⎢
+⎣
+
+1
+2
+
+8πG
+c4
+
+8πG
+c4
+
+c2 Λ
+8πG
+
+R gµν = −
+
+ρm + ρdm −
+
+Rµν −
+  
+
+⎤⎦ Aµν = −
+
+ρm + ρdm + ρΛ
+
+L’équation	d’Einstein	s’écrira	alors	:		
+⎥ Aµν	
+Et	là	les	choses	commencent	à	devenir	plus	claires.		
+A	cause	du	signe	moins,	issu	de	la	valeur	de	la	constante	d’Einstein,	une	masse	
+volumique	ρ			positive	crée	une	décélération.		
+Inversement,	la	masse	volumique	équivalente,	traduction	de	la	présence	de	la	constante	
+cosmolgique,	est	négative	:	
+elle	créera	une	accélération.		
+Mais	on	parle	«	d’énergie	noire	».	Comment	passer	de	cette	«	masse	noire	équivalente	»	à	
+une	«	énergie	noire	»	?		
+Densité	volumique	d’énergie	noire,	en	joules	par	mètre	cube	:		
+	
+Ainsi,	quelle	que	soit	l’unité	qu’on	choisisse	pour	exprimer	cette	énergie	noire	dans	un	
+camembert,	on	oublie	de	préciser	que	cette	énergie	noire	est	négative	!		
+	
+
+8πG < 0	
+Simple,	on	multiplie	par	c2	:	
+
+densité volumique d 'énergie noire = −
+
+c4 Λ
+8πG < 0
+
+ρΛ = −
+  
+
+c2 Λ
+
+	
+
+  
+
+	
+
+20	
+
+	
+
+	Une	densité	d’énergie	est	aussi	une	pression.	Ainsi,	bien	que	cette	conclusion	ne	
+s’impose	pas	immédiatement	à	l’intuition,	cette	énergie		noire	va	avec	une	 pression	
+négative.		
+	
+Application	à	la	mécanique	quantique	:		
+Dans	son	livre	«	The	Quantum	Theory	of	Fields,	Steven	Weinberg,	page	104,		justifie	son	
+option	d’éliminer	les	états	d’énergie	négative	en	disant	qu’ils	n’avaient	jamais	été	
+observés	dans	la	nature.		Quand	son	livre	avait	été	écrit	on	pouvait	encore	considérer	
+cela	comme	vrai.	Mais	en	2011	un	prix	Nobel	(	Perlmutter,	Riess	et	Schmidt	)	a	confirmé	
+la	découverte	que	l’univers	accélérait,	sous	l’effet	d’une	énergie	noire	…	négative.		
+Donc	l’option	de	base	de	la	Théorie	Quantique	des	champs,	consistant	à	choisir	un	
+opérateur	d’inversion	de	temos	(page	76)	anti-linéaire	et	anti)unitaure,	ne	tient	plus.		
+Un	second	volet	de	la	théorie	doit	être	développé.		
+C’est	ce	qu’est	en	train	de	faire,	avec	succès,	la	mathématicienne	belge	Nathalie	Debergh.		
+	
+
+

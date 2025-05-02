@@ -1,0 +1,223 @@
+Foundations of the black hole model
+
+J.P. Petit & H. Zejli
+__________________________________________________________________________________________________
+Keywords : black hole, neutron star, geometrical criticality, physical criticality, inner Schwarzschild line element, Schwarzschild's interior metric, Schwarzschild’s radius, signature change
+__________________________________________________________________________________________________
+Abstract : We review the different steps that led to the birth of the black hole model by showing its foundations based on the arbitrary choice of the absence of a cross term in dr dt in the metric, as well as the ignorance of a physical criticality phenomenon reported by Karl Schwarzschild in his second article in February 1916 : An infinite pressure at the center of a neutron star when it exceeds the TOV limit.
+__________________________________________________________________________________________________
+1 - An "obvious" change of variable with serious consequences
+
+     Today the model of the black hole is entirely based on what is the outer metric found by the mathematician Karl Schwarzschild in January 1916 and where the variable r is presented as a radial coordinate.
+
+
+     But is this solution of the Einstein equation without a second term really the spherically symmetric solution published by Schwarzschild [1]?
+
+    Let’s detail his approach. 
+
+    It’s important to keep in mind the variation he proposes to use:
+
+(2)                                                                         
+with : 
+(3)                                                
+     Where indices refer to space variables, being its time variable. Its initial variables are therefore {t, x, y, z}. Immediately he moves to coordinates that will allow him to express the symmetry of the solution:
+
+(4)                                                           
+(5)            			                                                              
+     He then presents what he considers to be the most general form of this solution :
+
+(6) 	           
+F, G and H being functions of r. It introduces the new variables:
+
+     The line element becomes : 
+
+    An integration constant  appears (the “Schwarzschild length Rs”). We get :
+
+
+
+
+
+   By introducing these elements in (8) and by reappearing the space variables  and , this give us :
+
+    This expression, exempt from any singularity, is defined for all the possible values ​​of the variables. When r takes its minimum value 0 the coefficients and  are zero, as is the determinant g of the metric. It is therefore not possible in this region of the hypersurface to define a coordinate system and a spatio-temporal orientation. Moreover, this hypersurface is non-contractile. If we fix the coordinates r and t and if we consider the sphere described by the coordinates and , its area is defined by :
+
+(13)      		                                      
+     The minimal hypersurface of the metric for x, y, z, t = 0 stops at a throat sphere with a minimal area of , which is non-orientable because Gaussian coordinates cannot be defined on it. We can calculate the non-zero and zero geodesics by setting:
+
+
+and starting from equation (2) :
+
+
+     We can deduce the exact solution which gives the plane geodesics as	derived from the Schwarzschild’s solution of the Einstein’s equation:
+
+
+      Some geodesics avoid the point r = 0. For a distant observer, some trajectories, according to the values ​​of the parameters, derived from ellipses, account for the phenomenon of the precession of Mercury's perihelion. Others evoke hyperbolic or parabolic trajectories.
+
+      But what about geodesics that converge to the point (r=0)?  
+
+    This metric describes the geometry outside the masses. If we couple this solution with an interior metric, according to the solution derived by Schwarzschild in his second article published on February 1916 [2], and the radius of the star is greater than , the "Schwarzschild radius", this problem does not arise.
+
+      A physical phenomenon cannot be conceived without an observer. To get a mental image of the phenomenon, we imbed it in an Euclidean representation space.  The line element becomes Lorentzian at infinity. It tends towards:
+
+(17)            		                                          
+    Is the solution that serves as the basis for the black hole model identical to the one constructed by Schwarzschild mentioned in (12)? Not exactly. One of the first to independently use this solution in 1916 was the mathematician David Hilbert [3]. The problem is that he presents it in a completely different way. At no point does he start from a length. To make a comparison, we will convert the formulas as they appear in Hilbert's article by adapting them to Schwarzschild's notations. Thus, instead of writing (6), he presents the bilinear form:
+
+(18)      
+Then, Hilbert introduces a function G(r) =  and removes the asterisk, leading to the following expression :
+(19)      
+     It is from this form and these four variables { } that Hilbert then conducts his calculation of the Christoffel symbols and the components of the Ricci tensor. 
+
+     Thus, he writes (in English translation):
+
+The first step in this derivation is the differential equations for geodesics lines by the variation of the integral
+
+
+As Lagrange equations we obtain, etc …
+
+   Hilbert writes the variation:
+
+
+
+    So it no longer optimizes the length along the geodesic but the square of this length :
+
+(21)                                	                                                       
+     While Schwarzschild starts from:
+
+(22)                                                                           
+      It turns out that these two variations lead to the same Lagrange equations, but they do not refer totally to the same objects. These are not subject to the same constraints with respect to the domain of definition of the hypersurface.
+
+      Moreover, Hilbert eliminates the problem posed by the sign of its bilinear form, let us call it  :
+
+
+     At the end of his calculation, Hilbert presents what he considers to be the metric solution obtained by Schwarzschild in 1916. Two errors will be noted, both in the original document in German [3] and in its English translation [5]:
+
+
+Figure 1 : Typographic bugs.
+
+      Neither of these two expressions are correct. In fact, you should write:
+
+
+     And, with the hypothesis thanks to which Hilbert recovers hyperbolic geometry:
+
+(25)                                                                          l = it 
+
+     But this is only typographic bugs.
+     In 1934, the works of Schwarzschild, in German, are little known to English speakers, with rare exceptions including R. Oppenheimer and R. Tolman. In 1934 the latter published a 500-page book, very well supported mathematically and physically, where he reflected Hilbert's error.
+     Why does Hilbert obtain this result (26) and not the expression (12). This follows from his “simplifying” assumption corresponding to equation (19), where the function G(r) is taken equal to .
+
+      Equation (12) produced a foliation by spheres in which these had a minimum area equal to. Hilbert defines two kinds of lengths, both positive. 
+
+    Let's quote it:
+
+When on a portion of curve, we will designate this one as a segment and we will say that the integral:
+(27)                           		                                                           
+               represents the length of this segment.
+
+When  on a portion of curve, we will designate it as a timelike line, and we will say that the integral:
+
+(28)                  			                                                           
+                represents the proper time, measured on it.  
+
+Finally portions of curve such as  will be called portions of “zero geodesics”.
+
+2- The signature change.
+ 
+    In doing so, Hilbert initiates a change in signature. Previously, everything had a clear physical meaning. The metric is being brought into its normal form:
+
+(29)                     		                                        
+     The succession of the signs of the terms represented the signature of the metric. When these signs were all the same it was a pseudo-Euclidean space. When they differed, we were then dealing with a hyperbolic space. In pre-WWII cosmology articles all articles refer to the signature:
+
+(30)                                                            or   
+     In 1934, R. Tolman [4] writes the metric of space-time, exterior as interior like this :
+
+(31)       		                                   
+     If we are in the real world, the fact of having expressed the functions of r in this exponential form guarantees, within the domain of definition (of the variables) of the object of study which is the hypersurface, the invariance of the signature. If this is altered, it implies that we are outside the hypersurface, as one or more of the functions become purely imaginary quantities. Being in the hypersurface amounts is possible according to this simple condition:
+ 
+(32)                                                                       
+     With his article, Hilbert caused confusion among all those who were interested in cosmology, and it can be considered that he was the one who caused the reversal of the signature, which is still in use today not only in cosmology but also in relativistic physics in general. There is no post-WWII article that justifies reversing this signature and provides the rationale for it.
+
+3 – Consequences of another “simplification”.
+
+    In 1939, Oppenheimer and Snyder signed the birth certificate of the black hole [6] by suggesting the final and limitless implosion of a massive stole at the end of its life. By considering that the variable t is identified with the proper time of a distant observer, it creates this "freeze frame" pattern such as a collapse phenomenon whose duration, in proper time, measured in days, seems for a distant observer to unfold in infinite time. This makes it possible to use a stationary solution to describe a highly unsteady phenomenon. But this is only the consequence of the simplification introduced by Tolman, by removing the crossed term in dr dt. This question will only be reexamined in 2021 by the mathematician P. Koiran [7]. The transformation of the Schwarzschild solution that includes the cross term can be obtained by using the change of variables introduced in 1925 by A. Eddington, which incidentally removes the coordinate singularity for  [8] :
+
+                       
+     The line element presented by Tolman, Oppenheimer and their successors then becomes:
+
+
+     Under these conditions, while its escape time is always infinite, the free fall time of a witness particle becomes finite and is of the order of proper time. The interpretation based on the freeze frame no longer holds.
+
+4 – Neglecting the physical criticality identified by Schwarzschild
+     
+     In the development of the Oppenheimer and Snyder’s idea, there was no longer any need to refer to the interior metric published by Schwarzschild in his second article of February 1916 [2]. In 1934, Tolman provides a precise statement of it by giving the following:
+
+
+      Note that it formulates the order of the terms, in the metric, according to the signature  but retains the signs of the respective terms. Then he takes up what had been established by Schwarzschild, namely the equation of state giving the pressure:
+
+
+     Without noting that at the center of the sphere (r = 0), this pressure becomes infinite for:
+
+
+     Which R̂ is a constant which meets the constant volume density of the star. So he contents himself with noting that the (geometric) criticality refers to objects which go beyond the framework of astronomical observations without noting this point, as Schwarzschild had done as early as 1916. Indeed, at the time when quantum mechanics went from success in success and where the neutron has only just been discovered two years earlier, it takes a visionary like F. Zwicky, after having been the first to propose the model of the end of life of massive stars in supernovae, to imagine that there may exist nuclei of atoms with a radius of 15 km.
+
+     After the war, led by J.A. Wheeler, theorists summarized the source of the field as the presence of a "central singularity". In the post-war period, a number of books devoted to the black hole were published ([9],[10],[11], etc.), but none of them mentioned the existence of a Schwarzschild’s interior solution. However, several situations resulting from astronomical observations pose problems that theoreticians must model. These are the collapse of a massive star at the end of its life on its iron core, the merger of two neutron stars, and the capture by a neutron star of material emanating from a companion, nearby and emissive star. This last phenomenon being sufficiently progressive can be approached starting from a stationary solution with spherical symmetry, connecting with an external metric solution. By assimilating a neutron star to a sphere of constant density, Schwarzschild identifies two critical states of the star in his second article :
+
+A physical criticality observed as we approach the center of the star, where the pressure increases continuously until it becomes infinite when the mass reaches a critical value. This criticality is reached when the star's radius Rn exceeds the critical radius of √(8/9) R̂ :
+
+Figure 2 : Identification of the physical criticality
+
+Indeed, the pressure variable ρo+p (with ρo being the constant density of the star) increases proportionally to the speed of light as we approach the center of the sphere (χ=0), where the speed of light and pressure become infinite for cos(χa) = 1/3 :
+
+
+Figure 3 : Excerpt from K. Schwarzschild's second article [2]
+
+The pressure and the speed of light within the sphere are given by the following expressions:
+
+
+
+The speed of light varies from 1/cos(χa) at the surface (χ=χa) to 2/(3cos(χa)-1) at the center of the sphere (χ=0), and the pressure varies from ρo at the surface (χ=χa) to  at the center of the sphere (χ=0). To prevent the pressure from exploding to infinity at the center of the star, it is necessary for cos(χa) > 1/3. Therefore, its radius Rn must satisfy the following condition:
+
+
+
+A geometric criticality occurs when the radius of the star becomes equal to both R̂ and the Schwarzschild radius Rs, which is significant in the case of neutron stars. We can illustrate the topological construction established by Schwarzschild, connecting the interior and exterior geometries of the star before the criticality occurs :
+		    	
+		Figure 4 : Topological representation of a sub-critical neutron star
+
+Several neutron stars can have their mass fueled by stellar winds from nearby, more massive stars and increase in size while maintaining a constant density (constant R̂) until reaching their critical point (2,5 solar masses). We can illustrate the evolution of their topology up to the double geometric criticality :
+
+
+Figure 5 : Evolution of the topology of a neutron star until criticality
+
+We can observe that Rs increases faster than the radius of the star. This is because it grows with mass, which is proportional to the cube of the star's radius, following the following relationship:
+
+
+
+    Tolman only sees the source of irregularity in this interior metric as the situation where the radius of the star reaches a value that depends only on the volumetric mass density. In the years following the genesis of the black hole model, the fact that this geometric criticality is preceded by a physical criticality has either been completely ignored ([9],[10],[11], etc.), or mentioned as being "close to the critical geometric radius" [12].
+    Most cosmologists in the post-war did not consider a topological interpretation of the solutions of Einstein's field equation. They remained focused on the supposed contractibility of space at every point, extending the Schwarzschild exterior solution into the complex domain through algebraic calculations. In fact, the integration of length along an extended geodesic until r = 0 yields a real value, but it becomes purely imaginary within the considered spacetime region (r < Rs).
+
+Conclusion
+     The arguments presented in this article demonstrate that the elements that served as the foundations for the black hole model come on one hand, from an arbitrary choice of coordinates, with the absence of a cross term in dr dt. On the other hand, they stem from the failure to consider a physical criticality phenomenon, which was already indicated by Karl Schwarzschild in his second article in February 1916. Therefore, it seems important to examine it from a new perspective and reconsider the complete topology construction of a star, involving the compression of its iron core in supernovae events, the accretion of matter forming neutron stars in conjunction with a more massive emitting star, or the fusion of sub-critical neutron stars.
+
+References 
+[1] Schwarzschild K., Über das Gravitationsfeld Messenpunktes nach der Einsteinschen Theorie. Sit. Deut. Akad. Wiss., Januar 1916
+
+[2] Schwarzschild K., Über das Gravitionalsfeld einer Kugel Aus incompressibler Flüssigkeit nach der Einsteinschen Theorie. Sitzung der phys. Math. Klasse v.23, Februar 1916
+
+[3] Hilbert D., Die Grundlagen der Physik (Esrte Mitteilung). Nachrochten von der Gesellschaft   der Wissenschaften zu Göttingen. Mathematisch-physikalische Klasse, 1916
+
+[4] Tolman R., Relativity, Thermodynamics and Cosmology. The International Series of Monographs on Physics. Oxford at the Clarendon Press. London, 1934
+
+[5] Hilbert D., The foundations of Physics (first communication). English translation. Boston Series in Philosophy and Science. Copyright Springer, Vol.250, 2007
+
+[6] Oppenheimer J.R., Snyder H., On Continued Gravitational Contraction. Phys. Rev. Vol. 56 pp 455-459, September 1939
+
+[7] Koiran P., Infall Time in the  Eddington-Finkelstein Metric, with Application do Eddigton-Rosen Bridges.  Inter. Jr. of Mod. Phys. D, 14, August 2021
+
+[8] Eddington A., A comparison with Withehead’s and Einstein’s Formulae. Nature, 1925
+
+[9] Chandrasekar S., The mathematical Theory of Black Holes. Oxford University Press, 1992
+
+[10] Frolov V.P., Novikov A., Black holes physics. Kluwer Academic Publishers, 1997 
+
+[11] Frolov V.P., Zelnikov A., Introduction to black holes physics. Oxford University Press, 2011
+
+[12] Adler R., Bazin R., Schiffer M., Introduction to General Relativity, McGraw-Hill, 1975

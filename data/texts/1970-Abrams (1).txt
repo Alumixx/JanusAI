@@ -1,0 +1,758 @@
+2
+0
+0
+2
+
+ 
+
+n
+a
+J
+ 
+
+4
+1
+
+ 
+ 
+
+1
+v
+4
+4
+0
+1
+0
+2
+0
+/
+c
+q
+-
+r
+g
+:
+v
+i
+X
+r
+a
+
+ALTERNATIVE SPACE-TIME FOR THE POINT MASS
+
+L. S. ABRAMS
+
+Abstract. Schwarzschild’s actual exterior solution (gS) is resurrected,
+and together with the manifold M0 = R4 − {r = 0} is shown to con-
+stitute a space-time possessing all the properties historically thought to
+be required of a point mass. On the other hand, the metric (gDW) that
+today is ascribed to Schwarzschild, but which was in fact ﬁrst obtained
+by Droste and Weyl, is shown to give rise to a space-time that is neither
+equivalent to Schwarzschild’s nor derivable from the “historical” prop-
+erties of a point mass. Consequently, the point-mass interpretation of
+the Kruskal-Fronsdal space-time (MW , gKF) can no longer be justiﬁed
+on the basis that it is an extension of Droste and Weyl’s space-time.
+If such an interpretation is to be maintained, it can only be done by
+showing that the properties of (MW , gKF) are more in accord with what
+a point-mass space-time should possess than those of (M0, gS). To do
+this, one must ﬁrst explain away three seeming incongruities associated
+with (MW , gKF): its global nonstationarity, the two-dimensional nature
+of its singularity, and the fact that for a ﬁnite interval of time it has no
+singularity at all. Finally, some of the consequences of choosing (M0, gS)
+as a model of a point mass are discussed.
+
+1. Notation and introduction
+
+Let K denote the analytic manifold consisting of R4 together with the
+single-chart atlas {R4, Id}, and let the thereby-deﬁned coordinates be de-
+noted by (t, x, y, z). Let L denote the line x = y = z = 0, and M0 the
+submanifold K − L. Since it is essential to what follows, note that the
+dimensionality of any point set on a manifold is determined by the set’s
+description in terms of the admissible coordinates, and thus has nothing to
+do with the subsequent choice of a metric. Thus, e.g., the assertions that
+L is a line, and that its intersection with t = const is a point, are valid no
+matter what metric may be assigned to M0.
+
+The properties that the metric (g) of a single, nonrotating, nonradiating,
+uncharged point mass1 should possess were ﬁrst stated by Einstein [1] in
+1915, and subsequently employed by Schwarzschild [2], Droste [3], Weyl [4],
+Hilbert [5], etc., to derive the exact form of g. An explicit formulation
+of all these properties, including those that were only tacit (e.g., Lorentz-
+signature, global time coordinate), together with those of the associated
+
+Published in Phys. Rev. D 20, 2474 (1979).
+(Received 11 March 1977; revised manuscript received 30 July 1979).
+1Henceforth, this description will be shortened to point mass.
+
+1
+
+2
+
+L. S. ABRAMS
+
+manifold (M ) was given by Finkelstein [6] in 1958. Speciﬁcally, M should
+be M0, while g should be analytic, Lorentz signature, and
+
+(a) a solution on M of Einstein’s free-space ﬁeld equations;
+(b) invariant under time translations;
+(c) invariant under spatial rotations;
+(d) (spatially) asymptotically ﬂat;
+(e) inextendable to L;
+(f) invariant under spatial reﬂections;
+(g) invariant under time reﬂection;
+(h) have a global time coordinate.
+
+Contrary to popular opinion, an analytic, Lorentz signature metric (gS)
+possessing properties (a)-(h) on M0 does exist. Indeed, it has been available
+ever since 1916, when Schwarzschild [2] derived it. Introducing quasipolar
+coordinates via
+
+x = r sin θ cos φ, y = r sin θ sin φ, z = r cos θ
+
+(1)
+
+with
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+0 < r, 0 < θ < π, 0 ≤ φ < 2π,
+
+the components of gS in these coordinates2 are given by
+
+ds2 = (1 − α/f )dt2 − (1 − α/f )−1f ′2
+
+dr2 − f 2dΩ2,
+
+where α is a positive constant,
+
+dΩ2 ≡ dθ2 + dφ2 sin2 θ,
+
+f ≡ (r3 + α3)1/3,
+
+and the prime denotes diﬀerentiation with respect to r.
+
+That the metric possesses properties (b), (c), (d), (f), (g), and (h) is
+evident by inspection. That it possesses property (a) can be veriﬁed by
+direct substitution into the ﬁeld equations, or by examining Schwarzschild’s
+derivation. Lastly, that it has property (e) follows from the violation3 of
+local ﬂatness at every point of L. Clearly, (M0, gS) does not contain a black
+hole.
+
+2Since quasipolar coordinates are inadmissible on the surface x = y = 0, it is to be
+understood here and afterwards that whenever a line element is displayed in terms of such
+coordinates, this is done solely for ease of recognition, and that the metric is actually
+deﬁned by its components in terms of (t, x, y, z). In the case of gS these quasi-Cartesian
+components are analytic everywhere on M0.
+
+3Let Ca denote the circle of “radius” a deﬁned by {(t, r, θ, φ)|t = const, r = a, θ = π/2}.
+The proper circumference of Ca is seen from (3) to be 2πf (a). As a → 0+, this tends to
+2πα, rather than to zero as local ﬂatness requires.
+
+3
+
+2. The Droste-Weyl metric
+
+In 1917, Droste [3] and, independently, Weyl, [4] derived a metric (gDW)
+for the point mass by techniques similar to that used by Schwarzschild. Let-
+ting M 0 denote a copy of M0 with the same admissible coordinates (t, x, y, z)
+as before, and letting (t, ¯r, θ, φ) denote the same quasipolar coordinates de-
+ﬁned by (1) and (2), the components of gDW are deﬁned on that portion
+(M α) of M 0 for which ¯r > α by
+
+(6)
+
+ds2 = (1 − α/¯r)dt2 − (1 − α/¯r)−1d¯r2 − ¯r2dΩ2,
+
+and on the remainder of M0 by analytic continuation. Note that the ¯r in
+(6), like the r in (3), is the ordinary quasipolar coordinate (x2 + y2 + z2)1/2,
+and thus its M0-spanning values satisfy ¯r > 0.
+
+Believing that gDW was “equivalent” to gS, both Droste and Weyl credited
+their results to Schwarzschild. A few years later, Hilbert [5] opined that the
+form of gDW was preferable to that of gS, and ever since then the phrase
+“Schwarzschild solution” has been taken to mean gDW rather than gS.
+
+3. Inequivalence of the Schwarzschild and Droste-Weyl
+
+space-times
+
+Let us relabel the r coordinate of points of M0 by means of the coordinate
+
+transformation
+
+T : ¯r = f (r) = (r3 + α3)1/3, r > 0
+
+(4) so that the M0-spanning values of ¯r satisfy ¯r > α.
+
+Under T , gS is carried into ¯gS:
+
+ds2 = (1 − α/¯r)dt2 − (1 − α/¯r)−1d¯r2 − ¯r2dΩ2.
+
+(7)
+
+(8)
+
+In the early years of relativity, when “physical equivalence” was thought
+to be a relationship between metrics, the formal identity of (6) and (8) was
+taken to mean that ¯gS (and a fortiori gS) and gDW describe the same physical
+phenomenon (which is the reason that both Droste and Weyl attributed their
+results to Schwarzschild). Today, however, it is recognized that physical
+equivalence is a relationship between space-times [7], and that for two space-
+times (M, g1) and (M, g2) deﬁned on the same manifold to be equivalent, it
+is not only necessary that a coordinate transformation carry g1 into g2, but
+also that the transformation be a diﬀeomorphism [8]. In the present case
+this latter requirement is not met, since T carries M0 into M 0 (viz., onto
+M α), rather than onto it, and is thus not a diﬀeomorphism. Consequently
+(M0, gS) and (M 0, gDW) are inequivalent space-times. This invalidates one
+of the two historical bases for regarding gDW as the metric of a point mass.
+
+4Here too, as in footnote 2, this equation is written in polar coordinates for simplicity.
+The actual transformation is deﬁned by the corresponding relations in terms of the quasi-
+Cartesian coordinates (t, x, y, z) and (t, ¯x, ¯y, ¯z), obtainable from (7) by cubing both sides
+and then using (1) to eliminate the polar coordinates, e.g., ¯x3 = x3+α3x3/(x2+y2+z2)3/2,
+etc. These relations are deﬁned everywhere on M0.
+
+4
+
+L. S. ABRAMS
+
+4. Derivation of the Droste-Weyl space-time
+
+The other historical basis for the point-mass interpretation of gDW is that
+Droste [3], Weyl [4], Hilbert [5], etc., believed that they had derived it by
+explicitly tailoring the general metric to have properties (a)-(h). As will now
+be shown, their derivations produce not gDW, but rather ¯gS, the coordinate-
+transformed version of gS, in which ¯r > α spans M0.
+
+Consider a typical derivation5. Although the manifold is not speciﬁed,
+there is no basis for supposing that anything other than M0 was contem-
+plated, so that this will be assumed in what follows.
+
+To begin with, properties (b), (c), (f), (g), and (h) are imposed on the
+metric, which as is well known [2, 3, 4, 5] restricts the line element to the
+form
+
+(9)
+
+ds2 = A(r)dt2 − B(r)dr2 − C(r)dΩ2
+
+in terms of the quasipolar coordinates deﬁned by (1) and (2). Note that
+property (h) requires that A be positive on M0, and that this together with
+the Lorentz-signature requirement compels B and C to be positive as well.
+Next, the unknown C is eliminated by making the coordinate transfor-
+
+mation
+
+(10)
+
+(11)
+
+¯r = [C(r)]1/2,
+
+thereby transforming (9) into
+
+ds2 = A(¯r)dt2 − B(¯r)d¯r2 − ¯r2dΩ2.
+
+Property (a) is now imposed, which leads to two ordinary diﬀerential equa-
+tions for the unknown A and B. The solution of these equations determines
+both unknowns, apart from two constants of integration. Property (d) is
+used to eliminate one of them, whereupon the metric, hereinafter referred
+to as g′
+S, takes the form of (6). Finally, a comparison is made with Newto-
+nian physics to evaluate α - for our purposes, this step can be replaced by
+imposing property (e), which requires that α be nonzero.
+
+As is evident from this brief sketch, in order for g′
+
+S to be gDW it is necessary
+that the M0-spanning values of ¯r in (11) be the same as those of the ¯r in
+(6), viz., ¯r > 0 [10]. But as can be seen from (10), the M0-spanning values
+of ¯r in (11) depend on the behavior of C(r) ar r varies over (0, ∞). Thus
+the only way to determine the values in question is to substitute (9) directly
+into the empty-space ﬁeld equations and solve for the most general C(r)
+compatible with properties (d) and (e). This is done in the Appendix, and
+the result is
+
+(12)
+
+[C(r)]1/2 = α/[1 − A(r)],
+
+where α is a positive constant and A is any analytic, strictly monotonic
+increasing function of r which tends to zero as r → 0 and behaves like
+
+5Although what follows is really a generic version of the classical derivation, it is closely
+
+approximated by that in Ref. [9].
+
+5
+
+1 − α/r as r → ∞. Together with (10), the just-mentioned properties of
+A show that the ¯r in (11) is a strictly monotonic increasing function of r
+which tends to α as r → 0, and to inﬁnity as r → ∞. Consequently, no
+matter what choice of admissible A (and thus of admissible C) is made, the
+M0-spanning values of ¯r in (11), and a fortiori in g′
+S, satisfy ¯r > α, not
+¯r > 0, and thus g′
+S has the same
+form as ¯gS, and since the ¯r in (11) has the same M0-spanning values as the
+¯r in (8), g′
+
+6. [As a matter of fact, since g′
+
+S is not gDW
+
+S is ¯gS.]
+
+It is worth emphasizing that there is nothing wrong with making the
+transformation (10). An error arises only if it is assumed that the resulting
+¯r is a “centered” radial coordinate - i.e., one whose M0-spanning values
+satisfy ¯r > 0 (whereas by “noncentered” is meant one whose M0-spanning
+values satisfy ¯r > b > 0).
+
+To clarify this last point, consider Minkowski’s space-time (K, gM ), where
+in polar coordinates the components of gM are described by (see footnote 2)
+
+ds2 = dt2 − dr2 − r2dΩ2.
+
+If one makes the coordinate transformation
+
+¯r = r + a (a > 0),
+
+then the transformed metric (¯gM ) is given by
+
+(13)
+
+(14)
+
+(15)
+
+ds2 = dt2 − d¯r2 − (¯r − a)2dΩ2 (¯r > a).
+
+Again, there is nothing wrong with the use of (14), and (K, ¯gM ) is still
+Minkowski’s space-time, so long as one remembers that in (15), ¯r = (x2+y2+
+z2)1/2 + a, so that its K-spanning values satisfy ¯r ≥ a - that is to say, if one
+remembers that values of ¯r < a are meaningless, just as are values of r < 0
+in (13). It is only if one decides to regard ¯r in (15) as the ordinary, centered
+radial coordinate (x2 + y2 + z2)1/2, whose K-spanning values satisfy ¯r ≥ 0,
+that the interpretation of (K, ¯gM ) as Minkowski’s space-time is incorrect.
+
+Similarly, it is the interpretation of ¯r in (6) as the ordinary, centered,
+quasipolar radial coordinate that invalidates the derivation of gDW from
+(a)-(h), and thus deprives gDW of the other of its two historical bases for
+being interpreted as the metric of a point mass.
+
+6Droste’s derivation (Ref. [3]) diﬀered from that described here, since he chose to deﬁne
+a new radial coordinate by setting B = 1, rather than by setting C = ¯r2. This new radial
+coordinate is a more complicated function of A than the right-hand side of (12), and by
+suitable choice of an integration constant its M0-spanning values can be made to satisfy
+¯r > 0. However, at the next-to-last step of his derivation he introduced another radial
+coordinate to bring the metric into the form of (6). The M0-spanning values of this last
+¯r satisfy ¯r > α, so that his ﬁnal result is not gDW, but g ′
+S.
+
+6
+
+L. S. ABRAMS
+
+5. Comparison of the Schwarzschild and Kruskal-Fronsdal
+
+space-times
+
+An extension of (M 0, gDW) to a portion (MW ) of R2 × S2 was found by
+Synge [11], Szekeres [12], Kruskal [13] and Fronsdal [14]; the latter two also
+showed that the extended space-time (MW , gKF) contains a black hole.
+
+Because of the belief that gDW was the metric of a point mass, and because
+heretofore there has been no viable7 challenger for the role, (MW , gKF) has
+come to be accepted as the space-time of a point mass. As seen in Secs.
+3 and 4, however, neither of the two historical bases for regarding gDW as
+the metric of a point mass is valid. Moreover, (M0, gS) was shown in Sec.
+1 to be an eminently qualiﬁed challenger. Consequently, the point-mass
+interpretation of (MW , gKF) can no longer be based on the fact that it is
+an extension of Droste and Weyl’s space-time. If such an interpretation is
+to be maintained, it can only be done on the basis of its own properties
+- more precisely, by comparing its properties with those of (M0, gS), and
+articulating the reasons why the former are more in accord with a point
+mass than the latter. To facilitate this comparison, the following table
+describes the candidates’ behavior with respect to several areas of interest:
+
+Comparison of Schwarzschild and Kruskal-Fronsdal Space-Times
+
+Property
+
+Schwarzschild
+
+Kruskal-Fronsdal
+
+1. Topology
+2. Type of singularity
+3. Presence of singularity
+4. Geometry
+5. Curvature invariant
+
+Euclidean
+point
+all time
+globally static
+ﬁnite as r → 0
+
+non-Euclidean
+two-surface [17]
+absent for a ﬁnite time [15]
+globally nonstationary [14]
+inﬁnite as v2 − u2 → 1−.
+
+Not all these properties are on the same footing as regards their decisive-
+ness for the choice in question. In particular, few today would argue that the
+topology of a point-mass universe must be Euclidean - about the most that
+can be said is that “other things being equal”, a simple model is preferable
+to a complicated one. Likewise, there is no absolute necessity for polynomial
+curvature invariants to tend to inﬁnity as a singularity is approached [18] -
+all that can be said is that bounded values are the exception [19].
+
+On the other hand, the behavior exhibited by Schwarzschild’s space-time
+with regard to 2, 3, and 4 would seem to be inherent in the very concept
+of a point mass. Consequently, in order to choose (MW , gKF) over (M0, gS),
+
+7A Euclidean-topology but nonanalytic model was constructed by A. Komar [15];
+shortly thereafter Brans (Ref.
+[10]) showed that it was aﬄicted with a number of un-
+desirable properties. A model proposed by A. Janis, E. Newman, and J. Winicour [16]
+was also nonanalytic, and its derivation involved a somewhat arbitrary choice for the limit
+of the coeﬃcient of dΩ2 as r → α+.
+
+7
+
+one should be prepared to explain, ﬁrst, how it is possible for a static phe-
+nomenon to give rise to a time-varying geometry; second, how, in a theory
+in which matter is manifested by metric singularities, it is possible to rep-
+resent a point mass for a ﬁnite time by a universe whose metric has no
+singularity whatever; and third, how it is possible for a mathematical point
+to be modeled as a two-dimensional surface. Although these contradictions
+have been pointed to in the past, so far as I am aware they have never
+been squarely faced by the proponents of the point-mass interpretation of
+(MW , gKF). Now that the historical basis for this interpretation has been
+invalidated, it appears to be essential to do so.
+
+6. Conclusions
+
+Irrespective of which space-time is chosen, it should be clear from the anal-
+ysis of Sec. 4 that use of (11) to represent a spherically symmetric phenome-
+non generally makes ¯r a noncentered radial coordinate, which if regarded as
+centered will give rise to an error similar to that which occurred in connection
+with gDW. Since (11) (and its cylindrical counterpart) has been used to de-
+rive many of the exact solutions known today (e.g., the Reissner-Nordstr¨om
+metric8), the interpretation of the associated space-times is suspect, and
+might more appropriately be conferred on their “Schwarzschild-type” alter-
+natives, obtained by substituting (9) directly into the ﬁeld equations. The
+same suspicion also attaches to those exact solutions which have not been
+derived but merely “found”, and which for certain values of their parameters
+reduce to gDW (e.g., the Boyer-Lindquist version [21] of Kerr’s metric).
+
+If Schwarzschild’s space-time should ultimately prevail as a model for a
+
+point-mass, then two additional consequences arise:
+
+First, of course, current ideas as to the nature of physics in the immediate
+neighborhood of a mass point will have to be revised, since until now this
+domain has been thought to be the inside of a black hole.
+
+Second, analysis of gravitational equilibrium [22] or collapse [23] involves
+the choice of both an “interior” and an “exterior” metric. For the spherically
+symmetric case the exterior metric must be that of a point mass9, so that
+heretofore gDW has been used. With (M0, gS) as the model for a point mass,
+10, so that all work done to date on spherically
+the exterior metric must be gS
+symmetric equilibrium or collapse would be invalid. In particular, with gS
+as the exterior metric no black hole is formed no matter how far the collapse
+
+8See, for example, the derivation given by R. Tolman [20].
+9For the case of collapse to a point. In other cases, the fact that the exterior metric
+need not possess property (e) permits use of a wider class of metrics than just that of a
+point mass. See, e.g. K. Schwarzschild [24].
+
+10For the case of collapse to a point.
+
+In other cases, gS should be replaced by the
+generalization of the point-mass metric that is obtained by omitting property (e). As may
+be seen from Schwarzschild’s paper cited in Ref.
+[24], this generalization of gS has the
+same form as (3), but with (5) replaced by f = (r3 + ρ3)1/3, where ρ is independent of α.
+The corresponding generalization of (28) is similar - (28) is unaﬀected, but it is no longer
+necessary that A tend to zero as r → 0.
+
+8
+
+L. S. ABRAMS
+
+proceeds - consequently, if uncharged, nonrotating, spherically symmetric
+black holes exist, they were not created by gravitational collapse, but are
+primordial.
+
+Acknowledgments
+
+This paper would not have been written were it not for the encouragement
+and insistence of Ray Hemann of Lockheed California Company. Thanks are
+also due to F. Estabrook, R. Finkelstein, C. Fronsdal, Ralph Smith, and H.
+Wahlquist for helpful discussions, P. Bergmann, W. Bonnor, E. Newman and
+K. Thorne for critical comments on an earlier version, N. Rosen for support
+when most needed, and B. O’Neill and my son Howard for clarifying the
+diﬀerential geometry concepts involved.
+
+Appendix: The most general analytic, Lorentz metric
+
+satisfying (a) − (h)
+
+Although Schwarzschild [2] did not make use of (10), he did impose an ex-
+traneous condition on the solution, namely, that its determinant be −1 when
+expressed in terms of (t, x, y, z). Since this requirement has nothing to do
+with the physics of a point mass, its imposition may eliminate some metrics
+that are consistent with Finkelstein’s (a)-(h). By dropping this requirement
+and avoiding the use of (10), the most general solution is obtained.
+
+To this end, let us suppose that A, B, C denote any analytic function
+of r such that (9) satisﬁes (a), (d), (e). Substituting (9) into Dingle’s11
+expressions for T i
+
+j results in
+
+− 8πT 2
+
+2 = C ′′/2BC + A′′/2AB − C ′2
+
+− 8πT 1
+
+1 = −1/C + C ′2
+
+/4BC 2 + A′C ′/2ABC = 0,
+/4BC 2 − B ′C ′/4B2C
+/4A2B − A′B ′/4AB2 + A′C ′/4ABC = 0,
+3 = T 2
+T 3
+2 ,
+/4BC 2 = 0,
+
+4 = C ′′/BC − 1/C − B ′C ′/2B2C − C ′2
+
+−A′2
+
+− 8πT 4
+
+(19)
+with all other T i
+
+j identically zero.
+
+Subtracting (19) from (16) leads to
+
+2C ′′/C ′ − C ′/C − B ′/B − A′/A = 0
+
+which integrates to
+
+C ′2
+
+= JABC,
+
+(16)
+
+(17)
+
+(18)
+
+(20)
+
+(21)
+
+where J is an arbitrary constant. Since A, B, C are positive (see Sec. 4),
+it follows that J ≥ 0. But if J were zero, then C ′ would be identically zero,
+which would make C constant and thus violate property (d). Hence J > 0,
+and C ′ never vanishes.
+
+11See Ref. [20], pp. 253-257.
+
+9
+
+Solving (21) for B and substituting therefrom for B into (16) yields, after
+
+some algebra
+
+C ′(C ′/C + 2A′/A − 4C ′/JAC) = 0.
+
+Since C ′ 6= 0, we obtain from the other factor in (22)
+
+C = α2/(4/J − A)2,
+
+where α is an arbitrary nonzero constant. Substituting for C and C ′ from
+(23) into (21) gives
+
+B = 4α2A′2
+
+/JA(4/J − A)4.
+
+Substituting for B and C from (24) and (23) into (17) shows that the latter
+is satisﬁed identically for arbitrary A. Hence, (9) becomes
+
+(25)
+
+ds2 = Adt2 − [4α2A′2
+
+/JA(4/J − A)4]dr2 − [α2/(4/J − A)2]dΩ2.
+
+Applying property (d) to the coeﬃcient of dΩ2 shows that
+
+α2/(4/J − A)2 ∼ r2 as r → ∞,
+
+which reduces to
+
+A ∼ 4/J − α/r as r → ∞.
+
+(22)
+
+(23)
+
+(24)
+
+(26)
+
+(27)
+
+Applying property (d) to the coeﬃcient of dr2 adds nothing to (27), but
+applying it to the coeﬃcient of dt2 shows that J = 4. Hence (25) becomes
+
+(28)
+
+ds2 = Adt2 − [α2A′2
+
+/A(1 − A)4]dr2 − [α2/(1 − A)2]dΩ2.
+
+A cannot be 1 since this would destroy the analyticity of the coeﬃcient of
+dΩ2. This, together with the positivity of the coeﬃcient of dr2, shows that
+A′ cannot be zero. Together with the analitycity of A, this means that
+A′ is either always negative or always positive. Ruling out the former on
+Newtonian grounds12, it follows from (27) that α > 0.
+
+Finally, if A → a > 0 as r → 0, then the transformation ¯r = A(r)
+would result in a diagonal set of ¯gij whose elements are nonzero, ﬁnite, and
+have a nonzero determinant as r → 0, which would permit the metric to
+be extended to L, contrary to property (e). Hence, A must tend to zero as
+r → 0. We conclude: The most general analytic, Lorentz-signature metric
+satisfying (a)-(h) (and having positive mass: see footnote 12) is given in
+quasipolar coordinates by (28), where α is an arbitrary positive constant,
+and A(r) is an arbitrary analytic, strictly monotonic increasing function of
+r which tends to zero as r → 0 and behaves like 1 − α/r as r → ∞.
+
+Comparison of (28) and (3) shows that the A(r) which gives rise to
+
+Schwarzschild’s solution is
+
+(29)
+
+AS(r) = 1 − α/f (r),
+
+12A′ < 0 would require α < 0, which in turn would give rise to negative mass when
+compared to the Newtonian expression for the potential at large values of r [see [25]].
+There seems to be no way to rule this out on the basis of (a)-(h) alone.
+
+10
+
+L. S. ABRAMS
+
+which is easily seen to satisfy all of the above-mentioned requirements on
+A. Moreover, if A∗ denotes any admissible choice of A, the resulting metric
+can always be transformed into gS by means of the transformation
+
+(30)
+
+1 − α/f (¯r) = A∗(r),
+
+which converts (28) into (3) with r replaced by ¯r - and equally important,
+makes ¯r a strictly monotonic increasing function of r, with M0-spanning
+values satisfying ¯r > 0. Thus gS can be regarded as a canonical form for the
+metric of a point mass.
+
+On the other hand, comparison of (28) and (6) shows that the A(r) which
+
+gives rise to the Droste-Weyl metric is
+
+(31)
+
+ADW(r) = 1 − α/r,
+
+which violates the requirement that A → 0 as r → 0.
+
+Finally, the simplest metric obtainable is that corresponding to A(r) =
+
+r/(r + α). This gives
+
+(32)
+
+ds2 = [r/(r + α)]dt2 − [(r + α)/r]dr2 − (r + α)2dΩ2.
+
+Erratum [26]
+
+1st and 3rd lines under Eq. (6): Replace M0 by M 0.
+9th line under Eq. (8): Insert “, when regarded as a mapping from M to
+
+M ,” between “transformation” and “be”.
+
+2nd line under Eq. (11): Replace A by A, and B by B.
+Also, the proof of the requirement A(0+) = 0 is incorrect; however, the
+
+requirement is still valid [27].
+
+References
+
+11
+
+1. A. Einstein, Sitzungsber. Preuss. Akad. Berlin II, 831 (1915).
+2. K. Schwarzschild, Sitzungsber. Preuss. Akad. Berlin I, 189 (1916).
+3. J. Droste, Proc. K. Ned. Akad. Wet. 19, 197 (1917).
+4. H. Weyl, Ann. Phys. (Leipzig) 54, 117 (1917).
+5. D. Hilbert, Math. Ann. 92, 1 (1924); see footnote 12 on p. 27.
+6. D. Finkelstein, Phys. Rev. 110, 965 (1958).
+7. S. Hawking and G. Ellis, The Large Scale Structure of Space-Time (Cambridge Univer-
+
+8. S. Hawking and G. Ellis, The Large Scale Structure of Space-Time (Cambridge Univer-
+
+sity Press, London, 1974), p. 56.
+
+sity Press, London, 1974), p. 227.
+
+9. S. Weinberg, Gravitation and Cosmology (Wiley, New York, 1972), pp. 176-180.
+10. C. Brans, Phys. Rev. 110, B1174 (1965); p. B1175, Sec. III.
+11. J. Synge, Proc. R. Ir. Acad. Sect. A 53, 83 (1950).
+12. G. Szekeres, Publ. Mat. Debrecen 7, 285 (1960).
+13. M. Kruskal, Phys. Rev. 119, 1743 (1960). See the proof note in Finkelstein’s paper
+
+(Ref. [6]).
+
+14. C. Fronsdal, Phys. Rev. 116, 780 (1959).
+15. A. Komar, Phys. Rev. 137, B462 (1965).
+16. A. Janis, E. Newman, and J. Winicour, Phys. Rev. Lett. 20, 878 (1968).
+17. H. Ohanion, Gravitation and Space-Time (Norton, New York, 1976), p. 318.
+18. F. Cooperstock and G. Junevicus, Int. J. Theor. Phys. 9, 59 (1974).
+19. C. Clarke, Commun. Math. Phys. 41, 65 (1975). (M0, gS) is type D and vacuum, and
+
+thus falls outside the scope of Clarke’s theorem.
+
+20. R. Tolman, Relativity, Thermodynamics, and Cosmology (Oxford University Press,
+
+London, 1934), pp. 265-266.
+
+21. R. Boyer and R. Lindquist, J. Math. Phys. 8, 265 (1967).
+22. J. Oppenheimer and G. Volkoﬀ, Phys. Rev. 55, 374 (1939).
+23. J. Oppenheimer and H. Snyder, Phys. Rev. 56, 455 (1939).
+24. K. Schwarzschild, Sitzungsber. Preuss. Akad. Berlin I, 424 (1916).
+25. T. Levi-Civita, The absolute diﬀerential calculus (Blackie, London, 1954), p. 423.
+26. L. Abrams, Phys. Rev. D 21, 2438 (1980).
+27. L. Abrams, Phys. Rev. D 21, 2991 (1980).
+
+Lockheed-California Company, Burbank, California 91520
+
+

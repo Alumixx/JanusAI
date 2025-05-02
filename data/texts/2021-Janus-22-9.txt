@@ -1,0 +1,5758 @@
+	
+
+1	
+
+Document	d’accompagnement	de	la	vidéo	Janus	22-9	
+
+	
+
+Le	Trou	Noir,	une	chimère	mathématiquement	incohérente,	
+
+21	novembre	2021	
+
+	pure	création	des	médias	scientifiques.		
+
+-  Non	suitable	
+
+				Je	viens	de	jeter	un	œil	à	la	vidéo	Janus	22-8,	mis	en	ligne	il	y	a	exactement	deux	ans.	
+J’évoquais	la	soumission	d’un	article	à	Physical	Review	D.	Le	rejet	a	été	immédiat	avec	
+pour	simple	commentaire	:	
+Ne	convient	pas	…		
+		Les	articles	que	j’ai	envoyés	à	cette	revue,	ainsi	qu’à	trois	autres	revues	de	la	sphère	
+anglo-saxonne	ont	récolté	le	même	rejet,	sans	lecture.	S’agissant	de	Physical	Review	D,	
+revue	à	laquelle	j’avais	envoyé	un	gros	papier	intitulé	«	The	Janus	Cosmological	Model	»	
+et	qui	a	refusé	de	le	soumettre	à	un	referee	j’ai	écrit	au	membre	de	l’Editorial	Board,	
+Robert	Wimmer1		vers	qui	mon	papier	avait	été	dirigé	:		
+- 
+
+Je	 conçois	 qu’un	 éditeur	 de	 revue	 qui	 reçoit	 un	 tel	 article,	 où	 on	 se	 propose	 de	
+modifier	le	contexte	géométrique	de	la	relativité	générale,	où	l’équation	d’Einstein	
+devient	l’une	des	deux	équations	d’un	système	de	deux	équations	de	champ	couplées,	
+où	une	masse	négative	remplace	d’un	coup	la	dark	matter	et	la	dark	energy,	et	qui	
+en	outre	prétende	résoudre	pratiquement	tous	les	problèmes	de	la	cosmologie	et	de	
+l’astrophysique	a	99	chances	sur	cent	d’être	quelque	chose	de	fantaisiste,	sans	bases	
+mathématiques	 solides.	 Fait	 aggravant,	 ce	 travail	 émane	 des	 ressortissants	 d’un	
+pays,	 la	 France,	 qui	 ne	 s’est	 jamais	 signalé	 par	 quelque	 contribution	 dans	 ce	
+domaine.	Ajoutons	que	les	membres	de	cette	équipe	«	Janus	»	occupent	des	positions	
+de	marginaux,	leur	chef	de	file	étant	un	retraité	âgé	de	84	ans.	Je	vous	le	concède.	
+Mais	 pourriez-vous	 considérer	 que	 cet	 article	 pourrait	 se	 situer	 dans	 les	 1%	 	 qui	
+aient	une	chance	d’être	sérieux	?		
+
+- 
+
+		
+
+																																																								
+1	https://www.researchgate.net/scientific-contributions/Robert-Wimmer-9769737	
+
+	
+
+2	
+
+	
+
+						Wimmer,	m’a	alors	renvoyé	sa	propre	analyse,	en	une	douzaine	de	lignes,	se		
+substituant	au	referee.	Parmi	les	points	soulevés	il	écrivait	«	qu’on	ne	dénotait	pas	
+clairement	si	j’approuvais	ou	désapprouvais	le	travail	de	Sabine	Hossenfelder	»	(publié	
+dans	sa	revue	en	2008).	J’ai	alors	renvoyé,	comme	je	l’aurais	fait	vi	à	vis	d’un	referee,	
+une	rédaction	évidemment	plus	copieuse,	où	tout	cela	était	présenté	plus	clairement,	
+ainsi	que	les	éclaircissement	sur	tous	les	points	soulevés.	Mais	le	secrétariat	de	la	revue	
+me	répondit	«	que	pour	eux	la	question	était	close	et	qu’on	m’avait	déjà	répondu	»		
+					Autre	point	d’actualité	:	Ayant	pourtant	réussi	à	passer	un	article	après	avoir	été	
+parrainé	sur	le	section	«	gr-qc	»	(	General	Relativity	and	Quantum	Cosmology,	la	«	cour	
+des	grands	»	)	je	me	trouve	maintenant	bloqué	par	manque	«	d’affiliation	»	(pas	de	
+laboratoire	ou	d’université	dont	je	puisse	me	réclamer).	Donc,	là,	la	boucle	est	bouclée.		
+	Enfin,	en	janvier	les	éditions	Tredaniel	sortiront	en	principe	notre	nouveau	livre	:		
+	
+
+	
+
+3	
+
+	
+
+		
+					Dans	les	vidéos	précédentes,	de	la	série	Janus	22-1	à	Janus	22-8	j’avais	soulevé	un	
+certain	nombre	de	prob	lème	lié	à	l’interprétation	mainstream	de	la	solution	produite	en	
+janvier	1916	par	l’Autrichien	Karl	Schwarzschild.	En	y	réfléchissant	je	me	suis	dit	que	
+c’était	vraiment	étonnant	que	seule	une	poignée	de	marginaux,	comme	Abrams,	Antoci,	
+Loinger	etc,		aient	soulevé	le	problème.	Point	n’est	besoin	de	comprendre	l’Allemand	
+pour	le	voir,	gros	comme	le	nez	au	milieu	de	la	figure.		
+
+Le	dessin	de	couverture	correspond	totalement	à	ce	que	je	vais	évoquer.	
+
+	
+
+4	
+
+	
+					La	seule	conclusion	est	qu’aucun	cosmologiste	d’aujourd’hui	:	Damour,	Luminet,	
+Lachièze-Rey,	François	Combes,	Barrau,	etc	…	etc	…	n’avais	eu	cette	image	sous	les	yeux.	
+Cela	paraît	difficilement	croyable,	mais	c’est	la	seule	conclusion.	A	moins	«	qu’on	ne	voie	
+que	ce	qu’on	veut	bien	voir	».			
+				Tout	cela	a	déjà	été	commenté	dans	les	vidéos	précédentes.	Evidemment,	on	se	dit	
+«		comment	ce	modèle	a-t-il	pu	s’instaurer,	prendre	sa	place	dans	le	panorama	de	la	
+cosmologie	?	».		
+					Il	y	a	eu,	bien	sûr,		l’erreur	du	mathématicien	David	Hilbert,	signalée	dès	1998	par	le	
+physicien	Canadien	Abrams2.	Mais,	au	delà	de	cela,	jusqu’à	l’aube	de	la	seconde	guerre	
+mondiale	personne	ne	se	souciait	des	implications	d’une	solution	exacte,	non	linéaire,	de	
+l’équation	d’Einstein	sans	second	membre.		Qui	est	alors	le	responsable	d’une	telle	
+dérive	?	Peut	être	Oppenheimer,	auteur	avec	Snyder,	d’un	papier	en	1939	évoquant	le	
+problème	du	devenir	d’une	étoiles	massive,	parvenue	au	bout	de	son	carburant	de	
+fusion,	et	tombant	alors	sur	elle-même,		s’effondrant,	sans	que	quoi	que	ce	soit	ne	puisse	
+s’opposer	à	cette	implosion.		
+						Tout	se	joue	alors	dans	l’immédiat	après	guerre	et	le	papier	«	déclencheur	»	est	celui	
+de	Martin	Kruskal,	en	1960.	Je	ne	sais	pas	si	ce	papier	est	accessible	sur	arXiv.	Si	ça	n’est	
+pas	le	cas	nous	en	avons	fait		une	traduction	française3,	avec	des	notes	de	bas	de	page,	et	
+on	mettra	cela	sur	HAL	(si	faire	se	peut,	bien	sûr).	Mais	de	toute	façon	on	trouve	cela	
+dans	tous	les	livres,	ou	cours,	dans	tous	les	pays,	en	particulier	dans	le	chapitre	6	du	
+Adler	Schiffer	et	Bazin	(Introduction	to	General	Relativity,	1975),	que	j’ai	scanné	et	que	
+l’internaute	peut	télécharger4.		
+																																																								
+2	Son	article	ne	pouvait	susciter	de	réaction	car	il	se	référait	à	l’article	de	1916	de	David	
+Hilbert,	en	langue	allemande,	qui	ne	fut	traduit	en	anglais	qu’en	2005.		
+3	http://www.jp-petit.org/papers/cosmo/1960-Kruskal-fr.pdf	
+	4	http://www.jp-petit.org/books/asb.pdf	
+
+⎛
+⎝⎜
+
+2m
+r
+
+ds2 = 1−
+  
+
+	
+5	
+J’ai	même	installé,	toujours	dans	mon	site,	les	pages	concernées5,	de	la	225	à	la	page	232.		
+				Dans	ce	qui	suit	aucun	intermédiaire	de	calcul	n’est	sauté.	Les	numéros	des	équations,	
+identiques	dans	l’ouvrage	d’Adler	Schiffer	et	Bazin,	sont	parfois	indiquées.		
+	1	–	Le	plan	de	la	démarche	de	Kruskal.		
+					En	1960	Martin	Kruskal	publie	dans	le	journal	Physical	Review6	un	article	intitulé	
+«Maximum	extension	of	Schwarzschild	metric	».	On	pourra	télécharger	le	version	
+anglaise	et	la	version	française	(traduite	par	Laurent	V.D.)	aux	adresses	suivantes	:		
+http://www.jp-petit.org/papers/cosmo/1960-Kruskal-en.pdf	
+http://www.jp-petit.org/papers/cosmo/1960-Kruskal-fr.pdf	
+	
+				Kruskal	part	de	cette	présentation	de	la	métrique	de	Schwarzschild,	qu’il	considère	
+donc	comme	évidente,	«	standard	».		
+dr 2− r 2( dθ 2+ sin2θdϕ2 )									
+(1)																						
+				Son	idée	est	d’éliminer	la	singularité	qu’on	dénote,	sur	la	sphère	de	Shwarzschild,	de	
+rayon	2m	(	le	«	rayon	de	Schwarzschild	Rs	»	).	Il	se	dit	que	cela	doit	être	possible	à	l’aide	
+d’une	changement	affectant	deux	des	variables,	r	et	t	:		
+		
+	(2)																																																														  ( t , r ) → ( v , u )
+Il	pose	même	d’emblée	le	résultat	auquel	il	compte	parvenir	:		
+(3)																																							  ds2 = f 2(u,v)( dv2 − du2 ) − r 2( dθ2 + sin2θdϕ2 )																																																											
+où	u	jouera	alors	la	rôle	d’une	nouvelle	définition	du	rayon	et	v	celui	d’une	nouvelle	
+définition	du	temps.	Qui	plus	est,	quand	on	considère	les	géodésiques	de	longueur	nulle,	
+suivie	par	les	photons,	correspondant	à		
+  ds2 = 0	
+avec	dans	le	cas	de	trajectoires	radiales	:	
+  dθ = dϕ2 = 0	
+il	compte	obtenir	:		
+																																																																																																																																																																													
+	5	http://www.jp-petit.org/paper/asb-pp-225-232.pdf	
+6	Physical	Review	Volume	19,	n°5,	en	date	du	premier	septembre	1960	(huit	mois	après	
+réception	du	manuscrit)		
+
+⎞
+⎠⎟ c2dt 2 - 1−
+
+2m
+r
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+−1
+
+2
+
+  
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+∑
+
+du
+dv
+
+6	
+
+gαβ =
+  
+
+= 1	
+guu = gvv = f 2 ≠ 0	
+
+	
+(4)																																																																				
+Que	rêver	de	mieux	?	Une	«	vitesse	de	la	lumière	»,	constante	et	égale	à	l’unité	!	
+Pour	couronner	le	tout,	Kruskal	souhaite	que	ses	deux	potentiels	métriques,	égaux,		
+(5)																																																										  
+correspondent	à	une	fonction	f			qui	n’ait	pas	de	zéro,	ne	soit	pas	nulle	en	r	=	2m.		
+				Dans	ces	conditions	il	va	chercher	à	déterminer	le	changement	de	variable	qui	
+conduise	à	un	tel	résultat.		
+				Un	changement	de	variable,	c’est	une	matrice	de	changement	de	coordonnées,	où	les	
+anciennes	coordonnées	sont	définies	par	rapport	aux	nouvelles.		
+		(6)																																																							
+	
+				La	matrice	doit	être	 inversible,	c’est	à	dire	que	sont	déterminant	doit	être	non	nul,	
+partout	où	s’exerce	de	changement	de	variable.	Ecrivons	:		
+dr 2− r 2( dθ 2+ sin2θdϕ2 )	
+(7)																						  
+Où	x°	=	ct	devient	notre	«	variable	chronologique	»	
+On	a	les	potentiels	métriques,	dans	les	deux	systèmes	:		
+	(8)															
+	(9)																									  
+On	explicite.	Les	coordonnées	u	et	v	dépendent	a	priori	de	x°	et	de	r		:		
+On	a	:											
+		(10)																																																				
+Commençons	par	les	termes											
+	(11)																																																													
+
+goo = 1−
+  
+
+⎞
+⎠⎟ dx° 2 - 1−
+
+g33 = − r 2sin2θ
+
+g33 = − r 2sin2θ
+
+∂xν
+∂xβ ˆgµν
+
+∂xν
+∂xβ ˆgµν
+
+−1
+2m
+r
+
+ˆg11 = − f 2
+
+gαβ =
+  
+
+g22 = − r 2
+
+g22 = − r 2
+
+ds2 = 1−
+
+ˆgoo = f 2
+
+∂xµ
+∂xα
+
+∂xµ
+∂xα
+
+2m
+r
+
+2m
+r
+
+2m
+r
+
+g11 =
+
+∑
+
+1−
+
+	
+
+	
+
+	
+
+	
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+µ ν
+
+µ ν
+
+−1
+
+2
+
+gαα =
+  
+
+∑
+
+µ
+
+ˆgµµ
+
+⎛
+⎝⎜
+
+∂xµ
+∂xα
+
+⎞
+⎠⎟
+
+ˆgµµ
+
+7	
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+=
+
+⎞
+⎠⎟
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+	
+
+	
+
+⎤
+⎥
+⎥
+⎦
+
+⎡
+⎢
+⎢
+⎣
+
+⎤
+⎥
+⎥
+⎦
+
+⎡
+⎢
+⎢
+⎣
+
+1−
+
+1−
+
+⎛
+⎝⎜
+  
+
+− f 2
+
+= f 2
+
+∂v
+∂r
+
+2m
+r
+
+∂v
+∂xo
+
+∂u
+∂xo
+
+∂u
+∂xo
+
+∂v
+∂xo
+
+∂v
+∂xo
+
+2	
+
+2 + ˆg11
+
+∂v
+∂x°
+
+go1 =
+  
+
+g22 = ˆg22
+
+− ∂u
+⎛
+⎝⎜
+∂r
+
+−1
+2m
+r
+
+⎞
+⎠⎟ = f 2
+
+− ∂u
+⎛
+⎝⎜
+∂xo
+
+goo = ˆgoo
+  
+
+g11 = f 2
+  
+
+	
+(12)																																						
+	(13)																																																						
+	(14)																																														
+Avec	x°	=	ct	
+Et	j’ai	:																																											 
+g33 = ˆg33		
+Il	ne	faut	pas	oublier	le	terme	croisé,	absent	:		
+	(15)																																																			
+⎥ f 2 = 0	
+Donc	:							
+∂r − ∂u
+∂v
+∂x°
+	(16)																																																									
+∂r = 0	
+Il	est	à	remarquer	que	les	signes	de	u	et	de	v	ne	sont	pas	déterminés	par	ces	équations.		
+A	ce	stade	Kruskal	va	introduire	une	variable	spatiale	intermédiaire	qu’il	nomme	 ξ	.		
+La	construction	projetée	va	donc	se	faire	en	deux	étapes	:		
+(17)																																													  ( x°, r ) → ( x°, ξ ) → ( v, u )	
+				Dans	cette	première	étape	il	s’agit	toujours	d’un	changement	de	variable,	qui	devrait	
+correspondre	à	une	matrice	inversible,	même	si	ce	changement	ne	correspond	qu’à	
+l’application	:		
+(18)																																																																								  r → ξ	
+			Il	paraît	logique	que	cette	application	satisfasse	à	des	conditions	de	régularité.	Kruskal	
+pose	:		
+(19)																																																				
+				!	Il	faut	tout	de	suite	traduire	ce	choix	fait	par	Kruskal.	Le	fait	de	mettre	une	valeur	
+absolue	signifie	qu’il	n’y	a	pas	un	changement	de	variable,	mais	deux	:	
+(19a)	Pour	r	>	2m	c’est	:		
+
+∂v
+∂r − ∂u
+∂x°
+
+ξ = r + 2m Ln
+
+r
+2m − 1
+
+∂v
+∂x°
+  
+
+∂u
+∂r
+
+∂u
+
+	
+
+⎡
+⎢
+⎣
+
+⎤
+⎦
+
+  
+
+8	
+
+	
+(19b)	Pour	r	>	2m	c’est	:		
+Pour	examiner	la	régularité	de	ce	changement	de	variable	on	va	tracer	la	courbe	  ξ(r)		
+
+ξ2 = r + 2m Ln 1−
+
+⎠⎟	
+⎠⎟	
+
+ξ1 = r + 2m Ln
+
+r
+⎞
+2m − 1
+
+r
+2m
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+⎞
+
+  
+
+  
+
+	
+
+	
+
+puisqu	le	logarithme	d’une	quantité	tendant	vers	zéro,	qui	donne	moins	l’infini,	
+
+			!Visiblement,	cette	application	n’est	ni	régulière,	ni	inversible	au	point	r	=	2m	
+est	impliqué.		
+			Mais	à	l’époque,	ça	n’a	choqué	personne.	On	peut	y	voir,	comme	dans	tout	ce	qui	va	
+suivre,	l’illustration	de	la	phrase	de	Souriau,	a	propos	de	travaux	de	ce	genre	:		
+-  Une	physique	sans	observation	et	une	mathématique	sans	rigueur	
+				A	ce	changement	de	variable	très	déconcertant,	même	pour	le	physique	«	le	plus	
+souple	»,	Kruskal	ajoute		l’introduction	d’une	fonction	:		
+(20)																																																											
+	
+La	relation	:		
+
+F (ξ) =
+  
+
+1− 2m / r
+
+f 2(r)
+
+2
+
+2
+
+2
+
+2
+
+⎞
+⎠⎟
+
+⎞
+⎠⎟
+
+⎞
+⎠⎟
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+⎤
+⎥
+⎥
+⎦
+
+⎡
+⎢
+⎢
+⎣
+
+⎛
+⎝⎜
+  
+
+1−
+
+⎛
+⎝⎜
+  
+
+		
+
+2m
+r
+
+∂v
+∂xo
+
+∂v
+∂xo
+
+9	
+
+⎞
+⎠⎟ = f 2
+
+− ∂u
+⎛
+⎝⎜
+∂xo
+
+− ∂u
+⎛
+⎝⎜
+∂xo
+
+= F(ξ)	
+  ( x° , r ,θ , ϕ )	à	  ( x° , ξ ,θ , ϕ ).	
+  ( x° , ξ ,θ , ϕ )	à	  (v , u ,θ , ϕ )	
+	
+
+	
+(21)																																											
+devient	:		
+(22)																																																								
+Pour	la	seconde	relation	c’est	plus	compliqué	On	a	opéré	le	changement			
+Il	faut	réexprimer	le	changement	de	variables.	En	disant	qu’on	passe	de	
+Reprenons:		
+	(23)																																											
+(24)																												  
+	(25)			
+	
+!		Là	encore,	dans	la	section	encadrée,	dans	cette	réexpression	des	la	différentielle,	on	a	
+un	dénominateur	qui	tend	vers	zéro	sur	la	sphère	de	Schwarzschild.	
+	(26)																																	
+⎥	
+	(27)																																							
+Récapitulons	:		
+(28)																																															
+
+= − F	
+
+= F(ξ)	
+
+1− 2m / r =
+  
+
+g11 = f 2
+  
+
+dr
+r
+2m − 1
+
+(
+− 1− 2m / r
+
+ξ = r + 2m Ln
+
+∂xν
+∂xβ ˆgµν
+
+dξ
+dr = ∂
+
+∂r = ∂
+
+r
+2m − 1
+
+−1
+2m
+r
+
+2m
+r - 2m
+
+− ∂u
+⎛
+⎝⎜
+∂ξ
+
+− ∂u
+⎛
+⎝⎜
+∂ξ
+
+− ∂u
+⎛
+⎝⎜
+∂r
+
+gαβ =
+  
+
+dξ = dr +
+
+1− 2m / r
+
+1− 2m / r
+
+1− 2m / r
+
+1− 2m / r
+
+= dr 1+
+
+∂xµ
+∂xα
+
+F (ξ) =
+
+⎤
+⎥ =
+⎦
+
+∂v
+∂ξ
+
+∂v
+∂ξ
+
+∂v
+∂r
+
+f 2(r)
+
+∑
+
+1−
+
+−1
+
+⎡
+⎢
+⎢
+⎣
+
+⎤
+⎥
+⎥
+⎦
+
+⎤
+⎥
+⎦
+
+⎡
+⎢
+⎢
+⎣
+
+⎤
+⎥
+⎥
+⎦
+
+⎡
+⎢
+⎢
+⎣
+
+∂ξ
+
+∂ξ
+
+	
+
+	
+
+dr
+
+⎡
+⎢
+⎣
+
+f 2
+
+f 2
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+⎞
+⎠⎟
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+=
+
+=
+
+)
+
+1
+
+1
+
+∂
+
+µ ν
+
+  
+
+  
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+∂v
+∂x°
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+  
+
+− ∂u
+⎛
+⎝⎜
+∂x°
+
+⎞
+⎠⎟
+
+10	
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+⎞
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+⎞
+⎠⎟
+
+⎞
+⎠⎟
+
+⎞
+⎠⎟
+
+⎞
+⎠⎟
+
+⎞
+⎠⎟
+
+⎞
+⎠⎟
+
+⎞
+⎠⎟
+
+⎞
+⎠⎟
+
+⎞
+⎠⎟
+
+⎞
+⎠⎟
+
+⎞
+⎠⎟
+
+∂ξ
+
+∂ξ
+
+∂u
+
+⎛
+⎝⎜
+  
+
+⎛
+⎝⎜
+  
+
+⎛
+⎝⎜
+  
+
+∂v
+∂ξ
+
+∂v
+∂ξ
+
+2	
+
+∂v
+∂x°
+
+∂v
+∂x°
+ 
+
+= ∂u
+∂x°
+
++ ∂u
+⎛
+⎝⎜
+∂ξ
+
++ ∂v
+⎛
+⎝⎜
+∂ξ
+
+− ∂u
+⎛
+⎝⎜
+∂ξ
+
++ ∂v
+⎛
+⎝⎜
+∂x°
+
+= ∂v
+⎛
+⎝⎜
+∂x°
+
++ ∂v
+⎛
+⎝⎜
+∂x°
+
+= ∂v
+⎛
+⎝⎜
+∂x°
+
+= ∂u
+⎛
+⎝⎜
+∂x°
+
++ 2 ∂v
+∂x°
+
+− 2 ∂v
+∂x°
+
+= − F(ξ)	
+∂ξ	
+
+	
+	(29)																																															
+(30)																																																	
+En	additionnant	il	vient	:		
+(31)																																												
+∂v
+⎛
+(32)																																
+⎝⎜
+∂x°
+  
+∂v
+∂x° + ∂v
+(33)																																
+∂v
+∂x° − ∂v
+(34)																																
+∂u
+∂x° + ∂u
+(35)																															
+Il	est	clair	que	deux	des	équations	sont	équivalentes,	soit	:		
+∂u
+∂x° − ∂u
+	(36)																																												
+2	
+de	même	(51)	=	(53),	soit	:		
+∂x° + ∂u
+∂u
+2	
+(37)																																												
+En	prenant	la	racine	il	peut	utilise	un	signe	plus	ou	un	signe	moins.	Mais	il	dit	que	s’il	
+∂x° − ∂u
+∂u
+∂x° − ∂v
+∂v
+utilise	les	mêmes	signes	le	Jacobien	devient	nul	:		
+(38)																																																												
+(39)																																																										
+En	sommant	:		
+
+= ∂u
+∂x° + ∂u
+∂ξ
++ ∂u
+∂x°
+
+∂v
+∂x° + ∂v
+ 
+∂x° − ∂v
+∂v
+
+⎠⎟	
+⎠⎟	
+⎠⎟	
+⎠⎟	
+
+∂ξ
+= − ∂u
+∂ξ
+
+∂x° + ∂v
+∂v
+
+− 2 ∂u
+∂x°
+
++ 2 ∂u
+∂x°
+
+= ∂u
+⎛
+⎝⎜
+∂x°
+
++ ∂u
+⎛
+⎝⎜
+∂x°
+
+= ∂u
+⎛
+⎝⎜
+∂x°
+
++ ∂u
+⎛
+⎝⎜
+∂x°
+
+∂u
+∂x°
+
+∂u
+∂x°
+
+∂v
+∂x°
+
+⎛
+⎝⎜
+  
+
+⎛
+⎝⎜
+  
+
+⎛
+⎝⎜
+  
+
+⎛
+⎝⎜
+  
+
+∂ξ
+
+∂ξ
+
+∂ξ
+
+∂ξ
+
+∂ξ
+
+∂ξ
+
+∂ξ
+
+	
+
+	
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+⎞
+⎠⎟
+
+⎞
+⎠⎟
+
+⎞
+⎠⎟
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+=
+
+=
+
+⎞
+
+⎞
+
+⎞
+
+ 
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+11	
+
+ 
+
+  
+
+  
+
+⎞
+
+⎞
+
+⎞
+
+⎞
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+	
+
+	
+
+∂ξ
+
+∂ξ
+
+∂2v
+
+∂2u
+
+∂2u
+
+∂v
+∂ξ
+
+∂v
+∂ξ
+
+∂u
+∂ξ
+
+∂
+∂ξ
+  
+
+= ∂u
+
+∂2u
+∂x° ∂ξ
+
+∂2u
+∂x° ∂ξ
+
+∂x° 2 = ∂2v
+
+∂x°	
+⎠⎟ → ∂2v
+∂x° 2 =
+
+∂x° = ∂u
+∂v
+∂v
+⎛
+⎛
+∂
+⎠⎟ = ∂
+⎝⎜
+⎝⎜
+∂x°
+∂x°
+∂x°
+  
+⎠⎟ → ∂2v
+∂u
+⎠⎟ = ∂
+∂ξ 2 =
+∂x°
+
+	
+(40)																																																	
+(41)																																										
+(42)																																		
+D’où	:	
+(43)																																																																				
+∂ξ 2	
+De	la	même	manière	on	obtient	;	
+∂ξ 2	c’est	à	dire	les	deux	équations	d’onde	:		
+∂x° 2 = ∂2u
+∂ξ 2 = 0	
+	(44)																																	
+Kruskal	aboutit	à	deux	équations	du	type	«	équations	d’ondes	»	
+∂x° 2 − ∂2u
+∂x° 2 − ∂2v
+La	solution	générale	de		l’équation	d’onde	est	une	fonction	deux	fois	différentiable	de	
+ x° ± ξ	.	On	va	voir		que	ces	solutions	sont		
+(45)																																																											
+v = h( ξ + x°) + g ( ξ − x°)	
+u = h ( ξ + x°) − g ( ξ − x°)		
+(46)																																																											
+Prenons		
+(47)																																																									
+On	a	:		
+(48)																																																															
+(49)																																																
+(50)																																																										
+(51)																																																					
+
+v = h( ξ + x°) + g ( ξ − x°)	
+g ( ξ − x°)	
+
+h( ξ + x°) + ∂
+∂x°
+
+  
+= ∂
+∂x°
+
+∂u
+∂x° + ∂u
+
+∂v
+∂x° + ∂v
+
+∂ξ 2 = 0
+
+∂v
+∂x°
+  
+
+= h' − g'
+
+2	
+
+∂2v
+
+⎛
+⎝⎜
+  
+
+∂ξ
+
+∂ξ
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+=
+
+  
+
+  
+
+  
+
+2
+
+∂v
+∂x°
+ 
+∂v
+= ∂
+∂ξ
+∂ξ
+  
+
+	
+
+h( ξ + x°) + ∂
+∂ξ
+
+g ( ξ − x°)	
+
+12	
+
+	
+(52)																																																									
+
+∂v
+∂ξ
+ 
+
+= h' + g'
+
+	
+
+	
+
+(53)																																												
+	
+
+⎛
+⎝⎜
+
+∂v
+∂x° + ∂v
+
+∂ξ
+
+∂v
+∂x° + ∂v
+
+∂ξ
+
+⎛
+⎝⎜
+  
+
+2
+
+2
+
+⎞
+⎠⎟
+
+⎞
+⎠⎟
+
+(
+
+⎡⎣
+= h' − g'
+
+) + h' + g'
+
+(
+
+)
+
+2
+
+⎤⎦
+
+= 2h'
+⎡⎣
+
+⎤⎦
+
+2 = 4h' 2
+
+u = h( ξ + x°) − g ( ξ − x°)
+
+∂u
+∂x°
+
+= ∂
+∂x°
+
+h( ξ + x°) − ∂
+∂x°
+
+g ( ξ − x°)
+
+(54)																																															
+
+∂u
+∂x°
+
+= h' − g'
+
+	
+
+	
+
+∂u
+∂ξ
+
+= ∂
+∂ξ
+
+h( ξ + x°) − ∂
+∂ξ
+
+g ( ξ − x°)
+
+∂u
+∂ξ
+  
+
+= h' + g'
+
+2	
+
+∂ξ
+
+∂x° + ∂u
+∂u
+
+= h'− g ' + h' + g ' = 2h'
+
+(55)																																						
+L’équation	(55)(	6.193a	)	est	satisfaite.		
+∂x° + ∂u
+∂u
+Passons	à	l’équation	suivante		(6.193b)																				
+(56)																																													
+∂u
+∂x° − ∂u
+
+∂x° + ∂v
+2	
+
+= 4h' 2 = ∂v
+
+∂v
+∂x° − ∂v
+
+⎛
+⎝⎜
+  
+
+∂ξ
+
+∂ξ
+
+∂ξ
+
+∂ξ
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+=
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+2
+
+2
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+  
+
+13	
+
+	
+(57)																																						
+
+	
+
+	
+
+∂x° − ∂v
+∂v
+
+∂ξ
+
+= ( h' − g ') − ( h' + g ') = − 2 g '
+
+2
+
+= 4 g ' 2
+
+= 4 g ' 2
+
+2
+
+⎞
+⎠⎟
+
+⎞
+⎠⎟
+
+∂ξ
+
+∂ξ
+
+∂ξ
+
+⎛
+⎝⎜
+  
+
+= ( h' − g ') − ( h' + g ') = 2 g '
+
+∂v
+∂x° − ∂v
+⎛
+⎝⎜
+  
+(58)																																					
+∂x° − ∂u
+∂u
+L’équation		(6.193b)	est	satisfaite.		
+∂x° − ∂u
+∂u
+On	va	maintenant	considérer	:		
+(59)	(6.192a)																																															
+= F(ξ)	
+	(60)(6.192b)																																															
+= − F(ξ)	
+(61)	(6.192	c)																																																	
+∂ξ	
+L’équation	(61)	(6.192c)	se	résume	à	une	identité	:		
+(62)																																							  ( h' − g ') ( h' + g ') ≡ ( h' + g ') ( h' − g ')	
+Prenons	la	(59)	(6.912a)		
+
+− ∂u
+⎛
+⎝⎜
+∂x°
+
+− ∂u
+⎛
+⎝⎜
+∂ξ
+
+= ∂u
+∂x°
+
+∂v
+∂x°
+ 
+
+∂v
+∂x°
+
+∂v
+∂ξ
+
+∂v
+∂ξ
+
+⎛
+⎝⎜
+  
+
+⎛
+⎝⎜
+  
+
+∂u
+
+⎞
+⎠⎟
+
+⎞
+⎠⎟
+
+⎞
+⎠⎟
+
+⎞
+⎠⎟
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+⎛
+⎝⎜
+
+∂v
+∂x°
+
+⎞
+⎠⎟
+
+− ∂u
+⎛
+⎝⎜
+∂x°
+
+⎞
+⎠⎟
+
+= F
+
+(
+
+h' − g '
+
+)2 − h' + g '
+
+(
+
+)2 = F
+
+− 4h'g '= F
+  
+
+					
+
+	Si	on	considère		
+		
+
+14	
+
+2
+
+2
+
+  
+
+(
+
+(
+
+⎞
+⎠⎟
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+	
+
+∂v
+∂ξ
+
+= − F
+
+h' + g '
+
+)2 = − F
+
+− ∂u
+⎛
+⎝⎜
+∂ξ
+
+4h'g '= − F
+
+)2 − h' − g '
+
+	
+(64)	(6.192b)																																															
+	(65)	(6.197)																																																									  − 4h'g '= F																																															
+On	obtient	le	même	résultat.		
+Il	est	dit	que	cette	équation	remarquable	va	nous	conduire	à	des	solutions	pour	h	,	g	,	F	
+qui	sont	uniques,	si	on	exempte	des	constantes	sans	importance		
+Rappelons-nous	que	:		
+(66)																																																																		
+Il	y	a	donc	deux	cas	à	considérer.	
+	2		-	Kruskal	commence	par	s’occuper	des	régions	telles	que	r	>	2m	.		
+> 0	
+	(67)																																														
+(68)	(6.197)																																			  − 4h'(ξ + x°) g' (ξ − x°) = F (ξ)	
+fait	que	h	et	g	doivent	être	de	signes	contraires.	
+Différencions	par	rapport	à		
+(69)																	
+(70)		(6.198b)																																															
+Différencions	par	rapport	à	x°	:		
+h’’	g’	-	h’	g’’	=	0			ou	
+(71)			(6.198b)																																															
+
+F																																																																	
+= 0		
+
+__________________________________________________________________________________	
+
+− 4 ( h"g '+ h'g") = F' →
+  
+
+r > 2m →
+  
+
+F 		
+
+F (ξ) =
+  
+
+h"g '+ h'g"
+
+1− 2m / r
+
+1− 2m / r
+
+− 4h'g '
+
+h"
+h'
+  
+
+F (ξ) =
+
+g"
+g '
+
+f 2(r)
+
+f 2(r)
+
+h'g '
+
+F '
+
+	
+
+F'
+
+F'
+
+−
+
+=
+
+=
+
++
+
+=
+
+h"
+h'
+  
+
+g"
+g '
+
+⎤⎦
+
+⎡⎣
+
+⎤⎦
+
+⎡⎣
+
+⎤⎦
+
+⎤⎦
+
+⎡⎣
+
+=
+
+F '
+
+'	
+
+' = 2η
+
+2 Lnh'
+⎡⎣
+
+2 h"
+h'
+  
+
+15	
+
+F	
+
+' = Ln F (ξ)
+
+' = 2η	
+Ln F = 2ηξ + C2	
+
+	
+d’où		en	additionnant	:	
+(72)																																																																												
+(73)			(6.199)																																										  2 Ln h'(ξ + x°)
+										On	peut	alors	traiter	 ξ		et	 ξ	+	x°	comme	deux	variables	indépendantes.		Ainsi	les	
+deux	membres	de	l’équation	(6.199)	,	fonctions	de	variables	indépendantes,	sont	égaux	à	
+une	constante.		
+Kruskal	dimensionne		ses	constantes	en	fonction	du	résultat	qu’il	veut	obtenir.		Il	prend		
+(74)																																																				   Ln F
+(75)																																												  Lnh' = ηy + C1
+Il	prend	:		
+(76)																																																																		  C1 = Ln η − Ln2		
+ce	qui	fait		
+(77)					
+Il	prend	ensuite	:		
+(78)																																																																						  C2 = 2 Ln η		
+ce	qui	fait	:		
+(79)				(6.200)																												  Ln F = 2ηξ + 2Ln η
+→ F = η2 e 2ηξ	
+Les	constantes	ont	été	prises	pour	satisfaire	(6.197)				
+		(80)							
+Il	reste	à	traduire	cela	avec	:	u	=	h	–	g							v	=	h	+	g					ce	qui	donne	:					
+	
+(81)																																							
+
+u = e ηξ e ηx°+ e − ηx°
+
+⎤
+⎥ = e ηξ ch ηx°
+⎦
+
+→ h' = η
+2
+
+' = ηy + Ln η − Ln2
+
+− 4h'g '= F
+  
+
+→ − 4 1
+⎛
+⎝⎜
+2
+
+⎞
+⎠⎟ = η2e2ηξ
+
+e ηy	
+
+2 Lnh'
+⎡⎣
+  
+
+ηeη(ξ + x°)
+
+ηeη(ξ − x°)
+
+→ h =
+
+⎛
+⎞
+⎠⎟ −
+⎝⎜
+
+e ηy
+
+1
+2
+
+	
+
+⎡
+⎢
+⎣
+
+1
+2
+
+2
+
+⎤⎦
+
+v = e ηξ e ηx°− e − ηx°
+  
+
+⎡
+⎢
+⎣
+
+2
+
+⎤
+⎥ = e ηξ sh ηx°
+⎦
+
+																																			
+
+16	
+
+  
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+	
+
+2mη
+
+2mη
+
+2mη
+
+v =
+
+u =
+
+	  
+
+e ηr ch ηx°
+
+r
+⎞
+2m − 1
+
+r
+⎞
+2m − 1
+⎠⎟
+
+r
+⎞
+2m − 1
+⎠⎟
+
+r
+⎞
+2m − 1
+⎠⎟
+
+ξ = r + 2m Ln
+
+e ηξ = e ηr
+  
+
+⎠⎟	
+	
+
+	
+On	a	:			
+(82)	(6.191)																																					
+!		Et	là	encore	on	a	ce	changement	de	variable	avec	un	log	tendant	vers	moins	l’infini.		
+(83)																																																				
+au	total	:		
+(84)			(6.201)																														
+Il	exprime	F	avec		
+(85)																																						
+Mais	on	peut	aussi	exprimer	f2	à	partir	de	:		
+(86)	(6.191)													  
+	
+−4mη	
+(87)																							
+(88)																																																			
+		
+!	Maintenant	Kruskal	veut	que	f	soit	non	nul	à	r	=	2	m	ce	qu’il	obtient	avec
+!		Il	exploite	alors	ce	«	choix	»	que	font	certain	mathématiciens,	de	considérer	que		
+	(89)																																																																	 ( zéro )Zéro = 1...	
+Raisonnons	en	physicien.	Considérons	la	fonction	:		
+
+F = η2 e 2ηξ = η2 e 2ηr
+  
+
+r
+2m − 1
+1−4mη
+
+e −2ηr	
+
+4mη	
+
+1
+η2 e −2ηr
+
+r
+⎞
+2m − 1
+⎠⎟
+
+r
+⎞
+2m − 1
+⎠⎟
+
+r
+⎞
+2m − 1
+⎠⎟
+
+e ηr sh ηx
+
+1− 2m / r
+
+1− 2m / r
+
+r / 2m − 1
+
+1
+4m
+
+2m
+η2r
+
+η =
+ 
+
+f 2(r) =
+
+f 2(r) =
+
+F (ξ) =
+
+2m
+r
+
+2m
+r
+
+f 2(r)
+
+F (ξ)
+
+F (ξ)
+
+f 2 =
+
+→
+
+	
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+=
+
+(
+
+)
+
+  
+
+  
+
+⎛
+⎝⎜
+  
+
+r
+⎞
+2m − 1
+⎠⎟
+
+	
+17	
+(90)																																																																			
+1−4mη	
+				Quand	Kruskal	s’intéresse	la	«	l’intérieur	de	la	sphère	de	Schwarzschild	»	avec	un	
+calcul	similaire,	qu’on	verra	plus	loi,		la	grandeur	à	«	traiter	»	sera	:		
+(91)																																																																			
+1−4mη	
+				En	considérant	que	2	 m	est	une	longueur,	le	«	rayon	de	Schwarzschild	 Rs	»	ces	
+fonctions	sont	:		
+(92)																																													
+1−2Rs η				et										
+			S’agissant	de	plaquer			 ( zéro )Zéro = 1...	en	remplaçant	ces	deux	fonctions	par	l’unité	un	
+physicien	sera	tenté	d’approcher	cette	valeur	critique	
+				Une	telle	exploration	conduit	aux	courbes	ci-après,	selon	qu’on	approche	cette	valeur	
+critique	par	valeurs	inférieures	ou	supérieures.		
+	
+
+1−2Rs η	
+
+1
+4m =
+
+1
+2 Rs
+
+⎞
+− 1
+⎠⎟
+
+η =
+  
+
+r
+2m
+
+		
+
+r
+Rs
+
+r
+Rs
+
+⎛
+⎝⎜
+  
+
+⎛
+⎝⎜
+  
+
+1−
+
+1−
+
+⎛
+⎝⎜
+  
+
+⎞
+⎠⎟
+
+⎞
+⎠⎟
+
+	
+
+18	
+
+Cette	parenthèse	étant	faite,	retournons	au	calcul	de	Kruskal	:		
+
+	
+	
+!	Faisons	le	point.	Kruskal	prétend,	«	avec	ce	prolongement	analytique,		étendre	la	
+solution	«	à	l’ensemble	de	l’espace-temps	».	Ce	qui	signifie,	implicitement,	qu’il	considère	
+que	Schwarzschild	a	construit	une	solution	«	limitée		à	une	partie	de	l’espace	temps	»,	
+c’est	à	dire	correspondant	à	:		
+!	Ce	qui	signifie	implicitement	que	pour	Kruskal	(et	pour	tout	ceux	qui	ont	par	la	suite	
+opté	par	la	suite	pour	cette	interprétation)	cet	«	ensemble	de	l’espace-temps	»	doit	
+impérativement	contenir	la	portion		
+!	C’est	un	a	priori	concernant	la	topologie	de	l’espace-temps.	Dans	l’esprit	de	Kruskal,	
+et	de	tous	ceux	qui	ont	suivi,	on	trouve	une	négation	de	principe	que	l’espace	temps	qui	
+puisse	être	localement	non-contractile.		
+!	Alors,	dans	ces	conditions,	tout	sera	bon	«	pour	réussir	à	réussir	à	pénétrer	 à	
+l’intérieur	de	la	sphère	de	Schwarzschild	»,	«	par	effraction	»,	quitte	à	utiliser	des	
+changements	de	variables	irréguliers	en	 r	=	 Rs,	et	à	donner	à	un	exposant	une	valeur	
+
+r	>	Rs	
+0	<	r	<	Rs	
+
+r
+
+4m
+
+u =
+
+2m − 1 e r /4m ch x°
+
+	
+19	
+nulle	pour	se	débarrasser	d’un	facteur	gênant,	devenant	également	nul,	en	tablant	sur	
+l’idée	que	zéro	puissance	zéro	vaut	l’unité.		
+!	En	outre,	Kruskal	prétend	en	effet	raccorder,	sur	cette	sphère	de	Schwarzcshild,	deux	
+jeux	de	variables	obtenus	avec	des	opérations,	des	tours	de	passe-passe		différents.	Or,	
+les	courbes	ci-dessus	montrent	que	lorsque	l’exposant	approche	la	valeur	zéro	par	
+valeurs	supérieures	ou	inférieures	le	passage	à	la	limite	s’opère	de	façons	différente.		
+				On	retrouve	la	seconde	partie	de	la	phrase	de	Souriau	:		
+																																						-	……	et	une	mathématique	sans	rigueur.		
+	Grâce	à	cet	artifice	il	obtient	finalement	:		
+(93)			(6/202)																																			
+	
+!	On	remarque	au	passage	que	cette	métrique	ne	tend	pas	vers	la	métrique	de	Lorentz	
+à	l’infini	puisque	que	les	potentiels	  
+guu	tendent	alors	vers	zéro.	Mais	les	tenants	
+gv v	et	  
+de	cette	«	cosmologie	moderne	»	ne	s’arrêtent	pas	à	un	tel	détail.				
+					3	–	Dans	son	papier	de	1960	Kruskal	n’explicite	pas	ce	qui	va	suivre	et	se	réfère	
+à	  r < 2m,	 mais	 il	 en	 donne	 les	 grandes	 lignes	 en	 précisant	 que	 cela	 permettra	
+d’étudier	 les	 deux	 autres	 secteurs	 de	 son	 diagramme	(haut	et	bas)	 qu’il	 désigne	
+alors	comme	«	se	référant	à	l’intérieur	de	la	singularité	sphérique	»..																						
+(94)	(6.191bis)																																  
+On	a	:			
+(95)																																										
+C’est	à	dire		
+
+2m − 1 e r /4m sh x°
+
+																	
+
+ξ = r + 2m Ln
+
+− ∂u
+⎛
+⎝⎜
+∂xo
+
+⎞
+⎠⎟ = f 2
+
+⎥	
+
+e − r /2m
+
+∂v
+∂xo
+
+r
+2m
+
+2m
+r
+
+32m3
+
+f 2 =
+
+⎛
+⎝⎜
+  
+
+v =
+
+4m
+
+1−
+
+1−
+
+⎤
+⎥
+⎦
+
+⎡
+⎢
+⎢
+⎣
+
+	
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+r
+
+r
+
+  
+
+2
+
+2
+
+20	
+
+2
+
+2
+
+2
+
+  
+
+⎞
+⎠⎟
+
+⎞
+⎠⎟
+
+⎞
+⎠⎟
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+  
+
+1−
+
+f 2(r)
+
+∂v
+∂xo
+
+2	
+
+1− 2m / r
+
+2m
+r
+f 2
+
+F (ξ) =
+  
+
+− ∂u
+⎛
+⎝⎜
+∂xo
+
+= ∂v
+⎛
+⎝⎜
+∂xo
+
+− ∂u
+⎛
+⎝⎜
+∂xo
+
+< 0	
+
+= F(ξ)	
+
+	
+(96)																																																					
+et	comme	tout	à	l’heure	on	pose	:		
+(97)																																																												
+Ainsi	:		
+(98)																																										
+Pour	la	seconde	relation	c’est	plus	compliqué	On	est	passé	des	variables		
+Il	faut	réexprimer	le	changement	de	variables.	En	disant	qu’on	passe	de	
+Donc	il	faut	recommencer	le	bazar	:		
+	(99)																																																							
+(100)	
+(101)			
+(102)																																																																		
+	(103)																																																	
+
+  ( x° , r ,θ , ϕ )	à	  ( x° , ξ ,θ , ϕ ).	
+  ( x° , ξ ,θ , ϕ )	à	  (v , u ,θ , ϕ )	
+	
+
+																	
+	
+
+dξ = = − dr
+2m
+- 1
+r
+  
+
+g11 = f 2
+  
+
+ξ = r + 2m Ln 1−
+
+→ dξ = dr −
+
+∂xν
+∂xβ ˆgµν
+
+−1
+2m
+r
+
+− ∂u
+⎛
+⎝⎜
+∂r
+
+gαβ =
+  
+
+∂xµ
+∂xα
+
+= dr −
+
+r
+2m
+
+r
+2m
+
+∂v
+∂r
+
+∑
+
+1−
+
+1−
+
+⎡
+⎢
+⎢
+⎣
+
+⎤
+⎥
+⎥
+⎦
+
+	
+
+dr
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+=
+
+∂
+
+µ ν
+
+  
+
+2
+
+2
+
+∂r = ∂
+
+∂ξ
+
+dξ
+dr = ∂
+
+∂ξ
+
+−1
+2m
+r
+
+- 1
+
+  
+
+	
+
+2mdr
+
+2m - r = −r dr
+
+2m - r
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+  
+
+  
+
+=
+
+−
+
+−
+
+=
+
+−
+
+−
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+f 2
+
+f 2
+
+⎤
+⎥
+⎥
+⎦
+
+⎡
+⎢
+⎢
+⎣
+
+⎤
+⎥
+⎥
+⎦
+
+⎡
+⎢
+⎢
+⎣
+
+⎤
+⎥
+⎥
+⎦
+
+⎡
+⎢
+⎢
+⎣
+
+⎛
+⎝⎜
+  
+
+1−
+
+− 1
+
+= f 2
+
+dv
+dr
+
+du
+dr
+
+du
+dξ
+
+dv
+dξ
+
+dv
+dξ
+
+du
+dξ
+
+du
+dξ
+
+dv
+dξ
+
+2m
+r
+
+⎞
+− 1
+⎠⎟
+
+1
+2m
+r
+
+1
+2m
+r
+
+2 = g11 = −
+
+1
+2m
+r
+
+21	
+		
+
+v = h( ξ + x°) + g ( ξ − x°)
+
+− 1	
+= − F	
+
+u = h ( ξ + x°) − g ( ξ − x°)	
+
+	
+(104)			
+(105)																																															
+et	on	a	encore	:		
+(106)																																																									
+Donc	le	calcul	va	se	dérouler	de	la	même	manière	et	conduira	encore,	avec	:		
+(107)																																																					
+à	:		
+	(108)																																																																		  − 4h'g '= F																																															
+				Cette	fois	F	est	négatif.	Ce	qui	fait	que	h	et	g	sont	de	même	signe.		
+!	Kruskal	les	prend	tous	les	deux	positifs,	comme	si	«		cela	allait	de	soi	».	Il	y	a	une	
+option	qui	ne	lui	vient	pas	à	l’esprit	:	que	ce	soient	deux	fonction	imaginaires,	l’une		
+positive	et	l’autre	négative,	dont	le	produit	sera	alors	égal	à	+1,	ce	qui	donnerait	des	
+valeurs	u	et	v	également	imaginaires.		
+Différencions	par	rapport	à	 ξ		
+(109)												
+(110)																																																																						
+Différencions	par	rapport	à	x°	:		
+h’’	g’	-	h’	g’’	=	0			ou	
+(111)																																																																							
+d’où		en	additionnant	:	
+
+F																																																																	
+= 0	
+
+− 4 ( h"g '+ h'g") = F' →
+  
+
+F 		
+
+h"g '+ h'g"
+
+− 4h'g '
+
+h"
+h'
+  
+
+h"
+h'
+  
+
+g"
+g '
+
+g"
+g '
+
+h'g '
+
+F '
+
+F'
+
+F'
+
+−
+
+=
+
+=
+
++
+
+=
+
+  
+
+22	
+
+'	
+
+⎤⎦
+
+⎡⎣
+
+⎡⎣
+
+⎤⎦
+
+⎤⎦
+
+⎡⎣
+
+=
+
+F '
+
+2 h"
+h'
+  
+
+' = Ln F (ξ)
+
+	
+(112)																																																																
+F	
+	(113)																																														  2 Ln h'(ξ + x°)
+On	fait	encore	:		
+(114)  2 Ln h'(y)
+' = 2η	
+(115)  h'(y) = ηy + C1	
+On	reprend	la	même	valeur	pour	la	constante	:	
+	(116)																																																								 C1 = Ln η − Ln 2	
+Ainsi	:		
+	(117)																																					
+Comme	on	a	pris	g	du	même	signe	on	a	:		
+	(118)																																						
+(119)																																						
+Ce	qui	nous	permet	de	calculer	F			:		
+	(120)																																																												  
+On	finalise	:		
+
+F = − η2e 2ηξ < 0 	
+u	=	h	–	g							v	=	h	+	g	
+	
+
+η e η(ξ + x°)
+
+e η(ξ + x°)
+
+h' =
+  
+
+h' =
+  
+
+ηe ηy
+
+h =
+  
+
+g' =
+
+g =
+
+1
+2
+
+1
+2
+
+1
+2
+
+1
+2
+
+→
+
+1
+2
+
+h =
+
+e ηy	
+e η(ξ − x°)	
+ηe η(ξ − x°)	
+
+1
+2
+
+(120)																																							
+
+1
+2
+
+1
+2
+
+v =
+  
+
+u =
+
+e η(ξ + x°) −
+
+e η(ξ − x°)= e ηξ sh ηx°
+
+e η(ξ + x°) +
+
+e η(ξ − x°)= e ηξ ch ηx°
+
+	
+
+1
+2
+
+1
+2
+
+	
+
+  
+
+2mη
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+	
+
+1−
+
+1−
+
+1−
+
+u =
+
+r
+2m
+
+r
+2m
+
+r
+2m
+
+eηrsh ηx°
+
+23	
+
+2mη	
+
+ξ = r + 2m Ln
+
+eηξ = eηr
+  
+
+	
+(121)																																																															
+(122)																																																													
+	
+(123)																																																															
+On	reprend	la	valeur	de	  η = 1/ 4m		
+(124)																																																					
+!	Et	passez	muscade,	la	boucle	est	bouclée.	Kruskal	obtient	donc	la	description	de	
+«	l’intérieur	du	trou	noir	»	grâce	à	ses	coordonnées	magiques	(	v	,	u	).	La	fonction	f	est	…	
+continue	et	dérivable,	sauf	en	r	=	0	où	se	trouve	précisément	«	la	singularité	centrale	»,	
+sur	laquelle	Penrose	et	Hawking	produiront	de	très	beaux	théorèmes.		
+Traçons	cette	fonction	f		que	Kruskal	qualifie	de	«	transcendantal	»dans	son	article	:		
+
+e r /4m sh x°
+4m
+
+e r /4m ch x°
+4m
+
+eηrch ηx°
+
+e − r /2m
+
+v =
+  
+
+r
+2m
+
+r
+2m
+
+r
+2m
+
+32m3
+
+f 2 =
+
+u =
+
+v =
+
+1−
+
+	
+
+	
+
+1 −
+
+1 −
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+2mη
+
+r
+
+  
+
+	
+
+24	
+
+					Cette	métrique,	qui	«	décrit	cette	fois	la	géométrie	de	Schwarzschild,	étendue	à	tout	
+l’espace-temps	»,	semble	parfaitement	régulière,	sauf	en	 r	=	0.	La	sphère	de	
+Schwarzschild	est	franchie	en	toute	quiétude,	la	poussière	ayant	été	mise	sous	le	tapis.	
+Cette	belle	régularité	a	été	obtenue	par	Kruskal	en	choisissant	la	valeur	d’une	constante	
+d’intégration	de	manière	à	obtenir	un	facteur,	nul	sur	la	sphère	de	Schwarzschild,	élevée	
+à	la	puissance	zéro,	en	jouant	sur	l’idée	que	00	=	1.	Sur	la	figure	ci-après,	ce	qui	se	passe	
+qui	ont	fait	tendre	l’exposant	vers	zéro	:		
+
+	
+
+	
+
+25	
+
+	
+			Et	personne	n’a	rien	vu,	depuis	….	60	ans,	ni	Hawking,	ni	Penrose,		ni	Wheeler7,	ni	ni	
+Chandrasekhar,	ni	Kip	Thorne,		etc	..		
+				On	ne	compte	plus,	dans	toutes	les	langues	de	la	planète,	les	volumineux	traités	
+consacrés	aux	«	mathématiques	des	Trous	Noirs	».		
+				J’ai	déjà	reproduit	dans	les	vidéos	Janus	un	extrait	d’une	conférence	de	Damour	à	
+l’IHES,	où	il	dit	:		
+-  Quand	on	a	compris	la	géométrie	à	l’intérieur	du	trou	noir,	ça	a	été	violent	..	
+	
+Par	«	comprendre	»	il	faut	entendre	:	«	une	géométrie	où	 r	devient	le	temps	et	 t		le	
+rayon	»…		
+					Cette	 «	compréhension	»,	 c’était	 ce	
+l’Américain	 Martin	 Kruskal.	
+Historiquement	c’était	une	chose	qu’il	avait	exposée	en	1959		sur	la	nappe	d’un	
+restaurant	à	John	Wheeler,	lors	d’un	repas,	lequel	avait	aussitôt	décidé	de	donner	écho	à	
+à	découverte	aussi	importante.		
+				Ce	travail	a	débouché	sur	une	représentation	à	travers	un	célèbre	«	diagramme	de	
+Kruskal	»,	que	personne	ne	s’imaginerait	aujourd’hui	de	mettre	en	doute.		
+																																																								
+7	Qui	semble	avoir	été	le	principal	vecteur	de	la	popularisation	de	cette	«	découverte	»	
+
+travail	 de	
+
+	
+
+26	
+
+⎛
+⎝⎜
+
+		
+
+⎞
+⎠⎟ e r/2m
+
+r
+2m − 1
+
+u2 − v2 =
+  
+
+	
+				Pour	s’y	retrouver	dans	cette	figure	il	suffit	de	se	demander	quelles	sont	les	images	
+des	points	correspondant	à	des	valeurs	constantes	de	r	et	de	x°.		
+A	partir	de	la	représentation	(	u,	v		)	correspondant	à	l’extérieur	du	trou	noir	on	voir	
+tout	de	suite	que	:		
+(125)																										
+				Les	points	correspondant	à	r	constant	sont	des	hyperboles,	et	les	isochrones	sont	les	
+droites	passant	par	l’origine.	Mais	on	sait	de	la	tangente	hyperbolique	évolue	entre	les	
+valeurs	-1	et	+1	.	Donc	ces	courbes	à	temps	constant	se	situent	dans	le	secteurs	droit	(et	
+«	gauche	»),	limité	par	les	droites	de	pente	plus	eu	moins	un.		
+				Regardons	ce	qu’il	en	est	pour	«	l’intérieur	du	trou	noir	».	On	obtient	alors	:		
+(126)																										
+Les	points	se	situent	dans	le	secteurs	«	haut	»	et	bas	».		
+Que	se	passe-t-il	quand	r	devient	nul	?	C’est	l’hyperbole	:		
+(127)																																																													  v2 − u2 = 1		
+
+v2 − u2 = 1−
+  
+
+u = th x°
+
+v = th x°
+
+⎞
+⎠⎟ e r/2m
+
+r
+2m
+
+		
+
+4m
+
+4m
+
+⎛
+⎝⎜
+
+u
+
+v
+
+	
+27	
+Il	existe	alors	une	limite	dans	ce	diagramme,	correspondant	à	a	région	grisée.	Mais,	qui	
+sait,	quelqu’un	trouvera	peut	être	une	autre	prolongement	analytique	pour	permettre	
+d’étendre	cette	extension	«	à	l’ensemble	de	champ		(	u	,	v	)		»		?	….	
+						En	2017	je	m’étais	rendu	au	colloque	«	Schwarzschild	»	annuel	à	l’institut	des	études	
+avancées	de	Francfort	(sa	ville	natale).	L’intervenant	vedette,	invité	de	marque	était	Juan	
+Maldacena	(en	poste	à	l’institut	des	Sciences	Avancées	de	Princeton),	53	ans,	un	des	
+pionniers	de	la	«	thermodynamique	des	trous	noirs8	»,	auteur	d’une	conjecture	grâce	à	
+laquelle	pourrait	être	résolu	le	«	paradoxe	de	l’information	».Thèse	sur	«	les	Trous	noirs	
+dans	la	théorie	des	cordes9	».		
+	Titulaire	de	:		
+
+C’est	peut	être	une	région	tissées	de	cordes	cosmiques	…	
+
+-	Médaille	Dirac	
+-	Prix	Pomeranchuk	
+-	Prix	de	Physique	Fondamentale	
+-	Médaille	Lorentz	
+-	Médaille	Albert	Einstein	
+
+	
+
+	
+
+																																																									
+8	Et,	d’après	Luminet,	dans	son	dernier	livre	«	l’Ecume	de	l’Espace-temps	»,	auteur	de	
+l’article	le	plus	consulté	de	toute	l’histoire	scientifique	:	10.000	consultations.		
+9	Autre	phrase	favorite	de	Souriau	«La	physique	théorique	est	devenu	un	hôpital	
+psychiatrique	où	ce	sont	les	fois	qui	ont	pris	le	pouvoir	».		
+
+cette	objet	?		
+
+d’Einstein,	 celle-ci	 a	 suscité	 une	 certaine	 incompréhension	 dans	 le	 monde	
+scientifique.	Mais,	aujourd’hui,	tout	cela	a	été	parfaitement	éclairci	…	
+
+	
+28	
+			Il	avait	commencé	son	speech	en	disant	:		
+-  Quand,	en	1916,	Karl	Schwarzschild	avait	produit	la	première	solution	de	l’équation	
+	
+				En	fait	la	situation	est	devenue	telle	que	cette	question	du	modèle	destiné	à	décrire	le	
+destin	d’objets	hyperdenses	se	résume	à	une	position	de	croyance.		
+	
+-  Croyez-vous	ou	non	aux	Trou	Noirs	?		
+On	devrait	plutôt	dire	:		
+-  Quelle	est	votre	opinion	sur	le	modèle	physico-mathématique	sur	lequel	s’appuie	
+	
+			Je	laisse	au	lecteur	le	soin	de	se	forger	sa	propre	opinion.	Pour	moi	ce	modèle	est	d’une	
+inconsistances	remarquable.	Mais,	de	nos	jours,	exprimer	ce	scepticisme	vaut	vaut	une	
+étiquette	de	marginal,	d’énergumène,	voire	de	complotiste.			
+					Dans	la	suite	de	ce	document	je	vais	évoquer	les	papiers	de	Ludwig	Flamm	
+(septembre	1916)	et	d’Hermann	Weyl	(septembre	1917),	pour	fournir	des	éléments	
+additionnel.	Mais,	avant	cela,	je	propose	au	lecteur	de	partir	de	cette	description	donnée	
+par	Kruskal	et	d’opérer	le	…	changement	de	variable	inverse.			
+			
+Commençons	par	r	>	2m	
+	
+(128)																																			
+	(129)																													  ds2 = f 2(u,v)( dv2 − du2 ) − r 2( dθ2 + sin2θdϕ2 )	
+	
+(130)																																							
+
+On	fait	le	changement	de	variable	inverse.	
+
+2m − 1 e r /4m ch x°
+
+2m − 1 e r /4m sh x°
+
+dx° + A' (r) ch x°
+4m
+
+4m = A(r)sh x°
+
+4m = A(r)ch x°
+
+sh x°
+4m
+
+e − r /2m
+
+A(r)
+4m
+
+32m3
+
+du =
+
+f 2 =
+
+u =
+
+v =
+
+4m
+
+4m
+
+dr
+
+r
+
+r
+
+r
+
+  
+
+dv =
+  
+
+A(r)
+4m
+
+ch x°
+4m
+
+dx° + A' (r) sh x°
+4m
+
+dr
+
+29	
+
+2
+
+⎞
+⎠⎟
+
+	
+
+  
+
+  
+
+A =
+
+dv2 − du2 =
+
+	
+	
+(131)			
+(132)										
+(133)										
+(134)																			
+(135)																									
+(136)					
+(137)																				
+
+f 2 A2 (r)
+
+A' =
+
+  
+
+  
+
+  
+
+⎛
+⎝⎜
+
+A(r)
+4m
+
+ch x°
+4m
+
+dx° + A' (r) sh x°
+4m
+
+dr
+
+2
+
+⎞
+⎠⎟
+
+−
+
+⎛
+⎝⎜
+
+A(r)
+4m
+
+sh x°
+4m
+
+dx° + A' (r) ch x°
+4m
+
+dr
+
+=
+
+A2 (r)
+16m2 dx° 2 − A' 2 (r)dr 2
+r
+2m
+
+e r /2m 1−
+
+2m
+r
+
+⎛
+⎝⎜
+
+r
+2m − 1 e r /4m
+
+A2 =
+
+⎛
+⎝⎜
+
+r
+⎞
+⎠⎟ e r /2m =
+2m − 1
+
+e r /4m
+4m
+
+r
+2m − 1 +
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎠
+
+1
+r
+2m − 1
+
+=
+
+e r /4m
+4m
+
+r
+2m
+r
+2m − 1
+
+r e r /4m
+
+=
+
+8m2
+
+A' 2 =
+
+r 2 e r /2m
+r
+⎞
+2m − 1
+⎠⎟
+
+⎛
+⎝⎜
+
+64m4
+
+=
+
+64m4 r
+
+⎛
+⎝⎜
+
+r 2 e r /2m
+2m 1 − 2m
+e − r /2m A2 (r)
+
+r
+
+⎛
+⎝⎜
+
+32m3
+
+r
+
+f 2 ( dv2 − du2 ) =
+
+16m2 dx° 2 − A' 2 (r)dr 2
+
+r e r /2m
+32m3 1 − 2m
+⎛
+⎝⎜
+r
+
+=
+
+⎞
+⎠⎟
+
+⎞
+
+⎠⎟	
+2m − 1		
+⎠⎟	
+
+r
+
+⎞
+
+32m3
+
+e − r /2m A2 (r)
+
+16m2 dx° 2 − A' 2 (r)dr 2
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+=
+  
+
+r
+
+16m2 dx° 2 =
+
+32m3
+
+r
+
+e − r /2m 1
+16m2
+
+− f 2 A' 2 (r)dr 2 = −
+
+32m3
+
+r
+
+  
+
+⎛
+⎝⎜
+
+r
+2m
+
+e r /2m 1−
+
+2m
+r
+e − r /2m r e r /2m dr 2
+32m3 1 − 2m
+r
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟ dx° 2 = 1−
+
+⎛
+⎝⎜
+
+2m
+r
+
+dr 2
+1 − 2m
+r
+
+= −
+
+⎞
+⎠⎟
+
+⎞
+
+⎠⎟ dx° 2	
+
+⎞
+⎠⎟
+
+	
+
+	
+
+On	retrouve	la	métrique	de	départ	avec	ds2	>	0	
+
+Passons	à	r	<	2m	:	
+
+	
+
+	
+
+30	
+
+(138)																																										
+
+u =
+
+1 −
+
+r
+2m
+
+e r /4m sh x°
+
+4m = B(r)sh x°
+
+4m
+
+v =
+
+1 −
+
+r
+2m
+
+e r /4m ch x°
+
+4m = B(r)ch x°
+
+4m
+
+32m3
+
+r
+
+f 2 =
+
+  
+
+e − r /2m
+
+	
+
+	
+ch x°
+4m
+
+2
+
+2
+
+  
+
+−
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+dr
+
+dr
+
+dr
+
+dr
+
+	
+
+du =
+
+B(r)
+4m
+
+B(r)
+4m
+
+B(r)
+4m
+
+B(r)
+4m
+
+dv2 − du2 =
+
+sh x°
+4m
+
+sh x°
+4m
+
+dx° + B' (r) sh x°
+4m
+
+dx° + B' (r) ch x°
+4m
+
+dx° + B' (r) ch x°
+4m
+
+dx° + B' (r) ch x°
+4m
+
+dv =
+  
+sh x°
+4m
+
+(139)																																																
+(140)				
+(141)														
+(142)											
+⎠⎟ dx° 2	
+(143)																											
+On	retombe	sur	la	même	expression	de	la	métrique	avec	
+
+B2 (r)
+16m2 dx° 2 + B' 2 (r)dr 2
+r
+2m
+
+f 2B' 2dr 2 = = − dr 2
+1− 2m
+r
+
+B =
+  
+− f 2 B2 (r)
+  
+
+r 2 e r /2m dr 2
+r
+⎞
+64m4 1 −
+⎠⎟
+2m
+
+r e r /2m dr 2
+32m3 2m
+⎞
+r − 1
+
+⎞
+⎠⎟ e r /2m =
+e r /2m 2m
+
+⎞
+⎠⎟ dx° 2 = 1−
+
+e −r /2m 1
+16m2
+
+16m2 dx° 2 = −
+
+e r /2m 2m
+
+B' 2 (r)dr 2 =
+
+⎠⎟	
+
+⎠⎟	
+
+r − 1
+
+r − 1
+
+e r /4m
+
+r
+2m
+
+r
+2m
+
+r
+2m
+
+2m
+r
+
+32m2
+
+B2 =
+
+= −
+
+	
+
+1 −
+
+1 −
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+=
+
+	
+
+⎞
+
+⎞
+
+r
+
+  
+
+  
+
+ds2	<	0	
+
+  
+
+Dernière remarque :  
+
+	
+31	
+					Les	mathématiciens	ont	leur	propre	critère	pour	déterminer	si	une	hypersurface,	en	
+un	point,	est	ou	non	singulière.		
+				«	En	amont	»	du	tenseur	de	Ricci	on	trouve	de	tenseur	de	courbure	de	Riemann,	à	
+quatre	indices.	Sa	trace	est	le	scalaire	de	Kreitschmann10	:	
+On	trouvera	une	présentation	dans	la	page	anglaise	«	Kreitschmann	scalar11	».		
+K = R a bcd R a bcd	
+				C’est	un	invariant	(	par	rapport	à	tout	système	de	coordonnées).	Dans	cette	même	
+pages,	sa	valeur	pour	la	géométrie	de	Schwarzschid	est	présentée	comme	le	«	cas	
+particulier	du	Trou	Noir	»,	ce	qui	montre	à	quel	point,	dans	les	mentalités	
+	planétaires	
+				On	voit	que	ce	scalaire	ne	devient	nul	que	pour	«		r	=	0	»	c’est	à	dire	«	à	l’intérieur	du	
+trou	noir	».	Il	est	différent	de	zéro	sur	la	sphère	de	Schwarzschild.	
+	
+		
+		
+
+Celle-ci	n’est	donc	pas	singulière,	au	sens	de	Kreitschmann.	
+
+Géométrie	de	Schwarzschild	 ↔ 		Trou	Noir	
+
+48G2 M 2
+
+4 R s
+r 6
+
+K =
+  
+
+c4 r 6
+
+	
+
+=
+
+	
+
+	
+
+2
+
+ 
+
+ 
+
+																																																								
+10	(1887-1973)		https://en.wikipedia.org/wiki/Erich_Kretschmann	
+11	https://en.wikipedia.org/wiki/Kretschmann_scalar	
+
+Il	 s’agit	 d’abord	 d’un	 article	 publié	 en	 septembre	 1916	 par	 le	 mathématicien	
+
+	
+32	
+				Nous	allons	maintenant	faire	référence	à	deux	papiers	très	probablement	totalement	
+inconnus	des	black	hole	men,	étant	donné	qu’ils	n’ont	été	traduits	de	l’allemand	qu’en	
+2012	et	2015	.		
+	
+autrichien	Ludwig	Flamm12	:		
+Pour	télécharger	les	versions	anglaise	et	français	(	traduite	par	mes	soins	)		
+http://www.jp-petit.org/papers/cosmo/1916-Flamm-en.pdf	
+http://www.jp-petit.org/papers/cosmo/1916-Flamm-fr.pdf	
+					Dans	cet	article,	Flamm	part	«	de	la	représentation	la	plus	commode	de	la	métrique	de	
+Schwarschild	»	à	l’aide	de	la	coordonnée	R.		
+Il	considère	ensuite	la	partie	spatiale	de	cette	métrique		
+Traduction	française	:		
+
+	
+	.	Maintenant,	
+et	on	retrouve	«	la	métrique	du	Diabolo	2D	»	,	que	Flamm	avait	identifiée	un	siècle	avant	
+moi	…	
+et,	comme	moi,	il	opère	un	plongement	dans	R3,	ce	qui	lui	donne	l’équation	
+différentielle	:	
+																																																								
+12	Ludwig	 Flamm.	 Beiträge	 zur	 Einsteinschen	 Gravitationstheorie,	 Physikalische	
+Zestschrift	XVII	(1916)	pp.	448-454.	Un	article	republié	en	langue	allemande	et	en	
+langue	 anglaise	 par	 «	Gravitation	 and	 Cosmology	»	 (du	 groupe	 Springer)	 et	
+immédiatement	mis	sous	copyright,	pour	les	deux	langues.		
+
+un	plan	passant	par	l’origine,	correspondant	à	la	valeur	
+
+						La	partie	spatiale	de	la	métrique	n’est	pas	non	plus	de	nature	Euclidienne.	
+Encore	une	fois,	du	fait	de	la	symétrie	sphérique,	il	semble	suffisant	de	nous	
+limiter	à	considérer	la	métrique	dans	une	section	arbitraire	effectuée	selon	
+
+nous	obtenons		
+
+ϑ = π
+2
+ 
+
+	
+
+	
+
+33	
+
+	
+
+et	c’est	aussi	identique	avec	la	métrique	d’une	surface	de	rotation.	En	
+désignant	par	z	la	coordonnée	selon	la	direction	de	l’axe	de	rotation,	
+
+	Traduction	française	:		
+l’équation	de	la	courbe	méridienne	suit	alors	:	
+ou	:		
+	
+
+	
+
+	
+Ceci	correspond	à	une	parabole	avec	le	paramètre		
+
+p	=	2	α	
+
+	
+Voici	sa	figure	:		
+	
+
+	
+
+34	
+
+	
+
+	
+
+			Le	point	P	correspond	au	point	où	cette	géométrie	extérieure	de	Schwarzschild	se	
+raccordera	à	la	«	géométrie	intérieure	»,	correspondant	à	la	solution	«	métrique	
+intérieure	de	Schwarzschild	»		publiée	par	celui-ci	quelques	mois	après	son	papier	de	
+janvier	191613.	Flamm,	bien	entendu,	a	connaissance	des	deux	articles.		
+					Avec	la	surface	correspondante,	correspondant	à	la	rotation	de	cette	«	parabole	
+couchée	»,	limitée	à	sa	moitié,	qualifiée	de	«	Surface	de	Flamm	»,	ou	«	paraboloïde	de	
+Flamm	»	:		
+																																																									
+	
+
+13 [3]  K.  Schwarzschild :  Über  das  Gravitionalsfeld  einer  Kugel  Aus  incompressibler 
+Flüssigkeit  nach  der  Einsteinschen  Theprie.  Sitzung  der  phys.  Math.  Klasse  v.23  märz 
+1916 
+English translation, by S.Antoci.  On the gravitational field of a sphere of incompressible 
+fluide according to Einstein theory. arXiv :physics/9905030v1 [physics.hist-ph] 12 may  
+
+	
+
+35	
+
+	
+
+	
+
+	
+
+Le	«	paraboloïde	de	Flamm	»	qu’il	qualifie	«	d’entonnoir	»	
+
+	
+
+					
+
+Traduction	française	:		
+	
+	Traduction	française	:		
+		
+
+La	particularité	est	que	cette	«	masse	ponctuelle	»	a	une	extension	finie,	
+selon	 une	 sphère	 dont	 périmètre	 à	 l’équateur	 est  2πα ,	 comme	
+Schwarzschild	l’avait	déjà	remarqué	ce	qui	est	évident	sur	la	figure.		
+
+Ce	qui	signifie	que	Flamm		avait	parfaitement		perçu		
+
+le	caractère	non-contractile	de	la	géométrie	de	Schwarzschild.	
+
+La	jonction	entre	ces	deux	solutions	est	donnée	par	des	conditions	aux	
+limites.	 Cela	 consiste	 simplement	 dans	 le	 fait	 que	 les	 termes	 de	 la	
+métrique	et	leurs	dérivées	premières	doivent	coïncider,	avoir	les	mêmes	
+valeurs.		
+
+					Ces	sections	de	l’hypersurface	fournissent	une	image	didactique	beaucoup	plus	
+précise	et	fidèle	que	celle	du	cône	émoussé	au	sens	où	la	surface	de	Flamm	tend	vers	un	
+plan	à	l’infini.	Les	dessins	ci-après	montrent	le	mode	de	raccordement.		
+	
+
+	
+
+36	
+
+	
+
+	
+
+	
+
+	
+37	
+				Le	second	papier	est	publié		en	septembre	191714	par	le	mathématicien	Hermann	
+Weyl,	alors	âgé	de	32	ans.	Encore	une	fois	cet	article,	republié	en	2012	dans	sa	
+traduction	anglaise	par	la	revue	Gravitation	and	Cosmology	et	immédiatement	frappé	
+d’un	copyright	par	le	groupe	Springer	(coût	du	téléchargement	:	49	dollars	!)		n’a	
+probablement	jamais	été	lu	par	les	Cosmic	Men.		
+			Nous	avons	entrepris	actuellement	de	créer	les	versions	françaises	de	tout	un	lot	
+d’articles	«	fondateurs	».	Les	deux	papiers	de	Hilbert,	de	1915-1916.	Les	papiers	de	
+Schwarzschild,	un	et	deux,	ceux	de	Flamm	et	de	Weyl,	qui	seront	mis	sur	le	net	«	libres	
+de	droits	».		
+	
+L’interprétation	de	Weyl	:		
+				Flamm	avait	compris	la	non-contractibilité.	Associée	à	la	géométrie	«	extérieure	»	de	
+Schwarzchild,	considérée	isolément.		Weyl	va	aller	plus	loin	et	envisager	un	changement	
+de	la	topologie.		
+				Pour	télécharger	son	articles,	les	versions	française	et	Anglaise	(traduite	ar	Laurent	
+V.D.)	
+	
+		
+
+http://www.jp-petit.org/papers/cosmo/1917-Weyl-en.pdf	
+http://www.jp-petit.org/papers/cosmo/1917-Weyl-fr.pdf	
+
+	
+
+					
+	Pas	de	figure	dans	le	papier	de	Weyl,	mais	une	formule,	celle	de	l’équation	de	la	
+parabole,	qui	avait	aussitôt	attiré	mon	regard,	et	un	texte	:			
+																																																								
+14	[19]	H.Weyl	:	Zu	Gravitationstherie.	Annalen	der	physik,	Vol.35	n°	18	(1917)	
+https://onlinelibrary.wiley.com/doi/epdf/10.1002/andp.19173591804	:	49	$	
+On	the	Theory	of	Gravitation.	Reprinted	in	Gen.	Relat.	And	Gravit.	Vol.	44	pp	779-810		
+(2012).	
+
+	
+	
+
+38	
+
+	
+
+	Dont	voici	la	traduction	:		
+
+De	manière	à	illustrer	la	géométrie	caractérisée	par	la	métrique15		  dσ2 	nous	
+allons	concentrer	notre	intérêt	sur	des	coupes	effectuées	dans	les	plans	x3	=	0	
+passant	par	l’origine.	Introduisons	les	coordonnées	sphériques	:		
+
+x2 = r sinϑ	
+
+  x1 = r cosϑ
+
+Nous	obtenons	alors	:		
+
+  dσ2 = hdσ2 + r 2dϑ2 		
+Cette	métrique	se	réfère	à	la	géométrie	d’un	objet	engendré	par	la	rotation	
+d’une	parabole	autour	d’un	axe,	dont	l’équation	est	:		
+
+																																																								
+15	La	«	partie	spatiale	»	de	la	métrique	de	Schwarzschild	.	Comme	le	fait	Flamm.		
+
+	
+
+39	
+
+  z =
+
+8a( r − 2a ) 	
+
+	
+
+selon	 sa	 représentation	 dans	 un	 espace	 Euclidien	 de	 coordonnées	
+orthogonales	x1	,	x2	,	z	.	Quand	on	considère	la	projection	de	l’objet	dans	le	
+plan	z	=	0	celle-ci	couvre	deux	fois	l’extérieur	du	cercle,	  r ≥ 2a .	Mais	l’objet	ne	
+se	 projette	 pas	 à	 l’intérieur	 du	 cercle,	 selon	 	  r < 2a 	.	 A	 chaque	 point	 de	 ce	
+domaine	 correspondent	 deux	 points	 de	 l’objet.	 Ces	 deux	 revêtements	 sont	
+séparés	 par	 la	 sphère	 de	 rayon	 2a	 sur	 laquelle	 se	 trouve	 la	 masse,	 où	 la	
+métrique	 devient	 singulière.	 On	 doit	 désigner	 ces	 deux	 moitiés	 comme	
+l’extérieur	»	et	«	l’intérieur	»	de	la	masse	ponctuelle.		
+
+					Weyl	retrouve	ainsi	l’équation	de	la	parabole	qui	est	la	méridienne	de	la	coupe	plane	
+de	l’hypersurface.	Ce	qui	est	intéressant	c’est	qu’il	prend	en	considération	son	
+prolongement	 selon	 une	 seconde	 nappe,	 se	 déployant	 dans	 un	 autre	 espace	
+quadridimensionnel.	Il	précise	explicitement	qu’il	n’y	a	«	rien	»,	«	à	l’intérieur	»	de	cette	
+sphère	S2	de	rayon	2a	(la	«	sphère	de	gorge	»).	On	trouve	employé	le	mot	«	revêtement	»,	
+particulièrement	adéquat	au	sens	mathématique	et	topologique	du	terme.	Ainsi	la	partie	
+spatiale	de	l’hypersurface	devient	le	revêtement	à	deux	feuillets	d’une	variété	dont	le	
+bord	est	la	sphère	de	rayon	2a.		
+				Dans	la	suite	de	l’article,	Weyl	introduit	une	forme	de	la	solution	dite	 conforme.	On	
+trouvera	la	reproduction	de	ce	calcul	dans	la	section	6.2,	page	196,	de	l’ouvrage	d’Adler,	
+Schiffer	et	Bazin.	Ceux-là	introduise	une	nouvelle	coordonnée	d’espace	qu’ils	appellent	
+ρ	.	Weyl	appelle	sa	nouvelle	coordonnée	d’espace			r	’.	Puis	la	remplace	aussitôt	par	la	
+lettre	r.	Modulo	cette	précision,	voici	le	passage	du	papier	de	Weyl	:		
+
+	
+
+40	
+
+	
+
+41	
+
+		
+
+	
+Traduction	:		
+
+Cela	peut	devenir	plus	clair	en	introduisant	un	autre	système	de	coordonnées.	
+Les	équations	de	transformation	sont	les	suivantes	
+
+r'
+r
+
+x1
+
+x1' =
+  
+
+x2 ' =
+
+r'
+r
+
+x2
+
+x3 ' =
+
+r'
+r
+
+x3
+
+r = r'+ a
+2
+
+⎛
+⎝⎜
+
+2 1
+r'
+
+⎞
+⎠⎟
+
+Si	j'enlève	les		‘	après	avoir	effectué	la	transformation,	j’obtiens	
+
+( dx1
+
+2 + dx2
+
+2 + dx3
+
+2 )
+
+f =
+
+2
+
+⎛
+⎝⎜
+
+r − a / 2
+r + a / 2
+
+⎞
+⎠⎟
+
+ds2 = f dx4
+
+2 − dσ2
+
+	
+
+⎛
+⎝⎜
+
+dσ2 = 1+
+  
+
+4
+
+a
+2r
+
+⎞
+⎠⎟
+
+			Dans	les	nouvelles	coordonnées,	la	métrique	de	l'espace	gravitationnel	est	
+donc	conforme	à	l'espace	euclidien	:	le	facteur	de	dilatation	linéaire	est	de:		
+
+  dσ2 	est	régulier	pour	toutes	les	valeurs	de		r	>	0	,	f		est	toujours	positif	et	
+s’annule	seulement	pour16		
+
+Le	périmètre	du	cercle		x12	+	x22	=	r2	est		
+
+r =
+  
+
+a
+2
+
+  4π a	(le	périmètre	minimal,		de	la	sphère	de	gorge	)	pour		
+
+				Si	nous	permettons	à	r	de	parcourir	sa	plage	de	valeurs	en	partant	de	 + ∞ 	
+à	 ,	 cette	 fonction	 diminue	 progressivement	 jusqu'à	 atteindre	 la	 valeur	 de	
+
+1+
+
+2
+
+	
+
+a
+2r
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+  
+
+2	
+
+⎛
+⎝⎜
+
+2πr 1+
+  
+
+a
+2r
+
+⎞
+⎠⎟
+
+a
+2
+
+r =
+  
+
+	
+
+	
+	
+
+après	quoi	il	recommence	à	augmenter	lorsque	r	diminue	encore	vers	zéro,	
+et	croît	finalement	sans	limite.	Selon	l'interprétation	ci-dessus,	le	domaine	
+
+																																																								
+16	Mais	comme	le	potentiel	est	nul	sur	la	sphère	de	gorge,	le	dénominateur	de	la	
+métrique	y	est	nul.	Donc	l’hypersurface	est	inorientable.	Une	inorientabilité	que	je	vois	
+aller	de	pair	avec	l’inversion	de	la	coordonnée	de	temps,	signalée	par	Weyl	dans	les	
+lignes	suivantes.		
+
+r >
+  
+
+a
+2
+
+	
+
+42	
+
+correspondrait	à	«	l’extérieur	de	la	masse	»,	et		
+
+	
+
+a
+2
+
+r <
+  
+
+	
+
+à	«	l’intérieur	de	cette	masse	».	Quand	on	poursuit	analytiquement	
+
+f =
+
+	
+repos,	le	temps	cosmique	(x4)	et	le	temps	propre	 τ 	vont	dans	des	directions	
+
+devient	négatif	dans	la	région	intérieure,	ce	qui	signifie	que	pour	un	point	au	
+
+r − a / 2
+r + a / 2
+
+  
+
+	
+
+ds =
+  
+
+opposées.			
+
+r − a / 2
+r + a / 2
+
+dx°	
+
+				Dans	ces	dernières	lignes	Weyl	joue	sur		:		
+					Les	géodésiques	franchissent	la	sphère	de	gorge.	Un	ds	positif	va	de	pair	avec	cette	
+progression	le	long	de	ces	géodésiques.	L’idée	d’une	inversion	du	temps	propre	est	
+dénuée	de	sens.	Ce	qu’indique	cette	relation	c’est	sur	l’antre	versant,	quand	
+	,	on	a	
+ ds dx° < 0.	Si	un	objet	franchit	cette	sphère	de	gorge,	il	chemine	dans	une	portion	de	
+l’espace	temps	où	la	coordonnée	de	temps	x°	s’est	inversée.		
+					Ces	dernières	lignes	retiennent	toute	mon	attention.	Weyl	voit	cette	«	autre	face	de	la	
+sphère	de	gorge	comme	«	l’intérieur	des	masses	».	Moi	j’y	vois	ce	second	versant	de	
+l’univers,	peuplé	de	masses	négatives.	Avec	l’application	du	théorème	de	Souriau	:		
+				De	toute	façon	on	pourrait	résumer	cette	vision	topologique	de	la	géométrie	de	
+Schwarzschild	par	la	«	surface	de	Weyl	(	le	«	diabolo	3D	»	)	qui	prolonge	«	l’entonnoir	»	
+de	la	«	surface	de	Flamm	».		
+
+Inversion	de	la	coordonnée	de	temps	 ↔ 	inversion	de	l’énergie	et	de	la	masse.	
+
+r <
+  
+
+a
+2
+
+	
+
+43	
+
+	
+
+Le	paraboloïde	de	Weyl	
+
+	
+_____________________________________________________________	
+
+	
+				Cela	fait	trois	décennies	que	j’ai	commencé	à	avoir	de	sérieux	doutes	sur	les	bases	de	
+ce	modèle	du	Trou	Noir.	Je	n’ai	pas	été	le	seul	à	pointer	ces	incongruités.	D’autres	
+l’avaient	fait	avant	moi	(1989	:	Abrams).	L’écho	de	ces	remarques	est	resté	nul	pendant	
+des	décennies,	avec	rejet	automatique	de	toute	papier	titrant	«		Questionable	black	
+hole	17».	L’impression	dominante	est	que	les	rares	scientifiques	qui	ont	osé	remettre	de	
+modèle	fétiche	en	question	se	sont	trouvés	aussitôt	rejetés,	traités	en	parias.	Ce	sont	les	
+deux	découvertes	successives,	toutes	récentes,		des	papiers	de	Flamm	et	de	Weyl	qui	me	
+redonne	le	courage	de	repartir	au	combat.	Ceux	deux-là	avaient	compris,	aussitôt	après	
+la	parution	des	articles	de	Schwarzshild,	un	siècle	avant	moi,	comment	on	devait	
+envisager	leur	géométrie.	Mais	c’est	en	décortiquant	le	«	prolongement	analytique	»	de	
+Martin	Kruskal,	et	en	ouvrant	des	yeux	ébahis	par	tant	d’incohérence	que	j’en	conclus	
+qu’en	1960	on	a	traité	comme	«	une	avancée	décisive	»	ce	qui	n’a	été	rien	d’autre	qu’une	
+fantastique	erreur	géométrique.		
+			Les	mathématiciens	que	j’ai	connus	:	André	Lichnérowicz,	Alexandre	Grothendieck,	
+Jean-Marie	Souriau,	ne	se	lassaient	pas	d’exprimer	leur	scepticisme	vis	à	vis	de	ce	
+modèle.	Là,	il	ne	s’agit	plus	d’une	impression,	c’est	une	certitude.	Ce	truc	ne	tient	
+simplement	pas	debout,	ça	n’est	qu’une	chimère	surmédiatisée.	Il	ne	reste	plus	qu’à	
+enlever	la	dernière	pièce	de	ce	château	de	cartes.		
+	
+																																																								
+17	«	Des	doutes	au	sujet	du	modèle	du	Trou	Noir	»	
+
+	
+
+44	
+
+	
+
+	
+La	question	du	gel	du	temps		
+
+	
+				C’est	une	question	que	j’avais	traitée	depuis	longtemps.	Mon	ami	Pascal	Koiran,	
+mathématicien	Lyonnais,	en	partant	des	notes	que	j’avais	mises	sur	mon	site,	depuis	
+bien	longtemps,	dans	l’indifférence	générale,	a	réussi	à	publier	cela,	sous	son	nom18,	et	
+même	à	installer	ce	papier,	véritable	brûlot,	dans	ce	sanctuaire	qu’est	la	section	gr-qc	
+d’arXiv,	cette	«	cour	des	grands	»	de	la	physique	théorique	et	de	la	cosmologie.	
+Prudemment,	pour	éviter	le	«	filtre	»	des	revues	et	surtout	d’arXiv	,		je	lui	avais	
+recommandé	de	ne	pas	me	citer,	ni	même	de	mentionner	mes	publications	dans	les	
+références	de	l’article.		
+				Un	des	piliers	de	ce	modèle	du	trou	noir	est	l’idée	que	ce	modèle	représente	«	un	objet	
+déstabilisé,	en	train	d’imploser	»,	en	un	temps	très	bref,	en	le	mesurant	avec	le	temps	
+propre.		
+				Cette	idée	peut	se	lire	sur	la	figure	6.2	du	Adler	Schiffer	et	Bazin.	Elle	sera	plus	
+explicite	en	changeant	son	orientation	:		
+
+Et	le	papier	passa,	en	…	catimini.	
+
+	
+
+																																																								
+18	P.Koiran	:	Infall	Time	in	the		Eddington-Finkelstein	Metric,	with	Application	do	
+Eddigton-Rosen	Bridges.		Inter.	Jr.	of	Mod.	Phys.	D,	14	aug.	2021,		to	be	published.		
+https://arxiv.org/abs/2110.05938		
+	
+
+	
+
+45	
+
+		
+
+Le	temps	de	chute	libre,	pour	la	métrique	de	Schwarzschild	
+
+					Ce	sont	deux	mesures	de	temps.	La	seule	qui	ait	immédiatement	une	signification	
+indéniable,	c’est	celle	du	temps	propre s = cτ	,	l’invariant	par	excellence	de	la	géométrie	
+de	l’espace	temps,	indépendant	du	choix	des	coordonnées.	On	va	le	calculer	plus	loin.	
+Semble-t-il,	un	objet	piégé	dans	ce	champ	de	gravité,	abandonné	à	lui-même	en	ro,	à	
+vitesse	nulle,	atteint	le	centre	géométrique	en	un	temps	fini.	Par	contre	si	ce	temps	est	
+mesiré	à	l’aide	du	«	marqueur	chronologique	»	 x°	=	 c	t	,	cette	masse-témoin	atteint	la	
+sphère	de	Schwarzschild	en	un	temps	…	infini.		
+Quand	on	pose	à	un	théoricien	la	question	:		
+-  Que	devient	la	matière	d’une	étoile,	déstabilisée,	où	les	forces	de	pression	internes	
+	
+				Logiquement,	elle	implose	sur	son	centre	géométrique,	sans	qu’aucun	phénomène	
+physique	connu,	ou	envisagé,	ne	puisse	s’y	opposer.		
+	Celui-ci	se	sent	en	droit	de	répondre	:		
+	
+- 
+	
+																																																								
+19	En	d’autres	termes	d’ont	
+Schwazrzschild	»		
+
+Je	ne	suis	pas	tenu	de	décrire	le	résultat	d’un	processus	qui,	pour	moi,	observateur	
+distant,	 dure	 un	 temps	 infini.	 .	 Je	 suis	 alors	 en	 droit	 d’utiliser	 pour	 décrire	 cet	
+étrange	objet,	une	solution	stationnaire	de	l’équation	d’Einstein.		
+
+ne	parviennent	plus	à	contrebalancer	le	champ	de	gravité,	qu’il	s’agisse	d’une	étoile	
+massive	qui	a	soudain	épuisé	son	carburant	de	fusion	ou	d’une	étoile	à	neutron	qui	
+dépasse	la	«	masse	de	Schwarzschild19	»	?		
+
+le	rayon	s’identifie	soudaine	avec	
+
+le	«	rayon	de	
+
+	
+
+  
+
+	
+
+=
+
+∫
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+1−
+
+1−
+
+R s
+r
+
+R s
+r
+
+ds2 = 1−
+
+A = ds∫
+
+dr 2
+R s
+r
+
+dr 2
+R s
+r
+
+⎞
+⎠⎟ dx° 2−
+
+⎞
+⎠⎟ dx° 2−
+
+− r 2 ( dθ2 + sin2θdϕ2 )
+
+− r 2 ( dθ2 + sin2θdϕ2 )	
+
+46	
+						Je	crois	que	les	premiers	qui	aient	fait	converger	l’attention	vers	la	solution	
+(extérieure	)	de	Schwarzschild,	ce	sont	Robert	Oppenheimer	(celui	de	la	bombe)	
+et		Henry	Snyder	en	193920.		
+	
+Ceci	étant,	développons	ces	calculs.		
+	Il	faut	commencer	par	les	calculs	des	temps	de	chute	libre	à	partir	de	cette	«	écriture	
+standard	»	de	la	métrique	de	Schwarzschild	:	
+	(144)																																			
+Ce	calcul	des	géodésiques	s	fonde	sur	l’action	:		
+	
+(145)														  
+Avec	:	
+(146)																																																																  δ ds∫
+En	posant	:		
+	(147)																	
+	On	a	:	
+	(148)																									
+C’est	un	problème	d’extremum	qui	passe	par	la	résolution	des	équations	de	Lagrange.		
+	(149)																																																						
+	On	pourra	retrouver	ce	calcul	dans	le	Adler	Schiffer	et	Bazin,	pages	201	à	226.	Les	
+coordonnées	des	équations,	dans	ce	livre,	sont	ajoutées	aux	nôtres.		
+	
+																																																								
+20		J.R.Oppenheimer	and	H.Snyder	:	On	Continued	Gravitational	Contraction.	Phys.	Rev.	Vol.	
+56	pp	455-459	sept	1939	https://journals.aps.org/pr/pdf/10.1103/PhysRev.56.455	
+
+− r 2 ( !θ2 + sin2θ !ϕ2 ) = L xi , !xi
+
+= 0			
+
+∂xi	
+
+!x° = dx°
+ds
+  
+
+!r 2
+R s
+1−
+r
+
+⎠⎟ = ∂L
+
+⎞
+⎠⎟ !x° 2−
+
+!r = dr
+ds
+
+L = 1−
+
+)	
+
+d
+ds
+   
+
+dϕ
+ds
+
+∂L
+∂ !xi
+
+dθ
+ds
+
+R s
+r
+
+!θ=
+
+!ϕ=
+
+1−
+
+	
+
+	
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+(
+
+⎞
+
+   
+
+   
+
+(
+
+(
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+⎤
+⎦
+
+⎡
+⎢
+⎣
+
+1−
+
+R s
+r
+
+R s
+r
+
+d
+ds
+
+d
+ds
+
+r !θ(
+
+d
+ds
+   
+
+1= 1−
+
+)	
+
+⎞
+⎠⎟ !x°
+
+r 2 sin2θ !ϕ
+
+47	
+
+⎞
+⎠⎟ !x° 2−
+
+!r 2
+R s
+1−
+r
+
+   
+θ = π
+2
+ 
+
+− r 2 ( !θ2 + sin2θ !ϕ2 ) = L xi , !xi
+
+) = r 2 sinθcosθ !ϕ2		
+) = 0	
+⎥ = 0	
+
+	
+(150)	(6.75)																																				
+	(151)		6.76)																																									   
+	(152)	(6.77)																																									
+						Il	n’est	pas	nécessaire	d’écrire	l’équation	en	r.	Il	suffit	de	diviser	l’expression	de	la	
+métrique	par	ds2	pour	obtenir	:		
+	(153)		(6.78)											
+	On	peut	se	placer	
+	dans	le	plan		et	étudier	les	géodésiques,	qui	se	situent	dans	des	
+plans.	On	obtient	alors	:		
+	(154)	(6.80)																																												   r 2 !ϕ = h = Cst		
+							On	reconnaît	«	la	loi	des	aires	»	de	Kepler.	Les	trajectoires	radiales	correspondront	à		
+h	=	0	
+		Autre	équation	:		
+	(155)	(6.81)																																															
+⎠⎟ !x° = l = Cst	
+Et	enfin	:		
+	(156)	(6.82)																														
+						Dans	la	suite	du	calcul	on	construit	la	solution	donnant	l’angle	ϕ	en	fonction	de	
+l’inverse	de	r.	Mais	ça	n’est	as	notre	propos,	ici.	Nous	faisons	h	=	0	(	trajectoires	radiales)	
+et	nous	obtenons	:		
+	(157)	(6.180)																												
+	On	obtient	alors	le	temps	de	chute	libre,	exprimé	en	temps	propre	:		
+	
+
+r 2	
+
+l 2 − 1−
+
+= 1−
+
+= 1−
+
+!x°
+   
+
+!r 2 −
+
+R s
+r
+
+R s
+r
+
+R s
+r
+
+R s
+r
+
+R s
+r
+
+⎛
+⎝⎜
+   
+
+1−
+
+1
+   
+
+	
+
+!r 2
+
+h 2
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+=
+
+⎞
+
+−1
+
+−1
+
+−1
+
+2
+
+   
+
+2
+
+⎞
+
+⎛
+⎝⎜
+
+dr
+
+1−
+
+ro )
+
+R s
+r
+
+R s
+r
+
+3 R s
+
+3 R s
+
+3/2 + 3R s
+
+( r 3/2 − ro
+
+!t = − c
+
+( r 3/2 − ro
+
+c( to − t ) =
+
+r − 3R s
+
+dt = !r
+
+so − s =
+  
+
+3/2 )		
+⎠⎟	
+
+	
+48	
+(158)	(6.181)																																											
+	Ce	temps	est	fini.	Il	est	alors	facile	de	calculer	ce	temps	de	chute	livre	dans	la	
+coordonnées	x°	=	ct	.	Il	vient	:		
+	(159)	(6.182)																																						
+	On	voit	tout	de	suite	que	lorsque	r	atteint	Rs	,	cette	vitesse	tombe	à	zéro.	L’intégration	
+donne	:		
+(160)	(6.183)	
+	
+																																									
+		Quand	r	est	voisin	du	rayon	de	Schwarzschild	Rs	on	a	:		
+	(161)	(6.184)																																					
+							Ceci	étant,	quand	on	fait	 ds	=	0	(	géodésiques	de	longueur	nulle	des	photons	)	on	
+obtient	:		
+	(162)	(6.186)																																																
+2	
+						La	vitesse	de	la	lumière,	si	elle	rejoint	la	valeur	c	à	l’infini	est	variable	en	fonction	de	la	
+coordonnée	r	et	devient	nulle	sur	la	sphère	de	Schwarzschild,	ce	qui	tend	à	montrer	que	
+ces	coordonnées	  ( t , r , θ , ϕ )	ne	seraient	pas	«	optimales	».		
+	On	comprend,	dans	ces	conditions,	pourquoi	la	communauté	a	opté	pour	les	coordnnées	
+de	Kruskal	(	v	,	u	)	qui	donnent,	pour	les	photons,	une	vitesse	de	la	lumière	constante	:		
+	(163)																																																																	
+		non	seulement	à	l’extérieur	de	la	sphère	de	Schwarzschild,	mais	«	à	l’intérieur	».		
+
+Ln ( r − R s ) → ∞		
+
+r + R s )(
+ro + R s )(
+
+ro − R s )
+r + R s )
+
+= 1		
+
+− R s Ln
+
+Δ t ∝
+  
+
+= c 2 1−
+
+R s
+c
+
+du
+dv
+
+dr
+dt
+
+R s
+r
+
+(
+(
+
+⎛
+⎝⎜
+  
+
+⎛
+⎝⎜
+  
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+⎞
+⎠⎟
+
+⎞
+⎠⎟
+
+  
+
+2
+
+2
+
+  
+
+⎞
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+1−
+
+− 1
+
+− 1
+
+R s
+r
+
+r
+R s
+
+r
+R s
+
+ds2 = 1−
+
+dr 2
+R s
+r
+
+⎠⎟		
+
+49	
+
+⎞
+⎠⎟ dx° 2−
+
+x° = x + δ R s Ln
+
+− r 2 ( dθ2 + sin2θdϕ2 )
+
+x° = x − R s Ln
+  
+
+δ = ± 1	
+
+Nous	passons	maintenant	à	une	autre	évaluation	du	temps	de	chute	libre.		
+
+	
+	
+				Dans	la	métrique	de	Schwarzschild	:		
+	(164)											
+r ≥ R s	nous	
+allons	opter	pour	le	changement	de	variable	proposé	en	1925	par	Arthur	Eddington	
+(dans	le	but	de	se	débarrasser	de	la	singularité	sur	la	sphère	de	Schwarzschild21).		
+	(165)																																																			
+On	généralise	en	posant		
+	(166)																																										  
+En	effectant	ce	changemet	de	variable,	on	obtient	:		
+	(167)																									  
+C’est	à	dire			
+	(168)	
+	Ce	qui	veut	dire	que	la	matrice	de	la	métrique	s’organise	comme	ceci	:		
+	
+(169)																																	
+	Le	déterminant	vaut		
+																																																									
+21	A.Eddington	:	«The	mathematical	Theory	of	Relativity,	Cambridge	University	Press,	
+1960,	second	edition.	First	edition,	same	editor,	1924	
+
+dx dr − r 2 ( dθ2 + sin2θdϕ2 )	
+gϕϕ = − r 2 sin2θ	
+
+⎞
+⎠⎟ dx 2− 1+
+
+R s
+r
+R s
+r
+0
+0
+
+⎞
+⎠⎟ dr 2 + 2δ
+
+gx x = 1−
+  
+
+gr x = gxr =δ
+
+grr = − 1+
+
+⎛
+− 1+
+⎝⎜
+
+gθθ = −r 2
+
+− r 2 sin2θ
+
+ds2 = 1−
+
+−r 2
+0
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+gµν =
+
+R s
+r
+
+R s
+r
+
+R s
+r
+
+R s
+r
+
+R s
+r
+
+R s
+r
+
+R s
+r
+
+R s
+r
+
+1−
+
+0
+0
+
+	
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+⎞
+⎠⎟
+
+δ
+
+δ
+
+0
+
+0
+
+0
+
+0
+
+0
+
+  
+
+h
+
+⎛
+⎝⎜
+
+⎛
+⎜
+⎝
+
+Rs
+r
+
+∂L
+∂ !x
+
+!ϕ =
+   
+
+d
+ds
+   
+
+⎞
+⎟ !x + δRs
+r
+⎠
+
+⎞
+⎠⎟ = 0 → 1−
+
+!r = λ = Cst	
+
+	
+50	
+(170)																																																																			  g = − r 4 sin2θ	
+					Il	n’est	jamais	nul.	Ainsi	on	peut	annuler	le	déterminant	de	la	métrique	de	
+Schwarzschild	en	adjoignant	un	terme	croisé.		
+						On	va	maintenant	procéder	de	manière	identique,	en	écrivant	les	équations	de	
+Lagrange.	On	commence	par	retrouver	:		
+	(171)																																																																					
+r 2		
+Puis	:	
+(172)																														
+Soit	:		
+(173)																																																														
+	
+En	combinant	avec		
+	(174)																					
+r !x !r − r 2 ( !θ2 + sin2θϕ2 )	
+On	obtient		
+(175)																										   
+ν= ± 1	
+		(176)																																																		
+	On	retrouve	l’expression	de	l’angle	ϕ	en	fonction	de	la	coordonnée	r	:		
+	(178)																																								
+	
+	Pour	calculer	le	temps	de	chute	libre	on	forme		
+	
+(179)																		
+
+→ λ							
+
+!x = λr -δ !r
+r - Rs
+  
+
+ds =ν λ2 − 1+
+
+λr −δνR s λ2 − 1+
+
+= λr -δ !r
+r - Rs
+
+⎞
+⎠⎟ !x 2− 1+
+
+⎞
+⎠⎟ !r 2 + 2δ
+
+1= 1−
+   
+
+r 2 λ2 − 1
+
+− 1
+r 2 +
+
+dr
+R s
+h2r
+
+!x =
+  
+
+R s
+r −
+
+h2
+r 2 +
+
+!r = dr
+
+R sh2
+r 3
+
+ν= ± 1
+
+dϕ= ±
+
+dr
+ds
+
+R s
+r
+
+R s
+r
+
+R s
+r 3
+
+R s
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+h2
+
++
+
+  
+
+= dx
+ds
+
+ds
+dr =
+
+dx
+dr
+  
+
+( r − R s ) λ2 − 1+
+
+R s
+r − h2
+r 2 +
+R s
+r − h2
+r 2 +
+
+R sh2
+r 3
+R sh2
+r 3
+
+δ = ± 1 	
+
+dt
+
+1
+c
+
+ν= ± 1
+
+ν= ± 1
+
+R s
+r
+R s
+r
+
+51	
+
+dx
+dr =
+  
+
+dt
+dr = ν
+  
+
+r −δνR s
+r − R s
+
+( r − R s ) λ2 − 1+
+
+λr −δνR s λ2 − 1+
+
+dr = ν λ
+c
+  
+
+δ = ± 1 	
+δ = ± 1 	
+
+	
+	Pour	les	géodésiques	radiale	h	=	0		
+	
+(180)																																			
+Au	voisinage	de	la	sphère	de	Schwarzschild	il	vient		
+	(181)																																																				
+	correspond	à	un	particule	dont	la	vitesse	est	nulle	à	l’infini.		
+	(182)																																										
+δ = ± 1 	
+		
+Trajectoires	centripètes	:		
+	Elles	correspondent	à		 ν = − 1		
+	La	métrique	 δ = − 1	correspondante	est		
+	(183)						  
+dx dr − r 2 ( dθ2 + sin2θdϕ2 )	
+						La	sphère	de	Schwarcshild,	dans	la	région	décrite	par	cette	métrique	se	comportera	
+comme	une	one	way	membrane	».	Les	temps	de	chute	libre	seront	finis,	tandis	que	les	
+temps	d’évasion	seront	infinis.	Les	particules	pourront	entrer,	mais	non	sortir.						
+	Dotons	la	seconde	nappe	de	l’hypersurface	de	Schwarzschild	d’une	métrique	 δ = + 1:		
+	(184)													
+dx dr − r 2 ( dθ2 + sin2θdϕ2 )	
+						
+				Les	particules	suivant	les	géodésiques	de	cette	seconde	nappe	pourront	sortir,	mais	
+non	entrer.	La	sphère	de	Schwarzschild	se	comportera	alors	comme	une	one-way	
+membrane	assurant	un	transit	extrêmement	rapide	et	efficace	des	particules	témoin	
+depuis	le	versant	où	se	situe	la	matière	ordinaire,	les	étoiles,	vers	l’autre	versant.	En	
+suivant	Weyl	(1917)	lors	de	ce	transit,	la	masse	des	particules	se	trouve	inversée.			
+
+⎠⎟ dr 2 + 2 R s
+
+⎞
+⎠⎟ dx 2− 1+
+
+⎞
+⎠⎟ dx 2− 1+
+
+⎠⎟ dr 2 − 2 R s
+
+r −δνR s
+r − R s
+
+ds2 = 1−
+  
+
+ds2 = 1−
+
+ν= ± 1
+
+R s
+r
+
+R s
+r
+
+R s
+r
+
+R s
+r
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+r
+
+r
+
+⎞
+
+⎞
+
+⎞
+
+−
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+1+
+
+R s
+r
+
+R s
+r
+
+⎞
+⎠⎟ vϕ
+
+cvϕ − 1−
+
+2 + 2 R s
+r
+
+La	vitesse	de	la	lumière	
+
+	
+52	
+				sphère	de	Schwarcshild,	dans	la	région	décrite	par	cette	métrique	se	comportera	
+comme	une	one	way	membrane	».	Les	temps	de	chute	libre	seront	finis,	tandis	que	les	
+temps	d’évasion	seront	infinis.	Les	particules	pourront	entrer,	mais	non	sortir.		
+		
+	Elle	correspond	à	ds	=	0	,	ce	qui	conduit	à	l’équation	du	second	degré	:		
+⎠⎟ c2 = 0	
+		(185)																																					  
+Dont	les	solutions	sont	:		
+(186)																																																				
+On	voit,	dans	ces	trajectoires	radiales,	que	la	vitesse	de	la	lumière,	par	rapport	au	temps	
+vécu	par	un	observateur	situé	à	grande	distance,	que	deux	valeurs	:		
+-  La	valeur	c	si	la	trajectoire	est	plongeante	
+	
+-						La	valeur	zéro	si	les	photos	tentent	d’émerger	de	la	sphère	de	Schwarzschild	
+- 
+Plaçon	nous	maintenant	dans	la	second	nappe	:		
+	(187)																																					  
+		
+(188)																																																										  
+Un	observateur	situé	dans	cette	seconde	nappe	observerait	la	situation	inverse.		
+	-				Valeur	c	si	la	trajectoire	est	émergeante.		
+	
+- 
+-  Valeur	zéro	si	la	trajectoire	est	plongeante.		
+	
+
+⎠⎟ c2 = 0	
+
+R s
+r ± 1
+R s
+1+
+r
+
+R s
+r ± 1
+R s
+1+
+r
+
+vϕ = c
+  
+
+2 − 2 R s
+r
+
+cvϕ − 1−
+
+⎞
+⎠⎟ vϕ
+
+vϕ = c
+
+R s
+r
+
+R s
+r
+
+1+
+
+	
+
+	
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+⎞
+
+	
+	
+Signification	physique	:		
+
+	
+53	
+						La	constance	de	la	vitesse	de	la	lumière	semblait	être	un	des	points	forts	de	
+l’approche	de	Kruskal.	On	notera	que	c’est	aussi	un	des	effets	de	l’adjonction	d’un	terme	
+croisé	dans	ce	qui	précède.		
+						C’est	la	traduction	d’un	phénomène	d’un	frame-dragging	radial,	un	entraînement,	par	
+la	matière,	du	système	de	coordonnées.	Un	phénomène	qu’on	rencontre	avec	la	
+métrique	de	Kerr	ou	le	 frame-dragging	est	azimutal.	On	peut	effectivement	examine	
+cette	étrique	dans	le	plan	équatorial	
+	(189)						
+cdt dϕ	
+					Si	on	faut	 ds	=	0	et	qu’on	considère	une	propagation	de	la	lumière	a	constant	on	
+trouvera	deux	valeurs	différentes,	selon	que	le	rayon	accompagne	ou	non	rotation	de	
+l’objet.		
+					On	conjecture	qu’en	ajoutant	à	cette	métrique	un	terme	croisé	en		 dρdtet	en	
+considérant	la	valeur	de	la	vitesse	de	la	lumière,	tangentiellement	à	une	géodésique	il	
+pourrait	être	possible,	dans	un	système	de	coordonnée	adéquat,		que	sur	des	deux	
+valeurs	trouvées,	l’une	soit	égale	à	c	et	l’autre,	nulle.		
+		
+______________________________________________________________________________________	
+	
+	
+	
+	
+
+ds2 = 1−
+  
+
+⎞
+⎟ c2dt 2 −
+⎠
+
+dρ2 + ρ2 + a2 +
+
+ρ2 + a2 − Rsρ
+
+θ = π
+2
+ 
+
+Rs a2
+ρ
+
+2Rs
+ρ
+
+dϕ2 −
+
+Rs
+ρ
+
+		
+
+⎡
+⎢
+⎢
+⎣
+
+⎤
+⎥
+⎥
+⎦
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+⎛
+⎜
+⎝
+
+ρ2
+
+	
+
+	
+
+	
+54	
+standard	du	modèle	du	Trou	Noir.		
+						Pour	ce	faire	nous	allons	nous	référer	à	la	page	223,	ci-après,	de	l’ouvrage	d’Adler,	
+Schiffer	et	Bazin	«	Introduction	to	General	Relativity	»	1975.		
+	
+
+Avant	de	conclure	je	pense	qu’il	est	bon	de	reproduire	ce	qui	constitue	le	vision	
+
+Fig.49	:	Interprétation	standard	de	la	métrique	de	Schwarzschild	
+	Traduction	:		
+
+	
+
+La	solution	de	Schwarzschild	et	ses	Conséquences.	
+
+	
+6.8	Le	rayon	de	Schwarzschild,	les	coordonnées	de	Kruskal	et	
+
+le	Trou	Noir.		
+Nous	avons	remarqué	dans	l’expression	(5.3)	de	la	métrique	de	
+Schwarzsvchild	une	singularité	apparaît	en	 r	=	 2m,	au	rayon	de	
+
+	
+
+	
+	
+	
+
+55	
+Schwarzschild	;	en	ce	point	le	potentiel	métrique	  
+g11	devient	infini,	
+alors	que	le	potentiel	  
+goo	est	nul,	la	
+goo	devient	nul.	Du	fait	que	  
+sphère	de	Schwarzschild	 r	=	2m	est	une	surface	avec	un	redshift	
+infini,	si	on	se	base	sur	notre	discussion	des	sections	4.2	et	4.4.		
+Ainsi	comme	la	longueur	d’onde	de	la	lumière	émise	par	cette	
+surface	subit	un	redshift	infini,	la	fréquence	du	signal	perçu	à	une	
+un	observateur	distance	sous	une	fréquence	nulle,	ce	qui	fait	que	
+nul	atome	ne	peut	être	observé.		
+			Quand	r	devient	inférieur	à	2m,	les	signes	des	composants	de	la	
+métrique	  
+goo	et	  
+goo	négatif.	
+g11changent	,	  
+Ceci	nous	contraint	à	reconsidérer	la	signification	physique		de	t	et	
+de	r	en	tant	qu’indicateurs	du	temps	et	du	rayon	à	l’intérieur	de	la	
+sphère	de	Schwarzschild.	En	fait,	une	ligne	d’univers	le	long	de	l’axe	
+du	temps,		c’est	à	dire	à	  ( r , θ , ϕ constants )	correspond	alors	à	
+	ds2	<	0	.	C’est	donc	 une	 courbe	 du	 genre	 espace22.	Mais	si	on	
+chemine	le	long	de	l’axe	r	,	on	a	ds2	>	0,	c’est	une	courbe	du	genre	
+temps.	Il	apparaîtra	ainsi	naturel	de	réinterpréter	 r	comme	une	
+coordonnée	de	temps	et	t	comme	un	indicateur	de	rayon,	vis	à	vis	
+des	 évènements	 survenant	 à	
+la	 sphère	 de	
+Schwarzschild.	Ceci	étant	fait	nous	pouvons	interpréter	ds/c	
+comme	le	temps	propre	le	long	de	la	ligne	d’univers	d’une	particule	
+car,	comme	nous	l’avons	vu	à	la	section	4.2	ds2	doit	être	positif	tout	
+au	long.	Ainsi	une	particule	dotée	de	masse	ne	saurait	rester	à	 r	
+constant	à	l’intérieur	de	la	sphère	de	Schwarzschild	puisque	ceci	
+impliquerait	que	ds2	soit	négatif	de	long	de	celle	ligne	d’univers.		
+	
+
+g11	devenant	positif	et	  
+
+l’intérieur	 de	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	
+
+	
+	
+
+																																																								
+
+22	Non,	cela	signifie	simplement	qu’on	est	en	dehors	de	l’hypersurface	!		
+
+	
+
+56	
+
+	
+	
+	
+	
+	
+	
+	
+	
+
+Conclusion	générale	:	
+
+			Elle	se	résume	à	une	simple	phrase	:		
+		-	Tout	ce	qui	a	été	présenté	dans	ce	document	montre	que	le	modèle	du	Trou	Noir	est	d’une	
+totale	incohérence	sur	le	plan	mathématique	et	géométrique.		
+	
+20	novembre	2021			J.P.Petit		
+	
+
+

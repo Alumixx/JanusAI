@@ -1,0 +1,2141 @@
+Le	modèle	«	à	constantes	variables	»	
+
+1	
+	
+JANUS	23				2	novembre	2017	
+	Si	on	considère	que	la	lumière	va	à	une	vitesse	c	constante,	et	donc	que	rien	n	epeut	
+progresser	à	une	vitesse	supérieure,	toute	information	émise	à	l’instant	zéro	se	propagera	
+selon	une	sphère	sphérique	de	rayon	ct.	On	appelle	cela	l’horizon	cosmologique.		
+	Quand	on	compare	ces	deux	lois	de	propagation	il	devient	évident	qu’on	trouve,	dans	le	
+passé,	une	situation	où	les	particules	s’éloignent	les	unes	des	autres	plus	vite	que	ne	
+progresse	cette	onde	électromagnétique.	Entre	autre,	quand	t	=	0	(	à	supposer	que	ces	
+mots	aient	un	sens	)	cette	vitesse	d’éloignement	serait	infinie.	Dans	cette	phase	primitive	
+les	particules	sont	donc	dans	l’impossibilité	de	communiquer	les	unes	avec	les	autres,	et	
+d’échanger	de	l’énergie.		
+	
+
+	
+
+	Or,	ces	échanges	d’énergie	par	collisions	sont	ce	qui	peut	garantir	l’homogénéité	et	
+l’uniformité	d’un	milieu	gazeux.		
+Quand,	en	1989	les	Américains	mirent	sur	orbite	le	premier	satellite	capable	de	fournir	
+des	informations	sur	le	fond	de	rayonnement	cosmologique	dans	le	domaine	des	micro-
+onde	(	le	CMB	),	correspondant	à	t	=	380.000	ans,		force	fut	de	constater	que	celui-ci	était	
+homogène	à	10-5	près,	et	cela	alors	l’horizon	cosmologique	restait	très	inférieur	à	 a.	Il	
+fallait	donc	envisager	quelque	chose	pour	expliquer	cette	remarquable	homogénéité.		
+J’ai	tout	de	suite	pensée	à	un	schéma	d’évolution	avec	une	vitesse	de	la	lumière	variable,	
+plus	élevée	dans	le	passé.	En	fait	il	se	trouve	que	j’avais	anticipé	cette	découverte	en	
+publiant	un	premier	article	en	1988	intitulé	:		
+	
+	Téléchargeable	à	:		
+	
+	Ce	thème	d’une	vitesse	de	la	lumière	variable,	toujours	dans	la	même	optique,	devait	être	
+repris	des	années	plus	tard,	d’abord	par	Moffat,	puis	par	le	Portugais	Joao	Magueijo	:		
+	Mais	ceux-ci	n’envisagèrent	jamais	l’idée	d’une	variation	conjointe	de	toutes	les	
+constantes.		
+
+http://www.jp-petit.org/papers/1988-ModPhysLettA-1.Pdf	
+
+An	interpretation	of	cosmological	model	with	variable	velocity	of	light	
+
+2	
+	
+		Ces	constantes,	quelles	sont-elles	?		
+	Si	on	ne	prend	pas	en	compte	les	phénomènes	des	interactions	forte	et	faible	on	trouve	:		
+	
+G	:	constante	de	la	gravitation	
+	m	:	masse	
+	c	:	vitesse	de	la	lumière	
+	h	:	constante	de	Planck	
+	e	:	charge	électrique	
+	
+µo	:	perméabilité	magnétique	du	vide.		
+	A	la	fin	de	ces	années	quatre	vingt	parurent	nombre	d’articles	consacrés	à	ce	thème	d’une	
+les	 données	
+la	 physique,	 avec	
+variabilité	 des	 constantes	 de	
+observationnelles.	La	conclusion	immédiate	fut	qu’on	ne	pouvait	pas	impunément	toucher	
+à	l’une	quelconque	des	ces	constantes	sous	peine	de	tomber	sur	de	contradictions	
+ingérables	au	plan	des	observations.	A	partir	de	ces	constantes	de	bas	on	peut	en	
+fabriquer	de	nombreuses	autres,	qui	sont	autant	de	points	de	repère	de	notre	physique.	
+Par	exemple	la	constante	de	structure	fine	:		
+	
+εo h c	
+	où	εo	est	la	constante	diélectrique	du	vide,	qui	se	déduit	des	constantes	indiquées	ci-
+dessus	dans	la	mesure	où	:		
+	
+	Cette	constante	de	structure	fine	vaut		1/	137,036.	Elle	joue	un	rôle	clé	dans	
+l’arrangement	des	électrons	autour	des	noyaux	des	atomes.	Et	on	peut	multiplier	ces	
+exemple	à	l’infini.		
+	Par	ailleurs	le	simple	fait	de	vouloir	modifier	la	valeur	c	de	posait	des	problèmes	
+«	d’invariance	par	la	transformation	de	Lorentz	».		
+	La		métrique	de	Lorentz	:		
+	
+	
+
+  ds2 = c2 dt 2 − dx2 − dy2 − dz2	
+
+l’incidence	 sur	
+
+1
+µo εo
+
+α=
+
+c =
+
+e 2
+
+	
+
+x' = x + Δ x
+y' = y + Δ y
+  
+
+x' = xcosθ− ysinθ
+y' = xsinθ+ ycosθ
+  
+
+3	
+	
+traduit	le	fait	qu’on	assimile	la	coordonnée	de	temps	à	«	une	coordonnée	comme	les	trois	
+autres	».	La	grandeur	c	dt	se	mesure	alors	en	mètres.	Autrement	dit	le	temps	devient	…	
+une	longueur.		
+		
+Une	parenthèse	rapide	sur	les	groupes	de	matrices	(indentation).		
+	Commençons	par	le	groupe	d’Euclide	2D.		
+	Il	agit	sur	un	espace	à	deux	dimensions	(	x	,	y	).	On	aura	les	translations	:		
+	
+		
+	et	les	rotations	:		
+	
+	
+	On	peut	négocier	simultanément	ces	deux	transformations	en	utilisant	cette	
+notation	matricielle	:		
+	
+	Il	manque	quelque	chose	:	les	symétries.	On	peut	compléter	cela	en	ajoutant	
+un	paramètre	selon	:		
+	
+	Quand	on	prend	la	première	expression	matricielle	c’est	le	produit	«	lignes-
+colonnes	»	de	deux	matrices	:		
+	
+	
+	Attention	:	
+la	 multiplication,	 car	
+la	
+multiplication	de	deux	matrices	n’est	pas	commutative.	Détaillons	cette	
+
+λcosθ −λsinθ Δ x
+cosθ Δ y
+sinθ
+0
+1
+
+faut	 respecter	
+
+cosθ −sinθ Δ x
+sinθ cosθ Δ y
+1
+0
+
+cosθ −sinθ Δx
+sinθ cosθ Δ y
+1
+0
+
+l’ordre	 dans	
+
+cosθ −sinθ 0
+sinθ cosθ 0
+1
+0
+
+λ= ± 1	
+
+1 0 Δx
+0 1 Δ y
+1
+0 0
+
+il	
+
+x'
+y'
+1
+
+x'
+y'
+1
+
+⎛
+⎜
+⎜
+⎜
+⎝
+  
+
+⎛
+⎜
+⎜
+⎜
+⎝
+  
+
+x
+y
+1
+
+x
+y
+1
+
+⎛
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎠
+
+⎞
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎠
+
+⎞
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎠
+
+	
+
+=
+
+×
+
+×
+
+=
+
+=
+
+×
+
+0
+
+0
+
+0
+
+0
+
+  
+
+	
+
+4	
+multiplication,	pour	ceux	«	qui	ont	un	peu	oublié	».	Les	autres	pourront	
+sauter	ce	passage.		
+	Nous	allons	mettre	en	lumière	les	lignes	et	les	colonnes	:	
+	
+	A	gauche,	la	décomposition	de	la	première	matrice	carré	et	trois	«	vecteurs	
+lignes	».Au	milieu,	une	décomposition	en	trois	«	vecteurs	colonnes	».	A	
+droite,	les	case	où	on	placera	le	résultat	de	l’opération.		
+Quant	on	choisit	la	ième		ligne	de	la	première	matrice	et	la	jième	colonne	de	la	
+seconde	on	obtient	deux	vecteurs.	A	droite,	dans	la	case	correspondant		à	la	
+iième	ligne	et	à	la	jième	colonne	on	placera	le	résultat	du	produit	scalaire	de	
+ces	deux	vecteurs.		
+	Donnons	un	exemple	:		
+	
+
+	
+
+	
+
+Au	résultat	:		
+	
+	
+	Au	passage	vous	pourrez	vérifier	qu’on	doit	respecter	l’ordre,	dans	ce	
+produit.		
+	
+	-	La	première	matrice	représente	
+l’écriture	matricielle	groupe	 des	
+translations	2D,	à	deux	paramètres	  Δ x , Δ y	.		
+	-	La	seconde	l’écriture	matricielle	du	groupe	des	rotations	2D,	à	un	
+paramètre	θ	qu’on	appelera	SO(2)	.	
+	
+
+Le	produit	de	matrices	n’est	pas	commutatif	
+
+	
+
+  
+
+0
+
+0
+
+×
+
+×
+
+×
+
+=
+
+=
+
+×
+
+=
+
+⎞
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎠
+
+⎞
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎝
+
+x
+y
+1
+
+⎛
+⎜
+⎜
+⎜
+⎝
+  
+
+x'
+y'
+1
+
+λx
+y
+1
+
+λ 0 0
+0 1 0
+0 0 1
+
+λ 0 0
+0 1 0
+0 0 1
+
+1 0 Δx
+0 1 Δ y
+0 0
+1
+
+λ= ± 1	
+
+cosθ −sinθ 0
+sinθ cosθ 0
+0
+1
+
+λcosθ −λsinθ Δx
+cosθ Δ y
+sinθ
+0
+1
+
+l’inversion	 des	 objets,	 de	
+
+5	
+La	seconde	écriture	matricielle,	qui	représente	l’élément	du	groupe	
+d’Euclide	2D,	E(2)		est	le	produit	de	trois	matrices	:		
+	
+		Le	 premier	 groupe	 de	 matrices	 permet	
+matérialiser	la	symétrie	miroir	:		
+	
+	Donc	le	groupe	d’Euclide	est	le	produit	de	trois	groupes	:		
+	
+symétries	 ×	translations	 ×	rotations		
+	Si	on	se	concentre	sur	les	matrices	:		
+	
+	
+	qui	combinent	rotation	et	symétrie,	on	appelera	ces	matrices	a	et	on	dira	
+qu’elles	appartiennent	au	groupe	O(2).		
+	O	pour	«	orthogonale	».	Les	matrices	orthogonales	sont	des	matrices	telles	
+que	le	produit	de	a	par	sa	transposée	est	égal	à	la	matrice	unité.		
+	La	transposée	d’une	matrice	est	le	résultat	de	la	permutation	des	termes	de	
+cette	matrices	par	rapport	à	la	diagonale	principale.	On	note	cette	opération	
+de	transposition	avec	une	lettre	T	comme	ceci	:		
+	
+ transposée de a = Ta	
+	Ainsi	:		
+	
+	
+
+λcosθ −λsinθ 0
+sinθ
+cosθ 0
+1
+0
+
+λcosθ −λsinθ 0
+cosθ 0
+sinθ
+0
+1
+
+λcosθ sinθ 0
+−λsinθ cosθ 0
+1
+
+cosθ −sinθ 0
+sinθ cosθ 0
+0
+1
+
+λ 0 0
+0 1 0
+0 0 1
+
+transposée de
+
+⎛
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎠
+
+	
+
+=
+
+×
+
+=
+
+0
+
+0
+
+0
+
+0
+
+0
+
+  
+
+ 
+
+	
+
+6	
+
+ 
+
+ 
+
+  
+
+ 
+
+	
+
+I =
+
+⎞
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎝
+
+1 0 0
+0 1 0
+0 0 1
+
+T a I a = I	
+
+Le	produit	des	deux	donne	la	matrice	unité	:		
+	
+	La	condition	d’orthogonalité	des	matrices	a	s’écrit	donc	:		
+	
+T a × a = I	
+Qu’on	écrira	plus	simplement	:		
+	
+T a a = I	
+	Maintenant	nous	allons	faire	une	chose	que	vous	ne	trouverez	pas	dans	les	
+livres,	mais	que	je	trouve	éclairant.	Vous	verrez	plus	loin	pourquoi.	Nous	
+écrirons	cette	définition	:		
+	
+T a × I × a = I		ou				 
+	Pourquoi	interposer	cette	matrice	unité	au	milieu,	alors	qu’elle	ne	change	
+rien	à	l’affaire	?	Vous	verrez	plus	loin.		
+	On	peut	alors	opter	pour	une	écriture	plus	compacte	de	ces	matrices	en	
+posant	:		
+	
+	alors	l’écriture	matricielle	devient	:		
+	
+⎠⎟	
+	C	est	le	vecteur	translation	2D.		
+	Comment	passer	au	3D	?		
+	Le	groupe	d’Euclide	3D	,	E(3)	sera	le	produit	des	translations,	des	symétries	
+et	des	rotations	3D.	Comment	écrire	ces	matrices	?		
+	On	n’aura	pas	besoin	de	le	faire.	Il	suffira	de	se	dire	que	les	matrices	a,	dans	
+ce	contexte,	sont	des	matrices	orthogonales	et	que	:		
+	
+
+a C
+0
+1
+
+⎟	
+
+⎞
+⎠⎟ =
+
+⎞
+⎠⎟ ×
+
+Δx
+Δ y
+
+X '
+1
+
+X =
+
+C =
+
+⎛
+⎝⎜
+  
+
+X
+1
+
+⎛
+⎜
+⎝
+
+x
+y
+
+⎞
+⎟
+⎠
+
+⎛
+⎜
+⎝
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+⎞
+
+⎞
+
+⎠
+
+ 
+
+	
+
+  
+
+)
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+X
+1
+
+⎛
+⎝⎜
+  
+
+⎛
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎠
+
+⎞
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎝
+
+avec
+
+X '
+1
+
+⎞
+⎠⎟ =
+
+⎞
+⎠⎟ ×
+
+dx
+dy
+dz
+
+⎟	
+
+a C
+1
+0
+
+dx dy dz
+
+dx2 + dy2 + dz 2 =
+
+1 0 0
+0 1 0
+0 0 1
+
+Ta I a = I	
+
+7	
+	On	pourrait	ensuite	définir	le	groupe	d’Euclide	à	4	dimensions,	cinq,	etc	….	
+Et	ça	s’écrirait	pareil.		
+	Mais	ce	groupe	d’Euclide	ne	tombe	pas	du	ciel.	C’est	le	groupe	d’isométrie	
+de	l’espace	euclidien.	En	3D	défini	par	sa	métrique	:		
+	
+  ds2 = dx2 + dy2 + dz2	
+	On	peut	écrire	cette	expression	selon	:		
+	
+(
+T dX I dX		attendu	qu’une	matrice	ligne	est	la	
+que	je	peux	aussi	écrire	:	 
+transposée	d’une	matrice	colonne.	
+	Je	dirai	aussi	que	cette	matrice	unité	appartient	à	l’ensemble	de	matrices	
+miroir	G	dont	les	termes	diagonaux	valent	 ± 1		
+	
+	
+	On	va	passer	à	cette	histoire	d’isométrie	et	montrer	par	exemple	que	les	
+matrices	orthogonales	conservent	les	longueurs.		
+	Soit	M	une	matrice	agissant	sur	un	vecteur	X	selon	:	
+	
+  X ' = M X	
+	La	longueur	du	vecteur	X	est		 L = t X I X		
+	La	longueur	du	vecteur	X’	est		  L' = t X ' I X '	
+	Exprimons	que	L’	=	L		
+	
+	Mais	là	nous	allons	nous	servir	d’un	théorème	(je	vous	laisse	le	soin	de	le	
+démontrer)	:		
+	
+
+  L' = t X ' I X ' = t( M X ) I M X	
+
+0
+0
+±1
+
+±1
+0
+0
+
+0
+±1
+0
+
+G =
+
+⎛
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎠
+
+  
+
+	
+
+8	
+
+  
+
+ 
+
+ds2 = dt 2 − dx2 − dy2 − dz2 =
+
+t( AB ) = tB t A	
+	Appliqué	à	la	formule	ci-dessus	ça	donne	:		
+	
+  L' = t X ' I X ' = t X (t M I M )X	
+	On	voit	qu’on	aura	L’	=	L	si	les	matrices	M	obéissent	à	la	loi	:		
+	
+t M I M = I	
+	bref	si	ces	matrices	M	sont	des	matrices	orthogonales.	On	vérifiera	que	les	
+translations	conservent	les	longueurs.	Ainsi	les	matrices	du	groupe	
+d’Euclide	ne	sont	rien	d’autres	que	les	élements	du	groupe	d’isométrie	d’un	
+espace	euclidien,	défini	par	sa	métrique.		
+	Maintenant	nous	allons	passer	à	l’espace	de	Minkowski,		défini	par	sa	
+métrique	Lorentzienne	(	on	prendra	ici	c	=	1	pour	alléger	)	:		
+	
+	
+On	voit	apparaître	la	matrice-miroir	:		
+	
+	Si	on	pose	:		
+	On	aura	:		
+	
+	Cherchons	quel	est	le	groupe	d’isométrie	de	cet	espace	de	Minkowski.	On	
+reconduit	le	calcul	établi	pour	l’espace	euclidien	et	on	arrivera	à	la	
+conclusion	que	le	groupe	défini	axiomatiquement	par	:		
+	
+
+	
+  ds2 = tdξG dξ	
+
+1
+0
+0 −1
+0
+0
+0
+0
+
+1
+0
+0 −1
+0
+0
+0
+0
+
+ds dx dy dz
+
+0
+0
+0
+−1
+
+0
+0
+0
+−1
+
+0
+0
+−1
+0
+
+0
+0
+−1
+0
+
+dt
+dx
+dy
+dz
+
+t
+x
+y
+z
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎠
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎝
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎠
+
+G =
+
+ξ=
+
+	
+
+)
+
+(
+
+ 
+
+  
+
+  
+
+	
+
+9	
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎝
+
+0
+
+1
+0 0
+0 −1 0 0
+0
+0
+0
+0 0
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎝
+
+0
+
+1
+0 0
+0 −1 0 0
+0
+0
+0 0
+0
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎠
+
+	
+
+t L ×
+
+× L =
+
+ou
+
+tL G L = G
+
+  
+
+ 
+
+⎞
+
+	
+
+0
+0
+
+0
+0
+
+⎛
+⎝⎜
+  
+
+C =
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎠
+
+dt
+dx
+dy
+dz
+
+L C
+1
+0
+
+	C’est	la	définition	du	groupe	de	Lorentz.	Nous	allons	pouvoir	le	manipuler	
+sans	jamais	l’expliquer,	en	le	laissant	sous	la	forme	de	cette	lettre	L		
+	Si	on	rajoute	un	vecteur	translation	spatio-temporelle	:		
+	
+	on	obtiendra	le	groupe	d’isométrie	de	l’espace	de	Minkowski,	à	savoir	….	Le	
+groupe	de	Poincaré	!		
+	
+	Vous	comprenez	maintenant	pourquoi	j’avais	écrit	la	métrique	du	groupe	
+d’Euclide	selon	:	
+	à	cause	de	cette	évident	analogie	avec	la	métrique	de	l’espace	de	Minkowki	:		
+	
+		Quand	à	la	ressemblance	entre	le	groupe	d’Euclide	et	le	groupe	de	
+Poincaré	:		
+	
+⎠⎟	
+	Je	n’insiste	pas	….	
+	Cela	vous	permet	de	sentir	que	le	groupe	de	Lorentz	représente	des	
+rotations	hyperboliques	dans	un	espace	4D,	qui	conservent	les	longueurs,	à	
+condition	que	celles-ci	soient	exprimées	à	l’aide	de	la	matrice	G.		
+	
+
+⎠⎟	
+  ds2 = tdX I dX	
+  ds2 = tdξG dξ	
+
+L C
+0
+1
+
+a C
+0
+1
+
+⎛
+⎝⎜
+  
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+⎞
+
+10	
+Par	exemple,	en	physique	théorique,	on	aura	le	quadrivecteur	composé	à	
+partir	de	l’énergie	et	de	l’impulsion	:		
+	
+
+	
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+E
+
+c
+px
+py
+pz
+
+ 
+
+Fin	de	cette	parenthèse-groupes,	signalée	par	cette	indentation.		
+
+  ds2 = c2dt 2 − dx2 − dy2 − dz2	
+
+	En	faisant	agir	le	groupe	de	Lorentz	sur	ce	vecteur	on	aura	la	conservation	
+de	la	longueur	de	ce	vecteur,	un	truc	que	vous	avez	vu	dans	vos	cours	sur	la	
+relativité.	Mais	c’est	beaucoup	plus	commode	d’envisager	cela	sous	l’angle	
+de	la	géométrie.		
+	Toujours	est-il,	et	là	je	vais	refermer	cette	parenthèse-groupes,	que	si	on	
+rajoute	la	vitesse	de	la	lumière	dans	ces	expressions,	en	écrivant	la	
+métrique		
+	
+	etc	…	etc	….	Et	si	ce	scalaire	c	varie,	on	aura	des	problèmes	«	d’invariance	
+par	Lorentz	».	Ca	ne	«	tournera	plus	rond	».		
+		
+	On	revient	à	cette	histoire	de	variation	des	constantes.	Si	on	compulse	les	particules	
+publiés	là-dessus	il	ressort	que	si	on	touche	à	une	seule	de	ces	fichues	constantes	il	y	a	
+immédiatement	quelque	chose	qui	se	met	à	déconner.	Les	atomes	ne	veulent	plus	se	
+former,	les	étoiles	ne	fonctionnent	plus,	etc	…	etc	….	
+	C’est	cela	qui	avait	valu	à	Brandon	Carter	d’énoncer	son	
+	
+	Du	grec	anthropos,	qui	veut	dire	l’homme.	Cela	dit	que	ces	constantes	ont	été	déterminée	
+(	par	quoi	?	là	il	faudrait	répondre	à	cette	question	)	de	telle	manière	:		
+	-  Que	les	galaxies	se	forment	
+-  Que	les	étoiles	(et	maintenant	les	collisions	d’étoiles	à	neutrons)	créent	les	atomes	lourds	
+-  Dont	seront	formées	les	planètes	
+-  Lesquelles	seront	peuplées	de	volcans	qui	recracheront	des	gaz	dans	l’atmosphère	
+
+Principe	Anthropique	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+créeront	de	l’oxygène	libre	
+
+Salvatore	Dali,	est	le	centre	de	l’univers.	
+
+-				Qu’absorberont	les	poissons,	puis	les	êtres	vivant	évoluant	en	dehors	du	milieu	marin	
+
+11	
+	
+-  Tandis	que	celle-ci	bénéficiera	d’un	apport	aqueux	grâce	aux	impacts	des	comêtes.	
+-  Les	premiers	êtres	vivants,	de	végétaux,		apparaîtront,	sous	la	forme	d’algues	bleues	qui	
+-  Qui	évolueront	à	leur	tour,	donnant	naissant	à	l’homme	
+-  Qui	 enfin	 construira	 la	 gare	 de	 Perpignan	 laquelle,	 comme	 l’a	 tout	 de	 suite	 compris	
+	Tout	cela	avec	un	jeu	de	constantes	ajusté	de	manière	très	pointue,	sans	quoi	ce	scénario	
+n’aurait	pu	se	dérouler.		
+	Ces	constantes	sont	:		
+	
+	Mais	ce	scénario	est	réglé	par	quoi	?		
+		
+(generalized	gauge	Relationship)	
+L’ingénieur	est	familier	de	la	technique	dite	de	l’analyse	dimensionnelle.	Celle-ci	lui	permet	
+en	particulier	de	faire	apparaître,	dans	les	différents	termes	de	l’équation	qui	retient	son	
+attention	des	nombres	sans	dimension,	qui	lui	permettent	de	situer	les	importances	
+relatives	de	ceux-ci.	Nous	n’allons	pas	opérer	dans	ce	qui	va	suivre,	stricto	sensu,	une	
+analyse	dimensionnelle	des	équations,	mais	nous	inspirer	de	cette	technique	en	rendant	
+toutes	les	quantités	qui	s’y	trouvent	sans	dimension,	en	faisant	apparaître	des	grandeurs	
+caractéristiques,	ceci	s’appliquant	non	seulement	aux	longueurs	et	au	temps,	mais	aux	
+constantes	présentes	dans	les	équations.		
+Ecrivons	
+physique	:		
+les	
+pêle-mêle,	
+d’abord,	
+	L’équation	de	Schrödinger	:		
+	L’équation	de	champ	d’Einstein	:		
+
+h2
+2m ( Δ Ψ +U Ψ ) = i h
+2π
+
+Construction	de	la	relation	de	jauge	généralisée	
+
+équations	
+
+notre	
+
+G , m , c , h , e , µo
+
+de	
+
+}	
+
+∂Ψ
+∂t
+
+	
+
+{
+  
+
+−
+
+c2 Tµν	
+
+8πG
+
+Rµν −
+  
+
+1
+2
+
+R gµν = −
+
+12	
+
+	
+L’équation	de	Boltzmann	:		
+		
+	Les	équations	de	Maxwell	:		
+∂t + vi ∂ f
+∂ f
+	
+
+∂r i − ∂φ
+∂r i
+
+∂ f
+∂v i =
+
+( f ' f '1
+
+∫∫
+
+− f f1 ) g b db dε	
+
+∂E
+
+1
+c 2
+
+ΔV + ρe
+εo
+
+∇× B = µo J +
+
+∇ × E = − ∂B
+
+∂t	
+	
+∂t	
+= 0	
+	
+∇	.	B	=	0	
+		Si	nous	décidons	de	rendre	toutes	ces	équations	adimensionnelles	il	faut	que	toutes	les	
+grandeurs	qui	y	figurent,	sans	exception,		soient	exprimées	de	façon	adimensionnelle,	y	
+compris	les	«	constantes	»	et	y	compris,	bien	entendu	l’espace	et	le	temps,	en	usant	de	
+jauges	d’espace	et	de	temps.	Pour	tous	ces	objets	on	fera	apparaître	des	quantités	
+caractéristiques	frappées	d’un	chapeau,	ainsi	:	
+	
+	
+  ˆr	devient	(la	jauge	d’espace),	qu’on	appellera	 a	plus	loin,	et	  ˆt	une	jauge	de	temps.		On	
+fera	apparaître,	ce	faisant,	une	profusion	de	grandeurs	adimensionnelles,	sous	la	forme	de	
+lettres	grecques.		
+	Au	passage	on	écrira	:		
+	
+ˆr δ													  
+	Puisque	nous	avons	ces	six	constantes	:	
+	Cela	nous	amènera	à	poser	:		
+	
+	
+
+  r = ˆr ξ														  t = ˆt τ		
+
+µo = ˆµo µ 	
+
+ˆr 2 δ2	
+
+G , m , c , h , e , µo
+
+  G = ˆG Γ
+
+}		
+
+m = ˆmβ
+
+h = ˆhθ
+
+c = ˆcϖ
+
+e = ˆeϑ
+
+∇ =
+  
+
+Δ =
+
+{
+  
+
+1
+
+1
+
+{
+  
+
+ˆG , ˆm , ˆc , ˆh , ˆe , ˆµo , ˆr , ˆt
+
+13	
+	
+En	opérant	ainsi,	toutes	nos	équations	seront	ainsi	écrites	de	manière	adimensionnelle	et	
+la	question	que	nous	posons	est	:		
+	Existe-t-il	une	relation	liant	toutes	les	grandeurs	liant	:		
+	
+}	
+	qui	laisse	toutes	les	équations	de	la	physique	invariantes	?		
+	Comme	on	va	le	voir,	la	réponse	est	positive.	C’est	ce	que	j’ai	établi	dans	mes	articles	de	
+1988-1995,	passés	totalement	inaperçus,	faute	de	pouvoir	assurer	la	promotion	de	mes	
+idées	dans	des	colloques	et	dans	des	séminaires,	y	compris	à	l’échelle	internationale.		
+	Anticipant	sur	ce	résultat,	je	donne	le	pourquoi	d’une	telle	démarche.	En	effet,	pourquoi	
+s’intéresser	à	une	telle	propriété,	qui	rend	impossible	toute	mesure,	puisque,	les	
+instruments	de	mesure	étant	construits	avec	ces	mêmes	équations,	donc	avec	ces	mêmes	
+constantes,	ils	«	dérivent	parallèlement	»	avec	les	grandeurs	qu’ils	sont	censés	mesurer.		
+	En	donnant	une	image	:	vouloir,	à	travers	une	expérience	conceptuelle,	proposer	quelque	
+chose	qui	témoigne	«	au	fil	du	temps	»	de	la	dérive	de	ces	constantes	serait	comme	tenter	
+de	mesurer	la	variation	de	longueur	d’une	table	en	fer,	sous	l’effet	d’une	variation	de	
+température,	en	utilisant	une	règle	faite	du	même	métal	,	qui	donc	se	dilaterait	de	la	
+même	manière.		
+	En	supposant	que	l’univers,	dans	ces	étranges	conditions,	évolue	en	suivant	un	tel	
+«	processus	de	jauge	»	ceci	aura,	comme	on	ne	verra,	deux	incidences.		
+	Dans	ces	relations	de	jauge	généralisées	que	nous	allons	établir,	au	résultat,	on	peut	
+choisir	n’importe	laquelle	des	huit	grandeurs	ci-dessus	et	exprimer	en	fonction	de	celle-	ci	
+les	variations	de	la	jauge	d’espace	  ˆr	,	qu’on	pourra	appeler	par	la	suite	 a	ou	 R,	peu	
+importe.		
+	Toujours	est-il	qu’on	tombera	sur	la	propriété	suivante	:		
+	
+	
+	ou																																																																									
+			
+	Alors,	quand	on	calcule	l’évolution	de	l’horizon	cosmologique,	ça	n’est	plus	simplement	ct,	
+mais	une	intégrale,	puisque	c	varie	au	fil	de	l’évolution,	et	on	trouver	alors	que	cet	horizon	
+cosmologique	suit	l’évolution	de	la	«	taille	»	de	l’univers	lui-même	:		
+	
+	
+
+L’horizon	cosmologie	varie	comme	a	
+
+ˆc ∝
+  
+
+c ∝
+  
+
+1
+ˆr
+
+1
+a
+
+Plus	vite	que	la	lumière	
+
+14	
+	
+Ainsi	l’homogénéité	de	l’univers	est-elle	assurée	à	toutes	les	époques,	sans	avoir	besoin	
+de	faire	recours	à	la	«	théorie	de	l’inflation	»	et	à	un	«	champ	d’inflatons	».		
+	Ces	idées	générales	étant	posées,	nous	allons	établir	cette	«	relation	de	jauge	généralisée	»,	
+travail	qui	est	tout	à	fait	à	la	portée	d’un	lecteur	du	niveau	math	sup.	Un	tel	travail	a	été	
+dûment	publié	en	1988-1995	mais	n’a	attiré	l’attention	d’aucun	cosmologiste.	Personne	
+n’a	refait	le	calcul	qui	va	suivre.		
+	
+Avant	de	présenter	ce	calcul	je	voudrais	citer	deux	choses,	à	caractère	
+anecdotique.	Un	personnage	a	beaucoup	fait	parler	de	lui,	dans	cette	
+affaire	de	vitesse	de	la	lumière	variable.	C’est	le	jeune	Joao	Magueijo,	
+ayant	un	poste	de	professeur	de	physique	théorique	à	Imperial	College.	
+Il	est	également	l’auteur	d’un	best	seller,	traduit	et	repris	par	l’éditeur	
+Dunod	:		
+	Toute	tentative	de	dialoguer	avec	ce	chercheur	s’est	soldée	par	un	échec.	
+En	2008,	devant	me	rendre	à	Imperial	College,	je	lui	ai	proposé	de	faire	
+un	exposé	là-bas.	Réponse	:	un	refus,	avec	étrange	argument	«	Ce	n’est	
+pas	moi,	ce	sont	les	autres	».		
+	Par	la	suite	j’ai	créé	une	bande	dessinée,	gratuitement	téléchargeable	
+sur	le	site	de	Savoir	sans	Frontières.		
+	http://www.savoir-sans-
+frontieres.com/JPP/telechargeables/Francais/plus_rapide_lumiere/plu
+s_rapide_lumiere.htm	
+	Comme	celle-ci	avait	été	rapidement	traduite	en	portugais,		
+	http://www.savoir-sans-
+frontieres.com/JPP/telechargeables/Portuguais/plus_vite_lumiere_port
+ugais/plus_vite_lumiere_portugais.htm	
+	j’ai	demandé	à	Magueijo	de	la	préfacer.		
+	
+	Plus	récemment,	j’ai	participé	en	août	2017	au	colloque	COSMO	17	qui	
+se	tenait	à	Paris.	Un	certain	Bandengerger,	Canadien,	présenta	sa	vision	
+de	l’univers	primitif.	C’est	un	string	man,	un	«	homme	des	cordes	»	et	
+pour	lui,	l’univers	primitif	est	un	«	gaz	de	cordes	».	On	trouvera	un	
+article	de	lui	dans	le	numéro	d’octobre	2017	de	la	revue	La	Recherche.		
+	A	l’issue	de	son	exposé,	j’ai	demandé	la	parole	et	questionné	
+Brandenberger	à	propos	d’une	justification	de	l’homogénéité	de	
+l’univers	primitif	par	un	système	de	constantes	variables.	Il	a	souri	en	
+me	répondant	«	il	y	a	ici	un	homme	qui	a	aussi	travaillé	dans	cette	voie	
+
+Pas	de	réponse	
+
+	
+
+15	
+et	vous	pourrez	discuter	avec	lui		».	Il	a	alors	désigné	un	jeune	thésard	
+canadien1.	Vous	pouvez	traduire	cela	par	la	réaction	:	
+		
+
+gaz	de	cordes,	ça	c’est	sérieux	!	Restons	dans	les	choses	sérieuses.		
+
+Revenons	à	cet	établissement	de	la	relation	de	jauge	universelle.		
+
+	
+	-	Ces	histoires	de	constantes	variables,	c’est	de	la	foutaise.	Par	contre,	un	
+Qu’aurais-pu	faire,	lors	de	ce	colloque	?	Répliquer	:		
+-	 Non,	c’est	votre	modèle	de	gaz	de	cordes	qui	est	inconsistant.	Laissez-
+moi	vous	expliquer.		
+	Les	200	congressistes	présents	m’auraient	hué	aussitôt	et	fichu	dehors	!		
+		
+Le	fait	de	présenter	le	détail	de	ce	calcul	à	des	lecteurs	niveau	math	sup	représente	en	fait	
+la	seule	chance	pour	que	cette	idée,	qui	a	déjà	plus	de	30	ans,	fasse	son	chemin.	Car	ces	
+calculs,	personne	n’a	eu	la	curiosité	de	les	refaire.		
+Dans	les	équations	figurent	des	vitesse.	On	sera	alors	tenté	de	poser	:		
+  V = ˆVζ	
+Mais	puis	qu’il	s’agit	d’invariance,	on	voit	tout	de	suite	apparaître	celle	du	facteur	de	
+Lorentz	
+	.	Et	comme	  c = ˆcϖ	celle-ci	entraînera	   ˆV ∝ ˆc	.	Donc	il	sera	plus	simple	
+de	tenir	compte	d’emblée	de	cela	en	introduisant	une	vitesse	adimensionnelle	ζ	selon	:		
+  V = ˆcζ	
+																																																								
+1	En	discutant	par	la	suite	avec	ce	jeune	chercheur	celui-ci	il	m’a	aussitôt	dit	«	qu’il	n’avait	
+pas	fair	grand	chose	dans	ce	domaine	».		
+
+V 2
+c 2
+
+1−
+
+  
+
+∂ς
+
+1
+ˆr
+
+ˆB
+ˆt
+
+  E = ˆE ϑ
+
+ˆE δ ×ϑ= −
+
+∇ × E = − ∂B
+
+16	
+	
+Voyons	comment	nous	pourrins	procéder	pour	faire	émerger	ces	relations	de	jauge.	
+Prenons	par	exemple	l’équation	de	Maxwell	:		
+∂t	
+On	posera,	au	risque	de	tomber	en	panne	de	lettres	grecques	:		
+B = ˆBς	
+La	mise	sous	forme	adimensionnelle	donnera	:		
+∂τ	
+Mais,	dimensionnellement,	un	champ	électrique	c’est	aussi	un	champ	magnétique	
+multiplié	par	une	vitesse,	de	telle	sorte	qu’on	peut	poser	:	   ˆE = ˆc ˆB		,	puisque	   ˆV	varie	
+comme	  ˆc	et	on	obtient	:		
+Dans	ce	processus	de	jauge	que	nous	envisageons,	toutes	les	grandeurs	avec	chapeau	vont	
+varier	«	conjointement	»	de	manière	à	laisser	les	équations	invariantes.	L’invariance	de	
+cette	équation	de	Maxwell	entraînera	que	dans	ce	processus	:		
+  ˆr ∝ ˆc ˆt	
+Voilà	notre	première	relation	de	jauge.	On	la	retrouvera	en	maints	endroits.	Dès	lors	notre	
+équation	de	Maxwell,	adimensionnelle,	devient	:		
+	
+Nous	voulons	que	la	géométrie	des	objets	reste	inchangée	au	fil	de	ce	processus	de	jauge.	
+Cela	vaut	aussi	pour	la	géométrie	des	objets	de	l’espace-temps,	donc	des	géodésiques.	On	
+inscrira	dans	cette	histoire	que	les	lois	de	Kepler	seront	invariantes,	c’est	à	dire	que	:		
+  ˆt 2 ∝ ˆr 3				ou						  ˆr ∝ ˆt 2/3		
+Autre	relation	de	jauge.		
+Considérons	maintenant	l’équation	de	Boltzmann	:		
+On	a	:						  v i = ˆcζi							  r i = ˆr ξi				
+∂t + vi ∂ f
+∂ f
+
+− f f1 ) g b db dε	
+
+ˆc
+ˆr δ ×ϑ= −
+
+δ ×ϑ= − ∂ς
+∂τ
+
+∂r i − ∂φ
+∂r i
+
+∂τ	
+
+∂ f
+∂v i =
+
+( f ' f '1
+
+∫∫
+
+1
+ˆt
+
+∂ς
+
+∂
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+1
+ˆt
+
+∫∫
+
+∫∫
+
+ˆG ˆm
+
+ˆG ˆm
+
+∂
+∂v i
+
+∂
+∂ζi
+
+Φ =
+  
+
+∂φ
+∂ξi
+
+∂
+∂t +
+
+∂ξi −
+
+( f ' f '1
+
+( f ' f '1
+
+1
+ˆt ∝
+
+ˆG ˆm
+ˆr ˆc
+
+ˆc
+ˆr ∝
+
+⎞
+⎠⎟ f =
+
+⎞
+⎠⎟ f =
+
+17	
+
+ˆc
+ˆr ζi ∂
+
+∂t + vi ∂
+
+∂r i − ∂φ
+∂r i
+
+ˆr ϕ		
+− f f1 ) g b db dε	
+− f f1 ) g b db dε	
+
+	
+Φ	est	le	potentiel	gravitationnel.	En	adimensionnel	on	posera		
+On	peut	écrire	l’équation	:		
+Ce	qui	nous	donnera	:		
+Avant	de	nous	préoccuper	du	second	membre,	l’invariance	donnera,	pour	les	trois	termes	
+du	premier	membre	:		
+ˆr ˆc	
+qui	nous	donne	une	autre	relation	de	jauge	:		
+ˆc 2 ∝ ˆr	
+		est	la	longueur	de	jeans	associée	à	une	masse	m.			On	en	déduit	que	dans	ce	
+or		
+processus	de	jauge	la	longueur	de	jauge	varie	comme	la	jauge	d’espace		  ˆt		.	
+On	pourrait	appliquer	ce	traitement	de	la	mise	sous	forme	adimensionnelle	du	second	
+membre	mais	il	ne	nous	apporterait	pas	de	relation	de	jauge	supplémentaire.	Par	contre,	
+prenons	l’équation	de	champ	:		
+c2 Tµν	
+Dimensionnellement	parlant,	le	premier	membre	est	en	
+ˆr 2	(	le	tenseur	de	Ricci	est	
+fabriqué	avec	des	différentielles	du	second	ordre	).	A	droite	le	tenseur	 
+Tµν	est	;	de	la	façon	
+dont	nous	avons	écrit	cette	équation,	conforme	au	choix	du	livre	d’Adler	Schiffer	er	Bazin	
+a	la	dimension	d’une	masse	volumique,	c’est	à	dire	d’un	nombre	de	densité	n	multiplié	par	
+r 3	.	Donc	ce	second	membre	
+une	masse	m.	Mais	la	conservation	des	espèces	fait	que	
+ˆr 3	.	Donc	l’invariance	de	l’équation	de	champ	va	avec	:		
+variera	comme	
+ˆG ∝ ˆc 2			et				   ˆm ∝ ˆr	
+
+2G m
+c 2
+  
+
+R gµν = −
+
+Rµν −
+  
+
+n ∝
+  
+
+ˆG ˆm
+
+8πG
+
+1
+2
+
+ˆm
+
+1
+
+1
+
+  
+
+  
+
+  
+
+−
+
+	
+
+1
+ˆr
+
+1
+ˆr
+
+	
+
+ˆc ∝
+  
+
+ˆG ∝
+  
+
+h2
+2m ( Δ Ψ +U Ψ ) = i h
+2π
+
+   ˆm ˆc 2 = cst	
+	
+
+18	
+	
+Les	équations	de	la	physique	impliquent	la	conservation	de	l’énergie.	Donc	nous	allons	
+écrire	que	nos	relations	de	jauge	font	de	même,	c’est	à	dire	que	:	
+Ce	qui	nous	donne	immédiatement	:		
+et	:		
+Passons	à	l’équation	de	Schrödinger	:	
+Quand	on	passe	toutes	ces	équations	sous	une	forme	adimensionnelles,	les	contraintes	
+sur	les	différents	termes	nous	fournissent	des	relations	de	jauge.	La	dimension	de	
+ˆr 2	.	En	comparant	le	premier	terme	du	premier	membre	et	celui	du	
+l’opérateur	 Δ	est		
+second	membre	il	vient	:		
+ce	qui	nous	donne	finalement		
+Comme	la	fréquence	 ˆν		variera	comme	
+l’énergie	  
+gravitationnelle	
+Nous	pouvons	former	la	longueur	et	le	temps	de	Planck,	et	nous	constatons	que	:		
+Si	nous	formons	la	longueur	et	le	temps	de	Jeans,	nous	constaterons	que	:		
+
+	
+ˆh ∝ ˆt	
+		cela	ira	de	pair	avec	la	conservation	de	
+ˆh ˆν	,	ce	qu’on	aurait	pu	poser	comme	principe.		Même	chose	pour	l’énergie	
+
+c 5 ∝ ˆt	
+
+ˆG ˆm2
+ˆr
+  
+
+	.			
+
+ˆLP =
+  
+
+1
+ˆr 2 ∝
+
+ˆtP =
+  
+
+∂Ψ
+∂t
+
+ˆh 2
+ˆm
+  
+
+c 2 ∝ ˆr																				
+ˆLJ ∝ ˆr													  ˆtJ ∝ ˆt	
+
+ˆh ˆG
+
+ˆh ˆG
+
+1
+ˆt
+  
+
+1
+ˆt
+
+1
+
+  
+
+  
+
+  
+
+ˆh2
+
+ˆh
+ˆm ˆc
+
+ˆλc =
+  
+
+ˆRb ∝
+  
+
+19	
+	
+En	fait,	cette	histoire	est	générale.	Dans	ce	processus	de	jauge	universel	toutes	les	
+longueurs	caractéristiques	varient	comme	la	jauge	d’espace	   ˆr	et	tous	les	temps	
+caractéristiques	varient	comme	la	jauge	de	temps	  ˆt	.		
+	,	par	exemple,	varie	comme	  ˆr		
+La	longueur	de	Compton	
+Il	nous	reste	à	régler	le	cas	des	deux	dernières	«	constantes	»,	à	savoir	la	charge	électrique	
+unitaire	e	et	la	perméabilité	magnétique	du	vide	 µo		.	On	peu	régler	tout	cela	en	quelques	
+lignes	en	écrivant	que	le	rayon	de	Bohr	varie	comme	  ˆr		:				
+ˆme ˆe2 ∝ ˆr	
+Ce	qui	donne	aussitôt	:		
+  ˆe ∝ ˆr	
+Introduisons	la	constante	de	structure	fine	et	exprimons	qu’elle	reste	invariante	par	le	
+processus	de	jauge	:		
+= cst	
+qui	donne	immédiatement	:		
+  ˆεo ∝ cst				et						  ˆµo ∝ ˆr	
+On	peut	vérifier	immédiatement	que	ces	relations	rendent	invariantes	toutes	les	
+équations	de	Maxwell	et	que	par	exemple	la	distance	de	Debye	varie	comme	  ˆr		,	et	que	les	
+sections	efficaces	de	collision	varient	comme  ˆr 2	,	tandis	que	les	libres	parcours	varient	
+comme	  ˆr	et	les	temps	de	libre	parcours	comme	  ˆt	.		
+En	résumé,	nous	pouvons	pondérer	toute	les	grandeurs,	temps,	longueur,	constantes,	
+présentes	dans	les	équations	de	notre	physique	par	les	grandeurs	«	chapeau	»	(autrement	
+dit	envisager	un	processus	de	jauge	généralisé	»)	et	faire	en	suite	que	ces	équations	
+restent	invariantes,	ceci	à	condition	que	ces	grandeurs	restent	liées	par	un	certain	
+nombre	de	relations.	Si	nous	prenons	comme	paramètre	directeur	ces	lois	s’écriront	:		
+t ∝ ˆr 3/2	
+On	obtient	alors	une	vitesse	de	la	lumière	qui	n’est	plus	constante,	mais	décroît	au	fil	de	
+l’expansion	cosmique.		
+	
+
+ˆe2
+ˆh ˆc
+ˆεo
+
+ˆG ∝
+  
+
+α=
+  
+
+µo ∝ ˆr
+
+h∝ ˆr 3/2
+
+e∝ ˆr
+
+m∝ ˆr
+
+1
+ˆr
+
+c∝
+
+1
+ˆr
+
+	
+
+	
+
+Intégration	de	ces	relations	dans	un	modèle	cosmologique	
+
+20	
+	
+Comme	le	notait	si	bien	Steven	Weinberg	dans	son	célèbre	livre	«	Les	trois	premières	
+minutes	»	la	description	de	la	genèse	cosmique	colle	assez	bien	quand	on	se	limite	au	
+premier	centième	de	seconde.	Avant,	ça	devient	problématique.		
+On	sait	aussi	qu’il	y	a	«	le	problème	du	lithium	».	Dans	cette	phase	primitive	l’univers	se	
+comporte	exactement	comme	une	bombe	thermonucléaire.	Le	composant	initial,	
+l’hydrogène,	est	chaud	et	dense.	Donc	la	fusion	produit	de	l’hélium.	Là,	ça	colle.	Mais	il	y	a	
+aussi	production	d’un	autre	élément	léger,	le	lithium.	Et	dans	ce	cas	l’accord	est	moins	
+bon.	Mais	nous	n’entrerons	pas	là-dedans.	Entre	autre	parce	que,	pour	ce	point	précis,	
+nous	n’avons	pas	de	solution	à	préciser.	
+Le	problème	c’est	quand	on	veut	remonter	à	une	période	antérieure	à	ce	premier	
+centième	de	seconde.	Alors	on	lit	des	tas	de	discours	sur	ces	époques	antérieures	:		
+10-33	seconde,	10-43	seconde,	l’époque	quantique,	pré-quantique,	etc	….	Il	y	a	même	
+beaucoup	de	gens	qui	entendent	remonter	plus	avant	encore	:		
+
+	
+
+	Quand	on	veut	remonter	dans	ce	passé	on	est	censé	étudier	l’état	de	l’univers	quand	celui-
+ci	aurait	des	densités	et	des	température	encore	plus	élevées.	On	parle	alors	de	
+supersymétrie,	de	Grand	Unification.		
+Les	physiciens	tentent	d’avancer	en	utilisant	leurs	accélérateurs	de	particules.	Mais	ces	
+simulations	d’univers	primitif	sont	elles	valables	?		
+Pas	nécessairement.	Le	paramètre	énergie	est	là,	mais	il	manque	le	paramètre	densité.	
+Donc	le	paramètre	pression.		
+Quand	on	lance	des	protons	les	uns	contre	les	autres	c’est	un	festival	de	quarks.	Dans	les	
+années	soixante	je	crois	on	découvre	que	ces	quarks,	dotés	de	charges	électriques	
+fractionnaires,	ne	supportent	pas	l’état	libre.	On	a	alors	l’impression,	plutôt	que	de	
+progresser	dans	un	démontage	en	règle	de	la	matière,	qui	avait	si	bien	commencé,	de	se	
+heurter	à	quelque	chose.		
+
+21	
+	
+Toujours	est-il	que	ces	expériences	ne	permettent	pas	de	faire	apparaître	les	particules	de	
+la	supersymétrie.	D’où	le	papier	du	physicien	théoricien	Pierre	Salati,	dans	la	revue	Ciel	et	
+Espace		(	JANUS	21	)	qui	émet	un	doute	sur	l’existence	de	telles	particules.	Il	s’interroge	
+sur	ce	désert	qui	semble	peupler	cet	espace	de	temps,	des	origines	à	ce	premier	centième	
+de	seconde.		
+On	peut	aller	plus	loin	et	se	demander	:	ce	passé-là	correspond-t-il	à	une	physique	?		
+On	pourrait	remplir	une	pièce	entière		avec	tout	ce	qui	a	été	écrit	et	publié	et	qui	constitue	
+une	tentative	de	description	de	l’univers	dans	sa	prime	enfance.	La	mécanique	quantique	
+est	mise	abondamment	à	contribution,	alors	que	le	mariage	Gravitation	et	Mécanique	
+Quantique	n’a	jamais	été	consommé.		
+On	a	déjà	présenté,	dans	des	vidéos	précédentes	un	toy	model	qui	se	présente	sous	
+l’aspect	d’un	cube	émoussé	:		
+	
+
+	
+	Il	y	a	huit	«	masses	»	qui	sont	représentées	par	des	huitièmes	de	sphère.	Ces	portions	de	
+surface	sont	séparées	par	des	éléments	euclidiens,	portions	de	plan	ou	quarts	de	cylindre.		
+On	évoque	la	conservation	de	la	masse	en	imposant	que	l’aire	contenue	dans	ces	
+«	triangles	géodésiques	»	soit	constante.	Dans	l’expansion	cosmique,	telle	qu’on	se	la	
+représente,	ce	sont	les	portions	euclidiennes	(le	«	vide	»	ou	«	le	gaz	de	photons	»)	qui	se	
+dilatent.		
+Quand	on	considère	cette	évolution	en	remontant	le	temps,	si	on	conserve	la	masse	vient	
+un	moment	où	les	quarts	de	sphère	deviennent	jointifs	(	stade	2	).	Au	delà	il	n’est	plus	
+possible	d’assurer	la	constance	de	ces	aires.		
+Si	on	assimile	la	dimension	caractéristique	de	ces	masses	m	à	la	longueur	de	Compton	qui	
+leur	est	associée	:		
+
+h
+
+∫
+
+c(t)dt
+
+λC =
+ 
+
+22	
+	
+mc	
+on	se	dit	que	si	on	veut	envisager	une	évolution	où	cette	grandeur	puisse	varier	il	nous	
+faudra	également	tabler	avec	une	variation,	soit	d’une	constante	présente	dans	cette	
+expression,	soit	des	trois	à	la	fois,	de	manière	conjointe.		
+Comment	envisager	ces	variations	?	En	assurant	l’invariance	des	équations	de	la	physique.	
+D’où	ces	lois	de	jauge	précédemment	établies.		
+Dans	ces	conditions	la	vitesse	de	la	lumière	n’est	plus	constante.		
+L’horizon	devient	l’intégrale	:		
+	
+horizon	=	  
+avec	une	vitesse	de	la	lumière	qui	varie	comme	l’inverse	de	la	dimension	caractéristique	a	
+de	l’univers.	Dans	ce	processus	de	jauge		  a ∝ t 2/3		donc	on	obtient	:		
+∝ t 2/3 ∝ a	
+horizon		  ∝ t − 1/3 dt
+linéairement	en	fonction	du	temps	mais	
+L’horizon	cosmologique	ne	croit	plus	
+accompagne	l’expansion	cosmique,	évolue	parallèlement	à	la	croissance	du	facteur	
+d’échelle	 a.	L’homogénéité	de	l’univers	est	alors	assurée	à	toutes	les	époques	et	on	n’a	
+plus	besoin	de	recourir	à	un	champ	d’inflatons.	
+On	notera	que	cette	relation	de	jauge,	en	dehors	du	fait	qu’elle	assure	l’invariance	des	
+équations,	propose	un	processus	qui	conserve	toutes	les	énergies,		en	particulier	celle	des	
+photons.	Comme	le	phénomène	du	redshift	équivaut	à	une	mesure	de	la	perte	d’énergie	
+des	photons	au	fil	de	l’expansion,	dans	cette	phase-là,	ce	redshift	disparaît.		
+Le	processus	de	jauge	conserve	aussi	l’énergie	d’ionisation	de	l’atome	d’hydrogène,	qui	
+correspond	à	ce	qu’on	appelle	la	constante	de	Rydberg	:		
+α2 me c2	
+Où	α	est	cette	fois	la	constante	de	structure	fine.			
+Dans	un	processus	de	«	variations	conjointes	des	constantes	»	cette	grandeur	serait	
+invariante,	de	même	que	l’énergie	cinétique	des	ions	hydrogène	et	des	électrons.	Il	n’y	
+aurait	donc	pas	désionisation.		
+En	fait,	nous	voudrions	le	situer	quand	l’espace	disponible	ne	permet	plus	aux	baryons	
+d’exister.	Ce	qui	fait	que,	postérieurement	à	cette	époque	ces	mêmes	constantes	se	
+comporteraient	comme	des	constantes	absolues.	On	peut	les	exprimer	en	fonction	de	
+différents	paramètres.		Ci-après	l’allure	(schématique)	de	cette	évolution	en	fonction	d’un	
+
+Donc,	 si	 ce	 processus	 a	 lieu,	 	 ce	 ne	 peut	 être	 que	 dans	 une	 époque	 antérieure	 à	 la	
+désionisation.		
+
+me e4
+2 h2 c
+8εo
+
+Ry =
+  
+
+1
+2
+
+∫
+
+=
+
+23	
+	
+rapport	entre	la	densité	et	une	densité	critique	(quand	la	Longueur	de	Compton	se	
+confondrait	avec	la	distance	moyenne	entre	les	particules)	:		
+
+	
+
+Le	temps	dans	ce	processus	de	jauge		
+
+	
+	
+Il	est	toujours	très	hasardeux	de	s’aventurer	dans	ces	limbes	de	l’univers,	en	prétendant	
+décrire	ce	qui	s’y	passe.	Ce	modèle	de	jauge	ne	fait	que	s’opposer	au	modèle	de	l’inflation,	
+en	proposant	une	autre	justification	de	l’homogénéité	de	l’univers	primitif,	du	CMB.		
+On	ne	peut	pas	dire	que	ce	nouveau	schéma,	qui	reçoit	la	faveur	des	théoriciens,	celui	d’un	
+Big	Bounce,	d’un	Grand	Rebond,	suivant	la	collision	de	deux	«	branes	»	soit	plus	crédible	
+que	l’inflation.		
+Comment	introduire	un	temps	qui	soit	mesurable,	au	moins	conceptuellement	?		
+Imaginons	deux	masses	orbitant	autour	d’un	centre	de	gravité	commun,	formant	un	
+système	qui	puisse	perdurer	au	fil	de	l’expansion	cosmique.		
+On	peut	représenter	cette	petite	horloge	élémentaire	par	ce	cercle	rouge	:		
+	
+
+	
+
+24	
+
+	
+Quand	on	franchit	ce	stade	2	le	rayon	de	l’orbite	de	ce	système	devra	accompagner	les	
+variation	du	facteur	d’échelle	a.	Voici	cette	horloge	élémentaire	:		
+
+	
+
+	
+
+Si	on	écrit	que	la	force	de	gravité	qui	lie	ces	deux	masses	est	équilibrée	par	la	force	
+centrifuge	on	trouve	que	la	vitesse	d’orbitation	varie	comme	la	racine	carrée	de	Gm/r	
+Quand	l’horloge	suit	le	processus	de	jauge,	 G	varie	comme	1/r	et	les	masses	comme	 r,	
+donc	le	produit	est	constant.	Ainsi	la	période	d’orbitation	varie	comme	la	puissance	3/2	
+du	rayon	de	l’orbite.	C’est	la	loi	de	Kepler,	intégrée	à	ce	processus	de	jauge.	Comme	le	
+rayon	de	l’orbite	varie	comme	la	puissance	3/2	du	temps,	alors	la	période	de	rotation	
+varie	comme	le	temps	t.		
+Plus	on	remonte	dans	le	passé	et	plus	cette	«	horloge	»	tourne	vite.		
+Si	on	se	hasarde	à	considérer	le	nombre	de	tours	qu’elle	fait	sur	elle-même	comme	une	
+mesure	du	temps	et	qu’on	envisage	d’évaluer	le	nombre	de	tours	effectués	depuis	
+«	l’instant	zéro	»	on	obtient	l’intégrale	:		
+	égale	…	l’infini.	
+nombre	de	tours	
+La	version	cosmologique	du	paradoxe	de	Zénon,	déjà	évoquée	dans	une	autre	vidéo.		
+
+dτ
+t∫
+τ0
+
+∝
+  
+
+Du	grain	à	moudre	pour	des	philosophes	
+
+

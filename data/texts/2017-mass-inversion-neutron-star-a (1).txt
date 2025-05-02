@@ -1,0 +1,791 @@
+	
+
+1	
+
+	
+J.P.	Petit	
+FIRST	PART		
+
+Mass	inversion	in	a	critical	neutron	star:	
+An	alternative	to	the	black	hole	model.		
+
+_______________________________________________________________________________________	
+Keywords:	Black	hole,	Einstein	field	equations,	Schwarzschild	metric.	
+_______________________________________________________________________________________	
+Abstract:	In	this	first	part,	we	present	a	documented	historical	background	
+about	the	Schwarzschild	solution	to	the	field	equations	of	general	relativity,	
+as	originally	considered	by	Karl	Schwarzschild,	as	well	as	Johannes	Droste,	
+Hermann	Weyl	and	Albert	Einstein,	in	its	linearized	form.	We	also	detail	how	
+David	Hilbert	assumed	this	question,	with	a	pure	imaginary	time.	Finally,	we	
+discuss	extensions	of	the	solution	through	analytic	continuation	and	their	
+geometry	implications.		
+_______________________________________________________________________________________	
+Introduction	
+The	black	hole	model	remains	a	belief	within	the	scientific	community.	
+It	is	true	that	in	the	recent	history	of	science,	the	existence	of	many	objects	
+and	phenomena	has	been	conjectured	long	before	they	have	been	effectively	
+observed.	Yet	many	of	them	had	a	lot	to	stir	up	skepticism.	An	example	was	
+antimatter,	imagined	by	Sir	Arthur	Schuster	in	1898,	theorized	by	Paul	Dirac	
+in	1928,	before	the	first	observation	of	positrons	in	1932.	Later,	the	
+phenomenon	described	in	1935	by	Einstein,	Podolsky	and	Rosen,	named	the	
+EPR	paradox,	was	demonstrated	decades	after	its	authors	presented	it	as	a	
+denunciation	of	the	infallibility	of	quantum	mechanics.	
+Swiss-American	astrophysicist	Fritz	Zwicky	described	how	massive	stars	
+could	violently	end	as	supernovæ,	in	a	memorable	Caltech	lecture	course	in	
+1931.	According	to	him,	such	a	star	running	out	of	fusion	fuel	would	end	in	a	
+violent	gravitational	collapse	at	an	incredible	high	speed,	converting	its	
+potential	energy	into	kinetic	energy.	This	outburst	of	a	very	large	quantity	of	
+mass	would	compress	the	internal	iron	core	into	a	totally	new	object:	a	
+neutron	star.	
+
+	
+2	
+This	model	is	at	first	greeted	with	general	skepticism,	and	very	few	scientists	
+agree	with	such	a	singular	idea.	But	after	tremendous	efforts,	Zwicky	
+managed	to	gradually	demonstrate	the	phenomenon.	
+Nowadays,	no	one	would	venture	to	question	the	existence	of	antimatter,	or	
+quantum	entanglement	involved	in	the	EPR	paradox,	or	supernovae.	As	for	
+astronomical	phenomena,	the	situation	is	very	simple.	The	cosmos	is	vast.	If	
+the	supernova	phenomenon	statistically	occurs	in	our	galaxy	at	a	rate	of	only	
+one	per	century,	the	extension	to	all	observable	galaxies	brings	their	number	
+to	tens	of	thousands.		
+Related	to	supernovæ	was	the	question	of	the	existence	of	neutron	stars.	The	
+first	ones	were	discovered	in	1967	as	pulsars	(highly	magnetized	rotating	
+neutron	stars	acting	as	pulsed	radiation	sources).	The	relation	with	
+supernovæ	was	soon	established,	one	of	these	pulsars	being	located	in	the	
+middle	of	the	Crab	Nebula,	remnant	of	a	supernova	whose	visible	explosion	
+in	1054	is	testified	by	Chinese	records.	Today,	their	number	has	reached	
+hundreds	of	samples,	in	every	corner	of	the	galaxy,	including	near	distances.	
+No	reasonable	scientist	would	now	doubt	of	their	very	existence.	
+But	this	is	not	the	same	at	all	about	stellar	black	holes,	whose	existence	is	
+practically	inferred	by	just	one	observation:	the	Cygnus	X-1	binary	system,	
+whose	distance	from	us	is	evaluated	at	6,000	light-years.	This	rarity	is	very	
+abnormal.	At	such	a	large	distance,	its	estimated	mass	(about	eight	solar	
+masses)	could	result	from	cumulative	observational	errors.	
+This	very	anomalous	situation	gives	this	hypothetical	object	the	nature	of	a	
+belief,	in	conflict	with	the	scientific	method.	
+As	for	supermassive	black	holes,	all	that	can	be	said	for	the	moment	is	that	
+these	are	very	important	concentrations	of	matter	(hundreds	of	thousands	
+to	billions	of	solar	masses)	located	in	the	center	of	galaxies.	They	have	a	very	
+large	mass,	but	not	a	very	high	density;	the	one	located	in	the	center	of	Milky	
+Way	can	be	represented	by	a	sphere	half	the	solar	system	in	diameter,	filled	
+with	matter	having	the	same	density	as	water.	In	any	event	they	are	new	
+objects,	which	could	be	the	remainder	of	quasar	phenomena,	but	their	
+signature	does	not	allow,	in	its	current	state,	to	name	them	black	holes.	
+It	is	therefore	perfectly	licit	today	to	question	the	black	hole	model,	while	
+proposing	an	alternative	scenario	to	the	fate	of	a	critical	neutron	star.	Indeed,	
+in	X-ray	binaries	for	example,	a	stable	neutron	star	(the	accretor)	can	capture	
+material	from	a	companion	star	(the	donor)	and	thus	becomes	at	some	point	
+destabilized.	To	refuse	such	a	study	would	be	unscientific	and	would	be	
+tantamount	to	the	defense	of	a	dogma.	
+
+	
+3	
+Prelude	to	the	birth	of	the	black	hole	model	
+Before	literally	getting	to	the	heart	of	the	matter,	it	is	necessary	to	situate	the	
+context	in	which	Schwarzschild	first	produced	a	nonlinear,	exact	solution	of	
+Einstein's	field	equation	in	1916.	In	public's	imagination,	Einstein	got	a	
+superhero	origin	story	by	the	media.	Actually,	thanks	to	his	remarkable	
+ability	to	assimilate	both	the	mathematics	of	his	time	and	the	palette	of	
+physical	phenomena,	he	was	able	to	produce	an	impressive	succession	of	
+results,	including	in	1905	the	discovery	of	the	law	of	the	photoelectric	effect.	
+But	at	that	time	a	number	of	German	and	Dutch	scientists	followed	this	path	
+carefully,	and	were	immediately	able	to	understand	and	interpret	any	
+progress	made.	Schwarzschild	was	one	of	them.	
+In	1915,	we	find	first	important	texts	resulting	from	the	collaboration-
+competition	between	Einstein	and	the	great	mathematician	Hilbert.	In	
+November	1915,	Einstein	presented	a	finalized	version	of	his	theory	of	
+general	relativity	in	a	series	of	four	papers	at	the	Royal	Prussian	Academy	of	
+Sciences	in	Berlin	[1]	[2]	[3]	[4].	At	first,	his	field	equation	is	not	divergence-
+free,	but	he	has	the	intuition	that	for	distances	small	enough	and	for	
+moderate	velocities	(which	corresponds	to	the	Newtonian	approximation)	
+his	equation	should	give	the	corresponding	equations	of	fluid	mechanics,	
+namely	the	Euler	conservation	equations.	He	modifies	his	field	equation	to	
+make	it	divergence-free	in	[4],	whose	original	title	is:	
+	
+
+Fig.	1	–	Einstein's	original	paper,	November	25,	1915	
+
+"The	Field	Equations	of	Gravitation."	
+
+	
+
+			
+
+	
+And	here	is	the	corresponding	field	equation:	
+
+Fig.	2	–	The	field	equation	finalized	by	Einstein,	25	November	1915.	
+
+In	the	left	hand-side	of	his	equation	(6):	the	Ricci	tensor.		
+The	following	is	the	English	translation	[4]	from	1997:		
+
+The	field	equation	with	zero-divergence	after	the	modification	of	November	25,	1915.	
+
+Fig.	3	–	Translation	of	Einstein's	founding	paper.		
+
+4	
+
+		
+
+	
+
+	
+5	
+Einstein	is	obviously	interested	in	phenomena	Newtonian	mechanics	cannot	
+explain.	On	November	18,	1915,	he	publishes	a	linearized	solution	of	the	field	
+equation	without	a	second	member,	resulting	of	a	null	Ricci	tensor.	[3]	
+
+Fig.	4	–	Einstein	explains	the	perihelion	motion	of	Mercury	on	November	18,	1915.	
+	In	this	solution,	Einstein	chooses	to	give	the	value	-1	to	the	determinant	of	
+his	metric	solution,	a	hypothesis	Schwarzschild	will	take	again.		
+
+Fig.	5	–Field	equation	with	no	right	hand-side,	and	determinant	-1.	
+
+	
+
+	
+
+	
+6	
+It	is	worth	mentioning,	and	this	will	be	of	great	importance	later	on,	that	
+Einstein	opts	for	a	metric	signature	with	a	time	variable	(as	well	as	a	proper	
+time)	having	real	values:	
+
+Fig.	6	–	Einstein's	choice	of	a	metric	signature	(	+	–	–	–	).	
+
+	The	solution	of	his	field	equation	is	a	four-dimensional	hypersurface.	It	is	
+clear	that	his	choice	of	variable	is	within	  !4	and	the	element	of	length	ds	is	
+real.	
+In	the	following	excerpt,	he	gives	an	approximate	expression	of	the	metric	
+g44,	introducing	a	quantity	α,	a	Greek	letter	that	Schwarzschild	
+potential	  
+also	choses	to	designate	the	constant	of	integration	of	his	nonlinear	solution	
+in	January	1916.	
+
+Fig.	7	–	Einstein's	approximation,	linearized	solution	of	his	field	equation.	
+
+	
+
+	
+
+	
+7	
+Letters	  x1 , x2 , x3	denote	real	space	coordinates	from	which	he	designates	as	
+polar	coordinate	   x1
+Using	polar	coordinates,	he	finds	the	Newtonian	area	law:		
+
+2 + x2
+
+2 + x3
+
+	
+
+2
+
+Fig.	8	–	Einstein:	area	law	(Kepler's	second	law	of	planetary	motion).	
+
+Going	from	the	variable	 r	to	its	inverse	1/r,	he	expresses	the	form	of	the	
+geodesic	solution:		
+
+	
+
+Fig.	9	–	Quasi	Newtonian	solution.	
+To	stick	with	the	chronology,	we	have	to	mention	the	communication	
+presented	by	the	great	mathematician	Hilbert	at	the	Göttingen	Academy	of	
+Sciences,	in	the	session	of	November	20,	1915.	[5]		
+He	gradually	got	involved	about	a	possible	mathematization	of	physics	
+through	a	variational	approach.	The	same	month	as	Einstein's	presentation	
+of	his	finalized	version	of	general	relativity,	Hilbert	presented	a	first	paper	
+entitled	"The	Foundations	of	Physics",	extremely	ambitious.	At	that	time,	
+
+	
+
+	
+
+	
+8	
+physics	boils	down	to	two	sets:	gravitation	and	electromagnetism.	Everyone	
+thinks	that	the	one	who	would	succeed	uniting	these	two	worlds	(in	what	
+will	later	be	called	a	"unified	field	theory")	will	master	all	the	physics	of	his	
+time.	This	is	the	meaning	of	Hilbert's	paper.	
+Such	a	work	will	be	pursued	by	Einstein,	who	will	also	fail	in	this	venture.	We	
+know	today	that	in	order	to	combine	gravitation	and	electromagnetism	
+together,	four	dimensions	are	not	enough.	To	begin	with,	a	fifth	dimension	
+would	be	mandatory:	Kaluza's	fifth	dimension.		
+But	very	quickly,	Hilbert	did	not	feel	satisfied	with	his	article	and	decided	to	
+withdraw	it	to	make	changes.1	As	will	be	seen	later,	he	will	present	a	second	
+communication	in	December	1916	[6]	and	it	is	this	version,	very	similar	to	
+the	first	one,	that	we	will	comment	on.	
+At	that	time	of	war,	Karl	Schwarzschild,	43	years	old	and	already	the	father	
+of	three	children,	joined	with	the	rank	of	lieutenant,	by	patriotism,	to	fight	on	
+the	Russian	front.	He	is	already	an	astronomer	and	a	confirmed	mathema-
+tician.	Taking	note	of	Einstein's	paper,	he	publishes	in	January	and	February	
+1916,	not	one	article,	but	two,	in	which	he	presents	his	nonlinear	exact	
+solution	of	the	field	equation.	[7]	[8]	Here	is	the	title	of	the	first	paper:		
+
+Fig.	10	–	First	Schwarzschild's	paper	on	January	13,	1916	
+
+"On	the	gravitational	field	of	a	mass	point	according	to	Einstein's	theory."	
+
+																																																								
+1	Although	Hilbert's	first	communication	was	presented	during	the	session	of	November	20,	1915,	Hilbert	
+will	prevent	its	publication	for	months	in	order	to	make	modifications.	In	particular,	he	will	change	the	field	
+equation	a	posteriori	to	use	the	divergenceless	version	presented	by	Einstein	on	November	25.	The	final	
+version	of	his	paper	will	be	published	in	1916,	keeping	the	date	of	November	20,	1915.	Hilbert	did	not	
+"invent	the	field	equation"	five	days	before	Einstein	as	one	can	sometimes	naively	hear	it.	
+
+	
+
+	
+He	quickly	situates	his	solution	by	setting	coordinates:		
+
+Fig.	11	–	Schwarzschild	defines	his	coordinates.	
+
+"One	 calls	 t	 the	 time	 and	 x,	 y,	 z	 the	 rectangular	 coordinates".	These	
+coordinates	are	real.	If	he	had	opted	for	coordinates	that	could	take	on	
+it.	 So	 he	 chooses	 a	
+imaginary	 values,	 he	 would	 have	 mentioned	
+representation	in	  !3.	Then	he	goes	to	a	polar	coordinate	system,	writing	
+  x =r sinθcosϕ,	  y =r sinθsinϕ,	  z =r cosθ		with		
+x 2 + y2 + z 2		
+																																																													  r =
+which	implies	   r ≥ 0,	at	least	for	the	choice	of	a	representation	where	
+variables	(	x	,	y	,	z	)	belong	to	 !.	At	this	point,	it	should	be	noted	that	r	is	not	
+a	radial	distance,	but	a	simple	space	marker,	a	simple	number.	Schwarzschild	
+then	introduces	what	he	calls	an	"auxiliary	quantity"	(Hilfsgröße):		
+
+Fig.	12	–	The	solution	expressed	with	auxiliary	quantity	R.	
+
+9	
+
+	
+
+	
+
+	
+10	
+In	so	doing,	he	calls	his	constant	of	integration	 α	in	order	to	tally	with	
+Einstein's	1915	paper	[3].	Using	this	set	of	variables	   
+}	he	
+calculates	the	geodesics.	Like	Einstein,	he	notes	that	these	geodesics	are	part	
+of	planes	and	he	chooses,	like	him,	the	plane	θ	=	π/2.	It	is	again	with	this	
+auxiliary	quantity	R	that	he	expresses	the	area	law:	
+	
+
+t , R ,θ,ϕ
+
+{
+
+	
+
+Fig.	13	–	Schwarzschild	calculates	the	geodesics	Φ(R):	eq.	(18)	
+
+	The	same	applies	to	equation	(18)	for	the	expression	of	the	solution	in	the	
+form	of	an	integral	based	on	the	variable	x	=	1/r	(and	not	on	the	variable	r)	
+as	in	Einstein's	paper.	It	is	clear	that	he	orientates	the	expression	of	his	
+solution	to	stick	closely	to	the	Einstein's	result.	
+	
+
+	
+11	
+But	this	detail	is	quite	secondary	to	him,	inasmuch	as	the	conditions	of	
+planetary	astronomy	makes	the	two	quantities	practically	equal,	which	he	
+notes	a	little	further	on	(Es	ist	also	praktisch	R	mit	r	identisch):		
+	
+
+	
+
+"Therefore r is virtually identical to R" 
+
+Fig.	14	–	Schwarzschild's	solution	meets	Einstein's.	
+
+	Translation	of	the	underlined	passage:		
+	After	Schwarzschild's	death,	his	work	was	first	presented	to	the	community	
+of	mathematicians	by	Frank	[9]	then	quickly	taken	up	by	Droste	[10],	Weyl	
+[11]	and	of	course,	Hilbert	[6].		
+It	is	the	media,	mostly	American,	that	will	fashion	Einstein's	image	as	an	
+isolated	genius,	author	of	a	theory	that	a	tiny	number	of	people	would	have	
+been	able	to	understand.	This	does	not	in	any	way	reduce	Einstein's	merits,	
+but	he	was	in	fact	at	the	forefront	of	physics,	in	which	a	relatively	large	
+number	of	researchers,	mainly	German-speaking,	were	already	involved.	
+Among	them,	Schwarzschild.		
+
+	
+12	
+Scientific	articles	were	then	published	in	German,	and	at	that	time	accessing	
+such	work	is	done	by	reading	"offprints",	sample	copies	on	paper,	which	are	
+transmitted	by	postal	services.	Subsequently,	the	same	papers	are	made	
+available,	grouped	in	books,	but	still	in	German.	It	was	only	in	the	1970s,	
+more	than	half	a	century	later,	that	this	documentation	was	translated	in	
+English,	and	later	on	made	available	as	PDF	files.	The	modern	distribution	of	
+these	files	through	the	Internet	is	something	very	recent.	Only	a	few	decades	
+ago,	in	order	to	distribute	simple	copies	of	articles,	researchers	had	to	type	
+their	works	on	tracing	papers,	then	use	them	to	expose	a	UV-sensitive	yellow	
+sheet.	And	finally,	embedding	the	copies	within	ammonia	vapors	to	reveal	
+the	content.	I	personally	experienced	this	technique	in	the	1960s.	The	
+scanner,	an	essential	part	of	photocopiers,	will	only	be	put	on	the	market	in	
+the	late	1960s.		
+All	this	to	tell	the	works	of	Einstein	and	Schwarzschild	have	spread	to	the	
+scientific	community	in	the	form	of	commentaries,	not	in	their	original	form.	
+However,	one	should	note	that	Droste	[10]	and	Weyl	[11]	chose	the	element	
+of	length	as	always	positive,	associated	with	a	metric	signature	(+	-	-	-):		
+
+	
+
+	
+
+Fig.	15	–	Excerpt	of	Weyl's	1917	paper.	
+
+	
+13	
+Still	in	Weyl's	paper,	we	find	such	a	signature	and	the	mention	of	a	real	and	
+essentially	positive	polar	coordinate	r.		
+
+Fig.	16	–	In	Weyl	(1917):	the	polar	coordinate	and	the	signature.	
+
+	Similar	mention	with	Droste,	in	his	paper	communicated	in	English	by	
+Hendrik	Lorentz	sixteen	days	after	the	death	of	Schwarzschild,	but	published	
+only	the	following	year.	[10]	
+
+	
+
+Fig.	17	–	Droste	specifies	on	May	27,	1916	the	signature	he	chooses.	
+
+	
+14	
+It	does	not	seem	to	come	to	anyone's	mind	to	extend	this	solution	for	 r <α	
+which	would	imply	a	modification	of	the	signature	of	the	metric.	
+It	is	then	that	Hilbert	presents	the	second	communication	of	his	long	article	
+"The	Foundations	of	Physics":		
+
+Fig.	18	–	Hilbert's	second	communication,	December	23,	1916.	
+
+	In	this	sequel	to	his	first	communication	presented	the	year	before,	he	takes	
+his	work	over	and	includes	the	Schwarzschild	solution	published	in	January.	
+Hilbert	knows	that	he	died.	Einstein	delivered	a	memorial	lecture	on	Karl	
+Schwarzschild	[12]	on	June	29,	1916	at	the	opening	meeting	of	the	Royal	
+Prussian	Academy	of	Sciences,	Berlin.	But	Hilbert	does	not	seem	to	focus	
+much	on	this	result,	which	appears	to	him	as	a	detail	in	the	vast	scientific	
+saga	he	intends	to	carry	out	on	both	gravitation	and	electromagnetism.	Let's	
+see	his	mention	of	Schwarzschild's	solution.		
+In	his	paper,	Hilbert	mentions	a	central	symmetry	(zentrischsymmetrisch):	
+
+Fig.	19	–	Hilbert's	hypothesis	of	a	central	symmetry.	
+
+	
+15	
+He	then	introduces	polar	coordinates	and	designates	a	fourth	variable	by	the	
+letter	l:	
+	
+
+	
+
+Fig.	20	–	Hilbert	opts	for	polar	coordinates.	
+
+	
+There	are	several	things	to	note	in	this	excerpt	of	fig.	20.	We	can	read	in	the	
+underlined	passage	of	hypothesis	#3:		
+We	find	again	the	theme	of	a	solution	with	a	central	symmetry,	and	not	a	
+spherical	symmetry.	
+In	equation	(42)	he	presents	the	bilinear	form	of	his	metric,	and	then	
+	where	this	variable	 r*	quickly	
+introduces	the	hypothesis	   r * = G(r)
+transforms	into	r.	The	translation	is:	
+
+"The  gravitation  is  centrally  symmetric  with  respect  to  the 
+origin of coordinates." 
+
+"If we introduce r* in (42) instead of r and then eliminate the 
+sign *, the result is the expression (43)." 
+
+	
+16	
+This	hypothesis	will	then	totally	guide	his	solution.	Incidentally,	Hilbert	
+indicates	the	nature	of	his	temporal	coordinate	l:		
+	
+
+	
+
+"then for l = i t (43) results in the desired metric in the form first 
+found by Schwarzschild." 
+
+Fig.	21	–	Hilbert's	pure	imaginary	time	and	his	formulation	of	the	solution.	
+	For	Hilbert,	spacetime	is	a	fiber	bundle,	built	from	a	real	space	(	x	,	y	,	z	)	but	
+the	fiber,	i.e.	the	fourth	coordinate	l,	is	purely	imaginary.		
+Regarding	Schwarzschild's	solution,	this	passage	is	absolutely	crucial	and	
+will	guide	a	century	of	scientific	work.	Hilbert	makes	a	confusion	when	he	
+writes:		
+If	his	solution	is	completed	(45)	it	should	be	written:		
++ r 2dϑ2 + r 2sin2ϑdϕ2	
+whereas	the	real	Schwarzschild	solution	is:		
+R 3= (r 3+α3 )1/3	
+The	difference	is	obvious.	Hilbert	confused	his	coordinate	r	with	the	auxiliary	
+variable	R	introduced	by	Schwarzschild.	He	also	chooses	a	reverse	signature.		
+In	the	rest	of	the	paper,	Hilbert	comes	back	to	this	choice	of	variable	in	a	
+footnote,	considering	it	merely	pointless.	He	sees	it	only	as	a	wish	to	reject	
+the	singularity	back	to	the	origin.	
+
+ds2 = − (1−α
+r
+  
+
+ds2 = (1−α
+R
+  
+
+− R 2dϑ2 − R 2sin2ϑdϕ2
+
+dr 2
+1−α
+r
+
+dR2
+1−α
+R
+
+) dt 2 +
+
+) dt 2 −
+
+	
+
+17	
+
+	
+
+	
+
+does, is not to be recommended in my opinion; 
+Schwarzschild’s transformation is moreover not the simplest 
+that achieves this goal." 
+
+Fig.	22	–	The	footnote	in	Hilbert's	paper	mentioning	Schwarzschild's	work.	
+Translation:		
+"To transform the locations to the origin, as Schwarzschild 
+	Hilbert	considers	that	what	happens	at	this	Schwarzschild	sphere	is	a	true	
+singularity,	whereas	it	will	be	classically	shown	afterward	that	it	is	only	a	
+coordinate	singularity,	that	can	be	cancelled	out	with	an	appropriate	change	
+of	variable.		
+	
+Geometry	signification	
+The	solution	to	Einstein's	equation	is	a	four-dimensional	hypersurface.	
+Einstein,	Schwarzschild,	Frank,	Droste,	and	Weyl	relied	on	the	idea	that	the	
+element	of	length	s,	hence	the	proper	time,	the	only	thing	independent	of	the	
+choice	of	coordinates	on	this	hypersurface,	is	a	real	quantity.		
+Let's	go	back	to	Schwarzschild's	1916	solution.	Schwarzschild	does	not	make	
+it	explicit,	simply	because	he	does	not	see	the	point	in	it.	He	merely	wants	to	
+show	the	same	result	as	Einstein's	explanation	of	the	precession	of	the	
+perihelion	of	Mercury.	No	one	at	this	time	thinks	astronomical	objects	
+requiring	a	nonlinear	treatment	of	the	problem	could	really	exist.	His	
+quantity	α	is	nothing	but	what	will	later	be	called	the	Schwarzschild	radius	Rs.	
+He	immediately	notices	that	for	the	Sun,	it	is	equivalent	to	one	hundred	
+thousandth	of	its	diameter.	As	it	happens,	in	his	second	paper	publish	in	
+February	1916	[8]	which	we	will	come	back	to,	he	built	a	geometry	within	a	
+sphere	filled	with	a	fluid	of	constant	density,	a	non-singular	solution,	so	he	
+
+	
+
+	
+18	
+does	not	find	relevant	to	deal	in	his	first	"exterior	solution"	paper	with	a	
+region	of	space	that	is	related	to	the	"interior	solution".	
+In	2011,	Christian	Corda	[13]	makes	this	solution	explicit:	
+	
+Keep	in	mind	that	such	a	metric	can	be	expressed	in	any	arbitrary	coordinate	
+system.	These	coordinates	are	then	merely	numbers,	space	markers.	The	only	
+size	having	an	intrinsic	property	is	the	length	s.	Then,	all	boils	down	to	the	
+choice	for	this	length.	
+If	we	decide	that	this	length	s	is	real,	then	such	an	expression	designates	a	
+4D	hypersurface.	The	choice	of	angles	 θ	and	 φ	implies	a	solution	with	a	
+spherical	symmetry	(instead	of	a	central	one).	Helical	geodesics	exist	on	this	
+hypersurface,	that	can	be	expressed	giving	a	fixed	value	to	θ,	and	fixing	the	
+coordinate	r.	The	variables	t	and	φ	linearly	depend	on	the	parameter	s.	Thus,	
+they	are	both	related	by	a	linear	function.	Spatial	projection	of	such	geodesic	
+can	be	calculated:	they	simply	become	circles.	
+It	is	therefore	possible	to	travel	along	this	hypersurface,	drawing	parallel	
+circles.	If	their	perimeter	can	reach	+∞	it	is	however	limited	to	less	than	2πα.	
+If	the	value	of	the	angle	q is	varied	then	this	family	of	parallel	circles	
+generates	a	family	of	parallel	spheres.	Let	us	note	that	we	deliberately	use	
+the	word	"parallel"	and	not	"concentric"	because	the	Schwarzschild	solution	
+has	a	spherical	symmetry	and	not,	as	written	by	Hilbert,	a	central	one.	
+As	we	skim	through	this	series	of	parallel	spheres,	by	reducing	their	area,	at	
+some	point	a	minimal	value	is	reached	(if	we	decide	that	the	hypersurface	is	
+real).	This	situation	is	met:	
+• Either	for	the	value	 R	=	 α	in	the	case	of	what	we	call	"Hilbert's	
+representation"	   ( t , R ,θ,ϕ)	(introducing	the	auxiliary	quantity	 R	
+according	to	Schwarzschild).	
+• Or	for	the	value	r	=	0	in	Schwarzschild's	representation	  ( t , R ,θ,ϕ).	
+This	hypersurface	is	thus	uncontractible.	How	to	interpret	it?		
+One	can	of	course	decide	it	is	a	manifold	with	boundary.	A	boundary,	
+incidentally,	along	which	the	determinant	of	the	metric	is	zero	in	
+Schwarzschild's	representation.	This	will	be	discussed	in	the	second	part	of	
+this	article.	But	in	the	1960s,	other	paths	were	considered.		
+
+	
+
+Extensions	of	the	solution	and	their	meaning	
+
+	
+19	
+Decades	after	the	emergence	of	the	Schwarzschild	solution,	it	is	known	only	
+through	subsequent	comments	published	afterward.	I	was	very	surprised	at	
+a	recent	international	conference	on	black	holes2	held	in	Frankfurt	
+(Schwarzschild's	birthplace),	specifically	entitled	"The	Karl	Schwarzschild	
+Meeting",	that	no	attendee,	including	German	natives,	had	never	read	the	
+founding	papers	I	have	just	mentioned,	as	if	the	origin	of	the	model	were	lost	
+in	the	mists	of	the	past.	In	his	masterly	lecture	in	front	of	all	the	delegates,	
+Juan	Maldacena	said:3	
+
+Why	do	astrophysicists	refer	to	the	Schwarzschild	solution?	
+
+—		The	Schwarzschild	solution	has	confused	us	over	a	hundred	years	and	it	has	
+forced	us	to	sharpen	our	views	on	space	and	time.	It	has	led	to	a	sharper	
+understanding	of	Einstein’s	theory.	Experimentally,	it	is	explaining	several	
+astrophysical	 observations.	 Its	 quantum	 aspects	 have	 been	 a	 source	 of	
+theoretical	paradoxes	that	are	forcing	us	to	understand	better	the	relation	
+between	spacetime,	geometry	and	quantum	mechanics.	
+
+	This	text	suggests	that	the	immediate	understanding	of	the	Schwarzschild	
+solution	remained	limited	for	a	while,	but	thanks	to	further	studies,	a	century	
+of	work	made	it	possible	to	improve	this	reading	by	introducing	an	extended	
+view	of	spacetime.		
+	
+As	will	be	discussed	in	the	second	part	of	this	article,	Schwarzschild	had	
+completed	in	February	1916	his	first	"exterior	solution"	[7]	with	a	second	
+"interior	solution"	[8]	related	to	the	geometry	within	a	sphere	filled	by	a	fluid	
+of	constant	density.	At	this	point,	the	geometry	describing	a	star	immersed	
+in	a	vacuum	was	completely	achieved.		
+But	progress	in	observations	would	reveal	a	new	problem.	In	our	galaxy,	half	
+of	the	stellar	systems	are	multiple	star	systems.	So	there	should	exist	a	quite	
+large	number	of	binaries	where	one	of	the	two	stars	became	a	subcritical	
+neutron	star,	that	could	still	be	described	with	the	two	exterior	and	interior	
+Schwarzschild	metrics.	Its	companion	star	is	then	called	the	 donor,	as	it	
+																																																								
+2	3rd	Karl	Schwarzschild	Meeting	on	Gravitational	Physics	and	the	Gauge/Gravity	
+Correspondence	(KSM	2017),	24–28	July	2017,	FIAS,	Frankfurt	am	Main,	Germany.	
+3	https://indico.fias.uni-frankfurt.de/event/4/session/17/contribution/39	
+
+gravitational	collapse,	what	happens	when	the	additional	mass	supplied	by	
+the	stellar	wind	of	a	donor	companion	star	triggers	the	geometric	criticality	
+in	the	neutron	star?	
+
+	
+20	
+continues	to	emit	stellar	wind	that	is	gravitationally	captured	by	its	small	
+companion,	named	the	accretor.		
+In	his	first	paper,	evaluating	the	critical	radius	  (α= Rs = 2m)	and	relating	it	to	
+the	mass	responsible	for	this	geometry,	he	had	concluded	that	beyond	a	
+certain	value,	this	"Schwarzschild	radius"	could	exceed	the	star	radius.		
+This	is	the	question	asked	by	observers	to	theoreticians:		
+—  Assuming	 that	 a	 supernova	 only	 left	 a	 subcritical	 neutron	 star	 after	 its	
+A	question	impossible	to	avoid.	Theoreticians	therefore	imagined	that	the	
+exterior	Schwarzschild	solution,	yet	referring	to	a	portion	of	an	empty	space,	
+could	describe	a	new	state	of	matter,	popularized	by	the	name	"black	hole".		
+	
+What	is	the	current	presentation	of	this	Schwarzschild	solution?	Take	for	
+example	the	book	of	Adler,	Bazin	and	Schiffer.	[14]	Page	187,	equations	(6.4)	
+and	(6.5)	the	authors	reiterate	Hilbert's	hypothesis,	writing:	
+ˆr = C(r) r	
+A	few	lines	later,	the	solution	was	again	particularized,	see	equation	(6.9):	
+Quelques	lignes	plus	loin,	la	solution	a	de	nouveau	été	particularisée,	voir	
+l’équation	(6.9):	
+Unless	the	functions	  ν(r)	and	  λ(r)	have	the	possibility	to	be	imaginary,	the	
+impression	is	this	writing	militates	for	a	signature	 ( + − − − ).	In	this	realistic	
+view,	the	metric	refers	to	a	hypersurface	where	the	only	relevant	variable,	
+independent	of	the	choice	of	coordinates,	is	the	quantity	s.	This	is	the	proper	
+time,	lived	by	any	test	particle.	For	a	distant	observer	however,	this	proper	
+time	is	identified	to	the	variable	t.	Thus,	we	conclude	that	the	coordinate	time	
+t	is	the	one	experienced	by	the	distant	observer.	The	following	figure	is	found	
+in	every	book	about	general	relativity.	It	compares	the	free	fall	time	
+measured	either	by	the	clock	tied	to	a	test	particle	falling	towards	the	
+Schwarzschild	sphere,	or	the	one	of	a	distant	observer.		
+
+  ds2 = eν(r )c 2dt 2 − eλ(r )dr 2 − r 2 ( dθ2 + sin 2θdϕ2 )	
+
+  ds2 = Ac 2dt 2 − B dr 2 − C ( dθ2 + sin 2θdϕ2 )
+
+The	proposed	analytic	extensions	
+
+	
+
+21	
+
+takes	place	in	an	infinite	time.		
+
+	
+Fig.	23	–	Fall	toward	the	origin	of	a	Schwarzschild	geometry	
+in	terms	of	coordinate	time	t	and	proper	time	on	the	test	particle	s/c.	
+	Thus,	whatever	the	phenomenon	witnessed	by	the	observer,	it	is	supposed	
+to	unfold	before	his	eyes	during	an	infinite	amount	of	time,	which	allows	the	
+theoretician	to	add:	
+—  I	do	not	feel	bound	to	describe	the	result	of	a	process	which,	to	my	eyes,	
+	In	passing,	the	New	Zealand	mathematician	Roy	Kerr	[15]	extended	this	type	
+of	solution	to	a	"rotating	black	hole"	thanks	to	a	metric	with	a	less	
+constraining	symmetry.	The	surface	that	has	been	called	the	"event	horizon"	
+takes	the	topology	of	a	torus.	But	the	frozen	time,	this	freeze-frame,	is	also	
+present	in	this	model.		
+In	1960,	Joseph	Kruskal	[16]	and	George	Szekeres	[17]	constructed	a	first	
+analytic	extension,	which	Maldacena	described	as	"extending	the	solution	to	
+cover	the	full	spacetime".	
+We	shall	also	cite	Corda,	who	implements	another	analytic	extension	of	the	
+solution.	[13]	
+In	1989,	Canadian	physicist	Leonard	S.	Abrams	published	a	paper	[18]	on	the	
+Schwarzschild	solution	entitled	"Black	Holes:	The	Legacy	of	Hilbert's	Error"	
+pointing	out	the	same	problems	as	those	mentioned	above.	Questions	also	
+taken	up	by	Italian	physicist	Salvatore	Antoci.	[19]	[20]	Those	articles	had	
+practically	no	echo	within	the	scientific	community,	except	for	a	text	
+
+original	Schwarzschild	spacetime	can	be	removed	by	allowing	the	radial	
+coordinate	r	to	go	negative.	
+
+	
+22	
+positioned	in	a	blog 4	by	a	mathematician	and	computer	scientist,	
+W.	D.	Clinger,	presenting	himself	as	a	topology	specialist.	He	resumes	the	
+arguments	of	Abrams,	writing:		
+—  The	paper	is	well-written,	and	its	math	is	almost	(but	not	quite)	correct.		
+A	little	further	on,	his	criticism	gets	stronger:	 "Where	 Abrams	 went	 badly	
+wrong."	He	then	provides	the	correct	way	to	proceed:		
+—  In	reality,	the	"quasiregular	singularity"	at	the	central	point	mass	of	the	
+In	other	words,	it	is	enough	to	consider	the	extension	of	the	solution	for	the	
+x2 + y2 + z2 < 0		i.e.	in	an	imaginary	portion	of	spacetime…	
+values	of	  r =
+For	that	matter	he	quotes	Corda,	who	does	the	same	and	constructs	a	
+description	of	the	gravitational	collapse	of	the	neutron	star	which	ends	at	a	
+negative	value	  r = −α= − Rs < 0.	
+To	the	extent	that	these	authors	grant	themselves	the	freedom	to	extend	
+spacetime	to	an	imaginary	portion,	this	can	no	longer	be	criticized.	On	the	
+other	hand,	these	people	call	"crackpots"	anyone	who	does	not	feel	satisfied	
+with	such	a	formula.		
+	
+In	1916,	Einstein	then	Schwarzschild	developed	solutions	to	the	field	
+equation,	the	first	through	linearization	and	the	second	nonlinearly,	which	
+refer	to	real	values	of	the	coordinates	and	to	a	real	value	of	the	length	s,	
+measured	on	the	four-dimensional	hypersurface	using	the	metric.	This	work	
+is	then	taken	up	by	different	authors,	like	Frank,	Droste,	Weyl,	always	with	
+the	same	perspective.	This	approach	implies	the	constancy	of	an	explicit	
+metric	signature	 ( + − − − ).		
+On	this	panorama	comes	the	interpretation	given	by	the	mathematician	
+David	Hilbert,	who	starts	from	a	different	vision	where	time,	and	proper	time,	
+are	presented	as	pure	imaginary	quantities,	as	opposed	to	real	space	
+coordinates,	which	goes	hand	in	hand	with	a	choice	of	metric	signature	
+ ( − + + + )	and	explains	the	hyperbolic	property	of	this	solution.	
+																																																								
+4	http://www.internationalskeptics.com/forums/showthread.php?t=231833	
+
+Conclusion		
+
+	
+23	
+When	half	a	century	later,	astrophysicists	are	asked	to	provide	a	model	able	
+to	describe	a	destabilized	neutron	star,	they	opt	for	the	solution	found	by	
+Hilbert,	deciding	to	extend	it,	via	analytic	continuation,	to	an	imaginary	
+portion	of	spacetime,	where	the	element	of	length	becomes	purely	imaginary	
+and	where	the	signature	of	the	metric	is	inverted.	The	goal	is	not	to	stop	at	
+the	surface	of	the	Schwarzschild	sphere,	and	to	be	able	to	carry	their	
+investigations	towards	the	"interior	of	the	object".	
+It	all	depends	on	what	is	considered	to	fall	within	the	scope	of	physics	or	not.	
+In	the	second	part	of	this	paper,	we	will	present	a	different	scenario,	in	which	
+all	quantities	remain	real	and,	as	a	corollary,	the	metric	keeps	a	signature	
+ ( + − − − ).	
+
+																				
+
+References	
+
+	
+24	
+	[1]	Einstein,	A.	(4	Nov.	1915).	"Zur	allgemeinen	Relativitätstheorie".	Königlich	Preußische	Akademie	
+der	Wissenschaften	(Berlin).	Sitzungsberichte.	778–786.	
+translated	in	English	as:	
+Engel,	A.;	Schücking,	E.	(1997).	"On	the	General	Theory	of	Relativity".	The	Collected	Papers	of	Albert	
+Einstein	Vol.	6:	The	Berlin	Years:	Writings,	1914-1917	(English	translation	supplement).	Doc.	21,	98–107.	
+UK:	Princeton	University	Press.		
+	[2]	Einstein,	A.	(11	Nov.	1915).	"Zur	allgemeinen	Relativitätstheorie	(Nachtrag)".	Königlich	Preußische	
+Akademie	der	Wissenschaften	(Berlin).	Sitzungsberichte.	799–801.	
+translated	in	English	as:	
+Engel,	A.;	Schücking,	E.	(1997).	"On	the	General	Theory	of	Relativity	(Addendum)".	The	 Collected	
+Papers	of	Albert	Einstein	Vol.	6:	The	Berlin	Years:	Writings,	1914-1917	(English	translation	supplement).	
+Doc.	22,	108–110.	UK:	Princeton	University	Press.	
+	[3]	Einstein,	A.	(18	Nov.	1915).	"Erklärung	der	Perihelbewegung	des	Merkur	aus	der	allgemeinen	
+Relativitätstheorie".	Königlich	 Preußische	 Akademie	 der	 Wissenschaften	 (Berlin).	Sitzungsberichte.	
+831–839.	
+translated	in	English	as:	
+Engel,	A.;	Schücking,	E.	(1997).	"Explanation	of	the	Perihelion	Motion	of	Mercury	from	the	General	
+Theory	of	Relativity".	The	Collected	Papers	of	Albert	Einstein	Vol.	6:	The	Berlin	Years:	Writings,	1914-
+1917	(English	translation	supplement).	Doc.	24,	112–116.	UK:	Princeton	University	Press.	
+	[4]	Einstein,	A.	(25	Nov.	1915).	"Die	Feldgleichungen	der	Gravitation".	Königlich	Preußische	Akademie	
+der	Wissenschaften	(Berlin).	Sitzungsberichte.	844–847.	
+translated	in	English	as:	
+Engel,	A.;	Schücking,	E.	(1997).	"The	Field	Equations	of	Gravitation".	The	 Collected	 Papers	 of	 Albert	
+Einstein	Vol.	6:	The	Berlin	Years:	Writings,	1914-1917	(English	translation	supplement).	Doc.	25,	117–
+120.	UK:	Princeton	University	Press.	
+	[5]	Hilbert,	D.	(1916).	"Die	Grundlagen	der	Physik	(Erste	Mitteilung)".	Nachrichten	von	der	Gesellschaft	
+der	Wissenschaften	zu	Göttingen,	Math.-Phys.	Kl.	(8):	295–407.	Presented	in	the	session	of	20	November	
+1915.	
+Renn,	J.	(2007).	"The	Foundations	of	Physics	(First	Communication)".	The	Genesis	of	General	
+Relativity,	Vol.4:	Gravitation	in	the	Twilight	of	Classical	Physics:	The	Promise	of	Mathematics.	Springer.	
+1003–1015.	doi:10.1007/978-1-4020-4000-9_44.	
+[6]	Hilbert,	D.	(23	Dec.	1916).	"Die	Grundlagen	der	Physik	(Zweite	Mitteilung)".	Nachrichten	von	der	
+Gesellschaft	der	Wissenschaften	zu	Göttingen,	Math.-Phys.	Kl.	53–76.	
+translated	in	English	as:	
+Renn,	J.	(2007).	"The	Foundations	of	Physics	(Second	Communication)".	The	Genesis	of	General	
+Relativity,	Vol.4:	Gravitation	in	the	Twilight	of	Classical	Physics:	The	Promise	of	Mathematics.	Springer.	
+1017–1038.	doi:10.1007/978-1-4020-4000-9_45.	
+[7]	Schwarzschild,	K.	(13	Jan.	1916).	"Über	das	Gravitational	eines	Massenpunktes	nach	der	
+Einsteinschen	Theorie".	Königlich	Preußische	Akademie	der	Wissenschaften	(Berlin).	Sitzungsberichte.	
+189–196.	
+translated	in	English	as:	
+Antoci,	S.;	Loinger,	A.	(12	May	1999).	"On	the	gravitational	field	of	a	mass	point	according	to	
+Einstein's	theory".	arXiv:physics/9905030.	
+	
+
+translated	in	English	as:	
+
+	
+25	
+[8]	Schwarzschild,	K.	(24	Feb.	1916).	"Über	das	Gravitationsfeld	einer	Kugel	aus	incompressibler	
+Flüssigkeit	nach	Einsteinsechen	Theorie".	Königlich	Preußische	Akademie	der	Wissenschaften	(Berlin).	
+Sitzungsberichte.	424–434.	
+translated	in	English	as:	
+Antoci,	S.	(16	Dec.	1999).	"On	the	gravitational	field	of	a	sphere	of	incompressible	fluid	according	to	
+Einstein's	theory".	arXiv:physics/9912033.		
+[9]	Frank,	Ph.	(1916)	in	Jahrbuch	über	die	Fortschritte	der	Mathematik.	46:	1296.	
+translated	in	English	as:	
+Antoci,	S.	(2003).	"Appendix	A:	Frank’s	review	of	Schwarzschild's	'Massenpunkt'	paper"	in	"David	
+Hilbert	and	the	origin	of	the	Schwarzschild	solution".	Meteorological	and	Geophysical	Fluid	Dynamics.	
+Bremen:	Wilfried	Schröder,	Science	Edition.	arXiv:physics/0310104.		
+[10]	Droste,	J.	(1917).	"The	field	of	a	single	centre	in	Einstein’s	theory	of	gravitation,	and	the	motion	
+of	a	particle	in	that	field".	Proceedings	of	the	Koninklijke	Nederlandse	Akademie	Van	Wetenschappen,	
+Series	A.	19	(I):	197-215.	(Communicated	by	Prof.	H.	A.	Lorentz	at	the	KNAW	meeting,	27	May	1916).	
+Reprinted	(2002)	in	General	Relativity	and	Gravitation.	34	(9):	1545–1563.	
+doi:10.1023/A:1020747322668.		
+[11]	Weyl,	H.	(8	August	1917).	"Zur	Gravitationstheorie".	Annalen	der	Physik.	54	(18):	117–145.		
+translated	in	English	as:		
+Neugebauer,	G.;	Petroff,	D.	(March	2012).	"On	the	theory	of	gravitation".	General	Relativity	and	
+Gravitation.	44	(3):	779–810.	doi:10.1007/s10714-011-1310-7.		
+[12]	Einstein,	A.	(29	June	1916).	"Gedächtnisrede	des	Hrn.	Einstein	auf	Karl	Schwarzschild"	(tr.	
+"Memorial	Lecture	on	Karl	Schwarzschild").	Königlich	Preußische	Akademie	der	Wissenschaften	
+(Berlin).	Sitzungsberichte.	768–770.	Published	6	July	1916.	No	English	translation	available.		
+[13]	Corda,	C.	(2011)	"A	clarification	on	the	debate	on	the	original	Schwarzschild	solution".	EJTP	8	
+(25)	65–82.	arXiv:1010.6031.		
+[14]	Adler,	R.;	Bazin,	M.;	Schiffer,	M.	(1975).	"Introduction	to	General	Relativity"	(2nd	ed.).	New	York:	
+McGraw-Hill.	ISBN	978-0070004207.		
+[15]	Kerr,	R.	P.	(1963).	"Gravitational	field	of	a	spinning	mass	as	an	example	of	algebraically	special	
+metrics".	Physical	Review	Letters.	11	(5):	237.	doi:10.1103/PhysRevLett.11.237.		
+[16]	Kruskal,	M.	D.	(September	1960).	"Maximal	Extension	of	Schwarzschild	Metric".	Physical	
+Review.	119	(5):	1743–1745.	doi:10.1103/PhysRev.119.1743.		
+[17]	Szekeres,	G.	(1960).	"On	the	singularities	of	a	Riemannian	manifold".	Publicationes	
+Mathematicae	Debrecen.	7:	285–301.		
+Reprinted	(2002)	in	General	Relativity	and	Gravitation.	34	(11):	2001–2016.	doi:	
+10.1023/A:1020744914721.		
+[18]	Abrams,	L.	S.	(1989).	"Black	Holes:	The	Legacy	of	Hilbert's	Error".	Canadian	Journal	of	Physics	67	
+(9):	919–926.	doi:10.1139/p89-158.	arXiv:gr-qc/0102055.		
+[19]	Antoci,	S.;	Liebscher,	D.-E.	(2001).	"Reconsidering	Schwarzschild’s	original	solution".	
+Astronomische	Nachrichten.	322	(2):	137–142.	arXiv:gr-qc/0102084.		
+[20]	Antoci,	S.	(2003).	"David	Hilbert	and	the	origin	of	the	Schwarzschild	solution".	Meteorological	
+and	Geophysical	Fluid	Dynamics.	Bremen:	Wilfried	Schröder,	Science	Edition.	arXiv:physics/0310104.	
+	
+
+

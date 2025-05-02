@@ -1,0 +1,88 @@
+1 
+
+ 
+
+ 
+
+Résumé de la démarche du l’article du 1° janvier 2019 :  
+ 
+ L’équation d’Einstein ne produit que deux types de solutions.  
+ 
+
+-  Des solutions décrivant un univers instationnaire, homogène et isotrope.  
+
+-  Des solutions instationnaires.  
+
+ 
+ 
+    Le modèle Janus se limite à cette seule  ambition.  
+ 
+   De plus, dans les solutions stationnaires, on se limite aux  conditions de l’approximation 
+newtonienne.  
+ 
+    Pour être précis, lorsqu’on veut s’assurer de la cohérence mathématique du système des 
+deux équations on a deux cas de figure à considérer.  
+ 
+
+-  Dans  une  configurant  où  système  est  homogène  et  isotrope,  si  on  se  limite  à  des 
+univers  de  poussière  (pressions  nulles)    la  condition  exprime  la  conservation 
+généralisée de l’énergie-matière :  
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+-      Dans  une  configuration  stationnaire,  à  l’intérieur  des  masses  la  condition  exprime 
+l’équilibre entre la force de pression et la force gravitationnelle (équation d’Euler).    
+
+    Dans le premier cas les équations de l’article de 2014 sont donc cohérentes. La solution 
+exacte rendait donc donc compte il y a 8 ans de l’accélération de l’expansion cosmique.  
+
+     Concernant le second cas, j’étais depuis longtemps de ce problème résiduel et travaillais 
+à le résoudre.  
+ 
+    Tout repose alors sur le choix de la forme des tenseurs d’interaction. Or, rien n’impose 
+une  forme  particulière  à  ces  tenseurs,  si  ce  n’est  qu’ils  doivent  satisfaire  la  cohérence 
+physique et mathématique du système.  
+ 
+     Il se trouve, quand je reçois la lettre recommandée du 7 janvier 2019, que je viens de 
+convaincre  le  referee  de  la  revue  Progress  in  Physics  et  que  l’article  résultant  de  ces 
+échanges est déjà sous presse. Il sors dans son numéro daté du premier janvier 2019, date 
+d’enregistrement du manuscrit définitif, en ayant pour titre :  
+ 
+
+Physical and mathematical consistency of the Janus Cosmological Model 
+
+ 
+    En  peu  de  mots :  En  considérant  la  forme  mixte  des  tenseurs  d’interaction  la  solution 
+consiste, en se limitant à l’approximation newtonienne, à simplement inverser le signe des 
+termes de pression. Ci-après la forme correspondante des tenseurs d’interaction :  
+
+ 
+
+ 
+
+2 
+
+ 
+     L’équation d’Euler est alors satisfaite à l’intérieur des masses. Mon envoi de 2019 ne fait 
+que présenter tous les détails des calculs, qui n’ont rien en fait de très original au sens où 
+ils  s’inspirent  complètement  des  calculs  de  la  solution  correspondant  à  la  métrique 
+intérieure de Schwarzschild1. 
+ 
+
+ 
+
+ 
+
+1 Voir par exemple Adler, Schiffer, Bazin « Introduction to General Relatvity », chapitre 5 
+Editions Mc Graw Hill.  
+
+ 
+
+

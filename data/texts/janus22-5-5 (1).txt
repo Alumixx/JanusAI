@@ -1,0 +1,5151 @@
+	
+
+1	
+
+Jean-Pierre	Petit	
+jp.petit@mailaps.org	
+
+Annexe	à	la	cinquième	partie	de	la	video	JANUS	22	
+
+24	octobre	–	1°	novembre		2017	
+
+Les	deux	articles	de	Schwarzschild,	en	allemand	et	anglais.		
+
+____________________________________________________________________________________________________	
+Ceci	est	le	premier	pdf	en	tant	que	“pièce	attachée	à	une	video”,	ce	qui	visera	à	satisfaire	
+les	amateurs	d’équations.		Mais	dans	cette	cinquième	partie	de	JANUS	22	cette	pièce	est	
+indispensable.		
+Dans	mon	site	il	y	a	un	dossier		
+http://www.jp-petit.org/papers	
+avec	un	sous-dossier		
+http://www.jp-petit.org/papers/cosmo		
+où	il	sera	possible	de	loger	toute	une	bibliographie		
+	
+Voici	ce	que	vous	pouvez	d’ores	et	déjà	télécharger	:		
+-  http://www.jp-petit.org/papers/cosmo/Schwarzschild-exterior-de.pdf	
+-  http://www.jp-petit.org/papers/cosmo/Schwarzschild-exterior-en.pdf	
+-  http://www.jp-petit.org/papers/cosmo/Schwarzschild-interior-de.pdf	
+-  http://www.jp-petit.org/papers/cosmo/Schwarzschild-interior-en.pdf	
+-  http://www.jp-petit.org/papers/cosmo/Schwarzschild-exterior-fr.pdf	
+-  http://www.jp-petit.org/papers/cosmo/Schwarzschild-interior-fr.pdf	
+	
+Ainsi	que	les	articles	suivants	:		
+-	http://www.jp-petit.org/papers/cosmo/Abrams.pdf	
+-	http://www.jp-petit.org/papers/cosmo/Antoci.pdf	
+-	http://www.jp-petit.org/papers/cosmo/Corda.pdf	
+-	http://www.jp-petit.org/papers/cosmo/1929-Oppenheimer.pdf	
+-	http://www.jp-petit.org/papers/cosmo/Hilbert.de.pdf	
+
+Ainsi	que	les	versions	récemment	traduites	en	français,	par	les	soins	de	H.Traccard	
+
+	
+2	
+	-	http://www.jp-petit.org/papers/cosmo/Hilbert.en.pdf	
+Dans	ce	pdf	il	pourra	y	avoir	des	erreurs,	des	coquilles.	Face	à	la	demande	vive	des	
+internautes,	je	dois	produire	tous	ces	documents	à	marche	force	(	25	vidéos	en	7	mois,	
+dont	une	d’une	heure	!	).	Depuis	7	mois	je	suis	au	travail	tous	les	matins	à	5h30,	6h,	sept	
+jours	sur	sept,	et	je	travaille	le	nombre	d’heures	qui	est	compatible	avec	ce	que	je	peux	
+encaisser,	vu	mon	âge.		
+Si	vous	trouvez	des	erreurs,	signalez-les-moi.	L’avantage	d’un	tel	pdf	c’est	qu’il	est	
+modifiable,	ce	qui	n’est	pas	le	cas	des	videos	Youtube,	impossible	à	modifier	dès	qu’elles	
+sont	téléchargées.		
+Ainsi,	dans	la	dernière,	la	quatrième	partie	de	JANUS	22	(référence	[1])	j’ai	téléchargé	
+une	mauvaise	image	tout	à	fait	à	la	fin.	La	solution	de	Schwarzschild,	dotée	d’un	terme	
+croisé,	n’est	pas	:		
+
+Mais	:		
+
+	
+
+	
+Des	choses	doivent	être	tirées	au	clair.	Comme	cela	ne	peut	pas	s’effectuer	via	des	
+séminaires	dans	les	instances	de	recherche	existantes	et	à	travers	des	échanges	avec	des	
+spécialistes,	force	m’est	de	“mettre	tout	cela	sur	la	place	publique”.	Il	faut	donc	fournir	
+aux	lecteurs	tous	les	éléments	qui	puissent	leur	permettre	de	se	construire	leur	propre	
+jugement.		
+
+	
+3	
+Le	premier	élément	c’est	de	pouvoir	disposer	d’un	livre	sur	la	Relativité	Générale	qui	
+soit	de	qualité,	auquel	je	puisse	me	référer.	Je	demande	donc	aux	lecteurs	de	télécharger	
+l’ouvrage	d’Adler	Schiffer	et	Bazin,	publié	aux	éditions	Mac	Graw-Hill,	intitulé	
+“Introduction	to	General	Relativity”.	[2]	
+Voici	l’adresse	où	vous	pouvez	télécharger	le	pdf	de	cet	ouvrage	:		
+Avant	d’entrer	dans	le	vif	du	sujet	de	cette	cinquième	partie	de	Janus	22	je	vais	extraire	
+des	passages	de	cet	ouvrage	qui	illustre	à	lui	seul	le	paradoxe	de	cette	extension	de	la	
+solution	de	Schwarzschild.		
+Page	186	on	peut	lire	:		
+
+http://www.jp-petit.org/books/asb.pdf	
+
+	
+Traduction	:		
+Le	raisonnement	est	fondé	sur	des	seuls	crirères	de	plausibilité,	de	manière	à	
+«	deviner	»	quellle	formulation	de	la	métrique	pourrait,	à	travers	cette	démarche	
+heuristique,	apparaître	comme	raisonable	et	commode.		
+On	devrait	alors	s’attendre	(	?...)	à	ce	que	la	métrique	soit	invariante	en	changeant	
+dx°	en	–	 dx°	(	Pourquoi	?	).	Ceci	imposerait,	en	utilisant	des	coordonnées	
+Gaussiennes,	l’absence	de	terme	croisé	dr	dx°	dans	le	tenseur	métrique	et	que	celle	
+	   goo (dx°)2 + gikdxidxk	avec	des	   
+ci	ait	la	forme	
+gik	indépendants	de	x°.	Une	
+expression	que	les	auteurs		qualifient	alors	de	métrique	statique,	par	opposition	à	
+une	métrique	stationnaire,	telle	que	discutée	à	la	section	3.7.		
+	Je	vois	souvent	des	étudiants	dire	:		
+
+-		Mais	comment	trouver	des	idées	de	recherche,	pour	des	travaux	théoriques	?	».		
+
+	
+4	
+Ce	à	quoi	je	réponds	:		
+-  Prenez	des	ouvrages	de	théorie,	considérés	comme	des	documents	de	base,	et	
+localisez	tous	les	passages	portrant	les	mots	«		reasonable,	assume,	convenient,	
+heuristic,	etc	…	et	demandez-vous	ce	qu’il	adviendait	si	vous	cessiez	soudain	
+d’être	«	raisonable	»,	«	commode	»,	«	heuristique	»	….	
+Les	seules	contraintes	qu’un	théoricien	est	censé	suivre	doivent	se	référer	à	la	physique,	
+aux	phénomènes,	aux	observations.	Et	encore,	on	doit	prendre	ces	contraintes	avec	des	
+pincettes.	Car	les	observations	et	les	expériences	sont	toujours	décodées	à	travers	un	
+crible	logique,	un	modèle.		
+Jadis	l’Académie	de	Sciences	française	se	refusait	à	examiner	des	météorites	car	«	des	
+pierres	ne	pouvaient	pas	tomber	du	ciel	».	On	verra	comment,	dans	son	ouvrage,	le	
+grand	Steven	Weinberg	lui-même	élimine	d’emblée	les	états	d’énergie	négative,	
+simplement	parce	que	«	ça	n’existe	pas	».		
+Le	passage	que	je	viens	de	citer	est	important	car	il	est	la	clé	de	la	suvivance	du	modèle	
+des	trous	noirs.		Comme	vous	le	verrez	dans	la	suite	de	ce	document,	quand	on	enlève	
+cette	contrainte	d’absence	de	terme	croisé	en	 dr	 dx°	,	qui	ne	repose	sur	rien	d’autre	
+qu’une	«	plausibilité	»,	alors	le	château	de	cartes	s’effondre.		
+Et	ils	partent	donc	avec	:		
+	(6.4)																														  ds2 = Ac2dt 2 − Bdr 2 − C ( r 2dθ2 + r 2 sin2θdϕ2 )		
+et	ils	ajoutent	:		
+Non…	des	conditions	imposées	par	les	symétries	choisies	collent	avec		
+  ds2 = Ac2dt 2 − Bdr 2 − C ( r 2dθ2 + r 2 sin2θdϕ2 ) + D(r)dr dt	
+Dans	une	telle	formulation	on	a	toujours	ce	qui	découle	d’hypothèses	purement	
+physiques	:	la	symétrie	sphérique	et	les	coefficients	sont	indépendants	du	temps.		
+Continuons.	Quelques	lignes	plus	loin	:		
+
+The above element is the simpliest form which is dictated by the symmetry requirements 
+
+	
+
+	
+5	
+		les	auteurs	répercutent	l’erreur	commise	par	Hilbert	en	décembre	1916	en	introduisant	
+“une	nouvelle	coordonnée	radiale”	:		
+Téléchargez	:		-	http://www.jp-petit.org/papers/cosmo/Hilbert.de.pdf	
+-	http://www.jp-petit.org/papers/cosmo/Hilbert.en.pdf	
+Prenons	la	version	anglaise.	Allez	à	la	page	1029.	Que	lisez-vous	?		
+
+	
+Vous	trouvez	l’expression	«		centrally	symmetric	»	(	«	à	symétrie	centrale	»	:	ce	qui	
+totalement	différent	de	«	à	symétrie	sphérique	».	Ca	implique	que	l’objet	ait	…	un	
+centre	).	Et	Hilbert	estime	qu’il	est	«	également	justifié	»	d’identifier	sa	variable	r	*	à	la	
+composante	«	rayon	»	de	coordonnées	polaires.		
+Ca	date	de	1916.	L’erreur	est	partie	de	là	et	tous	l’ont	reconduite.	Ca	n’est	que	2003	que	
+l’Italien	Antoci	l’a	détectée.	Téléchargez	:		
+-	http://www.jp-petit.org/papers/cosmo/Antoci.pdf	
+
+	
+6	
+L’article	d’Antoci	de	2003	a	été	publié	dans	General	Relativity		and	Gravitation.	Or	on	
+m’a	fait	récemment	passer	un	article	de	2006	d’un	eEspagnol,	J.	Senovilla,	paru	dans	la	
+même	revue,	intitulé	«	The	Schwarzschild	solution	correction	to	the	editorial	note	».	A	
+travers	ce	papier	la	revue	revient	sur	l’article	d’Antoci,	à	travers	un	article	informe.		
+On	nage	dans	la	plus	complète	irrationalité	!		
+Au	passage,	dans	ce	texte	de	Hilbert	de	1916	allez	voir,	dans	cette	version	anglaise,	le	
+passage	où	sa	variable	temps	devient	imaginaire	pure	:	
+
+	
+et,	en	bas,	la	signature	de	la	métrique,	inversée.	Je	n’invente	rien	….	
+	Continuant	dans	cet	ouvrage	de	base	d’Adler,	Schiffer	et	Bazin,	1967,	on	trouve	une	
+autre	perle.	Mais	vous	trouverez	cela	dans	tous	les	livres	traitant	de	Relativité	Générale.		
+Voici	l’extrait,	page	187	:		
+
+	
+Traduction	(	ouvrez	bien	vos	yeux	!	)		
+De	manière	à	expliciter	clairement	la	signature	de	la	métrique	(	+	-	-	-	)	et	le	
+gµν = g	de	celle-ci	nous	allons	exprimer	les	termes	
+signe	du	déterminant	
+ A(r)	et	 B(r)	à	l’aide	des	fonctions	intrinséquement	positives	 eν		et	 eλ	.	La	
+métrique	s’écrit	alors	:		
+(6.9)																					  ds2 = eν(r ) c2dt 2 − eλ(r ) dr 2 − r 2 ( dθ2 + sin2θdϕ2 )		
+Anticipant	sur	ce	qui	sera	développé,	allez	à	la	page	193	(et	ouvrez	encore	bien	vos	
+yeux	!)	
+
+ 
+
+	
+
+7	
+
+	
+Donc	r	ne	peut	être	inférieur	à	2m,	sinon	les	exponentielles	deviendraient	…	négatives	!		
+Mais,	si	vous	avez	le	courage	de	vous	taper	cela,	vous	découvrirez,	autour	de	la	page	230	
+comment	on	parient	«	quand	même	»	à	explorer	cet	intérieur	de	la	sphère	de	
+Schwarschild	:		
+
+	
+	
+	Mais	revenons	à	la	construction	de	cette	solution	de	Schwarzschild.		
+Il	faut	calculer	les	“symboles	de	Christoffel”.	Grâce	à	quoi	on	construit	le	tenseur	de	Ricci,	
+équation	(6.25).	On	tombe	alors	sur	deux	équations	différentielles.	Dans	cet	ouvrage	
+l’indice	zéro	se	réfère	à	la	variable	chronologique	et	les	indices	1,	2,	3	aux	dimensions	
+d’espace.	On	a	donc	:			
+(6.31)																																																																		  
+(6.32)																																																						  
+Puisque	la	solution	de	Schwarzschild	se	réfère	à	l’équation	d’Einstein	avec	un	second	
+membre	nul.		
+L’équation	d’Einstein	c’est	:		
+
+Roo = 0		
+R11 = R 22 = R 33 = 0		
+
+  
+
+1
+2
+
+1
+2
+
+8	
+
+Rµν −
+  
+
+Rµν −
+  
+
+sont	équivalentes.		
+
+	
+R gµν = χTµν	
+Mais,	dans	le	vide	ça	devient	:		
+R gµν = 0	
+équation	qui	se	ramène	à	:		
+Rµν = 0	
+c’est	le	“scalaire	de	Ricci”.	Il	est	nul	quand	le	tenseur	est	nul.	Donc	ces	deux	équations	
+N’entrons	pas	dans	le	détail,	classique,	de	la	construction	de	cette	solution.	Au	final	on	
+obtient	les	équations	différentielles	:		
+(6.36)																																																													 ν' + λ' = 0		
+Un	raisonnement	rapide,	fondé	sur	l’invariance	par	translation	temporelle,	montre	que	
+cela	se	réduit	à	:	
+(6.38)																																																															λ= −ν			
+Et	on	aboutit	à	l’équation	différentielle	:		
+(6.39)																																																									
+r = 0		
+ou	:		
+(6.40)																																																													  ( r e−λ)" = 0		
+page	suivante,	d’autres	considérations	amènent	à	ramener	cela	à	:		
+(6.45)																																																															  ( r e−λ)' = 1		
+L’intégration	immédiate	conduit	à	:		
+(6.46)																																																								  e −λr = r + constant	
+		
+Une	constant	d’intégration	qui	peut	être	a	priori	positive	ou	négative.	On	la	prend	
+négative.	On	fait	classiquement	intervenir	une	grandeur	notée	2m	.	Or	ce	n’est	pas	une	
+masse,	mais	une	longueur.	C’est	la	grandeur	que	Schwarzschild	a	dénommé	α	.	Alors	on	
+a	:		
+(6.46)																																																								  e −λr = r − 2m = r −α	
+ou	:	
+(6.47)		
+
+λ" − λ' 2 +
+  
+
+2λ'
+
+	
+
+  
+
+  
+
+=
+
+⎛
+⎝⎜
+
+1−
+
+1−
+
+		
+
+eλ =
+
+2m
+r
+
+9	
+
+	
+	
+
+ds2 = 1−
+
+1
+2m
+r
+
+eν = 1−
+  
+
+dr 2
+2m
+r
+
+1
+1− α
+r
+
+⎞
+⎠⎟ (dx°)2 −
+
+2m
+r = 1− α
+r
+
+	
+et	comme	 v = − λ		:	
+	On	a	les	coefficients	de	la	métrique	solution.	Mais	on	notera	qu’Adler,	Schiffer	et	Bazin	
+expriment	la	solution,	en	faisant	intervenir	un	chronologic	marker	x°			
+(6.53)																															
+− r 2 ( dθ2 + sin2θdϕ2 )	
+Et	de	vérifier	que	cette	métrique	tend	bien	vers	la	métrique	de	Lorentz	quand	elle	tend	
+vers	l’infini.	Les	conditions	aux	limites	sont	donc	satisfaites.		
+Plus	loin	l’exploitation	de	cette	métrique,	en	construisant	les	géodésiques	et	en	les	
+voyant	s’identifier	aux	conique	newtoniennes	à	une	distance	suffisante,	conduit	à	
+préciser	cette	constant	d’intégration	2m	en	écrivant	:	
+(6.54)																																																											
+		
+où	M	est	une	masse.		
+! Je	ne	sais	pas	pourquoi	ces	auteurs	désignent	la	constante	de	gravité	par	la	lettre	
+k.	J’utilise	donc	le	symbole	traditionnel	G.		
+Je	pense	que	c’est	parce	que,	beaucoup	plus	loin,	ils	se	servent	de	la	lettre	 G	pour	
+désigner	le	tenseur	du	premier	membre	de	l’équation	de	champ	(	équation	(10.77)	)	
+Cette	longueur	caractéristique	2m	devient	alors	le	classique	rayon	de	Schwarzschild	:	
+Pourquoi	ai-je	évoqué	ce	bout	de	calcul,	extrait	de	l’ouvrage	?		
+Pour	deux	raisons.	La	première	est	de	vous	montrer	que	ces	grandeurs	α	ou	m	ne	sont	
+que	des	constantes	d’intégration,	qui	peuvent	a	priori	être	positives	ou	négatives.	Ainsi	
+on	peut	écrire	la	solution	(6.53)	sous	la	forme	:	
+
+Rs = 2m =α=
+  
+
+G M
+c2
+
+m =
+  
+
+2G M
+
+	
+
+c2
+
+− r 2 ( dθ2 + sin2θdϕ2 )	
+
+ds2 = 1−
+
+⎛
+⎝⎜
+
+2G M
+c2 r
+
+⎞
+⎠⎟ c2dt 2 −
+
+dr 2
+2G M
+c2 r
+
+1−
+
+  
+
+  
+
+  
+
+  
+
+1
+
+=
+
+⎛
+⎜
+⎝
+
+1−
+
+1+
+
+eλ =
+
+ds2 = 1+
+
+2G M
+c2 r
+
+10	
+
+dr 2
+2G M
+c2 r
+
+⎞
+⎟ c2dt 2 −
+⎠
+
+1
+1
+2m
+1− α
+r
+r
+2m
+r = 1− α
+
+− r 2 ( dθ2 + sin2θdϕ2 )	
+
+	
+Mais	:		
+est	aussi	solution	de	l’équation	d’Einstein.	A	quoi	correspond-t-elle	?	Aux	géodésiques	
+décrites	par	des	particules	soumises	à	une…	antigravitation,	c’est-à-dire	à	une	force	
+répulsive,	en	
+Seconde	remarque	:	à	quoi	correspond,	quand	 m	>	0	,		l’hypersurface	pour	 r	<	2m		?	
+  (ou r <α)	c’est-à-dire	quand	:	
+
+r 2	,	exercée	par	une	masse	M	négative.		
+< 0	
+r < 0	
+Nous	voilà	avec	des	exponentielles	 eν	et	 eλ	négatives	?!?!?	
+Dans	l’ouvrage,	cela	va	vous	emmener	à	la	section		
+6.8	:	The	Schwarzschild	radius,	Kruskal	coordinates,	and	the	Black	Hole	
+	Je	reproduis	ici	le	discours	tenu,	qui	explique	les	propos	d’Aurélien	Barrau	au	Collège	de	
+France	:		When	r	becomes	less	than	2m,	the	signs	of	the	components	  
+g00	and	  
+g11	change,	
+g00	becoming	negative.	This	forces	us	to	reconsider	
+g11	becoming	positive	and	  
+the	physical	meaning	of	 t	and	 r	as	time	and	radial	markers	inside	the	
+Schwarzschild	radius.	Indeed	a	word-line	along	the	t	axis,		(	r,	θ	,	φ	)	constant,		
+has	  ds2 < 0	and	is	spacelike	curve,	while	a	world-line	along	the	r	axis	has	  ds2 > 0	
+and	is	a	timelike	curve.	It	would	just	appear	natural	to	reinterpret	r	as	a	time	
+marker	and	t	as	a	radial	marker	for	events	which	occur	inside	the	Schwarzschild	
+radius.		
+Quannd	r	devient	plus	petit	que	2m,	les	signes	des	composants	(de	la	métrique)		
+g00	négatif.	Ceci	nous	contraint	à	
+g00	et	  
+g11	changent,	  
+reconsidérer	les	sens	physiques	du	marqueur	de	temps	 t	et	du	marqueur	
+d’espace	r.	En	vérité,	si	on	chemine	le	long	d’une	“ligne	d’univers”	selon	l’axe	t	,	à		
+(	r,	θ	,	φ	)	constants,	on	a	  ds2 < 0	,	ce	qui	correspond	à	une	courbe	de	type	espace,	
+
+Pour	ceux	qui	auraient	des	difficultés	avec	l’anglais,	la	traduction	est	:		
+
+g11	devenant	positif	et	  
+
+eν = 1−
+  
+
+  
+
+  
+
+	
+
+  ds2 = c2dt 2 − dr 2	
+
+11	
+tandis	que	si	on	chemine	le	long	de	l’axe	r	on	aura	  ds2 > 0,	ce	qui	correspond	à	
+une	courbe	du	genre	temps.	Il	apparaîtrait	naturel	(…)	de	réinterpréter	r	comme	
+un	marqueur	de	temps	et	t	comme	un	marqueur	radial	pour	les	évènements	qui	
+se	produisent	à	l’intérieur	(de	la	sphère)	ayant	pour	rayon	le	rayon	de	
+Schwarzschild.		
+D’où	viennent	ces	expressions	“courbes	du	genre	temps”	et	“courbes	du	genre	espace”	?		
+Considérons	la	métrique	de	Lorentz,	écrite	avec	des	coordonnées	sphériques	:		
+  ds2 = c2dt 2 − dr 2 − r 2 ( dθ2 + sin2θdϕ2 ):	
+Envisageons	de	trajectoires	radiales,	à	θ	et	φ constants.	Alors	:		
+Les	trajectoires	à	la	vitesse	c	correspondent	à	ds	=	0.	Et	c’est	là	qu’on	voit	apparaître	le	
+classique	“cône	de	lumière”.		
+Ce	faisant	on…	plonge	dans	un	espace	de	Minkowski	  ( t , r ,ϕ)	dans	  !3	.	Et	on	fait	ainsi	
+la	même	erreur	qu’en	plongeant	l’hypersurface	de	Schwarzschild	dans  !4	.	On	est	amené	
+à	se	poser	des	questions	qui	n’ont	pas	de	raison	d’être,	parce	qu’on	est	en	dehors	de	l’objet	
+La	représentation	de	la	Relativité	Restreinte	à	l’aide	du	modèle	du	“Cosmic	Park”	est	
+plus	saine,	car	alors	les	points	tels	que	v	>	c	disparaissent.	L’équivalent	d’une	excursion	
+en	dehors	du	cône	de	lumière	équivaut	dans	le	Cosmic	Park	à	tenter	de	descendre	dans	
+une	sphère-goutte	liquide	plus	profondément	qu’en	son	centre.		
+L’obsession	du	plongement	induit	des	erreurs.	Cela	a	amené	des	physiciens	à	inventer	
+les	concepts	de		
+-  courbes	du	genre	temps	(timelike	curves)	
+-  courbes	du	genre	espace	(spacelike	curves)	
+Les	 secondes	 sont	 dénuées	 de	 sens	 physique.	 En	 Relativité	 Restreinte	 elles	
+correspondraient	à	des	trajets	à	une	vitesse	supérieure	à	c.	Des	trajets	effectués	dans	la	
+portion	imaginaire	(…)	de	l’hypersurface	considérée.		
+On	voit	que	l’idée	de	dire	que	des	évènements	ont	un	sens	physique	si	  ds2 > 0		a	quelque	
+chose	de	sain,	de	salvateur.	
+Les	expressions	“ligne	d’univers	du	genre	temps”	et	“ligne	d’univers	du	genre	espace”	ne	
+sont	que	des	mots,	rien	d’autre.		
+Dans	la	suite	du	chapitre	les	auteurs	calculent	le	temps	de	chute	libre,	évalué	avec	la	
+grandeur	s,	et	le	trouvent	fini.		
+	
+
+géométrique.		
+
+Là,	je	peux	donner	ces	bouts	de	calculs.		
+
+	
+12	
+Les	géodésiques	sont	des	trajets	de	plus	court	chemin.		
+Il	se	trouve,	pour	ceux	qui	ne	connaissent	pas	les	équations	de	Lagrange,	que	j’ai	réalisé	
+une	initiation	sympa	[3]	à	ce	sujet	à	:		
+http://www.savoir-sans-
+frontieres.com/JPP/telechargeables/BOURBAKOF/Bourbakof_fr.pdf	
+C’est	au	chapitre	“Le	Séminaire”	page	12.		
+Les	physiciens	s’amuseront	à	voir	cela	présenté	de	cette	façon.	Les	non	physiciens	y	
+trouveront	une	initiation	à	ce	problème	“des	extrema	liés”,	débouchant	sur		
+	
+Repartons	de	l’expression	de	la	métrique.	Je	garde	les	notations	du	livre	cité	et	cela	nous	
+envoie	à	la	section	:	
+6.3	The	general	Relativistic	Kepler	problem	and	the	perihelic	shift	or	Mercury	
+(Le	problème	des	trajectoire	képlériennes	relativistes	et	de	l’avance	du	périhélie	de	
+Mercure)	
+La	métrique	est	écrite	selon	:		
+− r 2 ( dθ2 + sin2θdϕ2 )	
+or	:		
+
+Les	équations	de	Lagrange	
+
+⎞
+⎠⎟ c2dt 2 −
+
+dr 2
+2m
+r
+
+ds2 = 1−
+
+2m
+r
+
+1−
+
+⎛
+⎝⎜
+
+  
+
+⎡
+⎢
+⎢
+⎢
+⎢
+⎣
+
+1
+2m
+1−
+r
+
+ds = ±
+
+⎛
+⎝⎜
+
+1−
+
+2m
+r
+
+⎞
+
+⎠⎟ c2 dt
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+2
+
+−
+
+2
+
+⎛
+⎝⎜
+
+dr
+ds
+
+⎞
+⎠⎟
+
+− r 2 dθ
+⎞
+⎠⎟
+ds
+
+⎛
+⎝⎜
+
+2
+
+⎛
+− r 2sin2θ
+⎝⎜
+
+dϕ
+⎞
+⎠⎟
+ds
+
+2
+
+  
+
+ds
+
+dϕ
+
+dr
+ds = !r
+
+dθ
+ds = !θ
+
+dt
+ds = !t
+  
+
+ds = !ϕ		
+
+On	pose	:																	
+Si	on	envisage	un	trajet	le	long	d’une	courbe	quelconque	joignant	deux	points	fixes	A	et	
+B,	la	distance	parcourue,	le	long	de	cette	hypersurface	sera	:		
+C’est-à-dire	:		
+
+!r 2 − r 2 !θ2 − r 2sin2θ !ϕ2
+
+1
+2m
+1−
+r
+
+⎞
+⎠⎟ c2 !x2 −
+
+2m
+r
+
+B∫
+
+⎤
+⎥
+⎥
+⎥
+⎥
+⎦
+
+⎡
+⎢
+⎢
+⎢
+⎢
+⎣
+
+1−
+
+s =
+
+	
+
+ds
+
+⎛
+⎝⎜
+
+   
+
+A
+
+ds	
+
+⎤
+⎥
+⎥
+⎥
+⎥
+⎦
+
+A
+
+A
+
+   
+
+⎞
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+	
+
+1−
+
+B∫
+
+F =
+
+B∫
+
+s =
+   
+
+s =
+   
+
+2m
+r
+
+∂ F
+∂ !xi
+
+d
+ds
+  
+
+13	
+
+F ( xi , !xi ) ds
+
+⎞
+⎠⎟ c2 !t 2 −
+
+1
+2m
+1−
+r
+
+F (r ,θ, !t, !r , !θ, !ϕ) ds
+
+	
+!r 2 − r 2 !θ2 − r 2sin2θ !ϕ2	
+	
+
+	
+C’est	de	la	forme	:		
+avec	:		
+Le	trajet	est	alors	de	longueur	minimale	si	les	équations	de	Lagrange	suivantes	sont	
+satisfaites	:		
+La	première	équation	donne	:		
+⎠⎟ = ∂F
+∂xi
+⎠⎟ = 0	
+puisque	F	ne	dépend	pas	de	la	variable	t.	Ce	qui	donne	:		
+⎥ = 0	
+(6.77)																																																					
+ou	:		
+⎠⎟ !t = l = Cst	
+(6.81)																																																				
+La	fonction	F	ne	dépend	pas	de	θ	,	ce	qui	donne	:		
+θ=				constant	
+																																		
+Les	trajectoires	sont	planes	et	se	situent	dans	un	planθ		=	constante.	On	construira	donc	
+sinθ= 1	;		
+les	trajectoires	dans	un	plan																						
+La	fonction	F	est	également	indépendante	de	ϕ	,	ce	qui	donnera	:		
+	(6.80)																									
+constant	
+On	retrouve	la	loi	des	aires	des	trajectoires	newtoniennes.		
+
+⎤
+⎦⎥ = 2 !θ= 0
+
+→ r 2 !ϕ= h =
+
+θ= π
+2
+ 
+
+⎤⎦ = 0
+
+⎤
+⎞
+⎠⎟ !t
+⎦
+
+d
+ds
+   
+
+d
+ds
+   
+
+d
+ds
+   
+
+∂ F
+∂ !θ
+
+r 2 !ϕ⎡⎣
+
+∂ F
+∂!t
+
+d
+ds
+   
+
+2m
+r
+
+2m
+r
+
+⎛
+⎝⎜
+   
+
+1−
+
+1−
+
+→
+
+⎡
+⎢
+⎣
+
+⎡
+⎣⎢
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+⎞
+
+⎞
+
+14	
+
+  
+
+   
+
+   
+
+−
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+h2
+
+1−
+
+1 =
+
+!r 2 −
+
+2m
+r
+
+2m
+r
+
+1= 1−
+
+ds2 = 1−
+
+⎞
+⎠⎟ c2 !t 2−
+
+dr 2
+2m
+r
+
+r 2	
+
+⎞
+⎠⎟ c2dt 2 −
+
+1
+2m
+1−
+r
+
+1
+2m
+1−
+r
+
+c2 l 2
+2m
+1−
+r
+
+− r 2 ( dθ2 + sin2θdϕ2 )	
+!r 2 − r 2 !θ2 − r 2sin2θ !ϕ2	
+
+	
+Maintenant	si	on	reprend	la	forme	de	la	métrique	:		
+et	qu’on	divise	par	  ds2,	on	obtient	une	autre	équation	:		
+Si	on	entre	dans	cette	équation	les	résultats	précédemment	obtenus	on	obtient	:		
+(6.82)																																											
+Posons	:				
+(6.83)																																																															
+		
+Combinons	(6.80)	et	(6.83	)	:		
+(6.84)																																																												
+r 2 r '		
+On	peut	alors	obtenir	l’équation	différentielle	donnant			  ϕ(r)		
+(6.85)																																					
+mais	il	est	plus	commode	de	passer	à	une	variable	
+(6.86)																																																																				
+		
+(6.87)																																															
+	
+(6.88)																																				  ( 1− 2mu ) = c2l 2 − h2u' 2 − h2u2( 1− 2mu )		
+(6.89)																																						
+h2 u − u2 + 2mu3		
+d’où	on	tire	immédiatement	:		
+
+⎞
+⎠⎟ = c2l 2 −
+
+!r = !ϕr ' =
+   
+
+h2
+r 4 r ' 2−
+
+⎠⎟		
+
+r ' = −
+  
+
+u' 2=
+  
+
+du
+⎞
+⎠⎟
+dϕ
+
+= !r
+!ϕ
+
+c2l 2 − 1
+
+r ' =
+   
+
+du
+dϕ
+
+dr
+dϕ
+
+⎞
+⎠⎟ +
+
+2m
+r
+
+2m
+r
+
+r =
+  
+
+u'
+u2
+
+h2
+r 2
+
+u' =
+
+2m
+
+1−
+
+1−
+
+⎛
+⎝⎜
+  
+
+1
+u
+
+⎛
+⎝⎜
+
+h2
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+=
+
+h
+
+⎞
+
+2
+
+	
+15	
+		
+(6.90)																																				
+En	programmant	ça	on	construit	aisément	les	trajectoires	quasi	képlériennes	avec	
+avance	du	perihelie.	Et	aussi	les	trajectoires	paraboliques,	hyperboliques.		
+Ci-après	une	courbe	que	j’avais	calculée	il	y	a	plus	de	vingt	ans,	avec	indication	de	la	
+sphère	de	Schwarzschild,	qui	donne	une	indication	sur	l’importance	de	l’avance	du	
+perihelia	pour	des	objets	proches	de	la	criticité	:		
+
+du
+2m
+h2 u − u2 + 2mu3
+
+ϕ=ϕo +
+
+c2l 2 − 1
+
+u∫
+
+h2
+
++
+
+uo
+
+  
+
+	
+
+   
+
+−
+
+h2
+
+1 =
+
+!r 2 −
+
+1
+2m
+1−
+r
+
+c2 l 2
+2m
+1−
+r
+
+Si	on	fait	2m	=	0	on	retombe	sur	les	classiques	coniques	de	Kepler.		
+Signification	de	la	constant	l	:		
+On	a	:			
+r 2	
+(6.82)																																																		
+qui	donne	:		
+	
+On	peut	poser	:			 λ= cl		Quand	on	fait	tendre	r	vers	l’infini	:		
+ds → ± λ2 − 1	
+on	a	donc	 λ > 1		
+Si,	à	grande	distance	dr	=	0		cela	veut	dire	que	 λ = 1		se	réfère	à	une	masse	qui	est	à	
+vitesse	nulle	à	l’infini.		
+Quid	de	
+
+		?		En	utilisant	(6.81)	pour	r	grand	:		
+
+!r 2= c2l 2 − 1+
+   
+
+2mh2
+r 3
+
+2m
+r −
+
+h2
+r 2 +
+
+dr
+  
+
+dr
+dt
+
+v =
+ 
+
+  
+
+  
+
+1
+
+λ
+
+	
+
+1−
+
+1−
+
+λ=
+
+E =
+
+v2
+c2
+
+dr
+ds
+
+c λ2 − 1
+
+ds
+dt →
+
+dr
+dt =
+  
+
+16	
+
+mc2
+v2
+c2
+
+	
+ce	qui	donne	:		
+	
+On	sait	que	l’énergie	de	la	particule	de	masse	m	est	:		
+	
+Si	la	vitesse	v	à	l’infini	est	faible	devant	c	on	peut	faire	un	développement	en	série.		
+Donc	:		
+	Tout	cela	pour	montrer	que	la	construction	des	géodésiques	à	partir	d’une	métrique	
+n’est	pas	un	travail	d’une	grande	complexité.		
+Reste	à	tracer	de	la	même	façon	les	trajectoires	des	photons.	Par	définition	ceux-ci	
+correspondent	à	ds	=	0		
+On	aura	donc	une	similitude	dans	les	équations	de	Lagrange.	On	obtient	encore	deux	
+constantes		:	
+(6.142)																																						
+Mais	la	dernière	équation	devient	:		
+On	repassera	en		
+
+		et	on	obtient	alors	:		
+
+c2	
+m v2	
+
+⎠⎟ !t = "l			
+r 2	
+
+c2 !l 2
+2m
+1−
+r
+
+1
+2m
+1−
+r
+
+E ! mc2 +
+   
+
+r 2 !ϕ= "h
+   
+
+2m
+r
+
+! 1+
+
+"r 2 −
+
+v2
+c2
+
+0 =
+
+⎛
+⎜
+⎝
+   
+
+1−
+
+1−
+
+1
+2
+
+1
+2
+
+⎞
+⎟
+⎠
+
+!h2
+
+v2
+
+⎛
+⎝⎜
+
+−
+
+⎞
+
+−1
+
+   
+
+1
+u
+
+r =
+  
+
+	
+17	
+Le	lecteur	pourra	programmer	ces	trajectoires	et	mettre	en	évidence	l’effet	de	lentille	
+gravitationnelle	(	positif	).	
+Ci-après	un	fort	effet	de	lentille	gravitationnelle.	La	sphère	de	Schwarzschild	est	
+indiquée.	Image	qui	donne	une	idée	de	la	distorsion	optique	de	l’arrière-plan,	lié	à	la	
+présence	d’une	étoile	à	neutrons	sub-critique.		
+
+c2l 2
+h2 − u2 + 2mu3
+
+λ2
+h2 − u2 +αu3
+
+ϕ=ϕo +
+
+=ϕo +
+
+u∫
+
+u∫
+
+du
+
+du
+
+	
+
+uo
+
+uo
+
+  
+
+	
+
+	
+
+u∫
+
+ϕ=ϕo +
+
+L’inversion	de	la	masse.		
+
+	
+On	a	vu	que	le	paramètre	m	dans	l’expression	de	la	métrique	de	Schwarzschild,	solution	
+de	l’équation	d’Einstein	sans	second	membre,	n’était	qu’une	constante	d’intégration,	qui	
+peut	être	prise	positive	ou	négative.	Lorsqu’on	introduit	m	<	0	dans	l’expression	du	tracé	
+des	géodésiques	on	obtient	ceci	:	
+Particules	matérielles	:		
+Photons	:		
+	
+C’est	encore	facile	à	programmer	et	là	encore	on	pourra	construire	des	géodésiques	
+correspondant	alors	à	une	 répulsion,	et	un	effet	de	lentille	gravitationnelle	 négative	
+(introduit	en	1995	dans	ma	publication	dans	Astrophysics	and	Space	Science).	[4]	
+	
+Gardons	en	tête	que	dans	ces	expressions	 t	n’est	qu’un	nombre,	un	“time	marker”.	
+Quand	on	n’a	pas	de	termes	croisés	on	constate	que	l’expression	de	la	métrique	est	
+invariante	quand	on	change	t	en	–t.		
+
+du
+2 m
+h2 u − u2 − 2 m u3
+
+Remarque	sur	la	coordonnée	temps	et	sur	la	masse		
+
+c2l 2
+h2 − u2 − 2 m u3
+
+λ2
+h2 − u2 − αu3
+
+ϕ=ϕo +
+
+c2l 2 − 1
+
+=ϕo +
+
+u∫
+
+u∫
+
+du
+
+du
+
+h2
+
+−
+
+uo
+
+uo
+
+uo
+
+  
+
+  
+
+  
+
+⎛
+⎜
+⎝
+
+1+
+
+2 m
+r
+
+ds2 = 1+
+
+dr 2
+2 m
+r
+
+a2 d 2a
+  
+
+R2 d 2R
+  
+
+⎞
+⎟ c2dt 2 −
+⎠
+
+dt 2 +	(constante)2	=	0	
+
+	
+18	
+En	règle	générale	les	équations	de	la	physique	présentent	ce	type	d’invariance.	Quand	
+on	construit	par	exemple	la	solution	de	Friedman	de	l’équation	d’Einstein	(avec	second	
+membre),	qui	décrit	l’évolution	d’un	cosmos	homogène	et	isotrope	on	tombe	sur	
+l’équation	:	
+dt 2 +	(constante)2	=	0					ou	:						
+R	(	ou	a	)	est	le	“space	scale	factor”,	la	dimension	caractéristique	de	l’univers.		Comme	on	
+a	une	dérivée	seconde,	l’équation	de	Friedman	est	invariante	quand	on	change	t	en	–t.		
+	
+La	métrique,	avec	une	masse	négative	:		
+On	peut	inverser	la	masse	dans	la	métrique	de	Schwarzschild,	et	on	obtient	:		
+− r 2 ( dθ2 + sin2θdϕ2 )	
+Si	on	calcule	les	géodésiques	on	trouvera	évidemment	les	deux	expressions	données	
+plus	haut.		
+	
+Dans	ce	qui	précède	on	a	donc	construit	les	géodésiques	de	la	métrique			
+− r 2 ( dθ2 + sin2θdϕ2 )	
+Quelle	signification	donner	alors	au	“time	marker”	t	?		
+Les	théoriciens	lui	confèrent	alors	le	statut	de	temps	vécu	par	un	observateur	distant.		
+Observateur	distant	:	 r	grand	devant	 2m.	La	métrique	est	alors	celle	de	Lorentz,	
+}		:		
+formulée	à	l’aide	des	coordonnées	  
+Pour	un	observateur	immobile,	on	a	:		
+  ds2 = c2dt 2	
+τ	étant	le	temps	propre,	via		 s	 =	 c	τ	,	le	temps	propre	τ		de	cet	observateur	distant	
+s’identifie	alors	avec	le	time	marker	t.		
+Tout	cela	a	l’air	imparable.	Mais	on	verra	plus	loin	qu’il	n’en	est	rien.		
+
+  ds2 = c2dt 2 − dr 2 − r 2 ( dθ2 + sin2θdϕ2 )	
+
+Le	découplage	temporel,	pivot	du	modèle	du	trou	noir.		
+
+⎞
+⎠⎟ c2dt 2 −
+
+dr 2
+2m
+r
+
+ds2 = 1−
+
+t , r ,θ,ϕ
+
+2m
+r
+
+1−
+
+⎛
+⎝⎜
+
+{
+
+  
+
+   
+
+⎞
+
+1
+
+⎞
+⎠⎟
+
+	
+
+!t =
+
+1−
+
+⎛
+⎝⎜
+   
+
+2m
+
+!r 2 =
+
+1−
+   
+
+2m
+r
+
+2m
+r
+
+2m
+r
+
+⎛
+c 1−
+⎝⎜
+
+19	
+
+	
+Reprenons	nos	équations	de	Lagrange	pour	des	géodésiques	radiale	(	h	=	0	)		
+
+⎠⎟ !t = l	
+r = c2 l 2 − !r 2	
+On	se	souvient	alors	que	 cl = λ		est	égal	à	l’unité	quand	la	vitesse	de	la	masse	témoin	est	
+nulle	à	l’infini.	Donc	ces	équations	se	résument	à	:		
+(6.180)																																	
+La	seconde	équation	est	une	équation	différentielle	permettant	de	calculer	le	temps	
+d’une	chute	libre	depuis	une	position	 r = ro	.	On	a	:		
+2 dr		
+Donc	un	temps	de	chute	libre,	de	la	position	 r = ro	à	la	position	  r = r1	qui	est	:		
+Que	l’on	prenne	la	valeur	2m	de	la	sphère	de	Schwarzschild	pour	 r	,	ou	même	qu’on	
+attribue	à	la	variable	r	la	valeur	zéro,	ce	temps	de	chute	libre	est	fini,	et	extrêmement	
+bref.		
+Si	on	adopte,	comme	les	théoriciens,	une	valeur	de	r	proche	du	rayon	de	Schwarzschild	
+et	comme	état	final	r	=	0	on	trouve	:		
+C’est	à	dire	un	temps	qui	est	de	l’ordre	de	celui	que	met	la	lumière	à	traverser	l’objet.	Si	
+le	rayon	d’une	étoile	à	neutrons	en	implosion	est	de	l’ordre	d’une	vingtaine	de	
+kilomètres	ce	temps	d’implosion	est	de	:		
+Or	dans	mes	vidéos	je	parle	de	temps	d’implosion	d’un	millième	de	seconde.	Mais	c’est	
+moins	encore.		
+Ceci	étant,	j’incite	le	lecteur	à	se	poser	sur	la	formule	donnant	le	temps	d’implosion,	
+quand	le	rayon	final	r1	est	nul	:		
+
+⎠⎟	
+= 4.45 10−5s	
+
+2.104m
+3.108m / s
+
+τ = Δs
+c
+
+ds = −
+  
+
+Δs =
+  
+
+1
+2m
+
+τ =
+  
+
+3 2m
+
+2m
+c
+
+τ =
+  
+
+2 − r1
+
+2
+3
+
+2
+3
+
+	
+
+⎡
+⎢
+⎣
+
+⎤
+⎥
+⎦
+
+⎛
+⎝⎜
+
+ro
+
+2
+
+r
+
+⎞
+
+3
+2
+
+1
+
+3
+
+3
+2
+
+2
+
+ro
+
+	
+
+3c
+
+2m
+
+τ =
+  
+
+	
+20	
+Le	calcul	semble	donner	une	valeur	réelle	qui	évoque	le	temps	que	mettrait	une	étoile	à	
+neutrons	de	se	transformer	en	tête	d’épingle.		
+De	toute	façon	c’est	censé	chiffrer,	selon	cette	solution	métrique,	la	“longueur	s”	
+parcourue,	puisque	s	est	bel	et	bien	une	longueur,	qui	s’exprime	en	mètres,	parcourue	
+par	un	objet	cheminant	sur	une	géodésique	qui	comporte	deux	tronçons.		
+Le	premier,	en	supposant	que	  ro > 2m =α		(rayon	de	Schwarzschild)	
+Le	second	se	référant	à	  0 < r < 2m	c’est	à	dire	à	une	portion	de	surface	où	  ds2 < 0	donc	
+où	la	longueur	ds	est…	imaginaire	pure	!	A	une	portion	de	surface	où,	comme	l’ont	
+explicitement	mentionné	les	autres	«		le	temps	devient	l’espace	et	l’espace	dient	le	
+temps	».	
+Alors,	quel	sens	physique	donner	à	ce	temps	d’implosion	???	
+Peu	importe,	nous	allons	maintenant	recalculer	ce	temps	de	chute	libre	selon	une	
+géodésique	radiale,	mais	en	le	décomptant	avec	la	variable	  tS
+	,	ce	“temps	de	
+Schwarzschild”	qui	a	été	identifié	au	temps	vécu	par	un	observateur	distant.	On	a	:		
+	
+Ce	qui	nous	permet	de	calculer	:		
+qui	est	une	intégrale	qui	 diverge	quand	 r	approche	la	valeur	2m,	le	“rayon	de	
+Schwarzschild”.		
+C’est	ce	qui	est	traduit	dans	l’ouvrage	d’Adler,	Schiffer	et	Bazin	[2]	à	la	figure	6.2	:		
+
+r 3/2
+r − 2m
+
+dr	
+
+tS = −
+  
+
+⎛
+c 1−
+⎝⎜
+
+c 2m
+
+2m
+r
+
+2m
+r
+
+2m∫
+
+!r 2 =
+
+!t =
+
+⎞
+⎠⎟
+
+1
+
+1
+
+   
+
+ro
+
+	
+
+21	
+
+	
+	Le	rayon	est	en	ordonnée.	Une	particule	en	chute	libre	descend,	donc.	Quand	elle	atteint	
+“la	singularité	centrale”	c’est	quand	elle	touche	l’axe	des	abscisses,	quand	r	devient	nul.		
+En	un	temps	propre	fini,	avec	une	belle	courbe	en	trait	plein.	Même	si,	pour	r	<	2m	ce	
+temps	devient…	imaginaire	pur.		
+Cette	chute,	vue	par	un	observateur	distant,	est	censée	se	dérouler	en	un	temps	infini.	
+D’où	l’asymptote	de	la	courbe.		
+Ainsi,	si	cette	métrique	décrit	un	objet	en	implosion	(bien	que	cette	solution	soit	
+indépendante	du	temps)	les	théoriciens	en	ont	conclu	que,	pour	un	observateur	distant,	
+un	tel	spectacle	devrait	durer	un	temps	infini.	Tout	serait	“en	arrêt	sur	image”.		Il	y	a	eu	
+suffisamment	de	choses	publiées	dans	les	ouvrages	de	vulgarisation	pour	qu’il	soit	
+inutile	de	revenir	là-dessus.		
+Subsidiairement,	le	théoricien,	questionné	à	propos	de	l’issue	d’une	implosion	aussi	
+catastrophique,	qui	se	déroule	en	quelques	cent	millièmes	de	seconde	peut	répondre	:		
+- 
+Ajoutons	que	ces	mêmes	théoriciens	ont	introduit	le	concept	de	“censure	cosmique”.	
+En	effet,	si	on	étudie	cette	fois	les	géodésiques	de	longueur	nulle,	les	trajets	des	
+photons,	on	découvre	que	nulle	information	ne	peut	émerger,	émanant	d’objets	se	
+situant	“à	l’intérieur	de	la	sphère	de	Schwarzschild”.		
+	
+Ce	modèle,	en	l’état,	est	représenté	par	la	donnée	de	deux	équations	de	champ.		
+	
+
+Je	ne	me	sens	nullement	tenu	de	décrire	le	résultat	d’un	phénomène	qui,	pour	moi,	se	
+déroule	en	un	temps	infini.		
+
+La	boucle	est	bouclée,	le	voile	du	mystère	se	referme.	Tout	cela	semble	inattaquable…	
+
+L’essence	du	modèle	Janus.		
+
+	
+
+22	
+
+1
+2
+
+Rµν
+(+) −
+  
+
+R(+)gµν
+
+(+) = χ Tµν
+
+(+) +
+
+⎡
+⎢
+⎢
+⎣
+
+g(+)
+g(−)
+
+⌢Tµν
+
+(−)
+
+⎤
+⎥
+⎥
+⎦
+
+	
+
+	
+
+⎤
+⎥
+⎥
+⎦
+
+1
+2
+
+gµν
+
+gµν
+
+g(+)
+g(−)
+
+R(−)gµν
+
+(+) , Tµν
+
+(+) , gµν
+
+Rµν
+(−) −
+  
+
+⌢Tµν
+(+) + Tµν
+(−)
+
+⎡
+(−) = − χ
+⎢
+⎢
+⎣
+
+		Dont	la	solution	est	un	couple	de	métriques	  ( gµν
+(−) )		
+(−) )les	deux	métriques	
+La	donnée	du	problème	est	représentée	par	le	champ.	  ( Tµν
+représentent	deux	façons	différentes	de	“lire”	cette	solution.		
+Le	géodésiques	sont	les	chemins	empreintés	par	des	particules	dotées	d’une	masse	ou	
+de	masse	nulle	mais	avec	une	énergie	E.		
+On	peut	poser	que	les	géodésiques	issues	de	la	métrique	  
+(+)	seront	suivies	par	les	
+particules	dotées	d’une	masse	positive	et	par	les	photons	d’énergie	positive.		
+Et	que	la	métrique		  
+(−)	engendre	des	géodésiques	qui	seront	suivies	par	des	particules	
+de	masse	négative	et	par	des	photons	d’énergie	négative.		
+En	Relativité	Générale	on	emploie	les	mots	de	“particule	témoin”	et	“d’observateur	
+distant”.		En	RG	classique	il	n’y	a	qu’une	espèce	de	particule	témoin	et	qu’un	seul	type	
+d’observateur.		
+Dans	le	modèle	Janus	il	y	en	a	deux.		
+Quand	les	internautes	posent	la	question	:		
+-  Que	se	passe-t-il	quand…	?		
+L’adverbe	de	temps	“	quand	“	doit	être	précisé	:		
+-  Qui	observe,	et	cet	observateur	est	fait	de	quoi	?		
+-	Fait	de	masse	positive,	il	est	“orthochrone”,		
+-	Fait	de	masse	négative,	il	est	“antichrone”	(ou	“rétrochrone”).		
+Selon	le	type	d’observateur	les	évènements	observés	changent.		
+Nous	avons	décidé	(arbitrairement)	que	nous	étions	constitués	de	masses	positives	et	
+que	notre	temps	était…	le	bon.	Nous	sommes	donc	“orthochrones”.		
+Y	aurait-il	des	observateurs	antichrones	?		
+Par	“observateurs”	il	faut	aussi	comprendre	“des	êtres	conscients,	pour	lesquels	un	sens	
+d’écoulement	passé	→	futur	a	un	aspect	intuitif,	vécu”.		
+
+	
+La	configuration	en	orbifold	
+
+	
+23	
+Apportons	tout	de	suite	une	réponse,	à	garder	en	tête	:	cet	univers	Janus	est	
+dissymétrique.	Je	cherche	le	mot.	Peut-on	parler	de	“versant”,	ou	de	“secteur”	?	
+Finalement,	j’opte	pour	le	mot	“côté”	car	ce	mot	me	semble	être	le	plus	proche	de	la	
+structure	géométrique	du	modèle.		
+Prenons	le	diabolo	2D.	De	part	et	d’autre	de	son	cercle	de	gorge	on	a	deux	nappes.	Mais	
+si	on	écrase	ce	diabolo	dans	une	presse	on	le	transforme	en	un	objet	géométrique	qui	est	
+un	orbifold	:	une	surface	bordée	par	une	courbe	circulaire,	où	on	identifie	le	recto	et	le	
+verso.	Bref,	les	deux	côtés	de	la	surface.		
+Lorsque	le	diabolo	2D	a	été	ainsi	écrasé,	on	ne	peut	l’observer	que	d’un	seul	côté	à	la	fois,	
+qu’on	nommera	arbitrairement	le	“recto”,	l’autre	étant	le	“verso”.		
+Ci-après	ce	diabolo	et	son	recto.	Sur	cette	face	une	trajectoire	géodésique	en	trait	plein.	
+Quand	la	“particule-témoin”	passe	“de	l’autre	côté”	sa	trajectoire	géodésique	s’inscrit	
+alors	en	tireté.	Une	dualité	“trait	plein-trait	tireté”	qui	s’inverserait	si	l’observateur	se	
+situait	“de	l’autre	côté”.		
+
+	
+
+Si	on	transporte	par	glissement	le	voisinage	d’une	géodésique	porteuse	de	la	lettre	R,	
+assimilable	à	une	décalcomanie	glissant	sur	la	surface	et	si	on	opère	sur	le	diabolo,	
+aucun	trajet	ne	mettra	en	évidence	une	énantiomorphie.	La	surface	est	orientable.		
+Mais	si	on	passe	à	une	représentation	de	type	orbifold,	c’est	à	dire	qu’on	écrase	le	
+diabolo,		alors	une	énantiomorphie	apparait,	ce	qu’illustre	le	dessin	ci-après.	La	lettre	R,	
+comme	une	décalcomanie,	lorsqu’elle	passe	sur	l’autre	face	après	avoir	franchi	le	cercle,	
+s’inverse		:		
+	
+
+	
+
+24	
+
+	
+Dans	l’orbifold	on	a	identifié	l’endroit	et	l’envers	d’une	surface,	en	introduisant	un	mode	
+de	passage	de	l’un	à	l’autre	(par	ce	cercle-bord).		
+Au	passage,	voici	l’allure	des	géodésiques	découlant	de	la	métrique	du	diabolo	:		
+
+	
+
+	
+
+	
+
+ds2 =
+
++ r 2dϕ2	
+
+Pour	le	diabolo	2D	(	avec	 α> 0	)	:		
+puis,	pour	le	diabolo	3D	(	avec	 α> 0	)		:	
+Il	faut	d’abord	inscrire	dans	l’intuition	ce	concept	d’orbifold	3D.	Cette	hypersurface	3D	
+met	en	communication	deux	espace	euclidiens	3D	à	travers	une	sphère	de	gorge.	C’est	
+une	hypersurface	orientable.		
+
++ r 2( dθ2 + sin2θdϕ2 )	
+
+dr 2
+1− α
+r
+
+dr 2
+1− α
+r
+
+ds2 =
+
+  
+
+  
+
+	
+	
+On	envisagera	un	tétraèdre	avec	des	faces	orientées.	L’extrait	de	l’article	:		
+___________________________________________________________________________________________________	
+
+Comment	définira-t-on	l’orientabilité	en	3D	?		
+
+25	
+
+	
+
+Tétraèdre	orienté.	
+
+___________________________________________________________________________________________________	
+	Le	sens	de	“vissage”	sur	ses	quatre	faces	définit	un	sens	“intérieur-extérieur”.	Si	on	
+considère	son	image	en	miroir,	ce	sens	de	vissage	est	inversé,	ce	qui	veut	dire	que	
+l’orientation	intérieur-extérieur	est	aussi	inversée,	si	on	la	fonde	précisément	sur	ce	
+sesns	de	vissage.		
+La	variété	(manifold)	3D	définie	par	la	métrique	ci-dessus	est	orientable.	Si	on	
+transporte	ce	tétraèdre	témoin	en	lui	faisant	ou	non	franchir	la	sphère	de	gorge	on	ne	
+tombera	jamais	sur	un	tétraèdre	inversé.	Si	on	superpose	deux	triangles,	les	sens	de	
+vissages	qu’ils	portent	sur	leurs	faces	resteront	les	mêmes.	.		
+		
+Mais	si	on	passe	à	une	configuration	de	type	orbifold	une	énantiomorphie	apparaîtra.	Je	
+sais	que	c’est	un	peu	difficile	à	imaginer	:	“écraser	deux	espaces	3D	l’un	contre	l’autre”.		
+Ça	n’est	qu’une	image.	Cela	signifie	simplement	qu’on	identifie	les	couples	de	points	
+conjugués.		
+Cela	revient	à	envisager	un	objet	qui	a	la	structure	d’un	pli.	Le	concept	de	“variété	à	pli”	
+n’existe	pas	en	mathématiques.	Mais	cela	serait	peut-être	l’objet	à	créer.		
+Revenons	au	2D.	Au	lien	d’écraser	la	surface	dans	une	presse	on	peut	envisager	de	la	
+replier	:		
+
+Le	passage	à	une	configuration	orbifold	3D	
+
+	
+
+26	
+
+	
+ce	qui	a	l’avantage	de	préserver	sa	courbure.	Ce	qui	est	plus	difficile	à	imaginer,	par	
+contre,	c’est	de	“plier”	une	hypersurface	3D	le	long	de	sa	sphère	de	gorge.	Cela	amène	les	
+points	“conjugués”	en	coïncidence.		
+Comment	imaginer	l’inversion	des	objets	au	passage	de	la	structure	de	gorge	?		
+C’est	schématisé	en	2D	dans	ma	publication	de	2015	[5]	dont	voici	des	illustrations	qui	
+en	sont	extraites	:		
+___________________________________________________________________________________________________	
+
+	
+___________________________________________________________________________________________________	
+On	distingue	au	passage	une	chose.	Le	diabolo	2D	est	une	surface	orientable.	Mais	le	fait	
+de	la	transformer	en	orbifold	fait	apparaître	une	région,	le	long	de	la	courbe	fermée	qui	
+était	avant	le	cercle	de	gorge,	où	on	ne	peut	plus	définir	de	vecteur	normal.		
+On	est	ainai	amené	à	opérer	une	différence	de	«	nature	»	entre	les	objets,	2D,	qui	
+appartiendraient	au	recto	de	notre	surface	et	ceux	qui	appartiendraient	au	verso.	Le	
+
+	
+27	
+cercle	«	n’appartient	ni	au	recto,	ni	au	verso,	puisqu’en	ce	lieu	ceci	n’est	plus	définissable.	
+Lorsqu’un	objet	le	franchit	il	passe	d’une	face	à	l’autre.		
+Lorsqu’on	passe	à	une	représentation	cosmologique	et	qu’on	envisage	un	espace	temps	
+configuré	en	orbifild	la	question	qui	se	posera	sera	«	comment	de	tels	objets	peuvent-il	
+interagir	?	«		
+En	passant	au	3D	l’image	ci-après,	toujours	extraite	de	l’article,	montre	l’inversion	du	
+tétraèdre	au	passage	de	la	surface	de	gorge	:		
+___________________________________________________________________________________________________	
+	
+
+	
+
+___________________________________________________________________________________________________	
+Si,	dans	sa	représentation	sous	la	forme	d’un	manifold	(variété	3D)	l’objet	géométrique	
+3D	est	doté	d’une	surface	de	gorge	sans	problème,	sa	configuration	en	orbifold	va	
+modifier	la	topologie	de	celle-ci.	Ce	n’est	plus	une	sphère	mais	un	“projectif	P2”	dont	
+l’image	est	donnée	par	la	surface	inventée	par	Werner	Boy,	et	qui	est	abondamment	
+décrite	dans	ma	bande	dessinée	“Le	Topologicon”	[6].		
+Là,	il	devient	difficile,	même	pour	moi,	de	se	forger	une	image	mentale	de	l’objet.			
+Je	dirais	:		
+-  Si	à	ce	stade	vous	avez	de	la	fumée	qui	sort	par	les	oreilles,	c’est	normal…	
+Voici	l’image	de	cette	surface	de	Boy,	extraite	de	la	BD,	ci-après.	Dans	cette	image	on	a	
+figuré	les	voisinages	de	“méridiens”	qui	sont	des	rubans	de	Möbius	à	un	demi	tour,	qui	
+se	croisent	sur	le	pôle.		
+Dans	la	figure	ci-après	on	a	porté	l’accent	sur	l’ensemble	d’auto-intersection	et	un	petit	
+bouchon	circulaire	a	été	enlevé	pour	qu’on	découvre	le	point	triple,	où	trois	nappes	se	
+recoupent.		
+Mais	cet	ensemble	d’auto-interstection	et	ce	point	triple…	N’EXISTENT	PAS	!	Cela	
+provient	du	fait	qu’on	ne	peut	pas	plonger	une	surface	de	Boy	dans	  !3	.	On	ne	peut	que	
+l’immerger	dans	  !3.	Dans	les	opérations	de	plongement	et	d’immersion	le	plan	tangent	
+
+	
+28	
+varie	continuement.	Dans	l’opération	de	plongement	la	surface	ne	se	recoupe	pas	elle-
+même.	Par	contre	si	on	l’immerge,	elle	peut	(et	ici	ne	peux	que)	se	recouper	elle-même.		
+		
+
+		
+
+	
+
+	
+
+  
+
+{
+
+{
+
+ds2 =
+
+dr 2
+1− α
+r
+
+	
+29	
+C’est	également	le	cas	de	la	bouteille	de	Klein,	dont	l’ensemble	d’auto-intersection	se	
+réduit	à	une	courbe	fermée.		Une	courbe	QUI	N’EXISTE	PA	NON	PLUS.	Ceci	n’est	qu’un	
+“accident	d’immersion”.	La	“vraie”	bouteille	de	Klein	ne	se	recoupe	pas	elle-même.	Elle	
+habite	simplement	dans	un	espace	qui	est	inaccessible	à	notre	entendement.		
+Donc,	si	on	part	de	la	métrique	:		
++ r 2( dθ2 + sin2θdϕ2 )	
+et	qu’on	décide	de	lui	donner	une	configuration	d’orbifold	elle	représentera	un	repli	
+d’un	espace	3D	orientable,	quoique	non	contractile.	L’orbifold	comprend	une	surface	de	
+gorge	inorientable	en	forme	de	surface	de	Boy.		
+}	ne	sont	pas	de	“bonnes	
+On	a	vu,	pour	cet	objet	3D,	que	les	coordonnées	   r ,θ,ϕ
+coordonnées”	puisqu’il	existe	une	zone	où	l’élément	de	longueur	cesse	d’être	réel.	On	
+passe	alors	à	un	meilleur	jeu	de	coordonnées	  ρ,θ,ϕ
+},	à	l’aide	du	changement	de	
+variable	“magique”	:		
+  r =α( 1+ Log chρ)	
+présenté	dans	l’article	de	2015	[5].	La	métrique	se	formule	alors	selon	:		
+th2ρdρ2 +α2( 1+ Logchρ)2 ( dθ2 + sin2θdϕ2 )	
+Profitons-en,	au	passage,	pour	montrer	comment	ce	changement	de	variable	a	permis	
+d’éliminer	la	singularité	de	coordonnée	en	 r =α		
+Un	cosinus	hyperbolique	c’est		
+⎤⎦ = 0	
+On	a	  e 0 = 1	,	donc	  ch(0) = 1		et	  Log ch(0)
+Par	ailleurs	le	sinus	hyperbolique	est	:		
+et	la	tangente	hyperbolique	:		
+on	a	:	  th(0) = 0	ainsi	le	coefficient	de	  dρ2		est-il	une	forme	indéterminée		
+
+	
+	
+eρ + e−ρ	
+
+ds2 = α2 1+ Logchρ
+Logchρ
+  
+
+chρ=
+  
+
+thρ=
+ 
+
+shρ=
+  
+
+	.		
+
+eρ − e−ρ
+
+eρ + e−ρ
+
+eρ − e−ρ
+
+2
+
+2
+
+⎡⎣
+
+zero
+zero
+
+ 
+
+	
+
++ ...
+
++ ...
+
++ ...
+
++ ρ3
+3!
+
+− ρ3
+3!
+
+Log chρ= ρ2
+2
+
+1+ Log chρ
+Log chρ
+  
+
+e−ρ = 1− ρ+ ρ2
+2
+
+eρ = 1+ ρ+ ρ2
+2
+  
+chρ= 1+ ρ2
+2
+  
+shρ= ρ+ ρ3
+3
+  
+
+	
+30	
+On	va	lever	cette	indétermination	en	effectuant	un	développement	en	série	autour	de	la	
+variable	 ρ= 0	On	a,	pour	les	exponentielles	:		
++ ...	
+
+th2ρ		tend	vers	2.		La	singularité	a	disparu.		
+
++ ...		
+  thρ= ρ+ ...	
+On	trouve	que	
+Nous	considérons	une	hypersurface	3D	configurée	en	orbifold.	Il	est	alors	difficile	
+d’imagfiner	que	le	plaige	de	tout	à	l’heure,	le	long	d’une	courbe	fermée,	puisse	alors	
+s’opérer	le	longe	d’une	2-surface	fermée.		
+Dans	le	cas	du	diabolo	à	deux	dimensions	c’est	sur	une	courne	fermée	qu’on	ne	pouvait	
+plus	définir	de	normale.	Dans	notre	«	diabolo	3D	»	cette	perte	d’orientation	affectera	
+cette	fois	une	surface	fermée.	Elle	sera	unilatère.		
+Ces	jours-ci,	après	m’être	creusé	la	tête	pendant	pas	mal	d’années,		j’ai	réussi	à	élaborer	
+enfin	un	cheminement	qui	conduit	à	ce	changement	de	variable.	En	fait	on	n’arrive	à	rien	
+si	on	tente	de	comprendre	d’où	sort	une	formule	aussi	compliquée	:		
+  r =α( 1+ Log chρ)	
+Il	est	plus	simple	de	regarder	ce	qui	émerge	après	différentiation	:		
+ dr =αthρdρ	
+D’où	vient	le	problème	?	Pourquoi	envisager	un	changement	de	coordonnées	?	Prenons	
+la	métrique	du	diabolo	2D,	ou	même	3D	(avec	α	positif)			
+On	a	un	terme		
+
+	
+D’où	vient	ce	“changement	de	variable	magique”	?		
+
++ r 2( dθ2 + sin2θdϕ2 )	
+dr 2	
+
+dr 2
+1− α
+r
+
+dr 2
+1− α
+r
+
++ r 2 dϕ2
+
+ds2 =
+
+ds2 =
+
+r
+
+  
+
+dr 2 =
+
+1
+1− α
+r
+  
+
+r −α
+
+(
+
+)	
+
+  r =α 1+ f (ρ)
+
+dr =α f '(ρ) dρ
+  
+
+	
+31	
+qui	change	de	signe	quand	r	devient	inférieur	à	α.	Pire	encore,	le	dénominateur	devient	
+nul.	D’où	l’idée	d’une…	singularité.	On	pense	alors	à	envisager	un	changement	de	
+variable	classique	du	genre	:		
+avec	:	  f (ρ) ≥ 0		et	  f (0) = 0		
+On	aura	:		
+Le	tout	est	de	choisir	de	telle	manière	que	la	fraction	
+	tende	vers	une	limite	quand	
+ ρ→ 0	.		Une	solution	très	simple	:	  f (ρ) = ρ2	.	Alors	la	fraction	tend	vers	4.	J’ai	éliminé	
+ma	singularité	de	coordonnées.	La	métrique	s’écrit	alors	:		
+En	2D	:																																				  ds2 = 4α2 ( 1+ ρ2 ) dρ2 +α2 ( 1+ ρ2 )2dϕ2		
+En	3D	:																						  ds2 = 4α2 ( 1+ ρ2 ) dρ2 +α2 ( 1+ ρ2 )2( dθ2 + sin2θdϕ2 )	
+Quand	ρ→ ∞		
+En	2D	:																																													  ds2 → 4α2 ρ2 dρ2 +α2 ρ4 dϕ2		
+En	3D	:																																			  ds2 → 4α2 ρ2 dρ2 +α2 ρ4( dθ2 + sin2θdϕ2 )	
+Ma	foi,	j’imagine	que	j’ai	toujours	le	droit	d’écrire	tout	cela.	S’agissant	du	diabolo	2D,	
+quelle	que	soit	la	coordonnée	 r	ou	 ρ,	ça	n’empêche	pas	cet	objet	d’être	ici,	non	
+contractile		(	selon	son	prolongement	isométrique	dans	  !3	).		
+
+dr 2 =α2 (1+ f ) f ' 2
+f
+
+dρ2	
+
+r −α
+
+f ' 2
+f
+
+r
+
+  
+
+ou	plutôt,	puisque	cet	objet	n’a	pas	de	bords	circulaires	:		
+
+	
+
+	
+
+32	
+
+	
+Dans	cet	objet	la	seule	grandeur	qui	ait	un	sens	c’est	la	longueur	s	.	Les	coordonnées	ne	
+sont	que	différents	systèmes	de	repérage,	plus	ou	moins	pertinents.		
+	Au	voisinage	de	la	gorge	les	courbes	correspondent	à	ceci	:		
+
+	
+
+Est-ce	à	dire	que	j’ai	terminé	l’étude	de	cet	objet	défini	par	sa	métrique	?		
+Non	!		
+Qu’est-ce	qu’un	espace	euclidien	?		
+C’est	un	espace	où	on	peut	trouver	un	jeu	de	coordonnées	tel	que	les	coefficients	de	la	
+métrique	deviennent	constants,	indépendants	des	coordonnées.		Quand	les	signes	de	
+tous	les	termes	sont	positifs	on	dit	que	l’espace	est	proprement	euclidien.		
+Est-ce	que	les	objets	étudiés	ici	tendent,	pour	les	grandes	valeurs	de	s	(comptées	à	partir	
+de	la	gorge	et	“radialement”)	vers	des	espace	euclidiens	.		
+Les	représentations	en	  ρ,ϕ{
+},	pour	l’objet	3D,	ne	
+l’indiquent	guère.	Ce	qui	ne	veut	pas	dire	qu’il	n’y	ait	pas	un	autre	choix	de	coordonnées	
+qui	fasse	apparaître	cette	propriété	sous-jacente.		
+Reprenons	:		
+
+}	,	pour	l’objet	2D	et	en	  ρ,θ,ϕ
+
+{
+
+(
+
+)	
+
+33	
+
+  r =α 1+ f (ρ)
+
+	
+avec	:	  f (ρ) ≥ 0		et	  f (0) = 0		
+et		:		
+dρ2	
+On	a	  dr =α f ' dρ.	Il	faudrait	une	fonction	 f	telle	que		  dr ∼ dρ	à	l’infini.			
+On	on	sait,	par	exemple	en	2D,	après	analyse	du	plongement	isométrique	qu’on	a	près	de	
+la	gorge	une	allure	parabolique.	Donc	quelque	chose	comme	 dr = ρdρ	pourrait	être	
+intéressant.			
+On	a	une	fonction	  f '(ρ)	qui	tend	vers	une	limite	à	l’infini,	c’est	la	fonction	  f '(ρ) =αthρ.	
+
+dr 2 =α2 (1+ f ) f ' 2
+f
+
+dr =α f '(ρ) dρ
+  
+
+r −α
+
+r
+
+	
+
+	
+
+	
+
+eρ − e−ρ
+eρ + e−ρ
+
+2
+
+2
+
+thρ=
+
+chρ=
+
+eρ + e−ρ
+
+eρ − e−ρ
+
+shρ=
+  
+
+	On	remonte	à	  f (ρ)	en	intégrant	:		
+Comme	 shρ	est	la	dérivée	de		 chρ	(	et	vice-versa	)	:	  shρdρ= d(chρ)	
+L’inégrale	est	de	la	forme		
+Et	on	arrive	en	finale	à	:		
+
+= Logu		donc		
+ r =α Log chρ+ Cst	
+
+r =α thρdρ=α
+ 
+
+dρ	
+
+shρ
+chρ∫
+
+du
+u∫
+ 
+
+∫
+
+  r =α( 1+ Log chρ)	
+
+	
+34	
+C’est	donc	de	là	que	venait	ce	mystérieux	changement	de	variable.	Ça	a	pris	du	temps,	
+mais	j’ai	quand	même	fini	par	trouver.		
+Celui-ci	donne	aux	métriques	les	formes	:		
+En	2D	:		
+En	3D	:		
+Quelle	est	la	forme	de	la	fonction	 chρ	?		
+	
+
+th2ρdρ2 + α2( 1+ Logchρ)2 dϕ2	
+th2ρdρ2 + α2( 1+ Logchρ)2 ( dθ2 + sin2θdϕ2 )	
+
+ds2 = α2 1+ Logchρ
+Logchρ
+  
+
+ds2 =α2 1+ Logchρ
+Logchρ
+  
+
+	
+th2ρ→ 1		
+
+	
+
+eρ
+2
+
+chρ→
+   
+
+	
+Quand	on	a								ρ→ ∞	
+La	forme	de	la	métrique	tend	vers	:		
+En	2D	:		
+En	3D	:		
+	
+
+Log chρ→ ρ− Log 2 ! ρ
+
+  ds2 = α2dρ2 + α2ρ2 dϕ2	
+  ds2 = α2dρ2 + α2ρ2 ( dθ2 + sin2θdϕ2 )	
+
+}	
+
+   ρ,ϕ{
+{
+   ρ,θ,ϕ
+
+} → x , y
+{
+
+{
+} → x , y , z
+
+  x =αρcosϕ
+  dx = −αρsinϕdϕ+αcosϕdρ
+
+	
+35	
+Il	faut	encore	transformer	ces	métriques	en	leurs	expressions	en	coordonnées	
+cartésiennes.		
+Pour	ce	faire	il	faudrait	envisage	de	nouveaux	changements	de	variable		
+}		
+Le	taupin	pourra	s’amuser	à	ça.	Limitons-nous	au	3D,	avec	le	changement	de	variable	
+inverse.		
+On	part	de		  ds2 = dx2 + dy2	et	on	pose	:		
+y =αρsinϕ	
+dy =αρcosϕdϕ+αsinϕdρ	
+On	trouve	:		
+  ds2 = dx2 + dy2 =α2 dρ2 +α2 ρ2 dϕ2	
+Ce	qu’il	faut	bien	comprendre	c’est	que	cette	propriété	est	intrinsèque.		Si	ces	diabolos	
+n’étaient	pas	euclidiens	à	l’infini	il	n’y	aurait	aucun	jeu	de	coordonnées	qui	permettrait	
+de	donner	à	la	métrique	une	forme	euclidienne.		
+Imaginons	un	être	qui	vive	dans	le	diabolo	2D.	Il	pourrait	construire	un	triangle	
+constitué	par	des	géodésiques	et,	pour	des	grandes	valeurs	de	s	(en	s’éloignant	du	cercle	
+de	gorge)	il	constaterait	que	la	somme	des	trois	angles	vaut	π.		
+De	même	cet	être	qui	vivrait	dans	le	diabolo	3D	pourrait,	loin	de	la	sphère	de	gorge,	
+construire	une	sorte	de	cube	dont	les	faces	seraient	des	entrelas	de	géodésiques,	il	
+constaterait	alors	que	la	somme	des	huit	angles	solides	de	son	polyèdre	vaut	4	π.		
+	
+Passons	à	la	métrique	de	Schwarzschild	:		
+	
+Qu’on	écrira	:		
+
+− r 2 ( dθ2 + sin2θdϕ2 )	
+− r 2 ( dθ2 + sin2θdϕ2 )	
+
+⎞
+⎠⎟ c2dt 2 −
+
+dr 2
+2m
+r
+
+ds2 = 1−
+
+2m
+r
+
+1−
+
+⎛
+⎝⎜
+
+  
+
+	
+
+⎛
+⎝⎜
+
+ds2 = 1−α
+r
+  
+
+⎞
+⎠⎟ c2dtS
+2 −
+
+dr 2
+1−α
+r
+
+  ds2 = c2dtS
+
+	
+36	
+Là	encore,	une	Remarque	qui	me	semble	importante	:		
+Quand	on	fait	tendre	r	vers	l’infini	cette	métrique	devient	“improprement”	euclienne	(ou	
+“euclidienne	avec	une	signature	hyperbolique		(+	-	-	-)	»		)	
+2 − dr 2 − r 2 ( dθ2 + sin2θdϕ2 )	
+C’est	une	propriété	intrinsèque	liée	à	cette	hypersurface	solution.	Le	fait	d’être	euclidien	
+ou	improprement	euclidien	est	synonyme	d’espace	“plat”,	sans	courbure,	bien	que	cette	
+idée	d’espace	plat	avec	un	espace	hyperbolique	parle	peu	à	l’imagination.		
+Cela	veut	simplement	dire	que	l’espace	découlant	de	la	métrique	de	Schwarzschild	
+(extérieure)	est	“plat	à	l’infini	».	Ça	n’est	pas	une	question	de	choix	de	coordonnées.	Il	est	
+comme	ça	intrinsèquement.		
+Dans	cette	forme	d’écriture	de	la	métrique	de	Schwarzschild	et	avec	ces	coordonnées	
+}	la	variable	chronologique	est	ce	que	nous	avons	appelé	“le	temps	de	
+Schwarzschild”.		
+On	fait	disparaître	les	deux	singularités	de	coordonnées,	toujours	à	l’aide	du	
+changement	de	variable	magique	:		
+  r =α( 1+ Log chρ)	
+et	l’expression	de	la	métrique,	dans	ce	jeu	des	coordonnées	  
+
+tS , ρ,θ,ϕ
+
+tS , r ,θ,ϕ
+
+}		
+
+{
+  
+
+{
+
+ds2 = α2 Logchρ
+1+ Logchρ
+  
+
+c2dtS
+
+2 −α2 1+ Logchρ
+Logchρ
+
+th2ρdρ2 − α2( 1+ Logchρ)2 ( dθ2 + sin2θdϕ2 )
+
+	
+
+	
+
+gtS tS
+ 
+
+Passage	à	une	configuration	orbifold.		
+
+Si	nous	voulons	faire	interagir	les	particules	cheminant	de	part	et	d’autre	de	la	surface	
+de	gorge	nous	sommes	conduits	à	une	configurant	orbifold,	le	long	d’une	surface	fermée	
+qui	est	un	projectif	P3.	En	termes	de	physique	ceci	se	traduira	par	une	P-symétrie.		
+	est	nul	sur	la	surface	de	gorge,	ce	qui	signifie	qu’en	ce	point	nous	ne	
+Mais	le	terme	
+pouvons	plus	orienter	le	temps.	Cette	surface	est	donc	un	lieu	où	s’opère	l’inversion	de	
+la	coordonnée	chronologique	ce	qui,	physiquement,	se	traduira	par	une	T-symétrie.		
+Cette	configuration	orbifold	fait	interagir	des	particules	qui	sont	en	relation	de	PT-
+symétrie.	Or	on	sait	que	la	T-symétrie	entraîne	une	inversion	de	la	masse	(Souriau	1970,	
+cf.	chapitre	14	de	la	référence	[7]).	Donc,	au	passage	de	la	surface	de	gorge	la	masse	des	
+particules	s’inverse,	idée	qui	avait	été	présenté	en	2015	dans	le	papier	“natural	mass	
+inversion	process”	[5].	
+Une	configuration	de	type	orbifold	diffère	de	la	classique	notion	de	manifold	
+(«	manifold	»,	en	français,	se	traduit	par	“variété”).	Quand	on	équipe	une	variété	d’une	
+métrique	Riemanienne	elle	devient	“une	variété	riemanienne”.	Mais,	classiquement,	on	
+
+	
+Quid	du	Big	Bang	?		
+
+	
+37	
+exige	qu’en	tout	point	on	puisse	définir	des	coordonnées	(dites	“gaussiennes”).	Ceci	
+implique	que	le	déterminant	de	la	métrique	soit	partout	non-nul.		
+Dans	l’orbifold	on	autorise	le	fait	que	certaines	régions	soient	sur	ce	plan,	singulières,	
+inorientables.	Ainsi	l’espace-temps,	ainsi	configuré,	est-il	“localement	inorientable”,	à	la	
+fois	vis-à-vis	de	l’espace,	et	du	temps.		
+On	est	alors	immédiatement	tenté	de	se	demander	si	la	structure	de	cette	“singularité	
+initiale”	ne	correspondrait	pas	tout	simplement	à	une	structure	de	type	orbifold.	Celle-ci	
+permet	tout	d’abord	d’éviter	cette	singularité,	qui	disparait,	le	Big	Bang	étant	réduit	au	
+statut	de	“singularité	de	coordonnées”	(qu’un	changement	de	coordonnées	permet	donc	
+de	faire	disparaître).		
+Avec	une	structure	de	type	orbifold	la	coordonnée	temps	se	trouve	inversée	au	
+franchissement	de	la	surface	de	gorge,	de	même	que	l’énergie	et	la	masse.	On	a	
+également	une	situation	d’énantiomorphie,	d’effet	mirroir.	Au	total	nous	aurons	une	PT-
+symétrie.		
+Mais	pourquoi	s’arrêter	en	si	bon	chemin.	Pourquoi	ne	pas	ajouter	une	5e	coordonnée	de	
+Kaluza	(gérant	la	charge	électrique)	?	Et	même	de	p	coordonnées	de	Kaluza,	pour	tenir	
+compte	de	toutes	les	charges	quantiques.		
+La	surface	de	gorge	étant	inorientable,	son	franchissement	entraîne	l’inversion	des	
+coordonnées	additionnelles,	donc	une	C-symétrie.		
+Tel	que	conjecturé	jadis	par	Andreï	Sakharov,	le	Big	Bang,	devenu	ici	non	singulier,	
+correspond	à	une		
+CPT-symétrie	
+Au	moment	où	les	deux	“côtés”	de	l’univers	se	forment	(le	mot	“avant”	perd	son	sens)	
+l’espace	et	le	temps	sont	inorientables,	l’énergie	est	nulle,	toutes	les	charges	quantiques	
+sont	nulles.		
+Ce	schéma	répond	à	la	question	de	 l’avant	 Big	 Bang.	(du	grain	à	moudre	pour	les	
+philosophes).		
+On	retombe	sur	la	question	de	l’observateur.	Le	sens	du	temps	est	inséparable	du	choix	
+que	l’on	fait	de	l’observateur.	Ici	il	y	en	a	potentiellement	deux,	constitués	de	masses	
+positives	ou	de	masses	négatives.	Si	on	passe	de	l’un	à	l’autre,	la	conception	passé-futur	
+est	inversée.		
+Mais	ces	deux	côtés,	“versants	d’espace-temps”	ne	sont	pas	symétriques.	L’un	des	deux	
+héberge	des	créatures	vivantes,	pensantes,	conscientes,	l’autre,	non.		
+Pourquoi	?	Cela	a	délà	été	évoqué	dans	des	travaux	antérieurs,	dès	1995	[4].	A	l’issue	de	
+l’ère	radiative	la	valeur	absolue	de	la	densité	de	matière	dans	le	“côté	négatif”	prime	:		
+
+ ρ(−) >> ρ(+)	
+
+1
+
+1
+
+	
+
+(+) =
+
+<< tJ
+
+4πG ρ(−)
+
+4πG ρ(+)
+
+tJ
+(−) =
+  
+
+	
+38	
+En	s’affranchissant	du	rayonnement	(“découplage”)		les	deux	populations	peuvent	être	
+le	siège	d’une	instabilité	gravitationnelle.	Mais	le	temps	caractéristique	d’un	tel	
+phénomène	est	alors	le	temps	de	Jeans.	Alors	:		
+Ainsi	la	masse	négative	se	constitue-t-elle	en	conglomérats	(des	«	Great	Repellers	»)	,	
+repoussant	la	masse	positive	dans	l’espace	intersticiel,	lui	conférant	ainsi	une	structure	
+lacunaire	(Astrophysics	and	Space	Science	1995).	
+Ce	faisant,	la	masse	positive	est	violemment	comprimée,	selon	des	plaques,	géométrie	
+favorisant	
+optimale	 pour	 permettre	 un	 refroidissement	 radiatif,	
+l’instabilité	
+gravitationnelle	(naissance	de	galaxies).		
+Les	conglomérats	de	masse	négative	sont	sphéroidaux.	Ils	sont	contitués	d’espèce	
+légères	de	masse	négative	(hydrogène,	hélium…).	Mais	ces	objets	se	comportent	alors	
+comme	des	proto-étoiles	dotées	d’un	 cooling	 time	,	d’un	temps	de	refoidissement,	
+excédant	l’âge	de	l’univers.	En	effet,	la	quantité	de	chaleur	à	évacuer	croit	comme	le	cube	
+du	rayon	de	l’objet,	alors	que	la	surface	de	son	“radiateur”	croit	comme	le	carré.		
+Pour	qu’une	proto-étoile	puisse	se	muer	en	étoile	il	est	nécessaire	que	la	température	en	
+son	centre	dépasse	la	valeur	seuil	de	700.000	degrés.	Pour	les	conglomérats	de	masse	
+négative	cela	ne	se	produira	jamais.	La	nucléosynthèse	ne	pourra	pas	opérer	en	créant	
+les	atomes	lourds	des	planètes	et	les	constituants	de	la	vie.		
+Donc,	dans	ce	versant	négatif	de	l’univers,	pas	de	galaxies,	pas	d’étoiles,	pas	de	planètes,	
+pas	d’espèces	lourdes	et…	pas	de	vie.		
+Un	observateur	susceptible	de	capter	les	photons	d’énergie	négative	émis	par	ces	objets	
+les	percevrait	comme	une	distribution	de	masse	sphéroïdales,	aux	contours	flous,	
+émettant	dans	le	rouge	et	l’infrarouge.		
+Quand	on	remonte	dans	le	passé	de	l’univers	on	devrait	donc	tomber	sur	un	moment	où	
+la	masse	et	la	“flèche	du	temps”	s’inversent.		
+Les	accélérateurs	de	particules	sont	censés	nous	permettre	d’explorer	cet	état	d’un	
+passé	lointain	de	l’univers.	Quand	on	dote	les	particules	d’une	énergie	E,	on	associe	
+aussitôt	à	cet	état	un	équivalent	thermique	selon	la	relation	E	=	k	T,	k	étant	la	constante	
+de	Boltzmann.		
+Mais	est-ce	licite	?		
+Est-ce	qu’en	raisonnant	ainsi	on	n’est	pas	dans	la	situation	d’un	expérimentateur	qui,	
+projetant	l’une	contre	l’autre	deux	molécules	d’air	à	800	mètres	par	seconde	se	dit	“je	
+reconstitue	un	état	de	l’air	lorsque	ce	gaz	est	porté	à	1200	K”.		
+
+	
+Quel	passé	lointain	pour	l’univers	?		
+
+Proton	+	électron			→				neutron	plus	neutrino.	
+
+	
+39	
+La	vitesse	des	éléments	est	là.	Mais	il	manque	la	densité	(donc	la	pression).	Il	est	
+possible	alors	qu’on	passe	à	côté	d’un	phénomène	qui	ne	peut	s’observer	que	quand	les	
+deux	sont	réunis,	quand	les	vitesses	des	composants	dépassent	un	seuil	au	sein	d’une	
+densité	suffisante,	bref	lorsqu’on	atteint	une	valeur	critique	de	la	pression,	qu’un	
+accélérateur	de	particule	ne	peut	recontituer.		
+De	quel	phénomène	pourrait-il	s’agir	?		
+On	a	vu	que	quand	le	noyau	de	fer,	situé	au	centre	d’une	étoile	massive,	subissait	une	
+très	forte	“rétro-compression”	dans	le	phénomène	de	supernova,	les	électrons	
+commençaient	par	disparaître,	ne	trouvant	plus	assez	de	place	pour	loger	leur	fonction	
+d’onde,	selon	le	schéma	:		
+Un	tel	processus	donne	alors	naissance	à	une	étoile	à	neutrons.	Mais	que	se	passe-t-il	
+quand	cette	compression	continue,	que	les	conditions	soient	telles	que	les	neutrons	ne	
+puissent	plus	encaisser	cette	pression	?	Les	théoriciens	imaginent	alors	une	disparition	
+des	neutrons,	et	leur	conversion		en	une	soupe	de	quarks	et	de	gluons,	en	chute	libre.		
+Pourquoi	ne	pas	imaginer	que	l’inversion	de	la	masse	en	excès	permette	alors,	dans	une	
+étoile	à	neutrons,	à	celle-ci		en	de	s’échapper	?		
+Rappelons	au	passage	que	ce	schéma	est	analogue	à	ce	qui	se	passe	lors	de	la	
+compression	du	noyau	de	fer	de	l’étoile	massive	se	muant	en	supernova.	Dans	ce	cas	
+c’est	l’énergie	qui	trouve	le	moyen	de	s’échapper,	sur	la	forme	de	neutrinos.		
+A	l’échelle	de	l’univers,	ce	serait	l’ensemble	de	la	masse	qui	subirait	cette	inversion.	
+Quand	celle-ci	s’opérerait-elle	?	Quand	les	baryons	ne	pourraient	plus	loger	leur	
+fonction	d’onde,	la	dimension	caractéristique	étant	la	classique	longueur	d’onde	de	
+Compton	:	
+		pour	les	baryons	:		1,133	10-15	m	
+L’horizon	du	passé	correspondrait	alors	à	l’époque	où	les	baryons	se	retrouvaient	tassés,	
+les	distances	qui	les	séparent	devenant	inférieures	à	leur	distance	de	Compton.		
+Cela	expliquerait	pourquoi	l’escalade	en	énergie,	dans	les	accélérateurs	de	particules,	ne	
+cadre	pas	avec	l’image	qu’on	se	fait	d’un	passé	lointain	du	cosmos.		
+	
+Cette	solution	extérieure	de	Schwarzschild	n’a	de	sens	qu’en	prolongeant	une	métrique	
+intérieure	qui	décrit	la	géométrie	à	l’intérieur	d’une	goutte	de	matière,	de	masse	M.	On	
+peut	donc	écrire	:		
+
+Retour	vers	la	solution	de	Schwarzschild	
+
+λc =
+ 
+
+h
+mc
+
+− r 2 ( dθ2 + sin2θdϕ2 )	
+
+ds2 = 1−
+
+⎛
+⎝⎜
+
+2G M
+c2 r
+
+⎞
+⎠⎟ c2dtS
+2 −
+
+dr 2
+2G M
+c2 r
+
+1−
+
+  
+
+  
+
+⎛
+⎝⎜
+
+1+
+
+ds2 = 1+
+
+2G M
+c2 r
+
+⎞
+⎠⎟ c2dtS
+2 −
+
+dr 2
+2G M
+c2 r
+
+− r 2 ( dθ2 + sin2θdϕ2 )	
+
+	
+40	
+Cette	expression	métrique	décrit	donc	le	comportement	de	masses-témoins	+1,	
+positives,	dans	un	tel	champ	de	gravité.		
+Si	d’aventure	une	masse,	appartenant	à	cet	“autre	côté	de	l’univers”,	donc	de	masse	-1,	
+passait	par	là,	elle	subirait	une	force	de	répulsion	et	suivrait	une	géodésique	issue	de	la	
+métrique	:		
+On	a	donc,	à	ce	stade,	transformé	le	modèle	du	trou	noir	en	un	couple	“trou	noir-fontaine	
+blanche”,	toujours	avec	ce	thème	du	gel	du	temps.		
+Ce	gel	du	temps	est	la	carte	faible	de	ce	château	de	cartes	qu’est	le	modèle	du	trou	noir.		
+On	sait	que	les	étoiles	à	neutrons	sont	des	objets	qui	tournent	sur	eux-mêmes	très	
+rapidement	avec	des	vitesses	de	rotation	atteignant	mille	tours	par	seconde.		
+Avec	sa	symétrie	sphérique,	statique,	un	modèle	basé	sur	la	métrique	de	Schwarzschild	
+ne	colle	donc	pas	avec	la	réalité	physique.		
+Un	modèle	d’objet	avec	rotation	relève	d’un	autre	groupe	de	symétrie.	Schwarzschild	
+c’est	O(3)	×	R,	la	symétrie	sphérique.	L’objet	en	rotation	est	axisymétrique.	Il	est	
+invariant	par	rotation,	selon	O(2).	On	ne	peut	donc	pas	passer	d’un	objet	à	l’autre	par	un	
+simple	changement	de	coordonnées.		
+	
+La	métrique	de	Kerr	(1963)	
+En	1963,	le	Néo-Zélandais	Roy	Kerr	construit	la	version	non-linéaire	d’une	solution	de	
+l’équation	d’Einstein	indépendante	du	temps	et	axisymétrique	[8].	
+
+	
+
+	
+Pour	éviter	toute	confusion,	au	lieu	d’utiliser	la	variable	ρ	,	que	je	fais	apparaître	quand	
+j’utilise	le	changement	“la	variable	magique”	j’ai	utilisé	la	lettre	grecque	Ρ	(“rho	
+majuscule”).		
+Le	paramètre	a	se	réfère	à	la	rotation	ajoutée	à	ce	modèle.	Quand	il	est	nul	on	retrouve	la	
+métrique	de	Schwarzschild	:		
+
+	
+
+⎛
+⎝⎜
+
+dP2
+1− α
+P
+
+⎞
+ds2 = 1− α
+⎠⎟ dtS
+2 −
+P
+  
+
+− P2( dθ2 + sin2θdϕ2 )		
+
+	
+41	
+La	solution	de	Kerr,	comme	l’avait	fait	celle	de	Schwarzschild	en	1916	vis-à-vis	d’un	
+travail	antérieur	d’Einstein,	de	1915,	,	étend	une	solution	approchée	publié	en	1918	par	
+Lense	et	Thiring	[9].	
+Cette	solution	fait	apparaître	un	phénomène	que	je	juge	essentiel,	qu’on	appelle	le	
+“frame-dragging”	et	qui	traduit	la	présence	dans	cette	expression	métrique	d’un	terme	
+croisé	en	  drdtE	.		
+(on	notera	que	l’absence	de	ce	terme	croisé	est	«	heuristiquement	justifiée	»	par	Adler	
+Schiffer	et	Bazin	en	début	de	chaitre	6,	comme	quelque	chose	de	«	convenient	»	et	de	
+«	reasonable	»).		
+En	Relativité	Générale	les	trajectoires	des	photons	correspondent	à	 ds	=	0.	C’est	la	
+définition	même	des	photons.	Et	vous	savez	que	les	géodésiques	sont	des	attributs	
+intrinsèques	d’un	objet	géométrique,	indépendants	du	choix	fait	pour	les	coordonnées,	
+qui	sont	une	façon	de	“lire”	l’objet.		
+A	titre	d’exemple	je	prendrai	celui	de	la	sphère,	qui	possède	son	ensemble	de	courbes	
+géodésiques	(tous	les	grands	cercles	qui	peuvent	être	tracés	sur	cette	sphère).	Mais	pour	
+repérer	toute	courbe	sur	cette	sphère	il	est	nécessaire	de	se	doter	d’un	outil	de	lecture	:	
+d’un	jeu	de	coordonnées.		
+Comme	la	caractéristique	d’Euler-Poincaré	de	la	sphère	S2	est	2,	cette	lecture	
+impliquera	nécessaire	l’apparition	de	singularités	de	coordonnées	:	les	pôles.		
+
+Mais	les	dessins	ci-après	montrent	qu’on	peut	envisager	la	cartographie	de	cette	sphère	
+S2	avec	un	pôle	unique.	On	peut	créer	une	première	famille	de	courbes	en	coupant	par	
+exemple	la	sphère	par	des	plans	passant	par	une	tangente	à	la	sphère	en	un	point	:		
+
+	
+
+	
+
+42	
+
+On	peut	alors	créer	une	seconde	famille	de	courbes	en	coupant	la	sphère	par	des	plans	
+passant	par	une	tangente	à	celle-ci,	perpendiculaire	à	la	première.	On	obtiendra	
+globalement	ceci	:		
+
+	
+
+	
+	Ceci	pour	bien	insister	sur	ce	qui	est	intrinsèque	et	sur	ce	qui	est	contingent	(qui	dépend	
+du	mode	de	représentation	à	l’aide	d’un	système	de	coordonnées).		
+Bien	sûr,	qui	peut	imaginer,	dans	sa	tête,	une	hypersurface	ayant	des	géodésiques	de	
+longueur	nulle.		
+Rassurez-vous,	je	ne	suis	pas	plus	capable	de	le	faire	que	vous.		
+L’axisymétrie	de	la	solution	de	Kerr	est	une	solution	intrinsèque.		
+Plaçons-nous	dans	un	plan	 θ= π/ 2		
+On	peut	ensuite	considérer	des	trajets	à	ds	nul	(	lumière	)le	long	de	courbes	P	:	Cst		et	
+évaluer	la	vitesse		
+dans	ce	système	de	référence	particulier.		
+
+dP2 − P2 + a2 +αa2
+P
+
+dϕdtK	
+
+ds2 = (1−α
+P
+  
+
+⎞
+⎠⎟ dϕ2 −
+
+P2 + a2 −αP
+
+P dϕ
+dtK
+
+2αa
+P
+
+vϕ =
+  
+
+)c2 dtK
+
+2 −
+
+	
+
+P2
+
+⎛
+⎝⎜
+
+43	
+
+2
+
++
+
+⎞
+⎠⎟
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+  
+
+dϕ
+dtK
+
+dϕ
+dtK
+
+dϕ
+dtK
+  
+
+2αa
+P
+
+− (1−α
+P
+
+P2 + a2 +αa2
+P
+
+)c2 = 0	
+
+with	 it;	 in	 a	 Machian	 sense	 the	 source	 “competes”	 with	 the	 Lorentzian	 boundary	
+conditions	at	infinity	in	the	establishment	of	a	local	inertial	frame.		
+
+		sera	solution	de	l’équation	du	second	degré	:		
+On	trouvera	deux	valeurs	différentes,	ce	qui	est	est	le	signe	d’un	phénomène	
+d’entraînement	du	système	de	coordonnées.	Je	citerai	à	cet	effet	le	commentaire	extrait	
+de	l’ouvrage	d’Adler,	Schiffer	et	Bazin	:		
+-  Loosely	speaking,	we	may	think	of	the	rotating	source	as	“dragging”	space	around	
+Cette	phrase	est	comme	formulée	au	conditionnel	:	“	Tout	se	passe	comme	si	….”	
+Traduction	:		
+-	De	manière	schématique,	on	peut	imaginer	que	la	source	en	rotation	
+«	entraîne	»	en	quelque	sorte	l’espace	avec	elle	;	au	sens	de	Mach	cette	source	
+entre	en	compétition	avec	les	conditions	Lorentziennes	à	l’infini	en	tentant	
+d’établir	son	propre	référentiel	inertiel.		
+Dans	la	suite	de	l’ouvrage,	comme	dans	tous	ses	homologues,	dans	toutes	les	langues,	ou	
+dans	tous	les	cours	délivrés	en	milieu	académique	l’attention	se	porte	alors	sur	les	
+incidence	de	cette	métrique	de	Kerr	vis	à	vis	de	la	modification	de	la	…	singularité	
+centrale	!		
+Il	faut	écouter	les	“messages”	que	nous	adressent	les	équations.	Celui-ci	en	est	un	qui	
+milite	en	face	de	l’idée	exprimée	par	Ernst	Mach,	contemporain	d’Einstein,	selon	laquelle	
+l’espace	était	lié	à	la	matière,	cet	effet	se	faisant	sentir	quand	la	densité	dépasse	un	
+certain	seuil	(	celui	de	l’étoile	à	neutrons	).		
+Je	ne	sais	pas	si	quelqu’un	a	construit	la	solution	non	linéaire	de	l’équation	d’Einstein	qui	
+correspondrait	à	un	astre	constitué	d’un	fluide	incompressible,	en	rotation,	ce	qui	serait	
+le	pendant	de	la	solution	intérieure	de	Schwarzschild.	Si	ça	n’est	pas	fait,	il	faudrait	le	
+faire.		
+Les	théoriciens	ont	construit	leur	modèle	du	trou	noir,	qui	occupe	aujourd’hui	une	
+position	centrale	dans	leur	cosmologie,	en	tant	que	spectacle	de	l’implosion	d’une	étoile	
+à	neutrons	en	“	arrêt	sur	image”.	Ce	thème	du	découplage	temporal,	présenté	plus	haut,	
+est	indispensable	pour	justifier	un	tel	modèle.	Mais	il	s’appuie	sur	une	solution	de	
+l’équation	d’Einstein	exempte	de	terme	croisé	en	dr	dt	.	Est-ce	justifié	?		
+	
+
+Ainsi	cet	objet	dense,	en	rotation,	entraîne-t-il	l’espace	dans	son	mouvement.	
+
+On	passe	à	côté	de	l’essentiel,	pour	se	concentrer	sur	l’illusoire.	
+
+	
+
+	
+
+	
+44	
+En	1924	Arthur	Eddington	suggère	un	autre	système	de	coordonnée,	qui	a	une	incidence	
+sur	la	coordonnée	de	temps.	Voici	le	passage-clé	:		
+
+La	métrique	d’Eddington	
+
+	
+Ici	Eddington	exprime	une	nouvelle	coordonnée	de	temps		  x°	en	fonction	de	celle	qui	
+est	présente	dans	la	formulation	classique	de	la	métrique	de	Schwarzschild,	c’est	à	dire	
+x°.	On	identifier	ces	deux	chronological	markers	à	:		
+  ctS = x°				“	temps	de	Schwarzschild	“	
+  ctE = x°			“	temps	d’Eddington	“	
+Voyons	ce	que	cela	donne.	On	part	de	la	métrique	de	Schwarzschild	avec	son	“temps	de	
+Schwarzschild”	:		
+− r 2 ( dθ2 + sin2θdϕ2 )	
+Le	changement	de	coordonnée	temporelle	suggéré	par	Eddington	équivaut	à	:		
+− 1 	
+Différencions	:		
+	
+
+ctS = ctE −αLog r
+α
+  
+
+⎞
+⎠⎟ c2dtS
+2 −
+
+r dr 2
+r − α
+
+ds2 =
+  
+
+r −α
+
+⎛
+⎝⎜
+
+r
+
+cdtS = cd tE − αdr
+r −α
+  
+
+⎛
+⎝⎜
+
+r −α
+⎞
+⎠⎟ c2 dtS
+2 −
+
+r
+
+r dr 2
+r -α
+
+=
+
+⎛
+⎝⎜
+
+⎡
+r −α
+⎞
+⎠⎟ c2 dtE
+⎢
+⎣
+
+r
+
+2 + α2dr 2
+
+(r −α)2 −
+
+2αcdr dtE
+r −α
+
+⎤
+⎥ −
+⎦
+
+r dr 2
+r -α
+
+		
+
+=
+
+⎛
+⎝⎜
+
+r −α
+⎞
+⎠⎟ c2 dtE
+2 +
+
+r
+
+⎛
+⎝⎜
+
+α2
+
+r (r −α)
+
+−
+
+r
+
+⎞
+⎠⎟ dr 2 −
+r −α
+
+2αc
+r
+
+dr dtE
+
+ou	:		
+
+  
+
+	
+45	
+Avec	ce	temps	d’Eddington	on	a	bien	un	terme	croisé	en	 dr dtE	.	Mais	celui-ci	ne	s’est	pas	
+attaché	à	cet	aspect	des	choses.	On	voit	très	bien	le	but	qu’il	poursuivait	:	faire	
+disparaître	la	singularité	de	coordonnée	en	 r =α	,	ce	qu’il	avait	obtenu	au	passage.	Mais	
+il	ne	s’est	absolument	pas	posé	la	question	du	calcul	du	temps	de	chute	libre.	Tout	autre	
+terme	croisé	est	éliminé,	autre	que	  dϕdt	,	voir	le	passage	:		
+
+dr dtE − r 2( dθ2 + sin2θdϕ2 )	
+
+⎞
+ds2 = 1− α
+⎠⎟ c2dtE
+r
+  
+
+2 + α2 − r 2
+r (r −α)
+
+⎞
+⎠⎟ dr 2 −
+
+2αc
+r
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+entraîné	autour	de	l’objet.		
+
+-	 Motivés	 par	 cette	 considération	 physique,	 aussi	 bien	 que	 par	 la	 recherche	 de	
+simplicité	physique,	nous	introduirons	un	changement	de	coordonnées	qui	élimine	
+
+les	termes	en	du	dρ	et	dρ	dϕ	de	l’équation	(7.104).		
+
+	
+J’ai	souligné	deux	phrases.	La	première	dit	:		
+-  …	il	est	ainsi	raisonable	de	supposer	que	l’espace-temps,	pour	ainsi	dire,	se	trouve	
+Les	auteurs	se	basent	ensuite	sur	la	forme	que	prend	la	métrique	de	Lorentz	quand	on	
+introduit	la	rotation	à	l’aide	du	changement	de	coordonnée	(4.82).	Et	de	conclure	:		
+Ce	faisant	ils	en	concluent	que	le	seul	terme	croisé	ne	peut	être	qu’en	dr	dϕ,	ce	en	quoi	ils	
+commettent	une	erreur.		
+En	conclusion,	ce	qui	est	à	retenir	c’est	que	la	forme	de	métrique,	inspirée	par	celle		d’	
+Eddington	en		:		
+avec			 δ = ± 1			doit	être	prise	en	considération.		
+En	effet	:		
+
+dr dtE − r 2( dθ2 + sin2θdϕ2 )	
+
+⎞
+ds2 = 1− α
+⎠⎟ c2dtE
+r
+  
+
+2 − 1+ α
+r
+
+⎞
+⎠⎟ dr 2 +δ
+
+2αc
+r
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+	
+
+46	
+
+-	Les	termes	de	la	métrique	sont	indépendants	du	temps.		
+
+-	On	a	une	symétrie	sphérique	
+
+-	La	métrique	tend	vers	la	forme	Lorentzienne	à	l’infini.		
+
+@	Calcul	du	temps	de	chute	libre	avec	le	temps	d’Eddington	
+
+	
+Dans	les	ouvrages	le	modèle	du	trou	noir	s’appuie	sur	la	solution	de	Schwarzschild.	C’est	
+également	avec	cette	solution	qu’on	été	construites	la	majorité	des	images	de	synthèse	
+qui	ont	connu	une	large	diffusion	auprès	du	public.	Cette	solution	décrit	aunsi	«		le	trou	
+noir	de	Schwaraschild	».	
+On	repart	sur	les	équations	de	Lagrange.		
+
+!r !tE − r 2( !θ2 + sin2θ !ϕ2 )	
+r 2 sin2θϕ= h = Cst	
+On	peut	considérer	des	trajectoires	géodésiques	dans	le	plan	 θ= π/ 2		
+
+⎞
+F = 1− α
+⎠⎟ c2!tE
+r
+   
+
+2 − 1+ α
+r
+
+∂F
+⎞
+⎠⎟ = 0
+∂ !ϕ
+
+⎞
+⎠⎟ !r 2 +
+
+d
+ds
+   
+
+2δαc
+
+→
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+r
+
+⎥	
+
+⎤
+⎦
+
+d
+ds
+   
+
+⎛
+⎝⎜
+
+∂F
+∂ !tE
+
+⎞
+⎠⎟ = 0
+
+→
+
+⎛
+⎝⎜
+
+1− α
+r
+
+⎞
+
+⎠⎟ c !tE + δα
+
+r
+
+µ− 1− α
+r
+
+⎞
+⎠⎟ c !tE
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+⎡
+⎢
+⎣
+
+!r =
+
+δα
+r
+
+r
+δα
+
+⎞
+⎠⎟ c !tE
+
+!r = µ− 1− α
+r
+
+c !tE = µr −δα!r
+r −α
+   
+
+On	utilise	là	encore	l’équation	:		
+On	va	d’emblée	se	limiter	à	des	trajectoires	radiales	  ( dθ= dϕ= 0 )		
+on	obtient	:		
+
+⎞
+1= 1− α
+⎠⎟ c2!tE
+r
+   
+
+⎞
+1= 1− α
+⎠⎟ c2!tE
+r
+   
+
+2 − 1+ α
+r
+
+2 − 1+ α
+r
+
+⎞
+⎠⎟ !r 2 +
+
+⎞
+⎠⎟ !r 2 +
+
+2δα
+
+2δα
+
+with :
+
+!r c !tE
+
+!r c !tE − r 2( !θ2 + sin2θ !ϕ2 )	
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+r
+
+r
+
+	
+
+c !tE = µr −δα!r
+r −α
+
+				avec					 ν= ± 1	
+
+!r =ν µ2 − 1+ α
+r
+   
+
+!r = µ= Cst	
+
+	
+
+	
+
+47	
+
+dtE
+d r =
+
+!tE
+!r = ν
+
+c
+
+   
+
+µr −δαν µ2 − 1+ α
+r
+(r −α) µ2 − 1+ α
+r
+
+	
+
+d r	
+
+µr −δαν µ2 − 1+ α
+r
+(r −α) µ2 − 1+ α
+r
+
+ΔtE = ν
+c
+
+α∫
+
+r1
+
+  
+
+ 
+
+ 
+
+r +δαν
+r −α
+
+r −δαν
+r −α
+
+dtE
+d r → ν
+c
+
+dtE
+d r → ν
+c
+
+Cette	intégrale	est	susceptible	de	diverger	quand	α		tend	vers	1	.	Alors	:			
+	
+Considérons	les	trajectoires	plongeantes	:	 ν= − 1		
+	
+Le	temps	de	chute	sera	fini	si	 δ = − 1		
+Avec	ce	choix	les	trajectoires	d’évasion	s’effectrueront	en	un	temps	infini.	La	sphère	de	
+Schwarzschild	se	comporte	comme	une	one-way	membrane.		
+La	métrique	s’écrit	alors	:		
+dr dtE − r 2( dθ2 + sin2θdϕ2 )	
+Elle	est	lorentzienne	à	l’infini.	On	peut	envisager	la	métrique	telle	que	 δ = − 1		
+dr dtE − r 2( dθ2 + sin2θdϕ2 )	
+Alors	on	obtient	une	one-way	membrane	inverse.	Les	temps	d’évasion	sont	finis	et	les	
+temps	de	chute	libre	infinis.		
+	
+	
+
+Le	découplage	temporel,	clé	de	ce	modèle	du	trou	noir,	disparaît.	
+
+⎞
+ds2 = 1− α
+⎠⎟ c2dtE
+r
+  
+
+⎞
+ds2 = 1− α
+⎠⎟ c2dtE
+r
+  
+
+2 − 1+ α
+r
+
+2 − 1+ α
+r
+
+⎞
+⎠⎟ dr 2 −
+
+⎞
+⎠⎟ dr 2 +
+
+2αc
+r
+
+2αc
+r
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+	
+
+Conclusion		
+
+Un	modèle	qui	est	une	alternative	à	celui	du	trou	noir.		
+
+critique	 au	 delà	 de	 laquelle	 les	 neutrons	 ne	 peuvent	 plus	 résister	 à	 l’énorme	
+pression	gravitationnelle	?		
+
+	
+48	
+Dans	une	première	partie	de	l’étude,	nous	avons	remis	en	cause	l’interprétation	de	la	
+géométrie	de	Schwarzschild,	sur	la	base	de	considérations	topologiques.	Mais	ça	ne	
+remettait	pas	fondamentalement	en	question	l’existen	des	objets	baptisés	trous	noirs.		
+Cette	seconde	étude	débouche	sur	une	objection	plus	lourde.	Le	modèle	repose	sur	une	
+non	prise	en	compte	d’un	phénomène	de	frame-dragging	radial	dont	l’existence	est	
+suggérée	par	l’existence	d’un	frame-dragging	azimutal	quand	l’objet	possède	un	moment	
+de	rotation.	On	constate	alors	que	le	temps	de	chute	libre	de	particules	devient	fini.	Le	
+thème	de	l’arrêt	sur	image,	pour	un	observateur	distant,	vivant	alors	au	rythme	du	
+temps	  tE	,	le	«	temps	d’Eddington	»,	ne	tient	plus.		
+Si	le	modèle	du	trou	noir	fait	long	feu,	il	reste	à	répondre	à	la	question	:		
+-  Que	 se	 passe-t-il	 quand	 une	 étoile	 à	 neutrons	 voit	 sa	 masse	 dépasser	 la	 valeur	
+	
+Dans	une	vidéo	précédente	nous	avons	montré,	ce	que	Schwarzschild	lui	même	avait	
+découvert	en	février	1916,	il	y	a	un	siècle	(…)	qu’une	criticité	physique	se	produisait	
+avant	que	la	critcité	géométrique	ne	soit	atteinte.		
+Je	rappelle	la	forme	de	la	métrique	intérieure	(géométrie	à	l’intérieur	d’une	sphère	
+emplie	d’un	matériau	de	densité	constante,	incompressible).	
+La	traduction	de	ce	second	article	de	Schwarzschild	est	accessible	à	l’adresse	
+mentionnée	en	début	de	ce	pdf.		
+Dans	le	Adler	Schiffer	et	Bazin	ces	questions	d’objet	hyperdense	sont	traitées	au	
+chapitre	14.	Les	références	bibliographiques	liées	à	ce	chapitre	sont	données	ci-après.	A	
+la	dernière	ligne	on	trouve	ce	qui	a	été	à	la	base	de	tous	les	autres	travaux	:	le	second	
+papier	publié	par	Schwarzschild	en	février	1916	qui,	rappelons-le,	n’a	été	traduit	en	
+anglais	(la	langue	scientifique	internationale),	qu’en	1999,	en	français	en	2017		
+Je	n’ai	pas	exploré	le	contenu	de	tous	les	articles	cités,	si	ce	n’est	celui	d’Oppenheimer	:		
+-  http://www.jp-petit.org/papers/cosmo/1929-Oppenheimer.pdf	
+Dans	cet	article	on	remarquera	deux	choses.	Primo	quand	Oppenheimer	évoque	la	
+métrique	extérieure	(de	Schwarzschild		)	il	fixe	la	siggnature	en	introduisant	dans	son	
+équation	(1),	d’emblée,	deux	fonctions	exponentielles	 eν		et	 eλ	,	qui	sont	des	fonctions	
+strictement	positives,	en	principe.	Deux	lignes	plus	loin	les	valeurs	de	ces	fonctions	sont	
+explicitées	et	deviendraient	alors	négatives	pour		  r < ro	(…)	.		
+
+	
+
+49	
+
+	
+Ensuite,	le	fait	d’appeler	  ro	le	«	rayon	gravitationnel	»	évoque	l’idée	qu’à	l’époque	le	fait	
+de	désigner	cette	grandeur	comme	«	le	rayon	de	Schwarzschild	»	n’était	pas	encore	
+passé	dans	les	mœurs.		
+Le	chapitre	14	reprend	l’ensemble	des	travaux	cités.		
+
+	
+Le	chapitre	14		présente	l’équation	TOV,	de	Tolmann-Oppenheimer-Volkov	comme	une	
+contribution	majeure,	sans	mentionner	le	fait	que	celle-ci	ne	fait	qu’expliciter	le	résultat	
+de	base,	celui	du	papier	de	Sxhwarzschild	de	février	1016.	Peu	importe	….	
+En	(14.22)	on	trouvera	cette	fameuse	équation	TOV	:		
+
+	
+
+50	
+
+	
+qui	elle-même	découle	de	l’expression	de	cette	«	métrique	intérieure	de	Schwarzschild	»	
+que	j’ai	déjà	montrée	dans	la	vidéo	précédente	:		
+
+	
+On	retrouve	la	grandeur	   ˆR	dont	j’ai	déjà	parlé	ainsi	que	cette	évocation	de	la	criticité	
+physique,	apparaissant	avant	la	criticité	géométrique.	Je	pense	qu’il	est	important	de	
+citer	ce	qui	suit,	dans	les	pages	472	et	473	de	ce	livre	:		
+
+	
+
+51	
+
+Traduction	:		
+
+	
+-  Nous	avons	jusque	là	supposé	que	le	rayon	  ro	de	notre	modèle	d’étoile	était	
+plus	grand	que	le	rayon	de	Schwarzschild	2m,	de	telle	façon	d’éviter	
+l’apparition	d’une	singularité	de	la	métrique.	Ceci	réduit	la	mase	M,	selon	:	
+		
+(14.48)																											
+-  Nous	avons	aussi	supposé	que		  ro	était	inférieur	au	paramètre	   ˆR,	introduit	
+en	(14.28),	de	telle	façon	qu’aucun	singularité	ne	puisse	apparaître	pour	
+  r < ro	;	il	est	intéressant	de	voir	que	ceci	nous	mène	au	même	résultat	que	
+ci-dessus,	en	(14.48).	Pour	voir	cela	nous	substituons	dans		
+(14.49)																																					
+l’expression	de	la	densité		ρ	obtenue	à	partir	de	(14.46)	
+
+ro > 2m =
+  
+
+2 < ˆR2 =
+
+c2 ro
+2G
+
+8πG ρ
+
+2G M
+
+M <
+
+ro
+  
+
+3c2
+
+	
+
+c2
+
+	
+
+ρ=
+  
+
+3 M
+4πro
+
+3	
+
+(14.50)																																							
+pour	obtenir	de	nouveau	(14.48).		
+		Une	condition	légèrement	plus	restrictive	peut	être	obtenue	sur	M	à	partir	
+de	l’équation	(14.42)	donnant	la	pression.	Si	la	pression	ne	devient	jamais	
+infinie	dans	le	fluide,	le	dénominateur	de	(14.45)	ne	doit	jamais	s’annuler.		
+Ce	sera	le	cas	si	A	>	B	,	ou		
+(14.51)																																									
+
+(	qui	n’est	autre	que	la	relation	trouvée	par	Schwarzschild	en	février	1916	)	
+
+		
+
+2
+
+1−
+
+>
+
+3
+2
+  
+Je	reprends	avec	le	haut	de	la	page	473	:		
+
+⎡
+⎢
+⎣
+
+ro
+ˆR 2
+
+1/2
+⎤
+⎥
+⎦
+
+1
+2
+
+52	
+
+	
+
+Traduction	:		
+
+Le	carré	de	cette	relation	conduit	à	:		
+(14.52)																																										
+en	substituant	pour	ρ	ce	qui	émane	de	(14.50)	on	obtient	finalement	:		
+(14.53)																																																	
+qui	est	seulement	légèrement	inférieur	à	la	précédente	limite	(14.48).		
+
+3πG ρ
+
+c2ro
+G
+
+ˆR 2 =
+
+M <
+
+ro
+  
+
+2 <
+
+4
+9
+
+8
+9
+
+	
+
+	
+
+c2
+
+  
+
+	
+
+	
+
+53	
+
+La	phrase	suivante	est	tout	aussi	importante.	Sa	traduction		:		
+
+Les	auteurs	ne	voient	dans	cette	proximité	des	deux	valeurs	qu’une	simple	coincidence.	Je	
+pense	 que,	 ce	 faisant,	 ils	 passent	 à	 côté	 d’un	 phénomène	 essentiel	:	 l’apparition	 d’une	
+criticité	 physique	 avant	 que	 ne	 se	 manifeste	 la	 criticité	 géométrique,	 quand	 le	 rayon	 de	
+l’étoile	est	rejoint	par	le	rayon	de	Schwarzschild.		
+
+Remarquons	aussi	que	la	relation	(14.53)	garantit	que	le	coefficient	de	  (dx°)2	
+dans	la	métrique	reste	positif,	même	au	centre	de	la	sphère.		
+Quand	la	masse	atteint	la	valeur	correspondant	à	la	relation	(14.53),	quand	la	criticité	
+physique	est	atteinte,	que	la	pression	s’envole	vers	l’infini,	le	coefficient	du	terme	
+représentant	le	carré	de	l’élément	de	la	vriable	chronologique	devient	nul.		
+Je	reproduis	maintenantune	courbe	je	n’avais	calculée	il	y	a	plus	de	vingt	ans.	En	fait,	la	
+constitution	de	cette	longue	série	de	vidéos	m’a	amené,	outre	d’évoquer	ce	qui	avait	déjà	
+fait	l’objet	de	publications	dans	des	revues	à	comité	de	lecture,	à	évoquer	ce	qui	n’a	
+jamais	pu	l’être,	donc	ces	calculs-là.	Bien	évidemment,	quand	je	suis	arrivé	à	ce	résultat	
+j’ai	composé	un	article	dont	le	titre	était	«		questionable	black	hole	»	(	«	Le	trou	noir	en	
+question	»).	L’article	n’a	jamais	été	critiqué,	et	même	simplement	lu,	le	rejet,	instantanné,	
+étant	accompagné	(comme	pour	les	simulations	de	la	structure	spirale	galactique)	par	la	
+classique	phrase	:		
+-  Sorry,	we	don’t	publish	speculative	works.	
+A	l’époque	Internet	n’existait	pas.	Quand	j’ai	créé	mon	site	internet,	ma	motivation	
+initiale	avait	été	de	mettre	à	disposition	ces	travaux,	ce	que	j’ai	fait.		
+2017	marque	le	retour	de	cette	affaire.	J’ai	pu	remarquer	que	mes	vidéos	avaient	reçu	
+une	certaine	attention,	non	seulement	de	ceux	qui	avait	un	minimum	de	vernis	
+pathjématique,	mais	aussi	d’autres	qui,	même	s’ils	ne	suivaient	pas	la	partie	équations,	
+comprenait	le	sens	de	la	démarche.		
+Il	peut	paraître	singulier	de	prendre	ainsi	«	le	public	à	témoin	»	,	mais	cela	reste	le	seul	
+recours	possible	quand	on	ne	peut	même	pas	être	entendu	par	les	spécialistes.		
+Je	continue	la	rédaction	de	ce	pdf,	qu’attendent	tous	ceux	qui	ont	un	niveau	de	
+mathématiques	supérieures,	c’est	à	dire	qui	manient	l’algèbre,	la	triginométrie,	
+l’exponentuelle	et	le	logarithme,	et	les	équations	différentielles.		
+Quand	j’aurais	bouclé	cette	série,	je	referai	le	siège	des	grandes	revues	de	publication,	et	
+le	fait	d’avoir	popularisé	tout	cela	fera	qu’une	masse	importante	de	lecteurs	pourra	lire	
+et	comprendre	les	articles	soumis.	Ce	gens	découvriront	du	même	coup	la	légèreté	des	
+réponse	de	ces	mêmes	revues,	traduisant	le	plus	souvent	le	fait	que	ces	articles	n’ont	
+même	pas	été	lus.		
+Jadis,	quand	les	échanges	se	faisaient	par	voie	postale	on	ne	pouvait	pas	trop	évaluer	le	
+temps	que	l’expert	concerné	pouvait	avoir	passé	sur	un	article,	ou	même	simplement	
+l’attention	que	le	comité	de	rédaction	de	la	revue	pouvait	avoir	consacré	à	l’article.		
+
+Aucun	écho	
+
+	
+54	
+Aujourd’hui	la	messagerie	électronique	permet	d’avoir	accès	à	cette	information.	Ainsi,	
+quand	j’envoie	un	papier	à	la	revue	Astronomy	and	Astroophysics,	le	message	de	rejet	
+me	parvient-il	cinq	minutes	après	réceptions	dudit	article,	avec	une	réponse	en	coupé-
+collé.		
+	
+Revenons	à	l’exploitation	de	l’équation	TOV.	Cela	donne	ceci	:		
+
+La	criticité	physique	
+
+	
+
+On	voit	comment	la	pression	s’envole	vers	l’infini	quand	la	criticité	physique	est	atteinte.	
+Mais	alors,	que	se	passe-t-il	?		
+Partant	du	principe	qu’une	valeur	infinie	n’a	pas	de	sens	en	physique	on	doit	table	sur	
+l’idée	que	quelque	chose	se	passe	quand	la	pression	atteint	une	certaine	valeur	critique.		
+La	pression,	ou	un	des	paramètres	du	milieu.		
+On	a	vu	que	l’étoile	à	neutrons	se	constituait	quand	le	noyau	de	fer	situé	au	centre	d’une	
+étoile	massive	se	transformant	en	supernova	se	trouvait	comprimé	au	point	que	les	
+électrons	ne	parvenaient	plus	à	caser	leur	fonction	d’onde.	On	avait	alors	l’inverse	de	la	
+décomposition	spontanée	des	neutrons	par	radioactivité	béta	:		
+
+	
+
+55	
+
+	
+
+proton	+	électron	->	neutron	+	neutrino.	
+
+c’est	à	dire	la	réaction			
+On	ne	trouve	pas	grand	chose	en	tant	que	description	de	la	structure	interne	d’une	étoile	
+à	neutrons,	sauf	qu’au	centre	on	devrait	trouver	une	plasma	composé	de	quarks	et	de	
+gluons.	Evidemmen,	personne	n’ira	voir.	
+Je	fais	l’hypothèse	que	lorsque	les	neutrons	ne	peuvent	plus	«	caser	leur	fonction	
+d’onde	»	ils	inversent	leur	masse	et	peuvent	ainsi	s’échapper.	Si	on	table	sur	une	masse	
+volumique	moyenne	de	5	1017	k/m3	(Wikipedia)	et	si	on	calcule	la	distance	moyenne	
+entre	neutrons,	on	trouve	7	10-14	m	.	La	distance	de	Compton	du	neutron	est	voisine	de	
+10-15	m.	Sachant	que	la	densité	au	centre	de	l’étoile	est	supérieure	peut	être	cent	fois	la	
+densité	moyenne	indiqué,	les	ordres	de	grandeur	se	rejoignent.		
+Mais	ça	n’est	qu’une	conjecture.		
+	
+Inutile	d’espérer	que	la	Mécanique	Quantique	nous	fournisse	un	schéma	d’inversion	de	
+masse.	Les	états	d’énergie	négative	sont	systématiquement	exclus	de	la	théorie	
+quantique	des	champs,	d’entrée	de	jeu,	parce	que	considéré	comme	a	priori	impossible.		
+L’ouvrage	de	référence	(	édition	2005	)	est	celui	du	prix	Nobel		Steven	Weinberg		
+
+La	négation	a	priori	des	états	d’énergie	négative	
+
+	
+
+56	
+
+Ci-après,	ce	qu’on	trouve	pages	75-76	:		
+
+	
+
+	
+Dans	ces	passages,	Weinberg	explique	les	choix	restrictifs	qui	sont	fait,	concernant	les	
+opérateurs	P	et	T	de	la	théorie	quantique	des	champs.		
+Traduction	:		Si	P	était	un	opérateur	antilinéaire	et	antiunitaire	cela	voudraiot	dire	allrs	
+qu’il	commute	avec	i	et	qu’ainsi	P	H	P	-1	=	-	H	.	Mais	alors	pour	tout	état	 Ψ		
+d’énergie	positive	E	>	0	il	y	aurait	alors	un	état	d’énergie	 P-1 Ψd’énergie	
+	–E	<0.	Il	n’y	a	pas	d’états	d’énergie	négative	(d’une	énergie	plus	faible	que	
+l’énergie	du	vide)	et	ainsi	nous	sommes	contraints	d’opter	pour	l’autre	
+
+	
+
+T i H T-1 = - i H 
+
+57	
+alternative,	selon	laquelle	P	est	linéaire	et	unitaire	et	commute	avec	H	au	lieu	
+d’anticommuter.		
+						D’un	autre	côté,	en	posant	 ρ= 0		dans	l’équation	(26.6)	on	obtient	:		
+Si	nous	supposions	que	l’opérateur	 T	était		unitaire	alors	nous	pourrions	
+enlever	la	lettre	i	des	deux	côtés	de	l’équation	et	nous	trouverions	que	
+	T H T-1 = - H , ceci	ayant	encore	pour	conséquence	désastreuse	que	pour	
+tout	état		 Ψ	d’énergie	E	>	0	on	aurait	un	état	T-1 Ψ	d’énergie	–E.	Pour	éviter	
+cela	nous	sommes	contraints	de	conclure	que	T	est	antilinéaire	et	antiunitaire.	
+			Maintenant	que	nous	avons	décidé	que	 P	était	linéaire	et	 T	antilinéaire	
+nous	pouvons	etc	…..		
+
+	A	la	page	104	de	l’ouvrage,	nous	trouvons	:		
+	
+Traduction	:		Il	n’existe	pas	de	cas	connus	où	des	particules	traduisent	une	représentation	
+inversions	 de	 telle	 façon	 que	 nous	 ne	 poursuivrons	 pas	
+de	 telles	
+l’investigation	de	ces	possibilités	.	A	partir	de	maintenant	les	actions	de	ces	
+ainversions	seront	supposées	correspondre	aux	hypothèses	faites	dans	la	
+section	2.6	
+	Come	j’ai	essayé	de	le	dire	au	physicien	théoricien		Vernizzi,	au	colloque	COSMO	17	de	
+Paris,	en	août	2017,	on	doit	prendre	en	compte	les	états	d’énergie	négative,	car	il	existe	
+maintenant	un	phénomène,	le	constat	de	l’accélération	de	l’expansion	cosmique,	sous	
+l’effet	d’une	pression	négative.		
+Comme	il	venait	de	le	dire	dans	son	exposé.		Il	contesta	alors	qu’une	telle	pression	
+négative	puisse	être	identifiée	à	une	densité	d’énergie	négative.	La	lui	ai	alors	montré	
+son	erreur.	Mécontent,	il	répondit	:		
+-  Bon,	vous	avez	raison.	J’en	tiendrai	compte	à	l’avenir.		
+et	il	tourna	les	talons.		
+Là	il	convient	d’expliquer	comment	intervient	le	terme	de	pression	en	Relativité	
+Générale,	dans	le	tenseur	impulsion-énergie.		
+
+	
+58	
+Celui-ci,	dans	sa	formulation	«	mixte	»		s’écrit		(Adler	Schiffer	et	Bazin)	début	du	chapitre	
+13	;		
+
+	
+	Dans	l’ouvrage,	la	solution	instationnaire	qui	débouchera	sur	la	solution	de	Friedmann	
+est	traitée	en	mettant	cette	matrice	dans	le	second	membre	de	l’équation	d’Einstein.	
+Bien	sût,	pour	tout	cela	soit	clair	il	me	faudrait	reprendre	tout	cela	dans	le	détail.	Mais,	à	
+la	page	suivante	les	équations	(13.4a)	et	(13.4b)	sont	précisément	les	deux	équations,	
+dites	«	équations	d’Einstein	»,	au	pluriel,	qui	représentent	l’aboutissement	de	cette	
+démarche.	Les	lettre	ρ		et	p	représentent	effectivement	les	deux	termes	de	densité	et	de	
+pression	présents	dans	la	matrice	(13.1),	ci-dessus.	Voici	ces	deux	équations	:		
+
+	
+On	les	combine	en	(13.5a)	et	nous	voyez	que	dans	la	parenthèse	deux	termes	figurent	
+avec	un	signe	plus.	On	peut	écrire	d’ailleurs	:		
+
+)	
+
+(
+   ρc2 + p
+
+	
+59	
+Il	est	clair	que		  ρc2	est	une	densité	d’énergie.	Comme	on	ne	saurait	additionner	des	
+radis	et	des	navets,	p	est	de	même	nature	que	  ρc2.	C’edst	bien	une	densité	d’énergie	par	
+unité	de	volume.		
+Or,	dans	l’équation	l’Einstein	une	densité	de	matière	ρ	(	donc	d’énergie	  ρc2	)	freine	
+l’expansion	cosmique.		
+Il	s’en	suit	que	dans	le	«	fluide	cosmique	»	une	pression	positive	joue	le	même	rôle,	alors	
+qu’on	pourrait	s’attendre	à	ce	que	la	pression	puisse	être	un	moteur	de	l’expansion,	et	
+non	un	frein.		
+C’est	la	raison	pour	laquelle	(au	moins	là)	tout	le	monde	s’accorde	pour	dire	que	
+l’accélération	de	l’expansion	va	avec	un		p	<	0	.		
+Et	comme,	ce	qui	est	clair	avec	ce	qui	est	ci-dessus,	cette	pression	 p	est	«	de	même	
+nature	que	  ρc2,	c’est	à	dire	que	c’est	aussi	une	densité	d’énergie,		
+Dans	la	vidéo	JANUS	22	partie	4/5	je	me	suis	appuyé	sur	des	éléments	empruntés	à	la	
+théorie	cinétique	de	gaz.	Dans	ce	cas	on	considère	que	la	pression	est	une	force	qui	
+résulte	du	rebond	d’une	particule	de	masse	 m,	animée	d’une	vitesse	 V	sur	une	paroi.	
+Dans	ce	rebond,	elle	cède	à	la	paroi	de	la	quantité	de	mouvement.		
+Quand	on	suppose	que	le	fluide	en	contact	avec	cette	paroi	correspond	à	une	
+distribution	des	vitesses	Maxwellienne	on	peut	calculer	une	valeur	moyenne	de	cette	
+«	pression-force	sur	une	paroi	»	et	on	trouve	la	valeur	:		
+ρ< V 2 >	
+Comme	 p	=	 n	m	où	n	est	le	nombre	de	densité,		le	nombre	de	particule	par	unité	de	
+volume,	essentiellement	positif,	une	pression	négative	correspond	au	rebond	de	masses	
+négatives.		
+On	remarque	au	passage	que	si	on	met	en	contact	une	paroi	avec	des	masses	négatives	
+celle-ci	l’attire	à	elle	au	lieu	de	la	repousser.		
+Tout	cela	pour	faire	en	sorte	de	vous	familiariser	avec	ce	concepte	de	pression	négative.		
+Toujours	est-il	que	ce	constat	devrait	amener	les	tenants	de	la	Théorie	Quantique	des	
+Champs	à	réexaminer	cet	ensemble	théorique	quand	par	exemple	l’opérateur	
+d’inversion	de	temps	T	est	linéaire	et	unitaire.	Si	l’ouvrage	de	Weinberg	pouvait	^petre	
+qualifié	de	«	tome	I »	il	faudrait	initier	la	constitution	du	«	tome	II	».		
+Si	j’avais	40	ans	de	moins,	c’est	à	dire	40	ans,	je	m’y	mettrais.		
+
+il	s’en	suit	qu’il	faut	prendre	en	compte	des	énergies	négatives.	
+
+p =
+
+1
+3
+
+  
+
+	
+60	
+Les	incidences	sont	énormes,	dans	le	domaine	de	la	Mécanique	Quantique.	Cela	entraîne	
+au	passage	une	remise	en	question	du	fameux	«	théorème	 CPT	»	(	un	«	théorème	de	
+physicien	»,	disait	Souriau).		
+Ce	qui	pourrait	émerger	de	cette	remise	en	question,	c’est	une	modèlisation	de	
+l’inversion	de	la	masse	et	de	l’énergie,	dans	le	domaine	d’une	physique	théorique	
+«	revisitée	».		En	l’absence	de	tels	éléments	on	est	obligé	d’en	rester	à	une	conjecture.		
+Mais	cette	prise	en	compte	d’états	d’énergie	négative	aurait	également	des	incidences	
+sur	l’ensemble	de	cette	physique	théorique	appliquée		que	constituent	les	expériences	
+menées	dans	les	accélérateurs	de	particules,	où	l’on	prétend	«	reconstituer	les	
+conditions	de	l’univers	primitif	».		
+Ca	n’est	pas	exact	dans	la	mesure	où	il	manque	le	paramètre	«	densité	».	Les	physiciens	
+savent	que	les	milieux	très	denses	ne	se	comportent	pas	de	la	même	manière	que	les	
+milieux	ultra-raréfiés.		
+On	pourrait	même	dire	que	ce	qu’on	observe	dans	le	collisionneur	du	CERN	n’a	rien	à	
+voir	avec	ce	qui	s’est	produit	au	cours	de	l’histoire	cosmique.		
+Quand	on	envisage	cette	idée	d’une	inversion	des	masses	quand	la	densité	et	la	pression	
+dépassent	un	certain	seuil,	on	remet	en	question	ce	qui	correspond	au	passé	lointain	de	
+l’univers	jusqu’au	«	temps	de	Planck	».	La	théorie	GUT	(Grand	Unification	Theory)	ne	
+correspond	peut	être	à	rien	de	physique.	De	même	que	la	supersymétrie.	Tout	
+simplement	parce	qu’on	se	réfèrerait	à	des	conditions	…	qui	n’ont	jamais	existé.		
+Les	quarks,	en	dépit	de	leur	fonctionnement	si	bien	huilé	seraient-ils	nos	modernes	
+épicycles	?		
+Ce	qui	cadre	avec	la	physique,	dans	une	situation	supposée	stationnaire	et	à	symétrie	
+sphétique,		c’est	le	couplage	entre	une	solution	«		de	Schwarzschild	intérieure	»	avec	une	
+solution	«	de	Schwarzschild	extérieure	»,	c’est	à	dire,	je	réécris	tout	cela	:		
+
+Revenons	à	la	cosmologie	
+
+	
+
+et	,	extrait	de	la	page	194	:		
+
+	
+
+	
+
+61	
+
+	
+
+	
+On	se	rappelle	que	 m	est	une	simple	constante	d’intégration	(	qui	est	d’ailleurs	une	
+longueur	et	non	une	masse	)	.	Pour	rendre	tout	ceci	explicite	nous	allons	faire	apparaître	
+la	masse	M	qui	est	censée	est	à	l’origine	de	tout	cela.		
+On	a	:		
+
+3c2
+
+3 M
+4πrn
+
+M = 4
+3
+
+2
+
+3
+
+  
+
+  
+
+  
+
+rn
+
+rn
+
+⎡
+⎢
+⎢
+⎣
+
+1
+2
+
+3
+2
+
+3ρ
+
+3 c2
+
+1−
+
+1−
+
+1−
+
+3 c2
+
+ρ=
+
+πrn
+
+ds2 =
+
+ˆR2 =
+
+c2dt 2 −
+
+8πG ρ
+
+1/2
+⎤
+⎥
+⎥
+⎦
+
+2G M r 2
+
+2G M r 2
+
+rn
+ˆR2 =
+
+r 2
+ˆR2 =
+
+2G M
+rn c2
+
+dr 2
+2G M r 2
+
+2G M
+rn c2 −
+
+− r 2 (dθ2 +sin2θdϕ2 )	
+
+	
+D’où,	pour	la	métrique	extérieure	et	une	étoiles	sous-critique		:		
+Métrique	intérieure	de	Schwarzschild	:		
+Métrique	extérieure	de	Schwarzschild	:		
+En	écrivant	cela,	je	n’invente	rien.	Je	ne	fais	que	reproduire	le	résultat	de	Karl	
+Schwarzschild	de	janvier-février	1916.	Ces	métrique	permettent	de	construire	les	
+géodésiques	suivies	par	une	particule	de	masse	+1	dans	le	champ	créé	par	une	masse		
+M	>	0	.		
+Considérons	toujours	une	partie	de	l’espace	où	se	situe	une	masse	M,	localisée	dans	une	
+sphère	de	rayon	rn	et	entouré	par	du	vide.		
+Alors,	si	une	masse	négative	circule	dans	cette	portion	d’espace,	elle	suivra	les	
+géodésiques	correspondant	aux	métriques	:		
+
+− r 2 (dθ2 +sin2θdϕ2 )	
+
+Dans	le	contexte	du	modèle	Janus.		
+
+⎞
+⎠⎟ c2dt 2 −
+
+dr 2
+2G M
+
+ds2 = 1−
+
+2G M
+
+3 c2
+
+1−
+
+⎛
+⎝⎜
+
+c2
+
+c2
+
+rn
+
+  
+
+	
+
+  
+
+  
+
+rn
+
+rn
+
+c2
+
+c2
+
+⎛
+⎝⎜
+
+⎡
+⎢
+⎢
+⎣
+
+1
+2
+
+3
+2
+
+1+
+
+1+
+
+1+
+
+1+
+
+3 c2
+
+3 c2
+
+ds2 =
+
+2G M
+
+c2dt 2 −
+
+1/2
+⎤
+⎥
+⎥
+⎦
+
+2G M r 2
+
+ds2 = 1+
+
+dr 2
+2G M
+
+⎞
+⎠⎟ c2dt 2 −
+
+dr 2
+2G M r 2
+
+2G M
+rn c2 −
+
+− r 2 (dθ2 +sin2θdϕ2 )	
+
+62	
+− r 2 (dθ2 +sin2θdϕ2 )	
+
+	
+Métrique	intérieure:		
+Métrique	extérieure:		
+Inversement,	si	on	se	situe	dans	les	régions	de	l’univers	où	se	situent	les	gros	
+conglomérats,	sphéroïdaux,	de	masse	négative,	au	centre	des	grands	vides,	il	suffira	de	
+changer	 M	en	–	 M		dans	ces	métriques.	Ces	métriques,	en	supposant	qu’on	puisse	
+attribuer	à	toutes	les	étoiles	à	neutrons	la	même	masse	volumique	ρ	,		décriront	la	
+géométrie	associée	à	des	étoiles	à	neutrons	sous-critique,	telles	que	:		
+(14.56)																																																					
+Si	on	opte	pour	une	densité	de	matière	de	5	1017	k/m3	on	obtient	une	masse	critique	de	
+l’ordre	de	quelques	masses	solaires.		
+	
+Dans	ce	cas	il	y	a	apport	de	matière.	Celui-ci	peut	être	sporadique.	Mais	on	peu	tabler	sur	
+une	flux	continu	moyen.	Auquel	cas	le	modèle	que	l’on	propose	est	celui	d’une	étoile	à	
+neutron	munie	d’un	«	débit	de	fuite	»,	constant,	modèle	qui	se	prête	à	une	description	à	
+l’aide	de	solutions	métriques	stationnaires.		
+Pourquoi	une	fuite,	avec	inversion	de	masse	?	Parce	que,	quand	on	considère	le	cendre	
+de	l’étoile,	lorsque	la	masse	atteint	la	valeur	critique,	que	:		
+ˆR	
+gt t	de	la	métrique	devient	nul.	C’est	synonyme	de	l’inversion	de	la	coordonnée	
+	le	terme		 
+temps,	donc	de	l’inversion	de	la	masse	et	de	l’énergie.		
+Les	dessins	ci-après	évoquent	un	tel	modèle	:		
+
+6.90 G 3/2 ρ1/2		
+
+Cas	de	l’étoile	à	neutron	couplée	avec	une	autre	étoile	
+
+M <
+ 
+
+rn =
+  
+
+8
+9
+
+c3
+
+	
+
+63	
+
+	
+	On	peut	proposer	un	modèle	où	la	solution	intérieure	se	trouve	tronquée	quand	la	
+pression	dépasse	une	valeur	critique,	à	déterminer.	Dans	ces	conditions	l’équilibre	est	
+maintenu	au	prix	d’un	débit	de	fuite	à	travers	une	surface	de	gorge.			
+Cette	matière	est	apportée	par	l’étoile	compagne	sous	forme	de	vent	stellaire.	Si,	au	fil	
+du	temps,	la	masse	ainsi	transférée	peut	se	chiffrer	en	masses	solaires,	le	flux	moyen	
+reste	faible.	On	rappelle	qu’une	masse	solaire	c’est	2	1030	kilos	!		Il	faudrait	chiffrer	tout	
+cela,	mais	je	pense	que	l’aire	de	la	surface	de	gorge	qui	se	situe	au	cœur	de	l’étoiles	à	
+neutrons	avec	début	de	fuite	devrait	être	très	limitée,	dans	le	mesure	où	elle	est	
+traversée	par	un	flux	d’une	matière	très	dense,	s’écoulant	à	une	vitesse	relativiste.		
+Quand	la	masse	positive	converge	vers	cette	surface	de	gorge	elle	«	vit	»	ce	champ	
+gravitationnel	comme	une	attraction.	Quand	elle	a	franchi	cette	surface,	sa	masse	se	
+trouve	inversée	et	elle	s’écarte	alors	de	cette	région	de	l’espace.	Elle	suit	les	géodésiques	
+du	couple	de	métriques	:		
+Métrique	intérieure:		
+− r 2 (dθ2 +sin2θdϕ2 )	
+Métrique	extérieure:		
+
+2G M
+rn c2 −
+
+dr 2
+2G M r 2
+
+2G M r 2
+
+1/2
+⎤
+⎥
+⎥
+⎦
+
+c2dt 2 −
+
+ds2 =
+
+3 c2
+
+3 c2
+
+1+
+
+1+
+
+1+
+
+3
+2
+
+1
+2
+
+⎡
+⎢
+⎢
+⎣
+
+rn
+
+rn
+
+  
+
+− r 2 (dθ2 +sin2θdϕ2 )	
+
+ds2 = 1+
+
+⎛
+⎝⎜
+
+2G M
+
+c2
+
+⎞
+⎠⎟ c2dt 2 −
+
+dr 2
+2G M
+
+c2
+
+1+
+
+  
+
+Que	devient	la	matière	quand	sa	masse	est	inversée	?		
+
+	
+64	
+A	ce	stade	on	serait	en	droit	de	se	demander	si	le	phénomène	inverse	ne	pourrait	pas	
+exister.	Y	aurait-il	des	étoiles	à	neutrons	dans	ce	«	monde	négatif	»,	en	couple	avec	des	
+«	néga-étoiles	»		qui	pourraient	injecter	cette	masse	négative	dans	notre	«	versant	
+d’univers	»	?	Autrement	dit	des	«	fontaines	blanches	».		
+Le	cosmos	présente	sous	cet	angle	une	forte	dissymétrie.	J’ai	évoqué	cela	dans	des	
+vidéos	précédentes.	A	l’issue	de	l’ère	radiative	la	valeur	absolue	de	la	densité	de	la	
+matière	négative	est	beaucou	plus	élevée.	Au	sein	de	celle-ci	l’instabilité	gravitationnelle	
+créer	des	conglomérats	sphéroïdaux	qui	repoussent	notre	propre	matière	dans	l’espace	
+résiduel.		
+On	peut	comparer	ces	objets	à	d’immenses	proto-étoiles	dotées	d’un	«	cooling	time	»	
+grand	devant	l’âge	de	l’univers.	Donc	dans	ce	«	versant	négatif	»	:	pas	d’atomes	lourds,	
+pas	d’étoiles,	pas	de	nuclésynthèse,	pas	de	planètes,	et	…	pas	de	vie.		
+Et	en	particulier	pas	d’étoiles	à	neutrons,	donc	pas	de	fontaines	blanches.		
+	
+J’anticipe	sur	ce	dont	je	m’occuperai	plus	loin.	L’univers	est	une	variété,	dotée	de	deux	
+métriques	 
+(−)	.	A	ces	métrique	on	assoccie	deux	facteurs	d’échelle	 a(+)	et	 a(−)	.	
+(+)	et	 
+On	peut,	et	on	doit	se	doter	d’un	jeu	de	coordonnées	qui	sont	de	simples	nombres	
+}	.	Deux	points	A	et	B	,	dintinct,	correspondent	à	des	écarts	:		
+}.	On	peut	d’ailleurs	orienter	les	coordonnées	de	telle	façon	que	cet	écart	
+devienne	:	  Δξ1, 0 , 0
+}.	Dans	ces	conditions	on	a	deux	distances	:		
+ a(+) Δξ1	et		 a(−) Δξ1	
+avec	 a(+) >> a(−)	et,	coréllativement	 c(+) << c(−).		
+Les	particules	ont	des	«	tailles	»	caractéritiques,	qu’on	peut	lier	à	la	distance	de	Compton.		
+	
+Une	particule	de	masse	 m	est	donc	associée		à	sa	longueur	de	Compton			 λc	Si	cette	
+particule	passe	dans	un	«	secteur	négatif	»	elle	se	trouve	en	quelque	sorte	«	greffée	»	
+dans	un	monde	où	elle	apparaît	comme	Gulliver,	en	étant	«	plus	grande	».	Ce	qui	revient	
+à	dire	qu’elle	perd	de	l’énergie.		
+Si	on	opte	pour	une	hypothèse	de	conservation	de	l’énergie	il	faut	que	la	longueur	
+d’onde	de	la	particule	s’adapte	à	celle	des	particules	«	homologues	»,	résidant	dans	ce	
+secteur	négatif.	C’est	faisable	si	cette	particule	subit	une	contraction	de	Lorentz,	c’est	à	
+dire	si	elle	 apparaît	à	une	vitesse	relativiste	(	vis	à	vis	de	la	vitesse	de	la	lumière	
+ c(−) >> c(+)	associée	à	ce	secteur	),	c’est	à	dire	que	sa	longueur	de	Compton	passe	à	:		
+
+{
+  ξo ,ξ1,ξ2 ,ξ3
+{
+  Δξ1, Δξ2 , Δξ3
+
+λc =
+ 
+
+h
+m c
+
+gµν
+
+gµν
+
+{
+
+	
+
+65	
+
+	
+c(−) ! 10 c(+)	
+
+1 −
+
+v(−)2
+c(−)2
+
+v(−)
+  
+
+λ'c = λc
+ 
+
+  a(+) ! 100 a(−)
+
+Le	problème	de	la	fusion	d’étoiles	à	neutrons	subcritiques.		
+
+	
+Jetable	(	je	montrerai	plus	loin	pourquoi	)	sur		
+Pour	assurer	cette	conservation	de	l’énergie	cela	nous	conduirait	à	:	
+c(−) ! 1	.	Les	
+particules	voyant	leurs	masses	inversées	s’écarteraient	alors	à	des	vitesses	relativistes.		
+	
+C’est	un	problème	incontournable.	Alan	Hulse	et	Soseph	H.Taylor	avaient	découvert	un	
+pulsar	double	PSR-1913+16	en	1974.	La	mise	en	évidence	du	ralentissement	de	la	
+rotation	autour	du	centre	de	gravité	de	ces	deux	étoiles	à	neutrons	qui	ne	constituent	
+leur	a	valu	le	prix	Nobel	en	1993.	Ce	ralentissement,	du	à	la	perte	d’énergie	par	émission	
+d’ondes	gravitationnelles		était	prévisible	depuis	le	travail	de	Peters	P.C.	et	Mathews	J.		
+Mattews,	19631,	qui	avait	chiffré	la	perte	d’énergie	correspondante.		
+Ce	ratentissement	est,	depuis,	mesuré	avec	précision	et	très	bien	corrélée	avec	la	
+prédiction	théorique.	Les	masses	estimées	pour	ces	deux	étoiles	à	neutrons	sont	1.4	
+masse	solaire.	Le	système	est	situé	à	21	années	lumière	de	distance,	donc	relativement	
+proche.	La	distance	entre	les	deux	objet	:	2/3	du	diamètre	du	Soleil.	Les	orbites	ont	une	
+excentricité	de	0,6	.	L’avance	du	périhélie	est	de	4°	par	an.		
+Passons	maintenant	à	la	détection	récente	des	ondes	gravitationnelles.	La	théorie	
+prévoit	que	l’espace	traversé	par	de	telles	ondes	subit	d’infimes	fluctuations	de	«	jauge	»,	
+anticorrélées	dans	deux	directions	orthogonales,	à	la	manière	d’une	sphère	se	
+déformant	alternativement	en	prenant	la	forme	d’un		ellipsoïde	allongé	ou	aplati.		
+D’où	la	conception	d’un	banc	comportant	deux	bras	disposés	perpendiculairement,	de	
+telle	manière	que	quand	la	longueur	d’un	bras	s’accroît,	l’autre	se	raccourcit.		
+L’amplitude	relative	des	variations	de	longueur	des	bras	est	de	10-20	
+Avec	une	longueur	de	bras	de	4	km	cela	donne	une	variation	de	4	10-17	m		
+La	mise	en	évidence	du	phénomène	est	fondée	sur	une	mesure	d’interférence	entre	deux	
+rayonnements	issus	de	cavités	résonantes	laser,	situées	dans	les	bras,	de	4	km	de	long.		
+Dans	ces	bras	on	maintient	un	ultra-vide	de	10-12	bar	!	Il	y	a	différentes	sources	de	bruit	
+de	fond	qui	doivent	être	maitrisées.	On	pense	aussitôt	au	bruit	lié	à	la	sismicité,	qui	va	
+des	très	basses	fréquences	à	10	Hz.	Il	est	éliminé	par	l’inertie,		grâce	à	une	suspension	
+																																																								
+1	Peters	P.C.	&	Mathews	J.	:	Gravitation	radiation	from	point	masses	in	a	Keplerian	orbit.	
+Phys.	Rev.	(1963)	Vol.	131	pp	453-440	DOI	10.1103/PhysRev.	131.435	
+
+	
+66	
+pendulaire	complexe.	Il	y	a	ensuite	un	bruit	thermique	qui	pourra	être	réduit	en	
+abaissant	la	température	des	composants,	ce	qui	est	prévu.		
+Le	bruit	prépondérant	est	ce	qu’on	appelle	le	«	bruit	de	grenaille	»,	qui	est	lié	au	
+caractère	corpusculaire	de	la	matière,	au	fait	que	le	rayonnement	arrive	par	paquets	de	
+photons.	On	le	réduira	en	accroissant	la	puissance	des	lasers	(donc	le	flux	de	
+«	grenaille	»).		
+Mais,	même	en	recherchant	une	réduction	du	bruit	de	fond	maximale	le	rapport	
+la	 simple	 analyse	 d’un	
+signal/bruit	 de	
+enregistrement	puisse	permettre	de	faire	émerger	le	signal.	La	seule	chose	possible	est	
+de	calculer	la	corrélation	entre	un	signal	enregistré	et	un	«	expected	signal	»	(	le	signal	
+auquel	on	s’attend	),	c’est	à	dire	le	signal	qui	serait	émis	par	deux	objets	de	masses	m1	et	
+m2	orbitant	autour	d’un	centre	de	gravité	commun	et	in	fine,	fusionnant	pour	donner	un	
+seul	objet.		
+
+l’expérience	 est	 trop	 faible	 pour	 que	
+
+	
+La	période	de	l’onde	enregistrée	se	réduit,	en	même	temps	que	son	intensité	s’accroit.	La	
+forme	du	signal	dépend	des	masses	des	objets	et	des	paramètres	de	leur	mouvement	de	
+giration	autour	d’un	centre	de	gravité	commun.		
+Je	suis	en	train	d’essayer	d’y	voir	plus	clair	dans	ce	déploiement	théorique.	On	trouve	
+deux	types	de	résultats.	Les	premiers	se	réfèrent	à	la	fusion	de	deux	étoiles	à	neutrons	
+ayant	des	masses	équivalant	à	celle	du	soleil.	Dont	après	fusion	la	masse	totale	resterait	
+subcritique.	Quand	les	deux	étoiles	sont	en	giration	il	y	a	émission	d’ondes	
+gravitationnelles.	Les	théoriciens	indiquent	que	la	puissance	d’émission	maximale	se	
+situe	alors	quand	on	est	à	une	distance	du	collapse	égale	à	une	demi-période.		
+Par	contre,	quand	on	envisage	la	fusion	de	trous	noirs,	l’émission	maximale	a	lieu	lors	du	
+merging,	de	la	fusion.	Selon	ce	schéma	les	deux	horizons	des	deux	trous	noirs	sont	
+censés	fusionnner,	ce	scénario	étant	abordé	à	travers	des	simulations	numériques.	La	
+puissance	maximale	est	alors	émise	au	moment	du	mergin.		
+Je	suggère	un	scénario	alternatif	où	je	considère	la	fusion	de	deux	étoiles	à	neutrons,	de	
+telle	manière	que	la	somme	des	deux	masses	excède	la	masse	critique	(situons	celle-ci	
+entre	2,5	et	3	masses	solaires.	Il	y	aurait	alors	une	très	puissante	émission	sous	forme	
+
+	
+67	
+d’onde	gravitationnelle,	du	à	l’inversion	subséquente	de	la	masse	en	excès.	Serai-je	à	
+même	de	chiffrer	tout	cela	?	Je	n’en	sais	rien.	En	tout	cas,	pour	moi,	l’abord	par	
+simulation	numérique	serait	exclu.	Disons	que	cela	constitue	une	source	du	signal	qui	
+soit	différente	de	la	fusion	de	deux	trous	noirs.		
+Mais	les	partisans	de	l’existence	de	ces	objets	disent	partout	que	«	c’est	la	preuve	de	
+l’existence	de	ces	objets	».	Une	assertion	que	je	juge	non	scientifique,	car	elle	renvoie	à	
+une	phase	comme	:		
+-  Car	on	ne	voit	pas	ce	que	ça	pourrait	être	d’autre	….	
+Argument	déjà	invoqué	pour	«	les	trous	noirs	géants	tapis	au	centre	des	galaxies	».		
+On	pourrait	étendre	de	tels	raisonnement	à	l’horreur	du	vide	faisant	monter	le	mercure	
+dans	les	baromètres	ou	au	épicycles	(	«	parce	qu’on	ne	voit	quoi	d’autre	pourrait	être	
+responsable	de	ce	phénomène	»	)	ou	aux	épicycles	«	rendant	très	bien	compte	du	
+mouvement	des	planètes	».		
+Ce	que	je	peux	montrer	c’est	la	solution	de	l’équation	TOV	pour	des	masses	s’approchant	
+de	plus	en	plus	de	la	masse	critique	(	pour	des	valeurs	du	rayon	s’approchant	de	plus	en	
+plus	de	   ˆR		).	La	valeur	du	rayon	pour	laquelle	la	pression	s’envole	vers	l’infini	croit	alors	
+très	vite.	Ca	évoque	un	véritable	«	coup	de	fouet	»	:		
+
+En	s’inspirant	d’un	tel	schéma	on	serait	amené	à	penser	qu’au	moment	de	la	fusion	des	
+deux	étoiles	à	neutrons	une	surface	de	gorge	prendrait	naissance	au	centre	et	se	
+déploierait	très	rapidement,	éliminant	la	masse	en	excès.	Cette	différence	de	masse,	
+inversée,	serait	éliminée	à	un	rythme	élevé	parce	qu’aussitôt	dispersée	à	une	vitesse	qui,	
+pour	un	observateur	fait	de	matière	(mais	qui	ne	pourrait	pas	physiquement	observer	ce	
+
+	
+
+	
+68	
+phénomène	)	avoisinerait	les	trois	millions	de	km/s.	Un	phénomène	qu’on	pourrait	alors	
+assimiler	à	l’annihilation	pure	et	simple	de	cette	masse	en	excès.		
+On	imagine	aisément	la	puissance	du	signal	sous	forme	d’onde	gravitationnelle	qui	
+serait	émis	et	qui,	selon	moi,	équivaudrait	aussi	à	plusieurs	masses	solaires	en	
+équivalent-énergie.		
+Voilà	tout	ce	que	je	peux	dire	sur	ce	point	pour	le	moment.		
+	Je	vais	terminer	ce	pdf	en	donnant	ma	propre	interprétation	des	fluctuations	du	CMB.		
+	
+On	connaît	cette	image.		
+
+L’origine	des	fluctuations	du	CMB.		
+
+	
+	Selon	le	modèle	standard	du	moment,	le	spectre	de	ces	différentes	fluctuations	est	
+analysé.	On	obtient	un	bon	accord	avec	l’analyse	de	cette	image.	Mais	on	se	souviendra	
+que	ce	modèle	«	de	concordance	»	comporte	six	paramètres	libres.		
+	
+
+	
+
+69	
+
+	
+
+LJ = < V >
+4πGρ
+ 
+
+	
+	Comme	on	peut	le	voir	les	fluctuations	les	plus	importantes	correspondent	à	une	
+période	d’un	degré,	soit	le	360ième	de	l’image	contenant	les	données.		
+Comment	le	modèle	Janus	peut-il	rendre	compte	de	telles	fluctuations	?		
+La	théorie	de	l’instabilité	gravitationnelle	fait	émerger	une	longueur	caractéristique	qui	
+est	la	longueur	de	Jeans	
+où	<V>	est	la	valeur	moyenne	de	l’agitation	thetrmique	dans	le	milieu	et	1/  4πGρ	le	
+«	temps	caractéristique	d’accrétion	».	On	perçoit	aisément	la	signification	physique	
+d’une	telle	formule.		
+Soit	une	surdensité	ayant	une	extension	spatiale	caractéristique	L	J	.	Cette	fluctuation	va	
+se	dissiper	sur	l’action	de	la	simple	agitation	thermique	en	un	temps	qui	est	de	l’ordre	de	
+celui	que	met	une	particule	à	traverser	cette	perturbation	à	la	vitesse	<V>,	soit		
+	La	perturbation	s’amplifiera	si	le	temps	d’accrétion	est	inférieur	au	temps	de	
+dispersion	:		
+	
+C’est	à	dire	pour	toutes	les	surdensités	ayant	une	dimension	supérieure	à		 LJ	.		
+
+		<			Temps	de	dispersion	:	
+
+Temps	de	dispersion	:	
+
+Temps	d’accrétion	:	
+
+< V >
+ 
+
+< V >
+ 
+
+4πGρ
+
+	
+
+L
+
+L
+
+1
+
+ 
+
+	
+70	
+Le	«	gaz	de	photons	contribue	au	champ	de	gravité.	Dans	l’ère	radiative	le	tenseur	
+énergie-matière	se	constitue	à	partir	du	rayonnement.	Dans	sa	classique	formulation	
+«	mixte	»	voici	la	matrice	énergie	matière,	du	second	membre	de	l’équation	de	champ.		
+	
+
+ρr
+
+0
+
+0
+
+−
+
+0
+pr
+c2
+
+0
+
+0
+
+0
+
+−
+
+pr
+c2
+
+0
+
+0
+
+0
+
+Tµ
+ν =
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+	
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+  
+
+  
+
+0
+
+0
+
+0
+
+−
+
+pr
+c2
+
+pr =
+
+ρr c2
+3
+
+	
+	s’exprime	en	kilos	par	mètre	cube.		
+
+	Dans	ce	cas,	la	pression	dans	le	«	fluide	cosmique	»	est	la	pression	de	radiation	:		
+La	densité	 ρr
+Il	n’est	pas	absurde,	en	considérant	un	univers	qui	s’etendrait	bien	au	delà	de	son	propre	
+horizon,	d’imaginer	que	celui-ci	puisse	connaître	des	fluctuations	dont	la	longueur	
+d’onde	se	calculerait	en	injectant	dans	la	distance	de	Jeans	les	paramètres	liés	au	gaz	de	
+photons	:		
+Une	telle	étude	pourrait	être	considérée	comme	dénuée	d’intérêt,	avec	une	unique	
+population,	dans	la	mesure	où	de	telles	fluctuations	s’étendraient	sur	des	distances	
+excédant	l’horizon	cosmologique.	Mais	la	situation	change	si,	au	lieu	de	considérer	une	
+unique	population,	on	en	a	deux.		
+On	sait	que	dans	cet	«	envers	de	l’univers	»	(	l’univers	«	vu	»	par	les	éléments	de	masse	
+négative)	le	facteur	de	jauge	d’espace	 a(−)	est	plus	faible,	tandis	que	la	vitesse	de	la	
+lumière	 c(−)	est	plus	élevée.		
+De	telles	fluctuations	de	densité	pourront	exister,	dans	l’ère	radiative,	à	l’intérieur	de	
+cette	population	des	masses	négatives.	Ce	monde	là	possède	aussi	sa	propre	valeur	
+d’horizon	cosmologique	et,	pour	un	observateur	constitué	de	masse	négative,	de	telles	
+fluctuations	seraient	effectivement	inobservable.		
+Mais	elles	donnent	leur	empreinte	dans	le	monde	des	masses	positives,	qui	possède	un	
+un	horizon	plus	vaste.		
+
+LJ =
+ 
+
+4πGρr
+
+	
+
+c
+
+	
+71	
+Dans	le	modèle	mettant	en	jeu	des	fluctuations	de	jauge	génétralisées	(	Astrophysics	and	
+Space	Science	1995	)	l’horizon,	de	même	que	la	longueur	de	Jeans,	croissent	comme	la	
+jauge	d’espace	a.	On	peut	donc	considérer	que	la	segmentation	du	panorama	cosmique	
+du	fait	de	l’instabilité	gravitationnelle	dans	les	espèces	négatives	fournit	directement	le	
+rapport	 a(−)/ a(+)	=	1/360.		
+Comme	par	ailleurs	on	a	(	il	faudra	que	je	crée	un	autre	pdf	avec	le	détail	des	calculs	de	
+ce	«	modèle	de	jauge	»	)	:		
+cela	fournirait	une	indication	de	rapport	entre	les	distances	et	les	vitesses	de	la	lumière	
+entre	les	deux	«	secteurs	»,	au	point	de	vue	des	ordres	de	grandeur,	s’entend.		
+	avec		-  Deux	ordres	de	grandeur	pour	les	distances	
+-  Un	pour	les	vitesses	de	la	lumière.		
+Tout	cecu	restant,	évidemment,	très	schématique.		
+Ceci	remet	au	goût	du	jour	le	problème	des	voyages	interstellaires	qui	seraient	ainsi	
+«	moins	impossible	qu’on	ne	le	croirait	»	,	si,	comme	évoqua	en	2015	dans	un	article	
+paru	dans	Modern	Physics	Letters	A	une	nef	peut	réaliser	ce	voyage	en	maîtrisant	la	
+technique	d’inversion	de	sa	masse.		
+Affaire	à	suivre.		
+
+a(−) = 360 = 19.1	
+
+c(−)
+c(+) =
+ 
+
+a(+)
+
+72	
+
+− T
+
+lim
+
+lim
+
++ T∫
+
++ T∫
+
+dt	
+
+a(t +τ)a(t )
+
+a1(t ) a2 (t +τ)
+
+Ra(τ) = T → ∞
+  
+
+a1 ∗ a2 (τ) = T → ∞
+  
+
+A	propos	de	la	détection	des	ondes	gravitationnelles.		
+
+	
+Etant	donné	l’infime	rapport	signal/bruit	une	détection	directe	est	exclue.		
+La	série	temporelle	à	analyser	est	a(t)	=	n(t)	+	s(t)	
+n(t)	(	noise	)	étant	le	bruit		et	s(t)	le	signal.		
+Une	détection	directe	pourrait	être	basée	sur	le	calcul	d’une	fonction	d’autocorrélation	
+où	on	effectue	un	calcul	de	la	corrélation	de	la	fonction	«	série	temporelle	»	avec	la	
+même		fonction,	décalée	d’un	temps	τ	.		
+On		passe	à	une	intercorrélation	entre	la	série	temporelle	a1(t)	et	une	série	a2(t)	
+correspondant	à	un	«	expected	signal	»	(	le	signal	auquel	on	s’attend	)		
+dt	
+où	on	effectue	une	corrélation	entre	la	série	temporelle	et	l’expected	signal	,	déphasé	du	
+temps	τ	.		
+Cette	description	est	évidemment	très	schématique.	On	trouvera	une	analyse	très	bien	
+détaillée	dans	les	notes	de	cours	de	:		
+C’est	une	analyse	classique	de	traitement	de	signal,	mettant	en	œuvre	des	théorèmes	
+bien	connus	des	statisticiens,	celui	de	Perceval,	de	Wiener	Khinchine,	etc	.		
+Pour	procéder	de	la	sorte	il	faut	se	donner	un	profil	de	signal,	qui	dépend	de	différents	
+paramètres.	On	parle	donc	d’un	espace	des	paramètres.	Le	statisticien	recherchera	la	
+combinaison	de	paramètres	(	masse	totale,	rapport	des	deux	masses,	distance	initiale	
+entre	les	deux	objets	timing		…)	qui	fourniront	la	plus	forte	intercorrélation	avec	la	
+séquence	temporelle.		
+Bien	évidemment,	si	deux	détecteurs	indiquent	une	probabilité	de	présence	de	ce	signal	
+avec	les	mêmes	paramètres,	la	fiabilité	de	la	détection	s’accroîtra	énormément.		
+Dans	cette	méthode	de	détection	l’ordinateur	essaye	de	multiples	combinaisons	des	
+paramètres,	dont	le	nombre	est	d’emblée	considérable	(	250.000	pour	la	première	
+détection	par	LIGO	).		
+La	constitution	de	la	forme	d’un	signal	implique	la	mise	en	œuvre	d’un	modèle.		
+Dans	la	phase	de	convergence	spirale,	le	couple	d’objets	peut	être	assimilé	à	deux	
+points-masses	orbitant	autour	d’un	centre	de	gravité	commun.	La	rotation	s’exprime	
+alors	en	terme	de	vitesse	angulaire	ω		,	en	radians	par	seconde,	qui	obéit	alors	à	la	
+troisième	loi	de	Kepler	:		
+
+http://lappweb.in2p3.fr/~buskulic/cours/Notes_cours_Buskulic_Jijel.pdf 
+
+− T
+
+	
+
+G M
+a3
+
+ω2 =
+  
+
+µ=
+ 
+
+m1 m2
+m1 + m2
+
+	
+73	
+	où	G	est	la	constante	de	la	gravitation	et	M	=	m1	+	m2	la	masse	totale	et	a	la	moitié	de	la	
+distance	entre	les	objets.	.		
+		est	la	«	masse	réduite	»		et	c	la	vitesse	de	la	lumière,	alors	la	puissance	
+Si	
+dissipée	par	émission	d’ondes	gravitationnelles	est	donnée	par	:		
+L’énergie	(gravitationnelle	)	du	système	des	deux	masses	est	:		
+On	peut	différencier	:		
+d’où	:		
+
+= − 3 !a
+a
+
+32G µ2 a4ω6
+
+E = −
+  
+
+G m1 m2
+
+G m1 m2
+
+2 !ω
+ω
+   
+
+!E =
+   
+
+P =
+  
+
+dE
+dt
+
+5c5
+
+	
+
+	
+
+=
+
+!a
+
+2
+
+G m1 m2
+
+2
+
+!a
+a2 = −
+
+2
+3
+
+G m1 m2
+aω
+
+G m1 m2
+
+3
+
+!ω
+ω
+
+⎛
+⎝⎜
+
+ω2
+G M
+
+⎞
+⎠⎟
+
+!E =
+   
+
+1/3	
+
+G 2/3 m1 m2
+
+!E = −
+  
+
+On	écrit		
+ce	qui	donne	:		
+La	fréquence	de	giration	est	
+A	chaque	révolution	du	système	binaire	le	champ	gravitationnel	passe	deux	fois	par	un	
+maximum,	donc	la	fréquence	f	de	l’onde	gravitationnelle	est	égale	ω
+
+!ω=
+  
+ν= ω
+2π
+ 
+
+96 G 5/3
+
+		
+
+		
+
+π
+
+2a
+
+	
+a2								et								
+	
+3M1/3 ω− 1/3 !ω	
+  !E = − P	
+5 c5 µM2/3 ω11/3	
+
+!ω= −
+
+74	
+
+M2/3
+
+96
+5
+
+96
+5
+
+G 5/3µ
+
+G 5/3µ
+
+df
+dt =
+  
+
+M2/3
+πc5 ω11/3 =
+
+πc5 π11/3 f 11/3	
+
+	
+	en	posant		 
+ˆM = µ3/5 M2/5	,	appelé	«		chirp	mass	»	(	la	«	masse	d’interférence	»	)	on	a			:		
+En	intégrant	on	obtient	alors	l’évolution	de	la	fréquence	de	l’onde	gravitationnelle,	en	
+phase	avec	le	mouvement	de	rotation	du	système,	en	fonction	du	temps,	et	cela	à	l’aide	
+de	simples	outils	non	relativistes,	newtoniens.		
+Sachant	que	l’amplitude	de	l’onde		varie,	à	un	facteur	près,	comme	  f −7/6	2lorsqu’on	la	
+calcule	en	supposant	une	évolution	quasi-stationnaire	(adiabatique)	du	système	et	en	
+restant	dans	une	approximation	newtonienne	on	obtient	la	forme	d’onde	ci-après.		
+
+5 c5 π8/3 ˆM5/3 f 11/3	
+
+d f
+dt =
+  
+
+96 G 5/3
+
+	
+Ci-après	une	courbe	(source	Cnrs)	représentant	la	forme	de	l’onde	lors	de	la	fusion	de	
+deux	étoiles	à	neutrons	qui	nous	donne	l’ordre	de	grandeur	de	la	durée	du	signal	:	un	
+dixième	de	seconde.		
+
+																																																								
+2	J’extrais	cela	des	notes	de	cours	de	Damir	Buskulic.	Mais	ne	serait-ce	pas	plutôt	une	loi	
+en	  f + 7/6si	on	considère	que	la	puissance	croit	avec	la	fréquence	?	C’est	à	éclaircir	car	si	
+la	fréquence	de	rotation	croit,	la	distance	a	entre	les	deux	étoiles	diminue.	Par	ailleurs	je	
+serai	peneur	d’éclaircissements	sur	cette	situation	d’évolution	isentropique,	voir	son	pdf	
+
+	
+
+75	
+
+	
+Ce	type	de	calcul	conduit	à	une	fréquence	qui	tend	vers	l’infini,	car	il	s’agit	de	deux	
+masses	ponctuelles	régies	par	une	dynamique	newtonienne.	Mais	au	fur	et	à	mesure	que	
+les	étoiles	à	neutrons	se	rapprochent	les	vitesses	d’orbitation	croissent	et	leur	proximité	
+fait	qu’on	ne	peut	plus	décrire	leur	évolution	par	une	physique	newtonienne.		
+Les	théoriciens	se	sont	efforcés	de	décrire	l’évolution	relativiste	du	système.	La	percée	
+décisive	a	été	faite	aux	Etats-Unis	où	a	été	développée	une	relativité	générale	numérique,	
+incluant	la	prise	en	compte	des	spins	des	composants	de	la	paire.		
+Ce	traitement	des	ondes	gravitationnelles	trouve	son	origine	dans	les	travaux	de	Peters	
+et	Matews,	19633,	à	une	époque	où	nos	actuels	théoriciens	étaient	encore	en	culottes	
+courtes.		
+Quantitativement,	on	imagine	très	bien	l’issue	d’un	tel	phénomène,	quand	la	somme	des	
+masses	des	deux	étoiles	à	neutrons	reste	inférieure	à	une	valeur	critique.	Les	deux	
+objets	se	fondent	pour	n’en	former	qu’un	seul.	On	peut	imaginer	que	les	deux	étoiles	
+forment,	à	la	manière	de	deux	bulles	de	savon	fusionnant,		un	objet	affectant	
+transitoirement	la	forme	d’une	cacahuète,	puis	très	rapidement	adoptant	une	forme	
+																																																								
+3	P.C.Peters	et	J.	Matews	Phys.	Rev.	131	:	435	
+
+C’est	l’explication	du	fait	que	le	signal	gravitationnel	enregistré	par	LIGO-VIRGO	
+en	 août	 2017	 soit	 arrivé	 2	 secondes	 avant	 le	 bref	 flash	 gamma	 signant,	 lui,	
+l’instant	 de	 la	 fusion,	 génératrice	 d’un	 énorme	 accroissement	 de	 température,	
+avec	nucléosynthèse,	etc	.		
+
+	
+76	
+grossièrement	 elliptique,	 oscillante,	 ces	 oscillations	 s’amortissant	 rapidement.	
+lié	 à	 une	 émission	 d’ondes	
+L’amortissement	 est	 alors	 encore	 partiellement	
+gravitationnelles.	On	n’a	plus	affaire	à	deux	masses	distinctes	mais	à	un	objet	dont	la	
+géométrie	fluctue.	Cet	écart	à	la	sphéricité,	associé	au	mouvement	de	rotation	entraîne	
+une	émission	d’ondes	gravitationnelles,	mais	moins	intense	que	ce	que	le	couple	
+émettait	avant	fusion.		
+L’évènement	du	14	septembre	2015	qui	fut	marqué	par	l’attribution	d’un	prix	Nobel,	est	
+supposé	se	référer	à	une	collision	entre	deux	objets	ayant	des	masses	de	36	et	29	masses	
+solaires,	qui	ne	pourraient	alors	pas	être	identifiés	à	des	étoiles	à	neutrons.	Cette	
+détermination	des	masses,	qui	a	été	faite	sur	la	base	d’une	modélisation	de	la	fusion	de	
+deux	trous	noirs,	fait	état	d’un	défaut	de	masse	de	plusieurs	masses	solaires,	après	
+fusion,	cette	masse	ayant	été	convertie	en	énergie	sous	forme	d’une	émission	d’ondes	
+gravitationnelles.		
+Beaucoup	considèrent	cet	événement	comme	la	preuve	de	l’existence	des	trous	noirs.		
+Peut-être	….	
+L’argument	invoqué	est		:		
+-  On	ne	voit	pas	ce	que	cela	pourrait	être	d’autre	….	
+	Rappelons	que	cet	argument	fut	brandi	il	y	a	30	ans	pour	justifier	l’existence	de	la	
+matière	sombre	en	tant	qu’explication	des	forts	effets	de	lentille	gravitationnelle.	A	cette	
+époque	l’existence	de	ce	composant	était	considérée	comme	«	avéré	».	C’est	encore	ce	
+qui	est	aujourd’hui	invoqué	à	propos	des	importantes	vitesses	des	étoiles	dans	le	centre	
+de	notre	galaxie,	en	tant	que	«	preuve	indirecte	»	que	l’objet	autour	duquel	elles	
+gravitent	serait	«	un	trou	noir	géant	».	Et	on	peut	lire	sous	la	plume	de	beaucoup	
+«	qu’aujourd’hui	cette	présence	d’un	trou	noir	géant	au	centre	de	notre	galaxie	est	
+considérée	comme	un	fait	avéré	»	.		
+	Dans	le	même	ordre	d’idée	la	théorie	de	l’inflation	est	considérée	également	comme	
+acquise,	étant	donné	qu’on	ne	voit	pas	ce	qui	d’autre	pourrait	justifier	l’homogénéité	de	
+l’univers	primitif.		
+	Le	modèle	actuel,	dit	«	de	concordance	»	s’appuie	sur	le	fait	que,	sur	la	base	de	cette	
+théorie	actuelle,	dépendant	de	six	paramètres	libres,	rend	bien	compte	du	spectre	des	
+fluctuations	de	courte	longueur	d’onde.	Ci-après	une	courbe	donnant	l’importance	de	
+ces	fluctuations	en	fonction	du	logarithme	de	leur	longueur	d’onde.		
+	
+
+	
+
+77	
+
+	
+	On	notera	le	pic	pour	une	amplitude	angulaire	d’un	degré.	Ci-après	les	données	à	partir	
+desquelles	cette	courbe	a	été	établie.	Le	diamètre	de	cet	ellipsoïde	correspond	à	360°.		
+	
+
+	
+	Là	encore	l’argument	est	:		
+	-	On	ne	voit	pas	ce	qui,	d’autre,	pourrait	engendrer	ces	fluctuations.		
+	On	remarquera	que	la	corrélation	disparaît	pour	les	perturbations	de	longueurs	d’onde	
+plus	importante	(partie	gauche	de	la	courbe).			
+
+	
+78	
+	Il	est	plus	confortable	de	dresser	une	conclusion	sur	la	base	de	plusieurs	phénomènes,	
+qui	se	recoupent.	Dans	le	cas	de	l’événement	d’août	2017	on	dispose	:		
+-  D’un	signal	gravitationnel	qui	cadre	avec	la	fusion	de	deux	étoiles	à	neutrons.		
+	Mais	en	outre	:	
+		
+-  De	l’enregistrement	d’un	flash	gamma	qui	renforce	cette	hypothèse.		
+-  De	signaux	optiques	dans	de	multiples	fréquences	
+-  De	la	détection	d’atomes	dont	on	attribue	la	formation	à	une	nucléosynthèse	
+rapide,	cadrant	avec	le	milieu	issu	de	la	fusion	de	deux	étoiles	à	neutrons.		
+Pour	l’interprétation	du	signal	gravitationnel	de	2015	il	n’y	a	que	l’accord	avec	la	forme	
+d’onde	théorique	associée	à	la	fusion	de	deux	objets	hypothétiques,	de	deux	trous	noirs.		
+Je	pense	que	l’intensité	du	signal	enregistré	pourrait	résulter	de	la	collision	de	deux	
+étoiles	à	neutrons	sub-critiques,	phénomène	au	cours	duquel	une	masse	en	excès,	qui	se	
+chiffrerait	en	masses	solaires,	pourrait	être	brutalement	inversée	et	aussitôt	dispersée	à	
+une		vitesse	relativiste,	avec	à	la	clé	un	signal	gravitationnel	tout	aussi	puissant.		
+Mais,	à	l’instant	t,	je	ne	suis	pas	à	même	de	fournir	une	forme	de	signal	ainsi	qu’un	
+modèle	théorique	du	phénomène.		
+	
+Etant	 donné	 que	 ces	 ondes	 sont	 1039	 fois	 moins	 puissantes	 que	
+les	 ondes	
+électromagnétiques	leur	détection	apparaissait	a	priori	hautement	problématique.	Le	
+travail	qui	a	abouti	à	des	installations	comme	LIGO	et	VIRGO	s’est	étendu	sur	plus	de	
+trente	années.	C’est	la	raison	pour	laquelle	les	trois	scientifiques,	qui	ont	du	se	battre	
+pour	pousser	un	tel	projet,	et	qui	ont	finalement	été	récompensés	par	un	prix	Nobel	sont	
+…	si	âgés.		
+
+A	propos	de	la	technique	de	détection	des	ondes	gravitationnelles.		
+
+	
+
+	
+
+	
+79	
+Les	ondes	gravitationnelles	agissent	sur	la	métrique	de	l’espace	temps,	sur	la	valeur	
+locale	de	la	«	jauge	d’espace	».	Elles	sont	de	nature	quadripolaire	au	sens	où	quand	
+l’espace	se	distend	dans	une	direction,	il	se	contracte	dans	une	direction	perpendiculaire.		
+En	physique	il	existe	une	technique	(initiée	par	Michelson,	pour	mettre	en	évidence	la	
+constance	de	la	vitesse	de	la	lumière)	qui	se	fonde	sur	l’interférométrie.	En	effet	il	est	
+plus	facile	en	physique	de	mettre	en	évidence	par	ce	procédé	une	différence	entre	deux	
+longueurs	que	de	mesurer	une	longueur	elle-même.		
+Par	longueur	il	faut	penser	aussitôt	à	longueur	d’onde.		
+Dans	les	montages	LIGO	et	VIRGO	on	part	de	deux	«	cavités	résonantes	»	qui	sont	des	
+lasers	(travaillant	dans	l’infrarouge).	Ce	sont	des	enceintes	cylindriques	de	très	grande	
+longueur,	4	kilomètres,	où	on	fait	un	vide	très	poussé	(	10-12	bar	).	A	l’extrémité	de	ces	
+deux	tubes,	deux	miroirs	dotés	d’un	très	grand	pouvoir	de	réflexion,	et	d’une	planéité	
+maximale.		
+Comme	des	balles	entre	deux	raquettes	de	ping-pong,	les	photons	font	des	allers-retours	
+entre	ces	deux	miroirs.	La	propriété	laser	fait	que	la	longueur	d’onde	de	ce	rayonnement	
+s’ajuste	de	manière	extrêmement	précise	en	fonction	de	la	distance	qui	sépare	les	deux	
+miroirs.		
+L’onde	gravitationnelle	va	distendre/contracter	avec	une	certaine	périodicité	les	
+longueurs	L1	et	L2	de	deux	cavités	laser	disposée	perpendiculairement.	Le	caractère	
+«	quadripolaire	»	des	ondes	gravitationnelles	fait	que	lors	qu’une	des	cavité	se	distend,	
+l’autre	se	contracte,	et	vice-versa,		avec	des	altérations	concomitantes	des	longueurs	
+d’ondes	 λ1	et	 λ2	des	rayonnements	installés	dans	les	deux	cavités	résonantes.		
+Un	des	miroirs	de	chaque	chambre	est	semi-transparent,	ce	qui	fait	que	ces	
+rayonnements	de	longueurs		d’ondes	 λ1	et	 λ2	.et	peuvent	être	«	extraits	»	et	conjugués	
+pour	produire	des	interférences.	L’interféromètre	mesurera	alors	le	rapport	 Δλ/ λ	.		
+Le	problème	est	que	cette	quantité	est	infime	!		
+La	variation	de	longueur	des	deux	chambres,	de	4	km	de	long,	correspond	au	
+milliardième	de	la	taille	d’un	atome	!	Soit	une	variation	sur	les	longueurs	de	l’ordre	de	
+10-21.	Le	déplacement	des	franges	d’interférence	est	de	10-18	mètre	,	soit	le	millième	de	
+la	«	taille	»	d’un	proton	(longueur	de	Compton	:	10-15	mètre).		
+Comme	indiqué	dans	les	notes	de	cours	de	Damir	Buskulic,	toute	tentative	de	détection	
+directe,	par	les	méthodes	habituelles,	serait	condamnée	à	l’échec	étant	donné	la	faiblesse	
+du	rapport	signal/bruit.		
+On	est	donc	contraint	d’opérer	un	filtrage	en	recherchant	dans	ce	bruit	un	signal	ayant	
+une	forme	donnée,	émanant	d’un	modèle.	Dans	l’ensemble	cu	après	A	est	censé	
+représenter	un	bruit	n(t),	trop	important	pour	faire	apparaître	un	signal	s(t)til.	On	traite	
+alors,	par	ordinateur,	l’échantillon,	digitalisé,	en	opérant	l’équivalent	de	ce	qu’en	
+électronique	on	appelle	un	filtre	«	passe-bande	»,	qui	laisse	passer	les	fréquences	autour	
+d’une	fréquence	f,	qui	est	précisément	celle	du	signal	dont	on	estime	qu’il	pourrait	être	
+caché	dans	cet	échantillon.		
+
+	
+80	
+Si	ce	signal	B	n’est	pas	présent	le	traitement	donnera	quelque	chose	qui	reste	incohérent,	
+qui	n’est	qu’une	partie	de	bruit	extrait	de	ce	bruit,	entre	la	fréquence	 f + Δ f	et	la	
+fréquence	  f − Δ f	(schématiquement,	la	coupure	liée	au	filtrage,	électronique	ou	
+numérique	n’est	pas	aussi	franche)	
+Si	le	signal	B	était	présent	on	obtiendra	l’échantillon	traité	C	avec	du	bruit	résiduel.		
+L’identification	du	signal,	dans	le	cas	des	ondes	gravitationnelle,	revient	à	un	«	multi-
+filtrage	»	passe-bande,	après	avoir	découpé	l’échantillon	en	sous-séquences,	qui	seront	
+filtrées	avec	des	fréquences	croissantes	f1	,	f	2	,	f	3	,	etc	….	Cotte	croissance	de	la	fréquence	
+correspondant	à	la	forme	d’onde	issue	du	modèle.		
+	
+
+	
+
+Mais	cette	succession	de	fréquences,	qui	correspond	à	«	l’événement	fusion	des	deux	
+objets	»,		se	situe	précisément	dans	le	temps.	Mais	on	ignore	quand.	On	devra	donc	
+déplacer	ce	«	calque	»	selon	une	translation	temporelle	τ	.	Si	le	signal	est	présent,	quand	
+on	tombera	pile	dessus,	il	se	dégagera.	Le	résultat	d’un	tel	traitement	est	indiqué	dans	
+les	figures	ci-après.	Pour	un	certain	jeu	de	paramètres	(évolution	de	la	fréquence	au	
+cours	du	temps	)	ce	multi-filtrage	a	donné	le	résultat	correspondant	aux	deux	figures	du	
+haut.	Il	subsiste	une	certaine	quantité	de	bruit	résiduel,	après	filtrage.	Les	courbes	de	la	
+troisième	ligne	correspondent	à	du	bruit	résiduel	pur.	C’est	à	dire	ce	qu’aurait	donné	ce	
+multi-filtrage,	avec	ce	même	jeu	de	paramètres,	en	l’absence	de	signal.		
+La	différence	est	immédiatement	significative.	L’œil	humain	sait	très	bien	apprécier	les	
+corrélations.	Il	est	visible	que	le	même	signal	s’est	manifesté,	à	Hanford	et	àLivingston,	
+
+	
+81	
+avec	des	déphasages	légèrement	différents,	les	deux	stations	n’ayant	pas	reçu	les	deux	
+trains	d’ondes	au	même	moment.		
+
+	
+On	distingue	sur	ces	signaux	trois	phases.	A	gauche	l’accroissement	progressif	de	la	
+fréquence,	liée	à	l’accroissement	de	la	vitesse	de	rotation	des	deux	objets,	encore	
+distincts,	autour	de	leur	centre	de	gravité	commun.		
+Le	pic	correspond	à	l’instant	de	la	fusion.	Puis	on	a	une	suite	d’oscillations	rapidement	
+amorties.		
+On	détecte	donc	quelque	chose.		
+Reste	à	identifier	ce	«	quelque	chose	»	à	un	modèle	multi-paramétrique	reposant	sur	des	
+hypothèses.		
+-	S’agissant	d’une	collision	d’étoiles	à	neutrons,	le	scénario	a	une	forte	crédibilité.		
+-	S’agissant	du	scénario	d’une	collision	de	trous	noir	c’est	moins	probant	étant	donné	
+qu’on	n’a	pas	de	preuve	observationnelle	de	l’existence	de	tels	objets	et	que,	par	ailleurs,	
+comme	je	le	montre,	leur	«	crédibilité	théorique	»	est	sujette	à	caution.		
+	
+
+	
+
+Les	sources	de	bruits.		
+
+	
+82	
+On	pense	aussitôt	au	bruit	sismique,	généré	par	tout	ce	qui	bouge	sur	la	planète,	y	
+compris	la	planète	elle-même.		
+A	toute	source	de	bruit	il	faut	associer	une	plage	de	fréquence.	Pour	le	bruit	sismique	ces	
+fréquences	sont	basses	et	ce	bruit	décroit	rapidement	quand	cette	fréquence	s’élève.		
+Le	signal	que	l’on	cherche	à	détecter	a	lui	même	sa	propre	plage	de	fréquence.	Dans	
+l’évènement	d’octobre	2015	l’ordre	de	grandeur	de	la	durée	totale	est	la	demi-seconde	
+et	la	plage	de	fréquence	se	situe	entre	10	et	100	hertz.		
+	
+
+	
+	Comparons	avec	la	courbe	correspondant	au	bruit	sismique,	compte	tenu	évidemment	
+des	techniques	d’amortissement	mises	en	œuvre		:		
+
+	
+
+83	
+
+	
+Ce	bruit	sismique	s’effondre	quand	on	approche	10	hertz.	Il	est	donc	négligeable.		
+L’histoire	de	ces	détecteurs,	plus	qu’une	course	vers	le	développement	d’outils	
+théoriques,	laquelle	a	culminé	avec	la	mise	en	oeuvre	d’une	«	relativité	générale	
+numérique	»,	permettant	de	gérer	le	caractère	très	non	linéaire	du	phénomène	à	
+détecter,	a	impliqué	la	conjonction	d’une	foule	d’astuces	techniques.	LIGO	n’est	pas	
+l’œuvre	de	trois	hommes,	mais	d’un	millier,	chacun	ayant	apporté	sa	pierre	à	l’édifice.		
+Pour	le	bruit	sismique	on	a	joué	sur	l’inertie	des	objets	à	suspendre,	en	l’occurrence	des	
+miroirs,	fixés	par	un	système	de	plusieurs	pendules,	pour	les	oscillations	horizontales,	et	
+de	«	lames	de	ressort	»	pour	les	oscillations	verticales.		
+Deux	systèmes	d’amortissement	ont	été	mis	en	œuvre.	Passifs,	en	jouant	sur	l’inertie	du	
+montage,	et	actifs	en	faisant	jouer	une	contre-réaction	à	l’aide	«	d’actionneurs	».		
+La	seconde	source	de	fluctuations	est	d’ordre	thermique,	synonyme	de	vibrations.	Elles	
+pourront	être	réduites	en	mettant	en	œuvre	la	cryogénie,	un	refroidissement	à	très	
+basse	température	des	composants,	ce	qui	est	prévu,	par	exemple	pour	un	projet	en	
+cours,	au	Japon.		
+
+	
+
+84	
+
+	
+On	distingue	deux	types	de	sources	de	bruit,	dont	un	«	mode	violon	»	qui	présente	des	
+pics	correspondant	à	des	résonances.	A	droite	on	trouve	un	pic	à	300	hertz,	suivi	par	ses	
+harmoniques	à	600	hertz,	etc.		
+Une	troisième	source	de	bruit	est	appelée	«	l’effet	de	grenaille	».	Les	longueurs	d’ondes	
+des	photons	incidents	s’organisent	autour	d’une	valeur	moyenne,	l’énergie	de	ces	
+photons	croissant	comme	l’inverse	de	leur	longueur	d’onde	en	vertu	de	la	relation	:		
+Ce	qui	arrive	sur	les	miroirs	est	un	déferlement	de	photons,	tels	«	de	la	grenaille	»,	dotés	
+d’énergies	différentes.	Cette	variabilité	déteint	sur	la	mesure	des	raies	d’interférences	
+qui	«	s’épaississent	».		
+Pour	réduire	ce	bruit	il	faut	que	le	système	devienne	plus	sensible	à	la	valeur	moyenne	
+du	phénomène,	en	augmentant	le	nombre	des	photons	incidents,	donc	la	puissance	du	
+laser.	C’est	également	prévu.		
+Actuellement	c’est	la	source	de	bruit	la	plus	importante	aux	fréquences	considérées	:		
+
+E =
+ 
+
+hc
+λ
+
+	
+
+	
+
+Voici	enfin	la	courbe	globale	:		
+
+85	
+
+	
+
+	
+Quoiqu’il	en	soit,	des	améliorations	sont	prévues,	qui	devraient	accroître	d’un	facteur	
+dix	le	nombre	des	détections	opérées.		
+	
+
+	
+86	
+Tout	ceci	amène	à	conclure	qu’une	nouvelle	astronomie	vient	de	naître,	qui	aura	fort	à	
+faire	pour	gérer	un	rythme	quotidien	de	mesures	(qui	vont	de	pair	avec	le	rythme	
+quotidien	des	détections	de	flashes	gamma).		
+Je	repense	à	mes	rencontres,	il	y	a	20	ans,	avec	les	courageux	pionniers	qui	se	lançaient	
+dans	le	montage	du	système	LIGO,	en	se	disant	«	déte 	cterons-nous	un	jour	quelque	
+chose	?	».		
+A	titre	d’anecdote,	quand	les	Américains	ont	remis	en	marche	leur	système	LIGO,	en	
+même	temps	que	les	gens	de	VIRGO	procédaient	aussi	de	leur	côté	à	une	amélioration	de	
+leur	appareil,	ils	furent	surpris	de	voir	leur	banc	détecter	un	signal	quelques	jours	
+seulement	après	sa	mise	en	marche.		
+Une	bonne	surprise	après	une	succession	d’échecs	cuisants,	pour	des	manips	également	
+lourdes.	On	citera	l’échec	des	tentatives	de	détection	d’astroparticules	dans	les	tunnels	
+du	Mont	Cenis	et	du	Gran	Sasso.	Je	repense	à	la	phrase	du	Français,	disant		
+-	Comme	ça	fait	22	ans	qu’on	cherche,	on	ne	doit	pas	être	loin	.		
+Une	autre	expérience	infructueuse,	visant	à	mettre	en	évidence	la	décomposition	du	
+photon,	à	travers	la	captation	d’un	signal	par	un	des	milliers	de	détecteurs	tapissant	la	
+paroi	d’une	immense	cuve	emplie	d’eau,	installée	dans	une	ancienne	mine	de	sel,	au	
+Japon,	est	le	système	Kamiokande.	La	durée	de	vie	du	proton	était	alors	située	entre	1031	
+et	1036	ans	…	
+	
+
+	
+Deux	techniciens,	à	bord	d’un	canot	pneumatique,	inspectent	la	chambre	
+Je	me	rappelle	de	la	conclusion	d’un	scientifique,	dans	un	article,	qui	écrivait	:		
+-  Unfortunately,	the	proton	did	not	cooperate.		
+(	Malheureusement,	le	proton	n’a	pas	coopéré	)		
+
+	
+
+Références	
+
+87	
+
+	
+	
+[1]	Petit,	J.-P.	(2017).	"JANUS	22	–	4/5	:	Contestation	en	règle	du	modèle	du	trou	noir".	YouTube.	
+[2]	Adler,	R.;	Bazin,	M.;	Schiffer,	M.	(1975).	"Introduction	to	General	Relativity"	(2nd	ed.).	New	York:	
+McGraw-Hill.	ISBN	978-0070004207.	
+[3]	Kolev,	B.;	Petit,	J.-P.	(2005).	"Le	Fantastique	Voyage	de	Nicolas	Bourbakof".	Savoir	Sans	Frontières.	
+[4]	Petit,	J.-P.	(April	1995).	"Twin	universes	cosmology".	Astrophysics	and	Space	Science.	227	(2):	
+273–307.	doi:10.1007/BF00627375.	
+[5]	Petit,	J.-P.;	d'Agostini,	G.	(March	2015).	"Cancellation	of	the	central	singularity	of	the	
+Schwarzschild	solution	with	natural	mass	inversion	process".	Modern	Physics	Letters	A.	30	(9):	
+1550051.	doi:10.1142/S0217732315500510	
+[6] Petit,	J.-P.	(1985).	"Le	Topologicon".	Les	Aventures	d'Anselme	Lanturlu.	Savoir	Sans	Frontières.	
+[7]	Souriau,	J.-M.	(1970).	"Structure	des	Systèmes	Dynamiques".	Dunod.	
+[8]	Kerr,	R.	P.	(1963).	"Gravitational	field	of	a	spinning	mass	as	an	example	of	algebraically	special	
+metrics".	Physical	Review	Letters.	11	(5):	237–238.	doi:10.1103/PhysRevLett.11.237.	
+[9]	Lense,	J.;	Thirring,	H.	(1918).	"Über	die	Einfluß	der	Eigenrotation	der	Zentralkörper	auf	die	
+Bewegung	der	Planeten	und	Monde	nach	der	Einsteinschen	Gravitationstheorie".	Physikalische	
+Zeitschrift.	19:	156–163.	
+Mashhoon,	B.;	Hehl,	F.W.;	Theiss,	D.S.	(1984).	"On	the	gravitational	effects	of	rotating	masses:	The	
+Thirring-Lense	papers".	General	Relativity	and	Gravitation.	16	(8):	711.	doi:10.1007/BF00762913.		
+translation	freely	available	by:	
+Delphenich,	D.	H.	(2014).	"On	the	influence	of	the	proper	rotation	of	a	central	body	on	the	motion	of	
+the	planets	and	the	moon,	according	to	Einstein’s	theory	of	gravitation".	
+		
+
+translated	as:	
+
+	
+
+

@@ -1,0 +1,1127 @@
+
+
+--- Page 1 ---
+
+Partie I Über das Gravitationsfeld eines massenpunktes Page - 188 -
+
+E e
+
+Champ gravitationnel d'un point de masse
+
+dans la théorie d'Einstein
+
+Par Karl SCHWARZSHILD
+
+Document Version 0.0 du 25/05/2017
+Traduit des documents originaux en Allemand
+
+Par HTRACCARD
+
+Page- 188 - Relativité générale 1916 Traduction Henri traccard
+
+
+--- Page 2 ---
+
+Partie I Über das Gravitationsfeld eines massenpunktes Page - 189 -
+
+E e
+
+S1. Mr. Einstein, dans son travail sur le périhélie du mouvement de Mercure (voir Sect. 18
+Novembre 1915) pose le problème d’un point qui se déplace selon l'équation suivante :
+
+äfds=0,
+,v = 1,2,3,4
+ds = Zg…,dxude v
+
+e
+
+Où les g,y sont des fonctions des variables x qui doivent varier du début à la fin du
+chemin d'intégration
+
+Le point se déplace donc en résumé, sur une ligne géodésique dans la direction indiquée
+par l'élément linéaire ds.
+
+La mise en œuvre de la variation donne les équations de mouvement du point.
+
+d2xa_îr «& dx, dx, _1234 2
+ds? H ds ds’ « p =123, (2)
+uv
+où
+1 O9us ; ÎJvg  09wv
+F@ =— Z aB H + _ H 3
+Hv 2 7 9 (âxv ôx, — Ox G)
+
+Et g“P est le sous-déterminant normalisé … des coordonnées Jag dans le
+
+déterminant |g…,|.
+
+C'est d’après la théorie d’Einstein, le mouvement d'un point sans masse dans le champ
+gravitationnel d'une masse située au point x, = x3 = X3 = 0, quandles composantes du
+champ gravitationnel sont partout définies, à l'exception du point x, = x, = X4 =
+0 de l'équation de champ.
+
+Page- 189 - Relativité générale 1916 Traduction Henri traccard
+
+
+--- Page 3 ---
+
+Partie I Über das Gravitationsfeld eines massenpunktes Page - 190--
+
+On devra satisfaire les conditions
+
+org,
+uv a p B —
+G4 OE RE =0 ©
+œ « B
+et en même temps l’équation du déterminant .
+
+l9uvl =-—1 (5)
+
+Les équations de champ associées à l'équation du déterminant ont la propriété
+fondamentale qu’elles conservent leur forme par la substitution de toute autre variable à
+la place de x,,x2,x3 ,x4 seulement si le déterminant de substitution est égal à 1.
+
+Les coordonnées x,,x2,X4 doivent être orthogonales et x, désigner le temps, la masse
+
+au point zéro doit être temporellement invariable etle mouvement à l'infini être rectiligne
+uniforme, etselon M. Einstein (a. a. O. S. 833) satisfaire aussi aux conditions suivantes:
+
+1. Toutes les composantes sont indépendantes du temps x,.
+
+2. Les équations gp4 = Jap = 0 s'appliquent exactement avec p = 1,2,3.
+
+3. La solution est spatialement symétrique par rapport l’origine du système de
+coordonnées dans le sens où on retrouve la même solution quand on soumet x,,X2,x3 à
+
+une transformation orthogonale (Rotation).
+
+4. Les g,y disparaissent à l'infini, à l'exception de quatre guv:
+
+Ja4 = 1,911 = 922 = 933 = —1
+
+Le problème est de trouver un élément linéaire avec des coefficients tels que les équations
+de champ, l'équation du déterminant et ces quatre conditions soient satisfaites.…
+
+$ 2. Mr. Einstein a montré que ce problème conduit, dans une première approximation, à
+la loi newtonienne, et que en deuxième approximation elle restitue correctement
+l'anomalie du périhélie Mercure
+
+Le calcul qui va suivre fournira la solution exacte du problème. Il est toujours plus
+agréable d'avoir des solutions exactes.
+
+Plus important encore, ce calcul en révélant la solution exacte montre que si on avait des
+doutes sur le travail de M. Einstein à cause des difficultés dues à la procédure
+d'approximation, alors les lignes suivantes contribueront au contraire à rendre le travail
+de M. Einstein encore plus lumineux.
+
+$ 3. Si on appelle t le temps, x,y , z les coordonnées cartésiennes alors l'élément linéaire
+le plus commun, qui répond aux exigences 1-3 devrait être le suivant :
+
+Page- 190 - Relativité générale 1916 Traduction Henri traccard
+
+
+--- Page 4 ---
+
+Partie I Über das Gravitationsfeld eines massenpunktes Page - 191 -
+
+ds? = Fdt? — G(dx? + dy? + dz?) — H(xdx + ydy + zdz)?
+
+Où F,G,H sont des fonctions de r = /x? + y? + ?
+La condition (4) entraine que pour r = œ on a F=G=1 et H=0
+Quand on passe en coordonnées polaires
+
+x = r sin(9) cos(w), y = r sin(9) sin(®), z = r cos(9)
+On obtient le même élément linéaire :
+
+ds? = Fdt? — G(dr? + r?d9? + r° sin?(9) db?) — Hr?dr?
+(6)
+ds? = Fdt? — (G + Hr?)dr? — Gr?(d0? + sin?(9)de?
+
+Mais le volume élémentaire exprimé en — coordonnées polaires est égal à
+r? sin(9)dr dû db et le déterminant fonctionnel de l'ancien avec les nouvelles
+coordonnées r* sin() est différent de 1; donc les équations de champ ne seraient pas
+inchangée si l'on calculait avec ces coordonnées polaires et une transformation lourde
+devrait être effectuée. Cependant, une astuce simple permet de surmonter cette difficulté.
+On pose :
+
+3
+
+9530 %25 — 005(0) ,% = b (7)
+Ensuite, pour le volume élémentaire r°dr sin(9) dŸ db = dx, dxz dx3 . Les nouvelles
+variables sont donc des coordonnées polaires du déterminant 1. Ils ont les avantages
+évidents des coordonnées polaires pour le traitement du problème et, en même temps
+restent inchangées pour les équations de champ etle déterminant quand on prend encore
+t=x.
+Dans les nouvelles coordonnées polaires, l'élément linéaire est :
+
+G H dx2
+ds? =Fdxî—(r—4+r—z) dx? — Gr? <1_xâ+dxâ(l—x%)) , (8)
+Pour lequel nous écrirons :
+dx2
+ds? = fdx} = fidxt = f — 77 fads3 = xD), (9)
+2
+
+Ensuite, f, f2,= f3 , f SOnt trois fonctions devant remplir les conditions suivantes
+
+4 2
+lPourx, =o:h= T%= GFh =f=17=G81)5,x4 =1
+2. L'équation du déterminant: f * f, *f3*…fi =1
+3. Les équations de champ.
+4.1es fonctions f continues en dehors de x, = 0
+
+$ 4. Pour établir les équations de champ, on doit d'abord calculer les composantes du
+champ gravitationnel correspondant à l'élément linéaire (9).
+
+Page- 191 - Relativité générale 1916 Traduction Henri traccard
+
+
+--- Page 5 ---
+
+Partie I Über das Gravitationsfeld eines massenpunktes Page - 192 -
+
+E e
+
+Cela se fait facilement en écrivant les équations différentielles de la ligne géodésique. Le
+calcul de la variation aboutit directement à ces composantes. Les équations différentielles
+de la ligne géodésique pour l'élément linéaire (9) sont donc données par :
+
+d?x, 10F (dx, * 10F (dx ® 10h / 1 (dx Ÿ dxz\”
+f dsz+Zâxl(ds) +Zâxl(ds) 20x, 1—xâ(ds) +(-x) ds
+
+0 f dx of, 1 dx dx, + faxa (dx2)2+ (dx3)2
+1-x2 ds2 *üx 1-x3 ds ds *U-27\ds) t(
+d’?x;  ôf dx, dx dxz dx
+— p01 — 42) E3 4 7J pq _ 42 A C3 — G2 CX3
+0= 07x ds? +âx1 U-x ds ds 2f2x2 ds ds
+
+° d?x,  df, dx, dx,
+
+=— —
+* ds? ‘ Ox ds ds
+
+La comparaison avec (2) donne les composantes du champ gravitationnel
+
+110 110 1
+M=-srsE 1 m=
+2f,0x%; 2f10x11—x;
+11 f,
+r 12272 4 2),
+33 +2f1âx1( 2)
+110
+m=-5258 »
+2 f, 0x
+110f X2
+221=_îEÜ_X1 , F222=——1—xâ , F323=_x2(1_x%),
+110f X2
+M =-5535 1 PD=+— ,
+31 2f,0x; 32 1-x}
+110
+m=-5555 ;
+2f4,0%,
+
+(les autres zéro).
+
+Dans le cas de la symétrie de rotation autour du point zéro, il suffit de former les équations
+de champ uniquement pour l'équateur (x; = 0 ), ainsi , comme on différencie une seule
+fois l'expression précédente 1 — x2 . Le calcul des équations de champ s’écrit alors
+
+a (1 ôf1) _ 1(1 ôf1)2 (1 ôf2)2 1(1 ôf4)2
+a 5 + += ,
+)ôX1 f Ox1 2 \f1 Ox1 J2 Ox4 2 \fa Ox1
+à (1ôh 1 (ô )2
+Dan (n0e) 7 24 nn n) *
+)ôX1 f 0x1 ff \0x1
+
+Ôx1 \f1 0X1 ffs \0x1) ?
+
+Page- 192 - Relativité générale 1916 Traduction Henri traccard
+
+
+--- Page 6 ---
+
+Partie I Über das Gravitationsfeld eines massenpunktes Page - 193-
+
+E e
+
+Outre ces trois équations, les fonctions f,, f,, f, doivent toujours satisfaire l'équation du
+déterminant
+
+10 20 10
+
+d) fif?fa=1 — soit: E f _
+
+hx f0x,  fa0x,
+
+Je laisse le premier (b) et m’occupe des trois fonctions (a), (c) et (d).
+(c) peut être mis sous la forme :
+e) â (1 ôf4)_ 1 dh dh
+
+Ox1 \fa Ox1 ffs Ox, 0x1
+
+Qui peut être directement intégré et donne :
+10
+
+C”) 10 - af, (@ constante d’intégration)
+fa 0x1
+
+L’addition de (a) et de (c’) donne
+
+5(7r0et*7;0m4) - (508) *3* 700
+
+Qui associé à (d) nous donne
+
+2
+
+En intégrant on a
+
+1 3
+Œ = îx1 + % (p est une constante d'intégration)
+f2 0X1
+Soit encore
+19 _ 2
+
+fôx,  3x,+p
+
+Eten intégrant encore une fois
+
+2
+f2 = 1(3x, +p)3 — (pestune constante d'intégration)
+La condition à l'infini entraine que À=1 et ainsi on a
+
+2
+fa = Bx, + p)3 (10)
+Il découle de (c”) et (d)
+ôf4 œ œ
+
+! ? Gm +p)3
+
+On intègre en tenant compte de la condition à l'infini
+1
+2=1-aGx +p)3 (1)
+
+Eten plus d’après (d)
+
+_4
+fi= (3x, + p) 3 (12)
+
+T
+1— a(3x, + p) 3
+
+Page- 193 - Relativité générale 1916 Traduction Henri traccard
+
+
+--- Page 7 ---
+
+Partie I Über das Gravitationsfeld eines massenpunktes Page - 194-
+
+E e
+
+L'équation (b), qui peut être facilement recalculée, est complétée avec les expressions
+trouvées de f, et f>.
+
+Ainsi, toutes les conditions sont satisfaites sauf celle de la continuité.
+
+fà devient discontinu quand.
+
+1
+a(3x, + p) 3 =1 soit quand 3x, =a*—p
+
+Pour que cette discontinuité coïncide avec l'origine, il faut donc que
+
+p=a (13)
+
+La condition de continuité lie ainsi les deux constantes d’intégration p et a. La solution
+complète de notre problème est maintenant est donnée par:
+1 1
+f1_R41—a_ 'f2_f3_R2 , fa=1-
+R
+dans lequel la variable auxiliaire
+
+a
+R
+
+1 1
+R = (3x, + p)3 = (* + a°)3
+est introduite.
+Si nous remplaçons ces valeurs des fonctions f dans l'expression (9) et revenons en même
+
+temps aux coordonnées polaires ordinaires, on obtient alors l’expression de la solution
+exacte du problème d'Einstein.
+
+œ dR? 1
+ds? =(1— R)dc2 —— - R°(d02 + sin?(9)dé2), R=(3+055 ,  (14)
+1
+
+la constante à dépend de la masse au point zéro
+
+$ 5. L'unicité de la solution a été prouvée par le calcul ci-dessus . Cette unicité est apparue
+d’elle-même avant que la condition de continuité ne fut posée .Le fait qu'il soit difficile de
+reconnaître l'unicité d'une méthode d'approximation selon la méthode de M. Einstein se
+trouve dans ce qui suit.
+
+4 4
+Gx +p)75 (r* + p)73
+h= =
+
+1 1
+1-a(3x, +p)3 1-a(r3+p)3
+Si œ et p sont faibles, le développement en série donne jusqu'à deux ordres de grandeur:
+
+_1[1 « 4p
+h=[*5737
+
+Cette expression, ainsi que celles de f,, f3, f, développées de manière similaire, satisfait
+avec la même précision à toutes les exigences du problème.
+
+Page- 194 - Relativité générale 1916 Traduction Henri traccard
+
+
+--- Page 8 ---
+
+Partie I Über das Gravitationsfeld eines massenpunktes Page - 195-
+
+—E
+L'exigence de continuité n'ajoute rien de nouveau à cette approximation car les
+discontinuités ne se produisent qu’au point zéro. Si les deux constantes « et p étaient
+arbitraires, cela rendrait le problème physiquement indéterminé. La solution exacte
+montre que en continuant les approximations, la discontinuité ne se produit pas au point
+
+1
+zéro, mais au point r = (a* — p)3 quand p = a* et nous devons donc ajuster les
+coefficients à et p pour que la discontinuité se déplace au point zéro.
+
+$ 6. Enfin, le calcul du mouvement d'un point dans le champ gravitationnel consiste à
+dériver la ligne géodésique appartenant à l'élément linéaire (14). D'après les trois
+conditions, l'élément linéaire est homogène dans les différentielles et ses coefficients sont
+indépendants de t et de p, la variation aboutit immédiatement à trois intégrales
+intermédiaires.
+
+Si nous nous limitons au mouvement dans le plan de l'équateur (4 = 90°, d4 = 0), alors
+ces intégrales intermédiaires sont:
+
+R \ds 1 —Æ\ds ds Cons ; (15)
+R
+de”
+2_* = =
+R ds const =c, (16)
+a, dt L EhiRi A
+(1 = Ë)Æ = const = 1 (Définition de l'unité de temps). (17)
+
+D’où il découle
+
+1
+Ou encore avec r>
+
+dxy?_1-h h ;; _3
+(Æ) =—C2 +C—2x—x + ax (18)
+
+2 —h p ;
+Si l'on introduit les termes: % = B,1T = 2A c'est identique avec l'équation (11)© de M.
+Einstein et donne l'anomalie observée du périhélie de Mercure. Malgré tout, l'approche
+de M. Einstein du calcul de la géodésique est compatible avec la solution exacte ,si nous
+entrons r au lieu de la valeur
+
+1
+1 a3\3
+IR=(3+409)53=r(1+4—5
+r
+
+(1) Je n’ai pas le texte de cette référence
+
+Page- 195 - Relativité générale 1916 Traduction Henri traccard
+
+
+--- Page 9 ---
+
+Partie I Über das Gravitationsfeld eines massenpunktes Page - 196-
+
+E e
+
+Puisque Ë est proche de deux fois le carré de la vitesse planétaire (en prenant pour unité
+
+de vitesse celle de la lumière), pour Mercure l’ordre de grandeur est de 107*? . Ainsi,
+pratiquement R est identique à r et l'approche de M. Einstein est suffisante au-delà des
+besoins de la pratique courante.
+
+Enfin, pour les trajectoires circulaires l’expression exacte de la troisième loi Kepler doit
+
+pouvoir en être déduite.
+1
+
+Pour la vitesse angulaire n = %, selon (16) et (17), si on prend x = A
+
+n = cx*(1 — ax)
+
+2
+Pour les trajectoires circulaires, :—; et îÎÏ doivent être égaux à zéro. Selon (18)
+1-h ha 2 3 ha 2
+0=—2+—2x—x +ax” , 0=—2—2x+3ax
+c c c
+
+L’ élimination de h dans ces deux équations nous donne
+
+œ = 2c?x(1 — ax)?
+D’où il découle
+a a a
+
+x3_
+
+2— —
+2 2R3 2(r3+a?)
+
+n
+
+Jusqu'à la surface du soleil, l'écart de cette formule à la troisième loi Kepler est totalement
+imperceptible. Mais pour un point de masse idéal la vitesse angulaire ne se prolonge pas
+continument comme dans la loi de Newton lorsque le rayon de l'orbite diminue, mais
+s’approche d’une limite égale à :
+
+1
+m=—=
+,
+(Pour un point de masse solaire, la limite de fréquence est d'environ 10* par seconde.)
+
+S'il existait des lois similaires pour les forces moléculaires, cette propriété pourrait être
+intéressante).
+
+Page- 196 - Relativité générale 1916 Traduction Henri traccard
+
+
+--- Page 10 ---
+
+Partie II Sitzung der phys-math Klasse v.23 Märtz 1916 Mittv.24 _ Page-423-
+
+E e
+
+Page- 423 - Relativité générale 1916 Traduction Henri traccard
+
+
+--- Page 11 ---
+
+Partie II Sitzung der phys-math Klasse v.23 Märtz 1916 Mittv.24 _ Page-424-
+
+Etude du champ gravitationnel d'une
+Boule de fluide incompressible
+selon la théorie d'Einstein.
+
+Par Karl Schwarzschild
+(Déposée le 24 février 1916 [voir page 313].)
+
+$ 1. Comme autre exemple de la théorie de la gravitation d'Einstein, j'ai le champ
+gravitationnel d'une sphère homogène de rayon fini consistant en un fluide
+incompressible. L'ajout de la condition d'incompressibilité est nécessaire parce que la
+gravitation dépend non seulement de la quantité de matière, mais aussi de son énergie,
+et, par exemple, un corps solide dans un certain état de stress donnerait une gravitation
+différente de celle d'un liquide.
+
+Ce calcul est la suite de ma communication sur le champ gravitationnel d'un point de
+masse ( référence 1916, p. 189), que je citerais brièvement dans "point de masse".
+
+S 2. Les équations du champ Einsteinien de gravitation (référence 1915, p. 845)
+ressemblent généralement à :
+
+n
+îôx +îru%Fvîz=Guv (1)
+a & a8
+
+Les grandeurs disparaissent là où rien n'est présent. À l'intérieur d'un fluide
+incompressible, ils sont déterminés de la manière suivante: Le «tenseur énergie mixte»
+d'un fluide incompressible au repos est, selon M. EINSTEIN (référence, 1914, p. 1062, le
+P disparait à cause de l'incompressibilité):
+
+T} =T}=T3=-—p, _ T{ =p, ,(les autres T sont nuls) (2)
+
+Où p estla pression, p, estla densité constante du liquide. Le tenseur d'énergie covariante
+est:
+
+Tuv = Z Th Gyr @
+T
+
+Page- 424 - Relativité générale 1916 Traduction Henri traccard
+
+
+--- Page 12 ---
+
+Partie II Sitzung der phys-math Klasse v.23 Märtz 1916 Mittv.24 _ Page-425-
+
+C’est encore :
+
+T=9T=P-3P (4)
+
+T
+
+Et:
+x = 81k*
+
+où K? est la constante gravitationnelle gaussienne. Selon Einstein (référence, 1915,
+p.845, équation 2a), parties droites des équations de champ sont:
+
+1
+Guv = <Fuv_îguvT) (5)
+
+Pour que le fluide soit en équilibre, les conditions (ibid., Équation 7a) doivent satisfaire
+
+$ 3. De même qu'avec le point de masse, les equatlons générales pour la sphère doivent
+également satisfaire à la symétrie de rotation autour du point zéro. En l'état, il est conseillé
+d'introduire les coordonnées polaires à partir du déterminant 1.
+
+3
+r
+x, = > x3 = — cos(9), x3 =0, x,=t (7)
+L'élément linéaire doit alors avoir la forme, comme dans l'autre cas,
+2
+2 2
+= fadx; — f, dx{ f2 fzdx3(1_xz) (8)
+
+de sorte que l'on a:
+
+f
+I11 = —f 922__1_2x2' 933 5 —— X2), Jaa =
+2
+
+(les autres g,y sont nuls)
+
+Ainsi les fonctions ne dépendent que de x,
+Les solutions (10), (11), (12) s’appliquent également à l'espace extérieur de la sphère:
+
+f =1-a(4, +033, h =Gn +6*, ffh =1 ®
+
+où Œ et p sont deux constantes initialement arbitraires, qui seront déterminées plus loin
+grâce à la masse et le rayon de notre sphère. Il reste à résoudre les équations de champ
+pour l'intérieur de la sphère au moyen de l'expression (8). Pour les parties droites on
+obtient dans l'ordre:
+
+Page- 425 - Relativité générale 1916 Traduction Henri traccard
+
+
+--- Page 13 ---
+
+Partie II Sitzung der phys-math Klasse v.23 Märtz 1916 Mittv.24 _ Page-426-
+
+E e
+
+Ph
+
+1—x2
+T33 = T33933 =-—pfâQ4 - x%), T44 = T44944 = Pofa
+
+T— (P — Po)
+—2
+
+T11 = T11911 =—Pfh, T22 = T22922 =-
+
+“f
+G11 = Î(P — Po), G22 = 21
+
+“fz ”f4
+533=Î(1—x2)(P Po)d, Gaa = 2 1-
+
+1- (Po + 3P)
+Inchangées au point de masse ($ 4), les composantes IL'Ï, du champ gravitationnel
+
+peuvent être déterminées par la fonction f et les parties gauches des équations de champ.
+En général ces composantes dans toutes les équations suivantes seront obtenues en se
+limitant à l'équateur où (xz = 0):
+
+Tout d'abord, les trois équations de champ:
+
+1 à /10f) 11 /af)° 11 âf2 ôf, x
+rn taeoe) +205) +27( *) =-5h(0.-P) (a)
+20x, \f, OX4 4 f / \Ox, 2 f \Ox, 4 f2 \Ox, 2
+1 à (1âf, 11 âf2) “
+51> )-1 =— =-s = b
+20x (f1 âx1) 2Fh (âx1 7h P )
+1 à /10f 11 f “
+—2 (r3x) *Fh (âxl) =- 7h 3P) (©)
+Il en découle l’équation du déterminant :
+f1f22f4 =1 (d)
+Les conditions d'équilibre (6) fournissent l'équation suivante:
+0, 10 20 10
+__p __( f1+_£)+@_£ (e)
+Ôx, fhx  f20x, 2 fa0x,
+
+Il ressort des considérations générales de M. Einstein que les 5 équations précédentes
+avec les quatre inconnues f, f2, f4 , p sont compatibles les unes avec les autres.
+
+Nous devons déterminer une solution de ces 5 équations, qui sera sans singularité dans la
+sphère. Sur la surface sphérique on devra avoir p = 0,, et les dérivées premières des
+fonctions f des formules (9) devront rester continues même en dehors de la sphère
+
+Par souci de simplicité, il faut rester loin de l'indice 1 de x,.
+
+$ 4. La condition d'équilibre (e) se calcule à l’aide du déterminant dans:
+
+ôp _Po+P10h
+
+ôx 2 f4 ox
+
+Page- 426 - Relativité générale 1916 Traduction Henri traccard
+
+
+--- Page 14 ---
+
+Partie II Sitzung der phys-math Klasse v.23 Märtz 1916 Mittv.24 _ Page- 427 -
+
+Cela peut être intégré immédiatement et donne:
+
+(Po + P)V f = Konst = y (10)
+
+Les équations de champ (a) (b) (c) peuvent être résolue par multiplication par les
+
+facteurs suivants —2, +2 % —2 %:
+r -70) 120 70) - mre-r œ
+ââ—x (% Sp)=2 % + f11f2 Sh —nfo-P) "
+F (E) - 5155 +Éf00+3P) (
+
+Si on combine a '+ 2b' + c'et a' + c, on obtient ce qui suit en utilisant le déterminant:
+
+_ f1 f,* 2 OF9f,
+0= J?z_f_2< ) F,f, 0x 7 * P4iP c>
+_ 1ôf, î Ë2
+
+0_Zâx<f âx)+fÊ<âx) +Zufl(pa+p) (2)
+
+Nous allons ici introduire une nouvelle variable car les résultats au point de masse sont
+très simples en dehors de la sphère, de sorte qu'ils doivent l'être également pour les
+équations actuelles, sans p, et p .
+
+C'est:
+2 _1 1
+fh=mM,h=M3,h== (13)
+Cn
+Ensuite d’après (9) on a en dehors de la sphère:
+1
+n=3x+p, (=n-a, (14)
+ôn 0G __
+— = — =n3 15
+Ox ; ax " (15)
+
+Si ces nouvelles variables sont introduites et qu’en même temps on remplace p, + p par
+2
+
+yf4 * selon (10) alors les équations (11) et (12) deviennent :
+
+MO _ 3N 4 3xYCINE — 3npp (16)
+ôxô
+2—6217 = —3J{yÇ_% 17% (17)
+ôx2
+
+Page- 427 - Relativité générale 1916 Traduction Henri traccard
+
+
+--- Page 15 ---
+
+Partie II Sitzung der phys-math Klasse v.23 Märtz 1916 Mittv.24 _ Page-428-
+
+—E
+L'addition de ces deux équations donne:
+02n On 0Ç
+
+2
+dx2 t dx ax - 9N * 7 3%Po
+
+ô
+Le facteur d'intégration de cette équation est £ etl'intégration donne:
+QUN 1 est une constante
+— = 3 — . z ‘
+S <ôx) 9n3 — 3xpon + 94 (À d'intégration ) (18)
+Ceci élevé à la puissance 3/2, donne:
+3
+3 (om) 1 z
+Ç2 <ô—) = <9173 — 3xpon + 9/1)
+x
+Si nous divisons (17) par cette équation, le @ disparait, et l'équation devient une
+équation différentielle en n:
+
+0? 1
+2577 _ —3xyns
+
+On * 1 5
+u 2
+<ôx) <9nï — 3xpon + 9/1)
+
+, à N nLE ; HORA ;
+Ici ä est à nouveau le facteur d’intégration et l'intégration donne:
+
+1
+2 éd
+= 3J{y] 17N 3 (19)
+(ô_ﬁ) 1 z
+Ox <91ﬁ — 3xpon + 9/1)
+Etenfin :
+2 2 Ôx
+(On
+ÔX
+
+Ce qui donne après une intégration supplémentaire :
+
+1
+
+H éd
+
+=1 J dn J 17N ; (20)
+
+18 1 5
+<91ﬁ — 3xpon + 9/1)
+
+x est donc fonction de n, et par inversion n est fonction de X. Il en sera de même pour (
+
+à partir de (18) et (19) et aussi des fonctions f à partir de (13). Notre problème de
+quadratures est donc résolu.
+
+$ 5. Maintenant, les constantes d’intégration doivent être déterminées de sorte que
+
+l'intérieur de la sphère reste sans singularité et que les valeurs externes des fonctions f
+et de leurs dérivées soient continues y compris sur la surface sphérique.
+
+Page- 428 - Relativité générale 1916 Traduction Henri traccard
+
+
+--- Page 16 ---
+
+Partie II Sitzung der phys-math Klasse v.23 Märtz 1916 Mittv.24 _ Page-429-
+
+E e
+
+Sur la surface sphérique,r = %, X = Xa, N = N, etc. La continuité de n et de @ peut
+toujours être conservée par détermination appropriée des constantes œ et p dans (14).
+Les dérivées restent aussi continues et deviennent d’après (15)
+
+(d_n)a =3et (Ë)a = n7# jd’après (16) et (18) ona :
+
+C 1 1 1
+2.6 3 K,
+Y = Posana® » Sa =N — 5 Na + À (21)
+Il en découle ce qui suit
+Gaha* = (fada =1- -3 Na +4Nna
+
+Etaussi
+Y = PoV fada (22)
+
+On peut voir à partir de la comparaison avec (10) que la condition p = 0 est satisfaite
+d ; 4s ; A
+
+sur la surface. L'exigence (d—n) = 3 donne la détermination suivante pour les limites
+X7 a
+
+d'intégration dans (19):
+1
+3dx 1 J{y]"“ n6dn
+n
+
+7 = ; (23)
+
+1 z
+<9173 — 3xpon + 9/1)
+et (23) et (20) fournissent la détermination suivante des limites d'intégration:
+1
+ma ma d
+XY nean
+œ-x)=n-mt DJ f —E 24
+77 (n3 _ PN 4 à ?
+M-3F
+Les conditions de surface toutes sont remplies. Les deux constantes N, et À sont
+toujours indéterminées, mais elles seront définies par les conditions de continuité à
+l'origine.
+Nous devons d'abord exiger que pour x = 0 ,on ait aussi n = 0. Si ce n'était pas le cas
+alors f serait une variable finie au point zéro, et un changement d'angle db = dx3 serait
+
+effectué au point zéro, ce qui signifie qu’en réalité aucun mouvement contribue à
+l’équation. Il découle de ceci et de la formule (24) cette condition pour la définition de
+
+Na
+1
+nédn
+
+1
+@g_ä%ﬂ+À)
+
+xy (ne na
+3Xa = Na — Î d77_{
+n n
+
+@5)
+
+N
+
+Page- 429 - Relativité générale 1916 Traduction Henri traccard
+
+
+--- Page 17 ---
+
+Partie II Sitzung der phys-math Klasse v.23 Märtz 1916 Mittv.24 _ Page-430-
+
+À est finalement déterminé par l'exigence que la pression au centre de la sphère doit
+rester finie et positive, d'où il découle d’'après (10) que f, est finie et doit rester nulle.
+D’après les formules (13), (18) et (23) on obtient :
+
+2
+n ld
+_ Xpo 2 _1 H 0 6
+f4=ên3=(l—%n3+/m 3) 1 6yj Le 3 | @6)
+n 1 XPo 2
+(s —2n +2)
+Supposons d'abord À # 0 ,alors pour n très petit on a:
+7\ 2
+À uy n6
+h=T\K4+7 5
+n3 y?
+où
+n ld
+xy ( nédn
+K=1-= L ; 5 (27)
+2
+
+Au centre (n = 0), f, devient infini sauf lorsque K = 0 . Cependant, si K = 0, f, disparaît
+pour n = 0.Dans aucun cas on a une valeur finie etnon nulle de f, pourn = 0.1l s'ensuit
+que la condition À # 0 ne conduit pas à des solutions physiquement viables, donc À = 0.
+
+$ 6. Avec la condition lambda = 0, toutes les constantes d’intégrales sont définies. Et en
+même temps, les intégrations à effectuer sont très simples. À la place de n,plaçons une
+nouvelle variable ÿ dont la définition est:
+
+1
+sin) = J22 «3 ,<sin(xa)= /%*nî) @28)
+
+les équations (13), (26), (10), (24), (25) sont transformées par calcul simple en les
+suivantes:
+
+f- - in*@)
+= — SIN
+? *Po
+
+2
+A <C°s(X)Z_ŒS…) fofk…=1  @9)
+
+2 cos(Xa) ?
+
+3x =r3= (kp0 )—% [î cos(Xa) <)( — %sin(2){)) — %sin3(){)] (31)
+
+3
+La constante %, est déterminé par la densité py etle rayon r, de la sphère selon la
+relation:
+3
+xPpooz 9 1 . 1 .
+2 (02)= peosra) (ra — 55in2xa)) - 75in°@a) — G2
+
+Page- 430 - Relativité générale 1916 Traduction Henri traccard
+
+
+--- Page 18 ---
+
+Partie II Sitzung der phys-math Klasse v.23 Märtz 1916 Mittv.24 _ Page-431-
+
+Les constantes œ et p de la solution pour l’extérieur découlent de (14) :
+1
+P=N-3x, =n3 Ça,
+
+et on obtient les valeurs:
+3
+XPoNTZ[3 …. 9 1.
+p=(82) * [sin"Cra) - 7c05Cra) (xa - 75in@xa))| — GD
+3 2 4 2
+1
+XPoy 2 .
+a= (%) * sin*(Xa) (34)
+L'équation à l'intérieur de la sphère se simplifie en utilisant les variables , Ÿ , au lieu
+de x,, xz , X3 (ix) :
+
+_ 2
+ds? = <3 COS(Xa)2 COS(){)) dt?
+B5)
+
+3
+— )î (dx? + sin?(x) d9? + sin?(y) sin? (9) dé?)
+0
+
+En dehors de la sphère, la forme de l’équation reste identique à celle du point de masse:
+
+ds? = (1 g) dt?
+
+7 R?(d9? + sin?(9) dé?)
+R B6)
+où
+R =1+p
+Seul p est déterminé selon (33), tandis que pour au point de masse p = a°.
+
+$ 7. Les remarques suivantes sont liées à la solution complète de notre problème au
+paragraphe précédent.
+1. L'élément linéaire(dt = 0) dans la sphère est:
+3
+—ds? = r (dx? + sin?(x) d9? + sin°(y) sin?(9) dé?)
+0
+
+C'est l’équation linéaire connue de la géométrie spatiale non-euclidienne soi-disant
+sphérique. À l'intérieur de notre sphère, la géométrie de l'espace sphérique prévaut. Le
+
+rayon de courbure de l'espace sphérique devient r Notre sphère ne forme pas
+(
+
+l'ensemble, mais seulement une partie de l'espace sphérique, puisque 7 ne peut pas
+
+croître à %, mais seulement à la limite %, . Pour le Soleil, le rayon de courbure de l'espace
+
+sphérique, qui domine la géométrie dans son intérieur, serait environ 500 fois celui du
+
+rayon du soleil (voir les formules (39) et (42)).
+
+Page- 431 - Relativité générale 1916 Traduction Henri traccard
+
+
+--- Page 19 ---
+
+Partie II Sitzung der phys-math Klasse v.23 Märtz 1916 Mittv.24 _ Page- 432-
+
+C'est un apport intéressant de la théorie d'Einstein qui alors que la géométrie de l'espace
+sphérique qui était vue jusqu’ à présent comme une simple possibilité, montre la réalité
+de l’influence de la gravitation des sphères.
+
+Dans la sphère, on mesure bien sûr les grandeurs suivantes:
+
+3 3 3
+— dx, — sin(y)dé, |— sin(y) sin(9)dd (37)
+XPQ XPQ XPQ
+
+Le rayon "mesuré en interne" du centre de la sphère à sa surface devient:
+
+3
+P;= |-—Xa (8)
+
+La circonférence de la sphère, mesurée le long d'un méridien (ou de tout autre cercle plus
+grand), et divisée par 2 , s'appelle le rayon «extérieur» P, . Il s'ensuit :
+
+3
+Pa= |— sin(Xa) (39)
+
+Après l'expression (36) de l'élément linéaire en dehors de la sphère, ce P, est évidemment
+
+1
+identique à la valeur R, = (72 + p)3  quela variable R suppose sur la surface sphérique.
+
+Avec le rayon P, on obtient par (34) les relations simples pour «
+
+œ
+£ - sin?(xa) ,a = 2 p3 (40)
+P, 3
+Le volume de notre sphère est:
+3 Xa TT 27
+3
+V=| |— J sin(x) dx J sin(Ÿ) d9 J do
+XPy
+0 0 0
+3
+3 1.
+= (ra — =sin@2xa))
+XPy 2
+
+La masse M de notre sphère est donc (x = 81k?)
+
+3 3
+
+M = V= —
+Po 4k2
+
+( — sinCxa)) (41)
+
+2. À partir des équations de mouvement d'un point de masse infiniment petite en dehors
+de notre sphère, et qui conserve la même forme que dans le point de masse (équations
+(15) - (17)) on fait les observations suivantes:
+
+Page- 432 - Relativité générale 1916 Traduction Henri traccard
+
+
+--- Page 20 ---
+
+Partie II Sitzung der phys-math Klasse v.23 Märtz 1916 Mittv.24 _ Page-433-
+
+À grande distance, le mouvement du point suit la loi de Newton, où â joue le rôle de la
+masse attirante. Par conséquent, â peut s'appeler la «masse gravitationnelle» de notre
+
+sphère.
+Si un point est abandonné à l'infini au repos et chute vers la surface de la sphère, la vitesse
+de chute "naturellement mesurée" est donnée par la valeur:
+
+Va = sin(Xa) (42)
+Pour le soleil, la vitesse de chute est d'environ 1/500 de vitesse de lumière. Il est facile de
+conclure que, avec la faible valeur de %, et X(< Xa) résultant de celle-ci, toutes nos
+équations, à l'exception des effets du second ordre d'Einstein, peuvent être ignorés dans
+la théorie de Newton.
+
+Ainsi, selon (40):
+
+3. Pour le rapport de la masse gravitationnelle â à la masse substantielle M
+
+a 2 sin*(xa) (43)
+2kK2M 3 L
+
+Xa — î51n(2Xa)
+
+Comme la vitesse de chute v, (= sin(Xa)) , la concentration de masse augmente, le
+rapport de la masse gravitationnelle à la masse substantielle diminue. Cela s'explique par
+le fait que, Par exemple, avec une masse constante et une densité croissante, la transition
+vers un rayon plus petit se produit avec des émissions d'énergie (réduction de la
+température par rayonnement).
+
+4. La vitesse de la lumière dans notre sphère est:
+
+2
+-3 cos(Xa) — cos(x)
+
+(44)
+
+de sorte qu'’elle varie à partir de la valeur sur la surface
+
+1
+cos(Xa)
+
+2
+3 cos(xa) — 1
+
+La variable de pression po + p augmente selon (10) et (30) proportionnellement à la
+vitesse de la lumière.
+Au centre de la sphère (x = 0) , la vitesse de la lumière et la pression deviennent infinies
+
+jusqu'à la valeur au centre
+
+dès que cos(xa) = â , la vitesse de chute est devenue égale à \Ë de la vitesse de la
+
+lumière (mesurée naturellement).
+
+Page- 433 - Relativité générale 1916 Traduction Henri traccard
+
+
+--- Page 21 ---
+
+Partie II Sitzung der phys-math Klasse v.23 Märtz 1916 Mittv.24 _ Page-434-
+
+il y a donc une limite de densité au-delà de laquelle une boule de fluide incompressible ne
+peut exister. Si nous voulions appliquer nos équations aux valeurs cos(Xa) < â, des
+discontinuités seraient obtenues en dehors du centre de la sphère.
+
+Cependant, pour x, plus grand, les solutions continues peuvent être trouvées au moins
+en dehors du centre de la sphère si on est dans le cas À # 0 et en satisfaisant la condition
+K = 0 (équation (27)).
+
+Sur le chemin de ces solutions, qui sont évidemment physiquement sans signification, car
+elles donnent une pression infinie au centre, nous pouvons passer à la limite d'une masse
+concentrée à un point, puis trouver aussi la relation p = a* qui, selon les résultats
+précédents sont valables au point de masse .
+
+Il convient de noter ici que l'on ne peut parler d'un point de masse, quand on utilise la
+variable r , laquelle ne joue aucun rôle dans la géométrie et le mouvement de notre
+champ gravitationnel.
+
+Pour un observateur externe qui ferait des mesures, selon (40), il s'ensuit qu'une sphère
+. : , « : , : p
+de masse gravitationnelle donnée 7 "e peut avoir rayon un mesuré depuis l'extérieur
+
+plus petit que:
+B=a
+Pour une boule de fluide incompressible, la limite est de â .
+
+Pour le soleil œ est égal à 3 km,
+pour une masse de 1 g a est égal à 1.5.10728 cm.
+
+Envoyé le 6 Avril 1916
+
+Page- 434 - Relativité générale 1916 Traduction Henri traccard

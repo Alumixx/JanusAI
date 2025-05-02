@@ -1,0 +1,868 @@
+	
+
+1	
+
+JOURNAL DES ÉCHANGES AVEC LA REVUE PHYSIQUE D 
+
+Jean-Pierre.Petit@manaty.net 
+
+Depuis le 24 octobre 2020 
+
+ 
+
+Contact avec la revue  : Dr Robert Wimmer. 
+
+ 
+
+ 
+L’adresse mail de la revue : prd@aps.org 
+Le numéro du dossier de l’article : DW12414 
+ 
+Copie aux membres du comité de rédaction :  
+Mirjam Cvetič cvetic@physics.upenn.edu 
+
+Urs M. Heller heller@aps.org 
+Ansar Fayyazuddin ansarf@aps.org 
+Robert D. Pisarski pisarski@bnl.gov 
+Rashmi Ray rray@lps.umontreal.ca (vieux mail) 
+Joshua Sayre jsayre@pitt.edu 
+Alin Tirziu atirziu@purdue.edu 
+
+Robert Wimmer robert.t.wimmer@stonybrook.edu 
+Raphael Bousso bousso@lbl.gov 
+Aida X. El-Khadra axk@illinois.edu 
+Young-Kee Kim ykkim@hep.uchicago.edu 
+Eric Poisson epoisson@uoguelph.ca 
+
+	
+
+2	
+
+James M. Cline jcline@physics.mcgill.ca 
+Gerald V. Dunne gerald.dunne@uconn.edu 
+
+Martin Bojowald bojowald@gravity.psu.edu 
+Nathaniel Craig ncraig@physics.ucsb.edu 
+Laura Reina reina@hep.fsu.edu 
+Bernard F. Whiting bwhiting@ufl.edu 
+___________________________________________________________________ 
+ 
+14  septembre  2020  :  Nous  envoyons  au  journal  Physical  Review  D,  véritable 
+sanctuaire  de  la  physique  théorique  et  de  la  cosmologie,  en  abrégé  PRD,  le 
+document de 10 pages intitulé  
+Cosmologie  avec  des  masses  négatives.  Comparaison  du  modèle 
+S.Hossenfelder avec les données d'observation. 
+    Auteurs: Petit J.P, D'Agostini (France) G., Debergh N.(Belgique) 
+___________________________________________________________________ 
+
+ 
+
+2020 september 16.  L’article est enregistré sous la référence DW12414 et entre 
+dans une procédure d’examen.  
+___________________________________________________________________ 
+ 
+18 septembre 2020.     Le premier rejet par Robert Wimmer  : 
+Cher Dr Petit, 
+Nous  avons  examiné  votre  manuscrit  et  conclu  qu'il  ne  convenait  pas  à  Physical 
+Review  D.  Nous  ne  portons  aucun  jugement  sur  l'exactitude  du  travail,  mais 
+seulement sur son adéquation selon nos autres critères (…). 
+Pour pouvoir être publiés dans Physical Review D, les manuscrits doivent contenir 
+de  nouveaux  résultats  significatifs  en  physique,  être  de  haute  qualité  et  d'intérêt 
+scientifique, et être reconnus comme une contribution importante à la littérature. 
+Nous ne pensons pas (…) que votre article réponde à ces critères et estimons qu'il 
+sera plus productif pour vous de chercher à être publié dans une autre revue plus 
+spécialisée. 
+
+Sincèrement vôtre, 
+Robert Wimmer 
+Rédacteur en chef adjoint 
+
+	
+
+ 
+
+3	
+
+Examen physique D 
+___________________________________________________________________ 
+
+18 septembre. Nous formulons une première réclamation : 
+
+Copie à Sabine Hossenfeler 
+
+Cher Dr. Wimmer, 
+Cet article est basé sur un modèle cosmologique entièrement nouveau, du plus haut 
+niveau en cosmologie et en géométrie différentielle, publié dans votre revue en 2008 
+par S.Hossenfelder sous le titre : A bimetric Theory with Exchange Symmetry. Phys. 
+Rev. D78, 044015, 2008 et arXiv : 0807.2838v1 (gr-qc)17 juillet 2008  
+À l'heure où de nombreux articles totalement spéculatifs, libres de toute observation, 
+sont  publiés,  les  résultats  sont  importants  et  indéniables.  En  comparant  ce  qui 
+ressort de cette théorie, on explique :   
+- L'accélération de l'expansion cosmique, avec un excellent accord avec les données 
+d'observation de 700 supernovae de type Ia 
+- La structure à grande échelle de l'univers où une distribution régulière de masse 
+négative,  répulsive,  donne  à  la  masse  positive,  la  seule  visible,  une  structure 
+lacunaire, en accord avec les observations.  
+- Le confinement des galaxies, y compris l'explication de la planéité de leurs courbes 
+de vitesse.  
+-  Les  forts  effets  de  lentille  gravitationnelle,  dus  à  l’effet  de  lentille  gravitationnelle 
+négatif .  
+- La prise en compte des effets relativistes locaux.  
+- Donne la première explication du phénomène récemment découvert, qui a reçu en 
+2017 le nom de "Great Repeller", en l'identifiant comme un conglomérat de masse 
+négative,  invisible  parce  qu'il  émet  des  photons  d'énergie  négative.  Une  structure 
+pour laquelle aucune interprétation théorique crédible n'a encore été proposée.  
+- Fournit une interprétation alternative à la faible magnitude des objets à décalage 
+vers le rouge supérieure à 7.  
+- Propose des observations qui peuvent donner la taille du conglomérat de masse 
+négatif.  
+
+ -  Propose  un  schéma  différent  de  formation  des  galaxies,  la  compression  de  la 
+masse  positive,  prise  en  sandwich  entre  deux  conglomérats  de  masse  négative, 
+conduisant  à  son  réchauffement,  suivi  d'un  refroidissement  radiatif  rapide,  optimal 
+pour une structure en plaque. 
+
+	
+
+4	
+
+- Enfin, c'est le premier modèle qui impute les effets d'observation attribués jusqu'à 
+présent  à  une  mystérieuse  matière  noire  et  à  une  énergie  noire  non  moins 
+mystérieuse  en  montrant  que  le  contenu  de  masse  négative  de  l'univers  rend 
+pleinement compte de tous ces effets. Un contenu qui est une copie des particules et 
+antiparticules classiques, en raison de la masse et de l'énergie négatives.  
+Nous demandons que notre article soit reconsidéré plus sérieusement. 
+
+___________________________________________________________________ 
+ 
+2020 September 24 : Second rejet de la part de Robert Wimmer  
+Cher Dr. Petit, 
+Nous  avons  examiné  vos  remarques  et  ne  les  trouvons  pas  suffisamment 
+convaincantes  pour  justifier  un  examen  plus  approfondi  de  votre  manuscrit.  Nous 
+avons  donc  le  regret  de  vous  informer  que  nous  maintenons  notre  décision  de  ne 
+pas publier votre article. 
+Permettez-moi  de  mentionner  que  la  seule  vérification  et  comparaison  avec  les 
+données figurant dans le manuscrit est le diagramme de Hubble de la Fig. 2. Pour la 
+cosmologie de pointe, c'est le minimum absolu et c'est tout à fait insuffisant pour le 
+niveau de la cosmologie de précision d'aujourd'hui (…). 
+Sincèrement vôtre , 
+
+Robert Wimmer 
+Rédacteur en chef adjoint 
+Examen physique D.  
+___________________________________________________________________ 
+ 
+2020 September 24.  Nous formulons une seconde réclamation: 
+ 
+ 
+Cher Dr. Wimmer, 
+ 
+Dans  le  domaine  de  l'astrophysique  et  de  la  cosmologie,  tous  les  travaux 
+scientifiques  visent  à  construire  une  interprétation  cohérente  et  convaincante  des 
+données d'observation. Ils comportent donc a priori deux parties :   
+ 
+1 - La production d'un modèle théorique cohérent 
+ 
+2 - La production d'accords avec les données d'observation 
+ 
+Le modèle général ΛCMD ne peut être considéré comme totalement convaincant 
+dans la mesure où :  
+ 
+
+	
+
+ 
+
+ 
+
+  
+
+ 
+
+5	
+
+3 - Toutes les tentatives de mettre en évidence les différents modèles de matière 
+noire ont jusqu'à présent été des échecs 
+
+ 4  -  Il  n'existe  actuellement  aucun  modèle  théorique  de  l'énergie  noire  qui  soit 
+crédible.  
+ 
+Il  est  donc  parfaitement  licite  de  présenter  une  interprétation  alternative  des 
+phénomènes. 
+ 
+5 - Dans l'article, il est proposé que ces phénomènes puissent être attribués à la 
+présence  dans  l'univers  de  masse  négative,  cette  existence  étant  présentée  à 
+travers un modèle cohérent qui s'affranchit du phénomène runaway, et satisfait au 
+principe  d'action-réaction,  modèle  qui  a  déjà  fait  l'objet  d'une  présentation 
+précédente, dans votre propre journal (PRD Hossenfelder 2008).  
+ 
+6  -  Comme  votre  critique  ne  se  réfère  pas  au  point  1,  nous  supposons  que  les 
+aspects  purement  théoriques  de  notre  article  vous  ont  paru  acceptables,  d'autant 
+plus qu'ils avaient été publiés dans votre propre journal.  
+ 
+7 - Vous dites qu'il n'y a qu'une seule confirmation avec des données d'observation, 
+concernant l'accélération de l'expansion cosmique, et cela est montré dans la figure 
+2.C’est inexact.  
+
+ 
+Point numéro 1 :  
+ 
+ 
+Dans la figure 1 de l'article, il est fait mention du phénomène récemment découvert 
+(Nature 2017), grâce à une cartographie à très grande échelle de l'univers, auquel 
+le nom de Great Repeller a été donné.  
+ 
+A ce jour, il n'y a pas d'interprétation crédible : Si l'on considère cela comme une 
+lacune  dans  l'hypothétique  matière  noire  de  masse  positive.  En  effet,  comme 
+l'instabilité gravitationnelle produit des conglomérats de matière et non des vides, 
+on ne voit pas ce qui a pu donner naissance à une telle structure.   
+
+Le modèle présenté explique la structure lacunaire de l'univers à grande échelle, en 
+proposant que la masse négative, auto-attractive et plus dense (ce qui correspond 
+au  passage  au  thème  de  l'accélération  cosmique,  sous  l'effet  de  la  pression 
+dominante  de  la  masse  négative,  alias  "énergie  sombre")  forme  d'abord  un 
+ensemble  régulier  de  conglomérats  qui,  repoussant  la  masse  positive,  la  confine 
+dans l'espace restant en lui donnant cette structure lacunaire.   
+
+Le modèle propose que le phénomène du Great Repeller trahisse la présence d'un 
+de  ces  conglomérats  de  masse  négative,  qui  ne  peut  être  détecté  optiquement 
+puisque  les  masses  négatives  qui  le  constituent  émettent  des  photons  d'énergie 
+négative.  
+ 
+L'existence de ce champ de vitesse évoquant la répulsion est la seule donnée dont 
+nous  disposons  actuellement,  et  le  modèle  en  tient  compte,  ce  qui  semble  vous 
+
+6	
+
+avoir échappé.    
+ 
+ 
+Point numéro 2 :  
+ 
+Un  autre  aspect  concerne  l'effet  de  lentille  gravitationnelle  négatif,  qui  affecte  la 
+lumière émise par les objets très éloignés, et qui a déjà été décrit dans l'article que 
+vous  avez  publié  en  2008.  Un  tel  effet  aurait  pu  réduire  l'ampleur  apparente  des 
+sources distantes. C'est exactement ce que nous observons avec les galaxies dont 
+le  redshift  est  supérieur  à  7.  En  outre  il  est  également  suggéré  que  des 
+observations  plus  précises  dans  la  région  du  Grand  Répulsif  pourraient  aider  à 
+déterminer le diamètre de cet objet.  
+ 
+Comme  cela  a  déjà  été  présenté  et  développé  dans  l’article  d’un  autre  auteur 
+également cité (2017 Farnes, Astronomy and Astrophysics), la planéité des courbes 
+de  rotation  des  galaxies  indique  que  leur  confinement  est  assuré  par  un 
+environnement de masse négatif et répulsif.   
+
+  Point numéro 3 : 
+ 
+Ces lacunes de masse négative, créées cette fois par la présence de galaxies en 
+leur centre, se comportent envers le phénomène de lentille gravitationnelle comme 
+des  objets  attractifs.  Le  modèle  apporte  ainsi  une  interprétation  cohérente  de 
+l'amplitude  des  effets  de  lentille  gravitationnelle  au  voisinage  des  galaxies  et  des 
+amas de galaxies, phénomène jusqu'à présent considéré comme étant dû à un halo 
+de matière noire.  
+  
+ 
+Point numéro 4 : 
+ 
+Les masses de signes opposés s’ecluent, ainsi la densité de masse négative est 
+pratiquement  nulle  au  voisinage  du  système  solaire,  de  sorte  que  le  modèle  est 
+alors réduit à l'équation d'Einstein, et est en accord avec les données d'observation 
+relativistes locales.  
+  
+Ce second rejet de notre article (qui n'a rien à voir avec la théorie quantique des 
+champs,  la  théorie  des  cordes,  les  monopoles,  les  trous  noirs,  la  physique  des 
+particules, etc...) est injustifié.  
+ 
+Nous  demandons  qu'il  soit  soumis  à  un  referee,  véritable  expert  à  la  fois  en 
+géométrie différentielle, en cosmologie et astrophysique observationnelles, c'est-à-
+dire une personne réellement capable de juger de son contenu.   
+
+ Nous suggérons   :  
+
+S.Hossenfelder : hossi@fias.uni-frankfurt.de 
+ C.Corda : cordac.galilei@gmail.com  
+T.Damour : damour@ihes.fr 
+
+	
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+	
+
+7	
+
+___________________________________________________________________ 
+ 
+28 septembre 2020.  Troisième rejet par Robert Wimmer :    
+Cher Dr. Petit, 
+La décision de ne pas envoyer ce document pour examen est correcte. En bref  : 
+1. Les auteurs souhaitent fournir une alternative à l'hypothèse de la matière noire afin 
+d'expliquer  une  structure  cosmique  particulièrement 
+intéressante  (le  "Great 
+Repeller"). Leur article décrit très brièvement une des motivations de la matière noire 
+(mesuresd’effets de lentille gravitationnelle), sans mentionner aucune des autres (y 
+compris, mais sans s'y limiter, la cinématique des courbes de rotation des galaxies, 
+la  liaison  des  amas  de  galaxies,  le  rapport  des  pics  acoustiques  dans  le  fond  de 
+micro-ondes cosmique). En outre, ils ne discutent pas en détail si l'hypothèse de la 
+matière noire est réellement déficiente pour expliquer cette structure. Une hypothèse 
+alternative  doit  être  motivée  par  une  présentation  des  lacunes  de  l'hypothèse 
+standard ; ce document ne le fait pas. 
+
+2. L'alternative proposée par les auteurs, la masse négative, est plutôt extraordinaire. 
+Aucune preuve n'est fournie que notre univers contient des corps de masse négative. 
+Selon  un  aphorisme  bien  connu,  "les  affirmations  extraordinaires  exigent  des 
+preuves extraordinaires" ; aucune n'est fournie ici. 
+3.  L’article  est  très  peu  clair  et  difficile  à  suivre.  Je  concède  qu'il  semble  que  les 
+auteurs  ne  soient  pas  de  langue  maternelle  anglaise,  je  serais  donc  prêt  à  une 
+certain indulence vis à vis de la rédaction. Cependant, dans ce cas, la présentation 
+est tellement confuse que je ne peux tout simplement pas analyser de grandes lignes 
+du  manuscrit.  Par  exemple,  le  texte  autour  de  la  discussion  sur  l'œuvre  de 
+Hossenfelder  est  si  confus  que  je  ne  peux  pas  dire  si  les  auteurs  critiquent  cette 
+œuvre ou s'ils en tirent parti (ou les deux à la fois). 
+En résumé, il s'agit d'un manuscrit confus et difficile à lire qui utilise un modèle trop 
+peu étayé pour fournir une explication alternative à un phénomène, sans expliquer 
+pourquoi une telle alternative serait nécessaire ou souhaitable. Il ne présente pas de 
+nouveaux  résultats  significatifs  en  physique  ;  il  n'est  pas  de  haute  qualité,  ni  d'un 
+grand intérêt scientifique ; et il ne constituerait pas une contribution importante à la 
+littérature. 
+R.Wimmer 
+Associate Editor 
+Physical Review D 
+
+___________________________________________________________________ 
+   
+2020  october  the  8.     Notre  troisième  réclamation,  accompagnée  de  l’article 
+passé de 10 à 45 pages, pour tenir compte des critiques formulées par Robert 
+Witten.  
+
+	
+
+8	
+
+Cher Dr. Wimmer, 
+ 
+Nous  avons  repris  notre  article  pour  tenir  compte  des  arguments  sur  la  base 
+desquels vous avez refusé de le soumettre à un referee.   Afin de répondre à vos 
+critiques justifiées, nous avons dû ajouter 26 pages où le travail de S. Hossenfelder 
+est  analysé  et  où  nous  avons  clairement  exprimé  notre  position  par  rapport  à  son 
+travail.  En  outre,  nous  avons  ajouté  d'autres  confirmations  d'observation  de  notre 
+modèle, que nous avions omis dans notre précédent envoi, pensant que cela rendrait 
+l'article trop long. 
+ 
+Avant de rejeter cette nouvelle rédaction de notre article comme étant trop longue, 
+nous rappelons que la revue PRD a publié deux articles ([19],[20]) consacrés à cette 
+approche  bimétrique,  par  Damour,  Kogan  et  Damour,  Kogan  et  Papazoglou, 
+respectivement de 42 et 56 pages.  
+ 
+Cela représente un total de 98 pages qui n'ont débouché sur aucun résultat tangible, 
+sur aucun modèle susceptible d'être confronté à des observations.  
+
+ 
+
+Depuis de nombreuses années, le PRD a publié des centaines d'articles sur:   
+
+ 
+- Théorie des cordes 
+- Cordes cosmiques 
+- Mini trous noirs 
+- Dissipation radiative des trous noirs 
+- Pare-feu des trous noirs 
+- Thermodynamique des trous noirs 
+- Monopoles 
+- Inflatons 
+- Supersymmétrie 
+- Gravitation avec des gravitons dotés d'une masse 
+- Neutralino 
+- Photino 
+- Gravitino 
+- Champ de tachyons 
+- Énergie noire 
+- Quintessence 
+- K-essence 
+- Gaz de Chaplyguin 
+- Axions 
+- etc 
+  
+
+Aucun  de  ces  articles  n'a  conduit  à  une  confrontation  avec  des  données 
+d'observation.  
+À propos de notre article, le comité de rédaction a parfaitement raison quand nous 
+écrivons, nous citons :  
+
+2-  L'alternative  proposée  par  les  auteurs,  la  masse  négative,  est  assez 
+extraordinaire.  Aucune  preuve  n'est  fournie  que  notre  univers  contient  des 
+corps  de  masse  négative.  Un  aphorisme  bien  connu  dit  que  "les 
+
+	
+
+9	
+
+revendications extraordinaires exigent des preuves extraordinaires" ; aucune 
+n'est fournie ici. 
+
+Suite à cette demande, nous avons inclus dans l'article tous les éléments qui son à 
+l’appui ce modèle.  
+
+Au point 3, le comité de rédaction écrit  
+
+3 - L'écriture est très peu claire et difficile à suivre. Je concède qu'il semble 
+que les auteurs ne soient pas de langue maternelle anglaise, je serais donc 
+prêt  à  réduire  la  marge  de  manœuvre  ici.  Toutefois,  dans  ce  cas,  la 
+présentation  est  tellement  confuse  que  je  ne  peux  tout  simplement  pas 
+analyser de grandes parties du manuscrit. Par exemple, le texte autour de la 
+discussion sur l'œuvre de Hossenfelder est si confus que je ne peux pas dire 
+si les auteurs critiquent cette œuvre ou s'ils en tirent parti (ou les deux).   
+
+Le comité de rédaction a encore raison. Ces clarifications, pour un article difficile à 
+lire, étaient nécessaires. Nous avons donc consacré vingt-six pages à :  
+- Produire une analyse détaillée de l'article de S.Hossenfelder 
+
+-  Tout  en  soulignant  la  rigueur  mathématique  de  cette  approche,  en  mettant  en 
+évidence les échecs de son application à un problème physique.  
+- En montrant comment la modification du modèle conduit à des résultats en accord 
+avec les observations. 
+A  la  fin  de  l'article,  nous  avons  indiqué  les  points  pour  lesquels  le  modèle  devra 
+apporter ses propres réponses, qui seront fournies dans l'article suivant.  
+
+Nous demandons que cet article soit soumis à un referee compétent :  
+- En géométrie différentielle 
+-  En  ce  qui  concerne  les  données  d'observation  de  la  cosmologie  et  de 
+l'astrophysique 
+
+- En topologie 
+- En théorie des groupes et surtout des groupes dynamiques 
+- En astrophysique et dynamique des galaxies 
+- Dans la théorie de la cinétique des gaz 
+- En mécanique quantique.  
+From our references :  
+
+[19] Damour T.,Kogan I. Effective Lagrangians and universality classes of nonlinear 
+bigravity Phys. Rev. D 66 (2002) 104024. hep‐th/0206042.  
+ 
+[20]  Damour  T.  ,  Kogan  I.  I.  ,  Papazoglou  A.  Non‐linear  bigravity  and  cosmic 
+acceleration Phys. Rev. D 66 (2002) 104025. hep‐th/0206044.  
+
+___________________________________________________________________________________	
+
+	
+
+10	
+
+2020	october	the	8.			Quatrième	rejet	par	Robert	Wimmer	:	
+ 
+
+Cher Dr. Petit, 
+Nous avons examiné vos remarques en réponse aux commentaires du membre du 
+comité de rédaction et nous ne les trouvons pas suffisamment convaincantes pour 
+justifier un examen plus approfondi de votre manuscrit. Nous avons donc le regret de 
+vous informer que nous maintenons notre décision de ne pas publier votre article. 
+Si vous souhaitez toujours poursuivre la publication de votre manuscrit, vous devrez 
+le soumettre ailleurs. 
+Sincèrement à vous, 
+Robert Wimmer 
+
+______________________________________________________________ 
+ 
+
+2020 October 13.  Nous formulons une quatrième réclamation :  
+ 
+« Trop beau pour être vrai. » 
+ 
+Cher Dr. Wimmer, 
+ 
+Nous comprenons votre réaction.  
+ 
+Des magazines comme le vôtre reçoivent quotidiennement des centaines d'articles 
+du  monde  entier.  Parmi  eux,  des  écrits  de  retraités  qui  meublent  leur  temps  libre, 
+d'inconnus  qui  parfois  n'appartiennent  même  pas  à  des  filières  universitaires 
+reconnues et vous présentent des modèles qui, par miracle, prétendent apporter des 
+solutions de leur cru à des problèmes auxquels les meilleurs spécialistes n'ont pas 
+pu apporter de réponses.  
+  
+Avant de décider d'envoyer ces articles à des experts, qui ne sont pas payés pour 
+faire ce travail, des gens sont chargés de filtrer, qui évaluent rapidement les articles 
+qui affluent chaque jour. Ils se posent ensuite ces questions :  
+ 
+-  Qui  sont  ces  personnes  ?  Sont-elles  reconnues  par  la  communauté  scientifique 
+dans cette spécialité ?  
+ 
+- Appartiennent-ils à des groupes de recherche d'universités prestigieuses ? 
+ 
+-  Le  pays  auquel  elles  appartiennent  s'est-il  distingué  par  des  travaux  importants 
+dans ce domaine ? 
+ 
+- L'article proposé s'inscrit-il dans le Main Stream  ?  
+ 
+Lorsque le ou les auteurs prétendent supplanter Einstein en s'écartant complètement 
+du courant principal (matière noire, modèle ΛCDM), pour proposer autre chose que 
+la  Relativité  générale,  la  probabilité  que  la  lecture  approfondie  d'un  article  de 
+
+11	
+
+	
+
+ 
+
+plusieurs dizaines de pages représente une perte de temps pour l'expert concerné se 
+rapproche alors de l'unité.  
+
+Dans le cas de notre article, il existe encore quelques publications antérieures dans 
+des  revues  telles  que  Nuovo  Cimento,  Astrophysics  and  Space  Science,  Modern 
+Physics Letters A. Mais peut-être que les experts de ces revues n'ont pas vu la faille 
+de cet édifice.  
+ 
+L'article lui-même semble logique, bien construit. Mais tout cela semble décidément 
+trop beau pour être vrai : 
+ 
+Certes,  il  y  a  des  accords  d'observation  qui  semblent  attrayants.  Il  y  a  une  belle 
+courbe  qui  passe  bien  par  les  points  résultant  des  observations.  Il  y  a  une  belle 
+image  d'une  galaxie  barrée,  obtenue  par  simulation,  alors  que  les  meilleurs 
+spécialistes  du  monde  échouent  à  obtenir  un  tel  résultat.  Il  y  a  une  construction 
+scientifique basée sur un domaine mathématique peu connu, la theorie des groupes 
+dynamiques, qui prétend donner une identité aux composants invisibles de l'univers, 
+en  résolvant  au  passage  le  paradoxe  de  la  non-observation  de  l'antimatière 
+primordiale.  
+ 
+Que de résultats !  A une époque où les théoriciens se considèrent heureux lorsqu'ils 
+identifient des pistes possibles.  
+ 
+Nous sommes d'accord avec vous. La probabilité que l'article que nous vous avons 
+envoyé soit solide est a priori de une sur mille.  
+ 
+La difficulté de notre démarche tient à un point :  
+
+ 
+- Si l'on essaie d'être concis, cela devient incompréhensible.  
+ 
+
+-  Si  on  essaie  d'être  compréhensible,  alors  ce  qui  doit  être  présenté  fait 
+exploser l'article, et il n’est pas lu.  
+
+ 
+S’il  vous  plait,  faites  une  exception.  Soumettez  cet  article  à  un  referee.  Si  ce 
+document  présente  des  incohérences,  est  fondé  sur  des  bases  erronées,  qui 
+n'apparaissent pas immédiatement, il les trouvera rapidement. 
+ 
+J.P.Petit    D. D’Agostini    N. Debergh 
+ 
+ 
+___________________________________________________________________ 
+ 
+2020 october 14.  Réponse immédiate de Robert Wimmer :  
+Cher Dr Petit, 
+
+Après que vous ayez récusé notre décision de ne pas envoyer votre manuscrit pour 
+examen  à  un  refereee,  nous  avons  consulté  un  membre  du  comité  de  rédaction 
+( ?...), ce qui est déjà une mesure rare que nous prenons et, en ce sens, constitue 
+
+	
+
+12	
+
+l'exception  que  vous  demandez.  Le  membre  du  comité  de  rédaction  ( ?...)  a  non 
+seulement confirmé notre décision, mais a également fourni un rapport détaillé sur 
+les  raisons  pour  lesquelles  votre  article  ne  devrait  pas  être  publié  (…)  par 
+Phys.Rev.D. 
+Votre réponse au rapport de notre membre du comité de rédaction n'a rien changé à 
+la situation et nous avons décidé de ne pas solliciter un autre rapport. Vous avez en 
+effet raison en ce sens que nous devons gérer nos ressources limitées en matière 
+d’examen des articles, avec une grande responsabilité. 
+
+l'avons  mentionné  précédemment,  si  vous  souhaitez 
+
+Comme  nous 
+poursuivre la publication de votre manuscrit, vous devrez le soumettre ailleurs. 
+Ceci conclut l'examen de ce manuscrit. 
+Sincèrement à vous, 
+Robert Wimmer 
+
+toujours 
+
+Rédacteur en chef adjoint 
+Examen physique D 
+___________________________________________________________________ 
+ 
+2020  October  the  15.    Nous  prenons  note  de  ce  rejet  final,  basé  sur  un 
+« rapport détaillé » et nous demandons communication de celui-ci.  
+Manuscrit DW12414  
+ 
+Cher Dr. Wimmer, 
+J'ai pris note que votre refus de soumettre notre article à un referee était 
+définitif et je n'insisterai donc pas, malgré cette nouvelle rédaction que nous 
+vous  avions  envoyée,  étendant  l'article  à  47  pages,  dont  26  pages 
+consacrées à la clarification de notre position par rapport aux travaux de S. 
+Hossenfeder  (publiés  dans  PRD  en  2008),  et  à  l'ajout  de  nombreuses 
+confirmations  observationnelles  du  modèle,  ainsi  que 
+les  éléments 
+permettant  la détermination de l'identité précise des composants invisibles 
+de l'univers, c'est-à-dire de l'antimatière primordiale de masse négative.   
+Vous me dites, et je vous en remercie, que vous avez fait une exception et 
+consulté le membre (…) du comité de rédaction qui était chargé d'évaluer 
+l'article sur cette nouvelle rédaction et vous me dites que : 
+
+"  ...il    a  non  seulement  confirmé  cette  décision  de  rejet,  mais  a 
+également  fourni  un  rapport  détaillé  sur  les  raisons  pour  lesquelles 
+votre article ne devrait pas être publié par Phys.Rev.D." 
+
+	
+
+13	
+
+Vous comprendrez qu'il serait très utile pour nous de prendre conscience des défauts 
+de notre article, en vue de soumissions ultérieures à d'autres revues. Pourriez-vous 
+nous envoyer une copie?   
+En vous remerciant par avance.  
+Dr. Petit.  
+___________________________________________________________________ 
+ 
+2020 October 16.  Réponse immédiate de Robert Wimmer :  
+Re: DW12414 
+
+Cher Dr Petit, 
+Le  rapport  du  membre  du  comité  de  rédaction  (  lui  …  )    est  celui  qui  vous  a  été 
+envoyé le 28 septembre, et vous y avez répondu. Il n'y a pas eu d'autre rapport ou 
+communication du comité. 
+Sincèrement à vous, 
+Robert Wimmer 
+Rédacteur en chef adjoint 
+Physical Review  D 
+___________________________________________________________________ 
+
+ 
+Ce rapport du 28 septembre fait donc référence à la première version de l'article, qui 
+compte  dix  pages.  Le  9  octobre,  nous  avions  envoyé  une  version  avec  35  pages 
+supplémentaires, apportant des réponses à vos critiques.  
+Dans l'espoir qu'il soit lu, nous essayons de le soumettre à Physical Review D, en 
+modifiant son contenu et son titre:   
+Modèles  bimétriques.  Quand  la  masse  négative  remplace  à  la  fois  la  matière 
+noire  et  l'énergie  noire.  Excellent  accord  avec  les  données  d'observation. 
+Résolution du problème de l'antimatière primitive. 
+Le papier est alors enregistré sous la nouvelle référence :  DX12580 
+ 
+___________________________________________________________________ 
+ 
+2020 October 16.  
+46  Minutes  après  le  simple  enregistrement  de  l’article  par  le  secrétariat, 
+réponse de Wimmer : 
+
+ 
+
+	
+
+14	
+
+Cher Dr Petit, 
+ 
+Votre  manuscrit  a  été  examiné.  Nous  avons  le  regret  de  vous  informer  que  nous 
+avons conclu qu'il ne convenait pas à une publication dans la Revue Physical Review 
+D.  
+ 
+Aucune autre communication sur ce manuscrit, ou le manuscrit identique DW12414, 
+ne sera prise en considération. 
+ 
+Sincèrement à vous, 
+
+Robert Wimmer  
+Rédacteur en chef adjoint 
+ Physical Review D 
+  
+___________________________________________________________________ 
+ 
+ 
+2020  october  24.  Nous  lui  envoyons  ce  dernier  message,  terminé  par  une 
+simple question : 
+ 
+Cher Dr. Wimmer 
+ 
+Après  avoir  lu  votre  dernier  message  de  rejet  mentionnant  le  rapport  détaillé  sur 
+lequel  vous  avez  fondé  votre  décision  de  ne  pas  transmettre  notre  article  à  un 
+referee, nous vous en avons demandé une copie.  
+ 
+À  notre  grande  surprise,  ce  rapport  du  28  septembre  fait  référence  à  la  version 
+initiale de l'article de 10 pages qui avait été envoyé à votre journal.  
+
+Le 9 octobre, nous vous avions envoyé une version de 35 pages supplémentaires, 
+représentant les réponses aux critiques que vous aviez formulées dans votre rapport 
+du 28 septembre. Vingt-six pages avaient été consacrées à expliquer notre position 
+par rapport aux travaux de S. Hossenfleder, montrant que si leur base mathématique 
+était  correcte,  seule  une  réinterprétation  basée  sur  la  physique  pouvait  conduire  à 
+des confrontations avec les données d'observation.  
+
+Comme vous l’écriviez dans votre rapport du 28 Septembre : 
+ “Extraordinary claims demand extraordinary evidence”; none is provided here » 
+"Des  revendications  extraordinaires  exigent  des  preuves  extraordinaires"  ;  aucune 
+n'est fournie ici 
+
+Dans l'article de 45 pages :   
+ 
+
+1    Nous  avons  montré  que  l'introduction  de  masses  négatives  dans  le  modèle 
+ cosmologique n'était possible qu'en passant à un système bimétrique correspondant 
+à  un  système  de  deux  équations  de  champ  couplées.  C'était  la  seule  façon 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+	
+
+15	
+
+d'échapper  à  l'effet  de  fuite  et  de  rétablir  les  principes  d'équivalence  et  d'action-
+réaction. Dans le prolongement physique d'un travail précédent de S.Hossenfelder, 
+mathématiquement cohérent (PRD 2008), nous avons construit un tel système 
+ 
+2   L'approximation newtonienne montre que le schéma d'interaction est alors :  
+ - Les masses de mêmes signes s'attirent les unes les autres selon la loi de Newton 
+ 
+ - Les masses de signes opposés se repoussent selon "l'anti-Newton". 
+  
+3      Les  masses  négatives,  d'énergie  négative,  émettant  des  photons  d'énergie 
+négative, que nos instruments ne peuvent pas capter, expliquent pourquoi certains 
+contenus de l'univers ont échappé à l'observation. 
+4      En  utilisant  la  théorie  des  groupes  dynamiques,  nous  avons  montré  que  dans 
+cette  seconde  matière,  d'énergie  négative,  la  symétrie  matière-antimatière  était 
+également  présente  dans  ce  monde  négatif.  Il  a  été  démontré  que  celui-ci  était 
+simplement  composé  des  mêmes  éléments  avec  des  masses  et  des  énergies 
+négatives.  
+ 5   Reprenant les idées formulées en 1967 par Andreï Sakharov, selon lesquelles la 
+synthèse  de  l'antimatière  à  partir  des  antiquarks  aurait  été  plus  rapide  que  la 
+synthèse de la matière à partir des des quarks, dans cette seconde population, nous 
+avons  conclu  que  ces  éléments  invisibles  ne  correspondaient  pas  à  une  matière 
+sombre de masse positive, mais à de l'antimatière de masse négative : antiprotons, 
+antineutrons,  antiélectrons,  incorporés  dans  des  photons  d'énergie  négative  et  des 
+quarks d'énergie négative restants, ce qui résout le paradoxe de la non-observation 
+de l'antimatière promordiale.  
+6   Nous avons ensuite construit une solution exacte, basée sur l'hypothèse (qui sera 
+justifiée  dans  un  article  ultérieur)  de  la  prééminence  des  masses  négatives.  Cette 
+solution donne un très bon accord avec les données de 700 supernovae de type Ia. 
+L'accélération de l'expansion cosmique est ainsi expliquée, sans utiliser la constante 
+cosmologique Λ .  
+ 
+7    Comme la masse négative a une énergie négative, elle prend la place de cette 
+énergie  sombre  non  identifiée.  Il  ne  s'agit  pas  d'énergie  du  vide  et  correspond 
+simplement à une contribution d'états quantiques d'énergie négative.  
+
+8   Nous avons montré que ces états d'énergie négative émergent naturellement de 
+l'équation  de  Dirac.  Une  approche  qui  ouvre  des  perspectives  majeures  en 
+Mécanique Quantique. 
+ 
+9      Considérant  que  la  teneur  en  masse  négative  est  négligeable  au  voisinage  du 
+Soleil,  le  comportement  de  la  masse  négative,  décrit  par  la  première  équation  de 
+champ, s’identifie alors à l’équation d’Einstein, la conclusion est donc que le modèle 
+est  en  accord  avec  les  observations  relativistes  locales  :  avance  du  périhélie  de 
+Mercure, déviation des rayons lumineux par la masse du Soleil.  
+ 
+10      Toujours  selon  l'hypothèse  de  la  dominance  du  contenu  en  masse  négative, 
+nous  avons  montré  que  ce  dernier  est  le  premier  à  former  un  ensemble  de 
+
+ 
+
+	
+
+16	
+
+conglomérats sphéroïdaux qui, en repoussant la matière dans l'espace interstitiel, lui 
+confèrent une structure lacunaire.  
+ 
+11   Ce schéma de formation de structures à grande échelle suggère un nouveau 
+schéma  de  formation  des  galaxies.  La  masse  positive,  comprimée  en  plaques  et 
+donc chauffée, peut rapidement dissiper cette énergie sous forme de rayonnement et 
+présenter ainsi une configuration favorable à la naissance des galaxies.  
+ 
+12   Nous avons suggéré que le Great Repeller (2017) récemment découvert pourrait 
+trahir la présence d'un tel conglomérat de masse négatif.  
+ 
+13   De tels objets entraîneraient une réduction de l'ampleur des objets à l'arrière-
+plan. Nous pensons que c'est la véritable raison de la faible magnitude des galaxies 
+à z >7.  
+ 
+14  Nous disons que les progrès futurs concernant les mesures attachées aux objets 
+lointains permettraient, en mettant en évidence localement un contraste important de 
+magnitude, de déterminer le diamètre d'un tel conglomérat.  
+ 
+15   Nous conjecturons que ces conglomérats, composés d'anti-hydrogène et d'anti-
+hélium de masse négative, se comporteraient comme d'immenses proto-étoiles avec 
+un  temps  de  refroidissement  supérieur  à  l'âge  de  l'univers.  Ainsi,  ces  objets  ne 
+seraient pas capables d'accueillir des phénomènes de fusion et ne pourraient donc 
+pas  produire  des  étoiles,  des  atomes  plus  lourds  que  ces  éléments  légers  et  des 
+planètes.  
+ 
+16   La vie serait donc absente dans ce monde négatif 
+ 
+17    A  plus  petite  échelle,  l'effet  de  lentille  gravitationnelle  négatif  dû  à  un 
+environnement  de  masse  négative,  piégeant  et  confinant  les  galaxies,  explique 
+l'importance des effets mesurés.  
+ 
+18    Même chose pour expliquer les vitesses d'agitation élevées des galaxies dans 
+les  amas,  supérieures  à  celles  calculées  sur  la  masse  visible  :  l'environnement  de 
+masse négative,  confinant l’amas, est à nouveau responsable de cette situation.  
+ 
+19   Cette configuration explique également la planéité des courbes de rotation des 
+galaxies à leur périphérie.  
+ 
+20    Nous  fournissons  un  modèle  de  galaxie  sphéroïdale,  construit  sur  la  base  de 
+deux  équations  de  Vlasov  couplées  par  l'équation  de  Poisson.  Cette  solution 
+elliptique a un vertex radial.  
+ 
+21      En  utilisant  ce  modèle  comme  support  de  simulations  numériques,  il  a  été 
+possible  de  modéliser  la  naissance  d'une  galaxie  spirale  barrée,  se  maintenant 
+pendant trente tours.  
+ 
+22    Cela  explique  pourquoi  les  simulations  effectuées  par  d'autres  auteurs  avaient 
+conduit  à  la  dissipation  rapide  des  bras  spiraux,  introduits  artificiellement  dans  le 
+cadre  des  conditions  initiales.  Ces  structures  représentent  la  manière  dont  un 
+
+17	
+
+ 
+
+processus  dissipatif  se  déroule  dans  ces  systèmes  non  collisionnels,  reflétant  un 
+échange d'énergie et de moment cinétique par le biais d'ondes de densité présentes 
+dans les deux systèmes. S'il n'y a pas de second système avec lequel interagir, les 
+ondes spirales, privées de leur raison d’être,  disparaissent  
+En  outre,  il  était  dit  à  la  fin  de  l'article  que  la  description  de  l'âge  radiatif  et 
+l'explication de l'établissement de cette forte asymétrie seraient présentées dans un 
+futur article.  
+
+-  Avez-vous lu cet article ? 
+
+Pour finir, Mr. Wimmer, une simple question:  
+ 
+
+ 
+ 
+J.P.Petit, G.D’Agostini (France) , N.Debergh (Belgium).  
+ 
+
+____________________________________________________ 
+
+ 
+
+24 Octobre 2020 à 14 h 22 
+ 
+Une première réaction d’un membre du Comité de Rédaction, 
+James M. Cline   jcline@physics.mcgill.ca    spécialiste des branes 
+
+__________________________________________________________________	
+
+- This paper is garbage. 
+- Ce papier, c’est le contenu d’une poubelle. 
+
+	
+
+ 
+
+

@@ -1,0 +1,581 @@
+1
+
+sion
+
+Cosmology with negative masses. Comparison of the
+
+S.Hossenfelder model with observational data.
+
+Petit J.P.,(cid:3) Debergh.N.,y and D’Agostini.G.z
+
+Abstract
+
+We start from the problem posed by the interpretation of the Great Repeller as a gap in the dark
+matter. We consider that this could be a negative mass cluster. The different cosmological models
+with negative masses are presented. The S.Hossenfelder model is confronted with observational
+data.
+It is shown that, under the assumption of a dominant negative mass content, the latter
+can then replace both dark matter and dark energy to account for the acceleration of expansion,
+large-scale structure, and strong gravitational lens effects. The Great Repeller is then identified as
+a negative mass conglomerate.
+
+Keywords: negative mass, bimetric models, bigravity, very large structure, acceleration of the cosmo expan-
+
+1 Manaty Research Group, https://manaty.net/research-group/en
+(cid:3) jean-pierre.petit@manaty.net
+y nathalie.debergh@manaty.net
+z gilles.dagostini@manaty.net
+
+1
+
+I. THE GREAT REPELLER PROBLEM
+
+When scientists were confronted with problems related to strong gravitational lens effects
+in the vicinity of galaxies and clusters of galaxies, whose masses, inferred from observations,
+could not account for this, it was considered to betray the presence of a positive mass
+that had hitherto escaped observation and was given the name dark matter. Years later,
+when the phenomenon of the acceleration of cosmic expansion was highlighted[1],[2],[3],
+this new phenomenon was accounted for by reintroducing the cosmological constant (cid:3) into
+Einstein’s equation. The new model became the (cid:3)CDM model. In 2017, the very large
+scale mapping carried out by Y Hoffman, D.Pomarède, R.B.Tully and H.Courtois[4] reveals
+the presence, 600 million light years away from our galaxy, of a vast empty region around
+which the velocities of surrounding galaxies seemed to translate a strong repulsive field.
+This region was given the name Great Repeller. See 1. One could then attribute this
+
+FIG. 1. The Great Repeller
+
+phenomenon to a gap in the dark matter distribution that could behave as its negative mass
+equivalent. But if gravitational instability creates conglomerates of matter at all scales, on
+the other hand we do not see what phenomenon would produce the creation of such gaps in
+a homogeneous positive mass dark matter distribution. In the nineties [5], rather primitive
+
+2
+
+numerical simulations were carried out on a mixture of two materials, one of positive mass
+and the other of negative mass, obeying the hypothic laws :
+
+- Masses of the same sign attract each other according to Newton’s law
+
+- The masses of opposite signs repel each other according to ”anti-Newton”.
+
+Adding furthermore the hypothesis that negative mass dominated had led to a large-scale
+structural model where clusters of negative mass were first formed. These then pushed the
+positive mass back into the residual space, giving it a lacunar structure. The fact that
+negative mass clusters formed first was justified by the fact that the Jeans time associated
+with this population was shorter :
+
+1√
+4(cid:25)Gj(cid:26)((cid:0))j << t(+)
+
+J =
+
+1√
+
+4(cid:25)G(cid:26)(+)
+
+t((cid:0))
+J =
+
+The fact that it is difficult to account for the existence of repulsive gaps in the dark matter
+leads us to reconsider the possibility of introducing negative masses into the cosmological
+model.
+
+II. THE PROBLEM OF INTRODUCING NEGATIVE MASS INTO THE COSMO-
+LOGICAL MODEL
+
+The introduction of negative masses into the model of the Generalized Relativity was
+discussed by H. Bondi in 1957[6] and later by W.Bonnor [7]. Based on the Einstein’s
+equation, the source of the field corresponds to the second member, while the single metric
+g(cid:22)(cid:23) gives the behaviour of a test particle.
+
+R(cid:22)(cid:23) (cid:0) 1
+
+2
+
+R g(cid:22)(cid:23) + (cid:3) g(cid:22)(cid:23) = (cid:31)T(cid:22)(cid:23)
+
+If the field corresponds to negative mass, a test particle is attracted, whatever its mass is
+positive or negative. Conversely, if the field corresponds to positive mass it is repelled. So
+that we get the runaway phenomenon, which is a violation of the action-reaction principle.
+Moreover a couple of opposite masse encounters a uniform acceleration at constant energy,
+due to the negative kinetic energy of the negative mass. This seems diffcult to include
+that in some sort of new physics. Anyway A.Benoit-Lévy and G.Chardin[8] and J.Farnes[9]
+
+3
+
+(1)
+
+(2)
+
+proposed models including runaway phenomenon. In the first the authors focus on the Dirac-
+Milne universe with a scale factor that grows linearly in time, contradicting the data refering
+to the acceleration of the cosmic expansion [1–3]. They suggest that negative content could
+correspond to primeval antimatter.
+In [9] the author introduces negative mass to mimic
+the cosmological constant, so that he must introduce its continuous creation process, not
+described. As a conclusion if one wants to introduce negative mass in the cosmlogical model,
+satisfying the action-reaction principle, two metric field g(+)
+(cid:22)(cid:23) are required, solutions
+of two coupled field equations.
+
+(cid:22)(cid:23) and g((cid:0))
+
+III. MASSIVE BIGRAVITY
+
+√
+
+√
+)
+
+(cid:0)gR, RL
+(cid:0)gR and negative matter LL
+
+In 2002 T.Damour and I.Kogan[10, 11] introduce the formalim of fully non-linear bigrav-
+√
+ity. They consider two branes, «right» and «left», interacting through massive gravitons.
+√
+(cid:0)gL,
+They introduce Lagrangian densities in the action : the Ricci terms RR
+√
+(cid:0)gL,
+the terms corresponding to positive matter LR
+√
+(
+(cid:0)gR dx0dx1dx2dx3 and
+are based on the corresponding four-dimensional hypervolumes
+(cid:0)gL dx0dx1dx2dx3. They introduce an interaction term : (cid:22)
+1=4 dx0dx1dx2dx3.
+gRgL
+1=4. The variational method produces a sys-
+Based on a «average volume factor»
+gRgL
+tem of two coupled field equations.
+In the second members are the tensors representing
+the sources of the two materials ”right” and ”left” as well as the terms and reflecting the
+interaction between the two. The authors then consider different models: branes, KK,
+non-commutative geometry. The conclusion of the article identifies the problems to be
+solved.
+
+)
+
+(
+
+IV. BIMETRIC THEORY WITH EXCHANCE SYMMETRY
+
+In 2008 S.Hossenfelder[12] does not consider massive gravitons system, so that her at-
+tempt departs from the precedent so-called massive bigravity. This second work is much
+more accomplished. To obtain the field equations for the second metric the author imposes
+an exchange symmetry on the action. As a consequence of this anzatz, additional terms for
+Einstein’s field equations are generated. Then she’s discussing properties of these additional
+fields. By examining Schwarzschild’s coupled solutions from a system where the second
+
+4
+
+members are zero, the author evokes the negative gravitational lensing that a negative mass
+then exerts on photons emitted by sources consisting of positive mass, galaxies, indicating
+that this would create an attenuation of the luminosity of distant sources. The non-linear,
+time-dependent solution from two FRLW metrics is constructed. It is regrettable that the
+author did not then seek to exploit further the impact of these solutions on the available
+observational data, for example on the acceleration of cosmic expansion and galaxy confine-
+ment. In any case, this model has the virtue of making the runaway phenomenon disappear,
+and of reconstituting the principle of action-reaction according to the laws of interaction:
+
+- Masses with same signs mutually attract
+
+- Masses with opposite signs mutually repel”.
+
+Taking up the notations of her paper, it leads to the system of coupled field equations below.
+The letters g and h refer to the two metrics, the second being attached to the negative mass
+or negative energy radiation content :
+
+(g)R(cid:20)(cid:22) (cid:0) 1
+
+g(cid:20)(cid:22)
+
+2
+
+(g)R = T(cid:20)(cid:22) (cid:0) V
+
+a(cid:23)
+(cid:23) a(cid:20)
+
+(cid:20) T (cid:20)(cid:23)
+
+√
+√
+
+h
+g
+
+(h)R(cid:23)(cid:20) (cid:0) 1
+
+h(cid:23)(cid:20)
+
+(h)R = T (cid:23)(cid:20)
+
+(cid:0) W
+
+g
+h
+
+a(cid:20)
+(cid:20) a(cid:23)
+
+(cid:23) T(cid:23)(cid:20)
+
+2
+(cid:23) see [12] section I. For V and W , which are absolute values
+(cid:20); a(cid:23)
+
+For the definition of g; h; h; a(cid:20)
+of determinants, see [12] section II and IV.
+Then she looks for solutions as FLRW metrics where g00 = h00 = 1 , and where a and b
+designate the scale factors of the two space-time considered.
+For the sources she uses the notation :
+
+(here, the indices i, i =1,2,3 are not summed over)
+
+Using equations (3) and (4) for indices (cid:20) = (cid:23) = 0, she obtains the following solutions, similar
+to Friedmann’s solutions:
+
+T 0
+0 = (cid:26) ;
+
+T i
+i = p
+
+T 0
+
+0 = (cid:26) ;
+
+T i
+
+i = p
+
+(
+
+)
+3 j(cid:26)j (cid:0) k
+a2
+
+b
+a
+
+(
+
+)
+
+_a
+a
+
+2
+
+= j(cid:26)j (cid:0) V
+
+5
+
+(3)
+
+(4)
+
+(5)
+(6)
+
+(7)
+
+(
+
+)
+
+2
+
+_b
+b
+
+(
+
+)
+
+= j(cid:26)j (cid:0) W
+
+a
+b
+
+3 j(cid:26)j (cid:0) k
+b2
+
+We put the absolute values of the densities because by taking the Einstein constant (cid:31) equal
+to 1 instead of (cid:0)1 she introduces sign changes.
+At the end of section VI, where she constructs unsteady solutions and lists the different
+scenarios that seem to arise, depending on whether the universe is dominated by one or the
+other of these two materials or whether it is made up of one in the form of matter and the
+other in the form of radiation. It evokes a situation that leads to the Dirac-Milne model [8],
+with equal and opposite densities, and a zero gravity field, giving a linear expansion as a
+function of time. She writes, we quote:
+
+Since we now have only interacting density contribution that is negative, and one
+further would hope for symmetry reasons that both densities are of the same order of
+magnitude, the total gravitating density can be smaller than the ovserved one.Besides
+this, both components of matter repel each other which is an effect usually not present.
+
+In doing so, she refrains from considering a highly asymmetrical situation on the scale of
+the entire universe, which was previously considered in [5]. We will resume this perspective
+on the basis of her own model.
+
+V. A DUST UNIVERSE DOMINATED BY NEGATIVE MASS
+
+For this case we assume p = p = (cid:26) = 0 equations (7) and (8) become :
+
+where cV is constant and positive (see [12] section VI).
+
+The solution of equation (10) imposes a curvature index k = (cid:0)1.
+The conservation of the (negative) mass gives :
+
+(
+
+)
+3 j(cid:26)j (cid:0) k
+a2
+
+b
+a
+
+(
+
+)
+
+_a
+a
+
+2
+
+= (cid:0)cV
+)
+(
+
+2
+
+_b
+b
+
+= j(cid:26)j (cid:0) k
+b2
+
+(cid:26) b3 = M
+
+6
+
+(8)
+
+(9)
+
+(10)
+
+(11)
+
+The derivatives of the scale factors with respect to time become :
+
+Using now equations (3) and (4) for indices (cid:20) = (cid:23) = 1, we obtain :
+
+_a =
+
+< 1
+
+√
+1 (cid:0) cV jMj
+√
+
+3a
+jMj
+3b
+
+_b =
+
+1 +
+
+> 1
+
+jMj
+6
+
+a2(cid:127)a =
+
+cV > 0
+
+b2(cid:127)b = (cid:0)jMj
+
+6
+
+< 0
+
+It accounts for the acceleration of cosmic expansion[1–3]. The expansion motion for both
+systems tends towards linearity to infinity. The solution of equations (12) and (13) also tend
+towards an asymptote. We have (cid:127)a > 0. Thus, assuming that the content of the universe
+is mostly represented by a negative mass accounts for the acceleration of the expansion. If
+the author had pushed further the implications of her model she would have reached this
+result, which has been described in later works[13, 14], with good observational agreement
+(see fig. 2). This approach is interesting, in the sense that the negative energy causing the
+acceleration of the expansion is then that of the negative mass component.
+In the model presented in [12] the masses of opposite signs repel each other. As noted in the
+article, the problems raised by H. Bondi (runaway phenomenon) disappear. The principle
+of action-reaction is no longer violated. Agreement is also maintained with local relativistic
+observations insofar as one can then neglect the local negative masscontent. Equations (3)
+and (4) become :
+
+(g)R(cid:20)(cid:22) (cid:0) 1
+
+g(cid:20)(cid:22)
+
+(g)R = T(cid:20)(cid:22)
+
+√
+
+2
+(h)R = (cid:0)W
+
+(h)R(cid:23)(cid:20) (cid:0) 1
+
+h(cid:23)(cid:20)
+
+2
+
+g
+h
+
+a(cid:20)
+(cid:20) a(cid:23)
+
+(cid:23) T(cid:23)(cid:20)
+
+Equation (16) is then identified with Einstein’s equation, with a null cosmological constant.
+The second member of equation (17) reflects an induced geometry effect. The absence of
+negative mass detection by optical means can be explained if we consider that such particles,
+endowed with negative energy, emit negative energy photons that cannot be captured by
+our instruments.
+
+7
+
+(12)
+
+(13)
+
+(14)
+
+(15)
+
+(16)
+
+(17)
+
+FIG. 2. Comparison to observational data from 700 1a-supernovae
+
+VI.
+
+IMPACT ON LARGE-SCALE STRUCTURE
+
+As the interaction laws of [12] are identified with those, hypothetical, which had led to
+a first approach of the large-scale structure, lacunar [5], it seems therefore appropriate to
+extend these numerical simulations by leading to a new scenario of the formation of the
+large-scale structure. In this scenario, when the regular distribution of the negative masses
+is formed, they violently repel the positive mass, which is then heated and confined in plates.
+This geometry is then optimal to allow a rapid radiative cooling and the birth of galaxies.
+As indicated in [5] and [12] these negative mass clusters would then create a negative lensing
+which would attenuate the luminosity of the objects located immediately in the background.
+Observations will progress in the coming years and will be likely to have data concerning
+the sources located in the immediate background of this Great Repeller. If it is indeed a
+negative mass cluster, the negative lensing effect could confirm this hypothesis and, by the
+
+8
+
+way, allow us to evaluate the diameter of the object. In another vein, this could provide an
+alternative interpretation to the low magnitudes of reshift > 7 galaxies. Instead of being
+dwarf galaxies, they could be classical galaxies whose magnitudes would be attenuated by
+negative lensing. By the way, if we admit that negative masses emit photons of negative
+energy, as these are not captured by our optical instruments, the objects of negative mass
+would be invisible to us.
+
+VII. CONFINEMENT OF GALAXIES AND CLUSTERS OF GALAXIES
+
+In this schema, galaxies are surrounded by a negative mass environment, which confines
+them and explains the flatness of their rotation curves [9]. These gaps being the equivalent
+of an equivalent positive mass distribution are then responsible for most of the gravitational
+lensing effects observed in the vicinity of the galaxies. The same pattern extends to clusters
+of galaxies. Thus, as suggested in [9], negative mass can replace both dark matter and dark
+energy.
+The negative mass dominated model differs from the mainstream model (cid:3)CDM with re-
+spect to predictions about the long term cosmic future. The mainstream model predicts an
+exponential expansion whereas the present model predicts a linear expansion.
+
+VIII. CONCLUSION
+
+This work follows the approach initially developed by S.Hossenfelder in 2008 [12]. We
+explore the consequences of the hypothesis of a cosmic content dominated by negative mass
+by listing the resulting observational agreements. The latter can then play the role assigned
+to dark matter and dark energy. The dominant negative energy produces the acceleration of
+cosmic expansion. Gravitational instability, in the context of this strong asymmetry, leads
+to a large-scale structure imposed by a regular distribution of negative mass conglomerates
+which gives the positive mass a lacunar structure. It is suggested that the Great Repeller
+phenomenon reflects the presence of a negative mass conglomerate, which is not observed
+because it emits negative energy photons. The confinment of galaxies is ensured by their
+repulsive, negative-mass environment. It is shown that this configuration is equivalent to
+the negative image of this deficiency, in the form of positive mass. Thus, it accounts for the
+
+9
+
+strong gravitational lens effects in the neighborhood of galaxies and galaxy clusters.
+
+[1] S. Perlmutter et al. ObMeasurements of Ω and (cid:3) from 42 High-Redshift Supernovae. The Astrophysical
+
+Journal, 517:565–586, 1998.
+
+[2] A.G. Riess et al. Observational Evidence from Supernovae for an Accelerating Universe and a Cosmo-
+
+logical Constant. The Astrophysical Journal, 116:1009–1038, 1998.
+
+[3] B.P. Schmidt et al. The high-Z supernova search. Measuring cosmic deceleration and global curvature
+
+of the universe using type Ia supernovae. The Astrophysical Journal, 507:46–63, 1999.
+
+[4] Y. Hoffman, D. Pomarède, R.B. Tully and H.M. Courtois. The Dipole Repeller. Nature Astronomy ,
+
+0036, 2017. DOI 10.1038/s4 1550-016-003
+
+[5] J.P. Petit Twin universe cosmology. Astrophysics And Space Science, 226, 273-307, 1995.
+
+[6] H. Bondi. Negative mass in General Relativity. Review of Modern Physics, Vol.29,N3, 1957.
+
+[7] W.B. Bonnor. Negative mass in general relativity. General Relativity And Gravitation, Vol.21
+
+[8] A. Benoit-Lévy and G. Chardin Introducing the Dirac-Milne universe. Astronomy and Astrophysics,
+
+N.11:1143–1157, 1989.
+
+Vol. 537 (january 2012) A 78
+
+[9] J. Farnes A unifying theory of dark energy ans dark matter : Negative mass and matter creation
+
+within a modified (cid:3)CDM framework Astronomy ans Astrophysics , Volume 620, December 2018.
+
+[10] T. Damour and I. Kogan Effective Lagrangians and universality classes of nonlinear bigravity Physical
+
+[11] T. Damour, I. Kogan and A. Papazoglou Non‐linear bigravity and cosmic acceleration Physical Review,
+
+Review, D66 (104024) 2002. hep‐th/0206042.
+
+D66 (104025) 2002. hep‐th/0206044.
+
+[12] S. Hossenfelder A bimetric theory with exchange symmetry. Physical Review, D78(044015), 2008.
+
+[13] J.P. Petit and G. D’Agostini. Negative mass hypothesis in cosmology and the nature of dark energy.
+
+Astrophysics And Space Science, 353, Issue 2, 2014.
+
+[14] G. DAgostini and J.P. Petit. Constraints on Janus Cosmological model from recent observations of
+
+supernovae type Ia. Astrophysics and Space Science, (2018), 363:139. https://doi.org/10.1007/s10509-
+
+018-3365-3
+
+10
+
+

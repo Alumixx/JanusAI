@@ -1,0 +1,229 @@
+	
+
+	
+
+	
+
+	
+
+1	
+
+	
+Jean-Pierre	Petit	
+Jppetit1937@yahoo.fr	
+					Pertuis,	le	18	mai	2021	
+	
+	
+	
+	
+A	Mr.	Thibaud	Damour	
+Académie	des	Sciences	de	Paris.		
+23	quai	de	Conti,	75006	Paris	
+		Monsieur,	
+Le	7	janvier	2019	je	reçois	de	vous,	à	mon	domicile,	une	lettre	recommandée	avec	
+accusé	de	réception,	«	dont	vous	vous	réservez	le	droit	d’en	envoyer	copie	à	toute	
+personne	s’intéressant	au	‘	modèle	Janus’			».		
+Vous	concluez	votre	courrier	en	disant	«	que	vous	avez	démontrée	que	le	‘Modèle	Janus’	
+était	 physiquement	 et	 mathématiquement	 incohérent	»	selon	une	analyse	que	vous		
+placez	sur	votre	page	du	site	de	l’Institut	des	hautes	Etudes	dont	vous	êtes	membre.		
+Cette	entorse	aux	lois	de	la	physique	se	référait	à	la	géométrie	à	intérieur	des	étoiles.	
+Quand	j’ai	reçu	votre	lettre	il	se	trouve	que	j’étais	justement	en	train	de	publier	un	
+article	où	ce	problème	était	résolu,	simplement	en	changeant	la	définition	du	tenseur	qui,	
+dans	les	seconds	membres,	sont	la	source	de	la	«	géométrie	induite	»	par	la	masse	d’un	
+des	feuillets,	dans	l’autre.	Or	on	est	parfaitement	en	droit	d’opérer	un	tel	choix,	puisqu’il	
+cadre	alors	avec	l’observation	et	que	tout	rentre	dans	l’ordre	:		
+		
+Comme	vous	pouvez	le	voir,	il	ne	s’agissait	que	d’un	simple	changement	de	signe	dans	
+les	termes	qui	traduisent	l’effet	de	la	pression	régnant	à	l’intérieur	de	l’étoile	sur	la	
+géométrie	de	la	portion	adjacente	de	l’espace	des	masses	et	des	énergies	négatives.		
+Je	vous	ai	aussitôt	donnée	références	et	copie	de	l’article	où	cette	modification	était	
+effectuée,	qui	a	été	publié	dans	le	peu	de	semaines	ayant	suivi	votre	démarche,	sans	
+obtenir	de	réponse.	J’ai	alors	multiplié	les	démarches,	mis	en	ligne	sur	mon	site	tous	le	
+détail	des	calculs,	je	vous	ai	proposé	une	rencontre,	sans	témoin	ni	enregistrement,	afin	
+de	pouvoir	vous	exposer	cela	de	vive	voix,	sans	plus	de	succès.		
+
+0
+p(−)
+c(−)2
+
+0
+p(−)
+c(−)2
+
+p(−)
+c(−)2
+
+p(−)
+c(−)2
+
+p(−)
+c(−)2
+
+p(−)
+c(−)2
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+⌢T(−)
+
+T(−)
+
+ρ(−)
+
+ρ(−)
+
+ν =
+µ
+
+ν =
+
+→
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+  
+
+−
+
+−
+
+−
+
+µ
+
+Bimetric	models.	When	negative	mass	replaces	both	dark	matter	and	dark	energy.	
+Excellent	 agreement	 with	 observational	 data.	 Solving	 the	 problem	 of	 primeval	
+antimatter.	Description	of	the	radiative	era.		
+
+	
+2	
+Deux	années	se	sont	écoulées.	Des	progrès	ont	été	enregistrés,	consignés	dans	un	long	
+article,	en	ligne	sur	a	base	de	données	HAL	et	est	en	cours	de	publication	et	que	vous	
+trouverez	en	pièce	jointe.	Son	titre			
+Le	début	de	l’article	est	consacré	aux	deux	essais	concernant	les	modèles	bimétriques,	
+antérieurs	au	modèle	Janus.	Le	premier	est	le	votre,	cosigné	par	Ian	Kogan,	et	paru	dans	
+physical	review	D	en	2002.	La	structure	est	alors	celle	de	deux	«	branes	»	flottant	dans	
+un	espace	de	dimension	supérieure,	dont	les	points	interagissent	par	une	loi	de	force	
+non	définie,	à	l’aide	de	gravitons	«	dotés	d’un	spectre	de	masse	».	Ce	long	article,	de	36	
+pages,	ne	débouche	sur	rien	d’exploitable	et	n’a	eu	aucune	suite.	Le	second	essai	est	le	
+papier	publié	en	2008	par	Sabine	Hossenfelder	dans	cette	même	revue.	Il	y	a	
+effectivement	une	ressemblance	entre	son	approche	et	la	nôtre.		Hélas,	comme	expliqué	
+en	détail	dans	notre	article,	elle	effectue	des	mauvais	choix	de	signes	dans	son	
+Lagrangien,	qui	se	traduisent	par	une	violation	du	principe	d’équivalence	(lequel	est	
+respecté	dans	le	modèle	Janus,	c’est	en	fait	sa	ligne	directrice).	Son	travail	ne	débouche	
+donc	pas	sur	des	éléments	susceptibles	d’être	confrontés	aux	observations.		
+Sous	sa	forme	actuelle	nous	pensons	que	cet	article	devrait	répondre	à	toutes	les	
+questions	que	vous	vous	posez	à	propos	de	ce	modèle.	Si	au	contraire	vous	y	trouviez	la	
+trace	d’une	nouvelle	incohérence	physique	et	mathématique,	publiez	cela	au	plus	vite	
+dans	une	revue.		
+Notre	article	reprend	ce	qui	a	été	acquis	et	publié	antérieurement	en	citant	les	
+nombreuses	confirmations	observationnelles	à	l’appui.	Entre	autre	c’est	le	seul	qui	
+confère	une	identité	précise	aux	composants	invisibles,	à	l’œuvre	dans	l’univers	:	de	
+l’anti-hydrogène	et	de	l’anti-hélium	de	masse	négative.	C’est	également	le	seul	modèle	
+qui	explique	le	phénomène,	découvert	en	2017,	du	Great	Repeller.	Au	passage	il	résout	le	
+paradoxe	de	la	non-observation	de	l’antimatière	primordiale	en	explicitant	l’idée	
+initialement	proposée	par	Andréi	Sakharov	en	1967.			
+Ajoutons,	et	ceci	se	réfère	au	travail	de	la	mathématicienne	Nathalie	Debergh,	publié	en	
+2018,	que	ceci	appelle	une	extension	de	la	mécanique	quantique	aux	états	d’énergie	et	
+aux	masses	négatives.	Précisons	que	ces	états	ont	été	arbitrairement	exclus	de	la	théorie	
+quantique	des	champs,		en	faisant	le	choix	d’un	opérateur	d’inversion	de	temps	anti-
+linéaire	et	anti-unitaire,	simplement	pour	éviter	l’apparition	d’état	considérés	comme	
+«	non	physiques	».	Or	la	découverte	de	l’accélération	de	l’expansion,	sous	l’effet	de	ce	qui	
+est	qualifié	«	d’énergie	noire	»	(en	fait	a	pression	associée	au	contenu	en	masses	
+négatives),	invalide	dette	limitation,	puisque	cette	énergie	est	…	négative.		
+A	moins	que	vous	ne	détectiez	de	nouveaux	points	d’incohérence	invalidant	ce	modèle	il	
+nous	semble	que	tout	cela	mériterait	d’être	exposé	en	séminaire,	voire	devant	
+l’Académie	des	Sciences.		
+Sincèrement	à	vous		
+Jean-Pierre	Petit,	Gilles	d’Agostini,	Nathalie	Debergh	
+	
+
+

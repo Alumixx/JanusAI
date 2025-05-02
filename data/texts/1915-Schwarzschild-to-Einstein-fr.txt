@@ -1,0 +1,16 @@
+Lettre de Karl Schwarzschild à Albert Einstein, du  22 décembre 1915 
+
+Honoré Monsieur Einstein,
+     Dans le but de vérifier votre théorie de la gravitation, j’ai porté mon attention sur votre travail sur (l’avance du)  périhélie de Mercure, en me concentrant sur le problème (qu’y s’y trouve) résolu en première approximation. J’ai alors éprouvé une grande confusion. En effet pour cette solution j’ai obtenu des coefficients différents des vôtres : 
+
+    Comme suit, il y avait à côté de votre terme  un second terme, et le problème était alors physiquement indéterminé. A partir de là, j’ai effectué une recherche de solution exacte et j’ai eu de la chance. Un calcul facile m’a donné ce résultat : J’ai obtenu une expression de la métrique qui remplit vos conditions 1) à 4) ainsi que vos équations de champ, de même qu’une singularité à l’origine. 
+Si je pose : 
+
+
+Alors la métrique devient : 
+
+  ne sont pas des coordonnées « autorisées »,  grâce auxquelles ont doit construire les équations de champ, parce que leur déterminant n’est pas égal à l’unité. Quoiqu’il en soit elles permettent le mieux d’exprimer la métrique. 
+    L’équation de l’orbite reste exactement cette que vous obtenez en tant que première approximation (11) à la différence qu’on doit traduire x par 1/R et non 1/r, avec une différence qui est de l’ordre de 10-12, ce qui est pratiquement équivalent. 
+    Le problème que posent les deux constantes arbitraire  et , qui apparaissent dans la première approximation, se résout de lui-même en ce sens que  doit avoir une valeur déterminée, de l’ordre de  4. Ainsi,  étant donné, la solution diverge lorsqu’on poursuit les approximations. 
+A la réflexion, c’est la meilleure signification du problème au meilleur ordre. 
+    C’est une chose merveilleuse qu’à partir d’une idée aussi abstraite émerge une claire résolution de l’anomalie de Mercure. 

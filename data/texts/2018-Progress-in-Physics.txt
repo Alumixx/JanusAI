@@ -1,0 +1,540 @@
+Issue x (August)
+
+PROGRESS IN PHYSICS
+
+Volume xx (2018)
+
+The Janus Cosmological Model and the ﬂuctuations of the CMB
+
+J.P. PETIT
+
+E-mail: Jp.petit@mailaps.org
+
+It is shown than, in the framework of the Janus Cosmological Model the gravitational
+instability which occurs in the negative sector makes an imprint in the positive one,
+which corresponds to the CMB inhomogeneities. So that their characteristic wavelength
+gives the ratio of the space scale factors of the two sectors, which diﬀer from two orders
+of magnitude. Subsequently the speed of light in the negative sector is ten times highers
+than ours. So that, given to distant points, if the travel between them is managed along
+the negative geodesics paths, the corresponding travel time is reduced by a factor one
+thousand.
+
+model.
+
+model.
+
+Introduction
+
+the Earth (it will fall).
+
+So, JCM ﬁts the classical relativistic observation, as presented in former papers [2, 3].
+
+1
+A cosmological model must take account of the observations. From this point of view a recent paper [1] showed that the the
+Janus Cosmological Model (JCM) ﬁts many.
+• JCM explains the absence of observation of the so called primeval antimatter, opposite to the mainstream ΛCDM
+• JCM describes precisely the nature of the invisible components of the universe, opposite to the mainstream ΛCDM
+• JCM predicts that the antimatter produced in laboratory will react as the matter with respect to the gravitational ﬁeld of
+• Because positive and negative matter are repelling each other, the negative matter in the solar system is almost zero.
+• JCM suggests a clear schema for VLS formation [4] when the mainstream model ΛCDM seems to struggle to give one.
+• JCM explains the observed strange eﬀect due to the Great Repeller [5]. The measured escape velocities of galaxies are
+due to the presence of an invisible repellent cluster made of negative mass, located in the centre of the big void. The
+mainstream model supporters suggest that such a repellent eﬀect could be due to some kind of a hole in the dark matter
+ﬁeld of the universe (positive masses). But, if the gravitational instability leads to the setting up of massive clusters,
+it does not provide ant scheme for such void formations. So that the mainstream model ΛCDM does not provide any
+explanation of the observation.
+• JCM explains the conﬁnement of galaxies and their ﬂat rotation curves ( [1, 6]). Mysterious dark matter is no longer
+• After JCM the intensity of the observed gravitational lensing eﬀect is mainly due to the negative matter that surrounds
+galaxies and clusters of galaxies. Mysterious dark matter is no longer required, while the mainstream model ΛCDM
+does.
+• JCM suggests an explanation of the low magnitude of very young galaxies : this would be due to the negative lensing
+• JCM explains the spiral structure of galaxies, due to dynamical friction with the surrounding mass ( [1, 6]). The model
+• JCM explains the acceleration of the universe [1] . The so-called dark energy is the one associated to the negative mass
+• JCM explains the homogeneity of the primeval universe. ( [2, 16]).
+JCM is deﬁnitively not a simple or pure product of mathematical physics. But it represents a deep paradigmatic change,
+on geometrical grounds. In the Einstein’s model the universe is considered as a manifold, whose geometry corresponds to a
+single metric ﬁeld , solution of a single ﬁeld equation, without cosmological constant :
+
+weakening, when their light are crossing the negative mass clusters located at the center of the big voids.
+
+ΛCDM don’t give any model explaining the spiral structure.
+
+required, while the mainstream model ΛCDM does.
+
+content through E = ρc2, with ρ < 0.
+
+Such model automatically generates the unmanageable runaway eﬀect [7, 8], just because, if imbedded in a given gravitation
+ﬁeld (the term Tµν), positive and negative masses react the same way (a single metric solution gµν). If we give up such
+
+Rµν − 1
+2
+
+R gµν = χTµν
+
+J.P. Petit. Janus Cosmological Model and CMB ﬂuctuations
+
+(1)
+
+1
+
+Volume xx (2018)
+
+PROGRESS IN PHYSICS
+
+Issue x (August)
+
+restrictive and non-logical hypothesis it means that, imbedded in a given gravitation ﬁeld the geodesics of the two species
+derive from two metrics ﬁelds g(+)
+µν , solutions of two coupled ﬁeld equations, as derived from Lagrangian method
+[9, 10].
+
+µν and g(−)
+
+(cid:115)
+(cid:115)
+
+T (+)
+T (−)
+
+µν
+
+µν
+
++
+
++
+
+
+
+
+g(−)
+g(+) T (−)
+
+µν
+
+g(+)
+g(−) T (+)
+
+µν
+
+µν − 1
+R(+)
+2
+
+R(+) g(+)
+µν
+
+= +χ
+
+µν − 1
+R(−)
+2
+
+R(−) g(−)
+
+µν
+
+= −χ
+
+(2)
+
+The physical meaning of the presence of the two square roots in the second members is the energy conservation requirement.
+
+µν dominates, in other T (−)
+
+We have a single manifold M4, with two tensor ﬁelds T (+)
+µν , which refer to positive and negative mass contents.
+In some regions T (+)
+µν dominate. In others the two are zero. In any case we ﬁnd everywhere two
+families of geodesics, as derived from the metric g(+)
+µν . The ﬁrst refers to the paths of positive mass particles, and
+positive energy photons (null positive geodesics). The second refers to the paths of negative mass particles, and negative
+energy photons (null negative geodesics).
+
+µν and g(−)
+
+µν and T (−)
+
+On pure geometric grounds the negative mass objects are invisible to us, because they emit negative energy photons that
+positive mass devices cannot capture. And vice versa. The positive and negative masses interact only trough (anti) gravita-
+tion. The classical Newton’s law comes from the Einstein’s equation (1) through Newtonian approximation (small curvature,
+velocities small with respect to the speed of light, quasi Lorentzian metric).
+
+Similarly from the system (2) we get ( [3, 11]) the following Newtonian, and antinewtonian interaction laws:
+
+• Positive masses do attract together, through Newton’ law
+• Negative masses do attract together, through Newton’s law
+• Opposed masses do repel each other, through anti Newton’s law.
+
+This interaction scheme ﬁts the action-reaction principle.
+
+The nature of the invisible components of the universe are determined from dynamic group theory ( [6, 12]). They are a
+copy of the ordinary antiparticles, with negative energy. This schema ﬁts initial Sakharov’s idea [13–15].
+
+As evoked in [17], JCM may produce an original scheme for galaxies’ formation.
+The structures of the positive and negative sectors are fairly diﬀerent. After discoupling, with ρ− >> ρ+, spheroidal globular
+clusters form ﬁrst, the matter being conﬁned in the remnant place, getting an alveolar structure. The compression of positive
+matter along ﬂat structure is optimum for radiative cooling and Jeans’ instability triggering, giving galaxies, stars and heavy
+atoms. At the contrary the negative mass antimatter is conﬁned in spheroidal objects, that can be compared to huge proto-stars
+that will never ignite because their cooling time is longer that the age of the universe. As a consequence no galaxies, no stars,
+no heavy atomes and planets can form. Life is absent from such negative world.
+
+2 A short remark about another model with negative mass
+The model of L.Blanchet and G. Chardin is based on the Einstein’s equation, so that the runaway eﬀect belongs to it, which
+does not worry the authors.
+Their scheme suggests, without theoretical grounds, that the primeval antimatter could have a negative mass.
+
+From the Einstein’s equation the interaction laws between positive and negative masses is the following ( which contains
+the runaway eﬀect) :
+
+• Positive masses mutually attract through the Newton’s law
+• Negative masses mutually repel through ”anti-Newton’s law”
+
+2
+
+J.P. Petit. Janus Cosmological Model and CMB ﬂuctuations
+
+Issue x (August)
+
+PROGRESS IN PHYSICS
+
+Volume xx (2018)
+
+• Positive masses are repelled by negative masses
+• N´egative masses are attracted by positive masses
+
+which contradicts the action-reaction principle. Howevever L.Blanchet and G.Chardin think that, thanks to such interaction
+scheme the primeval (negative mass) antimatter could have survived somewhere.
+
+About cosmological evolution the authors opt for the Dirac-Milne model [17], which corresponds to a constant null gravita-
+tional ﬁeld, with a constantly global zero mass. Then the expansion is linear in time, which contradicts the recent observation
+of the acceleration of the expansion.
+
+JCM shows that there are two forms of antimatter. The positive mass, we can call it ”Dirac antimatter” (C-symmetrical
+of our matter) reacts as the ordinary matter, if imbedded in a gravitational ﬁeld This is the antimatter we produce in labora-
+tory, so that we predict that the antimatter weighted if the alpha experiment will fall down.
+
+The negative mass antimatter corresponds to the primeval antimatter and is located between galaxies. We may call it ”Feyn-
+mann antimatter” ( PT-symmetrical from our ordinary matter).
+
+3 How to determine the parameters in the negative sector
+According to the (cid:28) variable constants (cid:29) evolution schema ( [2,16]) the two sectors correspond to two diﬀerent sets of so-called
+constants, time plus scale parameters :
+
+(cid:110)
+(cid:110)
+
+c(+)
+
+; G(+)
+
+; h(+)
+
+e(+)
+
+; m(+)
+
+; µ(+)
+0
+
+; a(+)
+
+c(−)
+
+; G(−)
+
+; h(−)
+
+e(−)
+
+; m(−)
+
+; µ(−)
+
+0
+
+; a(−)
+
+;
+
+;
+
+Where are space and time factors. In both sectors the so-called constants and space and time factors experience ”joint gauge
+variations” which keep the equations of physics invariant. It means that if one chooses one of the eight parameters the other
+seven can be expressed using that one. For example :
+
+c(+) ∝
+
+c(−) ∝
+
+1√
+a(+)
+
+1√
+a(−)
+
+; G(+) ∝ 1
+a(+)
+
+; G(−) ∝ 1
+a(−)
+
+; h(+) ∝ (a(+))3/2
+
+e(+) ∝
+
+; m(+) ∝ a(+)
+
+t(+) ∝ (a(+))3/2
+
+; h(−) ∝ (a(−))3/2
+
+e(−) ∝
+
+; m(−) ∝ a(−)
+
+t(−) ∝ (a(−))3/2
+
+What is the ontological justiﬁcation of such process? It makes no necessary to invoke inﬂation to justify the observed
+homogeneity of the primeval universe. In eﬀect, the cosmological horizon becomes an integral ( [2, 16]) :
+
+√
+a(+)
+
+√
+a(−)
+
+;
+
+;
+
+(cid:90)
+
+horizon(+) =
+
+c(+) dt(+) ∝ a(+)
+
+Same thing in the (cid:28) negative sector (cid:29).
+A question arises immediately : when does this generalized gauge process era ends? This will be examined in a next paper.
+J and t(−)
+Have a look on the Jeans’ lengths L(+)
+. In this gauge process all the velocities, including
+thermal velocities, vary like the speed of light of their corresponding sector :
+
+J and times Jeans t(+)
+
+J and L(−)
+
+J
+
+t(+)(cid:111)
+t(−)(cid:111)
+
+;
+
+;
+
+;
+
+;
+
+(so that
+
+< V(+) >∝ c(+)
+
+< V(−) >∝ c(−)
+
+J (cid:39) a(+)
+L(+)
+
+J (cid:39) a(−)
+L(−)
+
+J (cid:39) t(+)
+t(+)
+
+J (cid:39) t(−)
+t(−)
+
+J.P. Petit. Janus Cosmological Model and CMB ﬂuctuations
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+(7)
+
+3
+
+Volume xx (2018)
+
+PROGRESS IN PHYSICS
+
+Issue x (August)
+
+The ﬂuctuations, due to gravitational instability are not observable in a given sector, by observers who live in.
+Anyway, in a fully ionized plasma the strong link to the radiation backgrounds prevents clustering of matter in both sectors.
+What about the (cid:28) gas of photons (cid:29) ?
+
+4 Photons react to gravitational ﬁeld
+This gives the gravitational lensing eﬀect. On another hand the photons contribute to the curvature. If the inertial mass of the
+photon is zero, we can introduce an individual equivalent gravitational mass of the photon :
+
+m(+)
+ϕ
+
+=
+
+m(−)
+
+ϕ
+
+=
+
+h(+) v(+)
+
+c(+)2 ∝ a(+) ∝ m(+)
+h(−) v(−)
+c(−)2 ∝ a(−) ∝ m(−)
+
+We may consider than the gravitational instability occurs in the ”gaz of photons” but the corresponding Jeans’ length becomes
+:
+
+(cid:112)
+
+L(+)
+J
+
+=
+
+c(+)
+
+(cid:39) a(+)
+
+4 π G(+) ρ(+)
+
+(cid:112)
+
+L(−)
+
+J
+
+=
+
+c(−)
+
+4 π G(−) ρ(−)
+
+(cid:39) a(−)
+
+again, such ﬂuctuations in one sector cannot be observed by an observer that belongs to, because it extends beyond the
+corresponding cosmological horizon. But, from a conceptual point of view, this links to the idea of so-called (cid:28) multivers (cid:29).
+Beyond our cosmological universe we may consider that other (cid:28) universes (cid:29) extend, with diﬀerent sets of physical constants
+and scale factors. But, as such they should obey the same equations, their histories would not be diﬀerent from ours, giving,
+in the corresponding positive sectors, atoms, stars, galaxies, planets and life.
+We get an inﬁnite set of coupled (positive/negative mass) portions of the universe.
+If the gravitational instability cannot occur in our sector of the universe, before decoupling, we have the imprint of such
+primeval instability, which occurs in the negative sector. We think that this produces the light inhomogeneities in the CMB.
+The basic ﬂuctuation extent is two order of magnitude smaller than the whole angular extent. It gives directly the order of
+magnitude of the ratio of the space scale factoirs. In the negative sector the ﬂuctuations have a characteristic wavelength , so
+that the measure of the imprints in our sector gives the order of magnitude according to :
+
+a(−)
+a(+) ≈ 1
+
+100
+
+c(−)
+c(+) ≈ 10
+
+As a conclusion, if we consider two points A and B of the manifold, we have two diﬀerent lengths, which diﬀer from the
+same ratio.
+
+5 Link to the interstellar travel problem
+During the gauge process era the two sectors experience evolution of their constants according to:
+
+a(+) c(+)2 = a((cid:48)) c((cid:48))2 = constant
+
+Combining with (10) we get :
+
+According to the Einstein’s model (1), interstellar travels at sub-relativistic velocity implies durations fairly incompatible
+with human lifetime. But if some distant civilizations could invert the mass of a vehicle (plus passengers) and travel along
+geodesics of the negative sector at V(−) < c(−) the gain in time travel would correspond to three order of magnitude. So that a
+travel to, or from the nearest systems could be possible.
+
+4
+
+J.P. Petit. Janus Cosmological Model and CMB ﬂuctuations
+
+(8)
+
+(9)
+
+(10)
+
+(11)
+
+(12)
+
+Issue x (August)
+
+PROGRESS IN PHYSICS
+
+Volume xx (2018)
+
+6 Conclusion
+We review the many observational conﬁrmations of the Janus Cosmological Model. We deal with the origin of the ﬂuctuations
+in the CMB. Based on our primeval gauge process era, which explains the homogeneity of the primeval universe, without
+need to the inﬂation schema, we look at the gravitational instability during that era and show that the corresponding Jeans’s
+length follows the extension of the cosmological horizon in both sectors. We notice that, even if we cannot make observation
+beyond the horizon, other portions of the universe could be ruled by diﬀerent sets of so-called constants and scale factors.
+This links to the idea of (cid:28) Multiverse (cid:29). But, according to ou scheme such sets should derive from the same set of equations,
+so that the physical, an biological evolution in such sectors should give the same patter (atoms, stars, planets, life).
+We point out that such primeval gravitational instability, occurring in the negative sector, make an imprint in ours, and that
+corresponds to the observed ﬂuctuations in the CMB.
+Then it gives the measure of the ration of the two scale factors a(+)
+c(+) ≈ 10.
+According to our gauge process scheme it corresponds to c(−)
+As a conclusion it shortens the travel time, for sub-relativist journeys, by a factor 1000, which makes the impossibility of
+travels to nearest stars questionable, if mass inversion technique would be someday possible.
+
+a(−) ≈ 100.
+
+References
+1. G.D’Agostini and J.P.Petit, Constraints on Janus Cosmological model from recent observations of supernovae type Ia . Astrophysics and Space Science
+
+2018.
+
+2. J.P.Petit, Twin universe cosmology, Astrophysics And Space Science, 222, 273, 1995.
+3. J.P.Petit and G.D’Agostini, Negative mass hypothesis and the nature of dark energy. Astrophysics And Space Science, 353, Issue 2, 2014.
+4. V. de Lapparent, M.H.Geller and J.P.Huchara, A slice of the Universe. Astrophysical Journal, Vol. 102 , 1986, L1-L2
+5. Y.Hoﬀman, D.Pomarede, R.B. Tully and H.M. Courtois, The Dipole Repeller, Nature Astronomy, 0036, 2017
+6. J.P.Petit, P.Midy and F. Landsheat. Twin matter against dark matter. International meeting on astrophysics and Cosmology (cid:28) Where is the matter ? (cid:29).
+
+Marseille 2001 june, 25-29
+
+7. H.Bondi. Negative mass in General Relativity. Review of Modern Physics, Vol.29 , N3, 1957.
+8. W.B. Bonnor, Negative mass in General Relativity. General relativity and Gravitation. Vol. 21, N11, 1143-1157, 1989
+9. S.Hossenfelder, Antigravitation. Physics Letters B, 636 : 119-125, 2006
+10. S.Hossenfelder, A bimetric theory with exchange symmetry. Physical Review, D78 (044015), 2008
+11. J.P.Petit and G.D’Agostini, Cosmological Model with interaction positive and negative masses and two diﬀerent speeds of light, in agreement with the
+
+observed acceleration of the universe.Modern Physics Letters A, vol. 29, N34 , 2014
+
+12. J.M.Souriau, Structure des Syst`emes Dynamiques, Paris, Dunod. ISSN 0750-2435. 1070 and Birkhauser, Boston, 1997
+13. A.D.Sakharov, ZhETF Pis’ma 5 : 32 ; JETP Lett. 5 : 24 ( 1967 )
+14. A.D.Sakharov, ZhETF Pis’ma 76 : 1172 (1979) ; JETP 49 : 594 (1979)
+15. A.D.Sakharov, (1980). Cosmological Model of the Universe with a Time Vector Inversion. ZhETF (Tr. JETP 52, 349-351) (79): 689–693
+16. J.P.Petit, Cosmological model with variable velocity of light. Modern Phys Letters A3, 1988, pp. 1527
+17. J.P.Petit, The missing mass problem. Il Nuovo Cimento, Vol.109:697–710, July 1994
+18. A. Benoit-Levy and G.Chardin, Introducing the Dirac-Milne universe. arXiv :1110.3954v2 (astro-ph) 2 feb 2012.
+
+J.P. Petit. Janus Cosmological Model and CMB ﬂuctuations
+
+5
+
+

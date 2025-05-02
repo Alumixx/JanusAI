@@ -1,0 +1,1738 @@
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/342530884
+
+Einstein's Paper: "Explanation of the Perihelion Motion of Mercury from
+General Relativity Theory"
+
+READS
+230
+
+Article · June 2020
+
+CITATION
+1
+
+1 author:
+
+Anatoli Vankov
+Rochester Institute of Technology
+
+28 PUBLICATIONS   98 CITATIONS   
+
+SEE PROFILE
+
+New Cosmology View project
+
+Physics Tomorrow View project
+
+Some of the authors of this publication are also working on these related projects:
+
+All content following this page was uploaded by Anatoli Vankov on 29 June 2020.
+
+The user has requested enhancement of the downloaded file.
+
+Einstein’s Paper: “Explanation of the
+Perihelion Motion of Mercury from
+
+General Relativity Theory”
+
+Anatoli Vankov
+
+IPPE, Russia; Bethany College, USA
+
+anatolivankov@hotmail.com
+
+2020-05-28
+
+Abstract
+
+The year 1915 of publishing Einstein’s original paper “Explanation
+of the Perihelion Motion of Mercury from General Relativity Theory”
+marks the origin of General Relativity. The perihelion advance of
+Mercury’s orbit was obtained from Astronomical observations by Le
+Verrier (1859), late Newcomb (1882). Their evaluation of the eﬀect
+was about 43 arcsec/cen, which coincides with Einstein’s prediction
+half a Century later derived from his “ﬁeld equations”. Einstein’s
+original paper and the corresponding Schwarzschild’s letters were pub-
+lished in German. We present their translations of high ﬁdelity and
+physical accuracy specially made by Professor Roger Rydin from the
+University of Virginia. The translations are followed with our criti-
+cal analysis of Einstein’s “approximate” derivation of the Mercury’s
+perihelion advance from his ﬁeld equations. There is a common be-
+lief among Physical Community that Einstein’s prediction is correctly
+derived, its physical meaning is fully understood, and the value of
+the GR perihelion advance is conﬁrmed in observations to the high
+precision, not less than 1 percent. However, from our analysis it fol-
+lows that every item of the belief is a myth, and Einstein’s prediction
+is plainly ﬂawed. Schwarzschild expressed a strong objection to Ein-
+stein’s teary complete mess in derivation from “ﬁeld equations”. He
+righteously suggested to derive the eﬀect from his “exact solution”, the
+metric quadratic form, which should be called “Schwarzschild metric”.
+But it is drastically diﬀerent from what is known as “Schwarzschild
+metric”. He purposely derived the metric having no “coordinate” or
+“central” inﬁnities by introducing “the cut-oﬀ parameter”, in other
+words, he made the GR Dynamics “renormalizable”. After his pre-
+mature death, somebody did not like it. So, the metric in his name
+
+was quietly reshaped and acquired the present singularity form. This
+made hundreds of GR following apprentices and “experts” to work
+hard and useless on the GR problem of “non-renormalizability” and
+“non-quatizability”. Unfortunately, Schwarzschild’s derivation of the
+eﬀect did not make a diﬀerence. A reader can get his own mind on the
+issues after having been familiarized with historically valuable papers
+presented here. Maybe, a curiosity awakens about the GR quicksand
+foundation, the so-called Einstein’s Field Equations, which the whole
+GR theory is rested upon.
+
+Key words: Einstein, Schwarzschild, General Relativity, Mercury
+
+perihelion, ﬁeld equations.
+
+PACS 03.30.+p, 04.20.-g
+
+2
+
+According to general theory of relativity, the elliptical orbit of a planet re-
+ferred to a Newtonian frame of reference rotates in its own plane in the same
+direction as the planet moves... The observations cannot be made in a Newto-
+nian frame of reference. They are aﬀected by the precession of the equinoxes,
+and the determination of the precessional motion is one of the most diﬃcult
+problems of observational astronomy. It is not surprising that a diﬀerence
+of opinions could exist regarding the closeness of agreement of observed and
+theoretical motions... I am not aware that relativity is at present regarded by
+physicists as a theory that may be believed or not, at will. Nevertheless, it
+may be of some interest to present the most recent evidence on the degree of
+agreement between the observed and theoretical motions of the planets.
+
+Gerald Clemence (Rev. Mod. Phys. 19, 361–364, 1947)
+
+3
+
+Erkl¨arung der Perihelbewegung des Merkur aus der allgemeinen
+
+Realtivit¨atstheorie
+
+Von A. Einstein
+
+According to “The Collected Papers of Albert Einstein” (see our Notes),
+this is the lecture given to the Prussian Academy of Sciences in Berlin, 18
+November 1915 by A. Einstein. Published 25 November 1915 in K¨oniglich
+Preußische Akademie der Wissenschaften (Berlin). Sitzungsberichte (1915):
+831-839.
+
+1 Einstein’s paper, 1915
+
+Translation of the paper (along with Schwarzschild’s letter to Einstein) by
+Roger A. Rydin with the following comments by Anatoli A. Vankov
+
+Explanation of the Perihelion Motion of Mercury from General
+
+Relativity Theory
+
+Albert Einstein
+
+Introduction
+In an earlier version of the work appearing in this journal, I have presented
+the ﬁeld equations of gravity, which are covariant under corresponding trans-
+formations having a determinant equals unity. In an Addendum to this work,
+I have shown that each of the ﬁeld equations is generally covariant when the
+scalar of the energy tensor of the matter vanishes, and I have thereby shown
+from the introduction of this hypothesis, through which time and space are
+robbed of the last vestige of objective reality, that in principle there are no
+doubts standing against this assertion. 1
+
+In this work, I found an important conﬁrmation of this radical Relativity
+theory; it exhibits itself namely in the secular turning of Mercury in the
+
+1In a soon to follow manuscript, it will be shown that such a hypothesis is unnecessary.
+It is only important that one such choice of coordinate system is possible, in which the
+determinant |gµν| takes the value −1. The following investigation is then independent
+thereof.
+
+4
+
+course of its orbital motion, as was discovered by Le Verrier. Namely, the
+approximately 45(cid:48)(cid:48) per century amount is qualitatively and quantitatively
+explained without the special hypotheses that he had to assume. 2
+
+Furthermore, it shows that this theory has a stronger (doubly strong)
+light bending eﬀect in consequence through the gravitational ﬁeld than it
+amounted to in my earlier investigation.
+
+The Gravitational Field
+As my last two papers have shown, the gravitational ﬁeld in a vacuum
+
+for a suitably chosen system of coordinates has to satisfy the following
+
+(cid:88)
+
+α
+
+(cid:88)
+
+αβ
+
+whereby the quantity Γα
+
+µν is deﬁned through
+
+(cid:26)µν
+
+(cid:27)
+
+α
+
+= −(cid:88)
+
+β
+
+gαβ
+
+µν = −
+Γα
+
+∂Γα
+µν
+∂xα
+
++
+
+(cid:40)µν
+
+(cid:41)
+
+β
+
+Γα
+µβΓβ
+
+να = 0
+
+(cid:88)
+
+β
+
+gαβ
+
+(cid:34) ∂gµβ
+
+∂xν
+
+= −1
+2
+
++
+
+∂gνβ
+∂xµ
+
+− ∂gµν
+∂xα
+
+Otherwise, we make the same fundamental hypothesis as in the last paper,
+that the scalar of the energy tensor of the ”material“ always vanishes, so that
+we have the determinant equation
+
+(1)
+
+(2)
+
+(cid:35)
+
+(3)
+
+|gµν| = −1
+
+We place a point mass (the Sun) at the origin of the coordinate system.
+The gravitational ﬁeld, which this mass point produces, can be calculated
+from these equations through successive approximations.
+
+In this regard, one may think that the gµν for the given solar mass is not
+It follows from
+yet mathematically fully determined through (1) and (3).
+it that these equations with the necessary transformation with the determi-
+nant equal to unity are covariant. It should be correct in this case to consider
+that all these solutions through such transformations can be reduced to one
+another, that they themselves are also (by given boundary conditions) only
+formally but not physically distinguishable from one another. These over-
+lying considerations allow me to obtain a solution without considering the
+question whether or not it is the only unique possibility.
+
+2E. Freundlich wrote in an earlier contribution about the impossibility that the anomaly
+of the motion of Mercury is satisﬁed on the basis of Newtonian theory, (Astr. Nachr. 4803,
+Vol. 201, June 1915).
+
+5
+
+With the above in mind, we go forward. The gµν is given next in the
+
+“zero-th approximation” in accord with the Relativity Theory scheme
+
+
+
+−1
+0
+0
+0 −1
+0
+0 −1
+0
+0
+0
+0
+
+
+
+0
+0
+0
+1
+
+(4)
+
+Or more compactly
+
+gρσ = −δρσ;
+
+gρ4 = g4ρ = 0;
+
+g44 = 1
+
+(4a)
+
+Hereby, ρ and σ are the indices 1, 2, 3: the δρσ is the Kronecker delta symbol
+equal to 1 or 0, that is when either ρ = σ or ρ (cid:54)= σ.
+
+We now set forward the following, that the gµν diﬀer from the values given
+in (4a) by an amount that is small compared to unity. This deviation we
+handle as a small magnitude change of ”ﬁrst order“, and functions of n-th
+degree of this deviation as of “n-th order“. Equations (1) and (3) are set
+in the condition of (4a), for calculation through successive approximations
+of the gravitational ﬁeld up to the magnitude n-th order of accuracy. We
+speak in this sense of the ”n-th approximation“; the equations (4a) are the
+”zero-th approximation“.
+
+The following given solutions have the following coordinate system-tied
+
+properties:
+
+1. All components are independent of x4.
+2. The solution is (spatially) symmetric about the origin of the coordinate
+system, in the sense that one obtains the same solution if one makes a linear
+orthogonal (spatial) transformation.
+
+3. The equations gρ4 = g4ρ = 0 are valid exactly (for ρ = 1, 2, 3).
+4. The gµν possess at inﬁnity the values given in (4a).
+
+First Approximation
+It is easy to verify, that ﬁrst order accuracy of the equations (1) and (3)
+as well as the above named 4 conditions is satisﬁed through the substitution
+of
+
+− δρσ
+r
+
+= −δρσ − α
+
+xρxσ
+
+r3 ; g44 = 1 − α
+
+r
+
+(4b)
+
+(cid:32) ∂2r
+gρσ = −δρσ + α
+(cid:113)
+
+∂xρ∂xσ
+
+The gρ4 as well as g4ρ are thereby set through condition 3; the r means the
+magnitude of r =
+
+x2
+1 + x2
+
+2 + x2
+3.
+
+(cid:33)
+
+6
+
+That condition 3 in the sense of ﬁrst order is fulﬁlled, one sees at once. In a
+simple way to visualize that ﬁeld equation (1) in the ﬁrst order approximation
+is also fulﬁlled, one needs only to observe that the neglect of magnitudes of
+second and higher orders on the left side of equation (1) can be realized
+successively through the substitution
+
+(cid:88)
+
+α
+
+∂Γα
+µν
+∂xα
+
+;
+
+(cid:88)
+
+α
+
+∂
+∂xα
+
+(cid:26)µν
+
+(cid:27)
+
+α
+
+(cid:88)
+
+whereby α only runs from 1 to 3.
+
+As one sees from (4b), our theory brings with it that in the case of a
+slowly moving mass the components g11 to g33 already appear to the non-zero
+magnitude of ﬁrst order. We will see later that hereby there is no diﬀerence
+between Newton’s law (in the ﬁrst order approximation). However, it gives
+a somewhat diﬀerent inﬂuence of the gravitational ﬁeld on the light ray as in
+my previous work; as the light velocity is introduced through the equation
+
+gµνdxµdxν = 0
+
+(5)
+
+which the Hypothesis (cid:80) T µ
+
+By use of the Huygen’s principle, one ﬁnds from (5) and (4b) through a
+simple calculation, that a light ray from the Sun at distance ∆ undergoes
+an angular deﬂection of magnitude 2α/∆, while the earlier calculation, by
+µ = 0 was not involved, had given the value α/∆.
+A corresponding light ray from the surface rim of the Sun should give a de-
+viation of 1.7(cid:48)(cid:48) (instead of 0.85(cid:48)(cid:48)). Herein there is no shift of the spectral lines
+through the gravitational potential, for which Mr. Freundlich has measured
+the magnitude against the ﬁxed stars, and independently determined that
+this only depends on g44.
+
+After we have taken gµν in the ﬁrst order approximation, we can also
+µν of the gravitational ﬁeld in the ﬁrst order
+
+calculate the components Γα
+approximation. From (2) and (4b) we obtain
+
+(cid:18)
+
+ρσ = −α
+Γτ
+
+δρσ
+
+xτ
+
+r3 − 3xρxσxτ
+
+2r5
+
+where ρ, σ, τ take on the values 1, 2, 3, and
+
+Γσ
+44 = Γ4
+
+4σ = −αxσ
+2r3
+
+(cid:19)
+
+7
+
+(6a)
+
+(6b)
+
+whereby σ takes on the values 1, 2, 3. The single components in which the
+index 4 appears once or three times, vanish.
+
+Second Approximation
+It will be shown here that we only need the three components Γσ
+
+44 accurate
+in the magnitude of second order to be able to evaluate the planetary orbit
+with suﬃcient accuracy. For this, it is enough to use the last ﬁeld equation
+together with the general conditions, which have led to our general solution.
+
+The last ﬁeld equation (cid:88)
+
+(cid:88)
+
+στ
+
+∂Γσ
+44
+∂xσ
+
++
+
+σ
+
+Γσ
+4τ Γτ
+
+4σ = 0
+
+goes with reconsideration of (6b) by neglect of magnitudes of third and higher
+orders over to
+
+From here follows, with reconsideration of (6b) and the symmetry properties
+our solution
+
+∂Γσ
+44
+∂xσ
+
+= − α2
+2r4
+
+(cid:88)
+
+σ
+
+(cid:19)
+
+(cid:18)
+
+44 = −αxσ
+Γσ
+2r3
+
+1 − α
+r
+
+Planetary Motion
+From the General Relativity theory motion equations of a material point
+
+in a strong ﬁeld, we obtain
+
+(cid:88)
+
+στ
+
+d2xν
+ds2 =
+
+Γν
+στ
+
+dxσ
+ds
+
+dxτ
+ds
+
+From this equation, it follows that the Newton motion equation is obtained
+as a ﬁrst approximation. Namely, when the speed of a point particle is small
+with respect to the speed of light, so dx1 , dx2 , dx3 are small against dx4. It
+follows that we come to the ﬁrst approximation, in which we take on the right
+side always the condition σ = τ = 4. One obtains then with consideration of
+(6b)
+
+d2xν
+ds2 = Γν
+
+44 = −αx4
+2r3 ;
+
+(ν = 1, 2, 3);
+
+(7a)
+
+d2x4
+ds2 = 0
+
+8
+
+(6c)
+
+(7)
+
+These equations show that one can take as a ﬁrst approximation s = x4.
+Then the ﬁrst three equations are accurately Newtonian. This leads one to
+the planar orbit equations in polar coordinates r, φ, and so leads to the
+known energy and the Law of Area equations
+
+where A and B are constants of the energy- as well as Law of Areas, whereby
+the shortened form is inserted.
+
+1
+2
+
+u2 + Φ = A;
+
+r2 dφ
+ds
+
+= B
+
+Φ = − α
+2r
+
+;
+
+dr2 + r2dφ2
+
+u2 =
+
+ds2
+
+We now have the Equations (7) evaluated to an accurate magnitude. The
+last of Equations (7) then leads together with (6b) to
+
+(cid:88)
+
+σ
+
+d2x4
+ds2 = 2
+
+Γ4
+σ4
+
+dxσ
+ds
+
+dx4
+ds
+
+= −dg44
+ds
+
+dx4
+ds
+
+(8)
+
+(8a)
+
+(9)
+
+We now go to the ﬁrst of the three equations (7). The right side becomes
+
+or in magnitude of ﬁrst order exactly to
+
+dx4
+ds
+
+= 1 +
+
+α
+r
+
+a) for the index combination σ = τ = 4
+
+(cid:32)dx4
+
+(cid:33)2
+
+)
+
+ds
+
+Γν
+44
+
+or with reconsideration of (6c) and (9) in magnitude of second order exactly
+
+b) with reconsideration thereof for the index combination σ (cid:54)= 4, τ (cid:54)= 4
+(which alone still comes into consideration), and the fact that the products
+
+(cid:18)
+
+(cid:19)
+
+−αxν
+2r3
+
+1 +
+
+α
+r
+
+dxν
+ds
+
+dxτ
+ds
+
+9
+
+στ
+
+(cid:18)
+
+(cid:88)
+
+−αxν
+r3
+
+The summation gives
+
+with reconsideration of (8) are seen as magnitudes of ﬁrst order, 3 and are
+(cid:19) dxσ
+likewise accurate to second order, we obtain
+δστ − 3xσxτ
+2r2
+(cid:33)2
+(cid:32) dr
+(cid:32) dr
+
+In hindsight therefore, one obtains for the equations of motion in magnitude
+of second order the exact form
+
+u2 − 3
+
+−αxν
+r3
+
+dxτ
+ds
+
+ds
+
+ds
+
+2
+
+d2xν
+
+ds2 = −αxν
+
+2r3
+
++ 2u2 − 3
+
+α
+r
+
+ds
+
+1 +
+
+(cid:33)2
+
+(7b)
+
+which together with (9) determines the motion of the point mass. Besides, it
+should be remarked that (7b) and (9) for the case of an orbital motion give
+no deviation from Kepler’s third law.
+
+From (7b) next follows the exactly valid form of the equation
+
+r2 dφ
+ds
+
+= B
+
+(10)
+
+where B means a constant. The Law of Areas is also accurate in the mag-
+nitude of second order, when one uses the ”period“ of the planet for the
+time measurement. To now obtain the secular advance of the orbital ellipse
+from (7b), one inserts the members of ﬁrst order in the brackets of the right
+side arranging it to best advantage using (10), and in the ﬁrst term of the
+equations (8), through which operation the members of second order on the
+right side are not changed. Through this, the brackets take the form
+
+Finally, one chooses s
+
+1 − 2A as the second variable, and again calls it
+
+s, so that one has a slightly changed meaning of the constant B:
+
+d2xν
+
+ds2 = − ∂Φ
+
+dxν
+
+; Φ = − α
+2r
+
+1 +
+
+B2
+r2
+
+(7c)
+
+3This result we can interpret from the ﬁeld components Γν
+
+στ with insertion in equation
+
+(6a) of the ﬁrst order approximation.
+
+(cid:34)
+
+√
+
+(cid:35)
+
+1 − 2A +
+
+3B2
+r2
+
+(cid:34)
+
+(cid:35)
+
+10
+
+By the determination of the orbital form, one now goes forth exactly as in
+the Newtonian case. From (7c) one next obtains
+
+dr2 + r2dφ2
+
+= 2A − 2Φ
+
+ds2
+
+One eliminates ds from this equation with the help of (10), and so obtains,
+
+in which one designates by x the magnitude 1/r:
+
+(cid:32) dx
+
+(cid:33)2
+
+dφ
+
+=
+
+2A
+B2 +
+
+α
+
+B2 x − x2 + αx3
+
+(11)
+
+which equation distinguishes itself from the corresponding Newtonian theory
+only through the last member on the right side.
+
+That contribution from the radius vector and described angle between
+
+the perihelion and the aphelion is obtained from the elliptical integral
+
+where α1 and α2 are the corresponding ﬁrst roots of the equation
+
+(cid:90) α2
+
+α1
+
+(cid:113) 2A
+
+φ =
+
+dx
+
+B2 + α
+
+B2 x − x2 + αx3
+
+2A
+B2 +
+
+α
+
+B2 x − x2 + αx3 = 0
+
+which means, the very close neighboring roots of the equation corresponding
+to leaving out the last term member.
+
+Hereby we can with reasonable accuracy replace it with
+
+(cid:20)
+
+α
+2
+
+(cid:20)
+
+φ =
+
+1 +
+
+(α1 + α2)
+
+or after expanding of (1 − αx)(−1/2):
+
+φ =
+
+1 +
+
+(α1 + α2)
+
+α
+2
+
+(cid:21)(cid:90) α2
+
+α1
+
+dx
+
+(cid:113)−(x − α1)(x − α2)(1 − αx)
+(cid:21)(cid:90) α2
+
+(cid:113)−(x − α1)(x − α2)
+
+2 x)dx
+
+(1 + α
+
+α1
+
+The integration leads to
+
+(cid:21)
+
+φ = π
+
+1 +
+
+α(α1 + α2)
+
+(cid:20)
+
+3
+4
+
+11
+
+(12)
+
+(13)
+
+(14)
+
+or, if one takes α1 and α2 as reciprocal values of the maximal and minimal
+distance from the Sun,
+
+φ = π
+
+1 +
+
+(cid:34)
+
+(cid:34)
+
+(cid:35)
+
+3α
+
+2a(1 − e2)
+(cid:35)
+
+α
+
+(cid:15) = 3π
+
+a(1 − e2)
+
+(cid:15) = 24π3
+
+a2
+
+T 2c2(1 − e2)
+
+For an entire passage, the perihelion moves by
+
+in the directional sense of the orbital motion, when we designate by a the
+major half axis, and by e the eccentricity. This leads one to the period T (in
+seconds), so one obtains with c as light velocity in cm/sec:
+
+This calculation leads to the planet Mercury to move its perihelion for-
+ward by 43 (cid:48)(cid:48) per century, while the astronomers give 45 (cid:48)(cid:48)±5(cid:48)(cid:48), an exceptional
+diﬀerence between observation and Newtonian theory. This has great signif-
+icance as full agreement.
+
+For Earth and Mars the astronomers give a forward movement of 11(cid:48)(cid:48) and
+9(cid:48)(cid:48) respectively per century, while our formula gives only 4(cid:48)(cid:48) and 1(cid:48)(cid:48), respec-
+tively. It appears however from these results, considering the small eccentric-
+ity of the orbits of each planet, a smaller eﬀect is appropriate. Conﬁrmation
+for the correctness of these values for the movement of the perihelion is the
+product with the eccentricity (e dπ
+
+dt ).
+
+dt )(cid:48)(cid:48)
+(e dπ
+
+8.48 ± 0.43
+-0.05 ± 0.25
+0.10 ± 0.13
+0.75 ± 0.35
+
+Mercury
+Venus
+Earth
+Mars
+
+One considers for these the magnitudes of the Newcomb given values,
+which I thank Dr. Freundlich for supplying, so one gains the impression that
+only the forward movement of the perihelion of Mercury will ever be truly
+proven. I will however gladly allow professional astronomers a ﬁnal say.
+
+End of the paper
+
+12
+
+2 Schwarzschild’s letter to Einstein
+
+Letter from K Schwarzschild to A Einstein dated 22 December
+
+1915
+
+The letter is presented in English owing to Professor Roger A. Rydin
+
+Honored Mr. Einstein,
+In order to be able to verify your gravitational theory, I have brought
+myself nearer to your work on the perihelion of Mercury, and occupied myself
+with the problem solved with the First Approximation. Thereby, I found
+myself in a state of great confusion. I found for the ﬁrst approximation of
+the coeﬃcient gµν other than your solution the following two:
+
+(cid:32) β
+
+(cid:33)
+
+gρσ = −βxρxσ
+
+r5 + δρσ
+
+3r3
+
+;
+
+g44 = 1
+
+As follows, it had beside your α yet a second term, and the problem was
+physically undetermined. From this I made at once by good luck a search
+for a full solution. A not too diﬃcult calculation gave the following result:
+It gave only a line element, which fulﬁlls your conditions 1) to 4), as well as
+ﬁeld- and determinant equations, and at the null point and only in the null
+point is singular.
+
+If:
+
+x1 = r cos φ cos θ, x2 = r sin φ cos θ, x3 = r sin θ
+
+R = (r3 + α3)1/3 = r
+
+1 +
+
+(cid:32)
+
+(cid:33)
+α3
+r3 + ...
+
+1
+3
+
+then the line element becomes:
+
+(cid:19)
+
+(cid:18)
+1 − γ
+R
+
+(cid:16)
+
+dt2 − dR2
+1 − γ
+
+R
+
+ds2 =
+
+(cid:17) − R2(dθ2 + sin2 θdφ2)
+
+R, θ, φ are not “allowed” coordinates, with which one must build the ﬁeld
+equations, because they do not have the determinant = 1, however the line
+element expresses itself as the best.
+
+The equation of the orbit remains exactly as you obtained in the ﬁrst
+approximation (11), only one must understand for x not 1/r, but 1/R, which
+
+13
+
+is a diﬀerence of the order of 10−12, so it has practically the same absolute
+validity.
+
+The diﬃculty with the two arbitrary constants α and β, which the First
+Approximation gave, resolves itself thereby, that β must have a determined
+value of the order of α4 , so as α is given, so will the solution be divergent
+by continuation of the approximation.
+
+It is after all the clear meaning of your problem in the best order.
+It is an entirely wonderful thing, that from one so abstract an idea comes
+
+out such a conclusive clariﬁcation of the Mercury anomaly.
+
+As you see, it means that the friendly war with me, in which in spite of
+your considerable protective ﬁre throughout the terrestrial distance, allows
+this stroll in your fantasy land.
+
+14
+
+2.1 Comments
+
+2.1.1 Historical Docs
+
+Einstein’s paper devoted to the GR prediction of Mercury’s perihelion ad-
+vance, Doc.24 (see Notes), is the only one among his publications that con-
+tains the explanation of the GR eﬀect.
+In his following paper The Foun-
+dations of the General Theory of Relativity, 1916, Doc.30, Einstein presents
+his new (he called it “correct”) calculation of the bending of light while the
+Mercury perihelion is only mentioned by referring it as in Doc.24, along with
+Schwarzshild’s work on “the exact solution”.
+
+Meanwhile, numerous works have been published and continue to appear
+in press with suggestions of “clariﬁcation”, “improvement”, “radical change”
+or “refutation” of Einstein’s 1915 prediction of the perihelion advance and
+bending of light. Most of them, in our view, are results of either confusion or
+lack of qualiﬁcation. Qualiﬁed works presenting a fresh view of the problem,
+or related new ideas or concepts are discussed in [V an10] (see Notes). Among
+them, there is a monograph on General Relativity by Bergmann (1942) with
+Foreword by A. Einstein who clearly acknowledged his own advisory and
+authorization role in the book composition. Strangely enough, the fact that
+given there derivations of the GR predictions are quite diﬀerent from those
+in Doc.24, is not paid much attention in the literature. In spite of method-
+ological diﬀerences, claimed predictions in the above works, however, remain
+the same.
+
+As a matter of fact, the GR foundational premises have been subjected
+to changes and reinterpretations (optional, alternative, or claimed “correct”
+ones) by Einstein himself, his advocates as well as today’s GR specialists and
+self-proclaimed “experts”. Among the key issues, the problems of energy and
+angular momentum conservation along with the properties of stress-energy-
+momentum tensor remain the “hot” (better say, controversial) ones. Possibly,
+this is one of the reasons why there are numerous publications devoted to
+the GR perihelion advance eﬀect and the light bending, which are considered
+controversial or arguable.
+
+2.1.2 Einstein and Schwarzschild “in a friendly war”
+
+One may be critical of Einstein’s work (Doc.24) in many respects, some
+arguable issues are worth noting here.
+
+1. The diﬀerence from Newton’s physics is an appearance of the GR term
+
+15
+
+in the equation of motion (11), not to speak about diﬀerentials with respect
+to the proper time τ . In operational terms, the proper time is recorded by
+a clock attached to the test particle moving along the world line s so that
+components dxµ/ds = uµ deﬁne a tangential 4-velocity unit vector. In SR, it
+relates to the proper 4-momentum vector P µ = muµ. In Doc.24, however, the
+proper time is actually interpreted similarly to the coordinate (“far-away”)
+time t = γτ , which deﬁnes three components of velocity vi = dxi/dt (i =
+1, 2, 3). Thus, the Lorentz factor in the relativistic kinetic energy becomes
+lost.
+
+√
+
+2. The equation of motion (11) (the objective of the work) is obtained
+1 − 2A where
+at the expense of an arbitrary replacement of s = cτ with s
+1 − 2A from unity has a magnitude of the order
+a diﬀerence of the factor
+α/r0. The corresponding impact on the solution is of the order of the eﬀect
+in question. At the same time, the GR conservation laws for total energy
+and angular momentum become controversial: with τ replaced with t, both
+laws formally appear in the Newtonian form.
+
+√
+
+3. Unlike in the paper (Doc.24), in Bergman’s book the GR term becomes
+responsible for both the perihelion advance and the bending of light; conse-
+quently, the derivations of both eﬀects principally changed, ﬁrst of all, the
+Schwarzschild metric was acknowledged as the theoretical basis for the GR
+eﬀects evaluation. It should be noted that, while the methodology changed,
+the angular momentum (“area”) law remained unaﬀected by the GR term.
+One can argue, however, that the GR perihelion advance eﬀect necessarily
+requires a relativistic generalization of the classical conservation laws.
+
+The immediate response to Einstein’s work (Doc.24) came from Karl
+Schwarzschild. His famous work “On the Gravitational Field of a Point-Mass,
+According to Einstein’s Theory”, Sitzungsberichte der K¨oniglich Preußischen
+Akademie der Wissenschaften, 189-196, 1916) was published less than a
+month after Einstein’s work. It should be noted that Schwarzschild derived
+“the exact solution” in the form to be consistent with the Einstein’s “four
+conditions”.
+It has no central divergence and cannot be mixed up with
+the commonly known “Schwarzschild metric”. The less known fact is that
+Schwarzschild, before the publication, wrote a letter to Einstein in which he
+criticized Einstein for mistakes in “the successive approximation approach”,
+as is seen from the above translated Letter from K Schwarzschild to A. Ein-
+stein dated 22 December 1915, in ColP ap, vol. 8a, Doc.169.
+
+Schwarzschild claims that his solution reproduces Einstein’s prediction of
+
+16
+
+the GR perihelion advance. But it does not, – because the concept of energy
+is gone, and coeﬃcients of the equation have very diﬀerent meaning there.
+Let us see it in more details.
+
+Schwarzschild’s original “exact unique solution” to Einstein’s ﬁeld equa-
+tions in vacuum for a point source is the squared 4-world line element, which
+in the polar coordinates is given by
+
+(cid:19)
+
+(cid:18)
+1 − α
+R
+
+(cid:18)
+
+(cid:19)−1
+
+dt2 −
+
+1 − α
+R
+
+dR2 − R2dφ2
+
+(2.1)
+
+ds2 =
+
+where
+
+R = (r3 + α3)1/3
+
+The α is the so-called Schwarzschild’s radius equal to the doubled gravita-
+tional radius rg, that is, α = 2rg = 2GM/c2
+0;
+
+the r is the coordinate radial distance, not strictly determined but used
+
+as a measure of distance from the source.
+
+the t is the coordinate (“far-away”) time.
+the R is the approximation of r to the precision of α3 in the original
+
+Schwarzschild’s metric.
+
+At some historical moment, the Schwarzschild metric in literature ac-
+quired the form, in which the R was replaced with the r, so that the met-
+ric became divergent. The original metric, as mentioned, does not diverge:
+R → α as r → 0. This means that, strictly speaking, “the black hole”
+concept does not come out from the General Relativity theory (see Stephen
+J. Crothers on the Internet and elsewhere). As is known, Einstein him-
+self resisted the BH idea. He also understood, when speculating about the
+gravitational radiation (particularly, from a BH neighborhood), that a linear
+perturbative approximation to the metric does not provide it. As concerns
+the perihelion advance, Einstein seemed to be quite reluctant to appreciate
+“the exact solution” and the way how Schwarzschild treated it, in spite of
+the fact that the Schwarzschild metric respects all four Einstein’s conditions.
+Schwarzschild traditionally starts with the three standard integrals of
+
+(cid:18)
+1 − α
+R
+
+−
+
+(cid:19)−1(cid:32)dR2
+
+(cid:33)
+
+ds2
+
+(cid:32)dφ2
+
+(cid:33)
+
+ds2
+
+− R2
+
+particle motion:
+
+(cid:18)
+1 − α
+R
+
+(cid:33)
+(cid:19)(cid:32) dt2
+(cid:32)dφ
+(cid:33)
+
+ds2
+
+R2
+
+ds
+
+= c
+
+= const = h
+
+(2.2)
+
+(2.3)
+
+17
+
+(cid:18)
+
+1 − α
+R
+
+(cid:19)(cid:32) dt
+
+(cid:33)
+
+ds
+
+= const = 1
+
+(2.4)
+
+The integral (2.3) coincides with Einstein’s expression for the angular
+momentum. However, (2.4) is not the energy: according to Schwarzschild,
+it is “the deﬁnition of the unit of time”. This is in the spirit of the General
+Relativity Theory, in which the energy is not locally deﬁned. Consequently,
+the constant (2.2) denoted h must be h = 1 by construction.
+
+After that, the equation of motion for x = 1/R takes the form
+
+(cid:32) dx
+
+(cid:33)2
+
+dφ
+
+1 − h
+c2 +
+
+=
+
+hα
+
+c2 − x2 + αx3
+
+(2.5)
+
+where the ﬁrst term on the right sight is zero (compare it with Einstein’s
+equation (11)).
+
+3 Critique
+
+We are going to follow Einstein’s solution step-by-step. Unfortunately, Ein-
+stein wrote the paper (Doc.25) very schematic, so that one needs to restore
+his line of thoughts and, at the same time, correct mistakes (see Notes).
+
+The exact solution to (11) is given by:
+
+(cid:90) x2
+
+x1
+
+(cid:113)
+
+φ =
+
+dx
+
+α(x − x1)(x − x2)(x − x3)
+
+(3.1)
+
+Here we denote x1 = 1/r1, x2 = 1/r2, x3 = 1/r3 (instead of denotations
+α1 = 1/r1, α2 = 1/r2, α3 = 1/r3 in Doc.24), which are real roots of the
+homogeneous cubic equation of the bounded motion problem (11). Let the
+third root x3 be due to the GR term. The integral cannot be calculated
+analytically (though it can be expressed in terms of elliptic functions). Ein-
+stein’s obvious idea is to compare (3.1) with the analogous solution in the
+classical (Newtonian) formulation of the problem, the GR “small” term being
+considered a perturbation source.
+
+Einstein’s approach to (3.1) is to eliminate x3 using an exact relationship
+
+between the three roots:
+
+(x1 + x2 + x3) =
+
+1
+α
+
+(3.2)
+
+18
+
+Recall, the α = 2rg where rg is the gravitational radius. He begins with
+the approximation to (3.2) by putting x3 = 1/α with the following algebraic
+approximation to (3.1) (to the precision of order α2) allowing one to split the
+integrand into two additive parts: I(x) = I1(x) + I2(x), where I1 is the main
+part from the classical solution, and I2 is the part due to a perturbation of
+the classical solution by the GR term:
+
+(cid:113)−α(x − x1)(x − x2)(x3 − x)
+
+1
+
+≈
+
+(cid:113)−(x − x1)(x − x2)
+
+1
+
++
+
+α(x1 + x2 + x)
+
+(cid:113)−(x − x1)(x − x2)
+
+2
+
+(3.3)
+
+As wished, (3.3) does not have the root x3 and is easily integrated analyti-
+cally.
+
+The ﬁnal crucial step to the GR solution must be an evaluation of the
+impact of the GR term on the roots from the GR solution in comparison
+with the corresponding classical roots ˜x1, ˜x2 describing a “nearly circular”
+orbit when ˜x1 + ˜x2 = 2/˜r0. The radius ˜r0 is the one of the classical circle to
+be compared with the corresponding r0 from the GR exact solution. In the
+zero-th approximation, it is assumed that the impact of the GR term on the
+Newtonian solution is negligible.
+
+Considering the eﬀective potential in both cases, it is easy to ﬁnd the
+
+relationship [V an10]
+
+(cid:18)
+
+(cid:19)
+
+r0 =
+
+˜r0 − 3
+2
+
+α
+
+Here, r0 >> r3, or equivalently x0 = 1/r0 << x3, and r3 = α(1 + 3α/2). It
+should be immediately noticed that the above radial diﬀerence in a circular
+and nearly circular motion translates into the corresponding diﬀerence in
+circumferences, 3πα, that is exactly the GR perihelion advance eﬀect. A fatal
+mistake in ﬁnal Einstein’s solution in the problem of planetary perihelion
+advance is the assumption that the impact of the GR term on the roots x1
+and x2 is negligible. Let us deliberate the problem in more details.
+
+Let us assume for a moment that r1 = ˜r1, r2 = ˜r2, consequently, r0 = ˜r0.
+Then the standard integration of I1 over half a period (from r1 to r2) makes
+π. The similar analytical integration of I2 gives
+
+(3.4)
+
+(3.5)
+
+∆θ =
+
+(x1 + x2)
+
+3πα
+
+4
+
+19
+
+The ﬁnal result would be the angular (perihelion) advance per one revolution
+given by
+
+∆θ =
+
+πα(x1 + x2)
+
+3
+2
+
+(3.6)
+
+or, for a circular orbit, ∆θ = 3πα/r0 = 6πrg/r0. There (x1 + x2) ≈ (2/r0)
+while the eccentricity e << 1. The approximate analytical solution to the
+equation (11) is supposed to be obtained for initial conditions analogous to
+that in the corresponding classical problem and as a result of a small per-
+turbation of physical parameters such as potential, kinetic and total energy
+as well as the angular momentum. At the same time, a mathematical ap-
+proximation is made due to the assumption that the impact of the GR term
+on the classical roots x1 and x2 is negligible. As a result, the solution could
+be understood as a periodic, not closed, orbit with a period νθ = 2π (see
+Bergmann): x(θ) = (1/r0)(1 + e cos νθ), or
+
+r0
+
+r(θ) =
+
+(1 + e cos νθ)
+
+(3.7)
+
+where ν ≈ (1 − 3rg/r0) is a factor of the deﬁcit of full angular rotation
+in one classical revolution. To complete the revolution, a planet needs to
+rotate through the additional angle 2π(3rg/r0), which should be observed, in
+Clemence’s terms, in the inertial frame as a non-classical eﬀect of rotation
+of orbital plane in the direction of planet motion (the claimed GR perihelion
+advance eﬀect).
+
+The fact of a physical inconsistency of the prediction (3.7) can be ver-
+iﬁed by a substitution of the solution into the original Einstein’s equation
+(11). The latter in the parametric form with geometrical parameters such as
+eccentricity e and semilatus rectum p is given by
+
+(cid:18) 1
+
+(cid:19)(cid:32) dx
+
+(cid:33)2
+
+ν2
+
+dθ
+
+= −(1 − e2)
+
+p2
+
++
+
+2x
+p
+
+− x2 + 2rgx3
+
+(3.8)
+
+where the GR term is framed.
+
+One immediately ﬁnds that the solution (3.7) satisﬁes the equation (3.8)
+if and only if the GR term is removed from the equation. Once it is removed,
+any value of ν does perfectly ﬁt the equation.
+It is obvious that the eﬀect ∆θ = 2π(3rg/r0) is (falsely) originated because
+of the radial shift ˜r0 − r0 = 3rg not taken into account. Let us consider an
+
+20
+
+almost circular orbit of a radius ˜r0 in the classical case and the radius r0 in
+the GR case under similar conditions. The fact is that the GR term makes
+a circumference of the circular orbit shorter by 3πα, which in turn makes
+a deﬁcit of angle of rotation ∆π = 6πrg/r0. Therefore, in (3.3) we have to
+drop the wrong assumption of the equality ˜r0 = r0 and account for the actual
+shortage of circumference in the ﬁrst (presumably, “classical”) integral. It
+makes the angle less than the expected value of π in a half a period, namely:
+
+(cid:90) ˜r2−∆r
+
+1
+2
+
+∆θ1 =
+
+˜r1
+
+I1(r)dr = π − 3
+2
+
+πα
+
+The second (perturbation) integral is not sensitive to the radius alternation
+and gives a result (in agreement with Einstein’s result)
+
+(3.9)
+
+(3.10)
+
+1
+2
+
+∆θ2 =
+
+πα
+
+3
+2
+
+which makes, after summation, a total π, that is, a zero angular advance.
+
+We state that, if to follow Einstein’s weird derivation of the eﬀect and
+correct mistakes, the result would be zero angular advance. Yet, numerous
+question arise. For example, why one needs to derive the eﬀect by doing
+clumsy “perturbation” approximations instead of solving the equation of
+motion and directly calculating the eﬀect. How is it possible to replace the
+proper time τ by the coordinate time t? Yet, it is inappropriate to give the
+ﬁnal formula of the eﬀect in an inconvenient way obtained by Paul Gerber
+in 1998 without mentioning the author (see Wikipedia).
+
+(cid:15) = 24π3
+
+a2
+
+T 2c2(1 − e2)
+
+This work should be read in the context of contemporary literature de-
+voted to critical analysis of General Relativity validity, outside of “the main-
+stream”. There are too many stumbles, puzzles, and misconceptions there,
+all leading to GR foundations, the so-called Einstein’s Field Equations, which
+are usually hidden from ordinary reader’s eyes.
+
+21
+
+A Einstein’s original paper, 1915
+
+Erkl¨arung der Perihelbewegung des Merkur aus der allgemeinen
+Realtivit¨atstheorie
+
+Von A. Einstein
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+31
+
+Notes
+The original text in German of the translated Einstein’s paper was in-
+cluded without translation into Volume 6 of The Collected Papers of Albert
+Einstein (further ColP ap for short); Volume 6 (1996), Doc.24. A. J. Knox,
+M. J. Klein, and R. Schulmann, Editors. Princeton University Press. These
+papers are assigned numbers Doc. namber. The paper under discussion is
+referred to as Doc.24.
+It was provided with Editor’s Notes numbered on
+the paper margins. We retain these numbers in the attached original paper
+(Doc.24) for making our N otes and comments on the selected spots in addi-
+tion to our other comments, sometimes, with a reference to our work “Gen-
+eral Relativity Problem of Mercury’s Perihelion Advance Revisited”, arXiv,
+physics. gen-ph, 1008.1811v1, Aug. 2010 (further [V an10] for short).
+
+As a matter of fact, we found another edition of ColP ap in which Vol. 6
+(1997) contains the above Einstein’s paper, Doc.24, translated into English
+by Brian Doyle, and reprinted from A Source Book in Astronomy and Astro-
+physics, 1900 - 1975, edited by Kenneth R. Lang and Owen Gingerich. There
+are Editors’ Notes numbers on pages but actual Notes are not provided, and
+mistakes made in the original publication are not corrected in the translation.
+
+In the following N otes, corrected mistakes are listed.
+1, 2. Einstein refers to the paper, Doc.21 in Vol. 6, “On the General
+Theory of Relativity”, 1915. There he makes a further reference to the similar
+paper (1914) in the Sitzungsberichte, Doc.9. He is concerned about a return
+to the General Covariance Principle after partly abandoning it in works with
+Grossman (the Entwurf theory). Here he states that the hypothesis about
+the vanishing trace of “matter” tensor having the metric determinant being
+equal to unity is in accord with the General Covariance of ﬁeld equations.
+Next Einstein refers to the Addendum which is titled “On the General Theory
+of Relativity, Addendum”, 1915, Doc.22. There he says: “In the following
+ν = 0 really to be generally true” and “Then,
+however, we are also entitled to add to our previous ﬁeld equation the limiting
+condition
+November 25, 1915, Doc.25.
+
+√−g = 1. See also the paper “The Field Equations of Gravitation”,
+
+we assume the conditions(cid:80)ν
+
+ν T ν
+
+3. Here (in Einstein’s footnote) is the statement about the change of the
+
+above theoretical premises.
+
+4, 5. See the historical note by Editors of ColP ap, also [V an10],
+6.
+
+In the original, a minus sign on the r.h.s. of the ﬁrst equation is
+
+32
+
+missing (corrected).
+
+issue in Norton, 1984.
+
+7. In the original, ν should be r (corrected).
+8. See the note by Editors of ColP ap about historical discussion of the
+
+tivity, and the condition (cid:80)ν
+
+9, 10. See the note by Editors of CalP ap concerning the calculations,
+reference to Doc.30, 1916, The Foundations of the General Theory of Rela-
+ν = 0 , Doc.25, retracted. Also about history
+
+ν T ν
+
+of red-shift observations.
+
+12. In the original, r2 in the ﬁrst term on the r.h.s. should be r3 (cor-
+
+rected).
+
+(corrected).
+
+(corrected).
+
+13. In the original, a minus sign is missing on the r.h.s. of the equation
+
+14. In the original, xr should be xτ (corrected).
+15.
+
+In the second equation, r is missing:
+
+the factor 2 should be 2r
+
+16. In the ﬁrst two equations for φ, the factor α in front of the integral
+
+should be α/2 (corrected).
+
+Newcomb 1895.
+
+17. See the historical note by Editors of ColP ap about the data source
+
+B Schwarzschild’s letter to Einstein
+
+Letter from K Schwarzschild to A Einstein dated 22 December
+1915
+
+(ColP ap, vol. 8a, Doc.169, posted on Internet)
+
+33
+
+34
+
+View publication stats
+View publication stats
+
+

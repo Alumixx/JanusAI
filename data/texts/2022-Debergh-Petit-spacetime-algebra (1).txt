@@ -1,0 +1,1725 @@
+2
+2
+0
+2
+
+ 
+
+v
+o
+N
+3
+
+ 
+
+ 
+ 
+]
+h
+p
+-
+n
+e
+g
+
+.
+s
+c
+i
+s
+y
+h
+p
+[
+ 
+ 
+
+1
+v
+9
+5
+3
+7
+0
+
+.
+
+1
+1
+2
+2
+:
+v
+i
+X
+r
+a
+
+On spacetime algebra and its relations with
+
+negative masses
+
+N. Debergh 1 and J.-P. Petit 2
+
+1 Department of pedagogy, Haute Ecole Charlemagne, 1, rue Gr´egoire Bodart, 4500 Huy,
+
+Belgium, nathalie.debergh@hech.be
+
+2 Former Director of Research in Centre National de la Recherche Scientiﬁque
+
+(C.N.R.S.),B.P.55, 84089 Pertuis, France, jppetit1937@yahoo.fr
+
+Abstract
+
+We consider four subsets of the complexiﬁed spacetime algebra,
+namely the real even part, the real odd part, the imaginary even part
+and the imaginary odd part. This naturally leads to the four con-
+nected components of the Lorentz group, supplemented each time by
+an additional symmetry. We then examine how these four parts im-
+pact the Dirac equation and show that four types of matter arise with
+positive and negative masses as well as positive and negative charges.
+
+Keywords: geometric algebra, spacetime algebra, Dirac equation, negative mass
+
+1
+
+Introduction
+
+Geometric algebra was discovered jointly by Cliﬀord and Grassmann in the
+late 19th century [1, 2]. Despite its innovative and promising aspects, this
+algebra did not get the attention it deserved at that time.
+In fact, most
+researchers have only exploited the purely algebraic aspects of this concept
+and have obscured the other facets.
+
+It was not until the work of Hestenes [3] that the richness of geometric
+algebra was fully realized. Since then, some scientists have made signiﬁcant
+contributions and ﬁrmly believe (an opinion we share) that geometric algebra
+is the simplest and most coherent language that can reconcile physics with
+mathematics. The subject itself is covered in detail in [3–5].
+
+Geometric algebra can be considered in any physical discipline but where
+it probably takes a particular importance is the physics of the electron [6].
+Generalizing the concept of complex numbers, it allows to highlight an inter-
+esting alternative to the Dirac theory. This other option is referred to as the
+real formulation of the Dirac equation or the Dirac-Hestenes equation [7–9].
+
+1
+
+This proposition is based on the geometric algebra related to the Minkowski
+spacetime (namely the spacetime algebra) and, surprisingly enough, only one
+part of this algebra (the part referred to as the real even part) is necessary
+to have equivalence with the Dirac formulation.
+
+On a diﬀerent level, the acceleration of the expansion of the Universe has
+been observed by astronomers [10]. This discovery implies the existence of
+unknown matter and energy (i.e. the dark matter and the dark energy). If
+their natures are still a mystery, there is more and more evidence to say that
+particles of negative masses [11] could be the best candidates to solve this
+enigma [12–18].
+
+The negative mass matter interacting only by gravity with positive mass
+matter (and not through electromagnetic phenomena), it is not possible to
+directly experiment it. Its detection is done indirectly by analysing the alter-
+ation of the light emitted by positive mass matter. We refer the interested
+reader to [19] for further details.
+
+It is natural to wonder about a possible relation between spacetime alge-
+
+bra and negative masses and it is precisely the goal of this paper.
+
+In Section 1, we will show, after a brief recall on the basics of the geometric
+algebra, that if only a part of the content (and by this we mean the even
+real part) of the spacetime algebra has been really exploited in most of the
+contributions on the geometric algebra of the electron, it is also possible
+to consider the other parts (odd real part, even imaginary part and odd
+imaginary part). These supplementary parts are connected to the usual one
+by applying to it the discrete unitary operators P ,T ,P T .
+
+This will naturally leads us, in Section 2, to revise the relativistic invari-
+ance where not only the restricted Lorentz group SO+(1, 3) will be reached
+but also its three connected components. When the odd part is included, we
+will show that the Lie superalgebra gl(2|2) arises naturally.
+of the Dirac equation, both with positive and negative masses.
+
+Section 3 will be devoted to the highlighting of the four types of solutions
+
+In Section 4, we will put in evidence the corresponding equations and
+
+solutions within the geometric algebra formalism.
+
+The relativistic invariance of these equations as well as the transformation
+laws on their solutions will be discussed in Section 5. The remarkable point
+is the appearance of an additional symmetry compared to the traditional
+theory, symmetry which brings a transformation law on the mass.
+
+We will conclude in the last Section.
+
+2
+
+2 Preliminary: the spacetime algebra and its
+
+four components
+
+First, we brieﬂy recall the fundamentals of a geometric algebra.
+Let u and v be two vectors of a vector space of dimension n
+
+(here and in the following, summation on repeated indices is understood).
+The geometric product of these vectors is deﬁned according to
+
+u = ujej,
+
+v = vjej,
+
+u v = u.v + u ∧ v.
+
+In the ﬁrst term, we recognize the -symmetric- inner product (equivalent to
+the scalar product when dealing exclusively with vectors). It gives rise to
+a scalar (0-vector). In the second term, we ﬁnd the -antisymmetric- outer
+product leading to a bivector (2-vector or oriented portion of plan).
+In other words
+
+u.v =
+
+(u v + v u),
+
+1
+2
+
+u ∧ v =
+
+(u v − v u).
+
+1
+2
+
+Applied to the (orthogonal) vector basis, the geometric product is such that
+
+ej ek = −ek ej,
+
+j 6= k.
+
+It also generates a 2n-dimensional algebra made of one 0-vector, n 1-vectors,
+n(n−1)
+
+2-vectors and so on until one n-vector, respectively given by
+
+2
+
+1,
+
+In ≡ e1 e2 ... en.
+This n-vector In is also known as the pseudo-scalar unit.
+Second, we particularize to spacetime algebra (STA) for which n = 4 and
+
+ej ek,
+
+ej,
+
+...,
+
+(5)
+
+0 = −e2
+e2
+
+1 = −e2
+
+2 = −e2
+
+3 = 1.
+
+From Eqs. (4) and (6), it is obvious to see that the basis vectors of the STA
+are nothing but the generators of the Cliﬀord algebra Cl(1, 3) and can be
+realized through the Dirac matrices (in the Weyl realization, for instance):
+
+e0 = γ0 =(cid:18) 0 I
+
+I 0 (cid:19) ,
+
+ej = γj =(cid:18) 0
+
+−σj
+
+σj
+
+0 (cid:19) ,
+
+3
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(6)
+
+(7)
+
+where I is the identity matrix of dimension 2 and σj are the Pauli matrices.
+A remarkable fact about STA is that its real even part
+
+E = a0 I + aj γjγ0 −
+
+1
+2
+
+j bj γkγl + b0 I4,
+ǫkl
+
+a0, aj, b0, bj ∈ R,
+
+(8)
+
+(where ǫkl
+is the completely antisymmetric Levi-Civita tensor) is a geometric
+j
+algebra in itself, namely the one associated with the 3D Euclidian space (SA).
+This is easily seen by identifying the ﬁrst three 2-vectors of the STA with
+the 1-vectors of the SA
+
+It is then straightforward to see that
+
+e′
+j ≡ γjγ0.
+
+1e′
+je′
+e′
+k = −γjγk, I3 = e′
+
+2e′
+
+3 = γ0γ1γ2γ3 = I4.
+
+Moreover, we can write
+
+E = a0 I + aj e′
+
+j + I4(b0 I + bj e′
+
+j) = a0 I + ~a + I4(b0 I +~b) = a + I4 b. (11)
+
+Here and in the following, we refer to the concept of relative vector [20]
+(written with a lowercase letter)
+
+by opposition to the one of proper vector (written with a capital letter)
+
+u ≡ u0 I + uj e′
+
+j = u0 I + ~u,
+
+U ≡ u e0 = uµ eµ, µ = 0, 1, 2, 3.
+
+In addition to this real even part, we will consider three other contributions.
+In total, we will have four types of elements of the (complexiﬁed) STA:
+
+(9)
+
+(10)
+
+(12)
+
+(13)
+
+• the real even part
+
+• the real odd part
+
+E = a + I4 b,
+
+(14a)
+
+O ≡ γ0 E = a0 γ0 − aj γj −
+
+1
+2
+
+j bj γ0γkγl + b0 γ1γ2γ3,
+ǫkl
+
+(14b)
+
+• the imaginary even part
+
+IE ≡ −i I4 E = i b0 I − i bj γ0γj +
+
+j aj γjγk − i a0I4,
+ǫkl
+
+(14c)
+
+i
+2
+
+4
+
+• the imaginary odd part
+
+IO ≡ −i γ1γ2γ3 E = i b0γ0 − i bj γj +
+
+i
+2
+
+j aj γ0γkγl − i a0 γ1γ2γ3.
+ǫkl
+(14d)
+
+Notice that the great majority of the authors focus on the real even part,
+only. The reason is that this part is suﬃcient to recover the usual Dirac
+equation (see Section 4). The only reference we found dealing with other
+contributions is [21] but in a diﬀerent context than the one involved here
+(the accent was there put on idempotent matrices).
+If we follow the realization (7), these four contributions respectively read
+
+(cid:18) N 0
+
+0
+
+bN (cid:19) , (cid:18) 0
+
+N 0 (cid:19) , (cid:18) N 0
+bN
+
+0 −bN (cid:19) , (cid:18) 0 −bN
+N 0 (cid:19) .
+
+Here the matrix N is given by
+
+N = (a0 + ib0)I + (aj + ibj)σj,
+
+(15)
+
+(16)
+
+(17)
+
+This involutive automorphism corresponds to the fact that each of the 3D
+basis vector has been reversed.
+The incoming calculations will be really simpliﬁed by remembering that
+
+while bN refers, in agreement with the usual notation, to
+bN = (a0 − ib0)I − (aj − ibj)σj.
+a∗ (cid:19) ,
+c d (cid:19) → bN =(cid:18) d∗ −c∗
+
+where * is the usual complex conjugate and a, b, c, d four complex numbers.
+Let us also mention that the operators in Eqs. (14b)-(14d) are not chosen at
+random. In fact, as is well known, γ0 is the parity operator P for the Dirac
+equation while −i I4 actually is the chirality operator γ5. However we prefer
+to see this operator as the product of P and the last one −i γ1γ2γ3 which
+has been identiﬁed [22] as the unitary time-reversal operator T for the Dirac
+equation.
+Consequently, the four contributions read
+
+N =(cid:18) a b
+
+−b∗
+
+(18)
+
+E, O = P E,
+
+IE = P T E,
+
+IO = T E.
+
+(19)
+
+This highly suggests to associate them to the four connected components of
+the Lorentz group. That’s precisely the aim of the next Section.
+
+5
+
+3 The relativistic invariance
+
+Following the standard STA approach, we deﬁne the position vector by
+
+(20)
+
+(21)
+
+X = xµ γµ =(cid:18) 0 x
+bx 0 (cid:19) ,
+
+X ′ = M XfM .
+
+where x = x0I + xjσj,bx = x0I − xjσj.
+
+Let us now consider the transformations that this position vector can un-
+dergo. The general relation is
+
+c∗
+
+(22)
+
+It has been chosen so because,
+
+We will also need a third conjugation combining the ﬁrst two ones
+
+sists in totally swapping the order of the vectors (γjγk → γkγj, γjγkγl →
+γlγkγj and so on).
+diag(αI, α∗I), a property rather similar to the unitarity of transformations.
+Moreover, when matrices of dimension 2 are concerned, this conjugation is
+identical to the hermitic conjugation
+
+The notationfM refers to a particular conjugation (called reversal) which con-
+in general, MfM =
+b∗ d∗ (cid:19) .
+c d (cid:19) → eN = N † =(cid:18) a∗
+N =(cid:18) a b
+a (cid:19) .
+c d (cid:19) → ¯N ≡ g(bN ) =(cid:18) d −b
+N =(cid:18) a b
+X ′ = MEXgME =(cid:18) N 0
+bN (cid:19)(cid:18) 0 x
+bx 0 (cid:19)(cid:18) ¯N 0
+eN (cid:19) → x′ = N xeN ,
+bx 0 (cid:19)(cid:18) 0
+X ′ = MOXgMO =(cid:18) 0
+N 0 (cid:19)(cid:18) 0 x
+eN 0 (cid:19) → x′ = bNbx ¯N ,
+bN
+X ′ = MIEXgMIE =(cid:18) N 0
+bx 0 (cid:19)(cid:18) ¯N 0
+0 −bN (cid:19)(cid:18) 0 x
+0 −eN (cid:19) → x′ = −N xeN ,
+
+The transformations can then be of four types as suggested by Eq. (19)
+
+(24a)
+
+(24c)
+
+(24b)
+
+−c
+
+(23)
+
+¯N
+
+0
+
+0
+
+6
+
+(25)
+
+(26)
+
+(27)
+
+(28)
+
+x′ = R x.
+
+Nrotations = e
+
+i
+
+2 θ σj ,
+
+Nboosts = e
+
+1
+
+2 θ σj .
+
+X ′ = MIOXgMIO =(cid:18) 0 −bN
+
+N 0 (cid:19)(cid:18) 0 x
+
+¯N
+
+bx 0 (cid:19)(cid:18) 0
+
+−eN 0 (cid:19) → x′ = −bNbx ¯N .
+
+(24d)
+Each of these transformations (24) can be rewritten in a more usual way as
+
+Besides, in all cases, the three rotations are given by
+
+(we write the same parameter θ for the simplicity of the notation but it is
+evidently subtended that each transformation has its own parameter) while
+the boosts are obtained from
+
+If we allow the determinant of N to diﬀer from 1 (and it is without any
+consequence on R whose determinant still is 1), we also have to add a sup-
+plementary transformation characterized by
+
+Nsupplementary = e
+
+i
+
+2 θ I .
+
+In the case of the transformation (24a), it is the well-known homomorphism
+between the special linear group SL(2, C) (related to the matrix N when we
+restrict ourselves to the cases where det N = 1 -a restriction that we will
+give up in the following-) and the restricted Lorentz group SO+(1, 3) (asso-
+ciated with R). It has to be mentioned that the transformations recovered
+here -namely three rotations and three boosts- are proper and orthochronous
+(component L↑
++ of the Lorentz group). In other words, they preserve the ori-
+entation of space (a fact that can be seen from det R = 1) and the direction
+of time (the element at the intersection of the ﬁrst row and the ﬁrst column
+of R is positive).
+The explicit form of the transformation matrices coming from the geometric
+algebra point of view is given by
+
+Mrotations = e− 1
+
+2 θ γj γk , Mboosts = e− 1
+
+2 θ γ0γk , Msupplementary = e
+
+2 θ I4. (29a)
+
+1
+
+At the algebra level, we thus have to consider
+
+Jjk ≡ −
+
+1
+2
+
+γjγk,
+
+J0j ≡ −
+
+1
+2
+
+γ0γj,
+
+1
+2
+
+J ≡
+
+I4.
+
+(29b)
+
+7
+
+As well known, the six ﬁrst operators generate the Lorentz algebra so(1, 3)
+
+[Jαβ, Jλρ] = gβλ Jρα + gαρ Jλβ + gβρ Jαλ + gαλ Jβρ,
+
+g = diag(1,−1,−1,−1),
+(30)
+while J (still with a vanishing trace) commutes with each of these operators.
+To ﬁnd back the other three connected components, the three other cases
+(24b)-(24d) are necessary.
+The proper retrochronous transformations (i.e. L↓
++ for which the time is re-
+versed, a fact that is marked through a change of sign in R00) are obtained
+through Eq. (24c). Indeed the result (24c) just means that R has been re-
+placed by −R. At the level of the rotations, the interpretation is that not
+only the time but also one of the spatial coordinates has been reversed. The
+rotations themselves, in each of the planes subtended by two spatial coor-
+dinates, are no longer rotations of angle θ in the clockwise direction but
+rotation of angle π − θ in the trigonometric direction. At the boosts, all the
+coordinates have been reversed but the velocity is unchanged. This total
+inversion will be also found at the additional symmetry: x′ = −x.
+The explicit form of the corresponding transformation matrices are obtained
+from Eq. (29a) on which P T = −i I4 is applied. Obviously, they cannot be
+written as exponentials anymore. However the relations (30) are still valid if
+we consider the seven operators (29b) on which P T is applied on the left.
+The improper orthochronous component (i.e. L↑
+− for which the orientation of
+space has been changed or, in other words, the determinant of R is now equal
+to −1) is obtained from the odd transformation (24b). In fact, with respect
+to the original matrix R, assigned to the proper orthochronous transforma-
+tions, only the ﬁrst row is unchanged. The other rows have changed sign. In
+what concerns the rotations, the time is unchanged while a spatial coordinate
+is reversed. Once again, in each of the plane determined by the two other
+spatial coordinates, there is no longer a rotation of θ in the clockwise direc-
+tion but a rotation of π − θ in the trigonometric sense. For the boosts, we
+notice that the time remains unchanged while the spatial coordinates have
+been inversed and so is the velocity.
+The explicit form of the corresponding transformation matrices is obtained
+from Eqs. (29) on which P = γ0 is applied.
+Let us also mention that the supplementary transformation is nothing but
+this P operation. The corresponding matrix R gets the well-known form
+diag(1,−1,−1,−1).
+The improper retrochronous transformations (L↓
+
+−) correspond to Eq. (24d).
+
+8
+
+The situation is the reverse of the previous one: only the ﬁrst row of the
+matrix R has changed sign. So the rotations are the ones of the proper or-
+thochronous transformations and only time has been reversed. The boosts
+are, as in the previous context, characterized by an inversion of the velocity
+due, in this case, to the reversal of time (the spatial coordinates remain un-
+changed with respect to the proper orthochronous boosts).
+As expected, the explicit form of the corresponding transformations is ob-
+tained from Eqs. (29) on which T = −i γ1γ2γ3 is applied.
+It is thus not
+surprising that the supplementary transformation reduces to this unitary
+time-reversal transformation and the corresponding R is diag(−1, 1, 1, 1).
+Let us end this Section by mentioning that gl(2, C) is usually recognized as
+the Lie algebra associated with the even part of the STA. It is due to the
+presence of the matrix N on which no constraint is required. In particular,
+the determinant (= ad − bc) can take any complex value, say rei θ. We have
+focused here on the case where r = 1. Nevertheless, there remains an addi-
+tional parameter (with respect to the Lorentz group) in the presence of the
+angle, which is associated with this operator J.
+If we consider the odd part in addition (as it is the case when we deal with
+the improper transformations), we speak about a Lie superalgebra, that is
+precisely gl(2|2). This superalgebra is characterized by the relations [23]
+
+[Epq, Ers] = δqr Eps − (−1)((p)+(q))((r)+(s))δpsErq,
+
+(31)
+
+with the following rules : if p + q and r + s are odd numbers, the Lie bracket
+is an anticommutator while it reduces to a commutator in all other cases.
+To be convinced of this link, we realize the Cartan subalgebra generators
+with
+
+H1 = E11 + E33 =
+
+I4, H2 = E22 + E33 =
+
+γ1γ2,
+
+(32a)
+
+1
+2
+
+I −
+
+i
+2
+
+1
+2
+
+I −
+
+i
+2
+
+H3 = E22 + E44 =
+
+I +
+
+I4,
+
+(32b)
+
+1
+2
+
+i
+2
+
+H4 = E11 + E22− E33− E44 + α (E11 + E22 + E33 + E44) = −γ0γ3 + α I. (32c)
+We complete the identiﬁcation by realizing the simple raising operators (two
+even operators and one odd operator) as
+
+E13 = −
+
+i
+4
+
+γ2γ3 +
+
+γ0γ1 +
+
+γ3γ1 +
+
+γ0γ2,
+
+(33a)
+
+1
+4
+
+i
+4
+
+1
+4
+
+9
+
+1
+4
+
+γ0γ1 −
+
+1
+4
+
+γ3γ1 +
+
+γ0γ2,
+
+i
+4
+
+E24 = −
+
+i
+4
+1
+4
+
+γ2γ3 −
+1
+4
+
+i
+4
+together with their lowering counterparts
+
+E32 = −
+
+γ0 +
+
+γ3 +
+
+γ0γ1γ2 −
+
+i
+4
+
+γ1γ2γ3,
+
+E31 = E†
+
+13, E42 = E†
+
+24, E23 = E†
+32.
+
+Finally, we add the following odd generators
+
+(33b)
+
+(33c)
+
+(33d)
+
+E12 = E13 E32, E34 = E32 E24, E14 = E12 E24,
+
+(34)
+
+where the product involved here is the geometric one.
+Let us now turn our attention to the Dirac equation.
+
+4 The Dirac equation with positive and neg-
+
+ative masses
+
+A remark to begin with: when Dirac established his famous equation, in the
+free case, he only imposed conditions on the squares of the matrices (see
+Eq. (6) of [24]) leaving the ﬁeld open to two possibilities of signs before the
+mass term. On page 615 of his paper, he speciﬁes that he marks one possible
+choice to satisfy these conditions.
+So, at the start, the possibility of having negative masses was already present.
+Now, let us consider the Dirac equation when the electron is in interaction
+with an electromagnetic ﬁeld
+
+(cid:16)γµ(∂µ + i e Aµ) + i m(cid:17) |φi+ = 0.
+
+With the realization (7) and |φi+ ≡(cid:18) ξ+
+
+η+ (cid:19), this equation can be written as
+
+where the usual gradient ∆ issued from STA has been used as well as its
+
+(cid:26) (∆ + i e A) η+ + i m ξ+ = 0
+(b∆ + i e bA) ξ+ + i m η+ = 0
+b∆ ≡ ∂0 + σj ∂j.
+
+∆ ≡ ∂0 − σj ∂j,
+
+10
+
+conjugate b∆
+
+(35)
+
+(36)
+
+(37)
+
+To be coherent, an analogue of the electromagnetic ﬁeld has also been deﬁned
+
+A ≡ A0 − σj Aj,
+
+bA ≡ A0 + σj Aj.
+
+By taking the complex conjugate of the system (36) and then multiplying it,
+on the right, by −iσ2, we obtain
+
+Here we have made use of
+
+We are now ready to highlight four types of matter by looking closely at the
+systems (36) and (39). Indeed, the system (36) shows us that if the electron
+of positive matter
+
+is the usual solution, there is an additional solution corresponding to a change
+of sign in the last term and thus to an electron of negative mass. It is given
+by
+
+φ1
+φ2
+φ3
+φ4
+
++) = 0
++) = 0
+
+(∆ − i e A) (−iσ2ξ∗
+
+|φie,+ =(cid:18) ξ+
+
++) − i m (−iσ2ξ∗
++) − i m (−iσ2η∗
+
+(cid:26) (b∆ − i e bA) (−iσ2η∗
+−iσ2 b∆∗ = ∆ (−iσ2), −iσ2 bA∗ = A (−iσ2).
+ ,
+ .
+ ,
+ .
+
+η+ (cid:19) ≡
+−η+ (cid:19) ≡
++ (cid:19) ≡
+|φip,+ =(cid:18) −iσ2η∗
++ (cid:19) ≡
+
+|φip,− =(cid:18) −iσ2η∗
+
+|φie,− =(cid:18) ξ+
+
+−φ∗
+φ∗
+3
+φ∗
+2
+−φ∗
+
+φ1
+φ2
+−φ3
+−φ4
+
+−φ∗
+φ∗
+3
+−φ∗
+φ∗
+1
+
+−iσ2 ξ∗
+
++
+iσ2 ξ∗
+
++
+
+2
+
+4
+
+1
+
+4
+
+11
+
+(38)
+
+(39)
+
+(40)
+
+(41a)
+
+(41b)
+
+(41c)
+
+(41d)
+
+In what concerns the system (39), it tells us that there is a solution associated
+with a positron of positive mass
+
+as well as a solution corresponding to a positron of negative mass
+
+We notice easily that
+
+|φip,+ = i γ2 |φi∗
+
+e,+,
+
+|φip,− = −i γ2 |φi∗
+
+e,−.
+
+(42)
+
+The ﬁrst of these two relations is what is expected from the well-known
+charge conjugation operator. A change of sign with no consequence (a ket
+being deﬁned up to a phase factor) is introduced within the negative masses
+counterpart.
+We also see that
+
+|φie,− = −i I4 |φie,+,
+
+|φip,− = −i I4 |φie,−.
+
+(43)
+
+Now, the matrix −i I4 , belonging to the imaginary extension of the STA, is
+nothing else than the chirality operator γ5.
+
+5 The Dirac-Hestenes equation with positive
+
+and negative masses
+
+We owe it to Hestenes to have proposed the counterpart of the Dirac equation
+in the context of geometric algebra. This (real) equation is
+
+(44)
+
+(45)
+
+It can also be proposed on the form
+
+γµ(cid:16)∂µφ γ2γ1 − e Aµ φ(cid:17) = m φ γ0.
+( −i∆bΦ σ3 + e AbΦ + m Φ = 0
+−ib∆ Φ σ3 + e bA Φ + mbΦ = 0
+
+with φ =(cid:18) Φ 0
+0 bΦ (cid:19).
+
+It is then usually said that the whole Dirac formalism is contained in the
+ﬁrst 2 by 2 equation of Eq. (45) as the second one is simply its conjugate in
+the sense σj → −σj.
+Hestenes’ demonstration of his equation is as follows: he proposed to consider
+a bispineur |ui such that
+
+hu|ui = 1,
+
+γ0|ui = |ui,
+
+γ2γ1|ui = i|ui.
+
+(46)
+
+12
+
+(47)
+
+(48)
+
+(49)
+
+It is then suﬃcient to put
+
+|φi+ = φ |ui,
+
+to recover Eq. (35).
+If we are interested in the precise form of the ket |ui satisfying Eq. (46) with
+the realization (7), we obtain
+
+|ui =
+
+1
+√2
+
+
+
+1
+0
+1
+0
+
+ ,
+
+up to a constant C such that |C| = 1.
+Eq. (45) and Eqs. (47)-(48) lead to
+
+φ ≡ φ+1 = √2 
+
+4
+
+φ1 −φ∗
+φ∗
+φ2
+3
+0
+0
+0
+0
+
+0
+0
+0
+0
+φ3 −φ∗
+φ∗
+φ4
+1
+
+2
+
+ =(cid:18) Φ 0
+0 bΦ (cid:19) .
+
+At this stage, we have to make a few remarks.
+First, the STA approach allows us to see unusual facts. By this we mean that
+the ﬁrst block on the diagonal contains all the information of the traditional
+theory. But what do we see there? The simultaneous consideration of the
+electron of positive mass and of what seems to be, at ﬁrst sight, the positron of
+positive mass (cf. the ﬁrst two components of Eq. (41a) and Eq. (41c)). But
+if we look at it more closely and consider the second block on the diagonal,
+we see that, if we conﬁrm the presence of the electron with positive mass,
+the antiparticle is, on the other hand, characterized by a negative mass (cf.
+Eq. (41d))!
+Second, this combination of positive matter-negative antimatter is typical to
+have considered the real even part of the STA only. Indeed, Eq. (49) is of
+type E in Eq. (15)).
+So the question arises naturally: is it possible to put in evidence the other
+solutions Eq. (41c) (we restrict ourselves to even matrices)?
+For this purpose, we modify Eq. (47) and consider, instead
+
+|φi− = −i I4 |ui.
+
+(50)
+
+13
+
+4
+
+The new matrix −i I4 φ is then of IE-type and writes explicitly
+
+φ1 −φ∗
+0
+0
+φ∗
+0
+0
+φ2
+3
+φ∗
+0 −φ3
+0
+2
+0 −φ4 −φ∗
+0
+
+ =(cid:18) Φ 0
+−i I4 φ ≡ φ−1 = √2 
+0 −bΦ (cid:19) .
+γµ(cid:16)∂µ (−i I4 φ) γ2γ1 − e Aµ (−i I4 φ)(cid:17) = −m (−i I4 φ) γ0.
+
+So we now have the combination of negative matter-positive antimatter and
+the Dirac-Hestenes equation is slightly modiﬁed to write
+
+Compared to the original one (44), we notice a change of sign in what con-
+cerns the mass term. The four types of matter (antimatter) can thus be
+embedded in a system made up of Eqs. (44) and (52).
+Let us now have a look on the transformations of the wave functions.
+
+(52)
+
+(51)
+
+1
+
+6 Relativistic invariance of the Dirac equa-
+
+tion with positive and negative masses
+
+We concentrate here on the free case since it is implied that the transfor-
+mations of the derivatives and components of the electromagnetic ﬁeld are
+identical in form.
+The question is the following: how can we characterize the transformation
+|φ′i± on |φi± such that
+
+transforms as
+
+(γµ ∂µ ± i m) |φi± = 0,
+
+(γµ ∂′
+
+µ ± i m′) |φ′i± = 0,
+
+(53a)
+
+(53b)
+
+µ is speciﬁed according to one of the transformations (24)?
+
+if ∂′
+This question has already been answered for the transformation (24a) in [25].
+We resume the results by presenting them from a point of view that can be
+applied to other transformations (24).
+
+First, we notice that the transformation (24a), x′ = N xeN , implies
+
+∆ = ¯N ∆′ ˆN ,
+
+(54)
+
+14
+
+where ∆ has been deﬁned in Eq. (37).
+Second, we introduce the transformation (54) in Eq. (53a) and ask the result
+to be equivalent to
+
+M −1
+
+E (γµ ∂′
+
+µ ± i m′) ME |φ >± .
+
+If so, by applying ME on the left of Eq. (55), this implies, at least for the six
+Lorentz transformations, that
+
+The key is to ensure that
+
+m′ = m, |φ′i± = ME |φi±.
+
+γµ ME ∂′
+
+µ = ME γµ ∂µ,
+
+µ being given by Eq. (54). As easily checked, this is satisﬁed with ME
+
+with ∂′
+given by Eq. (29a).
+As an example, let us consider the rotation
+
+x′0 = x0
+x′1 = x1
+x′2 = cos θ x2 + sin θ x3
+x′3 = − sin θ x2 + cos θ x3
+
+
+
+The constraint (57) leads then to
+
+(cid:26) γ0 ME = ME γ0, γ1 ME = ME γ1
+
+γ2 ME = ME (γ2 cos θ + γ3 sin θ), γ3 ME = ME (−γ2 sin θ + γ3 cos θ).
+
+These relations are indeed satisﬁed with
+
+ME = cos
+
+θ
+2
+
+I − sin
+
+θ
+2
+
+γ2γ3.
+
+The same results hold true for each of the six Lorentz transformations.
+2 θ I4 is a bit trickier. Indeed,
+The case of the supplementary operator ME = e
+in this case, as x′ = x, ∆′ = ∆, we have two possibilities: either m′ = m and
+|φ′i± = |φi± or m′
+6= m and |φ′i± = ME |φi±. The ﬁrst possibility is the
+only one allowed by the traditional way of seeing while the second possibility
+is typical of the geometric algebra point of view which is richer compared to
+the usual one because the subtended group GL(2, C) has more parameters
+
+1
+
+15
+
+(55)
+
+(56)
+
+(57)
+
+(58)
+
+(59)
+
+(60)
+
+than the Lorentz one.
+It seems to us much more logical to favor this second possibility for reasons
+of consistency as, for the Lorentz transformations, we precisely have |φ′i± =
+ME |φi± each time. We therefore opt for, in all cases
+
+We also notice that, for ME = e
+
+|φ′i± = ME |φi±.
+2 θ I4 , we have
+
+1
+
+γµ ME = M −1
+
+E γµ,
+
+and ﬁnally obtain
+
+(γµ ∂′
+
+So, the invariance leads to
+
+E m + m′ ME) |φi±.
+
+µ ± im′) |φ′i± = ±i (−M −1
+m′ = m (cid:18) e−i θ
+
+0
+
+0
+
+ei θ (cid:19) .
+
+What this tells us is that the mass itself undergoes a transformation, which
+consists of a rotation in the complex plane. For θ = π, these rotations lead
+to an inversion of the sign of the mass.
+As noticed in [25], the relations (62) lead to diﬀerent transformation laws for
+each spinor of |φi±
+
+In what concerns the version coming from the geometric algebra, it is easy
+to convince ourselves that
+
+|ξ′i± = N |ξi± ; |η′i± = bN |ηi±.
+
+Let us now turn, in a similar way, to the other cases (24c), (24b) and (24d).
+First, we consider the proper retrochronous transformations. At the start,
+we observe a simple change of sign through Eq. (24c) and
+
+φ′
+ǫ = ME φǫ ; ǫ = ±1.
+
+∆ = − ¯N ∆′ ˆN .
+
+This leads to anticommutation relations where there were commutation re-
+lations and vice versa. In particular, Eq. (59) now reads
+
+(cid:26) γ0 MIE = −MIE γ0, γ1 MIE = −MIE γ1
+
+γ2 MIE = −MIE (γ2 cos θ + γ3 sin θ), γ3 MIE = MIE (γ2 sin θ − γ3 cos θ)
+(68)
+
+(61)
+
+(62)
+
+(63)
+
+(64)
+
+(65)
+
+(66)
+
+(67)
+
+16
+
+and is satisﬁed with
+
+MIE = −i sin
+
+γ0γ1 − i cos
+
+γ0γ1γ2γ3 = −i I4 ME,
+
+(69)
+
+θ
+2
+
+θ
+2
+
+as expected.
+This change of sign is also recovered for the supplementary symmetry in the
+sense that we now have
+
+γµ MIE = −M −1
+
+IE γµ.
+
+Despite this change of sign, the relation (64) still holds true.
+In what concerns the results (65) and (66), they become respectively
+
+and
+
+|ξ′i± = N |ξi± ; |η′i± = − ˆN |ηi±,
+
+φ′
+
+ǫ = i MIE φǫ γ1γ2.
+
+We now come to the improper orthochronous transformations characterized
+by Eq. (24b). The transformation law on the derivatives is given by
+
+∆ = eN ˆ∆′ N.
+
+Each constraint on MO is aﬀected by sign changes. For instance, Eq. (59)
+now reads
+
+(cid:26) γ0 MO = MO γ0, γ1 MO = −MO γ1
+
+γ2 MO = −MO (γ2 cos θ + γ3 sin θ), γ3 MO = MO (γ2 sin θ − γ3 cos θ)
+
+and is satisﬁed with
+
+MO = cos
+
+θ
+2
+
+γ0 − sin
+
+θ
+2
+
+γ0γ2γ3 = γ0 ME.
+
+In what concerns the supplementary symmetry, we have to distinguish the
+time contribution from the spatial ones
+
+θ
+2
+
+γ0 MO = γ0(cid:18)cos
+γj MO = γj(cid:18)cos
+
+θ
+2
+
+γ0 + sin
+
+γ0 + sin
+
+θ
+2
+
+θ
+2
+
+γ1γ2γ3(cid:19) =(cid:18)cos
+γ1γ2γ3(cid:19) = −(cid:18)cos
+
+θ
+2
+
+θ
+2
+
+γ0 − sin
+
+γ0 − sin
+
+θ
+2
+
+γ1γ2γ3(cid:19) γ0,
+γ1γ2γ3(cid:19) γj.
+
+θ
+2
+
+(76a)
+
+(76b)
+
+(70)
+
+(71)
+
+(72)
+
+(73)
+
+(74)
+
+(75)
+
+17
+
+in order to obtain the transformation law (64) on mass.
+The results (65)-(66) are now
+
+|ξ′i± = ˆN |ηi± ; |η′i± = N |ξi±.
+
+We conclude this case by mentioning that
+
+φ′
+
+ǫ = ǫ MO φǫ γ0.
+
+(77)
+
+(78)
+
+Let us now turn to the ultimate case, the one of improper retrochronous
+transformations (24d). It is extremely close to the previous case. Eqs. (73)
+and (74) just get a minus sign in front of the second member of each relation.
+Consequently, we obtain
+
+MIO = −i cos
+
+γ1γ2γ3 − i sin
+
+γ1 = −i γ1γ2γ3 ME.
+
+(79)
+
+θ
+2
+
+θ
+2
+
+Relations (76) become
+
+γ0 MIO = γ0(cid:18)i cos
+γj MIO = γj(cid:18)i cos
+
+θ
+2
+
+θ
+2
+
+γ1γ2γ3 − i sin
+
+γ1γ2γ3 − i sin
+
+θ
+2
+
+θ
+2
+
+θ
+2
+
+γ0(cid:19) =(cid:18)−i cos
+γ0(cid:19) =(cid:18)i cos
+
+θ
+2
+
+γ1γ2γ3 − i sin
+
+γ1γ2γ3 + i sin
+
+θ
+2
+(80a)
+
+γ0(cid:19) γ0,
+γ0(cid:19) γj,
+
+(80b)
+
+θ
+2
+
+leading once again to Eq. (64).
+The information is complete if we add
+
+and
+
+|ξ′i± = ˆN |ηi± ; |η′i± = −N |ξi±,
+
+φ′
+
+ǫ = ǫ MIO φǫ γ0γ1γ2.
+
+(81)
+
+(82)
+
+7 Conclusion
+
+Usually, when one study the spacetime algebra, one focus to its even part,
+isomorphic to the space algebra. This is because this even part allows to ﬁnd
+the whole content of the Dirac equation. The relativistic invariance is then
+that of the restricted Lorentz group.
+We wanted to extend these considerations here by proposing three other
+
+18
+
+types of elements of this spacetime algebra, i.e. the odd and the imaginary
+parts. This allowed us to highlight all connected components of the Lorentz
+group.
+We then linked these developments to the Dirac equation, with the two signs
+of mass and conﬁrmed that the four propositions were associated with four
+types of matter, of positive or negative mass, of positive or negative charge.
+Each time, the Lorentz invariance was conﬁrmed but also completed by a
+new transformation: a rotation in the complex plane concerning the mass
+and thus allowing the inversion of the sign of this mass.
+This supplementary transformation is due to the presence of the unit pseudo-
+scalar of the STA. We are convinced that this pseudo-scalar unit could bring
+other interesting developments. For example, we know that the mass term
+of the usual Dirac Lagrangian, m ¯φφ, is purely scalar. But what happens to
+this mass term in its geometric algebra version? We just have to take again
+Eq. (49) and Eq. (51) simultaneously on the form
+
+as well as
+
+to see that
+
+with
+
+φǫ =(cid:18) Φ 0
+0 ǫbΦ (cid:19) ,
+¯φǫ =(cid:18) ¯Φ 0
+0 ǫeΦ (cid:19) ,
+m ¯φǫ φǫ =(cid:18) (c1 + ic2)I
+(cid:26) c1 ≡ φ1 φ∗
+
+3 + φ∗
+c2 ≡ i(−φ1 φ∗
+
+1 φ3 + φ2 φ∗
+
+3 + φ∗
+
+0
+
+0
+
+(c1 − ic2)I (cid:19) ,
+
+4 + φ∗
+1 φ3 − φ2 φ∗
+
+2 φ4
+4 + φ∗
+
+2 φ4)
+
+What is remarkable in Eq. (85) is the combination of both scalar and pseudo-
+scalar contributions
+
+m ¯φǫ φǫ = c1 + c2 I4,
+
+a fact that was absent from traditional considerations since
+
+m ¯φφ = m hφ|γ0|φi = m c1.
+
+We believe that a mass acquisition process ”`a la Higgs” applied to Eq. (85)
+could bring interesting developments and this is what we will work on in the
+future.
+
+19
+
+(83)
+
+(84)
+
+(85)
+
+(86)
+
+(87)
+
+(88)
+
+8 Acknowledgments
+
+Warm thanks are due to the members of the Support au Mod`ele Cosmologique
+Janus for their ﬁnancial support.
+
+References
+
+[1] H. Grassmann: Die Ausdehnungslehre, Enslin, Berlin 1862
+
+[2] W.K. Cliﬀord: Am. J. Phys. 1,350 (1878)
+
+[3] D. Hestenes: Spacetime algebra, Gordon and Breach, New York 1966
+
+[4] D. Hestenes, G. Sobczyk: Cliﬀord algebra to geometric calculus, Reidel,
+
+Dordrecht 1984
+
+[5] C.J.L. Doran, A.N. Lasenby: Geometric algebra for physicists, Univer-
+
+sity Press, Cambridge 2003
+
+[6] C.J.L. Doran, A.N. Lasenby, S. Gull, S. Somaroo, A. Challinor: Space-
+time algebra and electron physics, in P.W. Hawkes Editor, Advances in
+imaging and electron physics, 95, pp271-386, Academic Press 1996
+
+[7] D. Hestenes: J. Math. Phys. 8, 798 (1967)
+
+[8] D. Hestenes: J. Math. Phys. 16, 556 (1975)
+
+[9] C.J.L. Doran, A.N. Lasenby and S.F. Gull: Found. Phys. 23, 1239 (1993)
+
+[10] Adam G. Riess et al: Astron. J. 116, 1009 (1998)
+
+[11] H. Bondi: Rev. Mod. Phys. 29, 423 (1957)
+
+[12] J. Belletˆete, M.B. Paranjape: Int. J. Mod. Phys. D22, 1341017 (2013)
+
+[13] J.-P. Petit, G. d’Agostini: Mod. Phys. Lett. A29, 1450182 (2014)
+
+[14] S. Mbarek, M.B. Paranjape: Phys. Rev. D90, 101502(R) (2014)
+
+[15] R.T. Hammond: Eur. J. Phys. 36, 025005 (2015)
+
+[16] V.V. Dvoeglazov: Z. Naturforsch. A71, 345 (2016)
+
+20
+
+[17] J.-P. Petit, G. d’Agostini: Astrophys. Space Sci. 363, 1391 (2018)
+
+[18] B. Guay: Mod. Phys. Lett. A37, 2250013 (2022)
+
+[19] J.-P. Petit, G. d’Agostini, N. Debergh: Janus cosmological model, ﬀhal-
+
+03285671 (2021)
+
+[20] D. Hestenes: J. Math. Phys. 15, 1768 (1974)
+
+[21] Garret Sobczyk: Spacetime algebra of Dirac spinors, math-ph arXiv
+
+1507.06609 (2015)
+
+[22] N. Debergh, J.-P. Petit, G. d’Agostini: J. Phys. Comm. 2, 115012 (2018)
+
+[23] Xiang-Mao Ding, Mark D. Gould and Yao-Zhong Zhang: Phys. Lett. A
+
+318, 354 (2003)
+
+117, 610 (1928)
+
+[24] P.A.M. Dirac: Proceedings of the Royal Society of London, Series A,
+
+[25] Claude Daviau, Jacques Bertrand, New insights in the standard
+model of quantum physics in Cliﬀord Algebra, http ://hal.archives-
+ouvertes.fr/hal-00907848 (2013)
+
+21
+
+

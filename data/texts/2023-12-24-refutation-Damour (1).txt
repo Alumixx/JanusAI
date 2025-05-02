@@ -1,0 +1,963 @@
+L
+
+R
+
+	
+
+1
+2
+
+1
+2
+
+tµν
+
+2 M R
+
+L + tµν
+
+R + tµν
+
+L = Tµν
+
+R = Tµν
+
+2 M L
+  
+
+2(Rµν(g L ) −
+
+2(Rµν(g R ) −
+
+gµν
+L R(g L ))+ Λ L gµν
+
+gµν
+R R(g R ))+ Λ R gµν
+
+A	propos	des	critiques	publiés	par	T.Damour,	sur	sa	page	de	l’IHES,			
+dans	ses	articles	de	2019	et	202,	sur	le	modèle	cosmologique	Janus.	
+
+	
+1	
+	Les	premiers	qui	introduisent	une	approche	bimétrique,	sont	Damour	et	Koan	en	2002,	
+dans	un	papier	de	plus	de	40	pages,	publié	dans	physical	Review	D,	sans	le	moindre	
+résultat	tangible.		
+Voici	le	résultat	auquel	ils	parviennent	:	
+(1)																																									
+Dans	les	seconds	membres	vous	trouvez	ce	qu’on	pourra	qualifier	de	«	tenseurs	
+d’interaction	»	
+R	représente,	la	contribution	au	champ	créé	par	l’espèce	«	L	»	(left)	et	subi	par	
+à	 
+l’espèce	R	(right).	L’effet	étant	l’incidence	sur	la	métrique	 
+R	
+à	 
+L	représente,	la	contribution	au	champ	créé	par	l’espèce	«	R	»	(right)	et	subi	par	
+L	
+l’espèce	L	(left).	L’effet	étant	l’incidence	sur	la	métrique	 
+La	simple	forme	des	premiers	membres	fait	que	les	dérivées	covariantes	construites	à	
+l’aide	des	métriques,	que	nous	noteront	 ∂R
+Par	voie	de	conséquences	les	dérivées	covariantes	des	seconds	membres	doivent	être	
+aussi	nulles.		
+En	relativité	générale,	les	relations	qui	expriment	le	simple	souci	de	cohérence	
+mathématique	des	équations,	quand	on	l’explicite,	se	traduisent	par	des	équations	de	
+conservation.	
+-  De	l’énergie	
+-  De	l’impulsion.	
+	
+L’équation	d’Einstein	revient	à	ne	considérer	qu’une	seule	de	ces	deux	espèces.	En	
+partant	des	équations	de	Damour	et	Kogan,	ceci	conduirait	à	l’unique	équation	:		
+	
+(2)																																																	
+R = 0	
+Alors	on	aurait	:					 ∂R
+
+ν	sont	identiquement	nulles	:	
+
+gµν
+R R(g R ))+ Λ R gµν
+
+2(Rµν(g R ) −
+
+2 M R
+  
+
+R = Tµν
+
+R	
+
+ν et ∂L
+
+ν Tµν
+
+gµν
+
+gµν
+
+tµν
+
+1
+2
+
+C’est	là	où	les	mathématiques	conduisent	à	de	la	physique	
+
+	
+
+ν tµν
+
+R = 0
+
+ν tµν
+∂L
+
+2	
+
+Cela	s’appelle	faire	de	la	physique	
+
+	
+La	difficulté,	quand	on	veut	passer	en	bimétrique,	est	d’introduire	ces	deux	tenseurs	
+d’interaction,	qui	satisfassent	les	conditions	:		
+(3)																																																								 ∂R
+L = 0	
+Damour	et	Kogan	sont	bien	conscients	de	ce	fait.	Mais	pour	eux	le	problème	ne	se	pose	
+pas,	car	au	terme	de	cet	article	de	plus	de	40	pages,	qui	ne	débouche	sur	aucun	résultat	
+tangible,		aucune	forme	n’est	proposée	pour	ces	deux	tenseurs.	
+Avant	d’aller	plus	loin,	rappelons	qu’en	matière	de	cosmologie,	fondée	sur	l’équation	
+d’Einstein,	on	ne	dispose	que	de	deux	types	de	solutions.		
+-  Univers	homogène	et	isotrope,	solution	instationnaire	
+-  Symétries	SO(3)	et	SO(2),	solution	invariante	par	translation	temporelle.	
+	Ainsi,	toute	forme	de	solution,	issue	de	l’équation	d’Einstein,	ne	sera	jamais	qu’une	
+solution	approchée,	porteuse	d’hypothèses	simplificatrices	de	nature	physique.			
+	Il	est	important,	et	même	capital,	de	garder	en	tête	ce	qu’imposent	les	«	conditions	de	
+Bianchi	».	Dans	ces	dérivations	covariantes	il	y	a		
+	
+-  Une	dérivation	par	rapport	à	la	variable	temporelle	
+-  Une	dérivation	par	rapport	aux	variables	d’espace.	
+	
+La	façon	dont	on	aborde	la	question,	dans	la	relativité	générale	comme	dans	le	
+modèle	Janus	fait	que	les	deux	conditions	ne	se	manifestent	pas	simultanément.		
+	Quand	on	envisage	un	milieu	uniforme	et	homogène,	les	dérivées	spatiales	sont	
+identiquement	nulles.	Il	n’y	a	pas	de	gradient	de	pression,	dont	pas	de	«	forces	de	
+pression	».	La	condition	de	cohérence	mathématique	se	centre	alors	sur	la	variable	
+temporelle.	En	relativité	générale	cela	se	résume	à	une	loi	de	conservation	d	l’énergie.		
+	Quand	on	envisage	des	solutions	stationnaires	les	dérivées	par	rapport	à	la	variable	
+temps	sont	identiquement	nulles.	La	condition	de	Bianchi,	la	nullité	de	la	dérivée	
+covariante	des	seconds	membres	est	satisfaite	en	dehors	des	masses,	puisque	les	
+seconds	membres	des	équations	sont	nul.		
+	La	question	ne	se	posera	que	pour	les	«	métriques	intérieures	»,	qui	décrivent	la	
+géométrie	à	l’intérieur	de	masses,	quand	le	second	membre	n’est	pas	nul.		
+	En	relativité	générale	cela	se	traduit	par	l’équation	«	TOV	»	(Tolmann,	Oppenheimer,	
+Volkoff,	1939).	En	approximation	Newtonienne	cette	équation	devient	l’équation	
+d’Euler,	exprimant	que	la	force	de	gravité,	à	l’intérieur	des	masses,	est	équilibrée	par	
+les	forces	de	pression	(qui	mettent	en	jeu	un	gradient	de	pression).			
+	Qui	peut	le	plus	peut	le	moins.	En	visant	la	construction	d’un	nouveau	modèle	
+cosmologique			nous	n’envisagerons	que	ces	seuls	cas.		
+	
+
+3	
+
+⎤⎦
+
+⎡⎣
+
+⎤⎦
+
+⎡⎣
+
+( − )ν
+
+( + )ν
+
+	
+
+1
+2
+
+1
+2
+
+R ( − )δµ
+
+R ( + )δµ
+
+R µ
+( + )ν −
+
+R µ
+( − )ν −
+ 
+
+( − )ν+ φ t µ
+
+( + )ν+ ϕ t µ
+
+ν = χ T µ
+
+ν = − χ T µ
+
+	
+Dans	le	cas	de	la	solution	instationnaire,	deux	configurations	sont	à	envisager	:		
+	
+-  Univers	de	poussière	à	pression	nulle	
+-  Univers	dans	sa	phase	radiative,	à	pression	(radiative)	non	négligeable.		
+	
+Commençons	par	tenter	de	construire	un	modèle	qui	décrit	la	configuration	
+instationnaire,	où	les	deux	entités	sont	faites	de	«	poussière	»,	où	les	pressions	sont	
+négligées.	
+	Nous	écrirons	ces	équations	avec	les	notations	Janus,	en	notation	mixte	:	
+	
+(4)																																													
+	Nous	introduisons,	devant	les	tenseurs	d’interaction,	des	fonctions	inconnues	 ϕ et φ	de	
+la	variable	chronologique	x°.		
+	Concentrons-nous	sur	«	des	univers	de	poussière	».	Dans	ces	conditions	les	tenseurs	
+s’écrivent	:		
+	
+(5)															
+	Question	:	quelle	forme	donner	aux	«	tenseurs	d’interaction	»			 
+Nous	sommes	dans	une	démarche	heuristique.	Tentons	:		
+	(6)																																																								 
+ν	
+	Pourquoi	pas	?		
+	On	a	introduit	deux	fonctions	du	temps	 ϕ et φ	,	inconnues.	Qu’est-ce	qui	déterminera	
+leur	forme	?		
+	
+à	Les	«	conditions	de	Bianchi	»,	la	cohérence	physique	et	mathématique	du	système.		
+	Nous	sommes	dans	des	univers	qui	sont	homogènes	et	isotropes,	en	configuration	
+instationnaire.	Ces	hypothèses	géométrique	détermine	la	forme	des	métriques		FLRW,	
+Friedman	Lemaître	Robertson	Walker		:	
+	
+
+	
+( + )ν	?		
+
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+
+( − )ν	et	 
+
+ν = T(+)
+ν
+µ
+µ
+
+ν = T(−)
+µ
+
+ρ(−)c(−)2
+
+ρ(+)c(+)2
+
+t µ
+
+t µ
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎠
+
+0
+0
+0
+
+0
+0
+0
+
+T(−)
+
+T(+)
+
+ν =
+µ
+
+ν =
+µ
+
+t(+)
+
+t(−)
+
+	
+
+µ
+
+ 
+
+3
+
+⎤⎦
+
+⎤⎦
+
+⎡⎣
+
+⎡⎣
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+	
+
+3	
+
+a(+)
+a(−)
+
+a(−)
+a(+)
+
+φ(x°) =
+
+4	
+
+gµν
+(+) = dx°2 −
+
+ϕ(x°) =
+ 
+
+gµν
+(−) = dx°2 −
+ 
+
+a (−)2
+1− k(−) du2 + u2dθ2 + u2 sin2 θdϕ2
+
+a (+)2
+1− k(+) du2 + u2dθ2 + u2 sin2 θdϕ2
+
+	
+(7)																																								
+	x°	est	la	variable	chronologique,	commune.	 ( u , θ , ϕ )	sont	les	coordonnées	qui	rendent	
+compte	de	l’isotropie,	c’est	à	dire	des	coordonnées	sphérique.	 k( + )	Et	 k( − )	sont	les	indices	
+de	courbure.	En	injectant	ces	métriques	dans	le	système	d’équations	de	champ	couplées,	
+la	solution	sera	sous	la	forme	des	deux	fonctions	 a(+) (x°) et a(−) (x°)		,	les	deux	scale	factors.		
+Quelque	chose	devra	assurer	la	cohérence	physique	et	mathématique.	C’est	une	dérivée	
+par	rapport	au	temps,	la	seule	qui	reste	dans	ces	conditions	de	symétrie.	En	poursuivant	
+le	calcul	on	trouve	que	cela	détermine	la	forme	des	deux	fonctions	:			
+	(8)																																															
+	Ainsi	ce	système	d’équations,	qui	n’a	pour	vertu,	pour	le	moment,	que	de	produire	une	
+solution	mathématique	exacte,	devient	:		
+	
+(9)																																																					
+	Et	quelle	est	cette	relation	mathématique	qui	assure	sa	cohérence	mathématique	?	
+Réponse	:	la	condition	:		
+	(10)																																																								 E = ρ(+)c(+)2a(+)3 + ρ(−)c(−)2a(−)3 = Cst	
+	La	conservation	généralisé	de	l’énergie.	Tout	cela	ressemble	bien	à	une	cohérence	
+physique.	Et	que	tire-t-on	de	la	solution	exacte	qui	émerge	de	ce	système	?		
+	L’accélération	d	l’expansion	cosmique.	
+	
+Quand	ce	travail	est-il	publié	?	En	2014,	il	y	a	dix	ans1.	
+	
+																																																								
+1	J.P.Petit,	G.D’Agostini	:	Negative	Mass	hypothesis	in	cosmology	and	the	nature	of	dark	
+energy.	Astrophysics	And	Space	Sccience,.	A	29,	145-182	(2014)	
+	
+
+ν = − χ T µ
+( − )ν+
+
+R µ
+( − )ν −
+ 
+
+ν = χ T µ
+( + )ν+
+
+R µ
+( + )ν −
+
+R ( + )δµ
+
+R ( − )δµ
+
+a(−)
+a(+)
+
+a(+)
+a(−)
+
+t µ
+
+t µ
+
+⎡
+⎢
+⎢
+⎣
+
+⎤
+⎥
+⎥
+⎦
+
+⎡
+⎢
+⎢
+⎣
+
+⎤
+⎥
+⎥
+⎦
+
+1
+2
+
+1
+2
+
+	
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+( − )ν
+
+( + )ν
+
+3
+
+3
+
+Aucun	à		Il	en	ignore	toujours	l’existence.	
+
+Quel	commentaire	Thibault	Damour	accorde-t-il	à	ce	travail	?		
+
+	
+5	
+	On	voit	donc	cinq	ans	avant		que	celui-ci	ne	publie	dans	sa	page	de	l’IHES	un	premier	
+article,	en	janvier	2019,		visant	à	dissuader	la	communauté	de	s’intéresser	à	ce	modèle	il	
+existait	déjà	une	forme,	se	prêtant	à	la	description	de	solutions	exactes	instationnaire,	
+qui	satisfaisait	les	conditions	d’une	cohérence	physique	et	mathématique.	Et	c’est	
+toujours	le	cas.		
+	En	2018,	un	an	avant	la	mise	en	ligne	de	l’article	de	Damour,	Gilles	d’Agostini	exploite	
+cette	 solution	 exacte	 en	 montrant	 qu’elle	 s’accord	 parfaitement	 aux	 données	
+observationnelles2	:		
+	
+
+	
+Nouveau	commentaire	de	Damour	sur	ce	second	article	?	
+
+	
+	
+Aucun.	En	2019	il	en	ignore	l’existence	et	c’est	toujours	le	cas	aujourd’hui.	
+	Quel	peut	être	l’origine	de	ces	deux	facteurs	 ϕ et φ	?		
+	On	remarque	que	ceci	peut	en	fait	s’écrire	:		
+	
+																																																								
+2	G. DAgostini and J.P.Petit : Constraints on Janus Cosmological model from recent 
+observations of supernovae type Ia, Astrophysics and Space Science, (2018),	
+
+( − )ν
+
+( + )ν
+
+⎤
+⎥
+⎥
+⎦
+
+⎡
+⎢
+⎢
+⎣
+
+⎤
+⎥
+⎥
+⎦
+
+⎡
+⎢
+⎢
+⎣
+
+1
+2
+
+1
+2
+
+t µ
+
+g(+)
+g(−)
+
+R ( + )δµ
+
+R ( − )δµ
+
+R µ
+( + )ν −
+
+6	
+
+R µ
+( − )ν −
+ 
+
+ν = χ T µ
+( + )ν+
+
+g(−)
+g(+) t µ
+
+ν = − χ T µ
+( − )ν+
+
+	
+(11)																																												
+	
+	Quel	sens	donner	à	ces	mystérieux	facteurs		  g(+) et
+g(−)		?	Il	apparaîtront	dans	ma	
+dérivation	à	partir	d’une	action,	liés	aux	«	hypervolume		riemaniens	».		
+		Passons	à	un	autre	type	de	solution.	Les	solutions	stationnaires	en	symétrie	sphérique.		
+	Là	encore	la	satisfaction	des	conditions	de	Bianchi	est	une	condition	incontournable.		On	
+remarque	pour	commencer	qu’elle	ne	pose	problème	qu’à	l’intérieur	de	masses.	A	
+l’extérieur,	dans	le	vide,	les	seconds	membres	des	équations	sont	nuls.	Donc	la	
+satisfaction	de	la	condition	est	assurée.		
+	Il	reste	le	problème	de	la	géométrie	à	l’intérieur	des	masses.	Cette	question	a	été	
+magistralement	traitée	par	Karl	Schwarzschild	dans	son	second	article	de	19163.	En	
+1938	Tolman,	Oppenheimer	et	Volkoff	reprenne	cette	solution	et	lui	donne	leur	nom,	
+elle	devient	«	l’équation	TOV	».	Dans	son	approximation	Newtonienne	elle	devient	
+l’équation	d’Euler,	exprimant	que	les	forces	de	pression	équilibre	la	forte	de	gravitation,	
+à	l’intérieur	des	masses.		
+	Si	on	excepte	cette	difficulté	à	gérer	la	géométrie	à	l’intérieur	des	masses	le	système	
+Janus	abonde	de	retombées	intéressantes	vis	à	vis	des	confirmations	avec	les	données	
+observationnelles.	En	l’état	on	peut	considérer	le	système	sous	sa	forme	(11).		
+	L’étude	de	l’approximation	Newtonienne	a	permis	de	déterminer	le	sens	des	forces	:		
+	
+-  Attraction	mutuelle	des	masses	positives	
+-  Attraction	mutuelle	des	masses	négatives	
+- 
+	Les	masses	de	signes	opposées	se	repoussent	selon	«	anti-Newton	»	
+	
+Damour	en	est	toujours	à	penser	que	les	masses	négatives	se	repoussent,	au	prix	
+d’articles	sans	consistance,	alors	qu’il	est	tellement	plus	simple	de	raisonner	sur	la	base	
+de	constructions	des	courbes	géodésiques.				
+	Comme	ces	masses	opposées	se	repoussent,	elles	s’excluent	les	unes,	les	autres.	Ainsi,	au	
+voisinage	du	système	solaire	les	masses	négatives	sont	quasiment	absentes,	ce	qui	fait	
+que	le	système	se	réduit	à	:		
+	
+																																																								
+3	K.	Schwarzschild	:	Über	das	Gravitionalsfeld	einer	Kugel	Aus	incompressibler	Flüssigkeit	
+nach	der	Einsteinschen	Theprie.	Sitzung	der	phys.	Math.	Klasse	v.23	märz	1916	
+
+( + )ν
+
+( + )ν
+
+	
+
+1
+2
+
+1
+2
+
+t µ
+
+ν = − χ
+
+g(+)
+g(−)
+
+R ( + )δµ
+
+R ( − )δµ
+
+R µ
+( + )ν −
+
+7	
+
+ν = χ T µ
+
+R µ
+( − )ν −
+ 
+
+	
+(12)																																												
+	On	reconnaît	dans	la	seconde	équation,	l’équation	d’Einstein.	Ainsi	le	modèle	Janus	est-il	
+en	total	accord	avec	les	observations	(	avance	du	périhélie	et	déviation	de	la	lumière	pa	
+les	masses	)	qui	constituent	les	vérifications	locales	classiques	de	la	relativité	générale.		
+	La	construction	du	tenseur	 
+( + )ν	permettrait	alors	de	construire	les	géodésiques	suivies	
+par	le	photons	d’énergie	négative,	subissant	alors	un	effet	de	negative	lensing.	Mais	quel	
+intérêt	puisqu’un	tel	phénomène,	se	situant	dans	le	feuillet	négative,	n’est	alors	pas	
+accessible	à	nos	moyens	d’observation	?		
+	Notons	que	le	système	(12)	se	prête	parfaitement	à	la	modélisation	d’objets	comme	les	
+étoiles	à	neutrons,	présentes	dans	notre	feuillet	d’univers,	celui	des	masses	positives.	Il	
+en	sera	de	même	pour	les	objets	hypermassifs	situés	au	centre	des	galaxies,	que	nous	
+assimilons,	non	à	des	trous	noirs	géants,	mais	à	des	objets	sous-critiques,	ce	que	
+confirme	pour	es	deux	objets	dont	nous	avons	l’image,	le	rapport	température	maximal	
+sur	minimale	de	3.		
+	Il	reste	une	autre	configuration.	Celle,	suggérée	par	les	simulations	de	l’établissement	de	
+la	structure	à	très	grande	échelle	de	l’univers	où	se	constitue	une	distribution	quasi	
+régulière	de	conglomérats	de	masse	positive,	engendrant	pour	les	galaxies	un	effet	de	
+répulsion	(confirmé	en	2017	par	la	découverte	du	Dipole	Repeller	)	
+	
+
+t µ
+
+	Le	système	devient	:		
+	
+
+	
+
+0
+
+( − )ν
+
+( − )ν
+
+	
+
+1
+2
+
+1
+2
+
+0
+0
+
+ν =
+µ
+
+T(−)
+
+0
+0
+0
+
+0
+0
+0
+
+− p(−)
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+ν = χ
+
+T µ
+
+R ( + )δµ
+
+R ( − )δµ
+
+ρ(−)c(−)2
+
+R µ
+( + )ν −
+
+8	
+
+R µ
+( − )ν −
+ 
+
+ν = − χ T µ
+
+g(−)
+g(+) t µ
+
+( − )ν	,	lié	à	cette	matière	de	masse	négative,	a	la	forme	:		
+	
+
+	
+(13)																																																						
+	La	seconde	équation	permet	de	construire	ce	conglomérat	de	masse	négative.	En	suivant	
+ce	qui	découle	des	simulations	numériques,	ces	objets	sont	alors	loin	d’être	hyperdenses.	
+On	peut	les	comparer	à	l’immenses	protoétoiles	émettant	dans	le	rouge	et	l’infrarouge,	
+qui	ne	s’annuleront	jamais,	étant	dotés	d’un	cooling	time	excédant	l’âge	de	l’univers.	Au	
+sein	de	ces	objets,	stables,		ce	sont	les	forces	de	pression	qui	contrebalancent	la	force	de	
+gravité.	Le	tenseur	 
+	
+	
+(14)																																		
+C’est	lui	qui	est	la	source	du	champ,	dans	les	deux	feuillets.	Ces	sources	sont		
+à	 ρ(−)c(−)2	:	la	densité	volumique	d’énergie	sous	forme	de	masse	
+à	
+	:	La	pression,	en	tant	que	densité	volumique	d’énergie	sous	
+forme	d’agitation	thermique.		
+Mais	nous	sommes	dans	l’approximation	Newtonienne.	En	particulier	 v(−) << c(−)		.	Donc	
+le	terme	de	pression	est	très	faible	dans	cette	matrice.		
+La	détermination	à	l’extérieur	et	dans	ce	conglomérat	sera	issue	du	classique	couple	
+métrique	extérieur	plus	métrique	intérieure	(	Scwharzschild	1916	).	Mais	l’évolution	de	
+la	densité	à	l’intérieur	de	l’objet	ne	pourra	plus	cadrer	avec	une	densité	constante.	Cela	
+sera	un	modèle	classique,	comparable	à	une	étoile,	mais	géante.	On	aura	recours	à	
+l’équation	TOV.	Mais	celle-ci,	compte	tenu	des	conditions	physiques,	se	réduira	à	
+l’équation	d’Euler.		
+C’est	là,	en	seulement	là,	que	se	posera	la	question	soulevée	par	Thibault	Damour	dans	
+l’article	installé	en	janvier	2019	sur	sa	page	de	l’IHES,	il	y	a	cinq	ans.		
+à	Il	faudra	que	la	condition	de	Bianchi	soit	satisfaite.	En	autre	terme	que	la	dérivée	
+covariante	du	tenseur	d’interaction	présent	dans	la	première	équation,	calculée	sur	la	
+base	de	la	métrique		 
+(15)																																																																			
+
+(−)	soit	nulle.	C’est	à	dire	que	:		
+
+p(−) = ρ(−) < v(−)2 >
+ 
+
+⎟ = 0	
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+− p(−)
+
+− p(−)
+
+gµν
+
+0
+0
+
+( − )ν
+
+3
+
+0
+
+⎞
+
+ 
+
+⎛
+⎜
+⎝
+
+ν
+∂(−)
+ 
+
+g(−)
+g(+) t µ
+
+⎠
+
+0
+
+0
+0
+
+t(−)
+
+ν =
+µ
+
+0
+0
+0
+
+0
+0
+0
+
+− p(−)
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+ν t µ
+
+ρ(−)c(−)2
+
+	
+9	
+Comme	nous	sommes	dans	l’approximation	Newtonienne	(	le	métrique	varient	peu,	sur	
+des	courtes	distances)		le	facteur	se	résume	à	une	constante	et	la	condition	à	:			
+(16)																																																																							 ∂(−)
+( − )ν = 0	
+Une	étude	théorique	plus	poussée	permettra	peut	être	de	déterminer	la	forme	que	doit	
+avoir	ce	tenseur,	mais	ça	ne	sera	évidemment	pas	:		
+(17)																																								
+	
+Puisque,	comme	noté	par	Damour	dans	son	papier	de	2019	ceci	conduit	à	des	équations	
+TOV	différentes,	donc	à	une	incohérence	physique	et	mathématique.		
+Cela	n’invalide	pas	le	modèle,	comme	il	le	prétend.	Cela	signifie	simplement	que	la	forme	
+de	ce	tenseur	d’interaction	est	différente,	et	précisément	conditionnée	par	la	condition	
+(16).	Pour	le	moment	nous	n’avons	pas	construit	la	forme	de	ce	tenseur	de	manière	
+rigoureuse.	Mais	en	2019,	au	moment	même	où	Damour	produisait	sa	critique,	nous	
+donnions	une	forme	approchée,	cadrant	avec	l’approximation	Newtonienne4	:		
+(18)																																								
+Le	calcul	conduit	alors	à	deux	équations	TOV	qui	se	rejoignent	quand	on	fait	agir	
+l’approximation	Newtonienne,	ce	qu’avait	enfin	compris	Damour	dans	son	article	du	
+28décembre	2022,	Quatre	ans	après	celui	de	2019.	Témoin	ces	phrases	extraites	de	son		
+article	:		
+
+ρ(−)c(−)2
+
+p(−) + ε
+
+p(−) + ε
+
+p(−) + ε
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+− p(−)
+
+− p(−)
+
+0
+0
+0
+
+0
+0
+0
+
+ν =
+µ
+
+t(−)
+
+0
+0
+
+0
+0
+
+0
+0
+
+	
+
+0
+
+0
+
+0
+
+ 
+
+ 
+
+																																																								
+4	J.P.Petit,	G.	D’Agostini,	N.Debergh	:	Physical	and	mathematical	consistency	
+of	the	Janus	Cosmological	Model	(JCM).	Progress	in	Physics	 2019	Vol.15	
+issue	1	
+	
+
+	
+
+10	
+
+	
+Les	équations	(12)	deviennent	alors		la	classique	équation	d’Euler,	extraite	de	son	
+article	:		
+
+Mais	nous	sommes	parfaitement	d’accord	!		
+
+	
+Et	Damour	se	raccroche	alors	au	fait	que	cette	approximation	ne	saurait	convenir	dans	
+le	cas	d’une	étoile	à	neutron,	qui	se	situe	hors	de	l’approximation	Newtonienne	?		
+	Tous	les	objets	présents	dans	ce	secteur	négatif,	susceptibles	d’engendrer	des	
+phénomènes	observables	(les	seuls	qui	nous	intéressent)	entrent	dans	le	domaine	de	
+l’approximation	Newtonienne.	On	pourra	donc	calculer	avec	cette	approche	ce	à	quoi	
+nous	aurons	accès,	c’est	à	dire	l’effet	de	lentille	gravitationnelle	négatif	produit	sur	nos	
+photons	d’énergie	positive,	par	ce	conglomérat	de	masse	négative.	
+
+Seulement,	il	n’y	a	pas	d’étoiles	à	neutrons	de	masse	négative.	
+
+	
+11	
+Comme	les	scientifiques	qui	auront	lu	cet	article,	confus,	qui	trahit	l’incompréhension	de	
+son	auteur,	et	fait	aveuglément	confiance	à	l’expert	T.Damour,	il	en	résulte	qu’il	aura	
+bloqué	pendant	cinq	années	tout	intérêt	pour	ces	travaux.		
+		
+
+

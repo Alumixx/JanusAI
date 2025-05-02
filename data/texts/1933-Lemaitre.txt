@@ -1,0 +1,5033 @@
+G en eral Rela tiv ity an d G ravi tation , Vol. 2 9, N o. 5 , 1 997
+
+The Expan din g Un iverse²
+
+by the Ab b Âe Georges Lem aÃ
+
+õ tre
+
+INTRODUCTION AND SUMMA RY
+
+In this paper we do not int end to discuss the hypot heses on which the
+theory of the expansion of the Universe is based, or the value of the as-
+tronom ical evidence which support s it. Such a discussion seems to us at
+present premat ure and it certainly could not arrive at de® nit ive conclusions
+in t he present state of t he theory and the observat ions.
+
+T he theory can be developed in two ways: by the study of exact
+solut ions of the gravit at ional equat ions, providing simpli® ed models, or
+by approxim ate expansion of the solut ion of more complex problem s. It
+seems to us useful not to mix these two methods, and in this paper we will
+be concerned only with mathemat ically exact solut ions. W hen we want to
+apply these to real problem s, we will have to appeal t o physical int uit ion
+in order to reduce an overcomplicat ed problem to a simpli® ed model for
+which we have a solut ion. Many of our result s seem to be able to serve
+as starting point s for t he methods of expansion in series which we hop e to
+treat in a lat er pap er.
+
+In the ® rst two sections, we give in detail the tensor calculat ions which
+we shall need, and which we summarize in Section 3,
+in the course of
+int roducing the not ation which makes manifest the analogy between the
+relat ivist ic result s and the classical formulae.
+
+We then int roduce the concept of a quasi-st atic ® eld which immedi-
+ately allows us to generalize the known st atic solut ions by allowing adia-
+
+² O riginal t it le: ª L’ Un ivers en exp ansionº , A n n ale s de la Soci Âe t Âe Sci en ti® qu e de B r u x-
+e lles A 5 3 , 51 ( 1933) ; print ed wit h t he kind p erm ission of t he Soci Âet Âe Scient i® que
+de B ruxelles. Tran slat ed by M. A . H. MacC allum , School of Mat hem at ical Scien ces,
+Q ueen Mary and West ® eld College, Mile E nd Road, Lon don E 1 4NS , U.K.
+E -m ail: M.A .H.MacC allum @qmw.ac.u k
+
+6 4 1
+
+0001-7701/ 97/ 0500-0641$12.50/ 0
+
+1997 P lenum P ublishing Corporation
+
+6 4 2
+
+L e m a Ã
+
+õ t r e
+
+bat ic variat ions in them. We give a solut ion, probably new, for the case of
+a sphere with const ant radial pressure, and we use it to highlight Schwarz-
+schild’ s paradox and to prove that t he very severe lim itation on the radius
+of a given mass which is int roduced by the solut ion of the int erior problem
+vanishes when one does not imp ose on the matter the condit ion of being in
+the ¯ uid state.1 We describe put ting stress int o the Einst ein universe, as-
+sumed to be ¯ uid, so that the rest mass2 of the universe decreases wit hout
+changing the volume or dist urbing the equilibrium.
+
+In Section 6, we summarize and complet e the result s obt ained in our
+doct oral thesis (unpublished ), present ed in 1927 at the Massachuset ts In-
+st itute of Technology, which concern a modi® cation of the Schwarzschild
+int erior problem prop osed by Edddingt on.3
+
+Section 7 concerns the in¯ uence of the format ion of local condensa-
+tions on the breakdown of the equilibrium of an Einst ein universe: we
+recover our result (Mon thly Notices 9 1 , 490 (1931) ) that t he pressure at
+the neut ral zone is the determining factor in the breakdown, while elimi-
+nat ing the technical complicat ions which clut tered up our original proof.
+In Section 8 we study the evolut ion of spherical condensat ions in an
+expanding universe under t he hypot hesis t hat pressure is negligible, and
+rediscover as a part icular case the Friedmann universe.
+
+We then int egrat e the Friedmann equat ion by Weierst rass’ s ellipt ic
+funct ions in Section 9 and put the equat ions in a form adapt ed to num erical
+calculat ions.
+
+In Section 10, we int roduce the hypot hesis that clust ers of galaxies
+are in equilibrium . T his hypot hesis can be checked by observat ion, and
+108 solar masses as the average
+the result is favourable. One obt ains 7 £
+mass of the nebulae and 13 as the expansion coe(cid:141) cient of the universe.4
+We indicat e how this new hypot hesis can give cosmological signi® cance
+to the relat ive frequency of clust ers and isolat ed galaxies, and so remove the
+
+õ t re uses t he term `¯ uid’ t o m ean a ¯ uid w ith isotropic st resses ,
+
+1
+
+In t his pap er Lem aÃ
+i.e. a p erfect ¯ uid Ð
+
+Tran sl.
+
+2 In the original, `m asse propre’ .
+3 T his thesis was: Lem a Ã
+
+4 B y t his, Lem a Ã
+
+ª T he Grav it at ional Field in a Fluid
+Sphere of Un iform Invarian t Densit y, accord ing to t he T heory of Relat ivity.º P h. D.
+T hesis, Massach uset t s Inst it ut e of Techn ology Ð
+
+õ tre, Georges ( 1927) .
+
+Tran s l.
+
+õ tre m ean s t he rat io of t he current lengt h scale to t he lengt h scale
+of an E inst ein universe wit h t he sam e m ass. He refers t o t he lat t er universe as in
+`equilibrium ’ , an d it s lengt h scale as t he `rad ius of equ ilibrium ’ . He ap pears t o have
+in m ind throughout t he pap er t he m odels of t he universe which st art or en d in the
+E instein st at ic universe, or t he cases, now know n as Lem a Ã
+õ t re m odels, in which t here
+is a `coast ing’ phase close t o t his m odel, and he seem s alway s t o t ake the cosm ological
+const ant to be positive Ð
+
+Tran sl.
+
+T h e E x p a n d in g U n i v e r s e
+
+6 4 3
+
+uncert ainty which remains in the expansion law. We then calculat e, under
+various hypot heses, the expansion t ime and the radius of t he universe.
+
+T he hypot hesis of equilibrium of the nebulae seems to exclude the
+critical case for which the equilibrium radius would great ly exceed a billion
+light -years. We establish the result that in the critical case the dist ance
+at the moment of equilibrium of the most widely separat ed point s which
+can exchange light during expansion is still several billion light -years.
+
+In Section 11, we remove an apparent cont radict ion between Fried-
+mann’ s theory and the solut ion of Schwarzschild ’ s exterior problem . In the
+lat t er, a mass such as that of the universe cannot have a radius less than
+a billion light years. We show that t he singularity of the Schwarzschild
+ext erior is an apparent singularity due to the fact that one has imposed a
+st atic solut ion and that it can be eliminat ed by a change of coordinat es.5
+In Section 12, we discuss the possibility of the universe reaching the
+
+theoret ical zero of radius.
+
+With the help of an anisot ropic model of the universe suggest ed to
+us by Einst ein, we show that anisot ropy only precipit at es cont raction.
+Analysing the various forces which could stop cont raction of a universe
+whose radius is decreasing to zero, we arrive at the conclusion t hat only
+the non-Maxwellian forces which prevent the int erpenet ration of the fun-
+dament al part icles of matt er seem to be capable of put ting an end to the
+cont raction, when the radius of the universe is reduced to the size of the
+solar system.
+
+We thus conclude that the origin of the earth is lat er than such an
+event and this forces us to discard the solut ions where the radius of the
+universe is much smaller than the equilibrium radius and in part icular
+discard the quasi-p eriodic solut ions.
+
+1. CALCULATION OF THE RIEMANN TENSOR
+
+We t ake as our starting point the study of the gravit ational equat ions
+
+in t he very general case of a quadrat ic form
+
+ds 2 = a2
+
+1 dx2
+
+1 + a2
+
+2 dx 2
+
+2 + a2
+
+3 dx 2
+
+3 + a2
+
+4 dx 2
+
+4 = a2
+
+m dx2
+m ,
+
+(1.1)
+
+where a1 , a2 , a3 , and a4 are funct ions of four coordinat es, and we aim to
+write explicit ly the gravit ational equat ions
+
+kT u
+
+m + lgu
+
+m = ± R u
+
+m + 1
+
+2 gu
+
+m R ,
+
+(1.2)
+
+5 Here Lem a Ã
+
+nat es Ð
+
+Tran sl.
+
+õ t re is referring to t he app arent singularity at r = 2m in t he usual coord i-
+
+R m u = gm s R s
+
+u = ±
+
+± Ca
+
+m u Cb
+
+a b + Cb
+
+m a Ca
+
+ub .
+
+(1.3)
+
+¶ Ca
+m u
+¶ xa
+
++
+
+¶ Ca
+m a
+¶ xu
+
+T he calculat ions simplify considerably if one not ices t hat the am , which
+are not tensors under a general coordinat e transform at ion, are nevert heless
+covariant s of t he ® rst order for the special t ransformat ions of the form
+
+where c1 , c2 , c3 , and c4 are const ant s.
+
+For these special transform ations, t he expressions
+
+6 4 4
+
+where
+
+and
+
+are invariant s. We must thus exp ect t hat t he derivat ives only enter the
+expression for R i
+i ( without summation) through the ai k and ai k F , since R i
+i
+is invariant under the special transformat ions.
+
+In what follows, we suspend the usual summation convent ion for in-
+
+dices denot ed by Latin let ters.
+
+T he Christ oŒel symbols which are not ident ically zero are (i /= k)
+
+x9m = cm xm ,
+
+ai k =
+
+1
+
+ai ak
+
+¶ ai
+¶ xk
+
+ai kF =
+
+1
+
+ai ak aF
+
+¶ 2 ai
+¶ xk ¶ xF
+
+Ci
+
+i i =
+
+Ck
+
+i i = ±
+
+¶ ai
+¶ xi
+ai
+a2
+k
+¶ ak
+¶ xi
+
+1
+
+ai
+
+1
+ak
+
+¶ ai
+¶ xk
+
+= ai ai i
+
+= ±
+
+ai k
+
+a2
+i
+ak
+
+Ck
+
+i k =
+
+= ai ak i .
+
+L e m a Ã
+
+õ t r e
+
+(1.4)
+
+(1.5)
+
+(1.6)
+
+We calculat e ® rst of all the cont racted Riemann tensor R i i , m = u = i.
+In t he summations, we make explicit the summation index values equal to
+i, and those k, F diŒerent from i and from one anot her, and replace the
+Christ oŒel symbols by their values (1.6) .
+
+We thus obt ain
+
+R i
+
+i =
+
+1
+a2
+i
+
+¶ xk
+
+¶ ai
+¶ xk
+
+ai
+a2
+k
+
++
+
+1
+a2
+i
+
+¶ xi
+
+1
+ak
+
+¶ ak
+¶ xi
+
+± ai i ai i
+
+± ai i ak i + ai k ai k + ai k ak k + aiF akF
+
++ ai i ai i
+
+± 2ai k ai k + ak i ak i .
+
+¶
+¶
+T h e E x p a n d in g U n i v e r s e
+
+6 4 5
+
+Carrying out the diŒerentiat ions and subst ituting from ( 1.4) and (1.5)
+
+gives
+
+R i
+
+i = ai k k + ak i i
+
+(1.7)
+an expression t aken to be summed over k and F diŒerent from i and each
+other.
+
+± ai k ak k + ai F akF
+
+± ai i ak i
+
+T his expression can be written
+
+R i
+
+i =
+
+bi k
+
+k
+
+(1.8)
+
+where the bi k are taken t o be zero for i = k and for which the expressions
+for i /= k can, from (1.4) and (1.5) , be written
+
+bi k =
+
+1
+
+ai ak
+
+¶ xk
+
+1
+
+ak
+
+¶ ai
+¶ xk
+
++
+
+¶ xi
+
+1
+
+ai
+
+¶ ak
+¶ xi
+
++
+
+¶ ai
+¶ xF
+
+¶ ak
+¶ xF
+
+(1.9)
+
+the sum over F being taken over values diŒerent from i and k.
+
+T he complet ely cont racted scalar R is obt ained by making the further
+
+sum over i. It cont ains each bi k twice and we can write
+
+T he gravit ational equat ions ( 1.1) are thus written, for m = u = i,
+
+where the summation is taken without repetition (k < F ) and for values k
+and F diŒerent from i, i.e. explicit ly,
+
+1
+2 R =
+
+i < k bi k .
+
+kT i
+
+i + l =
+
+bk l
+
+kT 1
+kT 2
+kT 3
+kT 4
+
+1 + l = b2 3 + b24 + b3 4
+2 + l = b1 3 + b14 + b3 4
+3 + l = b1 2 + b14 + b2 4
+4 + l = b1 2 + b13 + b2 3 .
+
+(1.10)
+
+(1.11)
+
+(1.12)
+
+It remains for us t o calculat e the component s R i k for i /= k. Using
+
+the same method, we obt ain
+
+R i k
+ai ak
+
+=
+
+1
+
+ai ak
+
+1
+
+ai
+
+¶ ai
+¶ xk
+
+¶ xi
+1
+
+¶ ai
+¶ xi
+
+1
+
+ak
+
+¶ ak
+¶ xi
+
+¶ xk
+1
+
+¶ ak
+¶ xi
+
++
+
+¶ xk
+
+ai
+
++
+
+¶ xk
+
+ak
+
++
+
+¶ xk
+
+1
+aF
+
+¶ aF
+¶ xi
+
+± ai k ai i
+
+± ai k ak i
+
+± ai k aF i
+
+± ak i ak k ± ak i ai k ± ak i aF k
+
++ ai i ai k + ak k ak i + 2ai k ak i + aF i aF k
+
+¶
+¶
+F
+±
+¶
+±
+¶
+¶
+¶
+¶
+6 4 6
+
+L e m a Ã
+
+õ t r e
+
+that is, on carrying out the diŒerentiat ions and subst ituting from (1.4)
+and (1.5) ,
+
+R i k
+ai ak
+
+= aF i k ± aF i ai k ± aF k ak i
+
+or by (1.1)
+
+± kTi k =
+
+1
+aF
+
+¶ 2 aF
+¶ xi ¶ xk
+
+1
+
+ai
+
+¶ aF
+¶ xi
+
+¶ ai
+¶ xk
+
+1
+
+ak
+
+¶ aF
+¶ xk
+
+¶ ak
+¶ xi
+
+(1.13)
+
+the sum over F being taken for values diŒerent from i and k.
+
+2. SPHERICAL SYMMETRY
+
+By spherical symmetry, we mean the case where two of t he coordinat es
+
+x2 and x3 appear in the ds 2 only through the expression
+
+dx2
+
+2 + sin2 x2 dx 2
+
+3
+
+(2.1)
+
+or an equivalent expression.
+
+T he ds 2 is thus invariant under the transform ations of x2 and x3 which
+leave this expression invariant and which form the group of rotations of a
+unit sphere about it s centre.
+
+In this case a1 , a2 , and a4 are funct ions of x1 and x4 only, and
+
+All the derivat ives wit h respect to x3 are thus zero, as are the deriva-
+
+tives with respect to x2 , except for the ® rst derivat ives
+
+a3 = a2 sin x2 .
+
+¶ a3
+¶ x2
+
+= a2 cos x2 .
+
+For the second derivat ives one has in part icular
+
+1
+
+a3 a2
+
+¶ x2
+
+1
+a2
+
+¶ a3
+¶ x2
+
+= ±
+
+1
+a2
+2
+
+.
+
+T he equat ions (1.9) thus become
+
+b2 3 =
+
+± 1 +
+
+1
+a2
+2
+
+1
+a2
+1
+
+¶ a2
+¶ x1
+
+2
+
++
+
+1
+a2
+4
+
+1
+
+1
+
+b1 2 = b1 3 =
+
+a1 a2
+
+¶ x1
+
+b2 4 = b3 4 =
+
+a2 a4
+
+1
+
+b1 4 =
+
+a1 a4
+
+¶ x1
+
+¶ x4
+1
+a1
+
+¶ a4
+¶ x1
+
+¶ a2
+¶ x4
+1
+a2
+4
+1
+a2
+1
+1
+a4
+
++
+
++
+
+2
+
+¶ a1
+¶ x4
+¶ a4
+¶ x1
+¶ a1
+¶ x4
+
+1
+
+a1
+
+1
+a4
+
+¶ a2
+¶ x1
+¶ a2
+¶ x4
+
++
+
+¶ x4
+
+¶ a2
+¶ x4
+¶ a2
+¶ x1
+
+(2.2)
+
+(2.3)
+
+(2.4)
+
+(2.5)
+
+F
+±
+±
+¶
+¶
+¶
+¶
+¶
+6 4 7
+
+(2.6)
+
+T h e E x p a n d in g U n i v e r s e
+
+while ( 1.13) gives
+
+± kT1 4 =
+
+2
+a2
+2
+
+¶ 2 a2
+¶ x1 ¶ x4
+
+1
+
+a1
+
+¶ a2
+¶ x1
+
+¶ a1
+¶ x4
+
+1
+
+a4
+
+¶ a2
+¶ x4
+
+¶ a4
+¶ x1
+
+T12 = T1 3 = T2 3 = T24 = T34 = 0 .
+
+T he coordinat es x1 and x4 are so far chosen arbit rarily.
+When the matt er tensor is non-zero, there is a nat ural split int o space
+and time imposed by t he matter; one can in fact determine the worldlines
+such that if one chooses x1 const ant along those lines one has T14 = 0. T he
+curves of const ant x4 are then the orthogonal trajectories of the curves of
+const ant x1 .
+
+In what follows, we will st ick to the study of t he ® eld when the coor-
+
+dinat es have been thus chosen.
+
+It is import ant to not e t hat this way of working does not reduce the
+
+generality of the result s obt ained at all.
+
+In certain cases, the choice of coordinat es may be more or less inde-
+terminat e. It can also happen that the int roduct ion of these coordinat es
+produces analyt ical singularit ies which demand special study.
+
+For the coordinat es such that T14 = 0 it is convenient t o make use of
+
+the conservat ion theorem
+
+which gives t he two relat ions
+
+T u
+m ,u = 0
+
+1
+
+¶ T 1
+¶ x1
+¶ T 4
+¶ x4
+
+4
+
++
+
++
+
+2
+
+a2
+
+2
+a2
+
+¶ a2
+¶ x1
+¶ a2
+¶ x4
+
+T 1
+1 ± T 2
+
+2 +
+
+T 1
+1 ± T 4
+
+4
+
+= 0
+
+T 4
+4 ± T 2
+
+2 +
+
+T 4
+4 ± T 1
+
+1
+
+= 0,
+
+1
+
+a4
+
+1
+a1
+
+¶ a4
+¶ x1
+¶ a1
+¶ x4
+
+(2.7)
+
+(2.8)
+
+expressing the theorem of energy conservat ion and the balance equat ion
+(zero momentum).
+Elim inat ing T 2
+1 and T 4
+4 gives
+
+2 between these two equat ions and grouping the terms
+
+in T 1
+
+¶ a2
+¶ x4
+¶ a2
+¶ x1
+
+1
+
+¶ T 1
+¶ x1
+¶ T 4
+¶ x4
+
+4
+
++
+
++
+
+2
+
+a2
+
+2
+
+a2
+
+¶ a2
+¶ x1
+¶ a2
+¶ x1
+
+¶ a2
+¶ x4
+¶ a2
+¶ x4
+
+T 1
+1 +
+
+T 4
+4 +
+
+=
+
+1
+
+a4
+
+1
+
+a4
+
+¶ a2
+¶ x4
+¶ a2
+¶ x4
+
+¶ a4
+¶ x1
+¶ a4
+¶ x1
+
++
+
++
+
+1
+
+a1
+
+1
+
+a1
+
+¶ a2
+¶ x1
+¶ a2
+¶ x1
+
+¶ a1
+¶ x4
+¶ a1
+¶ x4
+
+T 1
+1
+
+T 4
+4
+
+±
+±
+6 4 8
+
+L e m a Ã
+
+õ t r e
+
+and using (2.6) with T1 4 = 0 and mult iplying by a2
+2 ,
+
+T 1
+1 a2
+
+2
+
+¶ a2
+¶ x4
+
+¶ x1
+
+=
+
+¶ x4
+
+T 4
+4 a2
+
+2
+
+¶ a2
+¶ x1
+
+.
+
+T his leads us to consider whether there exist s an expression F
+
+in the
+
+a and t heir derivat ives such that
+
+(2.9)
+
+(2.10)
+
+(2.11)
+
+T 1
+1 a2
+
+2
+
+T 4
+4 a2
+
+2
+
+¶ a2
+¶ x4
+¶ a2
+¶ x1
+
+=
+
+=
+
+¶ x4
+
+.
+
+¶ x1
+
+Because of the symmetry between the indices 1 and 4 which remains
+in our formulae, it is su(cid:141) cient to prove this for one of the two cases, for
+exam ple for (2.11) .
+
+We have, by (1.12) and (2.5) ,
+
+( kT 4
+
+4 + l)a2
+
+2
+
+= (b2 3 + 2b12 )a2
+2
+
+¶ a2
+¶ x1
+
+¶ a2
+¶ x1
+¶ a2
+¶ x1
+2 ¶ a2
+¶ x1
+
+= ±
+
+¶ a2
+¶ x1
+
++
+
+1
+a2
+4
+
++
+
+1
+a2
+1
+¶ a2
+¶ x4
+
+3
+
++
+
++
+
+2a2
+a1
+
+2a2
+a1 a2
+4
+
+¶ a2
+¶ x1
+¶ a2
+¶ x1
+
+¶ x1
+¶ a1
+¶ x4
+
+¶ a2
+¶ x1
+
+.
+
+1
+
+a1
+¶ a2
+¶ x4
+
+Taking int o account (2.6) (T1 4 = 0) , the last term can be written
+
+2a2
+a2
+4
+
+¶ 2 a2
+¶ x1¶ x4
+
+1
+a4
+
+¶ a2
+¶ x4
+
+¶ a4
+¶ x1
+
+¶ a2
+¶ x4
+
+=
+
+2a2
+a4
+
+¶ a2
+¶ x4
+
+¶ x1
+
+1
+a4
+
+¶ a2
+¶ x4
+
+= a2
+
+¶ x1
+
+1
+a2
+4
+
+¶ a2
+¶ x4
+
+2
+
+.
+
+So this gives
+
+(kT 4
+
+4 + l) a2
+
+2
+
+¶ a2
+¶ x1
+
+=
+
+¶ x1
+
+a2
+
+± 1 +
+
+1
+a2
+1
+
+¶ a2
+¶ x1
+
+2
+
++
+
+1
+a2
+4
+
+2
+
+¶ a2
+¶ x4
+
+which just i® es the relat ion (2.11) with
+
+F =
+
+a2
+k
+
+± 1 +
+
+1
+a2
+1
+
+¶ a2
+¶ x1
+
+2
+
++
+
+1
+a2
+4
+
+2
+
+¶ a2
+¶ x4
+
+la2
+2
+3
+
+.
+
+(2.12)
+
+¶
+¶
+¶
+F
+¶
+F
+¶
+±
+¶
+¶
+¶
+±
+T h e E x p a n d in g U n i v e r s e
+
+6 4 9
+
+3. SUMMA RY OF R ESULTS FOR SPHERICAL SYMMET RY
+
+Before discussing the equat ions we have just obt ained and showing
+their signi® cance and the analogies t hey provide wit h the formulae of clas-
+sical mechanics, we must go back through them using not ation better
+adapt ed to applicat ions.
+
+Let us consider a ds 2 of t he form
+
+ds 2 = ± a2 dx 2 ±
+
+r 2 ( dh 2 + sin2 h dw 2 ) + c2 dt2 .
+
+(3.1)
+
+± r 2 , and ± c2 are t he funct ions of x1 = x and x4 = t previously
+
+± a2 ,
+denot ed by a2
+
+1 , a2
+
+2 , and a2
+
+4 . We also write
+
+T 4
+
+4 = r,
+
+T 1
+
+1 = ± p,
+
+T 2
+2 = T 3
+
+3 = ± t.
+
+(3.2)
+
+Einst ein’ s const ant is
+
+k =
+
+8pK
+c2
+0
+
+where K is the gravit ational const ant and c0 the speed of light . In place
+of F we int roduce a funct ion m = ± 4piF
+
+.
+
+T he equat ions (2.10) and (2.11) are written in this manner
+
+4prr 2 ¶ r
+¶ x
+4ppr 2 ¶ r
+¶ t
+
+=
+
+¶ m
+¶ x
+
+= ±
+
+¶ m
+¶ t
+
+.
+
+(3.3)
+
+(3.4)
+
+T he ® rst of t hese is the classical equat ion between dist ance, density
+
+and mass.
+
+T he equat ion (2.12) can be written
+
+c2
+0
+c2
+
+2
+
+¶ r
+¶ t
+
+= ± c2
+
+0 1 ±
+
+1
+a2
+
+2
+
+¶ r
+¶ x
+
++
+
+2K m
+
+r
+
++
+
+lc2
+0
+3
+
+r 2 .
+
+(3.5)
+
+It is analogous to the classical equat ion for energy under the action
+of various forces, among which one recognizes the Newtonian gravit ational
+force.
+
+T he equat ion (2.6) (T1 4 = 0) can be written
+
+1
+
+a
+
+¶ r
+¶ x
+
+=
+
+1
+
+ac
+
+¶ r
+¶ t
+
+¶ c
+¶ x
+
+.
+
+¶ t
+
+(3.6)
+
+¶
+6 5 0
+
+L e m a Ã
+
+õ t r e
+
+DiŒerentiat ing (3.5) and taking int o account (3.4) and (3.6) one ob-
+
+tains, after removing a factor 2¶ r / ¶ t,
+
+c0
+c
+
+¶ t
+
+c0
+c
+
+¶ r
+¶ t
+
+=
+
+c2
+0
+ca2
+
+¶ r
+¶ x
+
+¶ c
+¶ x
+
+± 4pK pr ±
+
+K m
+r 2 +
+
+lc2
+0
+3
+
+r.
+
+(3.7)
+
+T his equat ion is part icularly useful when ¶ r / ¶ t vanishes,
+
+in which
+case the equat ion (3.4) becomes empty. It is easy to show direct ly that
+(3.7) still applies in this case.
+
+Finally, the conservat ion theorems ( 2.7) , (2.8) are writ ten
+
+¶ p
+¶ x
+¶ r
+¶ t
+
++
+
++
+
+2
+r
+2
+r
+
+¶ r
+¶ x
+¶ r
+¶ t
+
+(p ±
+
+t ) +
+
+( p + r) = 0,
+
+(p + t ) +
+
+( p + r) = 0 .
+
+1
+c
+1
+a
+
+¶ c
+¶ x
+¶ a
+¶ t
+
+(3.8)
+
+(3.9)
+
+In this form, t he equat ions become remarkably int uit ive. T he coor-
+dinat e x is attached to the mat ter and plays the role of init ial values of
+coordinat es in classical hydrodynam ics.
+r is analogous to t he dist ance
+variable from the origin; in fact, r is the dist ance that can be evaluat ed
+st arting from t he norm al measures of a radius vector. Equat ions (3.5) and
+(3.7) are therefore the equat ions of motion of the matter, m corresponding
+to the mass within a moving material sphere of radius x .
+
+T he equat ion (3.8) is analogous to the balance equat ion, (1/ c)(¶ c/ ¶ x )
+playing the role of the gravit ational force remaining aft er the removal of
+the eŒect of the moving frame.6
+
+4. QUASI-STAT IC FIELDS
+
+Let us consider the case where
+
+where the matter therefore is in equilibrium . We then have, by (3.6) ,
+
+¶ r
+¶ t
+
+¶ a
+¶ t
+
+0,
+
+0,
+
+6 T he Fren ch `r Âeact ion d’ ent rain em ent ’ refers to t he `® ct it ious forces’
+
+in a non-inertial
+
+fram e Ð
+
+Tran sl.
+
+¶
+º
+º
+T h e E x p a n d in g U n i v e r s e
+
+6 5 1
+
+and, by (3.4) ,
+
+and thus by (3.3) or (3.9)
+
+¶ m
+¶ t
+
+¶ r
+¶ t
+
+0,
+
+0 .
+
+However c is not necessarily time-indep endent . It is for this reason
+that we give this case the nam e quasi-st atic, in cont rast to the static ® elds
+where c is time-indep endent or can be made independent of t ime by a
+change of variables.
+
+One has, by (3.5) ,
+
+(4.1)
+
+(4.2)
+
+(4.3)
+
+a2 dx 2 =
+
+dr 2
+(2K m / c2
+0 r ) ±
+
+1 ±
+
+( l/ 3)r 2 ,
+
+with, by (3.3) ,
+
+Equat ion (3.7) becomes
+
+4prr 2 =
+
+dm
+dr
+
+,
+
+4pK
+c2
+0
+
+p +
+
+K m
+0 r 3 ±
+c2
+
+l
+
+3
+
+= 1 ±
+
+2K m
+c2
+0 r
+
+l
+
+3
+
+r 2
+
+1
+
+cr
+
+¶ c
+¶ r
+
+,
+
+while ( 3.8) is written as
+
+¶ p
+¶ r
+
+2
+
+r
+
+1
+
+c
+
+¶ c
+¶ r
+
++
+
+(p ±
+
+t ) +
+
+(p + r) = 0 .
+
+(4.4)
+
+Naturally these equat ions concern only the mechanical part of the
+problem which can only be determined when we have some informat ion
+on the nat ure of t he matter with which we are dealing. We have available
+4 equat ions between 6 variables a, r, p, t , m and c ; we require two
+supplement ary condit ions. For example we could consider a ¯ uid
+
+p = t
+
+with a given dist ribut ion of matter r as a funct ion of r .
+
+º
+º
+±
+6 5 2
+
+L e m a Ã
+
+õ t r e
+
+5. UNIFORM ENERGY DENSITY
+
+Let us consider in part icular the case where r is independent not only
+of t but also of x . One can then, by a change of variable, make a const ant ,
+and choose t he value of t hat const ant . We t ake
+
+and obt ain, by (4.1) and (3.3) ,
+
+1
+a2 =
+
+8pK
+3c2
+0
+
+r +
+
+l
+3
+
+r = a sin x
+
+and (4.3) becomes
+
+4pK
+c2
+0
+
+p +
+
+1
+2a2 ±
+
+l
+
+2
+
+=
+
+cot x
+a2 c
+
+¶ c
+¶ x
+
+.
+
+For a ¯ uid, (4.4) becomes
+
+whence, since r is const ant ,
+
+¶ p
+¶ x
+
++
+
+1
+
+c
+
+¶ c
+¶ x
+
+(p + r) = 0,
+
+4pK
+c2
+0
+
+(p + r) =
+
+f 1 (t)
+ca2
+
+.
+
+(5.1)
+
+(5.2)
+
+(5.3)
+
+(5.4)
+
+Subst ituting int o (5.3) , taking int o account (5.1) , and int egrat ing,
+
+c = f 1 (t) ±
+
+f 2 (t) cos x.
+
+(5.5)
+
+We thus obt ain
+
+ds 2 = ± a2 [dx 2 + sin2 x ( dh 2 + sin2
+
+h dw 2 ) ] + [f 1 (t) ±
+
+f 2 (t) cos x ]2 dt2 (5.6)
+
+gives
+
+with
+
+3kp =
+
+3krf 2 (t) cos x ±
+
+(kr ± 2l)f 1 (t)
+
+f 1 (t) ±
+
+f 2 (t) cos x
+
+.
+
+(5.7)
+
+T he pressure can be zero at
+
+cos x 1 =
+
+(kr ± 2l)f 1 (t)
+
+3krf 2 ( t)
+
+(5.8)
+
+T h e E x p a n d in g U n i v e r s e
+
+and in® nit e at
+
+cos x 0 =
+
+f 1 (t)
+f 2 (t)
+
+.
+
+6 5 3
+
+(5.9)
+
+When the funct ions f 1 (t) and f 2 (t), or at least their ratio, are reduced
+
+to a const ant , one recovers Schwarzschild’ s known result s.
+
+For f 2 (t) = 0 and kr = 2l, we obt ain the Einst ein universe.
+
+If
+we make f 2 (t) vary, we obt ain a progressive loading of t he universe, the
+pressure varying according to t he law
+
+p =
+
+rf 2 (t) cos x
+
+f 1 (t) ±
+
+f 2 (t) cos x
+
+.
+
+(5.10)
+
+One can imagine t his pressure to be exert ed at the origin x = 0, and
+dist ribut ing itself throughout the incom pressible ¯ uid while maint aining
+the equilibrium. The pressure decreases outwards from t he centre, and
+vanishes at the polar plane of the centre, x = p/ 2.
+
+T hings happen diŒerent ly for an Einst ein universe of the simple ellipt ic
+form or for a universe wit h dist inct ant ipodal point s. In t he lat ter case, x
+varies from 0 to p and the pressure is diŒerent in the two part s separat ed
+by the plane x = p/ 2; it is negat ive in the other half of the space, and
+diŒerent in absolut e value at corresponding point s.
+
+T hese result s are nat urally without direct int erest in the study of the
+real universe, which can never be compared with an incom pressible ¯ uid.
+T hey have however the int erest of showing how t he universe could stay in
+equilibrium even though its rest mass varies.
+
+T his itself is easily calculat ed; one has
+
+M (x ) =
+
+4pa3 (r ± 3p) sin2 x dx ,
+
+x
+
+0
+
+where p is given by (5.10) .
+
+Setting
+
+one ® nds
+
+sin b =
+
+f 2 (t)
+f 1 (t)
+
+,
+
+M (x ) = 4pa3 r
+
+2 ±
+
+x ±
+
+sin 2x ±
+
+3
+
+sin2 b
+
+3 sin x
+sin b
+
++ 6
+
+arc tg tg
+
+tg
+
++
+
+x
+
+2
+
+p
+
+4
+
+b
+2
+
+cos b
+sin2 b
+
+6 5 4
+
+L e m a Ã
+
+õ t r e
+
+and for the rest mass of the universe with dist inct ant ip odal point s
+
+M ( p) = 2p 2 a3 r 1 ± 3 tg2 b
+2
+
+.
+
+For f 1 = 0 and r = 0 we obt ain t he de Sit ter universe.
+A consequence of t he Schwarzschild int erior solut ion is that it appears
+to impose, for the minimum radius of a sphere of given mass, a more severe
+lim it than that imposed by t he exterior solut ion.
+
+T his limit is obt ained for
+
+in which case the pressure is in® nit e at the centre.
+
+One has then (for l = 0) by (5.8)
+
+f 1 (t) = f 2 (t),
+
+cos x 1 = 1
+3 ,
+
+whence, for the corresp onding radius,
+
+r = a sin x 1 = a
+
+8/ 9 ,
+
+while t he exterior problem allows a radius of what ever mult iple of a one
+likes.
+
+T his limit ation holds only because one has supp osed t he matter to be
+
+a ¯ uid.
+
+Let us consider, in fact, matter maint aining itself like an arch under
+the action of transversal forces. T he radial pressure p can be zero or more
+generally const ant .
+
+In this case, the equat ion (5.8) can still be int egrat ed and gives
+
+c = f 3 (t)[cos x ]- ( 1/ 2 ) ( 1- l a 2 + k p a 2 ) ,
+
+while t he balance equat ion (3.8) gives
+
+t ± p =
+
+(p + r)
+
+tg x
+
+2c
+
+¶ c
+¶ x
+
+,
+
+that is
+
+t ± p =
+
+( r + p)(1 ± la2 + kpa 2 ).
+
+t g2 x
+
+4
+
+T h e E x p a n d in g U n i v e r s e
+
+6 5 5
+
+In part icular for p = 0 and l = 0, one has
+
+ds 2 = ± a2 [dx 2 + sin2 x (dh2 + sin2
+
+h dw 2 ) ] + f 2
+
+3 (t)
+
+(5.11)
+
+dt2
+cos x
+
+with
+
+t =
+
+tg2 x
+
+and
+
+kr =
+
+r
+4
+
+3
+
+a2 .
+
+(5.12)
+
+One can thus const ruct a sphere supp orting itself by transversal ten-
+
+sions and ®
+
+lling space as complet ely as one wishes.
+
+T he lower limit of radius for a given mass is thus determined by the
+ext erior ® eld and not by t he solut ion of the int erior problem , if one does
+not impose the condit ion that the matter is ¯ uid. T he two solut ions can
+be combined. One can imagine a liquid, water for exam ple, part of which
+is frozen and forms concent ric spheres of ice which are self-supp orting,
+independently of one anot her, by normal tensions. T hese spheres are then
+adiabat ically melted starting from the centre, giving the Schwarzschild
+¯ uid. T he Schwarzschild solut ion can at each inst ant be relat ed to the
+solut ion p = 0 by choosing suit ably the values of the funct ions f 1 (t),
+f 2 (t), f 3 (t). One can thus progressively increase the radius of the melted
+region unt il the central pressure becomes in® nit e and the Schwarzschild
+problem has no solut ion. T his shows clearly the really paradoxical nat ure
+of Schwarzschild ’ s result .
+
+6. EDDINGTON’S PROB LEM
+
+Eddingt on has suggest ed that one could more nat urally consider for
+the problem of the homogeneous ¯ uid sphere t he case where the density
+of rest mass
+
+d = T = T 4
+
+4 + 3T 1
+
+1 = r ± 3p,
+
+(6.1)
+
+and not r, is considered const ant .
+
+T he equat ions of the problem are, eliminat ing c between (4.3) and
+
+(4.4) ,
+
+4pK
+c2
+0
+
+p +
+
+K m
+0 r 3 ±
+c2
+
+l
+
+3
+
+= ±
+
+1 ±
+
+2K m
+c2
+0 r
+
+l
+
+3
+
+r 2
+
+1
+
+d + 4p
+
+¶ p
+r¶ r
+
+(6.2)
+
+4p(d + 3p)r 2 =
+
+dm
+
+dr
+
+where the two unknown funct ions are p and m .
+
+±
+It is convenient t o use, in place of m , the average pressure q de® ned
+
+L e m a Ã
+
+õ t r e
+
+6 5 6
+
+by
+
+One then has
+
+If we put
+
+the equat ions become
+
+q =
+
+3
+r 3
+
+r
+
+0
+
+pr 2 dr.
+
+m =
+
+4pr 3
+
+3
+
+(d + 3q).
+
+kp ± l
+
+kq ± l
+
+=
+
+x
+
+y
+
+=
+
+kd + 4l
+
+12
+
+=
+
+u
+r 2 ,
+
+dx
+
+du
+
++
+
+(x + y + 4)( x + 3)
+
+1 ±
+
+(y + 4)u
+
+dy
+du
+
++
+
+3(y ± x)
+
+2u
+
+= 0
+
+= 0 .
+
+T he solut ions x = y = ± 2, and x = y = ± 3 correspond respectively
+
+to the Einst ein and de Sit ter universes.
+
+It is equally easy to study the behaviour of x and y for large values
+of these variables. One can t hen neglect t he num erical terms added to x
+or y.
+
+Setting
+
+one can eliminat e u and ® nd
+
+x =
+
+X
+
+u
+
+,
+
+y =
+
+Y
+
+u
+
+d Y
+
+dX
+
+=
+
+3X ± Y
+
+1 ± Y
+
+1 ± X ± 2Y
+
+2X
+
+.
+
+T he solut ion of this equat ion correspondin g to ® nit e init ial values of
+x and y is the part icular solut ion passing t hrough t he origin.
+It is easy
+to discuss the behaviour of this solut ion and show that , st arting from the
+origin at an angle of 45±, it winds round in an ant iclockwise 7 spiral and
+tends asym ptotically to the point
+
+X = 1
+7 ,
+
+7 .
+Y = 3
+
+7 In the original, `sen s direct ’ .
+
+(6.3)
+
+(6.4)
+
+(6.5)
+
+(6.6)
+
+(6.7)
+
+T h e E x p a n d in g U n i v e r s e
+
+6 5 7
+
+From this it follows that X passes successively through a maximum
+X 1 , a minimum X 2 , etc., and that the curves of x are successively t angent
+to hyperb olae
+
+x =
+
+X k
+u
+
+.
+
+When one varies the init ial values, the point s of cont act are displaced
+
+and the hyperbolae form so many envelop es of the curves of x.
+
+One may expect t hat these general charact eristics survive in the form
+
+of the solut ions even when x and y are no longer small.
+
+In fact,
+
+it follows from the num erical calculat ions which were the
+sub ject of an unpublished thesis, present ed in 1927 to the Massachuset ts
+Inst itute of Technology, that the ® rst envelop e can be represent ed up to
+values of x close to ± 2 by the formula
+
+x =
+
+0.220
+
+u
+
+± 2.65
+
+while t he asym ptot ic lim it can be expanded in a series
+
+x =
+
+± 2.8571 + 0.168u + 0.22u 2 + . . .
+
+1
+7u
+
+From t his it follows that when one increases the cent ral pressure, the
+radius (p = 0) at ® rst increases, passes through a maximum on the ® rst
+envelope, then decreases to the second envelope, then increases again and
+tends in an oscillat ory manner t o a lim it point on t he lim it of the envelopes.
+
+For l = 0, the ® rst maximum takes place at
+
+and the lim it ing point is at
+
+u = 0.083
+
+u = 0.05.
+
+One can easily enough give an account of the mechanism of this ap-
+
+parent ly paradoxical result .
+
+When t he central pressure increases, one nat urally t ends to increase
+the radius, but at the same time one increases the energy cont ent of the
+matt er
+
+r = d + 3p.
+
+T he gravit ational eŒect of this energy event ually compensat es the eŒect of
+the pressure and the two in¯ uences take turns to prevail.
+
+In other words, under Eddingt on’ s hypot hesis there is no longer any
+quest ion of adiabat ic variat ions; one cannot increase the pressure wit hout
+
+6 5 8
+
+L e m a Ã
+
+õ t r e
+
+adding energy to the exterior and the gravit ational eŒect of this addit ional
+energy event ually dominat es.
+
+For cert ain radii, there exist several equilibrium con® gurat ions; it is
+not clear whether these con® gurat ions are unst able, except for that of
+minimum energy.
+
+7. INSTA BILITY OF THE EINSTEIN UNIVER SE
+
+Having studied t he quasi-st atic spherical ® elds, we int end to exam ine
+how the breakdown of equilibrium of a quasi-st at ic ® eld can be produced
+and in part icular the breakdown of the equilibrium of the Einst ein universe.
+We imagine that by a process which we try to keep as general as
+possible one modi® es either the equat ion of state of t he mat ter or its dis-
+tribut ion. We supp ose that at the moment of the breakdown of equilibrium
+one has still
+
+= 0
+
+¶ r
+¶ t
+
+¶ m
+¶ t
+
+¶ a
+¶ t
+
+=
+
+=
+
+= 0
+
+¶ r
+¶ t
+
+(7.1)
+
+(7.2)
+
+and consequent ly
+
+as for t he quasi-st atic ® elds; but these relat ions are no longer maint ained
+as ident ities. We go back to (3.7) for the accelerat ion, and, taking account
+of the relat ions (7.1) and (7.2) , we see t hat the breakdown of equilibrium
+can only come about through a modi® cation of p or ¶ c/ ¶ x.
+
+We have seen above exam ples of such modi® cations, but then these
+
+modi® cat ions were adjust ed so as not to upset the equilibrium .
+
+It is clear that if p and ¶ c/ ¶ x do not change, it is impossible to break
+equilibrium , and that is true even if p and ¶ c/ ¶ x change at point s other
+than the one under considerat ion. If one sets the int erior region in motion,
+for exam ple, taking care to preserve t he spherical symmetry, that will have
+no eŒect on the ext erior region, since the pressure and the force of gravity
+¶ c/ ¶ x would not be modi® ed there.
+
+T he condit ion
+
+¶ c
+¶ x
+
+= 0
+
+can still be considered as the condit ion that the worldlines with const ant
+x de® ned by t he matt er are geodesics.
+
+To study the breakdown of t he equilibrium of the Einst ein universe
+due to the eŒect of the format ion of local condensat ions dist ribut ed uni-
+formly in space, we imagine a large number of centres of condensat ion
+
+T h e E x p a n d in g U n i v e r s e
+
+6 5 9
+
+dist ribut ed more or less uniform ly. There is no way to suppose them dis-
+tribut ed in a perfectly homogeneous manner for, in an ellipt ic space, there
+lling spheres 8 of Eu-
+is no equivalent of the cubic lat tices or the space-®
+clidean space. But stat istically the dist ribut ion can be assum ed uniform.
+T he condensat ion process is supp osed to develop in a similar manner
+around each centre of condensat ion, and t here nat urally exist s a network
+of surfaces, forming cells around the cent res of condensat ion, which are
+the loci of point s which are no more under the in¯ uence of one of the two
+condensat ions which they separat e than the other. T hese cells form the
+neut ral zone between the gravit at ional ® elds of the condensat ions.
+
+By virt ue of the global hom ogeneity which we have assumed,
+
+it is
+clear that all the cells behave in the same way; they are all in equilibrium,
+or they dilat e or cont ract toget her. It thus su(cid:141) ces to consider just one of
+them in order to work out the equilibrium or motion of the whole universe.
+Fixing our attention on one cell, the neut ral zone of a part icular con-
+densat ion, we suppose that that condensat ion enjoys spherical symmetry,
+and that we can take account of the in¯ uence of neighbouring conden-
+sations by replacing them with a spherically symmetric dist ribut ion of
+matt er. T he neut ral zone is then a sphere.
+
+T he point s of this sphere enjoy t he prop erty that their worldlines are
+geodesics, or that the force of gravity st ill vanishes there, since neit her the
+int ernal condensat ion nor the neighbouring condensat ions have a prepon-
+derant in¯ uence t here. One must thus have at the neut ral zone
+
+¶ c
+¶ x
+
+= 0,
+
+and consequent ly the equilibrium can only be broken if t he modi® cations
+int roduced int o the state of the matter have made p, the radial pressure
+at the neut ral zone, vary.
+
+T hus if we want to compare a universe which is globally hom ogeneous
+but cont ains a large number of uniformly dist ribut ed condensat ions wit h
+the perfectly hom ogeneous Einst ein universe, we have t o consider the net-
+work of cells formed by the neut ral zones separat ing the condensat ions.
+T he homogeneous universe must, so to say, be tangent at those point s to
+the universe present ing the condensat ions, and the pressure normal to the
+neut ral zones must be t he pressure adopt ed for the hom ogeneous universe.
+T hen the equilibrium , or the expansion, of the hom ogeneous universe gives
+us the equilibrium or expansion of the network of neut ral zones.
+
+8 In the original, `piles de b oulet s’
+
+6 6 0
+
+L e m a Ã
+
+õ t r e
+
+T he two universes can have diŒerent masses or diŒerent volum es. One
+can conclude not hing from that , t he determining factor being the pressure
+at the neut ral zone.
+
+T he int erest of this result is that it is complet ely independent of the
+part icular process which the development of the condensat ions follows
+from.
+It provides t he means, for any part icular process, to foresee the
+eŒect of that process on the equilibrium of the universe.
+
+In part icular if the pressure is zero and remains zero in the neut ral
+zones, the condensat ions do not aŒect the equilibrium. T he radial pres-
+sure at the neut ral zone is the energy density crossing t hat zone, and thus
+measures the int ensity of the exchanges between condensat ions. We have
+called a reduct ion of such exchanges of energy a `stagnat ion of the uni-
+verse’ . Only this process of stagnat ion can determine the breakdown of
+the equilibrium in the sense of expansion.
+
+8. CONDENSATIONS IN THE EX PA NDING UNIVER SE
+
+In applicat ions to the real universe the pressure is generally negligible
+compared with the density.
+In the case of equilibrium we have had to
+take it int o account , because the study of a breakdown of equilibrium
+nat urally depends on minim al forces, but for the study of the expansion
+of the universe and the developm ent of condensat ions in the course of the
+expansion, we can neglect it.
+
+In t his case, the equat ion (3.4) tells us t hat m is a funct ion only of x ,
+
+and equat ion (3.8) , for p = t = 0, that c is a funct ion of t alone.
+
+By means of a change of variable, we can thus assum e c const ant and
+
+put
+
+We then have, by (3.6)
+
+c = c0 .
+
+1
+
+a
+
+¶ r
+¶ x
+
+= f (x ),
+
+and (3.1) becomes
+
+ds 2 = ±
+
+¶ r
+¶ x
+
+2
+
+dx 2
+f 2 ( x )
+
+r 2 (dh2 + sin2 h dw 2 ) + c2 dt2
+
+(8.1)
+
+where r is a funct ion of x and of t satisfying (3.5) .
+
+2
+
+¶ r
+¶ t
+
+= ± c2 [1 ±
+
+f 2 (x ) ] +
+
+2K m
+
+r
+
++
+
+lc2
+3
+
+r 2
+
+(8.2)
+
+±
+T h e E x p a n d in g U n i v e r s e
+
+where by (3.3)
+
+Finally, equat ion (3.7) becomes
+
+4prr 2 ¶ r
+¶ x
+
+=
+
+dm
+dx
+
+.
+
+¶ 2 r
+¶ t2 = ±
+
+K m
+r 2 +
+
+lc2
+3
+
+r.
+
+T he element of lengt h at an inst ant t is, from (8.1) ,
+
+ds2 =
+
++ r 2 (dh2 + sin2
+
+h dw 2 ).
+
+dr 2
+f 2 ( x )
+
+6 6 1
+
+(8.3)
+
+(8.4)
+
+When f (x ) = 1, the geom etry is thus Euclidean. T he equat ions then
+diŒer from the equat ions of classical mechanics only by t he int roduct ion of
+a cosmic repulsion and, in addit ion, by the fact that the const ant energy in
+(8.2) , which, from the classical point of view, can have an arbit rary value,
+is now zero.
+
+In the general case, one still can consider r as the dist ance from the
+origin, and the energy const ant at each material point , t hat is to say, at
+each value of x , can be chosen arbit rarily. But the geom etry is t hen not
+Euclidean. One can make a map of it in a Euclidean space where the
+lengt hs normal to the radius vector are represent ed at their real size. T he
+lengt hs along the radial vector are then represent ed at a scale
+
+dr
+
+ds
+
+= f (x ).
+
+T he radial lengt h scale depends only on x , that is to say it stays the
+same for each material point throughout its motion, and it is linked to
+the energy const ant in t he equat ion of motion of that point from equat ion
+(8.2) .
+
+T he coordinat e x can nat urally be chosen arbit rarily. W hen f (x ) is
+less than or equal to one, one could choose the coordinat e x in such a way
+that
+
+f (x ) = cos x.
+
+T hen ( 8.2) is written more simply,
+
+2
+
+¶ r
+¶ t
+
+= ± c2 sin2 x +
+
+2K m
+
+r
+
++
+
+lc2
+3
+
+r 2 .
+
+(8.21)
+
+6 6 2
+
+L e m a Ã
+
+õ t r e
+
+T his coordinat e choice is convenient when the space is closed. For
+a space of the simple ellipt ic type, the whole space is described when x
+varies from 0 to p/ 2.
+
+It is import ant to not e that m is not the real mass within a sphere x ,
+but rather t he mass calculat ed starting from the density without t aking
+the curvat ure of the space int o account . T he real mass is
+
+(8.5)
+
+(8.6)
+
+(8.7)
+
+(8.9)
+
+M (x ) =
+
+x
+
+0
+
+dm
+cos x
+
+m =
+
+M sin3 x
+
+4
+3p
+
+r = R (t) sin x
+
+and, just like m , it is independe nt of time.
+
+In the part icular case where m is proport ional to sin3 x , we have
+
+where M = M (p/ 2) is the total mass of t he (simply ellipt ic) universe.
+
+In this case, one can write
+
+and one obt ains the Friedmann universe
+
+ds 2 = ± R 2 [dx 2 + sin2 x ( dh 2 + sin2 h dw 2 )] + c2 dt2 ,
+
+(8.8)
+
+with
+
+2
+
+dR
+
+dt
+
+= ± c2 +
+
+8K M
+
+3pR
+
++
+
+lc2
+3
+
+R 2 .
+
+Using the same method as in Section 7, we can st udy the development
+of a condensat ion in the expanding universe. We assume this condensat ion
+is spherically symmetric, and we replace t he exterior condensat ions by an
+averaged density. T his comes back to assuming that m is proport ional to
+sin3 x out side the condensat ion, but it follows anot her law in the central
+region.
+
+For the universe in the large, the trajectories of concent ric material
+shells are homot hetic (8.7) . In the central region on the ot her hand, they
+could equally well approach or move away from each ot her, so marking the
+progress or attenuat ion of the condensat ion.
+
+It may also happen that t he traject ories corresponding t o diŒerent
+values of x come to cut one anot her. In this case our solut ion becomes
+inadm issible, for x is a coordinat e and thus cannot have two values at
+the same point . P hysically this means that the hypot hesis that we have
+
+T h e E x p a n d in g U n i v e r s e
+
+6 6 3
+
+int roduced that the pressure is zero becomes inadm issible from a certain
+value of x.
+
+In part icular, if the trajectories fall back to the cent re, it will not be
+permissible to treat the problem without int roducing pressure. Our aim is
+simply to study the tendency of condensat ions to develop, rather t han to
+follow their ® nal arrangem ent for which we can obviously no longer suppose
+c ( the remaining gravit ational potential) t o be const ant , nor neglect the
+rotational eŒects excluded by our hypot hesis of spherical symmetry.
+
+It is well known that Friedm ann’ s equat ions adm it the following types
+
+, when the root s of the right hand side
+
+of solut ions:
+1. unlim it ed expansion from 0 to ¥
+of (8.21) are imaginary:
+2. t he bounded case with coincident posit ive root s, r varying from zero to
+the equilibrium radius, or from that equilibrium dist ance to in® nity;
+3. the case of real root s:
+(a) a branch bouncing from a minimum to in® nity, with as a lim iting case
+the de Sit ter solut ion;
+(b) a quasi-period ic branch from zero to a maximum .
+
+T hese diŒerent event ualit ies arise according to whether
+
+3K mÖ l
+
+c2 sin3 x
+
+is great er than, equal to, or less than one.
+
+If, for exam ple, m is prop ortional to sin4 x , the central region will be
+of the quasi-period ic type ® nally falling back int o t he centre, while the
+ext erior region will be of the unlim it ed expansion type. Such a model thus
+allows us, sub ject to the remarks made above, to study the format ion of
+condensat ions in a universe of the unlim ited expansion type.
+
+It is tempting to apply this model to the formation of the nebulae.
+It seems however preferable to await a further developm ent of the the-
+ory which will free us from the hypot hesis of spherical symmetry which
+is manifest ly not realised by the spiral nebulae. T his development goes
+out side the scop e of this article which considers only exact solut ions of the
+gravit ational equat ions.
+
+In the following sect ion, we expand the Friedm ann solut ion in terms of
+the Weierst rass ellipt ic funct ions. T he problem is the same for the universe
+with condensat ions and for the hom ogeneous universe. We consider the
+® rst case, and the passage t o t he hom ogeneous universe is made by the
+equat ions (8.6) and (8.7) , or more simply by put ting x = p/ 2, r = R ,
+m = (4M/ 3p).
+
+6 6 4
+
+L e m a Ã
+
+õ t r e
+
+(8.10)
+
+In the case of the homogeneous universe, there is a quant ity
+
+U =
+
+c dt
+
+R
+
+which has part icular imp ortance:
+it is the angular dist ance travelled by
+light . It can serve as a measure of time. Its meaning is not so immediat e
+for the universe with condensat ions.
+
+9. INTEGR ATION OF THE FR IEDMANN EQUATION BY THE
+
+W EIER STRASS ELLIPTIC FUNCTIONS
+
+Equat ion (8.21) can be written, when we consider only variat ion wit h
+
+(r + 2r 0 ) [r ±
+
+r 0 (1 ± g) ] [r ±
+
+r 0 (1 + g) ]
+
+(9.1)
+
+t,
+
+where
+
+dr
+dt
+
+2
+
+=
+
+A 2
+r
+
+A 2 =
+
+lc2
+3
+
+A 2 r 2
+
+0 (3 + g2 ) = c2 sin 2 x
+
+A 2 r 3
+
+0 (1 ± g2 ) = K m .
+
+Introducing a Weierstrass funct ion Ã
+
+(u ) having root s
+
+e1 = 6 ± 2g2 ,
+
+e2 = ± 3 + 6g + g2 ,
+
+e 3 = ± 3 ± 6g + g2 ,
+
+(9.3)
+
+and put ting
+
+eq. (9.1) becomes
+
+(u ) = 3 + g2 ± 6(1 ± g2 )
+
+(9.4)
+
+r 0
+r
+
+,
+
+432( 1 ± g2 ) 2
+
+= ± A 2 [Ã
+
+(u ) ± 3 ± g2 ]2.
+
+(9.5)
+
+2
+
+du
+dt
+
+Consider a value v such that
+
+(v ) = 3 + g2 ,
+
+whence
+
+[Ã
+
+9 ( v ) ]2 = ± 432( 1 ± g2 ) 2.
+
+(9.2)
+
+(9.6)
+
+(9.7)
+
+Ã
+Ã
+T h e E x p a n d in g U n i v e r s e
+
+6 6 5
+
+T his gives
+
+whence, on int egrat ing,
+
+± A
+
+dt
+
+du
+
+=
+
+9 (v )
+
+(u ) ±
+
+(v )
+
+= 2f(v ) ± f(u + v ) + f(u ±
+
+v ),
+
+(9.8)
+
+± At = C + 2u f(v ) + log
+
+s(u ± v )
+s(u + v )
+
+.
+
+(9.9)
+
+Equat ions (9.4) and (9.9) provide a param etric represent ation of the
+
+motion.
+
+formulae:
+
+T he variable u is prop ortional to t he quant ity U int roduced at the
+
+end of the preceding sect ion; one has in fact
+
+U 2 = ± 12( 3 + g2 )u 2.
+
+(9.91 )
+
+T he period x
+
+corresp onding t o e1 is calculat ed from the following
+
+F =
+
+e1 ±
+
+e3 ±
+
+4Ö
+4Ö e 1 ± e3 + 4Ö
+
+4Ö e 1 ± e2
+
+e1 ±
+
+e2
+
+=
+
+4 (1 + g)(3 ± g) ±
+4 ( 1 ± g)(3 + g)
+4 (1 + g)(3 ± g) + 4 (1 ± g)(3 + g)
+
+.
+
+When g is imaginary = i Åg, one put s
+
+tg w =
+
+2 Åg
+
+3 + Åg2 ,
+
+F = i tg
+
+.
+
+4
+
+and obt ains
+
+Subsequent ly one has
+
+5
+
+9
+
+q =
+
++ 2
+
+2
+
+2
+
++ 15
+
+2
+
++ . . .
+
+and
+
+=
+
+2p
+
+1 + 2q4 + 2q16 + . . .
+e1 ±
+e1 ± e 2
+
+e3 + 4Ö
+
+4Ö
+
+1
+
+4Ö 3
+
+=
+
+=
+
+1 + 2q4 + 2q16 + . . .
+
+4 (1 + g)(3 ± g) + 4 (1 ± g)(3 + g)
+
+1 + 2q4 + . . .
+2 cos(w
+
+/ 4)
+
+cos w
+
+4
+
+3(3 + Åg2 )
+
+.
+
+(9.14)
+
+(9.10)
+
+(9.11)
+
+(9.12)
+
+(9.13)
+
+Ã
+Ã
+Ã
+w
+F
+F
+F
+x
+we have
+
+and
+
+and
+
+One has
+
+6 6 6
+
+L e m a Ã
+
+õ t r e
+
+For pract ical calculat ions, we must replace Ã
+
+and s by their expres-
+
+sions in t erms of the h funct ions.
+
+P utting
+
+u =
+
+a,
+
+b =
+
+± a
+
+(9.15)
+
+2x
+
+p
+
+p
+
+2
+
+(u ) = e1 +
+
+(e1 ±
+
+e2 )(e1 ± e 3 )
+
+= e1 +
+
+(e1 ±
+
+e2 )(e1 ± e 3 )
+
+(9.16)
+
+2
+
+2
+
+h2 (a)
+h1 (a)
+
+h1 (b)
+h2 (b)
+
+s(u ) = Const . e( p 2 / 2gx
+
+) a 2
+
+h1 (a).
+
+(e1 ±
+
+e2 ) (e1 ±
+
+e3 ) = 9(9 ± g2 ) (1 ± g2 )
+
+(v ) ±
+
+e1 = ± 3(1 ± g2 ).
+
+T hus from (9.4) and (9.6) comes
+
+2r 0
+r
+
+=
+
+(u )
+
+(v ) ±
+3(1 ± g2 )
+
+= ± 1 ±
+
+9 ± g2
+1 ± g2
+
+h2 (a)
+h1 (a)
+
+9 ± g2
+1 ± g2
+
+h1 (b)
+h2 (b)
+
+2
+
+2
+
+.
+
+= ± 1 ±
+
+(9.17)
+
+Denoting the values of a and b corresp onding to u = v by a0 and b0 ,
+
+gives, for t,
+
+± At = C1 + log
+
+= C2 + log
+
+= C3 + log
+
+h1 (a + a0 )
+h1 (a ± a0 )
+h2 (a ± b0 )
+h2 (a + b0 )
+h1 (b + b0 )
+h1 (b ± b0 )
+
+± 2a
+
++ 2a
+
+± 2b
+
+h1 9 (a0 )
+h1 (a0 )
+h2 9 (b0 )
+h2 (b0 )
+h2 9 (b0 )
+h2 (b0 )
+
+.
+
+(9.18)
+
+One has
+
+1
+q1/ 4
+
+h1 (a) = sin a ± q2 sin 3a + q6 sin 5a . . . ,
+
+Ã
+Ã
+Ã
+Ã
+T h e E x p a n d in g U n i v e r s e
+
+6 6 7
+
+1
+q1/ 4
+
+h2 (a) = cos a + q2 cos 3a + q6 cos 5a . . . .
+
+Of course a and b are imaginary.
+In the case of real root s one easily sees t hat for a pure imaginary a,
+r is real and posit ive and starts from zero at a = 0. T hat corresponds to
+the quasi-periodi c universe. For pure imaginary b, r is in® nit e for b = b0
+and decreases when b increases its absolut e value.
+
+It remains for us to transform the imaginary trigonomet ric curves.
+Towards this end, we put
+
+x = ea/ i
+
+y = eb / i .
+
+(9.19)
+
+We obt ain for the quasi-period ic universe
+
+2r 0
+r
+
+2r 0
+r
+
+= ± 1 +
+
+± A t ± C2
+
+= Log
+
+± At ± C3
+
+= Log
+
+= ± 1 +
+
+9 ± g2
+1 ± g2
+
+x + x- 1 + q2 (x3 + x- 3 ) + q6 (x5 + x- 5 ) + . . .
+x ± x- 1 ± q2 ( x3 ± x- 3 ) + q6 (x5 ± x- 5 ) + . . .
+
+2
+
+(9.20)
+
+and for the bouncing universe
+
+9 ± g2
+1 ± g2
+
+y ± y- 1 ± q2 ( y3 ± y- 3 ) + q6 (y5 ± y- 5 ) + . . .
+y + y- 1 + q2 ( y3 + y- 3 ) + q6 (y5 + y- 5 ) + . . .
+
+2
+
+(9.21)
+
+which, for r = ¥
+
+, gives the value y0 corresponding to b0 .
+
+We thence have for the quasi-period ic branch t he equat ion
+
+xy- 1
+xy0 + x- 1 y- 1
+y0 ± y- 1
+y0 + y- 1
+
+0 + x- 1 y0 + q2 (x3 y- 3
+0 + q2 (x3 y3
+0 ± y- 3
+0 + y- 3
+
+0 + 3q2 ( y3
+0 + q2 ( y3
+
+0 + x- 3 y3
+0 + x- 3 y- 3
+) + 5q6 ( y5
+) + q6 (y5
+
+0 ) + q6 (x5 y- 5
+) + q6 (x5 y5
+0 ± y- 5
+0 + y- 5
+
+) + . . .
+) + . . .
+
+0
+
+0
+
+0
+
+0
+
+0
+
++ 2
+
+0 + x- 5 y5
+0 + x- 5 y- 5
+
+0 ) + . . .
+) + . . .
+
+0
+
+Log x
+
+(9.22)
+
+for t, and for the bouncing branch
+
+0
+
+0
+
+± q2 (y3 y3
+
+yy0 ± y- 1 y- 1
+yy - 1
+y0 ± y- 1
+y0 + y- 1
+
+± y- 1 y0 ± q2 (y3 y- 3
+0 ± y- 3
+0 + 3q2 (y3
+0 + y- 3
+0 + q2 (y3
+
+0 ± y- 3 y- 3
+± y- 3 y3
+) + 5q6 (y5
+) + q6 ( y5
+
+) + q6 ( y5 y5
+0 ) + q6 ( y5 y- 5
+0 ± y- 5
+0 + y- 5
+
+) + . . .
+) + . . .
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+± 2
+
+0 ± y- 5 y- 5
+0 + y- 5 y5
+
+) + . . .
+0 ) + . . .
+
+0
+
+Log y.
+
+(9.23)
+
+6 6 8
+
+L e m a Ã
+
+õ t r e
+
+T hese formulae apply equally well to the case where the root s are
+imaginary. T hen q is pure imaginary, but since it appears only squared,
+this result s in a simple change of sign.
+
+Besides, one can ident ify the two expressions by put ting
+
+y =
+
+i
+
+qx
+
+.
+
+(9.24)
+
+T he sign choices correspond and
+
+C3 ± C2 = ± 4 Log y0 + 2
+
+y0 ± y- 1
+y0 + y- 1
+
+0 + 3q2 (y3
+0 + q2 (y3
+
+0 ± y- 3
+0 + y- 3
+
+0
+
+0
+
+) + . . .
+) + . . .
+
+Log
+
+i
+q
+
+.
+
+(9.25)
+
+It is advant ageous to use the ® rst formulae for x between 1 and
+± qi , and the second for larger values of x.
+For real q, the maximum or minimum of r occurs for x or y equal to
+
+1/Ö
+1/Ö q.
+through the formulae (F = F 1 i)
+
+When one is given r , the calculat ion of x or y can be carried out
+
+1 + 2r 0/ r + 4 (9 ± g2 )/ (1 ± g2 )
+4 (9 ± g2 )/ (1 ± g2 )
+1 + 2r 0/ r ±
+
+=
+
+tg 2u
+F 1
+
+sin 2h
+
+,
+
+=
+
+(9.26)
+
+where one of t he angles u
+
+and h is real. One then has (q = q1 i )
+
+x2 =
+
+y2 =
+
+tg u
+q1
+
+ctg u
+
+q1
+
+1 + 4q4
+1
+
++ . . . =
+
+t g u
+q
+
+1 ± 4q4 ctg 2h
+sin 2h
+
++ . . .
+
+(9.27)
+
+1 ± 4q4
+1
+
++ . . . = ±
+
+ctg h
+
+q
+
+1 + 4q4 ctg 2h
+sin 2h
+
++ . . .
+
+. (9.28)
+
+ctg 2u
+sin 2u
+
+ctg 2u
+
+sin 2u
+
+For real q, the quasi-period ic branch corresponds to values of h be-
+tween zero and 45o , and the bouncing branch to values between 135 and 90
+degrees. For imaginary q, the angle u
+ranges between zero and 90 degrees.
+
+10. THE CLUSTERS OF NEB ULA E
+
+One of t he charact eristics of the universe which is revealed to us by
+astronom ical observat ions is t hat , while there exist isolat ed nebulae, there
+also are agglom erat ions of nebulae, the populat ion of which varies from
+some tens up to hundreds of nebulae.
+
+We int end to discuss the hyp ot hesis under which the clust ers of neb-
+ulae would be essentially in equilibrium and have the form of a part of the
+
+F
+T h e E x p a n d in g U n i v e r s e
+
+6 6 9
+
+Einst ein universe. We prove in the sequel that some inform ation ab out
+the expansion of the universe can be deduced from this hypot hesis.
+
+If the clust ers are in equilibrium , the current radius of the universe is
+clearly great er than the equilibrium radius, in such a way that the Hubble
+ratio
+
+r
+v
+
+= 1.8 £
+
+109 years
+
+(10.1)
+
+between the dist ance of the nebulae and t heir spectroscopic velocity of
+recession is a measure of the cosmological const ant . Adopt ing
+
+l = 10- 5 4 ,
+
+r 3
+e =
+
+3K m
+lc2
+
+r e = 80 3Ö m ,
+
+we can calculat e from the formula (8.4) at what dist ance r e the cosmic re-
+pulsion and the force of gravit ation due to a mass m come int o equilibrium;
+one has
+
+(10.2)
+
+(10.3)
+
+or
+
+the dist ances being measured in light -years and the Sun’ s mass having
+been taken as the unit .
+
+If the clust ers of nebulae are in equilibrium , r e must be the radius
+of t he neut ral zone corresp onding to each nebula. T he mean dist ance
+between nebulae must thus be 2r e .
+
+If t here are N nebulae dist ribut ed in a more or less spherical fashion,
+
+the volume of the clust er must be
+
+and its diam eter
+
+4p
+
+3
+
+N r 3
+e
+
+2r e
+
+3Ö N = 160
+
+3Ö N m .
+
+We can estimate the dist ance D and the angular diamet er d of the
+
+clust er; we must then have as the condit ion of equilibrium
+
+D d = 160
+
+3Ö N m .
+
+(10.4)
+
+If d is expressed in degress and D in megaparsecs, the diam et er in
+
+light years is
+
+D d
+
+57.3 £
+
+0.31 £
+
+106 = 160
+
+3Ö N m .
+
+6 7 0
+
+whence
+
+L e m a Ã
+
+õ t r e
+
+N m 10- 9 = 0.043D 3 d3 .
+
+(10.5)
+
+Hubble’ s est imat es (Mount Wilson Cont r. no. 427) allow us to calcu-
+lat e the mean mass of a galaxy under the hypot hesis of equilibrium. For
+certain clust ers, the dat a of table IX do not agree with the inform at ion in
+the t ext; we have then made the calculat ion for bot h values.
+
+Clust er
+
+N
+
+D
+
+d
+
+m 10- 9
+
+Virgo
+Pegasus
+P isces
+Cancer
+Perseus
+Coma
+Ursa Ma jor
+Leo
+
+(500)
+100
+20
+150
+500
+800
+300
+400
+
+1.8
+7.3
+7
+9
+11
+14
+22
+32
+
+12±
+1
+0.5
+1.5
+2.0
+1.7
+0.7
+0.6
+
+11±
+
+1
+1
+
+0.9
+0.2
+0.1
+0.7
+0.9
+0.7
+0.5
+0.8
+
+0.7
+
+0.7
+0.2
+
+T hese dat a are clearly of very unequal value. In part icular, Shapley
+® nds a very much larger dist ance and a smaller number of nebulae for the
+Virgo clust er. However, for the Virgo clust ers A, B , C and D, Shapley
+® nds diamet ers and numbers of nebulae of the same order of magnit ude.
+If one t akes int o account the uncert ainty in the dat a on which we
+are basing t he calculat ions, and in part icular the irregular form of most
+clust ers, one can consider the result as favourable to the hypot hesis of the
+equilibrium of the clust ers of nebulae.
+
+T he num erical value of the mass found for the nebulae is of the order
+
+of magnit ude indicat ed by Hubble’ s research.
+
+T he dat a concerning the Coma clust er seem to be the most secure,
+all t he more so as this clust er appears t o have quit e a globular form. We
+thus adopt as our estimate of t he mean mass of nebulae
+
+and thus, as the mean dist ance between the nebulae,
+
+Comparing this value with the mean dist ance of the isolat ed nebulae,
+
+estimated by Hubble as
+
+0.7 109 K
+
+,
+
+140 000 light -years.
+
+1, 800, 000 light -years,
+
+T h e E x p a n d in g U n i v e r s e
+
+we have, as the coe(cid:141) cient of expansion of the universe
+
+R
+R e
+
+= 13.
+
+6 7 1
+
+(10.6)
+
+T he hypot hesis of clust er equilibrium thus seems to provide the means
+
+of making precise, and con® rming, Hubble’ s estimat es.
+
+It has also the int erest of providing a cosmological signi® cance to the
+
+relat ive frequency of clust ers and isolat ed nebulae.
+
+Without us having so far develop ed a truly precise theory, it is clear
+that if the expansion is not much slowed down in the neighbourhood of
+the equilibrium posit ion, it is alm ost impossible t hat the part s of the uni-
+verse could have deviat ed in great numbers from the average motion at
+the moment when they were in equilibrium , and perhaps one could prove
+that if the expansion is t oo much slowed down in the neighbourhood of the
+equilibrium , the clust ers would have to be more num erous and more im-
+port ant than they really are. T hus there is here a new line of attack which
+allows us to ® nd t he value of g2 , or at least exclude the neighb ourhood of
+the two critical values g2 = ± 3 and g2 = 0.
+
+T his su(cid:141) ces to det ermine the order of magnit ude of the radius of the
+
+universe and t he expansion time.
+
+We have in fact, by (9.2) and (10.2)
+
+R 3
+A 2 R 2
+
+0 (1 ± g2 ) = R 3
+0 (3 + g2 ) = c2
+
+e
+
+(10.7)
+(10.8)
+
+so that
+
+whence
+
+R 0 =
+
+c
+
+=
+
+A 3 + g2
+
+103 7 cm
+
+1 + 1
+
+3 g2
+
+=
+
+1
+
+1 + 1
+
+3 g2
+
+109 light -years
+
+(10.9)
+
+R = 13R e = 13
+
+light -years.
+
+1 ± g2
+3 g2
+
+Ö 1 + 1
+
+If g2 is not around ± 3, the order of magnit ude of the radius of the
+
+universe is thus known.
+
+It is t he same for t he expansion time.
+T he lim iting case g2 = ± 3 gives the exact solut ion
+
+R = 2R 0 sh2 / 3 3At
+2
+
+~= R 0
+
+3Ö 2 eA t
+
+(10.10)
+
+L e m a Ã
+
+õ t r e
+
+(10.13)
+
+(10.14)
+
+(10.15)
+
+R e =
+
+3Ö 4 R 0 ,
+
+3Ö 2 = 5.6.
+As 2A ~= 10- 9 years, the expansion t ime is 5.6 £
+For g2 = ± 0.1 one ® nds by the formulae of the preceding section
+
+2At = 2 £
+
+2.303 log 13
+
+109 years.
+
+(10.11)
+
+2At = 8.437.
+
+(10.12)
+
+When g2 tends to zero, one can easily ® nd the asym ptot ic value of
+
+the expansion time from R = 0 up to a value great er than R 0 . P ut ting
+
+6 7 2
+
+with
+
+whence
+
+one obt ains
+
+X 2 =
+
+R
+
+R + 2R 0
+
+A t = Log
+
+1 + X
+
+1 ± X
+1
+
+Log
+
+1
+
+Log
+
+XÖ 3 ± 1
+XÖ 3 + 1
+Ö 3
+± 2 Log( 2 + Ö 3).
+
++
+
+1
+q2
+1
+
++
+
+Ö 3
+
+T his equat ion shows how the solut ion tends to the limit ing solut ion
+
+(R 0 , ¥
+
+) when q t ends to zero.
+
+One has
+
+q2
+1 = ±
+
++ . . .
+
+g2
+144
+
+and
+
+kMÖ l
+
+2p 2
+
+3
+2
+
+= 1 ±
+
+g2 + . . . = 1 + m
+
+(10.16)
+
+where m represent s the accuracy with which the mass is adjust ed to the
+cosmological const ant in order to realise t he posit ion of equilibrium .
+
+For the expansion coe(cid:141) cient = 13, one ® nds
+
+2At = 5.93 + 2.66 log1 0
+
+1
+m
+
+.
+
+(10.17)
+
+For the bouncing universe one similarly has
+
+A t = Log
+
+1 + X
+
+1 ± X
+1
+
+Log
+
+1
+
+XÖ 3 ± 1
+XÖ 3 + 1
+
+Log
+
+Ö 3
+± Log( 2 + Ö 3).
+
++
+
+1
+
+q
+
++
+
+Ö 3
+
+(10.18)
+
+T h e E x p a n d in g U n i v e r s e
+
+6 7 3
+
+the t ime being measured from the minimum radius, t hat is
+
+2At = 5.46 + 1.33 log1 0
+
+± 1
+
+m
+
+.
+
+(10.19)
+
+When g2 tends to ± 3, the radius tends t o in® nity but U, the angular
+dist ance which light is capable of crossing during the expansion, tends to
+zero.
+
+It is int eresting to calculat e R e U, the dist ance at t he moment of equi-
+librium of the most dist ant point s which can transm it light to each other.
+One has, by (9.91 ), (10.7) and (10.8)
+
+R e U = 2Ö 3
+
+u
+i
+
+3 1 ± g2 c
+A
+
+u
+i
+
+=
+
+p
+
+log x2 .
+
+(10.20)
+
+and
+
+lem,
+
+One ® nds for g2 = ± 3,
+
+R e U = 4.46
+
+c
+
+2A
+
+= 4.46 £
+
+109 light -years.
+
+(10.21)
+
+11. SCHWA RZSCHILD’S EXTER IOR FIELD
+
+T he equat ions of the Friedmann universe adm it solut ions where the
+radius of the universe tends to zero for a non-zero mass. T his cont radict s
+the generally accept ed result that a given mass cannot have a radius smaller
+than
+
+2K m
+
+c2
+
+or 2m in nat ural unit s (K = c = 1).
+
+T his result follows from the solut ion of Schwarzschild ’ s exterior prob-
+
+ds 2 = ±
+
+dr 2
+(2m / r ) ±
+
+1 ±
+
++ 1 ±
+
+2m
+
+r
+
+l
+
+3
+
+(l/ 3)r 2 ±
+
+r 2 dt 2.
+
+r 2 (dh 2 + sin2
+
+h dw 2 )
+
+(11.1)
+
+We int end to prove t hat the singularity of t he ® eld is not real and
+arises simply because one want ed t o use coordinat es for which the ® eld is
+st atic.
+
+x
+±
+6 7 4
+
+1 and put
+
+Equat ion (8.2) becomes
+
+whence
+
+more generality.
+
+Since
+
+we then have
+
+for r = 0.
+
+So one has
+
+whence
+
+and
+
+A 2
+r
+
+In vacuum, m is a const ant . Let us consider the Euclidean case f (x ) =
+
+L e m a Ã
+
+õ t r e
+
+(11.2)
+
+(11.3)
+
+(11.4)
+
+r 3
+0 =
+
+K m
+4A 2 ,
+
+A 2 =
+
+lc2
+3
+
+.
+
+r
+
+2
+
+¶ r
+¶ t
+
+= A 2 (r 3 + 8r 3
+0 )
+
+r = 2r 0 Sh2/ 3 3A
+2
+
+(t ± x ).
+
+¶ r
+¶ x
+
+= ±
+
+¶ r
+¶ t
+
+We may write F (x ) in place of x , but this does not int roduce any
+
+ds 2 = ± A 2 (r 3 + 8r 3
+0 )
+
+r 2 (dh
+
+2 + sin2
+
+h dw 2 ) + c2 dt2
+
+(11.5)
+
+which is a solut ion for a vacuum ® eld.
+
+At each inst ant , space is Euclidean, and t here is no singularity except
+
+If we t ake r as a coordinat e, there must be a means to de® ne a coor-
+
+dinat e t in such a way as to put the ® eld int o Schwarzschild’ s form.
+
+dr 2 =
+
+(r 3 + 8r 3
+
+0 ) (dt ± dx ) 2
+
+dx 2
+r
+
+A 2
+r
+
+(r 3 + 8r 3
+
+0 ) dx 2 = dr 2 ±
+
+(r 3 + 8r 3
+
+0 ) ( dt2 ± 2dx dt)
+
+A 2
+r
+
+ds 2 = ± dr 2 ±
+
+r 2 (dh
+
+2 + sin2
+
+h dw 2 ) + c2 +
+
+(r 3 + 8r 3
+
+0 ) dt2
+
+A 2
+r
+2A 2
+
+r
+
+(r 3 + 8r 3
+
+0 ) dx dt
+
+±
+±
+T h e E x p a n d in g U n i v e r s e
+
+6 7 5
+
+and, eliminat ing x ,
+
+ds 2 = ± dr 2 ±
+
+r 2 (dh 2 + sin2 h dw 2 ) + c2 ±
+
+(r 3 + 8r 3
+
+0 ) dt2
+
+A 2
+r
+
++ 2A
+
+r 3 + 8r 3
+0
+
+r
+
+dr dt.
+
+Setting
+
+gives
+
+A
+
+r 3 + 8r 3
+0
+
+r
+
+dt = dt +
+
+c2 ±
+
+A 2
+r (r 3 + 8r 3
+0 )
+
+dr,
+
+ds 2 = ±
+
+dr 2
+8A 2 r 3
+0
+
+c2 r
+
+1 ±
+
+A 2 r 2
+
+c2
+
++ c2 1 ±
+
+8A 2 r 3
+0
+
+c2 r
+
+A 2 r 2
+
+c2
+
+dt 2 ,
+
+r 2 (dh2 + sin 2
+
+h dw 2 )
+
+which is Schwarzschild’ s form (11.1) for the ® eld of a point mass.
+
+T he singularity is int roduced because the expression which app ears in
+
+the denominat or of dt (11.6) vanishes for su(cid:141) cient ly small values of r .
+
+t depends on an ellipt ic int egral. In the part icular case where l tends
+to zero, t he int egrat ion can be carried out . To simplify matters, let us take
+coordinat es for which K and c are equal to one.
+
+One has, at the lim it where A tends to zero,
+
+8A 2 r 3
+
+0 = 2m
+
+dt = dt +
+
+dr,
+
+2m
+r
+
+2m
+r
+
+1 ±
+
+whence
+
+and, on int egrat ing,
+
+t = t + 2Ö 2m r + 2m Log Ö
+
+r ±
+
+Ö 2m
+r + Ö 2m
+
+,
+
+a transform ation which is inadm issible for values of r less than 2m . T he
+equat ion (11.4) similarly becomes
+
+(11.6)
+
+(11.7)
+
+(11.8)
+
+(11.9)
+
+(11.10)
+
+(11.11)
+
+x = t ±
+
+2
+
+3
+
+r 2/ 3
+Ö 2m
+
+±
+±
+±
+Ö
+6 7 6
+
+L e m a Ã
+
+õ t r e
+
+and the new form of the ® eld is written without singularity
+
+ds 2 = ± 2m
+
+r 2 (dh2 + sin2 h dw 2 ) + dt2 ,
+
+(11.12)
+
+dx 2
+r
+
+where
+
+r = [ 3
+
+2 Ö 2m (t ± x ) ]2 / 3.
+
+(11.13)
+
+T he singularity of the Schwarzschild ® eld is thus a ® ctit ious singular-
+ity, analogous to that which appears at t he horizon of the centre in the
+original form of t he de Sit ter universe.
+
+12. THE VANISHING OF SPACE
+
+T he radius of space may pass through zero. We int end to discuss this
+passage, and t o examine in part icular if there is a way of int erpreting this
+zero value of t he radius physically as simply represent ing a small quant ity
+and, in this case, of ® xing its order of magnit ude.
+
+For the st udy of the zero point , we may neglect the cosmological
+
+Introducing the angular dist ance U crossed by light during the time
+
+const ant ; setting
+
+we then have
+
+t,
+
+K m
+c2 = a,
+
+2
+
+1
+c2
+
+dR
+
+dt
+
+= ± 1 +
+
+2a
+
+R
+
+.
+
+dU =
+
+cdt
+
+R
+
+,
+
+R = a( 1 ±
+
+ct = a( U ±
+
+cos U),
+sin U).
+
+we easily ® nd Einst ein’ s cycloidal universe
+
+(12.1)
+
+(12.2)
+
+(12.3)
+
+(12.4)
+
+When U varies from 0 to p, R returns t o its init ial zero value, and
+
+light just has time t o go round the simply ellipt ic space.
+
+T he quest ion is to know if there is a way t o smoot h out the cusp of
+
+the cycloid.
+
+One can ask ® rst of all,
+
+if one would not obt ain this result if one
+took int o account t he eŒect of the pressure which need not necessarily be
+negligible.
+It is easy t o see, going back to t he equat ion (3.7) , that the
+
+±
+T h e E x p a n d in g U n i v e r s e
+
+6 7 7
+
+pressure only reinforces the gravit ational action. Besides, the quest ion has
+been treated in detail by Tolman.9
+
+It is more imp ortant to exam ine the eŒect of a lack of isot ropy in the
+
+dist ribut ion of tensions.
+
+to us, a universe de® ned by
+
+We int end to examine, following an idea which Einst ein communicat ed
+
+ds 2 = ± b2
+
+1 dx 2
+
+1 ± b2
+
+2 dx 2
+
+2 ± b2
+
+3 dx2
+
+3 + dx 2
+
+4
+
+(12.5)
+
+where b1 , b2 and b3 are funct ions of x4 = t.
+
+Such a universe is nat urally inadmissib le from many point s of view,
+it has the int erest of int roducing a marked and largely arbit rary
+
+but
+anisot ropy.
+
+We can easily calculat e the matter tensor by the formulae of Sect ion 1.
+We have, for k and i diŒerent from 4, by (1.9) ,
+
+the prim es denot ing derivat ives with respect to t, and
+
+bi k =
+
+b9i b9k
+bi bk
+
+bi 4 =
+
+9i
+b9
+bi
+
+.
+
+T he component s Tm u ( m /= u) vanish.
+
+± g = b1 b2 b3 = R 3
+
+measures the volume occupied by a speci® ed part of the matter. Here R
+is no longer the radius of the universe, since the space is Euclidean, but
+the volume of space tends to zero if R tends to zero.
+
+We have
+
+and
+
+3R9
+R
+
+=
+
++
+
++
+
+b91
+b1
+
+b92
+b2
+
+b93
+b3
+
+3
+
+R9
+R
+
+R9 2
+R 2
+
+=
+
++
+
++
+
+91
+b9
+b1
+
+92
+b9
+b2
+
+93
+b9
+b3
+
+b9 2
+1
+b2
+1
+
+b9 2
+2
+b2
+2
+
+b9 2
+3
+b2
+3
+
+.
+
+9 T his referen ce is: Tolm an , Richard C ., an d Ward, M. ( 1932) .
+
+ª O n t he B ehavior
+of Non -St at ic Models of the Un iverse when t he Cosm ological C onst ant is O m it t ed.º
+P hysical Review 3 9 , 835-843 Ð
+
+Tran s l.
+
+(12.6)
+
+(12.7)
+
+(12.8)
+
+Ö
+9
+±
+±
+±
+±
+L e m a Ã
+
+õ t r e
+
+6 7 8
+
+Setting
+
+we obt ain
+
+or, by (1.12) ,
+
+I 2 =
+
+b91
+b1
+
+2
+
++
+
+b92
+b2
+
+2
+
++
+
+b93
+b3
+
+2
+
+b91
+b1
+
+(12.9)
+
+b92
+b2
+
+92
+b9
+b2
+
+b93
+b3
+
+93
+b9
+b3
+
+3
+
+R9
+R
+
+91
+b9
+b1
+
+=
+
++
+
++
+
+1
+
+3
+
+I 2
+
+3
+
+R9
+R
+
+k
+2
+
+=
+
+(T 1
+
+1 + T 2
+
+2 + T 3
+
+3
+
+± T 4
+
+4 ) ±
+
+1
+3
+
+I 2.
+
+(2.10)
+
+In all reasonable applicat ions, T 1
+
+2 and T 3
+4 = r in absolut e value. R9
+
+1 , T 2
+
+all cases less t han T 4
+negat ive. If therefore at a certain inst ant R9
+the value zero and thus the volum e vanishes.
+
+3 will be negat ive, and in
+9 will thus be essentially
+is negat ive, R must attain
+
+One sees that anisot ropy can no more prevent the vanishing of space
+
+than pressure can.
+
+T he above argum ent is not a formal proof of the impossibility of avoid-
+ing zero volum e by anisot ropy, since (12.5) is not the most general conceiv-
+able form, but it indicat es all the same that in an already rat her general
+case anisot ropy act s in the opp osit e sense.
+
+T he matter has to ® nd, t hough, a way of avoiding the vanishing of its
+
+volum e.
+
+As long as the mat ter is made up of stars, t his is manifest ly impossible.
+When it is condensed int o a single mass, it is clear that it must have
+acquired a high temperat ure much great er t han the critical temperat ure
+of liquids and that not hing prevent s it at taining a degree of concent ration
+comparable to the int erior of the companion of Sirius.
+
+Even for a degenerat e gas it seems that not hing could oppose the
+
+concent ration, since the available energy M/ R is unb ounded.
+
+When the dist ances between the atomic nuclei and the elect rons be-
+come of the order of 10- 1 2 cm, the non-Maxwellian forces which prevent
+the mutual int erpenet ration of elementary part icles must become predom -
+inant and are without doubt capable of stopping t he cont raction. T he
+universe would then be comparable to a colossal atomic nucleus.
+If the
+cont raction is stopp ed, t he process should cont inue in the opposit e direc-
+tion.
+
+Adopt ing, following Eddingt on, 107 8 as the number of prot ons in ex-
+istence, we have, as the order of magnit ude of the radius of t he universe
+when reduced to its at omic state
+
+10( 7 8/ 3 ) - 12 = 1014 cm ,
+
+±
+±
+±
+9
+±
+9
+T h e E x p a n d in g U n i v e r s e
+
+6 7 9
+
+which is about ten times the dist ance to the Sun.
+
+We thus conclude that only t he subat omic nuclear forces seem capable
+of stopping the cont raction of the universe, when the radius of the universe
+is reduced t o the dim ensions of the solar system.
+
+For the cosmological point of view, t he zero of space must thus be
+in the sense that every astronom ical structure
+
+treated as a beginning,
+with an earlier exist ence would have been complet ely destroyed t here.
+
+T he epoch of this beginning, or, if one likes, of this recommencement,
+certainly dat es from before the format ion of the Earth’ s crust and the
+organizat ion of the solar system, that is as a strict minimum from the
+st udy of radioact ive rocks
+
+Comparing this value with Hubble’ s ratio
+
+1.6 £
+
+109 years.
+
+r
+v
+
+= 1.8 £
+
+109 years,
+
+we conclude that all solut ions in which the expansion speed has always
+been faster than it is now are excluded.
+
+In part icular, for Einst ein’ s cycloidal universe (12.4) or the solut ion
+
+(10.10) for small R/ R 0 , one has
+
+t =
+
+2
+3
+
+r
+v
+
+= 1.2 £
+
+109 years.
+
+We must thus exclude the solut ions where the radius is less than the
+
+equilibrium radius and in part icular the quasi-periodi c solut ions.
+
+For a purely aesthetic point of view, one may perhaps regret this.
+T hose solut ions where the universe expands and cont racts successively
+while periodically reducing itself to an atomic mass of the dim ensions of
+the solar system, have an indisput able poet ic charm and make one think
+of the phoenix of legend.
+
+Tr an slat or ’ s n ot e .
+
+French and English are comparat ively closely relat ed, and scient i® c pap ers
+use only very rest ricted forms of expression and vocabulary, so that in
+much of this pap er I have been able to give a more or less direct lit eral
+translat ion, only recasting sent ences where I felt it was really necessitated
+by diŒerences of gram mar or idiom between the languages. Where usage in
+
+6 8 0
+
+L e m a Ã
+
+õ t r e
+
+scient i® c writing has changed, I have sometimes rendered words or phrases
+as their modern equivalent s in order to turn Georges LemaÃ
+õ tre’ s original
+French int o the usual style of modern scient i® c papers in English (to take
+the ® rst such case, `paragraphe’ became `section’ ), but have on the whole
+tried t o avoid anachronism. Similarly, the not ation has not been changed,
+I have left hist orical
+except for correction of a few obvious misprint s.
+or explanat ory commentary t o the edit or, except where I felt LemaÃ
+õ tre’ s
+meaning might otherwise be misunderst ood by a modern reader. In a few
+cases, LemaÃ
+õ tre’ s precise meaning was unclear not only to me but also to
+a nat ive French speaker. I am grat eful to Dr. Caroline Terquem for advice
+at t hose point s, and have indicat ed them by giving the original phrase in
+a foot not e.
+I am also grat eful to Dr. J ean Eisenst aedt for drawing my
+attent ion to two typographic al errors in the original, before (11.2) and
+in (11.11) , and for the details of the references to Tolman’ s work and to
+LemaÃ
+
+õ tre’ s thesis.
+
+

@@ -1,0 +1,25 @@
+
+Erreur ! Des objets ne peuvent pas être créés à partir des codes de champs de mise en forme.
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Quand    tend vers 1 
+
+ correspond aux trajectoires plongeantes avec  
+
+pour ces trajectoires plongeantes  on aura un temps de chute libre fini si  
+Par contre le temps d’évasion sera infini. 

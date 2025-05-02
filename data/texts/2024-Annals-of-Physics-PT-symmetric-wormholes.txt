@@ -1,0 +1,1083 @@
+PT-Symmetry in One-Way Wormholes
+
+Pascal Koiran1, Hicham Zejli2, J-P Levy3, Florent Margnat4, M-F Duval5,
+
+and Hasnae Zejli6
+
+1pascal.koiran@ens-lyon.fr
+2hicham.zejli@manaty.net
+
+3j.p.levy@manaty.net
+
+4florent.margnat@univ-poitiers.fr
+
+5m-f.duval@manaty.net
+6hasnae.zejli@manaty.net
+
+June 29, 2024
+
+Keywords : Schwarzschild metric, Einstein’s equation, Staticity, Spatiotem-
+poral cross term, Wormhole, White fountain, One-way Membrane, General rel-
+ativity, Semi-Riemannian spaces, Eddington coordinates, Spacetime geometry,
+Spacetime topology, Isotropy, Stationarity, Spherical symmetry, T-symmetry,
+PT-symmetry, Einstein-Rosen Bridge
+
+Abstract
+
+The exterior metric developed by K. Schwarzschild in 1916, as a so-
+lution to Einstein’s equations in vacuum,
+is static, having a timelike
+Killing vector field that is hypersurface orthogonal. This property pre-
+cludes the presence of a cross term dr dt in the metric in Schwarzschild
+coordinates. However, a coordinate transformation by Eddington reintro-
+duces this cross term, revealing that the singularity at the horizon is due
+to a coordinate choice. In a recent paper, we showed that in Eddington
+coordinates, the infall time to the horizon is finite from the point of view
+of a distant observer. In the present paper, we build on this result and
+on the work of Einstein and Rosen to construct a Wormhole and a White
+Fountain as a One-Way Membrane. This membrane connects two semi-
+Riemannian PT-symmetric spaces through a "bridge" that can be crossed
+in only one direction.
+
+1
+
+1 Solutions of Einstein’s equation reflecting dif-
+
+ferent topologies
+
+We begin this paper by a review of some the work stemming from the discovery
+by Schwarzschild of an exact solution to the Einstein field equations in vacuum.
+The work of Einstein and Rosen [3] is of particular importance for the present
+paper since we will be interested in the fate of a particle crossing an Einstein-
+Rosen bridge. At first sight this line of inquiry may look like a dead end to some
+readers.
+Indeed, the Einstein-Rosen bridge has often been presented as non-
+traversable in the literature. In Section 2 we point out that this conclusion is in
+fact based on an analysis of the Kruskal-Szekeres extension, which as a geometric
+object is very different from an Einstein-Rosen bridge. The main developments
+of the paper take place in Sections 3 and 4. We show that a particle crossing the
+bridge undergoes a PT-symmetry, and we discuss its physical significance. We
+will in fact not work with the Einstein-Rosen bridge as defined in the seminal
+paper [3], but with a modified version studied in [9]. One major reason for this
+modification is that, as explained below in Section 1, the bridge as defined in [3]
+is not properly glued at the throat in the following sense: as is well known,
+infalling geodesics do not reach the wormhole throat for any finite value of the
+Scwharzschild time parameter t. The construction in [9] is inspired by [6, 7] and
+solves this problem.
+
+In 1916, Karl Schwarzschild successively published two papers ([15],[16]).
+The first one presented the construction of the solution to Einstein’s equation
+in vacuum, based on the following assumptions:
+
+• Stationarity: Independence of the metric terms with respect to the time
+
+coordinate, i.e., invariance by time translation.
+
+• Isotropy and spherical symmetry, i.e., invariance by SO(3).
+• Absence of the dr dt cross term.
+• Lorentzian at infinity.
+
+He rapidly completed this solution, called the exterior Schwarzschild met-
+ric, with an interior metric [16] describing the geometry inside a sphere filled
+with a fluid of constant density ρo and a solution to Einstein’s equation with a
+second member. The conditions for connecting the two metrics (Continuity of
+geodesics) were ensured. The phenomena of the advance of Mercury’s perihe-
+lion and gravitational lensing confirm this solution. K. Schwarzschild worked to
+ensure that the conditions governing these two metrics were in accordance with
+physical reality.
+
+As an example, in the present day, neutron stars, owing to their stagger-
+ing density and formidable mass, stand as natural cosmic laboratories, probing
+realms of density and gravity unreachable within terrestrial laboratories. Let us
+consider two distinct ways through which a neutron star might reach a state of
+
+2
+
+physical criticality.
+
+In a scenario where the star’s density, ρo, remains constant, a characteristic
+radius ˆr can be defined. Then, a physical criticality is reached when the star’s
+radius is :
+
+Rcrϕ =
+
+ˆr =
+
+c2
+
+3πGρo
+
+(cid:115)
+
+(cid:114) 8
+(cid:115)
+
+9
+
+ˆr =
+
+3c2
+
+8πGρo
+
+(1)
+
+with
+
+(2)
+
+Thus,
+
+• For the exterior metric, it was necessary that the radius of the star be less
+
+than ˆr.
+
+• As for the interior metric, the radius of the star had to be less than Rcrϕ
+because a larger radius leads the pressure to rise to infinity at the center
+of the star.
+
+Next, for massive stars, an imploding iron sphere can present a complex sce-
+nario. Assuming the sphere’s mass M is conserved during implosion, we must
+consider two important critical radius :
+
+In the core part, the geometric criticality radius is given by the Schwarzschild
+
+Radius which is :
+
+(3)
+
+Outside of this mass, the physical critical radius is given by 1
+
+Rcrγ = Rs = 2
+
+GM
+c2
+
+With mass conservation expressed as M = 4
+
+3 πR3ρo, we can explore how the
+
+variable density ρo during implosion impacts these critical radius.
+
+Indeed, if physical criticality is reached during implosion, we have R = Rcrϕ
+Then, substituting the mass conservation equation into 1, we get :
+
+.
+
+(4)
+
+R = Rcrϕ = 2.25
+
+GM
+c2 > Rcrγ
+
+We can deduce that if the physical criticality is reached for a mass M, then
+
+it occurs before geometric criticality appears.
+
+K. Schwarzschild also emphasized that the measurements pertained to con-
+ditions far exceeding what was understood within the framework of the astro-
+physical reality of his time.
+
+3
+
+It is also important to note that the topology of this geometric solution is
+built by connecting two bounded manifolds along their common boundary, a
+sphere S2 with an area of 4πR2
+
+(Radius of the star).
+
+o
+
+In 1916, Ludwig Flamm considered the external solution as potentially de-
+scribing a geometric object. The concern was then an attempt to describe
+masses as a non-contractible region of space ([4]).
+
+In 1934, Richard Tolman was the first to consider a possible handling of the
+most general metric solution introducing a cross term dr dt. However, for the
+sake of simplification, he immediately eliminated it using a simple change of
+variable ([20]).
+
+In 1935, Einstein and Rosen proposed, within the framework of a geomet-
+ric modeling of particles, a non-contractible geometric structure, through the
+following coordinate change ([3]):
+
+(5)
+
+u2 = r − 2m
+
+The metric solution then becomes:
+
+(6)
+
+ds2 =
+
+u2
+
+u2 + 2m
+
+dt2 − 4u2(u2 + 2m)du2 − (u2 + 2m)2(dθ2 + sin2 θdϕ2)
+
+The authors thus obtain a non-contractible geometric structure, termed a
+"space bridge", where a closed surface of area 4πα2, corresponding to the value
+u = 0, connects two "sheets": one corresponding to the values of u from 0
+to +∞ and the other from −∞ to 0. It is noteworthy that this metric is not
+Lorentzian at infinity1. Although this metric, expressed in this new coordinate
+system, is regular, the authors point out that at the throat surface, its determi-
+nant becomes zero. In this geometric structure, two bounded semi-Riemannian
+sheets are distinguished, the first corresponding to u > 0 and the second to
+u < 0. It corresponds to their joining along their common boundary. The over-
+all spacetime does not fit within the standard framework of semi-Riemannian
+geometry since it does not fulfill the requirement det(gµν) ̸= 0 at the throat.
+As pointed out in [19], it does fit within the more general framework of singular
+semi-Riemannian geometry, which allows for degenerate metric tensors.
+
+The Einstein-Rosen bridge (6) satisfies the Einstein field equations in vac-
+uum on both sheets u > 0 and u < 0. However, there is an issue with the field
+equations at the throat u = 0 since det(gµν) vanishes there, and this determi-
+nant appears in the denominator of the field equations. This issue was already
+recognized by Einstein and Rosen, and their proposed solution was to work with
+a form of the field equations that is denominator-free (see equations (3a) in [3],
+
+1 For this reason, the change of variables r2 = ρ2 + 4m2 was proposed by Chruściel ([1],
+page 77) as an alternative to (5). See also Section 4 of the present paper, where we propose
+an alternative to the change of variables from [1].
+
+4
+
+and the paragraph after (5a)). These modified field equations (called nowadays
+the "polynomial form of the field equations") are satisfied everywhere, includ-
+ing at the throat. It was discovered much later that one can also work with the
+original form of the field equations if a thin shell of "exotic matter" is added at
+the throat [6, 7].
+
+As a spacetime, the Einstein-Rosen bridge (6) suffers from the problem that
+the time coordinate t becomes infinite on the throat (since infall time to the
+throat is infinite in Schwarzschild coordinates). In (6) the 4-dimensional sheets
+u > 0 and u < 0 are therefore not properly glued at the throat.2 Namely,
+studying the passage of a particle from the sheet u > 0 to u < 0 would require
+to go through t = ∞, which is not a well defined part of the manifold. We will
+see how to fix this problem in Section 3.
+
+In 1939, Oppenheimer and Snyder, capitalizing on the complete decoupling
+between proper time and the time experienced by a distant observer, in the
+absence of a cross term in dr dt, suggested using the external metric solution
+to describe the "freeze frame" of the implosion of a massive star at the end of
+its life. By considering that the variable t is identified with the proper time
+of a distant observer, it creates this "freeze frame" pattern such as a collapse
+phenomenon whose duration, in proper time, measured in days, seems for a
+distant observer to unfold in infinite time ([13]). This paper was considered as
+the foundation of the black hole model.
+
+In 1960, Kruskal extended the geometric solution to encompass a contractible
+spacetime, organized around a central singularity corresponding to r = 0. The
+geodesics are extended for r < α. The black hole model (with spherical symme-
+try3) then takes its definitive form as the implosion of a mass, in a brief moment,
+perceived as a "freeze-frame" by a distant observer ([10]). The Schwarzschild
+sphere is then termed the "event horizon".
+
+In 1988, M. Morris and K. S. Thorne revisited this geometric interpretation
+by abandoning contractibility, not to attempt to obtain a geometric modeling of
+the solution, but to study the possibility of interstellar travel, through "worm-
+holes", using the following metric ([12]):
+ds2 = −c2dt2 + dl2 + (b2
+
+o + l2)(dθ2 + sin2 θdϕ2)
+
+(7)
+
+By focusing their study on the feasibility of interstellar travel, the authors
+highlight the enormous constraints associated with such geometry as well as its
+unstable and transient nature.
+
+2Gluing the spatial (3-dimensional) parts of the two sheets does not raise any special
+
+difficulty, however.
+
+3In 1963, Roy Kerr constructed the stationary axisymmetric solution to Einstein’s equation
+in vacuum. However, in this article, we limit ourselves to the interpretations of the stationary
+solution with spherical symmetry.
+
+5
+
+Figure 1: Page 396 of the article by M. Morris and K.S. Thorne (1988)
+
+2 Distinction between the Kruskal-Szekeres Ex-
+
+tension and the Einstein-Rosen Bridge
+
+The Kruskal-Szekeres extension and the Einstein-Rosen bridge are two major
+constructions in the study of spacetime geometry around a wormhole. However,
+their geometric natures differ significantly.
+
+The Kruskal-Szekeres spacetime is defined by a traditional semi-Riemannian
+manifold, characterized by a non-degenerate metric at every point. This makes
+it consistent with the general framework of general relativity, where the metric’s
+signature is homogeneous and does not vary [11], [21].
+
+In contrast, the Einstein-Rosen spacetime has a degenerate metric at certain
+points, namely, at the bridge’s throat. This characteristic places it in the class
+of singular semi-Riemannian manifolds as defined by Ovidiu Stoica [19]. This
+fundamental distinction shows that the Kruskal-Szekeres spacetime is not simply
+an extension of Einstein-Rosen but a fundamentally different construction.
+
+6
+
+This geometric difference between the two spacetimes is also responsible for
+a physical difference. Indeed, as already mentioned in Section 1, for the field
+equations to be satisfied at the throat of the Einstein-Rosen bridge one needs
+to add a thin shell of exotic matter at the throat [6, 7] (or one can work with
+the polynomial form of the field equations as in [3]). By contrast the Kruskal-
+Szekeres extension satisfies the ordinary form of the field equations in vacuum,
+including at the event horizon.
+
+Thus, these two spacetimes cannot be considered versions of each other but
+rather two distinct interpretations of the geometry around a wormhole. This
+was already pointed out in several papers by Guendelman et al. Consider in
+particular [6], where they write:
+
+[29] The nomenclature of “Einstein-Rosen bridge” in several standard
+textbooks (e.g. [15]) uses the Kruskal-Szekeres manifold. The latter
+notion of “Einstein-Rosen bridge” is not equivalent to the original
+construction in [14]. Namely, the two regions in Kruskal-Szekeres
+space-time corresponding to the outer Schwarzschild space-time re-
+gion (r > 2m) and labeled (I) and (III) in [15] are generally discon-
+nected and share only a two-sphere (the angular part) as a common
+border (U = 0, V = 0 in Kruskal-Szekeres coordinates), whereas in
+the original Einstein-Rosen “bridge” construction the boundary be-
+tween the two identical copies of the outer Schwarzschild space-time
+region (r > 2m) is a three-dimensional hypersurface (r = 2m).
+
+We can also cite two other papers whose authors make the same obser-
+vation regarding the Kruskal-Szekeres extension’s inadequacy in properly an-
+alyzing the Einstein-Rosen bridges: that of Guendelman et al.
+[7] and that
+of Poplawski [14]. Indeed, to distinguish these spacetimes, Poplawski uses the
+terms "Schwarzschild bridge" and "Einstein-Rosen bridge".
+
+For all these reasons, we will not work with the Kruskal-Szekeres extension
+in this paper. We note in particular that the common claim [5, 11] that the
+Einstein-Rosen bridge is not traversable is actually based on an analysis of the
+Kruskal-Szekeres extension; but, as pointed out in [7, 9], the original Einstein-
+Rosen bridge [3] is in fact traversable.
+
+3 Construction of a Lorentzian geometric solu-
+
+tion at infinity with two sheets
+
+In this section we study the symmetries of a modified version of the original
+Einstein-Rosen bridge [3]. Let us consider the exterior Schwarzschild metric in
+its classical form under the signature (+ - - -) :
+
+(8)
+
+ds2 =
+
+dr2 − r2(dθ2 + sin2 θdφ2)
+
+(cid:16)
+
+1 − α
+r
+
+(cid:17)
+
+c2dt2 −(cid:16)
+
+1 − α
+r
+
+(cid:17)−1
+
+7
+
+As recalled in Section 2, Einstein and Rosen defined their "bridge" from the
+change of variables r = α + u2 in 8. The starting point for the definition of
+the modified bridge is the idea from [6, 7] to work instead with the change of
+variables r = α +|η| where η ∈ R is a new radial parameter. As shown in [6, 7],
+the resulting spacetime satisfies the original form of the field equations, including
+at the throat η = 0, if some "exotic matter" (a lightlike membrane) is added
+at the throat. By contrast, as recalled in Section 2, Einstein and Rosen had to
+work with the polynomial form of the field equations.
+As we now explain, the modified bridge studied in this section is obtained
+by combining the change of variables r = α + |η| with Eddington’s change of
+variables for the time parameter.
+
+(cid:12)(cid:12)(cid:12)
+
+(cid:12)(cid:12)(cid:12)
+
+3.1 PT-symmetry
+Eddington [2] introduced his change of variables
+
+(cid:12)(cid:12)(cid:12) r
+
+α
+
+t+
+E = t +
+
+α
+c
+
+ln
+
+− 1
+
+(9)
+
+(cid:12)(cid:12)(cid:12) r
+
+α
+
+ln
+
+− 1
+
+with the aim of eliminating the coordinate singularity at the Schwarzschild
+surface in r = α. The metric becomes:
+α
+r
+
+E − r2(cid:0)dθ2 + sin2 θdφ2(cid:1)
+
+dr2 − 2αc
+r
+
+2 −(cid:16)
+
+(10) ds2 =
+
+1 − α
+r
+
+c2dt+
+E
+
+drdt+
+
+(cid:17)
+
+(cid:17)
+
+(cid:16)
+
+1 +
+
+We know that under these conditions free fall time is finite in Eddington
+coordinates, i.e., a massive infalling particle will reach the surface r = α for a
+finite value of t+
+[9]. It is however well-known that the surface r = α is not
+reached for any finite value of the Schwarzschild time parameter t.
+
+E
+
+By contrast, escape time for t+
+
+E
+
+remains infinite. The metric for which the
+
+escape time is finite will be obtained by performing this change of variable:
+
+(11)
+
+In this case, the metric becomes:
+
+(cid:16)
+
+(cid:17)
+
+E = t − α
+t−
+c
+(cid:17)
+
+2 −(cid:16)
+
+E − r2(cid:0)dθ2 + sin2 θdφ2(cid:1)
+
+c2dt−
+
+1 − α
+r
+
+(12) ds2 =
+The modified bridge studied in [9] combines the change of variables r = α + |η|
+with (9), i.e., we work with the new time parameter t′ = t + α
+
+dr2 +
+
+c ln(cid:12)(cid:12) η
+
+(cid:12)(cid:12) .
+
+1 +
+
+r
+
+E
+
+α
+
+2αc
+
+drdt−
+
+α
+r
+
+Thus, the metric becomes:
+
+α + |η| c2dt′2− 2α + |η|
+|η|
+
+α + |η| dη2− 2αc
+
+α + |η| dη dt′− (α +|η|)2(cid:0)dθ2 + sin2 θdφ2(cid:1) .
+
+(13)
+
+ds2 =
+
+This line element already appears in the appendix of [6] in slightly different
+notation. It describes a spacetime made of two sheets connected at the throat
+η = 0. The sheet η > 0 is equipped with the ingoing Eddington metric (10)
+
+8
+
+and the sheet η > 0 is equipped with the outgoing metric (12). As pointed
+in [9], an infalling particle beginning its trajectory in the region η > 0 will reach
+the throat η = 0 for a finite value of the Eddington time parameter t′, and
+will then continue in the region η < 0. This resolves the gluing problem that
+was mentioned in Section 1 for the original version of the Einstein-Rosen bridge
+(recall that the throat is reached for t = ∞ with the bridge as defined in [3]).
+The line element (13) is invariant under the joint transformations η (cid:55)→
+−η, t′
+(cid:55)→ −t′. The physical significance of this symmetry will be discussed
+in Section 3.3. Note that the line element (6) has a similar symmetry, and in
+fact it is more symmetric since it is invariant under each of the two transforma-
+tions u (cid:55)→ −u and t (cid:55)→ −t. This extra symmetry is due to the absence in (6) of
+a cross term such as the term dηdt′ in (13).
+
+3.2 Change of orientation
+In general, we expect a P-symmetry or PT-symmetry to be associated to a
+change of orientation. In this section we confirm that this is indeed the case by
+taking a closer look at the geometry of the modified bridge (13) in the vicinity
+of the throat η = 0. In this representation, the radial geodesics of the first sheet
+are orthogonal to the tangent plane at the "space bridge" when they reach it.
+These same geodesics, emerging in the second sheet, are also orthogonal to
+this same tangent plane. Let’s now consider four points forming a tetrahedron,
+which converge towards the "space bridge" along radial trajectories. We can set
+a 3D orientation by defining a direction of traversal of the points on each of the
+equilateral triangles forming the tetrahedron. With respect to the coordinate
+r = α + |η|, it seems as if these points bounce off a rigid surface, leading to an
+inversion of the orientation of the tetrahedron. The upstream and downstream
+tetrahedra then become enantiomorphic (Figure 2).
+
+Figure 2: Inversion of space when crossing the "space bridge"
+
+The change of orientation is already visible in the simplified 2-dimensional
+representation of a wormhole in Figure 1. Let us look at this figure from above,
+and imagine a triangle gliding on the surface of the top sheet toward the throat.
+After crossing the throat, the triangle starts gliding on the bottom sheet and we
+
+9
+
+now see it upside now from our position above the top sheet. From our point
+of view, its orientation has therefore changed. The physical meaning of this
+change of orientation will be discussed in Section 3.3.
+
+The geometric structure of the pair of metrics 6 and 8 thus represents a
+
+"bridge" connecting two PT-symmetric semi-Riemannian spaces.
+
+The element of this 2D-surface is then given by:
+
+As this metric describes a 2D-surface sphere (like a sphere of constant radius
+
+in a 4D spacetime), then the differential area element is given by :
+
+To find the minimal area of this "space bridge", we must integrate this area
+
+element over all possible angles :
+
+(cid:113)|gθθgϕϕ| = α2 sin(θ)
+(cid:113)| det(gµν)| =
+(cid:113)| det(gµν)|dθdϕ = α2 sin(θ)dθdϕ
+(cid:90) 2π
+
+(cid:90) π
+
+α2 sin(θ)dθdϕ = 4πα2
+
+A =
+
+dA =
+
+0
+
+0
+
+(14)
+
+(15)
+
+(16)
+
+It’s therefore non-contractible with a minimal area of 4πα2.
+
+Identification of the two sheets
+
+3.3
+In Section 3.2 we have described the change of orientation of a tetrahedron
+crossing the wormhole throat in Figure 2, and of a triangle crossing the throat
+in Figure 1. The change of orientation of the triangle is only visible for a person
+looking at Figure 1 in its entirety. Therefore, it does not correspond to any
+physically observable phenomenon since any physical observer must be located
+on one of the two sheets and cannot see directly the other sheet. The situation
+is the same in Figure 2 : The middle picture represents the situation from a
+point of view where we could look simultaneously at the two sides of the worm-
+hole (B and C have not reached the throat yet, while A has already crossed
+it and emerges on the other side). This is again impossible for a physical ob-
+server: it seems that the PT-symmetry as described so far does not correspond
+to any physically observable phenomenon. We can however give it a real physi-
+cal meaning with an additional ingredient due to Einstein and Rosen [3].
+
+Recall that their motivation was not to investigate interstellar travel as in
+Figure 1, but to describe elementary particles by solutions to the equations of
+general relativity. Quoting from the abstract of their paper: "These solutions
+involve the mathematical representation of physical space by a space of two iden-
+tical sheets, a particle being represented by a "bridge" connecting these sheets."
+
+10
+
+Einstein and Rosen also suggest that the multi-particle problem might be stud-
+ied by similar methods, but this work is not carried out in their paper.
+
+Quoting again from [3] : "If several particles are present, this case corre-
+(3a),
+sponds to finding a solution without singularities of the modified Eqs.
+the solution representing a space with two congruent sheets connected by several
+discrete "bridges."" From their point of view, two points in the mathemat-
+ical representation (6) with identical values of θ, ϕ but opposite values of u
+therefore correspond to two points in physical space with the same value of r
+(r = u2 + 2m). If we make the same identification of points with opposite values
+of u, the situation represented in the middle picture of Figure 2 can be seen by a
+physical observer. The change of orientation described in Section 3.2 now has a
+real physical meaning. We will elaborate on the interpretation of the combined
+PT-symmetry in the next section.
+In Section 5 we present a precise mathe-
+matical model of the identification of the two sheets for the modified bridge
+described in Section 3.1.
+
+4 Another Representation of this Geometry
+By performing the following change of variable to 10 and 12 :
+
+c2dt+
+E
+
+2 −
+
+α2 tanh2(ρ)dρ2
+
+1 + log cosh(ρ)
+E − α2(1 + log cosh(ρ))2(dθ2 + sin2 θdφ2)
+
+dρdt+
+
+(17)
+
+r = α (1 + log ch(ρ))
+
+We then obtain the following two metrics:
+
+(cid:18) log cosh(ρ)
+
+(18)
+
+ds2 =
+
+1 + log cosh(ρ)
+− 2cα
+
+tanh(ρ)
+
+1 + log cosh(ρ)
+
+(cid:18) log cosh(ρ)
+
+(19)
+
+ds2 =
+
+(cid:19)
+
+(cid:19)
+
+(cid:18)
+
+(cid:18)
+
+(cid:19)
+
+(cid:19)
+
+(cid:18) 2 + log cosh(ρ)
+
+(cid:19)
+
+(cid:18) 2 + log cosh(ρ)
+
+(cid:19)
+
+c2dt−
+
+2 −
+
+α2 tanh2(ρ)dρ2
+
+E
+
++ 2cα
+
+tanh(ρ)
+
+dρdt−
+
+1 + log cosh(ρ)
+
+1 + log cosh(ρ)
+
+1 + log cosh(ρ)
+E − α2(1 + log cosh(ρ))2(dθ2 + sin2 θdφ2)
+Therefore, to obtain the metric that structures the second sheet for ρ < 0 in
+order to ensure the continuity of the geodesics translating the transit of matter
+through the "bridge" with a finite escape time on this sheet, we must apply the
+E = −t−
+T-symmetry where the time coordinate is reversed upon crossing, i.e., t+
+.
+This T-symmetry is not merely a result of the coordinate choice but has a
+deeper physical implication. It indicates that the two sheets are time-reversed
+versions of each other, meaning that events in one sheet are mirrored as re-
+versed in time in the other sheet. This is crucial for maintaining the overall
+
+E
+
+11
+
+causal structure and physical consistency of the spacetime. The time reversal
+symmetry ensures that particles traversing the bridge experience a continuous
+and consistent physical law, even though their time direction is inverted upon
+crossing.
+
+In the context of our construction, this T-symmetry implies that an observer
+in one sheet would perceive the events in the other sheet as happening in re-
+verse temporal order. This is more than a mathematical artifact; it reflects a
+physical reality where the symmetry of time reversal plays a fundamental role
+in connecting the two sheets through the bridge.
+
+Jean-Marie Souriau’s dynamic group theory provides further insight into this
+phenomenon, showing that the inversion of the time coordinate results in an in-
+version of energy, transforming the motion of a particle of mass m into a motion
+of a particle of mass −m [18]. This suggests that the T-symmetry might lead to
+observable effects where particles and antiparticles are connected through the
+bridge.
+
+Those metrics, which are Lorentzian at infinity, structures two sheets corre-
+sponding to ρ varying respectively from 0 to +∞ and −∞ to 0. On the "space
+bridge" for ρ = 0, the components gtt and gρρ of the metric tensor disappear,
+leaving only the last two spatial components gθθ and gϕϕ, which are:
+
+(20)
+
+gµν =
+
+0
+
+0
+0
+0
+
+
+
+0
+0
+0
+0
+0 −α2
+0
+0
+
+0
+0
+0
+
+−α2 sin2 θ
+
+On this particular coordinate system, we can infer that its determinant is
+zero. The P-symmetry arises from the fact that adjacent points, this time ex-
+plicitly differentiated, are inferred by ρ → −ρ. This transformation plays the
+same role as u → −u in 6.
+
+One nice property of the change of variables (17) is that the two resulting
+metrics are explicitly Lorentzian as |ρ| → +∞. This was also the motivation
+for the change of variables r2 = ρ2 + 4m2 proposed by Chruściel [1] and already
+mentioned in footnote 1.
+
+By associating these metric solutions under these two conditions, we would
+
+obtain a Wormhole and a White Fountain as a One-Way Membrane.
+
+By associating these metric solutions under these two conditions, we would
+obtain a Wormhole and a White Fountain as a One-Way Membrane, connect-
+ing two semi-Riemannian spaces through a "bridge" that can be crossed only
+in one direction4. Let us assume further that the wormhole does not lead to
+
+4The term White Fountain refers to a hypothetical construct where the bridge allows
+passage only in one direction, similar to the concept of a white hole in cosmology. This termi-
+
+12
+
+another universe as in Figure 1.a, or to a distant point in the same universe as
+in Figure 1.b; but that the two congruent sheets correspond to the same points
+in the physical universe through the transformation u → −u (or ρ → −ρ), as
+suggested in [3] and in Section 3.3. We can then conclude that the two sheets
+are PT-symmetric5.
+
+In the literature, the inversion of the time coordinate has been analyzed in
+
+various ways. In particular:
+
+(i) It was analyzed through the dynamic group theory of J-M Souriau ([17],[18]),
+
+and was shown to result in an inversion of energy. Consequently, time re-
+versal transforms every motion of a particle of mass m into a motion of
+a particle of mass −m ([18], page 191). On page 192 of the same book,
+the author offers an alternative analysis which avoids negative masses.
+Souriau points out that these alternatives should be judged according to
+their ability to explain experiments.
+
+(ii) Feynman has offered an interpretation of antimatter as ordinary matter
+
+traveling backward in time.
+
+(iii) It is known from theoretical analysis (the CPT theorem) and from ex-
+periments that elementary particles obey physical laws that are invariant
+under CPT-symmetry.
+
+The PT-symmetry uncovered in Section 3 can be viewed as a CPT-symmetry
+followed by a C-symmetry (inversion of electric charge). This suggests that the
+PT-symmetry might lead to observable effects where particles and antiparticles
+are connected through the bridge. If the second sheet already contains ordi-
+nary matter, it could interact with the antimatter coming from the first sheet,
+constituting a potential source of energy. This provides a profound physical
+interpretation of the PT-symmetry in our geometric construction beyond the
+simple choice of coordinates.
+
+5 The Bimetric Bridge
+At the end of Section 3 we explained that according to [3], two points in the
+mathematical representation (6) with identical values of θ, ϕ but opposite values
+of u correspond to two points in physical space with the same value of r (r =
+u2 + m). If we identify in (6) two points with opposite values of u, it seems
+that we are just left with a single sheet carrying the Schwarzschild solution in
+
+nology is introduced to differentiate from traditional Einstein-Rosen bridges and to emphasize
+the unidirectional nature of the structure.
+
+5This PT-symmetry is primarily a mathematical symmetry of the construction, represent-
+ing how the two sheets mirror each other across the bridge. For physical spacetime, this
+symmetry indicates that the identified points on the two sheets correspond to the same phys-
+ical location, but the interpretation requires careful consideration of the physical implications
+and potential observable effects.
+
+13
+
+the region r > α. The "throat" u = 0 (or r = α, in Schwarzschild coordinates)
+therefore appears as a limit of space rather than a gateway to a second sheet.
+For the modified bridge studied in Section 3.1, the situation is more inter-
+esting because the two sheets carry different metrics (the ingoing and outgoing
+Eddington metrics). After identification of two points with opposite values of η
+in (13), we are again left with a single sheet but it is equipped with the two
+metrics:
+
+(cid:16)
+(cid:16)
+
+1 − α
+r
+
+1 − α
+r
+
+(cid:17)
+(cid:17)
+
+c2dt2 −(cid:16)
+c2dt2 −(cid:16)
+
+(cid:17)
+(cid:17)
+
+α
+r
+
+α
+r
+
+1 +
+
+dr2 − 2αc
+r
+
+1 +
+
+dr2 +
+
+2αc
+
+r
+
+drdt − r2(cid:0)dθ2 + sin2 θdφ2(cid:1)
+drdt − r2(cid:0)dθ2 + sin2 θdφ2(cid:1)
+
+(21) ds2
+
++ =
+
+(22) ds2− =
+
+We therefore obtain a bimetric model. A particle that is infalling according
+to the first metric will reach the throat r = α for a finite value of t (say, t = t0).
+For t > t0 the second (outgoing) metric takes over. The particle will effectively
+seem to go back in time (it retraces its steps) since (22) is obtained from (21) by
+the transformation t (cid:55)→ −t. This is consistent with the PT-symmetry uncovered
+in Section 3.1.
+
+Comparison with Hossenfelder’s bimetric theory. A "bimetric theory
+with exchange symmetry" was proposed by Hossenfelder in [8]. There are two
+types of matter in this theory, which can be viewed as matter of "positive
+mass" and "negative mass". Each type of matter follows the geodesics of its own
+metric. In Hossenfelder’s theory, metric (21) describes the movement of positive
+masses in a field created by a point of positive mass since her theory reduces to
+General Relativity in this case. We therefore obtain the ordinary Schwarszchild
+metric (see equation (36) in [8]), or 21) in the ingoing Eddington coordinates.
+It is therefore natural to ask whether (22) might describe the movement of a
+particle of negative mass in the field created by the same positive positive mass as
+in (21). The answer to this question is negative because in Hossenfelder’s theory,
+the corresponding metric is obtained from the ordinary Schwarszchild metric (8)
+by the transformation α (cid:55)→ −α (equation (37) in [8]). If we apply Eddington’s
+change of variables to the resulting metric, we do not obtain anything like (22).6
+
+6 Conclusion
+This new geometric object behaves as a "One-Way Membrane", a union of
+a wormhole and a white fountain through a "bridge". The wormhole allows
+passage between two points, while the white fountain aspect ensures the uni-
+directional nature, preventing return through the bridge. We introduce a new
+geometric construction based on the static solution with spherical symmetry of
+
+6As pointed out in Section V of [8], "changing to one of the more well-behaved systems
+with e.g. in-/outgoing Eddington-Finkelstein coordinates will be a nice transformation for the
+usual metric g, but completely mess up the other metric h."
+
+14
+
+Einstein’s equation in vacuum, by limiting ourselves to the only two hypotheses,
+inspired by physics: isotropy (invariance by SO(3)) and stationarity (invariance
+by time translation). This new geometric object behaves as a "One-Way Mem-
+brane", a union of a wormhole and a white fountain through a "bridge". The
+wormhole allows passage between two points, while the white fountain aspect
+ensures the unidirectional nature, preventing return through the "bridge". With
+a Lorentzian metric at infinity, this structure connects two PT-symmetric enan-
+tiomorphic semi-Riemannian spaces. Therefore, this object corresponds to the
+two-sheets covering of a four-dimensional spacetime, presenting themselves as
+PT-symmetric, connected along a "bridge". Taking our inspiration from Ein-
+stein and Rosen, we have suggested to represent a point in physical space by a
+pair of congruent points, one on each of the two sheets. We have shown that
+this identification of congruent points should lead to observable physical effects
+when an object crosses the space bridge between the two sheets. Finally, we
+have proposed a bimetric model to realize this identification, and we compared
+it to Hossenfelder’s bimetric theory.
+
+References
+[1] Chruściel, P. T., Lectures on Mathematical Relativity, Lecture notes,
+revised and extended May 2008 following lectures on black holes in
+Marrakech, Beijing, July 2006, Mathematical Institute and Hertford Col-
+lege, Oxford, LMPT, Fédération Denis Poisson, Tours, accessed online at
+https://homepage.univie.ac.at/piotr.chrusciel/papers/BeijingAll.pdf,
+pages 77-78.
+
+[2] Eddington A., A comparison with Withehead’s and Einstein’s Formulae, Na-
+
+ture, 1925.
+
+[3] Einstein A., Rosen N., The Particle Problem in the General Theory of Rel-
+
+ativity, Phys. Rev. 48, 73, July 1935.
+
+[4] Flamm L., Contributions to Einstein’s theory of gravitation, 1916.
+[5] Fuller R.W., Wheeler J.A, Causality and multiply connected space-time.
+
+Physical Review, 1962.
+
+[6] Guendelman, E., Kaganovich, A., Nissimov, E., Pacheva, S., Spherically
+symmetric and rotating wormholes produced by lightlike branes, International
+Journal of Modern Physics A 25 (07), 1405-1428, 2010.
+
+[7] Guendelman, E., Nissimov, E., Pacheva, S., Stoilov, M., Einstein-Rosen
+"bridge" revisited and lightlike thin-shell wormholes, Bulgarian Journal of
+Physics 44:84–97, 2017.
+
+[8] Hossenfelder, S., Bimetric theory with exchange symmetry, Physical Review
+
+D 78, 2008.
+
+15
+
+[9] Koiran P., Infall Time in the Eddington-Finkelstein Metric, with Application
+
+do Einstein-Rosen Bridges, Inter. Jr. of Mod. Phys. D, 14, August 2021.
+
+[10] Kruskal, M. D., "Maximal Extension of Schwarzschild Metric," Physical
+
+Review, Vol. 119, No. 5, 1960.
+
+[11] Misner C. W., Thorne K.S., Wheeler J.A. Gravitation. Macmillan, 1973.
+[12] Morris M., Thorne K.S., "Wormholes in spacetime and their use for inter-
+stellar travel: A tool for teaching General Relativity”, Am. J. Phys. 56, 395,
+1988.
+
+[13] Oppenheimer J.R., Snyder H., On Continued Gravitational Contraction,
+
+Phys. Rev. Vol. 56 pp 455-459, September 1939.
+
+[14] Popławski, N., Radial motion into an Einstein–Rosen bridge, Physics Let-
+
+ters B 687:110–113, 2010.
+
+[15] Schwarzschild K., "Über das Gravitationsfeld Messenpunktes nach der Ein-
+
+steinschen Theorie. Sit. Deut. Akad. Wiss., Januar 1916.
+
+[16] Schwarzschild K., "Über das Gravitionalsfeld einer Kugel Aus incompress-
+ibler Flüssigkeit nach der Einsteinschen Theorie. Sitzung der phys. Math.
+Klasse v., 23, Februar 1916.
+
+[17] Souriau J. M., Géométrie et relativité, Hermann, (1964).
+[18] Souriau J. M., Structure of Dynamical Systems, a Symplectic View of
+
+Physics, New York: Birkhäuser Verlag, (1997).
+
+[19] Stoica O. C., On singular semi-Riemannian manifolds, International Jour-
+
+nal of Geometric Methods in Modern Physics 11, 2014.
+
+[20] Tolman R., Relativity, Thermodynamics and Cosmology. The International
+Series of Monographs on Physics, Oxford at the Clarendon Press. London,
+1934.
+
+[21] Wald R.M., General Relativity, University of Chicago Press, 1984.
+
+16
+
+

@@ -1,0 +1,88 @@
+Incoh´erence Physique et Math´ematique du “mod`ele Janus-2019” de J. P. Petit et coll.
+
+Thibault Damour, IHES
+
+12 d´ecembre 2022
+
+Dans le document “Sur le “mod`ele Janus” de J. P. Petit” (mis en ligne sur
+http://www.ihes.fr/˜damour le 4 Janvier 2019), j’avais expliqu´e en grand d´etail
+l’incoh´erence physique et math´ematique de la version du mod`ele Janus publi´ee
+en 2014 par J. P. Petit and G. d’Agostini; c.a.d.
+
+J. P. Petit. et G. d’Agostini, “Negative mass hypothesis in cosmology and the
+
+nature of dark energy”, Astrophys. Space Sci DOI 10.1007/s10509-014-2106-5);
+
+J. P. Petit, et G. d’Agostini, “Cosmological bimetric model with interacting pos-
+itive and negative masses and two diﬀerent speeds of light, in agreement with the
+observed acceleration of the Universe”. Mod. Phys. Lett. A Vol. 29 (no 34) (2014)
+145082.
+
+Quelques mois plus tard (le 12 Mars 2019), j’ai re¸cu une lettre de J. P. Petit
+aﬃrmant qu’il avait maintenant r´esolu l’incoh´erence (que j’avais signal´ee) de la
+version 2014 du mod`ele Janus dans un nouvel article:
+
+Jean-Pierre Petit, Gilles D’Agostini and Nathalie Debergh [disons PDD19], “ Phys-
+ical and Mathematical Consistency of the Janus Cosmological Model (JCM)”, Progress
+in Physics, 15, issue 1, (2019) (http://www.ptep-online.com )1
+
+Dans sa lettre du 12 mars 2019 (et dans un courriel ult´erieur du 3 avril
+2019) J. P. Petit aﬃrmait qu’il avait corrig´e l’incoh´erence que j’avais point´ee du
+doigt par “une l´eg`ere modiﬁcation des seconds membres des ´equations Janus”,
+et me demandait de modiﬁer mon document du 4 janvier 2019 pour prendre en
+compte son travail de 2019. J’ai r´epondu `a J. P. Petit dans un courriel d’avril
+2019 en y disant que: “Dans votre dernier article, “Physical and Mathematical
+Consistency of the JCM” (January 2019), vous dites avoir corrig´e l’incoh´erence
+(soulign´ee dans mon texte) du mod`ele Janus par “une l´eg`ere modiﬁcation des
+seconds membres des ´equations Janus”. Mais, les sections 3 et 4 de votre article,
+loin de fournir une d´eduction bien d´eﬁnie d’une th´eorie modiﬁ´ee coh´erente, sont
+math´ematiquement incoh´erentes, et conduisent, selon votre article lui-mˆeme, `a
+une incoh´erence math´ematico-physique.”
+
+Malgr´e cette r´eponse, il semble que ni J.P. Petit, ni ses collaborateurs (ni
+plusieurs de ses amis qui m’ont inond´e de lettres recommand´ees ces derniers
+mois) n’ont appr´eci´e l’incoh´erence math´ematico-physique des ´equations de champ
+publi´ees dans leur article de 2019. Pour clariﬁer cette situation, je discute ci-
+dessous en d´etail les graves incoh´erences de la version 2019 du mod`ele Janus.
+
+Les ´equations de base qui d´eﬁnissent “le mod`ele Janus-2019” concernent
+deux m´etriques (de signatures Lorentziennes − + ++), g+
+µν, sur une
+mˆeme vari´et´e quadri-dimensionnelle, et sont (´equations (40), (41) de PDD19):
+
+µν et g−
+
+w+E+
+w−E−
+µν = Eµν(g±) = R±
+
+µν = χ(w+T +
+µν = −χ(w−T −
+µν − 1
+
+Ici: E±
+
+g−); w± ≡(cid:112)− det g±; χ = +8πG/c4 (avec mes conventions); les deux tenseurs
+
+µν d´enote le tenseur d’Einstein (de g+ ou
+
+2 R±g±
+
+µν + w−ϕT −
+µν) ,
+µν + w+ϕT +
+
+µν).
+
+(1)
+
+1Notons en passant que la date exacte de publication de cet article n’est pas claire. Le
+volume 1 est ´etiquet´e comme “January 2019”. Cependant, le dernier article de ce volume,
+c.a.d.“Non-commutativity: Unusual View”, by Valeriy V. Dvoeglazov, est marqu´e comme “
+Submitted on February 18, 2019”, ce qui est ´etrange pour un volume formellement publi´e en
+Janvier 2019. Quoiqu’il en soit, la premi`ere copie que j’ai re¸cue de ce travail m’a ´et´e envoy´ee
+par J. P. Petit le 12 mars 2019.
+
+1
+
+

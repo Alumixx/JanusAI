@@ -1,0 +1,1201 @@
+6
+1
+0
+2
+
+ 
+
+p
+e
+S
+0
+3
+
+ 
+
+ 
+ 
+]
+c
+q
+-
+r
+g
+[
+ 
+ 
+
+2
+v
+5
+7
+0
+7
+0
+
+.
+
+3
+0
+6
+1
+:
+v
+i
+X
+r
+a
+
+Static Scalar Field Solutions in Symmetric Gravity
+
+S. Hossenfelder∗
+
+Frankfurt Institute for Advanced Studies
+
+Ruth-Moufang-Straße 1, 60438 Frankfurt am Main, Germany
+
+Abstract
+
+We study an extension of general relativity with a second metric and an ex-
+change symmetry between the two metrics. Such an extension might help to address
+some of the outstanding problems with general relativity, for example the smallness
+of the cosmological constant. We here derive a family of exact solutions for this
+theory. In this two-parameter family of solutions the gravitational ﬁeld is sourced
+by a time-independent massless scalar ﬁeld. We ﬁnd that the only limit in which
+the scalar ﬁeld entirely vanishes is ﬂat space. The regular Schwarzschild-solution
+is left with a scalar ﬁeld hidden in the second metric’s sector.
+
+1 Introduction
+
+General relativity, now more than a century old, still holds numerous mysteries: The cos-
+mological concordance model, ΛCDM – where Λ stands for the cosmological constant
+and CDM for cold dark matter – requires the introduction of dark matter and dark energy
+whose microscopic origin is unknown. Worse, it is still unclear how information can be
+recovered from black holes, signaling a severe shortcoming in our understanding of the
+theory’s semi-classical limit. And worst, we still do not know the right way to combine
+general relativity with quantum ﬁeld theory.
+
+The cosmological constant in particular is hard to make sense of as vacuum energy,
+and even the most popular approaches to quantum gravity fail to explain not only its
+value, but how a value as small as measured can be stabilized without undue ﬁnetuning.
+Indeed, it has recently been argued that even if we would manage to explain the value of
+the cosmological constant itself, the expected ﬂuctuations around the mean value would
+still be problematic [1].
+
+In the hope to address some of these shortcomings, many attempts have been made to
+extend general relativity by additional ﬁelds. The maybe most obvious modiﬁcation is to
+add a second metric, because such an extension can be expected to make itself noticable
+primarily in the gravitational sector where its effects would be desirable. These so-called
+‘bi-metric’ theories [2, 3, 4, 5, 6, 7] were long thought to be unstable, but it has recently
+
+∗hossi@ﬁas.uni-frankfurt.de
+
+1
+
+S. Hossenfelder
+
+Symmetric Gravity
+
+been shown that in a fully covariant treatment, bi-metric theories can be free of ghosts
+and consistently stable [6, 7]. In these extensions of general relativity, gravitons can be
+massive.
+
+Bi-metric theories however leave one with a lot more freedom than general relativity
+because there are four different terms through which the two metrics can be coupled,
+and each of these terms introduces a new parameter. This additional freedom opens the
+possibility to ﬁt cosmological data better than ΛCDM [8], but the price to pay is that the
+additional parameter make the theory arbitrary and unappealing.
+
+This raises the question if not there are symmetry requirements which can be used to
+single out particularly natural bi-metric models, and indeed there are. The simplest bi-
+metric model is one in which an exchange of the two metrics does not alter the physics,
+gravitons remain massless, and direct coupling terms between the two metrics are absent
+[9]. For the sake of brevity, this particular bi-metric extension with exchange symmetry
+will hereafter be referred to as ‘symmetric gravity.’ If the symmetry is unbroken, sym-
+metric gravity has the same number of free parameters as general relativity, ie two: the
+gravitational coupling constant (Newton’s constant) and the cosmological constant.
+
+Bi-metric theories generically violate the equivalence principle because particles now
+have two different ways of coupling to gravity. As previously demonstrated in [9], sym-
+metric gravity in particular allows gravitational charges to become negative.
+Inertial
+masses always remain positive, but the ratio of inertial to gravitational mass can now be
+either plus or minus one. In the generalization from masses to the stress-energy-tensors,
+the introduction of negative gravitational charges becomes possible without inducing vac-
+uum instability because the source to the gravitational ﬁeld is no longer identical to the
+Noether current; instead, both are only identical up to a sign. Similar symmetries had
+previously been studied [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20], but the issue of
+covariance was only fully resolved in the bi-metric formulation of [9].
+
+Symmetric gravity provides a solution to the problem of technical naturalness of the
+cosmological constant. This is because the symmetry between positively and negatively
+gravitating ﬁelds cancels gravitational contributions to the vacuum energy to exactly zero.
+According to current measurements, the cosmological constant is, of course, not zero.
+But if the symmetry between the two matter sectors was weakly broken, the smallness of
+the cosmological constant would still be technically natural. So far we have not derived
+a speciﬁc mechanism for how to break the symmetry. However, symmetric gravity is to
+date the only known symmetry which can protect the cosmological constant and which
+is not already know to be strongly broken.
+
+However, little is known about symmetric gravity and its compatibility with obser-
+vation. The theory contains general relativity as a special case when the sectors of the
+two metrics decouple, and so we know that the solutions of general relativity can be re-
+covered. But recovering what we already know wasn’t why we added the second metric.
+Instead, we are interested to ﬁnd out what happens if both sectors interact with each other
+and whether that can explain some of our observations better than general relativity.
+
+2
+
+S. Hossenfelder
+
+Symmetric Gravity
+
+Unfortunately, even situations with homogeneous and spherically symmetric matter
+distributions display unintuitive properties and the equations become difﬁcult to solve.
+The purpose of this paper is to investigate one of the simplest cases: static, spherically
+symmetric scalar ﬁelds coupled to the two metrics. This investigation will turn out to be
+instructive and also prepares future work on collapse scenarios.
+
+Throughout this paper we use the convention c = ~ = 1. The signature of both
+metrics is (−1, 1, 1, 1). Small Greek indices are space-time indices and run from 0 to 3.
+
+2 Symmetric Gravity
+
+We will here brieﬂy summarize how one obtains the ﬁeld equations of symmetric gravity.
+The full treatment can be found in [9].
+
+The starting point is that we use two different metrics, g and h, each with its own
+coordinate system. The two sets of coordinates will be denoted with small Greek indices,
+one with and one without underlines. Once the equations are derived, one may chose
+the coordinate systems to be identical. However, the relation between the two systems
+contains gauge degrees of freedom which are necessary in the formulation of the action,
+otherwise the exchange symmetry cannot be made explicit. The relevance of this will
+become clear in the next section, when we construct a concrete solution.
+
+For each of the metrics we can deﬁne a Levi-Cevita connection that is torsion-free
+and metric-compatible. This gives rise to two different connections that will be marked
+with a preceding index to tell them apart, ie (g)∇ is the connection compatible with g
+and (h)∇ is the connection compatible with h. To each of the metrics we can then derive
+a curvature tensor, Ricci tensor, and curvature scalar, which will be denoted (g)Rα
+νκǫ,
+(h)Rα
+
+νκǫ, and so on.
+
+Next, we deﬁne the pull-over, τ , as the map between the two sectors that converts the
+
+derivatives into each other, ie
+
+τ ν
+ν
+
+(h)∇ντ α
+α τ
+
+γ
+
+β
+β τ
+
+γ ...Aαβγ... = (g)∇νAαβγ...
+
+,
+
+and similarly for contravariant indices. We use the ﬁrst index of τ for contraction with
+g and the second index for contraction with h. The map τ must be invertible, and so we
+deﬁne the inverse as
+
+τ κ
+
+ντ ν
+
+ν = δκ
+ν
+
+,
+
+τ ν
+ν τ ν
+
+κ = δν
+
+κ
+
+.
+
+We will denote the determinant of gκν with g and the determinant of hκν with h.
+
+Since (1) has to hold in particular for the metrics themselves, this implies
+
+(1)
+
+(2)
+
+(3)
+
+We have here introduced a normalization factor N , since it is not generally possible to
+set N = 1 if one ﬁxes the asymptotic values of both g and h.
+
+gνκ = N 2τ ν
+
+ν τ κ
+
+κ hνκ
+
+.
+
+3
+
+S. Hossenfelder
+
+Symmetric Gravity
+
+In addition to using the pull-overs, we can also just convert the indices from one
+basis into another, from which one obtains the coordinate expressions hνκ and gνκ. We
+therefore extend the deﬁnition of the pull-over in the obvious way to
+
+gνκ = N 2τ α
+
+ν τ ǫ
+
+κ hαǫ , gνκ = N 2τ α
+
+ν τ ǫ
+
+κ hαǫ
+
+.
+
+In the following we assume that the pull-over is not a dynamical ﬁeld and that the
+
+variation
+
+δτ νκ = 0 .
+
+This does not mean that the ﬁeld is constant – this would break general covariance. It
+just means that we do not add extra terms to the action that generate dynamical equations
+for the pull-over. In principle we could add both kinetic terms and a potential, but such
+a complication is not necessary for the following. For the purposes of this paper, one
+can think of the constraint (5) as being the condition in which the ﬁeld sits in a potential
+minimum.
+
+Finally, we assume that we have matter which consists of two sectors, identical except
+for their respective coupling to gravity. We will in the following focus on massless scalar
+ﬁelds, which we will denote φ and φ. The ﬁeld φ is a normally gravitating ﬁeld and the
+ﬁeld φ is the ﬁeld whose behavior is determined by the second metric. Of course this
+nomenclature is somewhat arbitrary since the two sectors obey the same equations. We
+simply refer to the one we have observed so far as ‘normal’ and chose to assign it the
+metric g. Let us emphasize here that φ is not conjugated to φ, and the second sector does
+not describe anti-matter.
+
+The action then takes the form
+
+S =Z d4x(cid:18)√−g (g)R/(8πG) −
++ Z d4x p−h (h)R/(8πG) −
+
+√−g
+√−h
+
+2
+
+√−h
+gκν∂ν φ∂κφ −
+hκν ∂νφ∂κφ − p−g
+
+2
+
+2
+
+2
+
+hκν∂ν φ∂κφ(cid:19)
+gκν∂ν φ∂κφ! ,
+
+where G is Newton’s constant.
+
+Two properties of this action are worth drawing attention to. First, the two metrics do
+not couple directly, they interact merely via the matter ﬁelds. Second, the kinetic terms
+of all ﬁelds are positive. Variation of this metric leads to the equations
+
+(g)Rκν −
+
+gκν
+
+(h)Rνκ −
+
+hνκ
+
+1
+2
+
+1
+2
+
+(g)R = 8πG Tκν −s h
+(h)R = 8πG(cid:18)T νκ −r g
+
+g
+
+h
+
+τ ν
+ν τ κ
+
+τ κ
+κτ ν
+
+κ T νκ!
+νTκν(cid:19) ,
+
+4
+
+(4)
+
+(5)
+
+(6)
+
+(7)
+
+(8)
+
+S. Hossenfelder
+
+where
+
+Symmetric Gravity
+
+Tµν = −
+
+T νκ = −
+
+1
+
+√−g
+√−h
+
+1
+
+δL
+δgµν +
+δL
+δhνκ +
+
+1
+2
+1
+2
+
+gµνL
+
+hνκL .
+
+(9)
+
+(10)
+
+With the sign convention adopted here the stress-energy-tensors (9) and (10) correspond
+to the generalization of the inertial masses, so that −T 0
+0 = ρ ≥ 0
+as usual. The change of sign in the coupling between the two types of ﬁelds comes in
+through the requirement (5); for details please refer to [9].
+
+0 = ρ ≥ 0 and −T 0
+
+In addition to the ﬁeld equations, we have the Bianchi-identities, which enforce the
+
+compatibility of the pull-over with the covariant derivatives:
+
+(g)∇ν s h
+
+g
+
+τ ν
+
+ντ κ
+
+κT νκ! = 0 , (h)∇ν s h
+
+g
+
+τ ν
+ν τ κ
+
+κ T νκ! = 0 .
+
+(11)
+
+Since the determinants of g and h transform identically, it is g/h = g/h. We have only
+added the underlines in Eqs (8,11) to make the symmetry more apparent.
+
+Inspecting the ﬁeld equations (7,8) shows quickly that vacuum solutions bring in an
+ambiguity because then the two metrics entirely decouple and the constraints (11) do
+not constrain anything. For this reason it is a priori entirely unclear what would be the
+correct symmetric extension of, for example, the Schwarzschild metric. To ﬁnd out, one
+should look at a collapse scenario because the presence of matter during collapse would
+tie together the two metrics, and one could then compare the endstates. Exact collapse
+solutions however are difﬁcult to ﬁnd. The next best thing we can do is to look at a family
+of static solutions that reduces to the vacuum case with some parameter, which we will
+do in the next section.
+
+3 Solving the Field Equations
+
+We here want to derive solutions for symmetric gravity sourced by a negatively gravitat-
+ing ﬁeld φ, and so we set φ = 0. This means we have to solve the equations
+
+where
+
+(g)Rκν −
+(h)Rνκ −
+
+1
+2
+1
+2
+
+gκν
+
+hνκ
+
+(g)R = −8πGph/gτ ν
+
+(h)R = 8πGT νκ
+
+,
+
+ν τ κ
+
+κ T νκ
+
+T νκ = ∂νφ∂κφ −
+
+hνκhαǫ∂αφ∂ǫφ ,
+
+1
+2
+
+5
+
+(12)
+
+(13)
+
+(14)
+
+S. Hossenfelder
+
+Symmetric Gravity
+
+and the scalar ﬁeld fulﬁlls the wave-equation in the h-background:
+
+∂νp−hhνκ∂κφ = 0 .
+
+The most general case would be a combination of non-vanishing φ and φ, but this
+generalization will turn out to be trivial once we know the case with a purely negative
+source. We will come back to this in the discussion.
+We start with the ansatz for spherical symmetry
+
+ds2
+ds2
+
+g = −α(r)2dt2 + a(r)2dr2 + Ω2
+h = −β(r)2dt2 + b(r)2dr2 + Ω2
+
+g(r)r2dΩ2 ,
+h(r)r2dΩ2 ,
+
+with the angular element
+
+dΩ2 = dθ2 + sin(θ)2dϕ2 ,
+
+(15)
+
+(16)
+(17)
+
+(18)
+
+where we have assumed that the angular coordinates are identical in both metrics. We
+have also assumed that the time-coordinates are identical. Since the metric is static, this
+can always be achieved by a rescaling without affecting the equations.
+
+The main difﬁculty in solving the coupled set of ﬁeld equations is that the second
+coordinate system means that we have differential equations with respect to both sets
+of coordinates. One would clearly prefer to use the same coordinates for both metrics.
+But then it is no longer possible to gauge both metrics independently from each other,
+which increases the number of functions we have to solve for. Either way, thus, we face
+complications.
+
+Just to give a concrete example. We could choose an isotropic gauge for both g and h,
+then hope that the coordinates are identical and start with this ansatz (we would ﬁnd that
+the equations cannot all be fulﬁlled). Or we could chose a gauge in which Ω2
+h = 1
+and then hope that the coordinates are identical (this doesn’t work either). These choices
+are both different (and both wrong) because the transformations between gauges are not
+generally the same for both metrics: If we take the isotropic system for g and transform
+it to the coordinates with Ω2
+g = 1, this will not also bring h into the coordinates with
+Ω2
+
+g = Ω2
+
+Consequently, if we want to use the same coordinate system for both metrics, we have
+to make a very educated guess which coordinates allow the same gauge for both sectors.
+Fortunately, for the static scalar case it is not so difﬁcult to guess the right coordinate
+system because the wave-equation for the ﬁeld takes on the particularly simple form
+
+h = 1.
+
+∂r(cid:16)p−hhrr∂rφ(cid:17) = 0 .
+
+(19)
+
+Now we note that if this ﬁeld also fulﬁlls the wave-equation in the g-background, this
+will solve the constraint from the Bianchi-identities identically, which means that the
+match between the coordinate systems must be correct.
+
+6
+
+S. Hossenfelder
+
+Symmetric Gravity
+
+From this we infer that a good gauge is
+
+√−ggrr = √
+
+−hhrr = r2 sin(θ) ,
+
+so that
+
+∂r(cid:0)√−ggrr∂rφ(cid:1) = 0 ⇔ ∂r(cid:16)√−hhrr∂rφ(cid:17) = 0 .
+
+Note that we have dropped here the underlines on the second coordinate system because
+we have now assumed that this gauge is possible for both metrics in the same coordinate
+system.
+
+This gauge leads to the requirements
+
+Ωg = a(r)/α(r) , Ωh = b(r)/β(r) ,
+
+and the solution for scalar ﬁeld is
+
+c1
+2√πG
+where c1 is a constant to be determined later.
+additive factor because it will not enter any dynamical equations.)
+
+φ(r) =
+
+1
+r
+
+,
+
+(We have discarded a second constant
+
+With this ansatz one can then derive the ﬁeld equations and despair over them for
+some while. Alternatively, one uses the static scalar ﬁeld solution originally derived by
+Janis, Newman and Winicour [21] and later rediscovered [22] by Wyman [23]. Hereafter
+referred to as JNWW, this solution has the line-element
+
+ds2 = −γ(ρ)ndt2 + γ(ρ)−ndρ2 + γ(ρ)1−nρ2dΩ2 ,
+
+with
+
+It solves the ﬁeld equation with the scalar ﬁeld source
+
+γ(ρ) = 1 −
+
+2M
+ρ
+
+.
+
+φ(ρ) =
+
+ln (γ(ρ)) .
+
+√1 − n2
+√4πG
+
+1
+2
+
+We know that the JNWW solution must be a solution to the ﬁeld equations for the
+h-metric (for which φ gravitates positively), and so we bring the line-element (24) into
+our coordinates with the gauge requirement that √hhrr = r2 sin θ. This gives rise to the
+differential equation
+
+(20)
+
+(21)
+
+(22)
+
+(23)
+
+(24)
+
+(25)
+
+(26)
+
+(27)
+
+dr
+r2 =
+
+dρ
+ρ2
+
+1
+
+γ(ρ)
+
+,
+
+7
+
+S. Hossenfelder
+
+Symmetric Gravity
+
+which can be solved to
+
+From this we can infer that
+
+r =
+
+2M
+
+ln (γ(ρ))
+
+, ρ =
+
+2M
+
+1 − exp(2M/r)
+
+.
+
+b(r) = e−M n/r , β(r) = Ωh(r) =
+
+M 2eM n/r
+
+r2 sinh (M/r)2 ,
+
+and
+
+c1 = 2Mp2(1 − n2) .
+
+This solves the equations (13) and (15), and it remains to solve equation (12). One
+can do this either by working through the ﬁeld equations, or by giving the solution (29) a
+hard look, which reveals that the substitution n → in, M → iM gives back a real valued
+metric with the signature of the metric ﬂipped. By absorbing this sign into the source,
+we make the ansatz
+
+a(r) = eM n/r , α(r) = Ωg(r) =
+
+M 2e−M n/r
+r2 sin (M/r)2 ,
+
+which indeed solves the equations identically, after ﬁxing
+
+1 − n2
+1 + n2 .
+
+N =
+
+4 Results
+
+Taken together, we have found a family of solutions depending on the two parameters n
+and M that has the form
+
+ds2
+
+g = −e2M n/rdt2 +
+
+ds2
+
+h = −e−2M n/rdt2 +
+
+M 4
+r4
+M 4
+r4
+
+e−2nM/r
+sin (M/r)4 dr2 +
+sinh(M/r)4 dr2 +
+
+e2M n/r
+
+M 2e−nM/r
+r2 sin (M/r)2 dΩ2
+r2 sinh (M/r)2 dΩ2 .
+
+M 2enM/r
+
+The source ﬁeld is
+
+φ(r) =
+
+√1 − n2
+√4πG
+
+1
+2
+
+1
+r
+
+,
+
+and the pull-over is diagonal with the nonvanishing components
+
+(28)
+
+(29)
+
+(30)
+
+(31)
+
+(32)
+
+(33)
+
+(34)
+
+(35)
+
+(36)
+
+(37)
+
+τ t
+
+t = r 1 − n2
+
+τ r
+
+r = τ θ
+
+1 + n2 e−2M n/r ,
+ϕ =r 1 − n2
+θ = τ ϕ
+
+1 + n2 e2M n/r sin(M/r)2
+sinh(M/r)2 .
+
+8
+
+S. Hossenfelder
+
+Symmetric Gravity
+
+Now, while the (t, r) coordinate system has been convenient for deriving the metric,
+it is arguably awkward since grr has an inﬁnite number of poles. Inspection of the Weyl-
+tensor square however shows no pathologies, indicating that we are merely looking at
+coordinate singularities.
+Indeed, we can remove the singularities for example by the
+transformation
+
+M
+
+M
+
+R =
+
+, r =
+
+tan(M/r)
+
+arctan(M/R)
+
+,
+
+which brings the line-element (33) into the form
+
+ds2
+
+g = −µ(R)2dt2 + µ(R)−2dR2 + µ(R)−2(M 2 + R2)dΩ2
+
+with
+
+µ(R) = exp (−n arctan(M/R)) .
+
+The square of the Weyl-tensor, expressed in these coordinates, is
+
+(38)
+
+(39)
+
+(40)
+
+16
+3
+
+W ακνǫWακνǫ =
+
+M 2 exp (−4n arctan(M/R))
+which is regular and goes to a ﬁnite value for R → 0.
+The gtt and gRR components are plotted in Fig 1 and Fig 2, and the density of the
+scalar ﬁeld (in (t, R) coordinates) is shown in Fig 3. As one sees, all these quantities are
+regular and well-behaved.
+
+(M 2 + R2)4
+
+(41)
+
+,
+
+(2M n2 − 3Rn − M )2
+
+5 Discussion
+
+The ﬁrst thing one notes about the solution (39) is that it has no horizon. This is not
+surprising since the ‘normally’ gravitating matter, whose behavior is determined by this
+metric, should be repelled by the negatively gravitating scalar ﬁeld. Hence, there is no
+way for it to become trapped. Such behavior is a consequence merely of gravity being
+mediated by a spin-2 ﬁeld, which has the effect that like charge attract and unlike charges
+repel (exactly reversed to the case of a spin-1 ﬁeld).
+
+Next we note that in the limit n → 1, the h-metric reduces to the Schwarzschild-
+solution. But, interestingly, the g-metric does not also reduce to a vacuum-solution in the
+same limit. The reason is that the normalization-factor N in the pull-over goes to zero at
+the same rate as the pulled-over source to the g-metric.
+Now, since our analysis is entirely symmetric between the two sectors, we can draw
+from this a conclusion about normal black holes (ie sourced by positive mass). For this,
+we swap the negatively gravitating ﬁeld for a positively gravitating one, and the g-metric
+with the h-metric. We then notice that, while the Schwarzschild black hole is a unique
+solution for what the g-metric is concerned, it can remain accompanied by a scalar ﬁeld
+
+9
+
+S. Hossenfelder
+
+Symmetric Gravity
+
+n = 1/4
+n = 1/2
+n = 1
+n = 2
+
+t
+t
+g
+
+-0.5
+
+-0.6
+
+-0.7
+
+-0.8
+
+-0.9
+
+-1.0
+
+0
+
+2
+
+4
+
+6
+
+8
+
+10
+
+12
+
+14
+
+16
+
+18
+
+20
+
+R/M
+
+Figure 1: The tt-component of the g-metric with the negatively gravitating scalar ﬁeld
+source, in Planck units, for various values of n.
+
+in the h-sector. This difference is not noticeable for any ‘normal’ ﬁelds that couple only
+to the g-metric and hence makes no difference for existing observations.
+
+Clearly the fact that this is a scalar ﬁeld and not some other ﬁeld comes from the
+starting point of our analysis, so one is lead to speculate that a similar thing might hap-
+pen with other ﬁelds. This would mean that while the endstate of black hole collapse of
+normal matter is unique and ‘hair-less’ for the g-metric, it is not unique for the corre-
+sponding h-metric. (And vice versa, a collapse of negative matter would not result in a
+unique endstate for the g-metric.)
+
+In the chosen coordinate system by assumption both the φ and φ-ﬁelds have the same
+coordinate-expression, and so, combining sources with contributions from both does not
+give rise to a new pair of metrics. One just has to make sure that the parameter M that
+appears in the solutions is suitably composed of the contributions from both ﬁelds, rather
+than from one alone.
+
+6 Conclusion
+
+We have derived here a pair of metrics that is self-consistently sourced by massless scalar
+ﬁeld, coupled positively to the one metric, and negatively to the other one. The solution
+shows that in a bi-metric framework the Schwarzschild-solution is not the unique endstate
+of collapsing matter.
+
+10
+
+S. Hossenfelder
+
+Symmetric Gravity
+
+n = 1/4
+n = 1/2
+n = 1
+n = 2
+
+R
+R
+g
+
+2.0
+
+1.8
+
+1.6
+
+1.4
+
+1.2
+
+1.0
+
+0
+
+2
+
+4
+
+6
+
+8
+
+10
+
+12
+
+14
+
+16
+
+18
+
+20
+
+R/M
+
+Figure 2: The RR-component of the g-metric with the negatively gravitating scalar ﬁeld
+source in Planck units, for various values of n.
+
+Note
+
+A Maple worksheet with the calculation presented here is available for download at
+sabinehossenfelder.com/Physics/symmegra.mw
+
+Acknowledgements
+
+This research is supported by the Foundational Questions Institute (FQXi).
+
+References
+
+[1] N. Afshordi and E. Nelson, arXiv:1504.00012 [hep-th].
+
+[2] A. D. Linde, Phys.Lett. B 200, 272 (1988).
+
+[3] A. D. Linde, [arXiv:hep-th/0211048].
+
+[4] I. T. Drummond, Phys. Rev. D 63, 043503 (2001) doi:10.1103/PhysRevD.63.043503 [astro-
+
+[5] J. W. Moffat, Int. J. Mod. Phys. D 12, 281 (2003) doi:10.1142/S0218271803002366 [gr-
+
+ph/0008234].
+
+qc/0202012].
+
+11
+
+S. Hossenfelder
+
+Symmetric Gravity
+
+0.02
+
+0.015
+
+ρ
+
+0.01
+
+0.005
+
+n = 1/4
+n = 1/2
+n = 1
+n = 2
+
+0.0
+
+0.0
+
+0.5
+
+1.0
+R/M
+
+1.5
+
+2.0
+
+Figure 3: The energy-density, −T t
+in (t, R) coordinates, for various values of n.
+
+t = T R
+
+R = ρ of the negatively gravitating scalar ﬁeld
+
+[6] C. de Rham, G. Gabadadze and A. J. Tolley, Phys. Rev. Lett. 106, 231101 (2011)
+
+doi:10.1103/PhysRevLett.106.231101 [arXiv:1011.1232 [hep-th]].
+
+[7] S. F. Hassan
+
+and R. A. Rosen,
+
+Phys. Rev. Lett.
+
+108,
+
+041101 (2012)
+
+doi:10.1103/PhysRevLett.108.041101 [arXiv:1106.3344 [hep-th]].
+
+[8] Y. Akrami, T. S. Koivisto
+
+and M. Sandstad,
+
+JHEP 1303,
+
+099
+
+(2013)
+
+doi:10.1007/JHEP03(2013)099 [arXiv:1209.0457 [astro-ph.CO]].
+
+[9] S. Hossenfelder, Phys. Rev. D 78, 044015 (2008) doi:10.1103/PhysRevD.78.044015
+
+[arXiv:0807.2838 [gr-qc]].
+
+[10] H. Bondi, Rev. Mod. Phys. 29, 423-428 (1957).
+
+[11] A. Borde, L. H. Ford and T. A. Roman, Phys. Rev. D 65, 084002 (2002)
+
+doi:10.1103/PhysRevD.65.084002 [gr-qc/0109061].
+
+[12] P. C. W. Davies
+
+and A. C. Ottewill, Phys. Rev. D 65,
+
+104014 (2002)
+
+doi:10.1103/PhysRevD.65.104014 [gr-qc/0203003].
+
+[13] S. Ray
+
+J. Mod.
+doi:10.1142/S0218271804004712 [gr-qc/0212120].
+
+S. Bhadra,
+
+and
+
+Int.
+
+Phys. D 13,
+
+555
+
+(2004)
+
+[14] D. F. Torres, G. E. Romero and L. A. Anchordoqui, Mod. Phys. Lett. A 13, 1575 (1998)
+
+doi:10.1142/S0217732398001650 [gr-qc/9805075].
+
+12
+
+S. Hossenfelder
+
+Symmetric Gravity
+
+qc/0408073].
+
+th/0507020].
+
+qc/0508013].
+
+[15] V. M. Zhuravlev, D. A. Kornilov and E. P. Savelova, Gen. Rel. Grav. 36, 1719 (2004).
+
+doi:10.1023/B:GERG.0000032162.16229.cf
+
+[16] V. Faraoni, Phys. Rev. D 70, 081501 (2004) doi:10.1103/PhysRevD.70.081501 [gr-
+
+[17] F.
+
+Henry-Couannier,
+
+Int.
+
+J. Mod.
+
+Phys.
+
+A
+
+20,
+
+2341
+
+(2005)
+
+doi:10.1142/S0217751X05024602 [gr-qc/0410055].
+
+[18] J. W. Moffat, Phys. Lett. B 627, 9 (2005) doi:10.1016/j.physletb.2005.09.012 [hep-
+
+[19] D. E. Kaplan and R. Sundrum,
+
+JHEP 0607,
+
+042 (2006) doi:10.1088/1126-
+
+6708/2006/07/042 [hep-th/0505265].
+
+[20] S. Hossenfelder, Phys. Lett. B 636, 119 (2006) doi:10.1016/j.physletb.2006.03.038 [gr-
+
+[21] A. I. Janis, E. T. Newman and J. Winicour, Phys. Rev. Lett. 20, 878 (1968).
+
+doi:10.1103/PhysRevLett.20.878
+
+[22] K. S. Virbhadra, Int. J. Mod. Phys. A 12, 4831 (1997) doi:10.1142/S0217751X97002577
+
+[gr-qc/9701021].
+
+[23] M. Wyman, Phys. Rev. D 24, 839 (1981). doi:10.1103/PhysRevD.24.839
+
+13
+
+

@@ -1,0 +1,1848 @@
+DAVID HILBERT 
+
+Axiome I (axiome de Mie de la fonction de l’espace3) : La loi qui régit les processus physiques est 
+déterminée par une fonction de l’espace H qui contient les arguments suivants : 
+
+𝑔(cid:3091)(cid:3092),    𝑔(cid:3091)(cid:3092)(cid:3039) =  
+
+𝑔(cid:3091)(cid:3092)(cid:3039)(cid:3038) =  
+
+𝜕²𝑔(cid:3091)(cid:3092)
+
+𝜕𝜛(cid:3039) 𝜕𝜛(cid:3038)
+
+ 
+
+𝑞(cid:3046),    𝑞(cid:3046)(cid:3039) =  
+
+,    (𝑙, 𝑘 = 1, 2, 3, 4) 
+
+  ,
+
+𝜕𝑔(cid:3091)(cid:3092)
+𝜕𝜛(cid:3039)
+𝜕𝑞(cid:3046)
+𝜕𝜛(cid:3039)
+
+ 
+
+ 
+
+(1) 
+
+(2) 
+
+où la variation de l'intégrale 
+
+(cid:3505) 𝐻 (cid:3493)𝑔 𝑑𝜔 
+
+(𝑔 = (cid:4698)𝑔𝜇𝜈(cid:4698) , 𝑑𝜔 = 𝑑𝜛(cid:2869)𝑑𝜛(cid:2870)𝑑𝜛(cid:2871)𝑑𝜛(cid:2872)) 
+
+doit disparaître pour chacun des quatorze potentiels  𝑔(cid:3091)(cid:3092), 𝑞(cid:3046)  . 
+
+Il est clair que les arguments (1) peuvent être remplacés par les arguments [1]   
+
+(3) 
+où  𝑔(cid:3091)(cid:3092)est le sous-déterminant du déterminant  𝑔  par rapport à son élément  𝑔(cid:3091)(cid:3092)  divisé par 
+𝑔. 
+
+𝑔(cid:3091)(cid:3092),      𝑔(cid:3039)
+
+      𝑔(cid:3039)(cid:3038)
+
+(cid:3105)(cid:3111)(cid:3287) (cid:3105)(cid:3111)(cid:3286)
+
+, 
+
+ 
+
+(cid:3091)(cid:3092) =  
+
+(cid:3091)(cid:3092) =  
+
+(cid:3105)(cid:3034)(cid:3339)(cid:3340)
+(cid:3105)(cid:3111)(cid:3287)
+
+(cid:3105)²(cid:3034)(cid:3339)(cid:3340)
+
+Axiome II (axiome d'invariance générale4) : La fonction de l’espace H est invariante par rapport à 
+une transformation arbitraire des paramètres de l’espace  𝜛(cid:3046). 
+
+L'axiome II est l'expression mathématique la plus simple de l'exigence selon laquelle 
+
+l'interconnexion des potentiels  𝑔(cid:3091)(cid:3092), 𝑞(cid:3046)    est en soi entièrement indépendante de la manière 
+dont on choisit d'étiqueter les points de l’espace au moyen des paramètres de l’espace. 
+
+Le motif qui me guide dans la construction de ma théorie est fourni par le théorème, dont je 
+
+présenterai la preuve ailleurs.   
+
+Théorème I. Si J est un invariant sous une transformation arbitraire des quatre paramètres de 
+l’espace, contenant n quantités et leurs dérivées, il est possible d'obtenir des résultats. 
+paramètres de l’espace, contenant des quantités et leurs dérivées, et si l'on forme à partir de 
+
+𝛿 (cid:3505) 𝐽 𝑔 𝑑𝜔 = 0 
+
+ 
+
+3  Les fonctions de l’espace de Mie ne contiennent pas exactement ces arguments ; en particulier, l'utilisation des 
+arguments (2) remonte à Born. Cependant, ce qui est caractéristique de l'électrodynamique de Mie, c'est 
+précisément l'introduction et l'utilisation d'une telle fonction de l’espace dans le principe de Hamilton. 
+
+4  L'invariance orthogonale avait déjà été postulée par Mie. Dans l'axiome II formulé ci-dessus, l'idée fondamentale 
+d'Einstein sur l'invariance générale trouve son expression la plus simple, même si le principe de Hamilton ne joue 
+qu'un rôle subsidiaire chez Einstein, et que ses fonctions H ne sont en aucun cas des invariants généraux, et ne 
+contiennent pas non plus les potentiels électriques. 
+
+ 
+
+Page  2/13 
+
+ 
+
+THE FOUNDATIONS OF PHYSICS - 1916 
+
+les n équations variationnelles de Lagrange par rapport à ces n quantités, alors dans ce système 
+invariant de n équations différentielles pour les n quantités, il y en a toujours quatre qui sont 
+une conséquence des n-4 autres - en ce sens, que parmi les n équations différentielles et leurs 
+dérivées totales, il y a toujours quatre combinaisons linéaires mutuellement indépendantes qui 
+sont satisfaites de manière identique. 
+
+En ce qui concerne les quotients différentiels par rapport aux  𝑔(cid:3091)(cid:3092), 𝑔(cid:3038)
+
+(cid:3091)(cid:3092), 𝑔(cid:3038)(cid:3039)
+
+(cid:3091)(cid:3092)  apparaissant 
+
+dans (4) et les formules suivantes, notons une fois pour toutes que, en raison de la symétrie en 
+(cid:3091)(cid:3092)  sont à 
+𝜇𝜈  d'une part et en  𝑘𝑙  d'autre part, les quotients différentiels par rapport à  𝑔(cid:3091)(cid:3092), 𝑔(cid:3038)
+multiplier par 1 resp  (cid:2869)
+. si  𝜇 = 𝜈  resp  𝜇 ≠ 𝜈. en outre les quotients différentiels par rapport à 
+(cid:2870)
+(cid:3091)(cid:3092)  doivent être multipliés par 1 resp  (cid:2869)
+. resp 
+. si  𝜇 = 𝜈  et  𝑘 = 𝑙, resp. si  𝜇 = 𝜈  et  𝑘 ≠ 𝑙   
+𝑔(cid:3038)(cid:3039)
+(cid:2870)
+ou  𝜇 ≠ 𝜈  et  𝑘 = 𝑙    resp  𝜇 ≠ 𝜈  et  𝑘 ≠ 𝑙  . 
+
+(cid:2869)
+
+(cid:2872)
+
+L'axiome I implique d'abord pour les dix potentiels gravitationnels  𝑔(cid:3091)(cid:3092)  les dix équations 
+
+différentielles lagrangiennes   
+
+𝜕(cid:3493)𝑔𝐻
+𝜕𝑔(cid:3091)(cid:3092) − (cid:3533)
+
+𝜕
+
+𝜕𝜛(cid:3038)
+
+𝜕(cid:3493)𝑔𝐻
+(cid:3091)(cid:3092)
+𝜕𝑔(cid:3038)
+
+(cid:3038)
+
++ (cid:3533)
+(cid:3038),(cid:3039)
+
+𝜕(cid:2870)
+
+𝜕𝜛(cid:3038) 𝜕𝜛(cid:3039)
+
+𝜕(cid:3493)𝑔𝐻
+(cid:3091)(cid:3092)
+𝜕𝑔(cid:3038)(cid:3039)
+
+= 0     ,      (𝜇, 𝜈 = 1, 2, 3, 4) 
+
+ 
+
+(4) 
+
+et, d'autre part, pour les quatre potentiels électrodynamiques  𝑞(cid:3046), les quatre équations différentielles 
+lagrangiennes 
+
+𝜕(cid:3493)𝑔𝐻
+𝜕𝑞(cid:3035)
+
+− (cid:3533)
+(cid:3038)
+
+𝜕
+
+𝜕𝜛(cid:3038)
+
+𝜕(cid:3493)𝑔𝐻
+𝜕𝑞(cid:3035)(cid:3038)
+
+= 0        (ℎ = 1, 2, 3, 4) 
+
+ 
+
+(5) 
+
+Nous désignons les côtés gauches des équations (4), (5) respectivement par 
+
+[√𝑔𝐻]𝜇𝜈  ,      [√𝑔𝐻]ℎ 
+
+en abrégé. 
+
+Appelons les équations (4) les équations fondamentales de la gravitation, et les équations (5) 
+
+les équations électrodynamiques fondamentales, ou équations de Maxwell généralisées. En 
+raison du théorème énoncé ci-dessus, les quatre équations (5) peuvent être considérées comme 
+une conséquence des équations (4), c'est-à-dire qu'en raison de ce théorème mathématique 
+nous pouvons directement affirmer que, dans le sens où ils sont expliqués, les phénomènes 
+électrodynamiques, sont des effets de la gravitation. Je considère cette intuition comme la 
+solution simple et très surprenante du problème de Riemann, qui fut le premier à chercher un 
+lien théorique entre la gravitation et la lumière. 
+
+Dans ce qui suit, nous utilisons le fait facilement prouvé que, si  𝑃(cid:3037)    (𝑗 = 1, 2, 3, 4)  est un 
+vecteur contravariant arbitraire, l'expression 
+
+𝑝𝜇𝜈 =   ∑ (cid:3435)𝑔𝑠
+
+(cid:3046)
+
+𝜇𝜈𝑝(cid:3046) − 𝑔𝜇𝑠𝑝(cid:3046)
+
+(cid:3092) − 𝑔𝜈𝑠𝑝(cid:3046)
+
+(cid:3091)(cid:3439)
+
+,      (cid:4672)𝑝(cid:3046)
+
+(cid:3037) = 𝜕𝑝(cid:3285)
+𝜕𝜛𝑠
+
+(cid:4673) 
+
+ 
+
+Page  3/13 
+
+ 
+
+représente un tenseur symétrique contravariant, et l'expression 
+
+DAVID HILBERT 
+
+(cid:3046))
+𝑝(cid:3039) = (cid:3533)(𝑞(cid:3039)(cid:3046)𝑝(cid:3046) + 𝑞(cid:3046)𝑝(cid:3039)
+
+ 
+
+(cid:3046)
+
+représente un vecteur covariant. 
+
+Pour continuer, nous établissons deux théorèmes mathématiques, qui expriment ce qui suit : 
+
+(cid:3091)(cid:3092), 𝑞(cid:3046), 𝑞(cid:3046)(cid:3038) alors ce qui suit est 
+Théorème II. Si J est un invariant dépendant de  𝑔(cid:3091)(cid:3092), 𝑔(cid:3039)
+toujours identiquement vrai dans tous les arguments et pour tout vecteur contravariant 
+arbitraire 𝑝(cid:3046):[2] 
+
+(cid:3091)(cid:3092), 𝑔(cid:3038)(cid:3039)
+
+𝜕𝐽
+𝜕𝑔𝜇𝜈 Δ𝑔𝜇𝜈 +
+
+𝜕𝐽
+𝜇𝜈 Δ𝑔𝑙
+𝜕𝑔
+𝑙
+
+𝜇𝜈 +
+
+𝜕𝐽
+𝜇𝜈 Δ𝑔𝑘𝑙
+𝑘𝑙
+
+𝜕𝑔
+
+𝜇𝜈(cid:4679)
+
+(cid:3533) (cid:4678)
+
+𝜇,𝜈,𝑙,𝑘
+
+𝜕𝐽
+𝜕𝑞(cid:3046)
+
+𝑠,𝑘
+
+𝜕𝐽
+𝜕𝑞(cid:3046)(cid:3038)
+
++ (cid:3533) (cid:3436)
+
+Δ𝑞(cid:3046) +
+
+Δ𝑞(cid:3046)(cid:3038)(cid:3440)
+
+= 0 
+
+où 
+
+Δ𝑔𝜇𝜈 = (cid:3533)(cid:3435)𝑔𝜇𝑚𝑝(cid:3040)
+
+(cid:3091) (cid:3439)
+(cid:3092) + 𝑔𝜈𝑚𝑝(cid:3040)
+
+ 
+
+Δ𝑔𝑙
+
+𝜇𝜈 = − (cid:3533) (cid:3436)𝑔𝑚
+
+𝜇𝜈𝑝(cid:3039)
+
+(cid:3040) +
+
+𝜕Δ𝑔𝜇𝜈
+𝜕𝜛(cid:3039)
+
+ 
+(cid:3440)
+
+Δ𝑔𝑘𝑙
+
+𝜇𝜈 =   − (cid:3533)(cid:3435)𝑔𝑚
+
+𝜇𝜈𝑝(cid:3039)(cid:3038)
+
+(cid:3040) + 𝑔𝑙𝑚
+
+𝜇𝜈𝑝(cid:3038)
+
+(cid:3040) + 𝑔𝑘𝑚
+
+𝜇𝜈 𝑝(cid:3039)
+
+(cid:3040)(cid:3439)
+
++
+
+𝜕²Δ𝑔𝜇𝜈
+𝜕𝜛𝑙 𝜕𝜛𝑘
+
+ 
+
+(cid:3040)
+Δ𝑞(cid:3046) = − (cid:3533) 𝑞(cid:3040)𝑝(cid:3046)
+
+ 
+
+(cid:3040)
+Δ𝑞(cid:3046)(cid:3038) = − (cid:3533) 𝑞(cid:3046)(cid:3040)𝑝(cid:3038)
+
++
+
+𝜕Δ𝑞(cid:3046)
+𝜕𝜛(cid:3038)
+
+ 
+
+𝑚
+
+𝑚
+
+𝑚
+
+𝑚
+
+𝑚
+
+Ce théorème II peut aussi être formulé comme suit : 
+
+Si J est un invariant et  𝑝(cid:3046)  un vecteur arbitraire comme ci-dessus, alors l'identité tient 
+
+ 
+
+(6) 
+
+Où nous avons posé : 
+
+avec 
+
+𝜕J
+𝜕𝜛(cid:3046)
+
+(cid:3533)
+(cid:3046)
+
+𝑝(cid:3046) = 𝑃𝐽
+
+ 
+
+𝑃 =   𝑃(cid:3034) +   𝑃(cid:3044) 
+
+𝑃(cid:3034) = (cid:3533) (cid:4678)𝑝𝜇𝜈
+
+𝜇,𝜈,𝑙,𝑘
+
+𝜕
+𝜕𝑔𝜇𝜈 + 𝑝𝑙
+
+𝜇𝜈 𝜕
+𝜇𝜈 + 𝑝𝑘𝑙
+𝜕𝑔
+𝑙
+
+𝜇𝜈 𝜕
+𝜕𝑔
+
+ 
+
+𝜇𝜈(cid:4679)
+𝑘𝑙
+
+𝑃(cid:3044) = (cid:3533) (cid:3436)𝑝(cid:3039)
+
++ 𝑝(cid:3039)(cid:3038)
+
+𝜕
+𝜕𝑞(cid:3039)
+
+𝜕
+
+𝜕𝑞(cid:3039)(cid:3038)
+
+(cid:3440)
+
+ 
+
+𝑙,𝑘
+
+ 
+
+Page  4/13 
+
+ 
+
+THE FOUNDATIONS OF PHYSICS - 1916 
+
+et utilisé les abréviations : 
+
+𝜇𝜈 =
+𝑝(cid:3038)
+
+,       𝑝𝑘𝑙
+
+𝜇𝜈 =  
+
+𝜕𝑝𝜇𝜈
+𝜕𝜛(cid:3038)
+
+𝜕²𝑝𝜇𝜈
+
+𝜕𝜛𝑙 𝜕𝜛𝑘
+
+,        𝑝(cid:3039)(cid:3038) =  
+
+𝜕𝑝(cid:3039)
+𝜕𝜛(cid:3038)
+
+ 
+
+La preuve de (6) s’en déduit facilement, car cette identité est évidemment correcte si  𝑝(cid:3046)  est 
+
+un vecteur constant, et de cela elle découle en général à cause de son invariance. 
+
+Théorème III. Si J est un invariant ne dépendant que de  𝑔(cid:3091)(cid:3092) et de leurs dérivées, et si, comme 
+ci-dessus, les dérivées variationnelles de (cid:3493)𝑔  𝐽  par rapport à  𝑔(cid:3091)(cid:3092)  sont notées par 
+(cid:3427)(cid:3493)𝑔 𝐽(cid:3431)
+de tenseur - 
+
+ alors l'expression - où l'on entend  ℎ(cid:3091)(cid:3092) comme un tenseur contravariant quelconque 
+
+(cid:3091)(cid:3092)
+
+représente un invariant ; si l'on substitue dans cette somme à la place de  ℎ(cid:3091)(cid:3092) 𝑙𝑒  tenseur 
+particulier  𝑝(cid:3091)(cid:3092)  et on écrit 
+
+1
+
+(cid:3493)𝑔
+
+(cid:3533)(cid:3427)(cid:3493)𝑔 𝐽(cid:3431)
+𝜇,𝜈
+
+(cid:3091)(cid:3092)
+
+𝑝𝜇𝜈
+
+=   (cid:3533)(𝑖(cid:3046)𝑝𝑠 + 𝑖(cid:3046)
+
+(cid:3046))
+(cid:3039) 𝑝(cid:3039)
+
+ 
+
+𝑠,𝑙
+
+où alors les expressions 
+
+1
+
+(cid:3493)𝑔
+
+(cid:3533)(cid:3427)(cid:3493)𝑔 𝐽(cid:3431)
+𝜇,𝜈
+
+(cid:3091)(cid:3092)
+
+ℎ𝜇𝜈
+
+ 
+
+𝑖(cid:3046) = (cid:3533)(cid:3427)(cid:3493)𝑔 𝐽(cid:3431)
+
+𝜇𝜈
+𝑔(cid:3046)
+
+ 
+
+(cid:3091)(cid:3092)
+
+𝜇,𝜈
+
+𝜇
+
+(cid:3039) = −2 (cid:3533)(cid:3427)(cid:3493)𝑔 𝐽(cid:3431)
+𝑖(cid:3046)
+
+𝑔𝜇𝑙
+
+ 
+
+(cid:3091)(cid:3046)
+
+(cid:3039)
+𝜕𝑖(cid:3046)
+𝜕𝜛(cid:3039)
+
+ 
+
+𝑖(cid:3046) = (cid:3533)
+(cid:3039)
+
+ne dépendent que de  𝑔(cid:3091)(cid:3092)  et de leurs dérivées, on a alors 
+
+ 
+
+(7) 
+
+en ce sens que cette équation est satisfaite de manière identique pour tous les arguments, 
+c'est-à-dire pour les  𝑔(cid:3091)(cid:3092) et leurs dérivées. 
+
+Pour la preuve, nous considérons que l'intégrale 
+
+∫ 𝐽 (cid:3493)𝑔 𝑑𝜔 ,     𝑑𝜔 = 𝑑𝜛(cid:2869)𝑑𝜛(cid:2870)𝑑𝜛(cid:2871)𝑑𝜛(cid:2872)) 
+
+est prise sur un domaine fini de l’espace à quatre dimensions. De plus, soit  𝑝(cid:3046)  un vecteur 
+
+qui disparaît avec ses dérivées sur la surface tridimensionnelle de ce domaine. En raison de 
+𝑃  = 𝑃(cid:3034)  la dernière formule de la page suivante implique 
+
+𝑃(cid:3034)(cid:3435)(cid:3493)𝑔 𝐽(cid:3439) = (cid:3533)
+𝑠
+
+𝜕(cid:3493)𝑔 𝐽 𝑝𝑠
+
+ 
+
+𝜕𝜛𝑙
+
+ 
+
+Page  5/13 
+
+ 
+
+il en résulte 
+
+et en raison de la façon dont la dérivée lagrangienne est formée, nous avons donc aussi 
+
+L'introduction de  𝑖(cid:3046), 𝑖(cid:3046)
+
+(cid:3039)  dans cette identité montre finalement que 
+
+DAVID HILBERT 
+
+(cid:3505) 𝑃(cid:3034)(cid:3435)(cid:3493)𝑔 𝐽(cid:3439) 𝑑𝜔 = 0 
+
+(cid:3505) (cid:3533)(cid:3427)(cid:3493)𝑔 𝐽(cid:3431)
+
+𝑝𝜇𝜈 𝑑𝜔 = 0 
+
+(cid:3091)(cid:3092)
+
+𝜇,𝜈
+
+(cid:3039)
+𝜕𝑖(cid:3046)
+𝜕𝜛(cid:3039)
+
+(cid:3505) (cid:3437)(cid:3533)
+
+(cid:3039)
+
+− 𝑖(cid:3046)(cid:3441) 𝑝𝑠 𝑑𝜔 = 0 
+
+et donc aussi que l'affirmation de notre théorème est correcte. 
+
+L'objectif le plus important est maintenant la formulation du concept d'énergie et la 
+
+dérivation du théorème de l'énergie uniquement sur la base des deux axiomes I et II. 
+
+Dans ce but, nous formulons d'abord : 
+
+𝑃(cid:3034)(cid:3435)(cid:3493)𝑔 𝐻(cid:3439) = (cid:3533)
+𝜇,𝜈,𝑘,𝑙
+
+𝜕(cid:3493)𝑔 𝐻
+𝜕𝑔(cid:3091)(cid:3092) 𝑝(cid:3091)(cid:3092) +
+
+𝜕(cid:3493)𝑔 𝐻
+𝜕𝑔
+
+𝜇𝜈 𝑔𝑘
+𝑘
+
+𝜇𝜈 +
+
+𝜕(cid:3493)𝑔 𝐻
+𝜕𝑔
+
+𝜇𝜈
+𝜇𝜈 𝑔𝑘𝑙
+𝑘𝑙
+
+ 
+
+Maintenant  (cid:3105)(cid:3009)
+(cid:3105)(cid:3034)(cid:3286)(cid:3287)
+
+(cid:3339)(cid:3340)  est un tenseur mixte de quatrième rang, donc si on met 
+
+(cid:3091)(cid:3092) = 𝑝(cid:3038)
+𝐴(cid:3038)
+
+(cid:3091)(cid:3092) + (cid:3533) (cid:3436)(cid:3420)
+
+(cid:3424) 𝑝(cid:3096)(cid:3092) + (cid:4676)
+
+ 
+(cid:4677) 𝑝(cid:3096)(cid:3091)(cid:3440)
+
+𝑘𝜌
+𝜈
+
+𝑘𝜌
+𝜇
+
+(cid:3096)
+
+(cid:3420)
+
+𝑘𝜌
+𝜇
+
+(cid:3424) =
+
+1
+2
+
+ 
+(cid:3533) 𝑔(cid:3091)(cid:3097)(cid:3435)𝑔(cid:3038)(cid:3097)(cid:3096) + 𝑔(cid:3096)(cid:3097)(cid:3038) − 𝑔(cid:3038)(cid:3096)(cid:3097)(cid:3439)
+(cid:3097)
+
+l’expression 
+
+devient un vecteur contravariant. 
+
+Par conséquent, si nous formons l'expression 
+
+𝑎𝑙 = (cid:3533)
+𝜇,𝜈,𝑘
+
+𝜕𝐻
+
+𝜕𝑔
+
+(cid:3091)(cid:3092)
+𝜇𝜈 𝐴(cid:3038)
+𝑘𝑙
+
+ 
+
+𝑃(cid:3034)(cid:3435)(cid:3493)𝑔 𝐻(cid:3439) − (cid:3533)
+𝑚
+
+𝜕(cid:3493)𝑔𝑎𝑙 
+ 
+
+𝜕𝜛(cid:3039)
+
+alors celle-ci ne contient plus les dérivées secondes  𝑝(cid:3038)(cid:3039)
+(cid:3493)𝑔 (cid:3533)(cid:3435)𝐵(cid:3091)(cid:3092)𝑝(cid:3091)(cid:3092) + 𝐵𝜇𝜈
+
+(cid:3091)(cid:3092)  et a donc la forme 
+(cid:3039) 𝑝(cid:3091)(cid:3092)(cid:3439)
+ 
+
+𝜇,𝜈,𝑘
+
+ 
+
+(8) 
+
+ 
+
+Page  6/13 
+
+ 
+
+ 
+
+(9) 
+
+  (10) 
+
+  (11) 
+
+  (12) 
+
+THE FOUNDATIONS OF PHYSICS - 1916 
+
+où 
+
+𝐵𝜇𝜈
+
+(cid:3038) = (cid:3533)
+𝜌,𝑙
+
+𝜕𝐻
+
+𝜇𝜈 −
+𝜕𝑔
+𝑘
+
+𝜕
+𝜕𝜛(cid:3039)
+
+𝜕𝐻
+
+𝜇𝜈 −
+𝑘𝑙
+
+𝜕𝑔
+
+𝜕𝐻
+
+𝜌𝜈 (cid:3420)
+𝑘𝑙
+
+𝜕𝑔
+
+𝑙𝜇
+𝜌
+
+(cid:3424) −
+
+𝜕𝐻
+
+𝜇𝜌 (cid:3420)
+𝑘𝑙
+
+𝜕𝑔
+
+𝑙𝜈
+𝜌
+
+ 
+
+(cid:3424)
+
+est encore un tenseur mixte. 
+
+Formons maintenant le vecteur   
+
+d’où l’on tire 
+
+𝑃(cid:3034)(cid:3435)(cid:3493)𝑔 𝐻(cid:3439) − (cid:3533)
+𝑙
+
+= (cid:3533)(cid:3427)(cid:3493)𝑔 𝐽(cid:3431)
+
+𝑝𝜇𝜈
+
+ 
+
+(cid:3091)(cid:3092)
+
+𝜇,𝜈
+
+D'autre part, nous formons 
+
+𝑃(cid:3034)(cid:3435)(cid:3493)𝑔 𝐻(cid:3439) = (cid:3533) (cid:4678)
+
+𝑝(cid:3038) +
+
+𝜕(cid:3493)𝑔𝐻
+𝜕𝑞(cid:3038)
+
+𝑘,𝑙
+
+𝜕(cid:3493)𝑔𝐻
+𝜕𝑞(cid:3038)(cid:3039)
+
+ 
+𝑝(cid:3038)(cid:3039)(cid:4679)
+
+alors  (cid:3105)(cid:3009)
+(cid:3105)(cid:3044)(cid:3286)(cid:3287)
+
+  est un tenseur et l'expression 
+
+𝑏𝑙 = (cid:3533) 𝐵𝜇𝜈
+𝑙
+
+𝑝𝜇𝜈 
+
+𝜕(cid:3493)𝑔(cid:3435)𝑎𝑙 + 𝑏𝑙(cid:3439)
+
+𝜇,𝜈
+
+𝜕𝜛(cid:3039)
+
+𝑐𝑙 = (cid:3533)
+𝑘,𝑙
+
+𝜕𝐻
+𝜕𝑞(cid:3038)(cid:3039)
+
+𝑝(cid:3038)
+
+ 
+
+représente donc un vecteur contravariant. Corrélativement, comme ci-dessus, on obtient 
+
+𝑃(cid:3034)(cid:3435)(cid:3493)𝑔 𝐻(cid:3439) − (cid:3533)
+𝑙
+
+𝜕(cid:3493)𝑔 𝑐𝑙
+𝜕𝜛(cid:3039)
+
+= (cid:3533)(cid:3427)(cid:3493)𝑔 𝐻(cid:3431)
+
+𝑝(cid:3038)
+
+ 
+
+𝑘
+
+𝑘
+
+Maintenant, nous notons les équations de base (4) et (5), et nous concluons en ajoutant (10) 
+
+et (12) : 
+
+Mais nous avons 
+
+𝜕(cid:3493)𝑔(cid:3435)𝑎𝑙 + 𝑏𝑙 + 𝑐𝑙(cid:3439)
+
+𝑃(cid:3034)(cid:3435)(cid:3493)𝑔 𝐻(cid:3439) = (cid:3533)
+𝑙
+
+𝜕𝜛(cid:3039)
+
+ 
+
+𝑠
+
+𝑃(cid:3034)(cid:3435)(cid:3493)𝑔 𝐻(cid:3439) =   (cid:3493)𝑔 𝑃𝐻 + 𝐻 (cid:3533)
+𝜇,𝜈
+
+𝜕(cid:3493)𝑔
+𝜕𝑔𝜇𝜈 𝑝𝜇𝜈
+
+= (cid:3493)𝑔 𝑃𝐻 + 𝐻 (cid:3533) (cid:4678)
+
+𝑝𝑠 + (cid:3493)𝑔𝑝(cid:3046)
+
+(cid:3046)(cid:4679)
+
+ 
+
+𝜕(cid:3493)𝑔
+𝜕𝜛(cid:3046)
+
+et donc, en raison de l'identité (6) 
+
+𝑃(cid:3034)(cid:3435)(cid:3493)𝑔 𝐻(cid:3439) =   (cid:3493)𝑔 (cid:3533)
+𝑠
+
+𝜕𝐻
+𝜕𝜛(cid:3046)
+
+𝜕(cid:3493)𝑔
+𝜕𝜛(cid:3046)
+
+𝑠
+
+𝑝𝑠
+
++ 𝐻 (cid:3533) (cid:4678)
+
+𝑝𝑠 + (cid:3493)𝑔𝑝(cid:3046)
+
+(cid:3046)(cid:4679)
+
+= (cid:3533)
+
+𝜕(cid:3493)𝑔𝐻𝑝𝑠
+
+ 
+
+𝜕𝜛(cid:3046)
+
+𝑠
+
+De cela, nous obtenons finalement l'équation invariante 
+
+𝜕
+𝜕𝜛(cid:3039)
+
+(cid:3533)
+
+𝑙
+
+(cid:3493)𝑔(cid:3435)𝐻𝑝𝑙 − 𝑎𝑙 − 𝑏𝑙 − 𝑐𝑙(cid:3439)
+
+= 0 
+
+ 
+
+Page  7/13 
+
+ 
+
+DAVID HILBERT 
+
+𝜕𝐻
+𝜕𝑞(cid:3039)(cid:3038)
+
+−
+
+𝜕𝐻
+𝜕𝑞(cid:3038)(cid:3039)
+
+ 
+
+𝜕(cid:3493)𝑔 𝑑𝑙
+
+𝜕𝜛(cid:3039)
+
+(cid:3533)
+
+𝑙
+
+= 0 
+
+𝜕(cid:3493)𝑔 𝑒𝑙
+
+𝜕𝜛(cid:3039)
+
+(cid:3533)
+
+𝑙
+
+= 0 
+
+𝐻 = 𝐾 + 𝐿 
+
+𝐾 = (cid:3533) 𝑔𝜇𝜈 𝐾(cid:3091)(cid:3092)
+
+ 
+
+𝜇,𝜈
+
+Nous notons maintenant que 
+
+est un tenseur contravariant anti-symétrique; par conséquent 
+
+𝑑𝑙 =
+
+1
+
+2(cid:3493)𝑔
+
+ (cid:3533)
+
+𝑘,𝑠
+
+𝜕
+𝜕𝜛(cid:3046)
+
+(cid:4682)(cid:4678)
+
+𝜕(cid:3493)𝑔𝐻
+𝜕𝑞(cid:3039)(cid:3038)
+
+−
+
+𝜕(cid:3493)𝑔𝐻
+𝜕𝑞(cid:3038)(cid:3039)
+
+(cid:4679) 𝑝𝑠𝑞(cid:3046)(cid:4683)
+
+ 
+
+devient un vecteur contravariant, qui satisfait évidemment l'identité 
+
+  (13) 
+
+Définissons maintenant 
+ 
+
+𝑒(cid:3039) = (𝐻𝑝(cid:3039) − 𝑎(cid:3039) − 𝑏(cid:3039) − 𝑐(cid:3039) −  𝑑(cid:3039)) 
+
+(14) 
+
+comme le vecteur énergie, alors le vecteur énergie est un vecteur contravariant, qui de plus 
+dépend linéairement du vecteur  𝑝(cid:3046)  choisi arbitrairement et satisfait identiquement pour ce 
+choix de vecteur  𝑝(cid:3046)  l'équation d'énergie invariante 
+
+En ce qui concerne la fonction de l’espace H, d'autres axiomes sont nécessaires pour 
+
+déterminer son choix de manière unique. Si les équations du champ gravitationnel ne doivent 
+contenir que des dérivées secondes des potentiels  𝑔(cid:3091)(cid:3092), alors H doit avoir la forme 
+
+où K est l'invariant qui dérive du tenseur de Riemann (courbure de la variété 
+quadridimensionnelle). 
+
+ 𝐾(cid:3091)(cid:3092) = (cid:3533) (cid:3436)
+
+(cid:3089)
+
+𝜕
+𝜕𝜛(cid:3092)
+
+(cid:4676)
+
+𝜇𝜅
+𝜅
+
+(cid:4677) −
+
+𝜕
+𝜕𝜛(cid:3089)
+
+𝜇𝜈
+(cid:4676)
+𝜅
+
+(cid:4677)(cid:3440)
+
++ (cid:3533) (cid:4672)(cid:4676)
+
+(cid:4677) (cid:4676)
+
+(cid:4677) − (cid:4676)
+
+(cid:4677) (cid:4676)
+
+𝜇𝜅
+𝜆
+
+𝜆𝜈
+𝜅
+
+𝜇𝜈
+𝜆
+
+𝜆𝜅
+𝜅
+
+ 
+(cid:4677)(cid:4673)
+
+(cid:3089),(cid:3090)
+
+et où L ne dépend que de  𝑔(cid:3091)(cid:3092), 𝑔(cid:3039)
+ce qui suit, que L ne contient pas l'élément  𝑔(cid:3091)(cid:3092). 
+
+(cid:3091)(cid:3092), 𝑞(cid:3046), 𝑞(cid:3046)(cid:3038)  . Enfin, nous faisons l'hypothèse simplificatrice dans 
+
+Ensuite, nous appliquons le théorème II à l'invariant L et obtenons 
+
+𝜕𝐿
+𝜕𝑔𝜇𝜈 (cid:3435)𝑔𝜇𝑚𝑝(cid:3040)
+
+(cid:3533)
+
+𝜇,𝜈,𝑚
+
+(cid:3091) (cid:3439)
+(cid:3092) + 𝑔𝜈𝑚𝑝(cid:3040)
+
+− (cid:3533)
+
+(cid:3040)
+𝑞(cid:3040)𝑝(cid:3046)
+
+− (cid:3533)
+
+(𝑞(cid:3046)(cid:3040)𝑝(cid:3038)
+
+(cid:3040) + 𝑞(cid:3040)(cid:3038)𝑝(cid:3046)
+
+(cid:3040) )
+(cid:3040) + 𝑞(cid:3040)𝑝(cid:3046)(cid:3038)
+
+ 
+
+  (15) 
+
+𝜕𝐿
+𝜕𝑞(cid:3046)
+
+𝑠,𝑚
+
+𝜕𝐿
+𝜕𝑞(cid:3046)(cid:3038)
+
+𝑠,𝑘,𝑚
+
+ 
+
+Page  8/13 
+
+ 
+
+THE FOUNDATIONS OF PHYSICS - 1916 
+
+ 
+En mettant à zéro le coefficient de  𝑝(cid:3046)(cid:3038)
+
+(cid:3040)  à gauche, on obtient l'équation suivante 
+
+où 
+
+c'est-à-dire que les dérivées des potentiels électrodynamiques  𝑞(cid:3046)  n'interviennent que dans les 
+combinaisons 
+
+  (16) 
+
+Nous apprenons ainsi qu’avec nos hypothèses, l'invariant L dépend, outre des potentiels  𝑔(cid:3091)(cid:3092), 𝑞(cid:3046) 
+uniquement des composantes du tenseur invariant anti-symétrique 
+
+𝜕𝐿
+(cid:3436)
+𝜕𝑞(cid:3046)(cid:3038)
+
++
+
+𝜕𝐿
+𝜕𝑞(cid:3038)(cid:3046)
+
+(cid:3440) 𝑞(cid:3040) = 0 
+
+𝜕𝐿
+𝜕𝑞(cid:3046)(cid:3038)
+
++
+
+𝜕𝐿
+𝜕𝑞(cid:3038)(cid:3046)
+
+= 0 
+
+𝑀(cid:3038)(cid:3046) = 𝑞(cid:3046)(cid:3038) − 𝑞(cid:3038)(cid:3046) 
+
+𝑀 = (𝑀(cid:3038)(cid:3046)) = 𝐶𝑢𝑟𝑙(𝑞(cid:3046)) 
+
+c'est-à-dire du vecteur nomme 6-vecteur électromagnétique. Ce résultat, qui détermine le 
+caractère des équations de Maxwell en premier lieu, dérive ici essentiellement comme une 
+conséquence de l'invariance générale, c'est-à-dire, sur la base de l'axiome II. 
+
+Si nous mettons le coefficient de  𝑝(cid:3040)
+utilisant (16) 
+
+(cid:3092)   à gauche de l'identité (15) égal à zéro, nous obtenons, en 
+
+𝜕𝐿
+𝜕𝑔(cid:3091)(cid:3092) 𝑔(cid:3091)(cid:3040)
+
+−
+
+𝜕𝐿
+𝜕𝑞𝑚
+
+2 (cid:3533)
+𝜇
+
+𝑞𝜈 − (cid:3533)
+𝜇
+
+𝜕𝐿
+
+𝜕𝑀𝑚𝑠
+
+𝑀𝜈𝑠
+
+= 0,        (𝜇 = 1, 2, 3, 4) 
+
+  (17) 
+
+Cette équation admet une transformation importante de l'énergie électromagnétique, c'est-à-
+dire la partie du vecteur énergie qui provient de L. A savoir, cette partie résulte de (11), (13), 
+(14) comme suit : 
+
+𝐿𝑝(cid:3039) − (cid:3533)
+(cid:3038)
+
+𝜕𝐿
+𝜕𝑞(cid:3038)(cid:3039)
+
+𝑝(cid:3038)
+
+−
+
+1
+
+2(cid:3493)𝑔
+
+(cid:3533)
+
+𝑘,𝑠
+
+𝜕 
+𝜕𝜛(cid:3038)
+
+(cid:4682)(cid:4678)
+
+𝜕(cid:3493)𝑔𝐿
+𝜕𝑞(cid:3039)(cid:3038)
+
+−
+
+𝜕(cid:3493)𝑔𝐿
+𝜕𝑞(cid:3038)(cid:3039)
+
+ 
+(cid:4679) 𝑝(cid:3046)𝑞(cid:3046)(cid:4683)
+
+En raison de (16) et en notant (5), cette expression devient : 
+
+(cid:3533) (cid:4678)𝐿𝛿(cid:3046)
+(cid:3046),(cid:3038)
+
+(cid:3039) −
+
+𝑀(cid:3046)(cid:3038) −
+
+𝜕𝐿
+𝜕𝐿
+𝜕𝑞𝑙
+𝜕𝑀𝑙𝑘
+(cid:3039) = 0, 𝑙 ≠ 𝑠;  𝛿(cid:3046)
+𝛿(cid:3046)
+
+𝑞(cid:3046)(cid:4679) 𝑝(cid:3046)
+
+ 
+
+(cid:3039)(cid:3046) ≠ 1    
+
+donc, en raison de (17), elle est égale à 
+2
+
+𝜕(cid:3493)𝑔𝐿
+𝜕𝑔𝜇𝑠 𝑔𝜇𝑙𝑝𝑠
+
+ 
+
+−
+
+(cid:3533)
+
+𝜇,𝑠
+
+(cid:3493)𝑔
+
+  (18) 
+
+  (19) 
+
+Grâce aux formules (21) qui seront développées plus loin, on voit notamment que l'énergie 
+électromagnétique, et donc aussi le vecteur énergie totale  𝑒(cid:3039), peut être exprimé par K seul, de 
+
+ 
+
+Page  9/13 
+
+ 
+
+DAVID HILBERT 
+
+𝑔(cid:3091)(cid:3092) = 0,      (𝜇 ≠ 𝜈) 
+
+𝑔(cid:3091)(cid:3091) = 1                      
+
+sorte que seuls les  𝑔(cid:3091)(cid:3092)  et leurs dérivées, mais les  𝑞(cid:3046) et leurs dérivées n’y apparaissent pas. Si 
+l'on prend la limite 
+
+dans l'expression (18), alors cette limite est en accord exact avec ce que Mie a proposé dans son 
+électrodynamique : Le tenseur d'énergie électromagnétique de Mie n'est rien d'autre que le 
+tenseur généralement invariant qui résulte de la différentiation de l'invariant L par rapport aux 
+potentiels gravitationnels  𝑔(cid:3091)(cid:3092)  dans cette limite - une circonstance qui m'a donné la première 
+indication du lien étroit nécessaire entre la théorie de la relativité générale d'Einstein et 
+l'électrodynamique de Mie, et qui m'a convaincu de la justesse de la théorie développée ici. 
+
+Il reste à montrer directement comment, avec l'hypothèse 
+
+𝐻 = 𝐾 + 𝐿 
+
+les équations de Maxwell généralisées (5) présentées ci-dessus sont impliquées par les 
+équations gravitationnelles (4). 
+
+En utilisant la notation introduite précédemment pour les dérivées variationnelles par rapport à 
+𝑔(cid:3091)(cid:3092)  les équations gravitationnelles, en raison de (20), prennent la forme suivante 
+
+  (20) 
+
+  (21) 
+
+(cid:3091)(cid:3092)
+Le premier terme du côté gauche devient 
+
+(cid:3427)(cid:3493)𝑔 𝐾(cid:3431)
+
++
+
+𝜕(cid:3493)𝑔𝐿
+𝜕𝑔𝜇𝜈 = 0 
+
+(cid:3427)(cid:3493)𝑔 𝐾(cid:3431)
+
+= (cid:3493)𝑔 (cid:3436)𝐾(cid:3091)(cid:3092) −
+
+(cid:3091)(cid:3092)
+
+1
+
+2
+
+𝐾 𝑔(cid:3091)(cid:3092)(cid:3440) 
+
+comme suit facilement, sans calcul, du fait que  𝐾(cid:3091)(cid:3092)  , à l'exception de  𝑔(cid:3091)(cid:3092), est le seul tenseur 
+de second rang et K le seul invariant, que l'on peut former en utilisant seulement  𝑔(cid:3091)(cid:3092)  et de ses   
+quotients différentiels de premier et second ordre  𝑔(cid:3038)
+
+(cid:3091)(cid:3092), 𝑔(cid:3038)(cid:3039)
+
+(cid:3091)(cid:3092).   
+
+Les équations différentielles de la gravitation qui en résultent me paraissent en accord avec 
+le concept grandiose de la théorie de la relativité générale établie par Einstein dans ses traités 
+ultérieurs5.   
+
+De plus, si nous désignons en général les dérivées variationnelles de  (cid:3493)𝑔  𝐽  par rapport au 
+
+potentiel électrodynamique  𝑞(cid:3035) comme ci-dessus par 
+
+(cid:3427)(cid:3493)𝑔 𝐽(cid:3431)
+
+=
+
+(cid:3035)
+
+𝜕(cid:3493)𝑔𝐽
+𝜕𝑞(cid:3035)
+
+− (cid:3533)
+
+𝑙
+
+𝜕
+𝜕𝜛(cid:3038)
+
+𝜕(cid:3493)𝑔 𝐽
+𝜕𝑞(cid:3035)(cid:3038)
+
+ 
+
+alors les équations électromagnétiques de base prennent la forme, due à (20) 
+
+ 
+5  Loc. cit. Berliner Sitzungsber. 1915. 
+
+(cid:3427)(cid:3493)𝑔 𝐿(cid:3431)
+
+= 0 
+
+(cid:3035)
+
+ 
+
+Page  10/13 
+
+  (22) 
+
+ 
+
+THE FOUNDATIONS OF PHYSICS - 1916 
+
+Puisque K est un invariant qui ne dépend que de  𝑔(cid:3091)(cid:3092)  et de ses dérivées, par le théorème III 
+l'équation (7) tient identiquement, avec 
+
+𝑖(cid:3046) = (cid:3533)(cid:3427)(cid:3493)𝑔 𝐾(cid:3431)
+
+𝜇𝜈 
+ 
+𝑔𝑠
+
+𝜇𝜈
+
+𝜇,𝜈
+
+et 
+
+𝑙 = −2 (cid:3533)(cid:3427)(cid:3493)𝑔 𝐾(cid:3431)
+𝑖𝑠
+
+𝜇𝑙 
+𝑔𝑠
+
+𝜇𝑠
+
+    ,      (𝜇 = 1, 2, 3, 4) 
+
+En raison de (21) et (24), (19) est égal à  −
+sommant sur m, nous obtenons grâce à (7) 
+
+(cid:2869)
+√(cid:3034)
+
+𝜇
+
+ 𝑖𝜈 = (cid:3533)
+𝑚
+
+𝜕
+
+𝜕𝜛(cid:3040)
+
+(cid:3437)−(cid:3493)𝑔𝐿𝛿(cid:3092)
+
+(cid:3040) +
+
+𝜕(cid:3493)𝑔 𝐿
+𝜕𝑞(cid:3040)
+
+𝑞(cid:3092) + (cid:3533)
+𝑠
+
+𝜕(cid:3493)𝑔𝐿
+𝜕𝑀𝑠𝑚
+
+𝑀(cid:3046)(cid:3092)
+
+ 
+(cid:3441)
+
+(cid:3040)  . En différenciant par rapport à  𝜛(cid:3040)  et en 
+𝑖(cid:3092)
+
+     = −
+
+     + (cid:3533) (cid:3421)𝑞(cid:3092)
+
+(cid:3437)(cid:3427)(cid:3493)𝑔𝐿(cid:3431)
+
++ (cid:3533)
+
+(cid:3040)
+
+(cid:3441) + 𝑞(cid:3092)(cid:3040) (cid:3437)(cid:3427)(cid:3493)𝑔𝐿(cid:3431)
+
++ (cid:3533)
+
+(cid:3040)
+
+𝜕(cid:3493)𝑔𝐿
+𝜕𝜛(cid:3092)
+
+𝜕
+
+𝜕𝜛(cid:3040)
+
+𝜕
+𝜕𝜛𝑠
+
+𝜕(cid:3493)𝑔𝐿
+𝜕𝑞𝑚𝑠
+
+𝑠
+
+𝜕
+𝜕𝜛𝑠
+
+𝜕(cid:3493)𝑔𝐿
+𝜕𝑞𝑚𝑠
+
+(cid:3441)(cid:3425)
+
+ 
+
+𝑠
+
+                              + (cid:3533) (cid:4678)(cid:3427)(cid:3493)𝑔𝐿(cid:3431)
+
+−
+
+(cid:4679) 𝑀(cid:3046)(cid:3092)
+
++ (cid:3533)
+
+𝜕(cid:3493)𝑔𝐿
+𝜕𝑞𝑠
+
+(cid:3046)
+
+𝜕(cid:3493)𝑔𝐿
+𝜕𝑀𝑠𝑚
+
+𝜕𝑀(cid:3046)(cid:3092)
+𝜕𝜛𝑚
+
+ 
+
+𝑠,𝑚
+
+𝑚
+
+𝑠
+
+car bien sûr 
+
+et[3] 
+
+𝜕(cid:3493)𝑔𝐿
+𝜕𝑞𝑚
+
+= (cid:3427)(cid:3493)𝑔𝐿(cid:3431)
+
++ (cid:3533)
+
+(cid:3040)
+
+𝜕
+𝜕𝜛𝑠
+
+𝜕(cid:3493)𝑔𝐿
+𝜕𝑞𝑚𝑠
+
+ 
+
+𝑠
+
+𝜕
+
+𝜕𝜛𝑚
+
+𝜕(cid:3493)𝑔𝐿
+𝜕𝑞𝑠𝑚
+
+− (cid:3533)
+
+𝑚
+
+= (cid:3427)(cid:3493)𝑔𝐿(cid:3431)
+
+−
+
+(cid:3046)
+
+𝜕(cid:3493)𝑔𝐿
+ 
+𝜕𝑞𝑠
+
+𝜕²
+
+𝜕𝜛𝑚 𝜕𝜛𝑠
+
+𝜕(cid:3493)𝑔𝐿
+𝜕𝑞𝑚𝑠
+
+= 0 
+
+Maintenant, nous tenons compte du fait qu'en raison de (16), nous avons 
+
+et nous obtenons alors en rassemblant convenablement les termes 
+
+𝑖𝜈 = −
+
++ (cid:3533) (cid:3436)𝑞(cid:3092)
+
+𝜕(cid:3493)𝑔𝐿
+𝜕𝜛(cid:3092)
+
+𝑚
+
+𝜕
+
+𝜕𝜛(cid:3040)
+
+         + (cid:3533)
+
+𝜕(cid:3493)𝑔𝐿
+𝜕𝑞𝑚
+D'autre part, nous avons 
+
+𝑚
+
+(cid:3427)(cid:3493)𝑔𝐿(cid:3431)
+
++ 𝑀(cid:3040)(cid:3092)(cid:3427)(cid:3493)𝑔𝐿(cid:3431)
+
+(cid:3040)
+
+ 
+(cid:3440)
+
+(cid:3040)
+
+𝑞𝑚(cid:3092)
+
++ (cid:3533)
+
+𝑠,𝑚
+
+𝜕(cid:3493)𝑔𝐿
+𝜕𝑀𝑠𝑚
+
+𝜕𝑀(cid:3046)(cid:3092)
+𝜕𝜛𝑚
+
+ 
+
+  (23) 
+
+  (24) 
+
+  (25) 
+
+ 
+
+Page  11/13 
+
+ 
+
+DAVID HILBERT 
+
+𝜕(cid:3493)𝑔𝐿
+𝜕𝜛(cid:3092)
+
+= − (cid:3533)
+
+𝑠,𝑚
+
+𝜕(cid:3493)𝑔𝐿
+𝜕𝑔𝑠𝑚 𝑔(cid:3092)
+
+(cid:3046)(cid:3040)
+
+𝜕(cid:3493)𝑔𝐿
+𝜕𝑞𝑚
+
+− (cid:3533)
+
+𝑚
+
+𝑞𝑚(cid:3092)
+
+− (cid:3533)
+
+𝑠,𝑚
+
+𝜕(cid:3493)𝑔𝐿
+𝜕𝑞𝑚𝑠
+
+𝜕𝑞(cid:3040)(cid:3046)
+𝜕𝜛𝜈
+
+ 
+
+Le premier terme à droite n'est rien d'autre que  𝑖𝜈  comme conséquence de (21) et (23). Le 
+dernier terme à droite s'avère être égal et opposé au dernier terme à droite de (25) ; à savoir, 
+nous avons 
+
+puisque l'expression 
+
+𝜕(cid:3493)𝑔𝐿
+𝜕𝑀𝑠𝑚
+
+𝜕𝑀(cid:3046)(cid:3092)
+(cid:3436)
+𝜕𝜛𝑚
+
+−
+
+𝜕𝑞(cid:3040)(cid:3046)
+𝜕𝜛𝜈
+
+(cid:3440)
+
+= 0 
+
+(cid:3533)
+
+𝑠,𝑚
+
+𝜕𝑀(cid:3046)(cid:3092)
+𝜕𝜛𝑚
+
+−
+
+𝜕𝑞(cid:3040)(cid:3046)
+𝜕𝜛𝜈
+
+=
+
+𝜕²𝑞𝜈
+
+𝜕²𝑞𝑠
+
+𝜕²𝑞𝑚
+
+ 
+
+−
+
+−
+
+𝜕𝜛𝑠 𝜕𝜛𝑚
+
+𝜕𝜛𝜈 𝜕𝜛𝑚
+
+𝜕𝜛𝜈 𝜕𝜛𝑠
+
+est symétrique en s, m, et le premier facteur sous le signe de la sommation dans (26) s'avère 
+être anti-symétrique en s, m. 
+
+Par conséquent, (25) entraîne l'équation 
+
+(cid:3533) (cid:3436)𝑀(cid:3040)(cid:3092)(cid:3427)(cid:3493)𝑔𝐿(cid:3431)
+𝑚
+
+(cid:3040)
+
++ 𝑞(cid:3092)
+
+𝜕
+
+𝜕𝜛(cid:3040)
+
+(cid:3427)(cid:3493)𝑔𝐿(cid:3431)
+
+(cid:3440)
+
+= 0 
+
+(cid:3040)
+
+c'est-à-dire que des équations gravitationnelles (4) découlent en effet les quatre combinaisons 
+linéaires mutuellement indépendantes (27) des équations électrodynamiques de base (5) et de 
+leurs dérivées premières. Il s'agit de l'expression mathématique exacte de la déclaration 
+générale ci-dessus concernant le caractère de l'électrodynamique comme conséquence de la 
+gravitation. 
+
+Selon notre hypothèse L ne doit pas dépendre des dérivées de  𝑔(cid:3091)(cid:3092) ; donc L doit être une 
+
+fonction de quatre invariants généraux, qui correspondent aux invariants orthogonaux spéciaux 
+donnés par Mie, et dont les deux plus simples sont les suivants : 
+
+  (26) 
+
+  (27) 
+
+𝑄 = (cid:3533) 𝑀(cid:3040)(cid:3041) 𝑀(cid:3039)(cid:3038) 𝑔(cid:3040)(cid:3038) 𝑔(cid:3041)(cid:3039)
+
+ 
+
+(cid:3038),(cid:3039),(cid:3040),(cid:3041)
+
+et 
+
+L'ansatz le plus simple et le plus direct pour L en considérant la structure de K, est aussi celui 
+
+qui correspond à l'électrodynamique de Mie, à savoir 
+
+ou, en suivant Mie de plus près encore :   
+
+𝑞 = (cid:3533) 𝑞(cid:3038) 𝑞(cid:3039) 𝑔(cid:3038)(cid:3039)
+
+ 
+
+(cid:3038),(cid:3039)
+
+𝐿 = 𝛼𝑄 + 𝑓(𝑞) 
+
+𝐿 = 𝛼𝑄 + 𝛽𝑞(cid:2871) 
+
+ 
+
+Page  12/13 
+
+ 
+
+THE FOUNDATIONS OF PHYSICS - 1916 
+
+où  𝑓(𝑞)  désigne une fonction quelconque de q et  sont des constantes. 
+
+Comme on peut le voir, les quelques hypothèses simples exprimées dans les axiomes I et II 
+suffisent, avec une interprétation appropriée, à établir la théorie : grâce à elle, non seulement 
+nos visions de l'espace, du temps et du mouvement sont fondamentalement remodelées dans 
+le sens expliqué par Einstein, mais je suis également convaincu qu'à travers les équations de 
+base établies ici, les processus les plus intimes, actuellement cachés, à l'intérieur de l'atome 
+recevront une explication, et en particulier qu'en général, une réduction de toutes les 
+constantes physiques en constantes mathématiques doit être possible - même si, dans la vue 
+d'ensemble, la possibilité que la physique devienne en principe une science du type de la 
+géométrie : sûrement la plus grande gloire de la méthode axiomatique, qui comme nous l'avons 
+vu, utilise les puissants instruments de l'analyse, à savoir le calcul variationnel et la théorie des 
+invariants. 
+
+EDITORIAL NOTES 
+
+[1] L'indice de dans le dénominateur de la troisième équation est absent du texte original. 
+
+[2] L'indice 
+
+(cid:3046)(cid:3038)  du dénominateur de  𝜕𝑞(cid:3046)(cid:3038)  est manquant dans le texte original. 
+
+[3] L'indice 
+
+(cid:3046) du terme  (cid:3427)(cid:3493)𝑔 𝐿(cid:3431)
+
+  est manquant dans le texte original. 
+
+(cid:3046)
+
+ 
+
+Page  13/13 
+
+ 
+
+

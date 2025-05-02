@@ -1,0 +1,969 @@
+Astrophys Space Sci (2018) 363:139
+https://doi.org/10.1007/s10509-018-3365-3
+
+ORIGINAL ARTICLE
+
+Constraints on Janus Cosmological model from recent observations
+of supernovae type Ia
+
+G. D’Agostini1
+
+· J.P. Petit1
+
+Received: 16 February 2018 / Accepted: 4 June 2018 / Published online: 6 June 2018
+© Springer Nature B.V. 2018, corrected publication June 2018
+
+Abstract From our exact solution of the Janus Cosmolog-
+ical equation we derive the relation of the predicted magni-
+tude of distant sources versus their red shift. The compari-
+son, through this one free parameter model, to the available
+data from 740 distant supernovae shows an excellent ﬁt.
+Keywords Cosmic acceleration · Concordance model ·
+Dark matter · Dark energy · High-z supernovae ·
+Deceleration parameter · Negative mass · Janus
+Cosmological model · Age of the universe · Bimetric model
+
+1 Introduction
+
+Modern cosmology is facing quizzical observational data.
+One of them is the acceleration of expansion of the uni-
+verse (Riess et al. 1998; Perlmutter et al. 1998; Schmidt et al.
+1999). Scientists are then facing two choices:
+• They either limit their interpretation of the phenomenon
+within the geometrical frame issued from the complete
+Einstein’s ﬁeld equation, including the so-called cosmo-
+logical constant Λ. Therefore the price to pay for it, is to
+add the concept of dark energy, whose physical nature re-
+mains a complete mystery. On top of that, this creates a
+model with a lot of free parameters giving it the nature of
+ad hoc model.
+
+B G. D’Agostini
+
+DAgostiniGilles@mailaps.org
+
+J.P. Petit
+Jp.petit@mailaps.org
+
+1
+
+BP 55, 84122 Pertuis, France
+
+• Or they have to deal with a drastic geometric and paradig-
+matic change which extends General Relativity to a wider
+model. This very model includes negative mass and neg-
+ative energy particles whose physical nature can be de-
+scribed through the dynamic groups theory. These parti-
+cles are simple copies of our classical matter and antimat-
+ter, with negative mass. Moreover, such a model, inspired
+by Andrei Sakharov’s ideas, does explain why we do not
+observe any primeval antimatter.
+
+2 The Janus Cosmological model,
+
+a necessary new geometrical framework
+
+The JCM is based on the introduction of negative mass
+and negative energy in the cosmological model. As shown
+in 1957 by Bondi (1957) and conﬁrmed later by Bonnor
+(1989), the introduction of negative masses in the GR model
+produced an unmanageable runaway effect.
+
+This effect comes from the usual way we deal with a par-
+ticle embedded in a gravitational ﬁeld where particles follow
+the same geodesic whatever positive or negative their mass
+would be. As a conclusion, from Einstein’s equation:
+• A positive mass object does attract any positive or nega-
+tive mass.
+• A negative mass object does repel any positive or negative
+mass.
+
+If, as an example, we are taking two opposite masses: the
+positive one is escaping from the following chasing nega-
+tive one. Both are experiencing a uniform acceleration. But
+the energy is conserved because the negative mass carries a
+negative energy.
+
+This unmanageable feature banished negative mass con-
+cept during 60 years. But this effect vanishes when we
+
+139 Page 2 of 7
+
+G. D’Agostini, J.P. Petit
+
+μν and g(−)
+
+consider that positive and negative masses follow differ-
+ent geodesic systems, which both derived from both distinct
+metric tensor ﬁelds g(+)
+μν . These two are meant to
+be solution of a coupled ﬁeld equations system and the JCM
+brings the solution (Petit 1994, 1995; Petit and D’Agostini
+2014a,b). See Hossenfelder (2006, 2008) for corresponding
+Lagrangian derivation of such bimetric system.
+R(+)
+
+R(+)g(+)
+
+= +χ
+
+T (+)
+
+μν
+
+μν
+
+(cid:2)
+(cid:2)
+
+(cid:3)
+(cid:3)
+
+μν
+
++ a(−)3
+a(+)3 T (−)
++ a(+)3
+a(−)3 T (+)
+
+μν
+
+− 1
+2
+− 1
+2
+
+μν
+
+R(−)
+
+μν
+
+R(−)g(−)
+
+μν
+
+= −χ
+
+T (−)
+
+μν
+
+(1)
+
+The corresponding interaction scheme is the following:
+• Positive masses do attract each other, though Newton’s
+law.
+• Negative masses do attract each other, though Newton’s
+law.
+• Opposed masses do repel each other, through anti-New-
+ton’s law.
+
+This interaction scheme ﬁts the action-reaction principle.
+
+3 The beneﬁt of the JCM model
+
+JCM is not another extra model with a lot of puzzling com-
+ponents, associated with a subsequent set of free parameters.
+It’s a model without unknown components.
+
+Indeed, it is nothing else but an extension of Andrei
+
+Sakharov’s ideas (Sakharov 1967, 1979, 1980).
+
+In 1967 Andrei Sakharov gave an explanation of the ob-
+servational absence of primeval antimatter (nowadays there
+still is no other challenging theory). At the time, he thought
+the universe to be composed by two “twin universes”, both
+only linked together via one singularity “origin”. Inspired
+from a CPT symmetry scheme, Sakharov suggested that:
+• The arrow of
+(T-symmetry).
+• It would be enantiomorphic (P-symmetry).
+• It would contain antimatter (C-symmetry).
+JCM globally follows this above general scheme, but, in-
+stead of two distinct universes, we suggest to consider one
+single universe corresponding to a manifold M4 with two
+metrics. This corresponds to a new, but clear, geometrical
+framework.
+
+time would be antiparallel
+
+to ours
+
+As shown by Souriau (1970) T-symmetry goes with en-
+ergy and mass inversion, so that the “twin universes content”
+only corresponds to a copy of our particles (photon, proton,
+neutron, electron, up to quarks and their anti), but with neg-
+ative energy and negative mass if any.
+
+Negative masses emit negative energy photons, therefore
+this matter is invisible to us. It only reveals its presence
+through (anti) gravitational effects.
+
+So that:
+
+Following A. Sakharov, we can assume that the ratio of
+the rate of production of baryon versus antibaryons would
+be inverse for the negative population.
+• JCM explains the absence of observation of the so-called
+primeval antimatter, opposite to the mainstream ΛCDM
+model.
+• JCM describes precisely the nature of the invisible com-
+ponents of the universe, opposite to the mainstream
+ΛCDM model.
+• In addition, JCM predicts that the antimatter produced in
+laboratory will react as the matter with respect to the grav-
+itational ﬁeld of the Earth (it will fall).
+• Because positive and negative matter are repelling each
+other, the negative matter content in the solar system is
+almost zero. So, JCM ﬁts the classical relativistic obser-
+vations, as presented in former papers (Petit 1995; Petit
+and D’Agostini 2014a,b).
+• JCM suggests a clear scheme for VLS formation (El-Ad
+et al. 1996) when the mainstream ΛCDM model seems to
+struggle more to give one.
+• JCM explains the observed repellent effect due to “the
+Great Repeller” (Hoffman et al. 2017). The measured es-
+cape velocities of galaxies are due to the presence of an
+invisible repellent cluster made of negative mass in the
+centre of a big void. The mainstream model’s supporters
+suggest that such a repellent effect could be due to some
+kind of hole in the dark matter ﬁeld of the universe (pos-
+itive masses). But, if the gravitational instability leads to
+the setting up of massive clusters, it does not provide any
+scheme for such void formations. So that the mainstream
+ΛCDM model does not provide any explanation for this
+observation.
+• JCM explains the conﬁnement of galaxies and the shape
+of their rotation curves. As we showed in Petit et al.
+(2001), if one introduces a surrounding repellent negative
+matter environment, it gives larger rotation velocities at
+distance, see Fig. 1. Mysterious dark matter is no longer
+required, while the mainstream ΛCDM model does.
+• After JCM, the intensity of the observed gravitational
+lensing effect is mainly due to the negative matter that
+surrounds galaxies and clusters of galaxies. Mysterious
+dark matter is no longer required, while the ΛCDM model
+does.
+• JCM suggests an explanation of the low magnitude of
+very young galaxies: this would be due to negative lens-
+ing weakening, when their light are crossing the negative
+mass clusters located at the center of the big void. Myste-
+rious dark matter is no longer required, while the ΛCDM
+model does.
+
+Constraints on Janus Cosmological model from recent observations of supernovae type Ia
+
+Page 3 of 7 139
+
+journal in 2014 (Petit and D’Agostini 2014a), which gives,
+for positive species:
+a(+)(u) = α2ch2(u)
+1 + 1
+t (+)(u) = α2
+2
+
+(cid:3)
+sh(2u) + u
+
+(cid:2)
+
+(2)
+
+c
+
+In the following,we will show that the predicted values of
+the bolometric magnitude versus redshift ﬁts pretty well the
+available data.
+
+= − 1
+
+For sake of simplicity, we will now write a(+) ≡ a.
+The deceleration parameter q is:
+q ≡ − a¨a˙a2
+H ≡ ˙a
+
+And the ‘Hubble constant’ is:
+
+2sh2(u)
+
+< 0
+
+(3)
+
+(4)
+
+a
+
+(cid:5)
+
+(cid:4)
+
+z +
+
+1 + 2q0z
+
+z2(1 − q0)
+1 + q0z + √
+
+We can derive (see Appendix A) the relation for the bolo-
+metric magnitude with respect to the redshift z:
++ cst
+
+mbol = 5log10
+(5)
+where q0 < 0 and 1 + 2q0z > 0. Fitting q0 and cst to avail-
+able observational data (Betoule et al. 2014), gives:
+q0 = −0.087 ± 0.015
+Results presented below, show the standardized distance
+modulus, linked to experimental parameters through the re-
+lation:
+μ = m
+− MB + αX1 − βC
+∗
+∗
+where m
+B is the observed peak magnitude in rest frame B
+band, X1 is the time stretching of the light curve and C the
+supernova color at maximum brightness.
+
+(6)
+
+(7)
+
+B
+
+Both MB , α and β are nuisance parameters in the dis-
+
+tance estimate.
+
+We took the values given in Betoule et al. (2014) corre-
+sponding to the best ﬁt of the whole set of combined data
+(740 supernovae) with ΛCDM model.
+With our best ﬁt, we have: χ 2/d.o.f. = 657/738
+
+(740 points and 2 parameters).
+
+The corresponding curves are shown in Figs. 3, 4, 5, 6, in
+excellent agreement with the experimental data. The com-
+parison with both model best ﬁts are shown in Fig. 7.
+
+We can derive the age of the universe (see Appendix B)
+with respect to q0 and H0 and some numerical values are
+given in Table 1, for different (q0, H0) values. For our best
+ﬁt, we get:
+T0 = 1.07
+
+= 15.0 Gyr
+
+(8)
+
+H0
+
+Fig. 1 Circular velocity, after Petit et al. (2001). This can be compared
+with results from numerical simulations by Farnes (2017)
+
+Fig. 2 Spiral structure in numerical simulation
+
+• JCM explains the spiral structure of galaxies (Petit et al.
+2001), see Fig. 2, due to dynamical friction with the sur-
+rounding negative mass. The ΛCDM model don’t give
+any model explaining the spiral structure.
+As a conclusion JCM is deﬁnitively not a simple or pure
+speculative product of theoretical mathematics. It had been
+compared with many observations and happened to ﬁt with
+them. Opposite to the today’s mainstream ΛCDM model,
+JCM does not carry unknown and mystery like dark matter
+or dark energy.
+
+4 JCM explains the acceleration of the
+
+universe
+
+An exact solution of the system (1) for the dust era of the
+universe, was presented in Astrophysics and Space Science
+
+139 Page 4 of 7
+
+G. D’Agostini, J.P. Petit
+
+Fig. 3 Hubble diagram of the combined sample (log scale)
+
+Fig. 7 Hubble diagram of the combined sample and comparison with
+the 2 models (linear scale)
+
+Table 1 T0 values with respect to q0 and H0
+
+T0
+
+(Gyr)
+
+H0
+
+70
+73
+
+−0.045
+15.0
+14.4
+
+−0.087
+15.0
+14.4
+
+q0
+
+−0.102
+14.9
+14.3
+
+−0.117
+14.9
+14.3
+
+−0.132
+14.8
+14.2
+
+0.00
+14.0
+13.4
+
+5 What is missing
+
+Let’s ﬁgure out that, when extended to the early age of
+the universe, the JCM proposes an alternative to the inﬂa-
+tion theory, in order to justify the great homogeneity of the
+primeval universe. This was introduced ﬁrst in 1988 (Petit
+1988), extended in 1995 (Petit 1995), and implies a variable
+constants system which preserves all equations of physics.
+As a basis of the interpretation of the very large structure of
+the universe we supposed that the mass density of the neg-
+ative species (negative mass ’twin’ matter) is much higher
+that the one of the positive species.
+
+In JCM, we have to take into account two systems, each
+owing their own sets of “variable constants” plus space and
+(cid:6)
+time scale factors:
+c(+), G(+), h(+), m(+), e(+), a(+), t (+)
+(cid:6)
+c(−), G(−), h(−), m(−), e(−), a(−), t (−)
+
+(cid:7)
+(cid:7)
+
+A future work will show how, the system of coupled ﬁeld
+equations (1) including a variable constants process, starting
+from a fully symmetrical initial situation can explain density
+instabilities.
+
+(cid:6)
+Moreover, when the densities get weaker, the sets:
+c(+), G(+), h(+), m(+), e(+)
+(cid:6)
+c(−), G(−), h(−), m(−), e(−)
+
+(cid:7)
+(cid:7)
+
+Fig. 4 Hubble diagram of the combined sample (linear scale)
+
+Fig. 5 Residuals from the best ﬁt versus redshift (log scale)
+
+Fig. 6 Standard deviation versus redshift
+
+Constraints on Janus Cosmological model from recent observations of supernovae type Ia
+
+Page 5 of 7 139
+
+behave as absolute constants,
+a(+)c(+)2 = a(−)c(−)2.
+
+in each sector, with
+
+The ΛCDM model provides an interpretation of the ﬂuc-
+tuations of the CMB. If the JCM wants to pretend to chal-
+lenge the ΛCDM it must provide an alternative interpreta-
+tion of such observational data.
+
+This is out of the scope of the present paper and will the
+
+subject of future works.
+
+6 Conclusion
+
+Based on a new geometrical framework the JCM models
+taking into account many observational data. It precisely de-
+ﬁnes the nature of the invisible components of the universe,
+as a copy of ordinary components, with negative energy and
+negative mass, if any. By developing former Sakharov’s the-
+ory, it explains the lack of primeval antimatter observation.
+The negative sector is then composed with negative mass
+protons, neutrons, electrons and so on. Through such a neg-
+ative energy, photons make all negative sectors species in-
+visible to us.
+
+JCM model is explaining the strong gravitational lens-
+ing effects around galaxies and clusters of galaxies, due to
+the surrounding and conﬁning negative mass environment. It
+brings a model for VLS formation, spiral structure and gives
+an explanation to the repellent phenomena recently observed
+in a very large size mapping. It also explains the ﬂatness of
+the rotation curves of galaxies.
+
+The extension of JCM to a variable constants regime, ap-
+plying to the early stage, explains the homogeneity of the
+early universe.
+
+It brings an exact solution in the dust era, which takes into
+account the acceleration of the universe. This paper is will-
+ing to demonstrate the good agreement of this solution with
+a single free parameter, with the experimental data on super-
+novae. The deceleration parameter q0, always negative, hap-
+pened to be small and there is no need in JCM to introduce
+a non zero cosmological constant to ﬁt the so far available
+data.
+
+It is also pointed out that the model must now provide
+its own interpretation of additional features like the CMB
+ﬂuctuations.
+
+Appendix A: Bolometric magnitude
+
+Starting from the cosmological equations corresponding to
+positive species and neglectible pressure (dust universe) es-
+tablish in Petit and D’Agostini (2014a):
+a(+)2¨a(+) + 8π G
+3
+
+E = 0
+
+(9)
+
+with E ≡ a(+)3ρ(+) + a(−)3ρ(−) = constant < 0. For the
+sake of simplicity we will write a ≡ a(+) in the following.
+(cid:3)
+A parametric solution of Eq. (9) can be written as:
+a(u) = α2ch2(u)
++ u
+
+(cid:2)
+1 + sh(2u)
+
+t (u) = α2
+
+(10)
+
+c
+
+2
+
+with
+α2 = − 8π G
+(11)
+3c2 E
+This solution imposes k = −1. Writing the usual deﬁnitions:
+q ≡ − a¨a˙a2
+
+and H ≡ ˙a
+
+(12)
+
+a
+
+we can write:
+q = − 1
+
+2sh2(u)
+
+= − 4π G
+3
+
+|E|
+a3H 2
+
+and also
+(1 − 2q) = c2
+a2H 2
+
+(13)
+
+(14)
+
+In terms of the time t used in the FRLW metric, the light
+emitted by Ge at time te is observed on G0 at a time t0 (te >
+t0) and the distance l traveled by photons (ds2 = 0) is related
+to the time difference t and then to the u parameter through
+the relation:
+l =
+
+du = 2u0 − 2ue
+
+(1 + ch(2u)
+
+(15)
+
+=
+
+(cid:8)
+
+(cid:8)
+
+cdt
+
+u0
+
+t0
+
+a(t )
+
+te
+
+ue
+
+ch2(u)
+
+We can also relate the distance l to the distance marker r by
+(using Friedman’s metric with k = −1):
+l =
+= argsh(r)
+
+(16)
+
+=
+
+(cid:8)
+
+(cid:8)
+
+cdt
+
+dr
+
+t0
+
+r
+
+(cid:5)√
+1 + r
+
+(cid:5)2
+
+a(t )
+
+te
+
+0
+
+So we can write:
+r = sh(2u0 − 2ue) = 2sh(u0 − ue)ch(u0 − ue)
+We need now to link ue and u0 to observable quantities q0,
+H0, and z. From Eq. (10) we get:
+u = argch
+
+(cid:2)(cid:9)
+
+(18)
+
+(17)
+
+(cid:3)
+
+a
+α2
+
+Equation (15) gives the usual redshift expression:
+ae = a0
+1 + z
+
+(cid:10)
+From Eqs. (13) and (18) we get:
+u0 = argch
+
+(cid:10)
+= argsh
+
+2q0 − 1
+2q0
+
+− 1
+2q0
+
+(19)
+
+(20)
+
+139 Page 6 of 7
+
+G. D’Agostini, J.P. Petit
+
+(cid:10)
+From Eqs. (13), (18) and (19) we get:
+ue = argch
+
+= argsh
+
+2q0 − 1
+2q0(1 + z)
+
+(cid:10)
+
+− 1 + 2q0z
+2q0(1 + z)
+
+(21)
+
+Inserting Eqs. (20) and (21) into Eq. (17), after a ‘few’ tech-
+nical manipulations, using at the end Eq. (14) and consider-
+ing the constraint that 1 + 2q0z > 0, we get:
+1 + 2q0z)
+r = c
+
+q0z + (1 − q0)(1 − √
+0 (1 + z)
+q2
+
+a0H0
+
+(22)
+
+Which is similar to Mattig’s work (Mattig 1959) with usual
+Friedmann solutions where q0 > 0, here we have always
+q0 < 0.
+
+The total energy received per unit area and unit time in-
+terval measured by bolometers is related to the luminosity:
+Ebol =
+
+(23)
+
+L
+
+4π a2
+
+0 r2(1 + z)2
+
+Using Eq. (22), the bolometric magnitude can therefore be
+written as:
+
+(cid:4)
+
+q0z + (1 − q0)(1 − √
+
+1 + 2q0z)
+
+(cid:5)
+
++ cte
+
+mbol = 5log10
+
+q2
+0
+
+(cid:4)
+
+This relation rewrites as (Terell 1977):
+z2(1 − q0)
+1 + q0z + √
+
+mbol = 5log10
+which is valid for q0 = 0.
+
+z +
+
+1 + 2q0z
+
+(cid:5)
+
++ cst
+
+Appendix B: Age of the universe
+
+Below we will establish the relation between the age of the
+universe T0 with q0 and H0. This age is deﬁned by:
+T0 = α2
+
++ u0
+
+sh(2u0)
+
+(26)
+
+(cid:2)
+
+(cid:3)
+
+c
+
+2
+
+From Eqs. (11), (13), (14) we get:
+
+α2
+c
+
+= − 2q
+
+H
+
+2 = 2q0
+(1 − 2q)
+− 3
+H0
+(cid:2)
+
+2
+
+(1 − 2q0)
+− 3
+(cid:3)
+
+and so:
+T0. = −2q0(1 − 2q0)
+− 3
+
+2
+
+sh(2u0)
+
+2
+
++ u0
+
+1
+H0
+
+Inserting Eq. (20) in Eq. (28) we ﬁnally get:
+√
+1 − 2q0
+T0.H0 = 2q0(1 − 2q0)
+− 3
+2q0
+
+−1
+2q0
+
+argsh
+
+(cid:2)
+
+−
+
+2
+
+(cid:3)
+
+(cid:10)
+
+This relation is shown in Fig. 8.
+
+(24)
+
+(25)
+
+(27)
+
+(28)
+
+(29)
+
+Fig. 8 Age of the universe time Hubble’s constant versus q0
+
+References
+
+Betoule, M., et al.: Improved cosmological constraints from a joint
+analysis of the SDSS-II and SNLS supernova sample. Astron. As-
+trophys. A22, 568 (2014)
+
+Bondi, H.: Negative mass in General Relativity. Rev. Mod. Phys. 29(3)
+
+Bonnor, W.B.: Negative mass in general relativity. Gen. Relativ. Gravit.
+
+(1957)
+
+11, 1143 (1989)
+
+El-Ad, H., Piran, T., da Costa, L.N.: Automated detection of voids in
+
+redshift surveys. Astrophys. J. 462, L13–L16 (1996)
+
+Farnes, J.S.: A Proposal for a Unifying Theory of Dark Energy and
+
+Dark Matte (2017). arXiv:1712.07962 [physics.gen-ph]
+
+Hoffman, Y., Pomarède, D., Tully, R.B., Courtois, H.M.: The Dipole
+
+Repeller. Nat. Astron. 0036 (2017)
+
+Hossenfelder, S.: Anti-gravitation. Phys. Lett. B 636, 119–125 (2006)
+Hossenfelder, S.: A bimetric theory with exchange symmetry. Phys.
+
+Rev. D 78(044015) (2008)
+
+Mattig, W.: Uber den zusammenhang zwischen rotverschiebung und
+
+scheinbarer helligkeit. Astron. Nachr. 284, 109 (1959)
+
+Perlmutter, S., et al.: Measurements of Ω and Λ from 42 high-redshift
+
+supernovae. Astrophys. J. 517, 565–586 (1998)
+
+Petit, J.P.: Cosmological model with variable velocity of light. Mod.
+
+Phys. Lett. A 3, 1527 (1988)
+
+Petit, J.P.: The missing mass problem. Il Nuovo Cimento B 109, 697–
+
+Petit, J.P.: Twin universe cosmology. Astrophys. Space Sci. 226, 273
+
+710 (1994)
+
+(1995)
+
+Petit, J.P., D’Agostini, G.: Negative mass hypothesis in cosmology and
+
+the nature of dark energy. Astrophys. Space Sci. 353(2) (2014a)
+
+Petit, J.P., D’Agostini, G.: Cosmological bimetric model with interact-
+ing positive and negative masses and two different speeds of light,
+in agreement with the observed acceleration of the Universe. Mod.
+Phys. Lett. A 29(34) (2014b)
+
+Petit, J.P., Midy, P., Landsheat, F.: Twin matter against dark matter. In:
+International Meeting on Astrophysical and Cosmology “Where
+is the matter?”, Marseille, pp. 25–29 (2001)
+
+Riess, A.G., et al.: Observational evidence from supernovae for an
+accelerating universe and a cosmological constant. Astrophys. J.
+116, 1009–1038 (1998)
+
+Sakharov, A.: CP invariance violation, C and baryonic asymetries of
+the universe. Pis’ma Zh. Eksp. Teor. Fiz. 5, 32–35 (1967). Trans-
+lation in Sov. Phys. JETP Lett. 5, 24–27 (1967)
+
+Sakharov, A.: Baryonic asymmetry of the universe. Pis’ma Zh. Eksp.
+Teor. Fiz. 76, 1172–1181 (1979). Translation in Sov. Phys. JETP
+Lett. 49, 594–599 (1979)
+
+Constraints on Janus Cosmological model from recent observations of supernovae type Ia
+
+Page 7 of 7 139
+
+Sakharov, A.: Cosmological Model of the Universe with a time-vector
+inversion. Pis’ma Zh. Eksp. Teor. Fiz. 79, 689–693 (1980). Trans-
+lation in Sov. Phys. JETP 52, 349–351 (1980)
+
+Schmidt, B.P., et al.: The high-Z supernova search. Measuring cosmic
+deceleration and global curvature of the universe using type Ia
+supernovae. Astrophys. J. 507, 46–63 (1999)
+
+Souriau, J.M.: Structure des Systèmes Dynamiques. Dunod, Paris
+(1970). ISSN 0750-2435. Structure of Dynamical Systems.
+Birkhäuser, Boston (1997)
+
+Terell, J.: Am. J. Phys. 45, 869 (1977)
+
+

@@ -1,0 +1,705 @@
+Infall time in the Eddington-Finkelstein metric,
+
+with application to Einstein-Rosen bridges
+
+Ecole Normale Supérieure de Lyon, France∗
+
+Pascal Koiran
+
+August 14, 2021
+
+Abstract
+The Eddington-Finkelstein metric
+
+is
+
+obtained
+
+from the
+Schwarzschild metric by a change of the time variable.
+It is
+well known that a test mass falling into a black hole does not reach the
+event horizon for any ﬁnite value of the Schwarzschild time variable t.
+By contrast, we show that the event horizon is reached for a ﬁnite
+value of the Eddington-Finkelstein time variable t(cid:48). Then we study in
+Eddington-Finkelstein time the fate of a massive particle traversing
+an Einstein-Rosen bridge and obtain a diﬀerent conclusion than
+recent proposals in the literature: we show that the particle reaches
+the wormhole throat for a ﬁnite value t(cid:48)
+1 of the time marker t(cid:48), and
+continues its trajectory across the throat for t(cid:48) > t(cid:48)
+1. Such a behavior
+does not make sense in Schwarzschild time since it would amount to
+continuing the trajectory of the particle "beyond the end of time."
+
+1
+
+Introduction
+
+The simplest black hole model is described by the Schwarzschild metric:
+
+ds2 = (1 − α
+r
+
+)c2dt2 − dr2
+
+1 − α/r
+
+− r2(dθ2 + sin2 θdφ2),
+
+(1)
+
+where α is the Schwarzschild radius. The singularity at the event horizon
+(r = α) is an artiﬁcial one, due to a bad choice of coordinates. A better
+choice is provided by the Eddington-Finkelstein coordinates, where the time
+marker t is replaced by:
+
+(cid:12)(cid:12)(cid:12) r
+
+α
+
+(cid:12)(cid:12)(cid:12) .
+
+− 1
+
+t(cid:48) = t +
+
+α
+c
+
+ln
+
+In the new coordinates (t(cid:48), r, θ, φ), the metric takes the form
+
+)c2dt(cid:48)2 − r + α
+ds2 = (1 − α
+r
+∗Email: pascal.koiran@ens-lyon.fr
+
+r
+
+dr2 − 2αc
+r
+
+dr dt(cid:48) − r2(dθ2 + sin2 θdφ2),
+
+(3)
+
+(2)
+
+1
+
+which is indeed nonsingular for r = α.1
+
+It is well known that an infalling mass following a radial trajectory in
+the Schwarzschild spacetime reaches the Schwarzschild radius r = α in ﬁnite
+proper time; but the Schwarzschild radius is not reached for any ﬁnite value
+of the time parameter t. In this paper we show that the opposite is true
+in the Eddington-Finkelstein metric (3): the infalling mass will reach the
+Schwarzschild radius for a ﬁnite value of the time parameter t(cid:48). This eﬀect
+is not directly observable because a light ray emitted by the particle at the
+Schwarzschild radius will not reach a distant observer in ﬁnite time.
+
+Nevertheless, the ﬁniteness of infall time will play an important role in
+Section 4, where we analyze the fate of a massive particle traversing an
+Einstein-Rosen bridge. This question was considered in several recent pa-
+pers [11, 8, 7]. In particular, for an observer located across from the wormhole
+throat, it was suggested that:
+
+- the throat appears as a past black hole horizon [7].
+
+- the particle goes "backward in time" after crossing the throat, and the
+
+observer sees an antiparticle falling into a black hole [8].
+
+In this paper we study a version of the Einstein-Rosen bridge obtained by
+coupling the ingoing Eddington-Finkelstein metric (3) to the outgoing ver-
+sion of this metric. Our analysis leads to a diﬀerent conclusion than in [7, 8]:
+the particle reaches the throat for a ﬁnite value t(cid:48)
+1 of the time marker t(cid:48),
+and continues its trajectory across the throat for t(cid:48) > t(cid:48)
+1. Such a behavior
+clearly does not make sense if one works in Schwarzschild time, since it would
+amount to continue the particle’s trajectory "beyond the end of time."
+
+2 Trajectories of light rays
+
+In Section 3 we study the trajectories of massive particles in the Eddington-
+Finkelstein metric. As a preliminary to this study, we consider in this section
+the trajectories of light rays. In contrast to the Schwarzschild metric, we
+will see that in the Eddington-Finkelstein metric the speed of light dr/dt(cid:48) is
+diﬀerent for inward and outward pointing light rays. This eﬀect is of course
+not physically observable:
+it is only an artifact of the choice of a system
+of coordinates. Measuring the one-way speed of light involves indeed the
+use of synchronized clocks [15]. The proper times measured by these clocks
+will be the same in both metrics since they are equivalent up to a change of
+variables.
+
+1Throughout the paper we use the (+,−,−,−) sign convention for the signature of the
+metric. This was the choice of most of the pioneers of relativity theory, including Einstein
+himself (as in e.g. [3]), Schwarzschild [12, 13], Weyl [14], Lemaître [9], Eddington [2] or
+Finkelstein [4].
+
+2
+
+We only consider radial trajectories, so (3) simpliﬁes to:
+
+ds2 = (1 − α
+r
+
+)c2dt(cid:48)2 − r + α
+
+dr2 − 2αc
+r
+
+dr dt(cid:48).
+
+r
+
+(4)
+
+Setting ds2 = 0 in (4), we obtain for dr/dt(cid:48) the quadratic equation:
+
+(r + α)(dr/dt(cid:48))2 + 2αc(dr/dt(cid:48)) − (r − α)c2 = 0
+which admits the two solutions −c for inward rays and r−α
+rays. We therefore have a smaller speed of light for outward rays.
+Since the speed of inward light rays is constant and equal to c, they will
+reach the Schwarzschild radius r = α for a ﬁnite value of the time marker t(cid:48).
+This contrasts with the Schwarzschild metric (1), for which the amount of
+time ∆t needed to reach the Schwarzschild radius is inﬁnite. For outward
+rays we have cdt(cid:48)/dr = (r + α)/(r − α). The time needed to travel from
+radial position r = R to r = R0 > R is equal to:
+
+r+α c for outward
+
+(cid:90) R0
+
+R
+
+∆t(cid:48) =
+
+r + α
+r − α
+
+dr
+c
+
+.
+
+We therefore have a logarithmic divergence as R → α: escape time is inﬁnite
+like in the Schwarzschild metric. We will derive similar results for massive
+particles (ﬁnite infall time but inﬁnite escape time) in the next section. To-
+ward this study we note that
+
+dt(cid:48)
+dr
+
+c
+
+>
+
+r + α
+r − α
+
+(5)
+
+for outward moving massive particles since cdt(cid:48)/dr = r+α
+rays.
+
+r−α for outward light
+
+3 Trajectories of massive particles
+
+In this section we study radial trajectories of massive particles in the
+Eddington-Finkelstein metric. In order to compute geodesics in metric (4)
+we consider the associated Lagrangian
+
+(cid:114)
+
+F =
+
+(1 − α
+r
+
+)c2 ˙t(cid:48)2 − r + α
+
+˙r2 − 2αc
+r
+
+˙r ˙t(cid:48)
+
+r
+
+where ˙r = dr/ds,
+must satisfy the diﬀerential equation:
+
+˙t(cid:48) = dt(cid:48)/ds. By the Euler-Lagrange equations, geodesics
+
+(cid:18) ∂F
+
+(cid:19)
+
+∂ ˙t(cid:48)
+
+d
+ds
+
+=
+
+∂F
+∂t(cid:48) .
+
+3
+
+Since F is independent of t(cid:48) and F is identically equal to 1 along the geodesic
+we obtain
+
+where µ is a constant of motion. Or equivalently,
+
+(1 − α
+r
+
+)c ˙t(cid:48) − α
+r
+
+˙r = µ
+
+c ˙t(cid:48) =
+
+µr + α ˙r
+r − α
+
+.
+
+(6)
+
+(7)
+
+Note that µ > 0 for an infalling trajectory since (6) expresses µ as the sum of
+two positive terms. We will see in a moment that outward moving particles
+also satisfy the same constraint µ > 0.
+
+We need a second equation in order to compute geodesics. The constraint
+
+F = 1 gives:
+
+(1 − α
+r
+
+)c2 ˙t(cid:48)2 − r + α
+
+(8)
+From this quadratic equation in ˙r we could express ˙r as a function of r and ˙t(cid:48).
+We will instead express ˙r as a function of r only. For this we replace c ˙t(cid:48) in (8)
+by the right-hand side of (7). This yields another quadratic equation:
+
+r
+
+˙r2 − 2αc
+r
+
+˙r ˙t(cid:48) = 1.
+
+˙r2 − µ2 + 1 − α/r = 0
+
+(cid:112)
+
+which admits the solution
+
+µ2 − 1 + α/r
+
+˙r = ν
+
+(9)
+where ν = −1 for an infalling trajectory, ν = +1 for an outgoing trajectory.
+Hence µ (cid:54)= 0 if there is a point on the trajectory with r > α. By substitution
+of this solution in (7) we can also express ˙t(cid:48) as a function of r. Then we have
+
+dt(cid:48)/dr = ˙t(cid:48)/ ˙r = (ν/c)g(r)
+
+µr + αν(cid:112)µ2 − 1 + α/r
+(r − α)(cid:112)µ2 − 1 + α/r
+
+.
+
+g(r) =
+
+where
+
+(10)
+
+(cid:90) R
+
+Consider a portion of geodesic beginning at t(cid:48) = t(cid:48)
+0 and r = R0 > α. The
+radial position r = R is reached at time t(cid:48)(R) = t(cid:48)
+(ν/c)g(r)dr. In
+0 +
+order to show that infall time to the Schwarzschild radius is ﬁnite, we will
+show that g(r) remains bounded as r → α when ν = −1.
+The quotient of the ﬁrst term (r− α)µ by the denominator of (10) converges
+to 1 as r → α. The quotient of the second term by the same denominator is
+equal to:
+
+The numerator of (10) is indeed equal to (r−α)µ+α(µ−(cid:112)µ2 − 1 + α/r).
+
+R0
+
+r(µ +(cid:112)µ2 − 1 + α/r)
+
+α
+
+.
+
+4
+
+It converges to 1/(2µ) as r → α (recall indeed that µ > 0 for an infalling
+trajectory). We conclude that limr→α g(r) = 1 + 1/(2µ) is ﬁnite, as needed.
+Let us now turn our attention to outgoing trajectories. We have with (10)
+an exact expression for dt(cid:48)/dr, but we also know that dt(cid:48)/dr must satisfy (5).
+From these two constraints one can easily derive the inequality
+
+(cid:112)
+
+µ >
+
+µ2 − 1 + α/r,
+
+which implies µ > 0. This implies in turn that for outgoing trajectories
+(ν = 1), g(r) is equivalent to 2α/(r − α) as r → α. As a result, t(cid:48)(R)
+exhibits a logarithmic divergence as R → α: infall time is ﬁnite but escape
+time is inﬁnite.
+
+Remark 1. By (9), if µ < 1 the particle’s trajectory is limited to the region
+r ≤ α/(1− µ2). For µ ≥ 1 an outgoing trajectory will escape to inﬁnity, and
+likewise for an ingoing trajectory: it can be continued backward in time as
+the trajectory of a particle "plunging from inﬁnity" into the black hole.
+
+3.1 Finite infall time: an alternative derivation
+We now present an alternative derivation of the main result of Section 3:
+infall time for massive particles is ﬁnite. For this we leverage the very stan-
+dard computation of geodesics in Schwarzschild spacetime (e.g., [1, chapter
+6] or [10, chapter 25]). Recall that for a radial geodesic in metric (1) we have
+
+(1 − α/r) ˙t = (cid:96), 1 − α/r = c2(cid:96)2 − ˙r2,
+
+(11)
+
+˙t = dt/ds and (cid:96) is a constant of motion. From these
+where ˙r = dr/ds,
+equations we can compute dt/dr as a function of r, and t as a function of
+r by integration. We can then express t(cid:48) as a function of r from (2), and it
+remains to show that t(cid:48)(r) remains bounded all the way to r = α. Let us
+now ﬁll in the details. From (11) we have
+
+dt
+dr
+
+=
+
+1 − α/r
+
+α + r(c2(cid:96)2 − 1)
+
+.
+
+r
+
+(12)
+
+Consider a portion of geodesic beginning at t = t0 and r = R0 > α. From (2)
+we have
+ct(cid:48)(R) = ct(R) + α ln(R/α − 1) = ct(R) + α ln(R0/α − 1) −
+
+(cid:90) R0
+
+dr
+
+.
+
+r/α − 1
+
+R
+
+(cid:114)
+
+−(cid:96)
+
+Then from (12) we have ct(cid:48)(R) = ct(cid:48)
+
+0 +
+
+f (r)dr where
+
+f (r) =
+
+1
+
+r − α
+
+R
+
+(cid:112)α + r(c2(cid:96)2 − 1)
+
+c(cid:96)r3/2
+
+− α
+
+(cid:35)
+
+(cid:90) R0
+
+(cid:34)
+
+5
+
+0 = t0 + (α/c) ln(R0/α− 1). This is the same expression that was given
+and t(cid:48)
+for t(cid:48)(R) earlier in Section 3 in terms of the integral of the function g(r).
+Indeed we have f (r) = g(r) when the constants of motion satisfy µ = c(cid:96),
+and ν = −1 in (10). In particular, we obtain the same value of the infall
+time as before.
+
+3.2 The outgoing Eddington-Finkelstein metric
+Besides the Schwarzschild metric, we have so far considered only the ingoing
+Eddington-Finkelstein metric (3). There is also an outgoing form of the
+latter metric [10, chapter 31], obtained from the Schwarzschild metric by the
+change of variables
+
+(cid:12)(cid:12)(cid:12) r
+
+α
+
+(cid:12)(cid:12)(cid:12) .
+
+− 1
+
+t(cid:48) = t − α
+c
+
+ln
+
+(13)
+
+r
+
+r
+
+2αc
+
+dr2 + δ
+
+dr dt(cid:48) − r2(dθ2 + sin2 θdφ2),
+
+Both metrics are of the form
+ds2 = (1 − α
+)c2dt(cid:48)2 − r + α
+(14)
+r
+where δ = −1 for the ingoing metric and δ = +1 for the outgoing metric.
+These two metrics are images of each other by the time reversal t (cid:55)→ −t.
+Ingoing trajectories in one metric therefore correspond to outgoing trajecto-
+ries in the other metric. As a result, for the outgoing metric escape time is
+ﬁnite but infall time is inﬁnite.2 This conclusion can also be reached by a
+direct analysis of geodesics, or the "alternative derivation" of Section 3.1. In
+Section 4 we will pair these two metrics through an Einstein-Rosen bridge.
+
+4 Einstein-Rosen bridges in Eddington-Finkelstein
+
+time
+
+In recent years, several papers [11, 8, 7] have studied the fate of particles
+traversing an Einstein-Rosen bridge.3 The Einstein-Rosen bridge was con-
+structed in the seminal paper [3] from the Schwarzschild solution (1) by the
+change of variables r = α + u2, where the new radial coordinate u is allowed
+to take any real value. The resulting spacetime contains two copies of the
+exterior Schwarzschild region r > α glued together at the wormhole throat
+r = α.
+An alternative change of variables r = α + |η| was suggested in [6, 7].
+Contrary to the original construction in [3], the resulting spacetime satisﬁes
+
+2The same line of reasoning can be applied to the Schwarzschild metric. Since it is
+invariant under time reserval, the fact that infall time is inﬁnite follows from the knowledge
+that escape time is inﬁnite, and vice versa.
+
+3The standard "textbook treatment" [5, 10] of Einstein-Rosen bridges leads to the
+conclusion that they are non-traversable, but this analysis contains a serious ﬂaw. This
+point is clearly explained in the appendix of [6], see also [7, 11].
+
+6
+
+the Einstein ﬁeld equations everywhere including at the throat η = 0 because
+a lightlike brane is added at the throat (see [6, 7] for details). Here we
+propose to combine their change of variables with the Eddington-Finkelstein
+change of variables (2).
+
+We therefore have
+
+t(cid:48) = t +
+
+α
+c
+
+ln
+
+|η|
+α
+
+,
+
+(15)
+
+and
+
+dt(cid:48) = dt + αdη/c = dt − (δα)/(c|η|)
+
+where δ = −1 in the region η > 0, δ = +1 in the region η < 0. This amounts
+to applying the change of variables of the ingoing Eddington-Finkelstein
+metric in the region η > 0, and the change of variables (13) of the outgoing
+metric in the region η < 0. After substitution in (1) we therefore obtain
+a spacetime described by the ingoing Eddington-Finkelstein metric in the
+region η > 0, and by the outgoing metric in the region η < 0. The resulting
+line element is:
+
+ds2 =
+
+|η|
+α + |η| c2dt(cid:48)2 − 2α + |η|
+
+α + |η| dη2 − 2αc
+
+α + |η| dη dt(cid:48).
+
+(16)
+
+Here we have omitted the rotational degrees of freedom θ, φ like in (4). This
+line element already appears in the appendix of [6] in slightly diﬀerent nota-
+tions. The description in [7] of the fate of a particle traversing an Einstein-
+Rosen bridge is based on [6], but it is nevertheless signiﬁcantly diﬀerent from
+the description that we now propose. The reason for this diﬀerence is that [7]
+works in Schwarzschild time instead of Eddington-Finkelstein time.
+Let us consider a massive particle falling into the Einstein-Rosen bridge
+along a radial trajectory, beginning at time t(cid:48) = t(cid:48)
+0 = 0 for a value of the
+radial parameter η = η0 > 0 and a value τ = τ0 = 0 of the particle’s proper
+time.
+It will reach the wormhole throat η = 0 for a ﬁnite value τ1 of its
+proper time, and also (by the analysis in Section 3) for a ﬁnite value t(cid:48)
+1 of
+the time marker t(cid:48). For τ > τ1 the parameter η continues to decrease and the
+outgoing metric takes over. The particle continues in the region η < 0, where
+(by Section 3.2) its trajectory will be a mirror image of the trajectory in the
+region η > 0. In particular, it will reach the position η = −η0 for a value
+of its proper time τ = 2τ1 and at t(cid:48) = 2t(cid:48)
+1. The particle’s subsequent fate
+depends on the value of the constant of motion µ. By Remark 1, the particle
+will escape to inﬁnity (η → −∞) if µ ≥ 1. For µ < 1, the particle will reach a
+maximum value of |η| and it will then fall back toward the wormhole throat
+in ﬁnite proper time. Since we are now in the region where the outgoing
+metric applies, the throat η = 0 will not be reached for any ﬁnite value of
+the time marker t(cid:48).
+
+The above behavior is signiﬁcantly diﬀerent than in [7, 8]: as recalled
+in the introduction, these authors have suggested that an observer located
+
+7
+
+across the wormhole throat sees it as a past black hole horizon [7], or sees
+an antiparticle falling into a black hole [8].
+
+5 Conclusions
+
+1
+
+We have studied the fate of a massive particle traversing an Einstein-Rosen
+bridge, and have reached a diﬀerent conclusion than previous proposals in the
+literature [8, 7]: the particle reaches the wormhole throat for a ﬁnite value t(cid:48)
+of the time marker t(cid:48), and continues its trajectory across the throat for
+t(cid:48) > t(cid:48)
+1. This diﬀerence is due to our use of Eddington-Finkelstein time as our
+time marker t(cid:48). The Eddington-Finkelstein metric was originally conceived
+as a tool for the study of the Schwarzschild metric. The results presented
+in this paper suggest that it could also be considered as an alternative to
+the Schwarzschild metric for the study of Einstein-Rosen bridges. Indeed,
+working in Schwarzschild time leads to the diﬀerent conclusions that an
+observer located across the wormhole throat sees it as a past black hole
+horizon [7], or sees an antiparticle falling into a black hole [8].
+
+It is a central tenet of general relativity that metrics which are equiv-
+alent up to a change of variables should be considered physically equiva-
+lent. This is not in contradiction with our proposal because the change of
+variables (15) leading from Schwarzschild to Eddington-Finkelstein time is
+well-deﬁned only when the radial parameter η of the Einstein-Rosen bridge
+takes a nonzero value; whereas in the line element (16) any real values of t(cid:48)
+and η are allowed.
+
+References
+
+[1] R. Adler, M. Bazin, and M. Schiﬀer. Introduction to General Relativity
+
+(2nd edition). McGraw-Hill, New York, 1975.
+
+[2] A. Eddington. A comparison of Whitehead’s and Einstein’s formulae.
+
+Nature, 113:192, 1924.
+
+[3] A. Einstein and N. Rosen. The particle problem in the general theory
+
+of relativity. Physical Review, 48:73–77, 1935.
+
+[4] D. Finkelstein. Past-future asymmetry of the gravitational ﬁeld of a
+
+point particle. Physical Review, 110(4):965–967, 1958.
+
+[5] R. Fuller and J. A. Wheeler. Causality and multiply connected space-
+
+time. Physical Review, 128(2):919, 1962.
+
+[6] E. Guendelman, A. Kaganovich, E. Nissimov, and S. Pacheva. Spher-
+ically symmetric and rotating wormholes produced by lightlike branes.
+International Journal of Modern Physics A, 25(07), 2010.
+
+8
+
+[7] E. Guendelman, E. Nissimov, S. Pacheva, and M. Stoilov. Einstein-
+Rosen "bridge" revisited and lightlike thin-shell wormholes. Bulgarian
+Journal of Physics, 44:84–97, 2017.
+
+[8] M. Katanaev. Passing the Einstein–Rosen bridge. Modern Physics Let-
+
+ters A, 29(17):1450090, 2014.
+
+[9] G. Lemaître. L’univers en expansion. Annales de la Societe Scientiﬁque
+
+de Bruxelles, 53A:51–85, 1933.
+
+[10] C. Misner, K. Thorne, and J. A. Wheeler. Gravitation. Macmillan,
+
+1973.
+
+[11] N. Popławski. Radial motion into an Einstein–Rosen bridge. Physics
+
+Letters B, 687:110–113, 2010.
+
+[12] K. Schwarzschild. Über das Gravitationsfeld eines Massenpunktes nach
+der Einsteinschen Theorie. Sitzungsberichte der Königlich Preussischen
+Akademie der Wissenschaften, pages 189–196, 1916. English translation:
+arxiv.org/9905030.
+
+[13] K. Schwarzschild. Über das Gravitationsfeld einer Kugel aus inkom-
+pressibler Flüssigkeit nach der Einsteinschen Theorie. Sitzungsberichte
+der Königlich Preussischen Akademie der Wissenschaften, pages 424–
+434, 1916. English translation: arxiv.org/9912033.
+
+[14] H. Weyl. Zur Gravitationstheorie. Annalen der Physik, 359(18):117–
+
+145, 1917.
+
+[15] C. Will. Clock synchronization and isotropy of the one-way speed of
+
+light. Physical Review D, 45(2):403, 1992.
+
+9
+
+

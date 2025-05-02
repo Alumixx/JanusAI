@@ -1,0 +1,1900 @@
+Volume 15 (2019)
+
+PROGRESS IN PHYSICS
+
+Issue 1 (January)
+
+Physical and Mathematical Consistency of the Janus Cosmological Model (JCM)
+
+Jean-Pierre Petit1, Gilles D’Agostini2, and Nathalie Debergh3
+
+Manaty Research Group
+
+2gilles.dagostini@manaty.net
+
+3nathalie.debergh@manaty.net
+1jean-pierre.petit@manaty.net
+The Janus Cosmological Model is based on a system of two coupled ﬁeld equations.
+It explains the nature of dark matter and dark energy with negative mass and without
+the runaway paradox that arises in general relativity. We ﬁrst recall how this system
+was built, from a simple Newtonian toy model to a relativistic bimetric theory, that is
+now improved in order to fulﬁll mathematical constraints and set up on a Lagrangian
+derivation.
+
+1 The long genesis of the Janus Cosmological Model
+Roots of the Janus Cosmological Model are like assembling
+diﬀerent pieces of a puzzle. There are indeed several start-
+ing points for this bimetric approach. The ﬁrst is the missing
+primordial antimatter, a problem solved in 1967 by Andrei
+Sakharov in [1] with the representation of the universe not
+as a single entity born from the beginning of time, but two
+spacetimes with opposite arrows of time communicating only
+through their common initial singularity, forming a “twin uni-
+verse” in complete CPT symmetry, as represented in the di-
+dactic Figure 1.
+
+Then, the ﬁrst step is to consider that these two entities
+can interact gravitationally, which is equivalent to folding the
+object of Figure 1 on itself as in Figure 2.
+
+In 1977, a ﬁrst modeling using non relativistic theoret-
+ical tools is attempted in [2] and [3] with two Boltzmann
+equations coupled with Poisson’s equation. We then realize
+Sakharov’s seminal idea of a complete CPT symmetry be-
+tween these two entities, an idea also independently used by
+other authors recently [4]. Such work suggests that a pro-
+found paradigm shift involving geometrical grounds should
+be performed.
+
+Early 1990’s, we explore, through computer simulations,
+what could emerge from interaction laws associated with a
+mix of positive and negative point masses, according to the
+following assumption. Interactions laws:
+
+• Like masses attract, according to Newton’s law.
+
+Fig. 2: Sakharov’s model with “conjugate folds”.
+
+• Unlike masses repel, according to “anti-Newton”.
+At this stage, it is only a toy model.
+
+In 1992, ﬁrst 2D
+simulations of two populations with opposite mass and same
+absolute value of density show a separation of the two enti-
+ties, as shown in [5], a result reproduced below in Figure 3.
+
+The purpose was to account for the large-scale structure
+of the universe, which admittedly wasn’t a tight ﬁt with these
+early experiments. But if we now introduce asymmetry in the
+two mass densities, taking a greater density for the negative
+mass species, then this population has a shorter Jeans time,
+hence it is the ﬁrst to coalesce into conglomerates, by gravi-
+tational instability.
+
+if |ρ(−)| (cid:29) ρ(+) ⇒ t j(−) =
+
+1(cid:112)
+4 π G |ρ(−)|
+1(cid:112)
+
+=
+
+(cid:28) t j(+)
+
+4 π G ρ(+)
+
+(1)
+
+Following simulations conﬁrm this second hypothesis as
+they produce an evolution of the positive mass distribution
+into a large-scale structure with big negative mass conglom-
+erates (optically invisible) repelling the positive mass matter
+in the remnant space around them as shown in [6], a deci-
+sive result reproduced below in Figure 4, this time in very
+good agreement with the observation of the lacunar, foam-
+
+Fig. 1: 2D representation of Sakharov’s twin universe model.
+
+38
+
+J.-P. Petit, G. D’Agostini and N. Debergh. Physical and Mathematical Consistency of the JCM
+
+Issue 1 (January)
+
+PROGRESS IN PHYSICS
+
+Volume 15 (2019)
+
+Fig. 3: Flocculation and percolation phenomena between two populations of opposite mass and same overall density. Right: Showing the
+optically-visible positive mass matter only.
+
+like structure of the universe, where galaxies, clusters and
+superclusters are organized as a web of ﬁlaments, walls and
+nodes distributed around giant repulsive cosmic voids.
+
+Same approach but diﬀerent boundary conditions in [7],
+
+reproduced in Figure 5.
+
+Such a scenario also produces, in 3D, a mechanism help-
+ing galaxy formation along. Indeed, after recombination, if
+large volumes of gas can coalesce into giant conglomerates,
+then a problem arises: how to dissipate such enormous gravi-
+tational energy transformed into heat? Considering an object
+of radius R, the amount of energy collected varies according
+to R3 while the surface of the heatsink varies as R2. There-
+fore, larger masses have a more important cooling time. But
+the constitution of the large-scale structure suggested by these
+simulations leads to a compression of the positive mass which
+distributes according to walls (as observed) that are actually
+sandwiched between two repulsive conglomerates of nega-
+tive mass. A strong compression of the positive mass occurs
+in such planar structures, which are optimal for a quick radia-
+tive dissipation of energy, as explained in [6].
+
+Besides 2D simulations, an eﬀective conﬁnement of
+galaxies despite their high peripheral velocity is analytically
+demonstrated using an exact solution of two Vlasov equations
+coupled with Poisson’s equation, using the methodology ex-
+posed in [5]. The ﬂat rotation curve obtained from such a so-
+lution, made possible by the repulsive eﬀect of the surround-
+ing negative mass, has been shown for the ﬁrst time in [6],
+a curve reproduced in Figure 6. It is worth noting that such
+a typical rotation curve has been similarly obtained more re-
+cently using the same repulsive action of a negative mass dis-
+tribution around galaxies, but from 3D computer simulations
+made by an independent researcher [8].
+
+Using the exact solution of the analytical set of two
+Vlasov equations coupled with Poisson’s equation (image of
+a 2D galaxy conﬁned by a repulsive negative mass environ-
+ment), we show in numerical simulations that the rotational
+motion of the galaxy generates a good-looking barred spiral
+structure in a few turns (1992 DESY results, published in [6]
+and [7]).
+
+In order to progress beyond a simple toy model that opens
+up interesting prospects thanks to the various above-men-
+tioned positive results, it was still necessary at that time to
+derive interaction laws from a coherent mathematical formal-
+ism. The introduction of negative mass in cosmology had
+been considered as soon as the 1950s, using general relativ-
+ity, deﬁned by the well-known Einstein ﬁeld equations which
+may be written, with a zero cosmological constant:
+
+Rµν − 1
+2
+
+R gµν = +χTµν.
+
+(2)
+
+Let’s notice that Einstein’s equation describes the motion
+of point masses embedded in a given mass-energy ﬁeld Tµν
+along geodesics that derive from a single metric gµν . Then,
+one gets Bondi’s result from [9]. Interaction laws with a sin-
+gle metric:
+
+• Positive masses attract everything.
+• Negative masses repel everything.
+
+Which inevitably produce the preposterous “runaway
+motion” paradox (see Figure 8), a term coined by Bonnor
+in [10].
+
+Nonetheless, a few authors (Farnes [8], Chardin [11]) still
+consider that it is possible to introduce negative mass in cos-
+mology keeping the general relativity framework, hence
+putting up with such phenomenon; despite the fact that the
+runaway motion has been associated with the possibility of
+perpetual motion machines since the 1950s, as discussed by
+Gold with Bondi, Bergmann and Pirani in [12].
+
+On the contrary, from 1995 in [13] we propose a bimet-
+ric description of the universe with two coupled metrics and
+which produce trajectories along their own geodesics, for
+positive and negative mass particles, respectively. Then, the
+classical Schwarzschild solution allows, by simply reversing
+the integration constant, to get trajectories suggesting a grav-
+itational repulsion of positive masses by a negative mass, and
+vice versa:
+
+(cid:32)
+
+(cid:33)
+
+−r2dθ2−sin2 θdϕ2, (3)
+
+ds2 =
+
+1−2 G M
+r c2
+
+c2dt2−
+
+dr2
+
+1−2 G M
+r c2
+
+J.-P. Petit, G. D’Agostini and N. Debergh. Physical and Mathematical Consistency of the JCM
+
+39
+
+Volume 15 (2019)
+
+PROGRESS IN PHYSICS
+
+Issue 1 (January)
+
+Fig. 4: Result of a 2D large-scale structure simulation [6].
+
+Fig. 5: Result of a 2D large-scale structure simulation on a 2-sphere [7].
+
+Exploiting this idea, we introduce the concept of negative (di-
+verging) gravitational lensing in the same paper [13]. Consid-
+ering that a gap within a negative mass distribution is equiv-
+alent to a positive mass concentration, we suggest to attribute
+the strong gravitational lensing eﬀects, observed in the vicin-
+ity of galaxies and galaxy clusters, not to a dark matter halo
+made of positive mass, but instead to their negative mass en-
+vironment.
+
+From 1994, we also suggest in [5] that such a bimet-
+ric description could result from the combination of two La-
+grangian densities, due to two Ricci scalars R(+) and R(−). In
+2001 [6], we proposed for the ﬁrst time a system of two cou-
+pled ﬁeld equations, which can be written as:
++ T (−)
+
+= +χ
+
+(5)
+
+R(+) g(+)
+µν
+
+T (+)
+µν
+
+µν
+
+,
+
+(cid:104)
+(cid:104)
+
+(cid:105)
+(cid:105)
+
+R(−) g(−)
+
+µν
+
+= −χ
+
+T (+)
+µν
+
++ T (−)
+
+µν
+
+,
+
+(6)
+
+µν − 1
+R(+)
+2
+µν − 1
+R(−)
+2
+
+whose purpose was to account for the postulated interaction
+laws. Indeed, we make such laws emerge from a dual Newto-
+
+Fig. 6: Flat rotation curve of a galaxy surrounded by a negative mass
+distribution [6].
+
+(cid:32)
+
+(cid:33)
+
+ds2 =
+
+1+
+
+2 G M
+r c2
+
+c2dt2−
+
+−r2dθ2−sin2 θdϕ2. (4)
+
+dr2
+2 G M
+r c2
+
+1+
+
+40
+
+J.-P. Petit, G. D’Agostini and N. Debergh. Physical and Mathematical Consistency of the JCM
+
+Issue 1 (January)
+
+PROGRESS IN PHYSICS
+
+Volume 15 (2019)
+
+Fig. 7: 2D barred spiral structure [6, 7].
+
+Fig. 8: Runaway motion in general relativity.
+
+nian approximation of this system of two coupled equations.
+Depending locally on the type of dominant species in a given
+region of space, equations with no RHS produce solutions of
+type 36 or 37.
+
+Aforementioned results of simulations showed that an
+asymmetry in the mass densities of the positive vs negative
+mass species is required to account for observations of the
+large-scale structure of the universe. Such density asymme-
+try can be caused, not because of a larger quantity of neg-
+ative mass, but if the two space gauge factors a(+) and a(−)
+are diﬀerent. Alas, at this level it is impossible to produce a
+time-dependent solution with a(+) (cid:44) a(−). Inconsistency be-
+comes inevitable when FRLW metrics are introduced in the
+two ﬁeld equations: similarly to Friedmann solutions, they
+produce a couple of diﬀerential equations in a(+), a(cid:48)(+), a”(+)
+on one hand, and in a(−), a(cid:48)(−), a”(−) on the other. In the calcu-
+lation based on Einstein’s equations, compatibility betweeen
+two equations leads to the relation ρ a3 = cst in the matter-
+dominated era, which expresses mass-energy conservation.
+In the bimetric framework of the Janus model based on the
+
+two coupled equations 5 and 6, such compatibility reduces
+the time-dependent solution to a(+) = a(−).
+
+Still in the same 2001 paper [6], we establish the connec-
+tion between Sakharov’s seminal work about two universes
+with opposite arrows of time, and negative gravity, using dy-
+namical group theory from [14], which shows that time re-
+versal goes with energy inversion, hence mass inversion as
+−m = − E/c2. We then introduce the “Janus group” to han-
+dle the electric charge in a ﬁve-dimensional spacetime:
+
+with λ = ±1
+
+and µ = ±1,
+
+(7)
+
+ λ µ
+
+0
+0
+
+
+
+λ , L0
+
+0
+
+0
+
+0
+0
+1
+
+where L0 is the component of the orthochronous (forward in
+time) subset of the Lorentz group. It is the extension of the
+Poincar´e group to ﬁve dimensions, which describes the ex-
+istence of two diﬀerent kinds of antimatter: one being C-
+symmetric with respect to normal matter, it has a positive
+mass; while the other antichronous (backward in time) an-
+timatter is PT-symmetric and has a negative mass. Therefore,
+
+J.-P. Petit, G. D’Agostini and N. Debergh. Physical and Mathematical Consistency of the JCM
+
+41
+
+Volume 15 (2019)
+
+PROGRESS IN PHYSICS
+
+Issue 1 (January)
+
+the CPT theorem has to be reconsidered, since the exclusion
+of negative energy states follows on from an a priori axiom in
+quantum ﬁeld theory, which postulates that the operator T has
+to be antiunitary and antilinear, a hypothesis not necessarily
+true as shown in [15].
+
+Sakharov’s conditions in [1] states that the baryon cre-
+ation rate from an excess of quarks has been faster than the
+antibaryon creation rate from fewer antiquarks at t > 0, but
+such CP violation is opposite for t < 0 (the “initial singular-
+ity” triggering complete CPT reﬂections) thereby preserving
+the global symmetry of the whole universe. This allows to de-
+ﬁne the true nature of the invisible antichronous components
+of the universe: these are copies of antiparticles that are usu-
+ally made in a lab, but with negative energy and mass, due to
+T-symmetry.
+
+The invisibility of such objects is deduced from the idea that
+PT-symmetric antiparticles emit negative energy photons that
+follow null-geodesics of their own metric g(−)
+µν hence escape
+detection by optical instruments that are made of positive
+mass matter.
+
+In 2002, Damour and Kogan in [16] situate the issue with
+massive bigravity theories, where bimetry covers a diﬀerent
+approach. In such models, two branes interact using various
+massive gravitons (hence the name) with a mass spectrum.
+The authors propose a Lagrangian derivation, based on an ac-
+tion, which leads to a system of two coupled ﬁeld equations.
+But such a model, although mathematically consistent, does
+not stand up to scrutiny as it does not provide any solution
+able to be confronted with observations. As it has not been
+further pursued, it cannot answer this question.
+
+g(+) and R(−)(cid:112)
+
+ence of terms R(+)(cid:112)
+(cid:112)
+
+On the other hand, in 2008 and 2009, Hossenfelder in [17]
+and [18] builds her own bimetric model involving negative
+mass, from a Lagrangian derivation where she produces a
+system of two coupled ﬁeld equations. This time, LHS are
+identical to the system (5;6) which follows on from the pres-
+g(−) in the Lagrangian den-
+sities considered. Exploiting her Lagrangian derivation, she
+g(+)/g(−)
+reveals the determinant ratios of the two metrics
+g(−)/g(+) that had already been pointed out in previous
+and
+work [19] and [20]. She ﬁnally tackles two Friedmann solu-
+tions, without confronting them to observational data. Actu-
+ally, although sharing many similarities, having the same kind
+of coupled ﬁeld equations regarding negative mass, a funda-
+mental diﬀerence remains between Hossenfelder’s bimetric
+theory and the Janus Cosmological Model.
+
+(cid:112)
+
+Indeed, Hossenfelder doubts that the second entity can
+have an important eﬀect on the distribution of standard mat-
+ter, qualifying the gravitational coupling between the two
+species as “extremely weak”. This is because “for symme-
+try reason” she considers that the absolute values of the mass
+density of the two populations should be of the same order
+of magnitude. Such hypothesis leads to a global zero ﬁeld
+
+conﬁguration, which does not ﬁt with observations, as she
+notices. Then, examination of possible ﬂuctuations seems to
+be her main concern. Not perceiving that a profound dissym-
+metry is on the contrary the key to the interpretation of many
+phenomena, including the acceleration of the cosmic expan-
+sion, she will not develop her model further during the fol-
+lowing decade, focusing instead on other research topics.
+
+Nonetheless, Hossenfelder points out a “smoking gun sig-
+nal” that could highlight the existence of invisible negative
+mass in the universe, through the detection of diﬀracted light
+rays caused by diverging lensing, an eﬀect previously pre-
+dicted in [13]. We indeed showed from 1995 that photons
+emitted by high redshift galaxies (z > 7) are diﬀracted by the
+presence of invisible conglomerates of negative mass on their
+path. This reduces the apparent magnitude of such galaxies,
+making them appear as dwarf, which is consistent with obser-
+vations.
+
+In 2014 in [21] we take again the system (5;6) and attempt
+
+to modify it according to:
+
+(cid:104)
+(cid:104)
+
+µν − 1
+R(+)
+2
+µν − 1
+R(−)
+2
+
+R(+) g(+)
+µν
+
+= +χ
+
+T (+)
+µν
+
++ ϕT (−)
+
+µν
+
+R(−) g(−)
+
+µν
+
+= −χ
+
+φT (+)
+µν
+
++ T (−)
+
+µν
+
+(cid:105)
+(cid:105)
+
+,
+
+.
+
+Introducing two functions ϕ() and φ() that allow a time-
+dependent homogeneous and isotropic solution, so that a(+) (cid:44)
+a(−). This is possible by switching to the system:
+
+T (+)
+(cid:32) a(+)
+
+a(−)
+
+µν
+
++
+
+(cid:33)3
+
+(cid:33)3
+
+(cid:32) a(−)
+
+a(+)
+
+T (−)
+
+µν
+
+T (+)
+µν
+
++ T (−)
+
+µν
+
+ ,
+ .
+
+µν − 1
+R(+)
+2
+
+R(+) g(+)
+µν
+
+= +χ
+
+µν − 1
+R(−)
+2
+
+R(−) g(−)
+
+µν
+
+= −χ
+
+We obtained such a result by assuring energy conservation,
+not by deriving these equations from the system proposed
+in [18]. From (10;11) we then build an exact solution involv-
+ing a large asymmetry, so that |ρ(−)| (cid:29) ρ(+) , accounting fot
+the acceleration of the expansion of the universe. D’Agostini
+thereafter showed in 2018 in [22] that this exact solution is in
+very good agreement with latest observational data. In par-
+allel we published in 2014 in [23] a Lagrangian derivation
+based on the functional relation:
+
+giving the following system of two coupled ﬁeld equations:
+
+δg(−)µν = −δg(+)µν,
+
+T (+)
+T (−)
+
+µν
+
+µν
+
++
+
++
+
+(cid:115)−g(−)
+−g(+) T (−)
+(cid:115)
+
+µν
+
+g(+)
+g(−) T (+)
+
+µν
+
+ ,
+ ,
+
+µν − 1
+R(+)
+2
+
+R(+) g(+)
+µν
+
+= +χ
+
+µν − 1
+R(−)
+2
+
+R(−) g(−)
+
+µν
+
+= −χ
+
+(8)
+
+(9)
+
+(10)
+
+(11)
+
+(12)
+
+(13)
+
+(14)
+
+42
+
+J.-P. Petit, G. D’Agostini and N. Debergh. Physical and Mathematical Consistency of the JCM
+
+Issue 1 (January)
+
+PROGRESS IN PHYSICS
+
+Volume 15 (2019)
+
+which is similar to Hossenfelder’s system in her previous La-
+grangian derivation [18], although both constructions are
+completely diﬀerent.
+In our derivation, the square root in
+the determinant ratio of the metrics directly follows on from
+hypothesis (14). Let’s recall that such a ratio always ap-
+pears as soon as a bimetric approach is attempted, see for
+example [19] and [20]. Admittedly however, we cannot rule
+out that the system (15);(16), as well as the newer one ex-
+posed hereinbelow, can be considered as a particular case of
+Hossenfelder’s own model.
+
+In 2014 in [23] we extend the Janus framework to a class
+of solutions where the two speeds of light and, in the positive
+and negative sectors, are diﬀerent. In 2018 in [25] we pro-
+pose to evaluate the magnitude of their ratio, based on a study
+of the ﬂuctuations in the CMB, which leads to the following
+conclusion:
+
+(cid:32)
+(cid:32)
+
+ds(+)2 =
+
+We consider a sphere whose radius rs is ﬁlled by matter
+of constant density ρ(+) surrounded by vacuum. Outside of
+the sphere, the two metrics are:
+c2dt2− dr2
+1−2m
+r
+c2dt2− dr2
+2m
+1+
+r
+
+−r2dθ2−r2 sin2 θ dφ2,
+
+−r2dθ2−r2 sin2 θ dφ2,
+
+1−2m
+r
+
+ds(−)2 =
+
+(cid:33)
+(cid:33)
+
+2m
+r
+
+(20)
+
+(21)
+
+1+
+
+with:
+
+4πr3
+s
+3 ρ(+).
+We can write the stress-energy tensor as:
+
+G
+c2
+
+m =
+
+a(−)
+a(+) (cid:39) 1
+100 ,
+
+c(−)
+c(+) (cid:39) 1
+10 .
+
+(15)
+
+T (+)ν
+µ
+
+The combination of such diﬀerent space scale factors and
+speeds of light would allow a gain factor of 1000 in travel
+time, regarding a hypothetical technology making apparent
+FTL interstellar travel by mass inversion possible, as evoked
+in [23] and [26].
+
+The paper [23] then summarizes many observational data
+in good agreement with features of the Janus Cosmological
+Model.
+
+2 The 2014 JCM and the Bianchi identities
+From 2014, the Janus system of two coupled ﬁeld equations
+(13; 14) satisﬁes the Bianchi identities, either trivially when
+the RHS are zero, or when one considers time-dependent ho-
+mogeneous and isotropic solutions. However, inconsistency
+appears when one tries to describe with this system a time-
+independent situation with a spherical symmetry, modeling
+a star of constant density surrounded by a vacuum. Thus, a
+new modiﬁcation of the equation system must be considered,
+as explained below.
+
+Let’s consider a portion of the universe where one of the
+two species is absent, e.g.
+the negative energy species, re-
+pelled away by a local concentration of positive mass. Let’s
+limit our analysis to the search of a time-independent solution
+for a spherically symmetric system, and Newtonian approxi-
+mation. The corresponding system is:
+
+=
+
+ρ(+)
+0
+0
+0
+
+0
+0
+0
+− p(+)
+
+0
+− p(+)
+c2
+0
+0
+
+0
+0
+− p(+)
+c2
+0
+
+
+ ,
+ρ(+)c2 + p(+)(cid:17) m(r) + 4πGp(+)r3/c4
+ρ(+)c2 + p(+)(cid:17) m(r) + 4πGp(+)r3/c4
+
+r (r − 2m(r))
+
+c2
+
+r (r + 2m(r))
+
+,
+
+,
+
+p(+)(cid:48) = −(cid:16)
+(cid:16)
+
+p(+)(cid:48) = +
+
+where:
+
+where p(+) is the pressure insides the star of radius rs ﬁlled
+with constant density ρ(+). Equations (16) and (17) give the
+following diﬀerential equations:
+
+m(r) =
+
+G
+c2
+
+4πr3
+3 ρ(+).
+
+After Newtonian approximation:
+
+p(+) (cid:28) ρ(+)c2
+
+,
+
+r (cid:29) 2m,
+
+which gives:
+
+p(+)(cid:48) = − ρ(+)c2m(r)
+
+,
+
+p(+)(cid:48) = +
+
+ρ(+)c2m(r)
+
+.
+
+r2
+
+r2
+
+µν − 1
+R(+)
+2
+µν − 1
+R(−)
+2
+
+R(+) g(+)
+µν
+
+= +χT (+)
+µν ,
+
+R(−) g(−)
+
+µν
+
+= −χT (+)
+µν .
+
+Then the two metrics have the form:
+ds(+)2 = eν(+)c2dt2 − eλ(+)dr2 − r2dθ2 − r2 sin2 θ dφ2,
+ds(−)2 = eν(−)c2dt2 − eλ(−)dr2 − r2dθ2 − r2 sin2 θ dφ2.
+
+So that we get a physical and mathematical contradiction,
+
+that must be cured.
+
+(16)
+
+(17)
+
+(18)
+
+(19)
+
+3 Lagrangian derivation of a new JCM, as of 2019
+Consider the two diagonal constant matrices:
+
+ 1
+
+0
+0
+0
+
+ ,
+
+0
+1
+0
+0
+
+0
+0
+1
+0
+
+0
+0
+0
+1
+
+I =
+
+ϕ =
+
+ 1
+
+0
+0 −1
+0
+0
+0
+0
+
+ .
+
+0
+0
+−1
+0
+
+0
+0
+0
+−1
+
+J.-P. Petit, G. D’Agostini and N. Debergh. Physical and Mathematical Consistency of the JCM
+
+(22)
+
+(23)
+
+(24)
+
+(25)
+
+(26)
+
+(27)
+
+(28)
+
+(29)
+
+(30)
+
+43
+
+Issue 1 (January)
+
+Volume 15 (2019)
+
+(cid:90)
+
+(cid:34)
+
+S =
+
+IR(+)
+
+D4
+
+(cid:90)
+(cid:90)
+
+δ
+
+δ
+
+PROGRESS IN PHYSICS
+
+D4
+
+D4
+
+D4
+
+R(+)
+
+(cid:32)
+(cid:32)
+
+R(−)
+
+R(+)g(+)
+µν
+
+(cid:113)
+−g(−) − χ (I + ϕ) L(+)
+(cid:90)
+(cid:90)
+
+(cid:113)
+−g(+) + ϕR(−)
+(cid:113)
+−g(+) d4x =
+(cid:113)
+−g(−) d4x =
+(cid:90)
+(cid:113)
+−g(+) d4x =
+(cid:90)
+(cid:113)
+−g(−) d4x =
+(cid:32)
+(cid:33)
+8πG r3
+s ρ(+)
+(cid:32)
+(cid:33)
+c2
+1 − 8πG r3
+s ρ(+)
+c2
+
+s ρ(+)
+1 − 8πG r3
+c2
+8πG r3
+s ρ(+)
+c2
+
+µν − 1
+R(+)
+2
+µν − 1
+R(−)
+(cid:90)
+2
+(cid:90)
+
+c2dt2 −
+
+c2dt2 −
+
+R(−)g(−)
+
+T (−)
+
+L(−)
+
+T (+)
+µν
+
+L(+)
+
+1 +
+
+1 +
+
+D4
+
+D4
+
+D4
+
+D4
+
+D4
+
+µν
+
+µν
+
+r
+
+r
+
+δ
+
+δ
+
+(cid:32)
+(cid:32)
+
+(cid:113)
+−g(+) + χ (I + ϕ) L(−)
+
+(cid:113)
+−g(−)
+
+(cid:35)
+
+d4x
+
+(cid:33)(cid:113)
+(cid:33)(cid:113)
+
+−g(+) δg(+)µν d4x
+
+−g(−) δg(−)µν d4x
+
+(cid:113)
+−g(+) δg(+)µν d4x
+(cid:113)
+−g(−) δg(−)µν d4x
+(cid:33)
+(cid:33)
+
+r
+
+dr2 − r2dθ2 − sin2 θdϕ2
+
+dr2 − r2dθ2 − sin2 θdϕ2
+
+r
+
+ds(+)2 =
+
+ds(−)2 =
+
+δg(+)
+00
+
+s ρ(+)
+= −8πG r3
+c2
+
+r δρ(+) = −δg(−)
+
+00
+
+δg(+)
+11
+
+s ρ(+)
+= −8πG r3
+c2
+
+r δρ(+) = −δg(−)
+
+11
+
+Introducing the action (eq. 31) and performing the fol-
+lowing bivariation, taking account of Iϕ = ϕ and ϕϕ = I,
+results in equations 32–35.
+
+From a previous Lagrangian derivation [7] :
+
+δg(−)µν = −δg(+)µν
+
+(39)
+
+Our goal: to set up a system of two coupled ﬁeld equa-
+tions providing joint solutions corresponding to Newtonian
+approximation.
+In such conditions the external metrics are
+given in equations (36) and (37).
+We may consider that such metrics belong to subsets of
+Riemannian metrics with signature (+−−−) which obey rela-
+tionship (39) (see eqs. (38)). If we consider that (39) deﬁnes
+joint metrics, they obey:
+
+µν
+
+T (+)
+T (−)
+
+µν
+
+(cid:115)−g(−)
+−g(+) ϕ T (−)
+(cid:115)
+
+µν
+
+g(+)
+g(−) ϕ T (+)
+
+µν
+
+ ,
+ .
+
+(40)
+
+(41)
+
+µν − 1
+R(+)
+2
+
+R(+) g(+)
+µν
+
+= +χ
+
++
+
+µν − 1
+R(−)
+2
+
+R(−) g(−)
+
+µν
+
+= −χ
+
++
+
+4 Back to the star model
+Starting from the new joint system (40);(41) we obtain the
+analogous of the system (16);(17) where, in the second equa-
+tion, we would replace the tensor T (+) g(+)
+
+µν , so that:
+
+µν by ˆT (+)
+
+ˆT (+)
+ii
+
+= −T (+)
+
+ii
+
+with
+
+j = {1, 2, 3} ,
+
+µν − 1
+R(−)
+2
+
+R(−) g(−)
+
+µν
+
+= −χ ˆT (+)
+µν .
+
+With the joint metrics (18) and (19), inside the star, plus
+compatibility conditions satisfying (20) and (21) at its border
+r = rs we get the following result:
+
+p(+)(cid:48) = −(cid:16)
+p(+)(cid:48) = −(cid:16)
+
+ρ(+)c2 + p(+)(cid:17) m(r) + 4πGp(+)r3/c4
+ρ(+)c2 − p(+)(cid:17) m(r) − 4πGp(+)r3/c4
+
+r (r − 2m(r))
+
+,
+
+,
+
+r (r + 2m(r))
+
+with m(r) given by (26).
+
+heimer-Volkoﬀ equation.
+
+Equation (45) is nothing but the famous Tolman-Oppen-
+
+Applying the Newtonian approximation, any inconsis-
+tency vanishes. Such equations mean that inside the star,
+the pressure counterbalances the gravitational pull. The geo-
+desics are given by equations (48) and (49), with:
+
+ˆR2 =
+
+3c2
+
+8πGρ(+) .
+
+ˆT (+)
+00
+
+= T (+)
+00
+
+= ρ(+),
+
+(42)
+
+equation (52) ﬁts (39).
+
+Linearizing leads to equations (50) and (51). Notice that
+
+44
+
+J.-P. Petit, G. D’Agostini and N. Debergh. Physical and Mathematical Consistency of the JCM
+
+(31)
+
+(32)
+
+(33)
+
+(34)
+
+(35)
+
+(36)
+
+(37)
+
+(38)
+
+(43)
+
+(44)
+
+(45)
+
+(46)
+
+(47)
+
+Issue 1 (January)
+
+PROGRESS IN PHYSICS
+
+Volume 15 (2019)
+
+ds(+)2 =
+
+1 − r2
+s
+ˆR2
+
+− 1
+2
+
+ds(−)2 =
+
+1 +
+
+r2
+s
+ˆR2
+
+− 1
+2
+
+(cid:115)
+1 − r2
+ˆR2
+(cid:115)
+
+1 +
+
+r2
+ˆR2
+
+2
+2
+
+(cid:33)
+(cid:33)
+
+r2
+s
+ˆR2
+r2
+s
+ˆR2
+
++
+
+1
+2
+− 1
+2
+
+r2
+ˆR2
+r2
+ˆR2
+
+c2dt2 −
+
+c2dt2 −
+
+ds(+)2 =
+
+ds(−)2 =
+
+(cid:115)
+(cid:115)
+
+2
+
+3
+3
+
+2
+
+(cid:32)
+1 − 3
+(cid:32)
+2
+
+(cid:16)
+
+3
+2
+
+1 +
+
+s − r2(cid:17)
+
+3r3
+3c2
+
+− r2dθ2 − r2 sin2 θdφ2
+
+c2dt2 − dr2
+1 − r2
+ˆR2
+
+− r2dθ2 − r2 sin2 θdφ2
+
+c2dt2 − dr2
+r2
+(cid:33)
+1 +
+ˆR2
+dr2 − r2dθ2 − r2 sin2 θdϕ2
+(cid:33)
+
+− 1
+2
+
+dr2 − r2dθ2 − r2 sin2 θdϕ2
+
++
+
+1 +
+
+(cid:32)
+3
+(cid:32)
+2
+1 − 3
+2
+
+r2
+s
+ˆR2
+r2
+s
+ˆR2
+
+1
+2
+
+r2
+ˆR2
+r2
+ˆR2
+= −4πG
+
+δg(+)
+11
+
+s − r2(cid:17)
+
+(cid:16)
+
+3r3
+3c2
+
+= −4πG
+
+δg(+)
+00
+
+δρ(+) = −δg(−)
+
+00
+
+r δρ(+) = −δg(−)
+
+11
+
+(48)
+
+(49)
+
+(50)
+
+(51)
+
+(52)
+
+5 Back to our basic assumption: δg(−)µν = −δg(+)µν
+The time-dependent joint solutions presented in [21] corre-
+spond to the following FRLW metrics:
+
+Let’s compute the variations δg(+)
+
+µν and δg(−)
+µν under a vari-
+ation δρ0 of their single parameter, the dominant matter den-
+11 , δg(−)
+sity ρ0. The variations δg(+)
+11 depend on the
+factors a(+)δa(+) and a(−)δa(−). But we have:
+
+00 , δg(+)
+
+,
+
+(53)
+
+(cid:32)
+
+(cid:33)2
+
+(cid:16)
+dx0(cid:17)2 −a(+)2 du2 + u2 dθ2 + u2 sin2 θ dϕ2
+dx0(cid:17)2 −a(−)2 du2 + u2 dθ2 + u2 sin2 θ dϕ2
+(cid:16)
+
+k(+) u2
+
+1 +
+
+4
+
+(cid:33)2
+
+(cid:32)
+
+ds(+)2 =
+
+ds(−)2 =
+
+1 +
+
+k(−) u2
+
+4
+
+which give, with the single solution k(+) = k(−) = −1:
+
+Whose exact parametric solutions are, for (55):
+
+= 0
+
+= 0
+
+(dx0)2 ,−8πGρ0
+8πGρ0
+
+3c2
+0
+
+(dx0)2 . +
+
+3c2
+0
+
+a(+)2 d2a(+)
+a(−)2 d2a(−)
+(cid:32)
+
+4πGρ0
+
+sh(2v)
+
+1 +
+
+x0 =
+
+(cid:33)
+
++ v
+
+,
+
+2
+
+3c2
+0
+
+a(+) =
+
+4πGρ0
+
+3c2
+0
+
+ch2(v),
+
+4πGρ0
+
+x0 =
+
+(sh(2w) − 2 w) ,
+(cid:16)
+(cid:17)
+ch2(w) − 1
+
+.
+
+3c2
+0
+4πGρ0
+
+3c2
+0
+
+a(−) =
+
+and for (56):
+
+00 , δg(−)
+(cid:33)
+(cid:32)da(+)
+
+=
+
+dx0
+
+da(+)
+dx0
+d2a(+)
+(dx0)2
+
+= th(v),
+
+=
+
+1
+dx0
+
+(61)
+
+3c2
+0
+
+1
+
+4πGρ0
+
+2 ch4(v) ,
+
+,
+
+(54)
+
+and similar equations for the second metric solution, so that
+δa(+)/δρ0 = δa(−)/δρ0 = 0 which ﬁts our fundamental rela-
+tionship (39).
+
+6 Conclusion
+A model is never deﬁnitively ﬁxed in time. The set of two
+coupled ﬁeld equations ﬁrst established in [9] corresponded
+to a ﬁrst step. The present paper proposes an updated sys-
+tem that has been mathematically enriched to give a precise
+description of the matter-dominated era. In its Newtonian ap-
+proximation, it provides a new insight on astrophysics, espe-
+cially in galactic dynamics which no longer depends on a set
+of a single Vlasov equation plus Poisson but on two Vlasov
+equations coupled with Poisson’s equation. New results in
+that ﬁeld will be published soon.
+
+µν
+
+At the present time, JCM provides:
+• joint solutions
+
+µν , g(−)
+g(+)
+
+corresponding to the func-
+tional space of Riemannian metrics of signature (+ −
+−−), ﬁtting fundamental relationship g(+)
+• with stationary and spherically symmetric conditions in
+• time dependent homogeneous and isotropic solutions.
+Which cover everything that can currently be confronted with
+observations.
+
+µν = −g(−)
+µν .
+
+the vacuum.
+
+(cid:17)
+
+(cid:16)
+
+(55)
+
+(56)
+
+(57)
+
+(58)
+
+(59)
+
+(60)
+
+J.-P. Petit, G. D’Agostini and N. Debergh. Physical and Mathematical Consistency of the JCM
+
+45
+
+Volume 15 (2019)
+
+PROGRESS IN PHYSICS
+
+Issue 1 (January)
+
+To a model already compliant with many observational
+data [22], a physically and mathematically coherent repre-
+sentation of joint geometries for positive energy and mass
+species, in the solar system and its neighborhood, has been
+added. Therefore, the Janus cosmological model agrees with
+classical veriﬁcations of general relativity.
+
+By reversing this situation, considering instead a portion
+of space where negative mass largely dominates locally, i.e.
+where positive mass has been repelled away so its mass den-
+sity can be taken equal to zero, we obtain the ﬁrst coherent
+theoretical description of the Great Repeller, which has been
+exposed in [26].
+
+When photons emitted by high redshift galaxies (z>7)
+cross negative mass conglomerates in the center of big cos-
+mic voids, in the large-scale structure of the universe, neg-
+ative gravitational lensing reduces their apparent magnitude,
+making them appear as dwarf galaxies, which is consistent
+with observations.
+
+One may argue that the Janus theory exhibiting tow cou-
+pled metrics as a “natural” hypothesis with the conﬁdence
+that subsequent results would eventually corroborate the pos-
+tulate. However this bimetric model is formally sustained by
+a speciﬁc splitting of the Riemann Tensor which yields to 2nd
+rank tensor ﬁeld equations, as shown in [27].
+
+Submitted January 6, 2019
+
+References
+1. Sakharov A.D. Violation of CP invariance, C asymmetry, and baryon
+
+asymmetry of the universe. JETP Letters, 1967, v. 5(1), 24–26.
+
+2. Petit J.-P. Univers jumeaux, ´enantiomorphes, `a temps propre oppos´ees.
+[Enantiomorphic twin universes with opposite proper times]. Comptes
+Rendus de l’Acad´emie des Sciences, 1977, v. 263, 1315–1318.
+
+3. Petit J.-P. Univers en interaction avec leurs images dans le miroir
+du temps. [Universes interacting with their opposite time-arrow fold].
+Comptes Rendus de l’Acad´emie des Sciences, 1977, v. 284, 1413–1416.
+4. Boyle L., Finn K., Neil Turok N. CPT-Symmetric Universe. Physical
+
+Review Letters, 2018, v. 121, 251301. arXiv:1803.08928.
+
+5. Petit J.-P. The missing-mass problem. Il Nuovo Cimento B, 1994,
+
+v. 109(7), 697–709.
+
+6. Petit J.-P., Midy P., Landsheat F. Twin matter against dark matter. Mar-
+seille Cosmology Conference Where’s the Matter? Tracing Dark and
+Bright Matter with the New Generation of Large Scale Surveys, Mar-
+seille, France, (2001).
+
+7. Petit J.-P., d’Agostini G. Lagrangian derivation of the two coupled ﬁeld
+equations in the Janus cosmological model. Astrophysics and Space
+Science, 2015, v. 357(67), 67.
+
+8. Farnes J.S. A unifying theory of dark energy and dark matter: Nega-
+tive masses and matter creation within a modiﬁed ΛCDM framework.
+Astronomy & Astrophysics, 2018, v. 620, A92. arXiv:1712.07962.
+doi:10.1051/0004–6361/201832898.
+
+9. Bondi H. Negative Mass in General Relativity. Reviews of Modern
+
+Physics, 1957, v. 29(3), 423–428.
+
+10. Bonnor W.B. Negative mass in general relativity. General Relativity
+
+and Gravitation, 1989, v. 21(11), 1143–1157.
+
+11. Chardin G., Manfredi G. Gravity, antimatter and the Dirac-Milne uni-
+verse. General Relativity and Quantum Cosmology, 2018, v. 239, 45.
+arXiv:1807.11198. doi:10.1007/s10751–018-1521–3.
+
+12. Bondi H., Bergmann P., Gold T., Pirani F. Negative mass in gen-
+eral relativity in The Role of Gravitation in Physics: Report from
+the 1957 Chapel Hill Conference, Open Access Editions Epubli 2011.
+ISBN:978-3869319636.
+
+1995, v. 227(2), 273–307.
+
+13. Petit J.-P. Twin universes cosmology. Astrophysics and Space Science,
+14. Souriau J.-M. “§14: A mechanistic description of elementary
+particles:
+Inversions of space and time” in Structure of Dy-
+namical Systems. Progress in Mathematics. Boston: Birkh¨auser,
+(1997). pp. 189–193. doi:10.1007/978–1–4612–0281–3 14.
+ISBN
+978–1–4612–6692–1. Published originally in French in Structure des
+Syst`emes Dynamiques, Dunod 1970.
+
+15. Debergh N., Petit J.-P., d’Agostini G. On evidence for negative ener-
+gies and masses in the Dirac equation through a unitary time-reversal
+operator. Journal of Physics Communications, 2018, v. 2(11), 115012.
+arXiv:1809.05046.
+
+16. Damour T., Kogan I.I. Eﬀective Lagrangians and universality classes of
+nonlinear bigravity. Physical Review D, 2002, v. 66, 104024. arXiv:hep-
+th/0206042.
+
+17. Hossenfelder S. A Bi-Metric Theory with Exchange Symmetry. Physi-
+
+cal Review D, 2008, v. 78(4), 044015. arXiv:0807.2838.
+
+18. Hossenfelder S. Antigravitation. 17th International Conference on Su-
+persymmetry and the Uniﬁcation of Fundamental Interactions. Boston:
+American Institute of Physics, (2009). arXiv:0909.3456.
+
+46
+
+J.-P. Petit, G. D’Agostini and N. Debergh. Physical and Mathematical Consistency of the JCM
+
+Issue 1 (January)
+
+PROGRESS IN PHYSICS
+
+Volume 15 (2019)
+
+19. Lightman A.P., Lee D.L. New Two-Metric Theory of Gravity with Prior
+
+Geometry. Physical Review D, 1973, v. 8(10), 3293.
+
+20. Rosen N. A bi-metric Theory of Gravitation. General Relativity and
+
+Gravitation, 1973, v. 4(6), 435–447.
+
+21. Petit J.-P., d’Agostini G. Negative mass hypothesis in cosmology and
+the nature of dark energy. Astrophysics and Space Science, 2014,
+v. 354(2), 611.
+
+22. D’Agostini G., Petit J.-P. Constraints on Janus Cosmological model
+from recent observations of supernovae type Ia. Astrophysics and Space
+Science, 2018, v. 363(7), 139.
+
+23. Petit J.-P., d’Agostini G. Cosmological bimetric model with interacting
+positive and negative masses and two diﬀerent speeds of light, in agree-
+ment with the observed acceleration of the Universe. Modern Physics
+Letters A, 2014, v. 29(34), 1450182.
+
+24. Petit J.-P. Janus Cosmological Model and the Fluctuations of the CMB.
+
+Progress in Physics, 2018, v. 14(4), 226–229.
+
+25. Petit J.-P., Debergh N., d’Agostini G. Negative energy states and inter-
+stellar travel. Advanced Propulsion Workshop. Estes Park, CO: Space
+Studies Institute, (September 2018).
+
+26. Hoﬀman Y., Pomar`ede D., Tully R.B., Courtois H.M. The dipole re-
+
+peller. Nature Astronomy, 2017, v. 1(2), 0036. arXiv:1702.02483.
+
+27. Marquet P. On a 4th Tensor Gravitational Theory. Progress in Physics,
+
+2017, v. 13(2), 106–110.
+
+J.-P. Petit, G. D’Agostini and N. Debergh. Physical and Mathematical Consistency of the JCM
+
+47
+
+

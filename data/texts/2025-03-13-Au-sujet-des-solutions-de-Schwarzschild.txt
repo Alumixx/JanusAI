@@ -1,0 +1,2191 @@
+	
+
+1	
+
+Au sujet des solutions de Schwarzschild 
+
+ 
+
+ 
+
+J.P Petit1   ,   G.D’Agostini2 
+
+Manaty Research Group 
+
+__________________________________________________________________________ 
+
+ 
+Keywords :  Schwarzschild  metric,  plugstar,  gravastar,  singularity,  action,  field  equation, 
+Flamm  meridian,  two  folds  cover,  signature,  Lorentzian  metrics,  Hamilton’s  principle, 
+Minkowski  spacetime,  proper  time,  elementary  volume,  topology,  induced  topology,  con 
+contractile spacetime, coordinate singularity, Poincaré spacetime, imaginary time coordinate, 
+complex  extension,  throat  sphere,  Eddington’s  coordinates,  wormhole,  PT-symmetry,  time 
+coordinate 
+inversion,  physical  criticity,  geometrical  criticity,coordinated  singularity, 
+supermassive objects, surgery, mass inversion process, Hoag galaxy. 
+__________________________________________________________________________ 
+
+ 
+Abstract : On effectue  un large tour d’horizon sur la naissance de l’équation de champ de la 
+relativité  générale  en  1915,  l’apparition  des  solutions  exactes  construites  par  Karl 
+Schwarzschild en 1916 et l’interprétation de ces travaux par Hilbert, Weyl et Flamm en 1916 
+et  1917.  On  évoque  deux  idées  directrices :    la  première  étant  qu’on  ne  peut  considérer  la 
+solution métrique extérieure isolément, et la seconde que les solutions de l’équation d’Einstein 
+sont génératrices de contraintes d’ordre topologique, qui ont totalement échappé, et échappent 
+toujours aux spécialistes de la discipline.   
+___________________________________________________________________________ 
+ 
+1 - Préambule :  
+ 
+L’article se concentre sur la place des deux articles ([1], [2]) publiés en janvier et février 1916 
+par l’autrichien Karl Schwarzschild, peu avant son décès, cette même année, d’une maladie 
+infectieuse, place dans le contexte de la relativité générale et de ses développements. Il n’est 
+donc pas question de reprendre,  dans le détail, la genèse de tout cet ensemble, qui a déjà fait 
+l’objet d’un grand nombre d’études et d’articles, y compris dans le domaine de l’histoire des 
+sciences [3]. Dans ce préambule nous citerons des articles qui ont jalonné cette démarche.  
+En 1887, Woldemar Voigt  [4] propose des transformations qui anticipent les transformations 
+de Lorentz, dans le cadre de l’optique et de l’éther luminifère. Il ne formalise pas l’idée d’un 
+temps imaginaire, mais ses travaux influencent Lorentz et Poincaré. En 1892 et 1895  Hendrick 
+Lorentz ([7],[8]) développe progressivement l’idée que le temps doit être transformé dans des 
+référentiels  en  mouvement.  Il  introduit  ce  qu’on  appelle  maintenant  les  transformations  de 
+Lorentz, mais les voit comme un effet dû au mouvement relatif dans l’éther. Il ne passe pas au 
+formalisme géométrique à quatre dimensions et n’utilise pas de temps imaginaire. Il propose 
+l'idée de la contraction des longueurs pour expliquer les résultats négatifs de l'expérience de 
+Michelson-Morley. Une hypothèse qui stipule que les objets en mouvement se contractent dans 
+la direction de leur déplacement relatif à l'éther. En 1904 Henri Poincaré évoque l’idée que le 
+groupe  de  Lorentz  est  fondamental  et  que  la  notion  absolue  de  simultanéité  doit  être 
+abandonnée. Toutefois, il ne formalise pas encore un espace-temps à quatre dimensions. Puis il 
+
+1	Jean-pierre.petit@manaty.net	
+2	Gilles.dagostini@manaty.net	
+
+ 
+
+	
+
+2	
+
+évoque [9], à travers son maintien de l’invariance d’une forme bilinéaire,  l’idée que le groupe de 
+Lorentz  est  fondamental  et  que  la  notion  absolue  de  simultanéité  doit  être  abandonnée. 
+Toutefois, il ne formalise pas encore un espace-temps à quatre dimensions. En 1905, Albert 
+Einstein publie un article fondamental [10] intitulé « Zur Elektrodynamik bewegter Körper » 
+(« Sur l'électrodynamique des corps en mouvement ») dans la revue Annalen der Physik. Cet 
+article, soumis le 30 juin et publié le 26 septembre 1905, pose les bases de la théorie de la 
+relativité  restreinte.  Einstein  y  introduit  deux  postulats  majeurs :  le  principe  de  relativité, 
+stipulant que les lois de la physique sont les mêmes dans tous les référentiels inertiels, et la 
+constance de la vitesse de la lumière dans le vide pour tous les observateurs, indépendamment 
+de  leur  mouvement  relatif.  Ces  principes  conduisent  à  une  révision  profonde  des  notions 
+d'espace et de temps, introduisant des concepts tels que la dilatation du temps et la contraction 
+des longueurs. Un débat a pendant un temps soulevé la question de l’antériorité, vis-à-vis des 
+articles de Poincaré [11]. Einstein est le premier a avoir présenté de manière lisible et claire les 
+différents aspects de ce qui allait devenir la relativité restreinte.  Il restait à définir le contexte 
+géométrique de la relativité restreinte. Il est commode de se référer à la matrice de Gramm, liée 
+à l’espace considéré.  
+
+Si les termes, diagonaux, de la matrice sont l’unité, l’espace est euclidien. Si cette diagonale 
+contient un ou des signes moins, l’espace est pseudo-euclidien. La longueur d’un vecteur V, 
+dans un tel espace, est alors définie par  :  
+
+0
+(1) 																																																					G	=	!1
+0 ±1 ⋯ 00
+0 0 ⋯ ±1(	
+⋮
+⋱
+⋮
+(2) 																																																																𝐿!= "𝑉	𝐺	𝑉	
+(3) 																																																	𝑑𝑠!=𝑑𝑥#!+𝑑𝑥$!+𝑑𝑥!!+𝑑𝑥%!	
+𝑥# étant la coordonnée chronologique et ( x1, x 2 , x 3 ) les coordonnées d’espace. Poincaré, et 
+(4) 																																													𝑥$=	𝑥								𝑥!=	𝑦							𝑥%=	𝑧								𝑥&=𝑖𝑡		
+  (5) 																																													𝑑𝑠!=−	𝑐!𝑑𝑡!+𝑑𝑥!+𝑑𝑦!+𝑑𝑧!	
+  (6) 																																																									8	1
+0
+0
+	0 −1
+0
+0 −1
+		0
+0 0 0
+
+Dans des conférences suivantes ([12], [13]), le mathématicien Hermann Minkowski se détourne 
+vers  la  description  de  Poincaré,  donnant  à  la  coordonnée  de  temps  une  nature  différente 
+(imaginaire pure) que celle des trois autres coordonnées.  Il choisit de lui conférer une nature 
+réelle en introduisant des signes moins dans la matrice de Gramm :  
+
+d’autres, optent pour conserver la forme euclidienne de la matrice de Gramm, en optant pour 
+une quatrième coordonnée, une coordonnée chronologique, imaginaire pure.                         
+
+En quatre dimensions, sous une forme différentielle :  
+
+Ainsi la forme bilinéaire prend-t-elle la forme :  
+
+000
+−19	
+
+3	
+
+ 
+La métrique (dite « Lorentzienne ») devient alors ;  
+ 
+
+	
+  (7) 																																											𝑑𝑠!=	𝑑𝑥#!−	𝑑𝑥!−𝑑𝑦!−𝑑𝑧!	
+	Ou	:	
+		(8) 																																								𝑑𝑠!=	𝑐!𝑑𝑡!−𝑑𝑥!−𝑑𝑦!−𝑑𝑧!	
+
+	
+
+- 
+
+Dans sa conférence de 1909, Minkowski déclare : 
+
+ Les concepts d'espace et de temps que je souhaite vous présenter découlent de la 
+physique expérimentale. Leur tendance est radicale. Dorénavant, l'espace en soi 
+et le temps en soi sont destinés à s'évanouir en de simples ombres, et seule une 
+union des deux conservera une réalité indépendante.  
+
+Cette citation illustre la révolution conceptuelle introduite par Minkowski, où l'espace et le 
+temps ne sont plus considérés comme des entités séparées, mais comme des entités intimement 
+liées dans une structure à quatre dimensions, l’espace-temps. On peut dire aussi qu’ils sont de 
+même nature. Si les accroissements dx , dy , dz s’expriment en mètres, il en est de même pour 
+la quantité cdt. Mais il faut aussi garder en tête que ce ne sont de des procédés de repérage des 
+points dans l’espace où, précisément, la seule grandeur intrinsèque, invariante par changement 
+de  coordonnées  et  cette  longueur  s.  Semblablement  on  peut  équiper  une  sphère  S2  de  la 
+métrique :  
+
+																																																𝑑𝑠!=𝑅!(	𝑑𝜃!+𝑠𝑖𝑛!𝜃	𝑑𝜑!	)	
+
+(9) 
+
+Si on souhaite alors projeter cet objet dans une réalité physique, seul l’élément de longueur ds 
+a un sens, correspond à une mesure, la latitude et la longitude n’étant que des nombres, des 
+moyens de repérage. Il faut alors garder en tête, surtout quand sera effectué ce saut conceptuel 
+de la relativité générale, qu’il en est de même pour les coordonnées ( t , x , y , z ). La coordonnée 
+t n’est pas le temps.  En divisant cette grandeur s par c , on voit apparaître l’essence de cette 
+nouvelle physique : le temps propre  t.  
+
+																																																																𝑑𝑠=𝑐	𝑑𝜏 
+
+(10) 
+
+Dans  le  demi-siècle  suivant  physiciens  théoriciens  et  cosmologistes  se  réfèreront  à  cette 
+manière saine de voir les choses. Ce n’est qu’avec le temps qu’on désignera la suite des nombres 
+constituant la diagonale de la matrice de Gramm sous la dénomination de signature, celle-ci 
+étant alors :  
+
+(11)                                                              ( + - - - )  
+
+ 
+Toute  la  relativité  restreinte  se  résume  ainsi  à  l’idée  que  les  mouvements  des  particules 
+massives  et  des  photons  s’inscrivent  sur  les  géodésiques  d’un  espace  de  Minkowski.  Les 
+photons suivent des géodésiques de longueur nulle et leur vitesse :  
+ 
+
+	
+
+4	
+
+(12) 
+
+																																																													’(!)’*!)’+!
+=	𝑐! 
+’"!
+                   (13)																																																																								𝑑𝑠!≥0 
+
+Le fait qu’il soit impossible dans l’espace physique, dans un espace où toutes les quantités sont 
+réelles, de se déplacer à une vitesse supérieure à celle de la lumière se résume à la contrainte 
+extrêmement simple : 
+ 
+
+ 
+Ce qui revient au principe physique :  
+ 
+
+ 
+ 
+ 
+2 – La construction des équations de champ.  
+
+Le temps propre t ( qui est en fait le seul et véritable temps ) doit être réel 
+
+Einstein est avant tout un formidable physicien, mené par son intuition hors du commun. Grâce 
+à son ami Marcel Grossman il acquiert les outils de mathématiques avancées, la géométrie 
+différentielle, le calcul tensoriel de Ricci et de Levi-Civita, qui vont lui permettre de donner 
+corps  à  ses  intuitions.    Leur  collaboration  a  abouti  en  1913  à  un  article  conjoint  [14]  : 
+qui se présente comme une esquisse d'une théorie généralisée de la relativité et d'une théorie de 
+la gravitation.  
+
+Le mathématicien David Hilbert, avant sa rencontre avec Einstein, croyait que le monde des 
+mathématiques sophistiquées, qu’il contribuait à bâtir, n’avait aucun rapport, présent ou futur, 
+avec la physique. On prétend qu’un jour, devant remplacer son collègue Klein pour donner une 
+conférence devant les ingénieurs, il leur avait d’emblée dit :  
+ 
+
+-  On	dit	que	les	ingénieurs	et	les	mathématiciens	ont	du	mal	à	se	comprendre.	C’est	
+
+inexact	:	ils	n’ont	simplement	rien	à	faire	ensemble	!		
+
+Sa rencontre avec Einstein l’amene à changer radicalement de point de vue. Hilbert envisage 
+alors  que, non seulement les mathématiques pouvaient rendre compte de nouveaux éléments,  
+comme cette invariance de la vitesse de la lumière, mais devait lui permettre de construire ce 
+qu’aujourd’hui on nommerait une Theory of everything. Il faut se souvenir qu’à cette époque 
+seule  deux  forces  sont  à  l’œuvre  dans  l’univers :  la  force  électromagnétique  et  la  force  de 
+gravitation. Par ailleurs personne ne s’imagine une seule seconde que l’univers puissent avoir 
+une histoire, ait évolué. Hilbert ambitionne donc définir les fondements même de la physique. 
+Il dispose d’un outil supplémentaire : sa maîtrise du calcul des variations. Le 20 novembre 1915 
+
+il  dépose  un  premier  article  [15].	Dans	cette	même	revue,	cinq	jours	plus	tard,	Einstein	
+dépose	le	sien	[16]	et	découvre,	catastrophé,	qu’Hilbert,	avec	qui	il	a	noué	des	relations	
+d’amitié	et	d’estime	mutuelle,	présente,	lui	aussi,	une	équation	tensorielle	susceptible	de	
+prendre	en	charge	les	aspects	géométriques	de	la	gravitation.		
+	Hilbert	est	avant	tout	un	mathématicien.	Sa	démarche	partira	donc	d’axiomes,	déjà	mis	en	
+lumière	par	Mie.	Les	voici	:			
+	
+
+5	
+
+(
+1
+) 
+
+(
+2
+) 
+
+(
+3
+) 
+
+	
+
+ 
+
+où la variation de l'intégrale 
+
+Axiome  I  (axiome  de  Mie  de  la  fonction  de  l’espace3)  :  La  loi  qui  régit  les 
+processus physiques est déterminée par une fonction de l’espace H qui contient 
+les arguments suivants : 
+
+𝑔!"#$=	 𝜕²𝑔!"
+𝑔!",				𝑔!"#=	𝜕𝑔!"𝜕𝜛#		,
+𝜕𝜛#	𝜕𝜛$ 
+𝑞&,				𝑞&#=	𝜕𝑞&𝜕𝜛#,				(𝑙,𝑘=1,2,3,4) 
+B𝐻	D𝑔	𝑑𝜔 
+(𝑔=G𝑔,-G,𝑑𝜔=𝑑𝜛$𝑑𝜛!𝑑𝜛%𝑑𝜛&) 
+doit disparaître pour chacun des quatorze potentiels 𝑔,-,𝑞. . 
+𝑔!",   𝑔#!"=	’(!"’)#    𝑔#$!"=	 ’²(!"
+’)#	’)%, 
+où 𝑔,-est le sous-déterminant du déterminant 𝑔 par rapport à son élément 𝑔,- 
+divisé par 𝑔. 
+l’espace 𝜛.. 
+laquelle  l'interconnexion  des  potentiels 𝑔,-,𝑞.    est  en  soi  entièrement 
+
+ 
+ 
+ 
+Axiome  II  (axiome  d'invariance  générale 4)  :  La  fonction  de  l’espace  H  est 
+invariante  par  rapport  à  une  transformation  arbitraire  des  paramètres  de 
+
+ 
+Il est clair que les arguments (1) peuvent être remplacés par les arguments [1]  
+
+L'axiome II est l'expression mathématique la plus simple de l'exigence selon 
+
+ 
+
+ 
+
+théorème, dont je présenterai la preuve ailleurs.  
+
+Le  motif  qui  me  guide  dans  la  construction  de  ma  théorie  est  fourni  par  le 
+
+indépendante de la manière dont on choisit d'étiqueter les points de l’espace au 
+moyen des paramètres de l’espace. 
+
+Suit la construction d’un certain nombre de théorèmes, découlant d’hypothèses d’invariance. 
+Toute la beauté d’une construction axiomatique se déploie sous nos yeux. Hilbert reprend la 
+
+	
+3	Les	fonctions	de	l’espace	de	Mie	ne	contiennent	pas	exactement	ces	arguments	;	en	particulier,	l'utilisation	
+des	arguments	(2)	remonte	à	Born.	Cependant,	ce	qui	est	caractéristique	de	l'électrodynamique	de	Mie,	c'est	
+précisément	l'introduction	et	l'utilisation	d'une	telle	fonction	de	l’espace	dans	le	principe	de	Hamilton.	
+4	L'invariance	orthogonale	avait	déjà	été	postulée	par	Mie.	Dans	l'axiome	II	formulé	ci-dessus,	l'idée	
+fondamentale	d'Einstein	sur	l'invariance	générale	trouve	son	expression	la	plus	simple,	même	si	le	principe	
+de	Hamilton	ne	joue	qu'un	rôle	subsidiaire	chez	Einstein,	et	que	ses	fonctions	H	ne	sont	en	aucun	cas	des	
+invariants	généraux,	et	ne	contiennent	pas	non	plus	les	potentiels	électriques.	
+
+ 
+
+	
+ (13) 																																																									𝑆=	∫ 𝐿	(	𝑞,𝑞̇	)𝑑𝑡
+
+	
+
+"!""
+
+démarche du mathématicien Gustav Mie [17], lui aussi tendu dans un effort d’unifier les deux 
+forces connues dans une démarche fondée sur le Principe de Moindre Action, revisité selon un 
+principe de Hamilton, fondé sur son action :  
+
+6	
+
+ 
+L devient alors le Lagrangien. Le paramètre qui rythme l’évolution est alors le temps t . En 
+imposant une variation d S nulle on débouche alors sur des équations de Lagrange. Mie axe sa 
+démarche sur une fonction d’univers W (Weltfunction).  La démarche de Hilbert, prolongeant 
+cette  de  Mie,  enlève  au  temps  t  son  rôle  de  paramètre  d’évolution,  en  l’incluant  dans  les 
+coordonnées  généralisées.  Hilbert  centre  donc  sa  démarche  sur  une  fonction  d’univers  qui 
+devient la somme de deux scalaires,   
+     
+
+(14) 
+																																																																𝐻=𝐾+𝐿		
+Où 𝐾=	∑𝑔,-𝐾,-		est le scalaire de Ricci,  dérivant du tenseur de Ricci 𝐾,-. L est alors censé 
+être le Lagrangien de la matière.  La quantité D|𝑔|	(	𝐾+𝐿	)	devient la densité Lagrangienne 
+ (15) 																																																																	∫		𝐽	D𝑔	𝑑𝜔	
+Avec	:		
+(16) 																																														𝑑𝜔=𝑑𝑤$+	𝑑𝑤!+	𝑑𝑤%+	𝑑𝑤&			
+
+sur la base de laquelle est construite l’action, laquelle est de  la forme :  
+
+	
+
+ 
+
+	
+
+Où ces quantités wi sont des « coordonnées d’univers ». On voit que la démarche de Hilbert se 
+situe  « au-dessus  de  la  physique »,  comme  si  l’univers  était  avant  tout  une  construction 
+mathématique,  soigneusement  axiomatisée.  Ça  n’est  que  dans  son  second  article,  du  23 
+décembre 1916, portant le même titre mais enrichi d’une des solutions trouvées 
+ par  Karl  Schwarzschild  que  ce  formalisme  accouchera  d’éléments  ayant  partie  liée  à  la 
+physique.  
+ 
+A ce stade on est en droit de s’interroger sur la nature de cet espace quadridimensionnel sur 
+lequel Hilbert installe sa fonction d’univers. Dans ses axiomes on lit :  
+
+																										(𝑔=G𝑔,-G,𝑑𝜔=𝑑𝜛$𝑑𝜛!𝑑𝜛%𝑑𝜛&)	
+
+ (17) 																																																					∫𝐻	D𝑔	𝑑𝜔	
+	
+	Quel	sens	donner	à	cette	dernière	définition	?	Le	signe	valeur	absolue	se	réfère	
+ordinairement	à	une	grandeur	scalaire	et,	en	l’occurrence,	celle-ci	devrait	être	le	
+déterminant	de	g,	dont	le	signe	diffère	selon	que	l’espace	est	euclidien	ou	pseudo-
+euclidienne.	Ce	qui	est	utilisé	dans	l’action	c’est	un	volume	élémentaire,	qui	devrait	alors	
+être	:		
+																																																					S	Gdet	(𝑔,-)G		𝑑𝜔	
+(19) 
+
+(18) 
+
+	
+
+7	
+
+ 
+
+ 
+A  ce  stade  la  notation  de  Hilbert  ne  nous  éclaire  guère  sur  le  signe  du  déterminant  de  sa 
+métrique. Mais ceci se trouve précisé plus loin :  
+ 
+
+(20) 																																																	W	𝑔,-=0		(	𝜇≠𝜈	)
+𝑔,,=0
+
+ 
+
+ 
+
+ 
+
+(23) 
+
+(21) 
+Avec :  
+(22) 
+
+Nous  avons  alors  l’information-clé :  l’espace-temps  de  Hilbert  est  euclidien.  Il  conserve  la 
+position de Poincaré, ce qui l’amènera par conséquent, dans son article de 1916, à opter pour 
+une dimension temporelle imaginaire pure.  
+ 
+La seconde remarque est plus importante. Dans l’article suivant, ce qu’Hilbert optimisera par 
+calcul variationnel, c’est une action construite, non sur une longueur, réelle, mais  sur une forme 
+bilinéaire G. Non verrons les conséquences d’une telle distance prise avec les réalités physiques 
+et leurs conséquences dans la physique théorique et la cosmologie. Toujours est-il qu’en mettant 
+
+en œuvre les outils du calcul variationnel Hilbert construit la première équation se champ [15] :  
+
+ 
+ 
+ Ceci, au grand dam d’Einstein, qui apporte la sienne cinq jours après, en soumettant son article 
+
+                             [	D𝑔	𝐾,-\+	/√1	3
+/1#$=0 
+																				[	D𝑔	𝐾,-\=	D𝑔	]	𝐾,-−	$!	𝐾	𝐾𝑔,-	^ 
+[16]	 dans la même revue !  
+																																													𝑅4	5=−𝜅(	𝑇4	5−	$!	𝑇𝑔4	5	) 
+ (24) 																																																										D−𝑔=1		
+si	Hilbert	situe	l’univers	dans	une	espace	euclidien,	où	la	coordonnée	de	temps	est	d’une	
+nature	différente,	imaginaire	pure,	Einstein	suit	l’article	de	Minkowski	de	1909	[13],	c’est-
+à-dire	que	sa	coordonnée	chronologique	ct	est	de	même	nature	que	les	coordonnées	d’espace.	
+Mais	cet	espace	est	alors	pseudo-euclidien	(Lorentzien).	Einstein	marque	cependant	un	point	
+de	plus	en	présentant,	le	même	jour,	la	première	solution,	approchée	[18],	de	son	équation	de	
+champ	sans	second	membre,	c’est-à-dire	décrivant	la	géométrie	dans	une	portion	de	matière,	
+vide,	entourant	une	masse.	Dans	cet	article	les	composants	de	la	matrice	de	Gramm	sont	
+précisés	:		
+	(25) 																																																					−1
+0
+0 00 0
+0 −1
+1a	
+0 00 0
+−1 0
+0
+Ce	qui	va	de	pair	avec	la	définition	de	la	longueur	prise	par	Karl	Schwarzschild	dans	un	
+article	présenté	quelques	semaines	plus	tard.		
+
+Les deux formulations étant équivalentes. En précisant :  
+
+	
+
+	
+
+8	
+	
+relativité générale ? ». Cette période d’incertitude a été décrite par Tim Sauer en 1998[19].  
+
+La publication de cette rafale d’article est source de turbulences dans les relations liant Hilbert 
+et Einstein, la question centrale étant « qui a produit la première équation tensorielle, décrivant 
+le champ gravitationnel, à qui attribuera-t-on la paternité de ce qui deviendra la théorie de la 
+
+Mais elle dure peu et Einstein écrit à Hilbert :  
+
+ 
+There was a certain resentment between us, the cause of which I do not 
+want  to  analyse.  I  have  fought  against  the  associated  feeling  of 
+bitterness, and with complete success. I again think of you with unmixed 
+friendliness, and I ask you to try to think of me in the same way. 
+
+ 
+Concluons  qu’intelligemment  ces  deux  grands  esprits,  qui  avaient  l’un  pour  l’autre  la  plus 
+grande estime,  évitèrent d’un commun accord, le piège d’une discorde, privilégiant le maintien 
+de leurs bons rapports.  Ainsi fut-il décidé qu’Einstein deviendrait, pour la postérité, le père de 
+cette équation de champ.  
+ 
+ 
+ 
+ 
+3 – La métrique extérieure de Karl Schwarzschild.  
+ 
+Schwarzschild, comme Einstein, a les pieds solidement ancrés dans la physique. Dès 1900, 
+passionné d’astronomie dès son plus jeune âge, il émet l’hypothèse que l’univers soit, non pas 
+euclidien,  mais  courbe.  Il  suit,  comme  beaucoup  d’autres  de  sa  génération,  les  travaux 
+d’Einstein  et en 1915 découvre immédiatement, à la fois l’équation de champ et la solution 
+approchée qu’en donne Einstein, décrivant la géométrie dans le vide entourant une lasse et 
+comment cette façon de voir les choses permet de rendre compte de l’avance du périhélie de 
+l’orbite de la planète Mercure. La rapidité avec laquelle il construit, en quelques semaines,  
+l’ensemble de la géométrie de l’espace constituant l’extérieur et l’intérieur de l’étoile est en 
+tous points remarquable. Mais, bien qu’âgé de quarante ans et père de famille il a choisi, par 
+patriotisme, de s’engager dans le conflit qui vient d’éclater et se trouve affectée sur le front est, 
+en  tant  qu’officier  d’artillerie,  sur  le  front  russe.  Son  état  de  santé  se  dégrade  alors  très 
+rapidement et il décède deux mois plus tard d’une infection. Avec le recul je pense que s’il 
+n’avait  pas  disparu  aussi  prématurément  l’histoire  de  la  cosmologie  se  serait  écrite  d’une 
+manière sensiblement différente.  Commençons par analyser son premier article [1]. Dès les 
+premières lignes on constate que Schwarzschild a intégré le fait que les trajectoires qu’il se 
+propose de calculer sont des géodésiques qui minimise la longueur s.  
+
+ (26) 																																					b	
+
+𝛿	∫𝑑𝑠=0	
+𝑤ℎ𝑒𝑟𝑒
+𝑑𝑠=	D	∑𝑔,-	𝑑𝑥,𝑑𝑥-		
+
+Dans ces deux formules, tout est dit, tout est implicitement supposé être réel : les coordonnées 
+et la longueur s ( le temps propre) . La quantité sous radical ne peut être négative.  
+ 
+Envisageons une courbe décrite par un paramètre p, inscrite dans l’hypersurface espace-
+temps.   
+ 
+
+	
+
+9	
+
+	
+
+	
+	
+	
+
+(27) 																																																										𝑥6(8)
+𝑥$(8)
+𝑥!(8)
+𝑥%(8)
+L’intégrale	d’action	s’écrira	alors	:		
+	(28) 																																	𝐽=		∫gS	∑𝑔,-	]’(#’8^]’($’8^	h𝑑𝑝	
+Si	on	écrit	la	variation,	cela	donne	:		
+	(29) 																			𝛿𝐽=		∫:	;∑1#$	;%&#%’=;%&$%’==
+!	>	∑1#$	?%&#%’@?%&$%’@	𝑑𝑝=	∫:	A∑1#$	(̇	#	(̇	$C
+!	>	∑1#$		(̇	#	(̇	$	𝑑𝑝	
+La	métrique	𝑔,-	appartient	à	un	certain	espace	fonctionnel.	La	variation	de	l’action	
+correspondra	donc	à	sa	variation	𝛿𝑔,-,	dans	cet	espace	fonctionnel.	En	écrivant	que	cette	
+variation	est	nulle,	on	obtiendra	les	équations	de	Lagrange.	Considérons	maintenant		
+l’action	:		
+	(30) 																																								𝐽D=	∫[∑𝑔,-		𝑥̇	,	𝑥̇	-\𝑑𝑝	
+	
+Et	sa	variation	:		
+(31) 																																					𝛿𝐽D=	𝛿∫[∑𝑔,-		𝑥̇	,	𝑥̇	-\𝑑𝑝	
+	Celle-ci	conduit	à	des	équations	de	Lagrange	absolument	identiques.	Mais	dans	le	cas	
+précédent	une	contrainte	intervenait	:	que	la	longueur	s,	le	long	des	courbes	issues	des	
+équations	de	Lagrange,	soit	réelle,	positive	ou	nulle	(dans	le	cas	des	géodésiques	suivies	
+par	les	photons).	Quand	on	optimise,	non	plus	la	longueur,	mais	son	carré,	cette	contrainte	
+disparaît.	On	peut	alors	obtenir	des	géodésiques	dont	les	projections	dans	l’espace	
+physique	sont	des	courbes	réelles,	mais	qui	sont	alors	dotées	d’une	longueur	imaginaire	
+pure.		
+	En	posant	le	problème	comme	il	l’a	fait,	Schwarzschild	s’impose	d’emblée	cette	contrainte	
+de	rester	dans	le	monde	réel.	Il	commence	par	décrire	l’espace-temps	avec	quatre	
+coordonnées	(	𝑡	,𝑥	,𝑦	,𝑧	).	Des	coordonnées	qui	sont	des	nombres	réels.	Puis,	pour	se	
+concentrer	sur	des	solutions	stationnaires	(invariantes	par	translation	temporelle)	et	à	
+symétrie	sphérique,	invariantes	par	action	du	groupe	SO(3),		il	opte	pour	des	coordonnées	
+polaires	(	𝑡	,𝑟	,𝜗	,𝜙	).		
+	Il	considère	alors	les	solutions	métriques	de	la	forme	:		
+	(32) 																						𝑑𝑠!=𝐹𝑑𝑡!−(𝐺+𝐻)𝑑𝑟!−𝐺𝑟!(	𝑑𝜗!+𝑠𝑖𝑛!𝜗	𝑑𝜙!	)	
+Avec	une	coordonnée	radiale,	réelle		:	
+(33) 																																															𝑟=	D	𝑥!+	𝑦!+	𝑧!	≥0		
+
+	
+	
+
+ 
+
+10	
+
+𝑟&	𝑑𝑟!
+
+Il utilise alors plusieurs changements de variable successifs, pour des commodités de calcul, 
+
+solution en remplaçant R par son expression en fonction de r et de a . Il vient :  
+(34) 
+
+ 
+a est une longueur positive à laquelle on donnera le nom de rayon de Schwarzschild Rs. Dans 
+
+1916,  Schwarzschild  ne  finalise  sa  solution,  remplaçant  ce  qu’il  qualifie  de  « grandeur 
+intermédiaire » (Hilfsgrobe). Il n’en éprouve pas le besoin, mais se content de retrouver le 
+
+	
+	
+et présente son résultat, non dans le système de coordonnées (	𝑡	,𝑟	,𝜗	,𝜙	) mais pour le 
+système (	𝑅	,𝑟	,𝜗	,𝜙	), selon :  
+(34)			𝑑𝑠!=(1−𝛼/𝑅)𝑑𝑡!− 𝑑𝑅!
+1−𝛼/𝑅−𝑅!(	𝑑𝜗!+𝑠𝑖𝑛!𝜗𝑑𝜙!),𝑅=(𝑟%+𝛼%)$/% 
+cette présentation, r variant de 0 à +	∞, on a nécessairement 𝑅≥	∝	=𝑅. . Dans cet article de 
+résultat  obtenu  par  Einstein,  sous  la  forme  d’une  solution  approchée [18].  Finalisons  cette 
+](𝑟%+𝛼%)"(−𝛼^(𝑟%+𝛼%)"(−(𝑟%+𝛼%)!((𝑑𝜗!+𝑠𝑖𝑛!𝜗𝑑𝜙!) 
+ 𝑑𝑠!=s1−
+G(F()H()"(IHJ(F()H()"(+(𝑟%+𝛼%)!((𝑑𝜗!+𝑠𝑖𝑛!𝜗𝑑𝜙!)	
+F)	’F!
+
+𝛼
+(𝑟%+𝛼%)"(t𝑑𝑡!−
+ (34) 																						𝑑𝜎!=	
+ (35) 																																	𝑑𝜉!=(𝑟%+𝛼%)!((𝑑𝜗!+𝑠𝑖𝑛!𝜗𝑑𝜙!)	
+L’aire	de	ces	sphère	4	𝜋	(𝑟%+𝛼%)!(	a	une	valeur	minimale	4	𝜋	𝛼!.	Cet	objet	3D	a	donc	la	
+topologie	d’une	variété	à	bord,	celui-ci	étant	cette	sphère	d’aire	minimale.	En	r	=	0,	sur	la	
+sphère	d’aire	4	𝜋	𝛼!,sur	le	bord,	les	termes	𝑔""	et	𝑔FF	sont	nuls.	L’objet	est	donc	non-
+contractile.		
+	En	1916	Hilbert	découvre	donc	l’existence	de	cette	solution	de	l’équation	de	champ	sans	
+second	membre	et	entreprend	alors	de	l’intégrer	dans	une	seconde	version	de	son	mémoire	
+sur	les	fondements	de	la	physique,	qu’il	publie	le	23	décembre	1916	[20].	Il	procède	alors	
+différemment,	en	se	concentrant	d’emblée	sur	la	forme	bilinéaire	:		
+	(36) 																																								𝐺(𝑋$,𝑋!,𝑋%,𝑋&)=	∑𝑔,-	𝑋,	𝑋-	
+																																		G	(𝑑𝑥$,𝑑𝑥!,𝑑𝑥%,𝑑𝑥&,)=	∑𝑔,-	𝑑𝑥,	𝑑𝑥-	
+ (37) 
+
+ 
+Pour la valeur r = 0 , c’est à) dire R = Rs, il ne s’agissait donc pas d’une singularité vraie mais 
+d’une singularité de coordonnées.  Quelle est alors la géométrie de cet objet à quatre dimensions ? 
+Les potentiels métriques gtt et grr sont nuls en r = 0 .  L’objet résulte d’une translation temporelle 
+de l’hypersurface 3D définie par la métrique : 
+
+Si on effectue des coupes à r constant, celles-ci sont des sphères parallèles de métrique :  
+
+Sous sa forme différentielle :  
+
+	
+
+ 
+
+	
+
+(38) 
+Avec :  
+ 
+(39) 
+
+11	
+	
+Dans	la	suite	de	l’article	il	renomme	ses	coordonnées	(𝑤$,𝑤!,𝑤%,𝑤%	),	la	quatrième	étant	
+𝑙𝑎	𝑐𝑜𝑜𝑟𝑑𝑜𝑛𝑛é𝑒	𝑐ℎ𝑟𝑜𝑛𝑜𝑙𝑜𝑔𝑖𝑞𝑢𝑒.𝐼𝑙	𝑟𝑒𝑝𝑎𝑟𝑡	𝑑𝑒	𝑠𝑜𝑛	é𝑞𝑢𝑎𝑡𝑖𝑜𝑛	𝑑𝑒	𝑐ℎ𝑎𝑚𝑝,𝑎𝑣𝑒𝑐	𝑑é𝑡𝑒𝑟𝑚𝑖𝑛𝑎𝑛𝑡	
+positif.	
+	
+                                             [	D𝑔	𝐾,-\+	/√1	3
+/1#$=0 
+                                 			[	D𝑔	𝐾,-\=	D𝑔	]	𝐾,-−	$!	𝐾	𝐾𝑔,-	^ 
+Toujours	dans	la	ligne	de	Poincaré	l’espace	à	quatre	dimensions	est	doté	d’une	signature	
+euclidienne,	ce	qui	l’amènera	à	opter	pour	une	coordonnée	de	temps	imaginaire	pure,	ce	
+qui	se	lit	quand	il	évoque	la	forme	approchée	de	la	solution	métrique,	donnée	par	Einstein	:		
+	(40) 
+																																																						𝑔,-=	𝛿,-+	𝜀	ℎ,-+⋯	
+		Où	𝛿,-	est	le	tenseur	de	Kronecker.	Il		décide	alors	d’intégrer	la	solution	exacte	construite	
+par	Schwarzschild	et,	pour	tenir	compte	de	l’hypothèse	de	symétrie	sphérique,	passe	en	
+coordonnées	polaires	:		
+	
+(41) 																																																						(cid:137)	𝑤$=𝑟	𝑐𝑜𝑠𝜗											
+𝑤!=𝑟	𝑠𝑖𝑛𝜗	𝑐𝑜𝑠𝜑
+𝑤&=𝑙																				
+𝑤%=𝑟	𝑠𝑖𝑛𝜗	𝑠𝑖𝑛𝜑
+																															𝐹(𝑟)𝑑𝑟!+𝐺(𝑟)(	𝑑𝜗!+𝑠𝑖𝑛!𝜗	𝑑𝜑!	)+𝐻(𝑟)𝑑𝑙!	
+ (42) 
+ (43) 													𝛿	∫(cid:138)𝐹(𝑟)]’F’8^!+𝐺(𝑟)(cid:138)	]’K’8^!+𝑠𝑖𝑛!𝜗]’L’8^!	(cid:139)+𝐻(𝑟)]’M’8^!(cid:139)𝑑𝑝	
+des termes impliquant les angles 𝜗	et 𝜑. Mais le lecteur ne s’arrêtera pas à ce détail. Cette forme 
+ (44) 																																																		𝐺]’("’8,’(!’8,’((’8,’()’8^	
+Les portions d’espace où  𝐺]’(*’8^>0 sont alors qualifiées de segments (Strecke) . Il définit 
+donc une première longueur réelle  𝜆	(𝐿ä𝑛𝑔𝑒	𝑑𝑒𝑟	𝑆𝑡𝑟𝑒𝑐𝑘𝑒)	,	le long de ceux-ci selon :  
+ (45) 																																																				𝜆=	∫S𝐺]’(*’8^	𝑑𝑝	
+
+D’emblée,  il  envisage  d’étendre  l’espace  à  des  portions  où  cette  forme  puisse  prendre  des 
+valeurs  aussi  bien  positive  que  négatives,  ce  qui  l’amène  à  introduire  deux  longueurs.  Au 
+passage il utilise la même lettre G pour décrire à la fois cette forme bilinéaire et le coefficient 
+
+Ainsi est-il amené à envisager la variation :  
+
+Sa forme bilinéaire a alors la forme :  
+
+est donc :  
+
+ 
+
+longueur, le long de ces seconds éléments est alors qualifié de temps propre ( Eigenzeit der 
+Zeitlinie ), selon : 
+
+12	
+	
+Il qualifie alors les  portions  où 𝐺]’(*’8^<0  de lignes de temps (Zeitlinie ) . Cette seconde 
+ (46) 																																																					𝜏=	∫S−	𝐺]’(*’8^	𝑑𝑝	
+Enfin il considère un troisième type de courbes selon lesquelles 𝐺]’(*’8^=0, qu’il qualifie de 
+nulle.  Cela  va  de  pair  avec  le  fait  qu’il  construit  son  action  directement  sur 𝐺]’(*’8^	et  non 
+comme le fait Schwarzschild, sur S𝐺]’(*’8^  avec la contrainte que cela entraîne aussitôt. Dans 
+
+« lignes nulles » (Nullinie). Ce sont les courbes sur lesquelles s’inscriront les rayons lumineux. 
+On voit donc que l’espace qu’Hilbert considère est d’emblée beaucoup plus vaste que l’espace-
+temps de Schwarzschild, lequel se limite aux géodésiques équipées d’une longueur réelle ou 
+
+	
+	
+
+Et sa forme bilinéaire devient :  
+
+cette évocation de l’article de Hilbert on fait l’impasse sur tout ce qui visait à englober dans un 
+même formalisme la gravitation et l’électromagnétisme. Nous nous sommes concentrés sur sa 
+façon d’intégrer le travail de Schwarzschild dans cette version étendue de son article sur les 
+Fondements de la Physique. Il lui reste à construire sa solution. Revenons sur l’expression de 
+sa forme bilinéaire avec ses trois fonctions inconnues de r : F , G , H . Il introduit alors ce qu’il 
+présente comme une simplification, en effectuant le changement de variable :  
+
+																																																											𝑟∗=		D	𝐺(𝑟)	
+ (47) 
+ (48) 																												𝑀(𝑟∗)𝑑𝑟!+𝑟∗!(	𝑑𝜗!+𝑠𝑖𝑛!𝜗	𝑑𝜑!	)+𝑊(𝑟∗)𝑑𝑙!	
+Son	but	est	de	se	ramener	au	calcul	de	deux	fonctions,	M	et	W	,	au	lieu	de	trois.	Tout	se	
+résume	alors	à	la	variation	:	
+	(49) 																					𝛿∫g	𝑀]’F∗’8^!+	𝑟∗!]’K’8^!+	𝑟∗!𝑠𝑖𝑛!𝜗]’L’8^!+𝑊]’M’8^!h𝑑𝑝	
+Le	calcul	conduit	alors	Hilbert	à	:	
+	(50) 																																												𝑀=	
+F∗I5													𝑊=𝑤!	F∗I5F∗
+F∗
+	Où	m	et	w	sont	des	fonctions	de	r*,	qui	s’avèrent	au	final	n’être	que	deux	constantes.	Afin	
+de	retrouver	la	solution	de	Schwarzschild,	Hilbert	pose	𝑚=	𝛼			et		𝑤=1	.		Sa	forme	
+bilinéaire-solution	s’écrit	alors	:		
+	(51) 						𝐺(𝑑𝑟∗,𝑑𝜗,𝑑𝜑,𝑑𝑙)= ’F∗
+$IH/F∗+	𝑟∗!𝑑𝜗!+	𝑟∗!𝑠𝑖𝑛!𝜗𝑑𝜑!+(1−	𝛼/𝑟∗)𝑑𝑙!		
+ (52) 																																																															𝑙=𝑖	𝑡	
+
+On retrouve les quatre signes « plus » de la métrique euclidienne et l’espace de Poincaré. Pour 
+intégrer les aspects de la relativité d’Einstein il suffit, comme le fait Hilbert, de poser :  
+
+	
+
+13	
+
+L’expression devient alors : 
+
+confrontation avec l’observation cette différence est de peu d’importance, étant donné que, pour 
+
+Hilbert l’identifie alors à la forme trouvée par Schwarzschild en décidant « d’enlever l’étoile ». 
+
+										𝐺(𝑑𝑟∗,𝑑𝜗,𝑑𝜑,𝑑𝑡)= ’F∗!
+
+	
+	(53) 
+$IH/F∗+	𝑟∗!𝑑𝜗!+	𝑟∗!𝑠𝑖𝑛!𝜗𝑑𝜑!−(1−	𝛼/𝑟∗)𝑑𝑡!	
+Sa  variable 𝑟∗	est  en  fait  la  grandeur  intermédiaire  R  de  Schwarzschild.  Vis-à-vis  d’une 
+le Soleil, et les étoiles ordinaires 𝑟∗≫	𝛼. Il serait plus correct d’écrire :  
+ (54) 												𝐺(𝑑𝑅,𝑑𝜃,𝑑𝜑,𝑑𝑡)= ’O!
+$IH/O+𝑅!𝑑𝜗!+𝑅!𝑠𝑖𝑛!𝜗𝑑𝜑!−]	1−HO^𝑑𝑡!	
+On	retrouve	ici	la	signature	moderne	(	+		+	+	-	).	L’approche	d’Hilbert	se	traduit	par	une	
+extension	de	l’espace-temps	en	deux	portions	d’espace	différentes,	selon	le	signe	de	la	
+forme	bilinéaire	G	,	où	les	longueurs	se	mesurent	dès	lors,	soit	le	long	des	segments	à	
+l’aide	de	la	longueur	𝜆	soit	le	long	des	lignes	de	temps,	avec	le	temps	propre	𝜏.	Traitant	
+alors		cette	fois	la	grandeur	intermédiaire	R	comme	une	«	variable	radiale	»,	Hilbert,	et	
+ses	successeurs,	envisageront	désormais	de	la	faire	varier	de	0	à	plus	l’infini,	alors	que,	
+dans	le	contexte	géométrique	choisi	par	Schwarzschild	R	ne	pouvait	être	inférieur	à	𝛼.	
+En	utilisant	le	changement	de	variable	inverse	:		
+	(55) 																																									𝑟=	D	𝑥!+	𝑦!+	𝑧!	=(	𝑅%−	𝛼%	)$/%	
+Schwarzschild  correspondant  aux  valeurs   0	≤𝑅	≤𝛼 .  Ce  positionnement  de  la  solution 
+
+ 
+Ceci  permet  de  situer  la  plage  des  valeurs  des  coordonnées  d’espace  (  x ,  y  ,  z  )  de 
+
+	
+
+équivaut  à  une  extension  complexe  de  l’espace-temps.  Hilbert  considère  que  sa  propre 
+construction de la solution extérieure est la plus simple et la plus logique. Il perçoit le relation 
+entre les coordonnées R et r , en optant pour les notations de Schwarzschild, comme une simple 
+opération  visant  à  ramener la  singularité  en  R  =  a  (qui  s’avèrera  plus  tard  n’être  qu’un 
+singularité de cordonnée) à l’origine, en r = 0. En ajoutant « qu’il n’en voyait pas l’intérêt et 
+que par ailleurs  y avait des façons plus simples de parvenir à ce résultat ».  
+ 
+ 
+4 – La métrique intérieure de Schwarzschild. 
+ 
+En février 1916 Karl Schwarzschild publie un second article [2], complétant le précédent et 
+décrivant la géométrie à l’intérieur d’une sphère emplie d’un fluide incompressible de densité 
+constante. Cette métrique intérieure est alors solution de l’équation d’Einstein, équipée de son 
+
+second  membre,  source  du  champ  (23).  Partant  de  coordonnées (𝑥$,𝑥!,𝑥%,𝑥&)	 où 𝑥&	est  la 
+ (56) 																				𝑇$$=	−8P!				,						𝑇!!=	−8P!				,						𝑇%%=	−8P!				,						𝑇&&=	𝜌𝑐!									
+ (57) 																																																											𝑇,-=	∑ 𝑇,QQ
+
+Où p représente la pression à l’intérieur de l’astre. Il indique ensuite la formule de passage en 
+notations covariantes.  
+
+coordonnée  chronologique  il  exprime  alors  le  tenseur-matière  sous  une  forme  mixte  (nous 
+faisons réapparaître la vitesse de la lumière dans le vide c )  :  
+
+𝑔-Q	
+
+ 
+
+14	
+
+Il présente le scalaire de Laue T, présent dans la présentation de l’équation de champ donnée 
+
+	
+par Einstein en 1915 [16]:  
+																																																			𝑇=	∑ 𝑇QQQ
+ (58) 
+=	𝜌𝑐!−%8P!	
+Dans la métrique extérieure apparaissait une longueur caractéristique 𝛼, qualifiée plus tard de 
+rayon de Schwarzschild 𝑅.	et égale à :  
+(59) 																																																																									𝛼=	!	R	S	
+P!   
+  Où	G	est	cette	fois	la	constante	de	la	gravitation,	M	la	masse	de	l’objet	créant	le	champ	
+gravitationnel	et	c	la	vitesse	de	la	lumière,	que	Schwarzschild	prend	égale	à	l’unité.		
+	Dans	la	métrique	intérieure	apparait	une	seconde	longueur	caractéristique	:		
+	(60)																																																																		𝑅	(cid:150)=	S	 %	P!	
+T	U	R	V	
+Cette métrique est alors exprimée à l’aide des coordonnées spatiales angulaires (	𝛼,𝜗,𝜙) et 
+(61) 																																																															𝑅=𝑅(cid:151)	𝑠𝑖𝑛𝛼 
+La surface externe de l’astre correspond à la valeur 𝜒W. Cette métrique est alors :  
+(62)  𝑑𝑠!=(cid:138)	3𝑐𝑜𝑠𝜒W−𝑐𝑜𝑠𝜒
+	(cid:139)!𝑐!𝑑𝑡!−𝑅(cid:151)!(𝑑𝜒!+𝑠𝑖𝑛!𝜒	𝑑𝜗!+𝑠𝑖𝑛!𝜒	𝑠𝑖𝑛!𝜗	𝑑	𝜙!) 
+2
+ Exprimée	à	l’aide	de	la	coordonnée	R	celle-ci	devient	:		
+	(63)								𝑑𝑠!=(cid:154)	%!S1−O,!OX!		−	$!S1−O!OX!	(cid:155)!𝑐!𝑑𝑡!− ’O!$I-!-.!−	𝑅!(𝑑𝜗!+𝑠𝑖𝑛!𝜗	𝑑𝜙!)		
+effet lorsque 𝑐𝑜𝑠𝜒W=	$%	  la pression au centre de l’astre devient infinie.  
+
+Le raccord est assuré avec l’expression de la métrique extérieure (34) 
+ 
+Dans des conditions adaptées par exemple au Soleil et à son voisinage planétaire cet ensemble 
+métrique  intérieure-métrique  extérieure  d’écrit  la  géométrie  sans  la  moindre  singularité, 
+physique ou géométrique. Mais dès 1916 Schwazrschild a envisagé une criticité physique. En 
+
+d’une variable chronologique t. Le passage à une coordonnée radiale correspond à la relation :  
+ 
+
+ 
+
+ 
+
+	
+
+15	
+
+ 
+
+ 
+
+ 
+
+ 
+
+Fig 1 : Evolution de la pression à l’intérieur de l’étoile [22]	  
+
+ 
+Assimilant le fluide à un gaz parfait, Schwarzschild considère que l’équation d’état, à densité 
+
+Schwarzschild associe alors cette remontée de la pression à une variation locale de la valeur de 
+la vitesse de la lumière, selon la relation :  
+ 
+
+𝜌constante, correspond à :  
+(64)                                                        𝑝	=	VP!%  
+(65)                                                      𝑣=	
+!	P
+%P6.Y/IP6.Y	 
+Ce  problème  a  été  évacué  dans  l’ouvrage  Gravitation,  publié  en  1973  par C.W.Misner,	
+K.S.Thorne	et		J.A.Wheeler	[22].	Ces	auteurs	se	fondent	sur	une	valeur	de	la	vitesse	du	son.	
+L’argument	est	invoqué	page	611	de	l’édition	2017	de	l’ouvrage	selon	lequel	cette	vitesse	
+du	son,	croissant	avec	le	gradient	de	pression,	tendrait	vers	l’infini,	et	de	ce	fait	excéderait	
+la	valeur	de	la	vitesse	de	la	lumière,	considérée	comme	une	grandeur	absolue	et	
+invariable.	Or,	si	on	envisage,	à	l’aide	de	cette	métrique,	de	décrire	la	géométrie	à	
+l’intérieur	d’une	étoile	à	neutrons,	un	modèle	à	densité	quasi-constante	est	acceptable.	
+Par	ailleurs	la	température,	au	sein	de	l’étoile,	croît	à	mesure	qu’on	se	rapproche	du	centre	
+et	le	milieu	se	mue	en	un	plasma.	Dans	ces	condition	la	vitesse	de	propagation	de	toute	
+perturbation	devient	la	vitesse	de	la	lumière	c.	Il	est	alors	tout-à-fait	envisageable	
+d’envisager	sa	variation.	C’est	ce	à	quoi	conduit	l’équation	d’Einstein.	Dans	le	modèle	
+
+En 1916, Karl Schwarzschild est donc le premier à envisager, tout tranquillement, une possible 
+variation de la vitesse de la lumière dans les masses !!! 
+ 
+
+ 
+
+16	
+	
+d’étoile	de	Schwarzschild	la	vitesse	de	la	lumière	n’est	pas	une	constante	à	l’intérieur	de	
+la	masse	en	croit	du	bord	vers	le	centre.	Invoquer	la	constance	absolue	de	la	vitesse	de	la	
+lumière	équivaut	à	rejeter	le	modèle	et	par-delà	l’équation	d’Einstein	elle-même	
+lorsqu’elle	est	équipée	de	son	second	membre.		
+	Cette	variation	de	la	vitesse	de	la	lumière	va	de	pair	avec	l’annulation	du	«	facteur	temps	»	
+f		,	en	tant	que	racine	carrée	du	terme	𝑔"".		
+	(66)																																													𝑓	=	(cid:154)	%!S1−O,!OX!		−	$!S1−O!OX!	(cid:155)𝑐	
+	La	courbe	ci-après,	extraite	de	l’ouvrage	Gravitation	[22],	page	611,	donne	la	variation	du	
+facteur	temps.		
+		
+
+	
+
+ 
+L’interprétation  standard  consiste  à  rejeter  ces  variations  des  paramètres  à  l’intérieur  des 
+
+	
+Fig	.	2	:	Evolution		du	time	factor	à	l’intérieur	de	l’étoile	[22]	
+
+	
+	
+masses. On peut cependant écrire, comme l’avait fait pour la première fois Weyl [23]	(voir	
+plus	loin	)		
+(67)                                                       ds = c d𝜏=𝑓	𝑑𝑡 
+à  une  géodésique  à (𝑟,𝜗,𝜙)	constants,  située  à  l’intérieur  de  cette  sphère,  la  longueur  ds, 
+propre 𝜏.   En s’exprimant autrement on pourrait dire « qu’on ne peut « faire demi-tour » sur 
+par le temps propre 𝜏, mais de la coordonnée temps t . Cet aspect sera examiné plus loin dans 
+
+ 
+Envisageons  de  dépasser  légèrement  cette  criticité.  Au  centre  de  l’étoile  apparaît  alors  une 
+région située à l’intérieur d’une petite sphère centrée sur l’origine, où f devient négatif. Si nous 
+envisageons de considérer de prolonger une courbe plongeant dans cette sphère, se raccordant 
+
+une géodésique, sur une ligne d’univers. Ceci entraînerait l’inversion, non du temps, rythmé 
+
+rythmant la progression le long de ces courbes, ne saurait s’inverser, pas plus que le temps 
+
+ 
+
+l’article.  
+ 
+ 
+5 – En 1916, première interprétation géométrique.  
+ 
+
+ 
+
+Il  commence  par  opter  « pour   l’expression  de  la  solution   la  plus  simple »  de  la  métrique 
+
+Le jeune  Ludwig Flamm, envoie son article en septembre 1916, quelques mois après que les 
+deux articles de Schwarzschild aient été publiés. Il donne immédiatement l’interprétation sous 
+la  forme  des  deux  géométries,  se  raccordant  à  la  surface  de  l’astre  en  utilisant  des  coupes 
+
+The spatial part of the line-element is again of a non-Euclidean nature. Once more, due 
+to the spherical symmetry it seems to be enough to restrict the consideration to the 
+metric properties in an arbitrary planar section through the origin, i.e., to ϑ = π . Now  
+one obtains :  
+ 
+
+17	
+	
+successives, à t constant, puis à 𝜗	constant,  ce qui l’amène à étudier un objet bidimensionnel. 
+extérieure de Schwarzschild,  en (	𝑡	,𝑅	,𝜗	,𝜑	)	𝑒𝑡	écrit :  
+(68)                                                 𝑑𝜎Z!=	’O!$I	0-	+	𝑅!𝑑𝜑! 
+Qu’il combine avec l’expression équivalente dans le système ( t , 𝜒 , ϑ, 𝜑) :  
+(69)                                      𝑑𝜎Z!=	𝑅(cid:151)!(	𝑑𝜒!+𝑠𝑖𝑛!𝜒	𝑑𝜑!	) 
+(70)                                          𝑑𝜎Z!=	 ’O!
+P6.!Y	+	𝑅!𝑑𝜑! 
+(71)                                                𝑐𝑜𝑠!𝜒=	1−	HO 
+(72)                                       ’+’O=𝑡𝑔𝜒=	S	 HOI	H					→			𝑧=4𝛼	(	𝑅−	𝛼	) 
+
+Denoting by z the coordinate in the direction of the rotational axis, the equation for 
+the meridional curve follows from 
+
+And he writes, we quote : 
+ 
+
+Soit :  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+This describes a parabola with parameter   p = 2α 
+
+ 
+
+ 
+
+18	
+
+ 
+
+Fig.3 Méridienne parabolique de Flamm [23]. 
+
+conjuguant cet objet avec les rotation selon l’angle  on objet tridimensionnel, qui hérite de cette 
+
+ 
+Cette méridienne de Flamm est obtenue en faisant tourner cette parabole couchée autour de 
+l’axe zz’. C’est un objet 2D non-contractile, composé de deux nappes connecté le long d’un 
+
+cercle de gorge de périmètre 2𝜋𝛼. Cette surface de Flamm relie eux espaces euclidien 2D. En 
+contractibilité, composé de deux nappes 3D, reliées le long d’une sphère de gorge d’aire 4𝜋	𝛼! 
+commun.  Sa topologie est  (	ℝ%−𝐵	)×	ℝ ;   B étant une boule exclue. Après raccordement 
+l’objet était homéomorphe à ℝ&.  
+structure homéomorphe à ℝ&. La méridien est alors :  
+
+, structure qui représente un lien entre deux espaces 3D euclidien. Si on ajoute la translation 
+selon la coordonnée de temps, l’objet 4D qui en résulte conserve cette non-contractibilité et se 
+comporte comme un pont entre deux espaces de Minkowski.  Dans sa construction géométrique, 
+Schwarzschild  construisait l’objet issu de ce coupes de solutions constituées par une métrique 
+intérieure et une métrique extérieure, en raccordant deux variétés à bord se long de leur bord 
+
+ 
+Flamm procède différemment. Ayant construit un objet global, non-contractile, il en prend la 
+moitié et, le connectant à l’objet géométrique décrivant l’intérieur de l’étoile il obtient une 
+
+Fig.4 Méridienne de Flamm [23]. 
+
+ 
+ 
+Mais  Flamm  n’envisage  pas  la  criticité  physique  évoque  par  Schwarzschild.  Celle-ci 
+
+correspond à 𝑐𝑜𝑠𝜒=	$% soit à 70,52 degrés. Cette situation est évoquée dans [22]		page 611.  
+
+ 
+
+	
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+	
+
+19	
+
+Fig.5 : Méridienne en situation de criticité physique [22]. 
+
+ 
+
+ 
+
+ 
+ 
+
+à cette criticité physique, qui implique une variation locale de la vitesse de la lumière, une 
+
+ 
+Avec ce schéma on retrouve immédiatement le fait qu’en accroissant la masse de l’objet la 
+criticité physique survvient avant la criticité géométrique, quand la surface de l’étoile coïncide 
+
+ 
+Continuant  à  évoquer  les  différentes  interprétation  de  la  solution  de  Schwarzschild,  de 
+l’équation d’Einstein dans second membre, invariante par translation temporelle et sous l’action 
+de SO(3), nous passons à un article qui émane également d’un très jeune chercheur, Herman 
+Weyl (en 1917 il a le même âge de Flamm : 32 ans. Einstein en a 5 de plus ). Comme Hilbert, 
+
+avec  la sphère de Schwarzschild, qui correspond à 𝜒=	𝜋/2. Mais encore faudrait-il attribuer 
+réalité physique, ce que les cosmologistes n’acceptent pas [22].  
+6 – 1917 : Hermann Weyl introduit le concept de revêtement [24].  
+il mêle électromagnétisme et gravitation. Partant de world coordinates (	𝑥$,𝑥!,𝑥%,𝑥&)	où 𝑥&	est 
+(73)                                𝑑𝜔=	D𝑔	𝑑𝑥$𝑑𝑥!𝑑𝑥%𝑑𝑥&				,			−𝑔	=det|𝑔4[|    
+(74)                                                   ∫D	𝑔4[𝑑𝑥4𝑑𝑥[	𝑑𝑚 
+(75)                                                𝑑𝑠!=	𝑔4[𝑑𝑥4𝑑𝑥[>0	 
+
+   
+Ce qui indique qu’il compte limiter le domaine de la physique aux cas où l’élément de longueur 
+est réel, ce qu’il précise explicitement, plus loin :  
+ 
+
+la coordonnée chronologique il pose d’emblée que le déterminant de la métrique est négatif.  
+ 
+
+ 
+Il écrit l’action sous la forme :  
+ 
+
+ 
+Avec, en outre : 
+ 
+
+20	
+
+ 
+Ainsi Weyl opte pour ce qui sera plus tard appelé « signature » ( + - - - ). Il note au passage que 
+le calcul peut être mené avec les deux approches :  
+ 
+
+	
+(76)                              𝑑𝑠!=	𝑔&&𝑑𝑥&!−𝑄(	𝑥$,𝑥!,𝑥%	)				,					𝑄>0	 
+(77)                                             𝛿∫𝐹	𝑑𝑠=0																𝛿∫√𝐹	𝑑𝑠=0												 
+solution indépendante de la coordonnée de temps 𝑥&=𝑡		et précise que la forme quadratique 
+(78)                                                           𝑓𝑑𝑡!−𝑑𝜎! 
+where 𝑑𝜎!	 is  a  positive  quadratic  form  of  the  spatial  diﬀerentials 	 whose  coeﬃcients 
+𝑑𝑥$,𝑑𝑥!,𝑑𝑥%	as well as f ,  the square of the speed of light, do not depend on time t.  
+
+ 
+Puisque conduisant à des ensembles d’équations de Lagrange identiques. Il passe ensuite à une 
+
+fondamentale peut alors être mise sous la forme :  
+ 
+
+ 
+Cette fonction f  va s’avérer non-constante. Il est à noter que Weyl désigne explicitement cette 
+quantité comme « the speed of light ». Comme Schwarzschild il envisage donc que cette vitesse 
+puisse varier « à l’intérieur des masses ».  
+ 
+Envisageant la trajectoire des rayons lumineux, il retrouve le principe de Fermat :  
+ 
+
+If we vary the spatial trajectory of the light signal arbitrarily, holding the ends ﬁxed, 
+and imagine that the varied curve be traversed at the speed of light, then F = 0, holds 
+for the original as well as the varied curve and we get: 
+ 
+
+(79)                                      𝛿∫𝑑𝑡=0												𝑜𝑟												𝛿∫’Q√"	= 0  
+
+ 
+
+i.e. F e r m a t’s principle. Time has been eliminated entirely; the last formulation 
+refers only to the spatial path of the light ray and holds for every segment of it, if this 
+segment is varied arbitrarily while keeping its initial and ﬁnal points ﬁxed. 
+
+ 
+On retrouve l’idée centrale de Fermat, selon laquelle la Nature opte pour les chemins les plus 
+courts. Ici la lumière chemine dans ce que Weyl veut considérer comme « l’intérieur d’une 
+masse ». En effet, alors que Flamm reprend ce qu’a fait Schwarzschild en considérant que seule 
+l’union  des  géométries,  extérieure  et  intérieure,  a  un  sens,  Weyl  imagine  que  la  métrique 
+extérieure, considérée alors isolément, pourrait constituer le modèle de ce que pourrait être une 
+masse élémentaire, en tant que structure géométrique particulière, idée qu’Einstein reprendra 
+
+avec  Rosen  en  1934 [25].    Il  entreprend  alors  de  définir  la  géométrie  autour  d’une  masse 
+(80)                                           𝑟=	D	𝑥$!+	𝑥!!+	𝑥%!	 
+(81)                  𝑑𝑠!=𝑓	𝑑𝑥&!−𝑑𝜎!=			𝑓	𝑑𝑡!−ℎ	𝑑𝑟!- 𝑟!(	𝑑𝜗!+𝑠𝑖𝑛!𝜗𝑑𝜑!	) 
+
+ 
+Il fait ensuite la même hypothèse simplificatrice qu’Hilbert en optant pour la forme :  
+ 
+
+ponctuelle, dans une situation stationnaire. Il pose aussitôt :  
+ 
+
+ 
+
+ 
+Et trouve rapidement :  
+ 
+
+ 
+
+solution  s’identifie  donc  à  l’expression  publiée  par  Schwarzschild  avec  la  grandeur 
+intermédiaire  R.  Weyl  décide  alors  d’examiner  la  partie  spatiale  de  la  métrique  et  « en 
+particulier cette correspondant au plan x3 = 0. On retrouve la stratégie de Flamm consistant à 
+
+21	
+	
+(82)                                                        𝑓=	$\=1−	!WF  
+Cette constante d’intégration représentant le « rayon de Schwarzschild » :  𝑅.=2𝑎=	𝛼 . Sa 
+examiner  un  feuilletage  à  t  constant,  puis  une  coupe  à   𝜗=U! .  et  en  posant  cette  fois  
+𝑟=	D	𝑥$!+𝑥!!	.	Il retrouve donc la méridienne parabolique de Flamm :  
+(83)                                              𝑧=	D	8	𝑎	(	𝑟−2𝑎	) 
+Sa  projection  sur  le  plan 𝑧  =  0  ,  dont  les  points  sont  repérés  par  des 
+coordonnées polaires 𝑟 , 𝜗 , couvre deux fois le domaine extérieur au cercle de 
+par les coordonnées 𝑥𝑖 , qui est utilisé pour représenter l’objet, revêtira deux 
+fois 15 la zone correspondant à 𝑟 ≥ 2𝑎. Ces deux revêtements sont séparés par 
+la sphère 𝑟 = 2𝑎, sur laquelle se trouve la masse, et qui est un lieu singulier.  
+
+rayon  2a.  Mais  la  surface  ne  se  projette  pas  à  l’intérieur  de  ce  cercle.  De 
+manière analytique et continue, l’ensemble des points de l'espace réel, repérés 
+
+ 
+Il écrit alors :  
+ 
+
+ 
+
+  Ce qui lui donne :  
+ 
+
+ 
+L’objet géométrique qui, selon Weyl, illustration la solution donnée par Schwarzschild est là-
+encore non-contractile. Mais on voit pour la première fois émerger l’idée d’un revêtement. Dans 
+la représentation obtenue à l’aide de ces coordonnées, aucune dissymétrie n’apparaît. Weyl 
+effectue alors un changement de variable pour obtenir une représentation de l’objet à l’aide de 
+coordonnées  isotropes,  c’est-à-dire  telles  que la  partie  spatiale  de  la  métrique  devienne 
+conforme à la métrique euclidienne. Il obtient ce résultat grâce au changement de variable  
+ 
+
+(84)                                                   𝑟=	]	𝑟∗	+	W!^%$F∗ 
+(85)                     𝑑𝑠!=	]	F∗IW/!
+qui change de signe quand  r*=𝑎/2, c’est-à-dire quand r = 2a, sur la sphère de gorge. Si on 
+la solution  métrique extérieure, présentée dans un colloque le 27 mai 1916 [26],  quelques 
+
+considère deux observateurs immobiles, situés de part et d’autre de cette sphère de gorge, si 
+dans l’une des deux nappe le temps propre ( ds ) et la coordonnée de temps dt sont de même 
+signe, sur l’autre nappe ils sont de signes opposés. Cette inversion de la coordonnée de temps 
+n'apparaissait pas dans les coordonnées de Schwarzschild.  
+ 
+Avant d’envisager la suite, mentionnons que le jeune Droste, élève de Lorentz , avait construit 
+
+F∗)W/!	^!𝑑𝑡!−	]	1+	 W!F∗	^&(	𝑑𝑥$!+	𝑑𝑥!!+	𝑑𝑥%!	) 
+
+ 
+On retrouve la non-contractibilité. Mais dans ce nouveau système apparaît un « facteur temps » 
+
+mois avant la première communication de Schwarzschild, de janvier 1916. Comme Hilbert il 
+simplifie  la  forme  bilinéaire  en  ramenant  la  solution  à  la  construction  de  deux  fonctions 
+inconnues  au  lieu  de  trois,  ce  qui  lui  donne,  à  l’identique,  la  forme  de  la  solution  de 
+Schwarzschild, où on pose R = r.  
+ 
+
+Il est également nécessaire de mentionner la contribution d’Artur Eddington, sous forme d’un 
+
+22	
+	
+livre de plus de quatre cent pages [27], édité en 1921, puis réédité en 1923. Ce document met 
+premier et en 1999 pour le second. Il en est de même pour les articles de Flamm [23]	et	de	
+Flamm	[24].  Encore  aujourd’hui  beaucoup  d’étudiants  et  de  chercheurs  ignorent  encore 
+
+à la disposition des chercheurs du monde entier tous les éléments donnant accès à la relativité 
+restreinte, puis générale, y compris tous les outils de géométrie différentielle, dans ce qui allait 
+très  rapidement  devenir  la  langue  scientifique :  l’anglais.  L’accès  aux  textes  originaux  de 
+Schwarzschild, et de Hilbert, souffrira de plusieurs handicaps : le fait qu’ils soient rédigés en 
+langue allemande et la simple difficulté d’avoir accès à ces documents. Mentionnons que les 
+articles de Schwarzschild n’ont été traduits en anglais que soixante années plus tard pour le 
+
+ 
+Puis il fait, comme Hilbert :  
+ 
+
+l’importance,  et  parfois  même  jusqu’à  l’existence  de  l’article  de  février  1916  décrivant  la 
+géométrie à l’intérieur des masses. Notons que dans son article de décembre 1916 Hilbert ne 
+dit mot sur l’existence de cette seconde solution et qu’il en est de même pour Eddington, en 
+1921.  
+ 
+Celui-ci considère que la forme bilinéaire doit s’écrire :  
+ 
+
+(86)                                  𝑑𝑠!	=	−𝑈(𝑟)𝑑𝑟!−𝑉(𝑟)𝑟!	𝑑Ω!+		𝑊(𝑟)𝑑𝑡! 
+(87)                                                        𝑟$!=𝑟!	𝑉(𝑟) 
+(88)                           𝑑𝑠!=	−𝑈$(𝑟$)𝑑𝑟$!−𝑟$!	𝑑Ω!+	𝑊$(𝑟$)	𝑑𝑡! 
+Arguant que 𝑟	et 𝑟$	sont très proches, dans la réalité physique, d’une longueur euclidienne, il 
+(89) 																																										𝑑𝑠!=	−	𝑒]𝑑𝑟!−𝑟!𝑑Ω!	+	𝑒-𝑑𝑡! 
+
+laisse tomber le suffixe *   et introduit ensuite deux fonctions exponentielle pour signifier que 
+dans le mode réel la signature est invariante :  
+ 
+
+ 
+Puis  il  identifie  son  résultat  avec  ce  qu’il  qualifie  de  présentation  initiale  produite  par 
+Schwarzschild ( en confondant R et r ) .  
+ 
+A  partir  des  années  vingt  la  dynamique  stellaire  se  trouve  enrichie  par  l’apparition  de  la 
+mécanique quantique. Avant la seconde guerre mondiale il a été établi que des étoiles massives, 
+après avoir épuisé leur carburant de fusion, se trouvent dans une situation où les forces de 
+pression cessent brutalement d’être à même de contrebalancer les forces de gravité. L’astre 
+implose alors.  
+ 
+ 
+7 – Comment utiliser une solution stationnaire pour décrire un phénomène hautement 
+instationnaire.  
+ 
+Dans un article de 1939, Oppenheimer et Snyder [28] montrent que si, au cours de son collapse, 
+
+le rayon de l’étoile devient intérieur à la longueur caractéristique de Schwarzschild 𝑅&=	,	-	.	
+/& , le 
+
+phénomène, pour un observateur extérieur, lui paraît se dérouler en un temps infini, et cela alors 
+que l’implosion, mesurée à l’aide du temps propre, se déroule en un temps très bref. Il devient alors 
+possible d’envisager de décrire cette situation en utilisant la métrique extérieure. Si le temps de 
+
+ 
+ 
+
+ 
+
+	
+
+23	
+
+invariante en changeant t en – t. Lorsque c’est le cas la solution est qualifiée de statique. En 
+
+feuillets d’un espace projectif P4 où deux points adjacents sont repérés par le même jeu de 
+quatre coordonnées. Dans le vide les métriques découlent de deux équations qui deviennent 
+similaires et qui se traduisent par la simple nullité des tenseurs de Ricci. Ce qui revient à dire 
+
+dans le vide doit nécessairement être statique, c’est-à-dire être invariante en changeant t en -t , 
+ce qui exclut la présence d’une terme croisé en dr dt . Mais ce théorème prend la forme d’un 
+théorème d’unicité. Cette contrainte cède quand la solution est replacée dans le cadre du modèle 
+
+chute libre d’une particule témoin est, pour l’observateur extérieur, infini, il en est de même 
+pour  le  temps  d’évasion  d’une  particule,  quittant  la  sphère  de  Schwarzschild.  Ainsi  nait  le 
+concept d’horizon des évènements.  
+ 
+ 
+8 – Le problème des termes croisés.  
+ 
+En 1963 Roy Kerr [29] construit la première solution de l’équation d’Einstein sans second membre, 
+avec rotation. Comme dans la solution de Schwarzschild les géodésiques s’inscrivent dans des 
+
+plans 𝜃=𝐶𝑠𝑡	.  La  métrique  contient  alors  un  terme  croisé  en   𝑑𝑟	𝑑𝜑.  Elle  n’est  donc  pas 
+1923  G.D. Birkhoff [30]	montre qu’une solution à symétrie sphérique de l’équation d’Einstein 
+cosmologique Janus [31].  Auquel cas l’espace-temps se présente comme le revêtement à deux 
+qu’en  tout  point  l’équation 𝑅,-=0	doit  engendrer,  non  une  solution  unique,  mais  deux 
+Schwarzschild le changement de variable temporelle introduit en 1924 par A. Eddington [27]	  :  
+(90) 																																												𝑡D=	𝑡+	^	HP	𝐿𝑛§	OH−1	§			𝑤𝑖𝑡ℎ	𝜀=	±1 
+(91)  𝑑𝑠!=	]	1−	𝛼𝑅^𝑐!𝑑𝑡′!−		]	1+	𝛼𝑅^𝑑𝑅!−	2𝜀𝛼𝑐𝑅 𝑑𝑅	𝑑𝑡D−𝑅!	𝑑Ω!										𝜀=±1 
+coordonnées en 𝑅=	𝛼 . Mais il change au passage la façon dont un observateur distant, dont 
+métrique. Comme montré par P.Koiran [32] avec 𝜀=+1	le temps de chute libre d’une particule 
+témoin devient fini, alors que le temps d’évasion est infini. Conclusion inverse pour 𝜀		−1. En 
+
+ 
+La  solution  de  Schwarzschild,  exprimée  à  l’aide  de  cette  nouvelle  coordonnée  temporelle 
+s’écrit :  
+ 
+
+solutions non-indépendantes, décrivant la géométrie de deux régions adjacentes. Il n’y a non 
+plus nécessité d’unicité mais au contraire de « bi-unicité » ou dualité. Une contrainte d’ordre 
+physique  complète  ce  tableau.  En  appliquant  à  la  solution  initialement  produite  par 
+
+ 
+Ce  changement  de  variable  avait  été  initialement  introduit  pour  éliminer  la  singularité  de 
+
+le temps propre se trouve alors identifié à ce nouveau temps t’, perçoit l’objet décrit par cette 
+
+  
+ 
+
+couplant ces deux solutions :  
+ 
+(92)  
+
+𝑑𝑠())!=	]	1−	𝛼𝑅^𝑐!𝑑𝑡′!−		]	1+	𝛼𝑅^𝑑𝑅!−	2𝛼𝑐𝑅 𝑑𝑅	𝑑𝑡D−𝑅!	𝑑Ω! 
+𝑑𝑠(I)!=	]	1−	𝛼𝑅^𝑐!𝑑𝑡′!−		]	1+	𝛼𝑅^𝑑𝑅!+	2𝛼𝑐𝑅 𝑑𝑅	𝑑𝑡D−𝑅!	𝑑Ω! 
+
+ 
+(93)  
+
+ 
+
+24	
+	
+également conserver la même valeur du paramètre 𝜀, mais tenir compte d’une T-symétrie telle 
+
+On obtient une structure de one-way membrane, de wormhole,  où le temps de chute libre est 
+fini dans le premier feuillet, ainsi que le temps d’évasion dans le second. Inversement Les temps 
+d’évasion  dans  le  premier  feuillet  et  de  chute  libre  dans  le  second  sont  infinis.  On  peut 
+
+que la coordonnée de temps se trouve inversée lorsque la particule témoin franchit la sphère de 
+gorge. Dans on montre qu’à cette T-symétrie se joint une P-symétrie et que cette structure 
+géométrique devient un PT-symétrique wormhole [33].  
+ 
+Cette  géométrie  est  une  tentative  de  considérer  la  solution  de  Schwarzschild  extérieure 
+isolément, sans la doter de son complément sous la forme de la solution métrique intérieure. Si 
+on opte cette fois pour cette configuration, ce couple de solution est à même de décrire la 
+géométrique dans, et à l’extérieur d’une étoile à neutrons de faible mouvement de rotation. On 
+sait que nombre d’entre elles sont couplées avec une étoiles compagne, génératrice de vent 
+stellaire. Une étoile à neutron, suffisamment proche, captera alors ces exhalaisons et verra sa 
+masse  lentement  augmenter.  Si  on  suit  les  différents  aspects  de  la  solution  intérieure  de 
+Schwarzschild, en tant que solution exacte de l’équation d’Einstein avec second membre, on a 
+vu que, si on opte pour une densité approximativement constante, c es qui peut être considérer 
+comme acceptable pour une étoile à neutrons, la pression dans celle-ci n’est pas constante. 
+Classiquement  on  considère  que  quand  le  rayon  de  l’étoile  atteint  un  rayon  critique 
+géométrique :  
+ 
+
+(94)                                               𝑅PF4"1Z65=	𝑅.=	!RSP!  
+(95)                                     𝑅PF4"8\*.=	ST	_			𝑅PF4"1Z65=	S	 P!%URV	 
+
+ 
+Mais,  si  on  admet  de  considérer  comme  physique  ce  qui  émane  de  la  solution  métrique 
+intérieure, la pression au centre de l’étoile atteint l’infini pour une valeur inférieure du rayon, 
+et donc de la masse :  
+
+ 
+Les cosmologistes rejettent ce scénario, car il implique une variation de la valeur de la vitesse 
+de la lumière au sein des masses. Si on admet que cette variation soit possible, jusqu’à ce que 
+cette pression atteigne une valeur, sinon infinie, du moins très élevée, son gradient permet alors 
+de s’opposer à la force de gravitation. On obtient alors un corps de Schwarzschild qui, sur le 
+plan  observationnel  présentera  vis-à-vis  d’un  observateur  distant,  un  effet  de  redshift 
+gravitationnel. Celui-ci se traduira alors par un accroissement de la longueur d’onde :  
+ 
+
+(96)           ]D]=	
+
+$>	$I	!12-3!			=	
+
+$
+
+	=	
+
+$>	$I	<=	=3 
+
+‘	$I	!1-3!		)56-3789’:;*
+((
+
+‘	$I	<516-3789’:;*
+!(3!
+
+		=	
+
+$
+
+ 
+Nous  disposons  de  deux  images  des  objets  hypermassifs  M87*  et  SgrA*.  Des  barres 
+chromatiques permettent de chiffrer des températures équivalentes, bien que ces émissions, 
+sychrotron, ne correspondent pas à un rayonnement de nature thermique. Mais ceci nous donne 
+accès  à  des  rapports  de  longueurs  d’onde,  en  considérant  un  phénomène  de  redshift 
+gravitationnel. Les valeurs trouvées sont alors significativement proches de 3.  
+ 
+ 
+
+	
+
+25	
+
+Fig.6 : Images des objets M87* et SgrA* ( [34],	[35]) 
+
+ 
+
+ 
+
+ 
+
+Bien entendu, ces objets ne sont pas « des étoiles à neutrons géantes ». Nous reviendrons sur la 
+question, de leur nature plus loin.  
+ 
+Ce  schéma  suggère  que  les  masses  des  étoiles  à  neutrons  se  trouve  limitées  à  une  valeur 
+inférieure à celle au-delà de laquelle on a considéré que celles-ci se muaient en trou noir. Cette 
+
+masse est indiquée sur les figures 1 et 2, extraites de la référence [22]. Cette masse critique 
+(97)                                              𝑀PF4"8\*.=0.838	𝑀PF4"1Z65 
+
+physique vaut alors  
+ 
+
+ 
+Si on donne à une valeur de 3 masses solaires, dans cette approche la masse maximale des 
+étoiles à neutrons serait aux alentours de 2.5 masses solaires, ce qui n’est pas incompatible avec 
+les quelques valeurs de ces masses issues d’une évaluation directe. Cette valeur se trouverait 
+relevée si on tenait compte de la force centrifuge d’étoiles à neutrons en rotation rapide. Un 
+chiffre qui nécessiterait de pouvoir se baser sur une solution métrique intérieure avec rotation 
+(complément naturel de la métrique de Kerr), ce qui n’a pas été construit à ce jour. On notera 
+qu’une interprétation de la nature ces objets hypermassifs, alternative à celle de trous noirs 
+géants, est celle des gravastars5.   
+ 
+On peut les qualifier « d’objets subcritiques de Schwarzschild ». Mais que se passe-t-il si ces 
+objets bénéficient d’un nouvel apport en masse ? 
+ 
+ 
+9 – Le modèle des plugstars.  
+  
+On peut se concentrer sur une étoile à neutrons subcritique qui recevrait un faible apport en 
+masse émanant d’une étoile voisine. On peut alors étendre la solution métrique intérieure de 
+Schwarzschild  à  une  situation  où  apparaît,  dans  une  petite  sphère  centrée  sur  le  centre  de 
+symétrie du système, une portion d’espace où le time factor devient négatif.  
+ 
+
+5	Des	boules	d’énergie	noire	entourées	d’une	fine	couche	de	matière	sombre	….	
+
+ 
+
+	
+
+26	
+
+Fig.7 : Facteur temps au-delà de la criticité physique. 
+
+ 
+Comme évoqué plus haut cette inversion du facteur temps entraine, en conservant un temps 
+propre positif, une inversion de la coordonnée de temps (T-symétrie), synonyme, d’après la 
+
+théorie des groupes dynamique ([31],	[36],[37])	d’inversion	de	l’énergie	et	de	la	masse. Dans 
+
+la figure ci-après on a représenté la méridienne dans le modèle du trou noir :  
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Fig. 8 La méridienne du modèle du trou noir. 
+
+ 
+Dans le modèle du trou noir on imagine que les géodésiques se poursuivent « à l’intérieur de la 
+sphère de Schwarzschild, en convergeant vers une «singularité centrale ». Effectivement si, au 
+lieu de définir l’action sur l’intégration de ds (28)  on opte pour des courbes qui minimisent le 
+carré de la longueur, avec une action (32) construite avec ds2  on obtient les mêmes équations 
+
+de  Lagrange,  produisant,  sur  un  plan 𝜃=U! ,  des  courbes  réelles,  mais  une  …  longueur 
+imaginaire pure !  Chandrasekhar les présente dans son ouvrage [38], et j’avais été moi-même 
+
+très surpris, en les construisant moi-même, il y a trente ans.   
+ 
+
+27	
+
+	
+
+ 
+
+ 
+
+ 
+
+ 
+
+Fig.8 : Les courbes des géodésiques, « à l’intérieur de la sphère de Schwarzchild », de 
+
+longueur imaginaire pure, mais se projetant dans le, plan ( r , j ) selon des courbes réelles. 
+
+ 
+ 
+Ci-après, les deux méridiennes des deux feuillets, dans une configuration subcritique, selon  le 
+modèle cosmologique Janus (JCM) :  
+ 
+
+ 
+
+Fig. 8 :  Les deux méridiennes des deux feuillets du modèle JCM 
+
+ 
+ 
+Quand un léger apport de masse est opéré, une modification topologique se produit. Le terme 
+technique est une « chirurgie » (surgery), qui permet à la masse en excès de s’échapper, dans 
+le second feuillet.  
+ 
+
+ 
+
+ 
+
+ 
+
+Fig. 9 : Apparition d’une chirurgie 4D mettent les deux feuillets en communication. 
+
+Ces courbes méridiennes ne sont pas des courbes représentant le potentiel gravitationnel. Mais 
+celles-ci auraient des allures similaires, avec une tangente horizontale au centre, une valeur 
+maximale de la pente à la surface de l’astre, correspondant au raccord entre la courbe de Flamm 
+et  l’arc  de  cercle  figurant  la  géométrie  à  l’intérieure  de  la  masse.  Puis  cette  pente  tend 
+progressivement vers zéro à l’infini. Or, si ces courbes représentaient le potentiel gravitationnel, 
+cette pente représenterait la force de gravité. Une image consistant à verser de l’eau sur ces 
+deux surfaces donne une bonne image du phénomène. La matière, transféré dans le second 
+feuillet, est alors repoussée. Quand la matière en excès est évacuée, la condition de subcriticité 
+est rétablie : chirurgie inverse, la « fenêtre » se referme. Celle-ci (en fait une sphère de gorge) 
+s’ouvre et se referme à la manière du diaphragme d’un appareil photographique.  Le système 
+est  donc  autostable.  On  peut  exploiter  le  schéma  de  la  figure  7  en  montrant  l’évolution 
+(parabolique) du diamètre de cette fenêtre.  
+ 
+
+28	
+
+ 
+
+	
+
+ 
+
+ 
+
+	
+
+En abscisse le pourcentage de la masse vis-à-vis de la masse critique géométrique !RSP!  
+
+Fig.9 : Croissance parabolique du diamètre de la sphère de gorge.  
+
+ 
+Le mécanisme ci-après est une bonne image didactique du fonctionnement de ces plugstars.  
+ 
+
+29	
+
+ 
+
+Fig. 10 :Image didactique de l’autostabilité d’un plugstar. 
+
+ 
+ 
+10- Discussion.  
+ 
+L’ensemble  de  cette  étude  soulève  le  problème  de  l’évolution  qu’a  connue  la  cosmologie 
+lorsque  les  travaux  des  pères  fondateurs,  des  années  1915-1917,  après  l’interruption  qu’a 
+représenté la seconde guerre mondiale, ont été repris par des gens comme Wheeler, Thorne et 
+Misner. En 1915 Einstein  construit l’équation de champ qui deviendra la base de la relativité 
+générale. Ce faisant il reconduit la forme, logique, de la forme bilinéaire correspondant à la 
+
+relativité  restreinte : 𝑑𝑠!=	𝑐!𝑑𝑡!−𝑑𝑥!−𝑑𝑦!−𝑑𝑧! .  Mais,  antérieurement  à  1905,  le 
+euclidienne : 𝑑𝑠!=	𝑑𝑥!+	𝑑𝑦!+	 𝑑𝑧!+	 𝑑𝑙! . Pour rendre compte de cette invariance de la 
+vitesse de la lumière il suffisait de supposer que la coordonnée de temps 𝑙=𝑖	𝑡		était imaginaire 
+
+Français Poincaré avait à sa façon rendu compte de de cette « rotation quadridimensionnelle 
+que  représente  l’action  du  groupe  de  Lorentz.  Pour  lui,  la  forme  bilinéaire  devait  être 
+
+pure.  En  1909  le  mathématicien  Minkowski  apporte  un  peu  de  lumière  sur  le  contexte 
+géométrique.  Il  explique  avec  insistance  que  les  quatre  dimensions  de  l’espace-temps  sont 
+toutes de même nature et qu’en somme, le temps ct doit s’évaluer en mètres. La longueur ds 
+s’identifie alors, au facteur c près, au temps propre t . Le fait que la vitesse ne puisse excéder c 
+se traduit par le simple fait d’opter pour une longueur s réelle. Quand la vitesse est supérieure 
+à c, le temps propre devient imaginaire pur. Donc on quitte le monde de la physique.  
+ 
+On  1915,  on  l’a  vu,  quelques  jours  avant  Einstein,  le  grand  mathématicien  David  Hilbert 
+construit une équation de champ semblable à la sienne. Mais il la construit en utilisant les outils 
+du calcul variationnel. Tout cela remonte à Fermat, qui introduit un « principe du moindre 
+temps », montrant que la lumière emprunte le chemin  où la durée de son parcours est minimale. 
+Si la vitesse de la lumière est de 300.000 km/s dans l’air, elle tombe à 200.000 Km/s dans l’eau. 
+D’où ce phénomène étrange de la réfraction et cette loi sin i = n sin r , que l’on peut retrouver 
+en minimisant le temps de parcours, qui n’est pas « le plus court chemin ».  
+ 
+ Avec  la  relativité  restreinte  et  l’apparition  de  l’espace  de  Minkowski,  la  matière  suit  des 
+trajectoires où les quatre coordonnées servant à repérer le point varient toutes linéairement. 
+Autrement  dit,  ce  sont  « des  droites  de  l’espace-temps »,  des  géodésiques,  de  longueur 
+
+	
+
+30	
+
+- 
+
+ 
+En 1915 se conjuguent deux idées géniales :  
+ 
+
+minimale,  s  représentant  cette  longueur.  Comme  c’est  aussi  un  temps,  le  temps  propre,  on 
+retrouve ce principe du « moindre temps » de Fermat.  La forme bilinéaire est une métrique (du 
+Grec  metron,  mesurer).  Mais  dans  cet  espace-temps  existent  alors  des  géodésiques  très 
+particulières,  de  longueur  nulle.  Et  ce  sont  celles  que  suivent  les  photons.  Le  principe  du 
+moindre temps est ainsi poussé à l’extrême : On ne peut pas trouve de temps plus court qu’un 
+temps nul ! Tout cela sonne bien entendu le glas de l’intuition. La métrique de Lorentz est 
+
+solution d’une équation de champ qui se résume alors à la nullité du tenseur de Ricci : 𝑅,- 
+-  La	physique	se	jouent	dans	une	espace	où	les	quatre	coordonnées	sont	«	de	même	
+nature	».		
+	
+-  Les	masses	et	les	photons	obéissent	au	principe	du	«	moindre	temps	».		
+	
+Il	se	trouve	que	ce	temps	est	tout	simplement	la	longueur	4D	dans	cet	espace-
+temps.	Donc	ces	trajectoires	seront	des	géodésiques.		
+	
+-  Qui	dit	géodésique,	dit	principe	de	moindre	action,	donc	existence	d’une	«	action	»,	
+qui	dans	ce	cas	n’est	autre	que	le	calcul	de	l’intégrale	de	ds	le	long	d’un	trajet.	Pour	
+déterminer	ces	géodésiques	on	opèrera	«	une	variation	»,	c’est-à-dire	un	écart	par	
+rapport	au	trajet	déterminée	par	les	valeurs	en	chaque	point	des	coefficients	
+𝑔,-	de	la	métrique	de	cet	espace-temps.	Une	variation	𝛿𝑔,-.		
+	
+En	écrivant	que	cette	variation	entraîne	une	variation	nulle	de	l’intégrale	d’action	Hilbert	
+obtient	une	équation	où	apparaît	le	tenseur	de	Ricci,	qui	appelle		𝐾,-.	Alors,	comment	ça	
+marche	?	Eh	bien	on	se	donne	alors	une	forme	particulière	de	la	métrique,	contrainte	par	
+des	raisons	de	symétrie.		
+	Première	solution,	avec	stationnarité,	homogénéité	et	isotropie.	La	solution	est	alors	la	
+métrique	de	Lorentz,	la	métrique	«	du	vide	».	Mais	l’équation	de	champ	contient	
+un		«	terme	source	»	(tensoriel	pour	que	la	solution	ne	dépende	pas	des	coordonnées)	qui	
+traduit	la	courbure	de	l’espace	dûe	à	la	présence	de	matière.	Alors	la	seconde	solution	
+traduira	une	hypothèse	:	
+	
+-  Stationnarité,	invariance	par	«	translation	temporelle	»	
+	
+-  Symétrie	sphérique.		
+
+On peut opter pour l’idée que cette solution est une « hypersurface 4D » qu’on explorera en 
+construisant ses géodésiques de longueur non-nulle (matière) et nulle (lumière). Quant à la 
+réalité, elle prend un aspect géométrique limpide : le temps propre, la longueur le long des 
+géodésiques  doit  être  réel.  Si  c’est  une  valeur  imaginaire,  c’est  qu’on  n’est  plus  dans 
+l’hypersurface. Mais qui « explore cette hypersurface » ? C’est « un observateur », qui vit sa 
+vie avec son temps propre associé à une exigence, bien subjective dans cet univers où on ne sait 
+pas à quoi s’accrocher, d’immobilité (donc on relègue cet observateur à distance).  
+ 
+La règle du jeu a l’air posée de façon limpide par Hilbert, ce qui tranche avec le bricolage du 
+physicien Einstein, qui a construit son équation de champ vaille que vaille, aidé par son Ami 
+mathématicien Grassman. C’est celui-ci qui lui explique que les tenseurs sont la bonne façon 
+
+	
+
+ 
+
+31	
+
+de traduire ses impensables intuitions. Einstein apprend donc le calcul tensoriel auprès de lui. 
+Mais Einstein roule dans une berline, Hilbert pilote une formule I. Il va même plus loin et sa 
+tentative vise d’emblée à intégrer à la fois la gravitation et l’électromagnétisme (les seules 
+forces connues à l’époque) dans un article ambitieux intitulé « les fondements de la physique ». 
+La première théorie du tout. Hilbert cherche alors à embrasser les aspects mathématiques « dans 
+toute leur généralité ». Une longueur réelle ? Il n’en a cure. Cela serait s’imposer des barrières 
+vis-à-vis d’une exploration mathématique en règle. Et la plus grande généralité impose de ne 
+pas se limiter, au champ du réel. Ce qui existe, ça n’est pas la bête longueur, c’est avant tout 
+l’objet  central,  la  forme  bilinéaire  G  avec  laquelle  on  construira  l’action.  Hilbert  envisage 
+d’emblée que cette forme puisse prendre des valeurs aussi bien positives que négatives. Mais, 
+pour obtenir une longueur positive il va même jusqu’à définir deux formes de longueurs, selon 
+le signe de G !  
+ 
+
+𝐺>0						→						𝜆=	B'𝐺(cid:138)𝑑𝑥.𝑑𝑝(cid:139)	𝑑𝑝																		
+𝐺<0					→							𝜏=	B'−	𝐺(cid:138)𝑑𝑥.𝑑𝑝(cid:139)	𝑑𝑝	
+𝛿B𝐺(cid:138)𝑑𝑥.𝑑𝑝(cid:139)𝑑𝑝=0					𝑒𝑡	𝑛𝑜𝑛		𝛿B'𝐺(cid:138)𝑑𝑥.𝑑𝑝(cid:139)𝑑𝑝=0 
+
+Et l’équation aux variations qui donne les géodésiques est :  
+ 
+
+ 
+Hic jacet leput, c’est là que gît le lièvre ! Le piège étant que ces deux équations aux variations 
+fournissent les mêmes équations de Lagrange, ce que note Weyl dans son papier. Dans une 
+plage des valeurs des coordonnées la forme bilinéaire G est négative, donc la longueur est 
+imaginaire pure. Mais elle redevient réelle si on opte pour la définition ad hoc de la longueur. 
+Et cela, personne ne l’a vu pendant plus d’un siècle ! Hilbert n’est pas physicien. Cet impératif 
+d’un ds2 positif, d’un s réel, il ne le voit même pas. Ce qui l’obsède c’est d’appliquer « le 
+principe  de  Hamilton »  (l’extension  du  principe  de  « moindre  temps »)  à  l’ensemble  de  la 
+physique, grâce à une « fonction d’univers » H = K + L , grâce à laquelle il espère  produire une 
+somptueuse  synthèse  entre  gravitation  et  électromagnétisme.  Il  construit  ainsi  en  1915  son 
+équation de champ sur la base d’une équation de champ à signature euclidienne ( + + + + ). Si 
+des signes doivent changer, pour que cet espace devienne Lorentzien, il suffit qu’une variable 
+soit imaginaire pure, alors sa contribution à la forme bilinéaire change de signe :  
+ 
+
+𝑔&&(𝑑𝑥&)!=	𝑔&&(𝑖	𝑑𝑡)!=	−	𝑔&&𝑑𝑡! 
+
+Et la signature passe de (	+	+	+	+	) à (+	+	+	−	) , et le tour est joué ! 
+
+ 
+La  physique,  pour  Hilbert,  c’est  du  détail.  Mais  personne  ne  voit  rien.  Avez-vous  déjà  lu 
+quelque part, sous la plume d’un physicien théoricien une évocation de ces deux définitions de 
+la longueur ? Jamais !  
+ 
+En  janvier  et  février  1916  ce  très  grand  scientifique  que  fut  Karl  Schwarzschild  intègre  le 
+résultat publié en novembre 1915 en un tournemain. En deux mois il produit, coup sur coup, 
+
+ 
+
+	
+
+32	
+
+des  deux  solutions  métriques  qui  se  raccordent  et  décrivent  là  géométrie  à  l’intérieur  et  à 
+l’extérieur d’une boule fluide emplie d’un matériau incompressible. Mais il définit clairement 
+la variation conduisant aux géodésiques :  
+ 
+
+𝛿B𝑑𝑠	=		0			𝑒𝑡	𝑛𝑜𝑛			𝛿B𝑑𝑠!	=		0				 
+
+ 
+
+ 
+Quand  Hilbert  découvre  cette  solution  exacte  il  ne  saisit  pas  non  plus  la  nuance  et  entend 
+retrouver cette solution à la façon sans écrire un ds2 =  , simplement en partant de la forme 
+bilinéaire.  Et  c’est  là  qu’intervient  quelque  chose  que  même  les  mathématiciens-géomètres 
+d’aujourd’hui n’ont pas perçu. On n’est pas en mesure de choisir la topologie associée à une 
+solution  métrique  associée  à  l’équation  d’Einstein.  La  solution  dicte  la  topologie  qui  lui 
+convient. Comment découvrir cette topologie ? En optant pour un jeu de variable où la longueur 
+devient réelle, pour toutes les valeurs de celle-ci. A titre d’exemple, considérons la métrique :  
+ 
+
+𝑑𝑠!=	𝑑𝑅!1−	HO+	𝑅!𝑑𝜑! 
+𝑅=	(	𝑟%+	𝛼)$/%		
+𝑟&𝑑𝑟!
+
+ 
+Il vient :  
+ 
+
+ Avec a  positif. Pour R < a la	longueur	devient	imaginaire.	Donc	on	est	en	dehors	de	la	
+surface.	Faisons	:		
+𝑑𝑠!=	
+
+[	(	𝑟%+	𝛼%)$/%−	𝛼	](	𝑟%+	𝛼%)$/%+	(	𝑟%+	𝛼%)!/%𝑑𝜑! 
+
+ 
+Pour r > 0  la longueur devient réelle, mais on constate que cette objet 2D ( une surface ) est 
+
+non-contractile avec un périmètre minimal égal à 2𝜋𝛼.  
+𝑅=	𝛼	(	1+𝐿𝑜𝑔	𝑐ℎ𝜌) 
+𝑑𝑠!=	𝛼!	(	1+𝐿𝑜𝑔	𝑐ℎ𝜌	)
+𝐿𝑜𝑔	𝑐ℎ𝜌
+
+ 
+Envisageons un autre changement de variable :  
+ 
+
+ 
+C’est mieux. L’objet est toujours contractile la nouvelle variable peut prendre n’importe quelle 
+
+	𝑠ℎ!𝜌	𝑑𝜌!+	𝛼!(	1+𝐿𝑜𝑔	𝑐ℎ𝜌	)! 
+valeur réelle. On peut montrer en outre que cette surface est plongeable dans ℝ%  et que cet 
+objet de révolution (invariant par translation selon  𝜑) a pour méridienne :  
+𝑅!=	𝛼		𝑧!4𝛼 
+
+ 
+C’est la surface de Flamm. Il se trouve que celle-là on peut la « voir », c’est-à-dire la plonger 
+dans notre espace de représentation 3D, ce qui n’est pas le cas pour tout objet 2D défini par sa 
+métrique. . La conclusion était que la topologie de cet objet était « contenu dans sa métrique », 
+à condition de s’imposer que cette longueur soit réelle. Mais Hilbert ne s’impose pas cette 
+condition,  et  ses  successeurs  s’imagineront  pouvoir  « étendre  la  solution  à  tout  l’espace-
+
+Il vient :  
+
+ 
+
+33	
+
+ 
+
+temps »,  un  espace  a  priori  non-contractile. L’ensemble  de  l’espace-temps  contient  donc  a 
+priori, pour ces gens, les valeurs R <  a .   
+ 
+Quand Hilbert intègre ce qu’il croit être « la solution de Schwarzschild, de janvier 1916, il opte 
+pour un changement de variable où les deux termes matérialisant la symétrique sphérique sont :  
+ 
+
+Il a le droit de faire n’importe quel changement de variable. Pour lui R et 	sont automatiquement 
+
+𝑟∗!	𝑑𝜃!+𝑟∗!	𝑠𝑖𝑛!𝜃	𝑑𝜑! 
+
+différentes formes de « variables radiales » sans percevoir la contractilité. En R = il voit « une 
+singularité », et ce n’est que plus tard qu’on finira pas comprendre que ça n’est pas une « vraie » 
+singularité mais une « singularité de coordonnées » qui peut être éliminée par un changement 
+de  coordonnées.  La  dimension  topologique  lui  reste  étrangère.  Il  perçoit  ce  lien  entre  sa 
+« coordonnée  radiale »  et  la  coordonnée  r  de  Schwarzschild  que  comme  « un  moyen  pour 
+ramener la singularité à l’origine.  
+ 
+La symétrie envisagée n’est pas « une symétrie sphérique » ( invariance par action de SO(3) ) 
+mais une « symétrie centrale ». Sauf que ce «centre » n’est pas dans l’objet. De même que l’axe 
+d’un tore n’est pas dans le tore.   
+ 
+Ni  lui  ni  ceux  qui,  dans  l’après-guerre,  créeront  cette  « cosmologie  moderne »  n’attachent 
+d’importance à la métrique intérieure de Schwarzschild. La situation bascule en 1939 quand 
+Oppenheimer  et  Snyder  utilisent  la  solution  stationnaire  de  Schwarzschild  pour  décrire  le 
+phénomène hautement instationnaire de l’implosion d’une étoile massive en jouant sur le fait 
+que « pour un observateur distant » ce phénomène dure un temps infini. Cela devient l’acte de 
+naissance du modèle du trou noir.  
+ 
+Dans l’après-guerre, si Oppenheimer est trop occupé par le procès qu’in lui fait, devant son 
+refus de doter les USA de la bombe à hydrogène (ce que fera Edward Teller, en l’appelant « my 
+baby ») Wheeler tente de compléter le modèle. Pour ce faire il faut trouver le moyen de décrire 
+la géométrie « à l’intérieur de la sphère de Schwarzschild ». En 1960 le mathématicien Kruskal 
+
+[39]	construit un « prolongement analytique » qui permet de passer des variables r et t à un 
+
+couple v et u tel que la métrique s’écrit :  
+ 
+
+  
+Censée fonctionner en amont et en aval de la sphère de Schwarzschild avec un changement de 
+variable « amont » et « aval ».  
+ 
+A l’extérieur de la sphère :   
+ 
+
+𝑑𝑠!=𝑓!	(	𝑑𝑣!−𝑑𝑢!	)−𝑅!	𝑑Ω! 
+𝑢=	(cid:138)	𝑅𝛼−1(cid:139)Ha𝑒aO	𝑐ℎ	𝜂𝑥# 
+𝑣=	(cid:138)	𝑅𝛼−1(cid:139)Ha𝑒aO	𝑠ℎ	𝜂𝑥# 
+
+« A l’intérieur » : Tapez	une	équation	ici. 
+
+ 
+
+	
+
+ 
+
+ 
+
+34	
+
+	
+
+ 
+
+𝑣=	(cid:138)	1−	𝑅𝛼	(cid:139)Ha𝑒aO	𝑐ℎ	𝜂𝑥# 
+𝑣=	(cid:138)	1−	𝑅𝛼	(cid:139)Ha𝑒aO	𝑠ℎ	𝜂𝑥# 
+𝑓!	= 𝛼𝜂!𝑅	(cid:138)	𝑅𝛼−1	(cid:139)$I!Ha𝑒I	HO 
+𝑓!	= 𝛼𝜂!𝑅	(cid:138)	1−	𝑅𝛼	(cid:139)$I!Ha𝑒I	HO 
+
+ 
+
+ 
+
+ 
+Ceci donne à la fonction f  la forme :  
+ 
+A l’extérieur :  
+
+ 
+« A l’intérieur » :  
+
+ 
+A l’extérieur :  
+
+ 
+« A l’intérieur » :  
+
+ 
+
+ 
+
+ 
+
+ 
+
+Comment faire pour que les facteurs  ]	OH−1	^$I!Ha	et ]	1−	OH	^$I!Ha		deviennent égaux ?   
+Il suffit que l’exposant soit nul grâce à  𝜂=	H!		, alors ces relations deviennent : 
+𝑓!	= 𝛼𝜂!𝑅	(cid:138)	𝑅𝛼−1	(cid:139)+éF6			𝑒I	HO=	 𝛼𝜂!𝑅	𝑒I	HO 
+𝑓!	= 𝛼𝜂!𝑅	(cid:138)	1−	𝑅𝛼	(cid:139)+éF6			𝑒I	HO=	 𝛼𝜂!𝑅	𝑒I	HO 
+𝑓!	= 𝛼𝜂!𝑅	(	𝑧é𝑟𝑜	)+éF6			𝑒I	HO=	 𝛼𝜂!𝑅	𝑒I	HO 
+𝑓!	= 𝛼𝜂!𝑅	(𝑧é𝑟𝑜		)+éF6			𝑒I	HO=	 𝛼𝜂!𝑅	𝑒I	HO 
+
+Très bien, mais que se passe-t-il quand   𝑅=	𝛼 ?  
+
+ 
+Il vient, à l’extérieur :  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+« A l’intérieur » :  
+
+ 
+Il faut alors accepter que, sur la sphère de Schwarzschild  
+ 
+
+0#=1 
+
+35	
+
+	
+
+ 
+
+ 
+
+ 
+ 
+Au résultat les changements de variable deviennent :  
+ 
+A l’extérieur de la sphère :   
+ 
+
+𝑢=	(cid:138)	𝑅𝛼−1(cid:139)$/!𝑒-!0	𝑐ℎ	𝜂𝑥# 
+𝑣=	(cid:138)	𝑅𝛼−1(cid:139)$/!𝑒-!0	𝑠ℎ	𝜂𝑥# 
+𝑣=	(cid:138)	1−	𝑅𝛼	(cid:139)$/!𝑒-!0		𝑐ℎ	𝜂𝑥# 
+𝑣=	(cid:138)	1−	𝑅𝛼	(cid:139)$/!𝑒-!0		𝑠ℎ	𝜂𝑥# 
+
+ 
+
+« A l’intérieur » :  
+ 
+
+ 
+Cette démarche demandera un examen à la loupe, en compagnie de mathématiciens. Toujours 
+est-il  que,  s’appuyant  sur  ce  résultat,  Wheeler,  Thorne  et  Misner,  qui  très  probablement 
+ignoraient  l’existence  même  du  second  article  de  Schwarzschild  à  l’époque,  entreprirent  la 
+première  rédaction  de  ce  qui  allait  devenir  la  « bible »  de  la  cosmologie,  leur  ouvrage 
+
+« Gravitation »	[22]  où  on  peut  lire  « qu’à  l’intérieur  de  la  sphère  de  Schwarzschild  la 
+
+coordonnée temporelle devient donc la variable r ! ».  
+ 
+Le  plugstar  est  un  modèle  qui  exploite  cette  métrique  intérieure.  On  notera  qu’en  tant  que 
+solution exacte de l’équation d’Einstein elle fait état d’une variation immédiate de la pression, 
+nulle à la surface de l’étoile. Une pression qui n’est qu’une lettre p dans l’expression du tenseur 
+source. Cette augmentation de pression, si elle est modérée, peut être considérée comme due à 
+la croissance d’une vitesse d’agitation thermique, en assimilant le fluide à un gaz parfait, selon :  
+ 
+
+𝑝=	𝜌<𝑣!>3
+
+ 
+
+ 
+Mais quand cette pression tend, sinon vers l’infini, du moins vers des valeurs très élevées cela 
+signifierait que la vitesse d’agitation thermique ( qui est aussi la vitesse du son dans le milieu ) 
+excéderait une valeur de la vitesse de la lumière considérée comme constante. Wheeler, Thorne 
+et Misner choisissent alors de considérer que cette partie de la solution n’est plus physique. 
+Schwarzschild va alors, en février 1916, envisager que cette vitesse puisse varier. Donc un est 
+face à un choix :  
+ 
+
+-  Soit	on	se	range	à	l’argument	de	Wheeler	et	on	délaisse	le	modèle	des	plugstars	
+	
+-  Soit	on	suit	Schwarzschild.	Un	objet	subcritique	apparait	alors,	présentant,	vis-à-
+vis	des	observations,	un	effet	de	redshift	gravitationnel	où	le	rapport	des	longueurs	
+d’onde	est	pile	3.	Or	c’est	ce	qui	ressort	très	précisément	des	observation	de	M87*	
+et	de		SgrA*.	Une	coïncidence	qui	mérite	examen.		
+
+	
+
+36	
+
+On remarquera que ces objets auraient alors une symétrie sphérique. Ceci exclut qu’ils puissent 
+avoir été formés par accrétion, par réunion de « trous noirs plus légers ». On entendra alors 
+parler de « trous noirs primordiaux ». A moins qu’on n’avance l’idée que des objets « arrivent 
+à passer au travers du Big Bang et soient des reliquats d’évènement antérieurs. Nous pensons 
+qu’ils résultent de la focalisation d’inde onde de densité, créée par des fluctuations conjointes 
+des métriques du modèle Janus. L’image de la galaxie découverte par Hoag dans les années 
+cinquante, suggère cette structure d’onde de densité annulaire :  
+ 
+ 
+
+ 
+
+Fig. 11 : Galaxie de Hoag 
+
+ 
+
+ 
+ 
+Dans une onde de densité ce n’est pas la matière qui se déplace, mais l’onde. Le saut de densité 
+donne naissance à la naissance de nouvelles étoiles qui, émettant dans l’ultraviolet, rendent le 
+gaz interstellaire émissif par fluorescence. L’onde est comparable à la vague d’un tsunami, qui 
+se renforce près des côtes. Parvenue au centre galactique, l’onde entraîne un saut de densité et 
+de  température,  qui  crée  les  conditions  de  Lawson  dans  un  volume  (réactions  de  fusion). 
+L’énergie émise donne naissance à un quasar.  
+ 
+Dans les ondes de densité le gaz interstellaire et ionisés, particulièrement dans les « régions 
+HII »  entourant  les  étoiles  émissives.  Le  milieu  possède  alors  une  conductivité  électrique 
+
+𝜎	élevée. Les galaxies possèdent un champ magnétique faible dont l’ordre de grandeur est un 
+
+microgauss. Le mouvement des ondes de densité s’accompagne d’un « effet dynamo » dont 
+l’intensité dépend de plusieurs paramètres. On a une vitesse caractéristique V , à laquelle on 
+peut  attribuer  plusieurs  valeurs,  dont  la  vitesse  de  propagation  des  ondes  de  la 
+magnétohydrodynamique, les ondes d’Alfven. Il y a aussi une longueur L caractéristique où on 
+peut prendre la largeur de d’onde. On considère alors un nombre de Reynolds caractéristique  
+ 
+
+Où 𝜇#=4𝜋	10Ic		est la perméabilité magnétique du vide. L’évaluation a déjà été faite pour les 
+
+𝑅5=	𝜇#	𝜎	𝑉	𝐿	 
+
+bras spiraux des galaxies. En jouant sur les différentes grandeurs caractéristiques on trouve que 
+ce nombre est couramment supérieur à l’unité. Le champ et le plasma sont donc liés. Les ondes 
+de densité spirales ne changent guère l’intensité du champ, et ne vont que distordre sa géométrie 
+azimutalement. Par contre une onde centripète, si l’a formation annulaire de la galaxie annulaire 
+correspond à ce cas, rassemble ces lignes de champ vers le centre de la galaxie. La conservation 
+
+ 
+
+	
+
+37	
+
+du flux magnétique entraîne une très forte remontée de la valeur de ce champ. Au moment où 
+le  quasar  se  forme  ce  champ,  dipolaire,  entraîne  une  émission  de  plasma  selon  deux  jets, 
+perpendiculaires au plan de la galaxie. Cette configuration a récemment été conformée pour un 
+nombre significatif de galaxies.  Ce plasma est émis dans un champ magnétique décroissant 
+avec  la  distance.  Cette  configuration  se  comporte  alors  comme  un  accélérateur  naturel  de 
+particules, sur des distances considérables, ce qui est susceptible de leur conférer des énergies 
+tout-à-fait comparables à celle des « rayons cosmiques ». Par ailleurs ces jets sont « tiretés », 
+ce qui suggère des reprises d’activité récurrentes.  Pour l’objet M87* cette période est évaluée 
+à 6 millions d’années, avec une très forte activité il y a 70 millions d’années. On peut donc 
+supposer que des fluctuations conjointes des métriques en sont la cause, chacun entraînant la 
+création d’onde onde de densité qui, parvenant au contact de l’objet, produit non un apport de 
+matière, mais un sursaut de densité et de température, avec relance de la fusion et de l’émission 
+de  plasma.  L’objet  hypermassif  central  alors  « reprend  vie »,  redevient  émissif  pendant 
+quelques millions d’années, un temps bref vis à vis des phénomènes généraux à l’œuvre dans 
+le cosmos.  
+ 
+Seule une modélisation de fluctuations conjointes des métriques permettrait d’apporter plus de 
+lumière  à  ce  phénomène.  On  pourrait  alors  le  considérer  comme  une  forme  de  turbulence 
+altérant le phénomène de l’expansion cosmique. De même que les astrophysiciens sont en train 
+de découvrir que le processus d’expansion, loin d’obéir à une hypothèse d’isotropie, dépend du 
+lieu considéré, de même l’activité liée à cette turbulence pourrait différer d’une région à l’autre.  
+Plus intense dans la région où se situe la galaxie M87, elle pourrait être plus faible, voire quasi 
+inexistante, dans la région où se trouve la voie lactée et ses proches voisines. Si la présence 
+d’objets  hypermassifs  semble  être  une  loi  générale  pour  les  galaxies,  avec  formation  d’un 
+quasar central, au moment même de leur formation, pour certaines galaxies, comme la nôtre,  
+l’objet central serait alors comparable à un quasar éteint.  
+ 
+ 
+References : 
+ 
+[1] K. Schwarzschild : Über das Gravitationsfeld Messenpunktes nach der Einsteinschen 
+Theorie. Sit. Deut. Akad. Wiss. 1916 
+English translation by S.Antoci and A.Loinger. On the gravitational field of a mass point 
+according to Einstein theory. arXiv :physics/9912033v1 [physics.hist-ph] 16 dec 1999.  
+ 
+[2]  K.  Schwarzschild :  Über  das  Gravitionalsfeld  einer  Kugel  Aus  incompressibler 
+Flüssigkeit nach der Einsteinschen Theorie. Sitzung der phys. Math. Klasse v.23 märz 1916 
+English translation, by S.Antoci.  On the gravitational field of a sphere of incompressible 
+fluide  according  to  Einstein  theory.  arXiv :physics/9905030v1  [physics.hist-ph]  12  may 
+1999.  
+
+ [3]	Einstaedt.	J	:	La	relativité	générale	au	tournant	des	années	soixante.	(2011)	
+Philosophia	Scientia	15-3-2011	:	L’espace	et	le	temps.	Studies	of	history	of	science	and	
+Philosophy	
+	[4]	Voigt,	W.	(1887).	 Ueber	 das	 Doppler’sche	 Princip.	Nachrichten	der	Königlichen	
+Gesellschaft	der	Wissenschaften	zu	Göttingen,	1887,	41-51.	
+
+38	
+	
+		[5]	Lorentz,	H.A.	(1892).	"La	Théorie	électromagnétique	de	Maxwell	et	son	application	
+aux	corps	en	mouvement".	 Verslagen	 Koninklijke	 Akademie	 van	 Wetenschappen	 te	
+Amsterdam,	1,	74-79.	
+
+[6] Lorentz, H.A. (1895). Versuch einer Theorie der elektrischen und optischen Erscheinungen 
+in bewegten Körpern. Leiden: E.J. Brill. 
+[7] Lorentz, H.A. (1892). "La Théorie électromagnétique de Maxwell et son application aux 
+corps en mouvement". Verslagen Koninklijke Akademie van Wetenschappen te Amsterdam, 1, 
+74-79. 
+[8] Lorentz, H.A. (1895). Versuch einer Theorie der elektrischen und optischen Erscheinungen 
+in bewegten Körpern. Leiden: E.J. Brill. 
+
+[9]  Poincaré,  H.  « Cinquième  complément  à  l'Analysis  Situs ».  Rendiconti  del  Circolo 
+Matematico di Palermo, vol. 18, 1904, pp. 45-110. 
+[10] Einstein, A. (1905). « Zur Elektrodynamik bewegter Körper ». Annalen der Physik, 17,  
+[11] Poincaré, Henri. « Sur la dynamique de l'électron ». Rendiconti del Circolo Matematico di 
+Palermo, vol. 21, 1906, pp. 129-176. 
+[12] Minkowski, H. (1908). Die Grundgleichungen für die elektromagnetischen Vorgänge in 
+bewegten  Körpern.  Nachrichten  von  der  Gesellschaft  der  Wissenschaften  zu  Göttingen, 
+Mathematisch-Physikalische Klasse, 53–111. 
+[13] Minkowski, H. (1909). Raum und Zeit. Physikalische Zeitschrift, 10, 104–111. 
+[14] Einstein, A. ; Grossmann, M. (1913). "Entwurf einer verallgemeinerten Relativitätstheorie 
+und einer Theorie der Gravitation" [Outline of a Generalized Theory of Relativity and a Theory 
+of Gravitation]. Zeitschrift für Mathematik und Physik (in German). 62: 225–261, 245–261. 
+
+	[15]	D.Hilbert.	Die	Grundlagen	der	Physik	(Esrte	Mitteilung).	Nachrochten	von	der	
+Gesellschaft			der	Wissenschaften	zu	Göttingen.	Mathematisch-ohysikalische	Klasse.	(20	
+nov1915)	395-407.		
+	[16]	A.	Einstein	:	Die	Feldgleichungen	des	Gravitation	(	The	Field	Equation	of	
+Gravitation).	Sitzungsber.	XLIV	,	8	,	778	and	XLVI	s.	799	(	25	nov	1915)	
+	[17]	Mie,	G.	(1912).	Zur	kinetischen	Theorie	der	einatomigen	Körper.	Annalen	der	
+Physik,	37(12),	511–534.	
+	[18]	 A.Einstein :  Erlklärung  der  Perihelbeweggung  des  Merkur  aus  allgemeinen 
+	[19]	Tilman	Sauer.	The	Relativity	Discovery	:	Hilbert’s	First	Note	on	Foundations	of	
+Physis.		26	nov.	1998.	https://arxiv.org/pdf/physics/9811050.pdf	
+	
+
+Relarivitätstheorie. 
+Preubische 
+(Berlin)  Sitzungberichet (25 nov. 1915) p. 831-838 
+
+der  Wissenschaften 
+
+Akademie 
+
+Königlish 
+
+to	 Einstein	
+
+[23] Ludwig Flamm. Beiträge zur Einsteinschen Gravitationstheorie, Physikalische Zestschrift 
+
+39	
+	
+[20]	Hilbert.D.	Die	Grundlagen	der	Physik	(Erste	Mitteilung).	Nachrochten	von	der	
+Gesellschaft			der	Wissenschaften	zu	Göttingen.	Mathematisch-physikalische	Klasse.	
+(1916)	
+		[21]	K.	Schwarzschild	:	Über	das	Gravitionalsfeld	einer	Kugel	Aus	incompressibler	
+Flüssigkeit	nach	der	Einsteinschen	Theorie.	Sitzung	der	phys.	Math.	Klasse	v.23	märz	
+1916.	English	translation,	by	S.Antoci.		On	the	gravitational	field	of	a	sphere	of	
+incompressible	
+theory.	 arXiv	:physics/9905030v1	
+fluid	 according	
+[physics.hist-ph]	12	may	1999.		
+	[22]	C.W.Misner,	K.S.Thorne,	J.A.Wheeler.	Gravitation.Princeton	University	Press.	2017.	
+	
+XVII (1916) pp. 448-454. Reprint by Gen. Relativ. Gravit. Contributions	to	Einstein’s	theory	
+of	gravitation (2015) 47:72 DOI 10.1007/s10714-015-1908-2 
+	[24]	Weyl.	H	.	Zur	Gravitationtheorie.	Reprinted	in	2012.	General	Relativity	and	
+Gravitation	44:	779-810.	DOI	10.1007/s10714-011-13107	
+	[25]	A.Einstein	and	N.Rosen	:	The	particle	problem	in	general	theory	of	relativity.	Physical	
+Review	110	(4)	:	73-77.	1935	
+	[26]	Droste	J.		The	field	of	a	single	centre	in	Einstein’	theory	and	le	motion	of	a	particle	in	
+that	field.	KNAW	Proceedings,	19	I	,	1917	Amstermam,	pp/	197-215.	Communicated	in	
+the	meeting	og	May	27,	1916.		
+	[27]	Eddington	A.	The	Mathematical	Theory	of	Relativity.	Cambridge	University	Press,	
+1923.	Second	edition	:		1924.		
+	
+[28] J.R.Oppenheimer	and	H.Snyder	: On Continued Gravitational Contraction. Phys. Rev. Vol. 
+	
+[29] R.Kerr	:	Gravitational	Filed	of	a	Spinning	Body	as	an	Example	of	Algebraic	Special	
+Metrics.	Physical	Letters	11,	237	1	sept.	1963	
+	[30]	G.D.	Birkhoff	:	Relativity	and	modern	physics.	Cambridge	Harvard	University	Press.	
+	[31]	J.P.Petit,	F.Margnat,	H.Zejli	:	A	bimetric	cosmological	model	on	Andreï’s	twin	universe	
+approach.	The	European	Physical	Journal.	Vol.	84	:N°1126	(2024)	
+	[32]	P.Koiran	:	Infall	Time	in	the		Eddington-Finkelstein	Metric,	with	Application	to	
+Eddigton-Rosen	Bridges.		Inter.	Jr.	of	Mod.	Phys.	D,	14	aug.	2021,		to	be	published.		
+https://arxiv.org/abs/2110.05938		
+	[33]	P.Koiran,	H.Zejli,	J.P.Levy,	F.Margnat,	MF.	Duval	:	PT-symmetry	in	one-way	
+wormholes.	Annals	of	Physics,	Vol.	470,	November	2024,	169765	
+	
+
+56 pp 455-459 sept 1939.https://journals.aps.org/pr/pdf/10.1103/PhysRev.56.455 
+
+40	
+
+	
+[34]	First	M87	Event	Horizon	Telescope	Results.	I..	The	Shadow	of	the	Supermassive	
+Black	Hole.	K.	Akiyama,	A.Alberdi,W.Alef,K.Asada,	R.Azulay,	A.K.Bcako,	D.Ball,M.	
+Balakovic,	J.	Barrett.		Astrophysical	Journal,	vo.	875,	n°1,2019	
+	[35]First	Sagittarius	A*	Event	Hirizon	Telescope	Results.	I.	The	Shadow	of	the	
+Supermassive	Black	Hole	in	the	Center	of	the	Milky	Way.	K.	Akiyama,	A.Alberdi,	W.	Alef,	
+J.C.Algaba,	E.	Anantua,	K.	Asada,	R.	Azulay,	U.	Bach,	A.K.Backo.	The	Astrophysical	Journal	
+Letters,	vol.	930,	number	2.	2022.	DOI	10.3847/2041-8213/ac6674	
+	[36]	J.M.Souriau	:	Structure	des	systèmes	dynamiques.		Dunod	Ed.	France,	1970	and	
+Structure	of	Dynamical	Systems.	Boston,	Birkhaüser	Ed.	1997	
+	[37]	J.P.Petit,	H.Zejli	:	Study	of	symmetries	through	the	action	on	torsors	of	the	Janus	
+symplectic	group.	Reviews	in	Mathematical	Physics.	Vol.	37,	n001,	244004.		
+https://www.worldscientific.com/doi/epdf/10.1142/S0129055X24500545	
+	[38]	S.Chandrasekhar	:The	Mathematical	Theory	of	Black	Holes.	Okford	University	Press	
+1992	
+	[39]	 Kruskal.  M.D. :  Maximal  extension  of  Schwarzschild  metric.  Phys.  Rev.  119,  1734  
+	
+
+(1° sept 1960).  
+
+ 
+ 
+
+

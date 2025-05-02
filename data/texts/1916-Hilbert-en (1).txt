@@ -1,0 +1,5139 @@
+Translation	of	the	article	published	in	1916	by	D.Hilbert,	entitled	
+
+	
+	"Foundations	of	physics",		
+with	corrections	
+J.P.PETIT1	
+
+	Foreword	:		
+Written	more	than	a	century	ago	by	the	mathematician	David	Hilbert,	this	article	
+represents	an	essential	element	for	those	who	want	to	understand	the	genesis	of	the	
+theory	of	general	relativity	as	well	as	the	interpretation	he	gives	of	the	exact	solutions	
+published	by	Karl	Schwarschild	eleven	months	earlier.	It	also	sheds	light	on	the	author's	
+conception	of	the	geometry	of	space-time,	considered	as	an	extension	of	a	three-
+dimensional	physical	space	by	means	of	a	pure	imaginary	time.	This	article	is	one	of	the	
+chapters	of	a	book	published	in	2007	in	Boston	Studies	in	the	Philosophy	of	Science,	vol	
+250.	
+This	book	is	offered	for	sale	as	an	e-book	for	€	630.23	and	as	a	harcover	book	for	€	
+788.77.	It	contains	this	article	in	the	form	of	a	chapter,	which	can	then	be	acquired	for	
+29.94.		
+	This	translation	contains	several	important	errors	that	we	will	point	out.		
+On	the	basis	of	the	bilinear	form	(28),	page	1017,	Hilbert	introduces	on	page	1018	two	
+different	real	lengths	λ	and	τ,	according	to	the	sign	of	this	bilinear	form,	the	second	
+being	the	proper	time	τ.	On	page	1022	he	introduces	which	he	calls	the	 Gaussian	
+coordinate	system,	now	well	known	to	all	theorists	and	geometers.	In	the	translation	one	
+can	read:	(33)																																								  
+which	is	obviously	a	big	mistake.	It	should	read:		
+(33)																																								  
+	Page	1027	endows	what	he	calls	pseudo	geometry	with	four	coordinates,	the	fourth,	the	
+time	coordinate,	being	imaginary:		
+On	page	1029	he	takes	up	the	stationary	solutions,	invariant	by	the	action	of	SO(3),	
+constructed	by	Einstein	in	Schwarzschild.	He	specifies	his	hypotheses,	we	quote	him		;		
+																																																								
+1	jean-pierre.petit@manaty.net	
+
+w1 = x1
+  
+
+w4 = i x4
+
+w2 = x2
+
+g22 = 0
+
+g22 = 0
+
+g44 = 0
+
+w3 = x3
+
+g44 = 1
+
+g33 = 0
+
+g33 = 0
+
+g11 = 0
+
+g11 = 0
+
+		
+
+		
+
+	
+
+gµν	are	the	following	:		
+
+The	assumptions	about	the	 
+1	–	The	metric	is	represented	in	a	Gaussian	coordinate	system,	except	that	
+x4	is	left	artbitrary.	i.e.	we	have		
+	
+	2	–	The	 
+gµν	are	independent	of	the	time	coordinate	x4.		
+gµν	are	centrally	symmetric	with	respect	to	the	origin	of	
+3	–	The	  
+coordinates.		
+					According	to	Schwarzschild	the	most	general	metric	conforming	to	
+these	assumptions	is		represented	in	polar	coordinates,	where		
+
+g14 = 0
+ 
+
+g24 = 0
+
+g34 = 0
+
+w1 = r cosϑ
+
+w2 = r sinϑ cosϕ
+
+w3 = r sinϑ sinϕ
+
+	
+
+w4 = l
+  
+
+All	calculations	done	the	line	element	is	presented	on	page	1033.	We	quote:		
+
+Then,	for	l	=	it		(43)	result	in	the	desired	metric	in	the	form	first	found	by	
+Schwarzschild		
+Second	error.	It	should	read:		
+
+G( dr ,dϑ, dϕ, dl ) =
+  
+
+dr 2 + r 2dϑ2 + r 2sin2ϑ dϕ2 −
+
+r − α
+
+r − α
+
+r
+
+r
+
+G( dr ,dϑ, dϕ, dl ) =
+  
+
+r
+
+r − α
+
+dr 2 + r 2dϑ2 + r 2sin2ϑ dϕ2 −
+
+r − α
+
+r
+
+dl 2	
+dt 2	
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+DAVID HILBERT
+
+THE FOUNDATIONS OF PHYSICS
+
+(SECOND COMMUNICATION)
+
+Originally  published  as  “Die  Grundlagen  der  Physik.  (Zweite  Mitteilung)”  in
+Nachrichten  von  der  Königlichen  Gesellschaft  zu  Göttingen.  Math.-phys.  Klasse.
+1917, p. 53–76. Presented in the Session of 23 December 1916.
+
+1
+In my ﬁrst communication
+ I proposed a system of basic equations of physics. Before
+turning  to  the  theory  of  integrating  these  equations  it  seems  necessary  to  discuss
+some more general questions of a logical as well as physical nature.
+1 2 3 4
+,
+
+First we introduce in place of the world parameters 
+
+ the most
+
+)
+
+,
+
+,
+
+real
+
+general 
+
+ spacetime coordinates 
+=
+w1
+
+x1,
+
+=
+
+w2
+and correspondingly in place of
+
+=(
+
+xs  s
+x2,
+
+1 2 3 4
+,
+,
+=
+
+,
+w3
+
+ws  s
+
+=(
+ by putting
+)
+x3,
+w4
+
+=
+
+x4,
+
+ig14,
+
+ig24,
+
+ig34,
+
+g44–
+
+,
+
+we write simply
+
+g24,
+
+g34,
+
+g44.
+
+g14,
+1 2 3 4
+,
+,
+,
+
+(
+
+gµν  µν,
+
+The new 
+all be real functions of the real variables 
+representation of the quadratic form
+
+=
+
+)
+
+—the gravitational potentials of Einstein—shall then
+ of such a type that, in the
+
+1 2 3 4
+,
+
+=(
+
+)
+
+,
+
+,
+
+xs  s
+
+(
+G X1 X2 X3 X4
+
+,
+
+,
+
+,
+
+)
+
+∑=
+
+gµν X µX ν
+
+(28)
+
+µν
+as a sum of four squares of linear forms of the 
+ three squares always occur with
+positive sign, and one square with negative | sign: thus the quadratic form (28) pro-
+vides our four dimensional world of the 
+ with the metric of a pseudo-geometry.
+The determinant 
+
+ turns out to be negative.
+
+ of the 
+
+Xs,
+
+xs
+
+g
+
+gµν
+
+[54]
+
+1
+
+This journal, 20 November 1915.
+
+Jürgen Renn (ed.). 
+Gravitation in the Twilight of Classical Physics: The Promise of Mathematics.
+© 2007 Springer.
+
+The Genesis of General Relativity, 
+
+Vol. 4
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+1018
+
+If a curve
+
+D
+
+AVID
+
+ H
+
+ILBERT
+
+xs
+
+=
+
+xs p( )                 s
+
+=(
+
+1 2 3 4
+,
+
+,
+
+,
+
+)
+
+is  given  in  this  geometry,  where 
+parameter 
+expression
+
+p,
+
+  mean  some  arbitrary  real  functions  of  the
+  then  it  can  be  divided  into  pieces  of  curves  on  each  of  which  the
+
+xs p( )
+
+x4d
+pd--------
+does not change sign: A piece of the curve for which
+
+x2d
+pd--------
+
+x3d
+pd--------
+
+x1d
+pd--------
+
+(
+G
+
+,
+
+,
+
+,
+
+)
+
+shall be called a 
+
+segment
+
+ and the integral along this piece of curve
+
+(
+G
+
+xsd
+pd-------
+
+)
+
+0>
+
+∫=
+
+λ
+
+G
+
+(
+
+xsd
+pd-------
+
+) pd
+
+shall be the 
+
+length of the segment
+
+; a piece of the curve for which
+
+(
+G
+
+xsd
+pd-------
+, and the integral
+
+)
+
+0<
+
+will be called a 
+
+time line
+
+xsd
+pd-------
+evaluated along this piece of curve shall be the 
+piece of curve along which
+
+∫=
+
+(
+G
+
+–
+
+τ
+
+)
+
+pd
+
+G
+
+(
+
+xsd
+pd-------
+
+)
+
+0=
+
+proper time of the time line
+
+; ﬁnally a
+
+shall be called a 
+
+.
+null line
+
+λ
+
+light clock
+
+measuring thread
+
+To visualize these concepts of our pseudo geometry we imagine two ideal mea-
+ by means of which we are able to measure the
+suring devices: the 
+length 
+ with which we can determine
+the proper time of any time line. The thread shows zero and the light clock stops
+along every null line, whereas the former fails totally along a time line, and the latter
+along a segment. |
+
+ of any segment, and secondly the 
+
+First we show that each of the two instruments sufﬁces to compute with its aid the
+ as soon as a deﬁnite spacetime coordinate sys-
+ has been introduced. Indeed we choose any set of 10 segments, which all con-
+ from different directions, so that this endpoint
+
+values of the 
+tem 
+verge on the same world point 
+
+ as functions of 
+
+gµν
+
+xs,
+
+xs
+
+xs,
+
+[55]
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+T
+
+HE
+
+ F
+
+OUNDATIONS
+
+ 
+OF
+
+ P
+
+HYSICS
+
+ (S
+
+ECOND
+
+ C
+
+OMMUNICATION
+
+)
+
+1019
+
+assumes the same parameter value 
+for each of the 10 segments,
+
+p
+
+ on each. At this end point we have the equation,
+
+2
+
+λ h( )
+d
+⎞
+pd------------
+⎠
+
+⎛
+⎝
+
+=
+
+G
+
+⎛
+⎝
+
+h( )
+xs
+d
+⎞ ,
+pd-----------
+⎠
+
+=(
+h
+
+1 2 … 10
+,
+
+,
+
+,
+
+);
+
+here the left-hand sides are known as soon as we have determined the lengths 
+means of the thread. We introduce the abbreviations
+
+λ h( )
+
+ by
+
+D u( )
+
+=
+
+2
+
+,
+
+2
+
+,
+
+2
+
+,
+
+⎛
+⎝
+
+1( )
+x1
+d
+⎞
+pd-----------
+⎠
+……
+10(
+)
+x1
+d
+⎞
+pd-------------
+⎠
+2,
+X1
+
+⎛
+⎝
+
+⎛
+⎝
+
+1( )
+x1
+d
+pd-----------
+
+1( )
+x2
+d
+pd-----------, …,
+……
+10(
+10(
+x2
+x1
+d
+d
+pd-------------
+pd-------------, …,
+X1X2, …,
+
+1( )
+x4
+d
+⎞
+pd-----------
+⎠
+… ……
+10(
+)
+x4
+d
+⎞
+pd-------------
+⎠
+2,
+X4
+
+⎛
+⎝
+
+)
+
+)
+
+2
+
+,
+
+⎛
+⎝
+
+2
+
+⎛
+⎝
+
+λ 1( )
+d
+⎞
+pd------------
+⎠
+……
+λ 10(
+)
+d
+⎞
+pd--------------
+⎠
+u
+
+,
+
+2
+
+so that clearly
+
+(29)
+
+whereby also the condition on the directions of the chosen 10 segments at the point
+xs p( )
+
+is seen to be necessary.
+
+When 
+
+G
+
+ has been calculated according to (29), the use of this procedure for any
+
+11th segment ending at 
+
+xs p( )
+
+ would yield the equation
+
+(
+G Xs
+
+)
+
+–=
+
+D 0( )
+-----------,
+D∂
+u∂-------
+
+D∂
+u∂-------
+
+0≠
+
+2
+
+λ 11(
+)
+d
+⎞
+pd--------------
+⎠
+
+⎛
+⎝
+
+=
+
+G
+
+⎛
+⎝
+
+)
+
+11(
+d
+xs
+⎞ ,
+pd-------------
+⎠
+
+and this equation would then both verify the correctness of the instrument and con-
+ﬁrm experimentally that the postulates of the theory apply to the real world.
+
+Corresponding reasoning applies to the light clock. |
+The axiomatic construction of our pseudo-geometry could be carried out without
+difﬁculty: ﬁrst an axiom should be established from which it follows that length resp.
+proper time must be integrals whose integrand is only a function of the 
+ and their
+ﬁrst derivatives with respect to the parameter; suitable for such an axiom would be
+the property of development of the thread or the well-known envelope theorem for
+geodesic lines. Secondly an axiom is needed whereby the theorems of the pseudo-
+Euclidean geometry, that is the old principle of relativity, shall be valid in inﬁnitesi-
+
+xs
+
+[56]
+
+1020
+
+DAVID HILBERT
+
+mal regions; for this the axiom put down by W. Blaschke2 would be particularly suit-
+able,  which  states  that  the  condition  of  orthogonality  for  any  two  directions—
+segments or time lines—shall always be a symmetric relation.
+
+Let us brieﬂy summarize the main facts that the Monge-Hamilton theory of differ-
+
+ential equations teaches us for our pseudo-geometry.
+
+With every world point 
+xs,
+
+xs
+
+ there is associated a cone of second order, with vertex
+
+at 
+
+ and determined in the running point coordinates 
+ by the equation
+Xs
+x4–
+)
+0;=
+xs.
+ The totality of null cones
+this shall be called the null cone belonging to the point 
+form a four dimensional ﬁeld of cones, which is associated on the one hand with
+“Monge’s” differential equation
+
+(
+G X1
+
+x2–
+,
+
+x3–
+,
+
+x1–
+
+X3
+
+X2
+
+X4
+
+,
+
+G
+
+(
+
+x1d
+pd--------
+
+,
+
+x2d
+pd--------
+
+,
+
+x3d
+pd--------
+
+,
+
+x4d
+pd--------
+
+)
+
+0,=
+
+and on the other hand with “Hamilton’s” partial differential equation
+
+fd
+x2d--------
+ denotes the quadratic form
+
+H fd
+x1d--------
+(
+
+,
+
+,
+
+where 
+
+H
+
+fd
+x3d--------
+
+,
+
+fd
+x4d--------
+
+)
+
+0,=
+
+(30)
+
+(
+H U1 U2 U3 U4
+
+,
+
+,
+
+,
+
+)
+
+gµνUµU ν
+
+∑=
+
+µν
+
+G.
+
+reciprocal to 
+ The characteristics of Monge’s and at the same time those of Hamil-
+ton’s partial differential equation (30) are the geodesic null lines. All the geodesic
+null lines originating at one particular world point 
+ generate a three
+dimensional point manifold, which | shall be called the time divide belonging to the
+world point 
+ whose tangent cone is precisely the null
+cone belonging to 
+
+ If we transform the equation of the time divide into the form
+
+ This divide has a node at 
+
+1 2 3 4
+,
+
+as  s
+
+=(
+
+as.
+
+as,
+
+)
+
+,
+
+,
+
+as.
+
+[57]
+
+then
+
+x4
+
+=
+
+(
+ϕ x1 x2 x3
+
+,
+
+,
+
+),
+
+f
+
+=
+
+x4 ϕ x1 x2 x3
+
+–
+
+(
+
+,
+
+,
+
+)
+
+is an integral of Hamilton’s differential equation (30). All the time lines originating at
+the point 
+ remain totally in the interior of that four dimensional part of the world
+whose boundary is the time divide of 
+
+After these preparations we turn to the problem of causality in the new physics.
+
+as.
+
+as
+
+2
+
+“Räumliche Variationsprobleme mit symmetrischer Transversalitätsbedingung.” Leipziger Berichte,
+Math.-phys. Kl. 68 (1916) p. 50.
+
+THE FOUNDATIONS OF PHYSICS (SECOND COMMUNICATION)
+
+1021
+
+xs,
+
+Up to now all coordinate systems 
+
+ that result from any one by arbitrary trans-
+formation have been regarded as equally valid. This arbitrariness must be restricted
+when we want to realize the concept that two world points on the same time line can
+be related as cause and effect, and that it should then no longer be possible to trans-
+form such world points to be simultaneous. In declaring 
+ as the true time coordi-
+nate we adopt the following deﬁnition:
+
+A true spacetime coordinate system is one for which the following four inequali-
+
+x4
+
+ties hold, in addition to 
+
+g
+
+0:<
+
+g11
+
+0,>
+
+g11 g12
+g21 g22
+
+0,>
+
+g11 g12 g13
+g21 g22 g23
+g31 g32 g33
+
+0,>
+
+g44
+
+0.<
+
+(31)
+
+A transformation that transforms one such spacetime coordinate system into another
+true spacetime coordinate system shall be called a true spacetime coordinate transfor-
+mation.
+
+The four inequalities mean that at any world point 
+
+as
+
+ the associated null cone
+
+excludes the linear space
+
+but contains in its interior the line
+
+a2,
+the latter line is therefore always a time line. |
+
+a1,
+
+x2
+
+x1
+
+=
+
+=
+
+Let any time line 
+
+xs
+
+=
+
+xs p( )
+
+ be given; because
+
+x3
+
+=
+
+a3;
+
+[58]
+
+it follows that in a true spacetime coordinate system we must always have
+
+and therefore that along a time line the true time coordinate 
+ must always increase
+resp. decrease. Because a time line remains a time line upon every coordinate trans-
+formation,  therefore  two  world  points  along  one  time  line  can  never  be  given  the
+same value of the time coordinate 
+ through a true spacetime transformation; that
+is, they cannot be transformed to be simultaneous.
+
+On the other hand, if the points of a curve can be truly transformed to be simulta-
+
+x4
+
+x4
+
+neous, then after this transformation we have for this curve
+
+x4
+
+=
+
+const.,
+
+that is
+
+x4d
+pd--------
+
+0,=
+
+x4
+
+=
+
+a4,
+
+(
+G
+
+xsd
+pd-------
+
+)
+
+0<
+
+x4d
+pd--------
+
+0,≠
+
+1022
+
+therefore
+
+DAVID HILBERT
+
+G
+
+(
+
+xsd
+pd-------
+
+)
+
+∑=
+
+µν
+
+gµν
+
+xµd
+pd--------
+
+xνd
+pd--------,
+
+(
+
+µν,
+
+=
+
+1 2 3
+,
+
+,
+
+),
+
+and here the right side is positive because of the ﬁrst three of our inequalities (31); the
+curve therefore characterizes a segment.
+
+So we see that the concepts of cause and effect, which underlie the principle of
+causality, also do not lead to any inner contradictions whatever in the new physics, if
+we only take the inequalities (31) always to be part of our basic equations, that is if
+we conﬁne ourselves to using true spacetime coordinates.
+
+At this point let us take note of a special spacetime coordinate system that will
+later be useful and which I will call the Gaussian coordinate system, because it is the
+generalization of the system of geodesic polar coordinates introduced by Gauss in the
+theory of surfaces. In our four-dimensional world let any three-dimensional space be
+given so that every curve conﬁned to that space is a segment: a space of segments, as
+I would like to call it; | let 
+ be any point coordinates of this space. We now
+x1 x2 x3
+ of this space the geodesic orthogonal to it, which
+construct at every point 
+,
+ as proper time; the point in the
+will be a time line, and on this line we mark off 
+four-dimensional world so obtained is given coordinate values 
+ In these
+coordinates we have, as is easily seen,
+
+,
+x1 x2 x3
+
+x1x2x3x4.
+
+x4
+
+,
+
+,
+
+[59]
+
+(
+G Xs
+
+)
+
+=
+
+gµν X µX ν
+
+–
+
+2,
+X4
+
+,
+
+1 2 3
+,
+∑
+
+µν
+
+(32)
+
+,
+
+x4
+
+g34
+
+g24
+
+g14
+
+0,=
+
+0,=
+
+0,=
+
+that is, the Gaussian coordinate system is characterized analytically by the equations
+(33)
+0= .
+g44
+ we presupposed, the
+0=
+Because of the nature of the three dimensional space 
+quadratic form on the right-hand side of (32) in the variables 
+ is necessar-
+X1 X2 X3
+,
+ily positive deﬁnite, so the ﬁrst three of the inequalities (31) are satisﬁed, and since
+this also applies to the fourth, the Gaussian coordinate system always turns out to be
+a true spacetime coordinate system.
+
+We now return to the investigation of the principle of causality in physics. As its
+main contents we consider the fact, valid so far in every physical theory, that from a
+knowledge  of  the  physical  quantities  and  their  time  derivatives  in  the  present  the
+future  values  of  these  quantities  can  always  be  determined:  without  exception  the
+laws of physics to date have been expressed in a system of differential equations in
+which the number of the functions occurring in them was essentially the same as the
+number  of  independent  differential  equations;  and  thus  the  well-known  general
+Cauchy theorem on the existence of integrals of partial differential equations directly
+offered the rationale of proof for the above fact.
+
+Now, as I emphasized particularly in my ﬁrst communication, the basic equations
+of physics (4) and (5) established there are by no means of the type characterized
+
+THE FOUNDATIONS OF PHYSICS (SECOND COMMUNICATION)
+
+1023
+
+above; rather, according to Theorem I, four of them are a consequence of the rest: we
+regarded the four Maxwell equations (5) as a consequence of the ten gravitational
+equations (4), and so we have for the 14 potentials 
+ only 10 equations (4) that
+are essentially independent of each other. |
+
+As soon as we maintain the demand of general invariance for the basic equations
+of physics the circumstance just mentioned is essential and even necessary. Because
+if there were further invariant equations, independent of (4), for the 14 potentials,
+then introduction of a Gaussian coordinate system would lead for the 10 physical
+quantities as per (33),
+
+gµν, qs
+
+ 
+
+[60]
+
+gµν    µν,
+
+(
+
+=
+
+1 2 3
+,
+
+,
+
+),
+
+qs    s
+
+=(
+
+1 2 3 4
+,
+
+,
+
+,
+
+)
+
+to a system of equations that would again be mutually independent, and mutually
+contradictory, because there are more than 10 of them.
+
+Under such circumstances then, as occur in the new physics of general relativity,
+it  is  by  no  means  any  longer  possible  from  knowledge  of  physical  quantities  in
+present and past to derive uniquely their future values. To show this intuitively on an
+example, let our basic equations (4) and (5) of the ﬁrst communication be integrated
+in the special case corresponding to the presence of a single electron permanently at
+rest, so that the 14 potentials
+
+gµν
+qs
+x1 x2 x3,
+become deﬁnite functions of 
+,
+tion such that the ﬁrst three components 
+Then we apply the following coordinate transformation to these potentials:
+
+=
+gµν x1 x2 x3
+,
+)
+(
+=
+qs x1 x2 x3
+ all independent of the time 
+r1 r2 r3
+
+ and in addi-
+ of the four-current density vanish.
+
+x4,
+
+(
+,
+
+)
+
+,
+
+,
+
+,
+
+,
+
+,
+
+0≤
+
+            for  x′4
+1
+2--------
+x′4
+
+–
+
+for  x′4
+
+0>
+
++
+
+e
+
+x1
+
+⎧
+⎪
+⎨
+⎪
+x1
+⎩
+  x2
+  x3
+  x4
+
+=
+
+x′1
+
+=
+=
+=
+=
+
+x′1
+x′2
+x′3
+x′4.
+
+ 
+
+ 
+
+x′4
+
+gµν, qs
+
+g′µν, q′s
+
+ of the original variables 
+
+  the  transformed  potentials 
+ as the 
+ depend in an essential way also on the time coordinate 
+g′µν, q′s
+
+0≤
+For 
+x′4
+x′1 x′2 x′3
+,
+,
+0>
+for 
+potentials 
+its components into motion. |
+Nonetheless I believe that it is only necessary to formulate more sharply the idea
+on which the principle of general relativity3 is based, in order to maintain the princi-
+ple of causality also in the new physics. Namely, to follow the essence of the new rel-
+
+  are  the  same  functions  of
+g′µν, q′s
+,
+x′4;
+ that is, the
+ but then puts
+
+ represent an electron that is at rest until 
+
+ whereas the 
+
+x1 x2 x3,
+
+0,=
+
+x′4
+
+ 
+
+ 
+
+,
+
+[61]
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+1024
+
+D
+
+AVID
+
+ H
+
+ILBERT
+
+1=
+
+ativity principle we must demand invariance not only for the general laws of physics,
+but we must accord invariance to each separate statement in physics that is to have
+physical meaning—in accordance with this, that in the ﬁnal analysis it must be possi-
+ble to establish each physical fact by thread or light clock, that is, instruments of
+ character. In the theory of curves and surfaces, where a statement in a cho-
+invariant
+sen parametrization of the curve or surface has no geometrical meaning for the curve
+or surface itself, if this statement does not remain invariant under any arbitrary trans-
+formation of the parameters or cannot be brought to invariant form; so also in physics
+we must characterize a statement that does not remain invariant under any arbitrary
+transformation of the coordinate system as physically meaningless. For example, in
+the case considered above of the electron at rest, the statement that, say at the time
+ this electron is at rest, has no physical meaning because this statement is not
+x4
+invariant.
+
+Concerning the principle of causality, let the physical quantities and their time
+derivatives be known at the present in some given coordinate system: then a state-
+ment will only have physical meaning if it is invariant under all those transforma-
+tions,  for  which  the  coordinates  just  used  for  the  present  remain  unchanged;  I
+maintain that statements of this type for the future are all uniquely determined, that
+is, the principle of causality holds in this form:
+
+From  present  knowledge  of  the  14  physical  potentials 
+
+  all  statements
+about them for the future follow necessarily and uniquely provided they are physi-
+cally meaningful.
+
+To  prove  this  proposition  we  use  the  Gaussian  spacetime  coordinate  system.
+Introducing (33) into the basic equations (4) of the ﬁrst communication yields for the
+10 potentials |
+
+gµν, qs
+
+=(
+
+1 2 3
+,
+
+qs    s
+
+1 2 3 4
+,
+
+gµν    µν,
+
+(34)
+a system of as many partial differential equations; if we integrate these on the basis of
+0.>
+the given initial values at 
+Since the Gaussian coordinate system itself is uniquely determined, therefore also all
+statements about those potentials (34) with respect to these coordinates are of invari-
+ant character.
+
+ we ﬁnd uniquely the values of (34) for 
+
+The  forms,  in  which  physically  meaningful,  i.e.  invariant,  statements  can  be
+
+0,=
+
+x4
+
+x4
+
+),
+
+=
+
+(
+
+)
+
+ 
+
+,
+
+,
+
+,
+
+expressed mathematically are of great variety.
+
+First. This  can  be  done  by  means  of  an  invariant  coordinate  system.  Like  the
+Gaussian system used above one can apply the well-known Riemannian one, as well
+as that spacetime coordinate system in which electricity appears at rest with unit cur-
+f q( )
+rent density. As at the end of the ﬁrst communication, let 
+ denote the function
+occurring in Hamilton’s principle and depending on the invariant
+
+3
+
+In  his  original  theory,  now  abandoned,  A.  Einstein  (Sitzungsberichte  der  Akad.  zu  Berlin,  1914,
+p. 1067) had indeed postulated certain 4 non-invariant equations for the 
+ in order to save the cau-
+sality principle in its old form.
+
+gµν,
+
+[62]
+
+THE FOUNDATIONS OF PHYSICS (SECOND COMMUNICATION)
+
+1025
+
+then
+
+qkqlgkl,
+
+q
+
+∑=
+kl
+
+rs
+
+=
+
+f q( )
+∂
+qs∂-------------
+
+is the four-current density of electricity; it represents a contravariant vector and there-
+fore can certainly be transformed to 
+ as is easily seen. If this is done, then
+from the four equations
+
+0 0 0 1
+,
+
+),
+
+(
+
+,
+
+,
+
+f q( )
+∂
+qs∂-------------
+
+0=     s
+
+=(
+
+1 2 3
+,
+
+,
+
+),
+
+f q( )
+∂
+q4∂-------------
+
+1=
+
+,
+
+ 
+
+qs
+
+x4
+
+0≤
+
+gµν
+
+r ϑ ϕ t
+,
+,
+
+gµν, qs
+
+the four components of the four-potential 
+gµν,
+ in this or in one of the ﬁrst two coordinate sys-
+and every relation between the 
+tems is then an invariant statement. For particular solutions of the basic equations
+there may be special invariant coordinate systems; for example, in the case treated
+below of the centrally symmetric gravitational ﬁeld 
+ form an invariant sys-
+tem of coordinates up to rotations.
+
+ can be expressed in terms of the 
+
+Second. The statement, according to which a coordinate system can be found in
+which the 14 potentials 
+ have certain deﬁnite values in the future, or fulﬁll
+certain deﬁnite conditions, is always an invariant and therefore a physically meaning-
+ful one. The mathematically invariant expression for | such a statement is obtained by
+eliminating the coordinates from those relations. The case considered above, of the
+electron at rest, provides an example: the essential and physically meaningful content
+of the causality principle is here expressed by the statement that the electron which is
+at rest for the time 
+ will, for a suitably chosen spacetime coordinate system,
+also remain at rest in all its parts for the future 
+
+Third. A statement is also invariant and thus has physical meaning if it is sup-
+posed to be valid in any arbitrary coordinate system. An example of this are Ein-
+stein’s  energy-momentum  equations  having  divergence  character.  For,  although
+Einstein’s energy does not have the property of invariance, and the differential equa-
+tions he put down for its components are by no means covariant as a system of equa-
+tions, nevertheless the assertion contained in them, that they shall be satisﬁed in any
+coordinate system, is an invariant demand and therefore it carries physical meaning.
+According  to  my  exposition,  physics  is  a  four-dimensional  pseudo-geometry,
+whose metric 
+ is connected to the electromagnetic quantities, i.e. to the matter, by
+the basic equations (4) and (5) of my ﬁrst communication. With this understanding,
+an old geometrical question becomes ripe for solution, namely whether and in what
+sense Euclidean geometry—about which we know from mathematics only that it is a
+logical structure free from contradictions—also possesses validity in the real world.
+The  old  physics  with  the  concept  of  absolute  time  took  over  the  theorems  of
+Euclidean geometry and without question put them at the basis of every physical the-
+ory. Gauss as well proceeded hardly differently: he constructed a hypothetical non-
+
+0.>
+
+gµν
+
+x4
+
+[63]
+
+[64]
+
+1026
+
+DAVID HILBERT
+
+Euclidean physics, by maintaining the absolute time and revoking only the parallel
+axiom from the propositions of Euclidean geometry; a measurement of the angles of a
+triangle of large dimensions showed him the invalidity of this non-Euclidean physics.
+The new physics of Einstein’s principle of general relativity takes a totally differ-
+ent  position  vis-à-vis  geometry.  It  takes  neither  Euclid’s  nor  any  other  particular
+geometry a priori as basic, in order to deduce from it the proper laws of physics, but,
+as I showed in my ﬁrst communication, | the new physics provides at one fell swoop
+through one and the same Hamilton’s principle the geometrical and the physical laws,
+namely the basic equations (4) and (5), which tell us how the metric  —at the
+same time the mathematical expression of the phenomenon of gravitation—is con-
+nected with the values 
+
+ of the electrodynamic potentials.
+
+Euclidean geometry is an action-at-a-distance law foreign to the modern physics:
+By revoking the Euclidean geometry as a general presupposition of physics, the the-
+ory of relativity maintains instead that geometry and physics have identical character
+and are based as one science on a common foundation.
+
+The geometrical question mentioned above amounts to the investigation, whether
+
+and under what conditions the four-dimensional Euclidean pseudo-geometry
+
+gµν
+
+qs
+
+g11
+gµν
+
+1,=
+0=
+
+g22
+µν≠(
+
+1,=
+)
+
+g33
+
+1,=
+
+g44
+
+1–=
+
+(35)
+
+is a solution, or even the only regular solution, of the basic physical equations.
+
+The basic equations (4) of my ﬁrst communication are, due to the assumption (20)
+
+made there:
+
+where
+
+and for
+
+we have
+
+gK[
+
+]µν
+
++
+
+0,=
+
+gL
+∂
+-------------
+gµν∂
+
+gK[
+
+]µν
+
+=
+
+⎛
+g K µν
+⎝
+
+–
+
+1
+2---Kgµν
+
+⎞ .
+⎠
+
+qs
+
+0=
+
+=(
+s
+
+1 2 3 4
+,
+
+,
+
+,
+
+)
+
+gL
+∂
+-------------
+gµν∂
+
+0;=
+
+When the values (35) are substituted, we have
+
+gK[
+
+]µν
+
+0=
+
+(36)
+
+that is, when all electricity is removed, the pseudo-Euclidean geometry is possible.
+The question whether it is also necessary in this case, i.e. whether—or under certain
+
+THE FOUNDATIONS OF PHYSICS (SECOND COMMUNICATION)
+
+1027
+
+additional conditions—the values (35), and those values of the 
+ resulting from
+coordinate transformation of the latter, are the only regular solutions of the equations
+(36) is a mathematical problem not to be discussed here in general. Instead I conﬁne
+myself | to presenting some thoughts concerning this problem in particular.
+
+For this we return to the original world coordinates of my ﬁrst communication
+
+gµν
+
+[65]
+
+w1
+
+=
+
+x1,
+
+w2
+
+=
+
+x2,
+
+=
+
+x3,
+
+w4
+
+=
+
+ix4,
+
+and give the corresponding meaning to the 
+
+In the case of the pseudo-Euclidean geometry we have
+
+w3
+gµν.
+
+gµν
+
+=
+
+δµν,
+
+where
+
+δµν
+
+1,=
+
+δµν
+
+=
+
+0    µν≠(
+
+).
+
+For every metric in the neighborhood of this pseudo-Euclidean geometry the ansatz
+(37)
+ws.
+ I
+
+is valid, where 
+hµν
+make the following two assumptions about the metric (37):
+
+ is a quantity converging to zero, and 
+
+ are functions of the 
+
+εhµν …
+
+gµν
+
+δµν
+
+=
+
++
+
++
+
+ε
+
+hµν
+hµν
+
+I. The 
+II. The 
+Now, if the metric (37) is to satisfy the differential equation (36) for all 
+
+ shall be independent of the variable 
+ shall show a certain regular behavior at inﬁnity.
+
+ then it
+ must necessarily satisfy certain linear homogeneous partial dif-
+
+follows that the 
+ferential equations of second order. If we substitute, following Einstein4
+
+w4.
+
+hµν
+
+ε
+
+1
+∑–
+2---δµν
+s
+and assume among the 10 functions 
+kµν
+
+hµν
+
+kµν
+
+=
+
+kss,
+
+(
+
+kµν
+
+=
+
+kνµ
+
+)
+
+ the four relations
+
+kµsd
+wsd----------
+
+∑
+s
+
+0,=
+
+=(
+µ
+
+1 2 3 4
+,
+
+,
+
+,
+
+)
+
+then these differential equations become:
+kµν
+
+0,=
+
+where the abbreviation
+
+(38)
+
+(39)
+
+(40)
+
+4
+
+“Näherungsweise Integration der Feldgleichungen der Gravitation.” Berichte d. Akad. zu Berlin 1916,
+p. 688.
+
+1028
+
+DAVID HILBERT
+
+ 
+
+∑=
+s
+
+∂
+
+2
+∂  
+2
+ws
+
+has been used.
+
+[66]
+
+hµν;
+
+functions 
+tesimal transformation of the variables 
+tions are satisﬁed for the corresponding functions 
+
+Because of the ansatz (38) the relations (39) are restrictive assumptions for the
+ however I will | show how one can always achieve, by suitable inﬁni-
+ that those restrictive assump-
+ after the transformation.
+ϕ1 ϕ2 ϕ3 ϕ4
+
+,
+w1 w2 w3 w4
+,
+h′µν
+To  this  end  one  should  determine  four  functions 
+
+  which  satisfy
+
+,
+
+,
+
+,
+
+,
+
+,
+
+,
+
+respectively the differential equations
+
+ϕµ
+
+=
+
+1
+2---
+
+∂
+wµ∂
+
+∑
+
+ν
+
+hνν
+
+∑–
+
+ν
+
+hµν∂
+wν∂-----------.
+
+(41)
+
+By means of the inﬁnitesimal transformation
++
+w′s
+
+ws
+
+=
+
+εϕs,
+
+gµν
+
+ becomes
+
+g′µν
+
+=
+
+gµν
+
++
+
+ε
+
+gαν
+
+∑
+
+α
+
+ϕα∂
+wµ∂---------
+
++
+
+ε
+
+∑
+
+α
+
+gαµ
+
+ϕα∂
+wν∂---------
+
++
+
+…
+
+or because of (37) it becomes
+
+where I have put
+
+If we now choose
+
+g′µν
+
+=
+
+δµν
+
++
+
+εh′µν …,
+
++
+
+h′µν
+
+=
+
+hµν
+
++
+
+ϕν∂
+wµ∂---------
+
++
+
+ϕµ∂
+wν∂---------.
+
+kµν
+
+=
+
+h′µν
+
+–
+
+1
+2---δµν
+
+∑ ,
+h′ss
+s
+
+then these functions satisfy Einstein’s condition (39) because of (41), and we have
+
+h′µν
+
+=
+
+kµν
+
+1
+∑–
+2---δµν
+s
+
+kss
+
+(
+
+kµν
+
+=
+
+kνµ
+
+).
+
+The differential equations (40), which must be valid according to the above argument
+for the 
+
+kµν
+
+ we found, become due to assumption I
+∂2kµν
+-------------
+2∂
+w3
+
+∂2kµν
+-------------
+2∂
+w2
+
+∂2kµν
+-------------
+2∂
+w1
+
++
+
++
+
+0,=
+
+THE FOUNDATIONS OF PHYSICS (SECOND COMMUNICATION)
+
+1029
+
+and,  since  assumption  II—mutatis  mutandis—allows  the  conclusion  that  the 
+kµν
+approach constants at inﬁnity, it follows that these must be constant in general, that
+is: By varying the metric of the pseudo-Euclidean geometry under the assumptions I
+and II it is not possible to obtain a regular metric that is not likewise pseudo-Euclid-
+ean and which also corresponds to a world free of electricity. |
+The integration of the partial differential equations (36) can be performed in yet
+another  case,  ﬁrst  treated  by  Einstein5  and  by  Schwarzschild.6  In  the  following  I
+present for this case a procedure that makes no assumptions about the gravitational
+potentials 
+ at inﬁnity, and which moreover offers advantages for my later investi-
+gations. The assumptions about the 
+1. The metric is represented in a Gaussian coordinate system, except that 
+
+ are the following:
+
+ is left
+
+gµν
+
+gµν
+
+g44
+
+[67]
+
+arbitrary, i.e. we have
+g14
+
+0,=
+
+g24
+
+0,=
+
+gµν
+
+2. The 
+3. The gravitation 
+
+ are independent of the time coordinate 
+
+gµν
+
+ is centrally symmetric with respect to the origin of coordi-
+
+nates.
+According to Schwarzschild the most general metric conforming to these assump-
+
+0.=
+
+g34
+x4.
+
+tions is represented in polar coordinates, where
+ϑcos
+ϑsin
+ϑsin
+
+ϕcos
+ϕsin
+
+w1
+w2
+w3
+w4
+
+=
+r
+=
+r
+=
+r
+l,=
+
+by the expression
+
+where 
+
+F r( ) G r( ) H r( )
+
+,
+
+,
+
+F r( ) r2d
+
+(
+
++
+
+G r( ) ϑ2d
+
+) H r( ) l2d
++
+ are still arbitrary functions of 
+
+ϑsin2
+
+ϕ2d
+
+r.
+
++
+
+ If we put
+
+(42)
+
+r*
+
+=
+
+G r( ),
+r* ϑ ϕ
+,
+
+,
+
+then we are equally justiﬁed in interpreting 
+we introduce 
+expression
+
+ in (42) instead of 
+
+r*
+
+r
+
+ and then eliminate the sign 
+
+ as spatial polar coordinates. If
+ the result is the
+
+*,
+
+M r( ) r2d
+
++
+
+r2 ϑ2d
+
++
+
+r2
+
+ϑsin2
+
+ϕ2d
+
++
+
+W r( ) l2,d
+
+(43)
+
+5
+6
+
+“Perihelbewegung des Merkur.” Situngsber. d. Akad. zu Berlin. 1915, p. 831.
+“Über das Gravitationsfeld eines Massenpunktes.” Sitzungsber. d. Akad. zu Berlin. 1916, p. 189.
+
+1030
+
+DAVID HILBERT
+
+,
+
+M r( ) W r( )
+
+where 
+ The question is
+whether and how these can be determined in the most general way so that the differ-
+ential equations (36) enjoy satisfaction. |
+
+ mean the two essential, arbitrary functions of 
+
+To this end the well-known expressions 
+
+ given in my ﬁrst communication
+must be calculated. The ﬁrst step in this is the derivation of the differential equations
+for geodesic lines by variation of the integral
+
+K µν K,
+
+r.
+
+[68]
+
+⎛
+⎝
+
+∫
+
+⎞ 2
+M rd
+⎛
+pd------
+⎠
+⎝
+
++
+
+⎞ 2
+r2 ϑd
+⎛
+pd------
+⎠
+⎝
+
++
+
+r2
+
+ϑsin2
+
+⎞ 2
+ϕd
+pd------
+⎠
+
+⎛
+⎝
+
++
+
+⎞ 2
+W ld
+⎛
+⎞ p.d
+pd------
+⎠
+⎠
+⎝
+
+ϑsin2
+
+⎞ 2
+ϕd
+pd------
+⎠
+
+⎛
+⎝
+
+–
+
+1
+2---W′
+M------
+
+⎛
+⎝
+
+⎞ 2
+ld
+pd------
+⎠
+
+0,=
+
+–
+
+–
+
+⎛
+⎝
+
+⎛
+⎝
+
++
+
+As Lagrange equations we obtain these:
+⎞ 2
+r
+M----- ϑd
+r
+M-----
+pd------
+⎠
+⎞ 2
+ϕd
+pd------
+ϑcos
+ϑsin
+⎠
+pd------ ϕd
+ϑd
+pd------
+0,=
+
+⎞ 2
+1
+2---M′
+rd
+d2r
+M------
+pd------
+--------
+⎠
+p2d
+2
+pd------ ϑd
+r--- rd
+d2ϑ
+pd------
+–
+---------
+p2d
+2
+pd------ ϕd
+r--- rd
+d2ϕ
+pd------
+---------
+p2d
+W------ rd
+-------- W′
+ld
+d2l
+pd------
+pd------
+p2d
+
+ϑcot
+
+0;=
+
++
+
++
+
++
+
++
+
+⎛
+⎝
+
+2
+
+0,=
+
+here and in the following calculation the sign 
+r.
+
+ By comparison with the general differential equations of geodesic lines:
+
+ denotes the derivative with respect to
+
+′
+
+d2ws
+------------
+p2d
+
+µν
+⎧
+∑+
+⎨
+s⎩
+µν
+µν
+⎫
+⎧
+⎬
+⎨
+s⎩
+⎭
+
+0,=
+
+pd--------- wνd
+⎫ wµd
+pd---------
+⎬
+⎭
+ the following values, whereby those that
+
+we obtain for the bracket symbols 
+vanish are omitted:
+
+11
+⎧
+⎨
+1⎩
+
+⎫
+⎬
+⎭
+
+44
+⎧
+⎨
+1⎩
+
+⎫
+⎬
+⎭
+
+=
+
+=
+
+1
+2---M′
+M------ ,
+1
+2---W′
+M------ ,        
+
+–
+
+22
+⎧
+⎨
+1⎩
+
+⎫
+⎬
+⎭
+
+=
+
+r
+M-----–
+
+ ,
+
+33
+⎧
+⎨
+1⎩
+
+⎫
+⎬
+⎭
+
+–=
+
+ϑsin2
+
+,
+
+r
+M-----
+
+12
+⎧
+⎨
+2⎩
+
+⎫
+⎬
+⎭
+
+=
+
+1
+r---,             
+
+=
+
+–
+
+ϑsin
+
+cos
+
+ϑ,
+
+⎫
+⎬
+⎭
+
+33
+⎧
+⎨
+2⎩
+1
+2---W′
+W------.
+
+13
+⎧
+⎨
+3⎩
+
+⎫
+⎬
+⎭
+
+=
+
+1
+r--- ,     
+
+23
+⎧
+⎨
+3⎩
+
+⎫
+⎬
+⎭
+
+=
+
+ϑcot
+
+,     
+
+14
+⎧
+⎨
+4⎩
+
+⎫
+⎬
+⎭
+
+=
+
+With these we form:
+
+THE FOUNDATIONS OF PHYSICS (SECOND COMMUNICATION)
+
+1031
+
+K11
+
+=
+
+∂
+r∂
+
+⎛
+⎜
+⎝
+
+11
+⎧
+⎨
+1⎩
+
+⎫
+⎬
+⎭
+
++
+
+12
+⎧
+⎨
+2⎩
+
+⎫
+⎬
+⎭
+
++
+
+13
+⎧
+⎨
+3⎩
+
+⎫
+⎬
+⎭
+
++
+
+14
+⎧
+⎨
+4⎩
+
+⎞
+⎫
+⎟
+⎬
+⎠
+⎭
+
+–
+
+∂ 11
+⎧
+⎨
+r∂
+1⎩
+
+⎫
+⎬
+⎭
+
++
+
+11
+⎧
+⎨
+1⎩
+
+⎫ 11
+⎧
+⎨
+⎬
+1⎩
+⎭
+
+⎫
+⎬
+⎭
+
++
+
+12
+⎧
+⎨
+2⎩
+
+⎫ 21
+⎧
+⎬
+⎨
+2⎩
+⎭
+
+⎫
+⎬
+⎭
+
++
+
+13
+⎧
+⎨
+3⎩
+
+⎫ 31
+⎧
+⎨
+⎬
+3⎩
+⎭
+
+⎫
+⎬
+⎭
+
++
+
+14
+⎧
+⎨
+4⎩
+
+⎫ 41
+⎧
+⎨
+⎬
+4⎩
+⎭
+
+⎫
+⎬
+⎭
+
+ |
+
++
+
+14
+⎧
+⎨
+4⎩
+
+⎞
+⎫
+⎟
+⎬
+⎠
+⎭
+
+–
+
+11
+⎧
+⎨
+1⎩
+1
+2---W″
+W-------
+
+⎫
+⎬
+⎭
+
++
+
+=
+
+K22
+
+=
+
++
+
++
+
+⎫
+⎬
+⎭
+
+12
+11
+⎛
+⎧
+⎧
+⎜
+⎨
+⎨
+1⎩
+2⎩
+⎝
+1
+4---W ′2
+--------- M′
+rM-------
+W 2
+∂ 23
+⎧
+⎨
+3⎩
+ϑ∂
+
+13
+⎫
+⎧
+⎫
+⎬
+⎨
+⎬
+3⎩
+⎭
+⎭
+1
+4---M′W′
+MW--------------
+∂ 22
+⎧
+⎨
+r∂
+1⎩
+
+⎫
+⎬
+⎭
+
+⎫
+⎬
+⎭
+
+–
+
+–
+
+–
+
+21
+⎧
+⎨
+2⎩
+
+⎫ 22
+⎧
+⎬
+⎨
+1⎩
+⎭
+
+⎫
+⎬
+⎭
+
++
+
+22
+⎧
+⎨
+1⎩
+
+⎫ 12
+⎧
+⎬
+⎨
+2⎩
+⎭
+
+⎫
+⎬
+⎭
+
++
+
+23
+⎧
+⎨
+3⎩
+
+⎫ 32
+⎧
+⎬
+⎨
+3⎩
+⎭
+
+⎫
+⎬
+⎭
+
+[69]
+
++
+
+–
+
+22
+⎧
+⎨
+1⎩
+
+=
+
+1–
+
++
+
+⎛
+⎜
+⎝
+
+11
+⎧
+⎫
+⎨
+⎬
+1⎩
+⎭
+1
+2---rM′
+---------
+M2
+∂ 33
+⎧
+⎨
+2⎩
+ϑ∂
+
+⎫
+⎬
+⎭
+
+K33
+
+=
+
+–
+
+∂ 33
+⎧
+⎨
+r∂
+1⎩
+
+⎫
+⎬
+⎭
+
+–
+
++
+
+⎫
+⎬
+⎭
+
+14
+⎧
+⎨
+4⎩
+
+⎞
+⎫
+⎟
+⎬
+⎠
+⎭
+
++
+
+⎫
+⎬
+⎭
+
++
+
+1
+M-----
+
++
+
+13
+12
+⎧
+⎫
+⎧
+⎨
+⎬
+⎨
+3⎩
+2⎩
+⎭
+1
+2--- rW′
+MW----------
+
++
+
++
+
+–
+
+31
+⎧
+⎨
+3⎩
+
+⎫ 33
+⎧
+⎨
+⎬
+1⎩
+⎭
+
+⎫
+⎬
+⎭
+
++
+
+32
+⎧
+⎨
+3⎩
+
+⎫ 33
+⎧
+⎨
+⎬
+2⎩
+⎭
+
+⎫
+⎬
+⎭
+
++
+
+33
+⎧
+⎨
+1⎩
+
+⎫ 13
+⎧
+⎨
+⎬
+3⎩
+⎭
+
+⎫
+⎬
+⎭
+
++
+
+33
+⎧
+⎨
+2⎩
+
+⎫ 23
+⎧
+⎬
+⎨
+3⎩
+⎭
+
+⎫
+⎬
+⎭
+
+33
+⎧
+⎨
+1⎩
+
+⎛
+⎜
+⎝
+
+⎫
+⎬
+⎭
+
+11
+⎧
+⎨
+1⎩
+
+=
+
+ϑsin2
+
+–
+
+1
+
+–
+
+⎛
+⎝
+
++
+
+12
+⎫
+⎧
+⎬
+⎨
+2⎩
+⎭
+1
+2---rM′
+---------
+M2
+
++
+
++
+
+⎫
+⎬
+⎭
+1
+M-----
+
++
+
+⎫
+⎬
+⎭
+
+13
+⎧
+⎨
+3⎩
+1
+2--- rW′
+⎞
+MW----------
+⎠
+
++
+
+14
+⎧
+⎨
+4⎩
+
+⎞
+⎫
+⎟
+⎬
+⎠
+⎭
+
+–
+
+33
+⎧
+⎨
+2⎩
+
+⎫ 23
+⎧
+⎬
+⎨
+3⎩
+⎭
+
+⎫
+⎬
+⎭
+
+1032
+
+DAVID HILBERT
+
+K44
+
+=
+
+–
+
+∂ 44
+⎧
+⎨
+r∂
+1⎩
+
+⎫
+⎬
+⎭
+
++
+
+41
+⎧
+⎨
+4⎩
+
+⎫ 44
+⎧
+⎨
+⎬
+1⎩
+⎭
+
+⎫
+⎬
+⎭
+
++
+
+44
+⎧
+⎨
+1⎩
+
+⎫ 41
+⎧
+⎨
+⎬
+4⎩
+⎭
+
+⎫
+⎬
+⎭
+
+14
+⎧
+⎨
+4⎩
+
+⎞
+⎫
+⎟
+⎬
+⎠
+⎭
+
+–
+
+–
+
+–
+
++
+
++
+
+=
+
++
+
+⎫
+⎬
+⎭
+
+⎫
+⎬
+⎭
+
+⎫
+⎬
+⎭
+
+⎫
+⎬
+⎭
+
+44
+⎧
+⎨
+1⎩
+1
+2---W″
+M-------
+gssKss
+
+11
+⎛
+⎧
+⎜
+⎨
+1⎩
+⎝
+1
+4---M′W′
+--------------
+M2
+W″
+MW----------
+
+12
+13
+⎧
+⎧
+⎨
+⎨
+2⎩
+3⎩
+1
+4--- W ′2
+MW---------- W′
+rM-------
+1
+2 M′
+2--- W ′2
+-------------
+----------
+MW 2
+rM2
+2 W′
+2
+                             2
+rMW-------------.
+–
++
+r2----
+----------
+r2M
+
+=
+
++
+
++
+
+–
+
+–
+
+–
+
+1
+2---M′W′
+--------------
+M2W
+
+K
+
+∑=
+s
+
+g
+
+=
+
+MWr2
+
+ϑsin
+
+Because
+
+we have
+
+and if we put
+
+K g
+
+=
+
+⎛
+⎝
+
+⎧
+⎨
+⎩
+
+⎞ ′
+r2W′
+---------------
+⎠
+ 
+MW
+
+–
+
+2rM′ W
+-------------------
+M3 2/
+
+–
+
+2 MW 2 W
+M-----
+
++
+
+⎫
+⎬
+⎭
+
+sin
+
+ϑ,
+
+where now 
+
+m
+
+ and 
+
+w
+
+ are the unknown functions of 
+
+M
+
+=
+
+r
+r m–------------,
+
+=
+
+W w2r m–
+r------------,
+ we ﬁnally obtain
+r,
+
+K g
+
+=
+
+⎛
+⎝
+
+⎧
+⎨
+⎩
+
+⎞ ′
+r2W′
+---------------
+⎠
+ 
+MW
+
+–
+
+2wm′
+
+sin
+
+ϑ,
+
+⎫
+⎬
+⎭
+
+[70]
+
+| so that the variation of the quadruple integral
+
+∫∫∫∫
+
+K g  r d
+
+ϑ d
+
+ϕ d
+
+ld
+
+is equivalent to the variation of the single integral
+
+and leads to the Lagrange equations
+
+∫
+
+wm′ rd
+
+m′
+w′
+
+0=
+0.=
+
+(44)
+
+THE FOUNDATIONS OF PHYSICS (SECOND COMMUNICATION)
+
+1033
+
+It is easy to convince oneself that these equations indeed imply that all 
+ vanish;
+they therefore represent essentially the most general solution of equations (36) under
+the assumptions 1., 2., 3., we made. If we take as integrals of (44) 
+α
+it=
+is a constant, and 
+(43) results in the desired metric in the form ﬁrst found by Schwarzschild
+
+ which evidently is no essential restriction, then for 
+
+ where 
+
+1,=
+
+K µν
+
+α,
+
+w
+
+m
+
+=
+
+l
+
+G rd
+
+(
+
+,
+
+ϑd
+
+,
+
+ϕd
+,
+
+ld
+
+)
+
+=
+
+r2 ϑ2d
+
++
+
+r2
+
+ϑsin2
+
+ϕ2d
+
+–
+
+(45)
+
++
+
+r
+r α–------------ r2d
+0=
+
+r
+
+r α–
+r------------ l2.d
+α
+
+r
+
+r
+
+α
+
+=
+
+If 
+
+α,
+
+gµν
+
+0=
+
+g′µν
+
+0,=
+
+ also 
+
+ then 
+
+α 0,≠
+
+The singularity of the metric at 
+ i.e. the
+metric of the pseudo-Euclidean geometry is the only regular metric that corresponds
+to a world without electricity under the assumptions 1., 2., 3.
+
+ disappears only if we take 
+
+ and, for positive 
+
+ prove to be places where
+the metric is not regular. Here I call a metric or gravitational ﬁeld 
+ regular at
+some place if it is possible to introduce by transformation with unique inverse a coor-
+dinate system for which the corresponding functions 
+ at that place are regular,
+that is they are continuous and arbitrarily differentiable at the place and its neighbor-
+hood, and have a determinant 
+
+ that differs from zero.
+
+Although in my view only regular solutions of the basic physical equations repre-
+sent reality directly, still it is precisely the solutions with places of non-regularity that
+are  an  important  mathematical  instrument  for  approximating  characteristic  regular
+solutions—and in this sense, following Einstein and Schwarzschild, the metric (45),
+not regular at 
+ is to be viewed as the expression for | gravity of a
+centrally symmetric mass distribution in the neighborhood of the origin7. In the same
+sense a point mass is to be understood as the limit of a certain distribution of electric-
+ity about one point, but I refrain at this place from deriving its equations of motion
+from my basic physical equations. A similar situation prevails for the question about
+the differential equations for the propagation of light.
+
+Following Einstein, let the following two axioms serve as a substitute for a deriva-
+
+ and 
+
+0=
+
+α,
+
+g′
+
+=
+
+r
+
+r
+
+The motion of a point mass in a gravitational ﬁeld is described by a geodesic line,
+
+tion from the basic equations:
+which is a time line8.
+
+The motion of light in a gravitational ﬁeld is described by a geodesic null line.
+Because the world line representing the motion of a point mass shall be a time
+line, it is easily seen to be always possible to bring the point mass to rest by true
+spacetime  transformations,  i.e.  there  are  true  spacetime  coordinate  systems  with
+respect to which the point mass remains at rest.
+
+The differential equations of geodesic lines for the centrally symmetric gravita-
+
+tional ﬁeld (45) arise from the variational problem
+
+[71]
+
+7
+
+8
+
+To transform the locations 
+my opinion; Schwarzschild’s transformation is moreover not the simplest that achieves this goal.
+This last restrictive addition is to be found neither in Einstein nor in Schwarzschild.
+
+ to the origin, as Schwarzschild does, is not to be recommended in
+
+α=
+
+r
+
+(46)
+
+(47)
+
+(48)
+
+(49)
+
+(50)
+
+1034
+
+DAVID HILBERT
+
+⎛
+⎝
+
+r
+r α–------------
+
+⎛
+⎝
+
+⎞ 2
+rd
+pd------
+⎠
+
+∫δ
+
++
+
+⎞ 2
+r2 ϑd
+⎛
+pd------
+⎠
+⎝
+
++
+
+r2
+
+ϑsin2
+
+⎞ 2
+ϕd
+pd------
+⎠
+
+⎛
+⎝
+
+–
+
+r α–
+r------------
+
+⎛
+⎝
+
+⎞ 2
+td
+⎞ pd
+pd------
+⎠
+⎠
+
+0,=
+
+and become, by well-known methods:
+
+r
+r α–------------
+
+⎛
+⎝
+
+⎞ 2
+rd
+pd------
+⎠
+
++
+
+⎞ 2
+r2 ϑd
+⎛
+pd------
+⎠
+⎝
+
++
+
+r2
+
+ϑsin2
+
+⎞ 2
+td
+pd------
+⎠
+
+⎛
+⎝
+
+=
+
+A,
+
+⎞ 2
+ϕd
+pd------
+⎠
+
+⎛
+⎝
+
+–
+
+r α–
+r------------
+⎞ 2
+ϕd
+pd------
+⎠
+
+0,=
+
+⎛
+⎝
+
+d r2 ϑd
+⎛
+⎞
+pd------
+⎠
+⎝
+pd
+
+–
+
+r2
+
+ϑsin
+
+ϑcos
+
+r2
+
+ϑsin2
+
+=
+
+B,
+
+ϕd
+pd------
+td
+pd------
+
+r α–
+r------------
+
+=
+
+C,
+
+where 
+
+A B C
+,
+
+,
+
+ denote constants of integration. |
+
+[72]
+
+I  ﬁrst  prove  that  the  orbits  in  the 
+
+rϑϕ
+
+-  space  always  lie  in  planes  passing
+
+through the center of the gravitation.
+
+To this end we eliminate the parameter 
+ϑ
+
+(48) to obtain a differential equation for 
+
+p
+ as a function of 
+
+ from the differential equations (47) and
+ We have the identity
+
+ϕ.
+
+d r2 ϑd
+⎛
+⎞
+pd------
+⎠
+⎝
+pd
+
+=
+
+=
+
+d r2 ϑd
+⎛
+ϕd------
+⎝
+pd
+ϕd------ ϑd
+2r rd
+ϕd------
+
+⎛
+⎝
+
+⋅
+
+ϕd
+⎞
+pd------
+⎠
+⎞ 2
+⎞ ϕd
+r2d2ϑ
+⎛
+---------
+pd------
++
+⎠
+⎠
+⎝
+ϕ2d
+
++
+
+r2 ϑd
+ϕd------d2ϕ
+---------.
+p2d
+ gives:
+p
+ϑsin2 d2ϕ
+---------
+p2d
+
+On the other hand, differentiation of (48) with respect to 
+
+⎛
+⎝
+
+2r rd
+ϕd------
+
+ϑsin2
+
++
+
+2r2
+
+sin
+
+ϑ
+
+ϑcos
+
+and  if  we  take  from  this  the  value  of 
+becomes
+
++
+
+r2
+
+⎞ 2
+⎞ ϕd
+dϑ
+⎛
+ϕd-------
+pd------
+⎠
+⎠
+⎝
+d2ϕ
+---------
+  and  substitute  on  the  right  of  (50),  it
+p2d
+
+0,=
+
+d r2 ϑd
+⎛
+⎞
+pd------
+⎠
+⎝
+pd
+
+=
+
+⎛
+⎝
+
+d2ϑ
+---------
+ϕ2d
+
+–
+
+2
+
+ϑcot
+
+⎞ 2
+⎞ 2
+⎞ r2 ϕd
+ϑd
+ϕd------
+pd------
+⎠
+⎠
+⎠
+
+⎛
+⎝
+
+.
+
+⎛
+⎝
+
+Thus equation (47) takes the form:
+
+d2ϑ
+---------
+ϕ2d
+
+–
+
+2
+
+ϑcot
+
+=
+
+sin
+
+ϑ
+
+cos
+
+ϑ,
+
+⎞ 2
+ϑd
+ϕd------
+⎠
+
+⎛
+⎝
+
+a differential equation whose general integral is
+
+THE FOUNDATIONS OF PHYSICS (SECOND COMMUNICATION)
+
+1035
+
+where 
+
+a
+
+ and 
+
+b
+
+sin
+
+b
+ denote constants of integration.
+
+ϕ a+(
+
+cos
+
++
+
+ϑ
+
+)
+
+ϑcos
+
+0,=
+
+This provides the desired proof, and it is therefore sufﬁcient for further discussion
+ Then the variational problem
+
+2 π⁄
+
+of geodesic lines to consider only the value 
+simpliﬁes as follows
+
+=
+
+ϑ
+
+.
+
+∫δ
+
+⎧
+⎨
+⎩
+
+r
+r α–------------
+
+⎛
+⎝
+
+⎞ 2
+rd
+pd------
+⎠
+
++
+
+⎞ 2
+r2 ϕd
+⎛
+pd------
+⎠
+⎝
+
+–
+
+r α–
+r------------
+
+⎛
+⎝
+
+⎞ 2
+td
+pd------
+⎠
+
+⎫ pd
+⎬
+⎭
+
+0,=
+
+and the three differential equations of ﬁrst order that arise from it are |
+
+–
+
+r α–
+r------------
+
+⎛
+⎝
+
+⎞ 2
+td
+pd------
+⎠
+
+=
+
+A,
+
+(51)
+
+[73]
+
+⎛
+⎝
+
++
+
+⎞ 2
+rd
+pd------
+⎠
+
+r
+r α–------------
+
+⎞ 2
+r2 ϕd
+⎛
+pd------
+⎠
+⎝
+r2 ϕd
+pd------
+r α–
+td
+r------------
+pd------
+The Lagrange differential equation for 
+r
+⎞ 2
+rd
+pd------
+⎠
+
+2r
+r α–------------ rd
+⎞
+pd------
+⎠
+
+α
+-------------------
+r α–(
+)2
+
+d
+pd
+
++
+
+⎛
+⎝
+
+⎛
+⎝
+
+=
+
+B,
+
+=
+
+C.
+
+–
+
+⎞ 2
+2r ϕd
+pd------
+⎠
+
+⎛
+⎝
+
++
+
+α
+r2----
+
+⎛
+⎝
+
+⎞ 2
+td
+pd------
+⎠
+
+0=
+
+is necessarily related to the above equations, in fact if we denote the left sides of (51),
+(52), (53), (54) with [1], [2], [3], [4] respectively we have identically
+
+–
+
+pd------  [2]d
+2 ϕd
+pd----------
+
++
+
+pd------  [3]d
+2 td
+pd----------
+
+=
+
+rd
+pd------[4].
+
+[1]d
+pd----------
+1,=
+
+By choosing 
+
+C
+
+stant, and then eliminating 
+equation  for 
+namely:
+
+1 r⁄
+
+=
+
+ρ
+
+ which amounts to multiplying the parameter 
+
+ by a con-
+ from (51), (52), (53) we obtain that differential
+  found  by  Einstein  and  Schwarzschild,
+
+  as  a  function  of 
+
+ and 
+
+p
+
+p
+
+ϕ
+
+t
+
+⎞ 2
+ρd
+ϕd------
+⎠
+
+⎛
+⎝
+
+=
+
+------------- Aα
+1 A+
+B2
+
+–
+
+B2-------- ρ ρ2 αρ3.
+
++
+
+–
+
+α
+
+0=
+
+ with 
+
+This  equation  represents  the  orbit  of  the  point  mass  in  polar  coordinates;  in  ﬁrst
+approximation for 
+ the Kepler motion fol-
+lows from it, and the second approximation than leads to the most shining discovery
+of the present: the calculation of the advance of the perihelion of Mercury.
+
+According to the axiom above the world line for the motion of a point mass shall
+A 0.<
+
+be a time line; from the deﬁnition of the time line it thus follows that always 
+
+αa+
+
+αb,
+
+1–
+
+B
+
+A
+
+=
+
+=
+
+ 
+
+(52)
+
+(53)
+
+(54)
+
+(55)
+
+(56)
+
+1036
+
+DAVID HILBERT
+
+We now ask in particular whether a circle, i.e. 
+
+ can be the orbit of a
+const.
+motion. The identity (55) shows that in this case—because of 
+—equation
+rd
+pd⁄
+(54) is by no means a consequence of (51), (52), (53); the latter three equations there-
+fore are insufﬁcient to determine the motion; instead the necessary equations to be
+satisﬁed are (52), (53), (54). From (54) it follows that |
+
+0=
+
+=
+
+r
+
+[74]
+
+or that for the speed 
+
+v
+
+On the other hand, since 
+
+or by using (57)
+
+⎛
+⎝
+
+ 
+
+–
+
+⎛
+⎝
+
++
+
+⎞ 2
+2r ϕd
+pd------
+⎠
+
+α
+r2----
+ on the circular orbit
+⎞ 2
+r ϕd
+td------
+⎠
+
+v2
+
+=
+
+⎛
+⎝
+
+⎞ 2
+td
+pd------
+⎠
+
+0=
+
+=
+
+α
+2r-----.
+
+A 0,<
+ (51) implies the inequality
+⎞ 2
+r2 ϕd
+⎛
+pd------
+⎠
+⎝
+
+r α–
+r------------
+
+⎞ 2
+td
+pd------
+⎠
+
+0<
+
+⎛
+⎝
+
+–
+
+r
+
+>
+
+3α
+2-------.
+
+v
+
+<
+
+1
+-------.
+3
+
+With (58) this implies the inequality for the speed of the mass point moving on a cir-
+cle9
+
+The  inequality  (60)  allows  the  following  interpretation:  From  (58)  the  angular
+
+speed of the orbiting point mass is
+
+ϕd
+td------
+So if we want to introduce instead of 
+r ϕ,
+tem co-rotating about the origin, we only have to replace
+
+α
+2r3--------.
+ the polar coordinates of a coordinate sys-
+
+=
+
+ϕ     by     ϕ
+
++
+
+α
+2r3--------t.
+
+After the corresponding spacetime transformation the metric
+
+9
+
+Schwarzschild’s (loc. cit.) claim that the speed of the point mass on a circular orbit approaches the
+limit 
+ and should not be
+regarded as accurate, according to the above.
+
+ as the orbit radius is decreased corresponds to the inequality 
+
+r α≥
+
+2⁄
+
+1
+
+(57)
+
+(58)
+
+(59)
+
+(60)
+
+(61)
+
+THE FOUNDATIONS OF PHYSICS (SECOND COMMUNICATION)
+
+1037
+
+r
+r α–------------ rd 2
+
++
+
+r2 ϕd 2
+
+–
+
+r α–
+r------------ td 2
+
++
+
+r2 ϕd 2
+
++
+
+2αr  ϕd  
+
+td
+
++
+
+⎛
+⎝
+
+α
+2r-----
+
+–
+
+r α–
+⎞ td 2.
+r------------
+⎠
+
+becomes
+
+r
+r α–------------ rd 2
+| Here the inequality 
+
+0<
+
+g44
+
+ is satisﬁed due to (60), and since the other inequali-
+ties (31) are satisﬁed, the transformation under discussion of the point mass to rest is
+a true spacetime transformation.
+
+On the other hand, the upper limit 
+
+ found in (61) for the speed of a mass
+point on a circular orbit also has a simple interpretation. According to the axiom for
+light propagation this propagation is represented by a null geodesic. Accordingly if
+we put 
+ in (51), instead of the inequality (59) the result for circular light prop-
+agation is the equation
+
+3⁄
+
+0=
+
+A
+
+1
+
+[75]
+
+⎞ 2
+r2 ϕd
+⎛
+pd------
+⎠
+⎝
+
+–
+
+r α–
+r------------
+
+⎛
+⎝
+
+⎞ 2
+td
+pd------
+⎠
+
+0;=
+
+together with (57) this implies for the radius of the light’s orbit:
+
+r
+
+=
+
+3α
+2-------
+
+v
+
+=
+
+1
+-------.
+3
+
+and for the speed of the orbiting light the value that occurs as the upper limit in (61):
+
+In general we ﬁnd for the orbit of light from (56) with 
+
+A
+
+0=
+
+ the differential
+
+equation
+
+r
+
+–
+
+⎛
+⎝
+
+=
+
+=
+
+=
+
++
+
+B
+
+⎞ 2
+ρd
+ϕd------
+⎠
+
+for 
+
+(62)
+
+3 3
+2----------α
+
+ it has the circle 
+
+ as a Poincaré “cycle”—corresponding to
+
+1
+B2------ ρ2 αρ3;
+3α
+2-------
+2
+  is  a  double  factor  of  the  right-hand  side.
+the  circumstance  that  thereupon 
+3α-------
+Indeed in this case—and correspondingly for the more general equation (56)—the
+differential equation (62) possesses inﬁnitely many integral curves, which approach
+that circle as the limit of spirals, as demanded by Poincaré’s general theory of cycles.
+ small compared
+to the ray’s distance of closest approach from the center of gravitation, then the light
+ray has approximately the form of a hyperbola with focus at the center.10 |
+
+If we consider a light ray approaching from inﬁnity and take 
+
+α
+
+–
+
+ρ
+
+1038
+
+DAVID HILBERT
+
+[76]
+
+A counterpart to the motion on a circle is the motion on a straight line that passes
+through the center of gravitation. We obtain the differential equation for this motion if
+we set 
+ from (53) and (54); the differential equa-
+tion so obtained for 
+
+ as a function of 
+
+0=
+
+ϕ
+
+r
+
+ in (54) and then eliminate 
+p
+ is
+⎞ 2
+rd
+⎛
+td-----⎝
+⎠
+
+d2r
+--------
+t2d
+
+3α
+
+–
+
+t
+
+-----------------------
+2r r α–(
+)
+with the integral following from (51)
+
++
+
+r r α–(
+)
+-------------------
+2r3
+
+0=
+
+⎞ 2
+rd
+⎛
+td-----⎝
+⎠
+
+=
+
+⎞ 2
+r α–
+r------------
+⎠
+
+⎛
+⎝
+
++
+
+⎞ 3
+A r α–
+⎛
+r------------
+⎠
+⎝
+
+.
+
+According to (63) the acceleration is negative or positive, i.e. gravitation acts attrac-
+tive or repulsive, according as the absolute value of the velocity
+
+(63)
+
+(64)
+
+or
+
+For light we have because of (64)
+
+rd
+td-----
+
+<
+
+1
+-------r α–
+r------------
+3
+
+      
+
+>
+
+1
+-------r α–
+r------------.
+3
+
+rd
+td-----
+
+=
+
+r α–
+r------------;
+
+d2r
+--------
+t2d
+
+–=
+
+α
+
+2--- 1
+r2----.
+
+light propagating in a straight line towards the center is always repelled, in agreement
+with the last inequality; its speed increases from 0 at 
+
+ to 1 at 
+
+α=
+
+∞.
+
+=
+
+r
+
+r
+
+ as well as 
+
+dr dt
+
+⁄
+
+ are small, (63) becomes approximately the Newtonian
+
+α
+
+When 
+equation
+
+10 A detailed discussion of the differential equations (56) and (62) will be the task of a communication
+
+by V. Fréedericksz to appear in these pages.
+
+

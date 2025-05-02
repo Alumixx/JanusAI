@@ -1,0 +1,7 @@
+[o) 1 2 3 4 5
+Redshift
+
+FIGURE 4. (Estimated) mass distribution of 14,584 quasar central engines (CEs) with z >
+0.2, as functions of redshift z, from the Sloan Digital Sky Survey Data Release 3, within an
+effective sky area of 1644 deg?, taken from Vestergaard et al (2008). Squares denote median
+masses in each redshift bin. The dashed curve indicates faint SDSS flux limits.

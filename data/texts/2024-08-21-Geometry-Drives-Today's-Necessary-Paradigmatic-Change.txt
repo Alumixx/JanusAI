@@ -1,0 +1,1172 @@
+	
+
+1	
+
+J.P.Petit1	,	H.Zejli2		
+Manaty	research	group	
+
+Geometry	Drives	the	Today’s	Necessary	Paradigmatic	Change	
+
+____________________________________________________________________________________________________	
+Keywords	:		
+Field	equation,	bimetric	model,	Janus	Cosmological	Model,	Dynamic	group,	Janus	group,	
+Two-folds	cover,	Poincaré	group,	Lorentz	group,	orthochronic,	antichronic,	dark	matter,	
+dark	energy,	negative	mass,	Saharov,	antimatter,	twin	universe,	Boy	surface,	projective	
+space,	T-symmetry,	PT-symmetry,	CPT-symmetry,	runaway	phenomenon,	action,	
+bimetric	cosmology,		
+____________________________________________________________________________________________________	
+Abstract:	
+It	is	recalled	that	the	construction	of	special	relativity	and	then	general	relativity	was	
+based	on	changes	in	the	geometric	paradigm.	Starting	from	the	difficulties	encountered	
+by	the	LCDM	model,	we	propose	this	change	of	geometric	paradigm	represented	by	the	
+Janus	cosmological	model,	specifying	its	topological	bases,	its	structure	as	a	two-sheet	
+covering	of	a	projective	P4	and	its	associated	dynamical	group	structure.	We	show	he	
+such	geometry	of	spacetime	goes	with	PT-symmetry.	This	is	completed	by	the	
+construction	of	its	system	of	coupled	field	equations	from	an	action	
+____________________________________________________________________________________________________	
+1	-	Introduction.		
+Recent	observations	show	that	the	current	cosmological	model,	the	LCDM	model,	which	
+is	considered	to	be	standard,	is	confronted	with	a	growing	number	of	contradictions.	
+These	include	the	discovery	of	the	lacunar	structure	of	the	universe,	the	early	birth	of	
+galaxies	and	first-generation	stars	revealed	by	the	JWST	telescope,	the	lack	of	detection	
+of	primeval	dark	matter	and	the	impossibility	of	giving	an	identity	to	dark	energy.	As	a	
+result,	a	growing	number	of	scientists	agree	that	it	is	now	legitimate	to	envisage	a	
+paradigm	shift,	i.e.	an	attempt	to	go	beyond	the	framework	imposed	by	General	
+Relativity.	This	last	model	is	a	perfect	illustration	of	the	geometric	nature	of	successive	
+paradigm	shifts.	Prior	to	1905,	space	and	time	were	considered	as	independent	
+variables.	A	space	that	was	also	assumed	to	be	Euclidean,	i.e.	defined	by	a	Euclidean	
+metric,	operating	in	three	dimensions	of	space	
+(1)																																																																	
+The	corresponding	Gramm	matrix	is	the	unit	matrix:		
+	
+1	jean-pierre.petit@manaty.net	
+2	hicham.zejli@manaty.net	
+
+  ds2 = (dx 1)2 + (dx 2 )2 + (dx 3 )2
+
+{
+   x1 , x2 , x3
+
+			
+
+		
+
+}
+
+  
+
+  
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+  
+
+⎞
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎝
+
+C =
+
+G =
+
+		
+
+2	
+
+a C
+1
+0
+
+Δ x1
+Δ x2
+Δ x3
+
+1 0 0
+0 1 0
+0 0 1
+
+	
+(2)																																																																				
+The	isometry	group	being	Euclid's	group	is:		
+(2)																																																																								
+	
+		
+Where	a	belongs	to	the	orthogonal	group	and	where	C	is	the	translation	vector		:		
+	(3)																																																																							
+		
+The	advent	of	Special	Relativity	can	be	summed	up	by	the	integration	of	time	and	space	
+,	defined	by	its	Lorentzian	metric:		
+into	a	four-dimensional	space-time.	
+(2)																																																						
+The	corresponding	Gramm	matrix	is:		
+(3)																																																												
+The	isometry	group	becomes	the	Poincaré	group,	represented	by	the	matrices:		
+		
+(4)																																																																											
+Where	C	is	the	vector	of	space-time	translations:		
+		
+(5)																																																																							
+And	where	L	represents	the	Lorentz	group,	defined	by		:		
+(6)																																																																												
+		
+
+  ds2 = (dxo)2 − (dx 1)2 − (dx 2 )2 − (dx 3 )2
+
+1
+0
+0 −1 0
+0
+0
+
+0
+0
+−1 0
+0
+−1
+
+{
+   xo , x1 , x2 , x3
+
+Δ xo
+Δ x1
+Δ x2
+Δ x3
+
+L C
+0
+1
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+		
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎠
+
+G =
+
+C =
+
+⎛
+⎝⎜
+  
+
+0
+0
+
+	
+
+⎞
+⎠⎟
+
+}
+
+0
+
+  
+
+  
+
+ L tG L = G
+
+µ ν
+
+χ
+
+Λ
+
+dxν
+
+∑
+
+D4∫
+
+		
+
+		
+
+gµν
+ 
+
+J =
+  
+
+gµν dxµ
+
+ds2 =
+  
+
+( R − 2Λ− χ L ) − g d 4x
+
+3	
+	
+The	transition	to	General	Relativity	means	that	space-time	is	given	a	curvature.	The	
+metric	is	no	longer	the	Lorentzian	metric	(2)	but	a	more	general	metric:		
+(7)																																																																	
+	being	the	metric	tensor.		
+This	General	Relativity	is	then	equipped	with	a	field	equation,	introduced	in	1915	[1]	
+from	the	Hilbert-Einstein	action:	
+(8)																																																										
+Where	R	is	the	Ricci	scalar,	L	the	Lagrangian	of	matter,	g	the	determinant	of	the	metric,	
+the	Einstein	constant	and	
+the	cosmological	constant	.	Its	derivation	leads	to	the	field	
+equation:	
+(9)																																																												
+	
+Space-time	then	has	the	structure	of	a	Lorentzian	manifold	M4.	
+In	stationary	situations,	theorists	relied	on	the	metric	solutions	introduced	in	1916	by	K.	
+Scharzchild	([2],[3]).	However,	from	the	late	1970s	onwards,	in	order	to	account	for	the	
+flat	velocity	profiles	at	the	periphery	of	galaxies	and	the	high	velocities	of	galaxies	in	
+clusters,	theorists	began	to	consider	the	existence	of	positive-mass	dark	matter	of	an	
+unknown	nature	that	escaped	observation.	
+For	unsteady	situations,	until	2011	they	used	solutions	to	the	cosmological	constant-free	
+equation,	based	on	an	assumption	of	homogeneity	and	isotropy.	But	observations	in	
+2011	showed	that	the	cosmic	expansion	was	accelerating	([4],	[5],	[6]).	The	
+cosmological	constant	was	then	reintroduced	into	the	equation.		
+There	is	one	final	point:	the	absence	of	observations	of	primordial	antimatter.	The	
+photons	that	make	up	the	background	radiation	at	2.7°K	are	supposed	to	result	from	the	
+annihilation	of	primordial	matter-antimatter	pairs.	Normally,	this	annihilation	should	
+have	been	complete	and	it	remains	a	mystery	why	any	matter	particle	survived.	Nor	do	
+we	understand	why	its	antimatter	equivalent	has	not	been	detected.	This	is	no	mean	feat,	
+in	the	sense	that	we	are	losing	half	the	universe	from	the	outset.		
+	2	–	When	André	Sakharov	was	the	first	to	envisage	a	change	in	geometry.		
+At	the	stage	we	have	just	described,	the	universe	is	an	orientable	M4	manifold,	including	
+a	singular	point,	the	Big	Bang.	There	is	no	limit	to	cosmic	expansion.	Cosmic	acceleration	
+gives	space-time	a	negative	curvature	index.		
+	
+
+Rµν + Λgµν
+  
+
+R gµν = χTµν
+
+1
+2
+
+	
+
+	
+
+4	
+
+	
+
+Fig.	1	:		The	standard	universe	model	
+
+	But	the	universe	then	presents	a	matter-antimatter	dissymmetry.	The	existence	of	the	
+latter	is	proven:		the	reactions	in	which	the	C-symmetry	appears	take	place	in	different	
+timescales.	In	1967,	Sakharov	([7],[8],[9])	therefore	imagined	reconstituting	global	
+symmetry	by	endowing	the	knowable	universe	with	a	twin	universe,	CPT-symmetric	
+with	our	own.	
+
+	
+
+Fig.	2	:	The	twin	worlds	of	A.	Sakharov.	
+
+	Considering	that	matter	arises	from	the	union	of	quarks	and	antimatter	from	antiquarks,	
+as	well	as	the	dissymmetry	already	observed,	he	proposes	that	the	synthesis	of	matter	in	
+our	universe	was	faster	than	the	synthesis	of	antimatter.	After	annihilation,	photons	
+from	the	annihilations,	a	small	quantity	of	matter	and	an	equivalent	remnant	of	
+antiquarks	would	remain	in	our	side	of	the	universe.	The	situation	being	reversed	in	the	
+twin	universe.	This	theory	is	currently	the	only	explanation	for	the	proven	absence	of	
+cosmological	antimatter.	Note	that	the	Big	Bang	singularity	can	be	replaced	by	a	tubular	
+passage.:		
+	
+
+	
+
+5	
+
+Fig.3	:	The	Sakharov	model,	without	singularity.		
+	3	–	The	Janus	model:	how	to	fold	this	structure	in	on	itself	[10].		
+Before	considering	this,	it	is	necessary	to	assume	that	the	observable	universe	has	the	
+topology	of	a	sphere	S2.	Below	is	the	didactic	image	in	2D.		
+
+	
+
+Fig.4	:	Didactic	image	of	spherical	space-time.	
+
+	In	this	didactic	image,	space,	closed	in	on	itself,	is	represented	by	a	simple	circle	which,	
+starting	from	a	first	Big	Bang	singularity,	experiences	a	state	of	maximum	expansion,	at	
+the	equator,	then	contracts	as	it	converges	towards	a	second	singularity,	known	as	the	
+Big	Crunch,	these	two	points	being	antipodal.:		
+
+	
+
+	
+
+	
+
+6	
+
+	
+
+Fig.	5	:	The	Big	Bang	and	the	Big	Crunch,	antipodal.	
+
+	The	idea	of	having	points	in	space-time	interact	with	points	located	at	space-time	
+antipodes	was	considered	in	1994	[10].	The	universe	can	then	be	considered	as	the	two-
+folds	cover	of	an	inorientable	projective	P4.	To	illustrate	this	idea,	let	us	show	how	a	2D	
+spacetime	can	then	be	configured	as	a	two-folds	cover	of	a	P2	projective,	which	can	be	
+represented	by	the	surface	imagined	in	1902	by	the	mathematician	Werner	Boy	[11].	
+	
+
+	
+
+Fig.	6	:	Boy's	surface,	the	vicinity	of	its	equator	and	the	triple	point.	
+
+	This	triple	point	arises	only	from	the	way	in	which	the	projective	space	P2	is	
+represented	as	an	immersion	in	R3.	Similarly,	the	projective	does	not	have	a	helical	self-
+intersection	curve.		
+	
+
+	
+
+7	
+
+	
+
+Fig.7	:	Boy's	surface,	triple	point	and	self-intersection	curve.		
+
+	
+	This	only	results	from	the	mode	of	representation	in	the	form	of	an	immersion	in	R3.	
+Just	as	the	self-intersection	curve	of	the	Klein	bottle	is	only	the	result	of	this	mode	of	
+representation.		
+
+	
+
+Fig.	8	:	Klein	bottle	and	T2	torus.	
+
+	The	T2	torus	is	itself	the	result	of	the	two-folds	covering	of	this	Klein	bottle	K2.	We	can	
+endow	the	Boy	surface	with	meridians,	converging	at	its	single	pole.	The	Euler	Poincaré	
+characteristic	of	the	Boy	surface	is	unity.	If	we	decide	to	tessellate	it,	this	tessellation	will	
+therefore	include	a	single	tessellation	singularity	of	order	unity	[12].		Since	the	
+characteristic	of	a	sphere	of	even	dimension	is	2,	this	is	also	the	characteristic	of	the	2D	
+sphere,	which	therefore	has	two	tessellation	singularities	of	order	unity,	its	poles.	
+During	the	coating	process,	these	two	antipodal	poles	will	coincide.	Let's	look	at	what	
+happens	to	the	meridians	of	the	sphere,	which	are	the	neighbors	of	its	time	lines.	These	
+will	be	configured	as	a	two-sheet	covering	of	the	meridians	of	Boy's	surface.	Here	are	
+three	meridians	of	the	surface.			
+
+8	
+
+	
+
+	And	its	equator:		
+	
+
+Fg.9	:	Méridiens	de	la	surface	de	Boy.		
+
+	
+
+		
+Fig.10	:	The	equator	of	Boy's	surface:	a	Möbius	strip	with	3	half-turns.	
+
+Next,	the	equator	and	one	meridian:		
+
+	
+	
+	
+
+	
+
+9	
+
+Fig.	11	:	Boy's	surface,	equator	and	a	meridian.		
+
+The	coating	operation	will	invert	the	arrow	of	time,	as	can	be	seen	in	the	vicinity	of	a	
+meridian	time	line,	which	is	then	configured	as	a	two-sheet	coating	of	a	half-turn	Möbius	
+strip.:		
+	
+
+Fig.12	:	Reversing	time	on	a	meridian.	
+
+This	can	also	be	seen	by	bringing	antipodal	points	on	the	equator	of	a	sphere	S2	into	
+coincidence.	
+
+	
+
+	
+
+Fig.13	:	Time	reversal	on	the	equator.	
+
+	
+
+	
+
+10	
+	
+This	coating	operation	also	induces	an	enantiomorphy	of	adjacent	surface	portions.	Here	
+is	an	example	of	the	folding	of	the	equator	of	the	sphere	S2	according	to	the	two-sheet	
+coating	of	a	Möbius	strip	with	three	half-turns.			
+
+	
+
+14	–	The	mirror	symmetry	induced	by	the	two-sheet	covering	of	a	projective	P2.	
+	In	relation	to	the	Sakharov	model,	we	obtain	the	following:			
+	
+
+	
+
+Fig.15	:	Didactic	image	of	the	Janus	model.	
+
+Note	in	passing	that	we	can	then	make	the	singularity	at	the	common	pole	disappear	by	
+replacing	it	with	a	small	tube.		
+
+	
+	
+
+	
+
+11	
+
+Fig.16	:	The	polar	singularity	disappears.	
+
+	
+
+	In	other	words:		
+
+	
+Fig.17	:	Cosmological	model	with	no	Big	Bang	singularity.			
+
+	The	object,	whose	Euler-Poincaré	characteristic	is	then	zero,	corresponds	to	the	
+configuration	given	to	a	toric	space-time	in	a	two-sheet	covering	of	a	Klein	bottle	K2.		
+All	these	operations	can	be	extended	to	a	spacetime	with	the	topology	of	an	orientable	
+sphere	S4,	which	is	then	configured	as	a	two-sheet	covering	of	a	projective	P4.	We	know	
+that	PN	projectives	are	inorientable	when	N	is	even,	and	orientable	when	N	is	odd.		
+These	geometric	considerations	lead	us	to	consider	the	interaction	between	two	
+adjacent	regions	of	PT-symmetric	space-time	
+		.		
+
+⎞
+⎟
+⎠
+
+⎛
+⎜
+⎝
+  
+
+λ = ± 1
+
+ λ = −1
+
+λ Lo C
+1
+0
+
+12	
+	
+	4	–	Interpretation	of	T-symmetry	according	to	dynamic	group	theory.	
+	The	first	Janus	group,	incorporating	this	PT-symmetry	[13],	is	the	dynamic	group	[14].:		
+(10)																																																					
+	t	
+Lo	is	then	the	subgroup	of	the	complete	Lorentz	group,	or	restricted	Lorentz	group,	
+limited	to	its	two	orthochronous	components.	The	value	
+then	corresponds	to	this	
+PT-symmetry.	The	Lorentz	group	has	four	connect	components.	
+Let's	call	Ln	the	neutral	component,	which	contains	the	neutral	element	of	the	group.		
+Ls	is	the	component	that	inverts	space	but	not	time.		
+Lt	is	the	component	that	inverts	time	but	not	space.		
+Lst	is	the	component	that	inverts	both	space	and	time.		
+The	first	two	form	the	orthochronous	subgroup	:		
+		
+(11)																																																																								
+The	next	two	are	the	two	antichronous	components::		
+	
+(12)																																																																									
+It	is	clear	that:		
+	
+(13)																																																																										
+This	configuration	would	therefore	cause	two	adjacent	regions	to	interact,	with	the	
+action	of	adjacent	masses	being	equivalent	to	that	of	negative	masses	
+	3	–	Extension	incorporating	CPT-symmetry.		
+The	fact	of	endowing	masses	with	an	electric	charge	has	been	considered	as	the	fact	that	
+they	evolve	in	a	five-dimensional	Kaluza	space	([15],	[16]).	If	we	consider	this	fifth	
+dimension	as	a	simple	fibre,	this	additional	symmetry,	in	the	form	of	a	simple	translation	
+along	this	fifth	dimension,	will	lead	to	the	constancy	of	a	scalar,	the	electric	charge.	The	
+associated	group	structure	with	its	action	on	a	five-dimensional	space	is	then	[13]:		
+(14)																																				
+
+La = Lt ∪ Lst
+ 
+
+ Lo = Ln ∪ Ls
+
+ La = − Lo
+
+		
+
+with
+
+ξ =
+
+×
+
+1 0
+φ
+0 L C
+1
+0 0
+
+⎞
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎝
+
+ζ
+ξ
+1
+
+⎞
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎝
+  
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎝
+
+xo
+x1
+x2
+x2
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎠
+
+⎞
+⎟
+⎟
+⎟
+⎠
+
+avec
+
+		
+
+⎛
+⎜
+⎜
+⎜
+⎝
+ 
+
+λµ
+0
+0
+
+13	
+
+λ = ± 1
+µ = ± 1
+
+0
+φ
+λLo C
+1
+0
+
+	
+The	Janus	group	[13]	translates	the	CPT-symmetry:		
+(15)																																								
+It	then	has	eight	connex	components.	The	choice	(l =	1	;	 m	=	-	1	)		inverts	the	fifth	
+dimension,	which	is	the	geometric	translation	of	C-symmetry	[17].			
+The	choice	(l =	-	1	;	m	=		1	)		translates	CPT-symmetry.		
+Note:	if	we	want	this	configuration	to	reflect	a	configuration	in	the	covering	of	a	
+projective	PN,	N	must	be	even,	otherwise	the	projective	is	orientable	and	we	lose	the	
+symmetries	on	time	and	space.	The	extension	can	therefore	be	carried	out	with	an	even	
+number	of	additional	dimensions,	using	the	dynamic	group:		
+	
+(16)					
+	
+Each	additional	dimension	is	associated	with	an	invariant	scalar.	The	first	is	the	electric	
+charge	q.	The	next	are	the	baryonic,	leptonic,	muonic	charges,	etc	.		
+If	this	representation	of	charges	is	correct,	then	their	number	should	be	even,	which	
+would	fit	in	with	the	10-dimensional	extension	of	string	theory.		
+	5-	Integration	of	negative	masses	in	the	cosmological	model.	
+If	these	masses	of	opposite	signs	interact,	then	according	to	what	laws?	If	we	base	this	
+action	on	Einstein's	equation,	we	come	up	against	an	unmanageable	paradox.	If	the	
+source	of	the	gravitational	field	is	a	positive	mass,	the	metric	derived	from	this	
+hypothesis	gives	geodesics	that	suggest	attraction.		:	
+
+0
+φ1
+0 φ2
+...
+...
+0
+φp
+λLo C
+0
+1
+
+0
+0
+...
+λµ
+0
+0
+
+0 0 ...
+0 0 ...
+0 0 ...
+
+0
+...
+λµ ...
+...
+...
+
+λµζp + φp
+λLoξ + C
+
+λµζ1 + φ1
+λµζ2 + φ2
+
+ζ1
+ζ2
+...
+ζp
+ξ
+1
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+ 
+
+λµ
+0
+...
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+µ = ± 1
+
+...
+
+×
+
+=
+
+1
+
+	
+
+	
+
+14	
+
+	
+
+	
+
+Fig.18	:	Geodesics	associated	with	a	field	created	by	a	positive	mass.		
+
+	Positive	masses	are	represented	in	red	and	negative	masses	in	green.	Since	there	is	only	
+one	family	of	geodesic	solutions,	we	can	deduce	that	positive	masses	attract	their	
+counterparts	just	as	well	as	negative	masses.		Now	let's	look	at	the	field	created	by	a	
+negative	m:		
+
+Fig	19	:	Geodesics	associated	with	a	field	created	by	a	negative	mass.	
+
+	Conclusion:	negative	masses	repel	their	counterparts	just	as	well	as	positive	masses.	All	
+this	was	studied	and	demonstrated	in	1954	by	Herman	Bondi	([18],	[19]).	Let's	place	
+two	masses	of	opposite	signs	in	front	of	each	other:	
+
+	
+
+15	
+
+	
+
+ R
+
+ R
+
+T µν
+ 
+
+T µν
+ 
+
+gµν
+ 
+Rµν
+ 
+
+gµν
+ 
+Rµν
+ 
+
+and	
+
+Fig.	20	:	Runaway	effect.	
+
+	
+Positive	mass	flees,	pursued	by	negative	mass.	The	action-reaction	principle	is	violated.	
+The	acceleration	of	the	couple	takes	place	at	constant	total	energy,	since	that	of	the	
+negative	mass	is	itself	negative.	At	the	time,	the	conclusion	was	that	it	was	impossible	to	
+include	negative	masses	in	a	cosmological	model.	It	is	indeed	impossible	with	a	single	
+metric.	But	it	becomes	possible	if	we	assign	two	different	metrics	to	adjacent	folds,	
+.	These	two	metric	fields	will	then	generate	their	own	field	of	Ricci	tensors	
+and		
+and	
+.	We	will	therefore	have	two	
+	as	well	as	the	corresponding	Ricci	scalars	
+.			
+and		
+and	
+matter	fields	
+.	To	these	we	will	add	two	interaction	tensors	
+It	will	then	be	possible	to	construct	a	system	of	two	coupled	field	equations	[23]	through	
+the	action	
+The	action	is:		
+(17)																																			
+		
+		The	terms	involving	Ricci	scalars	are	treated	in	the	traditional	way,	in	the	derivation	of	
+the	Einstein	equation	from	the	Hilbert-Einstein	action.	It	follows	that:		
+	(18)		
+	
+	Posing:		
+
+⎡
+δR
+D4∫
+δgµν +
+⎢
+⎢
+⎣
+⎡
+δR
+δgµν +
+⎢
+⎢
+⎣
+
+1
+−g
+δ( −g σ )
+
+δ −g
+δgµν +
+δ −g
+δgµν +
+
+) −g + R + S + σ
+
+δg( + )µν
+⎤
+⎥
+⎥
+⎦
+
+1
+−g
+1
+−g
+
+−g δgµνd4x
+
+−g δgµνd4x
+
+δ( −g σ )
+
+δ( −g S )
+
+δ( −g S)
+
+R + S + σ
+
+) −g
+
+R
+−g
+
+R
+−g
+
+1
+−g
+
+t µν
+ 
+
+J =
+ 
+
+t µν
+ 
+
+δJ =
+
+δgµν
+
+δgµν
+
+δgµν
+
+D4∫
+
+D4∫
+
+d4x
+
+⎤
+⎥
+⎥
+⎦
+
+⎡
+⎣
+
+⎤
+⎦
+
++
+
++
+
++
+
+(
+
+(
+
+ 
+
+ 
+
+ 
+
+	
+
+	
+
+	
+
+δgµν
+
+δgµν
+
+1
+−g
+
+1
+−g
+
+1
+−g
+
+δ( −g S )
+
+= − χ Tµν
+
+= − χ Tµν
+
+δ( −g S)
+
+δ( −g σ )
+
+16	
+
+	
+(19)																																																			
+	(20)																																																				
+			(21)																																																			
+	(22)																																																						
+			We	get	the	system	of	coupled	field	equations		:		
+(23a)																																																						
+	
+(23b)																																																						
+If	we	focus	on	the	solutions	in	Newtonian	approximation,	we	immediately	obtain	the	
+direction	of	the	forces:		
+
+R gµν = − χ Tµν +
+
+R gµν = χ Tµν +
+
+g σ )
+!
+δgµν
+
+R µν −
+ 
+
+Rµν −
+ 
+
+= χ tµν
+
+= χ tµν
+
+1
+−g
+
+δ( −
+
+		
+
+		
+
+δgµν
+
+tµν
+
+tµν
+
+g
+g
+
+1
+2
+
+1
+2
+
+g
+g
+
+⎡
+⎢
+⎢
+⎣
+
+⎤
+⎥
+⎥
+⎦
+
+⎡
+⎢
+⎢
+⎣
+
+⎤
+⎥
+⎥
+⎦
+
+	
+
+  
+
+ 
+
+	
+
+Fig.21	:	Direction	of	forces	in	the	Janus	model.		
+
+	This	satisfies	the	action-reaction	principle.	This	is	due	to	the	minus	sign	in	the	second	
+member	of	the	second	equation.		This	system	has	been	developed	in	the	form	of	an	
+unsteady	solution,	showing	that	the	acceleration	of	the	expansion	is	due	to	the	
+asymmetry	of	the	model	[22],	with	a	pre-eminence	of	the	negative	masses	[13],	which	
+then	drives	the	construction	of	the	structure	on	a	very	large	scale	[20].	The	study	of	
+geodesics	in	a	stationary	situation	then	reveals	the	confinement	of	positive	masses	by	
+their	environment	of	negative	masses	[21].		
+
+17	
+	
+The	establishment	of	this	asymmetry,	resulting	from	an	instability	of	the	system,	which	
+was	initially	symmetrical,	will	be	the	subject	of	a	subsequent	article.	
+	
+Conclusion	:		
+We	recall	that	the	transitions,	first	to	special	relativity	and	then	to	general	relativity,	are	
+based	on	paradigmatic	changes	of	a	purely	geometric	nature.	After	discussing	the	
+growing	difficulties	encountered	by	the	Standard	Model,	we	move	towards	a	topological	
+solution.	After	evoking	Andréi	Sakharov's	attempt,	in	which	his	twin	universes	did	not	
+interact,	we	fold	this	model	back	on	itself	by	opting	for	a	two-sheet	covering	of	a	
+projective	P4.	We	then	show	that	this	operation	leads	to	a	PT-symmetry.	Extending	this	
+model	to	two	CPT-symmetric	entities,	we	consider	the	addition	of	extra	dimensions,	
+extending	the	approach	initiated	by	Kaluza.	The	group	structure	is	constructed.	We	then	
+show	that	this	extension	implies	the	addition	of	a	necessarily	even	number	of	extra	
+dimensions.	We	show	that	a	bimetric	description	is	required	and,	on	the	basis	of	an	
+action,	we	produce	a	system	of	coupled	equations	that	satisfies	the	action-reaction	
+principle,	thus	escaping	the	unmanageable	runaway	phenomenon..		
+	
+References	:		
+[1]	A.	Einstein	:	Die	Feldgleichungen	des	Gravitation	(	The	Field	Equation	of	Gravitation).	
+Sitzungsber.	XLIV	,	8	,	778	and	XLVI	s.	799	(	25	nov	1915)	
+[2]	K.	Schwarzschild	:	Über	das	Gravitationsfeld	Messenpunktes	nach	der	Einsteinschen	
+Theorie.	Sit.	Deut.	Akad.	Wiss.	1916	
+	[3]	K.	Schwarzschild	:	Über	das	Gravitionalsfeld	einer	Kugel	Aus	incompressibler	
+Flüssigkeit	nach	der	Einsteinschen	Theorie.	Sitzung	der	phys.	Math.	Klasse	v.23	märz	
+1916	
+	[4]	Perlmutter,	S.,	et	al.		1999,	ApJ,	517,	565	
+	[5]	Riess	A.	G.	2000,	PASP,	112,	1284	
+	[6]	B.Schmidt	Observational	evidence	from	supernovae	for	an	accelerating	universe	and	
+cosmological	constant.	Astron.	J.	116,	pp	1009-1038	(1998).	
+	[7]	A.D.Sakharov,	ZhETF	Pis’ma	5	:	32	;	JETP	Lett.	5	:	24	(	1967	)	
+	[8]	A.D.Sakharov	,	ZhETF	Pis’ma	76	:	1172	(1979)	;	JETP	49	:	594	(1979)	
+	[9]	A.D.Sakharov	,	(1980).	Cosmological	Model	of	the	Universe	with	a	Time	Vector	
+Inversion.	ZhETF	(Tr.	JETP	52,	349-351)	(79):	689–693	
+[10]	J.P.Petit	:	The	missing	mass	problem.	Il	Nuovo	Cimento	B	Vol.	109	July	1994,	pp.	
+697-710	
+	[11]	W.Boy	:Über	die	curvatura	integra	und	die	Topologie	geschlossener	Flächen.	1902	
+
+	
+18	
+[12]	J.P.Petit	:	Topo	the	World.	http	:www://savoir-sans-
+frontieres.com/JPP/telechargeablesEnglish/topo_the_world_eng.htm	
+[13]	J.P.Petit,	G.D’Agostini	:	Negative	Mass	hypothesis	in	cosmology	and	the	nature	of	
+dark	energy.	Astrophysics	And	Space	Sccience,.	A	29,	145-182	(2014)	
+	[14]	J.M.	Souriau	:	Structure	of	Dynamical	Systems.	Birkhaüser	Ed.	Berlin	1997	and	
+Structure	des	Systèmes	Dynamiques,	Dunod	Ed.	1970.		
+[15]	T.Kaluza.	Sitzungsber	Preuss	Akad.	Wiss.	Berlin	Math.	Phys.	K1,	966	
+[16]	O.Klein.	Z	;	Phys.	37,	895	
+[17]	J.M.Souriau	:	Géométrie	et	Relativité	(in	french).	Ed.	Hermann	1954	
+	[18]	Bondi	H.	:	Negative	mass	in	General	Relativity.	Rev.	of	Mod.	Phys.,	Vol	29,	N°3,	
+july1957	
+	[19]	Bonnor	W.	B.	:	Negative	mass	and	general	relativity.	General	Relativity	and	
+Gravitation	Vol.	21,	N°11,	1989		
+	[20]	J.P.PETIT,	Twin	Universe	Cosmology,	Astrophys.	and	Sp.	Science,	226,	273-307,	
+1995	
+	[21]	J.P.Petit,	G.D’Agostini	:	Cosmological	Bimetric	model	with	interacting	positive	and	
+negative	masses	and	two	different	speeds	of	light,	in	agreement	with	the	observed	
+acceleration	of	the	Universe.	Modern	Physics	Letters	
+A,	Vol.29	;	N°	34,	2014	;	Nov	10th	
+[22]	G.	DAgostini	and	J.P.Petit	:	Constraints	on	Janus	Cosmological	model	from	recent	
+observations	of	supernovae	type	Ia,	Astrophysics	and	Space	Science,	(2018),	
+[23]	J.P.Petit,	G.	D’Agostini,	N.Debergh	:	Physical	and	mathematical	consistency	of	the	
+Janus	Cosmological	Model	(JCM).	Progress	in	Physics	2019	Vol.15	issue	1	
+
+									
+
+

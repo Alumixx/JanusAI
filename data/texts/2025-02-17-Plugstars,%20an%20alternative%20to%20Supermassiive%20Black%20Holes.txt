@@ -1,0 +1,441 @@
+Plugstars: a Physical Alternative to Supermassive Black Holes
+
+J.-P. Petit∗ and G.D’Agostini†
+
+Manaty Research Group
+
+Observations of hypermassive central objects M87* and SgrA* have led to the classical interpre-
+tation of supermassive black holes. However, a critical analysis of the inner Schwarzschild metric
+reveals the existence of a stable subcritical structure, which could explain these objects without
+requiring an event horizon. We demonstrate that these objects, called "plugstars", have a finite
+gravitational redshift compatible with observational data.
+Keywords: black hole, quasar, Janus cosmological Model
+
+I.
+
+INTRODUCTION : PROBLEM OF SUPERMASSIVE BLACK HOLES.
+
+For several decades, black holes have been considered as the natural outcome of the gravitational collapse of massive
+objects. However, their description is based on the existence of an event horizon and an infinite gravitational redshift,
+two concepts that are not directly verifiable. Observations of the central objects of M87 and SgrA* by the Event
+Horizon Telescope (EHT) collaboration provide finite redshift measurements, challenging the existence of horizons.
+
+II. THE SCHWARZSCHILD MODEL FOR AN INCOMPRESSIBLE FLUID STAR
+
+In his article of February 1916 [1] Karl Schwarzschild gives this construction of the metric describing the geometry
+inside a sphere filled with an incompressible fluid. We reproduce this expression exactly as it appears in equation (35)
+of the original German edition
+
+(cid:18)3 cosχa − cosχ
+
+(cid:19)2
+
+2
+
+ds2 =
+
+dt2 − 3
+κ ρ0
+
+(dχ2 + sin2χ dϑ2 + sin2χ sin2ϑ dϕ2)
+
+Schwarzschild takes the value c of the speed of light in a vacuum to be equal to 1. ρ0 is the density, which is
+
+constant inside the sphere. We have :
+
+The angles (χ, ϑ, ϕ) are the classical spherical coordinates. A characteristic length appears in the expression:
+
+We can pass from the angular coordinate to the radial coordinate r, the Euclidean norm of space vector (x, y, z) by
+
+:
+
+κ = 8πG
+
+ˆR2 = 3c2
+8πGρ0
+
+r = ˆR sinχ
+
+The radius of the star is given by :
+
+Schwarzschild denotes by f4 the term gtt of the metric
+
+R∗ = ˆR sinχa
+
+(cid:18)3 cosχa − cosχ
+
+(cid:19)2
+
+2
+
+f4 =
+
+∗ jean-pierre.petit@manaty.net (retired from CNRS)
+† gilles.dagostini@manaty.net
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+The time factor is the expression corresponding to a stationary observer, located inside the sphere :
+
+(cid:18)3 cosχa − cosχ
+
+(cid:19)
+
+2
+
+f =
+
+ds = f dt
+
+(ρ0 + p)pf4 = konst. = γ
+
+Then we have
+
+Schwarzchild then obtains (his equation (10) ), the way in which the pressure inside the sphere varies:
+
+(9)
+In this parenthesis, Schwarzchild sums the constant energy density ρ0c2 (with c = 1) and the pressure. We can
+consider that the matter at the centre of a star, when the energy density becomes very high, is in the form of radiation,
+with a radiation pressure:
+
+The modern form of this internal metric [2] is :
+
+s
+
+3
+
+2
+
+ds2 =
+
+1 − R∗2
+
+ˆR2 − 1
+
+2
+
+The term f4 = gtt becomes zero when cosχa = 1/3, i.e. when
+
+dt2 − dr2
+1 − r2
+ˆR2
+
+− r2dΩ2
+
+p = ρ0 c2
+3
+s
+1 − r2
+ˆR2
+
+2
+r8
+
+According to relation (9), as Schwarzschild notes, the pressure at the centre of the star becomes infinite. We are
+therefore faced with a first physical singularity. As the star’s mass increases, at constant density (which could describe
+a neutron star where the centrifugal force linked to rotation could be neglected), this physical singularity occurs before
+a geometric singularity. This last occurs when the star’s radius identifies with its Schwarzschild radius, i.e. when :
+
+R∗ = Rcrit,phys =
+
+ˆR =
+
+9
+
+c
+
+3πGρ0
+
+s
+
+3 c2
+8πGρ0
+
+R∗ = Rcrit,geom =
+
+r8
+
+Rcrit,phys =
+
+9 Rcrit,geom
+
+The two critical radii are linked by the relation :
+
+We can consider that this situation does not belong to the physical world [3], which amounts to considering that
+this exact solution to Einstein’s equation, independent of time, does not belong to physics, by invoking a ‘speed of
+sound’, varying as the square root of the pressure gradient. But if we consider that the medium can be assimilated to
+radiation, then this speed of propagation becomes that of light. This leads us to consider, as Schwarzschild was the
+first to do, that the speed of light varies, and can reach an infinite value at the centre of the star. He gives the law of
+variation of this speed of light in his equation (44):
+
+Die Lichtgeschwindigeit in unserer Kugel
+
+This fraction must be multiplied by the value c of the speed of light in a vacuum:
+
+2
+
+2 c
+
+V =
+
+3 cosχa − cosχ
+
+V =
+
+3 cosχa − cosχ
+
+2
+
+(7)
+
+(8)
+
+(10)
+
+(11)
+
+(12)
+
+(13)
+
+(14)
+
+(15)
+
+(16)
+
+If we assume that the speed of light can take on a value, if not infinite, then at least very high, at the centre of the
+object, we obtain a situation where the force of pressure balances the force of gravity. All that remains is to examine
+the stability of such an object.
+
+What happens when it benefits from an influx of matter, which would be the case for a subcritical neutron star
+
+receiving matter from a nearby standard star?
+
+If we rely on the mathematical solution, the time factor f then becomes negative, but along a geodesic it is
+
+impossible to turn back:
+
+ds > 0 ⇒ f dt > 0
+
+In this central part of the object, the time coordinate t reverses. Following the dynamic group theory of mathe-
+
+matician J.M.Souriau ([4],[5]), this inversion of the time coordinate implies the inversion of energy and mass.
+
+General relativity opposes the presence of negative mass in the universe [6], because of the unmanageable runaway
+
+effect. To go a step further, we need to place ourselves in the geometric framework of the Janus model [7].
+
+In this new scheme, masses of opposite signs repel each other. We also conjecture that a gravitational and quantum
+
+phenomenon occurs under these conditions of criticality, in which the excess masses are reversed.
+
+The object in criticality, having received mass from the outside, contains an equivalent quantity in a small sphere
+
+filled with negative mass and initially centered on the origin.
+
+The presence of negative mass at the star’s center only makes a very weak contribution to the gravitational field
+mainly created by the positive mass. Thus negative mass is expelled from the object and then expelled from the
+galaxy into the negative-mass environment between galaxies.
+
+We thus obtain a mechanism that guarantees the stability of such subcritical objects, which we propose to call
+
+“plugstars”, like an overflow valve that evacuates excess water.
+
+III. CALCULATION OF THE GRAVITATIONAL REDSHIFT
+
+Such objects will exhibit a gravitational redshift effect with respect to a distant observer. This corresponds to :
+
+In a situation close to criticality :
+
+An observer will therefore see an object whose central part has an attenuated luminosity, such that the ratio of
+
+wavelengths resulting from a gravitational redshift effect is
+
+λ(emitter) =
+
+1 + z = λ(observer)
+r
+1 − 8
+
+f = 3
+2
+
+pgtt(observer)
+pgtt(R∗)
+r
+
+9 − 1
+2
+
+1 − 8
+
+9 = 1
+3
+
+=
+
+1
+
+f(R∗)
+
+λ(observer)
+λ(emitter) = 3
+
+IV. OBSERVATIONAL DATA
+
+3
+
+(17)
+
+(18)
+
+(19)
+
+(20)
+
+Let us refer to the images of hypermassive objects obtained using the EHT Collaboration ([8][9]). The chromatic
+bars provide equivalent temperature values, which are in fact indications of luminosity. This light, in any case,
+is emitted by photons of energy hν . By forming the ratio of maximum and minimum luminosity, we obtain the
+wavelength ratio.
+
+In the image of the hypermassive object at the centre of M87, the colour bar shows that :
+
+4
+
+(21)
+
+(22)
+
+FIG. 1. Images of M87* and SgrA*
+
+- The maximum equivalent temperature is 5.7 × 109K.
+- The minimum equivalent temperature is 1.8 × 109K.
+The corresponding wavelength ratio is :
+
+On the image of the hypermassive object at the centre of SgrA* the colour bar shows that :
+- The maximum equivalent temperature, approximately, is 12 × 109K.
+- The minimum equivalent temperature is 4 × 109K.
+The corresponding wavelength ratio is :
+
+λ(observer)
+λ(emitter) ≈ 3.2
+
+λ(observer)
+λ(emitter) ≈ 3.0
+
+This result is in very agreement with observational data.
+
+Of course, these central objects are not giant neutron stars. But the very high pressure inside them, due to the
+
+increase in the speed of light, allows the radiation pressure to counterbalance the force of gravity.
+
+V. PHYSICAL IMPLICATIONS OF PLUGSTARS
+
+Unlike black holes, these objects:
+
+- have a finite gravitationnal redshift, explaining the darkening of their central part.
+- have no horizon or internal singularity.
+- are stabilized by the masse inversion processes, in the case of the Janus model, preventing collapse.
+
+When the axes of symmetry of the objects are accessed through the axes of symmetry of the jets, they often
+correspond to the axes of symmetry of the galaxies [10]. If this phenomenon is general, then these objects would not
+be formed by mass accretion.
+
+VI. AN ALTERNATIVE INTERPRETATION OF THE QUASAR PHENOMENON
+
+They could be the result of the convergence of a centripetal density wave, like the one suggested in the Hoag galaxy
+
+fig. 2.
+
+5
+
+FIG. 2. Hoag galaxy
+
+This galaxy, located in the constellation Serpens Caput, was discovered by Arthur Hoag in 1950. The absence of
+neighbouring galaxy and debris seems to rule out the possibility that it formed as a result of a collision. Its structure
+resembles that of a density wave, whose propagation would then be radial.
+
+If a density wave propagates in a galaxy, whether it is a spiral wave or this type of circular, converging wave, its
+
+speed of propagation is not that of the matter itself.
+
+This is the classic difference between group velocity and phase velocity. The wave from the Hoag galaxy, if its
+propagation is centripetal, would then be comparable to a circular tsunami. The rise in density in the wave gives rise
+to young stars which, emitting in the UV, ionise the medium, making the formation visible, as is the case for spiral
+waves. In this plasma, if the magnetic Reynolds number is high, this wave will drag along the field lines of the very
+weak magnetic field (one microgauss) that already exists in the galaxies.
+
+Such a rise in the field in the ring could be demonstrated by polarisation measurements.
+
+When the wave would reaches the centre of the galaxy, there would be a sudden rise in density and temperature
+[11]. Lawson’s conditions would be then realised in a considerable mass, triggering a massive production of energy
+by fusion. Such model would explain the quasar phenomenon.
+
+The convergence of the magnetic field lines would give to the object a very high dipolar magnetic field. The fusion
+
+energy would be then focused on the two jets with which M87* is equipped.
+
+This field has a gradient that accelerates charged particles over very large distances, giving them very high energies.
+
+This is how cosmic rays would be formed.
+
+The M87* jet is discontinuous, which seems to indicate that the phenomenon is sporadic. The absence of jets for
+SgrA* would qualify it as an ‘extinct quasar’. This model is based on the hypothesis of the repetitive birth of spiral
+density waves.
+
+We still need a theory to explain their appearance. This is what we are currently trying to construct, within the
+
+framework of the Janus model, in terms of joint fluctuations in the metrics of positive and negative masses.
+
+We conjecture that future images of hypermassive objects located at the center of galaxies will all present the same
+
+wavelength ratio 3.
+
+6
+
+[1] K. Schwarzschild. über das gravitationsfeld einer kugel aus inkompressibler flussigkeit nach der einsteinschen theorie. »
+Sitzungsberitche des Königkich Akademie des Wissenschaften. Deutschen Akademie der Wissenschaften zu Berlin, 1916.
+
+[2] J.R. Oppenheimer J.R. and G.M. Volkoff. On massive neutron cores. 55:344–381, 1939.
+[3] J.A.Wheeler C.W.Misner, K.S.Thorne. Gravitation. Pinceton University Press, 2017.
+[4] Jean-Marie Souriau. Structure des systèmes dynamiques: maîtrises de mathématiques. Collection Dunod Université.
+
+Dunod, 1970.
+
+Progress in mathematics. Birkhäuser, 1997.
+
+[5] Jean-Marie Souriau. Structure of Dynamical Systems (Structure des systèmes dynamiques): A Symplectic View of Physics.
+
+[6] Hermann Bondi. Negative Mass in General Relativity. Reviews of Modern Physics, 29(3):423–428, jul 1957.
+[7] J.P.Petit, F.Margnat and H.Zejli. A bimetric cosmological model on andreï’s twin universe approach. The European
+
+[8] Event Horizon Telescope Collaboration. First M87 Event Horizon Telescope Results, volume 875. The Astrophysical
+
+[9] Event Horizon Telescope Collaboration. First Sagittarius A* Event Horizon Results, volume 930. The Astrophysical
+
+Physical Journal, 84(1126), 2024.
+
+Journal Letters, 2019.
+
+Journal Letters, 2022.
+
+[10] D. Fernández Gil, J.A. Hodgson, B. L’Huillier, et al. Detection of an orthogonal alignment between parsec-scale agn jets
+
+and their host galaxies. Nature Astronomy, 2024.
+
+[11] When the wave causes a rise in density, the angular momentum of the mass concerned is conserved, and the speed of
+rotation increases. But this phenomenon generates a centrifugal force that cannot be compared with the forces of gravity
+and pressure. This explains the excellent agreement with the data derived from the Schwarzchild solution.
+
+

@@ -1,0 +1,1606 @@
+                          
+
+Partie I 
+
+                                                                                                Page - 188 - 
+Über das Gravitationsfeld eines massenpunktes 
+
+massenpunktes. 
+
+Champ gravitationnel d'un point de masse 
+
+dans la théorie d'Einstein 
+
+ Par Karl SCHWARZSHILD 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Document Version 0.0 du 25/05/2017 
+1.0 du 07/03/2024
+
+Traduit des documents originaux en Allemand  
+
+Par H.TRACCARD 
+
+Corrections (en rouge) de D. PETEL 
+
+ 
+
+ 
+
+Page- 188 -                           Relativité générale  1916                           Traduction  Henri traccard 
+
+ 
+
+ 
+
+ 
+
+                          
+
+Partie I 
+
+                                                                                                Page - 189 - 
+Über das Gravitationsfeld eines massenpunktes 
+
+massenpunktes. 
+
+§1. Mr. Einstein, dans son travail sur le périhélie du mouvement de Mercure (voir Sect. 18 
+Novembre 1915) pose le problème d’un point qui se déplace selon l'équation suivante : 
+
+  𝛿 ∫ 𝑑𝑠 = 0 ,              
+ 
+
+ 
+ 
+{
+
+𝑑𝑠 = √∑ 𝑔µ𝜈𝑑𝑥µ𝑑𝑥𝜈 
+
+             
+
+                                      (1)  
+
+   µ, 𝜈 = 1, 2, 3, 4
+
+Où  les  𝑔µ𝜈 sont  des  fonctions  des  variables 𝑥   qui  doivent  varier  du  début    à  la  fin  du 
+chemin d'intégration 
+
+Le point se déplace donc en résumé, sur une ligne géodésique dans la direction indiquée 
+par l'élément linéaire  𝑑𝑠. 
+
+La mise en œuvre  de la variation donne les équations de mouvement du point. 
+
+𝑑2𝑥𝛼
+𝑑𝑠2 = ∑ 𝛤µ𝜈
+
+𝛼
+
+𝑑𝑥µ
+𝑑𝑠
+
+ 
+
+𝑑𝑥𝜈
+𝑑𝑠
+
+µ,𝜈
+
+ ,         𝛼, 𝛽 = 1, 2, 3, 4                                           (2)  
+
+où  
+
+Et  𝑔𝛼𝛽  est 
+déterminant  |𝑔µ𝜈|. 
+
+ 
+
+𝛼   = −
+
+𝛤µ𝜈  
+
+1
+2
+
+∑ 𝑔𝛼𝛽
+𝛽
+
+(
+
+𝜕𝑔µ𝛽
+𝜕𝑥𝜈
+
++
+
+𝜕𝑔𝜈𝛽
+𝜕𝑥µ
+
+−
+
+𝜕𝑔µ𝜈
+𝜕𝑥𝛽
+
+)                                                   (3) 
+
+le  sous-déterminant  normalisé 
+
+  des  coordonnées 
+
+  𝑔𝛼𝛽  dans 
+
+le 
+
+C'est d’après la théorie d’Einstein,  le mouvement d'un point sans masse dans le champ 
+gravitationnel d'une masse située au point  x1 = x2 = x3   =  0 , quand les composantes du 
+champ  gravitationnel  sont  partout  définies,  à  l'exception  du  point  x1 = x2 = x3 =
+0  de l′équation de champ. 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Page- 189 -                           Relativité générale  1916                           Traduction  Henri traccard 
+
+                          
+
+Partie I 
+
+                                                                                                Page - 190 - 
+Über das Gravitationsfeld eines massenpunktes 
+
+On devra satisfaire les conditions 
+
+massenpunktes. 
+
+𝛼
+𝜕𝛤µ𝜈  
+𝜕𝑥𝛼
+
+∑
+
+𝛼
+
++  ∑ 𝛤µ𝛽  
+
+𝛽
+𝛼 𝛤𝜈𝛼  
+
+𝛼𝛽
+
+      = 0                                                  (4) 
+
+et  en même temps l’équation du déterminant . 
+ 
+
+ |𝑔µ𝜈| = −1                                                                                (5) 
+
+  
+Les  équations  de  champ  associées  à  l'équation  du  déterminant  ont  la  propriété 
+fondamentale qu’elles conservent leur forme par la substitution de toute autre variable à 
+la place de 𝑥1, 𝑥2, 𝑥3 , 𝑥4   seulement si le déterminant de substitution est égal à 1. 
+ 
+Les coordonnées  𝑥1, 𝑥2, 𝑥3 doivent être orthogonales et  𝑥4  désigner le temps, la masse 
+au point zéro doit être temporellement invariable et le mouvement à l'infini être rectiligne 
+uniforme, et selon  M. Einstein (a. a. O. S. 833) satisfaire aussi aux conditions suivantes: 
+ 
+1. Toutes les composantes sont indépendantes du temps 𝑥4. 
+
+2. Les équations 𝑔𝜌4 = 𝑔4𝜌 = 0 s'appliquent exactement avec  𝜌 = 1, 2, 3 . 
+
+3.  La  solution  est  spatialement  symétrique  par  rapport  l’origine  du  système  de 
+coordonnées dans le sens où on retrouve la même solution quand on soumet  𝑥1, 𝑥2, 𝑥3  à 
+une transformation orthogonale (Rotation). 
+
+4. Les 𝑔µ𝜈 disparaissent à l'infini, à l'exception de quatre 𝑔µ𝜈: 
+
+𝑔44 = 1 , 𝑔11 = 𝑔22 = 𝑔33 = −1 
+
+ 
+Le problème est de trouver un élément linéaire avec des coefficients tels que les équations 
+de champ, l'équation du déterminant et ces quatre conditions soient  satisfaites.. 
+ 
+§ 2. Mr. Einstein a montré que ce problème conduit, dans une première approximation, à 
+la  loi  newtonienne,  et  que  en  deuxième  approximation  elle  restitue  correctement 
+l'anomalie du périhélie Mercure 
+ 
+Le  calcul  qui  va  suivre  fournira  la  solution  exacte  du  problème.  Il  est  toujours  plus 
+agréable d'avoir des solutions exactes. 
+ 
+Plus important encore, ce calcul en révélant la solution exacte montre que si on avait des 
+doutes  sur  le  travail  de  M.  Einstein  à  cause  des  difficultés  dues  à  la  procédure 
+d'approximation, alors  les lignes suivantes contribueront au contraire à rendre le travail 
+de M. Einstein encore plus lumineux. 
+ 
+§ 3. Si on appelle t le temps, 𝑥, 𝑦 , 𝑧  les coordonnées cartésiennes alors l'élément linéaire 
+le plus commun, qui répond aux exigences 1-3 devrait être le suivant : 
+ 
+
+ 
+
+ 
+
+Page- 190 -                           Relativité générale  1916                           Traduction  Henri traccard 
+
+                          
+
+Partie I 
+
+                                                                                                Page - 191 - 
+Über das Gravitationsfeld eines massenpunktes 
+
+massenpunktes. 
+
+ 
+
+ 
+
+𝑑𝑠2 = 𝐹𝑑𝑡2 − 𝐺(𝑑𝑥2 + 𝑑𝑦2 + 𝑑𝑧2) − 𝐻(𝑥𝑑𝑥 + 𝑦𝑑𝑦 + 𝑧𝑑𝑧)2 
+
+Où F,G,H sont des fonctions de  𝑟 = √𝑥2 + 𝑦2 + 𝑧2 
+La condition (4) entraine que pour 𝑟 = ∞ on a F=G=1 et H=0 
+Quand on passe en coordonnées polaires  
+ 
+
+𝑥 = 𝑟 sin(𝜗) cos(ф) , 𝑦 = 𝑟 sin(𝜗) sin(ф) , 𝑧 = 𝑟 cos(𝜗) 
+
+ 
+On obtient le même élément linéaire  : 
+ 
+
+         𝑑𝑠2 = 𝐹𝑑𝑡2 − 𝐺(𝑑𝑟2 + 𝑟2𝑑𝜗2 + 𝑟2 sin2(𝜗) 𝑑ф2) − 𝐻𝑟2𝑑𝑟2                          
+
+(6)
+ 
+
+𝑑𝑠2 = 𝐹𝑑𝑡2 − (𝐺 + 𝐻𝑟2)𝑑𝑟2 − 𝐺𝑟2(𝑑𝜗2 + sin2(𝜗)𝑑ф2                       
+
+)
+
+ 
+
+le  volume  élémentaire  exprimé  en 
+
+ 
+ 
+Mais 
+  coordonnées  polaires  est  égal  à 
+𝑟2 sin(𝜗) 𝑑𝑟 𝑑𝜗 𝑑ф  et    le  déterminant  fonctionnel  de  l'ancien  avec  les  nouvelles 
+coordonnées  𝑟2 sin(𝜗) est différent de 1; donc  les équations de champ ne seraient pas  
+inchangée  si  l'on  calculait  avec  ces  coordonnées  polaires  et  une  transformation  lourde 
+devrait être effectuée. Cependant, une astuce simple  permet de surmonter cette difficulté. 
+On pose : 
+
+𝑥1 =
+
+ , 𝑥2 =   − cos(𝜗) , 𝑥3 = ф                                                         (7) 
+
+𝑟3
+3
+
+ 
+Ensuite,  pour  le  volume  élémentaire  𝑟2𝑑𝑟 sin(𝜗) 𝑑𝜗 𝑑ф = 𝑑𝑥1 𝑑𝑥2 𝑑𝑥3  .  Les  nouvelles 
+variables  sont  donc  des  coordonnées  polaires  du  déterminant  1.  Ils  ont  les  avantages 
+évidents des coordonnées polaires pour le traitement du problème et, en même temps 
+restent inchangées pour les équations de champ et le déterminant  quand on prend encore  
+𝑡 = 𝑥4 .  
+Dans les nouvelles coordonnées polaires, l'élément linéaire est : 
+ 
+ 
+
+𝑑𝑠2 = 𝐹𝑑𝑥4
+
+2 − (
+
+𝐺
+𝑟4 +
+
+𝐻
+𝑟2) 𝑑𝑥1
+
+2
+𝑑𝑥2
+1 − 𝑥2
+
+2 − 𝐺𝑟2 (
+
+2 + 𝑑𝑥3
+
+2(1 − 𝑥2
+
+2)) ,                  (8) 
+
+Pour lequel nous écrirons : 
+
+2
+𝑑𝑥2
+1 − 𝑥2
+
+𝑑𝑠2 = 𝑓4𝑑𝑥4
+
+2 − 𝑓1𝑑𝑥1
+
+2 − 𝑓2
+
+2 − 𝑓3𝑑𝑥3
+
+2(1 − 𝑥2
+
+2) ,                                          (9) 
+
+Ensuite, 𝑓1, 𝑓2, = 𝑓3 , 𝑓4 sont trois fonctions devant remplir les conditions suivantes 
+ 
+
+2
+3
+
+4
+3
+
+1
+
+  , 𝑥4 = 1 
+
+𝑟4 = (3𝑥1)−
+
+  , 𝑓2 = 𝑓3 = 𝑟2 = (3𝑥1)
+
+1. Pour 𝑥1 = ∞ ∶ 𝑓1 =
+2. L'équation du déterminant:  𝑓1 ∗ 𝑓2 ∗ 𝑓3 ∗ 𝑓4 = 1  
+3. Les équations de champ. 
+4. les fonctions f continues en dehors de 𝑥1 = 0 
+ 
+§  4.  Pour  établir  les  équations  de  champ,  on  doit  d’abord  calculer  les  composantes  du 
+champ gravitationnel correspondant à l'élément linéaire   (9) . 
+ 
+
+ 
+
+Page- 191 -                           Relativité générale  1916                           Traduction  Henri traccard 
+
+                          
+
+Partie I 
+
+                                                                                                Page - 192 - 
+Über das Gravitationsfeld eines massenpunktes 
+
+massenpunktes. 
+
+ 
+ Cela se fait facilement en écrivant les équations différentielles de la ligne géodésique. Le 
+calcul de la variation aboutit directement à ces composantes. Les équations différentielles 
+de la ligne géodésique pour l'élément linéaire (9) sont donc données par :  
+ 
+ 
+
+0 = 𝑓1
+
+𝑑2𝑥1
+𝑑𝑠2 +
+
+1
+2
+
+𝜕𝑓4
+𝜕𝑥1
+
+(
+
+𝑑𝑥4
+𝑑𝑠
+
+2
+
+)
+
++
+
+1
+2
+
+𝜕𝑓1
+𝜕𝑥1
+
+(
+
+𝑑𝑥1
+𝑑𝑠
+
+2
+
+)
+
+−
+
+1
+2
+
+𝜕𝑓2
+𝜕𝑥1
+
+(
+
+1
+
+2
+
+2 (
+
+𝑑𝑥2
+𝑑𝑠
+
+)
+
+1 − 𝑥2
+
++ (1 − 𝑥2
+
+2) (
+
+2
+
+)
+
+) 
+
+𝑑𝑥3
+𝑑𝑠
+
+0 =
+
+𝑓2
+
+2
+1 − 𝑥2
+
+ 𝑑2𝑥2
+𝑑𝑠2 +
+
+𝜕𝑓2
+𝜕𝑥1
+
+1
+
+  
+
+2  
+1 − 𝑥2
+
+𝑑𝑥1
+𝑑𝑠
+
+𝑑𝑥2
+𝑑𝑠
+
++
+
+𝑓2𝑥2
+(1 − 𝑥2
+
+2)2 (
+
+𝑑𝑥2
+𝑑𝑠
+
+)
+
+2
+
++ 𝑓2𝑥2 (
+
+2
+
+)
+
+ 
+
+𝑑𝑥3
+𝑑𝑠
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+2)
+0 = 𝑓2(1 − 𝑥2
+
+𝑑2𝑥3
+𝑑𝑠2 +
+
+𝜕𝑓2
+𝜕𝑥1
+
+2)
+(1 − 𝑥2
+
+𝑑𝑥1
+𝑑𝑠
+
+ 
+
+𝑑𝑥3
+𝑑𝑠
+
+− 2𝑓2𝑥2
+
+𝑑𝑥2
+𝑑𝑠
+
+ 
+
+𝑑𝑥3
+𝑑𝑠
+
+ 
+
+0 = 𝑓4
+
+𝑑2𝑥4
+𝑑𝑠2 +
+
+𝜕𝑓4
+𝜕𝑥1
+
+𝑑𝑥1
+𝑑𝑠
+
+ 
+
+𝑑𝑥4
+𝑑𝑠
+
+ 
+
+ 
+La comparaison avec (2) donne les composantes du champ gravitationnel 
+
+1 = −
+
+𝛤11
+
+                , 𝛤22
+
+1 = +
+
+1
+2
+
+1
+𝑓1
+
+𝜕𝑓2
+𝜕𝑥1
+
+1
+
+2   ,
+
+1 − 𝑥2
+
+1 = +
+
+𝛤33
+
+ (1 − 𝑥2
+
+2),
+
+                 ,
+
+1 = −
+
+𝛤44
+
+2 = −
+
+𝛤21
+
+1
+2
+1
+2
+1
+2
+1
+2
+1
+2
+1
+2
+
+1
+𝑓1
+1
+𝑓1
+1
+𝑓1
+1
+𝑓2
+1
+𝑓2
+1
+𝑓4
+
+𝜕𝑓1
+𝜕𝑥1
+𝜕𝑓2
+𝜕𝑥1
+𝜕𝑓4
+𝜕𝑥1
+𝜕𝑓2
+𝜕𝑥1
+𝜕𝑓2
+𝜕𝑥1
+𝜕𝑓4
+𝜕𝑥1
+
+1 − 𝑥2
+
+𝑥2
+
+𝑥2
+
+1 − 𝑥2
+
+3 = −
+
+𝛤31
+
+               ,
+
+3 = +
+
+𝛤32
+
+2               ,
+
+4 = −
+
+𝛤41
+
+                ,
+
+                ,
+
+2 = −
+
+𝛤22
+
+2               ,
+
+𝛤33
+
+2 = −𝑥2(1 − 𝑥2
+
+2),
+
+ 
+
+(les autres zéro). 
+
+ 
+Dans le cas de la symétrie de rotation autour du point zéro, il suffit de former les équations 
+de champ uniquement pour l'équateur (𝑥2 = 0 ), ainsi , comme on  différencie une seule 
+fois  l'expression précédente 1 − 𝑥2
+ 
+
+2 . Le calcul des équations de champ s’écrit alors 
+
+(*)
+
+a) 
+
+𝜕
+𝜕𝑥1
+
+(
+
+1
+𝑓1
+
+𝜕𝑓1
+𝜕𝑥1
+
+) =
+
+1
+
+2
+
+(
+
+1
+𝑓1
+
+𝜕𝑓1
+𝜕𝑥1
+
+)
+
+2
+
++ (
+
+2
+
+1
+𝑓2
+
+𝜕𝑓2
+)
+𝜕𝑥4
+1
+
++
+
+1
+
+2
+
+(
+
+1
+𝑓4
+
+𝜕𝑓4
+𝜕𝑥1
+
+2
+
+)
+
+  , 
+
+ 
+
+ 
+
+b) 
+
+𝜕
+𝜕𝑥1
+
+(
+
+1
+𝑓1
+
+𝜕𝑓2
+𝜕𝑥1
+
+) = 2 +
+
+1
+
+𝑓1𝑓2
+
+(
+
+𝜕𝑓2
+𝜕𝑥1
+
+2
+
+)
+
+  , 
+
+c) 
+
+𝜕
+𝜕𝑥1
+
+(
+
+1
+𝑓1
+
+𝜕𝑓4
+𝜕𝑥1
+
+) =
+
+1
+
+𝑓1𝑓4
+
+(
+
+𝜕𝑓4
+𝜕𝑥1
+
+2
+
+)
+
+  , 
+
+(*) : , on peut mettre 1 - x² égal à 1 partout dans les expressions ci-dessus.
+
+ 
+
+2
+
+Page- 192 -                           Relativité générale  1916                           Traduction  Henri traccard 
+
+                          
+
+Partie I 
+
+                                                                                                Page - 193 - 
+Über das Gravitationsfeld eines massenpunktes 
+
+Outre ces trois équations, les fonctions 𝑓1, 𝑓2, 𝑓4 doivent toujours satisfaire l'équation du 
+déterminant 
+
+massenpunktes. 
+
+𝑑)      𝑓1𝑓2
+
+2𝑓4 = 1          𝑠𝑜𝑖𝑡:     
+
+1
+𝑓1
+
+𝜕𝑓1
+𝜕𝑥1
+
++
+
+2
+𝑓2
+
+𝜕𝑓2
+𝜕𝑥1
+
++
+
+1
+𝑓4
+
+𝜕𝑓4
+𝜕𝑥1
+
+= 0 
+
+ 
+Je laisse le premier (b) et m’occupe des trois fonctions  (a), (c) et (d).  
+(c) peut être mis sous la forme : 
+ C’)              
+ 
+
+) =
+
+   
+
+1
+
+𝜕
+𝜕𝑥1
+
+1
+(
+𝑓4
+
+𝜕𝑓4
+𝜕𝑥1
+
+𝜕𝑓1
+𝜕𝑥1
+
+𝜕𝑓4
+𝜕𝑥1
+
+𝑓1𝑓4
+
+ 
+Qui peut être directement intégré et donne : 
+C’’)             
+
+1
+𝑓4
+
+𝜕𝑓4
+𝜕𝑥1
+
+ 
+L’addition de (a) et de (c’) donne 
+ 
+
+= 𝛼𝑓1                             (α constante d’intégration) 
+
+𝜕
+𝜕
+
+(
+
+1
+𝑓1
+
+𝜕𝑓1
+𝜕𝑥1
+
++
+
+1
+𝑓4
+
+𝜕𝑓4
+𝜕𝑥1
+
+) = (
+
+)
+
++
+
+(
+
+2
+
+1
+𝑓2
+
+𝜕𝑓1
+𝜕𝑥1
+
+1
+2
+
+1
+𝑓1
+
+𝜕𝑓1
+𝜕𝑥1
+
++
+
+2
+
+)
+
+ 
+
+1
+𝑓4
+
+𝜕𝑓4
+𝜕𝑥1
+
+   −2
+
+𝜕
+𝜕𝑥1
+
+1
+(
+𝑓2
+
+𝜕𝑓2
+𝜕𝑥1
+
+) = 3 (
+
+2
+)
+
+   
+
+1
+𝑓2
+
+𝜕𝑓2
+𝜕𝑥1
+
+            (𝜌 𝑒𝑠𝑡 𝑢𝑛𝑒 𝑐𝑜𝑛𝑠𝑡𝑎𝑛𝑡𝑒 𝑑′𝑖𝑛𝑡é𝑔𝑟𝑎𝑡𝑖𝑜𝑛)   
+
+ 
+Qui associé à (d) nous donne 
+
+En intégrant on a 
+
+Soit encore 
+
+=
+
+𝑥1 +
+
+3
+2
+
+𝜌
+2
+
+1
+𝜕𝑓2
+𝜕𝑥1
+
+  
+
+1
+𝑓2
+
+1
+  
+𝑓2
+
+𝜕𝑓2
+𝜕𝑥1
+
+=
+
+2
+
+3𝑥1 + 𝜌
+
+                                                                                          
+
+Et en intégrant encore une fois 
+
+La condition à l'infini entraine que λ=1 et ainsi on a 
+
+𝑓2 = 𝜆(3𝑥1 + 𝜌)
+
+2
+3       (𝜌 𝑒𝑠𝑡 𝑢𝑛𝑒 𝑐𝑜𝑛𝑠𝑡𝑎𝑛𝑡𝑒 𝑑′𝑖𝑛𝑡é𝑔𝑟𝑎𝑡𝑖𝑜𝑛)  
+
+𝑓2 = (3𝑥1 + 𝜌)
+
+2
+3                                                                         (10) 
+
+Il découle de (c’’) et (d) 
+𝜕𝑓4
+𝜕𝑥1
+
+= 𝛼𝑓1𝑓4 =
+
+𝛼
+2 =
+𝑓2
+
+𝛼
+
+2
+3
+
+(3𝑥1 + 𝜌)
+On intègre en tenant compte de la condition à l'infini 
+
+                                                        
+
+𝑓4 = 1 − 𝛼(3𝑥1 + 𝜌)−
+
+1
+3                                                            (11) 
+
+Et en plus d’après (d) 
+
+𝑓1 =
+
+(3𝑥1 + 𝜌)−
+
+4
+3
+
+1
+1 − 𝛼(3𝑥1 + 𝜌)−
+3
+ 
+
+                                                            (12) 
+
+ 
+
+ 
+
+Page- 193 -                           Relativité générale  1916                           Traduction  Henri traccard 
+
+                          
+
+Partie I 
+
+                                                                                                Page - 194 - 
+Über das Gravitationsfeld eines massenpunktes 
+
+massenpunktes. 
+
+ 
+L'équation (b), qui peut être facilement recalculée, est complétée avec les expressions 
+trouvées de 𝑓1 𝑒𝑡 𝑓2. 
+Ainsi, toutes les conditions sont satisfaites sauf celle de la  continuité.  
+ 𝑓1 devient discontinu quand. 
+1
+𝛼(3𝑥1 + 𝜌)−
+3 = 1   𝑠𝑜𝑖𝑡 𝑞𝑢𝑎𝑛𝑑  3𝑥1 = 𝛼3 − 𝜌                                  
+
+ 
+  Pour que cette discontinuité coïncide avec l'origine, il faut donc que 
+
+𝜌 = 𝛼3                                                                          (13) 
+
+ 
+La condition de continuité lie ainsi les deux constantes d’intégration ρ et α. La solution 
+complète de notre problème est maintenant est donnée par: 
+
+𝛼  
+𝑅
+dans lequel la variable auxiliaire 
+
+1 −
+
+𝑓1 =
+
+1
+
+1
+𝑅4
+
+ ,   f2 = f3 = R2 
+
+,
+
+𝑓4 = 1 −
+
+𝛼  
+𝑅  
+
+𝑅 = (3𝑥1 + 𝜌)
+
+1
+3 = (𝑟3 + 𝛼3)
+
+1
+3 
+
+est introduite. 
+ 
+Si nous remplaçons ces valeurs des fonctions f dans l'expression (9) et revenons en même 
+temps aux coordonnées polaires ordinaires, on obtient alors l’expression de la solution 
+exacte du problème d'Einstein. 
+ 
+
+𝑑𝑠2 = (1 −
+
+) 𝑑𝑡2 −
+
+− 𝑅2(𝑑𝜗2 + sin2(𝜗) 𝑑ф2)  ,
+
+1
+𝑅 = (𝑟3 + 𝛼3)
+3   ,
+
+(14) 
+
+𝛼
+𝑅
+
+𝑑𝑅2
+𝛼
+𝑅
+
+1 −
+
+ 
+la constante α  dépend de la  masse au point zéro 
+ 
+§ 5. L'unicité de la solution a été prouvée par le calcul ci-dessus . Cette unicité est apparue 
+d’elle-même  avant que la condition de continuité ne fut posée .Le fait qu'il soit difficile de 
+reconnaître l'unicité d'une méthode d'approximation selon la méthode de M. Einstein se 
+trouve dans ce qui suit.  
+ 
+
+𝑓1 =
+
+(3𝑥1 + 𝜌)−
+
+4
+3
+
+4
+(𝑟3 + 𝜌)−
+3
+
+ 
+
+=
+
+1
+1 − 𝛼(3𝑥1 + 𝜌)−
+3
+
+1
+1 − 𝛼(𝑟3 + 𝜌)−
+3
+
+ 
+Si α et ρ sont faibles, le développement en série donne jusqu'à deux ordres de grandeur: 
+ 
+
+𝑓1 =
+
+1
+𝑟4 [1 +
+
+𝛼
+𝑟
+
+−
+
+4
+3
+
+𝜌
+𝑟3] 
+
+ 
+Cette expression, ainsi que celles de 𝑓2, 𝑓3, 𝑓4 développées de manière similaire, satisfait 
+avec la même précision à toutes les exigences du problème. 
+ 
+ 
+
+ 
+
+ 
+
+Page- 194 -                           Relativité générale  1916                           Traduction  Henri traccard 
+
+                          
+
+Partie I 
+
+                                                                                                Page - 195 - 
+Über das Gravitationsfeld eines massenpunktes 
+
+massenpunktes. 
+
+ L'exigence  de  continuité  n'ajoute  rien  de  nouveau  à  cette  approximation  car  les 
+discontinuités  ne  se  produisent  qu’au  point  zéro.  Si  les  deux  constantes  α  et  ρ  étaient 
+arbitraires,  cela  rendrait  le  problème  physiquement  indéterminé.  La  solution  exacte 
+montre que en continuant les approximations, la discontinuité ne se produit pas au point 
+1
+zéro,  mais  au  point  𝑟 = (𝛼3 − 𝜌)
+3  quand  𝜌 = 𝛼3   et  nous  devons  donc    ajuster    les 
+coefficients α et ρ pour que la discontinuité se déplace au point zéro. 
+ 
+§  6.  Enfin,  le  calcul  du  mouvement  d'un  point  dans  le  champ  gravitationnel  consiste  à 
+dériver  la  ligne  géodésique  appartenant  à  l'élément  linéaire     (14).  D'après  les  trois 
+conditions, l'élément linéaire est homogène dans les différentielles et ses coefficients sont 
+indépendants  de  t  et  de  ρ,  la  variation  aboutit  immédiatement  à  trois  intégrales 
+intermédiaires.  
+Si nous nous limitons au mouvement dans le plan de l'équateur (𝜗 = 90° , 𝑑𝜗 = 0), alors 
+ces intégrales intermédiaires sont: 
+ 
+
+(1 −
+
+) (
+
+)
+
+−
+
+𝛼
+𝑅
+
+2
+
+𝑑𝑡
+𝑑𝑠
+
+2
+
+(
+
+𝑑𝑅
+𝑑𝑠
+
+)
+
+1
+
+1 −
+
+𝛼
+𝑅
+
+− 𝑅2 (
+
+2
+
+𝑑ф
+)
+𝑑𝑠
+
+= 𝑐𝑜𝑛𝑠𝑡 = ℎ ,                               (15) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2
+
+𝑅2 𝑑ф
+𝑑𝑠
+
+= 𝑐𝑜𝑛𝑠𝑡 = 𝑐 ,                                                                 (16) 
+
+= 𝑐𝑜𝑛𝑠𝑡 = 1 (𝐷é𝑓𝑖𝑛𝑖𝑡𝑖𝑜𝑛 𝑑𝑒 𝑙′𝑢𝑛𝑖𝑡é 𝑑𝑒 𝑡𝑒𝑚𝑝𝑠).                           (17) 
+
+2
+
+(
+
+𝑑𝑅
+𝑑ф
+
+)
+
++ 𝑅2 (1 −
+
+) =
+
+𝛼
+𝑅
+
+𝑅4
+𝑐2 [1 − ℎ (1 −
+
+𝛼
+𝑅
+
+)] 
+
+(1 −
+
+𝛼
+𝑅
+
+)
+
+𝑑𝑡
+𝑑𝑠
+
+ 
+D’où il découle 
+
+Ou encore avec 
+ 
+
+1
+
+𝑅
+
+= 𝑥 
+
+2
+
+(
+
+𝑑𝑥
+𝑑ф
+
+)
+
+=
+
+1 − ℎ
+𝑐2 +
+
+ℎ𝛼
+𝑐2 𝑥 − 𝑥2 + 𝛼𝑥3                                                             (18) 
+
+Si l'on introduit les termes: 
+= 2𝐴  c'est identique avec l'équation (11)(1) de M. 
+Einstein et donne l'anomalie observée du périhélie de Mercure. Malgré  tout, l'approche 
+de M. Einstein du  calcul de la géodésique est compatible avec la solution exacte ,si nous 
+entrons r au lieu de la valeur  
+
+= 𝐵,
+
+ℎ
+
+1−ℎ
+
+1𝑅 = (𝑟3 + 𝛼3)
+
+1
+3 = 𝑟 (1 +
+
+1
+3
+
+ 
+
+𝛼3
+𝑟3 )
+
+𝑐2
+ℎ
+
+ 
+
+                                                            
+(1)  Je n’ai pas le texte de cette référence   
+ 
+
+Page- 195 -                           Relativité générale  1916                           Traduction  Henri traccard 
+
+                          
+
+Partie I 
+
+                                                                                                Page - 196 - 
+Über das Gravitationsfeld eines massenpunktes 
+
+massenpunktes. 
+
+𝛼
+
+𝑟
+
+Puisque 
+ est proche de deux fois le carré de la vitesse planétaire (en prenant pour unité 
+de  vitesse  celle  de  la  lumière),  pour  Mercure  l’ordre  de  grandeur  est  de 10−12 .  Ainsi, 
+pratiquement 𝑅 est identique à 𝑟 et l'approche de M. Einstein est suffisante au-delà des 
+besoins de la pratique courante. 
+Enfin, pour les trajectoires circulaires l’expression exacte  de la troisième loi Kepler doit 
+pouvoir en  être déduite. 
+
+ Pour la vitesse angulaire 𝑛 =
+
+, selon (16) et (17), si on prend  𝑥 =
+
+𝑑ф
+
+𝑑𝑡
+
+1
+
+𝑅
+
+  
+
+𝑛 = 𝑐𝑥2(1 − 𝛼𝑥) 
+
+Pour les trajectoires circulaires, 
+
+ et 
+
+𝑑𝑥
+
+𝑑ф
+
+𝑑2𝑥
+𝑑ф2 doivent être égaux à zéro. Selon (18) 
+
+ℎ𝛼
+𝑐2 𝑥 − 𝑥2 + 𝛼𝑥3    ,   0 =
+L’ élimination de h dans ces deux équations nous donne 
+ 
+
+1 − ℎ
+𝑐2 +
+
+0 =
+
+ℎ𝛼
+𝑐2 − 2𝑥 + 3𝛼𝑥2  
+
+D’où il découle 
+
+𝛼 = 2𝑐2𝑥(1 − 𝛼𝑥)2 
+
+𝑛2 =
+
+𝑥3 =
+
+𝛼
+2
+
+𝛼
+2𝑅3 =
+
+𝛼
+
+2(𝑟3 + 𝛼3)
+
+ 
+
+ 
+Jusqu'à la surface du soleil, l'écart de cette formule à la troisième loi Kepler est totalement 
+imperceptible. Mais pour un point de masse idéal  la vitesse angulaire ne se prolonge pas 
+continument comme dans la loi de Newton  lorsque le  rayon de l'orbite diminue, mais 
+s’approche d’une limite égale à  : 
+ 
+
+𝑛0 =
+
+1
+
+ 
+
+𝛼√2
+
+ 
+(Pour un point de masse solaire, la limite de fréquence est d'environ 104 par seconde.) 
+S'il existait des lois similaires pour les forces moléculaires, cette propriété pourrait être 
+intéressante). 
+ 
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Page- 196 -                           Relativité générale  1916                           Traduction  Henri traccard 
+
+

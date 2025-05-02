@@ -1,0 +1,16736 @@
+Journal of Modern Physics, 2013, 4, 651-675 
+http://dx.doi.org/10.4236/jmp.2013.45094 Published Online May 2013 (http://www.scirp.org/journal/jmp) 
+
+Discrete Symmetry in Relativistic Quantum Mechanics 
+
+Guang-jiong Ni1,2, Suqing Chen2, Jianjun Xu2 
+
+1Department of Physics, Portland State University, Portland, USA 
+
+2Department of Physics, Fudan University, Shanghai, China 
+
+Email: pdx01018@pdx.edu, suqing_chen@yahoo.com, xujj@fudan.edu.cn 
+
+Received February 24, 2013; revised March 25, 2013; accepted April 18, 2013 
+
+ 
+
+ 
+
+Copyright © 2013 Guang-jiong Ni et al. This is an open access article distributed under the Creative Commons Attribution License, 
+which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited. 
+
+ABSTRACT 
+
+ˆ
+cE
+
+
+t
+
+
+
+
+0
+
+0
+
+i
+
+K
+
+K
+
+i
+ 
+
+  and 
+
+  system  in  1998  [1]  strongly  hints  that  one  should  use  operators 
+
+EPR  experiment  on 
+ˆ
+c  
+p
+  for the wavefunction (WF) of antiparticle. Further analysis on Klein-Gordon (KG) equation reveals that there 
+is a discrete symmetry hiding in relativistic quantum mechanics (RQM) that 
+   means the (newly 
+defined)  combined  space-time  inversion  (with 
+    ),  while     the  transformation  of  WF    between 
+particle and its antiparticle whose definition is just residing in the above symmetry. After combining with Feshbach- 
+Villars (FV) dissociation of KG equation  
+  [2], this discrete symmetry can be rigorously reformulated by 
+the invariance of coupling equation of    and    under either the combined space-time inversion 
+   or the mass 
+inversion  
+, which makes the KG equation a self-consistent theory. Dirac equation is also discussed accord- 
+ingly.  Various  applications  of  this  discrete  symmetry  are  discussed,  including  the  prediction  of  antigravity  between 
+matter and antimatter as well as the reason why we believe neutrinos are likely the tachyons. 
+ 
+Keywords: CPT Invariance; Antiparticle; Quantum Mechanics; Quantum Field Theory 
+
+
+   
+
+
+
+. Here 
+
+m 
+
+
+
+x t
+,
+
+m
+
+x
+
+
+
+t
+
+1. Introduction 
+In 1956-1957, the historical discovery of the parity vio- 
+lation  [3-6]  reveals  that  both  P  and  C  symmetries  are 
+violated to maximum in weak interactions. Then in 1964- 
+1970,  both  CP  and  T  are  experimentally  verified  to  be 
+violated  in  some  cases  (though  to  a  tiny  degree)  [7,8] 
+whereas  the  product  symmetry  CPT  holds  intact  to  this 
+day  [9].  The  CPT  invariance  in  quantum  field  theory 
+(QFT)  was  first  proved  by  Lüders  and  Pauli  in  1954- 
+1957  [10-12]  via  the  introduction  of  the  “strong  reflec- 
+tion” for proving the CPT theorem. In 1965, Lee and Wu 
+proposed  that  the  definition  of  particle  a   versus  its 
+antiparticle  a   should be [13]   
+a
+
+                              (1.1) 
+Regrettably,  the  counterpart  of  “strong  reflection”  at 
+the  level  of  RQM  went  nearly  unnoticed  in  the  past 
+decades. In  this  paper, we are  going  to  study  the  RQM 
+   is 
+thoroughly.  Not  only  a  discrete  symmetry 
+found in RQM as the counterpart of “strong reflection” in 
+QFT, it is also evolved into the invariance of space-time 
+inversion  
+
+  or mass inversion   
+
+t
+   
+
+
+
+CPT
+
+,t
+
+
+
+x
+
+x
+
+a
+
+
+
+
+
+m 
+
+
+m
+, showing that a WF in RQM is always com- 
+posed of two parts in confrontation inside a particle and 
+then RQM becomes a self-consistent theory. Furthermore, 
+this symmetry can serve as a “theoretical tool” in search- 
+ing for new applications in today’s physics. 
+
+K
+
+The organization of this paper is as follows: In section 
+II,  the  EPR  paradox  [14]  is  discussed  together  with  the 
+K
+  correlation  experimental  data  [1],  yielding  a 
+strong hint that the energy-momentum operators for anti-   
+  re-   
+particle’s WF should be 
+
+  and  ˆ
+c  
+p
+
+ˆ = i
+cE
+
+
+
+
+i
+
+0
+
+0
+
+
+t
+
+
+x
+
+x
+
+,t
+
+t
+   
+
+spectively. Section III is focused on a discrete symmetry 
+ ,  here     means  the  (newly  defined)  com- 
+
+bined  space-time  inversion  (with 
+), 
+while     the  transformation  of  WFs  between  particle 
+and  antiparticle,  whose  definition  is  just  residing  in  the 
+symmetry. Then after combining with FV dissociation of 
+KG  equation  [2]  in  which  the  WF    is  composed  of 
+two fields:      , the above symmetry can be rea- 
+lized  in  terms  of    and    rigorously  via  the  inva- 
+riance of their coupling equation either under the space- 
+time  inversion  or  a  mass  inversion  
+  In  this 
+
+m 
+
+m
+
+
+
+Copyright  ©  2013  SciRes.                                                                                                                                                                  JMP 
+
+652 
+
+G.-J. NI    ET    AL. 
+
+way,  the  probability  density  is  ensured  to  be  positive 
+definite for WFs of either particle or antiparticle. Section 
+IV  ascribes  various  phenomena  in  the  theory  of  special 
+relativity (SR) to the effects of enhancement of the hid- 
+den    field  in  a  moving  particle.  In  Section  V,  Dirac 
+equation is discussed accordingly with the importance of 
+helicity  being  stressed.  Section  VI  contains  a  brief  dis- 
+cussion  on  the  QFT.  Sections  VII,  VIII  and  IX  are  de- 
+voting  to  seek  for  possible  applications  of  the  above 
+symmetry  in  today’s  physical  problems:  Why  a  parity 
+violation phenomenon was overlooked since 1956-1957? 
+Why we believe neutrinos are likely the tachyons? And 
+the  prediction  of  antigravity  between  matter  and  anti- 
+matter.  The  last  Section  X  contains  a  summary.  In  the 
+Appendix, the Klein paradox is solved for both KG equa- 
+tion  and  Dirac  equation  without  resorting  to  the  “hole 
+theory”. 
+
+2. What the 
+
+0
+
+K K   Correlation 
+
+0
+
+Experimental Data Are Telling? 
+
+To our knowledge, beginning from Bohm and Bell [15,16], 
+physicists gradually turned their research of EPR paradox 
+[14] onto the entangled state composed of electrons, es- 
+pecially photons with spin and achieved fruitful results. 
+However,  as  pointed  out  by  Guan  (1935-2007),  EPR’s 
+paper [14] is focused on two spinless particles and Guan 
+found that there is a commutation relation hiding in such 
+a system as follows [17]: 
+
+Consider two particles in one dimensional space with 
+
+positions 
+ˆ
+
+p
+i
+
+i
+ 
+
+ix i 
+
+x
+
+i
+
+1,2
+
+  and momentum operators 
+
+
+. Then a commutation relation arises as 
+
+
+
+
+
+2
+
+2
+
+,
+
+
+
+
+
+
+
+
+
+0
+
+p
+
+p
+
+
+
+
+
+
+
+
+
+
+
+
+
+0,
+
+x
+1
+
+x
+1
+
+p
+1
+
+x
+2
+
+p
+1
+
+ˆ
+p
+2
+
+ 
+
+and
+
+ˆ
+x p
+2
+1
+
+                         (2.1) 
+According to QM’s principle, there may be a kind of 
+common  eigenstate  having  eigenvalues  of  these  two 
+commutative (i.e., compatible)observables like: 
+D
+
+      (2.2) 
+with D being their distance. The existence of such kind 
+of eigenstate described by Equation (2.2) puzzled Guan, 
+he  asked:  “How  can  such  kind  of  quantum  state  be 
+realized?” A discussion between Guan and one of present 
+authors (Ni) in 1998 led to a paper [18]. 
+
+Here we are going to discuss further, showing that the 
+0K K   system  (which  just 
+correlation  experiment  on  a 
+realized  an  entangled  state  composed  of  two  spinless 
+particles) in 1998 by CPLEAR collaboration [1] actually 
+revealed  some  important  features  of  QM  and  then  an- 
+swered  the  puzzle  raised  by  EPR  in  a  surprising  way. 
+First, besides Equation (1), let us consider another three 
+commutation relations simultaneously: 
+
+0
+
+t
+1
+
+
+
+
+
+
+ˆ
+t E E
+2
+2
+
+ˆ
+1
+
+
+
+,
+
+
+
+
+
+
+0
+
+                          (2.3) 
+
+
+
+x
+1
+
+
+
+ˆ
+x p
+2
+1
+
+,
+
+
+
+ˆ
+p
+2
+
+
+
+                             (2.4) 
+
+0
+
+t
+1
+
+
+
+
+
+
+ˆ
+t E
+2
+1
+
+,
+
+
+
+ˆ
+E
+2
+
+
+
+
+
+
+0
+
+                            (2.5) 
+
+(
+
+E
+i
+
+
+
+i
+
+
+
+  with 
+
+it   being  the  time  during  which  the   
+
+
+t
+
+i
+
+0
+
+0
+
+0
+
+i-th particle is detected). In accordance with Ref. [1], we 
+also  focus  on  back-to-back  events.  The  evolution  of 
+0K K ’s wavefunction (WF) will be considered in three 
+inertial frames: The center-of-mass system S is at rest in 
+laboratory with its origin x = 0 located at the apparatus’ 
+center,  where  the  antiprotons’  beam  is  stopped  inside  a 
+0K K   pairs  by  pp   an- 
+hydrogen  gas  target  to  create 
+0K K   pairs are detected by a cylindrical 
+nihilation. The 
+tracking  detector  located  inside  a  solenoid  providing  a 
+magnetic  field  parallel  to  the  antiprotons’  beam.  For 
+back-to-back events, the space-time coordinates in Equa- 
+tions (1)-(5) refer to particles moving to the right   
+
+x 
+  respectively.  Second,  we 
+1
+take an inertial system  S   with its origin located at par- 
+ticle 1 (i.e., 
+x  ).  S   is moving in a uniform velocity 
+1
+v   with  respect  to  S .  (For  Kaon’s  momentum  of 
+).  Another  S   system  is 
+800 MeV/c,
+. S  
+chosen  with  its  origin  located  at  particle 
+is moving in a velocity  
+v   with respect to  S . Thus 
+we  have  Lorentz  transformation  among  the  space-time 
+coordinates being 
+
+  and  left  
+
+v c
+
+0.849
+
+
+22
+
+x 
+2
+
+x 
+
+
+
+0
+
+0
+
+0
+
+0
+
+
+
+
+
+
+
+x
+
+
+
+
+
+t
+
+
+
+
+
+
+
+
+
+
+t
+
+
+
+x vt
+
+2
+1
+
+
+vx c
+2
+
+2
+1
+
+
+
+,
+
+,
+
+
+
+
+
+
+t
+
+
+
+x
+
+
+
+
+
+t
+
+
+
+
+
+vt
+x
+
+2
+1
+
+
+vx c
+
+2
+1
+
+
+
+2
+
+,
+
+,
+
+              (2.6) 
+
+Here 
+bt
+and 
+t
+t
+
+ 
+A 
+
+2t   correspond  to  the  proper  time 
+
+1t   and 
+at
+ 
+  in Ref.[1] respectively. The common time origin 
+t
+
+0K K   pair, created in a 
+0
+
+  antisymmetric 
+state, can be described by a two-body WF depending on 
+time as ([1], see also [19,20]) 
+
+   is adopted. 
+
+1
+
+
+PCJ
+
+0
+
+antisym
+
+
+
+antisym
+
+
+
+ 
+K
+
+t
+b
+
+ 
+K
+
+S
+
+
+
+
+
+
+
+
+
+
+
+
+
+0,0
+1
+2
+
+t
+1
+2
+
+
+
+
+,
+
+a
+
+0
+
+ 
+0
+
+a
+
+0
+
+K
+
+ 
+0
+
+
+
+0
+
+K
+
+ 
+0
+
+b
+
+0
+
+K
+
+ 
+0
+
+
+
+
+b
+
+a
+
+  (2.7) 
+
+ 
+0
+
+a
+
+K
+
+L
+
+ 
+0
+
+e
+
+b
+
+
+
+i
+
+
+ 
+
+t
+S a
+
+
+
+t
+L b
+
+
+
+
+
+K
+
+L
+
+ 
+0
+
+K
+
+S
+
+ 
+0
+
+e
+
+b
+
+a
+
+
+
+i
+
+
+ 
+
+t
+L a
+
+
+
+t
+S b
+
+
+
+
+
+
+with 
+
+K
+
+S
+
+
+
+1
+2
+
+
+
+
+0
+
+K
+
+
+
+0
+
+K
+
+,
+
+
+
+
+K
+
+L
+
+
+
+0
+
+K
+
+
+
+0
+
+K
+
+
+   (2.8) 
+
+1
+2
+
+
+
+
+Copyright  ©  2013  SciRes.                                                                                                                                                                  JMP 
+
+G.-J. NI    ET    AL. 
+
+653
+
+i
+
+2
+
+, 
+
+
+
+
+
+S L
+,
+
+S L
+,
+
+S L
+,
+
+
+
+,S Lm   and 
+
+where the CP violation has been neglected and   
+m
+,S LK  
+masses  and  decay  widths,  respectively.  From  Equation 
+0K K  
+(7), the intensities of events with like-strangeness (
+0K K ) 
+0
+or 
+can be evaluated as   
+
+0K K )  and  unlike-strangeness  (
+
+,S L   being  the 
+
+0K K   or 
+
+0
+
+0
+
+0
+
+
+antisy
+like
+
+ 
+
+t
+
+a
+
+,
+
+t
+b
+
+
+
+
+
+
+t
+2
+
+
+
+e
+
+
+
+
+t
+S a
+
+
+
+t
+
+b
+
+
+
+
+
+
+e
+
+
+
+t
+b
+
+
+
+2e
+
+
+
+
+t
+
+
+
+t
+b
+
+a
+
+  (2.9) 
+
+cos
+
+
+m t
+
+
+a
+
+
+
+
+
+
+t
+b
+
+
+
+
+
+
+
+ 
+
+t
+
+a
+
+,
+
+t
+b
+
+
+
+
+
+
+t
+2
+
+
+
+
+e
+
+t
+
+t
+b
+
+t
+b
+
+t
+b
+
+t
+S a
+
+a
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e
+
+
+
+
+
+2e
+
+cos
+
+
+
+2
+,
+
+S
+
+t
+t
+t
+  or 
+
+
+b
+b
+0K K   created in a 
+0
+Similarly, for 
+symmetric state as:   
+
+m m m   
+ 
+L
+t
+t
+for
+
+
+
+S
+for
+
+
+t
+b
+
+
+
+
+
+t
+
+
+
+L
+
+a
+
+a
+
+a
+
+  and   
+
+. 
+PCJ
+
+
+
+(2.10) 
+
+
+
+
+m t
+
+a
+
+
+
+t
+b
+
+
+
+
+
+
+
+
+
+
+0
+
+  or  2  
+
+I
+
+e
+
+
+
+
+
+
+
+antisy
+unlike
+
+I
+
+e
+where 
+
+
+t
+
+1
+8
+t
+L a
+
+1
+8
+t
+L a
+
+
+
+
+
+
+
+
+
+
+
+
+
+0,0
+1
+2
+
+t
+1
+2
+
+
+
+
+,
+
+a
+
+sym
+
+
+
+ 
+K
+
+sym
+
+
+
+t
+b
+
+ 
+K
+
+L
+
+
+
+I
+
+
+sym
+like
+
+ 
+1 e
+
+8
+ 
+
+sym
+unlike
+1 e
+
+8
+
+t
+
+a
+
+,
+
+t
+b
+
+
+
+0
+
+ 
+0
+
+a
+
+0
+
+K
+
+ 
+0
+
+
+
+0
+
+K
+
+ 
+0
+
+b
+
+0
+
+K
+
+ 
+0
+
+
+
+
+b
+
+a
+
+  (2.11) 
+
+ 
+0
+
+a
+
+K
+
+L
+
+ 
+0
+
+e
+
+b
+
+
+
+i
+
+
+ 
+
+t
+L a
+
+
+
+t
+L b
+
+
+
+
+
+K
+
+S
+
+ 
+0
+
+K
+
+S
+
+ 
+0
+
+e
+
+b
+
+a
+
+
+
+i
+
+
+ 
+
+t
+S a
+
+
+
+t
+S b
+
+
+
+
+
+
+the predicted intensities read   
+I
+
+t
+
+,
+
+t
+b
+
+
+
+a
+
+
+
+S
+
+
+
+t
+
+a
+
+
+
+t
+b
+
+
+
+
+
+
+
+t
+L a
+
+
+
+t
+b
+
+
+
+
+
+e
+
+
+
+
+
+t
+
+a
+
+
+
+t
+b
+
+
+
+
+
+2e
+
+cos
+
+
+m t
+
+
+a
+
+
+
+
+
+
+t
+b
+
+
+
+
+
+
+
+ 
+
+t
+
+t
+
+t
+
+b
+
+a
+
+a
+
+
+
+
+
+
+
+
+
+a
+
+
+
+
+
+
+
+t
+b
+
+t
+b
+
+e
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+S
+
+
+
+
+
+
+t
+L a
+
+2e
+
+cos
+
+
+m t
+
+
+The  experiment  [1]  reveals  that  the 
+
+
+
+t
+
+
+b
+(2.12) 
+0K K   pairs  are 
+mainly  created  in  the  antisymmetric  state  shown  by 
+Equations  (2.9)  and  (2.10)  while  the  contribution  in  a 
+symmetric  state  shown  by  Equations  (2.11)  and  (2.12) 
+accounts for 7.4%. 
+
+What we learn from Ref. [1] in combination with Equ- 
+
+0
+
+ations (2.1)-(2.5) are as follows: 
+
+(a) Because only back-to-back events are involved in 
+the  S   system,  we  denote  three  commutative  operators 
+as: the “distance” operator   
+ˆ
+ˆ
+ˆ
+A p
+D x
+
+
+1
+1
+Equations (2.1) and (2.3) read 
+ˆ
+ˆ
+D B
+
+ˆ
+ˆ
+B E E
+2
+
+        (2.13) 
+
+  and 
+
+ˆ
+ˆ
+D A
+
+ˆ
+ˆ
+A B
+,
+
+
+v t
+1
+
+ˆ
+p
+2
+
+x
+2
+
+ˆ
+1
+
+0,
+
+0,
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+, 
+
+
+
+
+
+
+
+
+
+t
+
+,
+
+,
+
+,
+
+2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+So they may have a kind of common eigenstate during 
+0K K   and  projected 
+the  measurement  composed  of 
+from  the  symmetric  state  shown by  Equation (11).  It  is 
+
+ 
+assigned  by  a  continuous  eigenvalue 
+ˆD   acting on the 
+(with continuous index 
+x t x t
+WF, 
+,
+,
+1
+2
+ˆ
+sym
+D
+0
+K K
+ 
+
+j ) of operator 
+, as1 
+
+        (2.14a) 
+
+
+jD v t
+1
+
+sym
+0
+K K
+
+
+
+
+
+
+
+
+
+
+
+
+;
+
+t
+
+2
+
+1
+
+2
+
+0
+
+0
+
+
+D
+j
+
+v t
+1
+
+2
+
+x t x t
+,
+,
+2
+1
+
+sym
+;
+0
+K K
+t
+ 
+
+
+;
+1
+x t x t
+,
+,
+1
+2
+sym
+x t x t
+,
+,
+1
+0
+K K
+
+
+;
+
+
+
+
+
+1
+
+2
+
+1
+
+2
+
+2
+
+0
+
+0
+
+
+
+2
+
+
+
+2
+
+2
+
+,
+
+
+
+ˆ
+sym
+A
+
+0
+0
+K K
+sym
+A
+like
+
+
+j
+0
+K K
+
+p
+p
+2
+1
+
+x t x t
+,
+1
+;
+
+
+
+;
+1
+x t x t
+,
+,
+1
+sym
+,
+0
+K K
+
+
+0
+
+
+
+
+
+
+
+
+1
+
+0
+
+
+2
+;
+
+2
+x t x t
+,
+1
+
+2
+
+1
+
+
+
+2
+
+            (2.15) 
+
+ˆ
+B
+
+
+
+
+
+
+0
+
+0
+
+0
+
+a
+
+a
+
+2
+
+2
+
+1
+
+2
+
+1
+
+1
+
+,
+
+t
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+t
+b
+
+t
+b
+
+0,
+0,
+
+p
+1
+
+
+p
+2
+E
+2
+
+
+0
+
+
+  (not   
+
+ 
+E
+
+1
+
+          (2.16) 
+
+p
+p
+1
+2
+E E
+1
+2
+
+(b)  The  more  interesting  case  occurs  for 
+
+sym
+x t x t
+,
+
+2
+1
+0
+0
+K K
+
+sym
+B
+like
+;
+
+j
+2
+2
+0
+K K
+
+
+E
+E
+x t x t
+,
+;
+1
+1
+ˆA   is   
+
+;
+2
+x t x t
+,
+,
+1
+sym
+,
+0
+K K
+where the lowest eigenvalue of 
+, and that of  ˆB   is   
+
+jA
+like
+jB
+like
+  respectively.  These  eigen- 
+states  of  like-strangeness  events  predicted  by  Equation 
+(11)  are  really  observed  in  the  experiment  [1]  (these 
+0K K   were overlooked in the Ref. [18]). 
+eigenstates of 
+0K K   pair 
+created in the antisymmetric state with intensity given by 
+Equation (10) being a function of  
+
+  as shown by Equation (12) for symmetric states)   
+t
+which is proportional to  
+  in the S system. In the   
+0K K   events dominate whereas like- 
+EPR limit 
+strangeness events are strongly suppressed as shown by 
+Equation  (9)  (see  Figure  1  in  [1]).  So  the  experimental 
+0K K   events may 
+facts remind us of the possibility that 
+be related to common lowest (zero) eigenvalues of some 
+commutative operators (just like what happened in Equ- 
+ˆB   (which 
+ations  (15)  and  (16)  for  operators 
+are applied to symmetric states (due to   
+ˆD x
+) but are not suitable for antisym- 
+
+1
+metric states), there are another three operators shown by 
+Equations (4) and (5) being: the operator of “flight-path 
+difference” 
+ˆ
+ˆ
+G E E
+2
+1The WF reads approximately as: 
+
+K K
+
+ˆ
+F x
+
+1
+  with commutation relations as: 
+
+
+ˆ
+t M p
+2
+1
+
+                    (2.14b)
+
+ˆA   and 
+
+  and   
+
+x t x t
+,
+
+t , 
+
+
+v t
+1
+
+
+v t
+1
+
+t
+
+ˆ
+p
+2
+
+x
+2
+
+x
+2
+
+ˆ
+1
+
+p x E t
+2 2
+2 2
+
+sym
+0
+K K
+
+p x E t
+1 1
+1 1
+
+t
+1
+
+t
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ˆ
+
+
+
+e
+
+e
+
+t
+
+
+
+,
+
+sym
+
+2
+
+2
+
+;
+
+2
+
+0
+
+0
+
+,
+
+
+
+
+
+2
+
+1
+
+2
+
+1
+
+0
+
+
+
+
+
+
+
+
+
+0
+
+i
+
+i
+
+which can be calculated from 
+
+
+b
+squares  of  WF’s  amplitude  reproduces  the 
+(2.12). 
+
+t
+,
+
+
+
+t
+
+a
+
+0
+
+  with two terms. The 
+ 
+
+  in  Equation 
+
+
+
+t
+
+t
+
+,
+
+b
+
+a
+
+I
+
+
+sym
+like
+
+Copyright  ©  2013  SciRes.                                                                                                                                                                  JMP 
+
+654 
+
+G.-J. NI    ET    AL. 
+
+ˆ
+ˆ
+F G
+
+,
+
+ˆ
+ˆ
+M G
+
+,
+
+ˆ
+ˆ
+F M
+
+,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0,
+
+0,
+
+ 
+
+
+          (2.17) 
+which  are  just  suitable  for  antisymmetric  states.  For 
+0K K   back-to-back events, assume that one of two par- 
+ticles,  say  2,  is  an  antiparticle  with  its  momentum  and 
+energy operators being 
+
+
+
+0
+
+
+
+
+0
+
+ˆ
+c
+xp
+
+
+
+i
+
+
+
+
+x
+
+
+ˆ
+E
+
+,
+
+c
+
+i
+ 
+
+
+
+                  (2.18) 
+
+
+t
+
+
+(the superscript  c   means “antiparticle”) versus that for 
+particle being 
+
+ˆ
+xp
+
+i
+ 
+
+
+
+ˆ
+E
+
+,
+
+
+
+
+i
+
+
+x
+
+
+
+t
+
+
+                    (2.19) 
+
+For instance, a freely moving particle’s WF reads2: 
+
+
+
+
+x t
+,
+
+
+
+
+
+exp
+
+px Et
+
+
+
+              (2.20) 
+
+i
+
+
+
+
+
+
+
+
+
+
+
+
+i
+
+p
+
+
+
+
+cp
+
+
+
+
+
+
+
+
+
+
+
+
+
+cE 
+
+whereas 
+
+
+c
+
+
+
+x t
+,
+
+
+
+
+
+exp
+
+p x E t
+c
+c
+
+
+
+        (2.21) 
+
+  being 
+for  its  antiparticle  with 
+momentum and energy of the antiparticle in accordance 
+with  Equation  (2.18).  If  using  Equations  (2.18)-(2.21), 
+we find   
+
+  and 
+
+0
+
+ˆ
+F
+
+
+
+
+0
+
+2
+
+,
+
+antisym
+
+0
+K K
+unlike
+F
+k
+
+v t
+1
+
+
+
+t
+
+x t x t
+;
+,
+1
+1
+2
+
+antisym
+x t x t
+,
+,
+1
+0
+0
+K K
+
+antisym
+;
+ 
+0
+K K
+
+
+
+;
+1
+x t x t
+,
+1
+
+
+
+,
+
+2
+
+2
+
+2
+
+1
+
+2
+
+0
+
+
+
+2
+
+        (2.22) 
+
+with continuous index  k   referring to continuous eigen- 
+.  Here,  the  WF  in  space-time  of 
+values 
+this system during measurement reads approximately:   
+
+
+v t
+1
+
+kF
+
+
+
+
+
+
+
+t
+
+2
+
+
+
+antisym
+0
+K K
+
+0
+
+
+
+x t x t
+,
+1
+
+;
+
+,
+
+1
+
+2
+
+2
+
+
+
+
+
+i
+
+
+
+e
+
+p x E t
+1 1
+1 1
+
+
+
+
+
+i
+
+
+
+
+
+e
+
+c
+c
+p x E t
+2 2
+2 2
+
+
+
+
+
+    (2.23) 
+
+with  antiparticle  2  moving  opposite  to  particle  1  and 
+cp
+p  . 
+2
+1
+Now  we  use 
+system, yielding 
+ˆ
+M
+
+
+            (24) 
+
+ˆ
+ˆ
+M p
+1
+
+0K K  
+
+  on 
+
+ˆ c
+p
+2
+
+ˆ
+p
+2
+
+ˆ
+p
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+2
+
+0
+
+0
+
+antisym
+
+0
+K K
+M
+unlike
+k
+
+p
+1
+
+ˆ
+G
+
+
+
+
+0
+
+antisym
+
+0
+K K
+G
+unlike
+k
+
+E
+1
+
+
+
+0
+
+0
+
+2
+
+2
+
+,
+
+,
+
+
+
+x t x t
+,
+;
+2
+1
+1
+
+
+x t x t
+antisym
+;
+,
+,
+
+1
+1
+0
+K K
+
+
+
+c
+p
+x t x t
+antisym
+;
+,
+
+1
+2
+1
+2
+0
+K K
+
+
+ˆ c
+ˆ
+ˆ
+ˆ
+ˆ
+G E E
+E E
+
+
+
+1
+1
+2
+2
+
+
+x t x t
+;
+,
+1
+1
+2
+
+
+x t x t
+antisym
+,
+,
+;
+
+1
+1
+0
+K K
+c
+x t x t
+E
+antisym
+,
+;
+
+2
+1
+0
+K K
+
+2
+
+
+
+
+
+
+,
+
+,
+
+2
+
+2
+
+2
+
+1
+
+2
+
+2
+
+0
+
+0
+
+
+
+  and find 
+
+          (25) 
+
+
+
+
+Similarly, we have 
+
+Hence  we  see  that  once  Equations  (2.18)  and  (2.21)   
+
+2Please see the derivation of Equations (2.20) and (2.21) from the quan-
+tum field theory (QFT) at the end of Section VI. 
+
+
+
+
+
+0
+
+2
+
+1
+
+2
+
+,
+
+;
+
+
+
+antisym
+0
+K K
+
+x t x t
+,
+1
+
+  show  up  in   
+are  accepted,  the  WFs 
+experiments as the only WFs with strongest intensity at 
+the  EPR  limit 
+  corresponding  to  their  three 
+   and 
+eigenvalues being all zero: 
+they won’t change even when accelerator’s energies are 
+going up. 
+
+F M
+k
+
+unlike
+G
+k
+
+unlike
+k
+
+t
+
+t
+1
+
+
+
+
+
+0
+
+
+
+2
+
+0
+
+2
+
+;
+
+
+
+
+
+
+
+p
+1
+
+
+,
+1
+  and 
+
+antisym
+
+0
+K K
+p
+12
+
+
+If  using  Equation  (2.18),  the  eigenvalues  of 
+ˆB   for the WF 
+c
+jA
+p
+unlike
+2
+spectively, while that of 
+antisym
+  are 
+
+0
+0
+K K
+like
+kG
+, respectively, those eigenvalues are 
+
+much  higher  than  zero  and  going  up  with  the  acce- 
+lerator’s energy. 
+
+x t x t
+  are   
+,
+1
+2
+E
+jB
+unlike
+12
+
+
+ˆG   for the WF   
+ˆM   and 
+p
+kM
+like
+
+
+1
+
+x t x t
+,
+,
+2
+1
+
+
+
+
+2
+E
+12
+
+c
+E E
+1
+2
+
+  and   
+
+
+E
+1
+
+  re- 
+
+;
+1
+E
+
+p
+12
+
+p
+2
+
+
+
+
+
+2
+
+ˆA   and   
+
+unlike
+
+unlike
+
+kM
+
+12 p   and 
+
+  would  be 
+
+Something  is  very  interesting  here:  If  we  deny  Equ- 
+ˆE  
+ation  (2.18)  but  insist  on  unified  operators  ˆp   and 
+for both particle and antiparticle, there would be no diffe- 
+rence in eigenvalues between like-strangeness events and 
+  and 
+unlike-strangeness  ones.  For  example,  the 
+kG
+12E   too  (instead  of  “0”  as 
+in  Equations  (2.24)  and  (2.25)).  This  would  mean  that 
+ˆG   are  not   
+ˆ,F M   and 
+ˆ
+three  commutative  operators 
+x t x t
+antisym
+  from   
+enough to distinguish the WF 
+,
+;
+
+1
+0
+K K
+the WF 
+  even they behave so diffe-   
+rently as shown by Equations (9) and (10)), especially at 
+the EPR limit  
+
+Equation (2.18) together with the identification of WF   
+antisym
+  by  three  zero  eigenvalues  implies   
+
+0
+K K
+that the difference of a particle from its antiparticle is not 
+something  hiding  in  the  “intrinsic  space”  like  opposite 
+charge (for electron and positron) or opposite strangeness 
+0K )  but  can  be  displayed  in  their  WFs 
+(for 
+evolving in space-time at the level of QM. 
+
+x t x t
+,
+1
+
+x t x t
+,
+1
+
+0K   and 
+
+antisym
+0
+K K
+
+t
+
+
+
+t
+1
+
+. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+;
+
+;
+
+,
+
+,
+
+,
+
+1
+
+2
+
+2
+
+1
+
+2
+
+2
+
+1
+
+2
+
+2
+
+2
+
+0
+
+0
+
+0
+
+In  summary,  instead  of  one  set  of  WF  with  its  ope- 
+rators  (Equations  (2.19)  and  (2.20)),  two  sets  of  WFs 
+with  operators  separately  (shown  as  Equations  (2.18)- 
+(2.21)) are strongly supported by the original EPR para- 
+  experi- 
+dox and its “solution” provided by the 
+ment. 
+
+To our knowledge, Equation (2.18) can be found at a 
+page  note  of  a  paper  by  Konopinski  and  Mahmaud  in 
+1953 [21], also appears in Refs. [18,22-28]. 
+
+K
+
+K
+
+0
+
+0
+
+3. How to Make Klein-Gordon Equation a 
+
+Self-Consistent Theory in RQM? A 
+Discrete Symmetry 
+
+3.1. The Negative Energy Solution and the WF of 
+
+Antiparticle 
+
+Let us begin with the energy conservation law for a parti- 
+
+Copyright  ©  2013  SciRes.                                                                                                                                                                  JMP 
+
+G.-J. NI    ET    AL. 
+
+655
+
+cle in classical mechanics: 
+
+E
+
+1=
+m
+2
+
+p
+2
+
+
+V x
+
+
+
+                          (3.1) 
+
+Consider  the  rule  promoting  observables  into  ope- 
+
+rators: 
+
+E
+
+ 
+
+ˆ
+E
+
+i
+
+
+
+,
+
+p
+
+   
+
+
+
+ˆ
+p
+
+i
+
+        (3.2) 
+
+
+t
+
+
+and  let  Equation  (3.1)  act  on  a  wavefunction  (WF) 
+,t x
+
+, the Schrödinger equation 
+
+
+
+
+i
+
+
+t
+
+
+
+2
+m
+2
+
+
+
+
+x
+
+,
+
+t
+
+
+
+ 
+
+
+
+
+2
+
+
+x
+
+,
+
+t
+
+
+
+
+
+V
+
+
+
+x
+
+
+
+
+
+x
+
+,
+
+t
+
+
+
+  (3.3) 
+
+follows  immediately.  In  mid  1920’s,  considering  the 
+kinematical relation for a particle in the theory of special 
+relativity (SR): 
+
+
+
+E V
+
+
+
+2
+
+
+
+2
+
+c
+
+p
+2
+
+m c
+2 4
+
+                    (3.4) 
+
+and using Equation (3.2) again, the Klein-Gordon (KG) 
+equation was established as: 
+2
+
+
+
+
+x t
+,
+
+
+
+i
+
+
+
+
+
+
+ 
+
+
+t
+
+2
+c
+
+
+V
+
+
+
+2
+
+
+
+
+2
+
+
+
+2 4
+x t m c
+,
+
+
+
+
+
+
+
+
+x t
+,
+
+
+
+        (3.5) 
+
+For a free KG particle, its plane-wave solution reads: 
+
+
+
+
+x
+
+,
+
+t
+
+
+
+
+
+exp
+
+p x
+ 
+
+Et
+
+                (3.6) 
+
+i
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+However, two difficulties arose: 
+(a) The energy E in Equation (6) has two eigenvalues: 
+
+2
+
+c
+
+E
+
+ 
+
+p
+2
+
+                        (3.7) 
+0V  ,  the  WFs  of  KG  particle’s  energy 
+
+m c
+2 4
+
+In  general, 
+
+eigenstates can always be divided into two parts: 
+
+
+
+
+
+exp
+
+
+
+Et E
+
+,
+
+
+
+0
+
+                  (3.8) 
+
+
+
+
+
+exp
+
+
+
+Et E
+
+,
+
+
+
+0
+
+                  (3.9) 
+
+
+
+
+
+
+
+
+i
+
+i
+
+
+
+
+
+
+
+
+
+where only the original operators Equation (3.2) are used. 
+But what the “negative energy” means? 
+
+(b) The  continuity  equation  is derived  from  Equation 
+
+
+t
+
+
+   
+
+j
+
+0
+
+                          (3.10) 
+
+
+
+
+
+i
+mc
+
+2
+
+2
+
+
+
+
+
+   
+
+
+
+
+t
+
+
+
+t
+
+
+
+
+
+
+
+
+
+
+1
+mc
+
+2
+
+V
+
+
+
+
+  (3.11) 
+
+(5) as 
+
+where 
+
+and 
+
+j
+
+
+
+
+i
+2m
+
+
+
+   
+
+  
+
+
+
+
+
+                (3.12) 
+
+2
+
+2
+
+2
+
+
+
+are  the  “probability  density”  and  “probability  current 
+density” respectively. While the latter is the same as that 
+derived from Equation (3.3), Equation (3.11) seems not 
+positive definite and dramatically different from   
+ 
+
+  in Equation (3.3). Why? 
+
+E m c
+c
+c
+
+E mc
+mc
+
+In hindsight, for a linear equation in RQM, either KG 
+or Dirac equation, the emergence of WFs with both posi- 
+tive and negative energy  
+E   is inevitable and natural. 
+From mathematical point of view, the set of WFs cannot 
+be  complete  if  without  taking  the  negative  energy  so- 
+lutions  into  account.  And  physicists  believe  that  these 
+negative-energy  solutions  might  be  relevant  to  anti- 
+particles. However, we physicists admit that both a rest 
+  and  a  rest  antiparticle’s  en- 
+particle’s  energy 
+  are positive, as verified by nume- 
+ergy 
+
+rous experiments like that of pair-creation process   
+.  The  above  contradiction  constructs  so- 
+
+called  “negative-energy  paradox”  in  RQM.  For  Dirac 
+particle, majority (not all) of physicists accept the “hole 
+theory” to explain the “paradox”. But for KG particle, no 
+such kind of “hole theory” can be acceptable. It was this 
+“negative-energy  paradox”  as  well  as  the  four  “com- 
+mutation relations”, Equations (2.1)-(2.5), hidden in the 
+two-particle  system  discussed  by  EPR  [14]  gradually 
+prompted us to realize that the root cause of difficulty in 
+RQM  lies  in  an  a  priori  notion—only  one  kind  of  WF 
+with one set of operators (like Equation (3.2)) can be ac- 
+ceptable in QM, either for NRQM or RQM. 
+
+ 
+
+Once getting rid of the constraint in the above notion 
+and introducing two sets of WFs and operators for par- 
+ticle  and  antiparticle  respectively,  we  can  identify  the 
+negative  energy  solution,  Equation  (3.9),  with  the  anti- 
+particle’s WF directly 
+
+e
+
+e
+
+
+
+
+
+
+c
+
+
+
+exp
+
+E t E
+c
+c
+
+,
+
+
+
+0
+
+                  (3.13) 
+
+i
+
+
+
+
+
+
+
+
+
+
+cE  
+which  implies  an  antiparticle  with  positive  energy 
+by  using  Equation  (2.18).  This  claim  will  be  proved 
+rigorously in the next subsection. 
+
+One may ask: When you assume the negative energy 
+solution being the WF of antiparticle, how about the dif- 
+ficulty  of  negative  probability  density?  Below  we  will 
+see  how  to  solve  these  two  difficulties  simultaneously 
+and  make  KG  equation  a  self-consistent  theory  at  the 
+level of RQM. 
+
+3.2. The Proof of a Discrete Symmetry 
+
+P
+
+
+
+  
+
+for KG Particle 
+
+Let  us  introduce  an  operator  of  (newly  defined)  com- 
+bined  space-time  inversion     for  KG  equation.  It 
+should change the space-time coordinates as 
+
+Copyright  ©  2013  SciRes.                                                                                                                                                                  JMP 
+
+656 
+
+G.-J. NI    ET    AL. 
+
+            (3.16) 
+
+and 
+
+x
+
+t
+   
+
+,t
+
+x
+
+                  (3.14) 
+
+then accordingly 
+
+ˆ
+p
+ˆ
+E
+
+   
+
+i
+
+ 
+
+
+
+i
+
+
+
+
+
+ 
+
+ˆ
+p
+ˆ
+E
+
+
+
+
+
+
+t
+
+
+
+
+1
+
+
+
+1
+
+
+
+
+
+
+
+
+ˆ
+p
+c
+ˆ
+E
+c
+
+ 
+
+
+
+i
+
+
+i
+ 
+
+,
+
+t
+
+
+        (3.15) 
+
+Because  the  antiparticle  has  opposite  charge  
+
+q
+
+ 
+
+versus  q   for particle, so 
+
+
+
+V
+
+c
+
+V
+
+x
+
+
+
+
+
+t
+
+,
+
+1
+
+
+V
+x
+,
+
+
+t
+
+x
+
+
+
+t
+,
+
+
+x
+V
+ 
+
+
+t
+,
+
+
+
+When  performing     inversion  on  KG  equation, 
+Equation (3.5), from left to right, we meet eventually the 
+WF and define the antiparticle’s WF as 
+
+c
+
+        (3.17) 
+Thus KG particle’s equation, Equation (3.5), is trans- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+x
+
+x
+
+x
+
+
+
+
+
+
+
+
+
+t
+
+t
+
+t
+
+,
+
+,
+
+,
+
+formed into  
+
+ 
+
+1
+
+ˆ
+E V
+c
+c
+  
+
+
+c
+
+2
+
+2
+
+
+i
+
+t
+
+c
+  
+
+
+V
+
+
+2
+
+c
+
+2
+
+2
+
+
+2
+
+c
+
+
+
+c
+
+x
+,
+
+t
+
+
+x
+,
+
+t m
+
+
+2
+
+c
+
+
+
+x
+
+,
+
+t
+
+
+
+      (3.18) 
+
+
+c
+
+
+
+x
+
+,
+
+t
+
+
+
+
+
+x
+
+,
+
+
+t m
+
+
+
+2
+
+c
+
+
+
+x
+
+,
+
+t
+
+
+
+          (3.19) 
+
+or 
+
+c
+
+2
+
+
+
+
+
+
+
+2
+
+p
+2
+c
+
+  for 
+
+ˆ
+ˆ ,c
+cEp
+
+ˆ
+E V
+c
+c
+
+,
+t x
+
+which is formally the same as Equation (3.5) though we 
+.  Hence  the  KG  equ- 
+should  use 
+ation  remains  invariant  under  the     operation,  Equ- 
+ations  (3.14)-(3.17).  Notice  further  that  Equation  (3.18) 
+is just the “quantized” equation of the kinematical rela- 
+tion for an antiparticle in SR 
+c
+
+
+                  (3.20) 
+which is the counterpart of Equation (3.4) for a particle. 
+For example, a KG particle’s scattering WF   
+
+E m
+
+1
+symmetric  potential 
+0    (in  the,  say, 
+phase-shift 
+1
+physically, its antiparticle’s WF   
+
+
+x
+c
+t E
+, ;
+
+
+c
+1
+ 
+cV r
+tential 
+c  . 
+shift 
+0
+1
+
+  is attracted by an spherically 
+
+V r    and  so  has  a  positive 
+  state).  Then 
+
+
+c
+E
+  is  repelled  by  the  po-   
+
+1
+  0
+V r
+   and  has  a  negative  phase- 
+
+
+  0
+
+e cE t
+1i
+ 
+
+E m
+1
+
+
+S l 
+
+t E
+, ;
+1
+
+m c
+2 4
+
+e E t
+1i
+
+
+
+0
+
+
+
+x
+
+
+
+
+
+
+
+1
+, ;t E x
+
+
+
+, 
+
+Note  that,  however,  corresponding  to 
+
+
+
+
+
+x
+
+
+
+e E t
+1i
+
+t E
+, ;
+1
+
+there is another negative energy particle’s WF 
+  satisfying Equation (3.5) 
+ 
+
+
+V
+i
+
+
+t
+
+
+
+
+
+
+x
+t E
+E V
+, ;
+
+ 
+
+
+1
+1
+
+
+
+x
+t E
+c
+m
+2
+2
+2
+, ;
+
+
+  
+
+
+1
+
+t E
+, ;
+1
+
+
+
+
+
+
+x
+
+x
+
+
+
+2
+
+2
+
+t E
+, ;
+1
+
+
+
+
+
+  (3.21) 
+
+whose  space-time  behavior  is  precisely  the  same  as  the   
+   
+antiparticle’s  WF 
+as shown by Equation (3.18) since 
+
+E V
+
+1
+have 
+
+. Thus, for avoiding confusion, we 
+
+E m
+1
+
+E V
+c
+c
+
+  with 
+
+c
+t E
+, ;
+1
+
+e cE t
+1i
+
+
+c
+
+cE
+1
+
+2
+
+
+
+
+
+
+
+
+
+
+
+x
+
+
+
+
+
+
+
+
+
+2
+
+
+x
+t E
+, ;
+
+
+1
+
+x
+t E
+, ;
+
+
+
+1
+
+x
+c
+t E
+, ;
+
+
+c
+1
+
+
+
+
+
+x
+t E
+, ;
+
+
+
+1
+
+
+x
+t E
+,
+;
+
+ 
+
+1
+
+
+
+        (3.22) 
+
+
+
+x
+t
+,
+
+
+
+
+x
+t
+,
+
+
+
+
+
+
+x
+t V
+,
+
+
+c
+
+t
+
+
+
+,
+
+
+x
+
+ 
+
+0
+
+
+                (3.23) 
+
+  
+achieving  the  proof  of  the  discrete  symmetry 
+for KG particle shown by Equation (3.17). In summary, 
+the “negative-energy paradox” for KG equation is solved 
+in a physical way with following advantages: 
+
+
+
+a)  By  using  two  sets  of  WFs  and  momentum-energy 
+operators  for  particle  and  antiparticle  respectively,  both 
+,
+,t x
+t x
+ 
+particle’s  WF 
+cE    respectively. 
+have positive energies 
+b) While satisfying the same KG equation with same 
+  are 
+potential 
+actually  subject  to  opposite  “force”  for  particle  and 
+antiparticle respectively. 
+
+  and  antiparticle’s  WF 
+0E    and 
+
+  formally, 
+
+,
+t x
+
+,t x
+
+ V r
+
+  and 
+
+0
+
+
+
+
+
+
+
+
+
+c
+
+c
+
+
+ x
+
+c
+
+1
+t E
+, ;
+
+c
+
+1
+
+
+
+
+
+x
+
+
+
+c
+E
+1
+
+
+t E E
+, ;
+1
+
+c)  The  space-time  behavior  of 
+
+  can  be 
+identified  with  that  of  a  negative  energy  particle’s  WF   
+,  in  a  one-to-one  correspondence.   
+ 
+Thus  from  mathematical  point  of  view,  all  solutions  of 
+KG equation form a complete set including both positive   
+and  negative  energy  values  of  one  operator 
+   
+exactly. 
+
+ˆ
+iE
+
+
+
+t
+
+
+By  contrast,  usually,  aiming  at  finding  an  anti-par- 
+ticle’s  WF,  one  performs  the  CPT  transformation  on  a 
+,t x
+particle’s WF 
+
+x
+t
+,
+
+
+
+, yielding [29-32]   
+x
+,
+ 
+
+        (3.24) 
+
+CPT
+
+
+
+
+
+
+
+
+
+
+
+
+x
+
+
+
+
+
+t
+
+t
+
+,
+
+whose character can also be summed up as follows: 
+
+,
+
+
+
+
+
+a’) By using one set of WF and relevant operators for 
+both  particle  and  antiparticle,  at  the  LHS  of  Equation 
+
+  at  RHS  must  have 
+(3.24), 
+opposite energies inevitably. 
+
+  x
+t
+
+,t x
+
+,  and 
+
+b’)  By  design  in  the  C  transformation, 
+
+
+  and 
+  x
+  in Equation (3.24) satisfy different equations 
+t
+with  V   and 
+V    respectively.  But  with  opposite 
+energies,  they  are  actually  subject  to  the  same  (either 
+attractive or repulsive) “force”. So one cannot distinguish 
+particle from antiparticle through what their WFs “feel” 
+after the CPT transformation. 
+
+,t x
+
+cV
+
+
+
+
+
+,
+
+Copyright  ©  2013  SciRes.                                                                                                                                                                  JMP 
+
+G.-J. NI    ET    AL. 
+
+657
+
+c’) From mathematical point of view, we should keep 
+all negative-energy solutions for one equation. However, 
+even  facing  WFs  in  doubled  numbers,  we  still  don’t 
+know how to choose half of them for describing particle 
+and its antiparticle separately in physics. 
+
+But  we  haven’t  solve  the  difficulty  of  negative  pro- 
+bability density in KG equation yet, awaiting for another 
+enlightenment which was already there since 1958. 
+
+3.3. Feshbach and Villars (FV) Dissociation of 
+
+KG WF     
+Symmetry between    and    under the 
+Space-Time (or Mass) Inversion 
+
+, a Reformulated 
+
+In 1958, dividing the WF into      , Feshbach and 
+Villars [2] recast Equation (5) into two coupled Schröd- 
+inger-like equations as3: 
+
+i
+
+
+
+i
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+t
+
+
+t
+
+
+
+V
+
+
+
+
+
+
+
+
+
+
+V
+
+
+
+mc
+
+2
+
+
+
+2
+
+
+
+ 
+
+
+
+ 
+
+mc
+
+2
+
+
+
+
+2
+
+
+
+
+
+ 
+
+
+
+
+
+
+2
+m
+2
+
+2
+m
+2
+
+    (3.25) 
+
+where 
+
+
+
+
+
+
+
+ 
+
+
+
+
+1
+2
+1
+2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+
+
+
+1
+
+
+
+1
+mc
+1
+mc
+
+V
+
+2
+
+V
+
+2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2
+
+ 
+i
+
+
+
+mc
+
+ 
+i
+
+
+
+mc
+
+
+2
+
+          (3.26) 
+
+
+
+
+
+t
+
+
+. Interestingly, the “probability density”, Equ-   
+
+
+
+
+
+
+ation (3.11) can be recast into a difference between two 
+positive-definite densities [18,20]: 
+  
+
+                          (3.27) 
+while  the  probability  current  density  contains  inter- 
+ference terms between    and  : 
+
+
+
+
+
+
+
+
+
+j
+
+
+
+
+i
+2m
+
+
+
+
+
+
+
+
+
+
+
+
+       
+      
+
+
+
+
+        
+       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    (3.28) 
+
+
+
+The  expression  of    as  shown  by  Equation  (3.27) 
+   symmetry proved in the 
+strongly hints that the 
+last  subsection  may  be  combined  with  the  FV  dissoci- 
+ation of KG equation such that the positive-definite pro- 
+perty  of    can  be  ensured  for  both  particle  and  anti- 
+particle. 
+
+Indeed, after inspecting Equation (3.25) carefully, we 
+do find a hidden symmetry in the sense that it is invariant 
+
+3Interestingly,  if  ignoring  the  coupling  between     and   and 
+0V    in Equation (25), they satisfy respectively the “two equations”
+written down by Schrödinger in his 6th paper in 1926, titled “Quantisa-
+tion as a problem of proper values (Part IV)” (Annalen der Physik Vol.
+81, No. 4, 1926, p. 104) when he invented NRQM in the form of wave 
+mechanics. 
+
+(in its form) under the following reformulated space-time 
+inversion  
+   transforma- 
+tion: 
+
+t
+   
+
+,  i.e., 
+
+
+
+,t
+
+x
+
+x
+
+
+
+x
+x
+t
+t
+    
+,
+,
+
+
+
+
+
+
+x
+x
+x
+t
+V
+V
+V
+t
+,
+,
+
+ 
+
+c
+
+
+
+
+
+x
+x
+t
+t
+,
+,
+
+
+
+
+
+
+
+c
+
+
+
+
+
+
+x
+x
+t
+t
+,
+,
+
+
+
+
+
+
+
+c
+
+
+
+
+
+
+x
+x
+t
+t
+,
+,
+
+
+
+
+
+
+
+c
+
+
+t
+,
+,
+
+x
+,
+x
+t
+,
+x
+t
+,
+
+t
+
+
+
+
+,
+
+,
+
+          (3.29) 
+
+1
+
+
+
+
+
+ation (3.26), we find 
+  and 
+
+Performing  transformation  Equation  (3.29)  on  Equ- 
+c   satisfying the same equation of 
+
+
+
+
+c
+
+
+ 
+
+
+c
+
+
+1
+2
+1
+2
+Remember, for 
+
+c  satisfying that of  . They read 
+ 
+i
+
+c
+mc
+ 
+i
+
+c
+mc
+
+
+
+
+
+
+
+
+
+
+
+
+
+c , we should use operator Equation 
+c   is 
+
+(3.15).  Accordingly,  the  probability  density  for 
+defined as 
+
+
+
+
+c
+
+
+
+
+c
+
+
+1
+mc
+1
+mc
+
+        (3.30) 
+
+
+
+
+
+
+
+
+V
+
+V
+
+
+
+
+
+
+
+1
+
+2
+
+2
+
+2
+
+2
+
+V
+
+c
+
+
+c
+
+      (3.31) 
+
+c
+
+2
+
+
+
+
+c
+
+
+c
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+c
+
+i
+
+
+ 
+c
+mc
+2
+
+ 
+
+c
+c
+Similarly, we have  
+  
+j
+c
+
+
+
+
+
+
+c
+
+j
+
+c
+
+
+
+i
+m
+2
+
+
+
+1
+mc
+
+2
+
+c
+
+
+ 
+
+j
+
+
+
+
+For  simplicity,  consider  a  free  KG  particle  
+
+
+
+   
+c
+
+  
+
+
+
+
+
+
+c
+
+c
+
+c
+
+with WF Equation (3.6). Then   
+
+   
+
+    (3.32) 
+
+0V 
+
+ 
+
+2
+
+2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 1
+
+
+2
+
+1 1
+
+
+2
+
+But for a free  
+ation (2.21), it has 
+1 1
+
+
+2
+
+1 1
+
+
+2
+
+
+E
+mc
+E
+mc
+0V 
+c 
+c
+E
+c
+mc
+E
+c
+mc
+
+
+
+
+c
+
+
+
+
+c
+
+
+
+
+
+
+
+
+2
+
+2
+
+c
+
+ 
+
+2
+
+0
+
+
+
+
+
+ 
+
+
+
+
+
+
+2
+   
+
+
+,
+
+
+
+
+  KG antiparticle with WF Equ- 
+
+    (3.33) 
+
+1
+m
+
+
+
+
+
+p
+
+j
+
+2
+
+c
+
+c
+
+2
+
+
+
+
+
+
+   
+
+c
+
+
+
+
+c
+
+
+
+
+
+
+
+
+1
+m
+
+
+c
+
+p
+c
+
+j
+c
+
+
+
+,
+
+2
+
+2
+
+
+
+0
+
+  (3.34) 
+
+Equations  (3.33)  and  (3.34)  satisfy  all  physical  con- 
+ 0
+0V  ,  as  long  as  
+ditions  we  need.  If 
+   for 
+ 0
+particle  or  
+E V
+   for  antiparticle,  the  situation 
+c
+c
+ 0
+
+  or 
+the  same.  However,  once 
+remains 
+
+
+ 0
+E V
+ ,  some  complications  would  occur.  For 
+c
+c
+further discussion, please see the Appendix. 
+
+E V
+
+E V
+
+Therefore,  we  see  that  the  reformulated  space-time 
+
+Copyright  ©  2013  SciRes.                                                                                                                                                                  JMP 
+
+658 
+
+G.-J. NI    ET    AL. 
+
+c .  As  both  E   and    in    or 
+
+inversion,  Equation  (3.29),  reflects  the  underlying  sym- 
+metry between a particle’s WF    and its antiparticle’s 
+c  
+WF 
+c   are  positive  definite,  all  difficulties  in  KG  equ- 
+in 
+ation  disappear  and  the  latter  becomes  a  self-consistent 
+theory. 
+
+cE   and 
+
+Moreover,  instead  of  Equation  (3.29),  a  “mass  inver- 
+”  can  realize  the  same  symmetry,  the 
+   transformation, via the fol- 
+
+sion  
+invariance under a 
+lowing operation on Equation (3.25): 
+
+m 
+
+
+
+m
+
+
+
+m
+m
+  
+c
+
+
+
+x
+V
+t
+,
+
+
+
+
+
+x
+t
+,
+
+
+
+
+
+
+x
+t
+,
+
+
+
+
+
+
+x
+t
+,
+
+
+
+Notice  that,  when  m
+ˆ
+E 
+c
+
+ˆ
+E
+to Equation (3.15) [1].4 
+
+, i.e. 
+
+
+
+,
+
+,
+
+t
+
+
+
+
+
+x
+
+m
+
+x
+V
+t
+,
+ 
+c
+
+
+x
+t
+,
+,
+
+
+x
+t
+,
+,
+
+
+x
+t
+,
+
+ 
+
+V
+
+c
+
+c
+
+c
+m  ,  we  have  ˆ
+p
+
+ ,  i
+i
+t
+
+
+
+t
+
+
+
+
+
+
+
+
+i
+
+i
+    
+
+          (3.35) 
+
+ˆ c 
+p   and   
+, in contrast   
+
+The reason why  V
+
+V    in the space-time inversion 
+Equation  (3.29)  whereas  V
+V   in  the  mass  inversion 
+Equation (3.35) can be seen from the classical equation: 
+The Lorentz force F on a particle exerted by an external 
+a .  As  the 
+potential     reads: 
+acceleration  a   of  particle  will  change  to  a   for  its 
+antiparticle, there are two alternative explanations: either 
+due  to  the  inversion  of  charge  q
+V   
+but  keeping  m   unchanged)  or  due  to  the  inversion  of 
+mass  m
+
+m    (but keeping  V   unchanged). 
+
+
+     
+
+q    (i.e.,  V
+
+m
+
+F
+
+V
+
+q
+
+
+
+4. Reinterpretation of WF and the 
+
+Relativistic Effects 
+
+The success of FV’s dissociation of KG equation should 
+be ascribed to their deep insight that a unified WF    is 
+composed  of  two  fields    and    in  confrontation. 
+Note that Equation (3.25) reduces into two equations se- 
+parately for a static KG particle  
+V
+
+ 
+
+
+1
+
+0,
+
+: 
+
+
+
+
+
+c
+
+
+i
+ 
+t
+ 
+i
+ 
+t
+
+,
+ 
+
+m
+
+
+
+
+
+ 
+
+m
+
+
+
+                          (4.1) 
+
+with two separated solutions being: 
+E
+c
+
+0,
+
+Et
+,
+
+,
+
+E m
+
+
+
+i
+e
+
+
+
+
+
+0
+
+
+
+
+E
+
+
+
+
+c
+
+
+
+c
+
+   
+
+
+
+m
+E t
+i
+e
+c
+0
+
+,
+
+
+
+0,
+
+E m
+c
+
+
+
+
+
+0
+
+  (4.2) 
+
+Once  the  particle  (antiparticle)  is  moving  with  a  ve- 
+4Here  m  always  refers  to  the  “rest  mass”  also  the  “inertial  mass” for  a 
+particle or its antiparticle, see the excellent paper by Okun in Ref. [33]. 
+
+0
+
+v  ,    and    (
+
+locity, 
+ther  and  the  WF        
+particle (antiparticle) read (in one-dimensional space) 
+
+c )  couple  toge- 
+  for  a  free 
+
+
+  
+c
+
+c   and 
+
+
+
+c
+
+c
+
+exp i
+
+
+i
+
+
+
+
+0
+
+  
+
+
+ 
+
+
+
+px Et
+
+
+
+
+
+
+
+
+,
+
+
+
+
+
+ 
+
+,
+ 
+c
+
+c
+
+      (4.3a) 
+
+
+c
+0,
+
+
+
+
+
+
+
+
+
+
+
+
+exp
+
+  (4.3b) 
+
+p x E t
+c
+c
+
+
+E
+  respectively. In Equation (4.3a), 
+
+
+
+>   .  By  contrast,  in  Equation 
+c  (The status remains 
+0V    cases  as  discussed  in  the  last  sec- 
+
+c   who dominates 
+
+  
+c
+
+
+
+
+
+c
+
+p
+
+
+
+
+
+
+E
+p
+c
+c
+  dominates 
+(4.3b) it is 
+the  same  for 
+tion). 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+exp
+
+px Et
+
+c  (   and 
+
+Despite    and 
+
+c )  having  the  “intrin- 
+sic tendency” to evolve as   
+
+
+px Et
+ , however, in a WF   
+exp i
+i
+
+
+
+
+
+c    to 
+
+c    must follow 
+of particle (antiparticle), 
+evolve  like  that  shown  by  Equation  (4.3a)  (Equation   
+.  So  it  seems  suitable  to   
+(4.3b)),  as 
+name    the  “hidden  particle  field”  inside  a  particle 
+while    the “hidden antiparticle field” (rather than the 
+“negative-energy component”) inside the same particle. 
+
+   
+c
+
+
+
+
+
+
+
+
+
+c
+
+2
+
+
+
+
+
+0
+
+
+
+Let  us  try  to  reinterpret  the  phenomena  displayed  in 
+the kinematics of special relativity (SR) via the enhance- 
+ment of    field in a particle [22-25]: 
+
+(a) Lorentz transformation 
+Consider a particle’s WF shown by Equation (4.3a) in 
+an  inertial  frame  S  (laboratory).  Then  take  another  S  
+frame resting on the particle, so 
+E
+
+ 
+
+E mc
+0
+
+p    and   
+. The WF in  S   frame reads: 
+i
+
+
+i
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+,x t
+
+x t
+,
+
+
+E t
+0
+
+exp
+
+exp
+
+
+
+
+  (4.4) 
+
+p x E t
+ 
+ 
+
+Here the space-time coordinates  
+
+
+
+
+
+ are introduced 
+and  defined  in  the  S   frame  via  the  phase  of  WF  as 
+follows:  Based  on  the  assertion  that  “phase  remains 
+invariant  under  the  coordinate  transformation”  which 
+was  named  the  “law  of  phase  harmony”  by  de  Broglie 
+and was regarded by himself as the fundamental achieve- 
+ment  all  his  life  [34],  comparing  the  phase  in  Equation 
+(4.4) with that in Equation (4.3a) and using   
+E E
+0
+
+, one finds 
+
+p Ev c
+
+v c
+2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+
+
+
+
+
+,
+
+
+
+2
+
+2
+
+t
+
+ 
+
+2
+
+vx c
+t
+
+v c
+2
+1
+
+
+2
+
+                            (4.5) 
+
+Then,  all  formulas  in  the  Lorentz  transformation  can 
+be obtained. In some sense, what used here is a particle’s 
+wave-packet which serves as a microscopic “ruler”, also 
+a “clock” simultaneously. 
+
+(b) There is a speed limit c for a massive particle. 
+For a free KG particle, using Equation (3.33), we may 
+define  an  “impurity  ratio”  R   for  the  amplitude  of 
+
+Copyright  ©  2013  SciRes.                                                                                                                                                                  JMP 
+
+G.-J. NI    ET    AL. 
+
+659
+
+hidden    field to that of    field and calculate it being   
+
+R
+KG
+free
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+
+
+
+1
+
+
+
+1
+
+
+
+1
+
+
+
+
+
+
+v c
+v c
+
+2
+
+2
+
+
+
+
+
+
+
+
+
+            (4.6) 
+
+v
+
+1
+
+0
+
+0,
+
+When 
+
+
+
+ , with the increase of v,     
+increases monotonously. The particle becomes more and 
+    as  a  limit  of  particle 
+more  “impure”  until 
+being  still  a  particle.  As  shown  by  Equation  (4.6),  the 
+reason why its velocity has a limiting value c (the speed 
+of light) is because    and    have opposite evolution 
+tendencies  in  space-time  as  shown  by  Equations  (4.1)- 
+(4.3) essentially,    strives to hold    back from going 
+forward  until  a  balance  nearly  reached  when     
+and  v
+
+c . 
+
+(c) The “length contraction” (FitzGerald-Lorentz con- 
+
+traction) and “time dilation” 
+
+As  usual,  we  will  show  “length  contraction”  via  a 
+wave-packet of KG particle moving at a high-speed   v  
+but  further  ascribe  it  to  the  enhancement  of    field 
+hidden inside the particle. 
+
+First, consider a wave-packet of KG particle at rest [25, 
+
+35] 
+
+x t
+,
+
+
+
+
+
+
+
+
+
+4 π
+
+
+3
+
+1 4
+
+
+
+
+
+
+2
+
+k
+
+
+2
+
+
+
+
+
+
+
+
+
+exp
+
+
+
+
+mc
+
+
+Assuming 
+
+
+
+, we have approximately that   
+
+i
+
+
+
+
+
+1 2
+
+1 4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+If 
+
+exp
+
+
+
+
+  (4.8) 
+
+mc t
+2
+
+
+x
+2
+
+
+
+t m
+2 1 i
+
+
+
+
+x t
+,
+
+
+π
+
+
+
+t m
+1 i
+
+
+t m  ,  the  diffusion  of  wave-packet  at  low 
+c   can  be  ignored.  Then  we  perform  a 
+
+ 
+
+c , 
+
+speed  
+“boost transformation”   
+
+x
+t
+,
+,
+ 
+to  push  the  wave-packet  to  high  velocity  
+v
+yielding 
+
+v c
+
+
+ 
+
+ 
+
+vx c
+
+2
+
+
+vt
+
+
+
+
+
+1
+
+1
+
+
+
+
+
+1
+
+x
+
+v
+
+
+
+
+
+
+
+t
+
+2
+
+2
+
+
+
+boost
+
+
+
+x t
+,
+
+
+
+
+ 
+
+
+
+π
+
+1 4
+
+
+
+
+i
+
+
+e
+
+2
+
+
+
+i
+
+
+
+
+
+
+
+exp
+
+mc
+
+mc x vt
+
+
+
+
+
+
+
+        (4.9) 
+
+1
+
+
+
+2
+
+
+t
+
+exp
+
+
+
+
+
+
+
+
+
+
+
+2
+
+2
+2
+
+
+
+
+
+
+where 
+
+
+
+
+
+,
+ 
+
+
+
+1
+
+
+
+2
+
+
+  and   
+
+Here    is the width of wave-packet measured from 
+0 . Equations (4.7)-(4.10) show the “length 
+
+its center 
+contraction”. 
+
+Second, we calculate from Equations (4.9) and (3.33)   
+
+2
+
+2
+
+2
+
+
+
+
+
+the values of 
+,    and the probability density 
+2
+  respectively.5  Their  peak  values  all  in- 
+  
+crease with the increase of v (boost effect). However, the 
+2   increases  even  faster  than 
+“intensity”  of 
+that of    while keeping the constraint   
+  in the 
+boosting process. 
+
+2   or 
+
+We  also  calculate  the  square  of  “impurity  ratio”  R  
+
+for this moving wave-packet: 
+
+KG
+R
+free
+
+
+
+
+2
+ 
+
+
+2
+
+
+x
+d
+
+2
+
+
+x
+d
+
+
+
+
+
+
+
+
+1
+1
+
+
+
+
+
+1
+1
+
+
+
+
+
+
+
+
+v c
+v c
+
+2
+
+2
+
+
+
+
+2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        (4.11) 
+
+which is the counterpart of Equation (4.6) for a plane WF 
+of KG particle. 
+
+With  these  calculations,  we  might  intuitively  under- 
+stand the length contraction as an effect of coupling (i.e. 
+entanglement)  between    and    fields  due  to  their 
+opposite  evolution  tendencies  in  space  as  discussed  in 
+previous point (b). 
+
+Let’s turn to the “time dilation” shown by the variation 
+
+
+
+
+
+
+0
+2
+1
+
+
+
+                          (4.12) 
+
+
+
+0
+
+of  a  particle,  say,  a  pion  ( π   or  π )  with  its  velocity 
+v . 
+
+x    and view the WF 
+
+To understand it, let’s return back to Equations (4.1)- 
+c   on its complex 
+(4.3) at 
+plane  with  Re  and  Im  ( Re c   and  Im c )  as 
+abscissa and ordinate. We may see that the time reading 
+of the “inner clock” for a particle (or an antiparticle) is 
+“clockwise”  (or  “counter  clockwise”).  Thus  with  the 
+increase  of  particle  velocity,  though  the  time  reading 
+remains clockwise (due to the dominance of    field), it 
+runs  slower  and  slower  because  of  the  enhancement  of 
+hidden    field. 
+
+(d)  WF’s  group  velocity 
+
+gu   versus  phase  velocity 
+
+In RQM, a particle’s velocity  v   should be identified 
+
+pu . 
+
+with its group velocity 
+d
+
+k
+d
+pc
+E
+
+
+
+
+
+u
+
+g
+
+2
+
+gu . Actually, we have   
+E
+d
+2 4
+2 2
+p c m c
+p
+d
+
+d
+p
+d
+
+
+
+
+
+
+
+ 
+
+v
+
+E
+
+
+
+c
+
+    (4.13) 
+
+exp i
+
+
+
+
+
+kx
+
+
+
+t
+
+
+
+
+
+
+
+k
+d
+
+  (4.7) 
+
+of the mean life 
+
+
+
+
+
+mc 
+2
+
+1
+
+
+
+
+
+1
+ 
+
+2
+
+
+                (4.10) 
+
+5Some  pictures  of  numerical  calculation  are  shown  in  Ref.  [35]  and 
+section  9.5C  at  Ref.  [25],  where  an  error  in  Equation  (9.5.26)  is  cor-
+rected here. 
+
+Copyright  ©  2013  SciRes.                                                                                                                                                                  JMP 
+
+660 
+
+G.-J. NI    ET    AL. 
+
+However,  the  fact  that  there  is  an  upper  bound  for 
+particle’s velocity doesn’t mean that no speed can exceed 
+that of light,  c . Indeed, there is another velocity 
+pu , the 
+phase velocity in the WF 
+
+                              (4.14) 
+
+u
+
+p
+
+
+
+
+
+E
+p
+
+
+k
+2 2
+2 4
+p c m c
+
+
+
+And the relation 
+
+2
+
+E
+
+
+
+  implies that 
+
+u u
+g
+
+p
+
+
+
+c u
+2,
+
+
+
+p
+
+            (4.15) 
+
+c
+u
+
+2
+
+g
+
+
+
+c
+2
+v
+
+pu
+
+In  our  opinion,  the  role  of 
+
+c   here  is  crucial  to 
+maintain the quantum coherence of WF in the space-time 
+globally, we will further discuss this problem elsewhere. 
+In  1923,  de  Broglie  discovered  Equation  (4.15)  in  his 
+relativistic theory. However, in the Schrödinger equation 
+of  NRQM,  the  phase  velocity  remains  undefined.  See 
+Ref [34]. 
+
+5. Dirac Equation as Coupled Equations of 
+
+Two-Component Spinors 
+
+Let us turn to the Dirac equation describing an electron 
+
+i
+
+
+
+
+
+
+
+
+t
+
+
+
+V
+ 
+
+
+
+H
+
+
+
+
+i
+ 
+
+
+
+c
+  
+
+ 
+
+mc
+
+  (5.1) 
+
+2
+
+with  α   and    being  4 4   matrices, the WF    is a 
+four-component spinor   
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+                            (5.2) 
+
+Usually,  the  two-component  spinors    and    are 
+called  “positive”  and  “negative”  energy  components. In 
+our  point  of  view,  they  are  the  hiding  “particle”  and 
+“antiparticle”  fields  in  a  particle  (electron)  respectively 
+([25],  see  below).  Substitution  of  Equation  (2)  into 
+Equation (1) leads to 
+
+i
+
+
+
+i
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+t
+
+
+t
+
+
+
+V
+
+
+
+
+
+
+
+V
+
+
+
+
+
+i
+ 
+
+
+
+c
+
+
+ 
+
+
+mc
+
+2
+
+
+i
+ 
+
+
+
+c
+
+
+ 
+
+
+2
+
+mc
+
+
+
+      (5.3) 
+
+(  are Pauli matrices). Equation (3) is invariant under 
+the combined space-time inversion with 
+
+x
+x
+t
+t
+,
+,
+   
+
+
+
+
+
+
+x
+x
+t
+t
+,
+,
+
+
+
+
+
+
+
+
+
+
+x
+x
+t
+t
+,
+,
+
+
+
+
+
+
+
+
+
+
+x
+x
+V
+V
+t
+t
+,
+,
+ 
+
+
+
+
+
+
+
+c
+
+c
+V
+c
+
+,
+
+
+
+
+
+x
+t
+,
+x
+t
+,
+x
+t
+,
+
+
+
+
+
+            (5.4) 
+
+showing that in its form of two-component spinors, Dirac 
+
+equation is in conformity with the underlying symmetry 
+Equation (3.29). Note that under the space-time inversion, 
+the    remain unchanged (However, see Equations (9)- 
+(11) below). Alternatively, Equation (3) also remains in- 
+variant under a mass inversion as 
+
+x
+,
+
+
+c
+
+V
+t V
+,
+
+
+
+
+x
+m
+m
+t
+,
+,
+ 
+
+
+
+
+x
+x
+t
+,
+
+
+
+c
+
+              (5.5) 
+
+
+
+t
+
+,
+
+,
+
+In either case of Equation (5.4) or (5.5), we have6 
+
+
+
+
+x
+
+,
+
+t
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+x
+t
+,
+
+x
+t
+,
+
+
+
+
+
+
+
+
+
+
+x
+t
+,
+
+
+c
+
+
+
+
+x
+t
+,
+
+
+c
+
+
+
+
+
+
+
+
+
+c
+
+
+
+x
+
+,
+
+t
+
+
+
+    (5.6) 
+
+For concreteness, we consider a free electron moving 
+   and having 
+
+along the z axis with momentum 
+a helicity 
+
+p p
+
+h  
+
+p
+
+0
+
+p
+z
+, its WF reads: 
+1
+
+1
+
+
+0
+
+
+p
+
+E m
+
+
+0
+
+
+exp i
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+z t
+,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+pz Et
+
+
+
+
+
+
+
+
+    (5.7) 
+
+with   
+
+z
+
+m
+WF for positron (moving along  z   axis) 
+
+. Under a space-time inversion   
+t p
+,
+ 
+
+    
+p E
+,c
+ 
+
+ or mass inversion   
+E
+c
+
+
+E
+c
+
+,  it  is  transformed  into  a 
+
+p E
+,c
+ 
+
+z t
+,
+m p
+,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+z t
+,
+
+
+
+c
+
+
+c
+
+c
+
+
+
+
+
+
+
+
+
+
+p
+with 
+
+c
+h
+helicity  becomes 
+c
+
+ 
+c
+
+,
+
+c
+
+E m
+c
+
+1
+
+
+0
+
+
+p
+c
+
+
+
+
+0
+
+E
+0,
+0
+
+c
+p
+
+
+c
+c
+p
+c
+
+
+
+exp
+
+i
+
+
+
+
+
+
+
+p z E t
+c
+c
+
+
+
+
+
+
+
+
+    (5.8) 
+
+
+1
+ 
+
+. However, the positron’s   
+.  This  is  because  the   
+
+total angular momentum operator for an electron reads   
+
+ˆ
+J L                             (5.9) 
+
+ 
+
+ˆ
+
+
+2
+
+Under  a  space-time  inversion,  the  orbital  angular 
+
+momentum operator is transformed as   
+ˆ
+
+
+L r
+i
+     
+ˆ
+p
+r
+r
+      
+c
+
+ˆ
+p
+
+i
+
+r
+
+
+
+
+
+
+      (5.10) 
+
+ 
+
+ˆ
+L
+c
+
+To get  ˆ
+J
+
+ˆ
+J   with  ˆ
+J
+c 
+
+c
+
+ˆ
+L
+c
+
+
+
+ˆ
+ , we should have   
+
+c
+
+
+2
+
+ˆ
+c                                 (5.11) 
+
+ˆ
+
+c   instead of 
+
+6The reason why we use 
+c   will be clear in Equations 
+(5.12)-(5.15).  Actually,  we  emphasize  Dirac  equation  as  a  coupling 
+equation  of  two  two-component  spinors,  Equation  (3),  rather  than 
+merely a four-component spinor equation. 
+
+Copyright  ©  2013  SciRes.                                                                                                                                                                  JMP 
+
+G.-J. NI    ET    AL. 
+
+661
+
+Hence the values of matrix element for positron’s spin 
+c   is  just  the  negative  to  that  for    in  the 
+
+operator 
+same matrix representation. 
+
+i
+
+
+
+
+
+zp
+
+ 
+
+Notice  that  Equation  (7)  describes  an  electron  with 
+7.  Under  a 
+
+ˆ
+p
+positive  helicity,  i.e., 
+p
+  
+space-time inversion, it is transformed into 
+
+ 
+c
+positron with negative helicity. 
+
+
+
+ 
+
+c
+z
+
+ˆ
+p
+cp
+, meaning that Equation (8) describes a 
+
+
+c
+c
+
+
+
+cp
+
+ 
+
+c
+z
+
+
+  in Equation (8), i.e.,   
+
+ˆ
+p
+
+
+c
+c
+
+ 
+
+ 
+
+In its form of four-component spinor, Dirac equation, 
+0V  ,  is  usually  written  in  a  co- 
+
+Equation  (5.1)  with 
+variant form as (Pauli metric is used:   
+
+
+
+
+
+
+c
+
+
+c
+
+x
+4
+
+
+
+i
+
+ct
+
+,
+
+k
+
+i
+ 
+   
+1 2 3 4
+
+
+
+
+
+,
+
+,
+
+4
+
+5
+
+k
+
+
+ 
+
+
+0
+I
+
+I
+0
+
+
+
+
+
+,  see   
+
+Ref. [25]):   
+
+
+ 
+ 
+
+m
+
+
+
+
+                     (5.12) 
+
+0
+
+Under a space-time (or mass) inversion, it turns into an 
+
+equation for antiparticle: 
+
+
+cm
+
+
+  
+ 
+
+
+c   shown  in  Equation  (8).  Let  us 
+
+                 (5.13) 
+
+0
+
+with  an  example  of 
+perform a representation transformation: 
+
+
+   
+c
+
+
+  
+
+5
+
+
+c
+
+c
+
+        (5.14) 
+
+
+ 
+
+
+
+c
+
+c
+
+
+
+
+
+and arrive at 
+
+                         (5.15) 
+
+0
+
+
+ 
+ 
+0
+
+
+cm
+
+c   and 
+
+
+
+   .  Since 
+5,
+
+due  to  
+c   are  essentially 
+the  same  in  physics,  (this  is  obviously  seen  from  its 
+resolved form, Equation (5.3)), it is merely a trivial thing 
+c   in the 4-component spinor 
+to change the position of 
+(lower  in Equation  (5.14)  and  upper  in  Equation (5.8)).   
+  for characterizing an anti-   
+What important is 
+>    for  a  particle.  Therefore,  if  a 
+particle  versus 
+particle  with  energy  E  runs  into  a  potential  barrier 
+E m
+V V
+ 
+
+0
+
+T E V
+0
+
+ 
+0
+component in Equation (5.7) suddenly turns into 
+
+, its kinetic energy   
+
+becomes  negative,  and  its  WF’s  third 
+
+c 
+c
+
+
+
+
+
+p
+
+
+
+
+
+p
+
+E m
+ 
+
+,
+
+
+
+
+
+p
+
+
+
+
+
+
+
+E V
+0
+
+
+
+2
+
+
+
+2
+
+m
+
+,  whose   
+
+0
+
+
+
+
+
+E V m V
+0
+absolute  magnitude  is  larger  than  that  of  the  first  com- 
+ponent. This means that it is an antiparticle’s WF satis- 
+fying  Equation  (5.15)  (with 
+  and 
+)  and  will  be  crucial  for  the  explanation  of 
+c 
+c
+Klein  paradox  in  Dirac  equation  (For  detail,  please  see 
+Appendix). However, we need to discuss the “probability 
+j   for  a 
+density”    and  “probability  current  density” 
+cj   for  its  antiparticle. 
+Dirac  particle  versus 
+Different from that in KG equation, now we have 
+
+c   and 
+
+
+E m
+
+V
+0
+
+cE
+
+
+
+
+
+
+
+
+
+†
+
+†
+
+   
+
+ 
+
+
+   
+c
+
+
+
+
+
+†
+c
+
+†
+c
+
+†
+c
+
+c
+
+c
+
+c
+
+†
+
+              (5.16) 
+
+which  is  positive  definite  for  either  particle  or  anti- 
+particle. On the other hand, we have   
+
+j
+
+
+
+c
+
+
+
+
+
+
+c
+†
+     
+
+j
+c
+
+†
+
+†
+c
+     
+
+c
+c
+
+†
+
+
+c
+
+†
+
+c
+
+†
+
+c
+
+
+
+
+
+
+
+c
+
+c
+
+
+
+ 
+
+    (5.17) 
+
+(we prefer to keep    rather than 
+For Equations (5.7), (5.8) and (5.14), we find  
+
+c   for antiparticle). 
+1
+   
+
+c  
+
+j
+
+z
+
+
+
+p
+2
+E m
+
+
+  
+
+0
+
+j
+
+c
+z
+
+
+
+0
+
+
+V
+
+
+
+0
+
+
+
+    (5.18) 
+
+2
+E m
+c
+
+p
+c
+
+
+which means that the probability current is always along 
+the  momentum’s  direction  for  either  a  particle  or  anti- 
+particle. 
+
+  
+t
+
+Above discussions at RQM level may be summarized 
+as  follows:  The  first  symptom  for  the  appearance  of  an 
+antiparticle is: If we perform an energy operator   
+
+iE
+on a WF and find a negative energy   
+
+0
+0E 
+, we’d 
+better  doubt  the  WF  being  a  description  of  antiparticle 
+and  use  the  operators  for  antiparticle,  Equation  (2.18). 
+Then  for  further  confirmation,  two  more  criterions  for 
+  and 
+
+  or a negative kinetic energy  
+
+j   are needed (see Appendix). 
+
+E V 
+
+
+
+6. The Strong Reflection Invariance in CPT 
+
+Theorem and QFT 
+
+In QFT, the starting point is the field operator which is 
+constructed for free complex boson field as [36] 
+
+ 
+
+
+
+ˆ
+
+
+
+
+
+ˆ
+†
+
+
+
+
+x
+
+,
+
+t
+
+
+
+
+
+
+
+p
+
+
+
+x
+
+,
+
+t
+
+
+
+
+
+
+
+p
+
+1
+V
+2
+
+p
+1
+V
+2
+
+p
+
+ˆ
+a
+
+
+
+
+ 
+
+exp i
+
+
+
+
+
+p
+
+p x
+ 
+
+Et
+
+
+
+ˆ
+b
+
+†
+p
+
+
+
+
+
+
+exp
+
+i
+
+
+
+
+
+
+
+p x
+ 
+
+Et
+
+
+
+ˆ
+a
+
+†
+p
+
+exp
+
+i
+
+
+
+
+
+
+
+p x
+ 
+
+Et
+
+
+
+ˆ
+b
+
+p
+
+
+
+
+
+
+exp i
+
+
+
+
+
+p x
+ 
+
+Et
+
+
+
+
+
+
+
+
+
+
+                                (6.1) 
+
+7
+
+
+
+
+
+
+
+
+0
+
+
+0
+
+
+
+
+
+,
+
+
+
+c
+
+
+
+c
+ 
+0
+
+
+0
+
+c
+
+
+
+
+
+ 
+
+Copyright  ©  2013  SciRes.                                                                                                                                                                  JMP 
+
+662 
+
+ 
+
+Similarly, the field operator for free Dirac field reads: 
+
+G.-J. NI    ET    AL. 
+
+
+
+ˆ
+
+
+
+
+
+ˆ
+†
+
+
+
+
+x
+
+,
+
+t
+
+
+
+
+
+
+
+x
+
+,
+
+t
+
+
+
+
+
+1
+V
+1
+V
+
+ 
+
+p
+
+h
+
+1
+
+
+ 
+
+p
+
+h
+
+1
+
+
+
+
+
+m
+E
+m
+E
+
+
+
+
+ 
+h
+ˆ
+a u
+p
+
+h
+
+  
+
+p
+
+
+
+i
+
+
+
+e
+
+p x
+ 
+
+Et
+
+
+
+
+
+ˆ
+b
+
+ 
+h
+p
+
+
+
+h
+
+†
+
+v
+
+ 
+
+p
+
+
+
+e
+
+
+
+i
+
+
+
+p x
+ 
+
+Et
+
+
+
+ˆ
+a
+
+ 
+h
+p
+
+†
+
+u
+
+†
+
+h
+
+  
+
+p
+
+
+
+i
+
+
+
+e
+
+p x
+ 
+
+Et
+
+
+
+
+
+ˆ
+ 
+h
+b v
+p
+
+
+
+h
+
+†
+
+ 
+
+p
+
+
+
+i
+
+
+
+e
+
+p x
+ 
+
+Et
+
+
+
+
+
+
+
+
+
+                            (6.2) 
+
+ 
+
+1 2
+
+In Equation (6.1), the annihilation operator  ˆap   for par- 
+†ˆbp   for  antiparticle  in 
+ticle  and  the  creation  operator 
+Fock space are introduced. In Equation (6.2), instead of 
+index  s   (
+, the spin’s projection along the fixed 
+z   axis in space), the helicity  h   is used. See Ref. [37]. 
+Let  us  return  back  to  the  CPT  theorem  proved  by 
+Lüders  and  Pauli  in  1954-1957  [10-12].  The  proof  of 
+CPT  theorem  contains  a  crucial  step  being  the  con- 
+struction of so-called “strong reflection”, consisting in a 
+reflection  of  space  and  time  about  some  arbitrarily 
+chosen origin, i.e. 
+
+t
+   
+
+Pauli  proposed  and  explained  the  strong  reflection  in 
+Ref.  [12]  as  follows:  When  the  space-time  coordinates 
+change their sign, every particle transforms into its anti- 
+particle simultaneously. The physical sense of the strong 
+reflection  is  the  substitution  of  every  emission  (absorp- 
+tion) operator of a particle by the corresponding absorp- 
+tion  (emission)  operator of  its  antiparticle.  And  there  is 
+no  need  to  reverse  the  sign of  the  electric  charge when 
+the sign of space-time coordinates is reversed. 
+
+What Pauli claimed, in our understanding, means that 
+
+,t
+
+. 
+
+r
+
+r
+
+under the strong reflection for boson field, one has   
+
+x
+
+
+ˆ
+a
+ 
+
+t
+,
+   
+ˆ
+b
+
+
+x
+t
+,
+ˆ
+ˆ,
+b a
+†
+p
+
+†
+p
+
+p
+
+p
+
+                        (6.3) 
+
+The  mutual  transformation,  Equation  (6.3),  in  Fock 
+space ensures the field operators, Equation (6.1), invari- 
+ant  under  the strong  reflection  in  the  sense  of  (see  also 
+[25,26]): 
+
+
+
+1
+
+ 
+
+
+
+
+t
+
+t
+
+
+
+
+ˆ
+x
+,
+
+
+ˆ
+
+
+x
+,
+
+ˆ
+†
+
+
+ 
+
+
+ˆ
+
+
+
+
+
+ˆ
+x
+x
+t
+,
+,
+  
+
+ 
+
+ˆ
+†
+
+
+
+
+
+ˆ
+x
+†
+,
+  
+
+
+ˆ
+†
+
+
+x
+,
+
+t
+
+x
+,
+
+
+
+t
+
+t
+
+x
+,
+
+
+t
+
+      (6.4) 
+
+
+
+1
+
+ 
+
+
+
+
+t
+
+Here  let  us  introduce  the  notation     to  represent 
+the  strong  reflection  so  that  the  presentation  could  be 
+easier  and  clearer  as  shown  above.  Similarly,  for  Dirac 
+field, under the strong reflection one has 
+
+x
+t
+,
+   
+
+
+
+ 
+
+h
+h
+ˆ,
+ˆ
+a
+a
+ 
+p
+p
+
+x
+t
+,
+ˆ
+
+b
+
+p
+
+h
+
+†
+
+
+
+†
+
+
+
+h
+
+
+
+ˆ
+b
+
+
+
+p
+
+                  (6.5) 
+
+Here it is important to notice that the helicity,  h , will 
+be  reversed  before  and  after  the  strong  reflection  for  a 
+
+particle  and  its  antiparticle  respectively  as  discussed  in 
+Section  V.  Because Equation (6.2)  is written  in 4  com- 
+ponent  spinor  covariant  form,  the  invariance  of  Dirac 
+field  operator  under  the  strong  reflection  should  be  ex- 
+pressed rigorously as 
+
+1
+
+
+
+,
+
+t
+
+t
+
+x
+
+
+
+ˆ
+†
+
+
+ 
+ 
+
+
+
+ˆ
+ˆ
+x
+t
+,
+
+
+
+
+
+
+
+
+
+ˆ
+ˆ
+x
+x
+t
+t
+,
+,
+  
+
+
+ 
+5
+ 
+
+ 
+
+
+ˆ
+x
+x
+t
+†
+,
+
+
+
+
+
+
+
+
+
+ˆ
+ˆ
+x
+x
+t
+t
+†
+†
+,
+,
+ 
+ 
+
+
+5
+
+ˆ
+
+5
+
+ˆ
+x
+†
+
+
+x
+,
+   
+
+
+x
+  
+
+
+x
+t
+,
+,
+
+t
+,
+
+
+5
+
+
+ˆ
+
+ˆ
+†
+
+
+
+t
+
+
+
+
+
+
+
+t
+
+,
+
+,
+
+
+
+1
+
+
+
+          (6.6) 
+
+                    (6.7) 
+
+which  are  useful  in  proving  the  “spin-statistics  con- 
+nection” by strong reflection invariance. 
+
+QFT  is  a  successful  theory  just  because  it  is  estab- 
+lished on sound basis with the field operator being one of 
+its  cornerstones.  Historically,  through  various  trials  and 
+checks, Equations (6.1)-(6.2) were eventually found (see 
+Section 3.5 of Ref. [36]). Why they are correct and why 
+one would fail otherwise? In our understanding, it is just 
+because they are invariant under the strong reflection as 
+shown by Equations (6.4) and (6.6). 
+
+However,  as  emphasized  by  Pauli  [12]  and  further 
+stressed by Lüders [11], at least two more rules should be 
+added in doing calculations: 
+
+(a) The order of an operator product in Fock space has 
+
+1
+
+
+ 
+ˆ
+ˆ
+AB
+
+
+to be reversed under the strong reflection, e.g.,   
+ 
+
+ˆ
+A
+.  So   
+
+
+is  the  order  of  a  process  occurred  in  a  many-particle 
+system. 
+
+ 
+
+
+ 
+ˆ
+B
+
+
+ 
+
+
+
+
+
+
+1
+
+
+1
+
+
+
+
+
+
+x
+
+(b) Another rule is: One should always take the normal 
+
+ordering when dealing with quadratic forms like   
+ˆ
+    etc. 
+
+
+
+ˆx
+Then  Pauli  and  Lüders  were  able  to  prove  that  the 
+  for a broad kind of model 
+Hamiltonian density 
+in  relativistic  QFT  is  invariant  under  an  operation  of 
+“strong reflection”, i.e., 
+
+,t x
+
+
+
+ˆ
+
+
+
+
+x
+
+,
+
+t
+
+
+
+1
+
+x
+
+  
+ˆ
+t
+,
+ 
+
+ˆ
+
+
+x
+,
+
+
+  
+
+ 
+
+
+ˆ
+
+x
+
+
+t
+
+,
+
+t
+
+
+
+            (6.8) 
+
+Copyright  ©  2013  SciRes.                                                                                                                                                                  JMP 
+
+The Hamiltonian density is also invariant under a Her- 
+
+Similarly, Equations (2.20) and (2.21) can be derived 
+
+G.-J. NI    ET    AL. 
+
+663
+
+mitian conjugation (H.C.) as: 
+
+x
+
+ˆ
+
+
+ˆ
+
+
+
+
+x
+
+
+
+
+
+t
+
+,
+
+†
+
+,
+
+t
+
+
+
+
+
+ˆ
+
+
+
+
+x
+
+,
+
+t
+
+
+
+              (6.9) 
+
+Furthermore,  they  proved  the  CPT  theorem  via  the 
+identification of the product of T, C, and P in QFT with 
+the  combined  operation  of  the  strong  reflection  and  a 
+Hermitian conjugation. 
+
+The  validity  of  CPT  invariance,  i.e.  Equations  (6.8) 
+and (6.9) has been verified experimentally since the dis- 
+covery  of  parity  violation  ([3-8]  etc.)  and the  establish- 
+ment (and development) of standard model ([38] etc.) in 
+particle physics till this day. See the excellent book, Ref. 
+[19] and the Review of Particle Physics, Ref. [9]. 
+
+After  restudying  the  historical  contribution  of  Pauli- 
+Lüders strong reflection invariance, we feel good in un- 
+derstanding that what we claim in RQM (Sections III-V) 
+is essentially the same as or very close to their idea. 
+
+In fact, this paper is the direct continuation of our first 
+one in 1974 [22], which was inspired jointly by the dis- 
+coveries  of  violations  in  P,  C,  CP,  T  symmetries  in- 
+dividually (but CPT invariance holds), also by Lee-Wu’s 
+proposal in 1965 that the relationship between a particle 
+a   and its antiparticle  a   should be [13]: 
+
+a
+
+
+
+CPT a
+
+                      (6.10) 
+
+and  especially  by  Pauli’s  invention  of  the  strong  re- 
+flection in 1955 [12]. 
+
+Below, we would like to show that WFs for a particle 
+and its antiparticle given in Equations (5.7) and (5.8) are 
+precisely that derived from QFT as expected. 
+
+Using Equation (6.2) for Dirac field, we find the WF 
+
+of an electron being 
+
+
+x
+
+
+
+t
+
+,
+
+
+
+
+e
+
+
+
+
+
+,
+
+p
+1
+
+,
+
+h
+1
+
+
+
+†
+
+
+h
+1
+p
+1
+
+0
+
+0
+
+0
+
+
+ˆ
+
+
+ˆ
+
+
+1
+V
+
+,
+
+x
+
+
+t e
+
+ˆ
+x
+t a
+,
+m u
+E
+1
+
+h
+1
+
+
+
+
+
+
+
+ 
+
+p
+1
+
+
+
+e
+
+-i
+
+
+
+p x
+ 
+1
+
+E t
+1
+
+
+
+    (6.11) 
+
+but the hermitian conjugate of a positron’s WF is given 
+by 
+
+†
+
+
+e
+
+
+
+x
+
+,
+
+t
+
+
+
+0
+
+ˆ
+†
+
+
+ˆ0
+†
+
+
+
+t e
+ˆ
+
+t b
+
+
+
+,
+
+p
+c
+
+,
+
+h
+c
+
+
+
+†
+
+
+h
+c
+p
+c
+
+0
+
+      (6.12) 
+
+
+
+h
+c
+
+†
+
+ 
+
+p
+c
+
+
+
+e
+
+i
+
+
+
+p x
+ 
+c
+
+E t
+c
+
+
+
+which leads to positron’s WF being   
+
+ 
+e
+
+
+
+x
+
+,
+
+t
+
+
+
+
+
+
+
+h
+c
+
+v
+
+ 
+
+p
+c
+
+
+
+e
+
+
+
+i
+
+
+
+p x
+ 
+c
+
+E t
+c
+
+
+
+      (6.13) 
+
+
+
+
+
+
+
+1
+V
+
+1
+V
+
+,
+
+x
+
+
+
+x
+,
+m v
+E
+c
+
+m
+E
+c
+
+from Equation (6.1) as expected. 
+
+7. An Oversight in QFT (Helicity States or 
+Spin States?)—Why a Parity-Violation 
+Phenomenon Was Overlooked Since 
+1956-1957? 
+
+Through  analysis  in  RQM  till  QFT,  we  stress  the  ne- 
+cessity  of  using  helicity   h   to  describe  a  fermion  or 
+antifermion. Here is an interesting example. Since 2002, 
+Shi  and  Ni  [39-43]  predicted  a  parity-violation  pheno- 
+menon as follows: 
+
+An unstable (decaying) fermion (e.g., neutron or muon) 
+has different mean lifetimes for being right-handed (RH) 
+or  left-handed  (LH)  polarized  during  its  flight  with  the 
+same speed 
+
+v c
+
+v
+
+ 
+
+
+
+
+
+,
+
+L
+
+
+
+1
+
+
+R
+
+
+
+
+
+
+
+
+
+
+1
+
+                      (7.1) 
+
+1
+
+
+
+
+
+2
+
+
+ 
+0
+
+0   the mean lifetime when it is   
+where 
+at rest. Similarly, for its antifermion, their lifetimes will 
+be   
+
+, 
+
+
+R
+
+
+
+
+,
+
+L
+
+
+
+1
+
+
+
+
+
+
+
+1
+
+                    (7.2) 
+
+Hence, the lifetime asymmetry can be defined as   
+
+R
+
+
+A  
+L
+
+
+ 
+L
+
+R
+
+
+
+
+
+                          (7.3) 
+
+This  is  not  a  small  effect.  For  instance,  in  Fermilab, 
+physicists  consider  to  build  a  muon  collider  [44].  The 
+collision of     and     beams must happen before the 
+muons decay. It was estimated that if a muon rings along 
+at 1.5 TeV, the time dilation of SR stretches its lifetime 
+to  30  milliseconds—up  from  2  microseconds  when  it’s 
+still. That’s time enough for 500 circuits in the final ring. 
+However, as discussed in Ref. [43], if the prediction of 
+life asymmetry Equation (7.1) is correct, the lifetime of 
+RH     will be stretched to 146 days while that of LH 
+   only  15  milliseconds.  The  lifetime  asymmetry  of 
+   will be just the opposite as shown by Equation (7.2). 
+Therefore,  it  seems  necessary  to  take  Equations  (7.1)- 
+(7.2) into account in the design of a muon collider. 
+
+The problem is: How can such a parity-violation phe- 
+nomenon  be  overlooked  since  1956-1957?  One  the- 
+oretical reason is: in the past, for describing a fermion in 
+flight  
+, instead of helicity states, the “spin-states” 
+assigned  by  s   (spin’s  projection  along  the  fixed  z  
+axis in space) were often incorrectly used (see [40-42]). 
+So previous calculations on the lifetime always led to a   
+
+v 
+
+0
+
+Copyright  ©  2013  SciRes.                                                                                                                                                                  JMP 
+
+664 
+
+G.-J. NI    ET    AL. 
+
+prediction  that 
+in contrast to Equations (7.1)-(7.3).8 
+
+ 
+0
+
+2
+
+
+
+
+
+
+1
+
+  without  parity-violation   
+
+The  interesting  thing  is:  While  Equations  (7.1)  and 
+(7.2)  display  the  violation  of  P  or  C  symmetry  to  its 
+maximum, their “cross-symmetry”, 
+,  reflects  the  symmetry  of 
+R 
+L
+Equation (6.5) exactly. 
+
+  and   
+   shown  by 
+
+L 
+R
+
+
+8. Dirac Particles Conserve the Parity 
+Whereas Neutrinos Are Likely the 
+Tachyons 
+
+8.1. Why Dirac Equation Respects the Parity 
+
+In the standard representation of Dirac equation for free 
+particle  
+
+
+
+ 
+
+D
+
+
+
+
+
+
+i
+ 
+
+
+
+
+
+
+D
+
+
+Dm
+  
+
+
+
+
+
+
+
+        (8.1) 
+
+Symmetry? 
+
+1c 
+
+t
+
+Let us choose 
+
+i
+
+
+
+ 
+
+0
+
+
+
+
+
+
+
+
+0
+
+
+,
+
+
+
+
+
+I
+0
+
+
+
+
+
+0
+I
+
+
+
+
+
+
+D
+
+
+
+
+,
+
+
+D
+
+
+
+D
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+, then 
+
+
+i
+ 
+t
+ 
+i
+ 
+t
+
+D
+
+
+
+
+
+
+
+
+i
+
+
+
+
+
+
+
+D
+
+
+
+
+
+D
+
+
+
+
+m
+
+
+D
+
+
+
+
+
+
+
+
+i
+
+
+
+
+
+
+
+D
+
+
+
+m
+
+
+
+
+
+
+D
+
+
+
+            (8.2) 
+
+
+i
+ 
+t
+ 
+i
+ 
+t
+
+D
+
+
+
+
+
+
+
+
+i
+
+
+
+
+
+
+
+D
+
+
+
+
+
+
+m
+
+
+D
+
+
+
+D
+
+
+
+
+
+
+i
+
+ 
+
+
+
+D
+
+
+
+
+
+
+
+m
+
+
+
+
+D
+
+
+
+            (8.5) 
+
+
+
+If 
+
+
+D   and 
+
+0m  , Equation (8.5) reduces into two Weyl equ- 
+ations describing two kinds of permanently LH and RH 
+polarized  massless  fermions  respectively.  So  we  may 
+D   (which  are  usually  called  as  chi- 
+name 
+rality  states  or  chiral  fields  in  4-component  covariant 
+form) as the “hidden LH and RH spinning fields” inside 
+a Dirac particle, which can be either LH or RH polarized 
+(with helicity 
+
+h     or 1) explicitly. See below. 
+
+A  new  symmetry  is  hidden  in  Equation  (8.5),  which 
+
+remains invariant under the pure space inversion   
+
+x
+tion as 
+
+  transformation,  i.e.,  the  parity  opera- 
+
+  
+
+,t
+
+x
+
+1
+
+
+
+t
+
+
+
+
+
+
+
+
+
+
+
+D
+
+D
+
+ 
+ 
+
+x
+
+,
+
+t
+
+x
+
+,
+
+t
+
+
+
+
+
+
+
+
+D
+
+D
+
+
+
+
+
+
+ 
+ 
+
+
+
+x
+
+,
+
+t
+
+
+
+x
+
+,
+
+t
+
+
+
+
+
+
+
+
+
+
+
+
+
+D
+
+D
+
+
+
+ 
+ 
+
+
+
+x
+
+,
+
+t
+
+x
+
+,
+
+t
+
+
+
+
+      (8.6) 
+
+Here  we  add  “ '”  in  the  superscript  of  RHS  to  stress 
+that  the  WF  after  the  space  inversion  may  be  different 
+from  that  at  the  LHS  (before  the  space  inversion).  We 
+knew  that  the  WF  in  Dirac  representation  after  a  space 
+inversion reads 
+
+ˆ
+
+P
+
+
+D
+
+ 
+
+x
+
+,
+
+t
+
+
+
+
+
+
+4
+
+D
+
+ 
+
+
+
+x
+
+,
+
+t
+
+
+
+          (8.7) 
+
+As  discussed  in  section  V,  Equations  (8.1)  and  (8.2) 
+
+Using Equation (8.6), the RHS of Equation (8.7) turns 
+
+are invariant under the space-time inversion: 
+
+out to be 
+
+D
+
+x
+t
+    
+
+
+
+D
+
+
+
+
+
+
+
+
+x
+t
+,
+
+x
+t
+,
+
+x
+t
+,
+
+ 
+ 
+with subscript “c” meaning the antiparticle. 
+
+ 
+
+x
+,
+  
+ 
+
+x
+t
+  
+
+
+
+c
+
+
+c
+
+ 
+ 
+
+
+
+
+
+
+
+
+t
+
+D
+
+D
+
+D
+
+D
+
+,
+
+
+x
+t
+,
+
+x
+t
+,
+
+After  transforming 
+
+
+
+D   into  the  “Weyl  representa- 
+
+tion” (chiral representation) as 
+
+      (8.3) 
+
+D
+
+
+
+
+
+
+
+
+1
+2
+
+I
+I
+
+
+
+
+
+I
+I
+
+
+D
+
+
+
+D
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+D
+
+
+
+D
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      (8.4) 
+
+we have 
+
+8The wonderful experiment by Wu et al. [6] reveals the decay configu-
+ration of a polarized neutron bearing a strong resemblance to a “comet”
+with  its  “head”  oriented  along  neutron’s  spin  parallel  to  z axis  in 
+space (note that a static neutron has no helicity  h , see [45]) while its 
+“tail” composed of emitted  e   and 
+e . So it was expected intuitively 
+that [39] if one pushes the “comet” along its “head”’s direction, it (sud-
+1h    and) will be relatively more stable than it is 
+denly has a helicity 
+h   ). That’s what Equation (7.1)
+pushed along its “tail” (when it has 
+means and why the use of “spin state” fails to get it right. 
+
+1
+
+1
+2
+
+
+4
+
+D
+
+D
+
+
+
+
+
+
+
+
+1
+2
+
+D
+
+D
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+x
+x
+
+,
+,
+
+t
+t
+
+
+
+
+
+x
+x
+
+,
+,
+
+t
+t
+
+
+
+
+
+
+
+
+
+
+
+
+
+D
+
+D
+
+
+
+
+
+
+
+
+D
+
+D
+
+ 
+
+ 
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+x
+x
+
+,
+,
+
+x
+x
+
+,
+,
+
+t
+t
+
+
+
+
+
+
+
+
+
+t
+
+
+
+t
+
+
+  (8.8) 
+
+
+
+
+
+
+D
+
+
+
+ 
+
+x
+
+,
+
+t
+
+
+
+Hence, we understand the reason why a Dirac particle 
+respects the parity symmetry as shown by Equation (8.7) 
+is because it enjoys the symmetry Equation (8.6) hiding 
+in the 2-component spinor form (in Weyl representation). 
+For concreteness, let’s write down the solution of Equa- 
+tion (8.1) 
+
+D
+
+
+
+
+ 
+
+x
+
+,
+
+t
+
+
+
+
+
+D
+
+
+
+D
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+p
+
+ 
+E m
+
+
+
+0
+
+,
+
+
+
+
+
+
+
+
+
+E
+
+
+
+p m
+2
+
+
+
+2
+
+
+
+0
+
+
+
+          (8.9) 
+
+Furthermore,  we  choose  a  simplest  “spin  state”  with   
+
+ˆ
+p
+zp
+
+
+ˆ
+z 
+
+
+
+
+  and 
+
+: 
+
+D
+
+D
+
+D
+
+D
+
+
+
+
+
+
+
+
+
+
+
+Copyright  ©  2013  SciRes.                                                                                                                                                                  JMP 
+
+G.-J. NI    ET    AL. 
+
+665
+
+1
+
+
+0
+
+
+p
+
+z
+
+E m
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+s
+
+
+D
+1 2
+
+z
+
+
+
+z t
+,
+
+
+
+
+
+D
+
+
+
+D
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+p z Et
+z
+
+
+
+i
+
+
+
+e
+
+ 
+
+E
+
+
+
+0
+
+
+
+  (8.10) 
+
+1 2
+
+zs 
+
+While  Equation  (8.10)  is  an  eigenfunction  of 
+eigenvalue 
+depending on the value of 
+Only after 
+state” describing a RH particle with 
+
+ˆ z   with 
+,  its  helicity  h   remains  unfixed, 
+zp   being positive or negative. 
+   is fixed, can we have a “helicity 
+
+1h  : 
+
+p
+
+zp
+
+0
+
+
+
+
+
+ˆ
+
+D
+P
+
+RH
+
+ 
+
+ 
+
+z t
+,
+
+z t
+,
+
+
+D
+
+LH
+
+
+                (8.14) 
+D    field  over   
+
+is  just  because  of  the  dominance  of 
+D    field  after  the  P-operation.  Before  and  after  the   
+operation,  p
+p  , the dominant (subordinate) field is 
+transformed into dominant (subordinate) field:   
+
+
+
+, as shown by Equation (8.6). 
+In summary, Dirac equation is invariant under a space 
+inversion whereas its concrete solution of WF may be not. 
+The  latter  may  change  from  that  for  a  RH  particle  to  a 
+LH one or vice versa, but with the same mass m, showing 
+the law of parity conservation exactly. 
+
+
+  
+
+
+
+
+
+
+
+
+
+D
+
+D
+
+D
+
+D
+
+,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+pz Et
+
+
+
+
+
+i
+
+
+
+e
+
+          (8.11) 
+
+8.2. Tachyon Equation as a Counterpart of the 
+
+Dirac Equation 
+
+1
+
+
+0
+
+
+p
+
+
+E m
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+
+D
+
+RH
+
+ 
+
+z t
+,
+
+
+
+
+
+D
+
+
+
+D
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+p
+
+
+
+0,
+
+E
+
+
+
+0
+
+
+
+Looking at Equation (8.11) in the Weyl representation, 
+
+we see that 
+
+D
+
+
+
+
+
+
+
+
+
+
+D
+
+
+
+ 
+
+
+
+
+
+D
+
+
+
+D
+
+
+
+
+
+
+
+
+
+
+D
+
+
+
+ 
+
+
+
+
+
+D
+
+
+
+1
+2
+
+1
+2
+
+
+
+
+
+
+
+
+
+1
+2
+
+1
+2
+
+
+1
+
+
+
+
+
+1
+
+
+
+
+
+p
+
+
+p
+
+
+,
+
+E m
+0
+
+E m
+0
+
+
+
+
+
+
+
+
+
+
+
+
+    (8.12) 
+
+
+
+
+
+
+
+D
+
+D
+
+
+. So Equation (8.11) describes a RH particle   
+ 
+D   field. 
+
+just  because  the 
+Now  we  perform  a  space  inversion  on  Equation  (8.11), 
+according to the rule Equation (8.7), yielding 
+
+D   field  dominates  the 
+
+
+
+1
+
+
+0
+
+
+p
+
+E m
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+ˆ
+
+D
+P
+
+RH
+
+ 
+
+z t
+,
+
+
+
+
+
+
+
+pz Et
+
+
+
+
+
+i
+
+
+
+e
+
+
+
+
+
+
+
+
+D
+
+
+
+ 
+
+z t
+,
+
+
+
+D
+
+
+
+
+D
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+D
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+D
+
+
+ 
+
+
+
+D
+
+
+
+
+
+
+ 
+
+
+
+
+
+p
+
+
+p
+
+
+,
+
+E m
+0
+
+E m
+0
+
+
+
+
+
+
+
+
+
+
+
+
+1
+2
+
+1
+2
+
+
+1
+
+
+
+
+
+1
+
+
+
+
+
+
+
+D
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+D
+
+
+ 
+
+
+
+D
+
+
+
+
+
+
+D
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+D
+
+
+ 
+
+,
+
+D
+
+
+
+
+
+
+D
+
+
+
+
+
+
+
+
+1
+2
+
+1
+2
+
+E p
+
+
+m
+
+Hence  we  see  that  the  reason  why 
+
+comes a LH WF, i.e., 
+
+(8.13) 
+,
+z t
+  be- 
+
+
+
+ 
+ 
+D
+
+Now  a  question  arises:  Can  we  find  an  equation  which 
+violates the symmetry of pure space inversion? 
+
+The answer is “yes”. Let’s introduce a new equation in 
+Weyl  representation  from  Equation (8.5) by  erasing  the 
+m m  
+superscript  (D),  replacing  the  mass  term  by 
+s
+and  changing  its  sign  from  “+”  to  “−”  in  the  first  equ- 
+ation of Equation (8.5) only [46] 
+
+
+i
+ 
+t
+ 
+i
+ 
+t
+
+
+
+
+
+i
+
+
+ 
+
+ 
+
+m
+s
+
+
+
+i
+
+ 
+
+ 
+
+ 
+
+m
+s
+
+                (8.15) 
+
+sm   (real  and  positive)  refers  to  the  mass  of  a 
+where 
+hypothetical particle. We will see immediately that it is a 
+“superluminal particle” or “tachyon”. 
+
+Indeed, substituting a plane-wave solution 
+
+ 
+ 
+
+exp i
+
+
+
+
+
+zp z Et
+
+
+
+            (8.16) 
+
+
+
+0
+ 
+  
+
+1
+ 
+
+ 
+
+p
+
+1
+
+zp
+
+
+E
+2
+
+h     into Equation (8.15), 
+with the particle’s helicity 
+we find that  
+
+E
+0,
+0
+
+
+p m
+2
+2
+                                  (8.17) 
+s
+1
+m
+s
+Since  E     and 
+
+,  from  Equation  (8.17), 
+
+                (8.18) 
+
+
+  
+
+p E
+
+k 
+
+
+
+
+
+
+
+
+
+
+
+
+
+p
+
+
+
+,
+
+the dispersion-relation of wave reads 
+
+                            (8.19) 
+As in Section IV, we define the wave’s phase velocity 
+
+2
+2
+k m
+s
+
+ 
+
+
+
+2
+
+pu   as 
+
+pu
+
+
+
+
+k
+
+                                (8.20) 
+
+while its group velocity 
+
+gu  
+
+Copyright  ©  2013  SciRes.                                                                                                                                                                  JMP 
+
+666 
+
+G.-J. NI    ET    AL. 
+
+gu
+
+
+
+d
+
+k
+d
+
+                           (8.21) 
+
+v
+
+being  identical  with  the  particle’s  velocity  v .  Equation 
+(8.19)  yields  a  relation  between  them  coinciding  with 
+Equation (4.15) exactly: 
+
+p gu u
+
+2
+
+c
+
+                              (8.22) 
+
+However,  the  relations  among 
+
+,E p   and  v   are 
+
+dramatically different   
+
+
+
+x
+
+,
+
+t
+
+
+
+
+
+
+
+x
+
+,
+
+t
+
+
+
+
+
+1
+2
+1
+2
+
+
+
+
+c
+
+
+
+x
+
+,
+
+t
+
+
+
+
+
+
+c
+
+
+
+x
+
+,
+
+t
+
+
+
+
+
+
+
+c
+
+
+
+
+
+
+x
+
+,
+
+t
+
+
+
+
+
+
+c
+
+
+
+x
+
+,
+
+t
+
+
+
+
+
+
+        (8.30) 
+
+
+c
+
+
+
+i
+
+
+ 
+
+ 
+c
+
+m
+s
+
+c
+
+
+c
+
+i
+ 
+
+
+ 
+
+ 
+c
+c
+
+m
+s
+
+                        (8.31) 
+
+
+
+
+c
+
+
+
+c
+
+
+i
+ 
+t
+ 
+i
+ 
+t
+
+E
+
+
+
+2
+
+,
+
+p
+
+
+
+m c
+s
+v
+2
+c
+  such  that 
+
+
+
+1
+
+2
+
+              (8.23) 
+
+m v
+s
+v
+2
+c
+,E p   are  real  and 
+
+
+
+1
+
+2
+
+which  can  also  be  obtained  via  the     operation  on 
+Equation (8.15). Equations (8.15) and (8.31) are better to 
+be compared in the following form: 
+ˆ
+p
+m
+ 
+
+  
+
+s
+ˆ
+p
+m
+
+ 
+ 
+
+s
+
+                      (8.32) 
+
+ˆ
+E
+
+ˆ
+E
+
+
+
+
+
+
+
+which  dictate  v
+0E  . 
+
+c
+
+Like Equation (8.4), we define: 
+1
+2
+
+
+  
+
+
+1
+2
+
+
+
+
+
+
+
+
+,
+
+
+
+ 
+
+
+
+            (8.24) 
+
+and  find  from  Equation  (8.15)  that  (in  Dirac  represen- 
+tation) 
+
+i
+
+
+t
+
+
+
+i
+ 
+t
+ 
+i
+ 
+t
+
+
+
+i
+ 
+
+
+ 
+
+  
+
+sm
+
+s
+
+            (8.25) 
+
+
+
+
+i
+
+
+ 
+
+ 
+
+m
+s
+
+
+
+
+i
+
+
+ 
+
+ 
+
+m
+s
+
+                  (8.26) 
+
+,
+
+I
+0
+
+0
+I
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+s
+
+
+
+
+
+
+
+.  Despite  the  difference  be-   
+
+
+
+
+
+tween Equation (8.26) and Dirac equation, Equation (8.2), 
+both of them respect the combined space-time inversion 
+   symmetry like Equation (8.3)   
+
+
+   
+
+t
+   
+
+
+x
+t
+,
+
+x
+t
+,
+
+    (8.27) 
+
+
+
+
+
+
+x
+t
+,
+x
+t
+,
+
+
+c
+
+c
+
+x
+,
+x
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+t
+
+,
+
+with 
+
+
+i
+ 
+t
+ 
+i
+ 
+t
+
+
+c
+
+
+
+i
+
+
+ 
+
+ 
+c
+s c
+
+m
+
+
+c
+
+
+
+i
+
+
+ 
+
+
+c
+
+m
+s
+
+
+c
+
+                (8.28) 
+
+Similarly,  we  define  the  WF  in  Weyl  representation 
+
+after     inversion as: 
+x
+,
+x
+,
+
+
+
+Based on Equations (8.27)-(8.29), we find 
+
+
+x
+,
+  
+
+x
+,
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c
+
+c
+
+
+
+
+
+
+
+x
+x
+
+
+
+
+
+
+
+t
+t
+
+t
+t
+
+t
+t
+
+,
+,
+
+x
+x
+
+,
+,
+
+t
+t
+
+
+
+
+  (8.29) 
+
+ˆ
+E
+
+c
+c
+ˆ
+E
+
+c c
+
+
+
+
+
+
+
+
+
+c
+
+ 
+c
+
+ˆ
+p
+m
+ 
+
+c
+s
+c
+c
+ˆ
+p
+m
+ 
+
+
+c c
+s
+c
+
+              (8.33) 
+
+
+t
+
+
+,
+
+i
+
+ˆ
+p
+c
+
+ˆ
+E
+c
+
+i
+ 
+
+ 
+
+  .  Interestingly,  Equation   
+,
+
+
+
+
+(8.33)  can  also  be  reached  from  Equation  (8.32)  via  a 
+“mass inversion” like that in Sections III and V: 
+
+ 
+
+
+
+
+
+c
+
+,
+
+i
+
+t
+
+
+
+m
+ 
+s
+ˆ
+E
+c
+
+m
+
+s
+
+
+ˆ
+
+  
+E
+no change in
+t
+
+
+  
+
+ˆ
+p
+i
+  
+
+  
+
+no change in
+  
+
+
+c
+
+
+
+
+
+x
+t
+t
+,
+,
+
+
+
+c
+
+
+
+x
+no change in
+
+
+
+
+c
+
+
+,
+
+
+ˆ
+p
+c
+
+x
+
+x
+
+
+
+t
+
+,
+
+
+
+
+
+x
+
+,
+
+t
+
+
+
+    (8.34) 
+
+Furthermore,  the  probability  density  and  probability 
+current  density  before  and  after  the     inversion  can 
+be derived as: 
+
+
+
+    
+
+
+    
+c
+
+ 
+†
+c
+
+          (8.35) 
+
+
+
+
+
+
+
+
+
+†
+c
+
+†
+c
+
+†
+c
+
+†
+
+†
+
+†
+
+†
+
+c
+
+c
+
+c
+
+c
+
+and 
+j
+j
+c
+
+ 
+
+
+
+†
+
+
+
+
+†
+   
+
+
+†
+   
+ 
+
+c
+c
+
+†
+
+c
+
+
+
+†
+   
+ 
+
+†
+   
+ 
+
+c
+c
+
+†
+
+c
+
+ 
+
+
+
+
+
+
+
+
+†
+
+c
+
+c
+
+
+
+
+
+
+
+  (8.36) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+†
+
+†
+
+D
+
+D
+
+D
+
+D
+
+D
+
+respectively.  It  is  the  sharp  contrast  between  Equation 
+(8.35) and Equation (5.16) for Dirac equation (i.e.,   
+
+
+    
+so unique as shown below. 
+
+),  that  makes Equation (8.15)   
+
+
+
+
+
+Let  us  look  at  the  example  of  WF  for  tachyon,  Equ- 
+h   .  It 
+0 .  Second 
+
+0
+>   and  so 
+
+ations  (8.16)-(8.18),  with 
+is  allowed  just  because 
+choice of Equation (8.16) with 
+
+   and 
+
+0,
+
+E
+
+
+
+p
+
+1
+
+z
+
+Copyright  ©  2013  SciRes.                                                                                                                                                                  JMP 
+
+G.-J. NI    ET    AL. 
+
+667
+
+zp
+
+  
+
+p
+
+0
+
+
+
+p
+
+
+
+
+0 ,
+
+1
+
+    but 
+
+
+  
+
+p E
+
+ 
+
+
+
+,
+
+h
+1
+m
+s
+
+
+
+
+
+              (8.37) 
+
+should be fobidden due to its ρ < 0. Another two possible   
+
+WFs  with 
+
+ 
+
+1
+ 
+   
+0
+ 
+
+  have 
+
+zp
+
+p
+
+  and 
+
+zp
+
+p    re-   
+
+spectively, only the last one with   
+
+zp
+0
+>   and 
+
+
+p
+h
+0 ,
+
+0 . 
+
+  
+
+p
+
+1
+
+    is allowed due to its   
+
+Let us turn to the solution of Equation (8.31) for anti- 
+cE    by  just  performing     ope- 
+
+tachyon  with 
+ration on Equation (8.16) yielding: 
+
+0
+
+ 
+c
+
+
+
+c
+
+
+
+exp
+
+i
+
+
+
+
+ 0
+
+
+Now if 
+
+p
+
+c
+z
+
+
+
+
+
+p
+c
+
+, since   
+
+
+
+c
+p z E t
+z
+c
+
+
+
+
+
+0
+ 
+
+ 
+  
+1
+
+      (8.38) 
+
+c
+  
+z
+
+ 
+
+c
+z
+
+,
+
+z
+
+
+
+1
+
+,  so  helicity 
+
+ch  .  Substitution  of   
+
+1
+
+p
+c
+0
+ 
+ 
+1
+ 
+
+Equation (8.38) into Equation (8.33) yields:   
+
+
+c
+
+
+
+
+
+p
+c
+
+
+
+E
+c
+
+
+  
+c
+c
+
+
+
+,
+
+c
+
+            (8.39) 
+
+which is allowed due to 
+ation (8.38) with 
+ 
+
+
+
+c
+
+
+
+
+
+c  . Second choice of Equ- 
+p
+c
+
+    but   
+
+
+0 ,
+
+
+
+h
+
+1
+
+
+
+p
+c
+
+0
+
+0
+
+ 
+c
+
+
+
+,
+
+c
+
+E
+c
+
+            (8.40) 
+
+p
+c
+
+
+
+1
+m
+s
+
+c
+p
+z
+1
+m
+s
+
+should  be  forbidden  due  to  its 
+1
+ 
+  
+0
+ 
+
+possible WFs with 
+
+c 
+
+
+
+c
+
+0
+
+c  .  In  another  two   
+, only that with   
+
+1
+
+p
+
+1
+
+1
+
+
+
+0,
+
+h
+c
+
+p
+c
+
+c  . 
+0
+
+    is allowed due to 
+
+c
+ 
+z
+Hence  we  see  that:  The  tachyon  can  only  exist  in  a 
+h   ) 
+left-handed  (LH)  polarized  state  (with  helicity 
+whereas  antitachyon  only  in  a  right-handed  (RH)  pola- 
+ch  ). We tentatively link this strange 
+rized state (with 
+feature  with  that  found  in  neutrinos—only 
+R  
+exists  in  nature  whereas 
+L   are  strictly  for- 
+bidden. 
+
+R   and 
+
+L   and 
+
+
+t
+  
+
+
+
+Furthermore,  at  first  sight,  although  Equation  (8.15) 
+certainly  has  no  symmetry  under  the  space  inversion 
+
+x
+,t
+,  it  seems  to  enjoy  a  pure  “time- 
+  
+inversion”  
+x
+x
+,t
+
+x
+
+
+
+
+x
+
+
+
+i
+ 
+t
+ 
+i
+ 
+t
+
+  symmetry like 
+
+
+x
+,
+
+
+
+x
+,
+
+
+            (8.42) 
+
+
+t
+ 
+
+t
+ 
+
+
+ 
+c
+
+      (8.41) 
+
+
+
+ 
+c
+c
+
+
+t
+
+
+
+ 
+
+i
+
+ 
+
+ 
+
+
+
+c
+
+
+c
+
+i
+
+
+x
+x
+
+
+
+c
+
+m
+s
+
+m
+s
+
+
+
+c
+
+
+
+
+t
+t
+
+t
+t
+
+,
+,
+
+,
+,
+
+
+
+x
+
+
+c
+
+c
+
+c
+
+
+
+We  add  “'”  in  the  superscript  of 
+
+
+c   to  stress  that 
+,
+t x
+  (being a time reversed WF), though looks like 
+some  antitachyon’s  WF,  is  obviously  different  from 
+,
+t x
+  gained  through  the     inversion,  Equation 
+(8.31).  Actually,  based  on  Equations  (8.29)-(8.31)  and 
+(8.41)-(8.42), we have: 
+
+
+
+c
+
+
+
+c
+
+
+
+c
+
+
+c
+
+    (8.43) 
+
+
+t
+,
+x
+t
+,
+
+
+t
+,
+x
+t
+,
+
+,
+
+
+c
+,
+
+
+c
+
+x
+
+
+x
+
+
+
+
+
+
+
+
+
+
+
+x
+x
+
+x
+x
+
+
+
+
+
+
+
+
+
+
+
+
+
+t
+t
+
+t
+t
+
+,
+,
+
+,
+,
+
+
+
+
+c
+ 
+
+
+c
+
+c
+
+
+
+1
+
+p
+c
+
+  with 
+
+c 
+
+,
+t x
+
+> c
+c 
+
+
+c   versus 
+
+)  and 
+,
+t
+
+c
+ch    (for 
+
+  makes  physical  sense,  but  it  is  just 
+
+c   here.  And  the  explicit  helicity 
+
+Interestingly, we cannot find from Equation (8.42) the 
+
+“physical  solution”  of 
+  (so 
+R )  simultaneously.  Only 
+0
+c 
+
+,
+t x
+ x
+ 
+c
+like  that  discussed  in  Equation  (8.39).  Notice  that  the 
+x    in  the  phase  of  WF  makes  a 
+sign  change  x
+p . But a 
+change in the direction of momentum 
+WF  is  always  composed  of  two  fields  in  confrontation, 
+ch  
+like 
+is  determined  by  which  one  of  these  two  hidden  fields 
+x   in these four 
+being in charge. So the change of   
+equalities  of  Equation  (8.43)  does  reverse  the  status  of 
+c   versus 
+c ),  rendering  helicity  re- 
+versed  explicitly.  The  subtlety  of  tachyon  equation,  un- 
+like Dirac equation, lies in the fact that only 
+R  
+L   are  strictly  forbidden,  i.e., 
+exist  whereas 
+the parity symmetry is violated to maximum. Hence, in 
+strict  sense,  there  is  also  no  physically  meaningful  WF 
+after the operation of pure “time inversion” on Equation 
+(8.15).  We  will  insist  on  Equation  (8.31)  rather  than 
+Equation  (8.42)—there  is  only  one  correct  way  leading 
+from  tachyon  to  antitachyon  via  the     inversion  es- 
+sentially. 
+
+R   and 
+
+L   and 
+
+c   (or 
+
+c   vs 
+
+x
+
+In  2000,  Equation  (8.25)  was  first  proposed  by  Tsao 
+Chang  and  then  collaborated  with  Ni  in  Ref.  [46]  (see 
+also [47-52] and the Appendix 9B in Ref. [25]). At first 
+sight, the difference between Equations (8.25) and (8.1) 
+amounts  to  substituting  the  mass  term  m   by 
+sm    
+s
+  being  an  antihermitian  matrix.   
+
+with 
+
+
+s
+
+0
+
+ 
+I
+
+
+I
+0
+
+
+
+
+
+Usually, for an equation with nonhermitian Hamiltonian, 
+there is no guarantee for the completeness of its mathe- 
+matical solutions. In other words, the unitarity of its phy- 
+sical  states  is  at  risk.  Sometimes,  however,  a  non-  her- 
+mitian  Hamiltonian  can  be  accepted  in  physics.  For 
+example,  in  the  optical  model  for  nuclear  physics,  an 
+imaginary  part  of  potential, 
+,  is  used  to 
+describe the absorption of incident particles successfully. 
+The  interesting  thing  for  “tachyonic  neutrino”  is:  Solu- 
+0
+tions  of  Equation  (8.15)  for 
+  are  co- 
+  whereas  an- 
+inciding  with  that  for   
+other would-be solutions with 
+cE    but 
+(
+
+0E    
+  
+c 
+0E    but   
+
+)  are  forbidden,  see  Equations 
+
+cE 
+
+
+c 
+
+V V
+0
+
+V
+1i
+
+   
+
+
+
+
+
+0
+
+c
+
+c
+
+Copyright  ©  2013  SciRes.                                                                                                                                                                  JMP 
+
+668 
+
+G.-J. NI    ET    AL. 
+
+0
+
+0
+
+(8.37)  and  (8.40).  It  seems  like  half  of  would-be  solu- 
+tions  disappear  automatically.  Equivalently,  from  phy- 
+sical  point  of  view,  only  half  of  states  with 
+0   or 
+c    are allowed in nature whereas another half with 
+0   or 
+c    are not. Hence  one  unique  feature  of 
+“tachyon” equation, like Equation (8.15) or (8.26), lies in 
+its  strange  realization  of  unitarity  violation  that  half  of 
+would-be  states  (being  tentatively  identified  with 
+R  
+and 
+L )  are  absolutely  forbidden  whereas  another  half 
+(
+L   and 
+R )  are  stabilized.  The  permanently  longitu- 
+dinal  polarization  property  of  neutrino  and  antineutrino 
+like that analysed above was first predicted by Lee and 
+Yang  in  1957  [3-5]  and  had  been  verified  by  GGS  ex- 
+periment in 1958 [53]. Further discussion on this topic is 
+currently in preparation. 
+
+9. Antigravity between Matter and 
+
+Antimatter 
+
+In hindsight, there are two Lorentz invariants in the kine- 
+matics of SR: 
+c
+
+
+        (9.1) 
+
+
+x
+2
+x
+
+
+const
+
+t
+2
+
+
+
+c
+
+t
+1
+2
+
+
+t
+
+
+x
+1
+
+
+
+
+
+2
+
+2
+
+2
+
+2
+
+
+2
+
+
+2
+
+
+
+t
+
+1
+c
+
+
+
+2
+
+
+
+
+x
+
+1
+c
+
+
+
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+
+
+
+
+p
+
+p
+
+
+
+
+
+
+
+x
+
+x
+
+E
+
+E
+
+,t
+
+m
+
+2 4
+m c
+
+m 
+
+t
+   
+
+            (9.2) 
+It  seems  quite  clear  that  Equation  (9.1)  is  invariant 
+under  the  space-time  inversion  
+  and 
+Equation  (9.2)  remains  invariant  under  the  mass  inver- 
+sion  
+  We  believe  that  these  two  discrete 
+symmetries  are  deeply  rooted  at  the  SR’s  dynamics  via 
+its combination with QM and developing into RQM and 
+QFT—the  particle  and  its  antiparticle  are  treated  on 
+equal footing and linked by the symmetry 
+   es- 
+sentially.  Hence  we  can  perform  a  mass  inversion  on 
+Equation  (9.2)  in  each  of  two  inertial  frames  with  ar- 
+bitrary relative velocity  v   in the sense of   
+m
+
+
+
+ 
+
+p
+
+ 
+2
+E
+c
+
+m E
+,
+2
+c
+
+
+
+ 
+p
+2
+c
+
+
+
+E
+c
+E
+
+c
+
+,
+2
+
+p , yielding: 
+ 
+c
+p
+2
+2
+2 4
+m c
+c
+
+
+c
+
+2 4
+m c
+c
+
+
+
+
+
+      (9.3) 
+
+m
+c
+
+The invariance of Equation (9.2) under mass inversion 
+as a whole reflects the experimental fact that particle and 
+antiparticle  are  equally  existing  in  nature  even  at  the 
+level of classical physics. 
+
+Example:  The  motion  equation for  a  charged particle 
+e   )  in  the  external 
+(say,  electron  with  charge 
+electric and magnetic fields,  E   and  B , is given by the 
+Lorentz formula: 
+
+q
+
+0
+
+a
+m
+
+
+
+q
+
+E
+
+
+
+v B                   (9.4) 
+
+
+
+
+
+
+
+
+
+
+1
+c
+q
+     or   
+
+q
+
+Then the operation of either 
+ 
+
+ 
+
+m
+c
+
+m
+  on  Equation  (9.4)  will  realize  the 
+transformation  from  particle  into  its  antiparticle  (say, 
+
+m
+
+q
+c
+
+positron  with  charge 
+a
+leration change from 
+
+q
+
+e
+cq
+0
+a   as 
+c  
+1
+c
+
+    )  with  the  acce- 
+a
+
+
+
+
+v B                   (9.5) 
+
+
+
+
+
+
+E
+
+
+
+q
+
+a
+cm
+
+ 
+
+Based on what we learn from RQM (Sections III-V) as 
+well as Equations (9.1)-(9.5), we may conjecture that for 
+a  classical  theory  being  capable  of  treating  matter  and 
+antimatter on an equal footing, it must be invariant under 
+a mass inversion 
+
+  . 
+
+Notice that, however, Equation (9.4) (Equation (9.5)) 
+is  only  valid  for  particle  (antiparticle)  moving  at  low 
+speed, it must be modified to adapt to high-speed cases 
+through  the  invariance  of  continuous  Lorentz  transfor- 
+mation.  So we  need  “double  checks” for  testing  a  clas- 
+sical theory being really “relativistic” or not. 
+
+ 
+
+m
+c
+
+m
+
+m
+
+Let us restudy the theory of general relativity (GR). In 
+      metric,  the  Einstein  field  equation  (EFE) 
+,
+
+,
+
+,
+
+
+
+a  
+reads (see, e.g. , Refs. [54-56])  
+g R
+
+
+G
+
+
+R
+
+
+
+
+
+
+, 
+
+1c 
+8π
+
+ 
+
+GT
+
+
+
+              (9.6) 
+
+1
+2
+
+Of course, Equation (9.6) is covariant with respect to 
+the  Lorentz  transformation.  But  could  it  withstand  the 
+test of mass inversion? 
+
+On  the  LHS  of  Equation  (9.6),  the  Einstein  tensor 
+G  contains no any mass and no charge as well. But on 
+the  RHS,  the  energy-momentum  current  density  tensor 
+T  is proportional to particle’s mass m and so changes 
+its  sign  under  an  operation  of  m
+m  .  Hence  as  a 
+whole, Equation (9.6) cannot remain invariant under the 
+mass inversion. The reason seems rather clear that anti- 
+matter  was  not  taking  into  account  when  GR  was  es- 
+tablished  in 1915.  To  modify  EFE  such  that  it  can pre- 
+serve the invariance of mass inversion, in 2004, one of us 
+cT  for  anti- 
+(Ni)  proposed  to  add  another  term  with 
+matter, yielding [27] 
+1
+2
+
+          (9.7) 
+
+
+G T
+
+g R
+
+
+R
+
+
+c
+T
+
+
+ 
+
+8π
+
+
+
+
+
+
+
+
+
+which remains invariant under a mass inversion since: 
+
+
+
+
+
+c
+
+T
+
+m
+
+T
+
+
+ 
+
+ 
+
+T m
+
+
+,c
+T
+ 
+ 
+
+        (9.8) 
+In a weak-field (or the post-Newtonian) approximation, 
+this  modified  EFE,  MEFE,  Equation  (9.7),  will  lead  to 
+modified Newton gravitational law as 
+mm
+
+r
+2
+
+                      (9.9) 
+
+F
+grav
+
+ 
+r
+
+ 
+
+G
+
+where  the  “  ”  sign  means  attractive  force  between  m  
+and  m   being both matter or antimatter whereas the “+” 
+sign  means  repulsive  force  between  m   and  m   (both 
+positive) if one of them is antimatter. 
+
+If  we  define  the  “gravitational  mass”  for  matter  and 
+
+antimatter separately 
+
+Copyright  ©  2013  SciRes.                                                                                                                                                                  JMP 
+
+G.-J. NI    ET    AL. 
+
+669
+
+m
+
+grav
+
+m
+ 
+m
+
+
+c
+
+0,
+  
+
+m
+
+
+
+
+matter
+
+
+
+0, antimatter
+
+
+
+  (9.10) 
+
+Then Equation (9.9) can be recast into one equation 
+
+F
+grav
+
+ 
+r
+
+ 
+
+G
+
+m m
+
+grav
+2
+
+grav
+r
+
+                (9.11) 
+
+which bears a close resemblance to the Coulomb law in 
+classical electrodynamics (CED) 
+
+F
+Coul
+
+ 
+r
+
+
+
+
+
+qq
+r
+2
+
+                      (9.12) 
+
+In 1986, within the framework of classical field theory 
+(CFT)  plus  some  assumptions,  Jagannathan  and  Singh 
+derived the potential energy of two static point sources as 
+[57] 
+
+ 
+U r
+
+
+
+1
+ 
+
+n
+
+1
+
+
+ee
+
+
+
+
+
+
+a positive number
+
+
+
+
+
+e
+
+r
+
+r
+
+  (9.13) 
+
+0
+
+2
+
+n    for  gravitational  field  (
+
+where  n   and    are  spin  and  mass  of  the  mediating 
+field,  e   is the “charge” of the source. For CED, 
+1n   
+whereas 
+0   in  both 
+cases).  So  Equation  (9.13)  is  in  conformity  with  Equa- 
+tions  (9.11)  and  (9.12)  for  the  case  of  “like  sources” 
+ee  ) [57], where the case for “unlike sources” 
+(with 
+
+0
+ee 
+  hadn’t  been  discussed.  Here  Equation  (9.11) 
+has been generalized to the case for “unlike sources”, but 
+at a price that the “equivalence principle” in GR ceases 
+to be valid when matter and antimatter coexist as shown 
+by Equation (9.10). 
+
+In 2011, the antigravity between matter and antimatter 
+was  also  claimed  by  Villata  in  Ref.[58],  where  the  ar- 
+gument  seems  different  from  that  explained  above.  But 
+theory is theory, only fact will have the final say. So we 
+are  anxiously waiting  for  the  outcome  from  the  AEGIS 
+experiment  [59]  (at  CERN),  which  is  designed  to  com- 
+pare the Earth gravitational acceleration on hydrogen and 
+antihydrogen atoms. 
+
+
+
+ˆ
+cE
+
+i
+ 
+
+10. Summary 
+1)  Being  the  combination  of  SR  and  QM,  RQM  is 
+capable  of  dealing  with  particle  and  antiparticle  on  an 
+equal footing. As long as we admit that the antiparticle’s 
+momentum  and  energy  operators  should  be  ˆ
+    
+p
+i
+c  
+
+ˆ
+
+iE
+and 
+  for   
+
+t
+
+particle, it can be proved that the “negative-energy” WF 
+  of  particle  corresponds  to  a  “positive-energy”  WF 
+c   of antiparticle precisely. 
+
+  versus  ˆ
+p
+
+   and 
+
+2) In general, an equation in RQM always has a dis- 
+crete  symmetry 
+   which  shows  up  as  a  trans- 
+formation  between  a  particle’s  WF     and  its  anti- 
+particle’s  WF 
+.  For  a  free  par- 
+
+i  
+
+
+
+
+t
+
+
+
+x
+
+
+
+
+c : 
+
+
+c
+
+x
+
+
+
+
+
+t
+
+t
+
+,
+
+,
+
+,
+
+,
+
+t
+
+t
+
+
+
+
+
+
+
+x
+
+x
+
+,t
+
+
+c
+
+
+
+
+ticle,  it  simply  means 
+.  This  is  in 
+conformity with the “strong reflection” in QFT invented 
+by Pauli and Lüders, showing that the intrinsic property 
+of a particle cannot be detached from the space-time. 
+
+
+x
+  
+
+3)  Following  Feshbach-Villars’  deep  insight,  we  are 
+able to divide each and every WF    in RQM into two 
+parts,      .  Then  the  above  symmetry  is  further 
+rigorously expressed by an invariance of motion equation 
+in  RQM  through  the  transformations 
+c    and 
+c    under either the space-time inversion   
+
+  or  a  mass  inversion  
+x
+m 
+m
+. 
+   
+Since   
+c ,  we 
+  in 
+may name    as the (dominant) hidden particle field in 
+  while    the  (subordinate)  hidden  antiparticle  field 
+in  . In this way, both the “probability density”    for 
+a particle and 
+c   for an antiparticle can be proved to be 
+positive  definite.  Now  we  may  say  that  the  RQM  is 
+ensured  to  be  self-consistent  and  can  be  regarded  as  a 
+sound basis for QFT. 
+
+
+t
+  in     whereas 
+
+c 
+c
+
+4) All kinematical effects in SR can be ascribed to the 
+enhancement of the magnitude of    field in a particle’s 
+WF  accompanying  with  the  increase  of  particle’s  ve- 
+locity. 
+
+5) As proved for Dirac particle with spin, the helicity 
+of  a  particle  is  just  opposite  to  that  of  its  antiparticle 
+under  a  space-time  (or  mass)  inversion.  Therefore,  the 
+experimental tests for the CPT invariance should include 
+not  only  the  equal  mass  and  lifetime  of  particle  versus 
+antiparticle, but also the following fact: A particle and its 
+antiparticle with opposite helicities must coexist in nature 
+with no exception. A prominent example is the neutrino 
+—A neutrino 
+R ) is permanently left- 
+handed (right-handed) polarized whereas the fact that no 
+R   exists  in  nature  must  means  no 
+L   as  well  (as 
+verified by the GGS experiment [53]). See also Section 
+VII. 
+
+L   (antineutrino 
+
+6. Based on the invariance of space-time inversion or 
+mass  inversion  (at  the  level  of  RQM)  and  the  latter’s 
+generalization to the classical physics, we tentatively dis- 
+cuss  some  interesting  problems  in  today’s  physics,  in- 
+cluding the prediction of antigravity between matter and 
+antimatter,  as  well  as  the  reason  why  we  believe  neu- 
+trinos are likely the tachyons. 
+
+11. Acknowledgements 
+We  thank  E.  Bodegom,  T.  Chang,  Y.  X.  Chen,  T.  P. 
+Cheng, X. X. Dai, G. Tananbaum, V. Dvoeglazov, Y. Q. 
+Gu,  F.  Han,  J.  Jiao,  A.  Kellerbauer,  T.  C.  Kerrigan,  A. 
+Khalil,  R.  Konenkamp,  D.  X.  Kong,  J.  S.  Leung,  P.  T. 
+Leung,  Q.  G.  Lin,  S.  Y.  Lou,  D.  Lu,  Z.  Q.  Ma,  D. 
+Mitchell, E. J. Sanchez, Z. Y. Shen, Z. Q. Shi, P. Smejtek, 
+X. T. Song, R. K. Su, G. Tananbaum Y. S. Wang, Z. M. 
+Xu, X. Xue, J. Yan, F. J. Yang, J. F. Yang, R. H. Yu, Y. 
+
+Copyright  ©  2013  SciRes.                                                                                                                                                                  JMP 
+
+670 
+
+G.-J. NI    ET    AL. 
+
+D. Zhang and W. M. Zhou for encouragement, collabo- 
+rations and helpful discussions. 
+
+REFERENCES 
+
+[1]  A. Apostolakis, et al., (CPLEAR Collaboration) Physics 
+
+Letters B, Vol. 422, 1998, pp. 339-348.   
+doi:10.1016/S0370-2693(97)01545-1 
+
+[2]  H.  Feshbach  and  F.  Villars,  Review  of  Modern  Physics, 
+
+Vol. 30, 1958, pp. 24-45.   
+doi:10.1103/RevModPhys.30.24 
+
+[3]  T.  D.  Lee  and  C.  N.  Yang, Physical  Review ,  Vol.  104, 
+
+[4]  T.  D.  Lee  and  C.  N.  Yang,  ibid,  Vol.  105,  1957,  pp. 
+
+[5]  T.  D.  Lee,  R.  Oehme  and  C.  N.  Yang,  ibid,  Vol.  106, 
+
+1956, pp. 254-258. 
+
+1671-1675.   
+
+1957, pp. 340-345. 
+
+[6]  C. S. Wu, E. Ambler, R. W. Hayward, D. D. Hoppes and 
+R.  P.  Hudson,  Physical  Review,  Vol.  105,  1957,  pp. 
+1413-1415. doi:10.1103/PhysRev.105.1413 
+J. H. Christensen, J. W. Cronin, V. L. Fitch and R. Turlay, 
+Physical Review Letters, Vol. 13, 1964, pp. 138-140. 
+doi:10.1103/PhysRevLett.13.138 
+
+[7] 
+
+[8]  K. R. Schubert, B. Wolff, J.-M. Gaillard, M. R. Jane, T. J. 
+Ratcliffe  and  J.-P.  Repellin,  Physics  Letters  B,  Vol.  31, 
+1970, pp. 662-665. doi:10.1016/0370-2693(70)90029-8 
+J. Beringer, et al., (Particle Data Group) Physical Review 
+D, Vol. 86, 2012, Article ID: 010001.   
+doi:10.1103/PhysRevD.86.010001 
+
+[9] 
+
+[10]  G. Lüders, Kgl. Danske Vidensk. Selsk. Mat.-Fys. Medd., 
+
+Vol. 28, 1954. 
+
+pp. 1-15. 
+
+[11]  G. Lüders, Annals of Physics  (New York), Vol. 2, 1957, 
+
+[12]  W.  Pauli,  “Exclusion  Principle,  Lorentz  Group  and  Re- 
+flection  of  Space-Time  and  Charge,”  In:  W.  Pauli,  L. 
+Rosenfeld  and  V.  Weisskopf,  Eds.,  Niels  Bohr  and  the 
+Development of Physics, McGraw-Hill, New York, 1955, 
+pp. 30-51. 
+
+[13]  T. D. Lee and C. S. Wu, Annual Review of Nuclear Sci- 
+
+ence, Vol. 15, 1965, pp. 381-476. 
+doi:10.1146/annurev.ns.15.120165.002121 
+
+[14]  A. Einstein, B. Podolsky and N. Rosen, Physical Review, 
+Vol. 47, 1935, pp. 777-780. doi:10.1103/PhysRev.47.777 
+[15]  D. Bohm, “Quantum Theory,” Prentice Hall, Upper Sad- 
+
+dle River, 1956.   
+
+[16]  J. S. Bell, Physics, Vol. 1, 1964, pp. 195-200. 
+[17]  H. Guan, “Basic Concepts in Quantum Mechanics,” High 
+
+Education Press, Beijing, 1990.   
+
+[18]  G.  J.  Ni,  H.  Guan,  W.  M.  Zhou  and  J.  Yan,  Chinese 
+
+Physics Letters, Vol. 17, 2000, pp. 393-395.   
+doi:10.1088/0256-307X/17/6/002 
+
+[19]  O.  Nachtmann,  “Elementary  Particle  Physics:  Concepts 
+
+and Phenomena,” Springer-Verlag, Berlin, 1990. 
+
+[20]  W. Greiner and B. Müller, “Gauge Theory of Weak Inter- 
+
+actions,” Springer-Verlag, Berlin, 1993. 
+
+[21]  E. J. Konopinski and H. M. Mahmaud, Physical Review, 
+
+Vol. 92, 1953, pp. 1045-1049.   
+doi:10.1103/PhysRev.92.1045 
+
+[22]  G. J. Ni, Journal of Fudan University (Natural Science), 
+
+No. 3-4, 1974, pp. 125-134. 
+
+[23]  G.  J.  Ni  and  S.  Q.  Chen,  Journal  of  Fudan  University 
+
+(Natural Science), Vol. 35, 1996, pp. 325-334. 
+
+[24]  G. J. Ni and S. Q. Chen, “Relation between Space-Time 
+Inversion and Particle-Antiparticle Symmetry and the Mi- 
+croscopic  Essence  of  Special  Relativity,”  In:  V.  Dvoe- 
+glazov, Ed., Photon and Poincare Group, NOVA Science 
+Publisher, New York, 1999, pp. 145-169. 
+
+[25]  G. J. Ni and S. Q. Chen, “Advanced Quantum Mechan- 
+
+ics,” Rinton Press, New Jersy, 2002. 
+
+[26]  G. J. Ni, Progress in Physics, Vol. 23, 2003, pp. 484-503. 
+[27]  G. J. Ni, “A New Insight into the Negative-Mass Paradox 
+of  Gravity  and  the  Accelerating  Universe,”  In:  V.  V. 
+Dvoeglazov and A. A. Espinoza Garrido, Eds., Relativity, 
+Gravitation, Cosmology, NOVA Science Publisher, New 
+York, 2004, pp. 123-136. 
+
+[28]  G. J. Ni, J. J. Xu and S. Y. Lou, Chinese Physics B, Vol. 
+
+20, 2011, Article ID: 020302. 
+
+[29]  J.  J.  Sakurai,  “Advanced  Quantum  Mechanics,”  Addi- 
+
+son-Wesley Publishing Company, Boston, 1978. 
+
+[30]  J. J. Sakurai, “Modern Quantum Mechanics,” John Wiley 
+
+& Sons, Inc., NewYork, 1994. 
+
+[31]  J. D. Bjorken and S. D. Drell, “Relativistic Quantum Me- 
+
+chanics,” McGraw-Hill, New York, 1964, 
+
+[32]  J.  D.  Bjorken  and  S.  D.  Drell,  “Relativistic  Quantum 
+
+Fields,” McGraw-Hill, New York, 1965.   
+
+[33]  L. B. Okun, Physics Today, Vol. 42, 1989, pp. 31-36. 
+[34]  G. Lochak, “De Broglie’s Initial Conception of De Bro- 
+glie Waves,” In: S. Diner, D. Fargue, G. Lochak and F. 
+Selleri, Eds., The Wave-Particle Dualism, D. Reidal Pub- 
+lishing Company, Dordrecht, 1984, pp. 1-25.   
+
+[35]  G.  J.  Ni,  W.  M.  Zhou  and  J.  Yan,  “Comparison  among 
+Klein-Gordon  Equation,  Dirac  Equation  and  Relativistic 
+Schrödinger Equation,” In: A. E. Chubykalo, V. V. Dvoe- 
+glazov,  D.  J. Ernst,  V.  G.  Kadyshevsky  and  Y. S.  Kim, 
+Eds.,  Lorentz  Group,  CPT  and  Neutrinos,  World  Scien- 
+tific, London, 2000, pp. 68-81. 
+
+[36]  M.  E.  Peskin  and  D.  V.  Schroeder,  “An  Introdution  to 
+Quantum  Field  Theory,”  Addison-Wesley  Publishing 
+Company, Boston, 1995. 
+
+[37]  M. Jacob and G. C. Wicks, Annals of Physics (New York), 
+
+Vol. 7, 1959, pp. 404-428.   
+doi:10.1016/0003-4916(59)90051-X 
+
+[38]  S. Weinberg, Physical Review Letters, Vol. 19, 1967, pp. 
+
+1264-1266. doi:10.1103/PhysRevLett.19.1264 
+
+[39]  Z. Q. Shi and G. J. Ni, Chinese Physics Letters, Vol. 19, 
+
+2002, pp. 1427-1429. 
+
+[40]  Z. Q. Shi and G. J. Ni, Annales de la Fondation Louis de 
+
+Bloglie, Vol. 29, 2004, pp. 1057-1066. 
+
+[41]  Z. Q. Shi and G. J. Ni, Handronic Journal, Vol. 29, 2006, 
+
+pp. 401-407.   
+
+Copyright  ©  2013  SciRes.                                                                                                                                                                  JMP 
+
+G.-J. NI    ET    AL. 
+
+671
+
+[42]  Z. Q. Shi and G. J. Ni, “Frontiers in Horizons in World 
+
+Physics,” Nova Science, Marselle, 2008, pp. 53-65. 
+
+[43]  Z. Q. Shi and G. J. Ni, Modern Physics Letters A, Vol. 26, 
+
+2011, pp. 987-998. doi:10.1142/S0217732311035250 
+
+In: V. V. Dvoeglazov and A. A. Espinoza, Eds., Relativity, 
+Gravitation, Cosmology: New Development, NOVA Sci- 
+ence Publisher, New York, 2010, pp. 253-265.   
+
+[53]  M. Goldhaber, L. Grodgins and A. W. Sunyar, Physical 
+
+[44]  A. Cho, Science, Vol. 326, 2009, pp. 1342-1343. 
+
+doi:10.1126/science.326.5958.1342 
+
+[45]  L.  H.  Ryder,  “Quantum  Field  Theory,”  Cambridge  Uni- 
+
+versity Press, Cambridge, 1996.   
+doi:10.1017/CBO9780511813900 
+
+[46]  T.  Chang  and  G.  J.  Ni,  “An  Explanation  of  Possible 
+Negative Mass-Square of Neutrinos,” FIZIKA B (Zagreb), 
+Vol. 11, 2002, pp. 49-56. arXiv.org:hep-ph/0009291 
+
+[47]  G. J. Ni and T. Chang, Journal of Shaanxi Normal Uni- 
+versity (Natural Science), Vol. 30, No. 3, 2002, pp. 32-39. 
+[48]  G. J. Ni, Journal of Shaanxi Normal University (Natural 
+
+Science), Vol. 29, No. 1, 2001, pp. 1-5. 
+
+[49]  G. J. Ni, Journal of Shaanxi Normal University (Natural 
+
+Science), Vol. 30, No. 4, 2002, pp. 1-6. 
+
+[50]  G.  J.  Ni,  “A  Minimal  Three-Flavor  Model  for  Neutrino 
+Oscillation  Based  on  Superluminal  Property,”  In:  V.  V. 
+Dvoeglazov and A. A. Espinoza, Eds., Relativity, Gravi- 
+tation, Cosmology, NOVA Science Publisher, New York, 
+2004, pp. 137-148. 
+
+[51]  G. J. Ni, “Principle of Relativity in Physics and in Epis- 
+temology,”  In:  V.  Dvoeglazov,  Ed.,  Relativity,  Gravita- 
+tion,  Cosmology:  New  Development,  NOVA  Science 
+Publisher, New York, 2010, pp. 237-252.   
+
+[52]  G. J. Ni, “Cosmic Ray Spectrum and Tachyonic Neutrino,” 
+
+Review, Vol. 109, 1958, pp. 1015-1017.   
+doi:10.1103/PhysRev.109.1015 
+
+[54]  S. Weinberg, “Gravitation and Cosmology,” John Wiley, 
+
+New York, 1972. 
+
+[55]  Z. M. Xu and X. J. Wu, “General Relativity and Contem- 
+porary Cosmology,” Press of Nanjing Normal University, 
+Nanjing, 1999. 
+
+[56]  T.  P.  Cheng,  “Relativity,  Gravitation  and  Cosmology”, 
+
+2nd Edition, Oxford University Press, Oxford, 2010. 
+
+[57]  K.  Jagannathan  and  L.  P.  S.  Singh,  Physical  Review  D, 
+
+Vol. 33, 1986, pp. 2475-2477. 
+doi:10.1103/PhysRevD.33.2475 
+
+[58]  M. Villata, Europhysics Letters, Vol. 94, 2011, pp. 1-6. 
+
+doi:10.1209/0295-5075/94/20001 
+
+[59]  A. Kellerbauer, et al., Nuclear Instruments and Methods 
+in Physics Research Section B, Vol. 266, 2008, pp. 351- 
+356. doi:10.1016/j.nimb.2007.12.010 
+
+[60]  O.  Klein,  Zeitschrift  für  Physik,  Vol.  53,  1929,  pp. 
+
+157-165. doi:10.1007/BF01339716 
+
+[61]  W. Greiner, “Relativistic Quantum Mechanics,” Springer- 
+
+Verlag, Berlin, 1990. 
+
+[62]  W.  Greiner,  B.  Müller  and  J.  Rafelski,  “Quantum  Elec- 
+trodynamics  of  Strong  Fields,”  Springer-Verlag,  Berlin, 
+1985. 
+
+Copyright  ©  2013  SciRes.                                                                                                                                                                  JMP 
+
+672 
+
+G.-J. NI    ET    AL. 
+
+ 
+Appendix: Klein Paradox for Klein-Gordon 
+Equation and Dirac Equation 
+We  will  discuss  the  Klein  paradox  [60]  for  both  KG 
+equation and Dirac equation based on Sections III and V, 
+without resorting to the “hole” theory. 
+
+AI: Klein Paradox for KG Equation 
+Consider that a KG particle moves along  z   axis in one- 
+dimensional space and hits a step potential 
+
+ 
+V z
+
+z
+0,
+
+ 
+V z
+,
+
+0
+
+
+
+
+0;
+0.
+
+                            (A.1) 
+
+
+p 
+
+0
+
+  and energy 
+
+Its incident WF with momentum 
+
+E 
+
+  reads 
+
+0
+
+ 
+
+i
+
+a
+
+exp i
+
+
+
+
+
+pz Et
+
+
+
+
+
+
+
+
+,
+
+
+
+z
+
+
+
+0
+
+
+
+        (A.2) 
+
+2
+
+
+
+E
+
+If 
+
+p m V
+2
+0
+
+
+
+
+
+,  we  expect  that  the  particle   
+r   and 
+
+0
+
+b
+
+ 
+
+wave will be partly reflected at 
+another transmitted wave 
+t   emerged at 
+
+pz Et
+0
+exp i
+
+
+
+
+
+
+
+exp i
+
+
+2
+m
+
+
+z    with WF 
+z  : 
+0
+
+            (A.3) 
+              (A.4) 
+
+. See Figure 1(a).   
+
+b
+ 
+
+
+t
+E V
+0
+
+Two  continuity  conditions  for  WFs  and  their  space 
+z    give two simple equa- 
+
+p z Et
+
+
+,
+
+
+
+,
+
+with 
+
+2
+ 
+
+
+z
+
+
+
+
+
+
+
+
+
+
+
+p
+
+0
+
+0
+
+
+
+
+
+
+z
+
+2
+
+r
+
+derivatives at the boundary 
+tions   
+
+a b b
+
+ 
+
+
+
+
+a b p b p
+ 
+
+
+
+
+
+                      (A.5) 
+
+The  Klein  paradox  happens  when 
+E
+
+cause  the  momentum 
+again and the reflectivity  R   of incident wave reads 
+
+0V
+E m
+ 
+2
+m
+2
+
+
+  
+
+
+V
+0
+
+  be-   
+  is  real   
+
+
+
+p
+
+R
+
+
+
+2
+
+b
+a
+
+
+
+p
+p
+
+
+
+
+p
+p
+
+
+
+
+2
+
+,
+
+R
+R
+
+
+
+
+
+
+
+
+1,if
+1,if
+
+p
+p
+
+
+
+
+
+
+
+0
+0
+
+0
+
+E
+
+(See  Ref.  [18]  or  § 9.4  in  Ref.  [25],  where  discussions 
+are  not  complete  and  need  to  be  complemented  and 
+corrected here). Because the kinetic energy  E   at 
+z   
+0
+is  negative: 
+ ,  what  does  it  mean?  Does 
+the particle still remain as a particle? 
+
+E V
+0
+
+  
+
+As  discussed  in  Section  III,  for  a  KG  particle  (or  its 
+antiparticle), two criterions must be held: its probability 
+density  ρ  (or 
+c )  must  be  positive  and  its  probability 
+cj ) must be in the same direction 
+current density 
+of its momentum  p   (or 
+
+j   (or 
+
+See  Figure  1(b),  after  making  a  shift  in  the  energy 
+z    region, 
+t   (which is actually the WF in the 
+
+scale,  i.e.,  basing  on  the  new  vacuum  at 
+we redefine a WF 
+“interaction picture”, 
+
+cp ). 
+
+V t
+0ie
+
+
+ 
+t
+
+) 
+
+
+
+0
+
+0
+
+
+
+
+
+z
+
+t
+
+
+
+
+
+
+
+
+
+t
+
+,
+
+z
+
+
+
+
+0
+
+
+
+
+
+exp i
+
+
+
+p z E t
+
+
+
+      (A.7) 
+
+b
+  
+
+ 
+
+
+
+E V
+0
+
+0
+t   and 
+
+  
+
+t
+
+. From now on we will replace KG WF 
+E
+t  
+t   by 
+t   according to Equation (3.26), if 
+still describes a “particle”, whose probability density 
+t 
+should be evaluated by Equation (27) with 
+V
+
+
+
+
+
+
+
+0
+
+z
+
+
+ 
+V z
+
+
+
+
+
+  yielding: 
+2
+
+2
+
+
+  
+t
+
+
+
+
+
+t
+
+
+
+0
+
+t
+
+E b
+
+
+m
+
+2
+
+
+
+0,
+
+
+
+z
+
+
+
+0
+
+
+
+    (A.8) 
+
+And  its  probability  current  density 
+
+given by Equation (3.12), yielding: 
+
+tj
+
+  should  be 
+
+j
+t
+
+
+
+p
+
+m
+
+b
+
+
+2 ,
+
+
+
+z
+
+
+
+0
+
+
+
+                      (A.9) 
+
+0
+
+Equation (A.8) is certainly not allowed. So to consider 
+p    moving to the right 
+a “particle” with momentum 
+p   
+makes  no  sense.  Instead,  we  should  consider 
+0
+(which  also  makes  no  sense  for  a  particle  due  to  the 
+t   as  an  antiparticle’s 
+boundary  condition)  and  regard 
+WF by rewriting it as: 
+exp
+
+
+b
+  
+
+    (A.10) 
+
+p z E t
+c
+c
+
+i
+
+
+
+
+
+
+
+
+
+
+0
+
+
+
+
+
+
+
+
+
+z
+
+,
+
+c
+
+t
+
+
+
+
+
+
+
+2
+
+
+
+
+
+Now using Equation (2.18) we see that Equation (A.10) 
+
+p
+
+V
+
+0
+
+p
+ 
+E
+
+
+does describe an antiparticle with momentum   
+p
+c
+cE
+particle’s point of view (i.e., with 
+becomes 
+with Equation (A.10) as shown by Figure 1(c). 
+
+E m
+2
+
+
+c
+E
+  .  In  the  mean  time,  from  the  anti- 
+0
+), the potential 
+  
+  (comparing  Equation  (2.21) 
+
+   and energy   
+
+cE m
+
+ 
+cV z
+
+ 
+V z
+
+It  is  easy  to  see  from  Equations  (3.30),  (3.31)  and 
+
+0
+
+(A.10) that 
+
+
+c
+  
+
+t
+
+
+
+
+p
+c
+m
+
+c
+j
+t
+
+
+
+
+
+
+
+b
+
+c
+t
+
+c
+t
+
+
+
+
+
+2
+
+2
+
+2
+
+
+
+E b
+c
+m
+
+
+
+2
+
+
+
+0,
+
+
+
+z
+
+
+
+0
+
+
+
+    (A.11) 
+
+R
+KG
+
+
+
+2
+
+b
+a
+
+
+
+p
+p
+
+
+
+
+p
+c
+p
+c
+
+2
+
+1
+
+
+ 
+1
+
+
+
+
+
+
+
+
+
+2
+
+,
+
+        (A.12) 
+
+
+
+ 
+
+
+
+0
+
+p
+c
+p
+
+And the transmission coefficient can also be predicted 
+
+as: 
+
+p
+
+0
+  
+
+9We had discarded the solution of 
+p    in Equations (A.7)-(A.9) as 
+a  particle.  However,  if  we  consider 
+   for  an  antiparticle, 
+but 
+then similar to Equations (A.10) and (A.11), we would get 
+cp   are negative, meaning that the antiparticle is coming 
+both 
+from  z   ,  not  in  accordance  with  our  boundary  condition.  So  the 
+p    should be abandoned either as a particle or as an anti-
+case of 
+particle. 
+
+tj   and 
+
+t 
+
+p
+c
+
+0
+
+0
+
+0
+
+c
+
+c
+
+      (A.6) 
+
+So the reflectivity, Equation (A.6), should be fixed as: 
+
+Copyright  ©  2013  SciRes.                                                                                                                                                                  JMP 
+
+ 
+
+G.-J. NI    ET    AL. 
+
+673
+
+       
+
+       
+
+ 
+
+(a)                                                (b)                                                      (c) 
+0V
+
+ 
+E
+V z V E
+,
+
+
+ 
+
+ 
+ 
+cV z
+V z
+. 
+
+t   at 
+;  (c)  An  antiparticle  (at 
+
+, there will be a wave 
+ 
+
+E m
+
+E V
+
+0
+
+0
+ 
+
+0
+0
+
+m
+
+
+
+Figure 1. Klein paradox: (a) If 
+
+ 
+ 
+V z
+V z
+
+the potential is 
+ 
+
+z  ; (b) Just look at 
+z  )  appears  with  its  energy 
+
+z    region, making a shift 
+  and 
+
+E m
+
+
+
+
+
+0
+
+
+
+cE
+
+T
+KG
+
+
+
+c
+j
+t
+j
+i
+
+
+
+2
+
+p
+b
+
+c
+p a
+
+
+
+1
+
+
+
+2
+
+b
+a
+
+      (A.13) 
+
+2
+
+
+
+pp
+4
+c
+p
+p
+
+c
+                                     (A.14) 
+1
+
+
+1
+
+
+
+
+
+2
+
+
+
+
+T
+
+KG
+
+R
+KG
+
+p
+c
+p
+4
+
+
+
+
+
+The variation of  KGT   seems very interesting: 
+
+T
+KG
+
+0
+1
+
+
+
+
+
+m
+E
+0,
+0,
+
+
+
+
+c
+E V
+p E
+,
+,
+ 
+
+
+
+c
+0
+E
+V
+0,
+,
+    
+
+
+  
+c
+0
+
+m
+E
+0,
+0,
+   
+
+
+
+
+p
+c
+
+p
+c
+
+p
+c
+
+p
+
+2
+E
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+  (A.15) 
+
+1
+
+Above equations show us that the incident KG particle 
+z  , 
+triggers a process of “pair creation” occurring at 
+0
+creating new particles moving to the left side (to join the 
+reflected  incident  particle)  so  enhancing  the  reflectivity 
+KGR    and  new  antiparticles  (with  equal  number  of 
+new particles) moving to the right. 
+
+To our understanding, this is not a stationary state pro- 
+blem  for  a  single  particle,  but  a  nonstationary  creation 
+process  of  many  particle-antiparticle  system.  It  is  ama- 
+zing to see the Klein paradox in KG equation being ca- 
+pable of giving some prediction for such kind of process 
+at  the  level  of  RQM.  Further  investigations  are  needed 
+both theoretically and experimentally.10 
+
+AII: Klein Paradox for Dirac Equation 
+Beginning from Klein [60], many authors e.g. Greiner et 
+al. [61,62], have studied this topic. We will join them by 
+using  the  similar  approach  like  that  for  KG  equation 
+discussed above. 
+
+Based on similar picture shown in Figure 1, now we 
+
+have three Dirac WFs under the condition 
+
+0V
+
+ 
+
+E m
+
+: 
+
+10We find from the Google search that R. G. Winter in 1958 had written 
+a  paper  titled  “Klein  paradox  for  the  Klein-Gordon  equation”  and 
+reached  basically  the  same  result  as  ours.  So  he  was  the  first  author 
+dealing  with  this  problem.  Regrettably,  it  seems  that  his  paper  had 
+never been published on some journal. 
+
+i
+
+
+
+e
+
+pz Et
+
+
+
+
+
+,
+
+      (A.16) 
+
+
+
+pz Et
+
+
+
+i
+
+
+
+e
+
+ 
+
+z
+
+
+
+0
+
+
+
+1
+
+
+0
+
+a
+ 
+p
+
+E m
+
+
+0
+
+1
+
+
+0
+
+
+p
+
+
+E m
+
+
+0
+
+
+
+
+b
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+i
+
+
+r
+
+1
+0
+p
+
+
+0
+0
+
+
+
+
+
+
+
+
+
+
+
+t
+
+
+
+b
+
+p z Et
+
+
+
+
+
+
+i
+
+
+
+e
+
+
+
+b
+
+
+
+E V m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+t
+
+t
+
+
+
+
+
+
+
+
+
+
+
+
+
+z
+
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+
+V
+0
+
+1
+0
+p
+
+
+E m
+ 
+0
+
+
+
+
+
+
+
+
+
+
+p z Et
+
+
+
+
+
+
+i
+
+
+
+e
+
+ 
+
+p
+
+(A.17) 
+where 
+.  Unlike  Equation  (A.8)   
+for  KG  equation,  the  probability  density  for  Dirac  WF 
+t   is positive definite (see Equation (5.16))   
+
+  
+
+
+V
+0
+
+2
+
+m
+
+E
+
+
+
+
+
+2
+
+t
+
+t
+
+t
+
+†
+t
+
+†
+t
+
+†
+t
+
+
+
+
+
+
+
+   
+t
+
+              (A.18) 
+Hence  we  will  rely  on  two  criterions:  First,  the  pro- 
+bability  current  density  and  momentum  must  be  in  the 
+same  direction  for  either  a  particle  or  antiparticle.  For 
+1c 
+i   and 
+ 
+ 
+j
+
+i
+
+ 
+j
+r
+
+
+
+r , their probability current density are  
+
+  
+i
+
+z
+p
+2
+
+E m
+
+
+p
+2
+E m
+
+
+
+r
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+a
+
+b
+
+0
+
+0
+
+0
+
+†
+i
+
+†
+i
+
+†
+i
+
+†
+r
+
+
+
+
+
+z
+
+ 
+
+2
+
+2
+
+z
+
+z
+
+z
+
+i
+
+i
+
+as  expected.  However,  for 
+milar to that in Equation (A.9) 
+
+(A.19) 
+t ,  we  meet  difficulty  si- 
+
+Copyright  ©  2013  SciRes.                                                                                                                                                                  JMP 
+
+674 
+
+G.-J. NI    ET    AL. 
+
+j
+t
+
+
+
+t
+
+†
+t
+
+z
+
+
+
+p
+2
+
+
+E m
+ 
+
+V
+0
+
+2
+
+b
+
+
+
+
+z
+
+
+
+0
+
+
+
+    (A.20) 
+
+ 
+i
+i
+
+c 
+c
+  (or 
+
+tj   is  always  opposite  to  that  of  p ! 
+>    for  particle,  we   
+i   (or   
+t    
+0V   renders 
+
+the  direction  of 
+The  second  criterion  is:  while 
+must  have 
+r ), 
+is  dramatically  changed,  the  existence  of 
+t 
+t
+The above two criterions, together with the experience 
+p    and regard 
+
+  for  antiparticle.  Now  in 
+ 
+r
+r
+
+in KG equation, prompt us to choose 
+0
+t   as an antiparticle’s WF. So we rewrite: 
+
+),  but  the  situation  in 
+
+! 
+
+i
+
+t
+
+
+
+
+
+c
+
+
+
+
+
+,
+
+e
+
+
+
+
+
+
+
+c
+
+t
+
+p z E t
+c
+c
+
+b
+
+
+c
+
+t
+c
+
+t
+
+
+ 
+
+
+E m
+c
+
+                                                  (A.21a) 
+
+0ie V t
+t  
+1
+
+
+0
+
+
+p
+c
+
+
+
+
+0
+
+1
+
+
+0
+
+
+p
+c
+
+
+
+
+0
+
+5
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+where 
+  (with new normalization constant   
+cb   replacing  b ) describes an antiparticle with momen-   
+p
+tum 
+c
+V
+cE
+
+0
+we find 
+
+E m
+2
+
+c
+c
+>c
+  .  Using  Equation  (5.17) 
+t
+t
+
+p
+
+
+
+E
+    and 
+
+
+c
+  
+t
+
+ , energy   
+
+  (A.21b) 
+
+E m
+c
+
+ 
+0
+
+c
+
+t
+c
+
+t
+
+b
+
+c
+
+
+c
+
+t
+
+p z E t
+c
+c
+
+
+
+
+
+
+
+
+
+
+
+
+
+p
+
+0
+
+0
+
+e
+
+c
+t
+
+
+
+
+
+z
+
+
+
+
+
+
+
+2
+
+
+
+
+
+i
+
+c
+j
+t
+
+
+
+2
+E m
+c
+
+p
+c
+
+
+b
+
+c
+
+2
+
+
+
+0,
+
+
+
+z
+
+
+
+0
+
+
+
+          (A.22) 
+
+as  expected.  Now  it  is  easy  to  match  Dirac  WFs  at  the   
+boundary 
+
+, yielding11 
+
+z  , (
+
+ 
+r
+
+ 
+c
+
+t
+
+
+
+0
+
+
+
+i
+
+a b b
+
+ 
+c
+
+
+a b p
+
+E m
+
+
+
+
+
+
+
+
+
+
+b p
+
+c
+c
+E m
+
+c
+
+z
+
+
+
+0
+
+b
+
+
+a
+
+ 
+b
+
+c
+
+a
+
+
+
+
+z
+0
+
+
+ 
+
+ 
+b
+a
+
+1
+
+  
+
+(A.23) 
+
+2
+
+
+ 
+
+11Equation (A.23) means that the large (small) component of spinor is 
+z  . How-
+connected with large (small) component at both sides of 
+t   is  used  directly  with  its  first  (small) 
+ever,  if  instead  of 
+component  being  connected  with  the  first  (large)  components  of 
+i
+r ,  it  would  lead  to  a  different  expression  of  Equation  (A.27): 
+and 
+
+,  the 
+
+t
+
+0
+
+c
+
+c
+
+
+ 
+ 
+
+
+
+
+E m E m
+E m E m
+
+
+c
+
+
+
+
+
+
+
+
+c
+
+
+
+
+,  which  is  just  the  1    (    and  1 
+
+make no difference in the result of, say, Equations (A.24) and (A.25)) 
+defined by Equation (8) on page 266 of Ref. [61] (see Equation (A31) 
+below) or that by Equation (5.36) in Ref. [62] 
+
+c
+
+
+
+
+
+
+
+0,
+
+
+p E m
+0
+
+DR   and  transmission  coefficient 
+
+where 
+
+flectivity 
+from Equations (A.19) and (A.22) as: 
+2
+
+p E m
+c
+
+
+
+
+
+
+
+
+
+
+
+
+2
+
+.  The  re- 
+DT   follow 
+
+R
+D
+
+
+
+T
+D
+
+
+
+j
+r
+j
+i
+
+
+
+b
+a
+2
+
+c
+j
+t
+j
+i
+
+
+
+b
+
+c
+a
+
+1
+
+
+
+ 
+
+1
+
+
+
+
+p E m
+c
+
+
+p E m
+
+
+
+
+c
+
+                    (A.24) 
+
+
+
+4
+
+
+
+
+
+2
+
+
+1
+
+    (A.25) 
+
+R
+D
+
+T
+D
+
+                                               (A.26) 
+
+1
+
+where 
+
+and 
+
+T
+D
+
+0,
+
+
+1,
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+V
+
+0
+
+
+
+
+
+
+
+E
+c
+
+
+E m E m
+
+c
+
+E m E m
+
+E m
+
+
+
+
+
+
+
+
+
+
+c
+
+
+
+
+
+
+0
+
+        (A.27) 
+
+0
+
+
+1
+
+
+
+p
+0,
+
+c
+p
+p E
+,
+
+c
+c
+
+
+m
+
+
+E V
+
+
+0
+
+
+resonant transmission
+
+E
+c
+
+
+2
+
+
+
+  (A.28) 
+
+p
+2
+E p
+
+0,
+
+,
+
+
+
+
+
+E m E
+
+
+E m
+
+
+p
+  
+
+0,
+
+c
+
+
+
+E
+
+
+
+m
+
+
+
+
+
+V
+0
+
+  
+
+E
+
+
+
+The variation of 
+
+DT   bears some resemblance to Equ- 
+ation  (A.15)  for  KG  equation  but  shows  striking  dif- 
+ference due to sharp contrast between Equations (A.24)- 
+(A.28) and Equations (A.12)-(A.15). 
+
+To our understanding, in the above Klein paradox for 
+Dirac  equation,  there  is  no  “pair  creation”  process  oc- 
+z  . The paradox just amounts 
+curring at the boundary 
+to  a  steady  transmission  of  particle’s  wave 
+i   into  a 
+z 
+high  potential  barrier 
+  region 
+0
+where 
+t   shows up as an antiparticle’s WF propagating 
+to  the  right.  In  some  sense,  the  existence  of  a  potential 
+0V   plays  a  “magic”  role  of  transforming  the 
+barrier 
+particle into its antiparticle. Because the probability den- 
+sities of both particle and antiparticle are positive definite, 
+the  total  probability  can  be  normalized  over  the  entire 
+space like that for one particle case: 
+
+E m
+
+ 
+
+  at 
+
+0V
+
+0
+
+
+
+
+
+
+
+ 
+z
+
+
+  
+
+
+
+z
+
+
+c
+
+ 
+z
+
+
+
+
+
+
+
+  d
+z
+
+
+
+z
+
+
+
+1
+
+      (A.29) 
+
+0
+
+ z
+  is  the  Heaviside  function)  and  the  probability 
+(
+current  density  remains  continuous  at  the  boundary 
+z  .  In  other  words,  the  continuity  equation  holds  in 
+the whole space just like what happens in a one-particle 
+stationary state. 
+
+It is interesting to compare our result with that in Refs. 
+[61] and [62]. In Ref. [61], Equations (13.24)-(13.28) are 
+essentially the same as ours. But the argument there for 
+
+Copyright  ©  2013  SciRes.                                                                                                                                                                  JMP 
+
+G.-J. NI    ET    AL. 
+
+675
+
+0
+
+p    in  Equation  (13.23)  is  based  on  the 
+choosing 
+grv   being  positive  (for 
+criterion  of  the  group  velocity 
+the  transmitted  wave  packet  moving  toward  z   ). 
+grv   is stemming from Equation (13.16) which 
+And the 
+is  essentially  the  probability  current  density  in  our 
+Equations (A.21)-(A.22). 
+
+However,  the  author  in  Ref.  [61]  also  considered  the 
+p    in an example (pp. 265-267 in [61]) 
+other choice 
+based on the hole theory, ending up with the prediction 
+as: 
+
+0
+
+R
+
+
+
+2
+
+1
+1
+
+
+
+
+
+
+
+
+
+
+
+,
+
+T
+
+
+
+4
+
+
+
+
+
+2
+
+
+1
+
+,
+
+R T
+
+ 
+
+1
+
+  (A.30) 
+
+where 
+
+ 
+
+
+
+
+
+
+
+p
+2
+p V
+1
+0
+
+V
+0
+
+V
+0
+
+E m
+
+E m
+ 
+
+E m E m
+ 
+
+E m E m
+ 
+
+
+
+
+
+
+
+                (A.31) 
+
+Errata
+
+0
+
+0
+
+0
+
+0V
+
+ 
+
+E m
+
+The argument for the validity of his Equations (A.30)- 
+(A.31) is based on the hole theory (see also section 5.2 in 
+, there would be 
+Ref. [62]), saying that once 
+an overlap between the occupied negative continuum for 
+z    and the empty positive continuum for 
+z  , pro- 
+viding a mechanism for electron-positron pair creation if 
+z    can  be  identified  with  a  positron. 
+the  “hole”  at 
+We doubt  the “hole”  theory  seriously  because  there  are 
+only two electrons (with opposite spin orientations) stay- 
+ing at each energy level in the negative continuum. So it 
+seems that there is no abundant source for electrons and 
+1T    in Equ- 
+“holes” to account for the huge value of 
+ation (A.30). 
+
+Fortunately,  we  learn  from  section  10.7  in  Ref.  [62] 
+that if the Klein paradox in Dirac equation is treated at 
+the  level  of  QFT,  their  result  turns  out  to  be  the  same 
+form  as  our  Equations  (A.24)-(A.28),  rather  than  Equ- 
+ations (A.30) and (A.31). 
+
+A. There is a mistake contained in the paragraph following Equation (8.43) on
+
+page 667, which needs to be corrected and modiﬁed as follows:
+
+Note that
+
+ ˆEcξ(cid:48)
+
+c = σc · ˆpcξ(cid:48)
+c = −σc · ˆpcη(cid:48)
+ˆEcη(cid:48)
+†
+c − η(cid:48)
+c = −(η(cid:48)
+η(cid:48)
+ξ(cid:48)
+c,
+
+c + msη(cid:48)
+c − msξ(cid:48)
+ση(cid:48)
+
+j(cid:48)
+
+†
+
+c
+
+c
+
+c
+
+c
+
+ρ(cid:48)
+c = ξ(cid:48)
+
+c
+
+†
+
+c + ξ(cid:48)
+
+c
+
+†
+
+σξ(cid:48)
+c)
+
+(8.44)
+
+(8.45)
+
+c (η(cid:48)
+
+Here ξ(cid:48)
+c) is the hidden RH (LH) spinning ﬁeld in an antitachyon after the ”pure
+time inversion”. Notice that the sign change x → −x in the phase of WF makes a
+change in the direction of momentum pc → −pc. But a WF is always composed
+of two ﬁelds in confrontation, like ηc versus ξc (or η(cid:48)
+c) here. And the ex-
+plicit helicity hc is determined by which one of those two hidden ﬁelds being in
+charge. So the change of x → −x in Equation (8.43) does reverse the status of ηc
+versus ξc (or η(cid:48)
+c), rendering the helicity reversed explicitly. Hence, besides
+the space-time inversion symmetry in Dirac representation as shown by Equations
+
+c vs. ξ(cid:48)
+
+c vs. ξ(cid:48)
+
+(8.26)-(8.28), the tachyon equation does have its unique ”pure time inversion”
+
+symmetry in Weyl representation as shown by Equations (8.42) [i.e., (8.44)] and
+
+(8.15). Among antitachyon WFs gained after the ”pure time inversion”, only those
+for ¯νR with ρ(cid:48)
+
+c > 0 are allowed, whereas those for ¯νL with ρ(cid:48)
+
+c < 0 are forbidden.
+
+B. After Equation (A.14) on page 673, a ”Note” should be added as follows:
+Note: Once when E(cid:48) = E − V0 < 0, we may regard ψt directly as a WF ψ(cid:48)
+c of
+antiparticle and use Equations (3.31)-(3.32) to get the same results, Equations
+
+(A.12)-(A.14). Actually, the continuity conditions at the space boundary z = 0,
+
+Equation (A.5), hold at all times (not just at time t = 0).
+
+Copyright  ©  2013  SciRes.                                                                                                                                                                  JMP 
+
+

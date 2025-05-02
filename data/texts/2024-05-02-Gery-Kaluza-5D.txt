@@ -1,0 +1,4460 @@
+Which symmetry group for elementary particles with an
+
+electric charge today and in the past?
+
+G. de Saxc´e
+
+Univ. Lille, CNRS, Centrale Lille, UMR 9013 – LaMcube
+
+Laboratoire de m´ecanique multiphysique multi´echelle,
+
+F-59000, Lille, France, Email: gery.de-saxce@univ-lille.fr
+
+March 25, 2024
+
+Abstract
+
+In this paper, we revisit the Kaluza-Klein theory from the perspective of the classiﬁcation
+of elementary particles based on the coadjoint orbit method. The keystone conjecture is to
+consider the electric charge as an extra momentum on an equal footing with the mass and the
+linear momentum. We study the momentum map of the corresponding symmetry group ˆG1
+which conserves the hyperbolic metric. We show that the electric charge is not an invariant,
+it depends on the reference frame, which is in contradiction with the experimental
+i.e.
+observations. In other words, it is not the symmetry group of the Universe today as we
+know it. To avert this paradox, we scale the ﬁfth coordinate and consider the limit when the
+cylinder radius 𝜔 vanishes. For the corresponding group ˆG0 also of dimension 15, the charge
+is an invariant then independent of the frame of reference and the observer. On this ground,
+we propose a cosmological scenario in which the elementary particles of the early Universe
+are classiﬁed from the momenta of the group ˆG1, next the three former dimensions inﬂate
+quickly while the ﬁfth one shrinks, leading to the 4D era in which as today the particles are
+characterized by the momenta of the group ˆG0. By this mechanism, the elementary particles
+can acquire electric charge as a by-product of the 4 + 1 symmetry breaking of the Universe.
+This work opens the way to the geometric quantization of charged elementary particles. We
+construct the corresponding ˆG0-connections by pullback on the space-time. Imposing that
+the linear 5-momentum is parallel-transported, we recover the conservation of the charge and
+the equation of motion with Lorentz force. We revisit the variational relativity and obtain
+the ﬁeld equations for both the gravitation and electromagnetic interactions with coupling
+terms which are negligible at the Newtonian approximation, allowing to recover Maxwell
+equations.
+
+Keywords: Kaluza-Klein relativity, symplectic mechanics, cosmology, coadjoint orbit
+
+method, elementary particles, electric charge.
+
+MSC Codes 22E70; 37J15; 83E15; 83F05
+
+4
+2
+0
+2
+
+ 
+r
+a
+
+ 
+
+M
+1
+2
+ 
+ 
+]
+h
+p
+-
+h
+t
+a
+m
+
+[
+ 
+ 
+
+1
+v
+6
+4
+8
+4
+1
+
+.
+
+3
+0
+4
+2
+:
+v
+i
+X
+r
+a
+
+1
+
+1 Introduction
+
+Kaluza-Klein is an extension of general relativity to unify the gravitation and electromagnetism,
+considering a Riemannian manifold of dimension 5 by completing the 4 coordinates ( 𝑋 1 , · · · , 𝑋 4)
+of the space-time with an extra spacelike dimension coordinate ˆ𝑋 5 . The pioneering paper, Kaluza
+[1915], started out by interpreting the 1 + 5 metric as follows1
+
+[ ˆ𝐺 𝜇𝜈] = (cid:20) 𝐺 𝑖 𝑗
+
+2 𝛼 𝐴 𝑗
+
+2 𝛼 𝐴𝑖
+2 𝜙
+
+(cid:21)
+
+where 𝐺 𝑖 𝑗 is the space-time metric, 𝐴𝑖 is the electromagnetic potential, 𝜙 is a new ﬁeld, often
+called dilaton, and 𝛼 is a coupling constant. Besides, Theodor Kaluza introduce the so-called
+cylinder condition , i.e. the components of the metric and other tensors do not depend on the
+ﬁfth coordinate. Even so, the expression of the contravariant metric ˆ𝐺 𝛼𝛽 in terms of the ˆ𝐺 𝛼𝛽
+being complex, he uses the linearized weak ﬁeld approximation. The components of the Ricci
+tensor read
+
+[ ˆ𝑅𝜇𝜈] = (cid:20) 𝜕𝑘 Γ𝑘
+
+−𝛼 𝜕𝑘 𝐹𝑘 𝑗
+
+𝑖 𝑗 − 𝜕 𝑗 Γ𝑘
+
+𝑖𝑘 −𝛼 𝜕𝑘 𝐹𝑘𝑖
+
+−(cid:3) 𝜙
+
+(cid:21)
+
+where 𝐹𝑖 𝑗 = 𝜕𝑖 𝐴 𝑗 − 𝜕 𝑗 𝐴𝑖 is the electromagnetic ﬁeld and (cid:3) = 𝐺 𝑖 𝑗∇𝑖∇ 𝑗 . With the energy-
+momentum tensor of the dust matter ˆ𝑇𝜇𝜈 = 𝜌𝑚 ˆ𝑈𝜇 ˆ𝑈𝜈 as source, Einstein ﬁeld equations extended
+to 5D
+
+1
+
+ˆ𝑅𝑖 𝑗 −
+
+2 ( ˆ𝐺 𝑘𝑙 ˆ𝑅𝑘𝑙) ˆ𝐺 𝑖 𝑗 = −𝜅 ˆ𝑇𝑖 𝑗
+
+allow to recover with 𝑅𝑖 𝑗 the ﬁeld equations of the gravitation exactly, Maxwell’s equations also
+with ˆ𝑅𝑖5 but at the cost of an hypothesis that turned out, as remarked Einstein, to be untenable
+(grossly superluminal velocity of electrons in the ﬁfth dimension). In contrast, Lorentz force
+appears naturally in the equation of motion of a particle but, because of the above hypothesis,
+the last term of this equation and also the equation with ˆ𝑅55 are problematic.
+
+After Kaluza’s promising paper but suﬀering several shortcomings, another breakthrough is
+the work of Oskar Klein [1926a,b] who adopts also the cylinder condition but with restrictions
+
+on the coordinate changes to 𝑋 𝑖 = 𝐻𝑖( 𝑋′1, · · · , 𝑋′4),
+
+ˆ𝑋 5 = ˆ𝑋′5 + ℎ( 𝑋′1, · · · , 𝑋′4) and then the
+
+following form the metric
+
+which leads to a more tractable expression of the contravariant metric.
+terms from the matter, the ﬁeld equations are
+
+In absence of source
+
+1
+
+𝑅𝑖 𝑗 −
+
+2 (𝐺 𝑘𝑙 𝑅𝑘𝑙) 𝐺 𝑖 𝑗 =
+
+𝜅 𝜙2[𝐹 𝑖𝑘 𝐹 𝑗
+𝑘 −
+
+4 (𝐹 𝑘𝑙 𝐹𝑘𝑙) 𝐺 𝑖 𝑗] −
+
+1
+
+2
+
+1
+𝜙 [∇𝑖 𝜕 𝑗 𝜙 − ((cid:3)𝜙) 𝐺 𝑖 𝑗]
+
+1Our convention in this paper is that convention that Greek indices run from 1 to 5 and Latin ones run from 1 to 4
+
+[ ˆ𝐺 𝜇𝜈] = (cid:20) 𝐺 𝑖 𝑗 + 𝜙2 𝐴𝑖 𝐴 𝑗 𝜙2 𝐴𝑖
+
+𝜙2 𝐴 𝑗
+
+𝜙2
+
+(cid:21)
+
+3
+
+∇𝑘 𝐹 𝑘
+𝑖 +
+
+𝜙 (𝜕𝑘 𝜙)𝐹 𝑘
+
+𝑖 = 0
+
+1
+
+2
+
+One of the interests of the formulation is that the electromagnetic stress-energy tensor occurs
+naturally at the right hand member of the ﬁrst equation. Another interest is that the second
+equation provides Maxwell equation when the dilaton 𝜙 is set to one, but if so the last equation
+is satisﬁed only if the right hand member is null, i.e. under the too restrictive constraint that the
+norms of the electric and magnetic ﬁelds are equal. In contrast, if the dilaton varies, the ﬁeld
+equations have no classical interpretation. If we continue anyway to set 𝜙 to one, the equation of
+geodesics reads
+
+Owing to the cylinder condition, 𝑈5 is constant along the geodesic, hence the idea to put
+𝑈4 = 𝑞/𝑚0 where 𝑞 is the electric charge and 𝑚0 the rest mass, that leads to the equation of
+motion
+
+(cid:3)𝜙 =
+
+1
+
+2
+
+𝜅3(𝐹 𝑘𝑙 𝐹𝑘𝑙)
+
+∇𝑈𝑖 = 𝑈5 𝐹 𝑖
+
+𝑗𝑈 𝑗
+
+𝑚0∇𝑈𝑖 = 𝑞 𝐹 𝑖
+
+𝑗𝑈 𝑗
+
+where the right hand member is just Lorentz force.
+
+However, the discoveries of the starting quantum mechanics suggested to Klein that the ﬁfth
+dimension is curled up and microscopic. Using de Broglie wavelength 𝜆5 = ℎ/𝑝5 where ℎ is
+Planck constant and 𝑝5 is the linear momentum in the ﬁfth dimension, Klein found that the size
+𝑙𝐾 of the space along the ﬁfth dimension was about 10−30 cm, very small with respect to the
+nuclear dimension (of the order of 10−13 cm) and thereby gave an explanation for the cylinder
+condition in this small value. For a comparison between Kaluza and Klein approaches, Sewards
+[2008] can be consulted. Classical theory was completed in the 1940s and the full ﬁeld equations
+including the scalar ﬁeld were obtained almost simultaneously (Thiry [1948a,b], Jordan [1948],
+Scherrer [1949]).
+
+Albert Einstein’s position with respect to Kaluza-Klein theory has changed during his scien-
+tiﬁc career. In Einstein [1920], when giving his inaugural lecture in Leyden, Einstein for the ﬁrst
+time publicly commented positively on this uniﬁcation program. However, in a letter to H. Weyl
+[1922], he regrets that it cannot produce non-singular rotation symmetric particle solutions.
+Later on, his work with W. Mayer [1931] is a a ﬁrst attempt to propose an uniﬁed ﬁeld theory.
+Commenting their work, ´E. Cartan [1934] interprets the torsion of the 5D space as the electro-
+magnetic ﬁeld. The last Einstein’s works on the topics are in collaboration with P. Bergmann
+[1938] and later on with P. Bergmann and V. Bargmann [1941]. For more details, the reader is
+referred to van Dongen [2000].
+
+Despite of the astonishing breakthrough of the Kaluza-Klein theory (emergence of Lorentz
+force, Maxwell equations and electromagnetic energy stress tensor from the general relativity),
+often qualiﬁed of ”Kaluza miracles”, it suﬀers of several serious shortfalls not yet rectiﬁed.
+Nonetheless this theory has given rise to many developments that it is not possible to cite all. We
+are focused on the topics relevant to the issues dealt with in the present paper.
+
+In the modern language of diﬀerential geometry, Oskar Klein’s construction is formalized
+as a principal 𝑈(1)-bundle. The electromagnetic potential of covariant components 𝐴𝑖 can be
+interpreted as a connection 1-form valued in the Lie algebra of the group. From the viewpoint of
+the physics of elementary particles, a relevant generalization of the Kaluza-Klein theory consists
+
+3
+
+in substituting an arbitrary non-abelian group 𝐺 for 𝑈(1). The connection 1-form has coordinates
+𝐴𝑎
+𝑗 and the curvature form in a coordinate frame is
+
+1
+
+𝐹 𝑎
+
+𝑖 𝑗 =
+
+2 (𝜕𝑖 𝐴𝑎
+
+𝑗 − 𝜕 𝑗 𝐴𝑎
+
+𝑖 ) + 𝐶 𝑎
+
+𝑏𝑐 𝐴𝑏
+
+𝑖 𝐴𝑐
+
+𝑗
+
+where 𝐶 𝑎
+𝑏𝑐 are the structure constants of the group 𝐺. It must contain at least a 𝑈(1) subgroup for
+the conservation of the electric charge and a 𝑆𝑈(2) subgroup for the conservation of the isospin
+(Kerner [1981]).
+
+Initially introduced by Bargmann [1954] to solve cohomologic diﬃculties to construct group
+actions on quantum wave functions in the Galilean setting, the Lie group that is named after
+him acts on a 5D space of which the ﬁfth coordinate has the physical meaning of a speciﬁc
+action (in the sense of Hamilton least action principle), then it has not to be confused with
+Kaluza-Klein space. Bargmannian geometric structures have been studies by several authors
+(Duval et al. [1985, 1991], de Saxc´e and Vall´ee [2010, 2016], Cardall [2024]). Despite of the
+diﬀerences with Kaluza-Klein theory, some aspects of the Bargmannian approach were a source
+of inspiration for this work.
+
+Another issue which has grasped researcher attention is the Kaluza-Klein cosmology. A gen-
+
+eralized Friedmann-Lemaˆıtre-Robertson-Walker metric in 5D were introduced by Chodos and Detweiler
+[1980]. The idea is that while the ﬁfth dimension has been shrinking, the other three spatial di-
+mensions have been expanding, that could explain the large ratio of the electromagnetic to gravita-
+tional forces as a consequence of the age of the Universe, in agreement with Dirac’s large-number
+hypothesis. Sahdev [1984] obtained improved solutions of the ﬁeld equations with perfect ﬂuids
+added on the right-hand side and found that this scenario can oﬀer a resolution to the horizon
+problem. However, instead of stabilizing at some small but ﬁnite value, as any reasonable physics
+would require, the internal radius in the ﬁfth dimension tended to zero. Other models attempt-
+ing to stabilize asymptotically the internal radius were proposed by Matzner and Mezzacappa
+[1985], Copeland and Toms [1985], Okada [1986], Giorgini and Kerner [1988]. These inter-
+esting works did not necessarily receive the welcome they deserved, perhaps because they were
+based on the theory of Kaluza-Klein whose weaknesses were known.
+
+Finally, not developed from Kaluza-Klein theory but playing a key role in this work, we have
+to point out Jean-Marie Souriau’s seminal work in which he proposed for the classical description
+of an elementary particle to study a family of homogeneous spaces for a symmetry group, the
+coadjoint orbits, and to classify them (Souriau [1970, 1997b]). On this ground, he introduced
+the geometric prequantization in Souriau [1966]. As Kaluza-Klein theory is based on an 𝑈(1)-
+principal bundle of which the base manifold is the space-time, the key idea of the prequantization
+is to work with a 𝑈(1)-principal bundle of which the base space is a symplectic manifold, a
+coadjoint orbit of the structure group. A tentative to combine this method with the 5D approach
+to treat the mass and the electric charge on an equal footing is proposed by ´Sniatycki [1980] but,
+in contrast to Kaluza-Klein theory, the ﬁfth dimension is timelike without physical justiﬁcation.
+The reader not familiar with this topic can consult, in addition to Souriau’s references previously
+cited, Kostant [1970] who is with Souriau one of the pioneers of this method, Kijowski [1977]
+and Woodhouse [1991].
+
+4
+
+The paper is structured as follows.
+Sections 2 and 3 cover the background material needed to tackle the core of the paper as
+well as to deﬁne the terminology and notations. The reader familiar with one or several of these
+topics can skim through them. Section 2 is devoted to Euclidean spaces, pointing out adjoint
+maps, Hodge star operator and a generalization of the vector product to arbitrary dimension. In
+Section 3, we recall useful main results of symplectic mechanics, namely the coadjoint orbit
+method and the momentum map. The Section 4 is a brief reminder of the application of this
+method to Poincar´e group allowing to classify the elementary particles in relativity.
+
+After these preliminaries, the main body of the paper is a trilogy: classiﬁcation of the particles
+
+in Kaluza-Klein theory, pullback connection on the space-time, extended variational relativity.
+
+In Section 5, we apply the coadjoint orbit method to the symmetry group of Kaluza-Klein 5D
+space, denoted ˆG1, which conserves the hyperbolic metric. We show that the linear momentum
+along the ﬁfth dimension, interpreted as the electric charge, is not preserved by the group, then
+depends on the reference frame, contradicting the observations. The aim of Section 6 is to avert
+this paradox by using the fact that the ﬁfth dimension is microscopic. The result of the zoom in
+is to reveal a new symmetry group denoted ˆG0 for which the charge is invariant. Section 7 begin
+with the presentation of a cosmological scenario in which the particles in the early 5D Universe
+are classiﬁed according to the group ˆG1 and, after a transition phase in which the three former
+spatial dimensions inﬂate quickly while the ﬁfth one shrinks, the particles in the 4D era are
+classiﬁed thanks to ˆG0. By this mechanism, the elementary particles can acquire electric charge
+as a by-product of the 4 + 1 symmetry breaking of the Universe. Next, we apply the coadjoint
+orbit method to the group ˆG𝜔 for the transition between ˆG1 and ˆG0. In 5D, we generalize the
+spin polarisation in the form of a plane.
+
+The second part of the trilogy is developed in Section 8. Our aim is to construct the ˆG0-
+connections on the frame principal bundle. As the zoom out leads to a singularity in the ﬁfth
+dimension, we build on the space-time a pullback connection. We claim that the motion of a
+charged particle and the evolution of its charge are such that its linear 5-momentum is parallel-
+transported. The torsion free condition allows to show that the charge is conserved along the
+trajectory and we recover the Lorentz force.
+
+The trilogy ends with Section 9 where we revisit Palatini variational relativity by adding
+to the ten potentials of the metric the four electromagnetic potentials. The generalized action
+depends on the matter and the connection representing both the gravitation and electromagnetic
+interactions. We discuss the ﬁeld equations with coupling terms between the two interactions.
+At the Newtonian approximation, the coupling is weak and we recover Maxwell equations.
+
+2 Euclidean spaces
+
+The two former subsection are simple reminder to deﬁne the terminology and notations used in
+the paper.
+
+5
+
+2.1 Metric
+
+An Euclidean space T of dimension 𝑛 is a vector space equipped with a (covariant) metric G,
+i.e. a nondegenerate 2-covariant tensor G
+
+∀U ∈ T ,
+
+G(U , V ) = 0 ⇔ V = 0 .
+
+The value of the metric tensor for U and V is called their scalar product and denoted U · V . Let
+(e𝑖) be a basis of T . The symmetric regular matrix 𝐺 gathering the components 𝐺 𝑖 𝑗 = e𝑖 · e 𝑗
+is called Gram’s matrix. Thus, it holds:
+
+G(U , V ) = U · V = 𝑈𝑇 𝐺 𝑉 ,
+
+where 𝑈 and 𝑉 are the columns gathering respectively the components of U and V . If 𝐺 is
+diagonal with element +1 or −1 on the diagonal, the basis is called orthonormal. The number 𝑝
+of positive number on the diagonal is called the positive index of inertia. If 𝑛 ≥ 2 and 𝑝 = 1,
+the space is said hyperbolic. To every vector U is associated one and only one linear form
+V ↦→ G(U , V ) denoted U∗. The covariant components of U∗ depends on the contravariant
+components of U through the operation of lowering the index: 𝑈𝑖 = 𝐺 𝑖 𝑗𝑈 𝑗 . The elements 𝐺 𝑖 𝑗
+of the inverse 𝐺−1 of Gram’s matrix are the components of a 2-contravariant tensor G−1 called
+contravariant metric, hence the reverse operation of raising the index: 𝑈𝑖 = 𝐺 𝑖 𝑗𝑈 𝑗 .
+
+2.2 Adjoint of a linear map
+
+Let A be a linear map from an Euclidean space T0 into another one T . Its adjoint (with respect
+to the scalar products) is the linear map A∗ from T into T0 such that:
+
+∀U ∈ T , ∀V ∈ T0,
+
+U · (A V ) = (A∗U) · V .
+
+If A is represented by the matrix 𝐴 in bases of T0 and T , A∗ is represented by:
+
+𝐴∗ = 𝐺−1
+
+0 𝐴𝑇 𝐺 .
+
+We verify that:
+
+(A + A′)∗ = A∗ + A′∗,
+
+(A B)∗ = B∗A∗,
+
+(A∗)∗ = A .
+
+In particular, if T0 = R, the linear map U : R → T : 𝜆 ↦→ 𝜆 U can be identiﬁed to the vector U
+and U∗ is the unique linear form associated to U with respect to the metric since (1) degenerates
+into
+
+which is the matrix form of index lowering. Then the scalar product of two vectors reads:
+
+U · V = 𝑈∗ 𝑉 . Another particular case of interest is when T0 = T then (1) reads:
+
+𝑈∗ = 𝑈𝑇 𝐺
+
+𝐴∗ = 𝐺−1 𝐴𝑇 𝐺
+
+(1)
+
+(2)
+
+(3)
+
+We verify that 𝑇 𝑟(A∗) = 𝑇 𝑟(A). The linear map is self-adjoint (resp. anti-self-adjoint or
+
+skew-adjoint) if:
+
+A = A∗
+
+(resp. A = −A∗) .
+
+6
+
+2.3 Vector product
+
+We consider an oriented Euclidean space T of dimension 𝑛, i.e.
+𝑣𝑜𝑙(e1, . . . , e𝑞) the (𝑛 − 𝑞)-form such that
+
+𝑣𝑜𝑙 ∈ Ó𝑛 T ∗ such that 𝑣𝑜𝑙(e1, . . . , e𝑛) = 1 for every orthonormal basis (e𝑖). We denote
+
+there exists a volume form
+
+(𝑣𝑜𝑙(e1, . . . , e𝑞))(e𝑞+1, . . . , e𝑛) = 𝑣𝑜𝑙(e1, . . . , e𝑞, e𝑞+1, . . . , e𝑛)
+
+We call vector product of (𝑛 − 1) vectors V1, . . . , V𝑛−1 the vector J (V1, . . . , V𝑛−1) such that
+
+J (V1, . . . , V𝑛−1)∗U = 𝑣𝑜𝑙(V1, . . . , V𝑛−1, U)
+
+In Souriau [1965, §26.B], it is proved that
+
+Theorem 2.1 (Souriau) Properties of the vector product:
+
+♦ J (V1, . . . , V𝑛−1) ≠ 0 if and only if V1, . . . , V𝑛−1 are linearly independent
+♥ J (V1, . . . , V𝑛−1) is orthogonal to every argument V𝑖 of J
+♠ The linear map J (V1, . . . , V𝑛−2) : T → T : V ↦→ J (V1, . . . , V𝑛−2, V ) is one-to-one
+
+and skew-adjoint
+
+Denoting 𝑣𝑜𝑙𝑖1 ...𝑖𝑛 the covariant components of the volume form of an oriented Euclidean
+𝑟 the 𝑖-th component of the vector V𝑟 , the 𝑗 -th component of the
+
+space of dimension 𝑛 and 𝑉 𝑖
+vector product is given by
+
+(J (V1, . . . , V𝑛−1)) 𝑗 = Õ𝑖1...𝑖𝑛−1
+
+𝑣𝑜𝑙𝑖1 ...𝑖𝑛−1
+
+𝑗 𝑉 𝑖1
+
+1 . . . 𝑉 𝑖𝑛−1
+𝑛−1
+
+where we rise the last index of the volume form with the metric. The element of the matrix
+J (V1, . . . , V𝑛−2) at the intersection of the 𝑗 -th row and the 𝑘-th column is
+1 . . . 𝑉 𝑖𝑛−2
+𝑛−2
+
+(J (V1, . . . , V𝑛−2)) 𝑗
+
+𝑣𝑜𝑙𝑖1 ...𝑖𝑛−2 𝑘
+
+𝑗 𝑉 𝑖1
+
+Now, we would like to obtain a recursive formula to calculate the vector product when we
+
+𝑘
+
+= Õ𝑖1...𝑖𝑛−1
+add an extra dimension. If 𝑉 , 𝑉𝑖 ∈ T = R𝑛 , we put
+𝑣 (cid:21) , ˆ𝑉𝑖 = (cid:20) 𝑉𝑖
+
+𝑣𝑖 (cid:21) ∈ ˆT = R𝑛+1
+
+ˆ𝑉 = (cid:20) 𝑉
+(−1)𝑛−𝑘+1 𝑣 𝑘 J (𝑉1, . . . , 𝑉𝑘−1, 𝑉𝑘+1, . . . , 𝑉𝑛)∗, 𝑣𝑜𝑙(𝑉1, . . . , 𝑉𝑛)#∗
+
+(4)
+
+Then, it can be proved that
+
+ˆJ ( ˆ𝑉1, . . . , ˆ𝑉𝑛) = " 𝑛Õ𝑘=1
+
+In the particular case of the classical positive Euclidean space of dimension 3 (𝑛 = 𝑞 = 3),
+we use the notation 𝑗 instead of J and we recover the cross product 𝑗(𝑢, 𝑣) = 𝑢 × 𝑣 and the
+
+7
+
+linear map 𝑢 ↦→ 𝑗(𝑢) is one-to-one from R3 into the space of 3 × 3 skew-symmetric matrices.
+In the sequel, the notation J will be reserved to the dimension 4 and ˆJ to the dimension 5. In
+R4 equipped with the metric of Gram’s matrix 𝐺 = 𝑑𝑖𝑎𝑔(1, −1, −1, −1), the vector product of 3
+vectors
+
+itemizes as
+
+from which we deduce
+
+𝑝 𝑘 ∈ R3
+
+(1 ≤ 𝑘 ≤ 3)
+
+𝑚 𝑘 ∈ R,
+
+Π𝑘 = (cid:20) 𝑚 𝑘
+𝑝 𝑘 (cid:21) ,
+J (Π1, Π2, Π3) = (cid:20) 𝑣𝑜𝑙( 𝑝1, 𝑝2, 𝑝3)
+
+𝑚1 𝑗( 𝑝2, 𝑝3) − 𝑚2 𝑗( 𝑝1, 𝑝3) + 𝑚3 𝑗( 𝑝1, 𝑝2) (cid:21)
+𝑗( 𝑝1, 𝑝2) 𝑚1 𝑗( 𝑝2) − 𝑚2 𝑗( 𝑝1) (cid:21)
+
+𝑗( 𝑝1, 𝑝2)𝑇
+
+J (Π1, Π2) = (cid:20) 0
+
+(5)
+
+(6)
+
+In R5 equipped with the metric of Gram’s matrix ˆ𝐺 = 𝑑𝑖𝑎𝑔(1, −1, −1, −1, −𝜔2), let us consider
+
+3 vectors
+
+Then
+
+ˆΠ𝑘 = (cid:20) Π𝑘
+
+𝑞 𝑘
+
+(cid:21) ,
+
+Π𝑘 ∈ R4,
+
+𝑞 𝑘 ∈ R
+
+(1 ≤ 𝑘 ≤ 3)
+
+ˆJ ( ˆΠ1, ˆΠ2, ˆΠ3) = (cid:20) 𝑞1J (Π2, Π3) − 𝑞2J (Π1, Π3) + 𝑞3J (Π1, Π2) − 𝑗(Π1, Π2, Π3)
+
+−𝜔−2 𝑗(Π1, Π2, Π3)∗
+
+0
+
+(cid:21)
+
+(7)
+
+2.4 Hodge operator
+Let us consider the oriented Euclidean space T = R𝑛 of positive index of inertia 𝑝. Owing (2),
+the skew-adjoint map 𝑀 can be identiﬁed to the 2-form 𝐴𝑀 through
+
+Then 𝑀 = J (𝑉1, . . . , 𝑉𝑛−2) can be identiﬁed to the 2-form 𝐴𝑀 = −𝑣𝑜𝑙(𝑉1, . . . , 𝑉𝑛−2). The
+
+𝑈∗ 𝑀 𝑉 = 𝑈𝑇 𝐴𝑀𝑉 = 𝐴𝑀(𝑈, 𝑉) with 𝐴𝑀 = 𝐺 𝑀
+vector spaceÓ𝑞 T of 𝑞-forms is an Euclidean space for the scalar product
+
+𝐺 𝑖1 𝑗1 . . . 𝐺 𝑖𝑞 𝑗𝑞 𝐴𝑖1...𝑖𝑞 𝐵 𝑗1... 𝑗𝑞
+
+𝐺 𝑞( 𝐴, 𝐵) =
+
+1
+
+𝑞! Õ𝑖1 . . . 𝑖𝑞
+
+𝑗1 . . . 𝑗𝑞
+
+The adjoint2 of a 𝑞-form 𝐴 is the (𝑛 − 𝑞)-form ∗𝐴 such that
+
+(∗𝐴)(𝑉1, . . . , 𝑉𝑛−𝑞) = (−1)𝑞 (𝑛−𝑞) 𝐺 𝑞( 𝐴, 𝑣𝑜𝑙(𝑉1, . . . , 𝑉𝑛−𝑞))
+
+The linear map ∗ :Ó𝑞 T →Ó𝑛−𝑞 T : 𝐴 ↦→ ∗𝐴 is called Hodge operator. The following result
+
+can be proved:
+
+2To do not confuse with the adjoint of a linear map.
+
+8
+
+Theorem 2.2 Properties of the Hodge operator:
+
+♦ 𝑀 = J (𝑉1, . . . , 𝑉𝑛−2) is identiﬁed to the 2-form
+
+𝐴𝑀 = ∗(𝑉∗1 ∧ . . . ∧ 𝑉∗𝑛−2) = −𝑣𝑜𝑙(𝑉1, . . . , 𝑉𝑛−2)
+
+♥ If 𝐴 is a 𝑞-form, ∗(∗𝐴) = (−1)𝑞(𝑛−1)+𝑛− 𝑝 𝐴
+♠ ∗𝑣𝑜𝑙(𝑉1, . . . , 𝑉𝑛−2) = (−1)𝑛− 𝑝 𝑉∗1 ∧ . . . ∧ 𝑉∗𝑛−2
+♮ ∗(𝑉∗ ∧ 𝑈∗) = −𝑣𝑜𝑙(𝑈, 𝑉)
+In the special case of interest : 𝑛 = 4, 𝑞 = 2, if 𝐴𝑀 is a 2-form, ∗𝐴𝑀 is also a 2-form identiﬁed
+to an skew-adjoint map denoted ∗𝑀. If 𝑉∗1 ∧ 𝑉∗2 = 𝐴′𝑀 , then 𝑀′ = 𝐺−1(𝑉∗1 ⊗ 𝑉∗2 − 𝑉∗2 ⊗ 𝑉∗1) =
+𝑉1𝑉∗2 − 𝑉2𝑉∗1 . On the other hand, ♦ reads 𝐴J(𝑉1,𝑉2) = ∗𝐴′𝑀 = 𝐴∗𝑀′ then:
+
+that implies, owing to ♥
+
+∗(𝑉1𝑉∗2 − 𝑉2𝑉∗1) = J (𝑉1, 𝑉2)
+
+∗J (𝑉1, 𝑉2) = (−1)𝑛− 𝑝(𝑉1𝑉∗2 − 𝑉2𝑉∗1)
+
+3 Coadjoint orbit method to classify the elementary particles
+
+This Section is a simple reminder of concepts of symplectic mechanics. For more details on
+this topics, the reader can consult for instance Souriau [1970], Abraham and Marsden [1978],
+Guillemin and Sternberg [1984], Libermann and Marle [1987], Souriau [1997b]. In the sequel,
+all the considered Lie groups are matrix groups. Any Lie group 𝐺 left linearly acts on its Lie
+algebra 𝔤 by the adjoint representation
+
+𝐴𝑑 (𝑎) : 𝔤 → 𝔤 : 𝑍′ ↦→ 𝑍 = 𝑎𝑍′𝑎−1
+
+𝐺 left linearly acts on the dual 𝔤∗ of 𝔤 by the coadjoint representation 𝐴𝑑∗ such that
+
+∀𝑍 ∈ 𝔤,∀𝜇 ∈ 𝔤∗,
+
+( 𝐴𝑑∗(𝑎) 𝜇) (𝑍) = 𝜇(cid:16) 𝐴𝑑(cid:16)𝑎−1(cid:17) 𝑍(cid:17)
+
+Let (M, 𝜛) be a symplectic manifold, a symplectic action of a Lie group 𝐺
+
+𝐺 × M → M : (𝑎, 𝑥) ↦→ 𝑥′ = 𝑎 · 𝑥
+
+of a Lie group 𝐺 on M
+
+𝐿∗𝑎𝜛 = 𝜛
+
+and a momentum mapping 𝜓 : M → 𝔤∗
+
+∀𝑍 ∈ 𝔤, ∀𝑑𝑥 ∈ 𝑇𝑥M, 𝜛 (𝑍 · 𝑥, 𝑑𝑥) = −𝑑 (𝜓 (𝑥) 𝑍)
+
+If the manifold M is connected, two momentum mappings diﬀer by a constant. All the symplectic
+manifolds considered in the sequel are assumed to be connected. We consider now 𝔤∗ as equipped
+
+(8)
+
+(9)
+
+(10)
+
+(11)
+
+9
+
+with the associated structure of aﬃne space. The momentum mappings belong to the aﬃne space
+
+of the mappings from M into 𝔤∗, called the momentum mapping space. Any element 𝐴 of the
+aﬃne group GA (𝔤∗) of 𝔤∗ is of the form 𝐴 (𝜇) = 𝑃𝜇 + 𝜇0 where 𝑃 ∈ GL (𝔤∗) and 𝜇0 ∈ 𝔤∗. The
+action of 𝐺 on M induces a smooth right action on the momentum mapping space
+
+∀𝑥 ∈ M, ∀𝑎 ∈ 𝐺,
+
+(𝜓 · 𝑎) (𝑥) = 𝜓 (𝑎 · 𝑥)
+
+Theorem 3.1 (Souriau) Let (M, 𝜛) be a connected symplectic manifold and a symplectic action
+(𝑎, 𝑥) ↦→ 𝑥′ = 𝑎 · 𝑥 of a Lie group 𝐺. Then, the induced action (𝑎, 𝜓) ↦→ 𝜓′ = 𝜓 · 𝑎 has the form
+
+𝜓 · 𝑎 = 𝐴𝑑∗ (𝑎) 𝜓 + 𝑐𝑜𝑐𝑠 (𝑎)
+
+(12)
+
+where 𝑐𝑜𝑐𝑠 (𝑎) does not depends on 𝑥. The mapping 𝑐𝑜𝑐𝑠 : 𝐺 → 𝔤∗ is called a symplectic
+
+cocycle.
+
+The demonstration can be found for instance in Souriau [1970, 1997b, Theorem (11.34)] and
+[Abraham and Marsden , 1978, Section 4.2]. In the sequel, we consider only symmetry groups
+for which the consideration of symplectic cocycles is not relevant, then the group acts linearly.
+
+The symplectic structure of the coadjoint orbits is revealed by the following result.
+
+Theorem 3.2 (Kirillov-Kostant-Souriau) Let 𝐺 be a Lie group and an orbit of the coadjoint
+representation 𝑜𝑟 𝑏 (𝜇) ⊂ 𝔤∗. Then:
+
+♦ The inclusion map 𝑜𝑟 𝑏 (𝜇) → 𝔤∗ is a regular embedding. A vector 𝑑𝜇 ∈ 𝑇𝜇𝔤∗ is tangent
+
+to the orbit if there exists 𝑍𝑑 ∈ 𝔤 such that:
+
+𝑑 𝜇 = 𝜇 ◦ 𝑎𝑑 (𝑍𝑑) = −𝑎𝑑∗(𝑍𝑑) 𝜇
+
+♥ The orbit 𝑜𝑟 𝑏 (𝜇) is a symplectic manifold of which the symplectic form is deﬁned by:
+
+𝜛𝐾 𝐾 𝑆(𝑑𝜇, 𝛿𝜇) = 𝜇 [𝑍𝑑, 𝑍 𝛿]
+
+The dimension of the orbit is even.
+
+♠ 𝐺 is a symplectic group and any 𝜇 ∈ 𝔤∗ is its own momentum.
+
+The reader can ﬁnd a demonstration in Souriau [1970, 1997b, Theorem (11.34)].
+
+In physical terms, every observer is working in a reference frame. The symmetries 𝑎 ∈ 𝐺
+are changes of reference frames or, equivalently, of observers. According to the mechanistic
+description of elementary particles proposed by Souriau, an isolated dynamical system is said
+to be elementary when the symmetry group acts transitively on the space of its motions, i.e.
+it is the set of all possible motions of the system. The momentum map of its action is then a
+symplectic diﬀeomorphism of this space onto a coadjoint orbit of the group. For him, the so
+deﬁned elementary systems are mathematical models for elementary particles of physicists.
+
+10
+
+4 Elementary particles in Poincar´e relativity
+
+In special relativity, the Universe U is represented by a 4D space3. An event X ∈ U occuring
+in a reference frame at time 𝑡 and position 𝑥 ∈ R3 is represented by its coordinates
+
+U is equipped with the Minkowski 1 + 3 metric represented in an orthonormal basis by Gram’s
+matrix
+
+then in this basis the speed of the light 𝑐 is equal to 1. The Lorentz transformations are the linear
+transformations 𝑃 of R4 which conserve the 1 + 3 metric, then such
+
+In terms of the boost (or velocity of transport) 𝑣 ∈ R3 and a rotation 𝑅 ∈ SO(3), using the factor
+𝛾 = 1/p1− k 𝑣 k2, the structure of a Lorentz transformation is
+𝛾+1 𝑣 𝑣𝑇i 𝑅 #
+
+h1R4 + 𝛾2
+
+𝑃 = " 𝛾
+
+𝛾 𝑣𝑇 𝑅
+
+𝛾 𝑣
+
+In the sequel, we consider only the special Lorentz transformations i.e.
+
+that belong to the
+
+connected component of the identity SO+(1, 3), a Lie group of dimension 10. The Poincar´e
+group G is the set of aﬃne transformations of R4
+
+of which the linear part 𝑃 is a Lorentz transformation and that we denote 𝑎 = (𝐶, 𝑃). The
+translation is decomposed into a clock change 𝜏 and a space translation 𝑘
+
+G is a Lie group of dimension 10. The elements of its Lie algebra 𝔤 are characterized by
+
+𝑍 ∈ 𝔤 ⇔ 𝑍 = 𝛿𝑎 = (𝛿𝐶, 𝛿𝑃) such that 𝛿𝑃 is skew-adjoint
+
+then
+
+𝛿𝐶 = (cid:20) 𝛿𝜏
+𝛿𝑘 (cid:21) ,
+
+𝛿𝑃 = (cid:20) 0
+
+𝛿𝑣
+
+𝛿𝑣𝑇
+
+𝑗(𝛿𝜃) (cid:21)
+
+3In general relativity, the Universe is a manifold and we have to consider the tangent space regarding to the
+
+elementary particles.
+
+𝑋 = (cid:20) 𝑡
+𝑥 (cid:21)
+
+𝐺 = (cid:20) 1 0
+
+0 −1R3 (cid:21)
+
+𝑃∗𝑃 = 1R4
+
+𝑋′ ↦→ 𝑋 = 𝐶 + 𝑃 𝑋′
+
+𝐶 = (cid:20) 𝜏
+𝑘 (cid:21)
+
+11
+
+(13)
+
+(14)
+
+(15)
+
+where 𝛿𝑅 = 𝑗(𝛿𝜃) is an inﬁnitesimal rotation around the identity of R3. The corresponding
+momenta 𝜇 are linear forms on 𝔤
+
+𝜇(𝑍) = −Π∗𝛿𝐶 −
+
+𝑇 𝑟( 𝑀 𝛿𝑃)
+
+1
+
+2
+
+characterized by
+
+𝜇 ∈ 𝔤∗ ⇔ 𝜇 = (Π, 𝑀) such that 𝑀 is skew-adjoint
+
+For physical purpose, we introduce the 1 + 3 block decomposition
+
+Π = (cid:20) 𝑚
+𝑝 (cid:21) ,
+
+𝑗(𝑙) (cid:21)
+𝑀 = (cid:20) 0 𝑟𝑇
+
+𝑟
+
+where 𝑚 ∈ R is the mass (equal to the energy because 𝑐 = 1), 𝑝, 𝑟, 𝑙 ∈ R3 are respectively the
+linear momentum, the passage and the angular momentum. Then (16) itemizes into
+
+The coadjoint representation reads
+
+𝜇(𝑍) = 𝑙 · 𝛿𝜃 − 𝑟 · 𝛿𝑣 + 𝑝 · 𝛿𝑘 − 𝑚 𝛿𝜏
+
+𝜇 = 𝐴𝑑(𝑎) 𝜇′ ⇔ Π = 𝑃 Π′, 𝑀 = 𝑃 𝑀′𝑃∗ + 𝐶 (𝑃 Π′)∗ − (𝑃 Π′) 𝐶∗
+
+(18)
+
+In Souriau [1970, 1997b, Chapter 3, §14], Souriau uses the type (timelike or lightlike) of the
+4-momentum vector (or energy-momentum vector) Π for a classiﬁcation of elementary systems.
+By these means, he obtains a large part of the physicists’ classiﬁcation of elementary particles.
+Below, brieﬂy summarized, his results are presented.
+
+Let us suppose that Π is timelike and deﬁne the spin momentum
+
+from which we deduce of (18) its transformation law
+
+𝑀0 = 𝑀 + Π 𝑋∗ − 𝑋 Π∗
+
+𝑀0 = 𝑃 𝑀′0𝑃∗
+
+and two properties
+
+(a) 𝑀0 is skew-adjoint
+(b) The set of 𝑋 ∈ R4 such that 𝑀0 Π = 0 is a straight line D parallel to Π
+Owing to (20), 𝑀0 does not depends on 𝑋 when 𝑋 runs over D. Taking into account that a non
+null vector orthogonal to a timelike vector is spacelike (see Souriau [1965, §28]), 𝐼, 𝐽 ∈ R4 such
+that
+(21)
+
+𝐼∗ 𝐼 = 1,
+
+𝐽∗ 𝐼 = 0
+
+Π = 𝑚0 𝐼,
+
+𝐽∗𝐽 = −1,
+
+On this ground, we put
+
+𝑀0 = 𝑠 J (𝐼, 𝐽)
+
+12
+
+(16)
+
+(17)
+
+(19)
+
+(20)
+
+(22)
+
+verifying the properties (a) and (b) because of Theorem 2.1 ♥ and ♠. The momentum 𝜇 = (Π, 𝑀)
+is characterized by D and 𝐽 or, equivalently, by 𝑋, 𝐼, 𝐽. Owing to (8), we have
+
+∗𝑀 = ∗𝑀0 + ∗( 𝑋 Π∗ − Π 𝑋∗) = ∗𝑀0 + J ( 𝑋, Π)
+
+Let us introduce the polarization
+
+𝑊 = (∗𝑀) Π
+Then, taking into account Theorem 2.1 ♥, (22) and (9)
+
+𝑊 = (∗𝑀0) Π + J ( 𝑋, Π) Π = 𝑠 𝑚0 (∗J( 𝑋, Π)) 𝐼 = 𝑠 𝑚0 (𝐽 𝐼∗ − 𝐼 𝐽∗) 𝐼
+
+or, taking into account (21)
+
+𝑊 = 𝑠 𝑚0 𝐽
+
+The straight line of direction 𝐽 is called the polarization line.
+
+A particle with spin is characterized by two non vanishing 4-vectors, its energy-momentum
+
+Π (timelike) and its polarization 𝑊 (spacelike). The two numbers (Casimirs)
+
+𝐶2 = Π∗Π > 0,
+
+𝐶4 = 𝑊∗𝑊 < 0
+
+are invariant of the orbit, then do not depend on the reference frame or the observer. The calculus
+of the dimension of the isotropy group of the momentum 𝜇 shows that they are only 2 independent
+invariants, then every invariant is a combinations of the Casimirs. The numbers
+
+are interpreted as the rest mass and the spin of the particle. In particular, let
+
+𝑚0 = √Π∗Π,
+
+𝑠 =
+
+√−𝑊∗𝑊
+√Π∗Π
+
+Π′ = (cid:20) 𝑚0
+
+0
+
+(cid:21)
+
+be the 4-momentum in the comoving frame (or proper reference frame). Applying to it a boost
+𝑣, i.e. a Lorentz transformation (4) where the rotation is the identity, we obtain by (18) the mass
+and the linear momentum in the reference frame of any observer
+
+This relation can be expressed also as
+
+𝑚 = 𝑚0𝛾,
+
+𝑝 = 𝑚0𝛾 𝑣
+
+Π = 𝑚0 𝑈 such that 𝑈∗𝑈 = 1
+
+It is worth to remark that the straight line D is the trajectory of the particle Souriau [1970,
+1997b, Chapter 3, §14]. If it is parameterized by the arc length 𝑠 (for the metric 𝐺), 𝑈 is the
+4-velocity
+
+(23)
+
+(24)
+
+(25)
+
+𝑈 =
+
+𝑑𝑋
+𝑑𝑠
+
+= (cid:20) 𝛾
+𝛾 𝑣 (cid:21)
+
+13
+
+They are two other kind of orbits characterizing a particle without spin and a massless
+particle. For more details the reader is referred to Souriau [1970, 1997b, (14.24) and (14.29)].
+We know that elementary particles are characterized by their mass, spin and electric charge.
+This last property is missing from this formalism and is usually reintroduced in the particle
+description as an external element to the geometric approach (see Souriau [1970, 1997b, Chapter
+3, §15]). Our aim now is to develop a paradigm compatible with the experimental observations
+and in which the charge naturally appears as a momentum by constructing a bridge between the
+coadjoint orbit method and the Kaluza-Klein theory.
+
+5 Elementary particles in Kaluza-Klein relativity
+
+In this theory, the Universe ˆU is represented by a 5D hyperbolic Euclidean space where the ﬁfth
+ˆX ∈ ˆU occuring in a reference frame at time
+
+dimension is curled up and microscopic. An event
+𝑡, position 𝑥 and ﬁfth coordinate 𝑦 is represented by the 5-column
+
+𝑡
+𝑥
+
+𝑦 (cid:21) = 
+𝑦 
+ˆ𝑋 = (cid:20) 𝑋
+ˆ𝐺 = (cid:20) 𝐺 0
+0 −1 (cid:21)
+
+ˆ𝑃∗ ˆ𝑃 = 1R4
+
+ˆU is equipped with a 1 + 4 metric represented in an orthonormal basis by Gram’s matrix
+
+(26)
+
+where 𝐺 is given by (13). The set ˆG1 of aﬃne transformations ˆ𝑎 = ( ˆ𝐶, ˆ𝑃) of R5 of which the
+
+linear part conserves the metric
+
+is a Lie group of dimension 15. The structure of the transformations of ˆG1 is given by
+
+ˆ𝐶 = (cid:20) 𝐶
+𝜉 (cid:21) ,
+
+ˆ𝑃 = (cid:20) 𝑃
+
+𝑏∗
+
+𝛽 𝑃∗−1𝑏
+𝛽
+
+(cid:21)
+
+𝑏 ∈ R4,
+𝑃 = 𝑃𝐿 𝐵,
+
+𝛽 = √1 + 𝑏∗𝑏
+
+𝑃𝐿 is a Lorentz transformation,
+
+𝐵 = 1R4 +
+
+𝑏 𝑏∗
+
+1
+𝛽 + 1
+
+(27)
+
+Its restriction to R4 is Poincar´e’s group. The elements of its Lie algebra ˆ𝔤1 are characterized by
+
+ˆ𝑍 ∈ ˆ𝔤1 ⇔ ˆ𝑍 = 𝛿 ˆ𝑎 = (𝛿 ˆ𝐶, 𝛿 ˆ𝑃) such that 𝛿 ˆ𝑃 is skew-adjoint
+
+where
+
+then
+
+𝛿 ˆ𝐶 = (cid:20) 𝛿𝐶
+𝛿𝜉 (cid:21) ,
+
+𝛿 ˆ𝑃 = (cid:20) 𝛿𝑃
+
+𝛿𝑏
+𝛿𝑏∗ 0
+
+(cid:21)
+
+14
+
+where 𝛿𝑃 is skew-adjoint with respect to the metric (13).
+
+Following Souriau, the momenta of the elementary particles can be obtained by considering
+
+the group action on the coadjoint orbits. The momenta ˆ𝜇 of ˆG1 are of the form
+
+(28)
+
+(29)
+
+(30)
+
+(31)
+
+ˆ𝜇( ˆ𝑍) = − ˆΠ∗𝛿 ˆ𝐶 −
+
+𝑇 𝑟( ˆ𝑀 𝛿 ˆ𝑃)
+
+1
+
+2
+
+characterized by
+
+ˆ𝜇 ∈ ˆ𝔤∗1 ⇔ ˆ𝜇 = ( ˆΠ, ˆ𝑀) such that
+
+ˆ𝑀 is skew-adjoint
+
+For convenience, we decompose the momenta as follows
+
+ˆΠ = (cid:20) Π
+𝑞 (cid:21) ,
+
+ˆ𝑀 = (cid:20) 𝑀 𝑄
+𝑄∗ 0 (cid:21)
+
+where the scalar 𝑞 and 𝑄 ∈ R4 are extra momenta with respect to those of Poincar´e’s group. The
+natural conjecture is to identify 𝑞 to the electric charge with suitable physical units. This idea
+is mentioned in Petit and D’Agostini [2014] but the extension of Poincar´e’s group proposed by
+the authors is only a subgroup of ˆG1 of dimension 11. In the present work, the aim is to perform
+an in-depth investigation by examining the consequences of this conjecture to verify if they ﬁt
+the observations.
+
+Then (28) itemizes into
+
+ˆ𝜇( ˆ𝑍) = −Π∗𝛿𝐶 −
+
+𝑇 𝑟( 𝑀 𝛿𝑃) − 𝑞 𝛿𝜉 − 𝑄∗𝛿𝑏
+
+1
+
+2
+
+The coadjoint representation reads
+
+ˆ𝜇 = 𝐴𝑑( ˆ𝑎)∗ ˆ𝜇′ ⇔ ˆΠ = ˆ𝑃 ˆΠ′,
+
+ˆ𝑀 = ˆ𝑃 ˆ𝑀′ ˆ𝑃∗ + ˆ𝐶 ( ˆ𝑃 ˆΠ′)∗ − ( ˆ𝑃 ˆΠ′) ˆ𝐶∗
+
+The action of ˆG1 on the energy-momentum-charge vector ˆΠ itemizes into
+
+Π = 𝑃 Π′ + 𝑞′ 𝛽 𝑃∗−1𝑏,
+
+𝑞 = 𝑏∗Π + 𝛽 𝑞′
+
+It results that the electric charge is dependent on the reference frame then on the observer, totally
+at odds with the experimental observations. Likewise for Poincar´e’s group, we assume that ˆΠ is
+timelike. The only invariant is
+
+ˆΠ∗ ˆΠ = Π∗Π − 𝑞2 > 0
+
+The value of the charge depends on the observer and may even be zero in certain reference
+frames. The charge is not characteristic only of the particle. Author’s opinion is that ˆG1 is not
+the symmetry group of the Universe today as we know it but nonetheless must not be a priori
+rejected. We have only to ﬁnd the Physics that could admit it as symmetry group. However
+before to discuss this point, our goal now is to ﬁnd a more appropriate symmetry group for the
+Physics today. It is what we shall be going to see in the next Section. Latter, we shall come back
+to the analysis of the structure of the momenta ˆ𝜇 of ˆG1 and the exhaustive determination of the
+invariants of the motion.
+
+15
+
+6 Elementary particles in an Universe with a microscopic ﬁfth di-
+
+mension
+
+6.1 Zoom in
+
+with the scaling
+
+To avert the previous paradox concerning the electric charge, it is worth to remark that the ﬁfth
+dimension is curled up and the estimate of the cylinder radius (about 10−30 cm) is overwhelmingly
+small with respect to usual lengths in nuclear physics. The idea is to take advantage of this fact
+by a zoom in along the ﬁfth coordinate and to consider the limit when the cylinder radius 𝜔
+vanishes. Then we consider the transformation law of a vector ˆV
+
+ˆ𝑉′ = ˆ𝑃−1
+ˆ𝑉
+𝜔
+
+ˆ𝑃 𝜔 = (cid:20) 1R4
+
+0
+
+0
+
+𝜔 (cid:21)
+
+ˆ𝐺′ = ˆ𝑃𝑇
+𝜔
+
+ˆ𝐺 ˆ𝑃 𝜔
+
+in such way that if the length was of the order of the cylinder radius in the ﬁfth coordinate,
+it is after scaling of the order of the unity in the new coordinate (with a prime). Owing to the
+transformation law of 2-covariant tensors,
+
+the metric and its inverse are represented after the scaling by
+
+Next we omit the primes and consider the limits of these two matrices when 𝜔 → 0
+
+ˆ𝐺′ = (cid:20) 𝐺 0
+0 −𝜔2 (cid:21) ,
+ˆ𝐺 0 = (cid:20) 𝐺 0
+0 (cid:21) ,
+
+0
+
+0
+
+ˆ𝐺′−1 = (cid:20) 𝐺−1 0
+0 1 (cid:21) = −𝜔−2 (cid:20) 0
+
+−𝜔−2 (cid:21)
+1 (cid:21) ⊗(cid:20) 0
+1 (cid:21)
+
+−𝜔−2 (cid:20) 0 0
+
+The ﬁrst matrix represents a covariant semi-metric of signature (+ − − − 0) while the second
+one represents a contravariant semi-metric of signature (0 0 0 0−). After scaling, the Euclidean
+ˆU is canceled but it remains two debris, a symmetric 2-covariant tensor that we
+structure of
+denote ˆG0 represented by ˆ𝐺 0 and a symmetric 2-contravariant tensor or, equivalently, a vector
+𝛀0 represented by the column
+
+The set ˆG0 of aﬃne transformations ˆ𝑎 = ( ˆ𝐶, ˆ𝑃) of R5 of which the linear part conserves the
+
+components of
+
+ˆG0 and 𝛀0 is such that
+
+where 𝜉 is a scalar, 𝐶, 𝑏 ∈ R4 and 𝑃 is a Lorentz transformation. As ˆG1, it is a Lie group of
+dimension 15. Then the aﬃne transformation ˆ𝑋′ ↦→ ˆ𝑋 = ˆ𝐶 + ˆ𝑃 ˆ𝑋′ itemizes into
+
+1 (cid:21)
+ˆΩ0 = (cid:20) 0
+
+ˆ𝐶 = (cid:20) 𝐶
+𝜉 (cid:21) ,
+
+ˆ𝑃 = (cid:20) 𝑃 0
+𝑏∗ 1 (cid:21)
+
+𝑋 = 𝐶 + 𝑃 𝑋′,
+
+𝑦 = 𝜉 + 𝑦′ + 𝑏∗ 𝑋′
+
+16
+
+(32)
+
+(33)
+
+(34)
+
+(35)
+
+(36)
+
+(37)
+
+(38)
+
+6.2 Gauge transformation
+
+To understand the meaning of 𝑏, we change of point of view and work in the framework of the gen-
+
+eral relativity in which ˆV is a tangent vector to a the 5D manifold ˆU. As in de Saxc´e and Vall´ee
+
+[2016], we hope to determine whether the G-structure in Kobayashi sense (Kobayashi [1972])
+is integrable by solving thanks to Frobenius method the PDE system
+
+For ˆG1, the manifold ˆU is Riemannian and the the ˆG1-structure is not integrable if
+ˆU is curved.
+If it is ﬂat, the transition maps are of the form ˆ𝑋′ ↦→ ˆ𝑋 = ˆ𝐶 + ˆ𝑃 ˆ𝑋′. For ˆG0, the compatibility
+
+conditions of the system provides the equation
+
+where 𝑋′ ↦→ ℎ( 𝑋′) is a real function, that by integration leads to the gauge transformation
+
+The ˆG0-structure is integrable only if the manifold is ﬂat. Otherwise, it is convenient as in
+Souriau [1964, Chapter VII, (41.21)] to consider the transition maps of standard charts
+
+𝜕 ˆ𝑋
+𝜕 ˆ𝑋′
+
+= ˆ𝑃,
+
+ˆ𝑃 ∈ 𝐺
+
+𝑏 = grad𝑋 ℎ
+
+𝑦 = 𝑦′ + ℎ( 𝑋′)
+
+ˆ𝑋 = ˆ𝐻 ( ˆ𝑋′) = (cid:20) 𝐻( 𝑋′)
+
+𝑦′ + ℎ( 𝑋′) (cid:21)
+
+𝐴′ ↦→ 𝐴 = 𝐴′ + 𝑏
+
+In terms of 4-potential 𝐴 of the electromagnetism, the vector 𝑏 turns out to be a gauge transfor-
+mation
+
+6.3 Coadjoint orbit
+
+The elements of the Lie algebra ˆ𝔤0 of ˆG0 are characterized by
+
+ˆ𝑍 ∈ ˆ𝔤0 ⇔
+
+(39)
+
+ˆ𝑍 = 𝛿 ˆ𝑎 = (𝛿 ˆ𝐶, 𝛿 ˆ𝑃) such that
+𝛿 ˆ𝐶 = (cid:20) 𝛿𝐶
+𝛿𝜉 (cid:21) ,
+𝛿 ˆ𝑃 = (cid:20) 𝛿𝑃
+
+0
+
+𝛿𝑏∗ 0 (cid:21) ,
+
+𝛿𝑃 is skew-adjoint with
+respect to the metric (13)
+
+
+
+ˆ𝜇( ˆ𝑍) = −Π∗𝛿𝐶 −
+
+𝑇 𝑟( 𝑀 𝛿𝑃) − 𝑞 𝛿𝜉 − 𝑄∗𝛿𝑏
+
+1
+
+2
+
+17
+
+The momenta ˆ𝜇 of ˆG0 are of the form
+
+Π = 𝑃 (Π′ − 𝑞′ 𝑏)
+
+𝑞 = 𝑞′
+
+𝑄 = 𝑃 𝑄′ + 𝑞′𝐶
+
+𝑄 = 𝑞 𝑋
+
+The coadjoint representation ˆ𝜇 = 𝐴𝑑( ˆ𝑎)∗ ˆ𝜇′ is deﬁned by the following transformation laws
+
+𝑀 = 𝑃 𝑀′𝑃∗ + 𝐶 (𝑃 (Π′ − 𝑞 𝑏))∗ − (𝑃 (Π′ − 𝑞 𝑏)) ˆ𝐶∗ + (𝑃 𝑏)(𝑃 𝑄′)∗ − (𝑃 𝑄′)(𝑃 𝑏)∗
+
+In contrast to what happened with ˆG1, the electric charge is independent on the reference
+frame then on the observer. This include in particular the invariance with respect to the gauge
+transformation. Besides, owing to (38), the transformation law (43) is satisﬁed if we claim that
+
+that provides the physical interpretation of the momentum 𝑄 as the product of the charge
+and the space-time position. We suggest to call it the 4-position-charge momentum. Let us
+remark also that, taking into account the transformation law of Π, the one of 𝑀 is simpliﬁed as
+follow
+
+𝑀 = 𝑃 𝑀′𝑃∗ + 𝐶 Π∗ − Π ˆ𝐶∗ + (𝑃 𝑏)(𝑃 𝑄′)∗ − (𝑃 𝑄′)(𝑃 𝑏)∗
+
+To calculate the number of independent invariants of the momentum of a group 𝐺, we
+
+determine the isotropy group of ˆ𝜇 from which we deduce the dimension of the coadjoint orbit
+
+The number of independent invariant of the orbit is
+
+dim (orb( ˆ𝜇)) = dim𝐺 − dim(iso( ˆ𝜇))
+
+𝑛𝐼 = dim 𝔤 − dim(orb( ˆ𝜇)) = dim(iso( ˆ𝜇))
+
+Taking into account (40), (45 and (43), to determine the isotropy group of ˆ𝜇, we need to solve
+with respect to the unknowns 𝐶, 𝑃, 𝑏, 𝜉 the system of equations
+
+𝑀 = 𝑃 𝑀 𝑃∗ + 𝐶 (𝑃 (Π − 𝑞 𝑏))∗ − (𝑃 (Π − 𝑞 𝑏)) ˆ𝐶∗ + (𝑃 𝑏)(𝑃 𝑄)∗ − (𝑃 𝑄)(𝑃 𝑏)∗
+
+the condition (42) being useless because the charge is an obvious invariant.
+
+For a charged particle (𝑞 ≠ 0), let us show that the number of independent invariants is
+
+3. Indeed, (46) and (48) give
+
+1
+
+𝑏 =
+
+𝑞 (Π − 𝑃∗Π), 𝐶 =
+
+1
+𝑞 (𝑄 − 𝑃 𝑄)
+
+Introducing these expressions of 𝑏 and 𝐶 into (47) leads to
+
+Π = 𝑃 (Π − 𝑞 𝑏)
+
+𝑄 = 𝑃 𝑄′ + 𝑞′𝐶
+
+𝑀0 = 𝑃 𝑀0𝑃∗
+
+18
+
+(40)
+
+(41)
+
+(42)
+
+(43)
+
+(44)
+
+(45)
+
+(46)
+
+(47)
+
+(48)
+
+(49)
+
+(50)
+
+where, taking into account (44)
+
+1
+
+𝑀0 = 𝑀 +
+
+𝑞 (Π 𝑄∗ − 𝑄 Π∗) = 𝑀 + Π 𝑋∗ − 𝑋 Π∗
+
+(51)
+
+can be interpreted as the spin momentum, by comparison to (19). As in Poincar´e relativity,
+the straight line D of equation 𝑀0 Π = 0 is the trajectory of the particle, parallel to Π given by,
+owing to (24) and (25)
+
+Π = 𝑚0 𝑈 with 𝑈 =
+
+such that 𝑈∗𝑈 = 1
+
+(52)
+
+𝑑𝑋
+𝑑𝑠
+
+First we consider a charged particle with spin (𝑞 ≠ 0, Π timelike, 𝑀0 ≠ 0). Equation (50)
+being non linear with respect to 𝑃 then diﬃcult to solve, we use an inﬁnitesimal method by
+working with its diﬀerential version in terms of Lie algebra. Diﬀerentiating it with respect to 𝑃
+at the identity and taking into account that 𝛿𝑃 is skew-adjoint, it holds
+
+𝛿𝑃 𝑀0 − 𝑀0𝛿𝑃 = 0
+
+𝛿𝑃 = (cid:20) 0
+
+𝛿𝑣
+
+𝛿𝑣𝑇
+
+𝑗(𝛿𝜃) (cid:21) ,
+
+𝑀0 = (cid:20) 0
+
+𝑟0
+
+𝑟𝑇
+0
+
+𝑗(𝑙0) (cid:21)
+
+Putting
+
+we obtain the system of equation
+
+𝑙0 × 𝛿 𝑣 + 𝑟0 × 𝛿 𝜃 = 0,
+In the general case (𝑙0 × 𝑟0 ≠ 0), the solution is
+𝛿 𝜃 = 𝜆 𝑟0 + 𝜇 𝑙0,
+
+𝑟0 × 𝛿 𝑣 − 𝑙0 × 𝛿 𝜃 = 0
+
+𝛿 𝑣 = 𝜇 𝑟0 − 𝜆 𝑙0
+
+where 𝜆 and 𝜇 are two independent scalars of arbitrary values. Then the dimension of the
+isotropy group of 𝑀0 is 2 because the couple (𝛿 𝜃, 𝛿 𝑣) then 𝛿 𝑃 is deﬁned by these 2 independent
+parameters. It is easy to verify that the dimension 2 is also valid for the particular case. The
+value of 𝑏 and 𝐶 are ﬁxed by (49). The value of 𝜉 that does not occurs in the equations is free.
+Then the dimension of the isotropy group of ˆ𝜇 and then the number of independent invariants is
+3.
+
+For a charged particle with spin, a set of 3 independent invariants of ˆ𝜇 is the electric
+
+charge, the rest mass and the spin of the particle
+
+𝑞,
+
+𝑚0 = √Π∗Π,
+
+𝑠 =
+
+√−𝑊∗𝑊
+√Π∗Π
+
+where the polarization 𝑊 is deﬁned by (23).
+
+For a charged particle without spin (𝑞 ≠ 0, Π timelike, 𝑀0 = 0), equation (50) is satisﬁed
+for every 𝑃. The number independent invariants is 7. The invariants are 𝑞 and the 6 independent
+components of 𝑀0 which are null.
+
+19
+
+For a particle without charge (𝑞 = 0, 𝑄 = 0), the coadjoint representation of ˆG0 is reduced
+
+to (18) and we recover the classiﬁcation of elementary particles in Poincar´e’s relativity.
+
+To author’s knowledge, the Physics of the symmetry group ˆG0 has not been considered in
+the literature. By the way, there exists a group introduced by L´evy-Leblond [1965] and called
+by him Carroll’s group4, of which the elements have the same mathematical structure as the
+ones of ˆG0. However the physical meaning of Carroll’s group is very diﬀerent from the one of
+ˆG0: Carroll’s group linearly acts on a space of dimension 4 (not 5) and the dimension analogous
+to the ﬁfth of ˆG0 is timelike (not spacelike). Carroll’s group was constructed as a degeneracy
+of Poincar´e’s group (similar but distinct from Galileo’s group). Despite of these discrepancies
+concerning the physical aspects, Carroll’s group may be considered as a forunner of the group
+ˆG0. For more details on Carroll’s group, the reader is referred to Duval et al.
+[1985, 1991,
+2014], Bergshoeﬀ et al. [2014, 2023], L´evy-Leblond [2023].
+
+7 A cosmological scenario for the evolution of elementary particle
+
+structure
+
+One of the important problems in Kaluza-Klein theories is how to explain the large separation
+of the scale of our 3D space and that of the extra dimension. This issue was addressed in Okada
+[1986] with a Robertson-Walker metric in our four dimensions and a 𝑑-dimensional sphere 𝑆𝑑
+in the extra dimensions. For our concern, 𝑑 = 1. Under certain assumptions, this approach
+predicts stable cosmological models for the extra dimension and, using Kasner solutions for
+approximations when 𝑡 → 0, a possible evolution of the scale factors 𝑎 for our 3D space and 𝜔
+for the ﬁfth dimension given by
+
+𝑎(𝑡) (cid:27) 𝑎0 𝑡1/2,
+
+𝜔(𝑡) (cid:27) 𝜔0 𝑡−1/6
+
+Although the assumptions are aﬀected by many uncertainties, it seems reasonable to expect a
+cosmological scenario in which:
+
+• the elementary particles of the early 5D Universe are classiﬁed from the momenta of the
+
+group ˆG1,
+
+the group ˆG0.
+
+• next the three former space dimensions inﬂate quickly while the ﬁfth one shrinks,
+
+• leading to the 4D era in which as today the particles are characterized by the momenta of
+
+By this mechanism, the elementary particles can acquire electric charge as a by-product of
+the 4 + 1 symmetry breaking of the Universe.
+
+To describe it, we consider the metric ˆG𝜔 at scale 𝜔. We omit the prime for the scaled
+
+coordinates. Owing to (34), the metric is represented by Gram’s matrix
+
+4Lewis Carroll, the author of Alice’s Adventures in Wonderland, although mathematician, had nothing to do with
+
+the creation of this group.
+
+ˆ𝐺 𝜔 = (cid:20) 𝐺 0
+
+0 −𝜔2 (cid:21)
+
+20
+
+The set ˆG𝜔 of aﬃne transformations ˆ𝑎 = ( ˆ𝐶, ˆ𝑃) of R5 of which the linear part conserves the
+metric ˆ𝐺 𝜔 is a Lie group of dimension 15. The structure of the transformations of ˆG𝜔 is given
+by
+
+ˆ𝐶 = (cid:20) 𝐶
+𝜉 (cid:21) ,
+𝛽 =p1 + 𝜔2𝑏∗𝑏
+
+where
+
+𝑏 ∈ R4,
+𝑃 = 𝑃𝐿 𝐵,
+
+ˆ𝑃 = (cid:20) 𝑃 𝜔2 𝛽 𝑃∗−1𝑏
+
+𝑏∗
+
+𝛽
+
+(cid:21)
+
+𝑃𝐿 is a Lorentz transformation,
+
+(53)
+
+𝐵 = 1R4 +
+
+𝜔2
+𝛽 + 1
+
+𝑏 𝑏∗
+
+When 𝜔 = 0, we recover the group ˆG0. We would like to classify the elementary particles with
+charge at scale 𝜔 > 0. In particular, we shall obtain the classiﬁcation for the early Universe
+(𝜔 = 1) of which the study was only sketched out in Section 5. The other limit case of the
+Universe today (𝜔 = 0) that is singular was already studied in Section 6.
+The elements ˆ𝑎 = (𝛿 ˆ𝐶, 𝛿 ˆ𝑃) of the Lie algebra ˆ𝔤𝜔 of ˆG𝜔 are such that
+
+where 𝛿𝑃 is skew-adjoint with respect to the metric (13). The momenta ˆ𝜇 of ˆG𝜔 are of the form
+(28). We decompose the momenta as follows
+
+𝛿 ˆ𝐶 = (cid:20) 𝛿𝐶
+𝛿𝜉 (cid:21) ,
+
+𝛿 ˆ𝑃 = (cid:20) 𝛿𝑃 𝜔2𝛿𝑏
+
+𝛿𝑏∗ 0
+
+(cid:21)
+
+𝑄
+
+𝜔−2𝑄∗ 0 (cid:21)
+
+ˆ𝑀 = (cid:20) 𝑀
+
+ˆΠ = (cid:20) Π
+𝑞 (cid:21) ,
+Π = 𝑃 Π′ + 𝜔2𝑞′ 𝛽 𝑃∗−1𝑏
+
+transforming (28) into (30). The coadjoint representation is deﬁned by (31) or, in details
+
+𝑀 = 𝑃 𝑀′𝑃∗ + 𝛽 (cid:2)(𝑃∗−1𝑏)(𝑃 𝑄′)∗ − (𝑃 𝑄′)(𝑃∗−1𝑏)∗(cid:3)
+
++ 𝐶 (𝑃 Π′ + 𝜔2𝑞′ 𝛽 𝑃∗−1𝑏)∗ − (𝑃 Π′ + 𝜔2𝑞′ 𝛽 𝑃∗−1𝑏) 𝐶∗
+
+𝑞 = 𝑏∗Π + 𝛽 𝑞′
+
+𝑄 = 𝛽 𝑃 𝑄′ − 𝜔2 (cid:2)𝑃 𝑀′𝑏 + 𝛽 (𝑏∗𝑄′) 𝑃∗−1𝑏(cid:3)
+
++ 𝜔2 (cid:2)𝜉 (𝑃 Π′ + 𝜔2𝑞′ 𝛽 𝑃∗−1𝑏) − (𝑏∗Π′ + 𝛽 𝑞′) 𝐶(cid:3)
+
+By analogy with (19), we deﬁne the spin momentum
+
+ˆ𝑀0 = ˆ𝑀 + ˆΠ ˆ𝑋∗ − ˆ𝑋 ˆΠ∗
+
+from which we deduce of (31) its transformation law
+ˆ𝑀0 = ˆ𝑃 ˆ𝑀′0
+
+ˆ𝑃∗
+
+and two properties
+
+(i)
+
+ˆ𝑀0 is skew-adjoint
+
+(ii) The set of ˆ𝑋 ∈ R5 such that
+
+ˆ𝑀0 ˆΠ = 0 is a straight line ˆD parallel to ˆΠ
+
+21
+
+(54)
+
+(55)
+
+(56)
+
+(57)
+
+(58)
+
+(59)
+
+(60)
+
+7.1 Polarization plane and map
+
+At this stage, it is worth to remark an important diﬀerence between Poincar´e relativity, in which
+𝐴𝑀0 and its adjoint ∗𝐴𝑀0 are both 2-forms, and Kaluza-Klein one for which 𝐴 ˆ𝑀0
+is a 3-form
+while ∗𝐴 ˆ𝑀0
+is a 2-form, that has important consequences from the geometrical and physical
+viewpoints. Owing to (60), ˆ𝑀0 does not depends on ˆ𝑋 when ˆ𝑋 varies over ˆD. Let ˆ𝐼, ˆ𝐽1, ˆ𝐽2 ∈ R5
+
+such that
+
+(61)
+
+(62)
+
+ˆΠ = 𝑚0 ˆ𝐼,
+
+ˆ𝐼∗ ˆ𝐼 = 1,
+
+ˆ𝐽∗1
+
+ˆ𝐽1 = ˆ𝐽∗2
+
+ˆ𝐽2 = −1,
+
+ˆ𝐽∗1
+
+ˆ𝐼 = ˆ𝐽∗2
+
+ˆ𝐼 = ˆ𝐽∗1
+
+ˆ𝐽2 = 0
+
+Over
+
+ˆD, we put
+
+ˆ𝑀0 = 𝑠 J ( ˆ𝐼, ˆ𝐽1, ˆ𝐽2)
+
+verifying the properties (i) and (ii) because of Theorem 2.1 ♥ and ♠. The momentum ˆ𝜇 = ( ˆΠ, ˆ𝑀)
+is characterized by D and ˆ𝐽1, ˆ𝐽2 or, equivalently, by ˆ𝑋, ˆ𝐼, ˆ𝐽1, ˆ𝐽2. In Poincar´e relativity, there is a
+polarization straight line of direction 𝐽 while in Kaluza-Klein relativity, there is a polarization
+plane spanned by the couple ( ˆ𝐽1, ˆ𝐽2) that is one of its orthonormal basis. Owing to Theorem 2.2
+♮, we have
+
+∗𝐴 ˆ𝑀 = ∗𝐴 ˆ𝑀0 + ∗( ˆ𝑋∗ ∧ ˆΠ∗) = ∗𝐴 ˆ𝑀0 + 𝑣𝑜𝑙( ˆΠ, ˆ𝑋)
+
+Then
+
+∗𝐴 ˆ𝑀( ˆΠ, ˆ𝐽𝑘) = ∗𝐴 ˆ𝑀0( ˆΠ, ˆ𝐽𝑘) + 𝑣𝑜𝑙( ˆΠ, ˆ𝑋, ˆΠ, ˆ𝐽𝑘) = 𝑠 ∗ 𝐴 ˆΩ( ˆΠ, ˆ𝐽𝑘)
+
+(𝑘 = 1, 2)
+
+that leads to investigate the properties of the 2-form ∗𝐴 ˆΩ. Applying Theorem 2.1 ♥ and ♠, its
+adjoint is the 3-form
+
+from which we deduce
+
+∗𝐴 ˆΩ = − ∗ 𝑣𝑜𝑙( ˆ𝐼, ˆ𝐽1, ˆ𝐽2) = − ˆ𝐼∗ ∧ ˆ𝐽∗1 ∧ ˆ𝐽∗2
+
+ˆ𝐽1 = −(∗𝐴 ˆΩ( ˆ𝐼, ˆ𝐽2))∗,
+
+ˆ𝐽2 = (∗𝐴 ˆΩ( ˆ𝐼, ˆ𝐽1))∗
+
+(63)
+
+In terms of the momentum ˆ𝜇 = ( ˆΠ, ˆ𝑀), introducing the polarization map
+pol ˆ𝜇 : R5 → R5 : ˆ𝑈 ↦→ ˆ𝑉 = pol ˆ𝜇( ˆ𝑈) = (∗𝐴 ˆ𝑀( ˆΠ, ˆ𝑈))∗
+
+the relations (63) are recast as
+
+𝑠 𝑚0 ˆ𝐽1 = −pol ˆ𝜇( ˆ𝐽2),
+
+𝑠 𝑚0 ˆ𝐽2 = pol ˆ𝜇( ˆ𝐽1)
+
+Now, we have to address the issues of the existence and (non) uniqueness of the orthonormal
+
+basis ( ˆ𝐽1, ˆ𝐽2) to deﬁne the polarization map:
+
+• Existence. Let us ˆ𝐾1, ˆ𝐾2 two vectors of R5 that form with ˆ𝐼, ˆ𝐽1, ˆ𝐽2 an orthonormal basis
+
+of R5 in which we decompose any vector
+
+ˆ𝑈 = 𝜆 ˆ𝐼 + 𝜇1 ˆ𝐽1 + 𝜇2 ˆ𝐽2 + 𝜈1 ˆ𝐾1 + 𝜈2 ˆ𝐾2
+
+22
+
+Then
+
+pol ˆ𝜇( ˆ𝑈) = 𝑠 𝑚0 (𝜇1 ˆ𝐽2 − 𝜇2 ˆ𝐽1)
+
+that shows the image of the polarization map pol ˆ𝜇 is the polarization plane P. This gives
+a method to determine a basis of P. We span R5 and apply the polarization map to ﬁnd
+two linearly independent vectors. They form a basis of P. Then we ﬁnd an orthonormal
+basis by using the Gram–Schmidt process.
+
+• Non uniqueness. Let ( ˆ𝐽1, ˆ𝐽2) and ( ˆ𝐽′1, ˆ𝐽′2) be two orthonormal bases such that
+
+J ( ˆ𝐼, ˆ𝐽1, ˆ𝐽2) = J ( ˆ𝐼, ˆ𝐽′1, ˆ𝐽′2)
+
+Owing to Theorem 2.1 ♥,
+
+J ( ˆ𝐼, ˆ𝐽1, ˆ𝐽2) ˆ𝐽′𝑘 = J ( ˆ𝐼, ˆ𝐽′1, ˆ𝐽′2) ˆ𝐽′𝑘 = 0
+
+(𝑘 = 1, 2)
+
+then ˆ𝐽′1 and ˆ𝐽′2 are linear combinations of ˆ𝐽1 and ˆ𝐽2. This ensures the uniqueness of the
+polarization plane. In contrast, the orthonormal basis ( ˆ𝐽1, ˆ𝐽2) is deﬁned only modulo an
+orthogonal transformation of P
+
+7.2 Invariants of the motion
+
+For a charged particle (𝑞 ≠ 0), let us verify on a simple case that the number of independent
+invariants is 2. Taking into account (31), we determine the isotropy group of the momentum by
+solving the system of equations
+
+ˆΠ = 𝑃 ˆΠ,
+
+ˆ𝑀 = ˆ𝑃 ˆ𝑀 ˆ𝑃∗ + ˆ𝐶 ( ˆ𝑃 ˆΠ)∗ − ( ˆ𝑃 ˆΠ) ˆ𝐶∗
+
+with respect to ˆ𝑎 = ( ˆ𝐶, ˆ𝑃). Like in Section 6.3, we diﬀerentiate these equations with respect to
+ˆ𝑀 is skew-adjoint, that leads to solve the linear
+ˆ𝑎 at the identity and we take into account that
+system
+
+𝛿 ˆ𝑃 ˆΠ = 0,
+
+𝛿 ˆ𝑃 ˆ𝑀 − ˆ𝑀 𝛿 ˆ𝑃 + 𝛿 ˆ𝐶 ˆΠ∗ − ˆΠ 𝛿 ˆ𝐶∗ = 0
+
+(64)
+
+with respect to 𝛿 ˆ𝑎 = (𝛿 ˆ𝐶, 𝛿 ˆ𝑃). Let us pick up
+
+that satisfy conditions (61). Owing to (54) and (55), the ﬁrst equation of (64) itemizes into
+
+,
+
+𝜅 (cid:21) = 
+ˆ𝐼 = (cid:20) 𝐼
+
+𝜇
+0
+
+𝜅 
+
+0
+𝑝 𝑘
+0
+
+0 (cid:21) = 
+ˆ𝐽𝑘 = (cid:20) 𝐽𝑘
+
+,
+
+
+
+𝛿𝑃 Π + 𝜔2𝑞 𝛿𝑏 = 0,
+
+𝛿𝑏∗Π = 0
+
+(𝑘 = 1, 2)
+
+of which the solution is, owing to (15) and (17)
+
+(65)
+
+(66)
+
+𝛿𝑏 = (cid:20) 𝛿𝑏0
+
+𝛿 ¯𝑏 (cid:21) = (cid:20) 0
+− 𝜇
+
+𝜔2 𝜅
+
+𝛿𝑣 (cid:21)
+
+23
+
+the second equation of (64) itemizes into
+
+Besides, owing to (5) and (6), we have
+
+𝜇 𝜓 (cid:21) ,
+
+J (𝐼, 𝐽1, 𝐽2) = (cid:20) 0
+ˆ𝑀0 = 𝑠 ˆJ ( ˆ𝐼, ˆ𝐽1, ˆ𝐽2) = 𝑠 (cid:20) 𝜅 J (𝐽1, 𝐽2)
+
+with 𝜓 = 𝑝1 × 𝑝2, from which we deduce, taking into account (62) and (7)
+−J (𝐼, 𝐽1, 𝐽2)
+
+J (𝐽1, 𝐽2) = (cid:20) 0 𝜓𝑇
+
+𝜓 0
+
+(cid:21)
+
+(cid:21)
+
+−𝜔2J (𝐼, 𝐽1, 𝐽2)∗ 0
+
+𝜅 𝜓𝑇
+
+0
+𝜅 𝜓 0
+0
+
+𝜇𝜔−2𝜓𝑇
+
+0
+−𝜇 𝜓
+0
+
+ˆ𝑀0 = 𝑠 
+
+𝑠 (𝜅 𝑗(𝛿𝜃) + 𝜇 𝛿𝑏01R3) 𝜓 + 𝑚0 𝜇 𝛿𝑘 = 0,
+
+(𝜅 𝛿𝑣 + 𝜇 𝛿 ¯𝑏) × 𝜓 = 0,
+
+−𝑠(𝜇 𝑗(𝛿𝜃) + 𝜅 𝜔2𝛿𝑏01R3)𝜓 − 𝑚0 𝜔2𝜅 𝛿𝑘 = 0
+−𝑠(𝜇 𝛿𝑣 + 𝜅 𝜔2𝛿 ¯𝑏) · 𝜓 + 𝑚0 𝜔2(𝜇 𝛿𝜉 − 𝜅 𝛿𝜏0) = 0
+
+
+
+𝜅
+𝜇
+
+𝛿𝜏 = 𝛼,
+
+𝛿𝑘 = 0,
+
+𝛿𝜉 =
+
+𝛼
+
+𝛿𝑣 = 𝛽 𝜓,
+
+𝛿𝜃 = 𝜇 𝜓,
+
+𝛿𝑏0 = 0,
+
+𝛿 ¯𝑏 = −𝛽
+
+𝜇
+𝜔2𝜅
+
+𝜓
+
+Taking into account (66), the solution of this system of equation is of the form
+
+(67)
+
+where 𝛼, 𝛽 are two scalars of arbitrary values. Then the dimension of the isotropy group of
+the momentum then the number of its independent invariant is 2. We can take as independent
+invariants the rest mass and the spin
+
+𝑚0 =p ˆΠ∗ ˆΠ,
+
+𝑠 = q−(pol ˆ𝜇( ˆ𝐽1))∗pol ˆ𝜇( ˆ𝐽1)
+p ˆΠ∗ ˆΠp−( ˆ𝐽1)∗ ˆ𝐽1
+
+It is worth to remark that the electric charge is the linear momentum along the ﬁfth dimension
+but is not an invariant of the motion in the early Universe.
+
+8 Constructing the connection associated to the group ˆG0
+
+At every symmetry group 𝐺 is attached a family of covariant derivatives of which the connection
+matrices are deﬁned on the 𝐺-principal bundle of the 𝐺-frames and valued in its Lie algebra 𝔤
+(see for instance Kobayashi and Nomizu [1963]). We call them 𝐺-connections. For the group
+ˆG1, we recover the Levi-Civita free torsion connection used in Kaluza-Klein theory. A key-point
+of interest is to determine the ˆG0-connections, the diﬃculty being that the manifold ˆU is not
+
+Riemannian, and to use it to deduce the equation of motion of a particle in gravitation and
+electromagnetic ﬁelds.
+
+24
+
+8.1 Zoom out
+
+It is time now to restore the primes canceled for convenience in Section 6.1 after the zoom
+ˆG0 and 𝛀0 are represented at the
+in. For instance, according to (35) and (36), the two tensors
+microscopic scale respectively by
+
+ˆ𝐺′0 = (cid:20) 𝐺′0 0
+0 (cid:21) ,
+
+0
+
+ˆΩ′0 = (cid:20) 0
+1 (cid:21)
+
+with the new notation for the matrix (13)
+
+(68)
+
+(69)
+
+At ﬁrst glance, we could think to come back to the macroscopic scale by zooming out with
+
+the inverse transformation law of (32)
+
+𝐺′0 = (cid:20) 1 0
+
+0 −1R3 (cid:21)
+
+ˆ𝑉 = ˆ𝑃 𝜔 ˆ𝑉′
+
+where ˆ𝑃 𝜔 is given by (33), that leads to the singularity ˆ𝑉 5 = 0 when 𝜔 → 0.
+
+8.2 Hypotheses on the pullback connection
+
+In order to avert the singularity resulting from the zoom out without to lose the relevant infor-
+
+mation in the ﬁfth dimension, we propose to pullback over the space-time U the ˆG0-connection
+ˆ∇ on the tangent bundle 𝑇 ˆU. They are an inﬁnite number of ˆG0-connections. The purpose here
+
+is not to study their properties in generic terms and to classify them. We are interested only by
+those which satisfy certain physical requirements on the ground of hypotheses considered below,
+(H1) to (H4) on the underlying geometric structure of the Universe and (H5) on the motion of a
+charged elementary particle in both the gravitation and electromagnetic ﬁelds.
+
+(H2) 𝜋 :
+
+(H1) the space-time U is a Riemannian manifold. The metric G is represented in an or-
+thonormal basis (e′1, · · · , e′4) of 𝑇XU by the matrix 𝐺′0 of (69) of the Minkowski metric.
+ˆU → U is a principal 𝑈(1)-bundle of ﬁbers isomorphic to the unitary group
+𝑈(1) = (cid:8)𝑧 = 𝑒𝑖 𝑡 , 0 ≤ 𝑡 < 2 𝜋(cid:9). The vector ﬂow 𝑡 ↦→ ˆX = 𝑒𝑖 𝑡 ·
+ˆX0 is generated by the
+ˆU over X. We say that a basis
+vector ﬁeld ˆX ↦→ ˆ𝛀0( ˆX). Let
+ˆU is a ﬁbered basis if the set of e𝑖 = (𝑇 𝜋) ˆe𝑖 for 1 ≤ 𝑖 ≤ 4 is a basis of
+( ˆe1, ·, ˆe5) of 𝑇 ˆX
+𝑇XU and ˆe5 is tangent to the ﬁber ((𝑇 𝜋) ˆe5 = 0).
+Let us consider the ﬁbered basis ( ˆe′𝛼) = ( ˆe′1, · · · , ˆe′4, ˆ𝛀0) of 𝑇 ˆX
+
+ˆU such as (e′1, · · · , e′4) is
+
+ˆX a point of the ﬁber of
+
+an orthonormal basis as for (H1). The pullback of the metric
+
+is a ﬁeld of symmetric 2-covariant tensors (but not a metric!). ( ˆe′𝛼) is a ˆG0-basis, i.e. a
+basis in which ˆG0 and 𝛀0 are represented by (68).
+
+ˆG0 = 𝜋∗G
+
+25
+
+(H3)
+
+ˆU, i.e. the bundle
+ˆ∇ is a ˆG0-connection. Let 𝜋 : F ( ˆU) → ˆU be the frame bundle of
+ˆU. A moving frame is a smooth section
+whose ﬁber over ˆX is the set of all basis of 𝑇 ˆX
+ˆX ↦→ ( ˆe′𝛼) of F . It is called a coordinate frame (or natural frame) if locally the basis is
+associated to a coordinate system (or local chart) ( ˆ𝑋 𝛼) and if so it is denoted ( ˆ∂𝛼). The
+of ˆG0-bases is called ˆG0-structure. It is a subbundle of F ( ˆU) and a principal
+set F ˆG0
+ˆG0-bundle that is endowed with an Ehresmann connection. A ˆG0-connection ˆ∇ is deﬁned
+by the ﬁeld of 𝔤0-valued connection 1-form ( ˆe′𝛼) ↦→ ˆΓ′ on F ˆG0
+
+such that
+
+ˆ∇ ˆe′𝛼 = ˆΓ′𝛽
+
+𝛼 ˆe′𝛽
+
+ˆΓ′ = (cid:20) Γ′
+
+Γ′5 0 (cid:21)
+
+0
+
+According to (39), the value of the connection 1-form is the 5 × 5 matrix
+
+(70)
+
+where Γ′ is a 4 × 4 matrix of 1-forms, skew-adjoint with respect to the metric (69), Γ′5 is
+a 4-row of 1-forms and the last column of ˆΓ′ vanishes. Because ˆ𝐺′0 and ˆΩ′0 are constant in
+a moving ˆG0-frame ˆX ↦→ ( ˆe′𝑎), we have
+𝑑 ˆ𝐺′0 = 0,
+
+𝑑 ˆΩ′0 = 0
+
+Otherwise, these conditions must be replaced by
+
+the connection ˆ∇ preserving the pullback ˆG0 of the space-time metric and the vector ˆΩ0
+
+ˆ∇ ˆ𝐺 0 = 0,
+
+ˆ∇ ˆΩ0 = 0
+
+ˆ∇ ˆG0 = 0,
+
+ˆ∇ ˆΩ0 = 0
+
+(H4) Let 𝑓 be a section of the principal 𝑈(1)-bundle ˆU, then G = 𝑓 ∗ ˆG0. The pullback bundle
+𝑓 ∗ 𝑇 ˆU is a bundle over U of which the ﬁber over X ∈ U is ( 𝑓 ∗ 𝑇 ˆU)X = 𝑇 𝑓 (X)
+ˆU.
+For any section ˆW of 𝑇 ˆU, the pullback section is 𝑓 ∗ ˆW = ˆW ◦ 𝑓 . The space-time is
+endowed with the pullback connection 𝑓 ∗ ˆ∇, determined uniquely by
+
+( 𝑓 ∗ ˆ∇)U ( 𝑓 ∗ ˆW) = 𝑓 ∗( ˆ∇(𝑇 𝑓 )U ˆW)
+
+and torsion free, then for all smooth ﬁelds X ↦→ U , X ↦→ V of tangent vectors to the
+space-time U
+
+ˆ∇(𝑇 𝑓 ) U (𝑇 𝑓 )V − ˆ∇(𝑇 𝑓 ) V (𝑇 𝑓 )U − (𝑇 𝑓 ) [U , V ] = 0
+
+(71)
+
+ˆU → U is an embedding of U into ˆU. The subspace
+The section of the ﬁber bundle 𝜋 :
+ˆU is isomorphic to 𝑇XU then of dimension 4 and the tangent
+𝐻 𝑓 (X) = (𝑇 𝑓 )𝑇XU of 𝑇 𝑓 (X)
+ˆUX .
+space to the ﬁber
+A basis adapted to the section 𝑓 is a ﬁbered basis ( ˆe1, ·, ˆe5) such that ( ˆe1, ·, ˆe4) is a basis
+of 𝐻 𝑓 (X) . A way to build such a basis is to choose a non null vector ˆe5 tangent to the
+
+ˆUX at 𝑓 (X) is the kernel of 𝑇 𝜋. Then 𝑇 𝑓 (X)
+
+ˆU = 𝐻 𝑓 (X) ⊕ 𝑇 𝑓 (X)
+
+26
+
+ˆUX and a basis (e1, ·, e4) of 𝑇XU. Then, with the convention that Greek indices
+ﬁber
+run from 1 to 5 and Latin ones run from 1 to 4, ( ˆe1, ·, ˆe4, ˆe5) = ((𝑇 𝑓 )e1, ·, (𝑇 𝑓 ) ˆe4, ˆe5) is
+a basis adapted to the section 𝑓 and
+
+U = 𝑈𝑖e𝑖 ⇔ (𝑇 𝑓 )U = 𝑈𝑖 ˆe𝑖
+
+In terms of the dual bases, on has
+
+e𝑖(U) = ˆe𝑖((𝑇 𝑓 )U) = 𝑈𝑖,
+
+ˆe5((𝑇 𝑓 )U) = 0
+
+Using Christoﬀel’s symbols, the elements of the connection 1-form in this basis are
+ˆΓ
+In particular, considering pairs of basis vectors e𝑖, e 𝑗 , the free torsion
+condition (71) reads
+
+𝛽
+𝛼 = ˆΓ
+
+𝛽
+𝜌 𝛼e𝜌.
+
+where 𝑐𝑘
+
+𝑖 𝑗 are the structure coeﬃcient of the moving frame.
+
+𝜇
+
+𝑖 𝑗 − Γ
+Γ
+
+𝜇
+
+𝑗𝑖 − 𝛿 𝜇
+𝑘 𝑐𝑘
+
+𝑖 𝑗 = 0,
+
+(H5) At this point, it is worth to remark that (40) and (42) show that the 5-row
+
+represents a linear form ˆ𝚷 that we call linear 5-momentum. Let 𝑠 ↦→ X(𝑠) be the
+trajectory of a particle in the space-time, parameterized by the arc length 𝑠 (for the metric
+G) and
+
+is the unit tangent vector such that U∗U = 1. We claim that the motion of a charged
+particle and the evolution of its charge 𝑠 ↦→ 𝑞(𝑠) are such that its linear 5-momentum
+is parallel-transported
+
+ˆΠ = [Π∗, 𝑞]
+
+U =
+
+𝑑X
+𝑑𝑠
+
+( 𝑓 ∗ ˆ∇)U ( 𝑓 ∗ ˆ𝚷) = 0
+
+8.3 Explicit form of the connection and the equation of motion
+
+Our goal now is to determine explicitly the connection satisfying the hypotheses (H3) to (H5).
+As we know, the ˆG0-structure F ˆG0
+is in general non integrable. Then, instead of the moving
+frame ( ˆe′1, · · · , ˆe′5) of (H3), section of F ˆG0
+, we would like to work with a coordinate frame
+(∂1, · · · , ∂4) associated to a coordinate system ( 𝑋 1, · · · , 𝑋 4) of the space-time U and the
+corresponding ﬁbered frame ( ˆe1, · · · , ˆe5) adapted to the section 𝑓 , such as ˆe𝛼 = (𝑇 𝑓 )∂𝛼 and
+obtained by the change of basis
+
+where ˆ𝑃𝛽
+mation matrix partitioned into blocks as follows
+
+𝛼 is the element at the intersection of the 𝛽-th row and the 𝛼-th column of the transfor-
+
+(72)
+
+(73)
+
+(74)
+
+(75)
+
+(76)
+
+(77)
+
+(78)
+
+(79)
+
+ˆe𝛼 = ˆ𝑃𝛽
+
+𝛼 ˆe′𝛽
+
+ˆ𝑃 = (cid:20) 𝑃
+
+−2 𝐴∗ 1 (cid:21)
+
+0
+
+27
+
+where 𝑃 is a 4 × 4 matrix, 𝐴 is a 4-column. For ˆ𝑃 being regular, 𝑃 must be regular. As the
+moving frames occurring in (78) are pulled back on the space-time U, 𝑃 and 𝐴 are functions
+of the coordinates 𝑋 = ( 𝑋 1, · · · , 𝑋 4). Owing to (68), the pullback ˆG = 𝜋∗G of the metric is
+
+represented in the new frame by
+
+where the 4 × 4 matrix
+
+ˆ𝐺 = ˆ𝑃𝑇 ˆ𝐺′0
+
+ˆ𝑃 = (cid:20) 𝑃𝑇 𝐺′0𝑃 0
+0 (cid:21)
+
+0
+
+𝐺 = 𝑃𝑇 𝐺′0𝑃
+
+is regular. As 𝐺′0 is constant and 𝑃 is a function of the coordinates 𝑋 on the time-space U, 𝐺 is
+also a function of 𝑋 (but does not depends on 𝑋 5). In the new frame, the connection matrix is
+given by
+
+which, taking into account (70), leads to
+
+ˆΓ = ˆ𝑃−1( ˆΓ′ ˆ𝑃 + 𝑑 ˆ𝑃)
+ˆΓ = (cid:20) Γ
+Γ5 0 (cid:21)
+Γ5 = Γ′5 𝑃 − 2 [𝑑𝐴∗ − 𝐴∗𝑃−1(Γ′ 𝑃 + 𝑑𝑃)]
+
+0
+
+where
+
+Γ = 𝑃−1(Γ′ 𝑃 + 𝑑𝑃),
+
+Owing to (73), the column representing (𝑇 𝑓 )U in the basis ( ˆe′𝑖) is
+
+𝑈′ = 𝑃 𝑈 = 𝑃𝑖𝑈𝑖
+
+(80)
+
+(81)
+
+(82)
+
+where 𝑃𝑖 is the 𝑖-th column of 𝑃. Then, taking into account (82) and the linear dependence of
+Γ′ with respect to ˆ𝑈′
+
+where occurs the 4 × 4 matrix
+
+Γ(𝑈) = 𝑃−1(Γ′(𝑈′) 𝑃 + 𝑑𝑃) = Γ𝑖𝑈𝑖
+
+Γ𝑖 = 𝑃−1 [Γ′(𝑃𝑖) 𝑃 + 𝜕𝑖 𝑃]
+
+𝐺 Γ𝑖 = 𝑃𝑇 𝐺′0Γ′(𝑃𝑖) 𝑃 + 𝑃𝑇 𝐺′0𝜕𝑖 𝑃
+
+where 𝜕𝑖 is the partial derivative with respect to 𝑋 𝑖. Owing to (80), we have
+
+As Γ′ is skew-adjoint with respect to the metric (69), the ﬁrst term of the right hand member is
+skew-symmetric. Then
+
+𝐺 Γ𝑖 + (𝐺 Γ𝑖)𝑇 = 𝑃𝑇 𝐺′0𝜕𝑖 𝑃 + 𝜕𝑖 𝑃𝑇 𝐺′0𝑃 = 𝜕𝑖𝐺
+
+or
+
+and with index notation
+
+𝜕𝑖𝐺 − 𝐺 Γ𝑖 − (Γ𝑖)𝑇 𝐺 = 0
+
+∇𝑖𝐺 𝑗 𝑘 = 𝜕𝑖𝐺 𝑗 𝑘 − 𝐺 𝑗𝑚Γ𝑚
+
+𝑖𝑘 − 𝐺 𝑚𝑘 Γ𝑚
+
+𝑖 𝑗 = 0
+
+(83)
+
+28
+
+Besides, as we are working in a coordinate frame (𝑐𝑘
+
+𝑖 𝑗 = 0), the torsion free condition (74) gives
+
+𝑖 𝑗 = Γ𝑘
+Γ𝑘
+
+𝑗𝑖
+
+Using the fundamental theorem of Riemannian geometry, both previous relations show that ∇ is
+Levi-Civita connection
+
+Then, owing to (82),
+
+where
+
+Γ𝑘
+𝑖 𝑗 =
+
+2
+
+1
+
+𝐺 𝑚𝑟 (cid:2)𝜕 𝑗 𝐺 𝑖𝑟 + 𝜕𝑖𝐺 𝑗𝑟 − 𝜕𝑟 𝐺 𝑖 𝑗(cid:3)
+ˆΓ(𝑈) = (cid:20) Γ(𝑈)
+Γ5(𝑈) 0 (cid:21)
+Γ5(𝑈) = Γ′5(𝑃 𝑈) 𝑃 − 2 ∇𝑈 𝐴∗
+
+0
+
+In the moving frame ( ˆe′1, · · · , ˆe′5) of (H3), section of F ˆG0
+sented by the 5-row ˆΠ′ = [Π′∗, 𝑞′] where, restoring the primes, (52) reads
+such that 𝑈′∗𝑈′ = 1
+
+Π′ = 𝑚0 𝑈′ with 𝑈′ =
+
+𝑑𝑋
+𝑑𝑠
+
+, the linear 5-momentum ˆ𝚷 is repre-
+
+In the ﬁbered frame ( ˆe1, · · · , ˆe5) adapted to the section 𝑓 , the linear 5-momentum is represented
+by ˆΠ = [Π∗, 𝑞] given by the transformation law of linear forms
+
+ˆΠ = ˆΠ′ ˆ𝑃
+
+with (79), that gives
+
+hence the former relation can be recast as
+
+Π∗ = 𝑚0 𝑈′∗𝑃 − 2 𝑞′ 𝐴∗,
+
+𝑞 = 𝑞′
+
+In the considered bases, the covariant derivative reads
+
+Π∗ = 𝑚0 𝑈∗ − 2 𝑞 𝐴∗
+
+ˆ∇𝑈 ˆΠ = ¤ˆΠ − ˆΠ ˆΓ(𝑈)
+
+where ¤ˆΠ is the derivative of ˆΠ with respect to the arc length 𝑠 that is the proper time of the
+particle because 𝑐 = 1.
+
+According to hypothesis (H5), (77), (86) and (87) lead to
+
+∇𝑈 Π∗ − 𝑞 (Γ′5(𝑃 𝑈) 𝑃 − 2 ∇𝑈 𝐴∗) = 0
+
+As expected, according to the experience, the electric charge 𝑞 is an integral of the motion.
+Then, using (88), (89) reads
+
+∀𝑚0 ≠ 0, ∀𝑞, ∀𝑈 such that 𝑈∗𝑈 = 1,
+
+∇𝑈(𝑚0 𝑈∗) − 𝑞 Γ′5(𝑃 𝑈) 𝑃 = 0
+
+(91)
+
+¤𝑞 = 0
+
+29
+
+(84)
+
+(85)
+
+(86)
+
+(87)
+
+(88)
+
+(89)
+
+(90)
+
+In particular, if 𝑞 = 0, we have
+
+Right multiplying by 𝑈 gives
+
+∀𝑚0 ≠ 0, ∀𝑈 such that 𝑈∗𝑈 = 1,
+
+¤𝑚0 𝑈∗ + 𝑚0 ∇𝑈𝑈∗ = 0
+
+∀𝑚0 ≠ 0, ∀𝑈 such that 𝑈∗𝑈 = 1,
+
+¤𝑚0 + 𝑚0 (∇𝑈𝑈∗) 𝑈 = 0
+
+but as 𝑈∗𝑈 = 1 and ∇𝑈𝐺 = 0, we have
+
+then (∇𝑈𝑈)∗𝑈 vanishes and, consequently
+
+(∇𝑈𝑈)∗𝑈 = (∇𝑈𝑈∗) 𝑈 = −𝑈∗(∇𝑈𝑈) = −(∇𝑈𝑈)∗𝑈
+
+that entails
+
+(∇𝑈𝑈∗) 𝑈 = 0
+
+¤𝑚0 = 0
+
+(92)
+
+As expected, according to the experience, the rest mass 𝑚0 is an integral of the motion5.
+Besides, (91) is reduced to
+
+∀𝑚0 ≠ 0, ∀𝑞, ∀𝑈 such that 𝑈∗𝑈 = 1,
+
+𝑚0 ∇𝑈𝑈∗ − 𝑞 Γ′5(𝑃 𝑈) 𝑃 = 0
+
+(93)
+
+Owing to (92), right multiplying by 𝑈 gives for 𝑞 ≠ 0
+
+The bilinear form
+
+is such that 𝜑(𝑈, 𝑈) = 0 for all 𝑈 then it is skew-symmetric. There exists a 4 × 4 matrix 𝐹 such
+as
+
+𝐹𝑇 = −𝐹
+
+𝜑(𝑈, 𝑉) = 𝑈𝑇 𝐹 𝑉 ,
+
+Γ′5(𝑃 𝑈) 𝑃 = 𝑈𝑇 𝐹
+
+(94)
+
+Moreover, (87) becomes
+
+The 𝑗 -th component of this 4-row is
+
+Γ′5(𝑃 𝑈) 𝑃 𝑈 = 0
+
+𝜑(𝑈, 𝑉) = Γ′5(𝑃 𝑈) 𝑃 𝑉
+
+Γ5(𝑈) = 𝑈𝑇 𝐹 − 2 ∇𝑈 𝐴∗
+
+𝑗 (𝑈) = 𝑈 𝑘 𝐹𝑘 𝑗 − 2 ∇𝑈 𝐴 𝑗
+Γ5
+
+that gives rise, (𝑒𝑖) being the canonical basis of R4, to the corresponding Christoﬀel’s symbols
+(95)
+
+Γ5
+𝑖 𝑗 = Γ5
+
+𝑗 (𝑒𝑖) = 𝛿𝑘
+
+𝑖 𝐹𝑘 𝑗 − 2 ∇𝑖 𝐴 𝑗 = 𝐹𝑖 𝑗 − 2 ∇𝑖 𝐴 𝑗
+
+5However, it is possible to extend the formalism to a particle with time-varying mass by introducing a thrust force
+
+as in de Saxc´e and Vall´ee [2016]
+
+30
+
+The torsion free condition (74) gives
+
+Γ5
+𝑖 𝑗 − Γ5
+
+𝑗𝑖 = 𝐹𝑖 𝑗 − 𝐹 𝑗𝑖 − 2 (∇𝑖 𝐴 𝑗 − ∇ 𝑗 𝐴𝑖) = 2 [𝐹𝑖 𝑗 − (∇𝑖 𝐴 𝑗 − ∇ 𝑗 𝐴𝑖)] = 0
+
+(96)
+
+where, because of the torsion free condition (84)
+
+∇𝑖 𝐴 𝑗−∇ 𝑗 𝐴𝑖 =(cid:16)𝜕𝑖 𝐴 𝑗 − Γ𝑘
+
+𝑖 𝑗 𝐴𝑘(cid:17)−(cid:16)𝜕 𝑗 𝐴𝑖 − Γ𝑘
+
+𝑗𝑖 𝐴𝑘(cid:17) =(cid:0)𝜕𝑖 𝐴 𝑗 − 𝜕 𝑗 𝐴𝑖(cid:1)−(Γ𝑘
+
+Then the skew-symmetric 4 × 4 matrix 𝐹 of elements
+
+𝑗𝑖−Γ𝑘
+
+𝑖 𝑗) 𝐴𝑘 = 𝜕𝑖 𝐴 𝑗−𝜕 𝑗 𝐴𝑖
+
+represents a skew-symmetric 2-covariant tensor (or 2-form) F and, owing to (94), the equation
+(93) becomes
+
+by transposition and left multiplication by 𝐺−1, we obtain the equation of motion
+
+(97)
+
+(98)
+
+where the skew-adjoint matrix
+
+represents a 1-covariant and 1-contravariant tensor ¯F of components 𝐹 𝑖
+𝑗. The physical interpre-
+tation is that the vector A of which the adjoint A∗ is represented by the row 𝐴∗ is the electro-
+¯F ) is the 2-covariant (resp. 1 contravariant and 1-covariant)
+magnetic 4-potential, F (resp.
+electromagnetic ﬁeld 6 and
+
+is the Lorentz force, represented by the right hand side of (98). We recover the equation of
+motion of a charged particle in the gravitation and electromagnetic ﬁelds that ﬁts the observations
+today. It deserves to remember that the equation (77) itemizes into a group of two equations, the
+former one being the previous equation of motion and the later one (90) being the conservation
+of the charge
+
+The condition (97) means that the 2-form F is the exterior derivative of the 1-form A∗. The
+4-potential A and its adjoint A∗ being represented respectively by
+
+𝐹𝑖 𝑗 = 𝜕𝑖 𝐴 𝑗 − 𝜕 𝑗 𝐴𝑖
+
+𝑚0 ∇𝑈𝑈∗ = 𝑞 𝑈𝑇 𝐹
+
+𝑚0 ∇𝑈𝑈 = −𝑞 ¯𝐹 𝑈
+
+¯𝐹 = 𝐺−1𝐹
+
+f = −𝑞 ¯F · U
+
+𝐴 = (cid:20) 𝜙
+A (cid:21) ,
+
+𝐴∗ = [𝜙, −A𝑇]
+
+the electromagnetic ﬁelds F and ¯F are represented respectively by
+
+𝐹 = (cid:20) 0
+
+𝐸 − 𝑗(𝐵) (cid:21) ,
+−𝐸 𝑇
+
+¯𝐹 = (cid:20) 0
+
+−𝐸 𝑗(𝐵) (cid:21)
+−𝐸 𝑇
+
+6with the conventions used in Souriau [1970, 1997b, §15]
+
+¤𝑞 = 0
+
+31
+
+where
+
+𝐸 = −𝑔𝑟𝑎𝑑 𝜙 − 𝜕𝑡 A,
+
+𝐵 = 𝑐𝑢𝑟𝑙 A
+
+(99)
+
+where 𝜕𝑡 is the partial derivative to the time. Owing to (25), the Lorentz force f is represented
+by
+
+𝑓 = −𝑞 ¯𝐹 𝑈 = 𝛾 𝑞 (cid:20) 𝐸 · 𝑣
+
+𝐸 + 𝑣 × 𝐵 (cid:21)
+
+Remark 1. The equation (98) is the usual form of the equation of motion as found in the
+literature. It has been obtained by a suitable choice of adapted bases but it is not the most general
+form according to the covariant equation (77). Of course, it is possible to make other choices but
+it is not necessarily interesting.
+
+Remark 2. It can be veriﬁed that, as expected, the connection ˆ∇ preserves in the adapted
+
+bases the pullback ˆG0 of the space-time metric and the vector ˆ𝛀0
+
+ˆ∇ ˆ𝐺 0 = 0,
+
+ˆ∇ ˆΩ0 = 𝑑 ˆΩ0 + ˆΓ ˆΩ0 = 0
+
+For ˆG0, it results from (83) while for ˆ𝛀0 it is a consequence of (81) and
+
+ˆΩ0 = (cid:20) 0
+1 (cid:21)
+
+ˆ𝐺′ = (cid:20) 𝐺′0 0
+−1 (cid:21)
+
+0
+
+∂𝛼 = ˆ𝑃𝛽
+
+𝛼 ˆe′𝛽
+
+resulting from (68) and (79).
+
+Remark 3. it remains some freedom in the deﬁnition of the electromagnetic potential. For
+instance, we could have erased the factor 1/2 before 𝐴∗ in the deﬁnition (79) but in this case we
+should have replaced 𝑞 by −𝑞/2 everywhere. Both variants are conventional. We kept the one
+we considered the most convenient.
+In a ˆG1-basis
+
+It is worth now to revisit the original Kaluza-Klein theory.
+
+Remark 4.
+
+( ˆe′1, · · · , ˆe′5), the metric is represented by
+
+As in general the Riemannian structures are non integrable, we consider a coordinate frame
+
+(∂1, · · · , ∂5) associated to a coordinate system ( 𝑋 1, · · · , 𝑋 5) of the 5 dimensional universe ˆU
+
+obtained by the change of basis
+
+with the transformation matrix (79). The metric is represented in the new frame by
+
+−1
+where 𝐺 given by (80). Using classical tensor notation, it holds
+
+ˆ𝐺 = ˆ𝑃𝑇 ˆ𝐺′ ˆ𝑃 = (cid:20) 𝐺 − 4 𝐴∗𝑇 𝐴∗ 2 𝐴∗𝑇
+
+2 𝐴∗
+
+(cid:21)
+
+[ ˆ𝐺 𝛼𝛽] = (cid:20)
+
+ˆ𝐺 𝑖 𝑗 = 𝐺 𝑖 𝑗 − 4 𝐴𝑖 𝐴 𝑗
+ˆ𝐺 5𝑖 = 2 𝐴𝑖
+
+ˆ𝐺 𝑗5 = 2 𝐴 𝑗
+ˆ𝐺 55 = −1
+
+(cid:21)
+
+32
+
+If the expression stands out the standard presentation of the metric in Kaluza-Klein theory, it
+is matter of conventions. The factor 2 before 𝐴𝑖 and 𝐴 𝑗 , and −4 before 𝐴𝑖 𝐴 𝑗 result from the
+deﬁnition of 𝐴∗. We explained these things in the previous remark . The negative value of ˆ𝐺 55
+is consistent with the choice of the signature (+ − − − −). Restoring the positive value consists
+in adopting the signature (− + + + +).
+Calculating the connection matrix, we have to take care that both 𝐺 and 𝐴∗ are ﬁelds deﬁned
+on ˆU, then functions of the ﬁve coordinates ˆ𝑋 1, · · · , ˆ𝑋 5, giving up Kaluza’s ”cylinder condition”.
+Let 𝑠 ↦→ ˆX(𝑠) be the trajectory of a particle in the space-time, parameterized by the arc
+length 𝑠 (for the metric ˆG) and
+
+is the unit tangent vector such that ˆU∗ ˆU = 1. We claim that the motion of a particle is such
+that its linear 5-momentum is parallel-transported
+
+(100)
+
+ˆU =
+
+𝑑 ˆX
+𝑑𝑠
+
+ˆ𝚷 = 0
+
+ˆ∇ ˆU
+
+The linear 5-momentum is represented in the ˆG1-basis by the 5-row
+
+with 𝑞′ = 𝑚0𝑈′5 and in the coordinate basis by
+
+ˆΠ′ = [𝑚0 𝑈′∗𝑃, 𝑞′]
+
+ˆΠ = [𝑚0 𝑈∗ − 2 𝑞 𝐴∗, 𝑞]
+
+with 𝑈∗ = 𝑈′∗𝑃 and 𝑞 = 𝑚0𝑈5. Hence the trajectory of the particle is not a geodesic of the
+manifold.
+
+Remark 5. Finally, it is worth to remark that, although the choice (79) of ˆ𝑃 is not general,
+it is suﬃcient to guarantee the existence and uniqueness of the connection in terms of the ﬁelds
+𝐺 and 𝐴∗ thanks to the free torsion condition. On the other hand, this choice depends on the
+section 𝑓 . It is what we are going to discuss now.
+
+8.4 Gauge transformation
+
+The coordinate basis (∂𝑖) and ˆe5 being given, the adapted basis ( ˆe𝛼) of U to 𝑓 is uniquely
+deﬁned by the section 𝑓 . We would like to know to what extend the equation of motion is
+independent on the choice of the section 𝑓 . For this aim, we consider another section 𝑓 ′′ and the
+corresponding adapted basis ( ˆe′′𝛼). As (𝑇 𝜋) ˆe𝑖 = (𝑇 𝜋) ˆe′′𝑖 = ∂𝑖, the vector ˆe′′𝑖 − ˆe𝑖 is tangent to
+the ﬁber of U over X then
+
+the change of basis from ( ˆe𝛼) to ( ˆe′′𝛼) is given by the transformation matrix
+
+ˆe′′5 = ˆe5
+
+ˆe′′𝑖 − ˆe𝑖 = 𝑏𝑖 ˆe5,
+ˆ𝑃 𝑓 → 𝑓 ′′ = (cid:20) 1R4
+
+𝑏∗
+
+0
+
+1 (cid:21)
+
+33
+
+where 𝑏∗ is the 4-row of components 𝑏𝑖 . The set of these matrices is an Abelian group ˆG𝑏 for
+the matrix product. To determine whether the ˆG𝑏-structure is integrable, we have to solve the
+PDE system
+
+𝜕 ˆ𝑋′′
+𝜕 ˆ𝑋
+
+= ˆ𝑃 𝑓 → 𝑓 ′′ ,
+
+ˆ𝑃 𝑓 → 𝑓 ′′ ∈ ˆG𝑏
+
+that gives rise to
+
+𝜕 𝑋′′
+𝜕 𝑋
+
+= 1R4 ,
+
+𝜕 𝑋′′
+𝜕 𝑋 5
+
+= 0,
+
+𝜕 𝑋′′5
+𝜕 𝑋
+
+= −𝑏,
+
+𝜕 𝑋′′5
+𝜕 𝑋 5
+
+= 1
+
+The two former equations lead to 𝑋” = 𝑋 + 𝑋0 where the constant 𝑋0 may be discarded without
+inconvenience
+
+The last equation gives
+
+𝑋” = 𝑋
+
+𝑋”5 = 𝑋 5 + 2 ℎ( 𝑋)
+
+𝑏∗ = −2
+
+𝜕ℎ
+𝜕 𝑋
+
+Φ = [ 𝐴∗, 1]
+
+𝐴′′∗ = 𝐴∗ +
+
+𝜕ℎ
+𝜕 𝑋
+
+where ℎ is an arbitrary smooth function. Finally, the third equation provides the integrability
+condition
+
+The linear form 𝚽 represented in the basis ( ˆe𝛼) by the 5-arrow
+
+is represented in the basis ( ˆe′′𝛼) by the 5-arrow Φ′′ = Φ ˆ𝑃 𝑓 → 𝑓 ′′ , leading to the gauge transfor-
+
+mation
+
+(101)
+
+As the matrix (80) does not depends on the ﬁfth coordinate, 𝐺 is not modiﬁed by the coordinate
+change as well as, owing to (97), ¯𝐹 and 𝐹 = 𝐺−1𝐹. Hence the choice of the section 𝑓 does not
+modify the equation of motion (98).
+
+9 Extended variational relativity
+
+The goal of this section is to extend the general theorems of the relativity based on Einstein-
+Hilbert functional (Hilbert [1915]). We use Palatini formalism, considering the connection as
+an unknown independent ﬁeld (Palatini [1919]).
+
+9.1 Stationary action principle
+
+Inspired by the presentation given in Souriau [1964], we start from the following principles
+
+(P1) To every physical phenomenon corresponds a ﬁeld z, represented in a local chart by a
+
+𝑛(𝑧) -column 𝑧, and a ﬁeld
+
+(𝑧, 𝜕𝑖 𝑧, 𝐺 𝑖 𝑗 , 𝐴𝑖) ↦→ 𝐿(𝑧)(𝑧, 𝜕𝑖 𝑧, 𝐺 𝑖 𝑗 , 𝐴𝑖) ∈ R
+
+called presence of the phenomenon in Souriau [1964].
+
+34
+
+(P2) For the Lagrangian
+
+the action
+
+𝑆 =∫D
+
+𝐿 𝑣𝑜𝑙 =∫D
+
+𝐿(𝑧)
+
+𝐿 =Õ𝑧
+𝐿 𝑢 d4 𝑋 =Õ𝑧
+
+𝑆(𝑧) =Õ𝑧 ∫D
+
+𝐿(𝑧) 𝑢 d4 𝑋
+
+(102)
+
+is stationary for every variation of 𝐺, 𝐴∗ and the concomitant phenomena, null on the
+boundary of an open domain D of the space-time, 𝑣𝑜𝑙 being the Riemannian volume
+4-form.
+
+As the signature of Minkowski metric is (+ − −−), det 𝐺 < 0, then the component of 𝑣𝑜𝑙 is
+
+𝑢 = √
+
+− det 𝐺
+
+and the covariant divergence of any vector ﬁeld V for Levi-Civita connection is the scalar ﬁeld
+
+div V = ∇𝑖𝑉 𝑖 =
+
+1
+𝑢
+
+𝜕𝑖(𝑢 𝑉 𝑖)
+
+(103)
+
+By diﬀerentiation of the presence, we have
+
+𝛿𝐿(𝑧) = 𝑝 𝛿𝑧 + 𝜎 𝑗 𝛿(𝜕 𝑗 𝑧) + 𝐸 𝑘𝑚
+(𝑧)
+are the components of a vector ﬁeld ˜T(𝑧) .
+1
+
+𝛿𝐺 𝑘𝑚 + ˜𝑇 𝑘
+(𝑧)
+
+(104)
+
+𝛿 𝐴𝑘
+
+where 𝑝, 𝜎 𝑗 are 𝑛(𝑧) -rows, 𝐸 𝑘𝑚
+(𝑧)
+Taking into account
+𝛿𝑢
+𝑢
+
+and ˜𝑇 𝑘
+= 𝐸 𝑚𝑘
+(𝑧)
+(𝑧)
+1
+𝐺 𝑖 𝑗 𝛿𝐺 𝑖 𝑗 = −
+
+=
+
+2
+
+2
+
+𝐺 𝑖 𝑗 𝛿𝐺 𝑖 𝑗
+
+we have
+
+where
+
+𝛿(𝐿(𝑧) 𝑢) = [ 𝑝 𝛿𝑧 + 𝜎 𝑗 𝛿(𝜕 𝑗 𝑧) +
+
+𝑇 𝑘𝑚
+(𝑧)
+
+𝛿𝐺 𝑘𝑚 + ˜𝑇 𝑘
+(𝑧)
+
+𝛿 𝐴𝑘] 𝑢
+
+1
+
+2
+
+(105)
+are the components of a symmetric 2-contravariant tensor ﬁeld T(𝑧) . Introducing the 𝑛(𝑧) -row
+of scalar ﬁeld
+
+(𝑧) + 𝐿(𝑧) 𝐺 𝑗 𝑘
+
+= 2 𝐸 𝑗 𝑘
+
+𝑇 𝑗 𝑘
+(𝑧)
+
+𝑊(𝑧) = 𝑝 −
+
+𝜕 𝑗(𝑢 𝜎 𝑗) = 𝑝 − ∇ 𝑗 𝜎 𝑗
+
+1
+𝑢
+
+the vector ﬁeld V(𝑧)(𝛿z) represented by the 4-column 𝑉(𝑧)(𝛿𝑧) of components
+
+and owing to (103),
+
+𝛿(𝐿(𝑧) 𝑢) = [𝑊(𝑧) 𝛿𝑧 + div (𝑉(𝑧)(𝛿𝑧)) +
+
+𝑇 𝑘𝑚
+(𝑧)
+
+𝛿𝐺 𝑘𝑚 + ˜𝑇 𝑘
+(𝑧)
+
+𝛿 𝐴𝑘] 𝑢
+
+or, the expression being independent of the choice of the local chart
+
+𝛿(𝐿(𝑧) 𝑢) = [𝑊(𝑧) 𝛿𝑧 + div (V(𝑧)(𝛿z)) +
+
+T(𝑧) : 𝛿G + 𝛿A∗ · ˜T(𝑧)] 𝑢
+
+that allows to prove
+
+(106)
+
+(107)
+
+𝑉 𝑗
+(𝑧)(𝛿𝑧) = 𝜎 𝑗 𝛿𝑧
+
+1
+2
+
+1
+
+2
+
+35
+
+Theorem 9.1 The stationary action principle (P2) is equivalent to
+
+(i) 𝑊(𝑧) = 0 for every phenomenon
+
+(ii) T =Í𝑧 T(𝑧) = 0
+˜T =Í𝑧
+
+˜T(𝑧) = 0
+
+(ii)
+
+Proof. Indeed, combining (102) and (107), the variation of the action reads
+
+𝛿𝑆 =∫D
+
+𝛿(𝐿 𝑢) d4 𝑋 =Õ𝑧
+
+𝛿𝑆(𝑧)
+
+with
+
+𝛿𝑆(𝑧) =∫D
+
+𝛿(𝐿(𝑧) 𝑢) d4 𝑋 =∫D
+
+[𝑊(𝑧) 𝛿𝑧+div (V(𝑧)(𝛿z))+
+
+T(𝑧) : 𝛿G+𝛿A∗· ˜T(𝑧)] 𝑣𝑜𝑙 (108)
+
+1
+
+2
+
+where, denoting LV( 𝑧) ( 𝛿z) the Lie derivative along the vector ﬁeld V(𝑧)(𝛿z), one has
+
+∫D
+
+div (V(𝑧)(𝛿z)) 𝑣𝑜𝑙 =∫D
+
+LV( 𝑧) ( 𝛿z) 𝑣𝑜𝑙
+
+Denoting 𝑑 the exterior derivative of a diﬀerential form 𝜄V and the interior product with the
+vector V , owing to Cartan’s formula and Stokes’ theorem
+
+∫D
+
+div (V(𝑧)(𝛿z)) 𝑣𝑜𝑙 =∫D
+
+𝑑[𝜄V( 𝑧) ( 𝛿z) 𝑣𝑜𝑙] =∫𝜕D
+
+𝜄V( 𝑧) ( 𝛿z) 𝑣𝑜𝑙
+
+Considering smooth functions 𝛿z on compact supports contained in D, then null on its boundary,
+this integral vanishes and it remains
+
+and the stationarity of the action entails
+
+𝛿𝑆(𝑧) =∫D
+𝛿𝑆 =∫D
+
+[Õ𝑧
+
+[𝑊(𝑧) 𝛿𝑧 +
+
+T(𝑧) : 𝛿G + 𝛿A∗ · ˜T(𝑧)] 𝑣𝑜𝑙
+
+𝑊(𝑧) 𝛿𝑧 +
+
+T : 𝛿G + 𝛿A∗ · ˜T ] 𝑣𝑜𝑙 = 0
+
+Considering the only non vanishing variation of a particular phenomenon 𝑧 and applying the
+fundamental lemma of the calculus of variations, we prove (i). Likewise, considering the non
+vanishing compactly supported smooth variations of G (resp. A∗), we prove (ii) (resp. (iii)). (cid:4)
+
+Remark. It is worth to remark that the number of ﬁeld equations (i) and (ii), fourteen, is
+the same as the number of unknowns (independent components of 𝐺 and 𝐴∗), that avoids being
+caught in the dilemma of classical Kaluza-Klein theory: add the dilaton but one condition has no
+physical interpretation, or set the dilaton to one to recover Maxwell equations but this condition
+is violated.
+
+1
+
+2
+
+1
+
+2
+
+36
+
+The principle of stationary action can be used in diﬀerent ways. For instance, it is worth to
+
+notice that the equation (i)
+
+𝑝 − ∇ 𝑗 𝜎 𝑗 = 0
+
+can be obtained considering only the stationarity of the corresponding part 𝑆(𝑧) of the action. It
+is this way that we are going to follow from now on.
+
+Corollary 1 div ˜T(𝑧) = 0 for every phenomenon
+Proof. According to the gauge transformation (101), we perform the substitution 𝐴𝑖 → 𝐴𝑖 + 𝜕𝑖 ℎ
+in the Lagrangian 𝐿(𝑧) of the action 𝑆(𝑧) . Applying the equation (109) to the phenomenon ℎ
+(then 𝑝 = 0 and 𝜎𝑗 = ˜𝑇 𝑗
+(𝑧)
+
+) gives
+
+that achieves the proof. (cid:4)
+
+∇ 𝑗 ˜𝑇 𝑗
+(𝑧)
+
+= 0
+
+9.2 Laws of conservation
+Theorem 9.2 The equations 𝑊(𝑧) = 0 and div ˜T(𝑧) = 0 entail the law of conservation
+
+div ¯T(𝑧) + ˜T(𝑧) · F = 0
+
+of the 1-contravariant and 1-covariant tensor ¯T(𝑧) of components (𝑇(𝑧))𝑖
+Proof. A smooth vector ﬁeld 𝛿X of compact support contained in D is represented in a local
+chart by a 4-column 𝛿𝑋 and leads to the variations L 𝛿𝑋 𝑧, L 𝛿𝑋 𝐺 and L 𝛿𝑋 𝐴∗. Owing to (106),
+
+𝑗 = (𝑇(𝑧))𝑖𝑘 𝐺 𝑘 𝑗 .
+
+the corresponding variation of the Lagrangian is given by
+
+𝛿(𝐿(𝑧) 𝑢) = [𝑊(𝑧) L 𝛿𝑋 𝑧 + div (𝑉(𝑧)(𝛿𝑧)) +
+
+1
+
+2
+
+(𝑧) (L 𝛿𝑋 𝐺)𝑘𝑚 + ˜𝑇 𝑗
+𝑇 𝑘𝑚
+
+(𝑧)(L 𝛿𝑋 𝐴∗) 𝑗] 𝑢
+
+where, owing to (85)
+
+(109)
+
+(110)
+
+(111)
+
+(L 𝛿𝑋 𝐺)𝑘𝑚 = 𝛿𝑋 𝑟 𝜕𝑟 𝐺 𝑘𝑚 + 𝐺 𝑘𝑟 𝜕𝑚𝛿𝑋 𝑟 + 𝐺𝑟 𝑚𝜕𝑘 𝛿𝑋 𝑟 = ∇𝑘 𝛿𝑋𝑚 + ∇𝑚𝛿𝑋𝑘
+
+Then, taking into account the symmetry of the tensor T(𝑧)
+(𝑧) ∇𝑘 𝛿𝑋𝑚 = ∇𝑘(𝑇 𝑘𝑚
+(𝑧)
+
+𝑇 𝑘𝑚
+(𝑧) (L 𝛿𝑋 𝐺)𝑘𝑚 = 𝑇 𝑘𝑚
+
+1
+
+2
+
+𝛿𝑋𝑚) − (∇𝑘𝑇 𝑘𝑚
+
+(𝑧) ) 𝛿𝑋𝑚
+
+1
+
+2
+
+𝑇 𝑘𝑚
+(𝑧) (L 𝛿𝑋 𝐺)𝑘𝑚 = ∇𝑘((𝑇(𝑧)) 𝑘
+
+𝑚 𝛿𝑋 𝑚) − (∇𝑘(𝑇(𝑧)) 𝑘
+
+𝑚) 𝛿𝑋 𝑚
+
+or, the expression being independent of the choice of the local chart
+
+1
+
+2
+
+T(𝑧) : L 𝛿X G = div ( ¯T(𝑧) · 𝛿X) − (div ¯T(𝑧)) · 𝛿X
+
+(112)
+
+Besides, one has
+
+(L 𝛿𝑋 𝐴∗) 𝑗 = 𝛿𝑋 𝑟 𝜕𝑟 𝐴 𝑗 + 𝐴𝑟 𝜕 𝑗 𝛿𝑋 𝑟
+
+37
+
+then, integrating by part
+
+𝑢 ˜𝑇 𝑗
+
+(𝑧)(L 𝛿𝑋 𝐴∗) 𝑗 = 𝜕 𝑗(𝑢 ˜𝑇 𝑗
+(𝑧)
+
+𝐴𝑟 𝛿𝑋 𝑟) − [𝜕 𝑗(𝑢 ˜𝑇 𝑗
+(𝑧)
+
+𝐴𝑟) − 𝑢 ˜𝑇 𝑗
+(𝑧)
+
+𝜕𝑟 𝐴 𝑗] 𝛿𝑋 𝑟
+
+Taking into account (97)
+
+𝑢 ˜𝑇 𝑗
+
+(𝑧)(L 𝛿𝑋 𝐴∗) 𝑗 = 𝜕 𝑗(𝑢 ˜𝑇 𝑗
+(𝑧)
+and, owing to (103) and (110), we obtain
+
+𝐴𝑟 𝛿𝑋 𝑟) − [𝜕 𝑗(𝑢 ˜𝑇 𝑗
+
+(𝑧)) 𝐴𝑟 + 𝑢 ˜𝑇 𝑗
+(𝑧)
+
+𝐹 𝑗𝑟)] 𝛿𝑋 𝑟
+
+𝑢 ˜𝑇 𝑗
+
+(𝑧)(L 𝛿𝑋 𝐴∗) 𝑗 = [∇ 𝑗( ˜𝑇 𝑗
+(𝑧)
+
+𝐴𝑟 𝛿𝑋 𝑟) − ˜𝑇 𝑗
+(𝑧)
+
+𝐹 𝑗𝑟 𝛿𝑋 𝑟] 𝑢
+
+or, the expression being independent of the choice of the local chart
+
+(L 𝛿X A∗) · ˜T(𝑧) = div ((A∗ · 𝛿X) ˜T(𝑧)) − ˜T(𝑧) · F · 𝛿X
+
+(113)
+
+Introducing into (108), with the variations given by Lie derivatives, the expression (112) and
+(113), and owing to Theorem 9.1 (i), we have
+
+∫D
+
+div [V(𝑧) (L 𝛿X z) + ¯T(𝑧) · 𝛿X + (A∗ · 𝛿X) ˜T(𝑧)] 𝑣𝑜𝑙 −∫D
+
+[div ¯T(𝑧)) + ˜T(𝑧) · F ] · 𝛿X 𝑣𝑜𝑙 = 0
+
+Considering smooth variations of compact support contained in D and reasoning as in the proof
+of Theorem 9.1, the ﬁrst integral vanishes and, applying the fundamental lemma of the calculus
+of variations, we obtain (111). (cid:4)
+
+Our aim now is to apply these general principle by constructing Lagrangians for three
+
+phenomena, the matter, the gravitation and the electromagnetism.
+
+9.3 Laws of conservation of the matter
+
+Matter manifold
+
+In Souriau [1964, §36], the motion of a continuum is described by a line bundle 𝜋 𝐴 : U → M
+where M is a Riemannian manifold of dimension 3 representing the matter and called the
+matter manifold. Its metric is denoted G𝑚. Each ﬁber is the trajectory of a material particle
+a = 𝜋 𝐴(X). In a local chart of M, it is represented by its Lagrange coordinates 𝑎 ∈ R3. As 𝑎
+is an invariant of the motion, the material derivative vanishes:
+
+where U is tangent to the trajectory and deﬁned by (76). In local charts of U and M,
+
+where, because the ﬁber is a line, 𝑀 is a 3 × 4 matrix of full rank and 𝑈 is given by (25).
+
+𝑑a
+𝑑𝑠
+
+= (𝑇 𝜋 𝐴) · U = 0
+
+𝑑𝑎
+𝑑𝑠
+
+=
+
+𝜕𝑎
+𝜕 𝑋
+
+𝑑𝑋
+𝑑𝑠
+
+= 𝑀 𝑈 = 0
+
+38
+
+To extend this formalism to the 5D universe ˆU, we consider a line bundle ˆ𝜋 𝐴 :
+
+ˆU → ˆM
+where ˆM is a manifold of dimension 4 representing the matter in this universe. By analogy with
+ˆM → M is a principal 𝑈(1)-bundle.
+the hypothesis (H2) of Section 8.2, we suppose that 𝜋 𝑀 :
+Bearing in mind that we have to perform a pullback, we assume that 𝜋 𝐴 ◦ 𝜋 = 𝜋 𝑀 ◦ ˆ𝜋 𝐴, then the
+following diagram is commutative
+
+In ﬁbered charts, we have
+
+and in the other hand
+
+𝑎 = 𝜋 𝑀( ˆ𝑎) = 𝜋 𝑀((cid:20) 𝑎
+
+that entails
+
+ˆU
+
+𝜋y
+
+U −−−−−→𝜋𝐴 M
+
+ˆ𝜋𝐴−−−−−→ ˆM
+y 𝜋𝑀
+𝑎 = 𝜋 𝐴(𝜋( ˆ𝑋)) = 𝜋 𝐴(𝜋((cid:20) 𝑋
+𝑋 5 (cid:21))) = 𝜋 𝐴( 𝑋)
+𝑎4 (cid:21)) = 𝜋 𝑀( ˆ𝜋 𝐴( ˆ𝑋)) = 𝜋 𝑀((cid:20) 𝜑( ˆ𝑋)
+𝜑((cid:20) 𝑋
+
+𝑋 5 (cid:21)) = 𝜋 𝐴( 𝑋)
+
+(𝑇 ˆ𝜋 𝐴) · ˆU = 0
+Φ 𝜇 (cid:21) (cid:20) 𝑈
+
+ˆ𝑀 ˆ𝑈 = (cid:20) 𝑀 0
+
+𝑈5 (cid:21) = (cid:20) 0
+0 (cid:21)
+
+𝜑4( ˆ𝑋) (cid:21)) = 𝜑( ˆ𝑋)
+
+The vector ˆ𝑈 tangent to the trajectory of a particle ˆa is such that
+
+In ﬁbered charts, owing to (114), this relation is represented by
+
+where Φ is a 4-row and 𝜇 is a non null scalar (for
+solution is 𝑈 = 0, ˆ𝑈5 ≠ 0, then ˆ𝑈 is not timelike. In the sequel, we exclude this case.
+
+ˆ𝑀 being of full rank). If 𝜇 = 0, A non null
+
+Conformation tensor
+
+All we have just done is also valid in ﬁbered bases, not necessarily associated to local
+
+coordinates. As in hypothesis (H2) of Section 8.2, let us consider a ﬁbered basis ( ˆe′𝛼) =
+ˆU such that (e′1, · · · , e′4) is an orthonormal basis and in which the
+( ˆe′1, · · · , ˆe′4, ˆ𝛀0) of 𝑇 ˆX
+tangent map 𝑇 ˆ𝜋 𝐴 is represented by the matrix
+
+where 𝑀′ is full rank and 𝜇′ ≠ 0. Let us verify now that 7 is the number of independent invariants
+of
+
+ˆ𝑀′ for the action of ˆG0
+
+ˆ𝑀′ = (cid:20) 𝑀′ 0
+𝜇′ (cid:21)
+
+Φ′
+
+ˆ𝑀′ ↦→ ˆ𝑀′ ˆ𝑃
+
+39
+
+(114)
+
+(115)
+
+We determine the isotropy group of
+respect to ˆ𝑃 given by (37), itemized as
+
+ˆ𝑀′ by solving the system of equations
+
+ˆ𝑀′ = ˆ𝑀′ ˆ𝑃 with
+
+𝑀′ = 𝑀′ 𝑃,
+
+Φ′ = Φ′ 𝑃 + 𝜇′ 𝑏∗,
+
+𝜇′ = 𝜇′
+
+where 𝑃 is a Lorentz transformation and the last equation is trivially fulﬁlled. Like in Section
+6.3, we diﬀerentiate these equations with respect to ˆ𝑃 at the identity and we take into account
+that 𝑃 is skew-adjoint, that leads to determine the non vanishing solutions (𝛿𝑃, 𝛿𝑏) of the linear
+system
+
+𝑀′ 𝛿𝑃 = 0,
+
+Φ′ 𝛿𝑃 + 𝜇′ 𝛿𝑏∗ = 0
+
+(116)
+
+where 𝛿𝑃∗ = − 𝛿𝑃. According to Theorem 2.1 ♦, if 𝛿𝑃 ≠ 0 there exist two linear independent
+vectors 𝑉1, 𝑉2 ∈ R4 such that 𝛿𝑃 = J (𝑉1, 𝑉2). if 𝑀′∗1 , 𝑀′∗2 , 𝑀′∗3 are the rows of 𝑀′, then the ﬁrst
+equation is satisﬁed if 𝑀′∗𝑘 J (𝑉1, 𝑉2) = −(J (𝑉1, 𝑉2) 𝑀𝑘)∗ = 0 for 1 ≤ 𝑘 ≤ 3, that implies there
+exists a linear combination between the rows of 𝑀′ and 𝑟𝑎𝑛𝑘( 𝑀′) < 3, in contradiction with the
+hypothesis of full rank, then 𝛿𝑃 = 0. As 𝜇 ≠ 0, the second equation (116) shows that 𝛿𝑏 = 0.
+The isotropy group of 𝑀′ is reduce to the identity. The dimension of the orbit is
+
+dim (orb( ˆ𝑀′)) = dim ˆG0 − dim(iso( ˆ𝑀′)) = 10 − 0 = 10
+
+The dimension of the set 𝑉𝑀 of matrices (115) is 3× 4+ 4+ 1 = 17 (the number of non vanishing
+components). The number of independent invariants of the orbit is
+
+𝑛𝐼 = dim 𝑉𝑀 − dim(orb( ˆ𝑀′)) = 17 − 10 = 7
+
+A set of independent invariants are 𝜇 and the 6 independent elements of the 3 × 3 matrix
+
+𝐻′ = 𝑀′ 𝑀′∗ = 𝑀′(𝐺′0)−1 𝑀′𝑇 𝐺 𝑚
+
+in which 𝐺′0 is Minkowski’s metric (69) and 𝐺 𝑚 is Gram’s matrix of G𝑚. As in Souriau [1964],
+we suppose that the behavior of the matter is isotropic
+
+𝐺 𝑚 = R3,
+
+𝑀∗ = 𝐺−1𝑀 𝑇 ,
+
+𝐻 = 𝑀 𝑀∗ = 𝑀 𝐺−1𝑀 𝑇
+
+The matrix 𝐻 represents in a local frame of M a skew-symmetric tensor
+
+H = 𝑇 𝜋 𝐴(𝑇 𝜋 𝐴)∗
+
+called conformation in Souriau [1964].
+
+As in Section 8.3, we would like now to work with a coordinate frame (∂1, · · · , ∂4) and the
+corresponding ﬁbered frame adapted to the section 𝑓 , obtained by the change of basis (78) with
+the transformation matrix ˆ𝑃 given by (79) and in which 𝑇 ˆ𝜋 𝐴 is represented by the matrix
+
+If 𝜇 ≠ 0, the matrix ˆ𝑀 being known, the vector
+where 𝑀 = 𝑀′𝑃, Φ = Φ′𝑃 and 𝜇 = 𝜇′.
+ˆ𝑈 tangent to the trajectory is obtained by solving the equation 𝑀 𝑈 = 0, next by calculating
+
+ˆ𝑀 = ˆ𝑀′ ˆ𝑃 = (cid:20) 𝑀
+
+Φ − 2 𝜇 𝐴∗ 𝜇 (cid:21)
+
+0
+
+40
+
+ˆ𝑈5 = (Φ − 2 𝜇 𝐴∗) 𝑈/𝜇. Later on, as we are only interested by the trajectory in the space-time
+when we reduce the problem by pullback as in Section 8.3, we can consider only the conformation
+as invariant, assuming without loss of generality that 𝜇 = 𝜕5𝑎4 = 0, Φ = 2 𝜇 𝐴∗, then the value
+of ˆ𝑈5 is arbitrary.
+
+Flux of a physical quantity
+
+Now we follow the construction proposed in Souriau [1964, (36.7)]. Let a ↦→ 𝑟0(a) be
+a non-vanishing scalar ﬁeld on M representing the density of an extensive physical quantity
+(for instance, the mass or the electric charge), 𝑣𝑜𝑙 be the Riemannian volume 4-form on the
+space-time U, 𝑣𝑜𝑙𝑚 be the Riemannian volume 3-form on the matter manifold M, and 𝑣𝑜𝑙𝑟0 be
+the volume 3-form 𝑟0 𝑣𝑜𝑙𝑚. We deﬁne on the space-time the vector ﬁeld J𝑟 such that
+
+In local chart, for any 𝑑1 𝑋, 𝑑2 𝑋, 𝑑3 𝑋 ∈ R4
+
+𝜄J𝑟 𝑣𝑜𝑙 = 𝜋∗𝐴(𝑣𝑜𝑙𝑟0)
+
+𝑣𝑜𝑙(𝐽𝑟 , 𝑑1 𝑋, 𝑑2 𝑋, 𝑑3 𝑋) = 𝑣𝑜𝑙𝑟0( 𝑀 𝑑1 𝑋, 𝑀 𝑑2 𝑋, 𝑀 𝑑3 𝑋)
+
+In Souriau [1965, Chapter 5, §14, Theorem (16)], it is proved that this vector exists and is
+unique. As 𝑟0 ≠ 0, (118) shows that J𝑟 vanishes only if the rank of 𝑀 is less than 3. Otherwise,
+in choosing 𝑀 𝑑1 𝑋 = 𝐽𝑟 , we see that
+
+(117)
+
+(118)
+
+(119)
+
+𝜕𝑎
+𝜕 𝑋
+
+𝐽𝑟 = 𝑀 𝐽𝑟 = 0
+
+then J𝑟 (X) is tangent to the trajectory passing by X. In Souriau [1964, (36.13)], it is proved
+that
+
+Theorem 9.3 If 𝐽𝑟 is not lightlike
+
+(i) we have
+
+then the conformation matrix 𝐻 = 𝑀 𝑀∗ is regular
+
+(𝐽𝑟)∗𝐽𝑟 = −(𝑟0)2 det 𝐻
+
+(ii) the orthogonal projection matrix onto 𝐽𝑟 is
+
+Assuming that 𝐽𝑟 is timelike, we deduce from (i) that
+
+Introducing
+
+𝐽𝑟 (𝐽𝑟)∗
+(𝐽𝑟)∗𝐽𝑟
+
+= 1R4 − 𝑀∗𝐻−1 𝑀
+
+ℎ = − det 𝐻 > 0
+
+𝑟 = 𝑟0√ℎ
+
+41
+
+the unique vector J𝑟 satisfying (117) is the tangent vector to the trajectory of which the length is
+given by (𝐽𝑟)∗𝐽𝑟 = 𝑟 2, then we can put 𝐽𝑟 = 𝑟 𝑈 with 𝑈∗𝑈 = 1, representing the 4-ﬂux of 𝑟
+
+J𝑟 = 𝑟 U = 𝑟
+
+𝑑X
+𝑑𝑠
+
+where 𝑟 is a short form of 𝑟0(𝜋 𝐴(X))pdet (𝑇 𝜋 𝐴(𝑇 𝜋 𝐴)∗). Reasoning as in the proof of Theorem
+
+9.1 and owing to (117), we have
+
+div (J𝑟) 𝑣𝑜𝑙 = LJ𝑟 𝑣𝑜𝑙 = 𝑑[𝜄J𝑟 𝑣𝑜𝑙] = 𝜋∗𝐴(𝑑(𝑣𝑜𝑙𝑟0)) = 0
+
+because 𝑑(𝑣𝑜𝑙𝑟0) is a 4-form ﬁeld on M of dimension 3, then we obtain the conservation identity
+of the 4-ﬂux of 𝑟
+
+div J𝑟 = 0
+
+(120)
+
+Lagrangian of the matter
+
+On this ground, our aim is to construct a Lagrangian 𝐿 𝑀 for the matter that is invariant for
+
+every diﬀeomorphism 𝜑 of the space-time U
+
+𝐿 𝑀(a, 𝑇 𝜋 𝐴, G, A∗) = 𝐿 𝑀(a, 𝑇 𝜋 𝐴 ◦ 𝑇 𝜑, 𝜑∗(G), 𝜑∗(A∗))
+
+where 𝜑∗ stands for the pullback by 𝜑 and A∗ is the adjoint of A. In local charts, for every
+transformation matrix 𝑃
+
+𝐿 𝑀(𝑎, 𝑀, 𝐺, 𝐴∗) = 𝐿 𝑀(𝑎′, 𝑀′, 𝐺′, 𝐴′∗),
+
+𝑎 = 𝑎′, 𝑀′ = 𝑀 𝑃, 𝐺′ = 𝑃𝑇 𝐺 𝑃,
+
+𝐴′∗ = 𝐴∗𝑃
+
+Particles without spin are characterized by two physical quantities, their mass (or energy if 𝑐 = 1)
+and their electric charge. Hence, the Lagrangian must at least depend on the densities of mass
+and charge. According to the principle of stationary action (P2), we adopt the decomposition
+
+𝐿 𝑀(𝑎, 𝑀, 𝐺, 𝐴∗) = 𝜅 [𝐿𝑚(𝑎, 𝑀, 𝐺) + 𝐿𝑒(𝑎, 𝑀, 𝐴∗)]
+
+where 𝜅 is a non vanishing coupling constant, 𝐿𝑚 is active for all particles, charged or not,
+sensitive to the gravitation forces, while 𝐿𝑒 is active only for charged particles, sensitive also
+to the electromagnetic forces. For 𝐿𝑚 being invariant, it must depend on 𝑎, 𝑀, 𝐺 through the
+invariants 𝑎 and 𝐻. At this stage, we restrict our presentation to ﬂuids then the dependence on
+𝐻 can be limited to a dependence on ℎ = − det 𝐻 only. The expression
+
+contains the mass density
+
+𝐿𝑚(𝑎, 𝑀, 𝐺) = 𝜌𝑚0(𝑎) [
+
+𝜌𝑚 = 𝜌𝑚0(𝑎)
+
+√ℎ + 𝜓(ℎ)]
+√ℎ
+
+that can be completed by an internal energy to modelize pressure eﬀects through the function
+𝜓. For 𝐿𝑒 being invariant, it must depend on the invariants constructed from 𝑎, 𝑀, 𝐺, 𝐴∗. We
+
+42
+
+already know the invariants 𝑎 and ℎ to which we have to add a joint invariant of 𝑀 and 𝐴∗. The
+electric current density J𝜌𝑒 is the 4-ﬂux of the electric charge density
+
+deﬁned by, according to (118)
+
+𝜌𝑒 = 𝜌𝑒0(𝑎)
+
+√ℎ
+
+𝑣𝑜𝑙(𝐽𝜌𝑒 , 𝑑1 𝑋, 𝑑2 𝑋, 𝑑3 𝑋) = 𝑣𝑜𝑙𝜌𝑒0( 𝑀 𝑑1 𝑋, 𝑀 𝑑2 𝑋, 𝑀 𝑑3 𝑋)
+
+On the other hand,
+
+𝜌𝑒0 det(cid:20) 𝑀
+𝑀 𝐽𝜌𝑒 (cid:21) ,(cid:20) 𝐴∗𝑑1 𝑋,
+
+𝐴∗ (cid:21) 𝑣𝑜𝑙(𝐽𝜌𝑒 , 𝑑1 𝑋, 𝑑2 𝑋, 𝑑3 𝑋)
+𝑀 𝑑1 𝑋, (cid:21) ,(cid:20) 𝐴∗𝑑2 𝑋,
+
+= −𝜌𝑒0 𝑣𝑜𝑙(cid:18)(cid:20) 𝐴∗𝐽𝜌𝑒
+𝐴∗ (cid:21) 𝑣𝑜𝑙(𝐽𝜌𝑒 , 𝑑1 𝑋, 𝑑2 𝑋, 𝑑3 𝑋) = ( 𝐴∗𝐽𝜌𝑒) 𝑣𝑜𝑙𝜌𝑒0( 𝑀 𝑑1 𝑋, 𝑀 𝑑2 𝑋, 𝑀 𝑑3 𝑋)
+
+𝑀 𝑑2 𝑋, (cid:21) ,(cid:20) 𝐴∗𝑑3 𝑋,
+
+𝑀 𝑑3 𝑋, (cid:21) ,(cid:19)
+
+𝜌𝑒0 det(cid:20) 𝑀
+
+Taking into account the property (119), we have 𝑀 𝐽𝜌𝑒 = 0 then
+
+Owing to (122), we construct a function
+
+𝐿𝑒(𝑎, 𝑀, 𝐴∗) = 𝜌𝑒0(𝑎) det(cid:20) 𝑀
+
+𝐴∗ (cid:21) = −𝐴∗𝐽𝜌𝑒 = −𝜌𝑒 𝐴∗𝑈
+
+which is invariant because 𝐴′∗𝑈′ = ( 𝐴∗𝑃)(𝑃−1𝑈) = 𝐴∗𝑈 and the electric charge density is
+
+invariant.
+
+In a nutshell, the Lagrangian of the matter reads
+
+𝐿 𝑀(𝑎, 𝑀, 𝐺, 𝐴∗) = 𝜅 [( 𝜌𝑚0 − 𝜌𝑒0 𝐴∗𝑈)
+
+√ℎ + 𝜌𝑚0 𝜓(ℎ)]
+
+which can be enriched to modelize more complex behaviors such as, for instance, those of
+hyperelastic solids for which the lagrangian depends on the invariant conformation 𝐻 in a
+general way, not only through ℎ.
+
+Principle of stationary action and law of conservation
+
+Owing to (104), the components of the vector ˜T𝑀 read
+
+Applying the principle of stationary action, Corollary 1 gives
+
+( ˜𝑇𝑀)𝑖 = −𝜅 (𝐽𝜌𝑒)𝑖 = −𝜅 𝜌𝑒𝑈𝑖
+
+(121)
+
+(122)
+
+(123)
+
+(124)
+
+which is satisﬁed because of the conservation of the 4-ﬂux of electric charge density 𝜌𝑒, according
+to (120).
+
+divJ𝜌𝑒 = 0
+
+43
+
+To obtain the law of conservation, we have to determine the expression of 𝐸 𝑗 𝑘 by diﬀeren-
+through ℎ, then denoting 𝜕ℎ the partial
+
+tiation the Lagrangian with respect to the metric, i.e.
+derivative with respect to ℎ
+
+𝛿𝐿 𝑀 = 𝜕ℎ 𝐿 𝑀 𝛿ℎ = −𝜕ℎ 𝐿 𝑀 𝛿(det 𝐻) = ℎ 𝜕ℎ 𝐿 𝑀𝑇 𝑟(𝐻−1𝛿𝐻)
+
+𝛿𝐿 𝑀 = ℎ 𝜕ℎ 𝐿 𝑀𝑇 𝑟(𝐻−1𝑀𝛿(𝐺−1) 𝑀 𝑇) = −ℎ 𝜕ℎ 𝐿 𝑀𝑇 𝑟( 𝑀 𝑇 𝐻−1 𝑀𝐺−1(𝛿𝐺)𝐺−1)
+
+Using Theorem 9.3) (ii) with 𝐽𝜌𝑚 = 𝜌𝑚𝑈, it holds
+
+𝛿𝐿 𝑀 = −ℎ 𝜕ℎ 𝐿 𝑀𝑇 𝑟(𝐺−1(1R4 − 𝑈 𝑈∗)𝐺−1𝛿𝐺) = ℎ 𝜕ℎ 𝐿 𝑀𝑇 𝑟((𝑈 𝑈𝑇 − 𝐺−1)𝛿𝐺)
+
+or in tensor notation
+
+from which we deduce the components (105) of the tensor ﬁeld T𝑀
+
+𝐸 𝑗 𝑘 = ℎ 𝜕ℎ 𝐿 𝑀(𝐺 𝑗 𝑘 − 𝑈 𝑗𝑈 𝑘)
+
+(𝑇𝑀)𝑖 𝑗 = 2 𝐸 𝑖 𝑗
+
+𝑀 + 𝐿 𝑀 𝐺 𝑖 𝑗 = 𝜅 [( 𝜌 + 𝑝)𝑈𝑖𝑈 𝑗 − 𝑝 𝐺 𝑖 𝑗]
+
+(125)
+
+in which occur the density of energy
+
+𝜌 = 𝐿 𝑀/𝜅 = ( 𝜌𝑚0 − 𝜌𝑒0 𝐴∗𝑈)
+
+√ℎ + 𝜌𝑚0 𝜓(ℎ) = 𝜌𝑚 + 𝜌𝑚0 𝜓(ℎ) − 𝐴∗𝐽𝜌𝑒
+
+where the second and third terms represent respectively the internal energy and the coupling with
+the electromagnetism, and the pressure
+
+𝑝 = (2𝜕ℎ 𝐿 𝑀 − 𝐿 𝑀)/𝜅 = 𝜌𝑚0 (2 ℎ 𝜕ℎ𝜓 − 𝜓)
+
+The law of conservation (111) for the matter
+
+itemizes, owing to (123) and (125), into
+
+∇𝑖(𝑇𝑀)𝑖
+
+𝑗 + ( ˜𝑇𝑀) 𝑘 𝐹𝑘 𝑗 = 0
+
+∇𝑖[( 𝜌 + 𝑝)𝑈𝑖𝑈 𝑗 − 𝑝 𝛿𝑖
+
+𝑗] − 𝜌𝑒𝑈 𝑘 𝐹𝑘 𝑗 = 0
+
+(126)
+
+Interpretation of the law of conservation in terms of the ˆG0-connection
+Let a 1-contravariant and 1-covariant free divergence tensor ﬁeld ˆT on the space-time U,
+
+section of the pullback bundle 𝑓 ∗(𝑇 ˆU ⊗ 𝑇∗ ˆU)
+𝛽 + ˆΓ𝑖
+
+𝛽 = 𝜕𝑖 ˆT 𝑖
+
+ˆ∇𝑖 ˆT 𝑖
+
+ˆT 𝜇
+𝛽 − ˆT 𝑖
+
+𝜇
+
+𝑖𝜇
+
+𝜇
+ˆΓ
+𝑖𝛽 = 0
+
+with the convention that Greek indices run from 1 to 5 and Latin ones run from 1 to 4. For the
+𝜇
+ˆG0-connection (81), ˆΓ
+𝑖5
+
+= 0 then the previous equation itemizes into
+
+ˆ∇𝑖 ˆT 𝑖
+
+𝑗 = 𝜕𝑖 ˆT 𝑖
+
+𝑗 + Γ𝑖
+
+𝑖𝑚
+
+ˆT 𝑚
+𝑗 − ˆT 𝑖
+
+𝑚Γ𝑚
+
+𝑖 𝑗 − ˆT 𝑖
+
+5 Γ5
+
+𝑖 𝑗 = ∇𝑖 ˆT 𝑖
+
+𝑗 − ˆT 𝑖
+
+5 Γ5
+
+𝑖 𝑗 = 0
+
+44
+
+ˆ∇𝑖 ˆT 𝑖
+
+5 = 𝜕𝑖 ˆT 𝑖
+
+5 + Γ𝑖
+
+𝑖𝑚
+
+ˆT 𝑚
+5 = ∇𝑖 ˆT 𝑖
+
+5 = 0
+
+(127)
+
+where ∇ is Levi-Civita connection. It is worth to point out that the components T 5
+𝛽 are absent
+of these expressions. Mimicking the linear 5-momentum of an elementary particule deﬁned by
+(75) and (88), we claim that the components of the linear 5-momentum of a continuum are
+
+ˆΠ 𝑗 = 𝜌𝑈 𝑗 − 2 𝜌𝑒 𝐴 𝑗 ,
+
+ˆΠ5 = 𝜌𝑒
+
+Adding a projection term to take into account the eﬀects of the pressure 𝑝, we claim that
+
+ˆT 𝑖
+𝑗 = 𝑈𝑖 ˆΠ 𝑗 + 𝑝 (𝑈𝑖𝑈 𝑗 − 𝛿𝑖
+
+𝑗) = 𝑈𝑖( 𝜌𝑈 𝑗 − 2 𝜌𝑒 𝐴 𝑗) + 𝑝 (𝑈𝑖𝑈 𝑗 − 𝛿𝑖
+𝑗),
+
+5 = 𝑈𝑖 ˆΠ5 = 𝜌𝑒𝑈𝑖
+ˆT 𝑖
+
+Owing to (95), the equation
+
+is represented in local charts by (127)
+
+div ˆT = 0
+
+∇𝑖[( 𝜌 + 𝑝)𝑈𝑖𝑈 𝑗 − 𝑝 𝛿𝑖
+
+𝑗] − 𝜌𝑒𝑈𝑖 𝐹𝑖 𝑗 = 0,
+
+∇𝑖( 𝜌𝑒𝑈𝑖) = 0
+
+then, by comparison to (124) and (126), is equivalent to the equations provided by the principle
+of stationary action and the law of conservation
+
+div ˜T𝑀 = 0,
+
+div ¯T𝑀 + ˜T𝑀 · F = 0
+
+9.4 Field equations of the gravitation and electromagnetism
+
+In general relativity, the gravitation is represented by the geometry of the space-time through the
+connection Γ generated by 10 potentials, the independent components of the metric 𝐺. In our
+uniﬁed theory of gravitation and electromagnetism, the geometry of the space-time stems from
+the ˆG0-connection ˆΓ preserving the pullback ˆG0 of the space-time metric and the vector ˆ𝛀0. It
+is generated by 14 potentials, the independent components of 𝐺 and 𝐴∗.
+
+Curvature tensor
+
+Our starting point is to calculate the curvature tensor ˆR on the space-time U endowed with
+the pullback connection. This tensor is deﬁned, for any smooth section ˆW of 𝑇 ˆU and for all
+smooth ﬁelds X ↦→ U , X ↦→ V of tangent vectors to the space-time, by the relation
+ˆW = ˆR(U , V )
+
+ˆ∇(𝑇 𝑓 ) U ( ˆ∇(𝑇 𝑓 ) V ˆW) − ˆ∇(𝑇 𝑓 ) V ( ˆ∇(𝑇 𝑓 ) U ˆW) − ˆ∇(𝑇 𝑓 ) [U ,V ]
+
+ˆW (128)
+
+Then it is a 1-contravariant and 3-covariant tensor, skew-symmetric with respect to the arguments
+U and V . With the convention that Greek indices run from 1 to 5 and Latin ones run from 1 to
+4, it is represented by the components
+
+ˆ𝑅 𝛼
+𝑖 𝑗 𝛽 = ˆΓ 𝛼
+
+𝑖𝜇
+
+ˆΓ
+
+𝜇
+
+𝑗 𝛽 − ˆΓ 𝛼
+
+𝑗 𝜇
+
+𝜇
+
+𝑖𝛽 + 𝜕𝑖 ˆΓ 𝛼
+ˆΓ
+
+𝑗 𝛽 − 𝜕 𝑗 ˆΓ 𝛼
+
+𝑖𝛽
+
+skew-symmetric with respect to the indices 𝑖 and 𝑗 . Owing to the form (86) of the connection
+matrix, Christoﬀel’s symbols with a covariant index equal to 5 vanish then the only non null
+curvature components are
+
+𝑅 𝑝
+𝑖 𝑗 𝑘
+
+= ˆ𝑅 𝑝
+𝑖 𝑗 𝑘
+
+= Γ 𝑝
+
+𝑖𝜇 Γ
+
+𝜇
+
+𝑗 𝑘 − Γ 𝑝
+
+𝑗 𝜇 Γ
+
+𝜇
+
+𝑖𝑘 + 𝜕𝑖 Γ 𝑝
+
+𝑗 𝑘 − 𝜕 𝑗 Γ 𝑝
+
+𝑖𝑘
+
+45
+
+˜𝑅𝑖 𝑗 𝑘 = ˆ𝑅5
+
+𝑖 𝑗 𝑘 = Γ5
+
+𝑖𝜇 Γ
+
+𝜇
+
+𝑗 𝑘 − Γ5
+
+𝑗 𝜇 Γ
+
+𝜇
+
+𝑖𝑘 + 𝜕𝑖 Γ5
+
+𝑗 𝑘 − 𝜕 𝑗 Γ5
+
+𝑖𝑘
+
+The components 𝑅 𝑝
+the metric G (hypothesis H1). Developing (95), one has
+
+𝑖 𝑗 𝑘 are the ones of the classical curvature tensor of space-time endowed with
+
+The additional curvature tensor components read
+
+𝑖 𝑗 = −𝜕𝑖 𝐴 𝑗 − 𝜕 𝑗 𝐴𝑖 + 2 Γ𝑘
+Γ5
+
+𝑖 𝑗 𝐴𝑘
+
+˜𝑅𝑖 𝑗 𝑘 = ∇𝑘 𝐹 𝑗𝑖 + 2𝐴𝑞 𝑅𝑞
+
+𝑖 𝑗 𝑘
+
+(129)
+
+Lagrangian of the geometry
+
+According to Souriau [1964, Chapter 5, §14, (35.8) to (35.10)], the Lagrangian of the
+
+geometry depends on the connection and its partial derivatives through the curvature tensor
+
+𝐿𝐺( ˆΓ, 𝜕𝑖 ˆΓ, G, A∗) = 𝐿𝐺( ˆΓ, ˆR, G, A∗)
+
+We assume the decomposition
+
+𝐿𝐺( ˆΓ, ˆR, G, A∗) = 𝐿𝑔(Γ, R, G) + 𝐿𝑒𝑚(Γ5, ˜R, G, A∗)
+
+where 𝐿𝑔 describes the behavior of the gravitation alone and 𝐿𝑒𝑚 is an extra term to take
+into account the one of the electromagnetism. The Lagrangian must be invariant for every
+diﬀeomorphism of the space-time.
+Introducing the Ricci tensor of components obtained by
+contraction
+
+the most simple invariant built from 𝑅 𝑝
+
+𝑖 𝑗 𝑘 and 𝐺 𝑖 𝑗 is the scalar curvature
+
+𝑅 𝑗 𝑘 = 𝑅 𝑝
+
+𝑝 𝑗 𝑘
+
+𝑅 = 𝐺 𝑗 𝑘 𝑅 𝑗 𝑘
+
+The Hilbert-Einstein Lagrangian including the cosmological constant Λ is
+
+𝐿𝑔(Γ, R, R) = −Λ +
+
+1
+
+2
+
+𝐺 𝑖 𝑗 𝑅𝑖 𝑗
+
+Besides, from ˜𝑅𝑖 𝑗 𝑘 , 𝐺 𝑖 𝑗 and 𝐴𝑖, we can construct the invariant
+
+˜𝑅 = 𝐴𝑟 𝐺𝑟 𝑖𝐺 𝑗 𝑘 ˜𝑅𝑖 𝑗 𝑘 = 𝐴𝑟 ˜𝑅𝑟 𝑘
+𝑘
+
+(130)
+
+Then we consider the Lagrangian of the electromagnetism
+
+𝐿𝑒𝑚(Γ5, ˜R, G, A∗) = − ˜𝑘 𝐴𝑟 𝐺𝑟 𝑖𝐺 𝑗 𝑘 ˜𝑅𝑖 𝑗 𝑘
+
+where ˜𝑘 is a new coupling constant.
+
+In a nutshell, the Lagrangian of the geometry reads
+
+𝐿𝐺( ˆΓ, ˆR, G, A∗) = −Λ +
+
+𝐺 𝑖 𝑗 𝑅𝑖 𝑗 − ˜𝑘 𝐴𝑟 𝐺𝑟 𝑖𝐺 𝑗 𝑘 ˜𝑅𝑖 𝑗 𝑘
+
+1
+
+2
+
+46
+
+from which we deduce the components (105) of the tensor ﬁeld T𝐺
+
+(𝑇𝐺)𝑖 𝑗 = 2 (𝐸𝐺)𝑖 𝑗 + 𝐿𝐺𝐺 𝑖 𝑗 = −[𝑅𝑖 𝑗 −
+Besides, the components of the vector ˜T𝐺 are
+
+2
+
+1
+
+𝑅 𝐺 𝑖 𝑗 + Λ 𝐺 𝑖 𝑗] + ˜𝑘 [ 𝐴(𝑖 ˜𝑅 𝑗) 𝑘
+
+𝑘 + 𝐴𝑟 ˜𝑅𝑟 (𝑖 𝑗) −
+
+( ˜𝑇𝐺)𝑖 = − ˜𝑘 (cid:16)∇ 𝑗 𝐹 𝑗𝑖 + 2𝐴𝑞 𝑅𝑞𝑖 𝑗
+
+𝑗(cid:17)
+
+1
+
+2
+
+˜𝑅 𝐺 𝑖 𝑗]
+
+(131)
+
+(132)
+
+Field equations
+
+Applying the stationary action principle (Theorem 9.1, (ii) and (iii)), we have
+
+T = T𝐺 + T𝑀 = 0,
+
+˜T = ˜T𝐺 + ˜T𝑀 = 0
+
+which, owing to (123), (125), (131) and (132), leads to
+
+𝑅𝑖 𝑗 −
+
+1
+
+2
+
+𝑅 𝐺 𝑖 𝑗 + Λ 𝐺 𝑖 𝑗 − ˜𝑘 [ 𝐴(𝑖 ˜𝑅 𝑗) 𝑘
+
+1
+
+2
+
+𝑘 + 𝐴𝑟 ˜𝑅𝑟 (𝑖 𝑗) −
+− ˜𝑘 [∇ 𝑗 𝐹 𝑗𝑖 + 2𝐴𝑞 𝑅𝑞𝑖 𝑗
+
+˜𝑅 𝐺 𝑖 𝑗] = 𝜅 [( 𝜌 + 𝑝)𝑈𝑖𝑈 𝑗 − 𝑝 𝐺 𝑖 𝑗] (133)
+𝑗] = 𝜅 𝜌𝑒𝑈𝑖
+
+(134)
+
+In the absence of the electromagnetic potential, the ﬁrst equation is reduced to
+
+𝑅𝑖 𝑗 −
+
+1
+
+2
+
+𝑅 𝐺 𝑖 𝑗 + Λ 𝐺 𝑖 𝑗 = 𝜅 [( 𝜌 + 𝑝)𝑈𝑖𝑈 𝑗 − 𝑝 𝐺 𝑖 𝑗]
+
+We recover Einstein’s equations for the gravitation. Einstein’s constant (with 𝑐 = 1 and the
+gravitational constant 𝐺 𝑁 with the index 𝑁 in Newton’s honour)
+
+𝜅 = 8 𝜋 𝐺 𝑁
+
+has been chosen such that the non-relativistic limit yields the usual form of Newton’s law of
+universal gravitation.
+
+Our aim now is to discuss the classical limits of these ﬁeld equations, starting with (134).
+First, we consider the ﬁrst term.
+[1985, 1991],
+Souriau [1997a], de Saxc´e and Vall´ee [2016]), the connection is associated to Galilei group and
+Christoﬀel’s symbols Γ𝑚
+
+In the Galilean approximation (Duval et al.
+
+𝑖 𝑗 vanish except7
+Γ𝑎
+𝑡𝑡 = −𝑔𝑎,
+
+Γ𝑎
+𝑡 𝑏 = Γ𝑎
+
+𝑏𝑡 = Ω𝑎
+𝑏 ,
+
+(135)
+
+where occur the gravity 𝑔𝑎 and Coriolis’ eﬀects given by Ω𝑎
+𝑏, a simpliﬁed notation for the
+elements of the 3 × 3 skew-symmetric matrix 𝑗(Ω) such that 𝑗(Ω) 𝑣 = Ω × 𝑣 for all 3-columns
+Ω and 𝑣. For a 2-contravariant tensor of components 𝐹 𝑗𝑖, the covariant divergence reads
+
+∇ 𝑗 𝐹 𝑗𝑖 = 𝜕 𝑗 𝐹 𝑗𝑖 + Γ
+
+𝑗𝑚 𝐹 𝑚𝑖 + 𝐹 𝑗𝑚Γ𝑖
+
+𝑗𝑚
+
+𝑗
+
+7with the convention that the index 𝑡 corresponds to time and 𝑎, 𝑏, 𝑐, 𝑑 to the spatial coordinates.
+
+47
+
+that, owing to (135), itemizes respectively for 𝑗 = 𝑡 and 𝑗 = 𝑎 as
+
+∇ 𝑗 𝐹 𝑗𝑡 = 𝜕 𝑗 𝐹 𝑗𝑡 ,
+
+∇ 𝑗 𝐹 𝑗𝑎 = 𝜕 𝑗 𝐹 𝑗𝑎 − 𝑔𝑎 𝐹 𝑡𝑡 + (𝐹 𝑏𝑡 + 𝐹 𝑡 𝑏)Ω𝑎
+
+𝑏
+
+For the electromagnetic ﬁeld, 𝐹 𝑖 𝑗 = −𝐹 𝑗𝑖, this leads, at the Galilean approximation, to the exact
+
+simpliﬁcation
+
+∇ 𝑗 𝐹 𝑗𝑖 = 𝜕 𝑗 𝐹 𝑗𝑖
+
+(136)
+
+Next, we would like to assess the order of magnitude of the second term with respect to the
+
+ﬁrst one in (134), i.e. the coupling term between gravitation and electromagnetism containing
+
+As we are interested by an estimate, we consider only the gravity. At the Newtonian approxima-
+tion, the only non vanishing Christoﬀel’s symbol is Γ𝑎
+
+𝐴𝑞 𝑅𝑞𝑖 𝑗
+
+𝑗 = 𝐴𝑞𝐺 𝑖𝑚𝐺 𝑗𝑞 𝑅𝑞
+
+𝑚𝑘 𝑗
+
+𝑡𝑡 = −𝑔𝑎 and
+(cid:27) 𝐺 (cid:27) 𝑑𝑖𝑎𝑔(1, −1, −1, −1)
+
+𝐺−1
+
+𝐴𝑞 𝑅𝑞𝑖 𝑗
+
+𝑗
+
+(cid:27) −𝐴𝑎𝐺 𝑖𝑏 𝜕𝑏𝑔𝑎
+
+which, introducing the gravity potential 𝜑, itemizes as
+
+𝐴𝑞 𝑅𝑞𝑡 𝑗
+
+𝑗
+
+(cid:27) 0,
+
+𝐴𝑞 𝑅𝑞𝑏 𝑗
+
+𝑗
+
+(cid:27) 𝐴𝑎𝛿𝑏𝑐𝛿𝑎𝑑 𝜕𝑐𝜕𝑑 𝜑
+
+(137)
+
+For 𝑖 = 𝑡 in (134), the equation is reduced, at the Newtonian approximation, to
+
+− ˜𝑘 𝜕 𝑗 𝐹 𝑗𝑡 = 𝜅 𝜌𝑒𝑈𝑖
+
+˜𝑘 div 𝐸 = 𝜅 𝜌𝑒
+
+div 𝐸 =
+
+𝜌𝑒
+𝜖0
+
+˜𝑘 = 𝜅 𝜖0 = 8 𝜋 𝐺 𝑁 𝜖0
+
+(138)
+
+where 𝜖0 is the permittivity occurring in Coulomb’s law of electrostatic, it is just Maxwell-Gauss
+equation
+
+Let ¯𝐿, ¯𝐴, ¯𝜑 the characteristic length, electromagnetic potential and gravity potential. Owing to
+(136) the ﬁrst term of (134) is of the order of ¯𝐿−2 ¯𝐴 while, owing to (137), the second term is
+of the order of ¯𝐿−2 ¯𝐴 ¯𝜑, then can be neglected because, at the Newtonian approximation, ¯𝜑 ≪ 1
+
+(with units such that 𝑐 = 1) and (134) is reduced to the second group of Maxwell equations
+(Maxwell-Gauss and Maxwell-Amp`ere laws)
+
+then
+
+or
+
+Provided
+
+div 𝐸 =
+
+𝜌𝑒
+𝜖0
+
+,
+
+curl 𝐵 = 𝜕𝑡 𝐸 + 𝜇0 𝜌𝑒𝑣𝑖
+
+48
+
+where 𝜇0 = (𝜖0)−1 is the permeability (bearing in mind that 𝑐 = 1), while, because the 2-form
+F is closed, its exterior derivative is zero and we recover the ﬁrst group (Maxwell-Faraday and
+Maxwell-Thomson laws)
+
+curl 𝐸 + 𝜕𝑡 𝐵 = 0,
+
+div 𝐵 = 0
+
+Remark 1. The previous approximation is rough. In many situation, it can be improved,
+depending on the reference length, notably when the gravity can be considered on the Earth as
+constant.
+
+Remark 2. Besides, incorporating Coriolis’ eﬀects in the analysis of orders of magnitude
+leads to more complex expressions but the conclusion concerning the order of the second term
+of (134) remains.
+
+Next, we look back to the classical limit of the former ﬁeld equation (133), taking into
+
+account (138)
+
+𝑅𝑖 𝑗−
+
+1
+
+2
+
+𝑅 𝐺 𝑖 𝑗+Λ 𝐺 𝑖 𝑗−8 𝜋 𝐺 𝑁 𝜖0 [ 𝐴(𝑖 ˜𝑅 𝑗) 𝑘
+
+𝑘 + 𝐴𝑟 ˜𝑅𝑟 (𝑖 𝑗)−
+
+˜𝑅 𝐺 𝑖 𝑗] = 8 𝜋 𝐺 𝑁 [( 𝜌+ 𝑝)𝑈𝑖𝑈 𝑗− 𝑝 𝐺 𝑖 𝑗]
+
+1
+
+2
+
+To be consistent, the second term in (129) is neglected and, at the Newtonian approximation, the
+invariant (130) is reduced to
+
+˜𝑅 = 𝐴𝑖 𝜕 𝑗 𝐹 𝑗𝑖
+
+Being interested by the order of magnitude, we withhold only the term with 𝐴𝑡 = 𝜙 in ˜𝑅, then
+
+𝐺 𝑁 𝜖0 ˜𝑅 ≈ 𝐺 𝑁 𝜙 𝜖0 div 𝐸 ≈ 𝐺 𝑁 𝜌𝑒𝜙
+
+Comparing to the order of magnitude 𝐺 𝑁 𝜌 of the right hand member of (133), we conclude
+that the coupling term can be neglected. Indeed, 𝜌𝑒𝜙 is the stored electric energy density, very
+negligible with respect to the energy density 𝜌 (that is 𝜌 𝑐2 in SI units).
+
+Remark. Arguably, this particularly very small coupling term in (133) can be related to
+Dirac’s Large Number Hypothesis (LNH) that the ratio of the electrical to the gravitational forces
+between a proton and an electron of electric charge 𝑒
+
+constitutes a very large dimensionless number, some 40 orders of magnitude today, indeed the
+coupling constant is
+
+where the inverse ratio 𝐹𝑔/𝐹𝑒 is about 10−40. Observing the coincidence of the ratio of this force
+
+scales and that of the size scales in the Universe, Paul Dirac [1937] made the conjecture that
+physical constants are actually not constant and the gravitational constant is inversely proportional
+to the age of the Universe. The author would also to draw the attention on the coincidence with
+
+𝐹𝑒
+𝐹𝑔
+
+=
+
+𝑒2
+
+4 𝜋 𝜖0𝐺 𝑁 𝑚𝑒𝑚 𝑝
+
+˜𝑘 =
+
+2 𝑒2
+𝑚𝑒𝑚 𝑝
+
+𝐹𝑔
+𝐹𝑒
+
+49
+
+the square of another dimensionless number, the ratio of the double of the geometric mean of
+Compton wavelengths of proton and neutron to the size 𝑙𝐾 of the space along the ﬁfth dimension
+
+=  2p𝜆𝐶𝜆𝐶, 𝑝
+
+𝑙𝐾
+
+! 2
+
+𝐹𝑒
+𝐹𝑔
+
+where, according to Souriau [1964, Chapter 7, §42, p. 412]
+
+𝑙𝐾 = 8 𝜋3/2 ℎ √𝐺 𝑁 𝜖0
+
+𝑒 𝑐
+
+= 0.238 × 10−30 cm
+
+More in-depth discussion should be given in relation with the cosmological scenario for the
+evolution of elementary particle structure of Section 7.
+
+In contrast, if the classical approximations above are not relevant, the gravitation and elec-
+
+tromagnetism ﬁelds are coupled through the equations
+
+𝑅𝑖 𝑗−
+
+1
+
+2
+
+𝑅 𝐺 𝑖 𝑗+Λ 𝐺 𝑖 𝑗−8 𝜋 𝐺 𝑁 𝜖0 [ 𝐴(𝑖 ˜𝑅 𝑗) 𝑘
+
+𝑘 + 𝐴𝑟 ˜𝑅𝑟 (𝑖 𝑗)−
+
+˜𝑅 𝐺 𝑖 𝑗] = 8 𝜋 𝐺 𝑁 [( 𝜌+ 𝑝)𝑈𝑖𝑈 𝑗− 𝑝 𝐺 𝑖 𝑗]
+
+1
+
+2
+
+𝜖0 [∇ 𝑗 𝐹 𝑗𝑖 + 2𝐴𝑞 𝑅𝑞𝑖 𝑗
+
+𝑗] + 𝜌𝑒𝑈𝑖 = 0
+
+In particular, in presence of a strong gravitation ﬁeld, Maxwell equations have to be modiﬁed,
+by considering the covariant derivative instead of the partial derivative.
+
+10 Conclusion
+
+Firstly, we proposed a symmetry group ˆG0 for which the electric charge of a particle is an invariant
+of its coadjoint orbit, then of which the value does not depend on the observer. Secondly, we
+constructed a ˆG0-connection allowing to recover the expected equation of motion today of a
+particle, including Lorentz force and proving the charge is an integral of the motion. Finally, we
+deduced from a 5D extension of the variational relativity the ﬁeld equations where, at the classical
+limit, the coupling term is negligible and we recover Einstein equations for the gravitation and
+Maxwell equations, without need to introduce a dilaton or to violate an equation as in the classical
+Kaluza-Klein theory.
+
+Author’s opinion is that these results are strong arguments to claim that the Lie group ˆG0 is
+
+the symmetry group of the electrodynamics compatible with the observations today.
+
+In contrast, we aﬃrm that the symmetry group ˆG1 of the Kaluza-Klein theory leads to a
+classiﬁcation of the elementary particles in the framework of an uniﬁed theory merging the
+gravitational and electromagnetic forces relevant to describe the early Universe.
+
+The soon idea of a ﬁfth dimension, if used in a suitable geometric formalism taking into
+account its very small size, seems now more than ever to oﬀer a promising future for new
+developments among them we can emphasize:
+
+50
+
+1. For the characterization of charged elementary particles, we largely relied on Souriau
+[1970, 1997b] without releasing the full potential of the theoretical framework, in particular
+the construction of the symplectic form and the geometric quantization. These issues have
+not been considered yet in this work but would deserve to be investigated.
+
+2. The next step would be to extend Kaluza-Klein theory to a non-abelian gauge group as
+in Kerner [1968] with the mathematical tools developed in this paper, in particular the
+coadjoint orbit method.
+
+3. Going back in time, it would worth to revisit works on the early universe cosmology that
+we think they did not receive the welcome they deserved because based on Kaluza-Klein
+theory whose weaknesses were known. They could provide a better understanding for
+Dirac’s large number hypothesis as suggested by Chodos and Detweiler [1980] and to
+oﬀer a resolution to the horizon problem as claimed by Sahdev [1984].
+
+Acknowledgements
+
+The author would like to thank Leonid Ryvkin for discussions that help to clarify certain
+points and to Richard Kerner whose advice was very valuable to me. He is also grateful to
+Claude Vall´ee for drawing author’s attention on the reference Cartan [1934].
+
+Abraham, R., Marsden, J.E., Foundation of Mechanics, 2𝑛𝑑 Ed., Addison-Wesley Pub. Co.,
+
+References
+
+Reading, Mass., 1978.
+
+205009 (2014)
+
+arXiv:2312.00745 (2023)
+
+Symmetry, 16, 214 (2024)
+
+Bargmann, V., On unitary representation of continuous groups. Ann. of Math., 59, 1-46, (1954).
+
+Bergshoeﬀ, E., Gomis, J., Longhi, G., Dynamics of Carroll particles, Class. Quantum Grav., 31,
+
+Bergshoeﬀ, E., Campoleoni, A., Fontanella, A., Mele, L., Rosseel, J., Carroll Fermions,
+
+Cardall, C.Y., A Uniﬁed Perspective on Poincar´e and Galilei Relativity: I. Special Relativity,
+
+Cartan, ´E., La th´eorie unitaire d’Einstein-Mayer. Manuscript dating from about 1934, published
+
+in Œuvres Compl`etes, Gauthier-Villars, Paris 1952.
+
+Chodos, A., Detweiler, S., Where has the ﬁfth dimension gone? Physical Review D, 21, p. 2167
+
+(1980)
+
+Copeland, E.J., Toms, D.J., Stability of self-consistent higher-dimensional cosmological solu-
+
+tions, Phys. Rev. D, 32 (8), p. 1921 (1985)
+
+51
+
+de Saxc´e, G., Vall´ee, C., Construction of a central extension of a Lie group from its class of
+
+symplectic cohomology, Journal of Geometry and Physics, 60, 165–174 (2010)
+
+de Saxc´e, G., Vall´ee, C., Galilean Mechanics and Thermodynamics of Continua, Wiley-ISTE
+
+(2016)
+
+Dirac, P.A.M., The Cosmological Constants, Nature, 139 (3512), 323 (1937).
+
+Duval, C., Burdet, G., K ¨unzle, H.P., Perrin, M., Bargmann structures and Newton–Cartan theory,
+
+Phys. Rev. D, 31, 1841 (1985)
+
+Duval, C., Gibbons, G.W., Horv´athy, P., Celestial mechanics, conformal structures and gravita-
+
+tional waves, Phys. Rev. D, 43, 3907 (1991)
+
+Duval, C., Gibbons, G.W., Horv´athy, P.A., Zhang, P.M., Carroll versus Newton and Galilei: two
+
+dual non-Einsteinian concepts of time, Class. Quantum Grav., 31, 085016 (2014)
+
+Einstein, A., ¨Ather und Relativit¨atstheorie, Springer, (1920)
+
+Einstein, A., Letter to H. Weyl, 6 June 1922, AE 24-71
+
+Einstein, A., and Mayer, M.W., Einheitliche Theorie von Gravitation und Elektrizit¨at, Preussische
+Akademie der Wissenschaften, Physikalisch-mathematische Klasse, Sitzungsberichte, 541-557
+(1931)
+
+Einstein, A., and Bergmann, P., On a generalisation of Kaluza’s theory of electricity. Ann. Math.,
+
+34, 683, (1938)
+
+Einstein, A., Bargmann, V., and Bergmann, P., On the ﬁve-dimensional representation of grav-
+itation and electricity. In Theodore von Karman Anniversary Volume. California Institute of
+Technology (1941).
+
+Guillemin, V., Sternberg, S., Symplectic techniques in physics, Univ. Press, Cambridge, 1984.
+
+Hilbert, D., Die Grundlagen der Physik, Nachrichten von der Gesellschaft der Wissenschaften zu
+
+G ¨ottingen – Mathematisch-Physikalische Klasse, 3, 395-407 (1915)
+
+Jordan, P., F ¨unfdimensionale Kosmologie, Astron. Nachr., 276 (5-6),193-208 (1948)
+
+Kaluza, T., Zum Unit¨atsproblem der Physik, Sitzungsber. Preuss. Akad. Wiss., Phys. Math.
+
+Kl.:966 (1921)
+
+Kerner, R., Generalization of the Kaluza-Klein theory for an arbitrary non-abelian gauge group,
+
+Ann. Inst. Henri Poincar´e, 9(2), 143-152 (1968)
+
+Kerner, R., Geometric background for the uniﬁed ﬁeld theory: the Einstein-Cartan theory over a
+
+principal ﬁbre bundle, Ann. Inst. Henri Poincar´e, 34(4), 437-463 (1981)
+
+Giorgini, B., Kerner, R., Cosmology in ten dimensions with the generalised gravitational La-
+
+grangian, Classical and Quantum Gravity, 5(2), pp. 339-351 (1988)
+
+52
+
+Kijowski, J., Geometric structure of quantization. Diﬀerential geometric methods in mathematical
+
+physics, Lecture Notes in Mathematics 570, Springer, 97-108 (1977)
+
+Klein, O., Quantentheorie und f¨unfdimensionale Relativit¨atstheorie, Zeitschrift f¨ur Physik A. 37
+
+(12): 895-906 (1926)
+
+Klein, O., The atomicity of electricity as a quantum theory law, Nature, 118, 516 (1926)
+
+Kobayashi, S., Nomizu, K., 1963 Foundation of diﬀerential geometry (Berlin: John Wiley &
+
+Sons)
+
+Kobayashi, S., 1972 Transformation groups in diﬀerential geometry (Berlin: Springer-Verlag)
+
+Kostant, B., Quantization and unitary representations. 1. Prequantisation, Lecture Notes in
+
+Mathematics 170, Springer (1970)
+
+L´evy-Leblond, J.-M., Une nouvelle limite non-relativiste du groupe de Poincar´e, Annales de
+
+l’Institut Henri Poincar´e, section A, tome 3, no 1 (1965), p. 1-12
+
+L´evy-Leblond, J.-M., Quand Galil´ee et Carroll engendrent Lorentz, Annales de l’Institut Henri
+
+Poincar´e, 24 (2023), p. 3209-3213
+
+Libermann, P., Marle, C.-M., Symplectic Geometry and Analytical Mechanics, D. Reidel, Dor-
+
+drecht, 1987.
+
+Matzner, R.A., Mezzacappa, A., Three-dimensional closed universes without collapse in a ﬁve-
+
+dimensional Kaluza-Klein theory, Phys. Rev. D , 32, p. 3114 (1985)
+
+Okada, Y., Evolution of the Kaluza-Klein Universe, Nuclear Physics B 264 (1986) 197-220
+
+Palatini, A., Deduzione invariantiva delle equazioni gravitazionali dal principio di Hamilton,
+
+Rendiconti del Circolo Matematico di Palermo, 1 (43), 203-212 (1919)
+
+Petit, J.-P., D’Agostini, G., Negative mass hypothesis in cosmology and the nature of dark energy.
+
+Astrophysics and space science A29 (2014) 145-182
+
+Sahdev, D., Perfect-ﬂuid higher-dimensional cosmologies, Phys. Rev. D, 30, p. 2495 (1984)
+
+Scherrer, W., ¨Uber den Einﬂuss des metrischen Feldes auf ein skalares Materiefeld, Helv. Phys.
+
+Acta., 22, 537-551 (1949)
+
+Sewards, T.V., A Sectorial approach to Kaluza-Klein theory, arXiv:0809.1600 (2008)
+
+´Sniatycki, J., Relativistic Dynamics in an Electromagnetic Field, Geometric Quantization and
+
+Quantum Mechanics, Applied Mathematic Science, Vol. 30, Springer, 168-197 (1980)
+
+Souriau, J.-M., G´eom´etrie et relativit´e, Hermann, collection enseignement des sciences, Paris,
+
+1964. R´eimprim´e par les ´editions Jacques Gabay, Paris.
+
+53
+
+Souriau, J.-M., Calcul lin´eaire, Presses universitaires de France, collection Euclide, Paris, tome
+I, 1964, et tome II, 1965. R´eimprim´e en un seul volume par les ´editions Jacques Gabay, Paris.
+
+Souriau, J.-M., Quantiﬁcation G´eom´etrique, Commun. math. Phys., 1, 374-398 (1966)
+
+Souriau, J.-M., Structure des syst`emes dynamique, Dunod, collection Dunod Universit´e, Paris,
+
+1970. R´eimprim´e par les ´editions Jacques Gabay, Paris.
+
+Souriau, J.-M., Milieux continus de dimension 1, 2 ou 3 : statique et dynamique. Actes du 13`eme
+
+Congr`es Franc¸ais de M´ecanique, Poitiers-Futuroscope, 41-53 (1997).
+
+Souriau, J.-M., Structure of Dynamical Systems. A Symplectic View of Physics. Translated by
+C. H. Cushman-de Vries. Translation Editors R. H. Cushman and G. M. Tuynman. Progress
+in Mathematics Volume 149, Birkh¨auser, Boston, 1997.
+
+Thiry, M.Y., Les ´equations de la th´eorie unitaire de Kaluza, Compt. Rend. Acad. Sci. Paris, 226,
+
+216-218 (1948)
+
+Thiry, M.Y., , Sur la r´egularit´e des champs gravitationnel et ´electromagn´etique dans les th´eories
+
+unitaires, Compt. Rend. Acad. Sci. Paris, 226, 1881-1882 (1948)
+
+von Dongen, J., Einstein and the Kaluza-Klein particle, arXiv: 0009087v1 (2000)
+
+Woodhouse, N.M.J., Geometric Quantization, Clarendon Press (1991)
+
+54
+
+

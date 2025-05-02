@@ -1,0 +1,486 @@
+NEWTONIAN  UNIVERSES  AND  THE  CURVATURE
+
+By  W. H.  McCREA  (London) and  E.  A. MILNE  (Oxford)
+
+OF  SPACE
+
+[Received  7 March  1934]
+
+THE present paper investigates the relatio iship between the universes
+of  relativistic  cosmology  and  the  universes  that  can  be  constructed
+using  only  Newtonian  dynamics, Newtonian  gravitation,  and  New-
+tonian  relativity.  It  is  shown that  the  governing  differential  equa-
+tions  are  identical  in  form  in  the  two  cases,  and  that  the  localty
+observable  phenomena  predicted  on  the  two  theories  are  indistin-
+guishable.  It  is  further  shown  that  a  space  of  positive  curvature
+corresponds  to  a  Newtonian  universe  in  which  every  particle  has  a
+velocity less than  the  parabolic velocity  of  escape from  the observer,
+a  space  of  negative  curvature  to  one  in  which  every  particle  has  a
+velocity  greater  than  the  parabolic  velocity.  Thus  universes  of
+positive,  zero, and  negative  curvatures  correspond  to  elliptic,  para-
+bolic, and hyperbolic Newtonian universes respectively.  These results
+are  applied  to  obtain  a  number  of  new  results  concerning  Doppler
+effects  and accelerations in relativistic  universes.  Finally an  investi-
+gation  due  to  Lemaitre  is briefly  discussed.
+
+1.  The results obtained in the foregoing paper  can be extended  as
+follows  to  the  case in  which,  on  Newtonian  mechanics,  the  velocity
+v is not  necessarily  equal to the parabolic  velocity  of escape.  Let  v,
+the velocity of a particle at distance r from  the observer at time t, be
+radial in direction, and a function  of r and t.  The equation of motion,
+
+Dv_ 
+
+GM(r)
+
+may  be written 
+
+— -\-v—=—t.TtGpr, 
+at 
+
+or
+
+where p is a  function  of  t only.  The  equation  of  continuity  may  be
+written in the  form
+
+(2)
+
+(3)
+
+Hence, here, 
+
+-5 — (r2v)
+r  or
+
+74 
+is a function  of t only, independent of r.  Put
+
+W.  H.  McCREA  AND  E.  A.  MILNE
+
+then 
+
+• 
+
+which  integrates  in  the  form
+
+i.e. 
+
+1-%  =  -3F(t); 
+P at
+
+~ 
+
+-~{rH)  =  ^F{t),
+r* or
+
+rh) =  t*F(t)+G{t),
+v  =  rF(t)  + G^. 
+
+Insert this in (2).  Then, since p is a function  of t only,
+
+must  be  a  function  of  t  only.  This  requires  G(t) =  0.  Hence  by
+<5)' 
+v =  r F(t). 
+(6)
+Inserting this in  (2) as before,  we have
+
+F'(t)+[F(t)f  =  -*nOp. 
+
+(7)
+
+Writing  (6) in the  form
+
+and integrating  it following  the motion, we have
+
+(8)
+where/ defines the particle considered and R(t) is a universal function
+of (satisfying 
+
+r=fR(t), 
+
+=  _J_± 
+
+^  ^ 
+R  dt 
+
+K 
+
+3P dt' 
+
+Hence 
+where B  is a constant.  Introducing (9) and  (10) in (7), we find
+
+p =  b/R3, 
+
+of which the integral is
+
+R  dt2 
+
+R3
+
+where K  is a constant.  Hence, by (9),
+
+(4)
+
+(5)
+
+m
+K '
+(10)
+
+( 
+
+'
+
+(13)
+
+NEWTONIAN  UNIVERSES  AND  THE  CURVATURE  OF  SPACE 
+where 
+Accordingly  by  (6), 
+This is simply the Newtonian integral of motion, for since
+
+v  =  r\^TrGp-\-Ap^. 
+
+K  =  AB*. 
+
+75
+(14)
+(15)
+
+it may be written
+
+M{r)  =
+
+and  of course M(r) is constant  following  the  motion.
+
+It  follows  that  the  particle,  and  so  every  particle,  possesses  the
+elliptic,  parabolic,  or  hyperbolic  velocity  according  as  A  § 0.  The
+constant  A  is  the  same  for  all  particles.  By  (6)  or  (15),  v  obeys  a
+velocity-distance  proportionality  at  any  one  epoch;  and  (15)  gives
+explicitly  the  connexion  between  the mean  density p and  the  coeffi-
+cient  in  the  velocity-distance  proportionality.
+
+Differentiating  (16) following  the  motion, we see that  v obeys (1),
+so that  (16) is an actual solution.  Moreover, it is clear that the  solu-
+tion  satisfies  Einstein's  cosmological  principle.  The  density  p  is
+obtained as a function  of t by integrating  (12) in the  form
+
+~J 
+o 
+
+where  p  =  1/83.
+
+(§TTGB+KR)*  -  j  (InG+Ad)*' 
+
+( 
+
+)
+
+o
+
+2.  Comparison with the equations of relativistic cosmology.
+
+By  (10), equation  (11) may be written
+
+2
+
+where 
+Similarly, (12) may be written
+
+K =  8nG/c2.
+
+any  k
+
+where 
+
+k = - ^ = - ^ -. 
+
+Adding  (18) and  (19) we. have
+
+l ^2
+
+  +  A  =  0. 
+
+cdt)  ^R*
+
+Equations  (19) and  (19') are formally  identical with the  equations
+
+(20)
+
+(19')
+
+W.  H.  McCREA  AND  E.  A.  MILNE
+
+76 
+of  relativistic  cosmology* for  an  expanding  universe  of  'radius'  R,
+curvature  k/R2,  with  A  =  0,  p  =  0.  Thus  the  Newtonian  distance
+r is the  same  function  of  the  Newtonian  time t as the  'distance'  r is
+of  'cosmic time' t in the relativistic solutions.  Further, we see that  an
+expanding  space  of  positive  curvature  (k  >  0)  corresponds  to  a
+Newtonian  universe  with  elliptic  velocities  (.4  <  0),  an  expanding
+space  of  negative  curvature  (k <  0)  to  a  Newtonian  universe  with
+hyperbolic  velocities  (A  >  0).f  By  choice  of  a  multiplying  factor
+for  R,  which  is equivalent  to  choice of  B,  k  may  be reduced to  ±  1.
+The  constant  B  has  no  physical  significance;  it  disappears  from  all
+formulae  relating  observable  quantities.  The  constant  A  alone is of,
+physical  significance.!
+
+It  follows  that  the  local properties  of  the  universes  in  expanding
+spaces of positive, zero or negative curvatures are observationally  the
+same as in Newtonian universes with velocities respectively less than,
+equal to, or greater  than  the  parabolic velocity of escape.  This gives
+great insight into the physical significance of expanding curved space.
+3.  The 'cosmological'  terms involving  the  cosmical constant  A are
+at  once  obtained,  if  we  superimpose  on  Newtonian  gravitation  a
+repulsive  force  proportional  to  distance.  By  a  simple  application of
+the triangle of forces the  equation of motion  (1) becomes modified  to
+
+and  the  equation  of  continuity  is  unaffected.  The  integrations  can
+now  be  carried  out  as before,§  and  we are led to  equations  for  R of
+the relativistic  form  with the  usual A-terms.  Einstein's  cosmological
+principle is still satisfied.  But from this point of view the introduction
+of  A-terms  is  somewhat  artificial.  Their  introduction  is  permissible
+simply  because  they  are  the  only  new  type  of  action  at  a  distance
+(in addition to Newton's law) compatible with the satisfaction  of  the
+cosmological  principle.  This last  point  may  be worthy  of remark  as
+throwing light on the nature of a  'law of  gravitation'.
+
+•  e.g. H. P. Robertson, Reviews of Modern Physics, 5  (1933), 62-90,  equa-
+tions  (3.2).  It  is  clear  that  (18)  and  (19)  are  formally  identical  with  the
+Newtonian  equation of motion and  its first  integral, and  that  they imply  the
+equation  of  continuity.
+
+t  Of. de Sitter,  Univ. California Pub.  Math.  2 (1933), 171.
+{. e.g. the curvature k/R-  is simply —Ap*[c2.
+§  The  velocity-distance  proportionality  becomes  v  =  r[|7rG'/3+j4p!+ic2A]'.
+
+NEWTONIAN  UNIVERSES  AND THE CURVATURE  OF SPACE  77
+4.  Omitting  further  consideration  of the A-terms, we may  put, in
+
+(17),  9 =  \TTG<J>/\A\,  when it becomes
+
+[i +  ^J 
+
+(22)
+
+If  A  >  0 (hyperbolic  case), as t increases, (f> or 9 steadily  increases,
+and p steadily  decreases to zero.  If A  <  0 (elliptic case) 9 can  never
+exceed  \nGj\A\,  and the density p has  a lower  limit,  after  which it
+increases again.  We then  have an oscillating  universe.  It should be
+noted  that  in  all  cases  Dv/Dt  is  always  negative,  so that  in the
+Newtonian case each particle is steadily  decelerated.
+
+In the hyperbolic case v/r -*• 0 following any particle, and v -»• const.,
+though  to a different  constant  for each  particle  corresponding  to a
+different  value of the parameter /.  Also, since p -*• 0, the asymptotic
+form corresponds to the 'hydrodynamic' solution previously obtained*
+by one of us from kinematic principles only.  This has been previously
+shown  by the methods of general relativity,f  but owing to the  formal
+identity  of the various  relations  with the corresponding  Newtonian
+ones  it holds  in the Newtonian  case  as well.  In particular,  in this
+asymptotic  case we  have  v = r/t for every  particle.  We  can  easily
+show,  still  of  course  omitting  cosmical  repulsion,  that  in all other
+
+c a S eS 
+For  the  integral  (12) may be written
+
+v < r/t. 
+
+-
+
+where  C =  \irGB =  \KC2B  >  0 since the  density is positive.  Hence
+for  small R we have 
+(2"\
+
+t~%C-lR* 
+
+where we choose t =  0 for R =  0.  Also from  (6) and  (9),
+
+Therefore  we shall have v <  r/t, provided
+
+v =  rR'/R.
+
+t <  R/R'. 
+
+(23)
+
+(26)
+
+*  E. A. Milne, Zeits.fiir  Astrophya. 6 (1933), 1-95, 71 et seq.
+t  W. O. Kermack  and  W. H. McCrea,  M.N.R.A.S.  93 (1933),  519-29;
+also H. P. Robertson,  Zeits.fiir  Aalrophya.  7 (1933), Heft  3.  In the present
+paper we leave aside the question  of the wider  significance  of the  kinematic
+solution.
+
+W.  H.  McCREA  AND  E.  A.  MILNE
+
+78 
+But from (24),
+d(R\_d( 
+dt\R'j 
+
+R 
+
+\ 
+dtXiCR-t+K)*) 
+
+ICR-i+K 
+(CR-i+K)*
+
+_
+
+(27)
+
+and this exceeds unity for K  >  0.  Thus in the hyperbolic case R/R'
+increases faster than t, and, from (25), R/R'  =  0 when t =  0, so that
+the  inequality  (26) holds  for all t >  0.  Thus  (23) is established  in
+the hyperbolic case.  In the elliptic case a similar proof  holds so long
+as  R'  >  0,  and  after  that  the  inequality  is  true  a fortiori.  This
+shows in a simple manner the  retarding  effect  of gravitation  on the
+scattering  of the particles.
+
+It  is of some interest to integrate  (17), or equivalently  (24); (17) is
+more  significant,  since the meaningless  multiplier  B  is absent.  We
+find, putting  %TTO = a.
+
+Ki 
+
+(A  =  -A'  <0,k> 
+
+0),
+
+(A>0,
+
+where it may be recalled that p = I/O3.
+
+5.  Doppler  effect  in  curved  universes.  The general  features
+of the  motions  studied  in  this  paper  suggest  that  in  a  relativistic
+universe  the Doppler  effect  for  any given  particle  will  decrease  as
+the  epoch of observation  advances, and for negative curvatures tend
+to  a  constant  limit,  different  for  different  particles.  We shall now
+show that  this actually is the case.
+
+We take the metric for the 'expanding-space' universe in the form*
+
+so that  the particles have fixed coordinates in the space  represented
+by du2.  Hence if t is the 'cosmic time' of departure of a light-signal,
+t2 its time of arrival at the observer, we have
+
+u
+
+*  H. P. Robertson, loc. cit.
+
+NEWTONIAN  UNIVERSES  AND  THE  CURVATURE  OF  SPACE 
+79
+where J du is the coordinate distance along the light -track, for which,
+of course, ds =  0.  Hence
+
+If  then  A  is  the  emitted  wave-length,  Ag  the  observed  wave-length,
+
+i-m  =  0- 
+
+(29)
+
+A2 
+
+dt2 
+
+R(t2)
+
+since  R(t)  is  an  increasing  function  of  t,  and  t2 >  t.  This  gives  the
+red-shift.  Consequently, this shift  will decrease as the  time of obser-
+vation t2 advances, if 
+
+,
+
+that is, if
+
+R'(t2)  <  R'(t), 
+
+that  is, using  (29), if 
+(31)
+that  is, if  S'(t)  is a decreasing function  of t.  But we have proved,  (cf.
+equation  (8)), that  R{t) is the  same  function  of  t, apart  from  a con-
+stant  multiplier, as the  Newtonian  distance r is of Newtonian time  t,
+in the corresponding Newtonian universe.  Now in this universe every
+particle  is  decelerated. Hence  d2r/dt2 <  0,  or  d2E/dt2  <  0.  Hence
+dB/dt  is a  decreasing  function  of  t.  Therefore  the Doppler effect de-
+creaseswith  advancing epoch  of  observation.  Also, in the  asymptotic
+form  of the hyperbolic case, R(t)  =  tx  const., and so
+
+from  (28).*
+
+AJJ/A =  tjt  =  const.,
+
+These  results  are  worthy  of  note,  since  it  is  sometimes  supposed
+that  particles necessarily  undergo acceleration  and not  deceleration.
+As a  matter  of  fact  acceleration  away from  the  observer  is possible
+only  when  cosmical  repulsion  predominates  over  gravitational
+attraction.
+
+6.  Lemaltre's  theory  of  condensations.  A  further  instance
+of  the  applicability  of  the  same physical interpretation  of  the  equa-
+tions  of  general  relativity  as  is  given  in  this  paper  is  provided  by
+Lemaitre's  theory  of  the formation  of  condensations.t
+
+*  Kermack and McCrea, loc. cit. equation (21).
+t  G. Lemaitre, Gomptes Rendua,  196 (1933),. 903-4, 1085-7.
+
+80  NEWTONIAN  UNIVERSES  AND  THE  CURVATURE  OF  SPACE
+He studies the motion of a distribution  of matter  having  spherical
+symmetry about the origin, and obtains for any particle an  'equation
+of  motion' 
+
+.»
+
+- 
+
+/„ , 2 
+(I)  = - c2s i n2
+
+x+ 2 ( ? ^p  + JAc^ 
+
+(32)
+
+where r is its 'distance' from the origin, (x, 0, <f>) are the coordinates of
+the particle in the space in which it is fixed, and
+
+m(x, t) = 
+
+<krrpr2 dr
+
+r(Xt)
+
+o
+
+gives a measure of the mass inside radius r.  With the addition of the
+cosmical  constant  A, (32)  is  the  analogy  for  Lemaitre's  case of  our
+equation  (16).
+
+He  proceeds  to  treat  the  case  where  m(x, t) is  such  a  function  of
+X alone that  there exists a real value Xo such that  the positive  values
+of r  for  which  dr/dt =  0 are imaginary,  coincident,  or real,  according
+as  x  >  Xo<  X =  Xo>  X <  Xo- I* follows  that,  if  r  is  small  when  t  is
+small, then, if x  >  Xo> r  varies from zero to infinity; if x — Xo> r  tends
+asymptotically to a value r0  >  0; if x  <  Xo> r  increases up to the  first
+positive  root  of  drjdt =  0, and then  decreases again  to  zero.  That  is
+to  say,  the  matter  outside  x  =  Xo  continues  to  spread  away  from
+the centre, while the matter inside x  — Xo ultimately falls  back upon
+itself.  This,  then,  is  the  mode  of  formation  of  condensations,  for
+example, the  extra-galactic  nebulae, contemplated  by Lemaitre.  He
+points out that  it is necessary for the form of this theory that  A  ^  0.
+Without going further  into the implications of Lemaitre's assump-
+tions, it is now clear that his work would be interpreted in Newtonian
+language  by  saying  that  he  is  dealing  with  such  a  distribution  of
+matter  and  motion  that  all  the particles  outside  a  certain  shell are
+endowed with  a  'hyperbolic' radial  velocity of  escape from  the matter
+' between themselves and the centre, while all the particles inside this shell
+have an  'elliptic'  radial velocity, and so must fall  back on the centre*
+
+*  Added  in proof:  In  a very recent paper  (Proc.  Nat. Acad.  Sci. 20 (Jan.
+
+1934), 12-17), seen after  the above was written, Lemaitre  has himself  alluded
+to  the  classical  analogy  to  his  work,  without  however  following  it  out  in
+detail  or showing the  connexion  with the equation  of  continuity.
+
+

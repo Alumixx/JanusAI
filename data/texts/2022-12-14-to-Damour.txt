@@ -1,0 +1,176 @@
+ 
+
+1 
+
+Jean-Pierre Petit  
+JPPETIT1937@@yahoo.fr                                                            à Mr T.Damour 
+ 
+                                                                                                          IHES  
+ 
+                                                                                            Pertuis le 14 décembre 2022 
+ 
+ 
+ 
+Monsieur, 
+ 
+     Pendant quatre années vous avez dit à qui voulait vous entendre :  
+ 
+
+-  Ne perdez pas votre temps avec ce modèle Janus. J’ai montré qu’il était incohérent 
+physiquement et mathématiquement dans un article que j’ai installé le 4 janvier 2019 
+sur ma page du site de l’IHES  
+ 
+
+    Et cela a eu un effet considérable. Toutes les portes des laboratoires, des séminaires se sont 
+fermées devant nous. Et pourquoi répondre à l’auteur de tels travaux ? Pourquoi lire ces pages 
+de calcul envoyée par un tel  amateur-mythomane  ? Pourquoi le recevoir, l’entendre ?  
+ 
+    Il vous aura fallu attendre quatre longues années, voyant que ma collègue Marie-France 
+Duval, appuyé par des collègues avait parcouru ces calculs et n’y avait pas trouvé d’erreur, 
+pour  que  vous  vous  décidiez  à  votre  tour  à  les  lire,  et  pour    réaliser  que  l’incohérence 
+rédhibitoire que vous aviez pointée disparaissait au prix d’une infime modification,  à travers 
+la reformulation des équations dans une revue à comité de lecture, en date du premier janvier 
+2019. 
+ 
+   Je vous cite :  
+ 
+
+- 
+
+Il  est  vrai  que  cette  modification  élimine  la  violente  contradiction  entre  les  deux 
+équations  newtonienes  (6)  et  que si l’on  prend  formellement  la  limite  newtonienne 
+dans  les  équations  (7),  ces  deux  équations  deviennent  compatibles,  car  elles 
+deviennent toutes deux identiques à l’unique équation de structure newtonienne.  
+
+  
+      De fait, la forme des deux tenseurs traduisant les interactions entre les deux populations, 
+de  masse  positive  et  de  masse  négative,  que  rien  n’imposait  a  priori,  devait  simplement 
+correspondre à la satisfaction de cet équilibre physique, à l’intérieur des masses. Telle était la 
+solution de ce problème, que j’avais trouvée dès 2018, et qui a débouché sur la nouvelle 
+formulation des équations de champ du modèle Janus, sous la forme d’une publication dans 
+une revue à comité de lecture, que je vous avais aussitôt adressée, avec le détail des calculs 
+correspondants.   
+ 
+    Pourquoi n’aviez-vous pas pris la peine, pendant quatre ans, de prendre connaissance de ce 
+calcul ? Serait-ce, comme en a témoigné Jean Staune, parce que vous auriez vu dans ces pages 
+l’expression du « délire logique d’un homme à l’état à l’état mental vacillant » ? On ne saura 
+jamais jusqu’où vous êtes allé dans la construction d’un discrédit.  
+
+ 
+
+2 
+
+ 
+     Mais nous voilà le 12 décembre 2022. Vous prenez de nouveau la plume en titrant cette 
+fois :  
+ 
+
+Incohérence physique et mathématique du ‘modèle Janus-2019’ de Jean-Pierre Petit. 
+
+ 
+     Cette fois, vous avez pensez avoir mis en lumière une nouvelle et grave incohérence 
+physique et mathématique.  
+ 
+    Quand on considère l’équation d’Einstein, celle-ci fournit aussitôt la façon dont une 
+particule témoin, d’épreuve, se comporte, quand on la soumet au champ gravitationnel 
+produit par une masse, selon le schéma :  
+ 
+
+Champ gravitationnel créé par une masse à Action sur une particule d’épreuve 
+
+ 
+    Cette réaction se traduisant par la forme des courbes géodésiques trajectoires.  
+ 
+    Ainsi,  lorsque  Bondi  tente,  en  1957,  d’introduire  des  masses  négatives  dans  le  modèle 
+cosmologique,  l’équation  de  champ  d’Einstein  lui  fournit  immédiatement  la  réponse 
+(évidente, puisque les particules d’épreuve cheminent sur les même trajectoires-géodésiques, 
+que leur masse soit positive ou négative)  :  
+ 
+
+- 
+
+- 
+
+Les masses positives attirent aussi bien leurs semblables que les masses négatives.  
+ 
+Les masses négatives  repoussent aussi bien leurs semblables que les masses 
+positives.  
+
+ 
+   Ceci engendrant l’ingérable  phénomène runaway, traduisant une violation des principes 
+physique  d’équivalence  et  d’action-réaction.  La  communauté  scientifique  en  déduisit  dès 
+1957  l’impossibilité définitive d’adjoindre des masses négatives au modèle cosmologique.  
+ 
+     Pour traduire, sous la forme d’équations de champ couplées, des lois satisfaisant ces deux 
+principes, d’équivalence et d’action-réaction j’envisage les lois  :  
+
+ 
+Les masses positives s’attirent  
+ 
+Les masses négatives s’attirent  
+ 
+Les masses de signes opposés se repoussent  
+
+- 
+
+- 
+
+- 
+
+ 
+      et je crée alors le système de deux équations de champ couplées Janus.  
+ 
+       Vous écrivez, je vous cite :  
+ 
+
+-  Une nouvelle incohérence concerne l’idée de base du modèle Janus (tel qu’il a été défini 
+dans un cadre newtonien), c’est-à-dire le fait que, dans ce modèle, les masses positives 
+attirent les masses positives ; les masses négatives attirent les masses négatives, mais 
+
+ 
+
+3 
+
+les masses positives et négatives se repoussent.  Une conséquence particulière de ce 
+principe fondamental du modèle Janus doit être qu’une étoile de masse négative doit 
+attirer les masses d’épreuve négatives dans son voisinage. Mais de fait les équation 
+Janus impliquent le contraire, les masses d’épreuve négatives sont repoussées.  
+
+ 
+   Si c’était vrai, cela serait effectivement très grave et constituerait une incohérence 
+ingérable, rhédibitoire.  
+ 
+
+Malheureusement,  c’est complètement faux ! 
+
+ 
+    Votre conclusion montre que vous n’avez rien compris au modèle, dont la propriété centrale 
+est,  grâce  au  signe  moins  (que  vous  oubliez)    qui  précède  la  constante  d’Einstein  dans  le 
+second  membre  de  la  seconde  équation,  de  reconstituer  les  principes  d’équivalence  et 
+d’action-réaction, donc de produire des lois d’interaction permettant d’échapper à l’ingérable 
+paradoxe runaway. Et tel était son but, pour permettre à des masses négatives de constituer 
+une nouvelle donne en cosmologie.  
+ 
+    Je vous mets au défi de publier ces lignes à la suite de votre nouveau texte, dans votre page 
+du site de l’IHES, sous peine de sombrer immédiatement dans le ridicule le plus complet, vis-
+à-vis de n’importe quel scientifique, chercheur, étudiant, enseignant ou ingénieur ayant le 
+niveau de mathématiques spéciales, qui auront suivi le développement du modèle Janus. Et 
+ils sont de plus en plus nombreux.  
+ 
+    La mise en ligne, le 12 décembre 2022, de ce nouvel article dans votre page du site de l’IHES 
+traduit bien votre agressive fébrilité à discréditer une démarche où d’autres ont réussi, là où 
+vous avez échoué, en 2002, lors de la publication dans Physical Review D d’un article de 40 
+pages,  représentant  la  première  construction  d’un  système  de  deux  équations  de  champ 
+couplées.  Un  long  article,  à  prétention  d’une  grande  rigueur  mathématique,  avec  des 
+gravitons dotés d’un spectre de masse, se signalant par la complète vacuité de ses conclusions.   
+ 
+    Les  citoyens  français  finiront  par  réaliser  comment  vous  déshonorez  de  ce  fait  l’habit 
+d’académicien que vous portez en vous efforçant, pour une simple question d’ego, de faire 
+barrage à une idée nouvelle.  
+ 
+ A bon entendeur salut.  
+ 
+Jean-Pierre Petit  
+  
+
+

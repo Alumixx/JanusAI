@@ -1,0 +1,412 @@
+ 
+
+1 
+
+Réponse aux attaques de T. Damour. 
+
+ 
+En  2019  l’académicien  Thibault  Damour,  «  Monsieur  Cosmologie  »  en  France,  décide 
+d’intervenir  pour  s’opposer  à  l’intérêt  croissant  que  suscite  notre  Modèle  Cosmologique 
+Janus, au sein du public, parmi les étudiants, les ingénieurs et les chercheurs. 
+ 
+
+ 
+
+ 
+
+Pour lui, il ne peut s'agir que d'un travail d'amateur, entaché d'incohérences physiques et 
+mathématiques, dépourvu de tout avenir, bref, d'une imposture. 
+ 
+Il réagit donc en m'envoyant, à mon domicile, en janvier 2019, une lettre recommandée avec 
+accusé de réception (une démarche inédite venant d'un académicien), lettre accompagnée 
+d’un premier article qu’il met en ligne sur sa page de l’IHES. Il en transmet également une 
+copie  à  la  presse  et  à  différents  contacts.  Dans  le  même  temps,  il  publie  sur  sa  page 
+personnelle du site de l'Institut des Hautes Études, auquel il appartient, un article intitulé « 
+Sur le modèle Janus ». 
+ 
+Dans cet article il se concentre sur une première formulation du modèle Janus correspondant 
+à deux publications de 20141 . Nous lui signalons aussitôt que le problème qu’il soulève a déjà 
+trouvé  sa  solution,  en  lui  envoyant  l’article  correspondant2  et  nous  lui  proposons  une 
+rencontre pour lui fournir tous les éclaircissements.  
+ 
+Pas de réponse.  
+ 
+Dans l’impossibilité d’établir un dialogue, nous positionnons sur internet le détail des calculs 
+en question.  
+ 
+
+1 J.P.Petit,	G.D’Agostini	:	Negative	Mass	hypothesis	in	cosmology	and	the	nature	of	dark	
+energy.	Astrophysics	And	Space	Sccience,.	A	29,	145-182	(2014)	
+J.P.Petit,	G.D’Agostini	:	Cosmological	Bimetric	model	with	interacting	positive	and	
+negative	masses	and	two	different	speeds	of	light,	in	agreement	with	the	observed	
+acceleration	of	the	Universe.	Modern	Physics	Letters	
+A,	Vol.29	;	N°	34,	2014	;	Nov	10th 
+2 J.P.Petit,	G.	D’Agostini,	N.Debergh	:	Physical	and	mathematical	consistency	of	the	Janus	
+Cosmological	Model	(JCM).	Progress	in	Physics	2019	Vol.15	issue	1	
+
+ 
+
+ 
+
+Pas de réaction.  
+ 
+Trois  années  s’écoulent.  Des  collègues  chercheurs,  s’étant  forgé  leur  propre  opinion  en 
+refaisant ces calculs démarchent en 2022 auprès de Mr T. Damour en lui demandant qu’il 
+porte  attention  à  ce  document.  En  décembre  2022  il  formule  sa  réponse  en  installant  un 
+second article sur sa page de l’IHES :  
+ 
+
+ 
+https://www.jp-petit.org/papers/cosmo/2022-12-12-Damour-IHES.pdf  
+ 
+
+https://www.ihes.fr/~damour/publications/JanusDecembre2022.pdf 	
+	
+
+Cet article se révèle d’emblée mathématiquement incohérent. Ci-après des extraits. D’abord 
+la présentation du système de équations de champ :  
+ 
+
+ 
+Nous l’adaptons ensuite à nos propres notations.  
+ 
+En divisant les termes de la première équation par w+, ceux de la deuxième par w- et en 
+utilisant nos notations ce système devient :  
+ 
+
+2 
+
+ 
+
+ 
+
+3 
+
+ 
+
+(a)																																																								R!"($)−12	R$g!"($)=χ,T!"($)+/g&g$	T0!"(&)1 
+(b)																																																					R!"(&)−12	R&g!"(&)=−χ,/g$g&	T0!"($)+T!"(&)1 
+	Ce	système	de	deux	équations	de	champ	(a)	et	(b)	est	identique	au	système	(1)	de	ce	
+second	article	de	Damour.		
+	Nous	pouvons	l’écrire	sous	une	forme	«	mixte	»	:		
+	(c)																																																						R($)!"−12	R$δ!"=χ,T($)!"+/g&g$	T0(&)!"1 
+(d)																																																		R(&)!"−12	R&δ!"=−χ,/g$g&	T0($)!"+T(&)!"1 
+	
+
+Plaçons-nous d’emblée dans le cadre de l’approximation Newtonienne. Auquel cas :  
+ 
+
+(e)     
+
+ 
+
+    
+
+T µ
+( + )ν=
+
+⌢T µ
+( + )ν=
+
+  
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎝
+
+ρ(+ )
+0
+0
+0
+
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎠
+
+T µ
+( − )ν=
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎝
+
+ρ(− )
+0
+0
+0
+
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+
+ 
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎠
+
+ 
+Le système des équations (c) et (d) va nous permettre de déterminer le sens des interactions 
+entre les différents types de masses. Concernant l’interaction entre deux masses positives, 
+ceci résulte de l’examen des géodésiques de l’équation (c), quand le champ est créé par une 
+masse positive, ce qui devient l’équation d’Einstein, de la relativité générale, soit :  
+
+(f)																																																												
+
+	
+
+( + )ν
+
+R ( + )δµ
+
+ν = χ T µ
+
+On fera alors recours au couple des deux métriques de Schwarzschild, intérieure et extérieure. 
+Ainsi, la forme des géodésiques nous renseignent sur la forme de l’interaction :  
+
+R µ
+( + )ν −
+ 
+
+1
+2
+
+ 
+
+Fig.1 : Les masses positives s’attirent mutuellement 
+
+ 
+
+ 
+
+4 
+
+ 
+
+( − )ν
+
+	
+
+1
+2
+
+R ( − )δµ
+
+ν = − χ T µ
+
+R µ
+(g)                                                            
+( − )ν −
+ 
+
+Examinons  maintenant  ce  qu’il  en  est  de  l’interaction  entre  deux  masses  négatives.  Les 
+géodésiques seront alors issues de l’équation (b). Le champ sera créé par une masse négative, 
+conformément à l’équation ci-après :  
+ 
+
+Avec	:		
+(h)																																																										
+	Or,	la	masse	volumique	de	la	distribution	de	masse	négative	est	elle-même	négative	:		
+	(i)																																																																																	
+	De	ce	fait	et	du	fait	du	signe	moins	qui	se	situe	devant	la	constante	d’Einstein,	l’équation	
+(g)	donnera	alors	des	géodésiques	identiques	à	celles	de	la	figure	1	:		
+			
+
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+
+ρ(− )
+0
+0
+0
+
+ ρ(−) < 0
+
+T µ
+( − )ν=
+
+		
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎠
+
+	
+
+ 
+
+	
+Fig.2	:	Les	masses	moins	s’attirent	
+		En	poursuivant	la	lecture	de	son	article,	nous	lisons	:		
+
+	
+
+ 
+
+5 
+
+ 
+
+ 
+Cette erreur réside dans le fait qu'il n'a pas mené son analyse de manière rigoureuse, en 
+écrivant « il est bien connu que… ». Cela signifie qu'il reprend les conclusions de Bondi en 
+1950, qui tentait d'introduire des masses négatives dans le modèle de la Relativité Générale, 
+c'est-à-dire dans l'équation d'Einstein. Ces deux situations sont totalement différentes, et tout 
+repose sur l'existence de ce signe moins dans le second membre de la seconde équation de 
+champ, que nous avons indiqué en rouge dans les équations (b), (d) et (g). 
+ 
+Le signe moins introduit en amont, dès la construction du système d'équations de champ à 
+partir d'une action, permet de contourner l'écueil représenté par le phénomène runaway, 
+avec ce qu'il implique : la violation des principes d'action-réaction et d'équivalence. C'est l'une 
+des clés du modèle Janus, qui a totalement échappé à l'œil de T. Damour, tout comme à celui 
+de Sabine Hossenfelder, qui était parvenue à la conclusion que ces violations de ces deux 
+principes physiques étaient inhérentes au passage à une configuration bimétrique. 
+ 
+Réalisant  son  erreur,  T.  Damour  met  alors  en  place  un  second  article  où  cet  argument 
+disparaît. Il reprend alors la critique qu’il avait formulée quatre ans plus tôt, tout en ajoutant, 
+nous reproduisons cet extrait :  
+
+ 
+
+ 
+
+6 
+
+ 
+Dans les premières lignes il convient, avec quatre ans de retard, que la solution que nous 
+avions publiée en 2019 résolvait le problème, dans un cadre newtonien, qui représente 99 % 
+des situations envisagées en astrophysique. Il se replie alors sur le cas des étoiles à neutrons, 
+en oubliant que dans modèle cosmologique Janus les masses de signes opposés s’excluent. 
+Ainsi,  dans  les  galaxies  la  densité  de  masse  négative  est  négligeable.  La  modélisation  des 
+étoiles  à  neutrons  se  résume  dès  alors  aux  solutions  (métrique  intérieure  plus  métrique 
+extérieure)  de  l’équation  d’Einstein.  Il  n’est  nul  besoin  de  prendre  en  considération  le 
+« tenseur d’interaction » de cette équation, puisqu’il est négligeable. 
+ 
+Quand faut-il prendre en charge ce tenseur d’interaction ? Réponse : quand au contraire c’est 
+la masse négative qui domine. C’est à dire dans ces grands vides où se logent des conglomérats 
+sphéroïdaux de masse négative (dont l’existence à a été confirmée par le « dipôle repeller »). 
+C’est la masse positive qui est cette fois négligeable. Et les équations à prendre en compte 
+deviennent :  
+
+ (j)																																																																						R($)!"−12	R$δ!"=χ/g&g$	T0(&)!"
+(k)																																																																					R(&)!"−12	R&δ!"=−χ	T(&)!"
+
+ 
+Ce qui intéresse l’astronome et l’astrophysicien c’est bien évidemment ce qui est observable, 
+c’est à dire ce qui émane de l’équation (j) et qui permet, par exemple, de déterminer les 
+géodésiques 
+le  champ 
+(antigravitationnel) généré par le conglomérat sphéroïdal. Mais celui-ci n’est pas « une étoile 
+à neutrons de masse négative ». C’est un ensemble d’atomes d’antihydrogène et d’antihélium 
+de masse négative, constituant ce qui peut être comparé à une gigantesque proto-étoile où la 
+vitesse  d’agitation  de  ces  constituants  est  totalement  négligeable  devant  la  vitesse  de  la 
+lumière dans ce milieu. Donc on utilisera la forme approchée du tenseur d’interaction :  
+
+(d’énergie  positive) 
+
+les  photons 
+
+suivies  par 
+
+subissant 
+
+ 
+
+ 
+
+(l)												
+
+7 
+
+																																																																			
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎝
+
+ρ(− )
+0
+0
+0
+
+⌢T µ
+( − )ν "
+
+  
+
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+
+	
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎠
+
+ 
+On  se  situe  alors  dans  ce  qui  a  été  présenté  dans  l’article  de  2019,  dans  l’approximation 
+Newtonienne. Ce qui nous donnera un effet de « lentille gravitationnelle négatif ».  
+ 
+A titre de conclusion on pourrait dire que ce qui pêche chez T. Damour est son absence de 
+« sens physique ». Il ignore le sens de l’expression « négligeable devant … » qui est l’outil de 
+base du physicien et de l’astrophysicien. La loi de Newton est … une loi approchée. Il est 
+dommage que par son refus de toute rencontre, de tout dialogue, il donne à nos travaux une 
+réputation imméritée d’incohérence, que beaucoup prennent hélas en référence.   
+ 
+Nous  avons  entrepris,  avec  des  mathématiciens,  de  dégager  solidement 
+les  bases 
+mathématiques du modèle, d’essence topologique, le but étant de publier une suite d’articles 
+dans des revues de mathématiques de haut niveau. Ceci faisant suite à la présentation du 
+modèle,  au  printemps  2023,  dans  un  colloque  de  physique  mathématique,  devant  des 
+mathématiciens, auxquels leur compétence donnait la possibilité de se forger une opinion 
+précise de la cohérence mathématique du modèle, laquelle différait totalement de celle de 
+T.Damour. L’un d’eux présenta même une communication consacrée à la thermodynamique 
+du modèle Janus.  
+ 
+
+J.P-Petit    2023 
+
+ 
+
+ 
+ 
+
+

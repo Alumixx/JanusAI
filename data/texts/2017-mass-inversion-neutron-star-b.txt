@@ -1,0 +1,1540 @@
+	
+
+1	
+
+	
+J.P.	Petit	
+SECOND	PART		
+
+Mass	inversion	in	a	critical	neutron	star:	
+An	alternative	to	the	black	hole	model.		
+
+_______________________________________________________________________________________	
+
+_______________________________________________________________________________________	
+Keywords:	Black	hole,	field	equation,	interior	Schwarzschild	solution,	X-ray	
+binary,	leaking	neutron	star,	criticality,	collapse,	gravitational	waves,	
+negative	mass,	Kerr	metric,	radial	frame-dragging,	ergosphere,	orbifold,	
+coordinate	time,	proper	time,	Eddington	time,	Janus	bimetric	model	
+Abstract	:	In	this	second	part,	we	describe	the	second	solution	to	the	
+Einstein	field	equations	published	by	Karl	Schwarzschild	in	February	1916,	
+which	refers	to	a	geometry	within	a	sphere	of	constant	density,	a	paper	that	
+has	been	translated	in	English	only	in	Late	1999,	still	ignored	by	most	black	
+hole	specialists.	It	is	shown	that	Schwarzschild	perfectly	identified	and	
+described	the	outbreak	of	a	physical	criticality	occurring	in	the	center	of	a	
+massive	star	a	century	ago,	before	the	geometric	criticality	comes	into	play.	
+On	this	basis,	a	new	model	has	been	built,	alternative	to	the	stellar	black	hole	
+model,	describing	the	behavior	of	a	subcritical	neutron	star	destabilized	by	
+an	excess	of	matter	incoming	from	a	companion	star.	The	"frozen	time"	issue,	
+classically	associated	with	the	phenomenon,	is	dealt	by	taking	into	account	
+frame-dragging	effects	due	to	the	rotation	of	the	object	in	the	Kerr	metric.	
+_______________________________________________________________________________________	
+Introduction	
+In	the	first	part	of	this	article,	we	have	re-examined	the	solution	to	the	
+Einstein	field	equations	found	by	Karl	Schwarzschild	in	1916	[1]	from	a	
+mathematical	angle,	showing	that	its	analytic	continuations	are	nothing	but	
+extensions	into	a	purely	imaginary	realm.		
+If	we	admit	this	idea	belongs	to	Physics,	then	we	must	take	into	account	all	
+that	has	been	concocted	for	half	a	century	with	respect	to	this	"interior	of	
+black	holes",	in	particular	their	"thermodynamics"	and	the	"central	
+singularity".	As	for	the	alteration	of	the	metric	signature	going	from		 ( + − − − )	
+to	 ( − + − − )	when	the	surface	of	the	event	horizon	is	crossed,	it	is	recalled	this	
+is	conventionally	interpreted	by	saying	that	inside	the	black	hole,	t	becomes	
+a	space	variable,	and	r	a	time.		
+
+	
+2	
+Before	considering	a	real	extension	of	this	solution,	we	shall	consider	the	
+second	paper	published	by	Schwarzschild	in	February	1916.	[2]	
+
+Fig.	1	–	Karl	Schwarzschild's	second	paper,	24	February	1916:	"On	the	gravitational	
+field	of	a	sphere	of	incompressible	fluid	according	to	Einstein's	theory."	
+Since	this	essential	article	was	not	available	in	English	until	December	1999,	
+[2]	it	is	quite	likely	that	black	hole	specialists	are	unaware	of	its	content,	and	
+perhaps	even	its	existence.		
+
+	
+
+Fig	2	–Schwarzschild	takes	Einstein's	equations	over.	
+
+	
+3	
+In	equation	(3)	we	recognize	the	covariant	form	of	the	energy-momentum	
+tensor.	In	(4)	its	trace.	And	just	below,	Einstein's	constant,	expressed	using	a	
+speed	of	light	taken	equal	to	unity.	In	(5)	the	field	equation	Einstein	has	just	
+published	a	few	months	earlier.		
+	
+
+	
+
+Fig.	3	
+With	  r =
+x2 + y2 + z2,	after	renewing	Einstein's	hypothesis	about	the	choice	
+of	the	determinant	of	the	metric	  
+g11 g22 g33 g44 = − 1	he	takes	again	almost	in	the	
+same	form	except	an	additional	coefficient	in	(7)	his	choice	of	coordinates	
+already	implemented	the	month	before	in	his	exterior	solution	(equation	(7)	
+of	the	"Massenpunkt"	paper	[1]).	In	doing	so,	he	has	positive	functions	
+	which	gives	a	metric	signature	  ( + − − − )	like	his	exterior	
+solution.	Equations	(9)	are	identical	to	the	choice	made	in	equation	(10)	of	
+his	previous	paper.	He	specifies	that	α	and	ρ	are	arbitrary	constants	that	will	
+have	to	be	determined	later,	using	the	mass	and	the	radius	of	the	star		
+Equation	(8)	made	explicit:		
+which	a	a	form	enabling	to	rejoin	easily	the	exterior	solution	to	the	surface	
+of	the	star.		
+
+f1 dr 2 − f2 ( dϑ2 + sin2ϑdφ2 )	
+
+ds2 = f4 dt 2 −
+  
+
+  f1 , f2 , f3 , f4
+
+3
+2
+
+4	
+
+	
+At	the	end	of	page	428,	he	writes:	
+	
+
+Translation:		
+
+Fig.	4	
+
+§5. The integration constants must now be determined in such a way 
+that  the  interior  of  the  sphere  remains  free  from  singularities  and  the 
+continuous junction to the external values of the functions  f  and of their 
+derivatives at the surface of the sphere is realised. 
+
+in	order	to	insure	the	continuity	of	geodesics.	
+  r = ( R3 +α3 )1/3		
+Making	 the	 auxiliary	 quantity	 R	 appear	 according	 to	
+he	notices	that	outside	the	sphere,	the	metric	represents	the	point	mass,		
+cf.	his	January	1916	"Massenpunkt"	paper.	[1]	
+	
+
+Fig.	5	–	"Outside	the	sphere	the	form	of	the	line	element	remains	the	same	as	in	Mass	point".	
+		In	the	rest	of	his	calculation,	Schwarzschild	details	all	parameters	related	to	
+the	solution.	His	study	is	very	complete.	
+	
+
+	
+
+5	
+
+	
+
+	
+He	writes:	
+
+Translation:		
+
+Fig.	6	
+
+2. About the equations of motion of a point of infinitely small mass 
+outside our sphere, which maintain the same form as in “Mass point” 
+(there equations (15)-(17)), one makes the following remarks: 
+
+For  large  distances  the  motion  of  the  point  occurs  according  to 
+Newton’s law, with α/2k2 playing the rôle of the attracting mass. Therefore 
+α/2k2 can be designated as “gravitational mass” of our sphere. 
+
+If one lets a point fall from the rest at infinity down to the surface of 
+
+the sphere, the “naturally measured” fall velocity takes the value:  
+
+va =
+
+  
+
+1
+1− α
+R
+
+dR
+ds = α
+Ra   
+
+	
+
+Hence, due to (40): 
+
+  va = sinχa   
+
+For the Sun the fall velocity is about 1/500 the velocity of light. One 
+easily satisfies himself that, with the small value thus resulting for χa and 
+χ (< χa), all our equations coincide with the equations of Newton’s theory 
+apart from the known second order Einstein’s effects.  
+
+The	end	of	his	paper	has	our	undivided	attention.	The	angle	χ	allows	to	locate	
+oneself	inside	the	sphere.	χ	=	0	is	the	geometric	center.	He	writes:	
+
+4. The velocity of light in our sphere is 
+
+2
+
+ 
+
+cosχa − cosχ
+
+v =
+  
+
+hence  it  grows  from  the  value  1/cos χa  at  the  surface  to  the  value 
+2/(3cos χa − 1) at the center. The value of the pressure quantity ρ0 + p 
+according to (10) and (30) grows in direct proportion to the velocity of 
+light.  
+
+Moreover:	
+
+6	
+
+	
+
+Fig.	7	
+
+7	
+
+	
+
+	
+i.e.:	
+
+i.e.:	
+
+At the center of the sphere (χ = 0) velocity of light and pressure 
+become infinite when cos χa = 1/3, and the fall velocity becomes 8/9 of the 
+(naturally  measured)  velocity  of  light.  Hence  there  is  a  limit  to  the 
+concentration, above which a sphere of incompressible fluid can not exist. 
+If one would apply our equations to values cosχa < 1/3, one would get 
+discontinuities already outside the center of the sphere. 
+
+Finally,	note	the	last	sentence	of	the	paper:	
+
+Fig.	8	
+
+ Po =α 
+
+For an observer measuring from outside it follows from (40) that a sphere of 
+given gravitational mass α/2k2 can not have a radius measured from outside 
+smaller than:  
+
+For a sphere of incompressible fluid the limit will be 9/8 α. (For the Sun α is 
+equal to 3 km, for a mass of 1 gram is equal to 1.5 · 10−28 cm.)  
+
+A	physical	criticality	before	the	geometric	criticality	
+Thus,	as	early	as	February	1916,	Karl	Schwarzschild	had	detected	that	a	
+peculiar	situation	of	 physical	 criticality	(where	the	pressure	and	speed	of	
+light	become	infinite	in	the	center	of	the	star)	manifests	itself	 before	the	
+classical	geometric	criticality	is	reached	(when	the	radius	of	the	star	merges	
+with	the	Schwarzschild	radius).	
+From	his	article,	it	is	then	easy	to	calculate	the	value	of	the	pressure	as	a	
+function	of	the	outer	radius	of	the	star.	
+
+	
+8	
+This	corresponds	to	the	famous	equation	established	in	1939,	based	on	
+Richard	Tolman's	work	[3],	by	J.	Robert	Oppenheimer	and	George	Volkoff	[4]	
+which	is	the	basis	of	the	"TOV	model"	named	after	their	initials:		
+	
+This	TOV	model	considers,	like	Schwarzschild's	model	from	which	it	is	
+derived,	a	neutron	star	as	a	sphere	of	constant	density.	
+Fig.	9	is	a	line	graph	displaying	solution	curves	of	the	TOV	equation.	It	shows	
+the	evolution	of	pressure	in	the	neutron	star	according	to	a	logarithmic	scale	
+and	as	a	function	of	the	distance	from	the	center	of	the	star,	for	different	
+values	of	its	outer	radius	Rn	(hence	its	mass):	
+
+( ρ+ p )( m(r) + 4πk p r 3 )
+
+dp
+dr = −
+  
+
+r ( r − m(r) )
+
+	
+
+Fig.	9	–	Pressure	inside	a	neutron	star	
+as	a	function	of	its	radius	(TOV	model).	
+
+It	can	be	seen	that	the	pressure	at	the	center	of	the	star	tends	towards	infinity	
+when	 Rn	=	0.9428	Rs	thus	before	the	radius	of	the	star	reaches	the	
+Schwarzschild	radius.	
+
+	
+9	
+The	solution	for	values	greater	than	this	critical	radius	is	shown	in	Figure	10.	
+Although	the	TOV	solution	is	steady-state	and	assumes	a	spherical	
+symmetry,	thus	represents	only	an	approximation,	it	denotes	the	extreme	
+fast	growth	rate	of	the	singularity	(p	=	∞)	that	comes	into	being	at	the	center	
+of	the	star,	the	more	the	Schwarzschild	radius	is	approached:	
+
+	
+Fig.	10	–	Pressure	soaring	quickly	in	the	neutron	star	
+for	values	greater	than	the	critical	value.	
+
+Those	who	build	black	hole	theoretical	models	start	from	the	hypothesis	in	
+which	the	star	would	shrink	asymptotically	down	to	the	Schwarzschild	radius.	
+The	following	curve	shows	how	this	situation	is	achieved.	Along	abscissa	is	
+the	radius	of	the	star	 Rn.	The	parabola	represents	the	evolution	of	the	
+Schwarzschild	radius	Rs	which	increases	according	to	the	mass	of	the	star,	
+hence,	for	a	constant	density,	as	the	radius	of	the	star	cubed.	
+
+	
+
+10	
+
+	
+Fig.	11	–	Rapid	growth	of	the	Schwarzschild	radius	Rs	
+with	respect	to	the	linear	growth	of	the	radius	of	the	star	Rn.	
+!	is	the	critical	star	radius	when	Rn	=	Rs	(geometric	criticality).	
+
+We	observe	a	horizontal	line,	directly	derived	from	the	Schwarzschild	
+solution	of	February	1916,	which	marks	the	limit	of	criticality	of	the	inner	
+metric.	
+Below	this	critical	situation,	the	neutron	star	is	like	this:		
+
+	
+
+Fig.	12	
+
+We	see	that	its	Schwarzschild	radius	Rs	is	located	inside	the	star,	whereas	the	
+radius   ˆR,	which	marks	the	criticality	of	the	external	solution,	lies	outside.	
+Thus	the	two	solutions,	connected	outside	this	geometric	criticality,	are	
+singularity-free.	
+Theorists	completely	obscure	the	physical	criticality,	i.e.	the	tremendous	
+rises	of	pressure	and	speed	of	light	to	infinity	in	the	center	of	the	star,	which	
+take	place	before	the	situation	of	geometric	criticality	occurs.	This	should	not	
+leave	the	physicist	unmoved,	as	a	pressure	is	also	an	energy	density.		
+
+	
+
+	
+11	
+Reconsideration	of	the	problem	according	to	the	Janus	model	
+The	Schwarzschild	exterior	and	interior	solutions	are	also	solutions	of	the	
+Janus	cosmological	model,	[5]	[6]	[7]	a	bimetric	description	of	the	universe	
+as	an	 M4	manifold	associated	to	two	conjugated	Riemannian	metrics,	
+generating	their	own	set	of	geodesics,	solutions	of	two	coupled	field	
+equations:	
+
+!"#$ −12!$("#$ =* 	,"#$ + (.($,"#.	 !
+!"#. −12!.("#. =−* 	 ($(.,"#$ +,"#. 	
+Let's	start	with	the	Schwarzschild	exterior	solution,	with	no	right	hand-side.	
+It	is	known	that	in	the	Schwarzschild	solution,	the	quantity	α	is	just	a	simple	
+integration	constant,	which	can	be	taken	positive	or	negative.		
+In	the	following,	a	local	situation	is	arbitrarily	considered,	where	  g(+) = g(−).	
+Let	us	assume	that	the	length	Rs,	the	Schwarzschild	radius,	is	strictly	positive	
+and	that	α,	simple	integration	constant,	can	have	equal	and	opposite	values.	
+Thus	we	have	two	coupled	solutions	outside	the	star.	Let's	write	these	
+metrics:		
+Let's	call	them	"posi-Schwarzschild	exterior"	and	"nega-Schwarzschild	
+exterior".	They	are	written,	choosing	Schwarzschild's	auxiliary	quantity	R	or	
+"Hilbert's	variable":		
+Metric	  
+Metric	  
+
+− R2( dθ2 + sin2θdϕ2 )	
+− R2( dθ2 + sin2θdϕ2 )	
+
+(+)ext	
+(−)ext	
+
+(−)ext	
+
+dR2
+Rs
+R
+
+ds2 = ( 1+
+
+ds2 = ( 1−
+
+gµν
+(+)ext
+  
+
+) dt 2 −
+
+) dt 2 −
+
+Rs
+R
+
+gµν
+
+gµν
+
+gµν
+
+1−
+
+  
+
+Rs
+R
+
+dR2
+Rs
+R
+
+1+
+
+  
+
+2
+
+2
+
+  
+
+  
+
+1
+2
+
+1
+2
+
+⎤
+⎥
+⎥
+⎦
+
+⎡
+⎢
+⎢
+⎣
+
+⎤
+⎥
+⎥
+⎦
+
+⎡
+⎢
+⎢
+⎣
+
+3
+2
+
+3
+2
+
+1+
+
+1+
+
+1−
+
+1−
+
+1+
+
+1−
+
+gµν
+
+gµν
+
+gµν
+
+R2
+ˆR2
+
+R2
+ˆR2
+
+dt 2 −
+
+dt 2 −
+
+ds2 =
+
+ds2 =
+
+gµν
+(−)int
+
+Rn
+ˆR2 −
+
+Rn
+ˆR2 −
+
+dR2
+R2
+Rs
+2
+
+dR2
+R2
+Rs
+2
+
+(+)int	
+(−)int	
+
+	
+12	
+We	can	easily	calculate	the	geodesics	of	the	second	equation	and	see	that	
+they	bring	up	the	repulsion	of	a	test	mass	+m	by	a	negative	mass	-m.		
+(+)int	and	"nega-
+It	is	the	same	thing	for	"posi-Schwarzschild	interior"	   
+	which	are	written, 1	derived	from	the	
+Schwarzschild	interior"	   
+Schwarzschild	interior	solution,	February	1916:		
+− R2( dθ2 + sin2θdϕ2 )	
+Metric	  
+− R2( dθ2 + sin2θdϕ2 )	
+Metric	  
+	These	metrics	are	connected	in	pair	along	the	surface	of	the	star.	
+What	happens,	according	to	the	Janus	model,	when	the	mass	of	a	subcritical	
+neutron	star	is	gradually	increased	to	the	point	where	the	physical	criticality	
+is	reached	at	its	center?	As	we	will	see	in	the	next	section,	this	kind	of	event	
+should	be	quite	common	in	the	cosmos.	
+It	must	be	said	that	without	a	complete	time-dependent	analytic	solution	that	
+could	be	based	on	a	previous	work,	we	will	give	this	article	a	somewhat	
+conjectural	character.		
+But	in	this	day	and	age	of	evaporating	black	holes	fitted	with	firewalls	
+protecting	them	from	the	information	paradox,	we	think	we	can	grant	
+ourselves	this	right.	
+First	and	foremost,	we	present	the	"soft"	scenario,	where	such	a	physical	
+criticality	is	slowly	approached.		
+As	already	mentioned	in	the	first	part	of	this	paper,	binary	systems	are	very	
+abundant	in	the	universe.	For	a	number	of	them,	a	member	of	the	couple	has	
+become	a	neutron	star	after	the	gravitational	collapse	of	a	supernova.		
+																																																								
+1	See	reference	[8]	and	more	precisely	[9],	equation	(14.47)	page	472,	chapter	14	"The	
+Role	of	Relativity	in	Stellar	Structure	and	Gravitational	Collapse".	
+
+Leaking	Neutron	Star		
+
+	
+13	
+In	this	particular	case,	this	neutron	star	is	stable,	subcritical.	Then	its	donor	
+companion	star	sends	a	continuous	flow	of	matter	in	the	form	of	stellar	wind,	
+accreted	gravitationally	by	the	neutron	star,	whose	mass	is	therefore	
+gradually	increased.	
+The	rise	of	the	energy	density	at	the	center	of	the	star	eventually	produces	
+there	a	mass	inversion	process.	Indeed,	according	to	the	Janus	cosmological	
+model,	all	physical	constants	underwent	a	joint	variation	during	the	high	
+energy	density	state	of	the	radiation-dominated	era,	right	after	the	Big	Bang	
+where	c,	for	example,	reached	an	infinite	value.	[6]	We	think	some	events	
+involving	very	high	energy	densities,	as	in	the	center	of	critical	neutron	stars,	
+can	similarly	recreate	conditions	allowing	a	"bridge"	to	briefly	appear,	
+joining	the	positive	and	negative	sectors	together,	though	which	mass	can	be	
+exchanged	and	inverted.	[11]	
+As	this	mass	in	excess,	which	has	become	negative	according	to	the	Janus	
+model,	no	longer	interacts	with	the	positive	mass	except	through	
+antigravitation,	it	is	repelled	by	the	star	and	dispersed	away	in	space	among	
+the	interstellar	medium,	then	the	intergalactic	medium	where	it	ends	up.		
+An	analogy	can	be	made,	comparing	this	process	with	the	"bung	&	float"	
+mechanism	keeping	the	water	level	constant	in	a	flush	tank:	
+	
+
+	
+
+Fig.	13	
+
+	
+
+	
+
+	
+14	
+When	an	input	of	matter	in	excess	triggers	the	beginning	of	a	criticality	in	the	
+center	of	the	star,	"the	bung	is	raised"	and	the	"plughole"	opens:	
+
+The	plughole,	quite	small	in	diameter,	quickly	closes	as	soon	as	the	star	has	
+become	subcritical	again,	and	the	situation	becomes:	
+
+Fig.	14	
+
+Fig.	15	
+
+	
+
+	
+
+	
+15	
+When	a	model	is	proposed,	is	must	describe	a	possible	observation	able	to	
+falsify	it.	In	this	case,	it	is	a	non-observation:	we	conjecture	that	stellar	black	
+holes	do	not	exist	and	that	the	observed	effects	are	only	caused	by	subcritical	
+neutron	stars,	which	are	abundant.		
+The	geometry	describing	these	objects	is	then	represented	by	the	four	
+metrics	given	above,	a	borderline	situation	at	the	edge	of	criticality,	which	
+corresponds,	in	Schwarzschild's	second	paper,	to:		
+cos	χa		slightly	superior	to	1/3	
+We	can	then	give	a	name	to	such	kind	of	neutron	stars	near	criticality,	
+smoothly	evacuating	any	input	of	matter	in	excess	by	the	inversion	of	some	
+of	its	mass	at	its	center:		
+A	more	faithful	image	would	be	to	shape	the	flush	tank	as	a	bowl,	
+corresponding	to	the	gravitational	potential	in	the	neutron	star.	As	long	as	
+the	criticality	is	not	reached,	we	are	in	the	situation	of	Fig.	16	on	the	left.	
+When	the	critical	mass	is	reached,	the	bung	is	raised.	The	matter	in	excess,	
+whose	mass	is	reversed,	is	poured	out.	It	follows	the	relief	of	a	promontory	
+which	is	the	mirror	image	of	the	bowl	(the	gravitational	potential	is	reversed	
+after	its	passage	in	this	sector).	This,	until	the	level	drops	under	criticality,	
+causing	the	bung	to	close.		
+
+Leaking	neutron	star	
+
+Fig.	16	
+
+	
+
+		
+
+2
+
+2
+
+  
+
+  
+
+  
+
+1
+2
+
+1
+2
+
+⎡
+⎢
+⎢
+⎣
+
+⎡
+⎢
+⎢
+⎣
+
+⎤
+⎥
+⎥
+⎦
+
+⎤
+⎥
+⎥
+⎦
+
+3
+2
+
+3
+2
+
+1−
+
+1+
+
+1+
+
+1−
+
+1−
+
+1−
+
+1+
+
+gµν
+
+gµν
+
+gµν
+
+Rs
+R
+
+R2
+ˆR2
+
+R2
+ˆR2
+
+dt 2 −
+
+dt 2 −
+
+ds2 =
+
+ds2 =
+
+) dt 2 −
+
+ds2 = ( 1−
+
+dR2
+Rs
+R
+
+9Rs
+8 ˆR2 −
+
+9Rs
+8 ˆR2 −
+
+dR2
+R2
+Rs
+2
+
+dR2
+R2
+Rs
+2
+
+(+)int	
+(−)int	
+(+)ext	
+(−)ext	
+
+− R2( dθ2 + sin2θdϕ2 )	
+− R2( dθ2 + sin2θdϕ2 )	
+
+16	
+− R2( dθ2 + sin2θdϕ2 )	
+− R2( dθ2 + sin2θdϕ2 )	
+
+	
+Interior	coupled	metrics	are	then:	
+Metric	  
+Metric	  
+	Formulation	unchanged	for	exterior	metrics:		
+Metric	  
+Metric	  
+	
+A	"hard"	scenario	corresponds	to	the	fusion	of	two	subcritical	neutron	stars	
+into	a	single	object.	Let	us	call	 M1	and	 M2	the	masses	of	these	two	stars.		
+If	 M1	+	M2	<	2.5	solar	masses,	this	fusion	will	take	place	without	mass	
+inversion.	But	if	the	sum	exceeds	this	value,	the	mass	in	excess	m	will	be	
+inverted	and	repelled	from	the	resulting	star,	which	will	become	subcritical	
+again.	Let	us	call	this	sum:	M1	+	M2	+	m.		
+The	inversion	and	expulsion	of	this	excess	of	mass	m,	brief	and	brutal,	must	
+be	accompanied	by	a	powerful	emission	of	gravitational	waves.	This	is	our	
+interpretation	of	the	recent	evidence	at	LIGO	[10]	and	not	as	a	fusion	of	two	
+black	holes	about	thirty	solar	masses.	Values	producing	a	gravitational	signal	
+with	an	energy	equivalent	to	only	3	solar	masses	allow	such	an	identification	
+in	spite	of	a	tiny	signal-to-noise	ratio.	
+We	will	then	seek	to	describe	this	process	building	a	steady	state	solution.	
+Already,	the	high	sensitivity	of	the	solution	when	approaching	criticality	
+evokes	the	rapid	expansion	of	a	central	devouring	singularity,	reminiscent	of	
+the	ancient	video	game	Pac-Man,	then	its	closing	just	as	fast.		
+
+Collapse	of	neutron	binaries	
+
+dR2
+Rs
+R
+
+ds2 = ( 1+
+
+) dt 2 −
+
+Rs
+R
+
+gµν
+
+1+
+
+  
+
+Rµν
+  
+Rµν
+  
+
+	
+17	
+An	extreme	situation	would	be	encountered	with	the	fusion	of	two	subcritical	
+neutron	stars.	The	total	inverted	mass	then	approaches	2.5	solar	masses.	
+Once	the	mass	inversion	process	has	been	completed,	how	could	such	a	
+situation	be	described,	geometrically?		
+This	situation	is	not	simple.	In	this	type	of	scenario,	and	in	certain	cases,	a	
+configuration	can	be	considered	with	the	system	of	equations		
+(+) = 0		
+(−) = 0	
+which	would	represent	a	kind	of	"instantaneous	photography"	where	the	
+mass	density	is	not	zero	locally,	but	the	sum	of	the	two	mass-energy	
+densities,	positive	and	negative,	is	equal	to	zero.	In	reference	[11]	this	type	
+of	solution	was	studied,	through	joint	steady	state	metric	solutions.	Although	
+this	is	not	perfectly	rigorous	yet,	it	can	still	give	a	general	idea.	This	is	an	open	
+and	exciting	question	that	we	are	currently	working	on.	
+Such	a	solution	was	described	in	2015.	[11]	When	the	system	of	the	four	
+metric	solutions	of	the	Janus	model	is	considered,	it	should	be	noted	that	one	
+can	opt	for	a	solution	where	the	transferred	mass,	which	has	become	
+negative,	is	now	located	in	the	negative	sector.	
+This	configuration	would	then	be:		
+Metric	  
+− R2( dθ2 + sin2θdϕ2 )	
+Metric	  
+− R2( dθ2 + sin2θdϕ2 )	
+Metric	  
+Metric	  
+
+− R2( dθ2 + sin2θdϕ2 )	
+− R2( dθ2 + sin2θdϕ2 )	
+
+(+)int	
+(−)int	
+(+)ext	
+(−)ext	
+
+dR2
+Rs
+2
+R2
+
+dR2
+Rs
+2
+R2
+
+dR2
+Rs
+R
+
+Rs
+ˆR2 −
+
+Rs
+ˆR2 −
+
+ds2 = ( 1−
+
+ds2 = ( 1+
+
+) dt 2 −
+
+) dt 2 −
+
+ds2 =
+
+ds2 =
+
+Rs
+R2
+
+Rs
+R2
+
+dt 2 −
+
+dt 2 −
+
+Rs
+R
+
+gµν
+
+gµν
+
+gµν
+
+gµν
+
+1+
+
+1−
+
+1+
+
+1+
+
+1−
+
+1−
+
+1+
+
+3
+2
+
+3
+2
+
+⎡
+⎢
+⎢
+⎣
+
+⎤
+⎥
+⎥
+⎦
+
+⎡
+⎢
+⎢
+⎣
+
+⎤
+⎥
+⎥
+⎦
+
+1
+2
+
+1
+2
+
+  
+
+  
+
+  
+
+2
+
+2
+
+2
+
+2
+
+Rs
+R
+
+dR2
+Rs
+R
+
+1−
+
+  
+
+	
+
+	
+18	
+Compared	to	the	configuration	where	the	mass	is	positive,	there	is	a	
+complete	exchange	of	the	two	geodesic	systems.	By	the	way	it	can	be	noted	
+that	this	system	of	four	metrics	describes	the	geometry	in	the	vicinity	of	
+negative	mass	conglomerates	located	at	the	center	of	the	giant	voids	of	the	
+large-scale	structure	of	the	universe,	as	foreseen	by	the	Janus	model.	This	
+configuration	generates	negative	gravitational	lensing	on	positive	energy	
+photons,	a	phenomenon	initially	described	by	the	author	in	1995.	[12]	In	this	
+model,	a	gravitational	lens	effect	reduces	the	apparent	magnitude	of	high-
+redshift	galaxies	(z	>	7)	which	makes	them	appear	as	dwarfs.		
+As	suggested	by	a	Japanese	team,	[13]	and	in	the	video	"JANUS	#20"	
+presenting	these	concepts,	[14]	mapping	the	universe	using	negative	weak	
+gravitational	lensing	could	falsify	this	model	of	lacunar	large-scale	structure	
+of	the	universe,	with	galaxy	filaments,	clusters	and	superclusters	around	
+large	void	bubbles.	[15]	
+But	this	neutron	star	model	remains,	as	it	is,	schematic	and	embryonic.	It	is	
+known	that	such	objects	are	rotating	fast,	which	is	not	currently	taken	into	
+account.	The	external	metric	should	therefore	be	that	of	Kerr,	[16]	and	not	
+that	of	Schwarzschild,	and	the	corresponding	internal	metric	remains	to	be	
+made.	
+Moreover,	the	magnetic	field	associated	with	neutron	stars	is	very	intense:	
+typically	108	teslas,	to	more	than	1011	teslas	for	most	extreme	cases	
+(magnetars).	It	results	from	the	compression	of	magnetic	field	lines	that	
+preexisted	in	the	massive	star,	before	its	gravitational	collapse	in	the	
+supernova	phenomenon.	This	magnetic	field	probably	plays	an	important	
+role,	likely	to	influence	the	proposed	scenario,	in	particular	on	the	structure	
+of	possible	negative	mass	remnants	resulting	from	the	violent	fusion	and	
+mass	inversion	of	a	pair	of	neutron	stars.	
+Nevertheless,	a	study	carried	out	on	the	basis	of	the	Schwarzschild	metric	
+enables	the	identification	of	general	ideas.	
+		
+This	approach	modifies	the	idea	commonly	followed	in	the	field	of	
+differential	geometry	and	manifold	theory.	Remember	that	these	theories	
+were	born	from	concerns	about	how	to	map	Earth,	which	is	a	sphere.	
+However,	in	order	to	map	it,	only	plane	paper	sheets	are	available.	
+Cartographers	therefore	use	atlases	made	up	of	flat	maps,	supplied	with	
+indications	allowing	to	connect	them	two	by	two.		
+
+A	change	of	topology	
+
+	
+19	
+Modern	geometry	has	attempted	to	generalize	this	idea.	But	imagine	a	planet	
+where	planar	surfaces,	in	particular	paper	as	a	map	support,	are	unknown.	
+Conversely,	there	is	in	this	world	a	profusion	of	tree	leaves	shaped	as	
+spherical	caps,	stackable	one	onto	the	others.	Cartographers	of	this	planet	
+could	then	constitute	an	atlas	made	of	sets	of	maps	traced	onto	curved	sheets.		
+Differential	geometry	has	made	widespread	use	of	the	set	"atlas	+	maps"	
+which	allows	to	shape	those	maps	onto	any	support,	as	long	as	rules	are	
+provided	to	connect	them	to	each	other.		
+In	such	a	perspective,	the	approach	represents:	
+-  The	choice	of	a	manifold	Mn.	
+- 
+Its	arbitrary	association	to	a	topology.	
+-  The	addition	of	maps	constituting	an	atlas.		
+When	 he	 builds	 his	 solution,	 Schwarzschild	 opts	
+implicitly	
+for	 a	
+representation	space	   !3 × !.	He	intends	to	describe	his	hypersurface-
+solution	in	such	a	space.	He	then	obtains	a	metric	that	evokes	a	non-
+contractible	object,	that	may	be	taken	for	a	manifold	with	boundary.		
+Hilbert,	giving	to	time	the	nature	of	a	pure	imaginary	quantity,2		implicitly	
+situates	the	solution	in	a	space	  !3 × ".		
+The	analytic	extensions	developed	later,	like	that	of	Kruskal,	[17]	belong	to	
+the	same	choice,	to	the	same	idea.	This	is	what	will	make	the	Argentinian-
+American	physicist	Juan	Martín	Maldacena	say:3	
+— Kruskal	extended	the	solution	to	cover	the	full	spacetime.	
+Specifically,	he	should	have	said:	
+— Kruskal	extended	the	solution	to	cover	his	views	of	the	spacetime.	
+In	doing	so,	he	builds	this	extension	using	several	connected	metrics.	
+																																																								
+2	Please	refer	to	"	Mass	inversion	in	a	critical	neutron	star:	An	alternative	to	the	black	
+hole	model	–	First	part".	
+3	https://indico.fias.uni-frankfurt.de/event/4/session/17/contribution/39	
+
+	
+20	
+An	important	question	arises:		
+— What	is	the	information	contained	in	a	solution	to	the	field	equation,	
+expressed	in	the	form	of	a	metric?	Would	such	a	solution	contain		
+its	own	topology?		
+Said	otherwise:	
+— Should	the	expression	of	this	solution,	in	the	form	of	a	hypersurface,	be	
+limited	to	representations	where	the	element	of	length	remains	real?	
+The	Einstein	field	equations,	whose	metric	is	derived,	involves	only	real	
+quantities.	The	components	of	the	Ricci	tensor	are	real,	its	derivatives	are	
+real.	How,	under	these	conditions,	to	consider	expressing	the	solution	by	
+implementing	pure	imaginary	quantities?		
+If	we	stick	to	the	real	world,	this	means	that	when	we	explore	parts	of	the	
+(numerical)	space	related	to	variables,	and	come	across	an	element	of	pure	
+imaginary	length,	or	when	the	signature	of	the	metric	becomes	altered,	
+which	is	the	same	thing,	one	is	then	simply	outside	the	hypersurface.	
+This	can	be	illustrated	with	the	Schwarzschild	solution.	It	is	then	enough	to	
+start	from	"Hilbert's	representation"	with	the	auxiliary	variable	R:	
+− R2( dθ2 + sin2θdϕ2 )	
+and	use	the	change	of	space	variable	as	shown	in	ref.	[11]:		
+The	metric	is	then	written:		
+⎥	
+This	metric	is	regular	for	any	value	of	this	new	space	variable	ρ	including	
+the	vicinity	of	 ρ= 0	equivalent	to	 R = Rs	with	  Log chρ= 0.	
+To	get	convinced,	just	make	series	expansion	of	functions	 Log chρand	  th2ρ	in	
+the	neighborhood	of	 ρ= 0	to	find	their	ratio	tends	to	2.	
+
+  R = Rs ( 1+ Log chρ)	
+
+th2ρdρ2 + (1+ Log chρ)2(dθ2 +sin2θdϕ2)
+
+2 1+ Log chρ
+⎡
+⎢
+Log chρ
+⎣
+
+Log chρ
+1+ Log chρ
+
+dR2
+Rs
+R
+
+ds2 =
+  
+
+ds2 = ( 1−
+
+dt 2 − Rs
+
+) dt 2 −
+
+Rs
+R
+
+1−
+
+⎤
+⎦
+
+  
+
+⎤
+⎦
+
+⎥	
+
+  dΣ2 = Rs
+
+dσ2 = Rs
+  
+
+2 1+ Log chρ
+⎡
+⎢
+Log chρ
+⎣
+
+th2ρdρ2 + (1+ Log chρ)2(dθ2 +sin2θdϕ2)
+
+2(1+ Log chρ)2(dθ2 +sin2θdϕ2)	
+  p = 2πRs	
+
+	
+21	
+What	is	the	topology	of	this	four-dimensional	hypersurface?	We	can	focus	on	
+its	spatial	part:		
+This	geometric	object	is	not	contractible.	If	we	fix	the	quantity	ρ	we	obtain	
+an	object	defined	by	the	metric:		
+By	setting	the	variable	 θ,	for	example	to	the	value	  θ= π/ 2,	we	get	a	
+maximum	value	for	the	perimeter:		
+By	varying	it,	we	obtain	a	family	of	2-spheres	that	are	parallel,	one-parameter	
+closed	surfaces	 Σ2(ρ)	having	a	minimum	area	  A = 4πRs
+2.		
+The	closed	surface	of	minimal	area	 Σ2(0)	acts	like	a	throat	surface.4		
+gtt	of	the	metric	is	zero	when	 ρ= 0,	which	leads	to	the	nullity	of	
+But	the	term	 
+the	determinant	of	the	metric	at	this	point,	and	the	impossibility	of	defining	
+a	system	of	Gaussian	coordinates	along	this	closed	surface	 Σ2,	in	other	words	
+it	is	impossible	to	orientate	time	and	space.		
+The	geometric	object	emerging	from	the	Schwarzschild	solution	is	therefore	
+not	a	manifold	in	the	classical	sense	of	the	term,	but	an	orbifold	containing	a	
+singular	region	 Σ2(0)	where	the	object	is	locally	non-orientable.	This	is	not	a	
+sphere,	but	a	projective	P2.	It	was	already	difficult	to	create	the	mental	image	
+of	two	three-dimensional	spaces	connected	by	a	throat	sphere.	One	imagines	
+the	mental	efforts	that	must	be	deployed	if	this	throat	surface	becomes	Boy's	
+surface…	
+Such	a	structure	then	fits	with	the	Janus	model.	Indeed,	time	reversal	
+according	to	the	dynamical	group	theory,	[18]	is	actually	the	inversion	of	
+energy,	hence	the	inversion	of	mass.5	Therefore,	the	object	represents	some	
+kind	of	space	bridge	connecting	two	PT-symmetric	Minkowski	spaces.			
+																																																								
+4	Description	of	this	surface	as	a	throat	2-sphere	in	[11].	
+5	See	ref.	[18]	Part	III.	Mechanics	–	Chapter	14:	A	mechanist	description	of	elementary	
+particles	–	Section	Inversions	of	space	and	time,	pages	189–193.	
+
+About	the	time	of	free	fall	
+
+	
+22	
+Classically,	events	occurring	near	a	black	hole	are	theoretically	seen	as	
+"frozen	in	time"	for	a	distant	observer.	Indeed,	when	the	time	of	free	fall	is	
+calculated	with	the	variable	t,	which	is	supposed	to	be	the	time	experienced	
+by	the	distant	observer,	and	is	compared	to	the	proper	time	 s	of	the	test	
+particle	falling	onto	the	black	hole,	which	is	the	only	one	intrinsically	related	
+to	the	geometric	object,	one	finds	the	this:	[9]		
+
+	
+
+Fig.	17	–	Fall	toward	the	origin	of	a	Schwarzschild	geometry	
+in	terms	of	coordinate	time	t	and	proper	time	on	the	test	particle	s/c.	
+
+This	choice	of	time	marker	t	seems	necessary.	Yet	we	must	bear	in	mind	that	
+the	choice	of	variables	with	respect	to	the	description	of	the	hypersurface-
+solution,	where	the	only	intrinsic	quantity	is	s,	remains	an	arbitrary	choice	
+representing	the	physical	interpretation	of	the	solution.		
+We	then	refer	to	the	Kerr	metric	according	to	the	formulation	given	by	Boyer	
+and	Lindquist.	[19]	We	will	replace	their	space	variable	 ρ	with	the	same	
+Greek	letter	Ρ	in	uppercase,	to	avoid	any	confusion	with	the	other	change	of	
+variable	used	above.		
+x2 + y2:		
+Here,	  Ρ =
+
+ds2 = 1−
+
+⎛
+⎝⎜
+
+Rs Ρ
+
+Ρ2 + a2 cos2θ
+
+⎞
+
+⎠⎟ dt 2 − Ρ2 + a2 cos2θ
+Ρ2 + a2 − Rs Ρ
+
+dΡ2
+
+− ( Ρ2 + a2 cos2θ)dθ2 − (Ρ2 + a2)sin2θ+
+  
+
+⎡
+⎢
+⎣
+
+Rs Ρ a2 sin4θ
+Ρ2 + a2 cos2θ
+
+⎤
+⎥dϕ2 −
+⎦
+
+2 Rs Ρ asin2θ
+Ρ2 + a2 cos2θ
+
+dt dϕ
+
+	
+
+	
+
+⎛
+⎝⎜
+
+⎡
+⎢
+⎣
+
+Ρ2
+
+Rs
+Ρ
+
+Rs a2
+Ρ
+
+2 Rs a
+Ρ
+
+23	
+
+⎞
+⎠⎟ dt 2 −
+
+Ρ2 + a2 − Rs Ρ
+
+dΡ2 − Ρ2 + a2 +
+
+⎤
+⎥ dϕ2 −
+⎦
+
+ds2 = 1−
+  
+
+	
+This	expression	can	be	particularized,	taking	 θ= π/ 2.	Therefore:		
+dt dϕ	
+What	differentiates	this	writing	of	the	Kerr	metric	solution	from	the	classical	
+expression	of	the	Schwarzschild	metric?	The	presence	of	a	cross	term	 dϕdt.	
+Photons	follow	null	geodesics.	Considering	azimuthal	geodesics	at	 Ρ = Cst,	
+two	different	values	of	the	speed	of	light	are	obtained.	Similarly,	if	we	
+calculate	the	period	of	rotation	of	test	particles	along	circular	geodesics,	we	
+will	get	two	different	values,	depending	on	whether	we	travel	these	
+geodesics	clockwise	or	counterclockwise.		
+This	is	classically	interpreted	as	rotational	frame-dragging	or	Lense-Thirring	
+effect.	In	[9]	we	read:6	
+This	situation	is	inherently	related	to	the	Kerr	solution.	We	can	wonder,	
+always	in	the	sense	of	Ernst	Mach,	if	this	strong	inertial	dragging	of	the	
+reference	frame	within	the	ergosphere	may	represent	a	phenomenon	
+automatically	linked	to	such	extreme	situations,	so	this	has	to	be	necessarily	
+taken	into	account.	
+But	how	to	introduce	a	radial	frame-dragging?	Thanks	to	the	change	of	time	
+variable	suggested	by	Sir	Arthur	Eddington	in	1924:	[20]		
+Such	a	change	of	temporal	variable	can	be	applied	either	to	the	
+Schwarzschild	metric	or	to	the	Kerr	metric.	Let's	choose	here	to	make	this	
+change	in	the	Schwarzschild	metric,	written	in	the	coordinate	system	
+  ( t , R ,θ,ϕ).		
+																																																								
+6	Ref.	[9]	Chapitre	7	–	The	Kerr	Solution,	page	258.	
+
+Loosely speaking, we may think of the rotating source as "dragging" 
+space around with it; in a Machian sense the source "competes" with 
+Lorentzian boundary conditions at the infinity in the establishment of a 
+local inertial frame.  
+
+t = t' − Rs Log R
+Rs
+  
+
+− 1	
+
++
+
+Rs
+R
+
+Rs
+R
+
+Rs
+R
+
+Rs
+R 3
+
+dϕ= ±
+
+)dR2 − 2
+
+1
+R 2 +
+
+)dt' 2 − (1+
+
+24	
+
+ds2 = (1−
+  
+
+dR
+Rs
+h2R −
+
+	
+Therefore:	
+dt'dR − R2 ( dθ2 + sin2θdϕ2 )	
+Trajectories	of	test	particles	along	timelike	geodesics	can	be	calculated:	
+
+	
+But	the	calculation	of	the	free	fall	time	provides	a	different	result	depending	
+on	whether	it	is	a	centripetal	radial	trajectory	 (ν= + 1)	or	a	centrifugal	one	
+ (ν= − 1).	The	radial	trajectories	correspond	to	h	=	0.	Then:	
+dR	
+
+R 2 λ2 −1
+h2
+
+When	the	parameter	λ	is	equal	to	unity,	this	corresponds	to	a	particle	with	
+zero	velocity	at	infinity.	We	will	place	ourselves	in	a	situation	close	to	these	
+conditions.	Let's	consider	a	radial	trajectory	in	a	situation	corresponding	to	
+the	vicinity	of	the	surface	R	=	Rs	:		
+• In	a	plunging	trajectory	 (ν= − 1)	the	free	fall	time	is	finite.		
+• In	an	escape	trajectory	 (ν= 1)	it	becomes	infinite.	
+We	have	a	one-way	membrane.	
+	
+	
+
+( r − Rs ) dr	
+
+λR + νRs λ2 −1 +
+ν( R − Rs ) λ2 −1 +
+
+dt !ν
+ 
+
+r +νRs
+
+Rs
+R
+Rs
+R
+
+dt =
+
+Rs
+R
+
+Rs
+R
+
+Rs
+R
+
+)dR2 + 2
+
+)dt' 2 − (1+
+
+ds2 = (1−
+  
+
+	
+25	
+When	the	test	particle	crosses	the	throat	surface,	time	reverses.	If	we	still	
+consider	this	motion,	as	it	would	be	perceived	by	a	distant	observer	made	of	
+positive	mass,7	the	cross	term	is	now	opposite	and	the	metric	is	written:		
+dt'dR − R2 ( dθ2 + sin2θdϕ2 )	
+Opposite	situation	too	for	radial	trajectories:		
+
+dR	
+Conversely	this	time,	escape	trajectories	take	place	over	a	finite	time,	while	
+plunging	trajectories	are	associated	with	an	infinite	time.	
+The	passage	still	behaves	as	a	one-way	membrane.		
+It	should	be	noticed	that	the	opposite	sign	of	the	cross	term	in	the	metric	
+leads	to	an	ephemeral	white	hole	model	in	the	negative	sector,	i.e.	there,	the	
+throat	surface	still	behaves	like	a	one-way	membrane,	but	in	the	other	
+direction.	
+Crossing	this	ephemeral	throat	surface	is	therefore	a	one-way	trip.	Yet,	the	
+flow	direction	depends	on	the	sector	(positive	or	negative)	from	which	this	
+"hyperspace	bridge"	is	generated.	
+
+λR − νRs λ2 −1 +
+ν( R − Rs ) λ2 −1 +
+
+Rs
+R
+Rs
+R
+
+dt =
+
+	
+
+	
+
+																																																								
+7	In	the	Janus	model,	it	would	not	be	possible	for	the	distant	observer,	made	of	positive	
+mass,	to	still	see	the	motion	of	these	particles	after	their	mass	inversion,	since	negative	
+mass	emits	negative	energy	photons	that	follow	null	geodesics	of	the	metric	("#(.).	The	
+inverted	mass	thus	seems	to	disappear	from	the	observer's	reference	frame,	from	its	own	
+point	of	view.	The	throat	surface	also	acts	in	the	Janus	model	as	an	event	horizon,	although	
+a	very	short-lived	one.	See	references	[5]	[6]	[7].		
+
+Conclusion		
+
+	
+26	
+This	black	hole	chimera	is	a	house	of	cards	and	it	tumbled	down.	The	"freeze-
+frame"	is	a	consequence	of	an	arbitrary	choice	of	the	temporal	variable	while	
+at	the	same	time	neglecting	the	frame-dragging	phenomenon.	In	his	opening	
+lecture,	at	the	Karl	Schwarzschild	Meeting	in	Frankfurt	(the	city	where	he	
+was	born)	in	July	2017,8	Maldacena	said:		
+— The Schwarzschild solution has confused us over a hundred years and 
+
+it has forced us to sharpen our views on space and time. It has lead to 
+sharper  understanding  of  Einstein’s  theory.  Experimentally,  it  is 
+explaining  several  astrophysical  observations.  Its  quantum  aspects 
+have been a source of theoretical paradoxes that are forcing us to 
+understand  better  the  relation  between  spacetime,  geometry  and 
+quantum mechanics. 
+
+On	the	contrary,	I	believe	that	this	alleged	deepening	of	the	conception	of	
+spacetime	has	led	cosmologists	to	depart	from	the	original	vision	of	men	like	
+Einstein	and	Schwarzschild,	who	had	a	very	profound	intuition	of	geometry	
+and	physical	phenomena.	By	choosing	to	extend	spacetime	to	a	phantasmal	
+element,	they	built	an	object	they	called	a	black	hole,	endowed	with	a	strange	
+"interior"	in	which,	in	the	words	of	specialists	"time	and	space	are	
+interchanged	one	another".		
+Formerly,	the	late	French	cosmologist	Jean	Heidmann	used	to	say:	
+Jadis	le	cosmologiste	français	feu	Jean	Heidmann	avait	coutume	de	dire	:		
+— When	 talking	 about	 black	 holes,	 common	 sense	 has	 to	 be	 left	 in	 the	
+Such	an	attitude	has	led	scientists	to	dissert	for	half	a	century	on	properties	
+of	a	central	singularity	that	exists	only	in	their	imagination,	in	the	
+mathematical	definition	of	the	term.		
+The	theoretical	phantasmagoria	that	preceded	the	elaboration	of	such	
+theories	ensues	from	the	lack	of	in-depth	reading	of	Schwarzschild's	second	
+paper	[2]	published	in	February	1916	(admittedly	untranslated	for	83	
+years!)	where	everything	was	already	put	in	place,	summed	up	in	the	Fig.	7	
+that	we	reproduce	again	below.		
+																																																								
+8	3rd	Karl	Schwarzschild	Meeting	on	Gravitational	Physics	and	the	Gauge/Gravity	
+Correspondence	(KSM	2017),	24–28	July	2017,	FIAS,	Frankfurt	am	Main,	Germany.	
+
+cloakroom.		
+
+	
+
+27	
+
+	
+
+That	is	to	say:	
+
+Fig.	7	
+
+At the center of the sphere (χ = 0) velocity of light and pressure 
+become infinite when cos χa = 1/3, and the fall velocity becomes 8/9 of the 
+(naturally  measured)  velocity  of  light.  Hence  there  is  a  limit  to  the 
+concentration, above which a sphere of incompressible fluid can not exist. 
+If one would apply our equations to values cosχa < 1/3, one would get 
+discontinuities already outside the center of the sphere. 
+
+Nature	has	more	common	sense	than	one	imagines,	and	arranges	to	give	
+signs	to	theorists.	Provided	they	hear	them…	
+The	black	hole	has	become	the	deus	ex	machina	of	modern	times.	Computer-
+generated	images	are	everywhere.	We	hear,	chanted,	the	sentence:	
+— Although	there	is	no	observational	confirmation,	no	scientist	any	longer	
+Which	is	a	complete	nonsense	from	the	point	of	view	of	the	scientific	method.		
+It	is	overused	to	fit	every	occasion.	Where	does	the	energy	of	quasars	come	
+from?	Black	holes,	theorists	say.	Using	which	mechanism?	Nobody	knows.		
+
+doubts	their	existence.		
+
+28 
+ 
+As for quantum gravity, it remains an unachieved discipline, insofar as 
+gravitation has never been quantified. Discoursing on its ins and outs is 
+tantamount to speculating on the outcome of a marriage that has never been 
+consummated. 
+Theoretical astrophysics must produce models that are likely to be 
+confronted with observations, to be falsified in the sense of Karl Popper. The 
+model we propose leads to the conclusion that the mass of neutron stars is 
+automatically limited below the critical value of 2.5 solar masses, through a 
+mechanism removing any excess of matter via partial mass inversion. The 
+lack of any observation of X-ray emitting objects with a higher mass also 
+militates in favor of this model. The fusion of two subcritical neutron stars 
+could finally explain the observation of gravitational waves, the energy 
+involved corresponding to the mass inversion of the matter in excess, of up 
+to several solar masses.  
+We predict that stellar black holes will never be observed, simply because 
+they exist only in the imagination of their creators. 
+We also conjecture that the energy source of quasars in active galaxy nuclei 
+does not rely on black holes and that "supermassive black holes" located in 
+the center of galaxies are very massive relics of such quasars. Work in 
+progress on this subject, that will be presented at a later stage. 
+
+ 
+ 
+ 
+References 
+
+[1] Schwarzschild, K. (13 January 1916). "Über das Gravitational eines Massenpunktes nach der 
+Einsteinschen Theorie". Königlich Preußische Akademie der Wissenschaften (Berlin). Sitzungsberichte. 
+189–196. 
+translated in English as: 
+Antoci, S.; Loinger, A. (12 May 1999). "On the gravitational field of a mass point according to 
+Einstein's theory". arXiv:physics/9905030. 
+ [2] Schwarzschild, K. (24 February 1916). "Über das Gravitationsfeld einer Kugel aus 
+incompressibler Flüssigkeit nach Einsteinsechen Theorie". Königlich Preußische Akademie der 
+Wissenschaften (Berlin). Sitzungsberichte. 424–434. 
+translated in English as: 
+Antoci, S. (16 December 1999). "On the gravitational field of a sphere of incompressible fluid 
+according to Einstein's theory". arXiv:physics/9912033.  
+[3] Tolman, R. C. (1934). "Relativity, Thermodynamics and Cosmology". Oxford University Press. 
+Reprint (2011). Dover Publications. ISBN 978-0486653839. 
+[4] Oppenheimer, J. R.; Volkoff, G. M. (February 1939). "On Massive Neutron Cores". Physical Review. 
+55 (4): 374–381. doi:10.1103/PhysRev.55.374. 
+
+29 
+ 
+[5] Petit, J.-P.; d'Agostini, G. (December 2014). "Negative mass hypothesis in cosmology and the 
+nature of dark energy". Astrophysics and Space Science. 354 (2):611–615. doi:10.1007/s10509-014-
+2106-5. 
+[6] Petit, J.-P.; d'Agostini, G. (November 2014). "Cosmological bimetric model with interacting 
+positive and negative masses and two different speeds of light, in agreement with the observed 
+acceleration of the Universe". Modern Physics Letters A. 29 (34): 1450182. 
+doi:10.1142/S021773231450182X. 
+[7] Petit, J.-P.; d'Agostini, G. (May 2015). "Lagrangian derivation of the two coupled field equations in 
+the Janus cosmological model". Astrophysics and Space Science. 357 (1): 67. doi:10.1007/s10509-
+015-2250-6. 
+[8] Adler, R. J. (1974). "A Fluid Sphere in General relativity". Journal of Mathematical Physics. 15: 727. 
+doi:10.1063/1.1666717. 
+[9] Adler, R.; Bazin, M.; Schiffer, M. (1975). "Introduction to General Relativity" (2nd ed.). New York: 
+McGraw-Hill. ISBN 978-0070004207. 
+[10] Abbott, B. P. et al. (February 2016). "Observation of Gravitational Waves from a Binary Black 
+Hole Merger". Physical Review Letter. 116: 061102. doi:10.1103/PhysRevLett.116.061102. 
+arXiv:1602.03837. 
+[11] Petit, J.-P.; d'Agostini, G. (March 2015). "Cancellation of the central singularity of the 
+Schwarzschild solution with natural mass inversion process". Modern Physics Letters A. 30 (9): 
+1550051. doi:10.1142/S0217732315500510. 
+[12] Petit, J.-P. (April 1995). "Twin universes cosmology". Astrophysics and Space Science. 227 (2): 
+273–307. doi:10.1007/BF00627375. 
+[13] Izumi, K. et al. (2013). "Gravitational lensing shear by an exotic lens object with negative 
+convergence or negative mass". Physical Review D. 88: 024049. doi:10.1103/PhysRevD.88.024049. 
+arXiv:1305.5037. 
+[14] Petit, J.-P. (August 2017). "JANUS 20: Falsifiability of the theory with negative weak lensing". The 
+Janus Cosmological Model. YouTube. 
+[15] Piran, T. (November 1997). "On Gravitational Repulsion". General Relativity and Gravitation. 29 
+(11): 1363-1370. doi:10.1023/A:1018877928270. arXiv:gr-qc/9706049. 
+[16] Kerr, R. P. (1963). "Gravitational field of a spinning mass as an example of algebraically special 
+metrics". Physical Review Letters. 11 (5): 237. doi:10.1103/PhysRevLett.11.237. 
+[17] Kruskal, M. D. (September 1960). "Maximal Extension of Schwarzschild Metric". Physical 
+Review. 119 (5): 1743–1745. doi:10.1103/PhysRev.119.1743. 
+[18] Souriau, J.-M. (1970). "Structure des Systèmes Dynamiques". Dunod. 
+Translated in English as: 
+Souriau, J.-M. (1997). "Structure of Dynamical Systems". Progress in Mathematics. Boston: Birkhäuser. 
+ISBN 978-1-4612-6692-1. doi:10.1007/978-1-4612-0281-3. 
+[19] Boyer R. H.; Lindquist, R. W. (1967). "Maximal analytic extension of the Kerr metric". Journal of 
+Mathematical Physics. 8: 265. doi:10.1063/1.1705193. 
+[20] Eddington, A. S. (February 1924). "A comparison of Whitehead's and Einstein's formulæ". 
+Nature. 113: 192. doi:10.1038/113192a0. 
+
+

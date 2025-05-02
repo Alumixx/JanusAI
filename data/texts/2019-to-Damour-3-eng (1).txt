@@ -1,0 +1,7044 @@
+1	
+
+	
+Jean-PierrePetit	
+Jppetit1937@yahoo.fr	
+BP	55	84122	Pertuis,	France	
+		Pertuis,	on	December	31,	2019	
+
+	
+
+	
+
+	
+
+								
+
+to	Mr.	T.Damour	
+IHES,	route	des	Chartres	
+91440	Bures	sur	Yvette	
+France	
+	Recommended	with	acknowledgement	of	receipt	
+Copies	to	:		
+	Etienne	Ghys,	Permanent	Secretary	of	the	Academy	of	Sciences	
+Director	of	the	Institut	des	Hautes	Etudes	Scientifiques	
+	Sir,	More	than	three	months	have	passed	since	my	letter	of	26	September	2019,	which	
+remained	unanswered.	A	letter	that	included	all	the	elements	of	a	reply	to	the	article	
+that	you	posted	on	January	7,	2019	on	your	page	of	the	IHES	site,	which	concluded	"to	
+the	physical	and	mathematical	incoherence	of	the	Janus	model",	based	on	the	difficulty	
+of	describing	the	geometry	inside	the	stars.		
+I	brought	all	the	elements	that	put	this	model	back	on	its	foundations	at	the	price	of	a	
+minimal	modification	of	the	tensors	of	the	second	member,	which	ensures	the	
+satisfaction	 of	 Bianchi's	
+identities,	 without	 changing	 anything	 to	 the	 model's	
+achievements,	namely	the	satisfaction	of	about	ten	sets	of	observational	data.	This	work	
+was	published	in	March	2019	in	the	journal	Progress	in	Physics.			
+http://www.jp-petit.org/papers/cosmo/2019-Progress-in-Physics-1.pdf	
+I	immediately	asked	you	to	put	a	link	on	your	page	to	what	can	be	considered	a	scientific	
+right	of	reply.		
+No	answer	
+Thinking	that	you	had	probably	not	read	this	article,	I	composed	a	detailed	forty-page	
+presentation	of	its	contents,	with	all	the	calculation	details,	which	I	forwarded	to	you	on	
+September	26,	with	the	same	request.		
+No	response.		
+
+	
+2	
+I	am	rephrasing	this	request	for	the	last	time.	If	you	do	not	reply,	I	will	then	take	all	
+necessary	steps	to	denounce	this	serious	breach	of	scientific	ethics	and	the	resulting	
+damage	to	my	reputation	as	a	scientist.		
+Yours	sincerely	
+Jean-Pierre	Petit	
+	
+
+	
+
+	
+
+	
+
+	
+
+3	
+
+								
+
+	
+Jean-PierrePetit	
+Jppetit1937@yahoo.fr	
+BP	55	84122	Pertuis,	France	
+		Pertuis,	on	september	26,	2019	
+to	Mr.	T.Damour	
+IHES,	route	des	Chartres	
+91440	Bures	sur	Yvette	
+France	
+		Copy	to		G.D’Agostini,	N.Debergh,	S.Michea,	Nathalie	Deruelle,	Yves	Blanchet	
+To	the		Director	of	IHES	and	to	the	Permanent	Secretary	of	the	Academy	of	SciencesJoint	
+files:	
+	Article	«	The	physical	and	mathematical	consistency	of	the	Janus	Cosmological	Model	».	
+Progress	in	Physics	2019	Vol.15	issue	1	
+Appendix	1:	Calculation	details	
+Appendix	2:	the	English	translation	of	your	article.	
+	Sir,	On	January	4,	2019,	you	placed	an	article	[1]	on	your	page	of	the	IHES	website	entitled	:		
+Where	you	point	out	"the	physical	and	mathematical	inconsistency	of	our	model".	I	
+replied	in	a	simple	letter,	drawing	your	attention	to	an	article	of	mine[2]	that	appeared	
+in	the	journal	Progress	in	Physics	(attachment),	entitled	:	
+Progress	in	Physics	2019	Vol.15	issue	1	
+which,	while	agreeing	on	the	relevance	of	your	criticism	brings	the	solution	to	the	
+problem,	modulo	a	very	slight	modification	of	the	system	of	Janus	field	equations	which	
+in	no	way	invalidates	everything	that	had	already	been	obtained	and	published	as	
+results	and	many	agreements	with	the	observational	results.		
+I	had	asked	you,	in	a	simple	letter,	either	to	include	the	content	of	this	article	on	this	
+page,	or	simply	the	address	where	it	is	accessible,	as	a	legitimate	right	of	scientific	reply,	
+
+Physical	and	mathematical	consistency	of	the	Janus	Cosmological	Model	
+
+On	the	"Janus	model"	by	J.P.PETIT	
+
+	
+4	
+even	if	you	might	formulate	new	criticisms	on	this	paper,	in	order	to	maintain	your	
+negative	opinion	of	our	approach.	This	is	part	of	the	normal	game	of	scientific	activity.					
+But	I	believe	that	you	have	not	read	it,	and	in	any	case	have	not	taken	seriously	the	
+arguments	that	were	developed	in	it.	It	is	a	pity,	because	in	doing	so	"you	are	throwing	
+the	baby	out	with	the	bath	water"	at	a	time	of	crisis	in	cosmology	and	astrophysics	when	
+the	examination	of	new	ideas	would	be,	it	seems	to	me,	opportune.	
+We	have	received	several	letters	from	foreign	researchers	who,	having	been	informed	of	
+the	presence	of	your	review	on	your	IHES	page,	have	translated	this	text	into	English	
+and	Russian,	and	were	surprised	not	to	see	any	links	to	a	possible	right	of	reply.	A	
+colleague	also	informs	me	that	your	colleague	Marc	Lachièze-Rey	tells	anyone	who	
+wants	to	hear	it	"that	Damour	has	shown	that	the	Janus	model	does	not	make	sense".	
+I	am	therefore	republishing	my	approach,	this	time	by	registered	mail	with	
+acknowledgement	of	receipt,	once	again	attaching	the	content	of	my	article.	But	as	I	am	
+not	sure	you	will	read	this	document,	I	will	summarize	it.	
+The	first	members	of	your	own	system	of	coupled	field	equations	[13]	are	identical	to	
+those	in	Sabine	Hossenfelder's	2008	paper	[3]	and	to	our	2014	system	of	equations	[4].	
+The	common	denominator	being	to	choose	to	include	the	Lagrangian	densities	
+  − g(+) R(+)and  − g(−) R(−)	(noted	by	you	"right"	and	"left")	in	the	action	integral,	
+which	immediately	produces	this	form	
+
+with	the	Lagrangian	
+
+	
+
+	
+With	"Janus"	notations,	by	opting	for	a	nullity	of	the	two	cosmological	constants	and	by	
+taking	 χ= 1		this	can	be	written	:		
+(1)																																																	
+(2)																																																		
+
+(+)		
+(−)	
+
+Rµν
+(+) −
+ 
+
+(+) = Tµν
+
+R(+) gµν
+
+(+) + tµν
+
+1
+2
+
+R(−) gµν
+
+(−) = Tµν
+
+(−) + tµν
+
+Rµν
+(−) −
+ 
+
+1
+2
+
+1
+2
+
+1
+2
+
+tµν
+ 
+
+tµν
+ 
+
+⎤⎦	
+
+(+) + tµν
+
+R(+) gµν
+
+(+) = Tµν
+
+Rµν
+(−) −
+ 
+
+Rµν
+(+) −
+ 
+
+tµν
+ 
+tµν
+ 
+
+	
+5	
+In	the	second	members	the	sources	of	the	fields	determining	the	geometries	of	the	
+sectors	"+"	and	"-"	or	"Right"	and	"Left"	according	to	your	notations.		
+Your	terms	
+(−)	reflect	the	interaction	between	these	two	sectors	
+(+)	and	
+-	
+(+)	represents	the	contribution	to	the	field,	which	determines	the	geometry	
+"+"	("right")	due	to	the	presence	of	masses	"-"	("left").	
+-	
+(−)	represents	the	contribution	to	the	field,	which	determines	the	"-"	("left")	
+"+"	
+of	
+due	
+geometry	
+("right")	 masses.	
+	
+(+)		
+
+to	
+the	
+presence	
+The	"Janus"	writing	convention	is	translated	as	:		
+(3)																																																																	
+(4)																																																															
+	
+The	form	of	the	first	two	members	then	requires	that	the	differences	of	the	second	
+two	members	be	null	and	void.		
+In	order	to	demonstrate	the	inconsistency	of	the	Janus	system	you	choose	to	opt	for	
+the	:		
+-	Stationary	situation	
+-	Presence	of	a	positive	mass,	of	constant	density,	located	inside	a	sphere	(that	is	to	
+say,	schematically,	a	"star").	
+-	Zero	negative	material	density	("left").		
+The	system	then	becomes,	with	your	notations	:	
+(5)																																																							
+(+)		
+(−)	
+(6)																																																							
+It	should	be	noted	at	this	stage	that	there	is	no	definition	of	how	the	tensor	
+(−)should	be	
+constructed.	It	is	the	effect	of	"induced	geometry"	created	in	the	"left"	sector	by	the	
+"right"	material.	All	that	could	be	said	is	that	this	tensor	should	be	a	function	of	the	
+"right"	content,	i.e.		
+	(7)																																																										 
+
+tµν
+(−) ≡ψ( ρ(+), p(+) )
+
+(−) = − Tµν
+
+(−) = − tµν
+
+Rµν
+(+) −
+ 
+
+Rµν
+(−) −
+ 
+
+(+) = Tµν
+
+R(+) gµν
+
+R(−) gµν
+
+R(−) gµν
+
+(−) + tµν
+(−)
+
+tµν
+ 
+
+1
+2
+
+1
+2
+
+	
+
+⎡⎣
+
+Tµν
+ 
+
+6	
+
+tµν
+(−) =
+ 
+
+Tµν
+(+) = −
+ 
+
+g(+)
+g(−) Tµν
+
+g(+)
+g(−) Tµν
+
+ ∇ν(+)Tµν
+ ∇ν(−)Tµν
+
+	
+The	proposal	of	the	"Janus"	model	amounted	to	giving	this	term	the	form	:		
+(8)																																																										
+(+)		
+To	show	that	the	inconsistency	appears	even	in	an	almost	Lorentian	situation,	in	your	
+(+)	according	to	:	
+article,	page	2,	equation	(5)	you	introduce	a	tensor	
+(+)	
+	(9)																																																						
+The	conditions	of	zero	divergence	of	the	two	equations	are	then	written	(your	equations	
+(7)	and	(8),	page	3	of	your	article)	:	
+(+) = 0		
+(10)																																																																							
+(11)																																																																							
+(+) = 0		
+(+)	
+Where	the	operators	 ∇ν(+)and	 ∇ν(+)are	constructed	from	the	two	different	metrics
+and	
+(−).		
+What	is	the	physical	meaning	of	these	zero	divergence	conditions?	These	are	
+conservation	equations.	It	is	therefore	not	surprising	that	equations	(10)	and	(11)	lead	
+to	Euler-type	equations,	which	express	the	fact	that,	in	the	star,	the	force	of	gravity	
+balances	the	force	of	pressure.		
+The	calculation	leads	to	:		
+	(12)																																																																														 ∂ip(+) = + ρ(+) ∂iU		
+(13)																																																																															 ∂ip(+) = − ρ(+) ∂iU	
+Equations	which,	as	you	rightly	point	out,	contradict	each	other.		
+Let's	now	go	back	to	physics	by	deciding	to	write	the	Janus	equations	in	their	mixed	
+form:	
+(14)																																																												
+(15)																																																												
+Like	you,	I	took	Einstein's	constant	equal	to	unity.		
+The	tensors	then	write:		
+
+g(+)
+g(−) T(+)
+
+g(−)
+g(+) T(−)
+
+ν − R(+)δµ
+ν =
+
+ν − R(−)δµ
+
+⎟		
+
+ν		
+
+ν + T(−)
+ν
+µ
+µ
+
+R(−)
+ 
+
+R(+)
+ 
+
+gµν
+ 
+
+gµν
+ 
+
+ν = −
+
+ν +
+µ
+
+T(+)
+
+⎛
+⎜
+⎝
+
+⎞
+
+⎠
+
+µ
+
+µ
+
+µ
+
+7	
+
+	
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+	
+(16)	
+
+T(+)
+
+ν =
+µ
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+ρ(+)
+
+0
+
+0
+
+−
+
+0
+p(+)
+c2
+
+0
+
+0
+
+0
+
+−
+
+p(+)
+c2
+
+0
+
+0
+
+0
+
+ρ(−)
+
+0
+
+0
+
+−
+
+0
+p(−)
+c2
+
+0
+
+0
+
+0
+
+−
+
+p(−)
+c2
+
+0
+
+0
+
+0
+
+T(−)
+
+ν =
+µ
+
+ 
+
+ 
+
+µ
+
+µ
+
+µ
+
+−
+
+−
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+ν = −
+
+R (+)
+ 
+
+p(−)
+c2
+
+p(+)
+c2
+
+ν = T(+)
+
+R(−)
+ 
+
+ν = T(+)
+µ
+µ
+
+ν		
+
+ν − R (+)δµ
+
+ν − R(−)δµ
+
+(
+r r − 2m
+
+ν		
+
+g(+)
+g(−) T(+)
+
+p(+) '
+c2 = −
+
+m + 4πG p(+) r3 / c4
+
+In	this	case	the	Janus	system	is	reduced	to	:	
+(17)																																																					
+(18)																																																				
+The	contradiction	is	then	expressed	when	calculating	the	differential	equation	giving	the	
+pressure	as	a	function	of	the	radial	variable.	This	corresponds	to	Tolmann	Oppenheimer	
+Volkoff's	equation.	For	equation	(17)	we	obtain	:			
+(19)																																																						
+⎠⎟	
+	where	M	is	the	mass	of	the	star.		
+With	
+When	we	pass	to	the	Newtonian	approximation	this	equation	becomes	
+	(20)																																																									
+	
+We're	back	to	Euler's	equation.		
+The	same	thing,	applied	to	equation	(18)	provides	:	
+(21)																																																			
+The	Newtonian	approximation	then	provides:	
+(22)																																																						
+	
+
+p(+) ' = − ρ(+) mc2
+ 
+
+p(+) ' = + ρ(+) mc2
+ 
+
+m − 4πG p(+) r3 / c4
+
+p(+) '
+c2 = +
+
+(
+r r + 2m
+
+⎠⎟	
+
+G M
+c2
+
+G Mρ(+)
+
+G Mρ(+)
+
+m =
+ 
+
+p(+)
+c2
+
+p(+)
+c2
+
+ρ(+) +
+
+ρ(+) −
+
+= +
+
+= −
+
+	
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+r2
+
+r2
+
+r2
+
+r2
+
+)
+
+)
+
+⎞
+
+⎞
+
+ 
+
+It's	an	equivalent	way	of	bringing	out	this	contradiction	that	you	raise.	
+
+8	
+
+	
+	But	it	is	also	a	way	of	discovering	its	origin,	which	comes	from	the	choice	made	to	
+express	the	tensor	
+ν	responsible	for	the	induced	geometry	effect.		
+However,	there	is	no	a	priori	physical	reason	for	this	tensor	to	be	written:	
+	
+(23)															
+
+0
+p(+)
+c2
+
+T(+)
+ 
+
+ρ(+)
+
+T(+)
+
+0
+
+0
+
+0
+
+0
+
+0
+
+−
+
+µ
+
+g(+)
+g+) T(+)
+
+ν = −
+µ
+
+g(+)
+g+)
+
+ν = −
+µ
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+																																			
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+0
+
+0
+
+0
+
+0
+
+−
+
+p(+)
+c2
+
+0
+
+0
+
+−
+
+p(+)
+c2
+
+ 
+
+	
+We	are	going	to	consider	modifying	the	system	of	Janus	coupled	field	equations	as	
+follows	and	this	is	what	I	did	in	the	article	I	published	in	march	2019	in	the	peer-
+reviewed	journal	Progress	in	Physics	and	which	you	did	not	consider	(I	asked	you	
+to	put	a	link	in	your	page	of	the	IHES	site)	:		
+
+Remaining	in	the	expression	of	the	equations	in	their	mixed	form,	let	us	consider	
+modifying	the	tensors	responsible	for	the	effects	of	induced	geometry,	which	amounts	to	
+suggest	moving	from	the	system	(14)	+	(15)	to	the	system	:	
+(24)																																																				
+(25)																																																	
+Let's	 remember:	no	physical	imperative	imposes	a	particular	choice	of	the	form	of	
+these	tensors	
+ν.	On	the	other	hand,	the	form	of	the	first	members	imposes	
+νand	
+the	mathematical	imperatives	of	zero	divergence	that	we	have	pointed	out,	and	which	
+we	cannot	escape.	
+
+ν − R(−)δµ
+
+ν − R(+)δµ
+
+⎟		
+
+ν		
+
+ν + T(−)
+ν
+µ
+
+R(−)
+  
+
+R(+)
+  
+
+⌢T(−)
+  
+
+⌢T(+)
+  
+
+ν = T(+)
+
+g(+)
+g(−)
+
+g(−)
+g(+)
+
+⌢T(+)
+
+⌢T(−)
+
+ν = −
+
+ν +
+µ
+
+⎛
+⎜
+⎝
+
+⎞
+
+⎠
+
+µ
+
+µ
+
+µ
+
+µ
+
+µ
+
+µ
+
+	
+	
+	
+
+	
+	
+
+9	
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+⎟	
+	
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+Let's	show	that	the	choice:		
+
+(26)																																								
+
+ρ(+)
+
+0
+
+0
+
+0
+
+0
+p(+)
+c2
+
++
+
+0
+
+0
+
+0
+
+0
+
+0
+
++
+
+p(+)
+c2
+
+0
+
+0
+
+0
+
++
+
+p(+)
+c2
+
+⌢T(+)
+
+ν =
+µ
+
+	  
+
+µ
+
++
+
++
+
++
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+ν =
+µ
+
+ρ(−)
+
+⌢T(−)
+
+R (+)
+ 
+
+p(−)
+c2
+
+p(−)
+c2
+
+ν = T(+)
+
+0
+p(−)
+c2
+
+ν − R (+)δµ
+
+ν		
+
+(27)																																								
+	  
+allows	us	to	satisfy	this	mathematical	imperative	conditions.	Let	us	take	again	the	
+configuration	you	have	considered	in	your	article,	i.e.	the	situation	of	a	star	of	positive	
+mass,	surrounded	by	vacuum	:	
+	(28)																																																			
+(29)																																																	
+everything	is	in	order	(details	of	the	calculations	are	provided	in	the	appendix).	The	
+second	differential	equation	becomes	:	
+(30)																																											
+which,	in	Newtonian,	restores	the	Euler	equation,	reflecting	the	balance	between	
+pressure	and	gravity	in	the	star.	:	
+in	 Newtonian	 approximation)	 Bianchi's	
+Both	 equations	 satisfy	 (asymptotically,	
+identities.	
+	
+
+The	physical	and	mathematical	inconsistency	disappears.	
+
+ν		
+⎠⎟	
+
+m + 4πG p(+) r3 / c4
+
+p(+) '
+c2 = −
+
+(
+r r + 2m
+
+ν − R(−)δµ
+
+R(−)
+  
+
+ν = T (+)
+
+g(+)
+g(−)
+
+p(+)
+c2
+
+ν = −
+µ
+
+ρ(+) +
+
+⌢T (+)
+
+⎛
+⎝⎜
+
+)
+
+⎞
+
+µ
+
+µ
+
+µ
+
+ 
+
+	
+
+	
+	
+
+1
+2
+
+tµν
+ 
+
+tµν
+ 
+
+(+) + tµν
+
+R(+) gµν
+
+(+) = Tµν
+
+Rµν
+(+) −
+ 
+
+	
+At	this	point,	someone	might	say:		
+
+	
+10	
+-	That's	very	clever.	To	make	this	difficulty	disappear	Petit	has	tinkered	with	the	tensors	
+present	in	the	second	limbs	so	that	the	inconsistency	linked	to	the	emergence	of	Euler's	
+equation,	translating	the	balance	between	the	forces	of	pressure	and	gravity	into	the	
+masses,	disappears	.		
+But,	as	we	have	pointed	out,	the	incoherence	linked	to	the	emergence	of	the	Euler	
+equation,	which	reflects	the	balance	between	the	forces	of	pressure	and	gravity	in	the	
+masses,	will	disappear.	
+(+)	and	
+	what	determined	the	shape	of	the	tensors	
+(−)	responsible	for	the	induced	
+geometry	effects?	Here,	using	your	formulation:			
+(+)		
+(31)																																																	
+(−)	
+(32)																																																		
+In	the	Newtonian	approximation	(linearization)	the	effect	of	pressure	is	neglected	in	
+relation	to	the	density	term	 ( p << ρc2 ).	By	saying	that	this	system	will	only	be	valid	for	
+linearized	solutions,	it	provides	about	ten	results	in	agreement	with	the	observations.		
+In	this	linearization	viewpoint	we	will	have	tensors	in	the	form	:	
+	(33)																		
+The	three	diagonal	terms	being	finally	neglected.		
+How	then	to	complete	these	tensors	by	adding	these	missing	diagonal	terms?		
+Answer	(from	physicist):	by	making	sure	that	the	Euler	equations	(equilibrium,	in	
+regions	where	masses	are	present,	between	the	force	of	gravity	and	the	force	of	
+pressure)	are	satisfied.	This	is	equivalent	to	wishing	that	the	equations	satisfy	
+(asymptotically)	the	Bianchi	conditions.		
+This	leads	to	the	choice	(26)	+	(27).		
+This	is	the	answer	I	gave	you	in	this	article	published	in	Progress	in	Physics,	which	you	
+probably	haven't	read.		
+
+0
+0
+0
+... 0
+0
+0 ... 0
+0
+0 ...
+
+0
+0
+0
+... 0
+0
+0 ... 0
+0
+0 ...
+
+Nothing	a	priori!	
+
+ρ(+)
+0
+0
+0
+
+ρ(−)
+0
+0
+0
+
+Rµν
+(−) −
+ 
+
+(−) = Tµν
+
+R(−) gµν
+
+(−) + tµν
+
+		
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎠
+
+ν ∼
+µ
+
+ν ∼
+µ
+
+t(+)
+
+t(−)
+
+1
+2
+
+  
+
+	
+
+	
+11	
+I	saw	that	Nathalie	Deruelle	had	been	your	adviser	in	the	making	of	your	article.	I	
+proposed	to	you	and	to	her	a	meeting	in	a	room	with	a	blackboard,	without	witnesses	or	
+recording,	which	would	allow	me	to	expose	this	work	and	answer	your	questions.	
+Neither	of	you	had	the	simple	courtesy	of	simply	answering	me.	
+The	text,	which	still	appears	on	your	IHES	page,	discredits	me	as	a	scientist,	not	only	
+with	French	people,	but	within	the	entire	international	scientific	community.	You	can	of	
+course	choose	not	to	subscribe	to	my	requests.	In	this	case,	what	I	can	tell	you	is	that,	
+failing	to	obtain	a	legitimate	debate	with	the	people	who	are	supposed	to	be	specialists	
+in	these	matters,	this	whole	affair	will	ultimately	be	brought	to	the	attention	of	the	
+greatest	number,	in	French	and	in	English,	via	one	or	more	videos,	with	all	the	details	of	
+the	calculations	provided	in	attached	pdf	files.	
+A	new	situation	is	emerging.	Through	the	series	of	about	thirty	Janus	videos,	using	my	
+talents	as	a	teacher,	I	have	exposed	all	the	ins	and	outs	of	the	approach	we	have	
+undertaken	for	so	many	years,	underlining	in	passing	the	contradictions	in	which	
+contemporary	cosmology	and	astrophysics	are	sinking	deeper	and	deeper,	by	resorting	
+to	the	undefined	concepts	of	dark	matter	and	dark	energy.			
+You	are	the	only	one	to	have	reacted	in	a	constructed	and	argued	way	through	the	
+article	that	you	have	positioned	in	your	page	of	the	IHES	and	we	are	grateful	to	you	for	
+that.	
+Everyone	knows	that	models	don't	come	into	being	all	at	once,	in	their	most	elaborate	
+form.	Your	comment	therefore	prompted	a	necessary	reworking	of	the	model,	with	
+publication	in	a	peer-reviewed	journal	(which	was	in	progress	at	the	time).	This	is	a	
+purely	mathematical	reworking,	which,	by	the	way,	does	not	in	any	way	change	the	
+results	already	obtained	and	published	and	the	many	points	of	agreement	with	the	
+observations.	From	this	point	of	view,	we	can	only	be	grateful	to	you	for	having	
+highlighted	this	shortcoming	and	for	having	prompted	this	progress.	
+-	I	therefore	request	that	you	add	the	contents	of	this	letter	to	this	page	of	the	IHES,	as	
+an	exercise	of	my	scientific	right	of	reply.	Even	if	you	put	forward	any	arguments	that	
+contradict	my	arguments.		
+Unless	you	would	prefer	to	put	this	link	on	your	page	of	the	IHES	site	/		
+	-	I	ask	you	to	put	the	link	to	my	progress	in	physics	article:		
+	-	I	ask	you	to	put	a	link	to	the	translation	of	your	own	article	in	English,	through	the	link:		
+Or	to	reproduce	this	text	in	your	page	of	the	IHES	website.		
+	-	Insofar	as	we	have	responded	to	your	legitimate	objection,	it	would	be	appropriate	for	
+us	to	be	able	to	present	this	work,	"revisited",	in	a	seminar	at	the	IHES,	and	I	am	
+rephrasing	this	request	to	you.		
+
+12	
+
+	
+																Sincerely	yours																																																																		Jean-Pierre	Petit	
+References	:		
+[1]		T.Damour	:	Sur	le	modèle	«	Janus	»	de	J.P.Petit	
+http://www.ihes.fr/~damour/publications/JanusJanvier2019-1.pdf	
+[2]	J.P.Petit	:	Physical	and	mathematical	consistency	of	the	Janus	Cosmological	Model.	
+Progress	in	Physics	291	Vol.15	issue	1.		(http://www.ptep-online.com	)		
+[3]	S.Hossenfelder	Antigravitation	Physical	Letters	B	vol.	636	issue	2	4	may	2006	
+pp.119-125	
+[4]	J.P.Petit,	G.D’Agostini	:	Negative	Mass	hypothesis	in	cosmology	and	the	nature	of	dark	
+energy.	Astrophysics	And	Space	Sccience,.	A	29,	145-182	(2014)	
+	[5]	G.	DAgostini	and	J.P.Petit	:	Constraints	on	Janus	Cosmological	model	from	recent	
+observations	of	supernovae	type	Ia,	Astrophysics	and	Space	Science,	(2018),	
+363:139.https://doi.org/10.1007/s10509-018-3365-3	
+[6]	J.P.PETIT,	P.MIDY	&	F.LANDSHEAT	:	Twin	matter	against	dark	matter.	Intern.	Meet.	
+on	Atrophys.	and	Cosm.	"Where	is	the	matter	?	",	Marseille	2001	june	25-29	
+[7]	J.	P.	Petit,	Astrophys.	Space	Sci.	Twin	universe	cosmology	226,	273	(1995).	
+[8]	W.B.Bonnor	:	Negative	mass	and	general	relativity.	General	Relativity	and	
+Gravitation	Vol.21,	N°11,	1989	
+[9]	J.P.Petit	&	G.D’Agostini	:	Lagrangian	derivation	of	the	two	coupled	field	equations	in	
+the	Janus	Cosmological	Model.	Astrophysics	and	Space	Science	2015,	357	:67	
+[10]	G.	DAgostini	and	J.P.Petit	:	Constraints	on	Janus	Cosmological	model	from	recent	
+observations	of	supernovae	type	Ia,	Astrophysics	and	Space	Science,	(2018),	
+363:139.https://doi.org/10.1007/s10509-018-3365-3	
+[11]			J.P.PETIT		:	Cosmological	model	with	variable	velocity	of	light.	Modern	Phys	
+Letters	A3,	1988,	pp.	1527	
+[12]		The	Dipole	Repeller	:	Y	Hoffman,	D.Pomarède,	R.B.Tully,	H.Courtois.	Nature	
+Astronomy	2017	1	,	0036			
+[13]		T.Damour	and	II	Kogan	Effective	Lagrangians	and	universality	classes	of	non	linear	
+bigravity	Phys	Rev	D	2002	
+		
+
+	
+
+	
+
+13	
+
+	and	the	way	we'd	dealt	with	it.	
+
+APPENDIX	1	
+Putting	elements	of	your	own	article	into	perspective	
+	
+Quotations	from	excerpts	of	your	text	are	indented.		
+In	red,	the	modification	of	your	analysis,	based	on	the	new	2019	system	of	field	
+equations	[2]	which	corresponds	to	(28)	-	above.	
+You	note	[1]	notes	that	due	to	the	structure	of	the	first	members	of	the	Janus	field	
+equations	we	have	the	relation	:		
++ = 0																																																																													(2)	
+− = 0																																																																													(3)	
+Adding	that	these	Bianchi	identities	imply	conservation	laws	for	the	corresponding	
+sources.	Your	text:	
+This	is	where	the	reasoning	will	be	taken	up	again.		
+You	start	from	the	Janus	system	of	2015	[9].	
+
+Since	the	(Janus)	equations	consist	of	two	Einstein-type	equations,	
+these	equations	imply	two	separate	conservation	laws	for	their	two	
+right-hand	members	.	
+
+ν Eµν
+ ∇ +
+ν Eµν
+ ∇ −
+
+)																																																												(1a)	
+)																																																								(1b)	
+±		
+
+w+ Eµν
+ 
+w− Eµν
+ 
+
+(
+
+(
+
++ = χ w+Tµν
+
+−
++ + w−Tµν
+
+− = − χ w+Tµν
+
+−
++ + w−Tµν
+
+± = Eµν (g± ) = Rµν
+Eµν
+ 
+
+± −
+
+1
+2
+
+R ± gµν
+
+with	:																													
+and	you're	posing:		 w ± = −detg±		
+You	write:		
+
++
+The	two	tensor	sources	
+Tµν
+ 
+respectively,	the	impulse	energy	of	ordinary	matter	(called	"positive	
+mass")	and	of	a	new	matter	called	"negative	mass".	
+
+	are	supposed	to	represent,	
+
+−
+	and	
+Tµν
+ 
+
+			
+
+−
+
+(
+
+(
+
+Tµν
+
+⌢Tµν
+
+⌢Tµν
+  
+
+⌢Tµν
+  
+
+w+
+w−
+
+− = −
+Eµν
+ 
+
+− = − χ w+
+
++ = χTµν
+Eµν
+ 
+
+−and	
+
+w+ Eµν
+  
+w− Eµν
+  
+
++ + w−
++ = χ w+Tµν
+⌢Tµν
+−
++ + w−Tµν
+
+	
+14	
+In	the	2019	paper	[2]	the	field	equations	have	been	modified	and,	along	with	your	
+notations,	they	should	read:	:			
+)																																																												(1a’)	
+)																																																								(1b’)	
+In	the	second	members	the	source	terms	of	"induced	geometry"	(i.e.	managing	how	the	
+geometry	of	a	population	is	influenced	by	the	energy-matter	distribution	of	the	second)	
+are	replaced	by	
+You	then	move	on	to	the	case	where	negative	mass	is	absent	:	
++																																																																													(4a)	
++																																																																					(4b)	
++																																																																													(4a’)	
++																																																																					(4b’)	
+
++	.		
+								
+Which	is	to	be	replaced	by	the	system	
+								
+You	then	write		
+																																													
++ = Tµν						 w+ = w										 w− = w	
+and	:	
+This	must	be	replaced	by	the	choice	made	in	Janus	2019	[2]	:							
+You	remind	us	that	we	have	to	have:						
+True,	but	now	modulo	the	modification	(5')	
+
+Tµν																																																																												(5)	
+⌢Tµν																																																																												(5’)	
+ ∇νTµν = 0																																																																																		(7)	
+ ∇νTµν = 0																																																																																		(8)	
+
++ = χTµν
+Eµν
+ 
+
+− = −
+Eµν
+  
+
+Tµν= −
+  
+
+Tµν= −
+ 
+
+w+
+w−
+
+⌢Tµν
+
+Tµν
+ 
+
+w
+w
+
+w
+w
+
+	
+15	
+Note:	Please	note	your	choice	of	signature:	 ( − + + + ).	I	choose	 ( + − − − )But	it	
+doesn't	have	any	consequences.		
+Page	5	You	write	:		
+
+"Let	me	first	recall	that	the	linearized	solution	of	Einstein's	equations	
+in	 the	 usual	 Einstein	 equation	 (say	 the	 first	 system	 in	 (6))	 can	 be	
+written	:	
+
+goo = − 1−
+ 
+
+⎛
+⎝⎜
+
+2U
+c2
+
+⎞
+⎠⎟
+
+;
+
+gi j = + 1+
+
+where	the	quasi-Newtonian	potential	U	satisfies	the	Poisson	equation	
+
+ΔU = − 4πG
+ 
+
+Too
+c2 1+O( 1
+⎛
+c2 )
+⎝⎜
+
+⎞
+
+⎠⎟ = − 4πG ρ 1+O( 1
+c2 )
+
+⎛
+⎝⎜
+
+Because	of	the	formal	symmetry	between	the	two	system	equations	(6),	
+a	linearized	solution	of	the	Einstein-type	equations	for	metrics	 g = g− is	
+written	as	:	
+
+where	 the	 quasi-Newtonian	 potential	  U 	satisfies	 the	 modified	
+Poisson's	equation		
+
+goo = − 1−
+ 
+
+⎛
+⎝⎜
+
+2U
+c2
+
+⎞
+⎠⎟
+
+;
+
+gi j = + 1+
+
+ΔU = − 4πG
+ 
+
+Too
+c2 1+O( 1
+⎛
+c2 )
+⎝⎜
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+⎞
+
+⎞
+
+2U
+c2
+
+⎠⎟																								(19)	
+⎠⎟																		(20)	
+⎠⎟																								(21)	
+⎠⎟ 																																		(22)	
+
+2U
+c2
+
+⎞
+
+⎞
+
+According	to	equation	(5)	the	source	of	this	modified	Poisson	equation	
+(denoted	here	 ρ)	is,	at	the	lowest	approximation	which	suffices	here	
+(since	 the	 ratio w / w = 1+ O(1/ c2) 	,	 simply	 the	 opposite	 of	 the	 usual	
+source.	
+Too
+(
+c2 1+O 1/ c2
+
+)				(23)	
+⌢Too = Toothis	second	tensor	becomes	
+
+) = − ρ 1+O 1/ c2
+
+Too
+(
+c2 1+O 1/ c2
+
+)= −
+
+ρ≡
+ 
+
+(
+
+)
+
+(
+
+)
+
+(
+
+)
+
+(
+
+There	I	still	agree,	although	in	Janus	2019	[2],	if	
+⌢Tµν.		
+I	continue.	
+
+Tµν= −
+  
+
+w
+w
+
+  
+
+As	a	result,	the	quasi-Newtonian	potential	entering	the	second	metric	
+is	also	the	opposite	of	the	usual	potential:	
+
+)																																							(24)		
+
+U = − U 1+ O(1/ c2)
+ 
+
+(
+
+The	spatial	part	of	the	source	tensor	for	Einstein's	second	equation	is:	
+
+	
+16	
+It	is	at	the	beginning	of	page	6	that	you	write	(based	on	the	Janus	2015	equations	[9]):	
+⎠⎟ Ti j																																	(25)	
+And	there,	if	we	base	ourselves	on	the	Janus	equations	of	March	2019	[2]	,	which	are	:	
+		
+	
+	
+
+4U
+c2 + O(1/ c4)
+
+ν = χ T(+)
+µ
+
+Ti j = −
+ 
+
+Ti j = − 1+
+
+R(+)
+  
+
+R(−)g(−)
+
+R(+)g(+)
+
+g(−)
+g(+)
+
+⌢T(+)
+
+⌢T(−)
+
+ν +
+µ
+
+ν −
+µ
+
+w
+w
+
+ν + T(−)
+
+1
+2
+
+⎡
+⎢
+⎢
+⎣
+
+⎤
+⎥
+⎥
+⎦
+
+⎛
+⎝⎜
+
+⎞
+
+µ
+
+ν
+
+ν = χ
+µ
+
+⎡
+⎢
+⎢
+⎣
+
+g(+)
+g(−)
+
+µ
+
+ν
+µ
+
+⎤
+⎥
+⎥
+⎦
+
+1
+2
+
+ν −
+µ
+
+R(−)
+  
+
+with	:		
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+ρ(+)
+
+0
+
+0
+p(+)
+c2
+
+0
+
+0
+
+0
+
+0
+
+p(+)
+c2
+
+⌢T(+)
+
+µ
+
+ν =
+
+ρ(−)
+
+0
+
+0
+p(−)
+c2
+
+0
+
+0
+
+0
+
+0
+
+p(−)
+c2
+
+⌢T(−)
+
+µ
+
+ν =
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+⎟												  
+Ce	que	je	suis	parfaitement	en	droit	de	choisir,	alors	le	signe	de	la	partie	spatiale	du	
+tenseur	source	de	la	géométrie	induite	est	inversé.		
+Then	you	write	on	page	6	[1]	:	
+
+p(−)
+c2
+
+p(+)
+c2
+
+0
+
+0
+
+0
+
+0
+
+0
+
+  
+
+	
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+I	recall	the	explicit	formula	of	 ∇ . T	(where	I	call	that	 w ≡ −det g 	)	
+
+∂µgαβTαβ																																					(26)	
+∂igαβTαβ																																					(26)	
+
+ν= −
+
+∂νTµ
+ 
+
+1
+w
+
+(
+∂ j w Tµ
+
+ν
+
+) −
+
+1
+2
+
+ν= −
+
+∂νTi
+ 
+
+1
+w
+
+(
+∂ j w Ti
+
+j
+
+) −
+
+1
+2
+
+En	 appliquant	 cette	 formule	 au	 cas	 statique	 d’une	 étoile	 et	 pour	 un	
+indice	spatial		un	indice	spatial	 µ= i 	valant	 ( 1, 2 , 3 ) 			
+
+In	the	last	term	the	contribution	of	dominance	 α=β=0 ,	in	the	quasi-
+Newtonian	 case	
+ To1 = O(c1) and
+ Ti j = O(co)	.	We	then	find	:	
+
+ Too = O(c2)
+
+(	 because	
+
+	while	
+
+ 
+
+	
+
+(
+
+j) −
+
+= ∂ j(Ti
+
+0=∇νTi
+
+ν = ∂ j(Ti
+
+j) − ρ∂iU + O(1/ c2)
+
+Too
+c2 ∂iU + O(1/ c2)
+
+17	
+																																				(28)	
+It	is	this	equation	that	reflects	Euler's	relationship	of	static	equilibrium	in	a	usual	fluid,	
+)			
+let’s	recall		 i = 1, 2 , 3
+							 ∂ip = ρ∂iU																																																																		(32)	
+j) − ρ∂iU + O(1/ c2)																																								(30)	
+														
+With	the	Janus	equations	of	2015	we	will	have	well,	as	he	indicates	at	the	top	of	his	page	
+7	:		
+j) − ρ∂iU + O(1/ c2)																												(31)	
+A	contradiction	then	appears	between	two	contradictory	Euler	equations.	But	this	
+contradiction	disappears	with	the	Janus	2019	equations	[2]	where	the	equivalent	
+sentence	will	be	:	
+
+In	 this	 second	 Euler	 equation	 we	 can	 replace	 Ti
+values,	i.e.	in	the	lowest	order	by	- Ti
+
+ν	,	 −ρ		and	 − U 	.	This	gives	
+
+ν	,	 ρ	and	 U 	by	 their	
+
+ν = = − ∂ j(Ti
+
+ν = = ∂ j(Ti
+
+0=∇νTi
+ 
+
+0=∇νTi
+ 
+
+0=∇νTi
+ 
+
+ν = = + ∂ j(Ti
+
+ν	,	ρ	et	 U 		
+ν 	,	 −ρ	et	
+
+ν	,	ρ	and	 U 		 by	 their	
+
+ν 	,	 −ρ		,	and	 − U 	.	This	gives	:	
+
+Dans	 cette	 seconde	 équation	 d’Euler	 on	 peut	 remplacer	 Ti
+par	leurs	valeurs,	c’est	à	dire	à	l’ordre	le	plus	bas	par			 +Ti
+ − U 			.	Cela	donne	:		
+In	 this	 second	 Euler	 equation	 we	 can	 replace	 Ti
+values,	i.e.	in	the	lowest	order	by	 +Ti
+
+and	the	contradiction	disappears.	
+
+j) − ρ∂iU + O(1/ c2)																												(31)	
+	
+	And	there	we	see	the	sufficient	reason	presiding	over	the	choice	of	the	source	terms	of	
+the	"induced	geometry"	which	serves	as	a	guide	for	the	Janus	2019	equations	[2]	:	
+	
+	
+
+In	order	to	cancel	any	contradiction	in	the	Euler	equations		
+
+µ
+
+µ
+
+	
+	
+
+1
+2
+
+1
+2
+
+ν −
+µ
+
+ν −
+µ
+
+R (−)
+
+R(+)
+
+		
+
+		
+
+⌢T(−)
+
+g(−)
+g(+)
+
+R (−)g(−)
+
+R(+)g(+)
+
+ν	
+
+ν = χ
+µ
+
+18	
+
+ν = χ T(+)
+µ
+
+	
+In	addition	:		
+What	has	just	been	established	for	a	region	of	the	universe	where	negative	mass	would	
+be	practically	absent,	in	a	negligible	quantity,	can	be	extended	to	the	opposite:	to	a	
+portion	of	space	where,	in	a	situation	considered	stationary,	it	is	on	the	contrary	
+negative	mass	that	dominates	and	where	positive	mass	can	be	neglected.	This	will	
+correspond	to	the	system	of	coupled	field	equations	:	
+(32)																																			  
+ν	
+(33)																																			 
+Bianchi's	relation	referring	to	the	second	equation	will	provide	the	equivalent	of	a	Euler	
+equation	for	this	negative	matter,	reflecting	the	balance	between	the	force	of	gravity	and	
+the	force	of	pressure.		
+But	this	same	constraint,	referring	to	the	first	equation	of	the	system	will	have	no	
+physical	meaning	and	will	only	express	the	necessary	mathematical	compatibility	
+between	the	two	solutions	
+ν ),	which	will	be	ensured	if	the	induced	
+geometry	effect	(in	the	sector	of	positive	masses,	due	to	the	present	negative	masses	
+corresponds	to	the	expression	of	the	tensor	of	the	second	member	in	the	form	:	
+	(34)																																									
+Bianchi's	relation	(common	to	both	equations)	will	correspond,	with	your	notations,	to	
+(35)																																																																					 ∂i p = ρ∂iU																																						
+where	the	gravitational	potential	 U	is	then	created	by	negative	masses.		
+By	pushing	the	construction	of	metric	solutions,	we	will	obtain	in	particular,	for	the	one	
+describing	the	behaviour	of	positive	energy	particles	:		
+Inner	metric	
+	(36)		
+
+int:	
+
+0
+p(−)
+c2
+
+ν , g(−)
+µ
+
+( g(+)
+ 
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+p(−)
+c2
+
+p(−)
+c2
+
+gµν
+ 
+
+⌢T(−)
+
+ρ(−)
+
+ν =
+
+	
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+  
+
+µ
+
+µ
+
+	
+
+19	
+
+r2
+ˆR 2
+
+⎞
+⎠⎟
+
+2
+
+1/2
+
+⎤
+⎥
+⎥
+⎦
+
+c2dt2 −
+
+−r2 dθ2 + sin2θdϕ2
+
+dr 2
+r2
+ˆR 2
+
+1+
+
+(
+
+) 	
+
+3
+2
+
+⎛
+⎝⎜
+
+⎡
+⎢
+⎢
+⎣
+
+1/2
+
+2
+
+rs
+ˆR 2
+
+⎞
+⎠⎟
+
+1
+2
+
+⎛
+⎝⎜
+
+−
+
+1+
+
+1+
+
+ds 2 =
+
+ 
+
+with	:		
+																																																																						
+	Exterior	Metric	
+(37)	
+
+ext	:		
+
+gµν
+ 
+
+	
+
+3c2
+
+8πG ρ
+
+ˆR 2 =
+ 
+
+ 
+
+⎛
+⎝⎜
+
+1−
+
+ds2 = 1−
+
+2G M
+c2 r
+
+⎞
+⎠⎟ c2dt2 −
+
+dr2
+2G M
+c2 r
+
+− r2(dθ2 + sin2θdϕ2 ) 	
+⎟ dr2 − r2(dθ2 + sin2θdϕ2 )	
+
+with		 M < 0		
+In	linear	form:		
+(38)														
+Which	corresponds	to	a	phenomenon	of	repulsion.	This	explains	the	phenomenon	of	the	
+Great	Repeller,	discovered	in	January	2017	[12]	.	It	has	been	shown	that	in	a	direction	
+roughly	opposite	to	that	of	the	Shapley	attractor	there	existed	an	apparently	empty	
+region	that	seemed	to	repel	all	matter.		
+
+⎞
+⎟ c2dt2 − 1−
+⎠
+
+ds2 = 1+
+ 
+
+2G M
+c2 r
+
+2G M
+c2 r
+
+⎛
+⎜
+⎝
+
+⎛
+⎜
+⎝
+
+⎞
+⎠
+
+	
+
+20	
+
+	
+
+Figure	:	Thee	Great	Repeller	
+
+		
+As	suggested	as	early	as	1995	years	these	negative	mass	conglomerates	create	a	
+negative	gravitational	lens	effect	which	has	the	effect	of	reducing	the	brightness	of	
+distant,	background	sources.	Effect	which,	according	to	us,	explains	the	low	magnitude	
+of	galaxies	at	z	>	7.		
+This	being	the	case,	a	fine	analysis	of	the	magnitudes	of	the	distant	sources	located	in	the	
+direction	of	the	Great	Repeller	should	provide	access	to	the	diameter	of	this	negative	
+mass	conglomerate,	which	is	invisible	since	it	emits	negative	energy	photons.	
+	
+-  So	we	have	a	system	of	two	Janus	coupled	field	equations,	whose	scope	is	
+limited	to	linearized,	quasi-Newtonian	solutions.		
+-	Which	derives	from	an	action	
+-	That	satisfies	Bianchi's	identities	
+-	Which	takes	care	of	all	the	classic	situations	of	the	RG	
+-	It's	an	advantageous	substitute	for	dark	matter	and	dark	energy.		
+-	Fits	a	dozen	or	so	observational	data.	
+
+In	spite	of	the	progress	represented	by	the	first	evidence	of	the	existence	of	gravitational	
+waves,	cosmology	suffers	from	not	being	able	to	highlight	the	hypothetical	dark	matter	
+nor	being	able	to	provide	any	model	for	this	other	component	represented	by	this	no	
+less	hypothetical	dark	energy.		
+The	Janus	model	is	the	only	one	to	provide	a	well-founded	description	of	the	nature	of	
+these	invisible	components	of	the	cosmos,	namely	antimatter	(antihydrogen	of	negative	
+mass).	The	model	explains	in	passing	the	non-observation	of	primordial	antimatter,	
+
+To	sum	up	:		
+
+	
+21	
+giving	substance	to	André	Sakharov's	initial	1967	idea.	It	is	consistent	with	a	good	dozen	
+observational	data	sets.		
+It	is	shocking	that	all	the	doors	of	French	seminars	in	the	field	have	been	closed	to	us	for	
+the	last	five	years.	In	your	registered	letter	of	7	January	2019,	you	confirmed	your	
+refusal	to	see	me	present	this	work	to	the	IHES.	I	am	rephrasing	this	request	once	again	
+in	the	hope	that	my	letter	will	have	made	you	change	your	mind.		
+I	also	ask	you	to	reproduce	these	clarifications	on	the	Janus	model	in	both	languages,	
+French	and	English,	accompanying	the	English	translation	of	your	own	article,	which	I	
+have	attached.		My	foreign	colleagues	are	waiting	to	read	the	criticisms/responses	in	
+order	to	be	able	to	form	their	own	opinion	on	this	model.		
+If	there	is	no	real	debate	on	these	issues	a	situation	will	continue	to	develop	where	
+finally	non-specialists	end	up	having	a	clearer	global	vision	than	specialists,	the	attitude	
+of	a	man	like	Lachièze-Rey	being	an	example	of	this	irrational	and	absurd	deafness.		
+https://www.youtube.com/watch?v=Vl541wUXsSs&feature=youtu.be	
+We	hope	that	this	mailing	will	help	to	clean	up	this	situation,	which	is	in	urgent	need.		
+Jean-Pierre	Petit	
+		
+References	:		
+[1]		T.Damour	:	Sur	le	modèle	«	Janus	»	de	J.P.Petit	
+http://www.ihes.fr/~damour/publications/JanusJanvier2019-1.pdf	
+[2]	J.P.Petit	:	Physical	and	mathematical	consistency	of	the	Janus	Cosmological	Model.	
+Progress	in	Physics	291	Vol.15	issue	1.		(http://www.ptep-online.com	)		
+[3]	S.Hossenfelder	Antigravitation	Physical	Letters	B	vol.	636	issue	2	4	may	2006	
+pp.119-125	
+[4]	J.P.Petit,	G.D’Agostini	:	Negative	Mass	hypothesis	in	cosmology	and	the	nature	of	dark	
+energy.	Astrophysics	And	Space	Sccience,.	A	29,	145-182	(2014)	
+	[5]	G.	DAgostini	and	J.P.Petit	:	Constraints	on	Janus	Cosmological	model	from	recent	
+observations	of	supernovae	type	Ia,	Astrophysics	and	Space	Science,	(2018),	
+363:139.https://doi.org/10.1007/s10509-018-3365-3	
+[6]	J.P.PETIT,	P.MIDY	&	F.LANDSHEAT	:	Twin	matter	against	dark	matter.	Intern.	Meet.	
+on	Atrophys.	and	Cosm.	"Where	is	the	matter	?	",	Marseille	2001	june	25-29	
+[7]	J.	P.	Petit,	Astrophys.	Space	Sci.	Twin	universe	cosmology	226,	273	(1995).	
+[8]	W.B.Bonnor	:	Negative	mass	and	general	relativity.	General	Relativity	and	
+Gravitation	Vol.21,	N°11,	1989	
+[9]	J.P.Petit	&	G.D’Agostini	:	Lagrangian	derivation	of	the	two	coupled	field	equations	in	
+the	Janus	Cosmological	Model.	Astrophysics	and	Space	Science	2015,	357	:67	
+
+22	
+
+	
+[10]	G.	DAgostini	and	J.P.Petit	:	Constraints	on	Janus	Cosmological	model	from	recent	
+observations	of	supernovae	type	Ia,	Astrophysics	and	Space	Science,	(2018),	
+363:139.https://doi.org/10.1007/s10509-018-3365-3	
+[11]			J.P.PETIT		:	Cosmological	model	with	variable	velocity	of	light.	Modern	Phys	
+Letters	A3,	1988,	pp.	1527	
+[12]		The	Dipole	Repeller	:	Y	Hoffman,	D.Pomarède,	R.B.Tully,	H.Courtois.	Nature	
+Astronomy	2017	1	,	0036			
+			
+
+	
+
+(
+
+ds(+)2 = eν( + ) dx° 2 − eλ( + ) dr 2 −r2 dθ2 + sin2θdϕ2
+
+	
+23	
+Appendix	2	
+This	contains	all	the	calculations	(oh	so	tedious,	as	is	always	the	
+case	
+in	 differential	 geometry)	 that	 support	 the	 reasoning	
+presented	in	the	body	of	the	article.		
+	As	a	general	rule	we	are	in	the	case	of	a	spherically	symmetrical	geometry.		
+In	this	case	the	two	metrics	are	written	as	follows:	
+)		
+(1)																														 
+(2)																															
+		In	the	following,	to	lighten	the	writing,	we	will	ask:				
+(−) ≡ gµν	
+(−) ≡ Rµν	
+R(−) = R	
+(−) ≡ Eµν	
+ρ(−) = ρ	
+(−) = gµν		
+ν(−) =ν ; λ(−) = λ		
+			
+
+																																 ν(+) =ν ; λ(+) = λ
+We	will	perform	the	calculations	starting	from	an	expression	of	the	field	equations	
+presented	in	mixed	form	:	
+(3)																												
+(4)																												
+We	will	then	opt	for	the	configuration	envisaged	by	Damour,	considering	a	part	of	the	
+space	where	negative	mass	is	absent,	i.e.	the	equations	:			
+
+gµν
+(+) ≡ gµν
+ 
+Rµν
+(+) ≡ Rµν
+ 
+
+ R(+) = R
+Eµν
+(+) ≡ Eµν
+ 
+
+ ρ(+) = ρ
+gµν
+(+) = gµν
+ 
+
+Eµ
+ν = Rµ
+ν −
+  
+
+Eµ
+ν = Rµ
+ν −
+  
+
+⌢Tµ
+ν + T(−)
+ν
+µ
+
+ν = χ Tµ
+
+ν = − χ
+
+g(−)
+g(+)
+
+g(−)
+g(+)
+
+			
+
+R g µ
+
+⌢T(−)
+
+Rgµ
+
+Rµν
+
+Eµν
+
+gµν
+
+gµν
+
+ν +
+
+1
+2
+
+⎡
+⎢
+⎢
+⎣
+
+⎤
+⎥
+⎥
+⎦
+
+1
+2
+
+⎡
+⎢
+⎢
+⎣
+
+⎤
+⎥
+⎥
+⎦
+
+µ
+
+ν
+
+µ
+
+g
+g
+
+1
+2
+
+1
+2
+
+ν −
+
+⌢T(+)
+
+R gµ
+
+R g µ
+
+ν = − χ
+
++	
+
+ν = χT µ
+
+ν			
+
+24	
+
+ν			
+
+Eµ
+ν = Rµ
+  
+
+Eµ
+ν = R µ
+ν −
+ 
+
++ = χTµν
+Eµν
+ 
+
+	
+(5)																																																					
+(6)																																																
+-	The	first	equation	can	then	be	identified	with	Einstein's	equation	without	
+cosmological	constants.		
+-	The	second	equation	translates	an	"induced	geometry	effect"	(on	geodesics	of	the	
+negative	mass	species,	due	to	the	presence	of	positive	mass	inside	a	sphere	of	
+radius,	density	 ρ(+) = ρ	
+We	will	try	to	stick	with	the	notations	used	by	T.	Damour	[1]	in	his	paper.	He	writes	our	
+system	(5)	+	(6)	according	to	his	equation	(4),	page	1	:	
++	
+then	he	asks	(his	equation	(4)	)	
+−	
+	This	leads	him	to	write	the	system	of	equations	(his	equations	(6)):	
+		
+And	then	we	get	to	the	source	of	his	critique	of	the	two-equation	system.	Indeed,	the	
+structure	of	the	first	members	imposes	that	:	
+(7)																																																														
+ ∇ν Eµν = 0		
+ ∇ν Eµν = 0	
+(8)																																																														
+Therefore	we	must	have	the	conservation	laws	(his	equations	(7)	and	(8)	on	page	3	of	
+his	paper):	
+(9)																																																														
+ ∇νTµν = 0		
+ ∇νTµν = 0	
+(10)																																																												
+
+Eµν = + χTµν
+ 
+
+Tµν = − χ
+ 
+
+Eµν = + χTµν
+
+− = − χ
+
+w +
+w −
+
+w +
+w −
+
+Eµν
+ 
+
+Tµν
+
+Tµν
+
+	
+25	
+We	will	resume	the	thread	of	its	calculation	at	the	end	of	this	Appendix	1.	Still,	by	giving	
+the	tensor	the	form	corresponding	to	the	unmodified	Janus	equations,	equations	(9)	and	
+(10)	led	to	contradictory	Euler	equations	(equations	(32)	and	(33)	on	page	7	of	his	
+paper).		
+How	to	get	out	of	this	impasse?		
+By	noticing	that	we	are	totally	free	in	the	choice	of	tensors	reflecting	the	effects	induced	
+(by	a	material	on	the	material	of	opposite	sign).	As	we	will	show	by	taking	again	all	its	
+calculation	by	the	menu,	a	light	modification	of	the	tensor	
+Tµν	brings	the	solution,	
+without	modifying	by	one	iota	all	the	aspects	related	to	the	solutions	emerging	from	the	
+two	coupled	equations	("interior"	metrics,	that	is	to	say	inside	the	star	and	"exterior"	
+metrics,	outside	the	star).		
+	When	we	start	to	calculate	the	exact	solution	of	this	system,	if	we	do	not	take	this	
+precaution,	we	would	also	see	this	kind	of	contradiction,	inside	the	star,	in	the	form	of	
+the	emergence	of	two	equations	of	the	Tolmann	Oppenheimer	Volkoff	type,	which	are	
+also	contradictory.	In	what	will	follow,	which	translates	the	construction	of	the	two	
+metrics	as	a	whole,	modulo	this	precaution,	this	problem	will	not	appear.	But	to	
+convince	the	reader,	we	will	take	up	this	whole	scheme	according	to	the	approach	
+followed	by	Damour	[1]	.		
+Below	is	the	calculation	of	the	components	of	the	Ricci	tensor	and	the	first	limb,	for	the	
+positive	species.		
+We	have	:		
+(11)		
+
+ 
+
+0
+
+0
+0
+0
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+e−ν
+0
+0
+0
+
+0
+0
+−r−2
+0
+
+−e −λ
+
+gµν =
+
+θ						 
+With	metrics	in	this	form	the	non-zero	components	of	the	Ricci	tensor	are	:		
+(12)		
+
+−r−2 sin−2θ
+
+0
+0
+
+−
+
+µν
+
+g
+
+ 
+
+−
+
+2
+
+2
+
+0
+e
+λ
+0
+0
+
+0
+0
+r
+−
+0
+
+⎛
+⎜
+⎜
+= ⎜
+⎜
+⎜
+⎝
+
+e
+ν
+0
+0
+0
+
+0
+0
+0
+r sin
+2
+
+gµ
+ν =δµ
+
+ν		
+
+R
+
+oo
+
+'
+− ⎡
+ν λ ν νλ ν ν
+e
+=−+−
+−⎢
+r
+⎣
+
+"
+2
+
+'
+4
+
+'
+4
+
+'
+
+2
+
+R
+
+11
+
+"
+'
+'
+ν νλ ν λ
+=− + −
+4
+2
+r
+
+'
+4
+
+'
+
+2
+
+R
+
+22
+
+=
+
+e
+
+− ⎡
+λ
+⎢
+⎣
+
+1
++−
+
+'r
+'r
+ν λ
+2
+2
+
+−
+
+⎤
+⎥
+⎦
+
+	
+
+	
+
+1
+
+'
+
+−
+
+'
++
+
+'
+4
+
+2
++
+
+"
+2
+
+− ⎛
+⎜
+⎝
+
+λ ν νλ ν ν 	
+λ ν νλ ν λ 	
+
+− ⎛
+⎜
+⎝
+
+"
+2
+
+'
+4
+
+'
+4
+
+'
+4
+
+⎞
+⎟
+⎠
+
+⎞
+⎟
+⎠
+
+2
+−
+
+'
++
+
+−
+
+r
+
+r
+
+'
+
+R
+
+0
+0
+
+=−
+
+e
+
+R
+
+1
+1
+
+=−
+
+e
+
+R
+
+2
+2
+
+=−
+
+e
+
+− ⎛
+λ
+⎜
+⎝
+
+1
++
+r
+2
+
+'
+'
+ν λ
+−
+2r
+2r
+
+⎞
++
+⎟
+⎠
+
+1
+r
+2
+
+		
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+⎦	
+
+⎤
+⎥
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+	
+
+26	
+
+2
+
+'
+
+2
+
+0
+0
+
+2
+2
+
+3
+3
+
+e
+
+33
+
+22
+
+=
+
+=
+
+E
+
+R
+
+=
+
+⎞
+⎟
+⎠
+
+⎞
+⎟
+⎠
+
+⎛
+⎜
+⎝
+
+	
+
+	
+
+⎤
+⎥
+⎦
+
+R
+
+E
+1
+1
+
+e
+=−
+
+'
++
+r
+
+1
+r
+2
+
+2
+r
+2
+
+2
+r
+2
+
+µλ
+=
+µ
+
+R=
+
+'
+−+−
+4
+
+'
+λ
+r
+
+R R
+
+	
+	
+
+'
+− +
+4
+
+R sin
+
+1
+− ⎛
+λ
+−⎜
+r
+2
+⎝
+
+θ	
+
+− ⎡
+2
+−+ −
+⎢
+⎣
+
+2 '
+2 '
+ν λ
+2r
+2r
+
+"
+'
+ν νλ ν ν λ
+2
+r
+
+	
+Ricci	scalar	:		
+(13)	
+Which	gives	the	Einstein’s	tennsor:	
+(14)																																																	
+	(15)																																																	
+(16)																																																	
+Let's	write	the	equations	corresponding	to	the	first	of	the	two	field	equations,	in	
+Damour's	notations	[1]	,	in	a	mixed	writing	
+(17)																																																																 
+	(18)	
+																																																				
+																																																			
+(19)	
+																																																			
+(20)	
+Et	aussi	:	
+(21)																																															
+We	will	now	consider	the	outer	metric,	where	the	second	members	of	the	equations	are	
+zero.	The	method	is	described	in	reference	[2]	,	in	chapter	14,	and	it	corresponds	to	:	
+
+λ ν νλ ν ν λ 	
+
+Eµ
+ν = χTµ
+r2 − λ'
+r2 +ν'
+− ν'λ'
+4
+
+e−λ 1
+⎛
+⎝⎜
+ 
+e −λ 1
+⎛
+⎝⎜
+ 
+e−λ ν"
+2
+ 
+
+1 = − ν'+λ'
+
+1
+r2 = χT0
+
+0	
+1	
+
+1
+r2 = χT1
+
+1
+− ⎛
+λ
++−⎜
+r
+2
+⎝
+
+⎤
+⎥ = χT2
+⎦
+
+e−λ	
+
++ν'−λ'
+2r
+
+"
+− ⎡
++⎢
+2
+⎣
+
+ν		
+
++ν' 2
+4
+
+0 − χT1
+
+χT0
+ 
+
+2	
+
+⎞
+⎠⎟ −
+
+⎞
+⎠⎟ −
+
+'
+ν
+r
+
+'
+−
+2r
+
+1
+r
+2
+
+e
+=−+
+
+'
+4
+
+'
+4
+
+⎤
+⎥
+⎦
+
+⎡
+⎢
+⎣
+
+⎞
+⎟
+⎠
+
+E
+
+e
+
+2
+2
+
+r
+
+r
+
+r
+
+'
+
+'
+
+2
+
+	
+
+eν = e−λ = 1 −
+ 
+
+2m
+r
+
+27	
+
+⎛
+⎝⎜
+
+2m
+r
+
+ds2 = 1−
+
+⎞
+⎠⎟ dx° 2 −
+
+− r2 (dθ2 + sin2θdϕ2 )		
+
+	
+(22)																														
+Avec	
+(23)																																																																
+M	being	the	(positive)	mass	of	the	star.		
+Let's	move	on	to	the	classical	construction	of	the	inner	metric	[2]	.	We	have:		
+(23)	
+
+dr2
+2m
+1−
+r
+
+GMm
+c
+
+	
+
+=
+
+ 
+
+2
+
+−
+
+0
+p
+c
+2
+0
+
+0
+
+ρ
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+0
+
+0
+
+0
+
+0
+
+0
+
+p
+c
+2
+0
+
+−
+
+r
+
+e−λ 1
+⎛
+⎝⎜
+ 
+
+r2 − λ'
+
+⎞
+⎠⎟ −
+1
+'
+ν
+− ⎛
+λ
++−=−⎜
+r
+r
+2
+⎝
+
+⎞
+⎟
+⎠
+
+e
+
+0
+
+0
+
+0
+
+	
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+−
+
+p
+c
+2
+
+1
+r
+2
+
+1
+
+	
+r2 = χρ	
+χ 		
+	
+
+p
+c
+2
+
+p
+c
+2
+
+⎞
+⎟
+⎠
+
+⎛
+⎜
+⎝
+
+χ 	
+
+p
+c
+2
+
+e
+
+'
+
+'
+− ⎡
+λ ν νλ ν ν λ
+⎢
+⎣
+
+'
+−
+=−
+2r
+
+"
+2
+
+−+
+
+'
+4
+
+'
+4
+
++
+
+2
+
+⎤
+⎥
+⎦
+
+'
+ν λ
+−=
+
+'
++
+r
+
+e
+−
+λ
++
+
+χ ρ
+
+ν νλ ν ν λ 	
+
+'
+
+2
+
+'
+−
+2r
+
+⎤
+⎥
+⎦
+
+⎞
+⎟
+⎠
+
+'
+
+e
+
+'
+4
+
+1
+− +
+r
+2
+
+"
+− ⎡
+λ
++
+⎢
+2
+⎣
+
+ν νλ ν λ ν	
+
+'
+4
+
+'
+
+2
+
+'
+−
+
++
+
+'
++
+2r
+
+"
+2
+
+'
+4
+
+1
+=− +
+r
+2
+
+'
+4
+
+T
+
+ν
+µ
+
+=
+
+																																																									
+																																																									
+																																																									
+																																																											
+
+The	equations	are	written:	
+(24)	
+(25)	
+(26)	
+	(27)	
+Whence:		
+	
+(28)																																								
+(29)																																																					
+To	solve,	we	write	:	
+
+'
+ν
++−=
+r
+
+e
+λ
+r
+
+1
+r
+2
+
+⎛
+⎜
+⎝
+
+−
+λ
+
+e
+
+2
+
+28	
+
+)	
+
+	
+
+	
+
+2m(r)
+
+2m(r) = r 1− e−λ
+ 
+
+(
+
+	soit	
+) + rλ'e−λ	
+c2 ρ	
+
+2m' = 1− e−λ
+ 
+r2 = −1+ e−λ − rλ'e−λ
+= 4πr2 G
+
+r2χρ
+
+r2
+
+c2	
+
+G
+
+m(r) = m'(r)dr
+
+=
+
+πr3ρ
+
+4
+3
+
+⎠⎟	
+
+⎞
+
+= −
+
+1
+
+r2 + e−λ 1
+⎛
+⎝⎜
+
+r2 − λ'
+
+r
+
+⎛
+) −χ
+⎝⎜
+
+p
+⎞
+c2 r2 +1
+⎠⎟ −
+
+(
+(
+r
+
+r − 2m
+r − 2m
+
+)
+)
+
+	
+
+ν' = 2 m + 4πG pr3 / c4
+ 
+
+r − 2m
+
+(
+
+)
+
+'
+ν
++−
+r
+
+⎞
+⎟
+⎠
+
+−
+λ
+
+e
+
+2
+−
+r
+3
+
+⎛
+⎜
+⎝
+
+''
+
+'
+ν ν
+r
+r
+2
+
+⎞
+⎟
+⎠
+
+r
+
+(
+
+−
+ 
+
+2m'
+
+m' = −
+
+e−λ ≡ 1−
+ 
+
+	
+(30)																																																					
+Whence:		
+(31)																																																							
+(32)																																																
+(33)																																																							 
+i.e.	:		
+(34)																																																											 
+	
+(35)																																										
+	
+(36)																																																						
+We	will	eliminate	by	deriving	equation	(25)	
+(37)																																
+	
+
+p'
+−=−
+χ
+c
+2
+
+ν' =
+ 
+
+r − 2m
+
+2
++
+r
+3
+
+'e
++
+λ
+
+1
+r
+2
+
+⎛
+⎜
+⎝
+
+∫
+
+(
+
+−
+λ
+
+2
+
+r
+
+r
+
+r
+
+0
+
+r
+
+p'
+−=−
+χ
++
+c
+2
+
+2
+r
+3
+
+e
++−+
+
+'
+2
+
+'
+'
+λ λ λν
+− ⎛
+⎜
+r
+⎝
+
+r
+
+2
+r
+3
+
+''
+
+'
+ν ν
+r
+r
+2
+
+⎞
+⎟
+⎠
+
+p'
+−=−
+χ
+c
+2
+
+2
++
+r
+3
+
+e
+'
+'
+− ⎛
+λ λ λν
+2
++−+
+⎜
+2
+r
+⎝
+
+'
+2r
+
+1
+r
+2
+
+''
+'
+ν ν
+2
+2r
+
+⎞
+⎟
+⎠
+
+	
+
+	
+
+e
+
+2
+−+
+
+2
+r
+3
+
+p'
+−=−
+χ
+c
+2
+
+Combining	to	requation		(29)	we	get	:		
+
+1
++ −+
+r
+2
+
+− ⎛
+λ
+⎜
+r
+⎝
+
+'
+4
+
+'
+
+2
+
+'
+'
+'
+ν λν λ ν ν ν λν
+4
+4
+
+'
++
+2r
+
+''
+2
+
+'
+4
+
++
+
+'
+
+2
+
+	
+
+⎞
+⎟
+⎠
+
+2
+
+'
+
+'
+
+'
+
+e
+
+)
+
+(
+
+e
+
+e
+
+2
+
+2
+
+−
+
++
+
+⎞
+⎟
+⎠
+
+⎛
+⎜
+⎝
+
+⎞
+⎟
+⎠
+
+	
+
+	
+
+'
+4
+
+=−
+
+2
+r
+3
+
+p
+c
+2
+
+p
+c
+2
+
+p'
+c
+2
+
+χ ρ
+
+			
+
+'
+ν
+)
+2
+
+e
+−
+λ
+=
+r
+
+'
+ν
+⎞
+⎟
+2
+⎠
+
+(
+'
+ν λ
+
+'
+λν
+−
+2r
+
+e
+−
+λ λ
++
+r
+r
+2
+
+p'
+−=−
+χ
+c
+2
+
+29	
+
+'
+ν ρ
+⎛
++⎜
+2
+⎝
+
+p'
+−=−
+χ
++
+c
+2
+
+p'
+−=− +
+χ
+c
+2
+
+'
+'
+− ⎛
+λ ν λν
+⎜
+4
+r
+⎝
+
+ν λ	
+
+	
+(38)																																												
+(39)																																																											
+Using		(27)	we	get	:		
+(40)																																					
+with			
+	(41)																																																											
+	At	the	end	we	get	the	«	TOV	»1	equation	(	Tolmann-Oppenheimer-Volkoff	)	:		
+(42)																																																					
+⎠⎟	
+2m << r )	we	get		
+When	we	apply	Newtonian	approxximatio		 ( p<<ρc2
+(43)	
+	
+	
+	In	spherical	symmetry,	the	gravitational	field	which	prevails	at	a	distance	 r < rs	(inside	
+the	star	of	supposed	constant	density)	is	equal	to	the	field	which	would	be	created	by	
+the	mass	contained	in	a	sphere	of	radius	rs,	concentrated	in	the	centre.	Thus	equation	
+(43)	can	be	identified	with	the	conservation	equation	(32)	on	page	7	of	Damour's	paper	:		
+	Although	it	is	terribly	tedious	it	is	essential	to	resume,	line	after	line,	all	these	
+calculations	(here,	classical)	in	order	to	extend	them	to	the	calculation	of	the	inner	
+metric	describing	the	negative	species.	When	this	will	be	done,	further	on,	we	will	see	
+that	without	this	precaution	taken	concerning	the	tensor	we	would	end	up	with	the	
+same	contraction.					
+																																																								
+1	Which	corresponds	to	equation	(14.22)	in	reference	[2].	
+
+ ∂i p = + ∂i U	
+
+p' = − ρmc2
+r2
+
+m + 4πG pr3 / c4
+
+p'
+c2 = −
+ 
+
+(
+r r − 2m
+
+G M ρ
+
+p
+c2
+
+= −
+
+ρ+
+
+⎛
+⎝⎜
+
+r2
+
+)
+
+⎞
+
+ 
+
+r
+
+	
+
+3c2
+
+3c2
+
+≡ 1−
+
+r2
+ˆR 2
+
+2m(r)
+
+= 1−
+
+( gµν
+ 
+
+8πGρr2
+
+ˆR =
+ 
+
+4πG ρr3
+
+m(r) =
+ 
+
+3c2
+8πGρ
+
+e−λ = 1−
+ 
+
+	
+30	
+Continuing	the	calculation,	we	will	now	explain	the	complete	calculation	of	the	interior	
+(+) identifiée à gµν ).		
+metric	
+Taking	the	notation	of	the	reference	[2]	we	ask	:		
+	
+	(44)																																																												
+As	has	been	established	above	(34)	that	:		
+(45)																																																						
+This	will	immediately	give	us	one	of	the	terms	of	the	metric:		
+(46)																																							
+And	so	our	inner	metric	is	written:		
+(47)																																		
+The	function	 ν(r)	has	yet	to	be	determined.	The	density	is	assumed	to	be	constant	.	We	
+have..:				
+(48)																		
+(49)						
+We	use		(25)	to	solve	
+(50)						
+(51)																										
+γ 					è					
+Writong		
+(52)																													
+
+	
+)	
+= − 2Log(ρc2 + p)'	
+
+			è			
+= Log(ρc2 + p) + cte				è				
+
+⎠⎟ = − De−ν
+	
+
+2 =ν'e−λ +λ'e−λ =ν'e−λ − e−λ(
+
+2				è				 
+
+ν π ρ
+⎛
+=
++
+−+⎜
+⎝
+
+(
+2 ρc2 + p
+ρc2 + p
+
+⎞
+⎠⎟ ' =ν' 1 −
+
+ˆR 2		
+ˆR 2 γ	
+
+−r2 dθ2 + sin2θdϕ2
+
+− ν'+λ'
+ 
+
+⎞
+⎠⎟ − 1 −
+
+ν
+2 = 2γ' 1 −
+
+ds 2 = eν dx° 2 −
+
+r De−ν
+ 
+
+ννγ
+'
+e
+
+dr 2
+r2
+ˆR 2
+
+e−λ = χ ρ+
+
+2p'
+c
+2
++
+ρ
+
+ν' = −
+ 
+
+2 =ν' 1 −
+
+)'	
+
+8 G
+c
+2
+
+r De−ν
+
+2r
+ˆR 2 e
+
+−ν
+2
+ 
+
+⎞
+⎠⎟ +
+
+χ ρ
+
+'
+ν
+=−
+
+r2
+ˆR 2
+
+r2
+ˆR 2
+
+r2
+ˆR 2
+
+r2
+ˆR 2
+
+r2
+ˆR 2
+
+p
+c
+2
+
+p
+c
+2
+
+p
+c2
+
+'
+2
+
+ν
+2e
+
+1−
+
+De
+
+(r)
+
+)'
+
+2r
+
+	
+
+⎞
+⎟
+⎠
+
+⎛
+⎜
+⎝
+
+⎞
+⎟
+⎠
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+2r
+
+⎛
+⎝⎜
+
+=
+
+=
+
+(
+
+≡
+
+p
+
+⎞
+
+r
+
+ 
+
+−
+
+2
+
+2
+
+⎛
+ν
+2 1 −
+r D =ν'e
+⎝⎜
+ 
+
+⎞
+⎠⎟ +
+
+⎞
+⎠⎟ +
+
+⎛
+⎝⎜
+
+r
+
+1/2
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+⎤
+⎥
+⎥
+⎦
+
+⎡
+⎢
+⎢
+⎣
+
+=γ
+p
+
+r2
+ˆR 2
+
+r2
+ˆR 2
+
+r2
+ˆR 2
+
+r2
+ˆR 2
+
+⎞
+⎠⎟ +
+
+− B 1 −
+
+ˆR 2D
+2
+
+ˆR D
+2
+2
+
+1/2	
+
+31	
+
+u' 1 −
+ 
+
+ν
+γ ≡ e
+2 =
+ 
+
+u = B 1 −
+ 
+
+g00 = eν = A − B 1−
+ 
+
+1/2											
+2											
+
+	
+ˆR 2 u = 0						è					
+
+	
+A	particular	solution	of	the	equation	is		
+We	must	find	a	general	solution	to	the	homogeneous	equation:			
+(53)																																					
+whence	:		
+(54)																																																		
+(55)																																																		
+where	:	
+											
+(56)																																								
+Let	us	now	express	that	the	pressure	on	the	surface	of	the	sphere	is	zero:	
+(57)																																			
+											
+(58)																																																									
+QWhen	 r = rs			we	get			p	=	0		
+(59)																																						
+				Il	reste	à	déterminer	B,	ce	que	nous	allons	faire	en	imposant	que	les	métriques	
+intérieures	et	extérieures	se	raccordent	sur	la	surface	de	la	sphère.	Ce	qui	se	traduit	par	:		
+				(60)																	
+
+1/2					è					
+
+											
+
+A 2 8 G
+=−ρ π
+ˆ
+c
+3
+2
+R
+2
+
+A = 3B 1−
+ 
+
+⎛
+A B 1
+−⎜
+⎝
+
+) = A − B 1−
+
+2
+ρχ
+A
+3
+
+2G M
+rs c2
+
+2
+ρ
+χ
+3
+
+A D 2
+=
+
+1/2	
+
+ˆR D
+2
+2
+
+) = 1−
+
+A − B 1−
+
+⎠⎟	
+
+) = eν rs(
+
+⎡
+⎢
+⎢
+⎣
+A
+
+⎛
+B 1
+−
+⎜
+⎝
+
+ˆ
+R D
+−
+
+2
+ρ
+3
+
+1/2
+⎞
+⎟
+⎠
+
+1/2
+⎞
+⎟
+⎠
+
+ext rs(
+
+⎞
+=−
+⎟
+⎠
+
+χ ρ
++
+
+=⇒=
+
+rs
+ˆR 2
+
+= g00
+
+rs
+ˆR 2
+
+rs
+ˆR 2
+
+p
+c
+2
+
+p
+c
+2
+
+ρ
++
+
+r
+ˆ
+R
+
+r
+ˆR
+
+1=
+
+De
+
+=−
+
+2
+3
+
+⎤
+⎥
+⎥
+⎦
+
+2
+2
+
+ν
+−
+2
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+⎛
+⎜
+⎝
+
+A
+
+A
+
+A
+
+=
+
+−
+
+1/2
+
+⎞
+
+1
+−
+
+ 
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+⎤
+⎥
+⎥
+⎦
+
+⎡
+⎢
+⎢
+⎣
+
+int rs(
+g00
+ 
+
+32	
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+⎞
+
+⎞
+
+1/2
+
+1/2
+
+1/2
+
+1/2
+
+−
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+1
+2
+
+1
+2
+
+3
+2
+
+3
+2
+
+⎤
+⎥
+⎥
+⎦
+
+⎡
+⎢
+⎢
+⎣
+
+⎤
+⎥
+⎥
+⎦
+
+⎡
+⎢
+⎢
+⎣
+
+1−
+
+1−
+
+1−
+
+3c2
+
+r2
+ˆR 2
+
+rs
+ˆR 2
+
+rs
+ˆR 2
+
+rs
+ˆR 2
+
+rs
+ˆR 2
+
+rs
+ˆR 2
+
+2	
+
+A =
+ 
+
+8πGρrs
+
+⎛
+= 1−
+⎝⎜
+
+⎛
+− 1−
+⎝⎜
+
+2G M
+rs c2
+
+2G M
+r0 c2
+
+⎞
+⎠⎟ ⇒ B =
+
+4B2 1−
+ 
+
+4B2 1−
+ 
+
+8πG
+3c2 ρrs
+
+⎠⎟	
+	
+
+int r( ) =
+g00
+ 
+
+B2 3 1−
+ 
+
+⎠⎟	
+1/2	
+
+⎛
+⎞
+⎠⎟ = 1−
+⎝⎜
+⎞
+⎛
+⎠⎟ = 1−
+⎝⎜
+
+	
+(61)																																				
+(62)																																													
+(63)																																				
+(64)																																																														
+(65)																																						
+Following,	the	inner	metric2	:		
+(66)				 
+) 	
+We	are	now	going	to	deploy	the	same	calculation	scheme,	but	this	time	adapting	it	to	the	
+metric	describing	the	negative	mass	species,	which	is	then	the	solution	of	the	equation	:	
+(67)																																					
+The	determinants	ratio	can	be	written:		
+(68)																														
+2 ≡ kD	
+kD	is	close	to	untity	because	we	deal	with	Newtonian	approximation.			
+This	time	we	calculate	the	impact	of	the	presence	of	the	positive	masses	on	the	
+gµνof	the	negative	sector.	We	recall	that	we	are	perfectly	free	to	choose	this	
+geometry	
+ν,	as	this	choice	can	result	from	a	Lagrangian	derivation.		And	we	have	seen,	
+tensor	
+choice	XVIII,	that	we	opt	for	:		
+(69)	
+																																																								
+2	Equation	(14.47)	de	la	référence	[2]			
+
+eνe λr4 sin2θ
+eν e λ r4 sin2θ
+
+−det(gµν)
+−det(gµν)
+
+−r2 dθ2 + sin2θdϕ2
+
+Eµ
+ν ≡ Rµ
+  
+
+gµ
+ν R = − χ
+
+dr 2
+r2
+ˆR 2
+
+Tµ
+ν ≡ − χ
+
+ν	
+
+2 e − λ
+
+2 e − ν
+
+− g
+− g
+
+dx° 2 −
+
+−g
+−g
+
+⌢Tµ
+  
+
+ds 2 =
+
+rs
+ˆR 2
+
+r2
+ˆR 2
+
+⌢Tµ
+
+ν
+2 e
+
+w
+w
+
+ν −
+
+= e
+
+1−
+
+1−
+
+1−
+
+⎤
+⎥
+⎥
+⎦
+
+⎡
+⎢
+⎢
+⎣
+
+3
+2
+
+1
+2
+
+1
+2
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+(
+
+=
+
+=
+
+−
+
+1/2
+
+1/2
+
+λ
+
+ 
+
+ 
+
+2
+
+2
+
+	
+
+33	
+
+ρ 0
+p
+c2
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+p
+c2
+
+⌢Tµ
+ν =
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+	
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+  
+
+0
+
+0
+
+0
+
+(
+
+p
+c2
+
+)	
+
+ds 2 = eν dx° 2 − eλdr 2 − r2 dθ2 + sin2θdϕ2
+
+hypothesis	which	does	not	weight	on	the	whole	model	since	in	the	Newtonian	
+approximation	the	pressure	terms	are	always	negligible.	This	therefore	limits	the	scope	
+of	the	model	to	this	field	of	the	Newtonian	approximation.	But	this	one	covers	all	known	
+observations.		
+We	will	show	that	this	option	no	longer	leads	to	the	inconsistency	reported	by	Damour	
+in	his	paper.		
+Once	again,	we	decline	the	construction	of	the	first	member	from	a	metric	which	this	
+time	is	:		
+(70)																														 
+The	first	members	of	the	equations	are	the	same,	simply	replace	 (ν,λ)	with	 (ν ,λ).	
+We	then	get	
+													
+	(71)																				
+	
+	
+	
+(72)	
+	
+	
+	
+(73)	
+	
+	
+	
+	(74)	
+	
+	
+	(75)			
+To	soove	we	write	
+(76)																																								
+	(77)																	
+
+r2 = − χρ	
+c2	
+⎠⎟	
+ν ν λ ν λ ν	
+)	
+	soit	
+) + rλ'e−λ							è							
+
+e−λ 1
+⎛
+⎝⎜
+ 
+e −λ 1
+⎛
+⎝⎜
+ 
+e−λ ν"
+2
+ 
+− ν'+λ'
+ 
+e
+λ
+r
+
+r2 − λ'
+r2 + ν'
+− ν'λ'
+4
+
+2m = r 1− e−λ
+ 
+
+2m' = 1− e−λ
+ 
+
+1
+r2 = − χ
+
+e−λ = − χ ρ −
+
++ν'−λ'
+2r
+
+⎤
+⎥ = −χ
+⎦
+
+e−λ ≡ 1−
+ 
+
+c2	
+
+2m'
+r2 = −
+
+r2 + e−λ 1
+⎛
+⎝⎜
+
+r2 − λ'
+
++ν' 2
+4
+
+⎠⎟	
+
+⎞
+⎠⎟ −
+
+⎞
+⎠⎟ −
+
+2m
+r
+
+=− +
+
+'
++
+2r
+
+"
+2
+
+p
+c2
+
+1
+r
+2
+
+'
+4
+
+'
+4
+
+'
+−
+
+⎡
+⎢
+⎣
+
+⎛
+⎝⎜
+
+(
+
+(
+
++
+
+1
+
+p
+
+p
+
+1
+
+⎞
+
+⎞
+
+r
+
+r
+
+r
+
+r
+
+'
+
+2
+
+2
+
+−
+ 
+
+34	
+
+c2 = −m	
+
+G
+
+= −
+
+πr3ρ
+
+4
+3
+
+r
+
+0
+
+∫
+
+m(r) = m'(r)dr
+ 
+
+m' = − 4πr2 G
+ 
+
+	
+c2 ρ			è				
+Using		(71)	:	
+In	conclusion,	at	this	stage:		
+(78)																																																												 m (r) = − m(r)		
+	We	get	
+(79)																																																								
+	To	eliminate	 ν''	we	dérive	(72)		
+(80)																									
+
+p'
+c2 =
+
+−χ
+ 
+
+p'
+c2 =
+
+−χ
+ 
+
+r
+
+2
+
+2
+
++
+
+⎠⎟	
+
+r2 +ν'
+r3 −λ'e −λ 1
+⎛
+⎝⎜
++ν'
+r3 −ν''
+r2
+r2 −ν''
+
++ ν'
+2r
+
++
+
+⎠⎟	
+
+1
+
+2
+
+⎞
+
+⎞
+
+r
+
+r
+
+2
+
+−χ
+ 
+
+p'
+c2 =
+r2 + λ'ν'
+r3 − e −λ λ'
+⎛
+⎝⎜
++ λ'ν'
+λ'
+r3 − 2 e −λ
+2
+2r
+r3 − 2 e −λ
+
+⎛
+⎝⎜
+
+2
+
+1
+
+r
+
+	
+
+ν' = 2 −m + 4πG pr3 / c4
+ 
+
+(
+r r + 2m
+
+)
+
+⎠⎟	
+
+⎞
+
+⎞
+
+⎠⎟ + e −λ −2
+⎛
+⎝⎜
+
+r3 +ν''
+
+r
+
+−ν'
+r2
+
+⎠⎟	
+
+⎞
+
+⎛
+⎝⎜
+
+ν' 2
+4
+
++ λ'ν'
+4
+
+r
+
+r
+
+4
+
+2
+
+2
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+−χ
+ 
+
+−χ
+ 
+
+p'
+c2 =
+
+p'
+c2 =
+
+r2 −ν' 2
+
+r3 − 2 e −λ
+
+Combining	to		(75)	we	get				
+	(81)																	
+	(82)																																																						
+Using		(74)	
+(83)	:																														
+Finally:		
+(84)	:																																													
+
+p'
+c2 = −
+
+−χ
+ 
+
++ λ'ν'
+4
+
++ λ'+ν'
+2r
+
+−ν''
+2
+
++ν' 2
+4
+
++ λ'ν'
+4
+
+eλ
+
+r2 +ν' 2
+
+4
+
++ λ'ν'
+4
+
+p'
+c2 = −
+
+e −λν'
+2r
+
+−χ
+ 
+
+⎞
+
+r
+
+⎠⎟ = −2 e −λ
+(
+ν'+ λ'
+
+)	
+
+(
+ν'+ λ'
+
+)
+
+r
+
+e −λν'
+2
+
+= −χ ρ−
+
+⎛
+⎝⎜
+
+p
+c2
+
+⎞
+⎠⎟
+
+p'
+c2 = −
+
+m − 4πGpr3 / c4
+
+(
+r r + 2m
+
+)
+
+⎛
+⎝⎜
+
+ρ−
+
+p
+c2
+
+ 
+
+⎠⎟	
+
+⎞
+
+ν'
+
+2	
+⎠⎟ 	
+
+⎞
+
+ 
+
+)
+
+r2
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+	
+
+	
+
+ρ+
+
+p
+c2
+
+mρc2
+
+p' = −
+ 
+
+p'
+c2 = −
+
+(
+r r − 2m
+
+m + 4πGpr3 / c4
+
+p' = −
+ 
+mρ
+r2
+
+	from	Damour’	paper		[1]		,	page	7.			
+
+	
+35	
+To	be	ompared	with	what	emerged	from	the	analysis	for	positive	masses,	i.e.	equation	
+(43):	
+These	differential	equations	are	not	identical,	unless	the	Newtonian	approximation	is	
+used,	then	they	lead	to	the	same	result		
+	(85)	:																																																														
+Which	is	equivalent	to		(32)	:					
+The	physical	and	mathematical	inconsistency	of	the	model	disappears.	One	could	object	
+that	this	limits	the	solutions	to	those	that	fit	this	Newtonian	approximation.	But	in	
+cosmology,	what	more	do	you	ask	for?		
+Better	a	model	that	provides	calculation	results	limited	to	the	conditions	of	the	
+Newtonian	approximation	(i.e.	to	all	the	data	available	observationally)	than	an	
+extremely	ambitious	model	(Damour	and	Kogan	2001)	that	promises	us	non-linear	
+solutions	but	which,	in	the	end,	does	not	offer	a	possible	confrontation	with	the	
+observations.		
+We	are	going	to	finalize	the	calculation	of	the	inner	metric	of	the	negative	species,	as	we	
+did	earlier.	We	will	not	omit	any	intermediary	of	calculation	to	be	sure	that	an	error	(it	
+happened	quickly)	will	not	slip	into	the	process.	
+(86)																																																													
+To	express	inner	metric:		
+(87)																																																									
+Given	that	by	assumption	 ρis	constant.		
+(88)																																					
+(89)																																																									
+Write:		
+
+ˆR 2	
+) = − 2 Log( ρc2 − p )'	
+
+= Log(ρc2 − p)'+ cte	
+
+ρc2 − p
+ρc2 − p
+
+e−λ = 1−
+ 
+
+) = − 2
+
+ν' =
+ 
+
+− ρc2 + p
+
+−ν
+2
+ 
+
+)	
+
+ν'=
+ 
+
+ρc2 − p
+
+2m
+r
+
+−2p'
+
+= 1+
+
+(
+(
+
+2p'
+
+)'
+
+r2
+
+(
+
+(
+
+36	
+
+ν
+
+ν
+
+r
+
+⎞
+
+p
+
+⎛
+⎝⎜
+
+2r
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+p
+c2
+
+r2
+ˆR 2
+
+r2
+ˆR 2
+
+⎞
+⎠⎟ −
+
+⎠⎟	
+
+2 =ν' 1+
+
+)'	
+
+De−ν
+ 
+
+2 = − χ( ρ−
+
+2 = − χ ρ−
+
+De− ν
+  !
+
+−r De−ν
+ 
+
+γ ' = ν'
+2
+ 
+
+ˆR 2	
+
+e−λ	
+
+−r De−ν
+ 
+
+c2 ) = −ν'+ λ'
+
+2 ≡γ(r)						è					
+
+2 =ν'e−λ − e−λ(
+⎞
+⎞
+r2
+⎠⎟ − 1+
+⎠⎟ ' =ν' 1+
+ˆR 2
+
+	
+(90)																																							
+To	soove	we	use			(74)	
+(91)																																							
+(92)																																											
+(93)																						
+Let	:		
+(94)																																										 e
+2	
+whence:		
+(95)																									
+ˆR 2 γ	
+A	particular	solution	to	this	differential	equation	is	:		
+(96)																																																												
+							
+We	have	to	find	the	general	solution	to	the	homogeneous	equation:	
+(97)																																																
+that	is:		
+(98)																																																
+Whence	the	general	solution	is	:		
+(99)																																					
+1/2							
+Let’s	calculate	the	components	eof	the	metric	 
+gµν			:		
+
+−r D = 2 ν'
+2
+ 
+
+1/2							
+
+u = B 1+
+ 
+
+ν
+2 = 2γ ' 1+
+
+							
+
+⎛
+ν
+2 1+
+e
+⎝⎜
+
+γ ≡ e
+ 
+
+⎛
+u ' 1
+⎜
+⎝
+
+r
+2
++− =
+ˆ
+R
+2
+
+ˆR 2D
+2
+
+2r
+ˆR 2 e
+
++ B 1+
+
+γp =
+ 
+
+⎞
+⎠⎟ −
+
+⎞
+⎠⎟ −
+
+ˆR 2 D
+
+r2
+ˆR 2
+
+r2
+ˆR 2
+
+r2
+ˆR 2
+
+r2
+ˆR 2
+
+u 0
+
+ν
+2 =
+
+r
+ˆ
+R
+
+⎞
+⎟
+⎠
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+2r
+
+2
+
+e
+
+2
+
+37	
+
+ 
+
+1/2
+
+A
+
+A
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+⎤
+⎥
+⎥
+⎦
+
+⎡
+⎢
+⎢
+⎣
+
+( ρ−
+
+r2
+ˆR 2
+
+r2
+ˆR 2
+
+2ρ
+3
+
+2ρ
+3
+
+2ρ
+3
+
+2ρ
+3
+
+2 = −χ
+
+De−ν
+
+A e −ν
+
+A + B 1+
+
+p
+c2 ) =
+
+2 = −χ( ρ−
+
+ˆR 2D
+2
+ 
+
+p
+c2 ) = −χ
+
+2							
+
+3c2 A = − χ
+
+A							
+
+1/2							
+
+≡ A ⇒ D = 2 A
+
+ˆR 2 = 2 8πG ρ
+
+g00 = e ν= A + B 1+
+ 
+
+	
+(100)																																					
+We	get:		
+(101)																				
+We	know	that	:		
+(102)												
+(103)																																					
+1/2							
+The	pressure	on	the	surface	of	the	sphere	is	expressed	as	zero.	
+(104)																																																	
+1/2							
+To	determine	B	we	will	make	sure	that	there	is	a	continuous	connection	between	the	
+inner	metric	and	the	outer	metric,	where	r	=	rs	
+We	know	we	have:	
+(105)																																																							
+	
+(106)																	
+(107)				
+(108)																																																										
+
+⎠⎟	
+⎠⎟							
+
+g11
+int = − e λ = − 1+
+ 
+
+⎞
+⎠⎟ = 4 B2 1+
+
+) = A + B 1+
+
+int r0(
+g00
+ 
+
+A = − 3 B 1+
+
+⎛
+= 1+
+⎝⎜
+
+rs( ) = 1+
+
+) = e ν rs(
+
+A + B 1+
+
+− 3 B 1+
+
+−1	
+
++ B 1+
+
+= g00
+
+rs
+ˆR 2
+
+rs
+ˆR 2
+
+rs
+ˆR 2
+
+rs
+ˆR 2
+
+r0
+ˆR 2
+
+r0
+ˆR 2
+
+rs
+ˆR 2
+
+r2
+ˆR 2
+
+r2
+ˆR 2
+
+⎡
+⎢
+⎢
+⎣
+ 
+
+⎡
+⎢
+⎢
+⎣
+
+⎤
+⎥
+⎥
+⎦
+
+⎤
+⎥
+⎥
+⎦
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+1/2
+
+1/2
+
+1/2
+
+ext
+
+⎞
+
+⎞
+
+ 
+
+ 
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+ˆB
+
+= 	
+
+1
+2
+
+38	
+
+−r2 dθ2 + sin2θdϕ2
+
+2
+
+2
+
+2
+
+2
+
+ 
+
+ 
+
+1/2
+
+1/2
+
+1/2
+
+1/2
+
+−
+
++
+
+(
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+1
+2
+
+1
+2
+
+3
+2
+
+3
+2
+
+3
+2
+
+⎤
+⎥
+⎥
+⎦
+
+⎡
+⎢
+⎢
+⎣
+
+⎤
+⎥
+⎥
+⎦
+
+1+
+
+1+
+
+1+
+
+1+
+
+1+
+
+r2
+ˆR 2
+
+rs
+ˆR 2
+
+rs
+ˆR 2
+
+r2
+ˆR 2
+
+rs
+ˆR 2
+
+A = −
+
+ds 2 =
+
+dx° 2 −
+
+2	
+
+⎡
+int r( ) = eν = −
+⎢
+g00
+⎢
+⎣
+ 
+
+	
+(109)																																																		
+1/2	
+(110)																											
+Let’s	write	the	final	expression	of	the	inner	metriv		 
+gµν		
+(111)	
+which	fits	the	exterior	metric		
+(112)																					
+Linearized	forms	:	
+(113)											
+(114)														
+⎠⎟ dr2 − r2(dθ2 + sin2θdϕ2 )	
+	
+References	:		
+[1]		T.Damour	:	Sur	le	modèle	«	Janus	»	de	J.P.Petit	
+http://www.ihes.fr/~damour/publications/JanusJanvier2019-1.pdf	
+[2]		Adler,	Schiffer	et	Bazin	:	Introduction	to	General	Relativity.	
+http://www.jp-petit.org/books/asb.pdf	
+	
+
+− r2(dθ2 + sin2θdϕ2 )	
+
+⎞
+⎠⎟ dx° 2 − 1−
+2G M
+c2 r
+
+⎞
+⎠⎟ c2dt2 − 1−
+
+ds 2 = 1+
+ 
+
+dr2
+2G M
+c2 r
+
+⎞
+⎠⎟ c2dt2 −
+
+s 2 = 1+
+!
+
+dr 2
+r2
+ˆR 2
+
+s 2 = 1+
+!
+
+2G M
+c2 r
+
+2G M
+c2 r
+
+rs
+ˆR 2 −
+
+r2
+ˆR 2
+
+r2
+ˆR 2
+
+d
+  
+
+1+
+
+1+
+
+3
+2
+
+1
+2
+
+	
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+d
+
+⎞
+
+  
+
+2
+
+⎞
+⎠⎟ dr 2 −r2 dθ2 + sin2θdϕ2
+
+(
+
+) 	
+
+)	
+
+39	
+
+	
+		
+	
+
+Annexe	3	:	
+(	translated	by	J.P.Petit	)	
+
+	
+
+Thibaud	Damour,	IHES	2019	January	the	fourth	
+
+About	the	«	Janus	Cosmological	Model	of	J.P.Petit	
+
+(−)
+
+	
+
+⎤
+⎥
+⎥
+⎦
+
+⎡
+⎢
+⎢
+⎣
+
+⎤
+⎥
+⎥
+⎦
+
+⎡
+⎢
+⎢
+⎣
+
+(+) +
+
+		
+
+G µν
+ 
+
+G µν
+ 
+
+(+) +Tµν
+(−)
+
+(−) = − χ −
+
+(+) = χ Tµν
+
+g(+)
+g(−) Tµν
+
+g(−)
+g(+) Tµν
+
+The	«	Janus	Cosmological	Model	»	is	physically	(and	mathematically	)	unconsistent	
+
+Before	all	let	us	give	our	conclusion	:		
+The	Janus	equations	are	the	following	:		
+(1a)																																											
+(1b)																																								
+With																
+The	classical	definition	of	
+(+) which	ensures	its	tensorial	conservation	with	respect	to	
+(+)is	:	
+Where	
+Smatter(+)	refers	to	the	action	of	the	ordinary	matter.	There	is	no	need	to	give	the	
+definition	of		
+,	which	was	not	precised	in	the	works	of	Petit	and	d’Agostini.		
+The	«	Janus	Model	»	does	not	fit	the	Bianchi	identities.	In	effect	the	system	(1a)	+	(1b)	
+goes	with	:		
+(2a)																																																																	
+(2b)																																																																	
+
+(+) = 0	
+(−) = 0		
+
+2δSmatter(+)
+
+− g(+) T µν
+
+(+) = Rµν
+
+(−) = Rµν
+
+R (+) gµν
+(+)
+
+R (−) gµν
+(−)
+
+G µν
+ 
+
+ν G µν
+
+(+) ≡ −
+
+Tµν
+(−)
+ 
+
+gµν
+ 
+
+Tµν
+ 
+
+δg(+)
+
+G µν
+
+(−) −
+
+(+) −
+
+1
+2
+
+1
+2
+
+	
+
+	
+
+ 
+
+ 
+
+ν G µν
+
+ ∇(+)
+ ∇(−)
+
+40	
+
+w
+w
+
+Tµν= −
+ 
+
+	
+TµνConsider	the	case		
+(3a)																																																																	
+(3b)																																																																
+			Let	us	write	:			
+
+Tµν
+ 
+
+(−) = 0		so	that	the	Janus	system	becomes	:		
+
+(+)	
+(+)	
+
+(+) = χTµν
+
+(−) = − χTµν
+
+G µν
+ 
+G µν
+ 
+
+gµν
+(+) = gµν
+ 
+
+  −g(+) = w
+(+) = G µν
+G µν
+ 
+
+	
+
+gµν
+(−) = gµν
+
+−g(−) = w		
+	
+Tµν	
+
+G µν
+
+(−) = G µν
+
+ 
+
+ 
+
+w
+w
+
+w
+w
+
+Tµν= −
+
+Tµν= −
+
+Tµν
+(+) = Tµν
+ 
+
+																																																																								 
+
+G µν = χTµν	
+G µν = χTµν	
+
+The	the	Janus	system	becomes	:		
+(4a)																																																																	
+(4b)																																																																
+with	(4c)	:		
+		is	order	to	cure	a	difficulty	to	some	
+The	authors	have	introduced	the	factor	
+unconsistency	linked	to	a	simplified	model	but	as	will	be	shown	further	this	does	not	
+prevent	the	severe	unconsistency	in	the	case	of	the	hydrostatic	equilibrium	when	we	
+consider	the	cas	of	a	self-gravitating	star,	in	the	Newtonian	limit	 c → ∞	
+The	central	point	is	based	on	the	constainsts		
+(5a)																																																																	
+ ∇ νTµν = 0	
+(5b)																																																																	
+ ∇ νTµν = 0		
+gµν.		
+where	 ∇	is	the	connection	linked	to	
+To	illustrate	such	point	let	us	consider	the	simple	case	where	the	«	positive	»	matter	
+o	(	for	example	a	star,	or	the	sun	in	our	solar	
+comes	both	from	a	background	source		
+
+Tµν	
+
+w
+w
+ 
+
+ 
+
+	
+
+Tµν
+ 
+
+w
+w
+
+Tµν
+
+Tµν
+ 
+
+uµ
+N
+
+uµ =
+ 
+
+Tµν
+o = −
+ 
+
+41	
+
+ρ1 = − N2 w
+w
+ 
+
+Tµν = Tµν
+ 
+Tµν = Tµν
+ 
+
+o + ρ1 uµuν	
+o + ρ1 uµuν		
+with N2 ≡ − gµνuµuν	
+
+uµ	is,	defined	with	respect	to	the	metric	
+g − unitary uµ	(with	
+
+	
+system	),	considered	as	a	sphere	filled	by	a	uniform	distribution	of	«	dust	»,	i.e	
+1 = ρ1 uµuν,	then	:		
+(6a)																																																																	
+(6b)																																																																	
+where			
+(7)																																																								
+(8)																																																																							
+ρ1	
+o	
+(9)																																																																							
+Here	the	covariant	4-velocity	field	
+gµν	,	so	that	
+gµνuµuν = − 1	.		Considered	with	respect	to	the	second	metric	
+gµν		the	co-vectorial	field	
+defines	in	a	unique	way	the	equivalent	4-velocity	field	
+gµν uµuν = − 1)	as	defined	above.		
+Now	consider	the	two	conservation	laws	(5a)	and	(5b).		
+Let	us	first	concentrate	on	the	movement	of	the	test	dust	matter.	The	laws	(5a)	and	(5b)	
+the	following	constrainst	:		
+(10)																																																																							
+ ∇µ uµ = 0	
+ ∇µ (ρ1uµ) = 0	
+(11)																																																																							
+(12)																																																																							
+ ∇µ uµ = 0	
+ ∇µ (ρ1uµ) = 0	
+(12)																																																																							
+	The	physical	meaning	of	the	equation	(10)	is	the	following.	It	shows	that	the	lines	of	the	
+universe	of	the	matter	(defined	by	 uµ = gµνuν	)	are	geodesics	of	
+(+)	,	while	the	
+third	equation	(12)	says	that	the	same	positive	matter	is	also	ruled	(by	the	equations	
+ "−"	)	to	obey	another	equations	of	the	movement		
+ ∇µ uµ = 0	which	shows	that	the	line	
+of	the	universe	defined	by	 uµ = gµν uν	must	be	geodesics	derived	from	the	
+metric.	But	the	4-velocity	field	 uµ	is	not	independent	of		 uµ.	Considered	as	a	covariant	
+
+gµν ≡ gµν
+(+)
+ 
+
+gµν ≡ gµν
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+gµν ≡ gµν
+ 
+
+gµν ≡ gµν
+ 
+
+Tµν = T µν
+ 
+
+	
+42	
+field	it	is	basically	the	same	through	a	renormalization	factor	 uµ = uµ / N,	equation,	so	
+(+)	and	
+that	
+(+)	are	a	
+uµ = gµνuν / N = gµσ gσνuν / N.	As	the	two	metrics	
+priori	different	I	don’t	see	how	it	could	be	possible	(	considering	a	complex	general	time	
+gµν and gµν	)	to	have	the	same	
+dependent	solution,	defined	by	arbitrary	Cauchy	data	for		
+matter	following	different	motion	equations.	If	we	consider	for	example	some	initial	
+velocity	data	for	a	a	test	dust,	such	velocity	would	be	supposed	to	folllow	at	the	same	
+time	two	distinct	rules	of	evolution,	which	is	mathematically	absurd	for	a	classical	
+theory	!	
+			Another	physico-mathematical	contradiction	may	arise	from	equations	(4a)	and	(4b)	
+applying	such	system	to	the	structure	of	a	self-gravitating	star,	in	Newtonian	limit.	
+Consider	a	background	source	corresponding	to	a	perfect	fluid	:		
+(13)																																									
+o(+) = ( ρc2 + p ) uµuν + pgµν		
+I	will	limit	the	analysis	to	the	almost	Newtonian	conditions.	I	will	show	that	this	theory	
+is	self	contradictory	and	does	not	lead	to	any	physical	solution.		
+I	recall	that	the	linearized	solution	of	the	Einstein	equations	may	be	written	:		
+c2 )δi j			
+(14)																																			
+where	U	is	the	newtonian	potential	from	Poisson	equation	:		
+(15)																									
+Due	to	the	formal	symmetry	of	the	system	(4a)	+	(4b)	we	get	the	corresponding	
+linearized	solution	:	
+(16)																																				
+c2 )δi j	
+where	the	quasi	Newtonian	potential	 U	obeys	:		
+(17)																								
+)
+c2(
+c2(
+⎞
+from	(9)	with	
+⎠⎟ = − 4πG ρ 1+ 0 1
+1+ 0 1
+(18)																																																		
+Now	I	shift	to	another	thing	that	shows	the	unconsistency	of	the	«	Janus	Model	».	After	
+equation	(4c)			
+
+c 2 )	 ρ		is	simply		-	ρ	.	So	that	:		
+⎠⎟		
+)
+
+c2(
+U = − U 1 + 0 1
+ 
+
+⎞
+⎠⎟ = − 4πG ρ 1+ 0( 1
+c 2 )
+
+goo = − (1− 2 U
+c2 )
+ 
+
+goo = − (1− 2 U
+c2 )
+ 
+
+w / w = 1+ 0( 1
+ 
+
+Δ U = − 4πG
+ 
+
+Δ U = − 4πG
+ 
+
+gi j = + (1+ 2 U
+
+1+ 0( 1
+c 2 )
+
+⎠⎟	
+)
+
+gi j = + (1+ 2
+
+⎠⎟		
+
+Too
+c2
+
+Too
+c2
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+⎞
+
+⎞
+
+⎞
+
+;
+
+;
+
+⎞
+
+⎛
+⎝⎜
+
+1
+2
+
+1
+2
+
+ν =
+
+ν =
+
+1
+w
+
+1
+w
+
+w
+w
+
+ν) −
+
+ν) −
+
+∂ν(w Ti
+
+∇νTi
+ 
+
+∂ν(w Tµ
+
+∇νTµ
+ 
+
+43	
+
+Ti j = −
+ 
+
+c2 + 0( 1
+c4 )
+
+Ti j = − 1+ 4 U
+
+	
+(19)																																															
+⎠⎟ Ti j		
+It	is	now	very	important	to	take	in	charge	the	consequences	of	the	equations	(5a)	and	
+(5b)	which	act	on	the	same	energy-impulsion	tensor.	
+I	recall	:		
+(20)																																																					
+∂µgαβTαβ		
+If	i	refers	to	space	:		
+(21)																																																					
+∂i gαβTαβ		
+In	the	Newtonian	approximation,	in		the	last	term	the	contribution	from	 α= β= 0		is	
+dominant	because	 Too = 0(c2)	while	 Toi = 0(c1)	and	 Ti j = 0(co).	Then		
+	(22)										
+⎠⎟		
+Ti j	is	unity,	i.e.	is	
+I	recall	that	in	the	Newtonian	approximation	the	order	of	magnitude	of	
+when	 c → ∞		.			
+Ti j = ρvi v j + pδi j + 0(1/ c2).	Then	the	
+For	example,	for	a	perfect	moving	fluid	we	have	
+above	equation	(when	fullfilled	by	
+o) = ∂t (ρvi) + 0(1/ c2)	)	is	nothing	(	when	
+ c → ∞)	but	the	classical	hydrodynamical	Euler	equation.		I	have	considered	a	static	case,	
+with	the	equilibrium	of	a	self-gravitating	star.		
+Now,	consider	the	second	conservation	law	(5b).	We	shall	have	:		
+(23)																																											
+∂i gαβ Tαβ		
+Thus,	finally	:		
+j) − ρ∂i U + 0(1/ c2)		
+(24)																																											
+In	this	second	Euler	equation	:		 T i
+j) − ρ∂i U + 0(1/ c2)		
+(25)																																											
+which	contradicts	the	classical	Euler	equation	(22).		
+If	the	star	is	filled	by	a	perfect	fluid	this	static	equilibrium	implies	both		
+
+U → − U		then		
+
+⎛
+j) − ρ∂i U + 0 1
+⎝⎜
+c 2
+
+Too
+⎛
+c2 ∂i U + 0 1
+⎝⎜
+
+⎞
+⎠⎟ = ∂ j(Ti
+
+0 = ∇νTi
+ 
+
+0 = ∇νTi
+ 
+
+0 = ∇νTi
+ 
+
+ν = − ∂ j(Ti
+
+ν = ∂ j(Ti
+
+ν = ∂ j(Ti
+
+j → − T i
+
+∂o (w T i
+
+ρ→ − ρ
+
+∇νTi
+ 
+
+∂ j(w Ti
+
+1
+w
+ 
+
+1
+w
+
+j) −
+
+j) −
+
+ν =
+
+1
+2
+
+c 2
+
+⎞
+
+ 
+
+ 
+
+j
+
+44	
+
+	
+(26)																																	
+	CONCLUSION	:	The	system	of	coupled	equations	of	the	«	Janus	Model	»	are	
+mathematically	and	physically	contradictory.	
+		
+
+∂i p = − ρ∂i U		
+
+ ∂i p = + ρ∂i U
+
+and
+
+

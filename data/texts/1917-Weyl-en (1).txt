@@ -1,0 +1,3432 @@
+Gen Relativ Gravit (2012) 44:779–810
+DOI 10.1007/s10714-011-1310-7
+
+GOLDEN OLDIE
+
+Republication of:
+3. On the theory of gravitation
+
+Hermann Weyl
+
+Published online: 10 February 2012
+© Springer Science+Business Media, LLC 2012
+
+An editorial note to this paper and a biography can be found in this issue preceding this Golden Oldie
+and online via doi:10.1007/s10714-011-1309-0. The companion papers to this one can be found
+in this issue after this Golden Oldie and online via doi:10.1007/s10714-011-1311-6 (Weyl 1919) and
+doi:10.1007/s10714-011-1312-5 (Weyl and Bach 1922).
+
+Original paper: Weyl, H.: 3. Zur Gravitationstheorie, Annalen der Physik 54, 117–145 (1917). doi:10.
+1002/andp.19173591804, Copyright (c) 1917 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim.
+Translation published with permission. Translated by Gernot Neugebauer and David Petroff,
+D.Petroff@tpi.uni-jena.de.
+
+Editorial responsibility: A. Krasi´nski, e-mail: akr@camk.edu.pl.
+
+H. Weyl (Deceased December 8, 1955)
+Zurich, Switzerland
+e-mail for correspondence: akr@camk.edu.pl
+
+123
+
+780
+
+H. Weyl
+
+3. On the Theory of Gravitation;
+
+by Hermann Weyl.
+
+Contents.
+
+A. Additions to the General Theory.
+
+§ 1. Derivation of a H a m i l t o nian principle for the solution of such
+problems as can be dealt with considering our rather fragmentary knowledge
+of matter today.
+§ 2. The energy-momentum balance expresses quite generally the fact
+that the H a m i l t o nian principle is valid for variations of the state vari-
+ables that are brought about by an inﬁnitesimal deformation of the four-
+dimensional world continuum if the state variables are “carried along” by
+the deformation.
+§ 3. Principal deliberations regarding the connexion between theory and
+observation. Derivation of F e r m a t’s principle of fastest arrivals for light
+rays in the static gravitational ﬁeld and of an analogous principle for the
+trajectory of a point mass endowed with charge under the inﬂuence of grav-
+itation and electricity.
+
+B. Theory of the Static, Axially Symmetric Field.
+
+§ 4. Simple derivation of the S c h w a r z s c h i l d solution for a point mass
+and transformation to another co¨ordinate system that is important for what
+follows. Electrostatic and gravitational ﬁelds of a charged point mass.
+§ 5. The construction of a special co¨ordinate system, the uniquely deter-
+mined “canonical cylindrical co¨ordinates”, allows for the determination of the
+ﬁeld of rotationally distributed masses at rest as simply as in N e w t o nian
+theory; there exists a general connexion between the N e w t o nian and
+E i n s t e i nian solutions, expressible with the use of elementary functions.
+§ 6. An analogue is valid for the electrostatic and gravitational ﬁelds of
+rotationally symetrically distributed charges. The deviations from classical
+theory are extremely small even at the length scale of atoms.
+
+1
+
+123
+
+Republication of: On the theory of gravitation
+
+781
+
+A. Additions to the General Theory
+
+§ 1. A Hamiltonian principle
+
+The gravitational equations have been reduced to a H a m i l t o nian principle
+by H i l b e r t1, based on M i e’s theory2, more generally by H . A . L o r e n t z3
+and by the founder of the theory of gravitation himself4.
+Its deﬁnitive
+formulation fails though, since we do not know the H a m i l t o nian func-
+tion (world density of the action) for the matter, indeed do not even know
+which independent state variables should be used to describe the matter.
+Under these circumstances, it seems of importance to me to formulate a
+H a m i l t o nian principle that is suﬃciently broad so as to encompass our
+current sound knowledge of matter (in E i n s t e i n’s broad sense, i.e. knowl-
+edge of the energy-momentum tensor). From this principle, which will diﬀer
+somewhat in form from those that have been presented hitherto, the following
+laws should thus emerge, as though from a common source:
+
+1. The inhomogeneous gravitational equations according to which the
+In this
+energy-momentum tensor determines the curvature of the world.
+context, the energy-momentum tensor will be comprised only of that valid for
+the electromagnetic ﬁeld in the æther and of the “kinetic” energy-momentum
+tensor of the matter in the more restricted sense (cid:2)uiuk, in which the invariant
+mass-density (cid:2) and the components ui (i = 1, 2, 3, 4) of the four-velocity
+appear. Here no account is thus taken of the still unclear constitution of
+important attributes of matter and of its cohesional forces;
+
+2. the M a x w e l l - L o r e n t z equations, that, as in electron theory, gain
+a concrete meaning from the fact that a convectional current appears as the
+only electron current;
+
+3. the law for ponderomotive forces in the electromagnetic ﬁeld and the
+mechanical equations, which determine the motion of masses under the in-
+ﬂuence of these forces and of the gravitational ﬁeld.
+
+Let xi be the four co¨ordinates used to ﬁx world points5,
+
+(1)
+
+gikdxi dxk
+
+1G¨ott. Nachr. 1915. Meeting from 20 November.
+2Ann. d. Phys. 37 p. 511, 39 p. 1, 1912; 40 p. 1, 1913.
+3Four papers from the years 1915 and 1916 from the Versl. K. Akad. van Wetensch.
+4A . E i n s t e i n, Sitzungsber. d. Preuß. Akad. d. Wiss. 42 p. 1111, 1916.
+5In my notation, I follow A . E i n s t e i n’s article “Die Grundlage der allgemeinen
+Relativit¨atstheorie”, Ann. d. Phys. 49 p. 769, 1916, in particular the convenient rule of
+omitting the summation signs.
+
+2
+
+123
+
+782
+
+(1)
+
+Let xi be the four co¨ordinates used to ﬁx world points5,
+
+gikdxi dxk
+
+H. Weyl
+
+the invariant quadratic diﬀerential form (with the index of inertia 3)6, whose
+coeﬃcients comprise the gravitational potential, and ϕi dxi the invariant lin-
+ear diﬀerential form, whose coeﬃcients ϕi are the components of the elec-
+tromagnetic four-potential. I refer to the integral over some world domain
+G
+
+(cid:5)(cid:4)
+
+(cid:5)(cid:4)
+
+(cid:5)(cid:6)
+
+(cid:3)(cid:4)
+
+(cid:5)
+
+(cid:4)
+
+(cid:2)
+
+−1
+2
+
+H dω with H = gik
+
+ik
+r
+
+rs
+s
+
+−
+
+ir
+s
+
+ks
+r
+
+as the ﬁeld action of gravitation7 (contained in this world domain), and to
+the integral
+
+(cid:2)
+
+1
+2
+
+L dω with L =
+
+FikF ik =
+
+gijgkhFikFjh
+
+1
+2
+
+1
+2
+
+as the ﬁeld action of electricity. Here
+
+Fik =
+
+∂ϕk
+∂xi
+
+− ∂ϕi
+∂xk
+
+are the components of the electromagnetic ﬁeld, and dω is the four-dimensional
+volume element
+
+√
+
+gdx1 dx2 dx3 dx4, −g = det|gik|.
+
+In this phenomenological theory, in addition to the “ﬁeld”, the “sub-
+stance” arises, a three-dimensional, moving continuum that we can consider
+(mathematically) to be divided up into inﬁnitesimal elements. Each element
+is endowed with a certain, unchanging mass or “mass charge” dm and an un-
+changing electric charge de; as a representation of its history, a certain world
+
+5In my notation, I follow A . E i n s t e i n’s article “Die Grundlage der allgemeinen
+Relativit¨atstheorie”, Ann. d. Phys. 49 p. 769, 1916, in particular the convenient rule of
+omitting the summation signs.
+
+6Every quadratic form can be transformed linearly to a sum and diﬀerence of squares;
+the number of negative terms that arise is called the index of inertia. The fact that this
+is uniquely determined by the form is precisely the statement of the “law of inertia for
+quadratic forms”.
+
+7Editor’s remark: Weyl used the now-outdated notation for coordinates and the
+
+Christoﬀel symbols. His
+
+is today’s
+
+(cid:4)
+
+(cid:5)
+
+ik
+r
+
+(cid:4)
+
+(cid:5)
+
+.
+
+r
+ik
+
+3
+
+123
+
+Republication of: On the theory of gravitation
+
+783
+
+line, whose direction is characterized by the ratio of the four diﬀerentials
+dx1 : dx2 : dx3 : dx4, is associated with it. I call the quantity
+
+(cid:2) (cid:4)
+
+(cid:2) (cid:7)
+
+(cid:5)
+
+(2)
+
+dm
+
+gik dxi dxk
+
+the substance action of gravitation, where the outer integral extends over the
+entire substance whereas the inner one extends over that part of the world
+line of the substance element dm that lies within the domain G. We assume
+that the motion of the substance is related to the gravitational ﬁeld such
+that the square root, i.e. the proper time ds, appearing in the inner integral,
+is always positive. We convert (2), which is possible, into an integral
+(cid:5)dω,
+which extends over the world domain G. The invariant space-time function
+(cid:5) is called the absolute mass density. The integral describing the substance
+action of electricity
+
+(cid:8)
+
+(cid:2) (cid:4)
+
+(cid:5)
+
+(cid:2)
+
+de
+
+ϕi dxi
+
+is constructed in complete analogy to (2). The absolute electric charge den-
+sity ε is deﬁned by
+
+(cid:2) (cid:4)
+
+(cid:2)
+
+(cid:5)
+
+ε dω =
+
+de
+
+ds
+
+.
+
+(cid:2)
+
+G
+
+The H a m i l t o nian principle reads:
+
+The sum of the ﬁeld and substance actions of gravitation and electricity
+is an extremum in every world domain with respect to arbitrary variations
+in the electromagnetic and gravitational ﬁelds that vanish at the boundaries
+and with respect to analogous space-time variations of the moving substance
+elements.8
+
+Variation of gik (with a ﬁxed electromagnetic ﬁeld and ﬁxed world lines
+of the substance) yields the E i n s t e i n gravitational equations (I), variation
+of the electromagnetic potential ϕi the M a x w e l l - L o r e n t z equations
+
+(II)
+
+(cid:9)√
+
+(cid:10)
+
+∂
+
+1√
+g
+
+gF ik
+∂xk
+
+= J i = ε
+
+dxi
+ds
+
+,
+
+8We use rational units, i.e. chosen so that the speed of light in vacuum = 1 and
+likewise E i n s t e i n’s constant 8πκ (κ = k/c2, k the gravitational constant); electrostatic
+units following H e a v i s i d e.
+
+4
+
+123
+
+H. Weyl
+
+784
+
+(III)
+
+and, ﬁnally, the variation of the substance elements’ world lines yields the
+mechanical equations
+
+(cid:3)
+
+(cid:4)
+
+(cid:5)
+
+(cid:6)
+
+(cid:5)
+
+d2xi
+ds2 +
+
+hk
+i
+
+dxh
+ds
+
+dxk
+ds
+
+= pi,
+
+where pi are the contravariant components of the force, the covariant com-
+ponents of which are given by
+
+pi = FikJ k.
+
+These laws are, of course, not independent of each other. In fact, the mechan-
+ical equations (III) together with the equation of continuity for the matter
+are a mathematical consequence of laws (I) and (II), as can be veriﬁed by a
+simple calculation.
+
+§ 2. Energy-momentum balance
+
+According to the authors cited above — we return from the aforementioned
+phenomenological theory to a strict one, which can today, granted, only be
+formulated in general terms — the world is ruled by an action principle of
+the following form
+
+(H − M ) dω = extremum.
+
+(cid:2)
+
+G
+
+Here, the world density M of the action associated with the material processes
+is a universal function of the independent state variables characterizing these
+processes, their derivatives (ﬁrst, perhaps also higher ones) with respect to
+the co¨ordinates xi, and of gik. To refer to a concrete example, M depends,
+in M i e’s theory, not only on gik, but also on the four components ϕi of the
+electromagnetic potential and on the ﬁeld components Fik that result from
+ϕi via diﬀerentiation. The derivation of the mechanical equations in the
+phenomenological theory mentioned above suggested to me that perhaps in
+general the principle of conservation of energy and momentum expresses the
+fact that the H a m i l t o nian principle is obeyed by precisely those inﬁnitely
+small variations that are brought about by an inﬁnitesimal deformation of the
+world such that the state variables are “carried along” by this deformation.
+This is indeed the case and it seems to lead to the simplest and most natural
+derivation for the principle of energy.
+
+5
+
+123
+
+Republication of: On the theory of gravitation
+
+785
+
+√
+
+If we set M
+
+g = M, then the energy-momentum tensor Tik is deﬁned by
+
+the equation for the total diﬀerential of M:
+δM = −Tikδgik +
+
+1√
+g
+
+1√
+g
+
+(δM)0,
+
+where (δM)0 collects the terms containing the diﬀerentials of the material
+state variables linearly (e.g. of ϕi and Fik). The contravariant term gik trans-
+forms under an arbitrary co¨ordinate transformation
+
+according to the equations
+
+¯xi = ¯xi(x1, x2, x3, x4)
+
+¯gik = gαβ ∂ ¯xi
+∂xα
+
+∂ ¯xk
+∂xβ
+
+.
+
+If this transformation is inﬁnitesimal:
+
+¯xi = ¯xi + ε · ξi(x1, x2, x3, x4)
+
+(ε denotes the inﬁnitesimal constant, i.e. tending to zero), then for the dif-
+ference of gik and ¯gik
+
+¯gik(¯x) − gik(x) = δgik,
+
+with the arguments (x) and (¯x) referring to the same world point in the old
+and new co¨ordinate systems, one ﬁnds the equation
++ giβ ∂ξk
+∂xβ
+
+gαk ∂ξi
+∂xα
+
+δgik = ε
+
+(cid:6)
+
+(cid:3)
+
+.
+
+Applying the same procedure to the state variables of the material processes
+and making use of the fact that the invariant M remains unchanged under
+such an inﬁnitesimal transformation, we obtain the law governing how the
+energy-momentum tensor depends on gik and the material state variables.
+
+Consider a world domain G that, when represented by the co¨ordinates
+xi, corresponds to a mathematical domain X in the domain of deﬁnition
+of these co¨ordinates xi.
+If the above inﬁnitesimal transformation has the
+property that the variations ξi together with with their derivatives vanish at
+the boundary of the domain G, then this world domain in the new variables
+¯xi corresponds exactly to the same mathematical domain X. I set
+
+Δgik = ¯gik(x) − gik(x) = δgik +
+
+(cid:11)
+
+(cid:12)
+¯gik(x) − ¯gik(¯x)
+
+6
+
+123
+
+786
+
+H. Weyl
+
+= δgik − ε · ∂gik
+∂xα
+
+ξα,
+
+i.e. I take the diﬀerence of gik and ¯gik at two space-time points, the second
+of which has the same co¨ordinate values in the new co¨ordinate system as the
+ﬁrst in the old one; in other words, I perform a virtual displacement. For
+all other quantities, Δ has the same meaning. If I use the abbreviation dx
+M dx is an invariant and
+for the integration element dx1 dx2 dx3 dx4, then
+
+(cid:8)
+
+M dx =
+
+¯M(¯x) d¯x =
+
+¯M(x) dx;
+
+therefore
+
+ΔM · dx = 0.
+
+hence(cid:2)
+
+X
+
+However
+
+(cid:2)
+
+X
+
+(cid:2)
+
+X
+
+ΔM = −TikΔgik + (δM)0
+
+√
+
+g · Tik).
+
+(Tik =
+
+Here, the following has to be taken into account: In the transformed co¨ordinate
+system, as in the original one, – I choose M i e’s theory as an example – the
+equations
+
+(cid:2)
+
+X
+
+hold. Since the labelling of the variables is immaterial, one has
+
+∂ ¯ϕk(¯x)
+
+∂ ¯xi
+
+− ∂ ¯ϕi(¯x)
+∂ ¯xk
+
+= ¯Fik(¯x)
+
+∂ ¯ϕk(x)
+
+∂xi
+
+− ∂ ¯ϕi(x)
+∂xk
+
+= ¯Fik(x).
+
+∂ϕk
+∂xi
+
+− ∂ϕi
+∂xk
+
+= Fik
+
+The relations
+
+thus remain true when we switch over from the functions ϕi, Fik to the
+functions ¯ϕi, ¯Fik of the same variables xi; i.e. they remain unchanged for the
+variation Δ (in contrast to the variation δ). According to the general action
+principle in which we leave gik unchanged, i.e. due to the laws of the material
+processes, one has
+
+(ΔM)0 dx = 0 and thus also
+
+TikΔgik · dx = 0.
+
+(cid:2)
+
+X
+
+If we insert the expression for Δgik here and get rid of the derivatives of the
+displacement components via integration by parts, then we have
+
+(cid:2) (cid:4)
+
+(cid:2)
+
+(cid:5)
+
+∂T k
+i
+∂xk
+
++
+
+1
+2
+
+∂grs
+∂xi
+
+Trs
+
+ξi dx = 0,
+
+7
+
+123
+
+Republication of: On the theory of gravitation
+
+787
+
+and thus the energy-momentum equations
+
+∂T k
+i
+∂xk
+
++
+
+1
+2
+
+∂grs
+∂xi
+
+Trs = 0
+
+(3)
+
+have been proved.
+
+world domain G,
+
+(cid:2)
+
+(cid:2)
+
+δ
+
+H dω =
+
+(Rik − 1
+
+2 gikR)δgik · dω
+
+For a variation of the gravitational ﬁeld vanishing at the boundary of the
+
+holds, where Rik is the symmetric R i e m a n n curvature tensor and R is the
+invariant
+
+R = gikRik.
+
+Rik − 1
+
+2gikR.
+
+If we apply the above considerations to H instead of M (the fact that H also
+contains the diﬀerential quotients of gik is immaterial here), then without
+further calculation, we ﬁnd that equation (3) is fulﬁlled identically upon
+replacing Tik by the tensor
+
+The energy momentum balance is thus not only a mathematical consequence
+of the material processes, as we have just shown, but also of the gravitational
+equations
+
+Rik − 1
+
+2gikR = −Tik.
+
+What takes place in E i n s t e i n’s theory of the old classiﬁcation into geom-
+etry, mechanics and physics, is the juxtaposition of material processes and
+gravitation. Mechanics is the eliminant of the two, if you will; for the ex-
+istence of the energy-momentum balance is on the one hand a consequence
+of the laws for material processes, on the other hand , it is the necessary
+condition for the matter to be able to imprint a metric on the world in accor-
+dance with the law of gravity. Hence there are four extra equations contained
+in the system of material and gravitational laws; indeed there must be four
+arbitrary functions in the general solution, since the equations, because of
+their invariant nature, leave the co¨ordinate system of the xi completely un-
+determined.9
+
+9Cf. the derivation of the energy-momentum balance by A . E i n s t e i n, Sitzungsber.
+d. Preuß. Akad. d. Wiss. 42, p. 1111, 1916 and the comments by D . H i l b e r t, G¨ott.
+Nachr. 1917 (meeting of 23 Dec. 1916) on causality.
+
+8
+
+123
+
+788
+
+H. Weyl
+
+§ 3. Connexion with observation. Light rays and trajectories in
+
+the static gravitational ﬁeld
+
+The “objective” world that physics strives to distil out of our immediately
+experienced reality – its testable content – can only be grasped using mathe-
+matical concepts. However, to characterize the meaning this system of math-
+ematical concepts has as applied to reality, we somehow have to attempt to
+describe its connexion to the immediately tangible, a task for epistemology,
+which, of its very nature, cannot be accomplished with concepts from physics
+alone, but by a constant reference to that which is vividly experienced in the
+mind. The connexion between the frequency of an electromagnetic ﬁeld and
+the sensory perception “colour” is, for example, of this sort. Quite generally,
+it seems that it is the intensity of the energy-momentum current striking the
+sensory epithelium that is primarily responsible for the corresponding inten-
+sity of perception and the nature of the space-time variability for its quality.
+Here I want to describe in more detail this connexion for a rather simpliﬁed
+relationship between subject and object.
+
+Imagine that we are in the four-dimensional physical world of single,
+moving point masses, which emit light – the stars. For simplicity, we use
+geometrical optics according to which the world lines of the light signals
+emitted from the stars are singular geodesic lines. In general, the equations
+of a geodesic world line read
+
+(4)
+
+where s is an appropriate parameter. It follows that
+
+(cid:4)
+
+(cid:5)
+
+d2xi
+ds2 +
+
+kh
+i
+
+dxk
+ds
+
+dxh
+ds
+
+= 0,
+
+F ≡ gik
+
+dxi
+ds
+
+dxk
+ds
+
+= constant.
+
+The singular geodesic world lines are deﬁned by the fact that for them in
+particular this constant is zero (while it is positive for the world line of point
+masses). We simplify the perceiving consciousness, the “monad”, to a “point
+eye”. At every moment of its life, it occupies a certain point of space-time, it
+traces out a world line; it perceives the points of this world line as following
+one another in “temporal succession”. We consider a certain moment; let the
+gravitational potentials have the values gik a the point P occupied by the
+monad at this given moment; let dxi be the components of the element e of
+
+9
+
+123
+
+Republication of: On the theory of gravitation
+
+789
+
+its world line at that point and the ratios of the dxi describe the world line’s
+direction (velocity). We must assume that the direction is time-like, i.e. that
+
+holds. Instead of the diﬀerentials dxi, I write xi from now on, since all of our
+considerations refer to the point P .
+
+Two line elements xi, xi
+
+are called orthogonal when
+
+(cid:2)
+
+ds2 = gik dxi dxk > 0
+
+(cid:2)
+
+gikxixk
+
+= 0
+
+holds.
+I now claim that all line elements (originating in P ) that are or-
+thogonal to the time-like e are themselves space-like. That is, they span an
+inﬁnitesimal, three-dimensional domain R upon which the form −ds2 im-
+prints a positive deﬁnite metric. The monad experiences this domain R as
+its immediate “spatial vicinity”. To prove our assertion, we take e to be the
+fourth co¨ordinate axis; then the ﬁrst three components of e are equal to zero
+and g44 > 0. We can set
+
+ds2 =
+
+gikxixk = g44
+
+x4 +
+
+x1 +
+
+x2 +
+
+g14
+g44
+
+g24
+g44
+
+g34
+g44
+
+x3
+
+(cid:3)
+
+4(cid:13)
+
+i,k=1
+
+If we introduce
+
+(cid:6)2 − quad. F.(x1x2x3).
+
+instead of the above x4 for the fourth co¨ordinate, then one ﬁnds
+
+x4 +
+
+x1 +
+
+x2 +
+
+g14
+g44
+
+g24
+g44
+
+g34
+g44
+
+x3
+
+ds2 = g44x4
+
+2 − Q(x1x2x3).
+
+Since ds2 has the index of inertia 3, the quadratic form Q must be positive
+deﬁnite. All those elements and only those for which x4 = 0 holds are
+orthogonal to e. This proves our assertion. We see, furthermore, that every
+line element can be split up uniquely into two summands, one of which
+is parallel to e (has components proportional to those of e) and the other
+orthogonal to e. We call the direction of the second summand the “spatial
+direction” of the line element. Such spatial directions orthogonal to e form
+angles with one another that can be calculated in the usual manner with
+the help of the quadratic form −ds2, which is positive for such directions.
+Using this prescription, we identify (in the natural way) the angle between
+
+10
+
+123
+
+790
+
+H. Weyl
+
+the spatial directions of light signals emitted from two stars and meeting at
+P , with the diﬀerence in the angles of the two directions in which the point
+eye sights the two stars at the given moment. We consider this diﬀerence
+in direction to be, at least approximately, something directly ascertainable;
+indeed, in seeing, the qualitative can also have the feature of being “spatially
+extended” (an aspect that cannot be traced back to the qualitative content
+of perception). By making use of appropriate instruments for observation,
+the observations of angles can be made more exact; however the task remains
+for the consciousness of determining if two directions are distinguishable or
+indistinguishable (co¨ıncidence of cross-hairs and position of the star, reading
+oﬀ from a graduated circle). – At any rate, this simple scheme suﬃces in
+principle for the description of how the observation of stars can be used to
+test E i n s t e i n’s theory.
+
+In connexion with what preceded, I want to show in the simplest way
+how one can derive F e r m a t’s principle of fastest arrivals for a static grav-
+itational ﬁeld from the general principle “the world line of a light signal is
+a singular geodesic line”.
+If we choose to describe a geodesic line by the
+parameter s in accordance with equation (4), then it is characterized by the
+variational principle
+
+(5)
+
+δ
+
+F ds = 0,
+
+valid for a virtual displacement for which the ends of the segment of the
+world line being considered remain ﬁxed. (Alternatively, one can start from
+the equation
+
+except for the case of singular geodesic lines).
+x4 = t; the quadratic fundamental form (1) has the structure
+
+In the static case, we set
+
+where dσ2 is a positive quadratic form of the spatial diﬀerentials dx1, dx2,
+dx3 whose coeﬃcients as well as f , the square of the speed of light,10 do not
+
+10Translators’ note: For light, ds2 = 0 holds, which implies f = (dσ/dt)2 and is here
+denoted as the “square of the speed of light”, which should not be confused with the
+constant c.
+
+(cid:2)
+
+(cid:2) √
+
+δ
+
+F ds = 0,
+
+f dt2 − dσ2,
+
+11
+
+123
+
+Republication of: On the theory of gravitation
+
+791
+
+(cid:2)
+
+depend on the time t. In this case, if we only vary t, then
+
+(cid:2)
+
+f
+
+dt
+ds
+
+(cid:14)
+
+(cid:15)
+
+(cid:2)
+
+− 2
+
+(cid:3)
+
+(cid:6)
+
+d
+ds
+
+f
+
+dt
+ds
+
+dt
+ds
+
+(6)
+
+δ
+
+F ds = 2
+
+d δt =
+
+2f
+
+δt
+
+δt ds.
+
+Therefore,
+
+f
+
+dt
+ds
+
+= constant = E
+
+must hold. If we abandon the requirement that δx1, δx2, δx3 as well as δt
+disappear at the ends of the interval of integration, then it follows from (6)
+that we have to replace (5) by
+
+(7)
+
+δ
+
+F ds = [2E δt] = 2δ
+
+E dt.
+
+If we vary the spatial trajectory of the light signal arbitrarily, holding the
+ends ﬁxed, and imagine that the varied curve be traversed at the speed of
+light, then
+
+(cid:7)
+
+F = 0,
+
+dσ =
+
+f · dt
+
+holds for the original as well as the varied curve and (7) becomes
+
+(cid:2)
+
+(cid:2)
+
+(cid:2)
+
+(cid:2)
+
+dσ√
+f
+
+δ
+
+dt = 0 or
+
+δ
+
+= 0,
+
+i.e. F e r m a t’s principle. Time has been eliminated entirely; the last for-
+mulation refers only to the spatial path of the light ray and holds for every
+segment of it, if this segment is varied arbitrarily while keeping its initial and
+ﬁnal points ﬁxed.
+
+We can apply the same method to ascertain a minimal principle for the
+trajectory of a point mass in a static gravitational ﬁeld. Let us assume that
+the point mass m moreover has an electric charge e and is subjected to an
+electrostatic ﬁeld with the potential Φ. According to § 1, the variational
+principle then reads
+
+(cid:4)
+
+(cid:2)
+
+(cid:2)
+
+(cid:5)
+
+(8)
+
+δ
+
+m
+
+ds + e
+
+Φ dt
+
+= 0,
+
+where ds is the diﬀerential of proper time. If we vary t and not the spatial
+co¨ordinates, then the left hand side is
+
+(cid:2) (cid:4)
+
+(cid:5)
+
+=
+
+mf
+
++ eΦ
+
+dδt.
+
+dt
+ds
+
+12
+
+123
+
+H. Weyl
+
+792
+
+Hence
+
+(9)
+
+mf
+
++ eΦ = constant = E
+
+dt
+ds
+
+holds and if we abandon the requirement that δx1, δx2, δx3 as well as δt vanish
+at the ends of the interval of integration, then the variational principle (8)
+must be replaced by
+
+(cid:4)
+
+(cid:2)
+
+(cid:2)
+
+(cid:5)
+
+(cid:2)
+
+(10)
+
+δ
+
+m
+
+ds + e
+
+Φ dt
+
+= [E δt] = δ
+
+E dt.
+
+If we introduce the expression
+
+in (9) and set
+
+for brevity, then we ﬁnd the law
+
+(11)
+
+(cid:7)
+f dt2 − dσ2
+
+ds =
+
+E − eΦ√
+
+f
+
+U =
+
+(cid:7)
+f (U 2 − m2)
+
+U dσ
+
+= dt.
+
+If we suppose the varied spatial trajectory with ﬁxed ends to be traversed
+according to this same law for the speed, then we ﬁnd that (9) is also valid
+for the varied path. Therefore, we ﬁnd from (10)
+
+(cid:2) (cid:4)
+
+δ
+
+(cid:5)
+
+(cid:2) √
+
+m2f
+E − eΦ
+
+− (E − eΦ)
+
+dt = δ
+
+f (m2 − U 2)
+
+U
+
+dt = 0.
+
+We can insert expression (11) for dt here, since this expression remains valid
+for the variation, by assumption; in this way, time is completely eliminated
+and we ﬁnd that the spatial trajectory is characterized by the minimal prin-
+ciple11
+
+(cid:2) √
+
+δ
+
+U 2 − m2dσ = 0.
+
+11Cf. also T . L e v i - C i v i t a, “Statica Einsteinia”, Rend. d. R. Accad. dei Lincei 26
+
+p. 464, 1917.
+
+13
+
+123
+
+Republication of: On the theory of gravitation
+
+793
+
+B. Theory of the Static, Rotationally Symmetric Gravitational
+
+Field
+
+§ 4. Point mass without and with electric charge
+
+For what follows,
+it will be necessary to make a few comments about
+S c h w a r z s c h i l d’s determination of the gravitational ﬁeld of a point mass
+at rest12. Upon introduction of appropriate co¨ordinates, a three-dimensional,
+spherically symmetric line element necessarily has the form
+
+dσ2 = μ(dx1
+
+2 + dx2
+
+2 + dx3
+
+2) + l(x1 dx1 + x2 dx2 + x3 dx3)2,
+
+where μ and l depend only on the distance
+
+(cid:7)
+
+r =
+
+x1
+
+2 + x2
+
+2 + x3
+
+2.
+
+The length scale for measuring this distance can be chosen so as to render
+μ = 1; we make this choice. For the four-dimensional line element, we have
+to choose the form
+
+ds2 = f dx4
+
+2 − dσ2,
+
+where f is also only a function of r. If we now set
+
+1 + lr2 = h
+
+and the square root of the determinant hf equal to w, then a short calcula-
+tion, which for convenience we perform for the point x1 = r, x2 = 0, x3 = 0,
+yields the value
+−2lr
+h
+
+for H = gik
+
+(cid:5)(cid:4)
+
+(cid:5)(cid:4)
+
+· w(cid:2)
+w
+
+(cid:3)(cid:4)
+
+(cid:5)(cid:6)
+
+ks
+r
+
+rs
+s
+
+ik
+r
+
+(cid:5)
+
+(cid:4)
+
+ir
+s
+
+−
+
+.
+
+The prime denotes a derivative with respect to r. Moreover, let
+
+(cid:3)
+
+(cid:6)
+− 1
+
+−lr3
+h
+
+=
+
+1
+h
+
+r = v;
+
+then one has to solve the variational problem
+
+(cid:2)
+
+(cid:2)
+
+δ
+
+vw(cid:2) dr = 0 or
+
+δ
+
+wv(cid:2) dr = 0;
+
+12Sitzungsber. d. Kgl. Preuß. Akad. d. Wiss. 7. p. 189. 1916. [Translator’s remark: See
+
+GRG 35. p. 951. 2003 for an English translation.]
+
+14
+
+123
+
+794
+
+H. Weyl
+
+here v and w are to be taken to be the independent functions to be varied.
+The variation of v gives
+
+and by making appropriate use of the not yet ﬁxed unit of time: w = 1. The
+variation of w gives
+
+(cid:2)
+
+w
+
+= 0, w = constant
+
+(cid:2)
+
+v
+
+=0,
+1
+h
+
+f =
+
+v = constant = −2a;
+= 1 − 2a
+r
+
+.
+
+a is related to the mass m via the equation a = κm; we call a gravitational
+radius of the mass m.
+
+In order to illustrate the geometry characterized by the line element dσ2,
+we conﬁne ourselves to the plane x3 = 0 passing through the origin. If we
+introduce polar co¨ordinates in it
+
+x1 = r cos ϑ,
+
+x2 = r sin ϑ,
+
+then we get
+
+dσ2 = h dr2 + r2 dϑ2.
+
+This line element characterizes the geometry that is valid on the paraboloid
+of rotation
+
+(cid:7)
+
+z =
+
+8a(r − 2a)
+
+in a Euclidean space with the orthogonal co¨ordinates x1, x2, z if the paraboloid
+is projected orthogonally onto the z = 0 plane with the polar co¨ordinates
+r, ϑ. The projection covers the exterior of the circle r ≥ 2a twice, but does
+not cover the interior at all. Via natural analytic continuation, the true space
+will cover the domain r ≥ 2a doubly in the co¨ordinate space of the xi used to
+represent it. The two coverings are separated by the sphere r = 2a on which
+the mass lies and at which the metric becomes singular and one has to refer
+to the two halves as the “outside” and “inside” of the point mass.
+
+This may become clearer upon introducing another co¨ordinate system
+into which I need to transform S c h w a r z s c h i l d’s equations at any rate in
+order to proceed further. The transformation equations read
+
+(cid:2)
+
+(cid:2)
+
+r
+r
+
+(cid:2)
+
+(cid:2)
+
+r
+r
+
+x1
+
+=
+
+x1,
+
+x2
+
+=
+
+x2 x3
+
+=
+
+x3;
+
+r =
+
+r
+
++
+
+(cid:16)
+
+(cid:2)
+
+(cid:17)2 · 1
+
+r(cid:2) .
+
+a
+2
+
+(cid:2)
+
+r
+r
+
+(cid:2)
+
+15
+
+123
+
+Republication of: On the theory of gravitation
+
+795
+
+If I remove the primes after carrying out the transformation, then
+r − a/2
+r + a/2
+
+2 + dx3
+
+2 + dx2
+
+dσ2 =
+
+(cid:17)4
+
+a
+2r
+
+(dx1
+
+(12)
+
+f =
+
+1 +
+
+(cid:16)
+
+2),
+
+(cid:3)
+
+(cid:6)2
+
+results. In the new co¨ordinates, the line element of the gravitational space
+is thus conformal to Euclidean space; the linear enlargement factor is
+
+dσ2 is regular for all values r > 0, f is always positive and becomes zero only
+for
+
+The circumference of the circle x1
+
+if we allow r to run over its range of values beginning with +∞, then this
+function decreases monotonically until it reaches the value 4πa for
+
+after which it begins to increase again as r is decreased further toward zero,
+and grows ﬁnally without bound. According to the above interpretation, the
+domain
+
+would correspond to the outside and
+
+to the inside of the point mass. When continued analytically,
+
+becomes negative in the inside region, meaning that for a point at rest, the
+cosmic time (x4) and proper time run in opposite directions. (In Nature, it
+
+(cid:16)
+
+1 +
+
+a
+2r
+
+(cid:17)2
+
+.
+
+.
+
+r =
+
+a
+2
+2 = r2 is
+2 + x2
+
+(cid:16)
+
+(cid:17)2
+
+;
+
+a
+2r
+
+2πr
+
+1 +
+
+r =
+
+a
+2
+
+,
+
+r >
+
+r <
+
+a
+2
+
+a
+2
+
+16
+
+(cid:7)
+
+r − a/2
+r + a/2
+
+f =
+
+123
+
+796
+
+H. Weyl
+
+is of course only possible to realize a portion of the solution, which does not
+extend up to the singular sphere.)
+
+If the point mass carries an electric charge and if Φ is the electrostatic
+
+potential, then, if we choose C.G.S. units, the action principle is
+
+(cid:2) (cid:3)
+
+δ
+
+(cid:2)
+
+vw
+
++
+
+(cid:6)
+
+(cid:2)2r2
+Φ
+w
+
+κ
+c2
+
+dr = 0.
+
+As above, the variation of v gives
+
+and variation of Φ
+
+(cid:2)
+
+w
+
+= 0,
+
+(cid:6)
+
+(cid:3)
+
+(cid:2)
+r2Φ
+w
+
+d
+dr
+
+w = constant = 1,
+
+= 0,
+
+leading to Φ =
+
+e
+r
+
+.
+
+Thus the same formula results for the electrostatic potential as without taking
+gravity into account. The constant e is the electric charge (in the usual
+electrostatic units). If one varies w however, then one ﬁnds
+
+(cid:2)
+
+v
+
++
+
+(cid:2)2r2
+Φ
+w2 = 0,
+
+κ
+c2
+
+which leads to
+
+v = −2a +
+
+κ
+c2
+
+e2
+r
+
+,
+
+1
+h
+
+= f = 1 − 2a
+r
+
++
+
+κ
+c2
+
+e2
+r2 .
+
+As one can see, f contains not only the mass dependent term −2a/r, but
+also an additional electric term. a = κm is again the gravitational radius of
+the mass m. In complete analogy, the length
+
+must be termed the gravitational radius of the electric charge. For distances
+r comparable with a, the mass term is ∼1, whereas for r ∼ a
+(cid:2)
+, this is true for
+(cid:2)| > a holds; for
+the electric term. f remains positive for all values of r if |a
+/a is of the order of magnitude 1020. For distances
+an electron, the fraction a
+comparable to
+
+(cid:2)
+
+√
+
+c
+
+(cid:2)
+
+a
+
+=
+
+e
+
+κ
+
+(cid:2)(cid:2)
+
+a
+
+=
+
+e2
+mc2 ,
+
+17
+
+123
+
+Republication of: On the theory of gravitation
+
+797
+
+(cid:2)
+
+(cid:2)(cid:2)
+
+(cid:2)(cid:2)
+
+=
+
+√
+
+a · a(cid:2)(cid:2) holds.
+
+the mass term and electric term in the gravitational potential f are of the
+does the principle
+same order of magnitude; not until r is much larger than a
+of superposition hold, meaning that the electric potential is determined by
+the electric charge and the gravitational potential by the mass according to
+, which arises in other
+the usual formulæ. It then follows that the quantity a
+contexts as the “electron radius”, can at least be treated as the radius of its
+sphere of impact. The relation a
+Having derived the ﬁeld of an electrically charged point mass, it is easy to
+use the last paragraph of § 3 to calculate the motion of a test body subject to
+this ﬁeld, where its mass and charge are weak relative to those generating the
+ﬁeld; as in the charge-free case (planetary motion13), this problem is solved
+exactly using elliptic functions .
+§ 5. The ﬁeld of a rotationally symmetric distribution of masses
+The acquisition of exact solutions to the equations of gravity seems important
+to me with regard to the question of processes at work within the atom. After
+all, it is possible that at such scales it is essential to take the non-linearity
+of the exact laws of nature into account.
+It has long been well-known to
+mathematicians that in comparison to linear equations, the properties of
+non-linear diﬀerential equations, in particular regarding their singularities,
+are extremely complicated, unexpected and, at present, completely uncon-
+trollable. It is well-known to physicists that peculiar processes must be at
+work inside the atom that have no analogue in the visible world, where the
+sum of forces is determined by the principle of superposition. I believe that
+these two things could be closely related and, indeed, that we could expect
+the deﬁnitive interpretation of quantum theory to stem from this relation-
+ship. To this end, granted, one that still lies in the distant future, it seems
+to me of interest to determine exactly the gravitational ﬁeld of an axially
+symmetric distribution of masses and charges according to E i n s t e i n’s the-
+ory. This will be done here for the static case; the study leads to surprisingly
+simple results.
+
+The co¨ordinates that play a rˆole are: 1. the time x4 = t; 2. a spatial
+co¨ordinate singled out from the others, the angle x3 = ϑ about the axis of
+rotation with the period 2π; ϑ = constant is a meridional half-plane ending
+at the axis of rotation. To label the points in this half-plane, we have 3.
+two co¨ordinates x1, x2 that we are now going to normalize. The line element
+
+13K. S c h w a r z s c h i l d, ibid.
+
+18
+
+123
+
+798
+
+where
+
+must have the form
+
+ds2 = f dx4
+
+2 − dσ2,
+
+H. Weyl
+
+dσ2 = (h11dx1
+
+2 + 2h12dx1 dx2 + h22dx2
+
+2) + ldx3
+
+2;
+
+the coeﬃcients f , l; h11, h12, h22 are functions of x1 and x2 alone. According
+to a general theorem on positive, quadratic diﬀerential forms of two variables,
+it is possible to choose the co¨ordinates x1, x2 such that the term in brackets
+with the coeﬃcients h takes on the “isothermic” form
+
+h(dx1
+
+2 + dx2
+
+2);
+
+the pair of variables x1, x2 is then determined up to a conformal mapping.
+After making this choice of variables, we deﬁne for two arbitrary functions
+α, β of x1, x2
+
+If I introduce r =
+
+lf , then the square root of the determinant is
+
+[α, β] =
+
+∂α
+∂x1
+
+∂β
+∂x1
+
++
+
+∂α
+∂x2
+
+∂β
+∂x2
+
+.
+
+√
+
+g = w = hr.
+
+For the action density H, the formula
+
+√
+g =
+
+2H = 2H
+
+(cid:4)
+
+(cid:5)
+
+∂(gik√
+
+∂xr
+
+g)
+
+−
+
+(cid:4)
+
+(cid:5)
+
+ir
+r
+
+∂(gik√
+
+g)
+
+∂xk
+
+holds in general. In our case, the ﬁrst term is
+
+√
+
+ik
+r
+
+ii
+r
+
+for which one immediately ﬁnds
+
+4(cid:13)
+
+2(cid:13)
+
+(cid:4)
+
+(cid:5)
+
+i=1
+
+r=1
+
+∂(gii√
+
+g)
+
+∂xr
+
+4(cid:13)
+
+2(cid:13)
+
+=
+
+,
+
+i=3
+
+r=1
+
+(cid:3)(cid:18)
+
+(cid:19)
+
+(cid:15)(cid:6)
+
+(cid:14)
+
+w
+f
+
+, l
+
++
+
+, f
+
+.
+
+H(cid:2)
+
+=
+
+1
+2h
+
+w
+l
+
+However, the second term is
+
+H(cid:2)(cid:2)
+
+= − 1√
+g
+
+2(cid:13)
+
+i=1
+
+√
+
+∂
+g
+∂xi
+
+· ∂(gii√
+
+∂xi
+
+g)
+
+[w, r]
+
+=
+
+.
+
+w
+
+19
+
+123
+
+Republication of: On the theory of gravitation
+
+799
+
+Now
+
+(cid:14)
+
+(cid:15)
+
+w
+f
+
+, f
+
+(cid:14)
+
+1
+h
+
+w
+f
+
+, f
+
+f
+
+[w, f ]
+
+[f, f ]
+f 2 +
+
+= − w
+= − w[lg f, lg f ] + r[h, lg f ] + h[r, lg f ]
+(cid:15)
+
+= −r[lg f, lg f ] + r[μ, lg f ] + [r, lg f ].
+
+holds, so for lg h = μ we get
+
+If one does the same for the other term in H(cid:2)
+
+and observes
+
+2 lg r = lg l + lg f,
+
+then
+
+H(cid:2)
+
+= r[μ, lg r] + [r, lg r] − 1
+2
+(cid:7)
+
+results. If we introduce
+
+λ = lg
+
+l/f ,
+
+then we get
+
+r([lg f, lg f ] + [lg l, lg l])
+
+1
+2
+
+([lg f, lg f ] + [lg l, lg l]) = [lg r, lg r] + [λ, λ].
+
+Thus we get
+
+Finally we have
+
+H(cid:2)
+
+= [μ, r] − r[λ, λ].
+
+Altogether, we have
+
+H(cid:2)(cid:2)
+
+=
+
+[w, r]
+
+[r, r]
+
+[h, r]
+
+=
+
++
+
+w
+
+r
+
+r
+
+√
+= 4[
+
+√
+
+r,
+
+r] + [μ, r].
+
+H =
+
+(H(cid:2)
+
++ H(cid:2)(cid:2)
+
+1
+2
+
+) = [μ, r] − 1
+2
+
+√
+r[λ, λ] + 2[
+
+√
+
+r,
+
+r].
+
+To formulate the action principle, we have to calculate
+
+(cid:2)
+
+δ
+
+H dx1 dx2
+
+20
+
+123
+
+800
+
+H. Weyl
+
+for variations δμ, δλ, δr that vanish on the boundary of the (arbitrary)
+domain of integration. If we deﬁne in general
+
+(cid:4)
+
+(cid:3)
+
+(cid:6)
+
+(cid:3)
+
+(cid:6)(cid:5)
+
+Δ2 α =
+
+∂ 2α
+∂x1
+
+2 +
+
+∂ 2α
+∂x2
+
+2
+
+and Δ α =
+
+1
+r
+
+∂
+∂x1
+
+r
+
+∂α
+∂x1
+
++
+
+∂
+∂x2
+
+r
+
+∂α
+∂x2
+
+then through integration by parts
+
+(cid:2)
+
+(cid:2)
+
+δ
+
+H dx1 dx2 becomes
+
+δ
+
+H∗
+
+dx1 dx2,
+
+where
+
+δH∗
+
+= − δμ · Δ2 r + δλ · rΔ λ
+
+(cid:3)
+
+− δr
+
+Δ2 μ +
+
+[λ, λ] +
+
+Δ2
+
+r
+
+.
+
+1
+2
+
+2√
+r
+
+(cid:6)
+
+√
+
+For (uncharged) matter at rest with negligible stresses, the energy-momentum
+
+tensor is comprised of the single component
+
+T44 =
+
+((cid:11) = absolute mass density),
+
+(cid:11)
+g44
+
+and
+
+δM ≡ −√
+
+gTikδgik = −(cid:11)
+
+√
+
+g · δg44
+∗
+((cid:11)
+
+g44 = (cid:11)hrδ lg f = (cid:11)
+= h(cid:11)).
+
+∗
+
+(δr − rδλ)
+
+holds. According to the action principle, each coeﬃcient of the diﬀerential
+δM must agree with that of δH∗
+
+. That yields (coeﬃcient of δμ):
+
+Thus r is a potential function in the x1–x2 plane. If we denote the conjugate
+potential function by z so that z + ir is an analytic function of x1 + ix2,
+then the transition from x1, x2 to z, r is a conformal mapping. We can thus
+assume right from the outset that
+
+holds. In the deﬁnition of the operator symbols [ ], Δ, Δ2 one therefore has to
+replace x1, x2 by z, r. The co¨ordinate system is now completely determined
+
+Δ2 r = 0.
+
+z = x1,
+
+r = x2
+
+21
+
+123
+
+Republication of: On the theory of gravitation
+
+801
+
+except for an arbitrary additive constant in z. In order for the line element
+to remain regular along the axis of rotation, r must vanish there. I call z, r,
+θ canonical cylindrical co¨ordinates; the corresponding canonical form of the
+line element reads
+
+(cid:4)
+
+f dt2 −
+
+h(dz2 + dr2) +
+
+(cid:5)
+
+.
+
+r2 dϑ2
+
+f
+
+Here the “Euclidean” case is contained for f = 1, h = 1. In order to be able
+to express ourselves in geometric terms, we portray the gravitational space by
+using a Euclidean image space with the cylindrical co¨ordinates z, r, ϑ. The
+mapping of the two spaces onto one another via the canonical co¨ordinates is
+uniquely determined up to an arbitrary translation of the Euclidean image
+space in the direction of the z-axis. In the image space
+
+(cid:4)
+
+(cid:3)
+
+(cid:6)
+
+(cid:3)
+
+(cid:6)(cid:5)
+
+Δ =
+
+1
+r
+
+∂
+∂z
+
+r
+
+∂
+∂z
+
++
+
+∂
+∂r
+
+r
+
+∂
+∂r
+
+is the standard potential operator for axially symmetric functions.
+
+Equating the coeﬃcients of δλ in
+δH∗
+
+= δM
+
+yields
+
+(13)
+
+(14)
+
+Δ λ = −(cid:11)
+
+∗
+
+,
+
+equating the coeﬃcients of δr:
+
+Δ2 μ +
+
+[λ, λ] − 1
+
+1
+2
+
+2r2 = −(cid:11)
+√
+
+∗
+
+.
+
+f ; then
+
+We ﬁrst consider (13) and introduce ψ = lg
+λ = lg r − 2ψ
+
+holds and thus
+
+(15)
+
+Δ ψ =
+
+∗
+
+(cid:11)
+
+,
+
+1
+2
+
+Δ ψ = 4πκ(cid:11)
+
+;
+
+∗
+
+22
+
+or, when we add the factor 8πκ, measured again in the C.G.S. system, to the
+right hand side
+
+123
+
+802
+
+H. Weyl
+
+1Fig.
+.
+
+those solutions of ψ are namely permissible that are regular along the axis of
+rotation. Thus using the canonical co¨ordinate system, we have arrived at the
+ordinary P o i s s o n equation; since it is linear, the principle of superposition
+is valid for ψ = lg
+
+√
+
+f .
+
+For the inﬁnitely thin ring described by rotating the surface element dr dz
+in the canonical r-z plane about the z-axis, the solution that one ﬁnds to the
+P o i s s o n equation upon setting
+
+is
+
+∗
+
+2π(cid:11)
+
+r dr dz = m
+
+ψ = −κm
+R
+
+as is well known. R, the “distance” from the ring to the point P under
+consideration [Aufpunkt], is the arithmetic-geometric mean of the distances
+r1 and r2 of the point P to the two intersection points of the ring with the
+meridional plane containing P :
+
+1
+R
+
+=
+
+1
+2π
+
+dω
+
+r1 cos2 ω + r2 sin2 ω
+
+;
+
++π(cid:2)
+
+(cid:7)
+
+−π
+
+23
+
+123
+
+Republication of: On the theory of gravitation
+
+803
+
+all of the equations to be understood as in the Euclidean case, but referring
+to the canonical co¨ordinates! If only this ring is endowed with mass, then
+one gets
+
+(cid:7)
+
+which for large R is equal to
+
+f = e
+
+− κm
+R ,
+
+1 − κm
+R
+
+.
+
+is thus
+m proves to be the gravitational mass contained in the ring and (cid:11)
+the mass density in the canonical co¨ordinate system. — We have arrived at
+the following simple result:
+
+If the (axially symmetric) distribution of mass is known in the canonical
+co¨ordinate system and if c2ψ is its N e w t o nian potential, then according to
+
+∗
+
+E i n s t e i n’s theory we have (cid:7)
+
+f = eψ.
+
+We introduce ψ in place of λ in equation (14) as well; we have
+
+[λ, λ] =
+
++ 4[ψ, ψ].
+
+1
+r2
+
+− 4
+r
+
+∂ψ
+∂r
+
+If we then multiply (14) by 1
+
+2, add (15) or equivalently
+
+and take the unknown to be
+
+then we ﬁnd
+
+(16)
+
+Δ2 ψ +
+
+1
+r
+
+∂ψ
+∂r
+
+=
+
+∗
+
+(cid:11)
+
+1
+2
+
+(cid:7)
+
+γ = lg
+
+hf =
+
++ ψ,
+
+μ
+2
+
+Δ2 γ = −[ψ, ψ],
+
+i.e. a P o i s s o n equation in the r-z plane. In order for the line element to
+remain regular on the axis of rotation, γ must vanish there; thus the unique
+solution of the P o i s s o n equation for γ in the meridional half-plane is to be
+taken that vanishes at inﬁnity and along the axis of rotation. Incidentally,
+if we content ourselves with the approximation that results by neglecting
+quadratic terms, then we must set γ = 0, h = 1/f .—
+
+24
+
+123
+
+804
+
+H. Weyl
+
+It is very instructive to trace how the point mass ﬁts in to the general
+theory of rotationally symmetric mass distributions that has just been de-
+rived. We begin by taking the form (12) and introduce cylindrical co¨ordinates
+instead of the “orthogonal” co¨ordinates xi:
+
+x1 = r cos ϑ,
+
+x2 = r sin ϑ,
+
+x3 = z;
+
+r2 + z2. We then
+the r appearing in (12) must of course be replaced by
+carry out the following conformal transformation in the meridional half-plane
+
+(r + iz) − (a/2)2
+r + iz
+
+∗
+
+= r
+
++ iz
+
+(ϑ = ϑ
+
+);
+
+then our line element indeed assumes the canonical form and the calculation
+yields:
+
+(cid:10)(cid:9)
+
+r1+r2
+
+r1+r2
+
+− a
+2 + a
+
+2
+
+,
+
+f =
+
+hf =
+
+− a
+
+r1+r2
+
+2
+
+r1+r2
+
+2 + a
+
+r1r2
+
+(cid:10)
+
+,
+
+where the meaning of r1, r2 can be taken from Fig. 2. In the canonical space
+
+√
+
+∗
+
+Fig 2.
+
+.
+
+∗
+
+(cid:9)
+
+25
+
+123
+
+Republication of: On the theory of gravitation
+
+805
+
+with the cylindrical co¨ordinates z
+potential of uniformly distributed mass along the line segment
+
+, ψ = lg
+
+, ϑ
+
+, r
+
+∗
+
+∗
+
+∗
+
+√
+f is the N e w t o nian
+
+∗
+
+r
+
+= 0,
+
+−a ≤ z
+
+∗ ≤ +a :
+
+∗
+
+∗
+
+hf is indeed that solution to equation (16) in the entire plane r
+
+in canonical co¨ordinates, the “point mass” thus appears not as a sphere, but
+as a line segment, the meridional half-plane as the entire plane with a cut
+along the two solid half-lines, and the axis of rotation as the cut (connected
+at inﬁnity), which must be traversed as indicated in the ﬁgure by the arrows
+and numbers. The right half of the entire plane corresponds to the outside,
+the left half to the inside of the point mass. Our interpretation as asserted in
+§ 4. is conﬁrmed anew: if we were not to take into account the “inside”, then
+√
+we would not arrive at the correct solution. One can convince oneself that
+with
+lg
+a cut that vanishes along the edges of the cut. —One would have been led
+naturally to this exact solution of the equations of gravity by studying the
+ﬁeld of a line segment of length 2κm covered by the mass m. Having found
+the ﬁeld, then measuring out the “line segment” with the invariant spatial
+line element dσ2 would then have shown however, that in reality it is not a
+line segment at all, but rather the surface of a sphere: in the exact theory
+of gravity, one can only determine a posteriori to which mass distribution a
+solution that one arrived at by some ansatz corresponds.
+§ 6. The ﬁeld of a rotationally symmetric distribution of charges
+If the masses at rest carry static electric charges, then, in addition to the
+gravitational ﬁeld, an electrostatic ﬁeld arises that can be derived from the
+potential Φ = Φ(x1, x2). As in the beginning of § 5., x1 and x2 are isothermic
+co¨ordinates in the meridional half-plane. The action density for electricity is
+determined from
+
+, z
+
+L = −[ΦΦ]
+hf
+
+,
+
+√
+
+L
+
+g = −[ΦΦ]eλ = −[ΦΦ]
+
+r
+f
+
+.
+
+√
+The integral of δ(L
+g) over some region in the x1-x2-plane, provided the
+variations of δΦ, δλ vanish on the boundary of that region, is equal to the
+integral of
+
+δL∗
+
+= − [ΦΦ]
+
+δλ + 2rΔf Φ · δΦ,
+
+r
+f
+
+26
+
+123
+
+806
+
+(17)
+
+(18)
+
+(cid:4)
+
+(cid:3)
+
+(cid:6)
+
+(cid:3)
+
+Δf =
+
+1
+r
+
+∂
+∂x1
+
+r
+f
+
+∂
+∂x1
+
++
+
+∂
+∂x2
+
+r
+f
+
+∂
+∂x2
+
+(cid:6)(cid:5)
+
+.
+
+H. Weyl
+
+If we take into account not only the ﬁeld-action, but also the substance-action
+as in § 1., then, to begin with, the general action principle yields through
+variation of Φ:
+
+Δf Φ = −ε
+
+∗
+
+= −hε
+
+(ε = absolute charge density).
+
+In order to determine the gravitational ﬁeld, by setting δΦ = 0 as of now,
+we obtain the equation
+
+δH∗
+
+= δM + δL∗
+
+.
+
+It tells us again that Δ2 r = 0; thus the introduction of the canonical
+co¨ordinates is possible and we again set x1 = z, x2 = r. Eq. (17) now
+reads:
+
+(cid:4)
+
+(cid:3)
+
+(cid:6)
+
+(cid:3)
+
+(cid:6)(cid:5)
+
+1
+r
+
+∂
+∂z
+
+r
+f
+
+∂Φ
+∂z
+
++
+
+∂
+∂r
+
+r
+f
+
+∂Φ
+∂r
+
+= −ε
+
+∗
+
+.
+
+(19)
+
+Δf Φ =
+
+The arbitrary additive constant that appears in Φ will be chosen, as usual,
+so that Φ vanishes at inﬁnity.
+
+Equating the coeﬃcients of δλ in (18) results in Eq. (13) of the last section,
+with the modiﬁcation that on the right hand side, in addition to the mass
+term (cid:11)
+, the additional term 1/f [ΦΦ] arising from the likewise gravitating
+electric energy appears; thus:
+
+∗
+
+(cid:4)
+
+(cid:3)
+
+(cid:6)
+
+1
+r
+
+∂
+∂z
+
+r
+f
+
+∂f
+∂z
+
+(cid:3)
+
+(cid:6)(cid:5)
+
+∂
+∂r
+
+r
+f
+
+∂f
+∂r
+
+∗
+
+1
+f
+
+Δf f =
+
+[ΦΦ].
+(20)
+Eq. (14), § 5. can be adopted as is. We consider the expression for 1
+as a result of the equations
+
+= (cid:11)
+
++
+
++
+
+2Δf (Φ2);
+
+1
+2
+
+∂Φ2
+∂z
+
+= Φ
+
+∂Φ
+∂z
+
+,
+
+1
+2
+
+∂Φ2
+∂r
+
+= Φ
+
+∂Φ
+∂r
+
+and of the fundamental electrostatic law (19), it is equal to
+
+∗
+
+−ε
+
+Φ +
+
+[Φ, Φ].
+
+1
+f
+
+27
+
+123
+
+Republication of: On the theory of gravitation
+
+807
+
+If we then introduce
+
+Φ2 = F,
+
+∗
+
+∗
+
++ ε
+
+Φ = σ
+
+,
+
+f − 1
+2
+
+(cid:4)
+
+(cid:3)
+
+∗
+(cid:11)
+
+(cid:3)
+
+then we can replace equation (20) by
+
+(cid:6)
+
+(cid:6)(cid:5)
+
+(21)
+
+1
+r
+
+∂
+∂z
+
+r
+f
+
+∂F
+∂z
+
++
+
+∂
+∂r
+
+r
+f
+
+∂F
+∂r
+
+∗
+
+= σ
+
+.
+
+If the mass and charge are located only on an elementary ring with radius
+
+r and cross-section dr dz in canonical co¨ordinates, and if we set
+
+∗
+
+∗
+
+2πσ
+
+r dr dz = m,
+
+2πε
+
+r dr dz = e,
+
+then it follows from equations (19) and (21) that
+
+necessarily holds. Choosing the units of time appropriately leads to constant =
+1 and we have
+
+or, by introducing the C.G.S. system
+
+If one substitutes this value into (19), then one ﬁnds the linear potential law
+of standard electrostatics for the quantity
+
+(22)
+
+If one makes use of this to determine the above integral as a function of
+location in the meridional half-plane and from that Φ and f — we shall
+carry out the calculation in a moment — then one can see that m is the
+∗
+gravitational mass contained in the ring and e its charge. Consequently, σ
+and ε
+are the mass and charge density in the canonical co¨ordinate system;
+
+∗
+
+F = constant − m
+e
+
+Φ
+
+f = 1 − m
+e
+
+Φ +
+
+Φ2,
+
+1
+2
+
+f = 1 − 2mκ
+e
+
+Φ +
+
+κ
+c2 Φ2.
+
+(cid:2)
+
+1 − 2mκ
+
+dΦ
+e Φ + κ
+
+c2 Φ2 .
+
+28
+
+123
+
+808
+
+H. Weyl
+
+it is particularly noteworthy, that not (cid:11)
+the mass density.14
+
+∗
+
+∗
+
+∗
+
+∗
+
+, but σ
+
+= (cid:11)
+
++ ε
+
+Φ turns out to be
+
+∗
+
+∗
+
+∗
+
+: ε
+
+The problem can be solved more explicitly if we assume that mass and
+charge are distributed arbitrarily, but in the same fashion, i.e. that the ratio
+is a constant independent of position. We denote the Euclidean
+σ
+in the space of canonical co¨ordinates, i.e. the total
+volume integral over σ
+, the total charge, by e. The
+mass, by m and the analogous integral of ε
+aforementioned constant ratio will then be m : e. (22) is still the standard
+in the canonical space found
+electric potential of the charge distribution ε
+without taking gravity into account. We introduce (cf. § 4.) the gravitational
+of the mass m and charge e (concentrated to a point) and, favouring
+radii a, a
+(cid:2)
+the case a
+
+> a, set
+
+∗
+
+∗
+
+(cid:2)
+
+Calculating integral (22), we arrive at the following result:
+
+If the charge distribution (which is proportional to the mass distribution by
+assumption) is known in the canonical co¨ordinate system and its “elemen-
+tary” potential, i.e. the potential found according to the elementary theory
+without taking gravity into account, when multiplied by the constant factor
+
+is ϕ, then
+
+(23)
+
+Φ =
+
+e
+a(cid:2)
+
+sin ϕ
+
+cos(ϕ − ϕ0)
+
+,
+
+f =
+
+cos ϕ0
+
+cos(ϕ − ϕ0)
+
+holds exactly. In particular, the case of the ring yields
+
+= 0, then the standard radius a(cid:3)(cid:3)
+
+14If one takes (cid:5)∗
+Φ can be almost completely compensated by a negative (cid:5)∗
+
+results for the region over which
+the charge of the electron is distributed. However, it cannot be ruled out that the term
+ε∗
+; I therefore refer the reader
+to M i e’s theory. The whole point is to explain why the electron has such a small mass,
+i.e. where the pure number a/a(cid:3)
+−20 comes from! Hence, the
+true charge of the electron may be concentrated in a much smaller region, and a(cid:3)(cid:3)
+merely
+represents the “radius of impact”.
+
+of the order of magnitude 10
+
+a
+a(cid:2) = sin ϕ0.
+
+√
+
+κ
+c
+
+cos ϕ0,
+
+(cid:7)
+
+(cid:2)
+
+a
+
+cos ϕ0
+R
+
+,
+
+ϕ =
+
+29
+
+123
+
+Republication of: On the theory of gravitation
+
+809
+
+where R is the “distance” between the point under consideration P and the
+ring. For large R this means that
+
+√
+
+f is given by the asymptotic formula
+1 − a
+R
+
+,
+
+which implies that m is indeed the gravitational mass, as claimed above.
+
+With the current assumptions, we still need to calculate the second co-
+eﬃcient h from the canonical line element. To that end, we have Eq. (14),
+§ 5. at our disposal. If we treat it in the same way we did there, then for
+γ = lg
+
+hf we ﬁrst arrive at
+
+√
+
+√
+
+√
+[
+
+Δ2 γ +
+
+f ,
+f
+
+f ]
+
+=
+
+1
+2
+
+[Φ, Φ]
+
+.
+
+f
+
+If we then switch to the C.G.S. system — the factor 1
+2 on the right hand side
+is then to be replaced by κ/c2 — and use expressions (23), then the equation
+for γ takes on the simple form
+
+(24)
+
+Δ2 γ = [ϕ, ϕ].
+
+If we do not assume the proportionality of charge and mass, then the
+solution cannot be obtained by such simple means. Now the numbers for
+(cid:2)
+the electron and the atomic nucleus are such that a/a
+is very small, of the
+−17 respectively. Given this situation, the eﬀect of gravity
+order 10
+can be neglected entirely with respect to that of charge. If we specialize our
+equations accordingly, i.e. by choosing a = 0, ϕ0 = 0 then we arrive at the
+statement:
+
+−20 and 10
+
+If the (axially symmetric) distribution of charge at rest, the eﬀect of which
+is so strong as to render the eﬀect of gravity negligible in comparison, is
+known in the canonical co¨ordinate system and its elementary potential mul-
+tiplied by
+
+κ/c is ϕ then, taking gravity into consideration, we have
+
+√
+
+(cid:7)
+
+Φ =
+
+tgϕ
+
+c
+κ
+
+f =
+
+1
+
+.
+
+cos ϕ
+
+The appearance of trigonometric functions, which are so closely related
+to integers through their periodicity, is rather surprising; the principle of
+superposition no longer holds in realms in which the value of ϕ is close to
+1. In fact, the potentials of the eﬀective forces are trigonometric functions
+
+30
+
+123
+
+810
+
+H. Weyl
+
+√
+
+of quantities that obey this principle. For suﬃciently concentrated charge, it
+may happen that this charge is enclosed in surface S upon which ϕ reaches
+f become inﬁnite. Since according to (24),
+the value π/2 and hence Φ and
+hf remains ﬁnite on this “border to the outer world”, the spatial line element
+becomes dσ2 = 0; thus S turns out to be without extent as measured by the
+invariant line element. — Our result can hardly be used to understand the
+processes in the atom; after all, discrepancies between the ﬁeld of the electron
+charge e and the ﬁeld as determined by the classical theory without gravity,
+are only noticeable for distances of the order a ∼ 10
+
+−33cm!
+
+In the canonical co¨ordinate system, the spherically symmetric point mass
+on which the electricity is distributed
+
+appears as a circular disc of radius a
+as it is for a charged metal plate in standard electrostatics.
+
+(cid:2)
+
+(Received 8. August 1917)
+
+31
+
+123
+
+

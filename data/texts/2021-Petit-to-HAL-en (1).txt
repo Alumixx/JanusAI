@@ -1,0 +1,3708 @@
+	
+
+1	
+
+When	the	mathematician	David	Hilbert	tried	in			
+1916	to	build	the	first	Theory	of	Everything	
+Jean-Pierre	Petit1	
+Assisted	by	Patrick	Marquet	
+for	the	translation	from	German	
+					The	present	article	is	based	on	the	two	publications	made	by	Hilbert	in	1915	
+and	1916	([1],	[2]).	Before	entering	into	the	heart	of	the	matter,	it	is	necessary	to	
+specify	the	context	in	which	these	works	were	realized.		
+				We	are	in	1915.	At	that	time,	only	two	forces	at	work	in	the	universe	were	
+known:	the	electromagnetic	force	and	the	force	of	gravity.	The	other	two:	the	
+strong	interaction	force,	binding	the	components	of	the	atomic	nuclei,	and	the	
+weak	force,	responsible	for	beta	radioactivity,	would	not	be	discovered	until	
+much	later.		
+				The	upheaval	introduced	by	Albert	Einstein,	with	his	special	relativity,	was	
+finally	accepted,	at	least	by	some	advanced	minds,	since	it	is	the	only	one	to	
+account	for	the	experiment	initiated	by	the	American	Abraham	Michelson	in	
+1887,	which	concludes	that	the	value	of	the	speed	of	light	is	invariant,	regardless	
+of	the	reference	frame,	fixed	or	immobile,	in	which	we	operate.	No	other	credible	
+interpretation	of	the	speed	of	light	was	found.			
+				However,	this	idea	took	time	to	become	one	of	the	pillars	of	modern	physics,	so	
+much	so	that	when	the	Nobel	Prize	was	awarded	in	1921	to	its	author,	it	was	not	
+for	this	idea	but	for	his	interpretation	of	the	photoelectric	phenomenon.	Einstein	
+is	considered	the	inventor	of	the	word	"photon".		
+	
+What	is	the	discovery	of	relativity?		
+				It	is	based	on	a	new	vision	of	the	universe,	with	the	appearance	of	a	junction	
+between	two	words,	leading	to	the	compound	word	space-time.	Einstein,	thus,	
+can	be	considered	as	the	inventor	of	space-time.		
+				Previously,	space	and	time	were	dissociated	objects.	Space	is	considered	as	
+Euclidean.	That	is	to	say	that	the	theorem	of	Pythagore	in	three	dimensions,	as	if	
+we	locate	the	position	of	two	points	A	and	B	with	the	help	of	an	orthonormal	
+frame	of	reference	by	giving	them	coordinates		
+}		et		   xB, yB, zB
+the	distance	between	them	is:		
+																																																								
+1	Former	Director	of	Research	at	CNRS	(plasma	physics,	astrophysics,	cosmology)	
+jppetit1937@yahoo.fr		
+
+{
+   xA, yA, zA
+
+}	
+
+{
+
+	
+
+2	
+				Time	is	measured	differently,	with	clocks,	with	mechanical	systems.	Before	
+Einstein,	nobody	would	have	had	the	idea	to	join,	to	mix	two	"objects"	as	different	
+as	space	and	time,	to	combine	meters	and	seconds.		
+				Behind	all	this	there	is	a	geometrical	vision	of	the	cosmos.	If	we	remove	a	
+dimension	of	space,	the	z	coordinate,	for	example,	we	have	the	following	diagram:		
+	
+
+)2 + yB − yA
+
+)2 + zB − zA
+
+xB − xA
+
+  L =
+
+)2
+
+	
+
+(
+
+(
+
+(
+
+	
+
+Fig.1	:	Pre-relativist	space	
+
+					As	for	the	time	t	=	0,	it	obviously	refers,	in	1915,	to	the	instant	of	the	creation	of	
+the	universe,	"by	God".	At	that	time,	before	the	irruption	of	special	relativity	in	
+the	mode	of	science	and	physics,	the	question	"what	is	then	the	geometry	of	
+space-time?	It	cannot	be	identified	with	a	Riemanian	mathematical	space,	defined	
+by	a	metric.	Otherwise,	what	sense	can	be	given	to	the	following	formula,	defining	
+a	"length	»	s		:		
+(1)																																																									  ds2 = dx2 + dy2 + dz2 + a2dt 2		
+where	 a	would	be	a	constant,	in	the	form	of	a	velocity,	so	that	we	can	add	up	
+similar	quantities.	This	metric	is	then	devoid	of	physical	meaning.		
+} ∈!3	
+The	space	coordinates	are	obviously	real				:	
+				What	about	time?	It	would	never	occur	to	anyone	to	imagine	a	negative	time,	
+nor	would	it	occur	to	anyone	to	imagine	a	retrochronic	time	flow.	This	variable	t	
+therefore	belongs	to	the	set	  t ∈! +.		
+				Albert	Einstein's	discovery	has	however	a	very	clear	geometrical	interpretation,	
+through	the	space	invented	by	the	Russian	mathematician	Hermann	Minkowski.		
+
+{
+    x, y,z
+
+	
+
+3	
+
+	
+Fig.	1	:	Hermann	Minkowski	(1864-1909)	
+
+					It	is	him	who	imposes	this	idea	of	a	space-time	continuum,	defined	by	the	way	
+in	which	expresses	the	length,	according	to	a	tool,	qualified	by	the	French	
+mathematician	Henri	Poincaré	of	pseudo-metric:		
+  ds2 = c2dt 2 − dx2 − dy2 − dz2	
+				The	constraint,	imposed	in	1905	by	Einstein's	special	relativity,	is	expressed	in	
+a	simple	and	clear	way:	it	is	enough	to	say	that	s	is	real.	Thus	it	is	necessary	that:	
+  c2dt 2 − dx2 − dy2 − dz2 ≥ 0			ou	:				
+				This	implies	that	the	speed	is	less	than	 c	.	To	this	metric,	we	associate	its	
+signature,	in	the	form	of	the	sequence	of	its	signs:	
+ (+ − − − )	
+				When	Einstein	undertook	to	describe	gravitation	using	a	bilinear	form,	if	we	
+note	by	  x1, x2 , x3 , x4
+}		the	coordinates	of	one	of	the	points	of	the	tangent	space,	
+}	locating	it	in	space	and	x4	being	the	time	coordinate,	it	seems	logical	
+to	write,	indifferently		:		
+2 ≥ 0	
+				This	choice	appears	for	example	in	the	article	published	in	1915	by	Einstein,	
+referring	to	his	calculation	of	the	advance	of	Mercury's	perihelion	[3]	.		
+
+{
+{
+  x1, x2 , x3
+
+≤ c2	
+
+dx2 + dy2 + dz 2
+
+  ds2 = dx4
+
+v2 =
+  
+
+2 − dx2
+
+2 − dx2
+
+2 + dx4
+
+2 − dx3
+
+2 − dx3
+
+2 − dx1
+
+dt 2
+
+2	ou	  ds2 = − dx1
+	
+
+	
+
+4	
+
+Some	preliminaries	before	tackling	Hilbert’s		
+conception	of	the	geometry	of	space-time.		
+
+Fig.2	:	Einstein's	signature	choice	
+
+	
+					It	is	easy	to	see	that	this	choice	of	signature	is	ubiquitous	in	the	papers	of	all	
+authors	who	published	papers	prior	to	Hilbert's	1916	paper.	Let	us	quote	
+Schwarzschild,	Weyl,	Droste,	etc.		
+	
+				A	2D	geometric	object	can	be	described	by	its	metric.	The	metric	of	the	sphere	
+is	for	example:		
+(1)																																																						  ds2 = R2( dθ2 + sin2θdϕ2 )	
+				A	metric	that	is	totally	regular,	whatever	the	values	of	the	two	variables.	How	
+can	we	say,	on	the	basis	of	this	simple	fact,	that	it	is	a	2-sphere?	Well,	we	perform	
+}	to	the	set		
+a	change	of	coordinate	  θ = arcsin(r / R)	to	shift	from	the	set		  θ , ϕ
+}.	Then	we	get	:		
+(2)																																																					
+				We	then	notice	that	for	r	=	R	the	first	term	has	a	zero	denominator.	We	have	
+thus	created	a	coordinate	singularity.	Another	remark:	for	r	<	R	the	term	ds2	is	
+negative.	The	element	of	length	ds	becomes	pure	imaginary.	This	is	normal:	we	
+are	outside	the	sphere.	For	these	2D	metrics,	defining	objects,	surfaces,	we	see	a	
+thread	emerging.	The	metric	is	a	polynomial	of	degree	two,	a	bilinear	form,	
+expressed	with	a	certain	set	of	coordinates,	a	priori	real.	If	the	length	element	is	
+also	real,	it	is	because	our	definition	interval	has	been	judiciously	chosen.					
+
+R2 −r 2 dr 2 + r 2dϕ	
+
+{
+   r , ϕ
+
+ds2 =
+  
+
+R2
+
+{
+
+	
+
+R2
+
+ds2 =
+  
+
+{
+   r , ϕ , z
+
+R2 −r 2 dr 2 = dr 2 + dz2	
+
+5	
+Otherwise,	where	ds	is	imaginary,	we	are	simply	outside	the	surface.	Of	course,	in	
+a	formal	way,	we	can	always	consider	studying	the	behavior	of	this	object,	
+outside	this	interval	of	definition.	But	then	we	break	our	rule	of	the	game.	We	are	
+no	longer	in	the	world	of	the	real,	but	in	the	world	of	the	complex.		
+			Let's	go	back	to	the	question	we	asked.	How	do	we	know	that	(1)	and	(2)	
+represent	a	sphere?	To	do	this,	we	will	plunge	it	into	a	three-dimensional	space
+}.			The	physicist	recognizes	the	"cylindrical"	coordinates	of	a	3D	
+Euclidean	space.	In	this	imbedding	operation	the	length	element	must	be	
+expressed	in	the	same	way,	especially	on	meridian	curves	with	constant	.	We	will	
+therefore	write:		
+(2)																																																			
+				It	is	a	differential	equation	which	immediately	gives	us	the	link	between	r	and	z.	
+Its	integration	gives	us:		
+(3)																																																																  r 2 + z2 = R2		
+				This	surface	is	thus	generated	by	the	rotation	of	a	circle	centered	at	the	origin	
+of	the	coordinates,	around	the	oz	axis.	It	is	indeed	a	sphere	S2.	We	could	do	the	
+same	thing	starting	from	two	expressions	of	the	metric	of	the	torus	T2:		
+	
+(4)				  
+2 + r 2dϕ2	
+2dθ2 + (Rr + rgcosθ )2dϕ2			et				
+				In	these	expressions	we	recognize	the	radius	rg	of	the	generating	circle	of	the	
+torus,	the	radius	of	this	small	circle	whose	center	turns	around	an	axis	passing	by	
+its	plane,	along	a	circle	of	radius	 Rr.	On	the	left	we	have	opted	for	coordinates	
+}	which	are	not	a	problem.	On	the	right,	switching	to	the	representation	
+system	   r , ϕ
+}	we	have,	as	for	the	sphere,	created	coordinate	singularities	for	
+the	two	values	that	cancel	the	denominator	of	the	first	term	of	the	second	:	
+(5)																																																							r	=	Rr	+	rg					et						r	=	Rr	-	rg	
+Moreover	the	ds	is	real	only	if	this	denominator	remains	positive:		
+(6)																																																														Rr	-	rg		<		r	<	Rr	+	rg						
+otherwise	we	are	outside	the	surface.	An	imbedding	operation	in	the	three-
+dimensional	Euclidean	space	allows	to	discover	geometrical	properties	which	
+will	make	appear	the	mode	of	generation	of	the	torus.	But	nobody	is	interested	in	
+the	geometrical	properties	of	this	object,	for	example	for	 r	<	(Rr	-	 rg)		.	If	we	
+decided	to	do	so,	we	would	leave	the	mode	of	the	real	to	enter	a	strange	complex	
+geometry,	which	then	has	nothing	to	do	with	tangible	2D	objects.		
+				These	are	objects	defined	by	metrics	whose	signs	are	all	positive.	We	will	call	
+them	 elliptic	metrics.	This	is	true	for	an	unlimited	number	of	dimensions,	let's	
+consider	for	example	the	3D	object:	
+
+− r 2 + 2 r Rr + rg
+
+ds2 =
+  
+
+{
+  θ , ϕ
+
+ds2 = rg
+
+2 − Rr
+
+dr 2
+
+{
+
+	
+
+{
+
+6	
+(7)																																																					  ds2 = dr 2 + r 2( dθ2 + sin2θdϕ2 )	
+				There,	using	adequate	coordinate	changes	to	make	the	metric	of	a	Euclidean	
+space	reappear:		
+(8)																																																											  ds2 = dx2 + dy2 + dz2	
+				Thus	we	would	find	our	familiar	representation	space.	In	(7)	the	points	are	only	
+marked	in	3D	polar	coordinates.	But,	by	studying	the	object	with	the	help	of	a	
+family	of	surfaces	with	constant	 r,	fitting	together	like	Russian	dolls,	we	could	
+"read"	the	object	with	the	help	of	this	folding	method.	This	space	has	geodesics	
+which	are	the	infinite	number	of	lines	that	we	can	draw	in	this	3D	space.	Among	
+these	are	the	straight	lines	coming	from	the	origin,	which	are	perpendicular	to	
+these	surfaces	S2	which	are	spheres.	The	coordinates	  r , θ , ϕ
+}	are	 Gaussian	
+coordinates,	a	concept	to	which	Hilbert	will	refer	in	what	follows.		
+We	can	leave	the	3D	Euclidean	by	imagining	3D	spaces,	3D	hypersurfaces	defined	
+by:		
+(9)																																												  ds2 = f (r)dr 2 + r 2( dθ2 + sin2θdϕ2 )	
+and	we	would	have	the	same	folding	system	by	spheres.	We	will	consider	the	
+particular	case:		
+(10)																																				
+				For	the	moment	there	is	no	time	variable.	In	the	perspective	of	an	extension	of	
+what	we	said	about	2D	surfaces	to	3D	hypersurfaces,	defined	by	their	metric,	
+from	which	we	can	build	their	geodesic	curves,	we	will	consider	the	existence	of	
+this	hypersurface	in	its	ds	is	real,	so	when	ds2	>	0.	This	gives	a	defining	space	such	
+that	r	>	Rs	.	By	making	r	constant	we	can	still	leaf	through	the	object	with	a	family	
+of	spheres	nested	one	inside	the	other	like	Russian	dolls.	But	there	is	then	a	
+sphere	of	minimal	area	  4π Rs
+2	which	corresponds	to	the	metric:		
+2( dθ2 + sin2θdϕ2 )																																		
+(11)																																																			  ds2 = Rs
+				It	is	a	throat	sphere.	But	what	happens	in	r	=	Rs?	The	denominator	of	the	first	
+term	of	the	second	member	becomes	zero.	Is	this	sphere	singular?		No,	it	is	still	a	
+coordinate	singularity.	We	can	eliminate	it	by	changing	the	variable:		
+(12)																																																									  r = Rs ( 1+ Ln chρ )		
+The	metric	thus	becomes:		
+)	
+(13)												
+
+(
+)2 dθ2 + sin2θdϕ2
+
++ r 2( dθ2 + sin2θdϕ2 )
+
+(
+2 1+ Ln chρ
+
+th2ρdρ2 + Rs
+
+dr 2
+Rs
+r
+
+Rs > 0
+
+ds2 =
+
+1−
+
+	
+
+  
+
+ds2 = Rs
+  
+
+2 1+ Ln chρ
+Ln chρ
+
+	
+
+7	
+				There	is	then	no	limit	in	the	definition	space,	and	can	vary	from	minus	infinity	
+to	plus	infinity.	The	metric	potentials	are:	
+(14)	
+
+2 1+ Ln chρ
+Ln chρ
+
+gρρ = Rs
+(
+2 1+ Ln chρ
+(
+2 1+ Ln chρ
+
+gθθ = Rs
+gϕϕ = Rs
+  
+
+th2ρ
+)2
+)2 sin2θ
+
+	
+
+g
+
+∫∫
+
+				How	did	this	operation	make	this	metric	regular?	When			the	hyperbolic	cosine	
+is	unity	and	its	logarithm	is	then	zero.	So	the	denominator	in	the	first	term	of	the	
+second	member	is	always	zero.	Yes,	but	the	same	is	true	for	the	hyperbolic	
+tangent.	If	we	do	a	series	development	in	the	neighborhood	of	 ρ = 0	you	will	see	
+that	  
+gρρ → 2 .	This	hypersurface	is	therefore	perfectly	regular.	Its	throat	sphere	
+for	 ρ = 0	has	a	minimum	area	equal	to	  4π Rs
+2.	To	calculate	this	"2D	volume"	(a	
+surface)	you	must	do:		
+dθdϕ		
+(15)																																																														 
+				But	you	can	convince	yourself	that	the	non-contractibility	of	the	object	is	still	
+present.	All	you	have	to	do	on	this	sphere	is	to	make	 θ = π / 2		and	to	vary	ϕ	from	
+0	à	 2π		.	You	get	a	finite	perimeter	  p = 2π R s	.	What	happened?	You	are	no	
+longer	in	your	comfortable	three-dimensional	Euclidean	 representation	 space	
+(the	only	one	you	have	in	fact,	to	build	a	mental	image).		
+				This	hypersurface	is	therefore	a	three	dimensional	manifold,	equipped	with	an	
+elliptic	Riemanian	metric.	In	this	new	system	of	axes	the	determinant	is	never	
+zero.		This	means	that	this	hypersurface	is	orientable.	At	any	point	one	can	define	
+a	vector	product	and	the	"corkscrew	rule",	which	goes	with	it,	will	be	the	same	at	
+all	points.	It	is	obviously	painful	for	the	neurons	to	consider	this	kind	of	"space	
+bridge"	which	creates	a	passage	between	two	Euclidean	3D	spaces	(which	are	like	
+"one	inside	the	other").	We	can	call	it	a	"3D	diabolo".	We	will	see	later	how	the	
+mathematician	Hermann	Weyl	created	and	studied	this	object,	in	1917.		
+By	the	way,	you	can	take	these	steps	with	the	"2D	diabolo",	defined	by	the	metric:		
+(16)																																							
+With	the	same	change	of	coordinate	you	could	check	its	regularity	by	obtaining:		
+(17)																		
+
+dr 2
+Rs
+r
+
++ r 2dϕ2
+
+Rs > 0
+
+ds2 =
+
+1−
+
+th2ρdρ2 + Rs
+
+(
+2 1+ Logchρ
+
+  
+
+2 1+ Logchρ
+Logchρ
+
+ds2 = Rs
+  
+
+																																																										
+)2 dϕ2	
+
+	
+
+8	
+				But	then	there	is	a	much	more	"tangible"	way	to	apprehend	this	surface.	It	is	
+enough	to	imbed	it	in	a	three-dimensional	space	and	to	build	its	meridian	
+ ( ϕ = cst )	.	You	then	obtain,	as	for	the	sphere,	the	differential	equation:		
+(18)																																																					
+Its	solution	is	the	"lying	parabola":		
+(19)																																																															
+This	is	the	surface:		
+	
+
+= dr 2 + dz2	
+		
+
+r = Rs +
+  
+
+dr 2
+Rs
+r
+
+z2
+4Rs
+
+ds2 =
+
+1−
+
+  
+
+	
+
+Fig.3	:	The	2D	diabolo.	
+
+					We	will	find	this	pattern	in	the	analysis	made	in	1917	by	Weyl,	which	we	will	
+detail	later.		
+	
+				We	have	evoked	a	mode	of	representation	of	a	2-surface	by	imbedding	it	into	
+our	3D	Euclidean	space.	We	make	there	a	transcendent	gesture,	by	adding	an	
+additional	dimension.	But	how	a	being	living	in	a	2D	euclidean	space	would	
+represent	this	diabolo?	He	could	only	conceive	it	projected	in	his	own	world.	He	
+would	then	imagine	a	strange	border,	represented	by	a	circle.	The	objects	which	
+go	on	this	surface,	not	Euclidean,	cross	then	a	circle	of	throat.	Our	inhabitant	of	
+the	Euclidean	space	2D	can	then	imagine	that	his	mode	"has	a	place	and	a	
+reverse	».		
+
+Another	system	of	representation:	projection,	and	the	traps	of	thought.		
+
+	
+
+9	
+
+Dig.4	:	Plane	representation	of	the	2D	diabolo	
+
+					We	can	illustrate	this	relation	of	enantiomorphy	by	starting	from	an	oriented	
+triangle	drawn	on	this	plane,	"habitat	of	our	2D	observer".	The	figure	below	
+illustrates	this	inversion	of	the	orientation.		
+
+	
+
+	
+
+Fig.5	:	Reverse	orientation.		
+
+	
+
+	
+
+10	
+					This	seems	obvious	to	us	because	we	have	the	possibility	of	imbedding	these	
+two	structures	into	our	3D	Euclidean	representation	space.	But	for	the	inhabitant	
+of	this	plane	it	would	be	very	problematic	to	consider	"that	inside	this	circle	there	
+is	nothing".			
+				Let's	move	on	to	the	3D	hypersurface.	Here,	we	can	no	longer	draw,	but	the	
+idea	of	projection	into	a	3D	Euclidean	representation	space	is	the	same.	This	time,	
+the	inhabitant	of	this	space	is	you,	it	is	me.	It	will	be	very	difficult	to	consider	
+"that	inside	this	throat	sphere	there	is	nothing",	and	that	one	cannot	contract	a	
+sphere	by	giving	it	an	area	lower	than	a	finite	value,	in	a	word	that	this	3D	space	
+is	not	contractible.			
+				Through	these	2D	and	3D	examples	we	see	that	the	fact	of	using	a	Euclidean	
+space	of	representation	(the	only	mental	tool	we	have)	to	try	to	read,	to	
+"understand"	(etymologically	"to	take	together")	objects	presenting	themselves	
+in	the	form	of	sets	of	points	leads	us	to	imagine	objects	that,	in	fact,	do	not	exist.	
+This	is	particularly	striking	for	the	3D	structure	where	we	are	totally	unable,	
+mentally,	to	get	rid	of	this	idea	of	"the	inside	of	the	throat	sphere".	
+				The	word	hypersurface	always	evokes	a	possible	representation	in	 a	 higher	
+dimensional	representation	space.	We	have	an	intuitive	image	of	the	geodesics	of	a	
+surface.	It	is	much	more	difficult	to	imagine	them	in	3D.	In	general	relativity	it	is	
+often	said	that	the	space-time	is	a	hypersurface	with	four	dimensions.	Here	again,	
+the	object	is	defined	by	its	metric.	What	Einstein	and	Minkowski	have	brought	is	
+the	introduction	in	physics	of	hyperbolic	metrics,	whose	signature	makes	
+opposite	signs	cohabit.	We	can	thus	consider	a	relativistic	space-time	with	two	
+dimensions	
+	(20)																																																			  ds 2 = c2dt 2 − dx2		
+The	calculation	of	geodesics	corresponds	to	the	variational	problem:		
+= 0		
+(21)																																																										
+				We	look	for	curves	corresponding	to	paths	where	the	distance	traveled	is	
+minimal.	This	leads	us	to	solve	the	 Lagrange	 equations.	These	lead	us	to	
+representations	of	 x	and	 t	that	are	linear	as	a	function	of	the	parameter	 s.	
+Consequently	x	and	s	are	linked	by	the	linear	relation	x	=	v	s,	where	v	is	the	speed.	
+And	if	we	impose	that	the	length	s	is	real,	we	must	have:		
+dt < c		
+(22)																																																																			
+				What	do	the	theorists	do	then?	What	do	we	find	in	all	the	books,	the	courses?	
+We	find	images	like	these,	in	2D	or	3D:		
+
+Hyperbolic	surfaces	and	hypersurfaces.		
+
+v =
+ 
+
+AB∫
+
+dx
+
+  δ
+
+ds
+
+	
+
+11	
+
+	
+
+	
+
+Fig.6	:	The	light	cone.	
+				On	the	left	a	way	to	represent	this	hyperbolic	space	(t,x)	in	two	dimensions.	On	
+the	right	the	classical	"light	cone".	On	the	left	figure	the	red	curve	is	supposed	to	
+represent	a	path	corresponding	to	x	=	v	t	with	v	<	c		
+				The	black	curve	represents	a	path	with	v	>	c	.	It	is	located	in	the	"elsewhere".	
+But	in	doing	so,	what	are	we	doing?	We	are	trying	to	build	a	2D	image	of	a	
+hyperbolic	space	by	projecting	it	into	a	2D	Euclidean	space,	of	metric:		
+(23)																																																		  ds 2 = c2dt 2 + dx2	
+				We	thus	create	"something	that	does	not	exist",	in	this	case	this	greyed-out	
+surface	or	volume	"outside	the	light	cone".	This	space	does	not	exist	any	more	
+than	this	"interior	of	the	throat	sphere"	that	we	create	by	trying	to	project	the	
+structure	of	the	3D	diabolo	into	a	3D	Euclidean	space.	This	"elsewhere"	exists,	
+etymologically	speaking,	only	in	our	imagination	and	stems	from	the	image	we	
+have	created.	
+		The	conclusion	is	simple:		
+	
+					This	preamble	having	been	made,	we	will	move	on	to	the	subject	of	the	article,	
+to	the	way	Hilbert	created	his	own	representation	of	space-time	and	hence	of	the	
+universe.		
+	
+
+	
+
+	
+	
+	
+The	hectic	race,	neck	and	neck,	of	two	geniuses.		
+
+12	
+	
+					In	1915	Hilbert	was	53	years	old	and	already	had	an	impressive	record	of	
+achievement	behind	him,	which	had	made	him	known	far	beyond	the	German	
+borders.	He	loved	abstraction	and	logic	and	was	known,	among	other	things,	for	
+publishing	a	treatise	in	which	he	defined	the	axioms	underlying	Euclidean	
+geometry.		All	German	and	foreign	mathematicians	consider	him	a	"beacon"	in	
+the	discipline	and	know	that	his	name	will	go	down	in	the	history	of	mathematics.		
+He	was	not	always	interested	in	physics.	An	amusing	anecdote	is	reported	about	
+him.	When	he	was	asked	to	replace	the	mathematician	Felix	Klein,	who	every	
+year	gave	a	lecture	to	the	students	of	an	engineering	school	in	Göttingen,	he	
+began	his	lecture	with	these	words:		
+
+	
+-	It	is	said	that	mathematicians	and	engineers	have	difficulty	understanding	
+each	other.	This	is	not	true:	they	simply	have	nothing	to	do	with	each	other.		
+
+	
+
+	
+
+	
+Fig.7	:	David	Hilbert	(1862-1943),	in	1915	
+
+	
+
+	
+
+13	
+
+	
+Fig.8	:	Félix	Klein	(	1849-1925)	in	1915	
+
+engineers	 to	 invent	 planes,	 submarines	 and	 torpedoes.	 We,	 scientists,	 are	
+concerned	with	totally	different	things,	seeking	to	penetrate	the	secrets	of	
+
+					It	should	be	noted	that	at	that	time	a	similar	gap	existed	in	the	field	of	
+experimental	physics,	at	its	fundamental	level,	where	people	who	were	physicists	
+and	chemists	were	working	on	what	would	later	be	called	nuclear	physics.	
+Among	them	was	the	colorful	New	Zealand	physicist	Ernst	Rutherford.	Solicited	
+during	the	First	World	War	by	politicians,	who	asked	him	if	he	could	not	produce,	
+from	his	work,	some	new	weapon	that	would	allow	England	to	overtake	its	
+adversary,	Germany,	he	had	answered	them,	as	he	was	laying	the	foundations	of	
+the	future	nuclear	physics:		
+	
+-	 I	 leave	 it	 to	 your	 chemists	 to	 invent	 asphyxiating	 gases	 and	 to	 your	
+matter.		
+				It	was	the	meeting	with	the	young	Einstein,	twenty	years	his	junior,	that	was	
+decisive	for	Hilbert.	He	then	discovered	a	fantastic	field	of	applications	of	
+sophisticated	mathematics	to	physics,	which	from	then	on	was	no	less	
+sophisticated.	He	established	close	relations	with	Einstein,	which	could	even	be	
+described	as	friendly	and	which	were	in	any	case	based	on	a	great	mutual	esteem.	
+In	June	1915	Einstein	gave	him	a	real	lecture	on	relativity	and	Hilbert	understood	
+that	there	was	a	way	to	use	the	extremely	powerful	tool	represented	by	the	
+techniques	of	calculus	of	variations.		
+			He	began	by	applying	this	idea	to	electromagnetism,	and	then	he	became	
+interested	in	gravitation.	At	the	time,	the	telephone	did	not	exist.	It	is	thus	
+through	numerous	letters	that	these	two	communicate.	It	so	happens	that	a	
+significant	number	of	these	correspondences	have	come	down	to	us.		They	are	
+reproduced,	in	whole	or	in	part,	among	others	by	Tilman	Sauer	[3,],	who	has	
+kindly	reproduced	these	texts	in	their	English	translation.	Hilbert	communicated	
+
+	
+
+14	
+to	Einstein	his	vision	of	things:	he	thought	he	was	on	the	verge	of	unifying	the	
+only	two	forces	known	at	that	time,	the	electromagnetic	force	and	gravitation.	
+Einstein	worked	differently,	by	trial	and	error.	Great	mathematics	is	not	his	forte.	
+Very	intuitive,	being	above	all	a	fantastic	physicist,	it	is	by	trial	and	error	that	he	
+is	about	to	arrive,	after	ten	years	of	reflection,	at	what	will	be	considered	as	the	
+key	to	a	new	theory,	that	of	general	relativity.	But	Hilbert	beat	him	to	the	punch	
+on	November	20,	1915	[1].	It	was	only	five	days	later	that	Einstein	sent	to	the	
+same	journal:	the	Annals	of	the	Prussian	Academy	of	Sciences	[4]:		
+
+	
+
+Fig.9	:	Albert	Einstein's	November	25,	2015	article	entitled:	
+"The	Field	Equation	of	Gravitation."	[4]	
+				Hereafter	is	Einstein's	equation	where	he	formulates	what	both	of	them	were	
+chasing,	an	equation	whose	two	members	are	at	zero	divergence.		
+
+	
+
+	
+
+	
+
+	
+
+	
+
+15	
+
+	
+
+	
+
+	
+Fig.9	:	The	Einstein	field	equation	in	its	first	form	(25	nov.	1915).	
+	Alas,	four	days	earlier	Hilbert	wrote	in	his	article	this	equation:		
+
+Fig.10	:	The	Hilbert	field	equation	(20	nov.	1015)	[1].	
+
+		
+
+	
+
+Translation	:		
+	
+
+16	
+
+Using	the	notations	of	the	variational	derivation	with	respect	to	that	we	
+introduced	above,	the	equation	of	gravitation	takes	the	form:		
+
+⎡
+⎣
+																																			  
+
+g K
+
+⎤
+⎦µν
+
++
+
+∂ g L
+∂gµν = 0 	
+
+With,	as	first	member		
+
+= g ( Kµν − 1
+
+K gµν ) 	
+
+⎡
+⎣
+																														  
+
+g K
+
+⎤
+⎦µν
+
+2
+
+2
+
+	
+
+Rµν − 1
+  
+
+∂ g L
+  
+
+Kµν	is	the	Ricci	tensor,	which	Einstein	calls	 
+
+∂gµν = − g Tµν	
+R gµν = Tµν	
+ Λ gµν	
+
+Rµν.		 K	is	the	scalar	
+				For	Hilbert	 
+derived	from	it,	the	"Ricci	scalar",	which	is	designated	by	the	letter	R	in	Einstein.	
+Moreover,	the:		
+So	the	Hilbert	equation	is	written:		
+(24)																																																					
+				It	is	indeed	in	this	form,	which	lacks	the	term	attached	to	the	cosmological	
+constant:	
+that	Einstein	will	introduce	later,	on	Hilbert's	advice,	to	succeed	in	building	the	
+first	relativistic	cosmological	model,	describing	a	stationary	universe,	that	this	
+equation	will	enter	history.		
+				The	equation	in	Einstein's	paper,	which	is	5	days	later	than	Hilbert's,	is	just	
+another	equivalent	form,	where	we	can	recognize,	on	the	right,	"the	matter	tensor	
+ Tim»	and	«	the	Laue	scalar»	 T,	which	derives	from	it	2.	But	Hilbert	adds	a	
+construction	of	the	equation	by	variational	method	by	basing	it	on	an	action	built	
+on	what	he	calls	a	"function	of	the	universe":	
+(25)																																																												H	=	K	+	L		
+																																																								
+2	Built	from	the	matter	tensor,	in	the	same	way	that	the	Ricci	scalar	R	derives	
+from	the	Ricci	tensor	Rim.		
+
+	
+
+17	
+K	is	obviously	the	Ricci	scalar.	This	technique	will	be	remembered	in	history	as	
+the	"Einstein-Hilbert	action".		
+				In	the	course	of	their	intense	correspondence,	very	warm	relations	were	
+created	between	these	two	geniuses,	who	assumed	themselves	as	such,	perfectly	
+conscious	of	their	own	value,	and	that	of	their	partner.			
+
+	
+
+Fig.11	:	Albert	Einstein	in	1915	
+
+					Indeed,	Einstein	and	Hilbert	were	pursuing,	at	a	time	described	as	"hectic",	two	
+parallel	research	programs,	where	Einstein	focused	on	gravitation	alone,	while	
+Hilbert	dreamed	of	uniting	the	two	force	fields,	electromagnetic	and	gravitational.	
+In	[3]	you	can	read	about	these	days	of	agitation	and	doubt.	But	finally	Einstein	
+chose	to	calm	down,	writing	to	Hilbert	on	December	20,	1915	(see	this	reference,	
+page	48)		:		
+			In	all	rigor	the	conclusion	should	have	been	to	attribute	this	equation	to	both	
+authors.	But	at	that	time	Einstein's	steps	were	not	yet	completely	assured.	On	the	
+other	hand,	Hilbert's	brilliant	career	is	a	recognized	fact.	The	elder	one,	very	
+sporty,	leaves	the	premium	to	the	younger	one.		
+			However,	when	we	go	back	to	these	two	equations	there	is	a	difference.	In	
+Einstein's	equation	there	is	a	radical	  − g	where	the	determinant	of	the	metric	is	
+preceded	by	a	minus	sign,	absent	in	Hilbert.	In	what	follows	we	will	discover	why.		
+
+-	There	was	a	certain	resentment	between	us,	the	cause	of	which	I	do	not	
+wish	 to	 analyze.	 I	 have	 fought	 against	 the	 bitterness	 associated	 with	 it,	
+and	with	complete	success,	I	think	of	you	again	with	unmixed	friendship,	
+and	I	wish	you	would	think	the	same	way.			
+
+	
+
+The	cosmos	in	1915.	
+
+18	
+	
+			Before	presenting	David	Hilbert's	own	vision,	it	is	important	to	consider	what	
+scientists	knew	about	the	universe	in	1915.		
+			Spectroscopy	was	born	in	Germany,	in	Heidelberg,	in	1859	with	the	first	works	
+of	Gustav	Kirchhoff	and	Robert	Bunsen,	inventor	of	the	gas	burner	of	the	same	
+name.	It	allows	to	identify	the	nature	of	a	source	on	the	basis	of	its	spectral	
+signature.	At	the	same	time,	with	the	help	of	a	telescope	installed	on	the	roof	of	
+the	Vatican,	Father	Angelo	Secchi	pursued	the	idea	that	each	star	is	linked	to	a	
+deceased	person.	But	in	the	United	States,	in	New	England,	at	the	same	time	the	
+astronomer	Edward	Pickering	undertook	a	vast	classification	of	the	stars,	
+according	to	their	spectrum,	which	will	give	birth	to	the	Hertzprung-Russel	
+diagram	in	1900.		In	1865	the	Scottish	genius	James	Clerk	Maxwell	published	the	
+equations	that	govern	electromagnetism.			
+	
+
+	
+
+James	Clerk	Maxwell	1831-1879	
+(died	at	48	years	old)		
+
+			In	1916,	the	Englishman	Eddington	followed	very	closely	both	the	experimental	
+and	observational	advances	and	the	progress	of	the	theory.	He	participated	
+closely	in	the	movement	that	led	to	the	understanding	of	the	mechanisms	of	
+energy	production	in	the	form	of	radiation	within	stars,	which	would	exploit	the	
+understanding	of	radioactivity,	a	theory	that	would	only	become	functional	in	
+1920.		
+			Since	1840	we	know	the	velocities	of	stars	(and	beyond	their	masses),	
+evaluated	by	the	effect	discovered	by	the	Austrian	Christian	Doppler	(1803-
+1853)	and	the	French	Armand	Fizeau	(1819-1896).		
+			Thanks	to	Newton,	celestial	mechanics	had	taken	its	bearings.	Confronted	with	
+the	problem	of	the	instability	of	the	trajectories	of	the	planets,	he	believed	that,	
+
+	
+
+19	
+from	time	to	time,	it	was	God	who,	operating	behind	the	scenes,	put	them	back	
+into	their	orbits.	This	idea	was	invalidated	by	the	Frenchman	Pierre	Simon	de	
+Laplace	who	solved	the	problem	using	mathematics.	Questioned	by	Bonaparte,	
+who	asked	him	what	was	the	place	of	God	in	all	this,	he	replied	"that	he	did	not	
+need	this	hypothesis	in	his	calculations".	In	1902,	the	Englishman	James	Jeans	
+formalized	the	mechanism	of	gravitational	instability	giving	rise	to	stars	and	
+planets.		
+			The	first	elementary	particle	discovered	was	the	electron,	by	the	Englishman	
+J.J.Thomson	in	1897,	thus	at	the	immediate	dawn	of	the	century.	The	idea	results	
+from	the	interpretation	of	the	experiments	carried	out	by	the	Englishman	
+Crookes	where	a	cathode	placed	in	a	vacuum	tube	projects	its	"cathodic	
+radiation",	which	is	deflected	by	a	magnetic	field.	In	1995	the	Frenchman	Jean	
+Perrin	identified	these	"rays"	as	a	jet	of	electrons.	Very	quickly	the	ratio	mass-
+charge	and	determined	and	the	latter	is	measured	in	1911	by	the	American	
+Millikan.	
+	
+
+	
+Fig.12	:	J.J.Thomson	1856-1940	
+
+				When	in	1905	the	New	Zealander	Ernst	Rutherford	demonstrated	the	
+corpuscular	nature	of	matter	and	the	existence	of	atoms,	the	idea	of	atoms	made	
+up	of	positively	charged	nuclei	around	which	electrons	gravitate	emerged	in	
+1913.	The	first	model,	which	proposed	to	describe	the	hydrogen	atom,	had	been	
+put	forward	by	the	Dane	Niels	Bohr,	who	was	then	28	years	old.		
+			Thus,	during	the	first	half	of	the	19th	century,	all	the	tools,	both	theoretical	and	
+observational,	were	developed.	When	Hilbert	wondered	about	the	functioning	of	
+the	cosmos,	the	quantity	of	discoveries	made	in	the	few	preceding	years	was	
+mind-boggling	and	contrasted	with	the	current	stagnation	of	physics,	astronomy	
+and	astrophysics,	for	half	a	century,	where	no	new	particle	has	been	discovered,	
+where	the	"scientists",	the	"finders"	seem	to	have	been	replaced	by	an	army	of	
+"researchers",	
+their	 elders,	
+five	 hundred	
+"accumulating	the	data".		
+
+times	 more	 numerous	
+
+than	
+
+	
+
+20	
+			It	remains	that	nobody	imagines	for	a	single	second	any	evolution	of	the	cosmic	
+scene,	perceived	as	globally	homogeneous	and	stationary.	The	idea	of	a	creation	
+by	God,	at	an	"instant	zero",	is	imposed	in	everyone's	mind,	whether	explicitly	
+formulated	or	not.		
+			Let	us	add	that	the	very	beginning	of	the	discovery	of	the	deep	nature	of	the	
+force	of	gravity,	reinterpreted	in	terms	of	geodesics	of	a	very	weakly	curved	
+space,	does	not	change	the	global	nature	of	the	cosmos.		
+			In	this	year	1915,	which	was	decidedly	rich	in	scientific	events	of	the	first	
+magnitude,	we	saw	that	Einstein	had	published,	on	November	25,	1915,	a	paper	
+presenting	the	equation	of	the	gravitational	field	[4].	But,	on	the	same	day,	he	
+brings	a	second	important	contribution	in	the	form	of	a	first	linear	solution,	
+which	gives	a	precise	evaluation	of	the	advance	of	Mercury's	perihelion	[5].	The	
+linearization	is	amply	justified,	the	phenomenon,	minimal,	a	few	tens	of	seconds	
+per	century,	can	be	assimilated	to	a	disturbance.	This	result	sounds	like	a	
+thunderclap.	Not	only	the	approach	of	the	sky	phenomena	with	the	help	of	a	field	
+equation	represents	a	major	paradigmatic	leap,	but	a	solution	of	this	same	
+equation	brings	the	key	of	an	enigma	remained	until	now	without	solution.	A	
+work	which	is	confirmed	a	few	weeks	later	when	the	Austrian	Karl	Schwarzschild	
+[6]	,	who	writes	to	Einstein,	in	December	2015,	that	he	has	just	constructed	the	
+linear	solution.		
+			This	stimulated	Hilbert	who,	throughout	1916,	feverishly	prepared	the	
+publication	of	an	even	more	ambitious	work,	an	extension	of	his	November	1915	
+paper,	which	he	published	on	December	23,	1916,	on	Christmas	Eve.	At	the	same	
+time	he	announced	to	Einstein	that	he	was	about	to	synthesize	electromagnetism	
+and	gravitation,	in	short	to	create	what	can	be	considered	as	the	first	Theory	of	
+Everything.		
+	
+Hilbert's	conception	of	the	geometry	of	space-time.		
+				If	we	except	these	tiny	curvatures	linked	to	the	presence	of	masses,	space-time	
+remains	almost	flat,	almost	Euclidean.	Einstein	has,	of	course,	brought	the	idea	
+that	motion	alters	the	flow	of	time,	but	the	phenomenon	seems	to	manifest	itself	
+in	a	sensitive	way	only	for	"relativistic"	speeds,	not	negligible	in	front	of	the	
+speed	of	light,	which	do	not	yet	belong	to	the	world	of	experimental	physics	and	
+in	any	case	totally	negligible	in	Nature.		In	the	following	figure,	we	can	give	
+Hilbert's	representation	of	space-time.		
+				Of	course,	the	general	formalism	of	relativity	shows	that	the	points	of	this	space	
+can	be	located	by	an	infinite	number	of	different	coordinate	systems,	just	as	there	
+is	an	infinite	number	of	ways	to	locate	the	points	on	a	sphere,	to	map	it.	But	
+Hilbert	keeps	in	mind	that	there	must	be	a	particular	system,	better	than	the	
+others,	that	he	calls	"true".	(Eigentliche3).	The	underlying	idea	is	that	of	a	4D	
+space	layered	by	an	infinity	of	3D	hypersurfaces	stacked	on	top	of	each	other.		
+3	That	which	is	most	suitable,	most	appropriate,	most	in	tune	with	reality.	
+
+																																																								
+
+	
+
+21	
+
+	
+
+Fig.13	:	The	Hilbert	space-time,	in	its	primitive	form.		
+
+	
+				The	mass	points	obviously	follow	geodesics	of	this	time	space.	They	go	then	
+according	to	"time	lines"	(Zeitlinie).	The	drawing	shows	this	family	of	time	lines,	
+perpendicular	to	the	3D	hypersurfaces	representing	space.	Of	course,	if	there	
+were	no	force,	the	3D	hypersurfaces	of	space	would	be	3D	Euclidean	spaces,	and	
+the	trajectories	would	be	parallels,	perpendicular	to	these	parallel	folds.	And	
+nothing	would	happen.	But	the	gravity	forces	result	in	a	barely	perceptible	
+warping	of	the	3D	hypersurfaces.		Correlatively,	the	time	lines	deviate	slightly	
+from	this	family	of	parallel	lines.	This	being	the	case,	we	remain	very	close	to	a	
+Euclidean	structure.	Hilbert	therefore	starts	by	introducing	four	coordinates	
+  ( w1, w2 , w3 , w4 )	which	he	designates	as	"universal	parameters"	(Weltparameter).		
+The	first	three	coordinates	refer	to	space,	while	 w4	refers	to	time.	The	instant		
+w4	=	0	represents,	even	if	Hilbert	does	not	formulate	it	explicitly,	"the	instant	of	
+the	creation	of	the	world	by	God"	(Hilbert	comes	from	a	protestant	family,	deeply	
+religious).		
+				For	Hilbert,	time	is	of	a	different	essence	than	space.	The	elegant	way	to	
+account	for	this	is	to	imagine	that	the	coordinate	of	time	is	purely	imaginary,	
+which	he	does	by	writing,	on	the	first	page	of	his	paper	:		
+	(26)																											  w1 = x1
+
+w4 = ix4	
+
+w2 = x2
+
+w3 = x3
+
+	
+
+22	
+				Before	talking	about	length,	as	a	good	mathematician,	Hilbert	considers	a	
+bilinear	form	G	constructed	from	the	coordinates	  ( X1, X 2 , X3 , X 4 )	of	a	vector	of	
+this	four-dimensional	space	:		
+																																											
+He	does	not	specify	his	choice	concerning	this	form	until	six	pages	later:	
+	
+
+G( X1, X 2 , X3 , X 4 ) =
+  
+
+X ν			
+
+gµν Xµ
+
+∑
+
+µν
+
+	
+
+	
+
+Fig.14	:	The	bilinear	form	preferred	by	Hilbert,		
+expressed	in	a	Gaussian	coordinate	system.	
+	This	expression	can	then	be	expressed	in	its	differential	form:		
+(28)																																					
+dxν			
+				Hilbert	then	considers	a	curve	whose	points	are	marked	with	a	parameter	p	:		
+( s = 1, 2 , 3, 4 )	
+(29)																																		  xs = xs( p)
+					It	specifies	well	that	these	coordinates	the	  xs( p)		are	real.	He	then	divides	his	
+curve	into	portions	and	considers	the	expression	:		
+)	
+(30)																																															
+
+G( dx1, dx2 , dx3 , dx4 ) =
+  
+
+gµν dxµ
+
+∑
+
+µν
+
+,
+
+,
+
+,
+
+dx1
+dp
+
+dx2
+dp
+
+dx3
+dp
+
+dx4
+dp
+
+G(
+  
+
+	
+
+23	
+
+∫
+
+	
+
+G(
+
+λ =
+
+) dp
+
+dxs
+dp
+
+dxs
+dp
+
+dxs
+dp
+
+G(
+  
+
+G(
+  
+
+) < 0	
+
+) > 0	
+
+He	then	considers	two	cases.		
+Either	the	bilinear	form,	in	the	region	where	this	curve	is	spanned,	is	positive:	
+(31)																																																										
+				He	then	decided	to	call	these	portions	of	the	curve	segments	(Strecke).	He	then	
+introduced	a	first	"length	of	this	segment",	according	to:		
+(32)																																																  
+Then	he	considers	another	portion	that	he	decides	to	call	a	timeline	(Zeitlinie)	
+where	:		
+(33)																																																										
+and	the	integral	calculated	along	this	other	portion	of	the	curve	will	be	called	the	
+proper	time	of	this	timelike	curve:		
+(34)																																																										
+	
+Finally	it	introduces	curves	of	zero	length	(Nullinie),	such	as:		
+(35)																																																																	
+				Thanks	to	the	expression	(34)	Hilbert	manages	to	establish	a	link	with	
+Einstein's	relativity.	Indeed	its	bilinear	form,	in	its	differential	form,	is:		
+(36)																																											  G( dxs ) = dx1
+				It	is	therefore	negative	if	we	want	to	fit	with	the	requirements	of	relativity,	with	
+a	speed	of	light	c	=	1	:		
+(37)																																											
+				Thanks	to	the	introduction	of	the	minus	sign	under	the	root,	Hilbert	finds	the	
+proper	time	of	special	relativity:		
+(38)																																								  dτ2 = dx4
+
+) = 0.	
+
+< 1	
+
+2 + dx2
+dx4
+
+v2 =
+  
+
+2 − dx2
+
+2 + dx2
+
+2 − dx4
+
+2	
+
+2 − dx3
+
+2 + dx3
+
+2 − dx1
+
+2 + dx3
+
+2	
+
+τ =
+  
+
+G(
+  
+
+dxs
+dp
+
+dxs
+dp
+
+− G(
+
+) dp
+
+dx1
+
+∫
+
+2
+
+2
+
+24	
+				But	now	you	have	the	origin	of	the	 change	 of	 signature,	which	has	imposed	
+itself	as	a	standard	today,	in	cosmology	as	well	as	in	theoretical	physics,	without	
+finding	a	trace	of	an	article	that	justifies	it.		
+				In	the	expression	(37)	we	find	the	signature	introduced	by	Einstein	which	is	
+ ( + − − − ).	In	what	Hilbert	writes	it	has	become	 ( + + + − )	or	 ( − + + + )	and	the	
+signs	were	reversed.		
+				In	these	first	pages	of	his	article	of	1916	we	find	something	much	more	serious,	
+which	will	weigh	on	all	the	later	development	of	cosmology,	which	is	this	idea	of	
+endowing	its	four-dimensional	variety	M4	,	not	with	one	length,	but	with	two,		 λ
+and	 τ	!	He	thus	speaks	of	two	different	measuring	instruments.	The	length	will	be	
+measured	with	a	"light	clock"	(Lichtuhr).	In	other	regions	of	his	space-time,	
+where	his	G-form	is	positive,	he	will	use	a	tape	(Maβfaden	)	to	measure	his	length
+λ	.		But	he	points	out	that	if	you	try	to	measure	in	one	region	with	the	instrument	
+used	in	the	other,	it	does	not	work.	One	obtains	indeed	then	imaginary	values.		
+				He	will	not	say	more,	in	the	rest	of	the	article,	about	the	nature	of	these	
+mysterious	regions	of	his	space-time	where	the	lengths	are	measured	with	this	
+scalar.	And	this	while	he	concentrates	with	great	insistence	on	what	can	have,	
+according	to	him,	a	physical	meaning	(Physicalischer	Natur).		
+			A	little	further	on,	Hilbert	defines	the	light	cone	(Null-kegel:	the	null	cone)	
+which	is	in	   as = ( x1, x2 , x3 , x4 )	(its	vertex)	and	whose	current	point	has	
+coordinates	  ( X1, X 2 , X3 , X 4 )	satisfying	the	equation:		
+	(39)																																		  G( X1 − x1, X 2 − x2 , X3 − x3 , X 4 − x4 ) = 0	
+			And	he	specifies	that	all	the	time	lines	(timelike	curves)	resulting	from	the	point	
+ as	are	located	inside	this	four-dimensional	part	of	the	world	whose	border	is	the	
+temporal	separation	of	 as.		
+All	time	lines	(time-like	curves)	from	the	point	 as	are	located	inside	this	four-
+dimensional	part	of	the	world	whose	border	is	the	temporal	separation	of	 as.	He	
+then	focuses	on	the	problem	of	 causality	in	physics,	looking	for	a	"true"	
+coordinate	system.		
+On	this	subject	he	states	:		
+
+-	 A	 space-time	 coordinate	 system	 is	 called	 "true"	 (Eigentliches	 Raum-
+Zeitkoordinatensystem)	 if	 it	 is	 a	 system	 for	 which	 the	 following	 four	
+inequalities	are	satisfied,	with	the	additional	condition	that	the	determinant	
+is	negative.	
+
+	
+
+			
+
+	
+(40)	
+
+25	
+
+dx4
+
+	
+				He	then	adopts	the	definition	of	a	system	of	a	change	of	space-time	coordinates	
+also	called	"true",	"real"	(eigentliches).	It	is	simply	the	system	of	coordinate	
+changes	which,	to	"true"	coordinates,	satisfying	the	inequalities	(40),	makes	
+another	system	correspond,	endowed	with	the	same	properties.	The	four	
+inequalities	mean	that	at	any	point	event	as	the	associated	null	cone	excludes	the	
+line	 through	 the	 point	
+linear	 space	 x4	 =	 a4	 but	 contains	
+inside	 the	
+  ( x1 = a1 , x2 = a2 , x3 = a3 , x4 = a4 ).		
+				He	then	considers	a	line	of	universe	xs	=	xs(p).	From		(33)	it	follows	that	in	a	
+"true"	space-time	coordinate	system	we	must	have	:	
+dp ≠0	
+(41)																																																																		  
+								He	deduces	that	along	this	time	line,	the	"true"	time	coordinate	x4	must	be	
+systematically	increasing	and	cannot	decrease.	Because	a	time	line	remains	a	
+timeline	under	any	transformation	of	the	coordinates,	two	point	events	located	
+on	the	same	time	line	can	never	correspond	to	the	same	value	 x4	of	the	time	
+coordinate,	through	a	"true"	space-time	transformation.	This	means	that	these	
+two	events	cannot	be	simultaneous.		
+				We	thus	see	that	the	cause	and	effect	relations	underlying	the	principle	of	
+causality	(Kausalitätsprinzips),	do	not	lead	to	internal	contradictions	in	this	new	
+physics,	if	we	take	into	account	the	inequalities	(31)	as	part	of	our	basic	
+equations,	which	leads	us	to	confine	ourselves	in	"true"	space-time	coordinates.		
+			Hilbert	now	introduces	the	important	point	of	his	presentation:	the	use	of	
+coordinates	that	he	decides	to	call	Gaussian,	because	they	represent	a	
+generalization	of	the	polar	coordinate	system	used	by	Gauss	in	his	theory	of	
+surfaces.	Figure	(13)	illustrates	the	concept,	which	is	a	foliation,	where	these	
+surfaces	correspond	to	a	constant	value	of	x4.	The	family	of	orthogonal	curves	are	
+geodesics	along	which	this	coordinate	runs.	If	we	opt	for	a	coordinate	system	
+where	  
+g44 = − 1	then	the	 x4	coordinate	is	identified	with	the	 proper	 time	.	The	
+Gaussian	coordinates	then	satisfy	the	relation	(32)	and	correspond	to:	
+(42)																															 
+g44 = −1	4	
+			Mais,	à	ce	stade,	le	choix	de	Hilbert	reste	arbitraire.	Il	avoue	échouer	à	le	faire	
+émerger	sur	la	base	de	considérations	purement	mathématiques.		
+																																																								
+g44 = 0	
+4	In	the	translation	published	by	Springer	an	error	has	crept	in.	We	find	 
+
+g24 = 0,
+
+g34 = 0,
+
+g14 = 0,
+
+	
+
+	
+
+2 + g11 dx1
+
+2 − g11 dx1
+
+2 + g22 dx2
+
+2 − g22 dx2
+
+2 + g44 dx33
+
+2 − g44 dx33
+
+G(dxs) = g44 dx4
+
+G(dxs) = − g44 dx4
+
+How	Hilbert	justifies	his	choice.		
+
+2		
+2		
+
+26	
+				When	a	Riemann	space	is	put	in	its	diagonalized	form	(absence	of	crossed	
+terms)	the	sequence	of	signs	attached	to	the	different	terms	represents	its	
+signature.		It	is	an	invariant	by	change	of	coordinates	(real).	Thus	the	Einstein	
+space-time	corresponds	to	the	bilinear	form:		
+(43)																								  
+and	his	signature	is	 ( + − − − ).	In	contrast,	in	his	vision	of	space-time	the	form	
+retained	by	Hilbert	is		:		
+(45)																								  
+and	his	signature	is			 ( − + + + ).	Einstein's	choice	is	based	on	the	identification	of	
+the	fourth	coordinate	through	  x4 = ct	.	Thus,	the	simple	fact	of	imposing	that	the	
+shape	is	positive	translates	this	physical	property	which	is	the	limitation	of	the	
+speed	to	the	speed	 c,	that	of	light	(corresponding	to	a	zero	value	of	the	line	
+element).		The	proper	time	is	then	calculated	by	:	
+dp		
+	(46)																																																				
+Hilbert's	choice	is	less	clear	and	forces	him	to	situate	the	real,	time-like	
+trajectories,	in	a	representation	such	that	G	<	0.	He	must	then	introduce	a	change	
+of	sign,	and	opt	for	the	relatio:		
+(47)																																																				
+				To	this	we	can	add	the	idea,	singular,	of	endowing	space	with	a	second	
+measurement	tool,	giving	a	length,	whose	physical	nature	is	not	even	touched	
+upon	in	the	article,	nor	in	the	following	ones,	and	which	will	give	birth	to	the	
+myth	of	"spacelike	curves".		
+It	is	then	necessary	to	understand	why	Hilbert	made	this	choice.		
+	
+				For	Einstein,	this	fourth	coordinate	is	"of	the	same	nature"	as	the	other	three.	
+Let's	take	our	familiar	three-dimensional	Euclidean	space.	On	the	surface	of	the	
+Earth	we	will	speak	for	example	of	the	"length	x",	"width	y"	and	"height	z"	of	an	
+object,	knowing	that	these	denominations	are	arbitrary.	We	can	make	an	element	
+of	the	group	of	rotations	act	on	this	object	by	totally	modifying	this	scheme,	while	
+we	do	not	alter	the	object	itself.	The	distances	between	its	different	points	remain	
+unchanged.	These	rotations	are	part	of	the	isometry	group	of	this	3D	Euclidean	
+
+The	explanation	of	the	choice	of	an	inverted	signature	by	Hilbert.		
+
+dp	
+
+τ =
+  
+
+τ =
+  
+
+dxs
+dp
+
+dxs
+dp
+
+− G(
+
+G(
+
+∫
+
+∫
+
+)
+
+)
+
+	
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎝
+
+G =
+
+		
+
+1
+0
+0 −1
+0
+0
+0
+0
+
+27	
+space.	Instead	of	rotating	the	object	we	can	decide	to	observe	it	from	a	different	
+angle.		
+				The	objects	of	the	space-time	are	movements,	characterized	by	the	energy	 E	
+and	the	impulse	 p	which	are	associated	to	them	5.	The	isometry	group	of	
+Minkowski	space,	the	Poincaré	group,	has	a	subgroup,	the	Lorentz	group,	which	
+happens	to	be	the	equivalent	of	the	group	of	rotations	and	symmetries,	in	the	
+Euclid	group.		The	latter	operates	rotations	and	symmetries	that	preserve	lengths	
+(isometry:	same	length).	The	Lorentz	group	"operates	rotations	in	four	
+dimensions"	and	preserves	a	length,	that	of	the	impulse-energy	quadrivector.		
+				These	who	see	things	in	this	way,	through	this	"group-view"	are	then	tempted	
+to	imagine	that	this	 x4	dimension	is	real	and	is	measured	in	...	meters.	What	
+creates	these	"hyperbolic	rotations"	then	comes	from	the	axiomatic	construction	
+of	the	Lorentz	group:		
+(48)								 LT G L = G					with	the	Gramm	matrix					
+				This	aspect	is	present	in	Einstein's	thought,	but	not	in	Hilbert's,	who	is	
+immediately	attached	to	the	reassuring	Gaussian	coordinates.	Certainly,	the	mass	
+points	do	not	remain	immobile.	But	in	a	world	which	remains	very	far	from	
+relativistic	physics,	we	are	very	close	to	the	Euclidean	vision	evoked	in	figure	13.	
+So	what	is	real	for	Hilbert	are	the	space	coordinates			:	
+			These	are	tangible	for	him.	Time	is	another	matter.	Nobody	can	take	a	second	
+between	thumb	and	forefinger.	So,	Hilbert	concludes,	this	one	must	be	of	another	
+nature,	imaginary.	Finally,	another	point,	the	universe	has	a	beginning,	in			x4	=	0.		
+Hilbert	is	protestant.	One	can	imagine	him	paraphrasing	Genesis:		
+-  God	 first	 created	 a	 four-dimensional	 space	 whose	 points	 were	
+																																																			  ( w1, w2 , w3 , w4 )	
+	
+				Before	the	play	began,	the	author	had	to	set	the	stage	before	the	curtain	rose.		
+All	the	objects	were	put	in	their	place,	the	stars	and	their	procession	of	planets,	
+ready	to	launch	themselves	into	their	orbits.		The	distances	that	separated	them	
+being	predefined	and	real.		
+																																																								
+5	The	mathematician	J.M.Souriau	added	the	spin,	as	an	object	of	pure	geometry.	
+
+  ( x1, x2 , x3 )	
+
+marked	by	the	coordinates		
+
+0
+0
+0
+−1
+
+0
+0
+−1
+0
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎠
+
+ 
+
+	
+
+28	
+
+-	 Then	 God	 decided	 that	 the	 fourth	 coordinate	 should	 be	 purely	
+imaginary,	according	to	  w4 = i x4 	and	that	was	the	first	day,	the	first	
+moment.	 	 The	 Earth	 then	 began	 its	 movement	 around	 the	 Sun,	 the	
+same	 as	 the	 other	 stars	 of	 the	 cosmos.	 Time	 appeared,	 irreversible	
+and	implacable.		
+
+			We	read	this	interpretation	of	Hilbert's	thought	through	these	lines	of	his	article.	
+Let	us	quote	him:		
+
+Due	 to	 the	 nature	 of	 the	 three-dimensional	 space	 in	 x4	 =	 0	 ,	 as	 we	 have	
+posed	it	a	priori	(Vorausgesestzen:	"posed	first,	before")	the	quadratic	form	
+of	the	variables	X1	,		X2	,		X2		described	by	the	right-hand	side	of	(see	Figure	
+14)	is	necessarily	positive	and	defined.	
+
+					Therefore	the	first	three	inequalities	(40	in	this	paper)	are	satisfied,	as	
+well	as	the	fourth,	and	the	Gaussian	coordinate	system	appears	to	be	the	
+true	(eigentliches:	proper)	coordinate	system	of	spacetime.		
+
+			What	creates	events?	Hilbert	takes	up	the	idea	launched	a	century	earlier	by	
+Laplace.	He	writes:		
+
+  qs
+
+gµν
+
+-	 If	 in	 the	 present	 time	 we	 have	 the	 data	 concerning	 the	 physical	
+quantities	 and	 their	 first	 derivatives	 with	 respect	 to	 time,	 their	 future	
+values	can	always	be	determined:	the	laws	of	physics,	and	this	without	
+exception,	 the	 laws	 of	 physics,	 have	 been	 expressed	 to	 date	 through	 a	
+system	 of	 differential	 equations	 in	 which	 the	 number	 of	 unknown	
+functions	is	equal	to	the	number	of	these	equations.		
+
+			Hilbert	lists	these	data.	These	are	the	ten	potentials	  
+(µ,ν = 1,2,3)	which	
+emerge	from	the	symmetrical	tensor	of	format	(4,4),	representing	the	matter.	To	
+this	 we	 must	 add,	 at	 any	 point,	 the	 components	 of	 the	 quadrivector	
+(s = 1,2,3,4)of	electromagnetism.	This	makes	a	total	of	fourteen	potentials.	
+But,	when	counting	the	equations,	including	those	found	in	1840	by	the	genius	
+Maxwell,	Hilbert	counts	only	ten,	independent	of	each	other.		
+				Under	such	conditions,	as	is	the	case	in	this	new	physics	of	general	relativity,	he	
+concludes	that	it	is	not	possible,	from	the	knowledge	of	physical	quantities	at	the	
+present	moment,	to	determine	future	values	in	a	unique	way.	Faced	with	this	
+impossibility	of	anchoring	a	logic	of	physics	on	a	causality	based	on	concrete	
+elements,	Hilbert	falls	back	on	the	opinion	that	"to	follow	the	essence	of	this	new	
+of	physics	that	has	a	physical	meaning".		And	he	adds	"In	physics,	we	must	consider	
+physical	meaning".	And,	without	any	real	mathematical	argumentation,	since	he	
+adds	"it	is	not	mathematical	problems	that	are	important	to	discuss	here".	And	he	
+
+principle	of	relativity	one	must	require	the	invariance,	separately,	of	each	postulate	
+
+everything	that	is	not	invariant	by	change	of	the	system	of	coordinates,	as	devoid	of	
+
+	
+
+		
+
+(µ ≠ ν)
+
+g11 = 1,
+
+g33 = 1,
+
+g22 = 1,
+
+g44 = −1
+
+gµν = 0
+  
+
+29	
+concludes:	("Instead	I	will	limit	myself	to	formulate	considerations	concerning	this	
+particular	problem")6.		He	concludes	that	his	choice;		
+	(49)																								
+presents	itself,	for	him,	as	the	only	alternative	representing	"the	only	regular	
+solution	of	the	basic	equations	of	physics",	and	that	it	represents,	according	to	
+him,	"a	 solution,	 and	 even	 the	 only	 regular	 solution	 of	 the	 basic	 equations	 of	
+physics".			
+	
+Conclusion	on	this	first	part	of	Hilbert's	1916	article.		
+				After	the	Second	World	War,	at	the	turn	of	the	seventies,	a	change	of	signature	
+was	de	facto	ratified,	through	the	scientific	publications	that	followed,	without	an	
+article	published	in	a	physics	journal	justifying	the	reason.	In	the	same	way	these	
+chimeras,	like	"the	light	cone",	"outside	of	which"	is	a	part	of	space	qualified	as	
+"elsewhere",	populated	with	"spacelike	curves",	appeared,	whereas	this	vision	
+comes	from	the	projection	of	a	reality	associated	with	a	hyperbolic	geometry,	in	a	
+space	of	representation	endowed	with	an	elliptical	geometry,	an	act	of	which	we	
+have	shown	that	it	generated	objects	exempt	from	reality.		
+				We	had	to	go	back	to	Hilbert's	1916	paper	to	trace	the	source	of	these	drifts.	In	
+fact,	a	"standard"	vision	of	cosmology,	populated	by	presentations	that	were	
+considered	as	acquired,	not	contestable,	was	built	on	the	basis	of	later	texts,	
+written	in	English,	and	therefore	more	easily	assimilated	in	this	language	that	
+had	become	commonplace	on	a	planetary	scale	after	the	war.	The	authors,	like	
+medieval	copyists,	copied	one	another	without	any	being	able	to	return	to	the	
+fundamental	texts	if	they	did	not	master	German.		
+				To	this	we	must	add	that	if	they	had	simply	made	the	effort	to	go	back	to	the	
+original	version,	by	simply	looking	at	equation	(14)	of	this	article	they	would	
+have	been	able	to	see	immediately	that	their	interpretation	was	in	total	
+contradiction	with	the	result	of	Schwarzschild.		
+			It	is	significant	that	Hilbert's	articles	of	1915-1916	were	only	translated	into	
+English	in	2007	([1],	[2]),	i.e.	ninety	years	after	they	were	published.	Worse	still,	
+these	translations	remain	today,	like	many	others,	under	copyright,	as	part	of	a	
+work	gathering	elements	of	this	kind	made	available	to	scientists	for	a	price	
+(October	2021)	of	733	dollars	for	the	printed	version	and	608	dollars	for	the	
+6	In	the	English	translation	by	Springer,	2007,	we	read			:	«	is	a	mathematical	
+problem	not	to	be	discussed	here.	Instead	I	confine	myself	to	presenting	thoughts	
+concerning	this	problem	in	particular	».	Le	texte	allemand	est	:	«sind	ist	
+mathematisch	hier	nicht	allgemein	zu	erörternde	aufgade.	Ich	beschränke	mich		
+vielmehr	darauf,	einige	besondere	diese	Aufgabe	betreffende	überlegungen	
+anzustellen	».	
+
+																																																								
+
+	
+
+30	
+digital	version!	We	had	to	pay	58	dollars	to	buy	the	two	pdf's	corresponding	to	
+the	two	articles	that	serve	as	a	basis	for	this	paper,	while	they	are	working	tools	
+for	researchers.	If	readers	want	to	consult	these	translations,	they	will	have	to	
+pay	the	same	amount.		Today,	there	are	no	scientists,	presenting	themselves	as	
+experts	in	cosmology,	who	have	read	the	fundamental	texts,	or	even	know	of	the	
+existence	of	a	mass	of	capital	texts,	some	of	which	have	not	yet	been	translated	
+from	German.		
+				In	what	follows	we	will	highlight	a	glaring	and	indisputable	error	of	David	
+Hilbert,	the	immense	impact	of	which	will	be	measured	in	all	the	development	of	
+cosmology	that	followed.		
+				This	error	was	first	identified	by	the	Canadian	L.S.	Abrams	[7]	in	1989,	after	
+examining	the	original	text,	published	in	German	by	Karl	Schwarzschild	in	
+January	1916	[6],	and	comparing	it	with	Hilbert's	article	of	December	1916,	also	
+in	German.		
+				In	1999	a	similar	approach	was	taken	by	A.Loinger	[8],	always	starting	from	
+German	texts,	which	he	reads	fluently.		
+				En	1999	l'italien	S.Antoci,	et	l'allemand	D.E	Liebscher	reprennent	cette	
+question	[9]	et	installent	sur	arXiv	les	traductions	faites	par	Liebscher,	enfin	
+disponibles	en	langue	anglaise,	83	ans	après	leur	publication	en	allemand,	alors	
+que	ces	textes	sont	considérés	comme	la	base	même	de	la	théorie	des	trous	noirs.			
+			En	2001	ils	montrent	que	l'erreur	relève	d'une	mauvaise	compréhension	de	la	
+topologie	de	la	solution	trouvée	par	Schwarzschild	[10]	.	
+			En	2003	S.Antoci	réitère	en	publiant	un	article	très	documenté	:	David	Hilbert	
+and	the	origin	of	the	Schwarzschild	Solution	[11].		
+Plus	récemment,	en	2021,	le	Russe	Anatoli	Vankov	souligne	ce	point	en	concluant	
+"Strictly	talking	the	Black	hole	does	not	come	from	the	general	relativity	theory"	
+[12].	
+	
+				Let's	go	back	to	the	chronology.	On	November	20,	1916	Hilbert	published	his	
+first	paper	entitled	"Foundations	of	Physics"	[1].	Five	days	later	Einstein	
+published	his	own	version	of	the	field	equation	[4]	as	well	as	the	first	solution	of	
+the	linearized	version	of	the	equation,	providing	the	first	explanation	of	the	
+advance	of	Mercury's	perihelion	[5].	On	December	22,	1915	the	mathematician	
+Karl	Schwarzschild,	who	avidly	follows	everything	published	in	the	section	of	the	
+Prussian	 Academy's	 annals	 devoted	 to	 mathematics,	 writes	 to	 Einstein	
+announcing	that	he	has	just	constructed	the	non-linear	solution	of	his	equation,	
+which	confirms	his	calculation.	He	announces	to	him	that	he	will	publish	an	
+article	in	the	same	review.	The	text	of	this	letter	is	available	at	the	reference	[3].:		
+
+Hilbert's	error.		
+
+	
+
+31	
+
+	
+
+Fig.14	:	Schwarzschild's	letter	to	Einstein	of	December	22,	1916	
+
+  R , θ , ϕ 	are	not	the	coordinates	"in	use	7	»,	but	it	turns	out	that	this	
+is	the	best	way	to	express	the	metric.		
+
+	Translation	of	the	underlined	passage:		
+				We	see	that	the	genuine	radial	variable	r	is	clearly	visible.	Schwarzschild	
+introduces	an	"intermediate	variable"	(Hilfsgröβe)	R	,	according	to	the	relation:		
+)1/3	,	
+that	Hilbert	will	confuse	with	a	radial	variable.		
+				In	his	defense,	we	can	say	that	in	1916	the	mathematical	tool	"differential	
+geometry"	was	not	completely	mastered.	In	order	to	point	out	the	error	with	
+precision,	we	will	resume	Hilbert's	calculation,	point	by	point.		
+				He	begins	by	listing	the	hypotheses	which	are	at	the	basis	of	this	solution,	
+which	he	chooses	to	describe	using	what	is	for	him	a	touchstone,	Gaussian	
+coordinates,	with:		
+	
+(50)																																					  
+			The	metric	potentials	are	independent	of	time	 x4	.	To	this	he	adds	that	they	
+present	a	central	symmetry	(zentrisch	symmeytisch),	with	respect	to	the	origin	of	
+																																																								
+7	Erlauten	:	authorized,	permitted,	standard,	in	use.	
+
+R= r 3 + α3
+  
+
+g24 = 0,
+
+g34 = 0,
+
+g14 = 0,
+
+(
+
+	
+
+32	
+the	coordinates.	An	origin	that	he	assimilated	to	the	value	R	=	0	and	not	r	=	0.	In	a	
+more	modern	way	one	would	speak	of	an	invariance	under	the	action	of	the	
+group	SO(3)	and	even	O(3).	Indeed,	a	geometric	object	which	has	this	property	
+does	not	automatically	have	a	"center".	A	torus	has	an	"axial"	symmetry,	but	this	
+axis	only	appears	when	we	plunge	it	into		  !3	.	Formally,	this	axis	does	not	exist.	
+Similarly,	returning	to	the	metric	of	the	"3D	diabolo",	this	object	does	not	have	a	
+"central	symmetry",	because	this	"center"	only	appears	when	we	project	it	into	a	
+representation	space	which	is	the	three-dimensional	Euclidean	space.	It	is	
+invariant	by	action	of	the	group	O(3).			
+Hilbert	then	writes:		
+(51)	
+
+In	agreement	with	Schwarzschild,	if	we	pose:		
+
+	
+
+w1 = r cosϑ
+w2 = r sinϑ cosϕ
+w3 = r sinϑsinϕ
+w4 = l
+  
+
+.		
+
+dp
+dp
+ 
+
+dt
+dp
+ 
+
+	mais	la	dérivée		
+
+				We	find	a	character	l	which	translates	the	vision	that	Hilbert	has	of	the	universe.	
+These	are	four	coordinates	which	are,	let	us	refer	to	the	beginning	of	his	article,	
+universal	parameters	(weltparameter)	  ( w1, w2 , w3 , w4 )	.	What	is	extraordinary	is	
+that	Hilbert	will	conduct	his	calculation	in	this	coordinate	system.	The	time	t	will	
+appear	only	at	the	very	end	"when	all	the	cosmic	mechanics	will	start	working".			
+In	the	Lagrange	equations,	which	will	follow,	he	does	not	manipulate	the	
+derivative	
+This	is	a	way	for	him	to	affirm	that	this	metric	"exists",	that	this	geometry	"pre-
+exists"	before	God	decides	that	l	=	it,	before	starting	the	time	race.	For	Hilbert	the	
+solar	system	exists,	as	it	is,	since	the	creation	of	the	universe	by	God,	since	time	
+zero.			
+			Another	remark,	in	this	following	you	will	find	  g	and	not	  − g	.	So	the	
+determinant	of	the	metric	is	positive.	We	have	to	remember	that	for	Hilbert	the	
+curvature	phenomena	are	exceptional	accidents,	almost	imperceptible	folds	in	a	
+practically	Euclidean	universe.	The	universe	associated	to	these	coordinates	
+  ( w1, w2 , w3, w4 )	is	therefore	Euclidean.	Does	it	have	a	length?	No,	not	yet.	It	is	
+only	when	this	length	(these	lengths	in	the	plural,	if	we	stick	to	Hilbert's	text,	
+which	defines	two	of	them)	that	the	space	becomes	pseudo-Euclidean	and	that	
+the	determinant	becomes	negative.	Before	God	gives	it	a	physical	character,	it	is	
+an	object	of	pure	mathematics.	We	could	call	it	"metaphysical"..		
+	
+
+	
+
+in	 a	
+
+33	
+->	When	Einstein	produced	his	field	equation,	he	created	a	tool	with	which	
+to	interpret	physical	phenomena,	accessible	to	astronomy.	He	is	thus	
+four-dimensional	 world	   ( x1, x2 , x3 , t ) ,	 concret.	 The	
+already	
+determinant	of	its	metric	is	therefore	negative	and	it	must	handle	a	  − g.		
+->	When	Hilbert	produces	his	own	version	of	the	field	equation	he	is	in	
+another	universe,	which	he	wants	to	be	more	abstract,	more	fundamental,	
+the	universe	of	  ( w1, w2 , w3 , w4 ).	You	now	have	an	explanation	for	the	
+presence	of	the	  g	in	its	field	equation,	constructed	and	written	in	the	
+system	  ( w1, w2 , w3 , w4 ).		
+					It	is	extremely	regrettable	that	I	cannot	provide	a	link	to	the	English	translation	
+of	Hilbert's	1915	article	[1],	which	is	still	under	this	scandalous	copyright,	even	
+though	it	is	a	key	element	of	the	world's	scientific	culture.	So	it	will	cost	you	29	
+dollars	if	you	want	to	check	that	the	coordinates	  ( x1, x2 , x3 , x4 )	are	totally	absent	
+.	This	is	true	for	all	terms,	the	
+from	this	article	where	all	derivatives	are	in	
+Christoffels	coefficients,	the	terms	of	the	Ricci	tensor.		
+										So	the	Hilbert	field	equation	refers	to	a	space	  ( w1, w2 , w3 , w4 )	
+				End	of	this	digression.	In	his	1916	paper	Hilbert	puts	the	bilinear	form	in	the	
+form		:		
+(52)																												  F(r)dr 2 + G(r)( dϑ2 + sin2ϑ dϕ2 ) + H(r) dl 2	
+A	further	step	has	been	taken.	Hilbert	is	then	in	a	reference	frame:		
+(53)																																		   w1 = x1, w2 = x2 , w3 = x3 , w4 =l1
+}		
+			The	passage	in	polar	coordinates	implies	that	its	variable	r	is	defined,	as	with	
+Schwarzschild	[10]8;		by	:		
+2 ≥ 0		
+(54)																																																		  r =
+			Then,	thanks	to	the	change	of	variable,	implicit,	it	is	passed	in	polar	coordinates:		
+ϕ = arccos x1		
+(54)																																					  ϑ = arcsin x3
+				We	are	thus	in	the	coordinates	(51).	From	(52)	it	is	clear	that	Hilbert	expresses	
+his	bilinear	form	in	the	system:		
+(55)																																																						  ( r , ϑ, ϕ, l )	
+																																																								
+8	What	you	can	check	in	the	English	translation,	not	covered	by	a	copyright	
+
+∂
+∂ws
+ 
+
+x1
+2 + x2
+
+2 + x3
+
+{
+
+34	
+
+				Other	form	of	the	system	  ( w1, w2 , w3 , w4 ).		
+There	is	no	question	of	time.		
+He	then	poses	:		
+(56)																																																										  r * = G(r)		
+			It	is	then	that	he	will	commit	a	major	error,	reported	since	1989	in		
+([7],	[8],	[9],	[10],	[11],	[12])	.		
+He	writes:		
+
+	
+
+	
+
+	
+
+Fig.15	:	Hilbert's	error	
+
+	Translation	:		-	We	are	therefore,	in	the	same	way,	entitled	to	interpret	  ( r*, ϑ, ϕ, l )	
+as	polar	spatial	coordinates.	If	we	introduce	 r	instead	of	 r*	in	(our	
+expression	of	the	bilinear	form)	and	omit	the	*	sign	again,	we	obtain	
+the	expression:		
+(57)																													  M(r)dr 2 + r 2( dϑ2 + sin2ϑ dϕ2 ) + W (r)dl 2		
+				This	bilinear	form	is	a	solution	of	the	Einstein	field	equation	without	a	second	
+member	which	then	reduces	to	canceling	the	components	of	the	Ricci	tensor,	
+which	Hilbert	denotes	by	 
+Kµν	.	These	are	calculated	on	the	basis	of	Christoffels	
+symbols.	Note	that	Hilbert,	as	in	his	1915	paper,	does	all	his	calculations	with	the	
+
+	
+
+35	
+variables	   ( r , ϑ, ϕ, l )	i.e.	"universal"-	coordinates	»	   ( w1, w2 , w3 , w4 )	.	
+	His	
+calculation	of	the	geodesics	is	then	based	on	the	variation	of	the	action,	
+constructed	with	these	same	variables		:		
+	
+dp = 0	
+(58)											
+	
+Hs	corresponding	Lagrange	equations	are:	
+(59)	
+
+δ M dr
+∫
+dp
+  
+
++ W dl
+dp
+
++r 2 dϑ
+dp
+
++ r 2sin2ϑ
+
+dϕ
+dp
+
+⎞
+⎟⎟
+⎠
+
+⎛
+⎜⎜
+⎝
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+2
+
+2
+
+2
+
+2
+
+	
+
+	The	type	'	in	these	equations,	and	in	what	follows,	refers	to	a	derivation	with	
+respect	to	r.		The	differential	equations	of	the	geodesic	curves	are:	
+	
+(60)																																						
+dp = 0	
+	We	notice	that	we	are	always	in	these	"universal"	coordinates	  ( w1, w2 , w3 , w4 ).	
+Hilbert	then	computes	non-zero	Christofells	symbols:		
+(61)																																																	
+
+d 2ws
+dp2 +
+  
+
+dwµ
+dp
+
+dwν
+
+∑
+
+⎧
+⎨
+⎩
+
+⎫
+⎬
+⎭
+
+µν
+
+µ
+
+s
+
+ν
+
+	
+
+	
+
+	This	allows	him	to	calculate	the	components	of	the	Ricci	tensor	9		
+(62)	
+
+36	
+
+	
+The	calculation	of	the	Ricci	scalar	follows:	
+9	In	the	English	translation,	under	copyright,	a	sign	error	in	the	equation	
+giving	K22	where	the	translator	has	put	a	plus	sign	instead	of	a	minus	sign	in	
+the	second	term	of	the	right	member.		
+
+																																																								
+
+	
+
+	(63)	
+
+37	
+
+	
+
+	
+
+r
+
+	
+
+M =
+
+r - m
+
+			
+
+W = w 2 r - m
+r 
+
+				Hilbert	places	himself	in	a	coordinate	system	where	the	determinant	is	positive,	
+which	allows	him	to	write:		
+(64)																																																						   g = M W r 2sinϑ		
+Then	:	
+(65)		
+He	poses	
+(64)																																							  
+			->		The	letter	w	does	not	designate	the	modulus	of	the	vector	  ( w1, w2 , w3 , w4 )	
+				It	is	an	unknown	function.	By	making	the	change	(64)	Hilbert	will	now	have	
+two	unknown	functions	to	determine:	m	and	w	.	Why	such	a	change?	It	is	inspired	
+by	the	equation	in	Schwarzschild's	paper	and	these	functions	m	and	w	will	turn	
+out	to	be	simple	constants.		
+			But,	in	passing,	we	discover	the	origin	of	lette	m	used	to	describe	what	has	the	
+dimension	of	a	length!		
+It	comes	from:		
+(65)	
+				Hilbert	constructed	his	action	on	the	basis	of	a	function	H	=	K	+	L	,	where	K	is	
+the	Ricci	scalar.	But	in	a	portion	of	the	universe	which	is	empty,	L	=	0	.	So	the	
+variation	reduces	to:		
+	(66)																																																				  δ
+
+	
+dr dϑ dϕ dl = 0		
+
+K g
+
+∫∫
+
+∫∫
+
+	
+
+∫
+
+38	
+  ( r , ϑ, ϕ, l ).	These	geodesics	
+				Note	that	we	are	still	in	the	coordinate	system	
+"exist",	but	"as	God	has	not	yet	created	time",	the	planets	cannot	launch	
+themselves	on	these	geodesic-orbits.	This	equation	is	equivalent	to:		
+dr = 0	
+(67)																																																																	  δ wm'
+And	the	Lagrange	equations	then	give:		
+		
+(68)																																																																							
+The	solution	constructed	by	David	Hilbert	is	then	written:		
+(69)																					
+dl 2	
+And,	posing		l	=	i	t		(i.e.	w4	=	i	x4	,	according	to	Hilbert's	notation).		
+dt 2	
+(70)															
+				In	the	original	text	we	find	a	typographical	error	of	Hilbert	who	leaves	his	
+"universal	variable"	l	in	the	first	member	10.			
+
+G ( dr , dϑ , dϕ , dl ) =
+  
+
+G ( dr , dϑ , dϕ , dt ) =
+  
+
+dr 2 + r 2sin2ϑdϕ2 −
+
+dr 2 + r 2sin2ϑdϕ2 +
+
+m' = 0
+w' = 0
+  
+
+r − α
+
+r − α
+
+r − α
+
+r − α
+
+r
+
+r
+
+r
+
+r
+
+	
+
+																																																								
+
+Fig.16	:	A	typographical	error	by	Hilbert.	
+
+At	this	point,	Hilbert	is	convinced	that	he	has	found	Schwarzchild's	result.	He	
+writes:		
+10			Error	also	in	the	translation	published	by	Springer	(still	under	copyright):	the	
+letter	l	must	be	replaced	by	the	letter	t	in	both	members.	Considering	the	number	
+of	obvious	errors	in	this	translation,	available	since	2007,	that	is	to	say,	at	the	
+time	of	writing,	since	14	years,	it	is	doubtful	that	this	translation	has	been	read	by	
+people	mastering	general	relativity.			
+
+	
+
+39	
+
+-	Für	l	=	it	die	gesuchte	Maβbestimmung	in	der	von	Schwarzschild	zuerst	
+gefunden	Gestalt		
+
+Translation	:		-	For	l	=	it	we	find	the	metric	first	constructed	by	Schwarzchild.		
+It	is	this	error	that	was	very	quickly	propagated	through	successive	erroneous	
+interpretations.		
+	
+The	true	Schwarzschild	metric.		
+				Had	Schwarzschild	survived	that	spring	of	1916,	when	he	died	of	an	infection	
+contracted	on	the	Russian	front,	he	would	have	immediately	brought	these	
+commentators	of	his	work	back	to	the	original	form	of	it,	where	the	nature	of	R	is	
+well	specified	and	corresponds	only	to	an	intermediate	quantity	(Hilfsgröβe)	and	
+in	no	case	to	the	radial	distance	r.		
+	
+
+	
+
+Fig.17	:	Schwarzschild's	true	metric,	1916	
+
+					What	is	extraordinary	is	that	this	confusion	between	R	and	r,	which	is	the	basis	
+of	Hilbert's	error,	has	been	a	standard	for	more	than	a	century,	even	though	it	
+was	obvious	in	Schwarzschild's	result	in	equation	(14),	even	to	a	non-German	
+speaker.	The	only	possible	explanation	was	that	this	misinterpretation	spread,	
+like	the	misinterpretation	of	a	founding	text	by	people	behaving	like	medieval	
+copyists.		
+				In	fact,	the	generations	of	theorists	that	followed	were	satisfied	by	the	fact	that	
+this	solution	fulfilled	for	them	a	consideration	that	could	be	considered	as	
+fundamental:	to	identify	with	the	Lorentz	metric	at	infinity.	In	his	article	of	2003	
+[11],	the	Italian	mathematician	Salvatore	Antoci	analyzes	with	the	greatest	
+precision	the	mechanism	of	construction,	by	Hilbert,	of	this	error,	putting	in	
+perspective	his	calculation	and	that	of	Schwarzschild.	In	another	paper	[10]	,	
+Antoci	and	the	German	D.E.	Liebscher	show	that	Hilbert's	error	translates	an	
+erroneous	interpretation	of	the	topology	of	the	object.		
+
+	
+
+40	
+			To	this	we	must	add	that	for	43	years	the	only	application	that	came	to	mind	
+concerned	the	linearized	form	of	this	metric.	And	this	is	the	reason	why	
+Schwarzschild	himself	does	not	provide	the	expression	of	its	nonlinear	solution	
+in	his	coordinates.	In	his	paper,	Schwarzschild	takes	the	case	of	the	Sun,	where	
+the	large	α	is	then	3	km	,	noting:			
+
+	
+
+	
+
+Fig.18	:	Schwarzschild	justifies	his	limitation	to	the	linearized	solution.	
+	Translation:		
+
+1/3	
+
+-	Nevertheless,	Mr.	Einstein's	approach	to	the	calculation	of	the	geodesics	is	
+compatible	with	the	exact	solution,	if	we	express	it	using	r	instead	of:		
+
+(
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+)1/3
+
+= r 1+ α3
+r 3
+
+R = r 3 + α3
+  
+
+Thus	 R	 is	 practically	 equal	 to	 r	 and	 Mr.	 Einstein's	 approach	 is	 sufficient,	
+
+since	α/r	 is	 close	 to	 twice	 the	 square	 of	 the	 planetary	 speed	 (taking	 the	
+speed	 of	 light	 as	 the	 unit).	 For	 Mercury,	 the	 order	 of	 magnitude	 is	10-12.	
+beyond	the	needs	of	current	practice.		
+						If	Schwarzschild	had	finalized	his	work,	which	he	did	not	find	necessary,	which	
+he	would	have	done	by	expressing	the	metric	in	the	coordinates		  ( r , ϑ, ϕ, t )	this	
+would	have	led	him	to	write	the	true	solution,	which	is	obtained	immediately	by	
+performing	the	change	of	coordinate,	explicitly	mentioned	by	Hilbert.		An	
+operation	which	would	have	made	appear	this	true	metric	solution	of	the	
+Einstein	equation	without	second	member.		
+			
+
+	(71)		
+
+	
+
+  
+
+ds2 =
+
+(r 3 + Rs
+
+3)1/3 − Rs
+
+(r 3 + Rs
+
+3)1/3
+
+c2dt 2 −
+
+r 4
+
+(r 3 + Rs
+
+3) (r 3 + Rs
+⎡⎣
+
+3)1/3 − Rs
+
+⎤⎦
+
+dr 2 − (r 3 + Rs
+
+3)2/3( dθ2 +sin2θdϕ2)
+
+r ≥ 0
+
+			!	Obviously,	if	we	perform	a	series	development	according	to	the	small	
+parameter	Rs/r	we	find	the	linearized	solution	of	Einstein.		
+In	a	footnote	on	page	70	of	his	manuscript,	Hilbert	signs	his	obvious	
+misunderstanding	of	the	relation	(number	14	without	Schwarzschild's	original	
+paper;	which	accompanies	his	expression	of	its	metric	solution,	according	to	the	
+intermediate	quantity	R	:				
+(72)																																																							  
+	
+
+)1/3	
+
+R = r 3 + α3
+
+(
+
+	
+
+Fig.18	:	Hilbert’s	footnote	
+
+since	there	are	simpler	ways	to	achieve	this.	
+
+In	my	opinion	I	will	not	recommend,	as	Schwarzschild	does,	this	
+
+Translation	:		- 
+transformation	bringing	the	point	r	=	α	to	the	origin,	especially	
+				Thus,	while	the	expression	according	to	the	true	radial	coordinate	r	is	
+consistent	with	the	approach	followed	by	Schwarzschild,	the	fact	of	presenting	
+the	result	according	to	this	intermediate	quantity	R	is	only	an	artifice	used	by	
+Schwarzschild	to	stick	more	simply	with	the	linearized	solution	of	Einstein,	
+Hilbert	reverses	the	reasoning	by	considering	R	as	the	radial	variable	and	r	as	an	
+artifice	of	calculation	to	get	rid	of	the	singularity	in	what	he	believes	to	be	the	
+origin	of	the	coordinates,	in	 R	=	0	,	whereas,	according	to	(72)	this	point	
+corresponds	to	the	pure	imaginary	value:		
+(73)																																																				
+
+R3 − α3
+
+)1/3	
+
+(
+
+r = i
+  
+
+	
+
+2
+
+→ 0
+
+		
+
+3r
+Rs
+
+grr !
+
+2sin2θ
+
+gθθ → Rs
+
+gϕϕ → Rs
+
+gt t → 0
+   
+
+42	
+In	doing	so,	Hilbert	does	not	realize	that	he	has	left	the	domain	of	definition	of	the	
+manifoold	M4.		
+						An	error	that	will	lead	to	floods	of	ink	and	the	production	of	theorems	
+(Penrose,	Hawking)	referring	to	a	"central	singularity",	existing	only	in	the	
+imagination	of	scientists	who	have	studied	this	question,	thus	taking	for	a	reality	
+what	belongs,	mathematically	speaking,	to	an	imaginary	space	domain.		
+				Coming	back	to	this	expression	(71),	by	performing	a	series	development	we	
+obtain	the	values	of	the	metric	potentials	when	r	tends	to	zero:	
+(74)															
+				At	r	=	0	the	Kretschman	scalar	is	nonzero,	so	the	sphere	is	not	a	singular	locus.	
+On	the	other	hand	the	determinant	is	zero,	which	indicates	that	the	hypersurface	
+is	locally	inorientable.	It	is	doubly	so,	since	the	two	potentials	and	are	zero.	If	the	
+sphere	is	a	gorge	sphere,	it	reflects	a	double	inversion	of	space	and	time,	a	PT-
+symmetry,	as	established	in	.	[13]].		If	we	consider	this	nullity	of	the	determinant	
+as	a	singular	region"	we	can	then	conclude	that	the	hypersurface	is	not	a	4-
+manifold	but	a	4-orbifold.		
+				Recall,	as	Hilbert	notes,	that	these	coordinates	are	Gaussian.	We	can	therefore	
+consider	a	layering	of	the	hypersurface	where	the	variable	with	t	as	parameter.	
+This	corresponds	for	these	three-dimensional	hypersurfaces	to:		
+	
+(75)											
+3)2/3( dθ2 +sin2θdϕ2)	
+	These	are	themselves	subject	to	a	new	layering	at	r	=	Cst	which	gives	a	family	of	
+nested	spheres	like	Russian	dolls	having	the	minimal	area,	corresponding	to	r	=	0:	
+(75)																																																															  4π Rs
+The	4D	hypersurface	is	therefore	non-contractile.	It	is	then	:	
+-	Either	a	bordered	manifold.	
+-	Either	a	geometrical	object	translating	a	space-time	bridge	between	two	
+Minkowski	spaces,	realized	through	a	sphere	of	throat	area	  4π Rs
+We	can	produce	a	finer	description	of	the	object	by	introducing	a	variable	
+through	the	change	of	variable	[13].		:		
+(77)																																																					  r = Rs( 1+ Ln chρ )		
+The	metric	then	becomes:		
+
+dr 2 + (r 3 + Rs
+
+3) (r 3 + Rs
+⎡⎣
+
+dσ2 =
+  
+
+2.		
+
+3)1/3 − Rs
+
+(r 3 + Rs
+
+2	
+
+r 4
+
+⎤⎦
+
+	
+
+	
+
+ds2 =
+  
+
+43	
+
+)
+
+c2dt 2 − Rs
+
+th2ρdρ2 − Rs
+
+(
+2 1+ Logchρ
+
+Logchρ
+1+ Logchρ
+
+2 1+ Logchρ
+Logchρ
+
+(
+)2 dθ2 + sin2θdϕ2
+
+gtt	but	now	  
+
+(78)	
+				The	determinant	is	always	zero	because	of	the	term		 
+gρρ → 2.		
+			This	explains	why	theorists	have	massively	embarked	on	this	erroneous	
+interpretation	of	Schwarzschild's	solution,	which	is	repeated	on	several	points.		
+->	The	fact	that	the	non-linear	aspects	of	the	solution	were	taken	into	
+account	only	in	1939,	after	the	publication	of	a	key	article	[14]	by	R.	
+Oppenheimer,	without	references,	which	we	will	mention	in	the	following.		
+->	The	fact,	highly	probable,	that	no	cosmologist,	starting	from	this	
+"founding	article"	had	the	curiosity	to	take	a	look	at	the	original	article,	in	
+German,	in	which	case	the	equation	(14)	of	this	paper	should	have	attracted	
+their	attention.		
+->	The	fact	that	this	curiosity	came	up	against	the	fact	that	these	German	
+texts	were	only	available,	until	the	advent	of	the	internet	and	pdf	files,	in	
+books	that	were	generally	expensive.		
+->	The	fact	that	Schwarzschild's	article	was	only	translated	into	English	in	
+1999	[6],	i.e.	86	years	after	its	publication	in	its	original	form.		
+->	The	fact	that	the	translations	of	the	documents	that	are	essential	to	clear	
+up	this	matter	were	only	translated	into	English	in	2007	([1],	[2]),	that	is	91	
+years	after	their	publication,	and	are	still	covered	by	a	scandalous	copyright.		
+->	In	1960	the	publication	by	M.D.Kruskal	[15]	of	the	construction	of	an	
+analytical	extension	allowing	to	"penetrate	inside	the	Schwarzschild	
+sphere"	gives	the	illusion	of	a	progress	in	the	understanding	of	this	
+geometry,	with	that	it	does	not	change	anything	to	the	case.	This	extension,	
+which	refers	to	an	imaginary	r-value,	is	outside	the	definition	space	of	the	
+geometric	object.	In	the	same	way	one	could	build	an	analytical	extension	
+allowing	to	study	a	torus	inside	its	throat	circle.		
+->	To	this	we	must	add,	for	more	than	half	a	century,	the	illusory	conviction	
+of	a	progress	in	the	understanding	of	this	solution,	whereas	the	generalized	
+contagion	of	this	flagrant	error	has	made	thousands	of	publications	fall	into	
+what	is	nothing	but	science	fiction.		
+	
+				In	1939	the	hypothesis	of	the	existence	of	neutron	stars	was	already	circulating,	
+although	their	existence	was	only	confirmed	in	1967	by	the	discovery	of	pulsars.	
+In	their	article	[14]	J.R.	Oppenheimer	and	H.Snyder	explicitly	mention	them.	In	
+
+The	birth	act	of	the	black	hole	model.		
+
+	
+
+44	
+fact,	it	all	started	with	an	article	published	a	few	months	earlier	by	R.C.	Tolman,	
+then	working	at	Caltech	[16].		
+	
+
+Fig.19		:	Richard	Tolman	and	Albert	Einstein		
+
+	We	find	this	expression	of	the	metric:	
+	
+
+Fig.20	:	Tolmans’	line	element.		
+
+	
+
+This	description	still	places	us	in	Gaussian	coordinates.	We	can	therefore	leaf	
+through	the	space-time	by	using	t	as	a	parameter,	translating	a	simple	temporal	
+
+	
+
+	
+
+	
+
+45	
+translation	and	by	considering	the	three-dimensional	hypersurfaces	described	by	
+the	metric:		
+(79)																																						  dσ2 = eλ(r ) dr 2 + r 2dθ2 + r 2sin2θdϕ2		
+				Hypersurfaces	that	can	be	foded	through	a	family	of	area	spheres	  4πr 2	.	Can	
+this	area	be	brought	to	zero?	If	so,	this	will	mean	that	the	geometric	object	
+associated	with	this	portion	of	space-time	is	contractible.		
+				Moreover,	by	introducing	the	two	functions	  e ν(r )and	  e λ(r )	strictly	positive,	if	we	
+are	in	a	mode	governed	by	reals,	Tolman	rejects	a	possible	modification	of	the	
+hyperbolic	signature	which,	for	him,	is	(	-	-	-	+	);	or	(	+	-	-	-)	according	to	the	order	
+of	the	terms.	
+	
+
+	
+
+	
+Fig.21	:	Tolman's	expression	after	Oppenheimer	and	Snyder.		
+
+					This	work	is	in	fact	a	resumption	of	the	second	article	[17]	published	by	
+Karl	Schwarzschild,	just	before	his	death,	where	he	entirely	constructs	the	
+geometry	inside	a	sphere	filled	with	an	incompressible	matter,	of	constant	
+density.	R.Oppenheimer	and	H.Snyder	quote	him	in	the	article	they	published	
+in	1939	[14]	and	start	again	from	the	same	form	of	the	metric,	this	time	to	
+take	up	the	question	of	geometry	outside	the	mass.	The	question	of	the	end	of	
+life	of	stars	having	exhausted	their	fusion	fuel	is	at	the	center	of	the	article.	
+The	accentuation	of	the	gravitational	redshift	is	evoked,	as	the	contraction	of	
+the	star	increases.	The	free	fall	time	of	a	test	particle	is	calculated	in	two	ways.	
+The	authors	show	that	if	we	rely	on	the	proper	time,	this	time	is	finite,	and	
+very	short.	On	the	other	hand,	if	we	measure	this	time	by	using	the	coordinate	
+t	,	which	is	supposed	to	refer	to	the	proper	time	of	an	observer	located	at	a	
+great	distance	from	the	object,	this	time	becomes	infinite.		
+					This	remark	signs	the	birth	of	the	Black	Hole	model,	according	to	the	
+following	reasoning:		
+	
+
+	
+
+46	
+
+->	A	star,	no	longer	able	to	counterbalance	the	force	of	gravity	with	the	
+help	 of	 pressure,	 undergoes	 a	 free	 fall	 towards	 its	 center,	 which	
+nothing	can	counteract.		
+	
+->	Without	undertaking	a	description	of	this	phenomenon,	we	rely	on	
+the	 data	 emanating	 from	 the	 metric	 describing	 the	 exterior	 of	 this	
+object,	which	we	will	call	"Schwarzschild's	exterior	metric".	
+->	 By	 calculating	 the	 free	 fall	 times	 of	 test-mass,	 if	 we	 find	 that	 it	
+reaches	 the	 Schwarzschild	 sphere	 in	 a	 finite	 time,	 this	 time	 becomes	
+infinite	by	an	observer	located	at	a	great	distance.	For	the	latter,	this	
+implosion	phenomenon	seems	to	be	like	a	frozen.		
+	
+->	At	the	same	time,	the	radiation	emitted	by	the	matter	undergoes	a	
+gravitational	redshift	effect	which	becomes	infinite	when	this	signal	is	
+emitted	from	a	point	located	on	the	Schwarzschild	sphere	of	radius	Rs.	
+Thus,	 a	 fortiori,	 no	 radiation	 can	 cross	 this	 sphere	 which	 will	 be	
+qualified	as	cosmological	horizon.		
+
+->	I	do	not	feel	obliged	to	describe	a	phenomenon	which	for	me,	
+an	outside	observer,	lasts	an	infinite	time.	
+
+				An	outside,	distant	observer	will	then	perceive	this	object	as	a	perfectly	black	
+disk,	which	will	be	called	a	black	hole.		
+				This	reasoning	allows	us	to	free	ourselves	from	the	description	of	the	collapse	
+phenomenon	by	starting	from	the	reasoning:		
+	
+					This	also	allows	us	to	reduce	the	description	of	the	geometry	of	the	object	to	
+the	only	geometry	referring	to	the	outside	of	the	horizon	sphere,	thus	to	a	
+solution	of	Einstein's	equation	that	refers	to	a	portion	of	the	empty	universe.	
+Assuming	that	one	can	start	from	the	solution	of	figure	21	to	calculate	the	free	fall	
+time	of	a	witness	particle	up	to	the	point	r	=	0	,	supposed	to	be	the	"center"	of	the	
+object,	one	obtains	a	finite	and	brief	value.	We	deduce,	although	we	cannot	carry	
+out	any	observation	on	what	happens	and	has	happened	inside	the	horizon	
+sphere,	that	all	the	matter	is	concentrated	in	a	central	singularity.		
+					This	reasoning	is	based	on	the	assumption	that	the	considered	expression	of	
+the	solution	has	a	physical	meaning.	However,	as	mentioned	above,	this	is	not	the	
+result	found	by	Schwarschild	in	1916	but	the	result	of	the	error	committed	by	
+Hilbert,	by	confusing	the	intermediate	quantity		  
+)1/3	with	the	radial	
+distance	r.	Considering	to	exploit	a	calculation	referring	to	a	value	 r	<	 ro	
+(	Schwarzschild	radius)	one	is	simply	outside	the	four-dimensional	hypersurface,	
+which	can	be	seen	immediately	from	the	fact	that	the	exponential	functions	
+become	negative.	Now	:		
+	(80)																																										 e λ = − n → λ = Ln n + iπ	
+	
+
+R = r 3 + α3
+
+(
+
+	
+
+The	emergence	of	surrealism	in	physics.		
+
+47	
+				A	complex	function	appears,	itself	a	function	of	a	complex	value	of	the	variables.	
+Thus	the	supposed	"interior"	of	such	an	object	exists	only	in	the	imagination	of	
+theorists,	in	the	strict	sense,	since	they	decide	to	consider	as	real	what	is	
+imaginary.	
+		
+	The	years	have	passed.	No	theorist	cares	to	return	to	the	founding	texts,	nor	to	
+consider	another	model.	Here	are	the	arguments	that	appear	in	all	the	books	and	
+manuals	intended	for	the	training	of	students.	As	an	example,	we	reproduce	
+elements	of	section	6.8	of	chapter	6	of	the	book	of	reference	[18].	The	choice	of	
+the	form	of	the	metric	introduced	by	Tolman	[16]	is	then	simply	presented	as	
+"reasonable".			
+When	r	becomes	less	than	2I	(the	Schwarzschild	radius),	the	signs	of	the	
+components	of	the	metric	(potential	metric	referring	to	time)	  
+g11(	metric	
+g11becomes	
+potential	referring	to	the	assumed	radial	coordinate)	change,		  
+positive	ans	  
+goo	negative.	This	forces	us	to	reconsider	the	physical	meaning	(...)	
+given	to	the	variables	t	and	r	as	a	system	of	marking	time	and	radius,	inside	the	
+Schwarzschild	sphere.	In	fact	a	line	of	universe	which	is	described	according	to	a	
+t	,	that	is	to	say	with	  (r , θ , ϕ ) 	constants,		corresponds		to	  ds2 < 0	.	It’s	a	spacelike	
+curve,	while	a	line	of	universe	for	which	  ds2 > 0	is	a	timelike	curve.		
+					And	there	you	come	across	the	consequence	of	another	of	Hilbert's	errors,	that	
+of	endowing	space-time	with	two	systems	of	measurement,	the	second	referring	
+to	portions	of	curves	that	he	calls	"segments"	and	for	which	the	sign	of	the	
+bilinear	form	is	inverted.		
+	
+
+Fig.22	:	The	second	"length"	measured	on	Hilbert	«	segments	».		
+
+	
+
+	
+
+	
+
+48	
+Translation	:		-	A	portion	of	a	curve	where	(the	form	G	is	positive)	will	be	called	a	
+segment,	while	(the	expression	giving	the	scalar	 λ	)	is	the	length	of	
+this	segment.		
+This	vision	of	things	is	in	total	contradiction	with	the	one	of	Einstein,	K.	
+Schwarzschild,	J.	Droste,	H.Weyl,	and	all	the	scientist-mathematicians	who	at	that	
+time	contributed	to	the	construction	of	the	general	relativity.	In	the	article	of	
+Schwarzschild,	for	example,	we	read:		
+	
+
+Fig.23	:	How	Schwarzschild	defines	length,	essentially	positive.		
+
+	
+
+	Translation	:		
+
+-	 Consider	 a	 point	 that	 moves	 according	 to	 (the	 expressions	 in	 the	
+figure),	 where	 the	 variables	 are	 functions	 of	 the	 x	 variables	
+(coordinates	of	points	of	the	space-time	hypersurface)	and	where	the	
+values	of	x	must	be	considered	as	constant	at	the	beginning	and	at	
+the	end	of	the	path	followed	for	the	integration.	Clearly,	the	point	will	
+have	 to	 move	 according	 to	 a	 geodesic	 of	 the	 variety	 (manifold)	
+characterized	by	the	element	ds.			
+
+					How	did	Hilbert	come	to	endow	space-time	with	two	lengths?	Perhaps	he	had	in	
+mind	to	create	a	metaphysics,	with	respect	to	the	events	occurring	inside	(...)	the	
+Schwarzschild	sphere.		
+		Let's	go	back	to	the	text	of	the	reference	[18].	
+	
+-	Let	us	take	again	the	text	of	the	reference	It	would	thus	appear	
+
+natural	 (...)	 to	 treat	 r	 as	 a	 time	 coordinate	 and	 t	 as	 a	 radial	
+
+	
+
+49	
+
+coordinate	 (...).	 We	 interpret	 ds/c	 as	 the	 proper	 time	 along	 the	
+lines	of	universe	traveled	by	a	particle.	Then,	as	we	have	shown	in	
+section	 4.2,	 this	 definition	 only	 has	 a	 physical	 meaning	 if	 .	
+Similarly,	 a	 massive	 particle	 cannot	 maintain	 itself	 on	 a	
+trajectory	with	constant	r	inside	the	Schwarzschild	sphere,	which	
+
+would	imply	that	  ds2 < 0 		along	this	line	of	universe.	
+
+									Let	us	quote	the	"standard"	derivation	of	the	so-called	Schwarzschild	solution,	
+e.g.,	by	quoting	the	corresponding	pages	of	chapter	6	of	the	1975	book	of	
+reference	[18].	Page	186	equation	(6.4)	represents	the	most	general	form	of	the	
+metric,	in	the	absence	of	cross	terms.	The	minus	sign	shows	that	the	authors	
+intend,	with	A	,	B	,	C	;	D	positive,	to	introduce	the	signature	of	the	metric	right	
+away:		
+	
+
+	
+					But	in	the	last	lines	we	read	"nevertheless,	it	is	possible	to	obtain	an	additional	
+simplification	by	a	judicious	choice	of	radial	coordinate"	
+
+Fig.24	:		Excerpt	from	page	186	of	the	reference	[18]	
+
+	
+
+	
+
+50	
+
+Fig.	25	:	Excerpt	from	page	187	of	the	referenc	[18].	
+
+	
+	
+						And	there	we	see,	reproduced	identically,	the	reasoning	held	by	Hilbert	in	his	
+1916	paper,	which	shows	that	he	is	at	the	origin	of	this	distortion	of	the	true	
+Schwarzschild	solution.	In	equation	(6.9)	the	authors	take	up	the	introduction,	in	
+1939,	of	two	exponentials	by	Tolman	[16]	and	Oppenheimer	[14].	They	even	
+specify	 that	 these	 functions	 are	 "intrinsically	 positive"	 and	 that	 "these	
+coordinates	have	a	clear	physical	meaning",	whereas,	precisely,	attributing	a	
+physical	meaning	to	coordinates	is	the	first	source	of	error.		
+	Six	pages	later,	on	page	193,	we	find	the	result	of	their	calculation:		
+		
+
+	
+
+51	
+
+	
+		
+
+	
+Fig.	25	:	Extrait	de	la	page	193	de	la	référence	[18].	
+
+2m
+r
+
+e λ = − 1−
+  
+
++ iπ	
+
+The	artifact	of	the	Kruskal	coordinates.	
+
+2m
+r → λ = Ln 1−
+
+					If	these	exponential	functions	are	"intrinsically	positive",	then	the	variable	r	
+cannot	be	less	than	2m,	otherwise	the	quantities	and	would	correspond	to:		
+	(81)																											
+					
+						In	spite	of	this	obvious	contradiction	D.Kruskal	has	constructed	an	analytical	
+extension,	so	as	to	be	able	to	build	a	description	of	this	"interior	of	the	
+Schwarzschild	sphere	(	0	<	r	<	2m	).	The	reader	will	find	the	"standard"	
+construction	of	these	new	coordinates	u	and	v	,	as	well	as	the	resulting	metric,	in	
+pages	226	to	230	of	the	reference	[18].	We	will	only	reproduce	the	equations	
+themselves.	First,	we	have	the	two	equations	identified	by	(6.91)	in	the	book:		
+	(82)																																																
+2m − 1 	
+	(83)																																																					
+	
+						
+				From	these	relations	it	is	established	by	introducing	the	intermediate	quantity	
+η	,	equation	(6.200)	of	reference	[18]	shows	that:		
+	(84)																																																								  F (ξ) = η2 e 2ηξ
+	
+			We	then	read,	in	the	equations	(6.201)	:	
+						
+
+ξ = r + 2m Ln
+  
+
+F (ξ) =
+  
+
+1− 2m / r
+
+f 2
+
+r
+
+	
+
+	(85)		
+	
+
+	Then:		
+	
+
+52	
+
+2mη
+
+u =
+
+⎛
+⎝⎜
+
+r
+2m − 1
+
+⎞
+⎠⎟
+
+e ηr ch ηx°
+
+2mη
+
+v =
+
+⎛
+⎝⎜
+
+r
+2m − 1
+
+⎞
+⎠⎟
+
+e ηr sh ηx°
+
+	
+
+2m
+η2 r
+
+⎛
+⎝⎜
+
+r
+2m − 1
+
+⎞
+⎠⎟
+
+f 2 =
+
+  
+
+1− 4mη
+
+e −2ηr
+
+Fig.	26	:	From	page	229	of	the	reference	[18].		
+
+	
+	
+	
+	The	scalar	m	being	real, η	is	therefore	also	real.		
+	This	leads	to	the	final	expression	of	the	new	variables,	in	two	configurations.			
+	(86)				r	>	2m		:			
+	
+
+u =
+
+v =
+
+r
+
+2m − 1 e r /4m ch x°
+
+4m
+
+r
+
+2m − 1 e r /4m sh x°
+
+4m
+
+	
+
+32m3
+
+r
+
+f 2 =
+
+  
+
+e r /2m
+
+u2 − v2 =
+  
+
+⎛
+⎝⎜
+
+r
+2m − 1
+
+⎞
+⎠⎟ e r/2m
+
+v
+
+u = th x°
+
+4m
+
+		
+
+		(87)																																
+
+	
+
+	And	
+	(88)					r	<	2m	:	
+
+53	
+
+u =
+
+1 −
+
+r
+2m
+
+e r /4m sh x°
+4m
+
+v =
+
+1 −
+
+r
+2m
+
+e r /4m ch x°
+4m
+
+	
+
+	
+
+  
+
+r
+
+u
+
+⎛
+⎝⎜
+
+4m
+
+f 2 =
+
+32m3
+
+e r /2m
+
+r
+2m
+
+⎞
+⎠⎟ e r/2m
+
+v2 − u2 = 1−
+
+v = th x°
+
+With	:		
+(89)																														  
+		
+	The	metric	then	takes	the	form,	equation	(6.187)	of	the	reference	[18]:		
+	(90)																								  ds2 = f 2(u,v)( dv2 − du2 ) − r 2( dθ2 + sin2θdϕ2 )		
+						Although	this	metric	is	not	identified	with	the	Lorentz	metric	at	infinity,	when	
+we	form	ds	=	0	we	have	,	see	equation	(6.188)	of	reference	[18]	:		
+	(91)																																																													
+	Here	is	the	famous	Kruskal	diagram:		
+	
+
+= 1		
+
+du
+dv
+
+⎛
+⎝⎜
+  
+
+⎞
+⎠⎟
+
+2
+
+	
+
+54	
+
+	
+
+	
+
+Fig.27	:	Kruskal	diagram.	
+
+	
+				If	one	follows	this	diagram,	where	all	quantities	become	real,	with	a	real	ds	one	
+thus	manages	to	penetrate	"inside	the	Schwarzschild	sphere".	The	points	located	
+at	constant	r	are	on	hyperbolas.	The	one	on	the	right	refers	to	the	value	r	=	4m.	
+The	path	A	is	that	of	a	particle	with	mass,	which	plunges	towards	the	
+Schwarzschild	sphere.	The	half	line	x°	=	2m	evokes	the	way	time	evolves.	In	the	
+chosen	coordinate	system	this	mass	reaches	this	sphere	in	an	infinite	time,	
+shown	by	the	half	line	v	=	u	.	Then,	assuming	that	this	point-mass	can	penetrate	
+inside	this	sphere,	it	continues	its	way	and	reaches	the	point	associated	with	a	
+zero	value	of	r	which	is	another	hyperbola	accompanied	by	hatching,	which	is	
+supposed	to	represent	"the	singularity".	A	similar	reasoning	is	associated	to	the	
+trajectory	B.		
+								By	a	real	magic	wand,	Kruskal	seems	to	have	transformed	an	unreal	portion	of	
+the	variety	into	something	real,	described	by	equations	(85)	to	(89).	But	we	have	
+to	remember	that	if	with	real	quantities,	like	space-time	coordinates,	we	can	
+obtain	a	complex	quantity	ds,	the	opposite	is	also	possible.		
+	So	we	have	to	go	back	to	Kruskal's	approach.	Let	us	explain	the	relation	(84)		
+	(92)																																																								
+16m2 e ξ/2m	
+	Within	the	Schwarzschild	sphere	(83)	indicates	that:		
+	(93)																																																							
+< 0	
+	Combined	with	the	previous	equation	this	gives	us:		
+
+F (ξ) = η2 e 2ηξ =
+  
+
+F (ξ) =
+  
+
+1− 2m / r
+
+f 2
+
+1
+
+	
+
+55	
+
+⎡⎣
+
+ξ = r + 2m Ln
+  
+
+r
+2m − 1 = 2m Ln 16m2 F (χ)
+
+	(94)																																																  e ξ/2m = 16m2 F (ξ) < 0	
+	Now	the	exponential	can	only	be	negative	if	the	exponent	is	complex:		
+		(95)																																											  ξ = 2m Ln 16m2 F (χ)
+⎤⎦ −iπ	
+	Note	all	the	calculation	has	been	based	on	the	hypothesis	(82),	which	leads	to:	
+	(96)																		
+⎤⎦ −iπ		
+				There	is	therefore	a	contradiction.	This	relation	becomes	incoherent.	In	the	two	
+members	of	an	equation,	one	cannot	be	real	and	the	other	complex.	This	
+analytical	extension	makes	sense	if	we	are	in	the	mode	of	complexes,	but	it	does	
+not	make	sense	in	the	mode	of	physics,	which	is	in	the	world	of	reals.		
+			
+The	interpretation	of	Hermann	Weyl	(	1917)	
+						In	1915	Hermann	Weyl	was	thirty	years	old.	After	having	taught	mathematics	
+at	the	University	of	Göttingen,	where	he	was	fascinated	by	the	revolutionary	
+ideas	introduced	by	Riemann	and	particularly	by	hyperbolic	varieties,	he	found	a	
+position	in	Zurich,	at	the	Federal	Polytechnic,	where	he	was	offered	a	chair.	He	
+then	met	Einstein	and	quickly	assimilated	the	basic	concepts	of	relativity,	first	
+special	and	then	general.		Discovering	the	exact	nonlinear	solution	found	by	Karl	
+Schwarzschild,	he	published	his	interpretation	in	1917	[19].		
+		
+
+⎡⎣
+
+	
+Fig.28	:	Hermann	Weyl	in	1915	
+
+	
+
+	
+
+56	
+							To	access	the	German	version	of	this	article,	published	more	than	a	century	
+ago	but	copyrighted	by	Springer	in	a	2012	republication	which	also	includes	the	
+English	translation,	it	will	cost	you	$49,	regardless	of	the	version.	In	this	paper,	
+unlike	Hilbert's,	the	letter	R	is	used	to	designate	the	Riemann	scalar:		
+	
+
+	
+
+	
+
+Fig.29	:	Derivation	of	the	field	equation	by	Weyl.		
+
+	
+				The	first	equation	shows	that	Weyl	immediately	integrated	the	technique	of	
+derivation	of	the	field	equation	by	the	variational	method,	with	the	introduction	
+of	the	Ricci	tensor	and	the	scalar	R	derived	from	it.	At	the	bottom,	we	see	the	field	
+equation	to	which	Einstein	gave	his	name,	in	the	form	(equivalent	to	that	of	his	
+publication	of	November	25,	1916	[4])	that	students	know	today.	The	first	thing	
+that	Weyl	does	is	to	remind	us	of	the	inequality	which	gives	the	solution	a	
+physical	character:		
+	
+
+	
+
+57	
+
+	
+
+	
+
+Fig.30	:	Length	measurement,	after	H.Weyl	[21].	
+
+					Like	Schwarzschild,	he	is	perfectly	clear	in	his	choice	of	Gaussian	coordinates	
+  ( x1, x2 , x3 , x4 ).	The	space-time	is	therefore	foldable	by	means	of	a	sequence	of	
+three-dimensional	hypersurfaces,	invariant	with	respect	to	time	x4.	The	problem	
+is	to	construct	this	stationary	three	dimensional	hypersurface,	described	by	the	
+coordinates	  ( x1, x2 , x3 )	and	defined	by	its	length	element	 dσ	according	to	:		
+(97)																																																			  ds2 = f dx4
+				If	we	compare	the	choices	made	by	Weyl	with	Schwarzschild's	approach,	the	
+latter	carries	out	his	calculation	with	a	coordinate	r	which	is	in	fact	his	
+intermediate	quantity	R.	He	calculates	the	function	f	as	well	as	the	expressions	of	
+the	three	other	metric	potentials.		
+
+2 − dσ2		
+
+	
+	Fig.31	:	Result	of	the	calculation	of	the	potential	  
+g44 = f		[21].	
+Like	Schwarzschild,	he	makes	appear	what	he	calls	the	 gravitational	 radius	
+associated	to	a	mass	m.		His	metric	can	be	summarized	as:		
+⎠⎟ dt 2 − dσ2		
+(98)								
+
+− r 2 ( dϑ2 + sin2ϑdϕ2 ) = 1− 2a
+r
+
+⎞
+⎠⎟ dt 2 −
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+⎞
+
+ds2 = 1− 2a
+r
+  
+
+dr 2
+1− α
+r
+
+	
+
+58	
+
+dσ2 =
+
+dr 2
+1− 2 a
+r
+
++ r 2 ( dϑ2 + sin2ϑdϕ2 )		
+
+With	the	3D	hypersurface	11	defined	by	the	metric:		
+(99)																																							
+			But	Weyl	is	not	naive	enough	to	consider	that	this	solution	could	make	physical	
+sense	for	r	<	2a,	where	the	length	element	would	cease	to	be	real.	This	variable	r	
+(which	is	not	the	same	as	the	one	in	the	Schwarzschild	paper)	corresponds	to	a	
+ray	vector	with	coordinates	  ( x1, x2 , x3 ).	It	is	a	3-dimensional	hypersurface	which	
+we	know	"exists"	only	for	r	>	2a.	Weyl	will	therefore	push	further,	to	pierce	the	
+secret	of	its	geometry,	and	more	precisely	of	its	topology.	On	these	three	space	
+coordinates	he	can	always	delete	one	of	them.	So	he	writes:		
+	
+
+  
+
+Fig.	32	:	The	analysis	of	the	topology	of	the	3D	hypersurface	by	Weyl	
+11	We	recognize	the	metric	of	our	"3D	diabolo"	from	the	beginning	of	the	article.	
+
+																																																								
+
+	
+
+	
+
+59	
+
+  
+
+⎞
+
+⎛
+⎝⎜
+
+	
+
+2a
+r
+
+x2 = r sinϑ
+
+x1 = r cosϑ
+
+dσ2 = hdr 2 + r 2dϑ2
+
+dσ2 = 1−
+  
+
+⎠⎟ dr 2 + r 2dϑ2	
+⎠⎟ dr 2	
+
+In	 order	 to	 determine	 the	 geometry	 which	 is	 characterized	 by	 the	
+form	of	the	metric	giving		  dσ2 	,	we	will	project	in	a	corresponding	
+plane	à	  x3 = 0 	.	If	we	introduce	the	polar	coordinates:		
+
+Then	he	weites:		
+- 
+	
+Ce	qui	lui	donne	:		
+				In	the	following,	it	does	exactly	what	we	did	for	the	3D	diabolo,	i.e.	it	sets	the	
+angle	 ϑ	to	determine	the	equation	of	the	meridian,	which	gives	it	the	differential	
+equation:		
+(100)																																																		
+Whose	solution	is:		
+(101)																		  z = 8a (r − 2a )			or			
+							We	find	the	equation(19)	of	the	lying	parabola.	The	hypersurface	is	thus	a	"3D	
+diabolo"	which	is	the	projection	of	the	3D	hypersurface	in	a	Euclidean	space	
+  ( x1, x2 , x3 ).	And		Weyl	adds	:		
+-  Die	 projektion	 bedekt	 das	 äubere	 doppelt	:	This	projection	covers	
+twice	(doppelt	)	the	portion	of	space	  r > 2a,	 das	innere	überhaupt	
+nicht	:	but	this	(3D)	structure	definitively	does	not	fit	the	portion	of	
+space	  r < 2a12	.	 BeI	 natürlicher	 analytischer	 Fortsetzung	 wird	 also	
+der	xi	das	durch	  r ≥ 2a	gekennziechnete	Gebeit	dopplet	überdecken	:		
+In	a	natural	analytical	extension,	the	real	space	in	the	coordinates	
+used	for	the	representation	of	the	coordinate	 xi	of	the	point	
+correspond	two	points	of	the	3D	hypersurface.		On	this	sphere	of	
+radius	2a,	which	makes	the	junction	between	these	two	coverings,	
+is	located	the	mass.					
+	Là	on	voit	poindre	une	idée	tout	à	fait	extraordinaire,	assimilant	les	masses	à	
+des	singularités	topologiques.	On	se	rappellera	que	la	topologie,	à	cette	époque,	
+12	On	dirait	aujourd’hui	:	cette	hypersurface	3D	constitue	le	revêtement	à	deux	
+feuillets	de	la	portion	d’un	espace	Euclidien	3	extérieur	à	une	sphère	de	rayon	2a.		
+
+der	wirkliche	Raum	in	dem	zur	Darstellung	benuntzen	Koordinaten	
+
+dr 2 + dz2 = 1−
+  
+
+z 2
+8a = Rs +
+
+r = 2a +
+  
+
+z 2
+4Rs
+
+2a
+r
+
+	
+
+⎛
+⎝⎜
+
+⎞
+
+																																																								
+
+	
+
+	
+
+60	
+est	en	train	de	naître	en	tant	que	discipline	mathématique.	Les	surfaces	fermées	
+régulières	2D	sont	au	nombre	de	quatre.	On	a	la	sphère,	le	tore,	puis	la	bouteille	
+de	Klein	et	la	surface	de	Boy.			Précisos	que	Félix	Klein	invente	sa	bouteille	en	
+1882,	tandis	que	Werner	Boy,	élève	de	Hilbert,		créera	sa	propre	surface	en	
+1902.	Comme	Schwarzschild	ce	dernier	s’engage	à	35	ans,	dès	l’entrée	en	guerre	
+de	l’Allemagne,	en	juillet	1914		et	est	tué	en	France,	où	il	repose,	en	septembre	
+de	la	même	année.		
+				Weyl	(who	also	joined	the	army,	but	was	discharged	for	health	reasons)	
+continued	his	analysis	of	the	3D	hypersurface.	He	is	thus	the	first	to	introduce	the	
+isotropic	form	of	the	metric.		
+	
+
+	
+
+Fig.	33	:	Isotropic	form	of	the	Schwarzschild	metric.	
+
+	
+				His	variable	r	is	not	the	previous	one.	Its	formula	(12)	corresponds	to	equation	
+(6.69)	of	reference	[18].	The	last	expression	represents	the	linear	expansion	
+coefficient	(lineare	Vergröberungsverhältnis).		
+					It	is	clear	that	Weyl	has	perfectly	integrated	the	fact	that	the	various	
+coordinates	are	only	representations	of	the	objects	defined	by	their	metrics	and	
+that	the	only	object	endowed	with	an	intrinsic	reality	(invariant	by	any	change	of	
+coordinates)	is	the	element	of	length	s	.	These	successive	choices	allow	us	to	
+discover	their	topology.	Thus,	in	1917	is	the	first	to	discover	that	the	geometry	
+discovered	by	Schwarzschild	is	non-contractile.		
+	
+
+	
+
+61	
+The	P-symmetry	that	goes	with	the	passage	of	the	throat	sphere.		
+					Weyl	thus	creates	this	concept	of	a	representation	space	and	a	two-sheet	
+covering	of	a	manifold.	The	homologous	points	of	these	two	four-dimensional	
+sheets	can	thus	be	identified	using	the	same	coordinates	xi.	We	can	consider	four	
+points	in	the	vicinity	of	a	point	of	coordinates	 xi	which	form	a	tetrahedron	
+consisting	of	four	equilateral	triangles	having	two	common	vertices.	We	can	
+define	a	positive	orientation	by	defining	a	direction	of	travel	of	these	triangles,	
+considered	as	positive.	This	one	defines	a	normal	vector.	The	following	figure	
+shows	what	happens	to	this	set	of	points	when	they	cross	the	throat	sphere.	The	
+tetrahedron	with	black	edges	is	supposed	to	belong	to	one	of	the	two	
+tridimensional	layers	of	the	object.	Let	one	of	its	faces	ABC,	the	positive	direction	
+of	travel,	arbitrary,	being	indicated	by	arrows.	The	tetrahedron	with	the	shaded	
+edges	A'B'C'	belongs	to	the	other	layer.	If	we	bring	these	two	objects	into	
+coincidence	we	can	see	that	the	two	directions	are	the	opposite	of	each	other	
+		
+
+	
+
+	Fig.34	:	Reversal	of	the	orientation	of	a	tetrahedron	after	crossing	the	throat	
+sphere.		
+													We	deduce	that	any	object	crossing	the	throat	sphere	of	the	Schwarzschild	
+geometry	undergoes	a	P-symmetry.		
+	
+						The	black	hole	model	is	based	on	the	complete	decoupling	of	the	proper	time	
+of	objects	accompanying	the	implosion	phenomenon	that	this	geometry	is	
+supposed	to	describe	and	the	proper	time	of	an	observer	located	at	infinity,	
+observing	the	phenomenon,	which	for	him	is	supposed	to	last	an	infinite	time.	Let	
+us	consider	radial	trajectories.	We	have	(keeping	the	Schwarzschild	notation)		:		
+
+Free	fall	time	or	escape	time	in	Schwarzschild	geometry.		
+
+62	
+
+x4 = ct		
+
+	
+
+  
+
+⎛
+⎝⎜
+
+2 −
+
+Rs
+R
+
+⎞
+⎠⎟ dx4
+
+ds2 = 1−
+
+(102)																
+The	Lagrange	equations	give:		
+(103)																																																								
+	(104)																																																				
+The	integration	gives	the	diagram:			
+	
+
+s = cτ
+
+dR2
+Rs
+R
+
+1−
+
+	
+
+	
+
+R
+Rs
+
+R
+
+dτ
+dR = ±
+  
+
+1
+c
+
+dt
+dR = ±
+  
+
+1
+c
+
+R - Rs
+
+	
+
+	
+
+Fig.	35	:	The	free	fall	time.		
+
+	The	witness	particle	reaches	the	throat	sphere	in	a	finite	time,	in	terms	of	its	own	
+time,	but	this	path	corresponds	to	an	infinite	time	for	a	distant	observer.		
+	
+					In	1963	Roy	Kerr	constructed	the	solution	of	the	Einstein	equation	without	a	
+second	member	[20],	describing	a	portion	of	empty	space,	invariant	by	time	
+translation	and	by	action	of	the	group	O(2).		
+		
+
+The	Kerr	metric.		
+
+	
+
+  
+
+⎞
+
+(
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+⎡
+⎢
+⎣
+
+ρ2
+
+dρ2
+
+2 mρ
+
+2 m
+ρ
+
+cdt dϕ
+
+)dθ2
+
+ds2 = 1 −
+
+ds2 = 1 −
+
+− ρ2 + a
+
+ρ2 + a2 cos2θ
+
+⎞
+⎠⎟ c2dt 2 −
+
+dρ2 − ρ2 + a2 cos2θ
+
+(105)	
+
+2mρa2 sin4θ
+ρ2 + a2 cos2θ
+
+(
+4mρasin2θ
+ρ2 + a2 cos2θ
+
+63	
+	
+⎠⎟ c2dt 2 − ρ2 + a2 cos2θ
+					The	parameter	a	figures	the	importance	of	the	rotation.	If	it	is	zero	we	find	the	
+)sin2θ +
+Schwarzschild	metric.	In	the	plane	this	metric	becomes:		
+(106)	
+
+ρ2 + a2 − 2mρ
+⎤
+⎥dϕ2 −
+⎦
+
+	
+					Consider	two	rays	of	light	emitted	tangentially	to	a	trajectory	at	ρ	constant	:		
+(107)						
+cdt dϕ	
+					The	speed	of	light	then	takes	two	different	values,	depending	on	the	direction	
+of	emission:		
+(108)																									
+				This	phenomenon	is	classically	interpreted	as	a	phenomenon	of	dragging	of	the	
+coordinate	system	(frame-dragging)	and	is	not	without	evoking	the	idea	of	Ernst	
+Mach	according	to	which	matter	and	space	would	be	closely	linked.	These	two	
+values	of	the	photon	velocity	is	related	to	the	presence	of	a	cross	term	in		 dϕ dt	
+The	presence	in	the	stationary	solution	of	such	a	cross	term	was	envisaged	in	
+1916	by	the	Dutchman	J.	Droste13	[21],	but	immediately	rejected	by	this	author	as	
+unphysical.			
+				Let	us	digress	for	a	moment.	Droste,	a	student	of	Lorentz,	presented	this	work	
+on	May	27,	1916,	he	was	thirty	years	old.		
+	
+
+ρ2 + a2 − 2mρ
+⎡
+) +
+(
+⎢
+⎣
+
+⎞
+⎠⎟ c2dt 2 − ρ2 + a
+
+18m2a 2 + 2mρ3 − ρ2a2 − ρ4
+
+vϕ = c 2ma ±
+  
+
+0 = 1 −
+  
+
+⎤
+⎥dϕ2 −
+⎦
+
+⎤
+⎥dϕ2 −
+⎦
+
+⎦⎥		
+
+− ρ2 + a
+
+2m a2
+ρ
+
+2m a2
+ρ
+
+4m a
+ρ
+
+4m a
+ρ
+
+cdt dϕ
+
+2 m
+ρ
+
+) +
+
+⎡
+⎢
+⎣
+
+⎛
+⎝⎜
+
+⎡
+⎣⎢
+
+(
+
+⎤
+
+  
+
+																																																								
+
+13	https://fr.wikipedia.org/wiki/Johannes_Droste	
+
+	
+
+64	
+
+	
+
+	
+Fig.36	:	Johannes	Droste	(1886-1963)	
+
+	
+
+He	starts	with	the	same	assumptions	as	Schwarzschild,	and	here	is	his	result:	
+
+Fig.37	:	Droste	metric	.	
+
+				The	result	is	absolutely	identical	to	Schwarzchild's.	In	this	very	complete	article,	
+everything	is	explained.	The	expressions	of	the	geodesics	and	the	rest.	Later	
+Droste	will	say	that	when	he	presented	his	paper,	he	did	not	know	that	
+Schwarzschild	had	just	solved	this	problem	three	months	earlier.		
+But	let	us	return	to	Roy	Kerr's	work:		
+				Since	we	admit	in	his	solution	the	presence	of	an	azimuthal	frame-dragging,	
+what	do	we	obtain	if	we	consider	in	a	solution	invariant	by	action	of	O(3)	a	radial	
+frame-dragging.	This	results	in	the	presence	of	a	cross	term	in	dRdt.		
+Keeping	the	Schwarzschid	notations,	this	corresponds	to	the	Eddington-	metric,	
+which	is	deduced	from	the	Schwarzschild	metric	by	the	change	of	variable	
+δ = ± 1		
+	(109)																																				
+		Which	gives:	
+(110)						
+
+t = t' + δ
+  
+
+Ln ( R
+Rs
+
+Rs
+c
+
+− 1)
+
+⎛
+⎝⎜
+
+ds2 = 1 −
+  
+
+Rs
+R
+
+⎞
+⎠⎟ c2dt' 2 − 1 +
+
+⎛
+⎝⎜
+
+Rs
+R
+
+⎞
+⎠⎟ dR2 − R2( dθ2 + sin2dϕ2 ) + 2δ
+
+Rs
+R
+
+c dt' dR	
+
+	
+
+1
+c
+
+1
+c
+
+λ2 − 1+
+
+λ2 − 1+
+
+Rs
+R
+Rs
+R
+
+ν( R − Rs )
+
+ν( R − Rs )
+
+δ = ± 1
+ν = ± 1
+
+δ = ± 1
+ν = ± 1
+
+dt'
+dR =
+  
+
+dt'
+dR =
+  
+
+h2Rs
+R3
+h2Rs
+R3
+
+Rs
+R −
+Rs
+R −
+
+h2
+R2 +
+h2
+R2 +
+
+λ R − δ ν Rs λ2 − 1+
+
+λ R − δ ν Rs λ2 − 1+
+
+65	
+This	situation	was	recently	studied	in	[22].	The	transit	time	along	a	radial	
+trajectory	becomes:		
+(111)			 ν = − 1	:		centripetal	trajectory;		 ν = 1	:		centrifugal	path.	
+	
+																							
+For	radial	paths	(	h	=	0	)		
+(112)	
+
+	
+Quand	R	tend	vers	Rs	,	cette	contribution	du	temps	devient	infini	if	 δ ν < 0	
+In	the	conditions:		
+(113)																																																   
+			It	is	therefore	possible	to	couple	two	metric	solutions,	two	sheets	connecting	
+according	to	the	sphere	of	groove,	playing	then	the	role	of	one-way	membrane,	
+surface	that	the	masses	can	cross	only	in	one	direction.	Let's	consider	the	
+following	pair	of	metrics.	In	the	first	one,	the	masses	can	only	enter	the	throat	
+sphere	in	a	short	time,	but	can	only	emerge	in	an	infinite	time,	which	is	
+equivalent	to	an	impossibility.		The	opposite	situation	with	respect	to	the	second	
+layer,	defined	by	the	metric	(91).	Globally	the	transit,	with	entry	into	the	first	
+layer	and	emergence	into	the	second,	takes	place	in	a	finite	time.	The	reverse	
+transit	is	impossible.		
+	
+	(114)	  
+c dt' dR	
+c dt' dR	
+(115)	
+	A	star	in	implosion	would	thus	see	its	mass	transferred	into	a	second	sheet,	
+according	to	a	finite	time.		
+
+⎞
+⎠⎟ dR2 − R2( dθ2 + sin2dϕ2 ) + 2
+
+⎞
+⎠⎟ dR2 − R2( dθ2 + sin2dϕ2 ) − 2
+
+⎞
+⎠⎟ c2dt' 2 − 1 +
+
+⎞
+⎠⎟ c2dt' 2 − 1 +
+
+R − δ ν Rs
+R − Rs
+
+ds2 = 1 −
+  
+
+ds2 = 1 −
+
+dt'
+dR !
+
+Rs
+R
+
+Rs
+R
+
+Rs
+R
+
+Rs
+R
+
+Rs
+R
+
+Rs
+R
+
+ν
+c
+
+	
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+	
+
+Epilog.		
+
+66	
+	
+Frankfurt	is	the	birthplace	of	Karl	Schwarzschild.	Every	year	a	"Schwarzschild	
+Colloquium"	is	held	at	the	Advanced	Studies	Institute	in	Frankfurt,	devoted	to	
+questions	of	cosmology	and	astrophysics.	In	2017	the	organizers	of	the	
+colloquium	had	invited	the	cosmologist	Juan	Malcadena,	member	of	the		the	
+Advanced	Studies	Institute	in	Princeton,	USA.	He	began	his	conference,	devoted	
+to	the	latest	advances	in	the	field	of	thermodynamics	of	black	holes	by	saying	:		
+	
+To	show	the	way	the	community	of	specialists	perceives	these	questions,	since	the	
+sixties,	the	simplest	way	is	to	reproduce	the	main	stream	interpretation	as	it	is	
+presented	in	page	223	of	the	reference	[18],	and	which	translates	a	unanimous	
+consensus	within	the	community	of	cosmologists	of	today	and	the	partisans	of	the	
+Black	Hole	model.		
+	
+
+-	 In	 1916,	 when	 Karl	 Schwarzschild	 published	 his	 paper,	 the	 scientific	
+community	had	to	spend	some	time	before	certain	points	were	clarified.	Today	
+these	problems	have	been	well	mastered.	
+
+	
+
+	
+
+	
+
+67	
+
+Fig.44	:	Standard	interpretation	of	the	Schwarzschild	metric	
+	This	present	article	shows	that	this	view	should	be	reconsidered.	
+Références	:	
+[1]	D.Hilbert.	Die	Grundlagen	der	Physik	(Esrte	Mitteilung).	Nachrichten	von	der	
+Gesellschaft			der	Wissenschaften	zu	Göttingen.	Mathematisch-ohysikalische	
+Klasse.	(1915)	395-407.			
+English	translation	:	The	foundations	of	Physics	(first	communication).	English	
+translation.	Boston	Series	in	Philosophy	and	Science.	Copyright	Springer,	Vol.250		
+2007	(	29$95	)		
+https://link.springer.com/chapter/10.1007/978-1-4020-4000-9_44	
+[2]	D.Hilbert.	Die	Grundlagen	der	Physik	(Esrte	Mitteilung).	Nachrochten	von	der	
+Gesellschaft			der	Wissenschaften	zu	Göttingen.	Mathematisch-ohysikalische	
+Klasse.	(1916)		
+English	translation	:	The	foundations	of	Physics	(second	communication).	English	
+translation.	Boston	Series	in	Philosophy	and	Science.	Copyright	Springer,	Vol.250		
+2007	(	29$95	)		
+https://link.springer.com/chapter/10.1007%2F978-1-4020-4000-9_45	
+[3]	Tilman	Sauer	:	The	Relativity	Discovery	:	Hilbert’s	First	Note	on	Foundations	
+of	Physis.	See	page	48.	Correspondance	Einstein-Hilbert	au	jour	le	jour.	Page	48	
+https://arxiv.org/pdf/physics/9811050.pdf	
+[4]	A.	Einstein	:	Die	Feldgleichungen	des	Gravitation	(	The	Field	Equation	of	
+Gravitation).	Sitzungsber.	XLIV	,	8	,	778	and	XLVI	s.	799	(25	nov	1915)	
+[5]	A.Einstein	:	Erlklärung	der	Perihelbeweggung	des	Merkur	aus	allgemeinen	
+Relarivitätstheorie.	Königlish	Preubische	Akademie	der	Wissenschaften	(Berlin)	?	
+Sitzungberichet	(25	nov.	1915)	p.	831-838	
+
+[6]  K.  Schwarzschild :  Über  das  Gravitationsfeld  Messenpunktes  nach  der 
+Einsteinschen Theorie. Sitzungsberichte der Königlich Preubischen Akademie der 
+Wissenschaften p. 189-196. jan 1916 
+English  translation  by  S.Antoci  and  A.Loinger.  On  the  gravitational  field  of  a 
+mass  point  according  to  Einstein  theory.  arXiv :physics/9912033v1  [physics.hist-
+ph] 16 dec 1999.  
+Traduction française à partir de la version allemande par H.Traccard : 
+http://www.jp-petit.org/papers/cosmo/1916-Schwarzschild-fr.pdf 
+
+	[7]	L.S.Abrams	:	Black	Hole	:	the	Legacy	of	Hilbert’s	Error.	Can.	Jr.	Phys.	67	,	9191	
+(1989).		arXiv	:	gr-qc/01205055v1/13	feb	2001	
+
+	
+
+68	
+[8]				A.Loinger	:	The	Black	holes	do	not	exist	«	Also	sprach	Karl	Schawarzschild	»	
+(«	Ainsi	parlait	Karl	Schwarzschild	»).	arXiv	:physics/9905030		may	1999nb	
+[9]			S.Antoci	and	D.E.	Liebscher	:	Reconsidering	Schwarzschild	original	solution.	
+Astronomische	Nachrichten	322	(2001),	3,	137-174	
+[10]		S.Antoci	and	D.E.	Liebscher	:	The	Topology	of	Schwarzschild	Original	
+Solution.	arXiv	:	gr-qc/0308005v3		26	sept	2005.	
+[11]	S.Antoci	.	David	Hilbert	and	the	origin	of	the	Schwarzschild	Solution.	(2003)	
+https/arxiv.org/abs/physics/0310104		
+[12]	A.A.Vankov	:	Explanation	of	the	Perihelion	of	Mercury	From	General	
+Relativity	».	Gen.Sc.Jr.	Researchgate.net.	(2021)	
+[13]	J.P.Petit	&	G.D’Agostini	:	Cancellation	of	the	singularity	of	the	Schwarzschild	
+solution	with	natural	mass	inversion	process.	Mod.	Phys.	Lett.	A	vol.	30	n°9		
+(2015).	arXiv	:	gr-qc/2103.12845/13	feb	2001(	23	March	2021)	
+[14]	J.R.Oppenheimer	and	H.Snyder	:	On	Continued	Gravitational	Contraction.	Phys.	
+Rev.	Vol.	56	pp	455-459	sept	1939	
+https://journals.aps.org/pr/pdf/10.1103/PhysRev.56.455	
+[15]	M.D	Kruskal	:	Maximal	extension	of	Schwarzschild	metric.	Phys.	Rev.	119,	1734	
+(1°	sept	1060).		
+[16]	R.C.Tolman	:		Static	Solutions	of	Einstein’s	field	equation	for	a	sphere	of	fluid.	
+Phys.	Rev.	1939	nol.55	(	15feb.	1939)	
+https://authors.library.caltech.edu/4362/1/TOLpr39.pdf	
+[17]	K.Schwarzschild	:	Über	das	Gravitationsfeld	einer	Kugel	aus	incompressibler	
+Flüssigkeit	nach	der	Einsteinschen	Theorie.	Sitzund	der	Phys.	Math.	Klasse	V.24	
+24	Februar	1916	
+[18]	R.Adler,	M.Bazin,	M.Schiffer	:	Introduction	to	General	Relativity,	Mc	Graw	Hill	
+Books	Cie,	1975.	http://www.jp-petit.org/books/asb.pdf	
+[19]	H.Weyl	:	Zu	Gravitationstherie.	Annalen	der	physik,	Vol.35	n°	18	(1917)	
+https://onlinelibrary.wiley.com/doi/epdf/10.1002/andp.19173591804	:	49	$	
+On	the	Theory	of	Gravitation.	Reprinted	in	Gen.	Relat.	And	Gravit.	Vol.	44	pp	779-
+810		(2012).	
+	https://link.springer.com/article/10.1007%2Fs10714-011-1310-7	:	49	$	
+[20]	R.P.Kerr	(1963)	Gravitational	Field	of	a	Spinning	Body	as	an	Example	of	
+Argebraic	Special	Metrics.	Phys.	Rev.Letters	11	;	237	
+[21]	J	Droste	:	The	Field	of	a	Single	Centre	in	Einstein’s	Theory	of	Gravitation	and	
+the	Motion	of	a	Particle	in	that	Field.	Royal	Netherland	Academy	of	Arts	and	
+Sciences	(KNAW)	Proc.	19	I	,	Amsterdam	1917	pp.197-215.		
+[22]	P.Koiran	:	Infall	Time	in	the		Eddington-Finkelstein	Metric,	with	Application	
+do	Eddigton-Rosen	Bridges.		Inter.	Jr.	of	Mod.	Phys.	D,	14	aug.	2021,		to	be	
+published.		https://arxiv.org/abs/2110.05938	
+
+	
+
+69	
+[23]	A.Eddington	:	A	Comparizon	of	Withehead’sand	Einstein’s	formulae.	Nature	
+113-192,	1924	
+[24]	D.Finkelstein	:	Past-Future	asymetry	of	the	gravitational	field	of	a	point	
+particle.	Phys.	Rev.	110(4)	:	956-967,	1958	
+[25]	S.Bondarenko	:	Negative	mass	Scenario	and	Schwarzschild	Spacetime	in	
+General	Relativity.	Od.	Phys.	Lett.	A	Vol.34	n°11	(2019).	
+https://arxiv.org/pdf/1807.07412.pdf	
+
+

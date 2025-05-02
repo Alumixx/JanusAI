@@ -1,0 +1,178 @@
+1	
+
+6	juin	2019	Erratum,	du	à	la	fatigue,	au	surmenage.		
+
+	
+Ca	se	trouve	dans	la	vidéo	française	à	10’10		
+https://www.youtube.com/watch?v=rgaapx9Vnkc&t=2s	
+Heureusement,	je	n’ai	pas	rajouté	cette	connerie	dans	la	version	anglaise		
+https://www.youtube.com/watch?v=Yhgwkt1-oLE&t=16s	
+où	je	montre	simplement	que	:		
+Avec	Lorentz	réel	:		 L−1 = G LTG		
+Avec	Lorentz	complexe	:	 L−1 = G L*G	
+Et	ça,	c’est	exact.		
+	
+On	a	la	matrice	du	groupe	de	Poincaré	
+⎠⎟	
+on	forme	l’élément	de	l’algèbre	de	Lie	:		
+⎟	
+Cette	différenciation	est	prise	autour	de	l’élément	neutre,	c’est	à	dire	que	:		
+ L = I +δL	
+La	matrice	de	Lorentz	est	définie	axiomatiquement	par	:		
+ LT G L = G	
+Dans	la	vidéo	j’ai	écrit		 L = I +ω	en	«	montrant	»	que	ω	est	antisymétrique,	ce	qui	est	
+faux.		
+Voulant	«	apporter	une	précision	»	sur	un	calcul	juste	j’ai	rajouté,	par	fatigue,		un	truc	
+faux.	En	effet	dans	la	vidéo	à	13’35	on	trouve	:		
+
+Revoyons	tout	cela	proprement.		
+
+δL δC
+0
+1
+
+L C
+1
+0
+
+⎛
+⎜
+⎝
+ 
+
+⎛
+⎝⎜
+ 
+
+⎞
+⎠
+
+⎞
+
+2	
+
+	
+
+	
+
+Ca,		c’est	exact,	mais	dans	ce	que	j’ai	ajouté,	je	confonds	ω	avec	 δL	!!!	
+Or	si	ω	est	antisymétrique,	 δL	ne	l’est	pas.	C’est	qui	est	 GδL	antisymétrique.		
+En	revenant	à	cette	équation	(2)	comment	montrer	que	l’élément	 δL	se	met	sous	la	
+forme	de	 Gω	,	la	matrice	ω	étant	une	matrice	antisymétrique,	il	reste	à	le	montrer.		
+Ca	se	déduit	de	deux	choses	:		
+-  La	définition	axiomatique	de	L	
+-  Le	fait	qu’on	différencie	au	voisinage	de	l’élément	neutre.		
+	Je	détaille	étape	par	étape.		
+	
+	 LT G L = G		
+	
+⎤⎦ = 0	
+)T	
+
+Je	replace	L	par	la	matrice	unité,	ce	qui	revient	à	négliger	les	termes	du	second	ordre.	Ca	
+me	donne	:		
+
+(
+
+(
+
+⎡⎣
+ δ LT G L
+ δ LT(
+ δ LT(
+ δL(
+
+)G L + LT GδL
+) = δL(
+)T G L + LT GδL
+
+) = 0	
+) = 0	
+) = 0	
+
+ δL(
+
+)T G + GδL
+
+(
+
+3	
+
+(
+
+ δL(
+
+(
+  GδL
+
+)T G = GδL
+
+	
+Mais	je	remarque	que	:		
+)T	
+Donc	j’ai	:		
+)T + GδL = 0	
+Donc	 GδLest	une	matrice	anti	symétrique	que	j’appelle	ω		
+Donc,		en	tenant	compte	que	GG	=	I	je	peux	dans	mon	éléments	de	l’algèbre	de	Lie	
+remplacer δLpar	 Gω	,	qui	est	le	produit	de	la	matrice	G	par	une	matrice	
+antisymétrique	ω	mais	qui	n’est	pas	une	matrice	antisymétrique.		
+Le	transpose	ça	à	mon	groupe	de	Lorentz	complexe.	Ca	me	donne	:		
+________________________________________________________________________________	
+Calcul	en	complexe	:		
+	J’ai	la	définition	de	mon	groupe	de	Lorentz	complexe	:		
+	
+	
+) = 0	
+) = 0	
+Je	replace	L	par	la	matrice	unité,	ce	qui	revient	à	négliger	les	termes	du	second	ordre.	Ca	
+me	donne	:		
+) = 0	
+Mais	je	remarque	que	:		
+)*	
+Donc	j’ai	:		
+)* + GδL = 0	
+Donc	 GδLest	une	matrice	antihermitique	que	j’appelle	ω		
+
+	 L*G L = G		
+⎤⎦ = 0	
+)*	
+
+)G L + L* GδL
+) = δL(
+)* G L + L* GδL
+
+⎡⎣
+ δ L* G L
+(
+ δ L*
+(
+ δ L*
+ δL(
+
+)* G = GδL
+
+)* G + GδL
+
+(
+  GδL
+
+ δL(
+
+ δL(
+
+(
+
+(
+
+(
+
+(
+
+	
+4	
+Donc,		en	tenant	compte	que	GG	=	I		je	peux	dans	mon	éléments	de	l’algèbre	de	Lie	
+remplacer δLpar	 Gω	,	qui	est	le	produit	de	la	matrice	G	par	une	matrice	antihermitique	
+ω	mais	 δL	n’est	pas	une	matrice	antihermitique.	
+	
+
+

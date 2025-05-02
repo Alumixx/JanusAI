@@ -1,0 +1,3485 @@
+IHES/P/02/35
+
+LPT-Orsay-02/14
+
+OUTP-02/06P
+
+hep-th/0206042
+
+June 2002
+
+2
+0
+0
+2
+
+ 
+t
+c
+O
+3
+2
+
+ 
+
+ 
+ 
+
+2
+v
+2
+4
+0
+6
+0
+2
+0
+/
+h
+t
+-
+p
+e
+h
+:
+v
+i
+X
+r
+a
+
+EFFECTIVE LAGRANGIANS AND UNIVERSALITY
+
+CLASSES OF NONLINEAR BIGRAVITY
+
+Thibault Damour a1 and Ian I. Kogan2 a,b,c
+
+a IHES, 35 route de Chartres, 91440, Bures-sur-Yvette, France
+
+b Laboratoire de Physique Th´eorique, Universit´e de Paris XI, 91405 Orsay C´edex, France
+c Theoretical Physics, Department of Physics, Oxford University, 1 Keble Road, Oxford,
+
+OX1 3NP, UK
+
+Abstract
+
+We discuss the fully non-linear formulation of multigravity. The concept of universality
+classes of eﬀective Lagrangians describing bigravity, which is the simplest form of multi-
+gravity, is introduced. We show that non-linear multigravity theories can naturally arise in
+several diﬀerent physical contexts: brane conﬁgurations, certain Kaluza-Klein reductions
+and some non-commutative geometry models. The formal and phenomenological aspects of
+
+multigravity (including the problems linked to the linearized theory of massive gravitons)
+
+are brieﬂy discussed.
+
+1damour@ihes.fr
+2i.kogan@physics.ox.ac.uk
+
+1
+
+Introduction
+
+One of the most important problems which is facing theoretical physics now is the blending
+
+of the Standard Model (SM) with General Relativity (GR). Whatever way we choose (the
+
+most popular ones nowadays are based on some multidimensional constructions involving
+
+extended objects), nobody doubts that it will deﬁnitely modify physics at short scales. On
+
+the other hand, the current general paradigm is to keep General Relativity unchanged at
+
+large scales, but to add new forms of gravitating matter beyond the Standard Model (dark
+
+matter, dark energy) for explaining pressing astrophysical and cosmological facts such as
+
+galactic rotational curves and the accelerating universe. In the present paper, we consider
+an alternative paradigm: a modiﬁcation of General Relativity at large scales as a possible
+
+explanation of some pressing cosmological issues (notably cosmic acceleration).
+
+The modiﬁcation of GR that we are going to consider is linked to the issue of “massive
+
+gravity” (for very light gravitons, with Compton wavelength of cosmological scale). A
+
+generic prediction of multidimensional constructions is the existence of massive gravitons.
+
+In particular, any Kaluza-Klein (KK) model predicts, besides a massless graviton, the
+
+presence of an inﬁnite tower of massive gravitons. However, it seems impossible to use the
+tower of massive KK gravitons to modify gravity at large scales. Indeed, its spectrum is
+
+generically regularly spaced (as illustrated on Fig. 1a), so that, even if the ﬁrst mode were
+
+very light (i.e. of cosmological Compton wavelength), there would exist no regime where the
+
+ﬁrst mode (or ﬁrst few modes) would be important, and where one could truncate away the
+
+rest of the tower of massive states. In other words, as soon as the ﬁrst mode is important,
+
+we open the extra KK dimensions (see, however, below). The situation is, however, diﬀerent
+
+in some brane models. In particular, Refs. [1]-[4] discovered the possibility (illustrated in
+Fig. 1b or Fig. 1c) of having a hierarchical gap, m1 ≪ m2, between the ﬁrst mode (or
+ﬁrst group, or even band, of modes) and the tower of higher modes. This situation, called
+
+multigravity (see [5] for a review and [6] for detailed presentation), makes it possible to
+
+envisage an eﬀective four-dimensional theory which contains only the massless and ultra-
+light gravitons and discards the states of mass m ≥ m2. The constructions [1]-[4] predict
+see-saw-like spectra, m1 M 1+γ
+, with γ interpolating [5] between 0 [1] and 1 [2].
+Such spectra are naturally compatible with the phenomenologically interesting situation
+where m−1
+1
+
+is of cosmological order, while m−1
+2
+
+is smaller than the millimetre scale.
+
+Planck ∼ m2+γ
+
+2
+
+So far multigravity was only analyzed in the linearized approximation. The main em-
+
+1
+
+m4
+m
+
+3
+
+m
+
+2
+
+m1
+0=0m
+
+a)
+
+m
+
+3
+
+m
+
+2
+
+m1 
+0=0m
+
+b)
+
+m2
+
+m1 
+0
+
+c)
+
+Figure 1: Regular spectrum on (Fig.1 a) versus bigravity (Fig.1 b) or quazi-localized gravity
+(Fig. 1 c). The last spectrum is continuous but the ﬁrst band is very narrow in comparison
+with the gap between bands.
+
+phasis of this paper is to provide a fully non-linear formulation of multigravity, i.e. to write
+down, and analyze, a class of consistent eﬀective four-dimensional Lagrangians, describ-
+ing, in some limit, the light-mode truncation of the hierarchical spectra of Figs. 1b or 1c.
+Though we shall illustrate below our approach in the context of particular multidimensional
+
+realizations (notably brane models exhibiting multilocalization [1],[7] or quasi-localization
+
+[2], [8], [9]), we view our considerations as concerning a very general phenomenon: the con-
+
+cept of Weakly Coupled Worlds (WCW). The concept of WCW is very simple: one assumes
+
+that there are several Universes (labelled by i = 1, . . . , N), each endowed with its own
+metric g(i)µν and set of matter ﬁelds {Φi}, which are coupled only through some mixing
+of their gravitational ﬁelds. We require that the theory describing the WCW be near a
+
+point of enhanced symmetry, in the sense that there exists a limit (say as some parameter
+λ → 0) where the theory contains N diﬀeomorphism-like symmetries, corresponding to N
+massless gravitons. A recent theorem [10] has proven that the only consistent non-linear
+
+2
+
+theory involving N massless gravitons is the sum of N decoupled GR-type actions
+
+S0 =
+
+S[gi, Φi] ,
+
+NXi=1
+
+(1)
+
+(2)
+
+(3)
+
+with (we use the signature − + ++)
+
+S[gi, Φi] =Z d4x√−gi [M 2
+
+i R(gi) − Λi + L(gi, Φi)] .
+
+Therefore, the only consistent action for a theory of worlds coupled only through gravity is
+of the form
+
+Stot =
+
+S[gi, Φi] + λ Sint(g1, g2, . . . , gN ) .
+
+NXi=1
+
+When λ → 0, the N worlds are non interacting (which implies that, from the point of view
+of any observer in one world, the other worlds have only a meta-physical existence), and the
+theory has the enormous symmetry ΠiDiﬀ(i), where each diﬀeomorphism group Diﬀ(i) acts
+separately on its own metric g(i)µν and matter ﬁelds {Φi}. In the interacting case, λ 6= 0,
+the symmetry of the full action must (again because of the theorem [10]) be reduced to
+
+(at most) one group of diﬀeomorphisms: the diagonal group of common diﬀeomorphisms
+
+transforming all metrics as
+
+δ g(i)
+
+µν = ǫλ ∂λ g(i)
+
+µν + ∂µ ǫλ g(i)
+
+λν + ∂ν ǫλ g(i)
+
+µλ ≡ D(i)
+
+µ ǫν + D(i)
+
+ν ǫµ .
+
+(4)
+
+This symmetry restricts the interaction term λ Sint(g1, . . . , gN ) to depend only on the invari-
+ants one can make with several metrics. This even leaves room for extra kinetic terms built
+from covariant derivatives such as gµν
+
+µν (such terms do not exist in the case of one
+
+λ g(k)
+
+(i) D(j)
+
+λ g(i)
+
+metric because D(i)
+
+µν ≡ 0). However, in view of the many potential diseases associated to
+modiﬁcations of the standard Einsteinian kinetic terms, and in the spirit of describing the
+class of interaction terms most relevant at large scales,3 i.e. containing the lowest possible
+number of derivatives ( namely zero, as expected from a generalization of the mass terms
+
+that appear in linearized multigravity), we shall only consider ultra-local interaction terms,
+i.e.
+
+λ Sint = −µ4Z d4xV(g1(x), . . . , gN (x)) ,
+
+3See Section 2.1 below for further discussion about extra kinetic terms.
+
+(5)
+
+3
+
+where µ is a mass scale (henceforth replacing λ as “small parameter”) and where V is a
+scalar density made out of the values of the N metrics at the same “point”. We assume,
+for simplicity, that the N weakly coupled worlds “live” on the same abstract manifold,
+
+i.e., in other terms, that one is given a family of (smooth) canonical one-to-one maps:
+world(i) → world(j).
+
+The aim of this paper is threefold: (i) to motivate the possibility of the eﬀective action
+
+(3), (5) by considering several diﬀerent speciﬁc models (brane models, Kaluza-Klein mod-
+
+els and non-commutative geometry ideas); (ii) to delineate and parametrize the various
+
+“universality classes” of non-linear multigravity; and (iii) to sketch the main qualitative
+
+consequences of such non-linear multigravity theories and to contrast them with the usual
+paradigm of “massless plus massive gravitons” which is based on a linearized approximation.
+
+It should be noted that theories deﬁned by (3), (5) (in the “bigravity” case: N = 2) were
+
+ﬁrst introduced in the seventies [11] as a model for describing a sector of hadronic physics
+where a massive spin-2 ﬁeld (the “f meson”, with “Planck mass” Mf ∼ 1 GeV in Eq. (2))
+plays a dominant role. It was then called “strong gravity” or the “f -g theory”. Our work not
+
+only proposes to revive, within a new (purely “gravitational”) physical context, this early
+
+proposal, but initiates the task of systematically studying the general phenomenological
+
+consequences of the action (3), (5). The present paper will only brieﬂy sketch the new
+
+physical paradigm following from such actions.
+
+In subsequent papers, we shall discuss
+
+in detail the cosmological consequences of such theories [12], as well as its strong-ﬁeld
+
+phenomenology [13].
+
+2 Universality Classes of Bigravity Eﬀective
+
+Lagrangians
+
+For simplicity, we focus, in this paper, on the case of “bigravity”, i.e. N = 2. Understanding
+
+this case is a prerequisite for understanding the general multigravity case (N > 2). Let us
+
+note also that the bigravity “potentials” that we discuss here can be immediately used in
+the general case. Indeed a rather general class of “N-metric potentials” V(g(1), . . . , g(N )),
+Eq. (5), is the class containing only “two-metric interactions”: V = Pi6=j V(g(i), g(j)). For
+only V =Pi V(g(i), g(i+1)). It is interesting to note that the continuum limit (N → ∞) for
+
+instance, one can deﬁne a “crystal-like” many-world with “nearest neighbour” interactions
+
+some suitable “nearest neighbour” interactions can mimic the propogation of gravity in a
+
+4
+
+higher-dimensional space, i.e. the term R dya4(y)q−g(x, y) [tr(g−1 ∂y g)2 − (tr g−1 ∂y g)2] .
+
+as in (29) below. See [12] for further discussion of this subject.
+
+2.1 Parametrization of invariants
+
+Using, when N = 2, the notation g(1) = gL (for “Left”) and g(2) = gR (for “Right”), and
+factoring a conventional “average volume factor” (gL gR)1/4 out of the scalar density V 4,
+the generic bigravity action reads
+
+S =Z d4x√−gL(cid:16)M 2
+Z d4x√−gR(cid:16)M 2
+
+L R(gL) − ΛL(cid:17) +Z d4x√−gL L(ΦL, gL) +
+R R(gR) − ΛR(cid:17) +Z d4x√−gR L(ΦR, gR)
+−µ4Z d4x (gR gL)1/4 V (gL, gR) .
+
+(6)
+
+Note that the bigravity action (6) contains 5 dimensionfull parameters: two “Planck masses”
+ML and MR, two cosmological constants ΛL, ΛR (with dimensions M 4), and the “coupling
+mass scale” µ.
+
+Before proceeding, we note that the mass scale µ, entering Eq. (6), will be treated here
+
+as a constant parameter determining the coupling of the two worlds. However, one should
+keep in mind the possibility that it be replaced by a ﬂuctuating ﬁeld. This is suggested,
+in particular, by the brane realizations of bigravity where the value of µ depends on the
+
+physical distance between the branes, which is controlled by dilaton/radion ﬁelds. A more
+general model where µ → µ(x), and where one adds a kinetic term for µ(x), may play an
+important role in addressing crucial cosmological issues (such as inﬂation) in the context
+
+of multigravity theories.
+
+Before we shall proceed further let us make two additional comments
+
+• We shall treat V as a potential here,
+
+as an ultra-local function of gL and
+gR. As already mentioned above one could also include extra kinetic terms like
+gµνDL,R
+
+gL,R σρ, etc. For example mixed terms like √−gLR(gR) or √−gRR(gL)
+
+R,LDL,R
+
+µ gσρ
+
+i.e.
+
+ν
+
+are of these type. However, let us emphasise again that the fundamental concept of
+WCW explored here is that one is required to be near the point of enhanced symmetry
+
+4We could, instead, have factored out of V the other natural symmetric density: √−gL + √−gR.
+
+5
+
+and according to the theorem proven in [10] in this point mixing of diﬀerent metrics
+
+is forbidden. Because of this all higher derivative terms mixing diﬀerent metrics must
+be supressed by the small parameter µ4 and enter as µ4f (D2g/M 2). One can see that
+in the long-wave limit D2g/M 2 ∼ k2/M 2 << 1 one can neglect their contribution in
+comparison with a potential term.
+
+• Let us stress that we did not introduce any direct coupling between the two worlds
+exept the indirect one mediated by gravity. It means that all matter which can be
+observed by any observer is locally coupled only to one world or the other one. Thus
+any local experimental check of the equivalence principle is the same as in the General
+Relativity - all locally mutually observable matter moves in the same metric. One
+can consider other cases but such a study will be left for future publications.
+
+The common diﬀeomorphism invariance (4) restricts the scalar potential V (gL, gR) en-
+
+tering Eq. (6) to depend only on the invariants of the mixed tensor H ≡ g−1
+
+L gR, i.e.
+
+ν ≡ gµσ
+H µ
+
+L gRσν .
+
+In 4 dimensions, there are (because of Cayley’s theorem) only 4 independent scalar invari-
+
+ants which can be made from H. For instance, using a matrix notation for H, one can take
+the ﬁrst 4 traces of the powers of the matrix H, say
+
+(7)
+
+(8)
+
+τn ≡ tr(H n) ;
+
+n = 1, 2, 3, 4 .
+
+Let us introduce the 4 eigenvalues λa (a = 0, . . . , 3) of H µ
+
+metric gR with respect to gL. They can be deﬁned either by τn = Σa λn
+two metrics in a special bi-orthogonal vierbein ea
+
+µ such that
+
+ν , i.e. the 4 eigenvalues of the
+a, or by writing the
+
+µ e0
+
+ν + e1
+
+µ e1
+
+ν + e2
+
+µ e2
+
+ν + e3
+
+µ e3
+ν ,
+
+gL
+µν = −e0
+µ e0
+
+gR
+µν = −λ0 e0
+
+ν + λ1 e1
+
+µ e1
+
+ν + λ2 e2
+
+µ e2
+
+ν + λ3 e3
+
+µ e3
+ν .
+
+(9)
+
+It is easily seen that, apart from an exceptional case (where two eigenvalues coincide,
+
+and correspond to a null eigenvector), it is generically possible to write Eq. (9), though
+maybe with a complex vierbein ea
+
+µ. Indeed, two (but at most two) eigenvalues, say λ0, λ1
+(one of which necessarily corresponds to a time-like direction) can become complex. We
+shall focus on the case where the 4 eigenvalues λ0, λ1, λ2, λ3 are real and positive. As
+
+6
+
+(10)
+
+(11)
+
+(12)
+
+we shall only deal with symmetric functions of the eigenvalues, this restriction is mainly a
+notational convenience which can be relaxed by analytic continuation. It is then convenient
+to parametrize the invariants of H = g−1
+of H:
+
+L gR by means of the logarithms of the eigenvalues
+
+(the µa’s should not be confused with the mass scale µ4 in front of V ) and to introduce, as
+basis of independent scalars, the 4 symmetric polynomials
+
+µa ≡ ln λa ;
+
+λa ≡ eµa ,
+
+σn ≡Xa
+
+µn
+a .
+
+With this notation, our ﬁrst result is that the most general (densitized) potential can
+
+be written as
+
+µ4 V(gL, gR) = µ4(gL gR)
+where V is an arbitrary function of the 4 σa’s.
+
+1
+
+4 V (σ1, σ2, σ3, σ4) ,
+
+2.2 Universality classes
+
+In the same way as the various mathematical forms of the Landau free energy deﬁne uni-
+versality classes of phase transitions, we can deﬁne universality classes of bigravity theories
+by considering as equivalent the functions V (σa) leading to (essentially) the same multi-
+gravitational phenomenology. As we shall see below and in [12, 13], some of the important
+qualitative features of the function V (σa) are: (i) its behaviour near σa → 0, (ii) its be-
+haviour when σa → ∞, and (iii) the existence or non-existence of “critical points” where
+some derivatives ∂V /∂σa vanish.
+
+As a ﬁrst example of a universality class, we can deﬁne the class of V ’s which reduce (in
+
+ν hν
+
+µ hν
+
+µ − hµ
+
+absence of cosmological constants in (6), i.e. ΛL = ΛR = 0), in the linearized approximation,
+to the Pauli-Fierz mass term ∼ hµ
+ν. The linearized approximation corresponds
+to the particular case where gLµν and gRµν are both near the same ﬂat metric ηµν, i.e.
+gLµν = ηµν + hL
+µν, with hL ≪ 1 and hR ≪ 1. In this limit the above object
+Rν − hµ
+H = g−1
+Lν (where the indices on hR and hL are raised by ηµν).
+It is then seen that the eigenvalues of H are λa ≃ 1 + µa, where µa ≪ 1 are the eigenvalues
+of hµ
+µν − hL
+µν
+(see below), one then sees that the Pauli-Fierz mass term ∼ hµ
+ν is obtained if the
+
+Lν. With the identiﬁcation of the massive graviton mode hµν as hµν = hR
+
+µν, gRµν = ηµν + hR
+ν + hµ
+
+L gR reads H µ
+
+Rν − hµ
+
+ν ≃ δµ
+
+µ − hµ
+
+µ hν
+
+ν hν
+
+7
+
+function V (σa) behaves (modulo a positive factor that can be absorbed in the mass scale
+µ4) as
+
+V (σa) ≃ σ2 − σ2
+
+1 =Xa
+
+µ2
+
+a − Xa
+
+µa!2
+
+, when µa → 0 .
+
+(13)
+
+The behaviour (13) near µa → 0 deﬁnes the universality class of “Pauli-Fierz-like” bigravity.
+Note that one can imagine a case where the potential V does not have quadratic terms
+when µa → 0. In the linearized approximation, one would see two massless gravitons, while
+the full theory would contain two interacting metric ﬁeld gL, gR (and only one common
+diﬀeomorphism invariance).
+
+As a second example of the concept of universality class, we can deﬁne the class of
+potentials V(gL, gR) which are symmetric under the exchange gL ↔ gR. It is easily seen
+that under the exchange L ↔ R, the eigenvalues λa get inverted (λa → λ−1
+a ) so that
+the logarithmic eigenvalues µa change sign: µa → −µa. The class of exchange-symmetric
+potentials therefore corresponds to the class of functions V (µa) which are even in the µa’s.
+In terms of the σ’s this becomes V (σ1, σ2, σ3, σ4) = V (−σ1, σ2,−σ3, σ4).
+depend only on the ﬁrst two invariants σ1 ≡ Pa µa and σ2 = Pa µ2
+
+As a further example of universality class, we can consider the class of functions which
+a : V = V (σ1, σ2).
+We shall see that this class appears naturally in brane models, and our (preliminary)
+
+investigations suggest that this class might be general enough to describe all the possible
+qualitative features of a general bigravity theory.
+
+2.3 Equations of motion
+
+The equations of motion derived from the bigravity action read
+
+2 M 2
+
+2 M 2
+
+L(cid:18)Rµν(gL) −
+R(cid:18)Rµν(gR) −
+
+1
+2
+
+1
+2
+
+gL
+
+µν R(gL)(cid:19) + ΛL gL
+µν R(gR)(cid:19) + ΛR gR
+
+gR
+
+µν = tL
+
+µν + T L
+
+µν ,
+
+µν = tR
+
+µν + T R
+µν .
+
+(14)
+
+Here T µν
+
+L ≡ 2(−gL)−1/2 δ SL
+
+matter/δ gL
+
+µν denotes the stress-energy tensor of the matter on the
+
+left brane (SL
+αβ denotes the eﬀective
+stress-energy tensor (as seen on the left brane) associated to the coupling term Sint ≡
+
+matter = R d4x√−gL L(ΦL, gL)), while tµν
+
+L ≡ gµα
+
+L gνβ
+
+L tL
+
+8
+
+−µ4R d4x(gR gL)1/4 V (gL, gR):
+
+tµν
+L ≡
+
+2
+
+√−gL
+
+δ Sint(gL, gR)
+
+δ gL
+µν
+
+= −2 µ4  gR
+gL! 1
+
+4"gµν
+
+L
+
+V
+4
+
++
+
+∂ V (gL, gR)
+
+∂ gL
+µν
+
+# .
+
+(15)
+
+The corresponding expressions for the right brane are obtained by the exchange L ↔ R.
+For instance
+
+tµν
+
+R = −2 µ4  gL
+gR! 1
+µν − 1
+
+L(cid:16)RL
+
+# .
+
+∂ V (gL, gR)
+
+4"gµν
+µν(cid:17) ≡ 0(cid:17), and the conservation of the material
+
+∂ gR
+µν
+
+2 RL gL
+
+(16)
+
+V
+4
+
++
+
+R
+
+µν = 0; when the matter equations of motion are satisﬁed) imply the
+
+The Bianchi identities(cid:16)Dν
+
+energy tensor (Dν
+
+L T L
+
+constraints:
+
+Dν
+
+L tL
+
+µν = 0
+
+and Dν
+
+R tR
+
+µν = 0 .
+
+(17)
+
+Actually these two constraints are not independent because the invariance of Sint under the
+unbroken diagonal diﬀeomorphism group implies the identity
+
+√−gLDν
+µν + √−gRDν
+L tL
+
+R tR
+
+µν ≡ 0 .
+
+The explicit expressions of the derivative terms ∂ V /∂ gL,R
+µν
+
+in Eqs. (15), (16) tends to be
+
+rather complicated. However, they acquire a simple form when written in the special
+frames with respect to which both gL
+
+µν are diagonalized (such as in Eq. (9)). The
+
+µν and gR
+
+mixed components of tL
+
+µν and tR
+
+particular ea
+
+µ of (9) by arbitrary rescalings ea
+
+µν with respect to any such frame (which can diﬀer from the
+La and
+
+µ, because such rescalings leave ta
+
+µ → ζ a ea
+
+ta
+Ra invariants) take the simple form: (no summation on the frame index a)
+
+ta
+La = −2 µ4 e
+
+Ra = −2 µ4 e− 1
+ta
+
+1
+
+4 σ1  V
+4 −
+4 σ1  V
+
+4
+
++
+
+∂ V
+
+∂ µa! ,
+∂ µa! ,
+
+∂ V
+
+with vanishing of the oﬀ-diagonal components (we recall: σ1 ≡Pb µb).
+
+Here, we considered the scalar potential as a function of the µa’s. If V is given as a
+
+function of the σn’s, Eq. (11), the derivative entering Eqs. (18) takes the explicit:
+
+∂ V (σ1, . . . , σ4)
+
+∂ µa
+
+=
+
+∂ V
+∂ σ1
+
++ 2 µa
+
++ 3 µ2
+a
+
++ 4 µ3
+a
+
+∂ V
+∂ σ3
+
+∂ V
+∂ σ4
+
+.
+
+∂ V
+∂ σ2
+
+9
+
+(18)
+
+(19)
+
+This explicit expression illustrates the third type ((iii)) of universality class mentioned
+
+above: If there exist “critical points” where ∂σ2 V = ∂σ3 V = ∂σ4 V = 0 (without restriction
+on ∂σ1 V ), such points give rise to a tµ
+Rν with the local “equation of state”
+t0
+L0 = t1
+µν. In some
+cases, such critical points can be “ﬁxed points” and can give rise (in the “vacuum case”,
+
+L3 (and similarly for tR), i.e. such that tL
+
+Lν and a tµ
+
+µν ∝ gR
+
+µν ∝ gL
+
+µν and tR
+
+L2 = t3
+
+L1 = t2
+
+i.e.
+
+in absence of “material” T L,R
+
+µν ) to bi-(A)dS solutions of the coupled ﬁeld equations.
+Note in this respect that the “perturbative limit” µa = 0 is a critical point in the sense
+that ∂µa V = ∂σ1 V , independently of the value of a, so that µa = 0 (i.e. gL
+µν) can be
+a (perturbative) ﬁxed point of the coupled vacuum equations, corresponding to a bi-(A)dS
+solution, if the corresponding (constant) curvature λ (Rµ
+equations
+
+Rν) satisﬁes the two
+
+Lν = λ δµ
+
+ν = Rµ
+
+µν = gR
+
+−2 λ M 2
+
+−2 λ M 2
+
+L + ΛL = −2 µ4(cid:20) V
+R + ΛR = −2 µ4(cid:20) V
+
+4 − ∂σ1 V(cid:21)µa=0
++ ∂σ1 V(cid:21)µa=0
+
+4
+
+,
+
+.
+
+(20)
+
+In the “Pauli-Fierz” universality class the right-hand sides of Eqs. (20) vanish and one has
+the usual relation λ = ΛL/(2 M 2
+R). In more general
+classes the coupling between the two worlds can modify the usual link between λ and ΛL,R.
+
+L) (with the constraint ΛL/M 2
+
+L = ΛR/M 2
+
+2.4 Single “massive graviton” as a limiting case of bigravity
+
+Let us consider the formal limit MR → ∞ in the action (6) (and the ﬁeld equations
+(14)). In this limit the metric gR is (formally) frozen into some given “background” metric
+Gµν : gR → G, with Gµν solution of Rµν(G) = λ Gµν, where λ = lim(ΛR/(2 M 2
+R)) can be
+zero, or can be arranged to take any ﬁxed real value. This leaves us with an action for a
+single dynamical metric g ≡ gL of the form
+
+S =Z d4x√−g (M 2
+
+L R(g) − ΛL) − µ4Z d4x (g G)
+
+1
+
+4 V (G−1 g) .
+
+(21)
+
+If V belongs to the Pauli-Fierz universality class, gµν = Gµν is a solution of the equations of
+motion (if λ = ΛL/(2 M 2
+L)), and the small excitations of gµν around Gµν describe a “massive
+graviton” (propagating in an Einstein space). But the behaviour of the large excitations of
+
+gµν are described by the non-linear action (21) instead of the usual quadratic Pauli-Fierz
+action.
+
+10
+
+The action (21) is (formally) generally covariant: when g is transformed as (4), the
+
+frozen metric G must also be transformed as δ Gµν = DG
+
+ν ǫµ. These ﬂuctuations
+of G (which do not change the background curvature invariants) are playing the same role
+
+µ ǫν + DG
+
+as the Goldstone degrees of freedom in the Higgs mechanism for gauge ﬁelds. In a recent
+paper [14] these Goldstone degrees of freedom were discussed for the single AdS4 brane case,
+using an holographic description of ﬁve-dimensional gravity in terms of a four-dimensional
+CFT, and it was shown that there is indeed a vector ﬁeld which provides extra components
+to the graviton.
+
+3 Speciﬁc Examples of Bigravity Eﬀective
+
+Lagrangians
+
+After having discussed general possible structural features of bigravity eﬀective Lagrangians,
+we shall consider speciﬁc physical models in which such Lagrangians arise. We consider in
+
+turn: (i) brane models, (ii) Kaluza-Klein models, and (iii) non-commutative-type models.
+
+Beforehand let us note that the work in the seventies that ﬁrst considered bigravity models
+did not have any underlying physical models from which they could derive some speciﬁc
+potentials V (gL, gR). They made up some non-linear generalizations of the quadratic Pauli-
+Fierz mass term. For instance, they particularly considered the one-parameter family of
+models with
+
+V (gL, gR) ∝ gR
+gL!a
+
+(gL
+
+αµ gL
+
+βν − gL
+
+αβ gL
+
+µν)(gαβ
+
+R − gαβ
+
+L )(gµν
+
+R − gµν
+L ) .
+
+(22)
+
+3.1 Brane models
+
+Let us start by brieﬂy recalling why (multi-)brane models naturally give rise to “multi-
+
+gravity”. For more details the reader is advised to look at the original papers, and/or
+
+at reviews such as, [15], [5]. Before explaining how several worlds can be gravitationally
+
+“weakly coupled”, let us recall that the paradigmatic brane example of a separate (gravita-
+
+tionally decoupled) brane world is a Randall-Sundrum (RS) scenario, i.e. a ﬂat 3-brane in
+
+AdS(5), with jump conditions on the brane (coming from an assumed Z2 symmetry) able
+to “localize” the 5-dimensional graviton as a massless excitation propagating (as a “surface
+
+wave”) in the vicinity of the brane [16], [17]. Putting the brane at the point y = 0 (where
+
+11
+
+y is the “ﬁfth”, transversal coordinate, and where one requires the Z2 symmetry y → −y),
+the background 5-dimensional geometry is (see Fig. 2a)
+
+ds2 = e−2σ(y)ηµνdxµdxν + dy2 = e−2σ(z)hηµνdxµdxν + dz2i .
+
+The warp factor behaves as σ(y) ∼ |y| ∼ ln(1 + |z|). The ﬂuctuations near the background
+metric are studied by writing:
+
+The ﬁeld hµν(x, z) is expanded in terms of the graviton and KK plane wave states :
+
+ds2 = e−2σ(z)h(ηµν + hµν(x, z)) dxµdxν + dz2i .
+2 σ(cid:17) h(n)
+
+µν (x)Ψn(z) where the exp(cid:16) 3
+
+2 σ(cid:17) factor in the expansion is
+
+hµν(x, z) = P∞
+
+n=0 exp(cid:16) 3
+
+necessary for the functions Ψ(n)(z) to obey an ordinary Schr¨odinger equation:
+
+n−∂2
+
+z + V (z)o Ψn(z) = m2
+
+nΨn(y) .
+
+Here the potential V (z) = (dA/dz)2−d2A/dz2 where A = 3σ(z)/2. Qualitatively it is made
+up of an attractive δ-function potential plus a smoothing term (due to the AdS geometry)
+
+that gives the attractive potentials a “volcano” form. An interesting characteristic of this
+
+potential is that it gives rise to a (massless) normalizable zero mode
+
+(23)
+
+(24)
+
+(25)
+
+(26)
+
+Ψ0(z) = exp[−A(z)] = exp[−
+
+σ(z)]
+
+3
+2
+
+One can show (see for details [18] and references therein) that the normalization factor
+
+R dzΨ2
+
+0 =R dz exp[−3σ(z)] also relates the fundamental ﬁve-dimensional mass scale M5 to
+
+the four-dimensional Planck mass Mp, namely M 2
+
+p = M 3
+
+5 R dz exp[−3σ(z)].
+
+One can consider now multibrane conﬁgurations where the warped metric is a bounce
+as on Fig. 2b. By analysing the spectrum in this case one can easily see that in the case of
+an inﬁnitely large separation between the branes massless gravitons are localized on both
+of them. But then, according to basic properties of the Shr¨odinger equation, when the
+separation is ﬁnite, the degeneracy between the two massless modes is removed and one
+ends up with one massless and one ultralight massive graviton. The prototype model of this
+class was the “+−+ bigravity” model [1] with two positive tension ﬂat branes (′′+′′ branes)
+separated at the bounce position L1 by one intermediate negative tension ﬂat brane (′′−′′
+brane) in an AdS5 bulk. The task of ﬁnding the KK spectrum reduces to a simple quantum
+
+12
+
+e  2σ(y)
+-
+
+-  2σ(y)
+e
+
+y
+
+0
+
+Z2
+
+a)
+
+0
+
+Z2
+
+L 1
+
+b)
+
+y
+
+L
+
+2
+
+Figure 2: Warped metric for single ﬂat brane (Fig. 2a) and bounce for a two-brane conﬁgu-
+ration (Fig. 2b). L2 is the separation between branes and L1 is the position of the bounce.
+If L1 ≪ L2 the metric is mostly concentrated on a right brane and if L2 − L1 ≪ L1 then it
+is concentrated on the left brane.
+
+mechanical problem. It is simple to see that the model (as every compact model) has a
+
+massless graviton that corresponds to the ground state of the system whose wave function
+
+follows the “warp” factor. Then it is easy to see that (say, for simplicity, in the symmetric
+
+case L2 = 2L1) there should be a state with wave function antisymmetric with respect to
+the minimum of the “warp” factor, whose mass splitting from the massless graviton will
+be very small compared to the masses of the higher levels. Because the “warp” factor is
+exponential the diﬀerence in mass behaviour of the ﬁrst and the rest of the KK states is also
+exponential. This allowed for the construction of a linear “bigravity” model in which the
+remainder of the KK tower does not aﬀect gravity beyond the millimetre bound. Soon after
+this model, other models were discussed. Some of them, for example the “quasi-localized”
+GRS model [2] and a more general + − −+ multigravity model [3], [4] also used dynamical
+negative tension branes. In other models, like the ++ model with two AdS4 branes [19] (or
+the limiting case of one single AdS4 brane when the second one is moved to inﬁnity [20])
+or in a six-dimensional case [21], there are no negative tension branes and so no problems
+
+emerge with ghost-like radion states. Models with moving branes in which one also can
+
+get “warped” factors were discussed in [22]-[23]. Finally there is a whole zoo of diﬀerent
+
+models in which one can get modiﬁcation of gravity at large scales.
+
+To be speciﬁc, let us consider the +− + model and let us now derive the fully non-linear
+bigravity action it gives rise to in the weak-coupling limit where we keep only the dominant
+
+13
+
+terms in the exponentially small (“tunnelling”) coupling between the two positive tension
+
+branes. We are going to ignore the fact that there is a ghost-like radion ﬁeld due to the
+
+existence of the negative tension brane in this model [24]. Anyway we freeze all dilaton and
+
+radion degrees of freedom.
+
+The action describing the full 5-dimensional conﬁguration is (in units where the ﬁve-
+
+dimensional Planck mass is set to one)
+
+S =Z d4xZ dy √−G"R(G) − Vb −Xi
+
+Vi δ(y − yi)# .
+
+(27)
+
+Here, G denotes the 5-dimensional metric, Vb the bulk cosmological constant, and Vi the
+tensions of the branes (the index i takes, in our case, three values corresponding to the three
+
+branes: e.g. V1 = VL > 0, V2 < 0 and V3 = VR > 0). We generalize the linear ﬂuctuation
+ansatz (24) by writing the 5-dimensional metric as (µ, ν = 0, 1, 2, 3)
+
+ds2
+
+5 = a2(y) gµν(x, y) dxµ dxν + dy2 ,
+
+(28)
+
+where a2(y) = e−2σ(y) is the background warp factor. We assume here that the degrees
+
+of freedom associated to the ﬂuctuations of: (i) the warp factor (“dilaton”), and (ii) the
+
+distance between the branes (“radions”) are all frozen. The detailed mechanism of how
+
+to do that is not important for us now. For example, one can add extra terms in the
+
+action (27) that give large enough mass terms to these ﬂuctuations (say with submillimeter
+
+Compton wave length) following [25] (of course for those radion ﬁelds which are ghost-like
+
+one has to add tachyonic mass terms). The ﬂuctuations of the mixed components gµy can be
+
+consistently set to zero, because of the Z2 symmetry requirement. Inserting the ansatz (28)
+into the action (27) yields, after integration by parts and use of the background equations
+
+of motion for the warp factor (which allow one to dispose of all terms containing y-gradients
+
+of a(y)) the following action for gµν(x, y)
+
+S =Z d4xZ dyq−g(x, y)(cid:26)a2(y) R(g(x, y)) −
+(29)
+ν = gµσ ∂y gσν. Note that this exact
+Here, tr h2−(tr h)2 ≡ hµ
+(after freezing the dilaton and the radions) action for the nonlinear dynamics of gµν(x, y)
+is still 5-dimensional. Note also that all explicit coupling to the branes have disappeared
+
+a4(y)htr(g−1 ∂y g)2 − (tr g−1 ∂y g)2i(cid:27) .
+
+ν ≡ (g−1 ∂y g)µ
+
+µ)2 where hµ
+
+µ−(hµ
+
+ν hν
+
+1
+4
+
+14
+
+(thanks to integration by parts). The crucial feature of (29) for our discussion of an eﬀective
+
+4-dimensional bigravity action is the presence of the warp-factor dependent coeﬃcients
+a2(y) and a4(y).
+
+It is the fact that these factors are exponentially localized on the two
+
+positive-tension branes (as shown in Fig. 2b which plots a2(y) = e−2σ(y)) which will allow
+
+for the derivation of an approximate 4-dimensional action. Though Eq. (29) was derived
+
+from an explicit 5-dimensional model, we expect that the general structure of Eq. (29),
+namely to have a curvature term with a weight function (here a2(y) dy) which localizes it
+on some branes, and a transverse-gradient term which also comes with a similarly localized
+weight function (here a4(y) dy), will hold in more general situations, like, for instance, the
+
+6-dimensional model of [21] (which is free from negative tension branes). Probably, in the
+
+latter model, if we assume that the excitations related to gradients in the sixth “angular
+
+type” direction θ are frozen (i.e. massive enough), we shall get an eﬀective action of the
+
+type (29) but, possibly, with weight factors which are somewhat modiﬁed (by the y-varying
+
+volume of the sixth circular dimension). To enhance the generality of our discussion, and
+
+cover such cases, we shall henceforth work with an action of the form (29) but with the
+replacements a2(y) → a2(y), a4(y) → a4(y), where a2(y) and a4(y) are two (unrelated)
+“weight” functions which are strongly localized around two branes. The generalization to
+the case of N branes is obvious. The essential features of a2(y) and a4(y) that will be needed
+in the following is that they are both positive and that: (i) a2(y) reaches maxima which
+are sharply localized on two branes, while (ii) a−1
+4 (y) reaches a sharp maximum somewhere
+between the two branes. The crucial point is to realize that these generic conditions imply
+the following speciﬁc y-dependence of gµν(x, y): as a function of y, g(y) is nearly constant
+
+everywhere, except in a “transition layer”, located around the minimum of a4(y), where
+g(y) has a fast variation with y. In other words g(y) is a smoothed version of a Heaviside
+step function: g(y) ≃ g1 θ(y∗ − y) + g2 θ(y − y∗) where y∗ is the location of the minimum of
+a4(y) and where g1 and g2 are two diﬀerent asymptotic values (which depend on xµ when
+It is this transition-layer behaviour which
+putting back everywhere the x-dependence).
+
+allows us to derive an approximate 4-dimensional action for g1(x), g2(x).
+
+To understand intuitively this transition-layer behaviour we can assume that we normal-
+4 (y) so that it takes the value a−1
+
+ize a−1
+4 (y∗) = 1 at its maximum and then decreases to very
+small values as y gets away from y∗ (either way). Let us view the action (29) (with a2 → a2,
+a4 → a4) as a “mechanical” Lagrangian for the motion of the particle g, when thinking of
+y as being “time”. The “kinetic” terms are the last two terms quadratic in y-derivatives.
+
+15
+
+We then view a4(y) as the “mass” of the g-particle. This mass is of order unity around
+y = y∗, and then increases to very large values on both sides. In other words, the g-particle
+is extremely “heavy” everywhere away from y∗, and becomes relatively “light” only around
+y∗, which makes it clear that g(y) will “move” very little away from y∗, and that all “y-
+motion” will take place only around y∗. Another way of seeing that what is important is
+to have separate maxima in a2(y) and a−1
+4 (y) would be to consider the y-Hamiltonian, (in
+terms of the y-momentum π = ∂L/∂(∂y g)) which is of the symbolic form: a2 R + a−1
+4 π2.
+One can technically analyze the behaviour of g(y) in the transition-layer by zooming on the
+exact solution of the only relevant part of the “dynamics” near y = y∗, namely the “kinetic
+terms” ∼ a4(∂y g)2 ∼ a−1
+4 π2. Note that a2 takes very small values around y∗, so that we
+can, in ﬁrst approximation, neglect a2 R with respect to a−1
+4 π2. This can be done exactly
+by changing the “time variable”. Indeed, in terms of the new “time” t, deﬁned by
+
+the “kinetic” part of the action (29) reads simply
+
+dt ≡ a−1
+
+4 (y) dy ,
+
+Sk = −Z d4x I ,
+
+where
+
+I ≡
+
+1
+
+4Z dtq− det g(t) htr(g−1 ˙g)2 − (tr g−1 ˙g)2i .
+
+Here ˙g ≡ ∂g/∂t, and we leave implicit the x-dependence of g. Actually, (31) does not couple
+anymore t- and x-derivatives. Therefore we can solve the equations of motion derived from
+
+(31) separately for each point x, i.e. it is enough to solve (32) at each x. The action (32)
+is still a very non-linear action for the t-dynamics of a 4 × 4 matrix gµν(t). However, it
+is exactly integrable. This is seen by exploiting the symmetries of I: (i) invariance under
+
+rigid SL(4) transformations of gµν, and (ii) invariance under time translations. Note that
+
+we only have an SL(4) symmetry, and not a GL(4) one because of the presence of det g. In
+other words, the action is invariant under gµν → g′
+ν gαβ only when det Λ = 1. The
+ﬁrst symmetry leads to the traceless mixed tensor constant of motion (in any spacetime
+
+µν = Λα
+
+µ Λβ
+
+dimension D)
+
+(30)
+
+(31)
+
+(32)
+
+(33)
+
+C µ
+
+ν = πµ
+
+ν −
+
+1
+D
+
+πσ
+σ δµ
+ν .
+
+16
+
+Here πµ
+
+ν ≡ gνσ πµσ where πµν is the “momentum” conjugate to gµν, namely
+
+πµν =
+
+δ I
+δ ˙gµν
+
+= √−g (K µν − K gµν)
+
+where K µν ≡ gµα gνβ Kαβ with Kαβ = 1
+
+2 ˙gαβ being the usual “second fundamental form”.
+
+The second symmetry leads to the constancy of the “energy”:
+
+E =
+
+1
+4
+
+√−g htr(g−1 ˙g)2 − (tr g−1 ˙g)2i = √−g (K µ
+
+ν K ν
+
+µ − K 2) .
+
+Contrary to what happens in the well-known Kasner solutions, we are not restricted here to
+the “zero-energy” shell (because of the inﬂuence of the curvature term a2 R which changes
+the asymptotic behaviour of g on both sides of the “transition layer” that we are currently
+zooming into). This implies that the exact solution gµν(t) is diﬀerent from, and more
+complicated than, a Kasner solution.
+
+The exact solution is obtained by decomposing gµν in its determinant (or better w ≡
+√− det g) and its unimodular part, say γµν/(− det g)1/D. Eq. (33) simply says that w γ−1 ˙γ
+
+is the constant matrix 2 C µ
+
+ν . This is immediately integrated to the matrix equation
+
+γ(t) = γ(t0) exp 2 CZ t
+
+t0
+
+dt
+
+w(t)! .
+
+To complete the solution for g(t) we need to know how its determinant − det g ≡ w2 depends
+on t. This is obtained by combining (33) with (35). This yields a ﬁrst order diﬀerential
+
+equation for w(t):
+
+D − 1
+D
+
+˙w2 = c2 − E w ; c2 ≡ tr C 2 = C µ
+
+ν C ν
+µ .
+
+In terms of the new parameter
+
+(34)
+
+(35)
+
+(36)
+
+(37)
+
+(38)
+
+where B is a constant of integration we get the solution
+
+x ≡
+
+1
+
+c s D
+
+D − 1
+
+E
+2
+
+t − B ,
+
+w =q− det g =
+
+c2
+E
+
+(1 − x2) ,
+
+17
+
+(39)
+
+(40)
+
+This allows one to express the matrix g as an explicit function of x:
+
+g(x) = 1 − x2
+0! 2
+1 − x2
+
+2
+
+c s D − 1
+
+dt
+w
+
+dx
+
+D
+
+=
+
+D
+
+1 − x2 .
+g(0) exp4s D − 1
+1 − x2 ,
+ν , i.e. is normalized so that tr bC 2 = 1.
+
+D bCZ x
+
+dx
+
+x0
+
+where the matrix bC is bC µ
+
+ν ≡ c−1 C µ
+
+The above exact solution for g(x), i.e. g(t), using (38), does not seem to involve any
+
+transition-layer behaviour. The transition-layer behaviour appears when we express g in
+
+terms of the original transverse variable y (which is the proper distance orthogonally to the
+
+branes). Indeed, when (qualitatively) integrating Eq. (30) to express t as a function of y, the
+sharp maximum of a−1
+4 (y) around y∗ means that t(y) behaves essentially as a (smoothed)
+step function t(y) ≃ t1 θ(y∗ − y) + t2 θ(y − y∗). Inserting this sharp-transition behaviour
+into the smooth solution (g(x(t)) (40) then leads to the announced (smoothed) step-like
+
+behaviour of g(y), with the bonus that we now have in hand the (rather complicated)
+
+precise manner in which g(y) sharply (but smoothly) evolves in the transition region. It
+
+is interesting to make the link between the nonlinear transition of g(x, y) between the two
+positive-tension branes (which is a smoothed version of g(x, y) ≃ g1(x) θ(y∗−y)+g2(x) θ(y−
+y∗)) and the result of linearized ﬂuctuations which, as recalled above, is expressed as
+
+gµν(x, y) = ηµν + hµν(x, y) with hµν(x, y) = Σn exp(cid:18) 3
+
+2
+
+σ(cid:19) h(n)
+
+µν (x) Ψn(y) .
+
+One indeed ﬁnds, when looking at the explicit results for the various mode functions
+Ψn(y) that the ﬁrst two modes (n = 0, 1; corresponding to the massless mode, and the
+
+2 σ(cid:17) and Ψ1(y) ≃ ε(y − y∗) exp(cid:16)− 3
+µν (x) + ε(y− y∗) h(1)
+
+lightest mode) behave as Ψ0(y) ≡ exp(cid:16)− 3
+2 σ(cid:17) where
+ε(x) ≡ sign(x). Keeping only the ﬁrst two modes is then equivalent to considering metric
+ﬂuctuations of the form gµν(x, y) ≃ ηµν + h(0)
+µν (x), which is fully consistent
+with our result for the fully nonlinear metric g(x, y) interpolating between a g1(x) and a
+g2(x) through a transition layer. When going beyond the step-function approximation, one
+can also check that the nontrivial transition behaviour (40) does also correspond (when lin-
+2 σ Ψ1(y) (considered
+earized in gµν−ηµν) to a zoom on the (large kℓ) limit of the ﬁrst mode e
+as a smoothed version of ε(y−y∗)). Note also that the characteristic width of the transition
+
+3
+
+18
+
+layer is ∆y ∼ k−1, where k is the usual bulk curvature parameter deﬁned such that the
+background solution has (∂y σ)2 = k2 (outside the branes), so that σ(y) = k |y − y1| near
+brane 1 (and a2(y) = e−2σ = e−2k|y−y1|). There is a clean separation between the transition
+
+layer (around y∗ which is the location of the middle negative-tension brane) and the “lo-
+calization layers” (around y1 and y2, i.e. the locations of the two positive-tension branes),
+when kℓ ≫ 1, where ℓ denotes the smallest interbrane distance: ℓ = min(L1, L2 − L1); see
+Fig. 2b. Because of the exponential dependence of the warp factors (and therefore of a2(y)
+and a4(y) in the + − + model), even a moderately large value of kℓ suﬃces to ensure that
+the above (nonlinear) transition-layer approximation is valid up to exponentially smaller
+
+corrections.
+
+The exact, nonlinear transition-layer solution (40) interpolates between a certain metric
+g1(x) ≡ g(x, y1) on the ﬁrst brane, and another one g2(x) ≡ g(x, y2) on the second brane.
+Instead of viewing the exact solution (40) as the solution of a Cauchy problem (e.g. for given
+
+g1 and ˙g1), we should reexpress it as the solution of a “Lagrange-Feynman” problem, i.e. as
+the unique extremizing solution of the action (31), (32), for given “initial” and “ﬁnal” values
+of g(y): i.e. for given g1(x) ≡ g(x, y1) and g2(x) ≡ g(x, y2). We can also think of (32) as
+deﬁning a certain Riemannian metric in the space of metrics gµν. We are then considering
+the “geodesic” connecting some given initial point g1 to some given ﬁnal point g2. Let
+gg1,g2(y) denote this unique (parametrized) geodesic. The analysis above then leads us to
+estimate that a good approximation (when kℓ ≫ 1) to the eﬀective action describing the
+dynamics of g1(x) and g2(x) is obtained by inserting the “geodesic” gg1,g2(x, y) (computed
+
+for each point x) in the original full action (29), so that
+
+S [g1, g2] =Z d4xL[g1, g2] ,
+
+(41)
+
+(42)
+
+where (suppressing the x-dependence to focus on the y-dependence)
+
+L[g1, g2] = 2Z y2
+
+y1
+
+dy a2(y) R[gg1,g2(y)] − 2I[g1, g2] ,
+
+where R[g] ≡ √−g R(g), and where I[g1, g2] is the value of the “geodesic” action (32)
+
+evaluated for the extremizing solution gg1,g2(y) and integrated between y1 and y2. The
+
+factors 2 in (42) come from the fact that we are assuming periodicity over y varying between
+y1 and 2y2− y1. Calculating I[g1, g2] from the exact solution (40) is somewhat complicated.
+
+19
+
+Let us only give the ﬁnal result (which is simpler than the necessary intermediate steps):
+
+(43)
+
+(44)
+
+(45)
+
+(46)
+
+(47)
+
+(48)
+
+where
+
+with
+
+I[g1, g2] = (g1 g2)
+
+4 Vb(g1, g2) ,
+
+1
+
+Vb(g1, g2) =
+
+8
+T
+
+D − 1
+
+D
+
+(cosh β − cosh α)
+
+y1
+
+T =Z y2
+dt =Z y2
+D − 1sσ2 −
+4s D
+
+σ2
+1
+D
+
+1
+
+y1
+
+β =
+
+a−1
+4 (y) dy ,
+
+=
+
+1
+
+4s D
+D − 1
+
+√
+
+bσ2 ,
+
+α =
+
+σ1 .
+
+1
+4
+
+γ−1
+
+a where µa denote the logarithms of the eigenvalues of the
+1 g2 and σ2 = tr (ln g−1
+
+As above, σ1 ≡ Σa µa, σ2 ≡ Σa µ2
+matrix g−1
+1 g2, i.e. σ1 = tr ln g−1
+1 g2)2. The combination bσ2 is Σabµ2
+where bµa ≡ µa − σ1/D denote the logarithms of the eigenvalues of the unimodular metric
+1 γ2, i.e. bσ2 = tr (ln γ−1
+T =R dt needed to interpolate between g1 and g2. We recall that, in the + − + model, we
+
+1 γ2)2. For added generality, we have left the dependence upon the
+brane (spacetime) dimension, though we have in mind here only D = 4. The weak-coupling
+
+parameter appearing in front of the interaction term I is the inverse of the total “t-time”
+
+have a4 = a4. An explicit computation then yields
+
+a
+
+This exponentially large value (due to the exponentially small value of a4 near the inter-
+
+mediate brane) corresponds to the expected exponentially small coupling between the two
+
+metrics on the positive-tension branes.
+
+To get an explicit bigravity action, one still needs to evaluate the ﬁrst contribution in
+
+the Lagrangian (42). Neglecting exponentially small fractional contribution it is clear (in
+
+view of the localized behaviour of a2(y) and of the near y-constancy of gg1,g2(y) outside of
+
+the transition-layer) that this contribution is well approximated by replacing gg1,g2(y) by
+
+its (relevant) boundary value g1 or g2. Finally, the full brane-derived bigravity eﬀective
+
+T =
+
+e4kℓ
+2k
+
+.
+
+20
+
+Lagrangian density (in units where the coeﬃcient of R in the higher-dimensional theory is
+set to one) is
+
+L(g1, g2) = A1 R(g1) + A2 R(g2) − 2I(g1, g2) ,
+
+where R(g) ≡ √−g R(g), where (see Fig. 2b; we assume that y varies over a full period
+[−L2, +L2])
+
+A1 =Z L1
+
+−L1
+
+dy a2(y) , A2 =Z 2L2−L1
+
+L1
+
+dy a2(y) ,
+
+(49)
+
+and where the “potential” term I(g1, g2) is given by Eqs. (43), (44) above.
+
+It is easily checked that the potential (44) has the Pauli-Fierz limiting behaviour (13) in
+the limit µa → 0. One can then compute the corresponding Pauli-Fierz mass. One ﬁnds (in
+the symmetric case L2 = 2 L1 = 2 ℓ, for simplicity) m2
+1 . The explicit value,
+in the + − + model, of A1 is A1 ≃ 1/k, so that we get mPF = 2 √2 e−2kℓ k, in agreement
+
+PF = 4 T −1 A−1
+
+with the direct analysis of linearized ﬂuctuations [1]. In the Appendix we further compare
+
+the nonlinear bigravity action to the linearized bigravity results already derived in the
+literature. In particular we check that they are fully consistent, even in the asymetric case
+L2 6= 2 L1.
+
+A full justiﬁcation of the eﬀective action (42) can, in principle, be obtained by explicitly
+considering the eﬀect of corrections to our approximation g(x, y) ≃ gg1,g2(x, y). For instance,
+we can write g(y) ≡ gg1,g2(y) + ξ(y) where the correction ξ(y) vanishes, by deﬁnition, when
+y = y1 and y = y2. We can then expand ξ(y) = Σn ξn sin 2π n τ (y) where τ ≡ t/T varies
+[The condensed notation ξn denotes some ξnµν(x)].
+(by deﬁnition) in the interval (0, 1).
+
+An analysis of the full action (expanded quadratically in the ξ’s), containing not only the
+
+“light ﬁelds” g1(x), g2(x), but the tower of “heavy ﬁelds” ξn(x), shows that the mass of
+the heavy ﬁelds scale like mξ ∼ e−kℓ k, which is exponentially heavier (by a factor e+kℓ)
+than the Pauli-Fierz mass scale. This conﬁrms that the nonlinear bigravity action (42) is a
+
+good eﬀective description when one considers conﬁgurations g1(x), g2(x) where the relevant
+gradients are small compared to mξ.
+
+3.2 Kaluza-Klein Models
+
+As said in the Introduction, and sketched in Fig. 1, one expects generic Kaluza-Klein models
+to give rise to “regular spectra” containing no gap allowing one to separate a ﬁnite number
+
+21
+
+of light gravitons from an inﬁnite tower of heavy ones. We wish, however, to emphasize the
+existence of a class of KK models where such a gap can exist.
+
+D = g(0)
+
+tot = ds2
+
+µν (say g(0)
+
+D + dσ2 where ds2
+
+as a direct (unwarped) product, ds2
+
+By KK model, we mean a higher-dimensional background geometry which decomposes
+µν (x) dxµ dxν (with, e.g.,
+g(0)
+µν (x) = ηµν) and dσ2 = γab(y) dya dyb. When decomposing the ﬂuctuations of the higher-
+dimensional metric gM N (x, y) = (gµν, gµa, gab) into representations of the symmetry group
+of g(0)
+
+µν = ηµν) one generally expects the squared mass spectrum of tensor (spin
+2) ﬂuctuations δ gµν to be given by the spectrum of the scalar Laplacian on the (compact)
+internal manifold, say Γ, with metric dσ2 = γab(y) dya dyb. Let λn ≥ 0, with n = 0, 1, 2, . . .
+denote the latter spectrum, i.e. γ−1/2 ∂a(γ1/2 γab ∂b) φn(y) = −λn φn(y). There is always
+a zero-mode, φ0(y) = const., corresponding to λ0 = 0, i.e. to a massless graviton. The
+question of the existence of a hierarchy allowing one to consider, for instance, an eﬀective
+theory containing only the massless graviton and a superlight one, is then equivalent to
+requiring that the ﬁrst eigenvalue λ1 (or group of eigenvalues) be parametrically smaller than
+higher eigenvalues. It is interesting to note that there are general mathematical theorems
+
+which guarantee that such a hierarchy cannot occur if the compact metric γ is Ricci-ﬂat (or
+
+Ricci-positive). Indeed, if we consider, for simplicity, the Ricci-ﬂat case, there are theorems
+
+(see [26], [27]) saying that there exist universal positive constants an(d), bn(d) (which depend
+only on the dimension d of the compact manifold Γ) such that an(d) δ−2 < λn < bn(d) δ−2
+for all n ≥ 1, where δ denotes the (metric) “diameter” of Γ. However, we wish to emphasize
+that, if one does not constraint the sign of the Ricci tensor, nothing prevents the occurrence
+of a spectral hierarchy. We conjecture that the generic situation where such a spectral
+
+hierarchy (between a ﬁnite group of abnormally small eigenvalues and the rest) occurs is
+
+a “near pinching” situation, i.e. the case where the manifold Γ is on the verge of getting
+
+split into two (or more) separate manifolds (of the same dimension d as Γ), as is illustrated
+
+in Fig.3a.
+
+We have conﬁrmed by some toy-model calculations that the near-pinching case (if the
+
+connecting “tube” between, say, two manifolds is not too long) does indeed lead to a
+
+spectral hierarchy. Let us also mention that a general theorem of Cheeger (see [28]) can
+
+be viewed as a (moral) conﬁrmation of our conjecture. Indeed, this theorem says that a
+lower bound of the ﬁrst eigenvalue is λ1 ≥ h2/4 where Cheeger’s constant h is deﬁned as
+the lower bound of the ratio |S|/inf(|Γ1|,|Γ2|) when S runs over all closed submanifolds
+
+22
+
+Γ
+
+a)
+
+Γ
+1
+
+Γ
+2
+
+b)
+
+Figure 3: Manifold Γ (Fig. 3a) is on the verge of splitting into two classically disconnected
+manifolds Γ1 and Γ2 (Fig. 3b). These two manifolds may be connected at the quantum
+level.
+
+of Γ (of dimension d − 1) which partition Γ into two open manifolds Γ1, Γ2, with common
+boundary ∂Γ1 = ∂Γ2 = S. We use the notation |Γ| to denote the (riemannian) volume of
+Γ. Note that h has the dimension of an inverse length, and that “pinching” does indeed
+correspond to the case where h → 0.
+
+Physically, we can view the very light mode arising in a nearly pinched conﬁguration
+Γ1 ∪ {tube} ∪ Γ2 as coming from the eﬀect of a weak coupling between two “resonators”
+(or quantum mechanical systems) having regular spectra λ(1)
+n . Before coupling, the
+ground state is degenerate, λ(1)
+0 = 0. Weak coupling is generally expected to split
+this degeneracy into a doublet. As λ0 = 0 is always an exact eigenvalue of the combined
+system (corresponding to φ0(y) = 1), this mechanism always leads to a small λ1 (going to
+zero with the coupling). Note that the eigenmode corresponding to λ1 is approximately
+equal to φ1(y) ≃ ε(y) where ε(y) is +1 over Γ1, and −1 over Γ2.
+
+0 = λ(2)
+
+n , λ(2)
+
+We are aware of the fact that weakly coupled string theory suggests compactiﬁcation
+
+on Ricci-ﬂat manifolds (which exclude a spectral hierarchy). However, we think that string
+
+theory might still, in certain circumstances, allow for a spectral hierarchy: either because of
+α′-corrections to Einstein equations (which lead one away from the Ricci-ﬂat case), or (more
+
+speculatively) because of conceivable quantum tunnelling eﬀect between two (separate, but
+
+“near”) Ricci-ﬂat manifolds Γ1, Γ2. Pictorially, such a tunnelling situation is the limit of
+Fig. 3b where the link between Γ1 and Γ2 is classically broken. The exponentially small
+coupling associated to such a tunnelling situation would naturally induce an exponentially
+small λ1, and thereby a bigravity coupling scale µ exponentially smaller than the string
+scale.
+
+23
+
+3.3 Bigravity and Connes’ non-commutative geometry
+
+Within his general non-commutative geometry programme [29], Connes introduced the
+
+model of a two-sheeted space X, made from the product of a continuous space Y by
+a discrete “two-point space” {a, b} (or Z2) : X = Y × Z2. Though the algebra A of
+“functions on X” (deﬁned as the algebra of pairs of functions viewed as diagonal matrices
+diag(fa(y), fb(y)) with y ∈ Y ) is commutative, the bimodule of 1-forms on such a space
+is not commutative [29]. Generalizations of this model (also based on the product of a
+
+continuum by a discrete space) were used in [30] to give a geometrical explanation of the
+
+structure of the Standard Model. In particular, it was found that the VEV of the Higgs
+
+ﬁeld is related to the (non-commutative) “distance” between the two sheets. The metric
+
+aspect of such a two-sheeted space was developed along diﬀerent lines by several authors
+
+[31], [32], [33], [34]. For instance, Ref. [31] introduced (non-commutative) analogues of the
+
+Riemannian metric, curvature tensor and scalar curvature, which enabled them to introduce
+a generalized Einstein-Hilbert action. This generalized Einstein-Hilbert action was found
+
+to contain (besides the standard integral of the scalar curvature of Y ) a minimally coupled
+massless scalar ﬁeld σ related to the “distance” between the two sheets by d ∝ e−σ(y).
+An alternative approach to studying gravitational eﬀects within general non-commutative
+
+spaces has been proposed in [34]. We shall follow this approach which is based on a general
+
+“spectral action principle”. In its simplest form, this principle is proposing to take as bare
+
+bosonic (Euclidean) action for any non-commutative model X the trace of the heat kernel
+
+associated with the square of the (non-commutative) Dirac operator DX of X:
+
+I = Tr exp (−t D2
+
+X) .
+
+(50)
+
+0
+
+introduces a cut-oﬀ, roughly equivalent to keeping only frequencies smaller
+
+Here t ≡ m−2
+than m0. The cut-oﬀ-dependent Euclidean action (50) is viewed (`a la Wilson) as the bare
+action at the mass scale ∼ m0.
+
+It seems that all previous works interested in the metric aspect of a two-sheeted space
+X = Y × Z2 have restricted themselves (either for simplicity, or because of some constraints
+[33]) to the case where the metric is the same on the two sheets. By contrast, we focus
+here on the case where the two metrics are diﬀerent, say gL
+µν, and the aim of this
+subsection is to compute the “potential” V(gL, gR) implied by the spectral action (50).
+Following Connes (see p. 569 of the English edition of his book [29]) we deﬁne a Dirac
+
+µν and gR
+
+24
+
+operator on a bi-Riemannian space X = Y × Z2 as
+
+DX =
+This operator acts on bi-spinors (cid:16) ψL
+
+D/ L
+
+γ5 m
+
+γ5 m
+
+D/ R
+
+ .
+
+ψR(cid:17) living on Y × Z2. Our conventions are that the
+
+(Euclidean) gamma matrices are hermitian, as well as γ5 (which satisﬁes γ2
+5 = 1 and which
+anticommutes with the gamma matrices and therefore with the separate Dirac operators
+
+D/ L and D/ R). The explicit form of the (hermitian) Dirac operators on each sheet is
+
+(51)
+
+D/ L,R = i γµ
+
+L,R (∂µ + Ωµ(L, R)) ,
+
+I , γν
+
+{γµ
+
+I } = 2 gµν
+I ,
+
+I = L, R .
+
+(52)
+
+aL, γµ
+
+R = γa Eµ
+
+The explicit form of the spin connections Ωµ will not be important for our calculations.
+On the other hand, the explicit form of the gamma matrices will be crucial. They read
+γµ
+L = γa Eµ
+aR where {γa, γb} = 2 δab is a standard set of (space-independent)
+gamma matrices and where Eµ
+aR(x) (where x ∈ Y ) are vierbeins corresponding
+to the two positive deﬁnite metrics gL
+µν, gR
+L (x) =
+δab Eµ
+bL, etc. Note that the structure (51) assumes that we are given not only an
+identiﬁcation map between corresponding points of the two sheets (here gauge-ﬁxed by the
+
+µν given on the abstract manifold Y : gµν
+
+aL(x), Eµ
+
+aL Eν
+
+identiﬁcation of the two underlying abstract manifolds and the use of only one coordinate
+system xµ to describe the metrics on the two sheets), but also a one-to-one map between
+the spin structures, and in particular between any choice of vierbein. In other words to
+aR so that an arbitrary, local SO(4) rotation of Eµ
+any Eµ
+aL must correspond a unique Eµ
+aL
+corresponds to the same rotation of Eµ
+aR. It is most natural to use as map Eµ
+aR the
+canonical map deﬁned in [35]. This map can be deﬁned by requiring that it reduces to simple
+rescalings Eµ
+aL when considering bi-orthogonal frames (as in Eq. (9) above).
+For simplicity, the quantity m in Eq. (51) (which “connects” the two sheets) will be taken
+
+aR = e−µa/2 Eµ
+
+aL → Eµ
+
+to be a constant real scalar. More generally, it could also be a matrix when considering
+multiplets of fermions and could be space-dependent. We shall see that m is connected
+
+with the coupling scale µ in Eq. (6). It might be interesting to consider generalized models
+where m (and therefore µ) is linked to a ﬂuctuating scalar m(x) ∝ e−σ(x) as in [31].
+
+25
+
+The square of the Dirac operator (51) is easily obtained as
+
+D2
+
+X =
+
+D/ 2
+
+L + m2
+
+m γ5(D/ L − D/ R)
+
+m γ5(D/ R − D/ L)
+
+D/ 2
+
+R + m2
+
+
+
+starts at order t−2 = m4
+constant terms m4
+
+The heat kernel expansion of (50) is a series in increasing powers of t = m−2
+
+0 which
+0. At this leading order the action I leads to two bare cosmological
+0),
+
+0/(4π2)R d4x(√gL +√gR). At the next to leading order, O(t−1) = O(m2
+0/(48π2)R d4x(−√gL RL−√gR RR) (with negative
+one gets two separate Einstein actions m2
+signs, as is appropriate for an Euclidean action IE which is essentially IE = −IMinkowski with
+a positive signature metric) as well as a “potential” term +R d4xV(gL, gR) proportional to
+0 m2 scaling, the potential V contains no derivatives of gL or gR. It
+m2
+can therefore be evaluated by considering the case of constant metrics gL
+µν. We can then
+neglect the spin connections in (52) and go to the momentum representation (i ∂µ → kµ)
+to set
+
+0 m2. In view of its m2
+
+µν, gR
+
+Here k/ L ≡ γµ
+L kµ, k/ R ≡ γµ
+rewrite these as k/ L ≡ γa kL
+
+D2
+
+X =
+
+k/ 2
+
+L + m2
+
+m γ5(k/ L − k/ R)
+
+m γ5(k/ R − k/ L)
+
+k/ 2
+
+R + m2
+
+ .
+
+R kµ. Using the explicit vierbein expressions of γµ
+a , k/ R ≡ γa kR
+a ≡ kµ Eµ
+kL
+
+a ≡ kµ Eµ
+kR
+aR .
+
+a , where
+
+aL ,
+
+L and γµ
+
+R we can
+
+In terms of these two diﬀerent vectors (that live in a local Euclidean space common to the
+tangent spaces of the two sheets), one easily ﬁnds that the eigenvalues of D2
+
+X are
+
+k2
+L + k2
+
+R
+
+2
+
++ m2 ±s (k2
+
+L − k2
+
+R)2
+
+4
+
+λ± =
+
++ m2(kL − kR)2 .
+
+Here, all squares are evaluated with the ﬂat Euclidean metric δab appropriate to the local
+Euclidean space where both kL
+a live. In the limit m2 → 0 (appropriate to the heat
+kernel expansion) the eigenvalues (56) read (we henceforth suppress the boldfacing of the
+Euclidean vectors kL and kR)
+
+a and kR
+
+(53)
+
+(54)
+
+(55)
+
+(56)
+
+λ+ = k2
+
+L + m2 + m2 (kL − kR)2
+L − k2
+k2
+
+R
+
++ O(m4) ,
+
+26
+
+(57)
+
+(58)
+
+(59)
+
+(60)
+
+λ− = k2
+
+R + m2 − m2 (kL − kR)2
+L − k2
+k2
+
+R
+
++ O(m4) .
+
+The heat kernel action reads
+
+I = Tr exp (−t D2
+
+X) = 4Z d4xZ
+
+d4k
+(2π)4 [e−tλ+ + e−tλ−],
+
+where the 4 comes from the trace in spinor space and where d4k is the fourfold integral over
+the covariant components kµ. Expanding (58) in powers of m2 leads to the mixing term
++ 4 m2
+
+0 m2R d4x (V1 + V2) where
+V1 = −t2Z
+
+d4k
+(2π)4
+
+R
+
+L − e−tk2
+e−tk2
+k2
+L − k2
+
+R
+
+(kL − kR)2 ,
+
+V2 = −t2Z
+
+d4k
+(2π)4 (e−tk2
+
+L + e−tk2
+
+R) .
+
+0 = t−1 in front of V1 and V2, the expressions (59), (60) are
+After our factorization of m2
+easily seen to be t-independent. We can then evaluate them by setting, say, t = 1 in them.
+Noting that k2
+
+L kµ kν, etc., V2 is easily evaluated:
+
+L = δab kL
+
+b = gµν
+
+a kL
+
+L )− 1
+
+R )− 1
+
+2 + (det gµν
+
+V2 = −c4((det gµν
+
+2 ) = −c4(√gL + √gR)
+where c4 ≡ (16π2)−1 and where gL ≡ det gL
+L )−1. The potential V1 is much more
+tricky. However, it can be nicely expressed by introducing a Schwinger-type parameter α
+(varying between 0 and 1) and by using the identity (e−a−e−b)/(a−b) ≡ −R 1
+0 dα exp[−((1−
+α)a + αb)]. This naturally leads to the introduction of a one-parameter family of metrics
+
+µν = (det gµν
+
+(61)
+
+g(α) interpolating between gL and gR (reached, respectively, when α = 0 and α = 1). More
+precisely we deﬁne
+
+gµν(α) ≡ (1 − α) gµν
+
+L + α gµν
+R .
+
+(62)
+
+[Note that the “line” connecting gL to gR is “straight” when expressed in terms of con-
+travariant metrics (which naturally appear in the squared Dirac operator D2 = −gµν ∂µν =
++ gµν kµ kν), but will become “curved” when expressed in terms of the covariant compo-
+In terms of the deﬁnition (62) (and the associated gµσ(α) gσν(α) = δν
+nents gµν(α).]
+µ,
+g(α) ≡ det gµν(α) ≡ (det gµν(α))−1) we ﬁnd that V1 can be written as
+dαqg(α) gµν(α) ,
+
+aZ 1
+
+c4 ∆Eµ
+
+a ∆Eν
+
+V1 = +
+
+(63)
+
+1
+2
+
+0
+
+27
+
+a ≡ Eµ
+
+aR − Eµ
+
+aL. Finally, the O(m2) piece of the Euclidean action (i.e. the “po-
+where ∆Eµ
+tential”, remembering that LEucl. = −LMink.) predicted by the non-commutative approach
+to two-sheeted spaces reads +R d4xV with
+aZ 1
+
+dαqg(α) gµν(α) − √gL − √gR(cid:21) .
+
+0 m2
+4π2
+
+a ∆Eν
+
+(cid:20) 1
+
+V =
+
+∆Eµ
+
+(64)
+
+m2
+
+2
+
+0
+
+The explicit evaluation of the α-integral in (64) can be reduced to (incomplete) elliptic
+
+integrals. In fact, it can be reduced to the evaluation of the single integral
+
+by using the identity
+
+I(gL, gR) ≡Z 1
+
+0
+
+dαqg(α) =Z 1
+
+0
+
+dα
+
+qdet((1 − α) gµν
+
+L + α gµν
+R )
+
+  ∂
+
+∂ gµν
+L
+
+R! I(gL, gR) = −
+
+∂
+∂ gµ
+
++
+
+1
+
+2Z 1
+
+0
+
+dαqg(α) gµν(α) .
+
+When considering a bi-orthogonal frame, say with Eµ
+
+aL = diag(e−µL
+
+a /2), Eµ
+
+(so that gL
+
+µν = diag(e+µL
+
+a ) the
+integral (65) is a rather simple elliptic integral of the ﬁrst kind which, in principle, can be
+
+L gR = diag(eµa) with µa = µR
+
+µν = diag(e+µR
+
+a ) and g−1
+
+a ), gR
+
+explicitly expressed in terms of the eigenvalues λL,R
+is the discussion of the “weak-excitation” limit of V, i.e. the limit µa = µR
+(g−1
+L gR)µ
+σ2 = Σ µ2
+
+. Of more direct interest for us
+a → 0, i.e.
+ν → 0. In this limit we ﬁnd that V behaves as (with σ1 = Σ µa,
+
+ν + hµ
+ν = δµ
+a as above)
+
+a − µL
+
+ν with hµ
+
+a ≡ eµL,R
+
+a
+
+a /2)
+
+aR = diag(e−µR
+a − µL
+
+V ≃
+
+(gL gR)
+
+=
+
+(gL gR)
+
+m2
+
+0 m2
+4π2
+
+m2
+
+0 m2
+4π2
+
+1
+
+4 −2 +
+4(cid:18)−2 +
+
+1
+
+σ2
+8 −
+
+σ2
+1
+
+16!
+
+1
+8
+
+µ hµ
+hν
+
+ν −
+
+1
+16
+
+(hν
+
+µ)2(cid:19) .
+
+(65)
+
+(66)
+
+(67)
+
+Besides a negative m2-dependent, contribution to the cosmological constant (which has
+
+anyway bare contributions O(m4
+for weak excitations away from gL
+
+0)), we see that we do not get a Pauli-Fierz-type mass term
+µν. We get instead (remembering that the (bare)
+
+µν = gR
+
+Planck mass is M 2
+
+L = M 2
+
+R = m2
+
+0/(48π2)) a mass term proportional to m2hhν
+
+µ hµ
+
+ν − 1
+
+2 (hν
+
+µ)2i.
+
+28
+
+µ hµ
+
+ν −(hµ
+
+Such a mass term contains a scalar ghost, but has the virtue (contrary to the Pauli-Fierz one
+µ)2]) of exhibiting excellent continuity properties of the limit m2 → 0 for all
+∼ m2 [hν
+processes linked to the generation of gravitational ﬁelds by sources (see, e.g., Appendix C
+of [37] where it is easily seen that α = 1/2 leads to an Einstein-like propagator hµν T µν ∝
+T µν(✷ − m2)−1 (cid:16)Tµν − 1
+
+2 ηµν T(cid:17)).
+
+4 Phenomenology of Multigravity
+
+4.1 Bigravity, and bicosmology, versus massive gravity
+
+There is quite a sizable (and somewhat confusing) literature about the “problems” raised
+
+by having either “massive gravity” (i.e. a kind of ﬁnite-range version of Einstein’s theory),
+
+or a “massive graviton” in addition to Einstein’s massless one. We leave to a future publi-
+cation a detailed discussion of such issues, but wish to emphasize the fact that the change
+of paradigm, brought by focusing on a fully nonlinear bigravity theory, drastically modiﬁes,
+
+in our opinion, the way one should view the traditional “problems” of massive gravity (in
+
+both senses recalled in the sentence above). One of the basic points is that many of the
+
+“problematic” issues (such as, unboundedness of the energy, singularity of the inﬁnite-range
+
+limit) simply loose their meaning in a general bigravity setting. Indeed, these problematic
+
+issues make sense only for states (in some theories) which are, at least asymptotically,
+
+close to some trivial, Poincar´e invariant background. We think that, even when consider-
+ing formally “small” excitations above a trivial background state gL
+
+µν(x) = ηµν,
+the exact bigravity conﬁgurations will generically develop into full-blown “bi-cosmological”
+
+µν(x) = gR
+
+conﬁgurations with ﬁelds that grow so much (in time and/or in space) so as to be outside
+
+the usually considered domain of bi-asymptotically ﬂat conﬁgurations containing localized
+excitations. Note that most of the results concerning the “discontinuity” of the m2 → 0
+limit [38], [39], [37] implicitly (or explicitly) assumed such a framework of asymptotically
+
+decaying perturbations of a (minimum energy) Poincar´e invariant background. We think
+
+that, if one relaxes this asymptotic restriction, there exists a sector of bigravity theories
+which exhibits “physical continuity” for small m2, at the cost of cosmological behaviour
+on large scales. Note that such a claim, while being consistent with the works [40, 41, 42]
+
+which found continuity of massive graviton interactions in maximally symmetric ((A)dS)
+
+cosmological backgrounds, is somewhat diﬀerent from the claim of [43],[44]. Indeed, the
+
+29
+
+latter claim seems to insist on a framework (and a language, like that of propagators, cou-
+
+pling and scattering states) which preassumes the restriction to localized excitations of a
+
+Poincar´e-invariant vacuum, i.e. that the metrics under consideration are asymptotically
+ﬂat. Leaving to a future publication a detailed discussion of the “discontinuity” issue, we
+shall content ourselves here to sketch the general dynamical structure `a la Arnowitt-Deser-
+
+Misner (ADM) [36] of bigravity theories.
+
+4.2 ADM analysis of bigravity theories
+
+We consider a general bigravity action (6). Let us decompose the two spacetime metrics
+
+4gL
+
+µν, 4gR
+ij N j
+
+µν into the two lapses NL, NR (NL ≡ (− 4g00
+ij (gL
+L ≡ 4gL
+
+0i) and the two spatial metrics gL
+
+ij, gR
+
+L )− 1
+ij ≡ 4gL
+
+(4gL
+
+ij). We have
+
+2 ), the two shift vectors N i
+
+L, N i
+R
+
+ds2
+
+ds2
+
+L = −N 2
+R = −N 2
+
+L dt2 + gL
+
+ij(dxi + N i
+
+L dt)(dxj + N j
+
+L dt) ,
+
+R dt2 + gR
+
+ij(dxi + N i
+
+R dt)(dxj + N j
+
+R dt) .
+
+After integration by parts, each separate “Left” or “Right” pieces of the action (6) reads
+
+(say for the Left piece)
+
+IL =Z dtZ d3x (πij
+
+L ˙gL
+
+ij + ΠL ˙ΦL − NL HL − N i
+
+L H L
+i )
+
+where πij
+L is the Left gravitational momentum density, ΠL is a (generic) matter momentum
+density and where the left super-Hamiltonian, and super-momentum densities have the
+structure
+
+HL =
+
+1
+M 2
+L
+
+1
+
+√gL(cid:18)πij
+
+L πL
+
+ij −
+
+1
+2
+
+π2
+
+L(cid:19) − M 2
+
+L √gL RL + H matter
+
+L
+
+,
+
+H L
+i = −2 DL
+
+j πj
+
+Li + H L matter
+
+i
+
+.
+
+4gR). Using the fact that the
+Let us now consider the interaction term −(4gL
+local scalar V must be (in particular) invariant under transformations of the type dt′ = λ dt,
+j(dxj + vj dt) one ﬁnds that it can only depend on the lapses and shifts through
+dx′i = Λi
+L)/√NL NR. Let us then replace the 8 variables NL,
+
+4 V (4g−1
+L
+
+4gR)
+
+1
+
+(68)
+
+(69)
+
+(70)
+
+(71)
+
+L, NR, N i
+
+the combinations NR/NL and (N i
+N i
+R by the combinations
+
+R − N i
+N ≡qNR NL , n ≡s NR
+
+NL
+
+i
+
+, N
+
+1
+2
+
+≡
+
+(N i
+
+R + N i
+
+L) , ni ≡
+
+R − N i
+N i
+2 √NR NL
+
+L
+
+.
+
+(72)
+
+30
+
+With these deﬁnitions it is found that the total action reads
+
+I =Z dtZ d3x (πij
+
+L ˙gL
+
+ij + πij
+
+R ˙gR
+
+ij + ΠL ˙ΦL + ΠR ˙ΦR − H)
+
+(73)
+
+where the total Hamiltonian density reads (here and below gL
+and gL ≡ det gL
+
+ij, gR ≡ det gR
+ij)
+
+ij, gR
+
+ij are the spatial metrics
+
+i
+
+H(N , N
+
+, n, ni, gL, πL, gR, πR, ΦL, ΠL, ΦR, ΠR) = N H + N
+
+i
+
+H i
+
+(74)
+
+where
+
+H(n, ni, g, π, Φ, Π) = n−1 HL + n HR − ni H L
+
+i + ni H R
+
+i + (gL gR)
+
+1
+
+4 V (n, ni, gL, gR) ,
+
+(75)
+
+H i(g, π, Φ, Π) = H L
+
+i + H R
+i
+
+.
+
+(76)
+
+The crucial point for the present discussion is the separation of the 8 lapse and shift
+variables into two sets: (i) the four “average” lapse and shifts N , N i, which are true
+Lagrange multipliers appearing only linearly in the action, and (ii) the four “relative” lapse
+and shifts n, ni which enter algebraically in the action (no kinetic terms) but in a non linear
+manner. The four average lapse and shifts give rise to four constraints, which are linked to
+the symmetry of the action under common diﬀeomorphisms:
+
+H = 0 ,
+
+H i = 0 .
+
+(77)
+
+N, N i are gauge variables which can be gauged away (e.g. to N = 1, N i = 0). The four
+(ﬁrst-class) constraints (77) can be used, together with the ﬁeld equations (which involve N
+and N i) to eliminate four degrees of freedom (i.e. eight functions of positions and momenta).
+By contrast, the four relative lapse and shifts n, ni are not (undeterminable) gauge variables
+but are dynamical variables which are instantaneously determinable in terms of the other
+
+variables (g, π, Φ, Π) by their (algebraic) equations of motion:
+
+∂ H
+∂ n
+
+= 0 ,
+
+∂ H
+∂ ni = 0 .
+
+(78)
+
+This result generalizes the ﬁndings of [37] which studied the case of “massive gravity”, i.e.
+(21). We must assume here that the potential V has a “good” dependence on n and ni
+
+which allow for an (essential) unique solution of Eqs. (78) for a generic (or at least an
+
+31
+
+open) domain of free dynamical data g, π, Φ, Π. We think that the only (covariant) sit-
+
+i
+
+µν)1/2 + cR(− det 4gR
+
+uation where n and ni combine with N , N
+to generate more (gauge-related) Lagrange
+multipliers is the case where V is linear in NL and NR, which must then correspond
+(by covariance) to V = cL NL √gL + cR NR √gR = cL(− det 4gL
+µν)1/2.
+For instance, we can think that V (n, ni) contains terms quadratic in ni (as already fol-
+lows from a Pauli-Fierz mass term), and behaves, for both large (respectively, small)
+n as + a n2 (respectively + b n−2). Note also that if we deﬁne the new scalar poten-
+tial V new by factoring (− det 4gL
+µν)1/2 instead of (4gL 4gR)1/4 from V,
+i.e. V = ((− det 4gL
+µν)1/2)V new, the last term in Eq. (75) will become
+(n−1√gL + n√gR)V new(n, ni, gL, gR). It is then enough to require that V new(n) grows in
+any manner (even logarithmically) towards +∞, as n → +∞ or n → 0. Such conditions
+ensure the existence of (possibly non unique) solutions of the equations of motion of n and
+ni, Eq. (78).
+
+µν)1/2 + (− det 4gR
+
+µν)1/2 + (− det 4gR
+
+We can then use (78) to eliminate n and ni (by replacing them by their expression in
+
+terms of the other dynamical data). It is then easily seen that the reduced Hamiltonian
+
+H red(g, π, Φ, Π) obtained by inserting these expressions into (75) deﬁnes (together with
+
+(76)) a dynamical system for the variables gL
+
+ij, πij
+
+L , gR
+
+ij, πij
+
+R , ΦL, ΠL, ΦR, ΠR (submitted
+
+to the four ﬁrst-class constraints (77) coming from the Lagrange multipliers N, N
+
+). For
+
+i
+
+instance, if we consider the matter-free system, we end up with the 6 + 6 degrees of freedom
+linked to gL
+
+ij, from which must be subtracted 4 degrees of freedom killed by the
+ﬁrst-class constraints (77). This leaves us with 8 degrees of freedom. As in the analysis of
+
+ij and gR
+
+(nonlinear) massive gravity in [37], which concluded to the presence of 6 degrees of freedom
+
+(instead of the expected 5 of a Pauli-Fierz linear graviton), we have here 2 + 6 = 8 (where
+
+the 2 can be formally thought of as corresponding to an Einstein (massless) graviton, and
+
+the 6 to a “massive graviton”).
+
+Two of the potential defects of the supplementary tensor degree of freedom (1 = 6 − 5)
+are, according to [37]: (i) the unboundedness of the total “energy”, and (ii) experimental
+
+diﬃculties (e.g. with light scattering by the Sun), even if a suitable mass term can be
+found for which the m2 → 0 limit exists. Our point of view concerning (i) is to argue
+that the notion of energy is not deﬁned when considering (as we argue must be done) non-
+
+asymptotically ﬂat metrics, with cosmological-type behaviour at inﬁnity. Alternatively, we
+
+32
+
+can dismiss the problem of spatial boundary conditions by considering spatially compact
+
+manifolds (e.g. with toroidal topology). For such a situation, the dynamics associated to
+
+(73)–(78) should entail a well-deﬁned (classical) evolution system for gL, πL, gR, πR, . . . The
+ill-deﬁned issue of “unbounded energy” is then transformed in a well-posed dynamical ques-
+tion: do Hamilton’s equations of motion quickly lead to a catastrophic evolution towards
+some singular state?, or do they admit many solutions which evolve rather quietly on times
+
+scales comparable to the age of the universe? (which is the only stability property which
+
+is really required by experimental data). This question will be discussed in detail in [12].
+Let us only mention here the result that there does exist, for suitable potentials V, many
+solutions which can quietly evolve on Hubble time scales or more.
+
+4.3 Phenomenology and a new form of dark energy
+
+Using the dynamical, and cosmological like, viewpoint expressed in the previous subsection,
+let us now brieﬂy discuss why we think that bigravity is not only compatible with existing
+gravitational data, but might also furnish a natural explanation of the recently observed
+cosmic acceleration. Let us ﬁrst argue that there exist large classes of bigravity data
+gL, πL, gR, πR, . . . which can adequately represent the universe as we see it at the present
+moment. For deﬁniteness, we assume that we “live on the right brane” (when viewed in
+
+brane language), i.e. that the matter around as is made of ΦR-type matter only. Let us start
+by considering an instantaneous “Einstein” model of our universe, i.e. an exact solution
+gR, πR, ΦR, ΠR of the constraints H R = 0 = H R
+i . Let us complete this conﬁguration by
+a random “Einstein” model of the (shadow) left universe, i.e. a solution gL, πL, ΦL, ΠL of
+H L = 0 = H L
+
+i . Taken together, these two conﬁgurations “nearly” satisfy the bigravity
+constraints (77) and (78). More precisely, (77) is satisﬁed modulo a term proportional
+to V , while (78) is satisﬁed modulo terms proportional to ∂V /∂n and ∂V /∂ni. Let us
+assume that all dimensionless variables (n, ni and g−1
+L gR) are of order unity, and that
+V ∝ µ4 is at most comparable to the average cosmological energy density V ∼ 10−29 g cm−3
+(i.e. µ ∼ 10−3 eV) (in right units, say).
+Instead of viewing Eqs. (78) as equations for
+determining n and ni, we can pick rather arbitrary (initial) values of n and ni (or order
+
+unity) and slightly deform the Einstein data gR, πR, . . . , gL, πL, . . . to compensate for the
+small violation of the usual Einstein constraints brought by the terms proportional to V ,
+∂V /∂n and ∂V /∂ni. It is intuitively clear that there are many ways of doing so, i.e. of
+
+constructing exact bigravity initial data gR, πR, . . . , gL, πL, . . . which exactly satisfy (77)
+
+33
+
+and (78) for arbitrarily given n and ni. Locally, say around our Galaxy, the new, deformed
+data gR, πR, . . . can be constructed so as to be experimentally indistinguishable from a pure
+Einstein model (after all, we are simply modifying the stress-energy tensor in the Galaxy
+by less than 10−29 g cm−3, which is many orders of magnitude smaller than the average
+density in the Galaxy). If the dependence of V on n and ni is adequate the equations (78)
+will continue to admit a solution (n, ni) during the future evolution of the other dynamical
+
+variables.
+
+In fact, as (under a general assumption made in Section 2 above) we know
+
+one exact (but physically trivial) solution of the full bigravity evolution equations, namely
+µν(t, x), i.e. gL = gR, πL = πR, ΦL = ΦR, . . . with n = 1, ni = 0, we
+µν(t, x) = gR
+gL
+expect (by mathematical continuity) that there will be classes of bigravity solutions where,
+during a long time, gL ≃ gR, πL ≃ πR, . . . with n ≃ 1, ni ≃ 0. The crucial question is
+whether one can solve Eqs. (78) for a long time (without catastrophe) for more general
+data where g−1
+L gR = O(1) and n = O(1) = ni. This question will be addressed in [12] for
+cosmological-type solutions and in [13] for solar-system-type solutions. Note that this is
+here that the potential “discontinuity” problems linked to the m2 → 0 (or µ → 0) limit
+show up because the potential V (n, ni) is proportional to µ4, so that, when solving for n
+and ni Eqs. (78), µ4 will tend to appear in a denominator and might cause the solution n, ni
+
+to take parametrically large values, proportional to some negative power of µ (depending
+on the behaviour of, say, V (n) as n → +∞ or n → 0).
+
+Assuming, for the time being, the continuous existence of regular bigravity solutions,
+evolved from some data gL, πL, gR, πR, n, ni, . . . we can ﬁnish by mentioning some of the
+pleasing phenomenological aspects of bigravity. First, bigravity exactly satisﬁes the equiva-
+
+lence principle, because each type of matter (say ΦR whithin “our universe”) is universally
+coupled to the corresponding metric, say gR
+µν. Second, (as just discussed) there are classes
+of bigravity solutions which diﬀer from standard Einstein ones only by the presence “on
+
+µν ∼ 10−29 g cm3 in the covariant form (14)), which locally modify gR
+
+the right-hand side” of Einstein’s equations of numerically very small additional terms (say
+µν ∼ tL
+tR
+µν and ΦR (and
+gL
+µν, ΦL) only in a numerically very small way (though they might globally forbid the stable
+existence of asymptotically ﬂat models). These solutions will be fully compatible with all
+
+local (or quasi-local) experimental tests of relativistic gravity: such as solar-system tests
+and binary-pulsar tests. Third, if µ indeed happens to be of the order of 10−3 eV, and
+if g−1
+
+L gR is of order unity, bigravity will only lead to experimentally signiﬁcant deviations
+
+34
+
+from Einstein’s gravity on cosmological scales. Moreover, if, seen from our universe gR
+µν,
+
+we view gL
+
+µν as an “external ﬁeld”, or, more precisely, if we (approximately) view the “dif-
+
+ference” between the two metrics g−1
+order unity, the potential term V = √gR(g−1
+
+L gR) can be approximately viewed
+as a time-varying “vacuum energy” term (of order µ4), i.e. as a kind of “dark energy”. It
+
+R gL)
+
+1
+
+4 V (g−1
+
+L gR as a given (time varying) tensor “condensate” of
+
+is tempting to assume that this new form of dark energy (which might be called “tensor
+
+quintessence”) can explain the observed cosmic acceleration. It might also be used in pri-
+
+mordial cosmological scenarios, possibly when using the idea mentioned above that µ could
+
+be an evolving ﬁeld. See [12] for a study of this new form of dark energy, and its phe-
+
+nomenological diﬀerences with quintessence models based on evolving scalar (rather than
+
+tensor) condensates.
+
+5 Conclusions
+
+In this paper we suggested a new paradigm concerning “massive gravity” and “large scale
+modiﬁcation of gravity”. Considering the fully nonlinear bigravity action suggests to change
+
+viewpoint: instead of the theory with massless and massive graviton(s) we had in linearized
+
+approximation, we are dealing with several interacting metrics. We introduced the concept
+
+of universality class which we formulated using bigravity (two interacting metrics) as an
+
+example. Diﬀerent approaches (brane, KK, non-commutative geometry) naturally lead to
+
+diﬀerent universality classes for the fully nonlinear bigravity action. Another important
+new suggestion is that almost all solutions must now be of the non-asymptotically ﬂat
+
+(cosmological) type.
+
+This new formulation can change the standard problematic of the m2 → 0 discontinuity.
+We showed the existence of classes of solutions that are compatible with “our universe”.
+However, we do not claim to have proven that general solutions of bigravity are phenomeno-
+
+logically acceptable. The two main problems of massive gravity (ghost, potential blow up
+of some ﬁeld variables when m2 → 0) must still be examined in detail. The important
+problem is to ﬁnd the matching to the local sources of the ﬁeld so that the full metric is
+free of singularities. We do not worry about matching at inﬁnity because we abandon the
+requirement of asymptotic ﬂatness.
+It is possible that in some models of bigravity such
+local matching does not exist because of the explicit or implicit presence of ghost modes in
+the theory. Such models would be physically unacceptable. We note in this respect that
+
+35
+
+the 6-dimensional model discussed in [21] which does not contain negative tension branes,
+
+contains instead either branes with equations of state violating the weak energy condition
+ℓµ ℓν ≥ 0 ( with light-like ℓµ) or has a conifold singularity in the bulk. The physical
+T brane
+consistency of this model must be further investigated. We have also quoted mathematical
+
+µν
+
+theorems linking the existence of a hierarchical spectrum (necessary for the derivation of
+
+an eﬀective bigravity Lagrangian) to the necessary negativity of the Ricci curvature of the
+
+compactiﬁed manifold. This sign condition might hide the presence of ghost-like ﬁelds in
+the theory. These questions are pressing and deserve detailed investigation.
+
+Assuming a positive resolution of these issues or simply taking the phenomenological
+viewpoint that nonlinear bigravity Lagrangians open an interesting new arena for non
+
+standard gravitational eﬀects, we shall explore in future publications [12], [13] the nonlinear
+
+physics of bigravity actions, with a particular view on its cosmological aspects, as it may
+provide a natural candidate for some new type of “dark energy”.
+
+Acknowledgments: We would like to thank P. B´erard, M. Berger, A. Connes, J.
+Fr¨ohlich, M. Gromov, M. Kontsevitch, A. Papazoglou, G. Ross and A. Vainshtein for infor-
+
+mative discussions. I.K. is supported in part by PPARC rolling grant PPA/G/O/1998/00567
+
+and EC TMR grants HPRN-CT-2000-00152 and HRRN-CT-2000-00148.
+
+Appendix
+
+In this Appendix we check the consistency of the linearized limit of the nonlinear action
+
+(6) with a direct linearized analysis of the coupling strengths of massless and light graviton
+
+modes in brane models. Omitting the tensor structure (and considering only the relative co-
+
+eﬃcients between the various terms) the Lagrangian describing the coupling of the massless
+graviton mode h0, and of the lightest one h1, reads
+
+LLin = h0∂2h0 + h1(cid:16)∂2 + m2
+
+1(cid:17) h1 +
+
+1
+
+Mp(cid:16)h0 + αLh1(cid:17) TL +
+
+1
+
+Mp (cid:16)h0 − αRh1(cid:17) TR
+
+(79)
+
+where the coeﬃcients αL,R describe the relative strengths of the massive graviton coupling
+to the matter on left and right branes.
+It seems that there are four parameters here:
+Mp, m1, αL, and αR. But actually αL = α−1
+R which is extremely important as we shall
+see next. This relation follows from the expression for αR which was obtained in [1] (see
+
+36
+
+-
+α
+
+L  
+
+-
+α
+
+R
+
+α
+
+L  
+
+-
+=L 1
+
+L 2  
+-
+
+L
+
+1
+
+L
+
+2
+
+0
+
+L
+
+1
+
+L
+
+2
+
+α
+
+R
+
+y
+
+Figure 4: Here L1 is the position of the bounce. The left conﬁguration is just the mirror
+image of the right one and the positions of the bounces are related by ¯L1 = L2 − L1. Under
+this transformation left and right branes are exchange their roles and, at the same time,
+αR = exp(2L1 − L2) → ¯αR = exp(2L2 − L1) = α−1
+R .
+
+Eq.(20) and Eq.(22) there)
+
+αR = exp (2L1 − L2) .
+
+Being derived originally for the + − + model this expression holds for other models with
+bigravity, for example the ++ model. In Figure 3 it is shown that one can interchange left
+and right branes by changing the position of the bounce from L1 to ¯L1 = L2 − L1. One
+gets the new coupling strength
+
+¯αR = exp(cid:16)2 ¯L1 − L2(cid:17) = exp (L2 − 2L1) =
+
+1
+αR
+
+.
+
+At the same time it is easy to see that a new right brane is just an old left one, so that we
+have the result
+
+(80)
+
+(81)
+
+(82)
+
+αL = ¯αR =
+
+1
+αR
+
+.
+
+This relation is crucial to the consistency of the nonlinear bigravity approach because only
+in this case can one relate h0 and h1 to hL ∼ (h0 + αLh1) and hR ∼ (h0 − αRh1) by
+orthogonal rotation. If it were not the case one would get mixing between hL and hR even
+in the limit m1 = 0 and we could not have two non-interacting worlds. Introducing
+
+hL = cos θh0 + sin θh1,
+
+, hR = sin θh0 − cos θh1 , tan θ = αR
+
+(83)
+
+we can rewrite (79) as
+
+LLin = hL∂2hL + hR∂2hR +
+
+m2
+1
+L + M 2
+R
+
+M 2
+
+(MLhR − MRhL)2 +
+
+1
+ML
+
+1
+MR
+
+hLTL +
+
+hRTR
+
+(84)
+
+37
+
+where ML = Mp/√1 + α2, MR = αMp/√1 + α2
+
+Let us note that in the limit L2 → ∞ both αL and Mp are divergent and αR → 0. In
+this limit ML is ﬁnite and MR → ∞. The massless graviton hR becomes essentially a free
+sterile particle and decouples from the spectrum, while the massive graviton hR interacts
+with matter on the left brane only. Long range gravity completely decouples from the right
+brane.
+
+Here we discussed the linearized bigravity lagrangian for ﬂat branes, but one can get
+the same picture for (A)dS branes. The limiting case L2 → ∞ with corresponds to a single
+AdS4 brane was considered in [20] (see also [14, 45, 46, 47]).
+
+References
+
+[1] I. I. Kogan, S. Mouslopoulos, A. Papazoglou, G. G. Ross and J. Santiago, Nucl. Phys.
+
+B 584, 313 (2000) [hep-ph/9912552].
+
+[2] R. Gregory, V. A. Rubakov and S. M. Sibiryakov, Phys. Rev. Lett. 84, 5928 (2000)
+
+[hep-th/0002072].
+
+[3] I. I. Kogan and G. G. Ross, Phys. Lett. B 485, 255 (2000) [hep-th/0003074].
+
+[4] I. I. Kogan, S. Mouslopoulos, A. Papazoglou and G. G. Ross, Nucl. Phys. B 595, 225
+
+(2001) [hep-th/0006030].
+
+[5] I. I. Kogan, arXiv:astro-ph/0108220.
+
+[6] A. Papazoglou, D.Phil. Thesis [arXiv:hep-ph/0112159].
+
+[7] I. I. Kogan, S. Mouslopoulos, A. Papazoglou and G. G. Ross, Nucl. Phys. B 615 (2001)
+
+191 [arXiv:hep-ph/0107307].
+
+[8] C. Csaki, J. Erlich and T. J. Hollowood, Phys. Rev. Lett. 84 (2000) 5932 [hep-
+
+[9] G. Dvali, G. Gabadadze and M. Porrati, Phys. Lett. B 484, 112 (2000) [hep-
+
+th/0002161].
+
+th/0002190].
+
+[10] N. Boulanger, T. Damour, L. Gualtieri and M. Henneaux, Nucl. Phys. B 597 (2001)
+
+127 [arXiv:hep-th/0007220]; arXiv:hep-th/0009109.
+
+38
+
+[11] C. J. Isham, A. Salam and J. Strathdee, Phys. Rev. D 3 (1971) 867.
+
+[12] T. Damour, I. Kogan and A. Papazoglou, arXiv:hep-th/0206044.
+
+[13] T. Damour, I. Kogan and A. Papazoglou, work in progress
+
+[14] M. Porrati, arXiv:hep-th/0112166.
+
+[15] V. A. Rubakov, Phys. Usp. 44 (2001) 871 [Usp. Fiz. Nauk 171 (2001) 913] [arXiv:hep-
+
+ph/0104152].
+
+[16] M. Gogberashvili, Mod. Phys. Lett. A 14 (1999) 2025 [arXiv:hep-ph/9904383].
+
+[17] L. Randall and R. Sundrum, Phys. Rev. Lett. 83 (1999) 4690 [arXiv:hep-th/9906064].
+
+[18] C. Csaki, J. Erlich, T. J. Hollowood and Y. Shirman, Nucl. Phys. B 581 (2000) 309
+
+[arXiv:hep-th/0001033].
+
+th/0011141].
+
+[19] I. I. Kogan, S. Mouslopoulos and A. Papazoglou, Phys. Lett. B 501, 140 (2001) [hep-
+
+[20] A. Karch and L. Randall, JHEP 0105 (2001) 008 [arXiv:hep-th/0011156].
+
+[21] I. I. Kogan, S. Mouslopoulos, A. Papazoglou and G. G. Ross, hep-th/0107086.
+
+[22] A. S. Gorsky and K. G. Selivanov, Phys. Lett. B 485 (2000) 271 [arXiv:hep-
+
+th/0005066]; arXiv:hep-th/0006044; arXiv:hep-th/0009207.
+
+[23] J. R. Ellis, N. E. Mavromatos and D. V. Nanopoulos, Phys. Rev. D 62 (2000) 084019
+
+[arXiv:gr-qc/0006004]; G. K. Leontaris and N. E. Mavromatos, Phys. Rev. D 64 (2001)
+
+024008 [arXiv:hep-th/0011102].
+
+[24] L. Pilo, R. Rattazzi and A. Zaﬀaroni, JHEP 0007 (2000) 056 [arXiv:hep-th/0004028];
+
+I. I. Kogan, S. Mouslopoulos, A. Papazoglou and L. Pilo, Nucl. Phys. B 625 (2002)
+
+179 [arXiv:hep-th/0105255].
+
+ph/9907447].
+
+[25] W. D. Goldberger and M. B. Wise, Phys. Rev. Lett. 83 (1999) 4922 [arXiv:hep-
+
+[26] P. B´erard, Spectral Geometry:Direct and Inverse Problems, Lecture Notes in Mathe-
+
+matics 1207 (Springer, Berlin, 1986).
+
+39
+
+[27] M. Ledoux, Annales de la Facult´e des Sciences de Toulouse, 9 (2000) 305.
+
+[28] M. Berger, P. Gauduchon and E. Mazet, Le Spectre d’une Vari´et´e Riemannienne ,
+
+Lecture Notes in Mathematics 194 (Springer, Berlin, 1971); M. Berger, Riemannian
+
+Geometry Today: Introduction and Panorama (Springer, 2002, in press).
+
+[29] A. Connes, Inst.Hautes ´Etudes Sci. Publ. Math. 62 (1985) 257; G´eom´etrie Non Com-
+mutative (InterEditions, Paris, 1990); Non Commutative Geometry (Academic Press,
+
+San Diego, 1994).
+
+[30] A. Connes and J. Lott, Nucl. Phys. Proc. Suppl. 18B (1991) 29.
+
+[31] A. H. Chamseddine, G. Felder and J. Fr¨ohlich, Commun. Math. Phys. 155 (1993) 205
+
+[arXiv:hep-th/9209044].
+
+[32] A. H. Chamseddine and J. Fr¨ohlich, arXiv:hep-th/9307012.
+
+[33] A. H. Chamseddine, J. Fr¨ohlich and O. Grandjean, J. Math. Phys. 36 (1995) 6255
+
+[arXiv:hep-th/9503093].
+
+[34] A. H. Chamseddine and A. Connes, Commun. Math. Phys. 186 (1997) 731 [arXiv:hep-
+
+th/9606001]; Phys. Rev. Lett. 77 (1996) 4868 [arXiv:hep-th/9606056].
+
+[35] J. P. Bourguignon and P. Gauduchon, Commun. Math. Phys. 144 (1992) 581.
+
+[36] R. Arnowitt, S. Deser and C. W. Misner, in Gravitation: an introduction to current
+
+research, ed. by L. Witten (Wiley, New York, 1962), pp 227 -265.
+
+[37] D. G. Boulware and S. Deser, Phys. Rev. D 6, 3368 (1972).
+
+[38] H. van Dam and M. Veltman, Nucl. Phys. B 22, 397 (1970).
+
+[39] V.I. Zakharov, JETP Lett. 12 (1970) 312.
+
+[40] A. Higuchi, Nucl. Phys. B 325, 745 (1989).
+
+[41] I. I. Kogan, S. Mouslopoulos and A. Papazoglou, Phys. Lett. B 503 (2001) 173
+
+[arXiv:hep-th/0011138].
+
+[42] M. Porrati, Phys. Lett. B 498 (2001) 92 [arXiv:hep-th/0011152].
+
+40
+
+[43] A. I. Vainshtein, Phys. Lett. B 39 (1972) 393.
+
+[44] C. Deﬀayet, G. R. Dvali, G. Gabadadze and A. I. Vainshtein, Phys. Rev. D 65 (2002)
+
+044026 [arXiv:hep-th/0106001].
+
+[45] M. Porrati, Phys. Rev. D 65 (2002) 044015 [arXiv:hep-th/0109017].
+
+[46] A. Miemiec, Fortsch. Phys. 49 (2001) 747 [arXiv:hep-th/0011160].
+
+[47] M. D. Schwartz, Phys. Lett. B 502 (2001) 223 [arXiv:hep-th/0011177].
+
+41
+
+

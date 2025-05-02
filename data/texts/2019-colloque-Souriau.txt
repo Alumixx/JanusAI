@@ -1,0 +1,4134 @@
+	
+
+1	
+
+Complex	symplectic	mechanics	:	a	toy	model	for	life	?		
+
+Version	française	plus	loin		
+Jean-Pierre	Petit1	
+Manaty	Research	Group	
+
+	
+
+⎞
+
+⎛
+⎝⎜
+ 
+
+L C
+0
+1
+
+10	avril	2019	
+
+Abstract	:	We	show	that	the	classical	technique	of	the	symplectic	mechanics	can	be	
+extended	to	a	complex	Hermitean	space,	giving	a	complex	momentum	map	with	
+complex	geometrical	attributes	:	energy,	impulsion,	spin.		
+_____________________________________________________________________________________________________	
+In	1970	the	mathematician	J.M.Souriau	introduces	symplectic	mechanics	[1].	Starting	
+from	the	isometry	group	of	Minkowski	space,	i.e.	the	Poincaré	group	:		
+(1)																																																																		
+⎠⎟		
+where	L	is	the	Lorentz	group,	and	C	the	boost		
+		
+(2)																																																									
+he	computes	the	coadjoint	action	of	the	group	on	the	dual	of	its	Lie	Algebra,	which	gives	
+the	following	momentum	map	:		
+(3)																																																 M' = L M LT + CPT LT − L PCT		
+(4)																																																																						P’	=	L	P		
+where		
+		
+(5)																																																															
+So	that	the	Energy	E	,	the	impulsion	p	and	the	spin	(enclosed	in	the	M	matrix)	appear	
+like	pure	geometrical	objets,	components	of	the	momentum.		
+																																																								
+1	Jean-Pierre.petit@manaty.net	
+
+Δ x°
+Δ x1
+Δ x2
+Δ x3
+
+E
+px
+py
+pz
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+C =
+
+P =
+
+ 
+
+ 
+
+ 
+
+{
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎠
+
+G =
+
+		
+
+0
+0
+−1
+0
+
+0
+0
+0
+−1
+
+x° , x1 , x2 , x3
+
+1
+0
+0 −1
+0
+0
+0
+0
+
+2	
+}	by	complex	coordinates	we	
+
+	
+Surprizingly	this	technique	can	be	easily	extended	to	the	complex	world	[2].		
+If	we	replace	the	Minkowski	coordinates	 
+may	form	the	4D	Hermitean	space,	whose	metric	is	:		
+		
+(6)																					
+This	metric	is	defined	on	a	Hermitean	manifold.		
+Let’s	now	consider	the	real	matrix	G	:	
+(7)																																																				
+and	the	complex	Lorentz	group	defined	as	:		
+(8)																																																																				 L* G L = G		
+L *	stands	for	the	adjoint	(conjugate	transpose)	of	L.		
+One	can	show	easily	that	the	complex	Poincaré	group	
+(9)																																																																				
+⎠⎟	
+where	C	is	th	complex	boost,	is	an	isometry	group	of	the	Hermitean	space	and	can	be	
+considered	as	a	complex	dynamic	group.	Surprizingly	all	classical	(matrix)	calculations	
+can	be	extended	to	such	complex	framework	by	simply	substituting	the	adjoint	matrices	
+A*	to	the	transpose	matrices	 AT .	See	the	annex.		
+As	a	result,	the	complex	momentum	obeys	the	laws	:	
+(10)																																																 M' = L M L * + CP * L* − L PC *		
+(11)																																																																						P’	=	L	P		
+where		
+	
+(12)																																																													
+E	is	a	complex	energy	and	p	a	complex	impulsion.	The	spin,	in	complex	matrix	M,	is	
+complex	too.		
+
+L C
+0
+1
+
+E
+px
+py
+pz
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+P =
+
+⎛
+⎝⎜
+ 
+
+⎞
+
+ 
+
+ 
+
+	
+3	
+The	symplectic	approach	creates	a	link	between	pure	mathematics	and	physics.	In	the	
+case	of	such	complex	extension,	what	could	be	its	physical	meaning	?		
+The	Minkowski	spacetime	can	be	considered	as	the	real	part	of	a	Hermitean	space.	In	
+Minkowski	space	time	we	can	consider	the	null	geodesics	as	the	paths	of	photons,	and	
+the	non-zero	geodesics	as	the	paths	of	particles	with	spin.		
+Notice	that	in	classical	physics	people	only	consider	the	restricted	Poincaré	group,	built	
+on	the	restricted	Lorentz	group.	In	effect	the	Lorentz	group,	as	defined	axiomatically	by			
+(13)																																																																						 LT G L = L		
+owns	four	connex	components.		
+-	 Ln	is	the	neutral	component,	whose	elements	keep	the	orientation	of	time	and	space.		
+-	 Ls	elements	invert	space,	not	time.			
+-	 Lt	elements	invert	time,	not	space	
+Lst	elements	invert	both	time	and	space	
+-	
+The	first	two	set	form	the	orthochron	subgroup	  Lo{
+The	next	two	form	the	antichron	set	  La{
+}	
+The	restricted	Poincaré	group	is	:		
+(14)																																																													
+⎟	
+The	corresponding	action	on	the	moment	is	:		
+(15)																																																 M' = Lo M Lo
+(16)																																																																						P’	=	Lo	P		
+The	complete	Poincaré	group	can	be	written	as	:		
+(17)																																																			
+⎟ with λ= ± 1	
+which	gives	:		
+T + λCP T L T o − λLo PC T		
+(18)																																																
+(19)																																																																				 P' = λLo P		
+
+T − Lo PC T		
+
+M' = Lo M Lo
+ 
+
+λLo C
+1
+0
+
+Lo C
+1
+0
+
+T + CP T Lo
+
+}		
+
+⎛
+⎜
+⎝
+ 
+
+⎛
+⎜
+⎝
+ 
+
+⎠
+
+⎞
+
+⎞
+
+⎠
+
+0
+
+⎞
+⎟
+⎟
+⎟
+⎠
+
+		
+
+⎛
+⎜
+⎜
+⎜
+⎝
+ 
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+ 
+
+The	Janus	group	
+
+µ 0 φ
+0 Lo C
+0
+1
+
+with µ= ± 1		
+
+	
+4	
+From	(19)	we	see	that	the	time	inversion	goes	with	the	inversion	of	the	energy	,	and	
+mass.		
+	
+A	first	extension	of	the	restricted	Poincaré	groupe	is	:		
+(20)																																																								
+and	acts	on	the	5D	Kalusa	space	:		
+(21)																																																																			
+with	a	new	boost	:		
+⎟		
+(22)																																																																							
+Applying	the	calculation	of	the	action	of	the	momentum,	this	gives	an	additional	
+equation	:		
+(23)																																																																						 q' = µq		
+q	is	the	additional	physical	quantity	corresponding	to	the	translation	along	the	fifth	
+dimension	.	It	is	identified	to	the	electric	charge.	The	inversion	of	the	charge	goes	with	
+the	inversion	of	the	fith	dimension	[3].		
+Notice	that	such	an	approach	can	be	extended,	introducing	new	extra-dimensions,	each	
+one	going	with	a	subsequent	quantum	charge	(the	electric	charge	is	nothing	but	one	of	
+those	charges).		
+Now	we	can	shift	to	the	Janus	group	:		
+(24)																																									
+which	acts	on	the	janus	bimetric	space	([7]		,	[14])				
+
+and λ= ± 1	
+
+λµ 0 φ
+0 λLo C
+0
+1
+
+with µ= ± 1
+
+ζ
+x°
+x1
+x2
+x3
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎝
+ 
+
+φ
+C
+
+⎞
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎝
+ 
+
+⎞
+⎠
+
+0
+
+	
+After	Janus	model	the	universe	is	a	manifold	with	two	metrics	
+(+)	and	
+to	positive	and	negative	mass.	After	the	Janus	coupled	field	equations	[16]	:		
+(25)	
+
+gµν
+ 
+
+gµν
+ 
+
+5	
+(−)	which	refer	
+
+(−)
+
+⎡
+⎢
+⎢
+⎣
+
+⎡
+⎢
+⎢
+⎣
+
+1
+2
+
+1
+2
+
+(+) +ϕ
+
+Rµν
+(+) −
+
+R(+)gµν
+
+R(−)gµν
+
+⎤
+⎥
+⎥
+⎦
+⎤
+⎥
+⎥
+⎦
+
+(+) + Tµν
+(−)
+
+(−) = − χ φ
+
+Rµν
+(−) −
+ 
+
+(+) = χ Tµν
+
+g(−)
+g(+) Tµν
+
+g(−)
+g(+) Tµν
+
+A	toy	model	for	life.		
+
+	
+Newtonian	approximation	gives	the	gravitational	interaction	laws	:	
+-  Masses	with	same	sign	mutually	attract	through	«	Newton’s	law	»	
+	
+-  Masses	with	opposite	signs	mutuelly	repel	through	«	anti-Newton	»	
+	
+We	may	consider	the	complete	complex	Poincaré	group	:		
+⎟ with λ= ± 1	
+(26)																																																
+where	 Lo	and	C	are	complex	and	λ		real.		
+Concentrate	on	the	movement	of	masses	and	photons	in	the	real	part	of	the	Hermitean	
+space,	i.e.	the	Minkowski	space.	They	corresponds	to	physical	matter,	moving	in	the	
+«	real	physical	world	».		
+Now,		consider	the	imaginary	part	of	our	Hermitean	space.	It	becomes	a	«	metaphysical	
+space	»,	inhabited	by	imaginary	masses	(positive	and	negative).	.		
+The	real	world	is	inhabited	by	real	masses,	positive	and	negative.		They	mutually	repel.	
+Gravitational	interaction	makes	them	form	positive	clusters	(galaxies,	clusters	of	
+galaxies,	stars,	planets).	Nuclear	interaction	gives	a	wide	set	of	atoms.	Electromagnetic	
+forces	produce	molecules	and	biomolecules.		
+What	could	we	find	in	our	metaphysical	world	?	We	may	speculate	that	some	interaction	
+forces	act,	among	the	different	species.	Let’s	assume	that	positive	imaginary	masses	+	im	
+and	negative	imaginary	masses	–im	obey	a	set	of	laws	similar	to	the	one	of	the	real	
+matter.	The	will	tend	to	form	clusters.		
+Let’s	continue	to	play	with	such	toy	model.	We	decide	that	the	positive	species	would	
+represent	«	the	will	»	and	negative	species	the	«	evil	».	We	could	also	imagine	to	
+introduce	«	imaginary	carriers	»,	similar	to	photons.	A	very	rich	and	complex	mixture.		
+
+λLo C
+0
+1
+
+⎛
+⎜
+⎝
+ 
+
+⎞
+
+⎠
+
+	
+6	
+In	the	real	world	positive	and	negative	particles	don’t	glue	together.	The	stand	far	apart.	
+This	corresponds	to	the	very	large	structure	of	the	universe	when,	after	the	discoupling,	
+negative	mass	clusters	form,	confining	positive	mass	in	the	remnant	place,	which	form	a	
+lacunar	structure,	tu	be	compared	to	joint	soap	bubbles	([8],	[11]).		
+	The	fate	of	the	real	world	is	ruled	by	physical	laws,	corresponding	to	a	limited	set	of	
+equations.		
+We	could	imagine	that	the	metaphysical	world’s	fate	could	be	ruled	by	unknown	
+metaphysical	rules,	that	would	produce	different	kinds	of	structures.	We	could	compar	
+some	of	them	to	«	souls	»	or	«	spirits	».		
+Now,	what	about	life	?		
+In	this	toy	model	a		living	creature	would	be	a	structure	composed	by	a	body,	i.e.	un	
+certain	set	of	linked	positive	masses	,	plus	a	soul.	If	the	model	is	based	on	a	5D	complex	
+space,	we	may	include	some	metaphysical	electromagnetic	forces	like	interactions		that	
+would	help	the	formation	of	complex	objects,	composed	by	the	two	kinds	of	masses,	
+positive	imaginary	and	negative	imaginary,	i.e.		made	of	«	will	»	and	«	evil	».		
+
+	
+On	the	figure	we	have	figured	two	living	creatures	as	associations	of	(	body	+	soul	).	
+Then	the	«	death	»	correponds	to	the	breaking	of	the	link.	Conversely		the	birth	would	
+correspond	to	the	making	of	the	link.		
+It’s	difficult	to	modelize	conscienceness	based	on	real	matter.	It	could	be	possible	using	
+the	imaginary	particles	and	fields,	and	metaphysical	laws	and	interaction	forces.		
+We	let	the	reader	to	build	his	own	toy	model.		A	job	for	philosophers.		
+	
+
+	
+7	
+	References	:		
+[1]	J.M.Souriau	:	Structure	des	systèmes	dynamiques.		Dunod	Ed.	France,	1970	and	
+Structure	of	Dynamical	Systems.	Boston,	Birkhaüser	Ed.	1997	
+	[2]	J.P.Petit	:	A	Symplectic	Cosmological	Model.	Progress	in	Physics,	Vol.	14,	jan.	2018		
+http://www.ptep-online.com/2018/PP-52-09.PDF	
+	[3]		J.M.Souriau	:	Géométrie	et	Relativité	(in	french).	Ed.	Hermann	1954	
+	[4]		J.P.Petit,	G.D’Agostini	:	Cosmological	Bimetric	model	with	interacting	positive	and	
+negative	masses	and	two	different	speeds	of	light,	in	agreement	with	the	observed	
+acceleration	of	the	Universe.	Modern	Physics	Letters	
+A,	Vol.29	;	N°	34,	2014	;	Nov	10th	DOI	:10.1142/So21773231450182X	
+	[5]		J.P.Petit	&	G.D’Agostini	:	Cancellation	of	the	singularity	of	the	Schwarzschild	solution	
+with	natural	mass	inversion	process.	Mod.	Phys.	Lett.	A	vol.	30	n°9		
+2015Doi:10.1142/S0217732315500510	
+[6]		J.P.Petit	&	G.D’Agostini	:	Lagrangian	derivation	of	the	two	coupled	field	equations	in	
+the	Janus	Cosmological	Model.	Astrophysics	and	Space	Science	2015,	357	:67Doi	:	
+10.1007/s10509-015-2250-6	
+[7]		J.P.Petit,	G.D’Agostini	:	Negative	Mass	hypothesis	in	cosmology	and	the	nature	of	
+dark	energy.	Astrophysics	And	Space	Science,.	A	29,	145-182	(2014)	
+[8]	J.P.PETIT,	Twin	Universe	Cosmology,	Astrophys.	and	Sp.	Science,	226,	273-307,	1995	
+	[9]	J.	P.	Petit,	Univers	Enantiomorphes	à	flèches	du	temps	opposées,	CRAS	du	8	mai	1977.	
+t.	285,	pp.	1217–1221	(1977).	
+[10]	J.	P.	Petit,	Univers	en	interaction	avec	leur	image	dans	le	miroir	du	temps,	CRAS	du6	
+juin,	t.	284,	série	A,	pp.	1413–1416	(1977).	
+[11]	J.P.Petit,	G.	D’Agostini,	N.Debergh	:	Physical	and	mathematical	consistency	of	the	
+Janus	Cosmological	Model	(JCM).	Progress	in	Physics	2019	Vol.15	issue	1	
+[12]	J.	P.	Petit,	P.	Midy	and	F.	Landhseat,	Twin	matter	against	dark	matter,	int.	Conf.	
+onAstrophysics	and	Cosmology,	Where	is	the	Matter?,	Tracing	Bright	and	Dark	Matter	
+with	the	New	Generation	of	Large-Scale	Surveys	(Marseille,	France,	June	2001).	
+[13]	J.	P.	Petit,	Nuovo	Cimento	B.	The	missing	mass	problem.		109,	697	(1994).	
+[14]	J.	P.	Petit	and	G.	D’Agostini,	J.P.Petit,	Negative	mass	hypothesis	in	cosmology	and	the	
+nature	of	dark	energy.	Astrophysics	and	Space	Science,	2014	sept.	20	th	
+[15]	J.P.Petit,	P.Midy	and	F.Landsheat:	Twin	matter	against	dark	matter.	Intern.	Meet.	on	
+Atrophys.	and	Cosm.	"Where	is	the	matter	?	",	Marseille	2001	june	25-29	
+		
+
+	
+
+8	
+
+ANNEX		
+
+	
+	Consider	the	Minkowski	space	
+Whose	metric	is		
+	
+ ds2 = c2dt2 − dx2 − dy2 − dz2	
+with	signature	(	+	-	-	-	)		
+corresponding	to	the	Gramm	matrix	:		
+
+Consider	the	Hermite	space	
+	Whose	metric	is		
+	
+	
+	
+																																																																				
+with	same	signature	(	+	-	-	-	)	
+	
+	
+corresponding	to	the	Gramm	matrix	:		
+	
+	
+	
+
+G =
+
+G =
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎝
+
+0
+1
+0 −1
+0
+0
+0
+0
+
+0
+0
+−1
+0
+
+0
+0
+0
+−1
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎠
+
+		
+
+	
+
+ 
+
+Introduce	the	Lorentz	group	L	as	defined	
+by	:		
+	
+	
+And	the	spacetime	translation	four-vector	:	
+		
+
+ L T G L = G		
+	
+L-1	=	G	LT	G		
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎝
+
+1
+0
+0 −1
+0
+0
+0
+0
+
+0
+0
+−1
+0
+
+0
+0
+0
+−1
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎠
+
+ 
+
+Introduce	the	complex	Lorentz	group,	as	
+defined	by	:	
+	
+And	the	complex	spacetime	translation	
+four-vector	:	
+	
+
+ L * G L = G	
+	
+L-1	=	G	L*	G		
+	
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+ 
+
+Δt
+Δx
+Δy
+Δz
+
+	
+We	form	the	Poincaré	group	:		
+(1)	
+	
+⎠⎟	
+And	its	Lie	algebra	element	:		
+(2)	
+	
+⎟	
+
+Gω γ
+0
+0
+
+L C
+0
+1
+
+Z =
+ 
+
+g =
+ 
+
+⎛
+⎜
+⎝
+
+⎞
+⎠
+
+⎛
+⎝⎜
+
+⎞
+
+	
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+ 
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎠
+
+⎟	
+
+Δt
+Δx
+Δy
+Δz
+	
+
+We	form	the	complex	Poincaré	group	:		
+(1)	
+	
+And	its	complex	Lie	algebra	element	:		
+(2)	
+
+L C
+0
+1
+
+g =
+ 
+
+⎛
+⎝⎜
+
+	
+
+	
+
+⎛
+⎜
+⎝
+
+Z =
+ 
+
+Gω γ
+0
+0
+
+⎞
+
+⎠⎟	
+⎟	
+
+⎞
+⎠
+
+	
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+⎞
+⎟
+⎠
+
+⎛
+⎜
+⎝
+
+⎞
+⎟
+⎠
+
+⎛
+⎜
+⎝
+
+⎛
+⎜
+⎝
+ 
+
+⎛
+⎜
+⎝
+ 
+	
+
+⎞
+⎟ =
+⎠
+
+⎞
+⎟ =
+⎠
+
+9	
+
+Gω' γ'
+0
+
+Gω' γ'
+0
+
+L−1GωL GωC+ L−1γ
+
+L−1GωL GωC+ L−1γ
+
+ ω* = −ω		
+ Z' = g−1 Z g	
+
+ ωT = −ω		
+	
+ Z' = g−1 Z g	
+
+	
+ ω' = LTωL	
+
+ G G = I	and		 L−1 = G L* G 	
+
+ G G = I	and		 L−1 = G tL G	
+
+with		
+We	form	:		
+(3)	
+	
+We	get	:		
+(4)	
+	
+as		
+(5)	
+(6)	
+
+	
+with		
+	
+We	form	:		
+(3)	
+		
+We	get	:		
+(4)	
+	
+as		
+(5)	
+(6)	
+ γ' = G LTωC + G LT Gγ	
+ γ' = G L *ωC + G L * Gγ	
+	Introduce	the	coadjoint	action	  µ! µ'	of	the	group	on	its	moment	through	the	duality	
+relationship	:		
+ < Z , µ> = < Z' , µ' >	
+The	complex	momentum	of	the	complex	
+The	momentum	of	the	Poincaré	group	will	
+be	denoted	:		
+Poincaré	group	will	be	denoted	:		
+(7)	
+(7)	
+} with M * = − M	
+} with M T = − M	
+	
+and	will	be	defined	by	the	identity	:	
+and	will	be	defined	by	the	identity	:	
+	(8)	
+	(8)	
+) + P * Gγ	
+) + P T Gγ	
+	
+	
+	
+	
+
+ ω' = L *ωL	
+	
+
+ µ= M , P
+
+ µ= M , P
+
+Tr Mω(
+
+Tr Mω(
+
+µ≡
+ 
+
+µ≡
+ 
+
+1
+2
+
+1
+2
+
+{
+
+{
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+) + P' T G γ'
+
+	
+	Introduce	the	duality	relationship	:		
+(9)	
+		
+We	get		
+(10)	
+	
+
+) + P T Gγ =
+
+Tr Mω(
+
+Tr M'ω'
+
+1
+2
+ 
+
+1
+2
+
+(
+
+	
+
+) + P T Gγ =
+
+Tr Mω(
+(
+Tr M' LTωL
+
+1
+2
+1
+2
+ 
+
+(
+
+	
+
+) + P' T LωC + P' T LT Gγ
+
+(
+Tr M'LTωL
+ 
+
+) = Tr L M' LTω
+
+The	identification	on	the	γ	terms	gives		
+(11)	
+ P T = P T 'LT → P = L P'	
+In	the	trace	one	can	achieve	a	circular	
+permutation		
+	(12)	
+)	
+The	identification	on	the	ω		terms	gives	:		
+(13)	
+	
+) + P' T LTωC	
+The	second	term	of	the	second	member	is	
+equal	to	thje	product	of	a	line-matrix	by	a	
+column-matrix.	This	being	equal	tu	the	
+reversed	product.	Hereafter,	schematically,	
+the	product	of	a	line-matrix	by	a	column-
+matrix	:		
+(14)	
+	
+In	the	trace	we	can	achieve	a	circular	
+permutation	:		
+(15)	
+	
+
+P' T LTωC = Tr LTωC P' T
+ 
+
+(
+Tr L M' LTω
+
+Tr Mω(
+
+)	
+
+) =
+
+1
+2
+ 
+
+1
+2
+
+(
+
+10	
+
+(
+
+	
+
+1
+2
+
+1
+2
+ 
+
+1
+2
+1
+2
+ 
+
+Tr M'ω'
+
+Tr Mω(
+
+) + P'* G γ'
+
+) + P * Gγ =
+
+) + P * Gγ =
+
+) + P'* LωC + P'* L * Gγ
+
+Tr Mω(
+(
+Tr M' L *ωL
+
+	Introduce	the	duality	relationship	:		
+(9)	
+		
+We	get		
+(10)	
+	
+		
+The	identification	on	the	γ	terms	gives		
+(11)	
+ P * = P'* L * → P = L P'	
+In	the	trace	one	can	achieve	a	circular	
+permutation		
+	(12)	
+)	
+The	identification	on	the	ω		terms	gives	:		
+(13)	
+	
+	
+The	second	term	of	the	second	member	is	
+equal	to	the	product	of	a	line-matrix	by	a	
+column-matrix.	This	being	equal	tu	the	
+reversed	
+Hereafter,	
+product.	
+schematically,	the	product	of	a	line-matrix	
+by	a	column-matrix	:		
+(14)	
+)	
+In	the	trace	we	can	achieve	a	circular	
+permutation	:		
+(15)	
+
+P'* L *ωC = Tr L *ωC P'*
+ 
+
+) = Tr L M' L *ω
+
+(
+Tr M'L *ωL
+ 
+
+(
+Tr L M' L *ω
+
+) + P'* L *ωC
+
+Tr Mω(
+
+) =
+
+1
+2
+ 
+
+1
+2
+
+	
+
+(
+
+(
+
+	
+
+⎡⎣
+
+(
+
+)
+
+1
+2
+
+) =
+
+) +
+
+)	
+
+1
+2
+1
+2
+ 
+
+) = Tr
+
+Tr Aω(
+ 
+
+skew	
+
+(skew − sym) A(
+
+(
+Tr C P' T LT ω
+
+P' T LTωC = Tr CP' T LTω
+ 
+
+Tr Mω(
+(
+Tr L M T LT ω
+
+	
+Whence	:		
+(16)	
+	
+	
+where	ω	is	a	skew	symmetric	matrix.	We	
+know	that	a	matrix’	trace	is	equal	to	the	
+product	 of	
+another	 matrix	 by	
+a	
+symmetrical	matrix.	Any	matrix	can	be	
+symmetrized	or	skew	symmetrized.		In	
+addition	the	trace	of	the	product	of	a	
+an	
+by	
+matrix	
+symmetric	
+(antisymmetric)		matrix	is	zero.		Whence	:		
+(17)	
+⎤⎦	
+	
+We	can	apply	that	to	the	matrix	 C tP tL		
+why	we	take	the	trace	of	its	product	by	an	
+skew	symmetric	matrix	ω		
+(18)		
+	
+	
+But	:		
+(19)	
+So	that	:		
+(20)	
+	
+(21)		
+	
+(22)	
+
+) =
+C P T LT + C P T LT
+
+C P T LT = sym C P TLT
+(
+
+⎤⎦
+(skew − sym) C P TLT
+
+Tr sym C P T LT
+ 
+
++ (skew − sym) C P T LT
+
+⎦ = 0	
+
+(skew − sym) C P T LT
+
+Tr C P T LT ω
+
+) ×ω
+
+) ×ω
+
+) ×ω
+
+= Tr
+
+) T
+
+1
+2
+
+	
+
+	
+
+⎡
+⎣⎢
+
+⎤
+⎦⎥
+
+(
+
+(
+
+(
+
+(
+
+⎡
+⎣
+
+⎤
+⎦
+
+(
+
+)
+
+)
+
+⎡
+⎣
+
+⎡⎣
+
+⎤
+
+ 
+
+ 
+
+ 
+
+11	
+
+)	
+
+	
+
+⎤⎦
+
+⎡⎣
+
+(
+
+)
+
+1
+2
+
+) =
+
+) +
+
+1
+2
+1
+2
+ 
+
+) ×ω
+
+of	
+
+(skew − sym) A(
+
+(
+Tr C P'* L * ω
+
+Tr Aω(
+)
+= Tr
+ 
+
+P'* L *ωC = Tr C P'* L *ω
+ 
+
+Tr Mω(
+(
+Tr L M * L * ω
+
+Whence	:		
+(15)	
+	
+	
+where	ω	is	a	skew	symetric	matrix.	We	
+know	that	a	matrix’	trace	is	equal	to	the	
+another	 matrix	
+product	
+by	
+a	
+symmeytrical	matrix.	Any	matrix	can	be	
+symmetrized	or	skew	symmetrized.	
+	In	
+addition	the	trace	of	the	product	of	a	matrix	
+by	an	anti	hermitian			matrix	is	zero.		
+Whence	:		
+(17)	
+	
+We	can	apply	that	to	the	matrix	 C * P * L		
+why	we	take	the	trace	of	its	product	by	an	
+skew	symmetric	matrix	ω		
+(18)																														
+	
+But	:		
+(19)	
+	
+So	that		
+(20)	
+	
+(21)		
+											
+(22)	
+
+) =
+C P * L *+ C P * L *
+
+C P * L * = sym C P * L *
+(
+
+		
+⎦ = 0	
+
+Tr sym C P * L *
+ 
+
++ (skew − sym) C P * L *
+
+(skew − sym) C P * L *
+
+(skew − sym) C P * L *
+
+Tr C P * L * ω
+
+) ×ω
+
+) ×ω
+
+⎦	
+
+= Tr
+
+)*
+
+1
+2
+
+	
+
+	
+
+(
+
+(
+
+(
+
+(
+
+⎤
+⎦
+
+⎡
+⎣
+
+(
+
+)
+
+)
+
+⎡
+⎣
+
+⎡
+⎣
+
+⎡⎣
+
+⎤⎦
+
+⎤
+
+⎤
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+=
+
+=
+
+(
+
+)
+
+(
+
+)
+
+(
+
+)
+
+(
+
+(
+
+)
+
+(
+ 
+
+(
+ 
+
+1
+2
+
+1
+2
+
+) T
+
+C P T LT
+
+C P * L *
+
+(
+= P LT
+
+12	
+
+)* = P L *
+
+C P'* L * − L P' C *
+
+(skew − sym) C P'* L *
+
+(skew − sym) C P' T LT
+
+)
+C P' T LT − LP' C T
+
+(
+Tr C P T LT
+(
+Tr C P' T LT − L P'
+=
+
+	
+)* C * = L P C *	
+) T C T = L P C T	
+	
+	
+(23)	
+(23)	
+	
+	
+	
+	
+(24)	
+(24)	
+)	
+)	
+	
+Finally	
+Finally	
+(25)	
+(25)	
+	
+		
+ M = L M' L * + C P'* L * − L P' C *	
+ M = L M' LT + C P' T LT − L P' C T	
+	
+	
+(26)		
+(26)		
+	
+	
+	We	can	interchange	M	and	M’	,	P	and	P’	and	we	get	the	same	formulae	for	the	complex	
+moment	map,	just	changing	«	transposed	»	by	«	adjoint	»	:		
+	
+
+(
+Tr C P * L *
+(
+Tr C P'* L * − L P' C *
+=
+
+ P = L P'	
+
+ P = L P'	
+
+M' = L M L * + C P * L * − L P C *
+
+M' = L M LT + C P T LT − L P C T
+
+1
+2
+
+1
+2
+
+	
+
+tC
+
+)
+
+ 
+
+ 
+
+P' = L P
+
+ 
+
+P' = L P
+
+						 
+We	can	put	the	momentum	into	a	matrix	form	:		
+(27)																															
+		
+⎟															 
+and	the	action	of	the	complex	Poincaré	group	(right)		becomes		
+(28)																																			  µ' = g µg T
+									  µ' = g µg *
+		
+	
+	
+
+M − P
+P T
+0
+
+M − P
+P *
+0
+
+µ=
+ 
+
+µ=
+
+⎛
+⎜⎜
+⎝
+
+⎞
+⎟⎟
+⎠
+
+⎛
+⎜
+⎝
+
+⎞
+
+⎠
+
+	
+
+13	
+
+Une	mécanique	symplectique	complexe	:	un	toy	modèle	pour	la	vie	?		
+
+Une	modélisation	de	nos	différentes	croyances.			
+
+Jean-Pierre	Petit2	
+Manaty	Research	Group	
+
+	
+
+Résumé	:	On	montre	que	la	technique	classique	de	la	mécanique	symplectique	de	
+Souriau	peut	être	étendue	à	un	espace	Hermitien,	complexe,	donnant	l’application	
+moment	avec	ses	composants	:	énergie,	impulsions,	spin,	complexe.		
+_____________________________________________________________________________________________________	
+En	1970	le	mathématicien	Jean-Marie	Souriau	introduit	la	mécanique	symplectique	[1].	
+Son	point	de	départ	est	le	groupe	d’isométrie	de	l’espace	de	Minkowski,	à	savoir	le	
+groupe	de	Poincaré	:		
+	(1)																																																																		
+où	L	est	le	groupe	de	Lorentz	et	C	le	quadrivecteur	translation	spatio-temporelle		
+(2)																																																									
+
+⎠⎟		
+		
+
+L C
+1
+0
+
+⎛
+⎝⎜
+ 
+
+⎞
+
+C =
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+Δ x°
+Δ x1
+Δ x2
+Δ x3
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+ 
+
+	
+Un	mot	sur	cette	histoire	d’action	coadjointe	:		
+Le	préfixe	«	co	»	implique	la	dualité.	Qu’est-ce	que	c’est	que	la	dualité	?	
+g	est	l’élément	du	groupe.	Par	«	groupe	de	Lie	»	il	faut	entendre	
+groupe	de	matrices	qui	dépendent	d’un	certain	nombre	de	paramètres.	
+Le	groupe	d’Euclide	est	un	groupe	de	matrices	:		
+⎠⎟	
+Le	vecteur	translation	représente	trois	paramètres,	et	le	sous-groupe	
+a,	qui	gère	les	rotations	dans	l’espace	et	les	symétries,	qui	est	le	
+groupe	O(3)	dépend	de	trois	paramètres	(	des	angles	).	La	somme	:	six	
+paramètres.	On	dit	que	le	nombre	des	paramètres	dont	dépend	
+
+a C
+1
+0
+
+⎛
+⎝⎜
+ 
+
+⎞
+
+																																																								
+2	Jean-Pierre.petit@manaty.net	
+
+	
+
+14	
+l’élément	d’un	groupe	correspond	à	la	dimension	du	groupe.	Le	groupe	
+d’Euclide	est	donc	de	dimension	trois	plus	trois	égale	six.		
+Si	on	considère	le	groupe	de	Poincaré,	son	cousin	germain	:		
+le	 vecteur	 translation	 spatio	 temporelle	 C	 représente	 quatre	
+paramètres.	 Le	 groupe	 de	 Lorentz	 évoque	 des	 «	rotations	
+quadridimensionnelles	».	Les	rotations	dans	le	groupe	d’Euclide	
+préservaient	les	longueurs	des	objets,		de	même	que	les	translations	et	
+les	symétries,	c’est	pour	cela	que	le	groupe	constituait	le	 groupe	
+d’isométrie	de	l’espace	Euclidien	(	iso	–	metron	:	même	mesure	).		
+Le	groupe	de	Lorentz	préserve	une	sorte	de	«	rotation	hyperbolique	»	
+et	conserve	en	particulier	le	modèle	du	quadrivecteur	Energie-
+impulsion	:		
+
+L C
+0
+1
+
+⎠⎟	
+
+⎛
+⎝⎜
+ 
+
+⎞
+
+P =
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+E
+px
+py
+pz
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎠
+
+⎟	
+
+ 
+
+{
+
+g1 , g2 , g3 , g4 , g5 , g6 , g7 , g8 , g9 , g10
+
+	La	dimension	de	ce	sous-groupe	de	Lorentz	est	six.	Donc	six	plus	
+quatre	égale	dix.	La	dimension	du	groupe	de	Poincaré	est	dix.		
+On	peut	appeler	 
+}	les	paramètres	
+qui	définissent	cette	matrice	de	format	(5,5).	Ces	paramètres	
+constituent	un	espace	vectoriel	de	dimension	dix.	Maintenant	on	peut	
+créer	la	différentielleδg	du	groupe	g	,	ce	qui	correspond	à	l’ensemble	:		
+}	
+qui	constitue	encore	un	espace	vectoriel	de	dimension	10.		
+Introduisons	un	vecteur	de	même	dimension	dont	les	composantes	
+sont	:		
+}	
+Vous	remarquerez	que	j’ai	mis	les	indices	en	bas,	ce	qui	n’est	pas	un	
+hasard.		J’introduis	une	relation	de	dualité	entre	les	deux	vecteurs	
+selon	:		
+
+{
+  δg1 ,δg2 ,δg3 ,δg4 ,δg5 ,δg6 ,δg7 ,δg8 ,δg9 ,δg10
+
+{
+  µ1 , µ2 , µ3 , µ4 , µ5 , µ6 , µ7 , µ8 , µ9 , µ10
+
+= Cst	
+
+i = 10
+
+∑
+ 
+
+i = 1
+
+δgiµi
+
+	
+
+  
+
+1
+
+{
+
+}
+
+{
+
+⎛
+⎝⎜
+
+⎞
+⎟
+⎠
+
+⎛
+⎜
+⎝
+
+⎛
+⎜
+⎝
+
+ξ
+1
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎠⎟ ×
+
+t
+x
+y
+z
+
+⎞
+⎟ =
+⎠
+
+Lξ+ C
+
+g × X =
+
+L C
+0
+1
+
+avec ξ=
+
+15	
+Ainsi,	si	le	vecteur	  δg1 ,δg2 ,δg3 ,δg4 ,δg5 ,δg6 ,δg7 ,δg8 ,δg9 ,δg10
+}variera	«	de	
+varie,	le	vecteur	  µ1 , µ2 , µ3 , µ4 , µ5 , µ6 , µ7 , µ8 , µ9 , µ10
+manière	duale	».		
+Cette	variation	du	groupe	correspond	à	celle	de	ce	qu’on	appelle	
+«		l’algèbre	de	Lie	du	groupe	».		
+A	partir	d’un	groupe	on	peut	construire	non	pas	une	unique	action,	
+comme	l’action	du	groupe	sur	les	points	de	l’espace	de	Minkowski	:		
+	
+Au	fil	de	cette	théorie	de	la	géométrie	symplectique	Souriau	fait	
+apparaître	une	autre	action	du	groupe	sur	l’élément	δ g	de	son	
+algèbre	de	Lie,	selon	:		
+×δg × g	
+  g−1	étant	la	matrice	inverse.		
+La	dualité	s’exprime	selon	:		
+ < µ',δg' > = < µ,δg >	
+D’où	le	vocable	«	action	coadjointe	sur	le	dual	de	l’algèbre	de	Lie	du	
+groupe	».		
+Ayant	admis	cela,	ça	n’est	plus	que	du	calcul	matriciel.	On	a	le	groupe	
+et	sa	forme	différenciée.	On	calcule	la	matrice	inverse	du	groupe,	etc.		
+Les	éléments	  µ1 , µ2 , µ3 , µ4 , µ5 , µ6 , µ7 , µ8 , µ9 , µ10
+}	constituent	ce	
+qu’on	appelle	le	moment	du	groupe.	Ils	appartiennent	à	son	espace	des	
+moments.	On	remarquera	que	sa	dimension	est	automatiquement	
+égale	à	la	dimension	du	groupe	:	dix.		
+Au	bout	de	ce	calcul	matriciel	on	obtiendra	l’application	qui,	à	partir	
+d’un	élément	de	l’espace	des	moments,	définissant	un	mouvement	:		
+}	on	en	tirera	les	composantes		
+	  µ1 , µ2 , µ3 , µ4 , µ5 , µ6 , µ7 , µ8 , µ9 , µ10
+de	  µ'1 , µ'2 , µ'3 , µ'4 , µ'5 , µ'6 , µ'7 , µ'8 , µ'9 , µ'10
+}	
+C’est	l’application	moment.	
+Souriau	réorganise	ces	composantes	selon	deux	objets	:		
+
+  δg' = g−1
+
+{
+
+{
+
+{
+
+	
+
+un	mouvement	particulier	dans	l’espace	de	Minkowski.	
+
+16	
+-  Une	matrice	antisymétrique	M	de	format	(4,4)	
+	
+-  Un	quadrivecteur	P		
+	
+Ce	dernier	sera	le	quadrivecteur	Energie-impulsion.	Une	matrice	
+antisymétrique	de	format	(4,4)	dépend	de	6	composantes	(trois	tri-
+vecteurs)	que	Souriau	nomme	«	spin	s	»	et	«	passage	f		».	Ce	dernier	
+vecteur	ne	constitue	pas	un	attribut	de	ce	mouvement	particulier	
+puisqu’il	peut	être	annulé	par	un	changement	de	coordonnées	
+«	accompagnant	la	particule	dans	son	mouvement	».		
+	Pour	Souriau	une	particule	c’est		
+	
+	Donc	un	choix	particulier	d’un	ensemble	«		énergie	E,	impulsion	p	,	
+vecteur	spin	(non	quantifié)	s		».	les	particules	deviennent	«	des		
+classes	de	mouvements	».		
+	A	partir	du	groupe	de	Poincaré	se	dégagent	donc	:		
+	-  Des	mouvements	de	particules	qu’on	appelle	photons,	d’énergie	
+ ± E		
+-  Des	mouvements	de	particules	dotées	d’une	masse	 ± m	
+	Souriau	a	été	le	premier	à	montre	que	le	spin	avait	une	nature	
+géométrique.		
+	Si	on	passe	à	l’espace	de	Kaluza	le	moment	se	trouve	doté	d’un	attribut	
+supplémentaire,	le	scalaire	q,	la	charge	électrique.		
+	Dans	l’espace	Janus	une	nouvelle	symétrie	s’ajoute		qui	traduit	la	
+dualité	matière	antimatière.		
+	L’antimatière	représente	simplement	une	autre	classe	de	mouvements	
+particuliers	dans	un	espace	5D.		
+	Petit	remarque	pour	finir.	Quid	du	groupe	d’Euclide	et	de	son	
+moment	?	Celui-ci	représente	6	composantes.	On	peut	alors	calculer	
+l’action	du	groupe	sur	ce	moment.	Mais	que	sont	les	six	composantes	
+de	celui-ci	?	Ils	forment	un	 torseur,	ensemble	de	deux	vecteurs	qui	
+seront	alors	assimilés	à	une	force	plus	un	couple.	
+	Quel	rapport	avec	la	théorie	des	groupes	dynamiques	?		
+	Le	groupe	d’Euclide	n’est	qu’un	groupe	dynamique	particulier	
+	
+		
+
+Celui	de	la	statique.	
+
+	
+
+17	
+Cette	approche	par	les	groupes	dynamique	permet	des	bilans.	On	peut	
+créer	des	sommes.	L’énergie	d’un	ensemble	de	particules	est	égale	à	la	
+somme	des	énergies	individuelles	de	celles-ci.	Idem	pour	l’impulsion,	
+le	spin,	la	charge	électrique.		
+	Pour	ce	groupe	de	la	statique	la	force	et	le	couple	qui	s’exercent	sur	un	
+ensemble	de	particules	sont	égaux	à	la	somme	des	forces	et	des	
+couples	qui	s’exercent	sur	les	particules,	individuellement.		
+	
+Je	reprends	le	fil	:		
+Souriau		calcule	(voir	annexe)	l’action	coadjointe	de	ce	groupe	sur	son	espace	des	
+moments	et	obtient	:	
+(3)																																																 M' = L M L T + CP T L T − LPC T		
+(4)																																																																						P’	=	L	P		
+où		
+		
+(5)																																																															
+Ainsi	l’énergie	E,	l’impulsions	p	et	le	spin	s	(lequel	est	présent	dans	la	matrice	M	)	se	
+présentent	comme	de	purs	objets	géométriques,	en	tant	que	composantes	du	moment.	
+On	constate	avec	surprise	que	cette	démarche	peut	être	étendues	aux	complexes		[2].	
+Si	nous	remplaçons	les	coordonnées	de	l’espace	de	Minkowski		 
+}	par	des	
+coordonnées	complexes	nous	formons	l’espace	Hermitien	4D,	dont	la	métrique	est	:		
+	
+	(6)																																														
+Il	est	à	remarquer	que,	comme	le	produit	d’un	nombre	complexe	a	+	ib	par	son	conjugué	
+a	–	ib	est	égal	au	carré	de	son	module	a2	+	b2,	alors			ds2	>	0		
+Cette	métrique	est	définie	sur	une	variété	complexe.		
+Considérons	la	matrice		G	(	même	signature	)		:	
+		
+(7)																																																				
+et	introduisons	un	groupe	de	Lorentz	complexe,	axiomatiquement	défini	par	:		
+
+1
+0
+0 −1
+0
+0
+0
+0
+
+x° , x1 , x2 , x3
+
+0
+0
+0
+−1
+
+0
+0
+−1
+0
+
+E
+px
+py
+pz
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+G =
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎠
+
+P =
+
+{
+
+ 
+
+ 
+
+⎞
+
+⎛
+⎝⎜
+ 
+
+L C
+0
+1
+
+18	
+
+	
+(8)																																																																				 *LG L = G		
+où	*L	est	l’adjointe	de		L.		
+Nous	pouvons	alors	construire	le	groupe	de	Poincaré	complexe		
+(9)																																																																				
+⎠⎟	
+où	C	est	le	vecteur	translation	spatio-temporelle	de	l’espace	Hermitien	4D.	C’est	un	
+groupe	d’isométrie	de	cet	espace,	dont	l’élément	de	longueur	est	réel.	On	constate	avec	
+surprise	que	tous	les	calculs	matriciels	qui	conduisaient	à	la	construction	de	
+l’application		moment,	à	partir	du	groupe	de	Lorentz	réel,	peut	être	reconduits	à	
+l’identique,	en	changeant	simplement	«	transposée	»	 
+tA.	par	«	adjointe	»		*A.	Voir	les	
+calculs	dans	l’annexe	
+L’action	du	groupe,	complexe,	sur	son	moment,	complexe,	devient	:	
+(10)																																																 M' = L M L* + CP L* − L PC*		
+(11)																																																																						P’	=	L	P		
+où			
+	
+(12)																																																													
+E	est	alors	une	énergie	complexe.	L’impulsion	p	est	également	complexe,	de	même	que	le	
+spin,	présent	dans	une	matrice	M	complexe.		
+	Cette	approche,	dans	le	monde	des	réels,	crée	un	lien	entre	mathématique	et	physique.	
+Quel	est	alors	le	sens	de	cette	extension	dans	le	monde	des	complexes	?		
+L’espace	de	Minkowski	est	un	sous-ensemble	de	l’espace	Hermitien.	Dans	cet	espace	de	
+Minkowski	nous	considérons	que	les	géodésiques	de	longueur	nulle	sont	suivies	par	des	
+photons,	tandis	que	les	géodésiques	non-nulles	sont	suivies	par	des	particules	dotées	
+d’une	masse.		
+Classiquement,	on	ne	retient	que	les	composantes	orthochrones	du	groupe	de	Poincaré,	
+qui	est	alors	dit	«	restreint	».	Or	le	groupe	de	Lorentz,	à	partir	duquel	est	construit	le	
+groupe	de	Poincaré,	axiomatiquement	défini	par	:		
+	(13)																																																																						 L T G L = L		
+possède	quatre	composantes	connexes	:		
+
+E
+px
+py
+pz
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+P =
+
+ 
+
+ 
+
+⎠
+
+⎞
+
+⎛
+⎜
+⎝
+ 
+
+}		
+
+19	
+
+Lo C
+0
+1
+
+	
+-	 Ln	est	la	composante	neutre,	qui	n’inverse	ni	le	temps,	ni	l’espace.	.		
+-	 Ls	dont	les	éléments	inversent	l’espace,	mais	non	le	temps.			
+-	 Lt	dont	les	éléments	inversent	le	temps,	mais	non	l’espace.		
+-	
+Lst	dont	les	éléments	inversent	à	la	fois	l’espace	et	le	temps.		
+Les	deux	premières	composantes	forment	le	sous-groupe	orthochrone	  Lo{
+}	
+Les	deux	suivantes,	le	sous-ensemble	antichrone	  La{
+Le	groupe	de	Poincaré	restreint	est	:		
+⎟	
+(14)																																																													
+Son	action	correspondante	sur	son	moment	est	:		
+(15)																																																 M' = Lo M Lo
+(16)																																																																						P’	=	Lo	P		
+On	peut	écrire	le	groupe	de	Poincaré	complet	:		
+(17)																																																			
+⎟ with λ= ± 1	
+Ce	qui	donne:		
+(18)																																																 M' = Lo M Lo
+(19)																																																																				 P' = λLo P		
+A	partir	de	(19)	nous	voyons	que	l’inversion	de	la	coordonnée	temps	entraîne	celle	de	
+l’énergie	(	et	de	la	masse	).			
+	
+Une	première	extension	du	groupe	de	Poincaré	restreint	est	:		
+with µ= ± 1		
+(20)																																																								
+qui	a	git	sur	l’espace	de	Kaluza	4D	:		
+
+T − λLo PC T		
+
+T − Lo PC T		
+
+µ 0 φ
+0 Lo C
+0
+1
+
+λLo C
+0
+1
+
+Le	groupe	Janus	
+
+T + λCP T Lo
+
+T + CP T Lo
+
+⎛
+⎜
+⎜
+⎜
+⎝
+ 
+
+⎞
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎝
+ 
+
+0
+
+⎞
+
+⎠
+
+⎞
+⎠
+
+⎛
+⎜
+⎝
+ 
+
+φ
+C
+
+		
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+ 
+
+ζ
+x°
+x1
+x2
+x3
+
+20	
+
+	
+(21)																																																																			
+avec	un	nouveau	pentavecteur	translation	:		
+(22)																																																																							
+⎟		
+Le	calcul	de	l’action	coadjointe	de	ce	nouveau	groupe,	de	dimension	11,		sur	son	espace	
+du	moment,	donne	l’équation	supplémentaire	:		
+	(23)																																																																						 q' = µq		
+On	introduit	alors	un	nouveau	sous-groupe,	qui	est	celui	des	translations	selon	cette	
+cinquième	dimension.	Le	scalaire	q,	théorème	de	Noether,	s’ajoute	au	moment.	C’est	la	
+charge	électrique.	On	obtient	ainsi,	à	travers	ce	formalisme,	une	modélisation	
+géométrique	de	la	symétrie	matière-antimatière.	L’antimatière	double	l’ensemble	des	
+mouvements	des	particules	dotées	d’une	charge	électrique,	avec	une	inversion	de	cette	
+cinquième	dimension	[3]		.		
+Introduisons	alors	le	groupe	:		
+(24)																																									
+qui	agit	sur	l’espace	bimétrique	Janus	([7]		,	[14])				
+(+)	et	
+Selon	le	modèle	cosmologique	Janus	c’est	une	variété	dotée	de	deux	métriques	
+(−)	qui	se	réfèrent	;	la	première	aux	masses	positives	et	la	seconde	aux	masses	
+négatives.	Toujours	selon	ce	modèle	Janus	ces	métriques	sont	solutions	du	système	
+d’équations	de	champ	couplées	[16]:		
+	(25)	
+
+and λ= ± 1	
+
+λµ 0 φ
+0 λLo C
+1
+0
+
+with µ= ± 1
+
+gµν
+ 
+
+gµν
+ 
+
+⎛
+⎜
+⎜
+⎜
+⎝
+ 
+
+⎞
+⎟
+⎟
+⎟
+⎠
+
+0
+
+Rµν
+(+) −
+
+R(+)gµν
+
+(+) = χ Tµν
+
+(+) +ϕ
+
+1
+2
+
+g(−)
+g(+) Tµν
+
+(−)
+
+⎡
+⎢
+⎢
+⎣
+
+L’approximation	Newtonienne	fournit	les	lois	d’interaction		
+
+g(−)
+g(+) Tµν
+
+Rµν
+(−) −
+ 
+
+(−) = − χ φ
+
+R(−)gµν
+
+1
+2
+
+⎡
+⎢
+⎢
+⎣
+
+(+) + Tµν
+(−)
+
+	
+
+⎤
+⎥
+⎥
+⎦
+⎤
+⎥
+⎥
+⎦
+
+⎠
+
+⎞
+
+⎛
+⎜
+⎝
+ 
+
+21	
+
+λLo C
+0
+1
+
+Un	toy	model	pour	la	vie	et	la	conscience.		
+
+	
+-  Les	masses	de	même	signe	s’attirent	selon	la	loin	de	Newton.		
+	
+-  Les	masses	de	signes	opposés	se	repoussent	selon	«	anti-Newton	».		
+	
+Considérons	le	groupe	de	Poincaré	complexe,	et	complet:		
+⎟ with λ= ± 1	
+(26)																																																
+où	 Lo	et	C	sont	complexes	et	où		λ		est	un	réel	.		
+Concentrons-nous	sur	les	mouvements	qui	s’inscrivent	dans	la	partie	réelle	de	l’espace	
+Hermitien,	qui	est	alors	un	espace	de	Minkowski.	Nous	dirons	que	cet	espace	correspond	
+au	«	monde	physique	».			
+Si	nous	considérons	maintenant	le	sous	ensemble	totalement	imaginaire	de	cet	espace	
+Hermitien	où	s’inscrivent	les	mouvements	nous	dirons	que	ceux-ci	se	réfèrent	à	des	
+masses	imaginaires,	positives	et	négative,	et	à	des	photons	d’énergie	imaginaire,	
+constituant	un	«	monde	métaphysique	».		
+Comme	l’a	montré	l’approche	Janus,	qui	intègre	des	masses,	réelles,	positive	et	négative,	
+qui	se	repoussent	mutuellement,	cette	vision	est	conforme	à	l’observation.	Les	masses	
+l’issue	de	
+négatives,	majoritaires	à	
+les	premières	des	
+conglomérats,	qui	repoussent	la	masse	positive	dans	l’espace	résiduel,	laquelle	acquiert	
+alors	une	structure	lacunaire	([8],	[11])..	Le	phénomène	du	Great	Repeller,	découvert	en	
+2017	[17],	confirme	cette	vision	de	la	structure	à	grande	échelle	de	l’univers.		Ces	deux	
+secteurs	restent	cependant	très	différents.	Ces	immenses	assemblages	de	masses	
+négatives	(de	l’antimatière	de	masse	négative)	émettent	des	photons	d’énergie	négative,	
+qui	échappent	à	nos	instruments	d’observation.	Ils	se	comportent	comme	d’immenses	
+protoétoiles	dont	le	cooling	time	est	alors	grand	devant	l’âge	de	l’univers.	La	fusion	ne	
+peut	alors	pas	se	produire	dans	ce	secteur	négatif.	Par	voie	de	conséquence	celui-ci	ne	
+contient	ni	étoiles,	ni	galaxies,	ni	planètes,	ni	atomes	lourds	et	par	conséquent	n’héberge	
+pas	la	vie,	de	structure	biologiques,	ce	qui	restent	l‘apanage	du	monde	des	masses	
+positives.		
+Qu’en	est-il	alors	du	monde	métaphysique	?		
+Une	extension	de	l’ensemble	à	un	contexte	pentadimensionnel	ferait	intervenir	des	
+charges	électriques,	réelles	dans	un	des	secteurs,	imaginaires	pures	dans	le	second.	On	
+peut	imaginer	que	les	masses	imaginaires	chargées	puissent	être	impliquées	dans	des	
+lois	similaires	à	celle	de	l’électromagnétisme	du	monde	réel,	et	ainsi	constituer	des	
+structures,	des	assemblages	de	«	méta-molécules	».		
+	On	peut	imaginer,	toujours	par	analogie,	que	ces	masses	imaginaires	puissent	interagir	
+avec	des	lois	d’interaction	du	type	:		
+
+l’ère	radiative,	forment	
+
+	
+
+	
+22	
+-  Les	masses	imaginaires	de	même	signe	s’attirent.		
+-  Les	masses	imaginaires	de	signes	opposés	se	repoussent.		
+Poussant	notre	toy	model	encore	plus	loin,	imaginons	que	les	masses	imaginaires	
+positives	soient	identifiées	à	ce	qu’on	appellerait	«	le	Bien	»	et	celle	de	signe	négatif	au	
+«	Mal	».		
+Dans	notre	monde	réel,	celui	de	notre	physique	et	de	notre	astrophysique,	les	masses	de	
+signes	opposés	ne	cohabitent	pas,	ne	forment	pas	d’assemblages,	parce	qu’elles	se	
+trouvent	d’emblée	séparées	par	de	très	grandes	distances.	Nous	pourrions	imaginer	que	
+de	divorce	ne	soit	pas	aussi	brutal	et	immédiat	dans	le	monde	métaphysique	et	que	
+puissent	se	constituer,	par	le	biais	de	forces	«	méta-électromagnétiques	»,	des	structures	
+intégrant	à	la	fois	des	masses	imaginaires	positives	et	des	masses	imaginaires	négatives,	
+c’est	à	dire	un	mélange	subtil	de	«	Bien	»	et	de	«	Mal	».		
+Le	monde	physique	est	résolument	morphogénétique.	Les	lois	de	la	physique,	
+essentiellement	grâce	à	la	gravitation,	font	émerger	d’un	chaos	originel	des	structures	de	
+plus	en	plus	variées	et	riches.	Les	étoiles,	et	les	supernovae,	peuplent	la	table	de	
+Mendeleiev.	Puis	ces	atomes	forment	spontanément	des	molécules,	et	des	biomolécules.	
+Les	atomes	lourds	s’agrègent	en	formant	des	planètes.	La	vie	y	apparaît,	même	si	son	
+apparition	reste	présentement	pour	nous	un	mystère.		
+Tout	ceci	se	joue	en	tant	qu’expression	d’un	nombre	limité	de	«	lois	de	physiques	».		
+On	peut	imaginer	que	le	monde	métaphysique	soit	également	morphogénétique,	se	
+structure	d’une	semblable	manière,	en	suivant	ce	qu’on	pourrait	alors	considérer	
+comme	«	des	lois	métaphysiques	».		
+Quand	on	remonte	dans	le	passé	on	tombe,	dans	le	monde	physique,	sur	un	état	
+totalement	déstructuré,	où	les	atomes,	en	tant	qu’assemblages	de	plusieurs	nucléons,	
+n’existent	pas	encore.			
+On	peut	imaginer	qu’il	puisse	en	être	de	même,	dans	le	monde	métaphysique	et	que	
+celui-ci	connaisse	son	propre	schéma	évolutif.	Donnons	un	nom	à	tout	assemblage	de	
+masses	imaginaires,	en	les	désignant	sous	le	vocable	général	«	d’égrégores	».		
+Le	monde	réel	engendre	une	large	variété	de	structures.	Celles-ci	ont	pour	noms	galaxies,	
+étoiles,	planètes.	La	matière	se	trouve	alors	sous	de	multiples	formes,	solide,	liquide,	
+gazeuse,	sous	la	forme	de	plasma.	Les	étoiles	émettent	des	bouffées	de	«	vent	stellaire	»	
+et	peuvent	échanger	ainsi	de	la	matière	avec	d’éventuelles	voisines.		
+On	peut	imaginer	une	semblable	variété	de	formes	et	d’apparences,	de	«	nature	»,		dans	
+le	monde	métaphysique.	Mais	quels	seraient	alors	les	contenus	d’un	tel	«	métamonde	»	?		
+Le	monde	physique	contient	en	même	temps	des	«	êtres	»	et	les	phénomènes	qui	font	
+que	ces	mêmes	êtres	interagissent,	échangent	de	l’information.	Il	peut	s’agir	de	
+rayonnement,	d’ondes	mais,	qu’il	s’agisse	du	comportement	d’étoiles	compagnes	ou	de	
+biomolécules	cette	information	prend	alors	une	forme	parfaitement	matérielle.	Il	y	a	
+«	des	molécules	messagères	».		
+
+Se	complexifier	et	étendre	son	schéma	relationnel	
+
+	
+23	
+Nous	pouvons	imaginer	qu’il	en	soit	se	même	dans	le	monde	métaphysique.		Des	
+assemblages	constituent	alors	des	«	personnalités	»,	plus	ou	moins	primitives,	plus	ou	
+moins	 sophistiquées.	 Ces	 égrégores-personnalités	 peuvent	 alors	
+interagir,	 non	
+seulement	à	l’aide	de	champs,	d’un	«	méta-rayonnement	»,	mais	aussi	à	travers	des	flux	
+de	paquets	mes	masses	imaginaires,	constituant	des	«	formes-pensées	».		
+Ces	formes	peuvent	aussi	prendre	des	formes	que	nous	nommons,	«	esprits	»	ou	
+«	dieux	».		
+A	quoi	correspondrait	alors	ce	phénomène	nommé	«	vie	»	?		
+	A	l’irruption	d’une	interaction	entre	deux	monde,	le	monde	physique	et	le	monde	
+métaphysique.	En	fait	ces	deux	univers	sont	tous	deux	morphogénétiques.	L’amorphe	y	
+est	exclu.	Ceci	situe	le	dessein	central	de	l’univers	:		
+Les	deux	allant	de	pair.	Dans	le	monde	physique	une	telle	évolution	découle	tout	
+simplement	des	équations	de	la	physique,	qui	sont	structurantes	par	essence.		
+On	peut	imaginer	qu’il	en	soit	de	même	dans	le	monde	métaphysique,	où	notre	toy	
+model	donne	une	forme	corpusculaire	aux	pensées,	à	la	conscience.		La	Vie,	en	tant	que	
+surgissement	d’une	interaction	entre	ces	deux	mondes,	décrites	dans	tous	nos	mythes,	
+démultiplie,	enrichit	cette	course	à	la	complexité.	Les	êtres	vivant	deviennent	alors	
+mixtes,		en	tant	qu’unions	d’une	structure	biologique	et	d’une	structure	psychique,	de	
+pilotage,	hébergée	dans	le	monde	métaphysique,	lequel	prend	alors		l’allure	d’une	
+noosphère.		
+Il	reste	à	imaginer	comment	se	constituerait	le	lien	entre	ces	entités.	On	peut	alors	
+imaginer	des	structures	faites	de	biomolécules,	faites	de	masses	réelles,	et	des	
+structures	«	psychiques	»,	résidant	dans	le	sous	ensemble	des	masses	imaginaires,	les	
+deux	étant	reliées	par	des	structures	faites	de	masses	complexe,	au	sens	mathématique	
+du	terme.		
+On	sait	que	les	simples	lois	de	la	physique	font	que	des	biomolécules	relativement	
+complexes	peuvent	apparaître	«	spontanément	».	Il	suffit	de	penser	à	la	célèbre	
+expérience	de	Miller	qui	avait	conduit	à	l’apparition	d’acides	aminés,	par	simple	effet	de	
+décharges	électriques	dans	une	soupe	primitive	abiotique.	Une	polymérisation	
+également	«	spontanée	»	évoque	la	formation	de	«	quasi	protéines	».	Le	chemin	vers	la	
+vie	se	trouve	ainsi	tracé.		
+Mais	quand	la	vie	apparaît-elle	?		
+Il	existe	une	molécule	clé,	au	sein	du	vivant	:	l’ADN,	que	nous	ne	savons	pas	reproduire.	
+Il	est	possible	que	ces	molécules	d’ADN	aient,	dans	certains	conditions,	des	natures	
+«	mixtes	»,		c’est	à	dire	hébergent	des	objets,	éventuellement	simples	particules	dotées	
+d’une	structure	complexe,	c’est	à	dire	assurant	le	lien	entre	le	monde	physique	et	le	
+monde	métaphysique.	Des	particules	qui	joueraient	alors	le	rôle	d’antennes	émettrices-
+réceptrices.		
+Ce	qui	ne	veut	pas	dire	que	toute	molécule	d’ADN	possèderaient	une	telle	propriété.		
+
+	
+
+24	
+
+Par	anthropocentrisme	on	pense	tout	de	suite	aux	être	humains,	leur	structure	
+psychique	étant	alors	assimilées	à	leurs	«	âmes	».	Au	passage	on	voit	apparaître	une	
+conception	plus	élaborée	de	la	«	mort	»,	en	tant	que	disparition	du	lien	unissant	les	deux,	
+ce	qui	implique	que	la	structure	psychique	perdurerait	alors	le	décès	des	individus.	Voilà	
+une	réponse	à	une	question	millénaire.		
+Nous	envisageons	que	tous	les	êtres	vivants,	quel	que	soit	le	règne	où	nous	les	classons,	
+puissent	avoir	partie	liée	avec	cette	noosphère,	à	travers	des	structures	plus	ou	moins	
+individualisées,	les	êtres	les	plus	primitifs	(plancton)	n’étant	«	pilotés	»	que	par	une	
+structure	psychique	alors	«	collective	».		
+
+	
+
+	
+
+	
+
+25	
+
+La	conscience.	
+
+Une	hiérarchie	dans	le	vivant.	A	gauche	absence	totale	d’individualité	:	les	élémentsd’être	
+issus	 du	 zoo-plancton	 ou	 du	 phyto-plancton	 sont	 gérés	 par	 une	 même	 image	 dans	 la	
+noosphère	 qui	 joue	 le	 rôle	 d’une	 «	conscience	 d’espèce	».	 .	 A	 droite	 des	 individus	 plus	
+élaborés,		dotés	d’âmes		individuelles,	immergées	dans	une	âme	collective	
+
+	
+Introduisons	un	«	niveau	de	conscience	»,	ce	qui	revient	à	situer	ces	petits	objets	rouges	
+vis	à	vis	de	ces	deux	plans,	physique	et	métaphysique.		
+On	pourrait	suggérer	toute	une	palette	de	niveaux	de	conscience	selon	la	proximité	de	
+ces	«	atomes	de	conscience	»	vis	à	vis	des	deux	plans	considérés.	Chez	les	êtres	vivnts	les	
+plus	primitifs	on	trouverait	«	le	niveau	zéro	de	la	conscience	»,	ceci	étant	modélisé	en	
+plaçant	des	structures	dans,	ou	très	près	du	plan	physique	:		
+
+Des	«	niveaux	de	conscience	»	très	différents.		
+
+	
+	La	figure	de	gauche	évoque	les	êtres	vivants	les	plus	primitifs,	de	zoo-plancton	et	le	
+phyto-plancton,	dépourvus	d’individualité,	qui	sont	gérés,	pilotés	par	une	unique	
+structure	du	monde	métaphysique.	Ces	êtres	ne	possèdent	aucune	mémoire.	Ce	sont	des	
+ROM	(read	only	memories).	Ils	réagissent	de	manière	totalement	programmée,	sur	le	
+plan	physique,	sont	incapables	de	mémoriser	une	situation	(donc	de	se	préter	à	un	
+apprentissage	pavlovien).		
+
+Quid	du	darwinisme	?		
+
+	
+26	
+A	droite	des	êtres	vivants	plus	élaborés.	Dans	les	deux	cas	ces	êtres	transmettent	des	
+informations	à	leurs	structures	psychiques	de	pilotage	où	elles	peuvent	être	mémorisées.	
+Les	êtres	au	niveau	le	plus	bas	n’ont	qu’une	«	intelligence	d’espèce	».			
+Les	êtres	vivant	«		vivent	des	expériences	dans	l’ici-bas	»	en	informant	leurs	structures	
+de	pilotages	situées	dans	«	l’au-delà	»,	dont	ils	sont	en	quelque	sorte	des	yeux	et	les	
+oreilles.	L’être	vivant	est	ainsi	beaucoup	plus	élaboré	que	l’être	«	inanimé	»	et	peut	être	
+aussi,	dans	un	sens,	que	le	«	pur	esprit	»	quand	celui-ci	se	trouve	privé	d’informations	en	
+provenance	de	l’ici-bas	».		
+	
+Le	modèle	mainstream	du	vivant	fonde	tout	sur	l’action	du	hasard,	pour	gérer	
+l’évolution	des	espèces,	vis	une	sélection	naturelle.	Le	modèle	proposé	n’invalide	pas	
+totalement	ce	schéma.	On	pourrait	comparer	les	êtres	vivants,	tous	règnes	confondus,	à	
+des	robots,	dotés	de	multiples	fonctions	correspondant	à	leurs	programmes,	de	
+reconnaissance	de	formes,	de	comportements	réflexes.	La	comparaison	s’impose	avec	
+les	robots	d’exploration	envoyés	sur	Mars,	dont	les	«	gestes	»	ne	sont	pas	totalement	
+télécommandés	depuis	la	Terre.		
+Mais	l’intelligence	de	tels	robots	ne	se	situe	pas	sur	Mars.	Il	nous	faudrait	envisager	des	
+robots	capables	de	se	reproduire,	et	même	de	combattre	d’autres	robots	concurrents.	
+Capables	aussi	de	se	reproduire	en	engendrant	d’autres	robots-descendance,	créés	à	
+partir	des	matériaux	existant	sur	place.		
+La	compétition	entre	robots	simulerait	le	combat	pour	la	vie.	Certains	modèles	
+pourraient	soudain	s’avérer	insuffisamment	performants	dans	un	biotope	donné.	Les	
+ingénieurs	pilotant	à	distance	ces	machines	pourraient	alors	donner	une	palette	
+d’ordres	se	traduisant	par	des	modifications,	intelligentes	et	non-aléatoires,	de	la	
+génétique	des	modèles,	des	plans	présidant	à	leur	conception.	On	verrait	alors	
+apparaître	un	éventail	de	nouveaux	prototypes.	Et	la	«	sélection	naturelle	»	opérerait	
+alors	un	choix	au	sein	de	cette	palette	de	nouveaux	modèles.		
+	
+Dans	cette	noosphère	on	trouvera	des	égrégores	divers	et	variés.	L’analogie	avec	le	
+monde	 de	
+l’informatique	 apparaît.	 La	 mémoire	 s’appelle	 alors	 «	souvenirs	»	
+(éventuellement	déformés	sous	forme	de		«	fantasmes	»),		«	culture	»,	en	tant	que	
+«	mémoire	collective	»,	également	à	composantes	fantasmatiques.	Les	pensées,	les	
+affects,	les	sentiments,	plus	généralement,		sont	aussi	des	structures	de	la	noosphère.	Ce	
+sont	des	systèmes	organisés	de	croyances,	des	assemblages	de	mots,	de	concepts.	De	
+même	nos	programmes	informatiques	se	construisent	à	partir	de	langages,	d’opérateurs	
+logiques.		
+Nous	sommes	sur	le	point	de	créer	une	authentique	intelligence	artificielle,	quand	celle-
+ci	se	trouvera	dotée	d’autonomie	(c’est	à	dire	de	la	capacité	de	se	reprogrammer).		
+
+L’activité	au	sein	de	la	noosphère	
+
+	
+27	
+Quel	équivalent	dans	nos	noosphères	locales,	planétaires	?	Réponse	:	nos	dieux,	nos	
+religions,	nos	idéologies.	Idée	que	nous	pourrions	résumer	selon	la	phrase	:		
+Ce	toy	model	se	présente	ainsi	comme	un	très	riche	terrain	de	jeu	pour	philosophes,	
+sociologues,	théologiens	et	psychologues.	Dans	la	mesure	où	les	particules	du	
+métamonde	pourraient	échanger	des	informations	par	le	biais	d’ondes	ou	de	«	formes	
+pensées	»	on	peut	imaginer	que	certains	individus,	puissent	exercer	une	influence,	non	
+seulement	à	travers	un	discours	diffusé	dans	l’ici	bas,	dans	ce	que	nous	appelons	
+aujourd’hui	une	médiasphère,	mais	carrément	dans	la	noosphère,	en	intoxiquant	leurs	
+semblables	par	des	pensées	délétères.		
+A	l’inverse	des	individus	pourraient	à	leur	tour	subir	l’influence	d’une	«		nébuleuse	
+noosphérique	»	qui	pourrait	se	constituer	au	sein	d’une	ethnie,	la	conscience	de	groupe	
+prenant	alors	le	pas	sur	leur	conscience	individuelle.		
+
+Nous	créons	nos	dieux	et	nos	dieux	nous	créent	
+
+	
+Supposons,	comme	le	croient	certains,	que	les	êtres	humaines	puissent	se	trouver	
+influencés	par	des	vies	antérieures,	le	schéma	correspondrait	alors	à	cette	«	multi-
+personnalité	»	:		
+
+	
+
+28	
+
+	
+
+On	peut	même	envisager	comme	suit	un	dédoublement	de	personnalité	:		
+
+Une	«	multi-personnalité	»	
+
+	
+
+	
+
+Dédoublement	de	personnalité,	ou	une	«	possession	».		
+
+	
+
+Retour	sur	les	niveaux	de	conscience.		
+
+Nous	entendons	évidemment	situer	les	êtres	humains	au	plus	haut	niveau	de	cette	
+«	conscience	».	On	comprendra	cependant	que	nous	envisageons	des	consciences	
+
+Etendre	son	champ	relationnel	en	se	complexifiant.	
+
+La	capacité	de	se	projeter	dans	le	futur	pour	envisager	les	conséquences	de	ses	actes	
+
+	
+29	
+animales,	voire	végétales.	L’être	humain	conserverait,	dans	un	tel	schéma,	une	part	
+d’animalité,	correspondants	à	ses	instincts	primaires.	Que	posséderait	alors	sa	
+conscience,	qui	fasse	de	lui	«	plus	qu’un	animal	»	?		
+Notre	vision	est	résolument	non-aléatoire	et	téléonomique.	Le	monde	du	vivant	a	un	but	
+central	:		
+La	complexité	nucléaire	et	moléculaire	est	inscrite	dans	les	lois	de	la	physique.	Celle	du	
+monde	psychique	serait	alors	«	inscrite	dans	des	lois	métaphysiques	»	,	avec	comme	but	
+focal	celui	indiqué.	Ce	sont	les	chemins	empruntés,	dans	cette	course	à	travers	plus	de		
+complexité	qui	se	présentent,	en	fonction	de	ces	lois	métaphysiques	comme	des	
+phénomènes	émergents.	L’hominisation	est	actuellement	le	chemin	le	plus	élaboré,	celui	
+qui	se	traduit	par	une	gestion	maximale	d’informations.		
+La	 technologie	doit	être	perçue	comme	un	simple	 phénomène	 émergent,	inéluctable,	
+découlant	des	lois	métaphysiques.	Elle	rend	possible,	à	terme,	la	seule	chose	que	le	
+«	chemin	purement	biologique	»	est	incapable	d’assurer	:	l’extension	du	champ	
+relationnel	à	l’échelle	intersidérale.		
+Existerait-il	des	niveaux	de	conscience	différents,	entre	les	êtres	humains	?		
+Ces	niveaux	peuvent	résulter	de	l’éducation,	de	l’influence	du	milieu.	Mais	ils	peuvent	
+aussi	être	le	résultat	d’une	pratique,	dans	un	sens	ou	dans	un	autre,	dont	le	résultat	est	
+illustré	dans	le	dessin	suivant.		
+
+A	gauche	un	être	humain	animé	de	préoccupations	«		bassement	matérielles	»,	«	au	ras	
+de	pâquerettes	»	Ce	qui	n’exclut	pas	un	niveau	élevé	de	sophistication	dans	les	
+comportements.	Tout	son	être	est	tendu	vers	des	flux	informatifs	(synonymes	de	plaisirs	
+matériels),	liés	au	monde	sensible.	Contrairement	à	l’image	caricaturale	indiquée,	un	tel	
+
+	
+
+	
+30	
+personnage	ne	se	présente	pas	automatiquement	comme	un	«	consommateur	de	bien	».	
+Il	peut	aussi	en	être	le	créateur.		
+A	droite	un	autre	être	humain	dont	la	posture	tend	vers	«	la	spiritualité	»,	ce	qui	passe	
+par	un	certain	détachement	vis	à	vis	du	monde	sensible.	Le	flux	informatif	recherché	est	
+alors	d’une	autre	nature	et	peut	être	considéré	comme	générateur	de	«	plaisir	
+psychique	».	De	tels	êtres	humains	anticipent	en	quelque	sorte	leur	condition	post	
+mortem.		
+Tous	deux	exercent	une	influence	sur	l’humanité,	l’un	dans	l’ici-bas	et	l’autres	dans	l’au-
+delà.		
+Dans	ces	comportements	on	peu	trouver	des	démarches	aussi	bien	positives	que	
+négatives.		
+	
+De	plus,	cette	noosphère,	où	est-elle	?	Où	se	situe	cet	univers	doté	de	coordonnées	
+imaginaires	?		
+Inspirons	nous	du	modèle	Janus.	Au	départ	il	s’agit	du	modèle	du	Russe	Andréi	Sakharov	
+de	1967,	avec	ses	deux	univers	jumeaux.	Non	seulement	les	flèches	du	temps	sont	
+antiparallèles,	mais	ce	second	univers	est	dans	un	«	ailleurs	»	non	localisé.		
+
+Une	noosphère,	où	?		
+
+Dans	le	modèle	Janus	on	«	replie	»	ensuite	cet	univers.	Il	n’y	a	plus	deux	contenants	
+spatiaux	(en	x,y,z)	mais	un	seul.	Par	contre	c’est	la	coordonnée	temps	qui	se	trouve	
+inversée.		
+
+	
+
+	
+
+31	
+
+	
+
+	Cette	structure	évoque	l’idée	d’une	hypersurface	«	possédant	un	endroit	et	un	envers	»	
+ayant	des	vecteurs	normaux	opposés.	.		
+En	vertu	de	son	théorème	de	1970	de	Souriau,	en	jouant	sur	les	quatre	composantes	
+connexes	du	groupe	de	Poincaré,	arrive	à	la	conclusion	que	cette	inversion	de	la	
+coordonnée	temps	va	de	pair	avec	l’inversion	de	l’énergie,	et	de	la	masse.		
+Il	conviendrait	évidemment	de	se	pencher	sur	la	structure	de	ce	groupe	de	Lorentz	
+complexe,	défini	par	:		
+*LG L = G	
+Pourrait-on	alors	parler	de	composantes	connexes	»	?	Rien	n’est	moins	sûr.	Toute	
+grandeur	complexe	peut	être	envisagée	à	travers	sa	description	à	l’aide	d’un	module	et	
+d’un	argument.		
+ z = r e iθ	
+On	peut	appliquer	cela	à	la	coordonnée	temps	:		
+ t =τe iθ	
+Ce	qui	contient	en	particulier	des	temps	réels	 ±τ	et	des	temps	imaginaires	purs		 ± iτ	.	
+On	peut	supposer	que	l’équivalent	des	expressions	issues	du	traitement	du	groupe	de	
+Poincaré	réel	conduirait	en	particulier	à	:		
+
+ 
+
+-	Les	mouvements	avec	un	temps	réel	 ±τ	correspondent	ceux	de	masses	
+ ±m 	,	réelles	
+-	Les	mouvements	avec	un	temps	imaginaire	 ± iτ	correspondent	ceux	de	
+masses	 ±im 	,	imaginaires	pures.		
+
+Nous	n’avons	pas	d’équivalent,	du	style	«		endroit	et	envers	»	pour	illustrer	l’idée	qu’en	
+tout	point	d’un	espace	on	pourrait	disposer	de	quatre	flèches	du	temps,	avec	des	
+relations	d’opposition	et	d’orthogonalité.		
+
+	
+32	
+Ce	qui	resterait,	au	demeurant	c’est	l’idée	d’une	unique	localisation	de	la	biosphère	et	de	
+la	noosphère.	On	achoppe	avec	les	idées,	issues	de	textes	traditionnels,	de	l’association	
+du	corps	biologique	avec	un	«	corps	astral	»	ou	«	corps	mental	»3.		
+	
+Il	ne	s’agit	pas	de	proposer	des	solutions.	Toujours	est-il	qu’il	est	possible,	à	travers	ce	
+toy	model,	de	modéliser	une	large	palette	de	croyances.		
+Considérons	par	exemple	la	médiumnité.	Certains	individus	auraient	la	possibilité,	dans	
+un	état	particulier,	qualifié	de	transe,	de	se	faire	l’expression	d’autres	consciences,	en	
+particulier	de	celles	d’être	décédés.	Cela	correspond	alors	au	schéma	ci	après.	Le	
+personnage	n’est	plus	«	là	»	,	mais	«	ailleurs	».		:		
+
+La	médiumnité.	
+
+	
+
+	
+Sorties	hors	corps	
+
+En	continuant	ce	jeu	de	la	modélisation,	il	est	facile	de	représenter	ces	«	sorties	hors	
+corps	»	que	certains	disent	avoir	vécues.	Là	c’est	l’esprit	de	la	personne,	son	double	
+éthérique,	son	corps	astral,	peu	importe	le	nom	qu’on	lui	donne,	qui	quitte,	spatialement,	
+son	corps	physique	et	peut	le	cas	échéant	vivre	des	phénomènes	qui	seront	alors	
+qualifiés	de	perceptions	extrasensorielles.		
+																																																								
+3	Les	textes	indouïstes	empilent	différents	«	corps	psychiques	»	comme	des	poupées	
+russes.		
+
+	
+
+33	
+
+	
+
+	
+
+Régressions	dans	des	vies	antérieures.		
+
+	Autre	schéma.	Dans	un	modèle	où	la	personne	serait	«	pilotée	»	par	une	constellation	de	
+vies	antérieures	un	tel	dérapage,	vécu	dans	un	état	de	rêve,	ou	sous	l’effet	d’une	
+suggestion	hypnotique,	correspondrait	à	cet	autre	schéma.	Là,	la	conscience	se	
+«	branche	»	soudain	sur	un	autre	«	moi	»,	à	des	éléments	de	conscience	et	de	mémoire	
+correspondant	à	une	vie	antérieure.		
+
+	
+Quelle	image	pour	«	l’au-delà	»	?		
+Les	différentes	religions	offrent	un	kaléidoscope	de	modèles	de	l’au-delà,	allant	de	
+Valhlala	des	Nordiques,	du	monde	des	esprits	des	animistes,	du	paradis	et	de	l’enfer,	
+pour	les	versions	occidentales,	à	d’autres	formes	moins	anthropocentrées	ailleurs.	Mais	
+ce	qui	émergerait	de	cette	tentative	de	modélisation	serait	que,	quelle	que	soit	la	
+
+	
+
+Et	Dieu,	dans	tout	cela	?		
+
+	
+34	
+véritable	structure	de	la	noosphère	humaine,	celle-ci	resterait	locale,	irrémédiablement	
+liée	à	la	planète	qui	porte	cette	vie.		
+Ainsi,	les	prétentions	d’universalité	des	différentes	religions	terrestres	perdraient	
+quelque	peu	de	leur	signification	sans	que	ceci	incline	en	aucune	manière		à	opter	pour	
+un	matérialisme	pur	et	dur	(	qui	n’est	qu’une	«	religion	»	de	plus,	laquelle	sert	de	
+dénominateur	commun	aux	ade	ptes	de	cette	vision	du	monde).	Nos	religions	
+deviendraient	simplement	humaines,	teintées	d’humanité.		
+	
+C’était	la	phrase	clé	du	journaliste	Jacques	Chancel,	lors	de	ses	interviews.		
+Si	on	cherche	absolument	à	s’accrocher	à	ce	concept,	ce	dieu	ne	serait	autre	que	l’univers	
+lui-même.	On	ne	peut	alors	pas	faire	plus	…universel.	Les	religions	deviennent	des	
+structures	de	notre	noosphère	planétaire.	De	même	que	notre	humanité	est	fragmentée	
+en	ethnies,	ces	structures	constituent	un	vaste	patchwork.	Mais	chaque	adepte	reste	
+convaincu	que	sa	vision	du	monde,	soit	ne	vaut	qu’à	l’intérieur	de	sa	propre	ethnie,	soit	
+est	la	seule	admissible	pour	l’ensemble	des	humains,	quitte	à	s’ingénier	à	l’imposer	à	
+l’ensemble	de	ses	semblables,	de	gré	ou	de	force.		
+Les	idéologies,	à	l’instar	des	religions,	ne	sont	que	d’autres	systèmes	organisés	de	
+croyances.		
+J’ai	comparé	le	contenu	de	la	noosphère	à	du	soft.	Nous	sommes	sur	le	point	de	créer	des	
+entités	
+l’appellation	 d’intelligences	 artificielles.	 Dotées	
+d’autonomie,	elles	échapperont	un	jour	à	notre	contrôle.	Pire,	«	leur	façon	de	penser	»	
+nous	deviendra	elle-même	étrangère.	Nous	deviendrons	incapables	d’analyser	leurs	
+architectures,	soit	parce	que	celles-ci	sont	d’une	trop	grande	complexité,	soit	parce	
+qu’elles	sont	engendré	des	algorithmes	nouveaux.		
+On	pourrait	comparer	les	dieux	à	des	sortes	d’entités,	de	consciences	collectives,	
+également	dotés	d’autonomie,	de	capacités	d’intervention	et	d’autonomie.	Je	pourrais	
+résumer	cela	en	disant	:		
+En	fait,	quand	les	systèmes	émergent	du	chaos	primitif,	il	n’y	a	pas	de	structures	sans	
+croyances,	véritables	«	atomes	de	pensée	».	Et	ces	croyances	s’agencent	naturellement	
+en	constituant	des	idéologies,	des	religions	et	des	…	connaissances	scientifiques,	de	
+manière	plus	ou	moins	opératoire.		
+J’ai	dit	dans	la	vidéo	que	la	noosphère	pourrait	avoir	connu	le	même	niveau	
+d’organisation	zéro	que	la	géosphère	et	la	biosphère.	Lorsque	le	monde	physique	se	
+réduit	à	des	protons,	des	neutrons,	des	électrons,	constituant	un	plasma	parfaitement	
+homogène,	il	est	possible	qu’il	en	soit	de	même,	en	ces	époques	reculées,	pour	la	
+noosphère.	On	pourrait	résumer	cela	en	disant	qu’à	cette	époque		:		
+
+informatiques	 méritant	
+
+Nous	créons	nos	dieux	et	nos	dieux	nous	créent	
+
+Les	dieux	n’existent	pas	encore	
+
+	
+35	
+Tout	ceci	ne	peut	que	nous	inciter	à	prendre	un	peu	de	distance	vis	à	vis	de	nos	propres	
+croyances,	en	cherchant	à	comprendre	à	quel	jeu	nous	jouons,	quel	est	le	sens	de	la	vie,	
+de	la	présence	des	hommes	sur	la	Terre.		
+	
+Les	différentes	religions	prônent	des	schémas	différents.	Celui	d’une	personnalité	
+multiple,	déjà	évoqué,	achoppe	avec	un	schéma	du	type	réincarnation.		
+
+Le	devenir	post	mortem.		
+
+	
+
+La	personnalité	humaine	serait	alors	la	résultante	de	plusieurs	existences	antérieures.	
+C’est	schématisé	par	cette	sorte	d’amibe	hébergeant	plusieurs	consciences.	Lorsqu’une	
+nouvelle	incarnation	interviendrait,	cette	structure	psychique	engendrerait	une	nouvelle	
+conscience,	dont	la	structure	serait	la	résultante	de	ces	différents	vécus.	C’est	le	thème	
+du	Karma.	Toute	nouvelle	conscience	serait	le	produit	de	cette	conjugaison,	et	
+éventuellement	d’influences	annexes,	issues	d’autres	nébuleuses	de	la	noosphère.		
+Dans	d’autres	visions	des	choses	l’être	humain	ne	vit	pas	totalement	en	dehors	de	son	
+environnement	animal	ou	végétal.	On	retrouve	cette	symbiose	de	la	totémisation.	Des	
+symbioses	psychiques	pourraient	alors	se	créer.		
+Certaines	religions	envisagent	des	réincarnations	sous	des	formes	non-humaines.	Nous	
+ne	faisons	ici	que	modéliser	ce	kaléidoscope	de	croyances,	diverses	et	variées.		
+Notons	au	passage	que,	suite	à	une	fréquentation	étroite	avec	des	humains	certains	
+leur	 conscience	 animale	 s’humaniser	
+animaux	 domestiques	 pourraient	 voir	
+partiellement,	par	une	sorte	de	contagion	des	sentiments.	Dans	un	sens	positif	comme	
+dans	un	sens	négatif,	d’ailleurs.		
+Dans	d’autres	religions	le	passage	à	une	vie	consciente	serait	unique	et	la	réincarnation	
+exclue.	On	achoppe	alors	avec	le	thème	d’un	«	jugement	dernier	».		
+
+	
+36	
+Quelle	pourrait	être	«	la	bonne	formule	»,	celle	qui	serait	la	plus	proche	de	la	«	vérité	?	
+Peut	être	toutes	et	aucune,	au	sens	où	le	«	bain	psychique	»	dans	lequel	baigneraient	des	
+êtres	humains	déterminerait	dans	une	certaine	mesure	leurs	devenirs	post	mortem.		
+Dans	les	schémas	orientaux	la	suite	des	réincarnations	successives	ne	fait	que	traduire	
+un	raffinage	de	la	personnalité	des	êtres	humains.	Dans	quel	but	?	Les	bouddhistes	
+voient	au	terme	de	cette	évolution	psychique	une	«	dissolution	du	moi	»,	qu’on	peut	voir	
+comme	la	dispersion	finale	de	«	l’égrégore-personnalité	».	C’est	une	formule.		
+D’autres	imaginent	des	existences	dans	l’au-delà	porteuses	de	situations	agréables	ou	
+désagréables.	On	voit	poindre	les	idées	d’enfer	et	de	paradis.		
+Ce	qu’on	peut	retenir,	et	se	trouve	être	absolument	général	dans	toutes	ces	cultures,	est	
+une	symbolique	«	haut	»bas	».	Le	paradis	est	«	en	haut	»,	l’enfer	est	«	en-bas	».	Serait-ce	à	
+dire	qu’il	existerait	pareille	localisation	pour	les	structures	psychiques	?	Les	«	bons	
+esprits	»	évolueraient	«	dans	le	ciel	»	et	les	mauvais	esprits	«	là	où	brûle	le	feu	qui	ne	
+s’	éteint	jamais	».	On	pense	alors	au	magma,	sous	nos	pieds.		
+En	revenant	sur	un	schéma	de	réincarnation,	pour	pouvoir	bénéficier	de	cette	formule	et	
+pouvoir	se	«	brancher	»	sur	un	être	humain	en	cours	de	gestation,	encore	faudrait	il	
+posséder	une	structure	psychique	géographiquement	proche	du	cheptel	humain.	
+Qu’adviendrait-il	alors	d’êtres	si	alourdis	par	«	le	poids	de	leurs	péchés	»	qu’il	auraient	
+sombré	sous	le	niveau	du	sol,	coupés	de	la	biosphère	?		
+Nous	sommes	amenés	à	prolonger	notre	toy	model	vers	des	niveaux	inférieurs,	quand	la	
+portion	de	masse	imaginaire	négative	devient	dominante.		
+
+	
+
+	
+
+Avec	un	savant	codage	chromatique	
+
+bas	vers	le	haut,	égale	au	poids	de	matière	astrale	déplacée.		
+
+	
+37	
+On	pourrait	alors	proposer	un	mode	de	devenir	psychique	inspiré	du	principe	
+d’Archimède,	en	proposant	la	loi	:		
+-  Tout	corps	astral	plongé	dans	de	la	matière	astrale	reçoit	une	poussée,	dirigée	du	
+Le	«	raffinage	»	de	la	personnalité	passerait	ainsi	par	l’accroissement	du	pourcentage	de	
+masse	imaginaire	positive,	dans	la	psyché	humaine.	L’évolution	inverse	se	traduirait	par	
+un	naufrage.	Tel	serait	le	but	poursuivi	par	les	êtres	humains.		
+Dans	l’atmosphère,	nos	ballons	météorologiques	se	dilatent	quand	ils	prennent	de	
+l’altitude.	Ainsi,	alors	que	la	densité	de	l’air	environnant	diminue,	la	poussée	
+d’Archimède	tend	à	se	maintenir,	du	fait	de	l’élasticité	de	l’enveloppe.	Si	on	pouvait	
+produire	des	ballons	dotés	d’enveloppes	rigides,	incapables	de		se	dilater,	ceux-ci	se	
+stabiliseraient	à	l’altitude	où	la	poussée	d’Archimède	égalerait	leurs	poids.		
+Quid	des	psychés	humaines	?	L’idée	est	amusante	et	mérite	d’être	explorée.	Les	êtres	
+humains	ordinaires	ne	parviendraient	pas	à	échapper	à	la	pesanteur	terrestre,	et	se	
+verraient	contraints,	«	psychiquement	»,	de	cheminer	à	la	surface	du	sol.	Pourtant	tout	
+leur	être	tendrait	à	s’affranchir	de	cette	pesanteur,	en	évacuant	le	maximum	de	masse	
+imaginaire	négative.		
+On	trouverait	donc	différents	êtres	humains,	en	fonction	des	mérites	ou	des	démérites	
+accumulés.	Certains	seraient	plus	ou	moins	près	de	pouvoir	s’affranchir	de	cette	
+pesanteur,	en	«		se	sentant	plus	légers	»,	plus	ou	moins,	du	reste.		
+Cette	mécanique	des	fluides,	de	«	psycho-fluides	»	tendrait	vers	quoi	?	Vers	un	
+affranchissement	complet	vis	à	vis	de	l’attraction	opérée	par	la	noosphère	terrestre	?		
+Quand	des	médiums	parlent	d’êtres	humains	décédés	trouvant	le	moyen	d’être	libérés	
+ils	ont	tous	le	même	mot	«	ils	partent	vers	la	lumière	».	Mais	de	quelle	lumière	parlent-
+ils	?	Celle	du	Soleil	?		
+Notre	toy	model	attribue	à	tout	objet	matériel	une	forme	de	contrepartie	«	astrale	».	
+Ainsi	des	objets	matériels	pourraient-ils	se	voir	investis	d’une	«	charge	psychique	».	On	
+voit	poindre	le	thème	des	talismans	(	ou	d’objets	«	maléficiés	»).	Mais	aussi	thème	
+central	de	cette	discipline	aussi	vieille	que	l’humanité	elle-même	:	l’astrologie.		
+Reprenons	notre	image,	avec	ses	deux	«	plans	»,	en	ayant	prolongé	le	plan	psychique	
+vers	des	régions	où	domaine	la	masse	négative.	Là	encore,	la	profondeur	atteinte	
+dépende	de	la	«	densité	de	l’âme	»	de	l’individu.	S’il	lui	est	toujours	possible	de	s’alléger	
+il	peut	en	revanche	s’alourdir	et	ainsi	descendre	de	plus	en	plus	bas.		Cette	variation	de	
+densité	se	joue	lors	des	existences,	des	incarnations	successives.	Faute	de	pouvoir	faire	
+l’expérience	de	nouvelles	vies,	on	reste	en	l’état.		
+Les	êtres	ayant	vécu	une	«	chute	psychique	»	au	point	de	voir	leur	structure	se	trouver	
+éloignée,	en	dessous	du	niveau		de	la	biosphère,	ce	qui	rend	impossible	tout	
+«	branchement	»	sur	un	nouvel	être	humain	en	gestation,	n’ont	plus	comme	ultime	
+recours	que	de	rechercher	le	parasitage	d’êtres	humains,	moyennant	quelques	services	
+
+	
+38	
+en	retour.	Ils	sont	devenus	«	des	mauvais	esprits	».		Bien	sûr	un	tel	commerce,	pour	
+l’âme-hôte,	se	traduira	par	son	alourdissement	inéluctable.		
+On	voit	que	ce	toy	model	épouse	toutes	les	formes	possibles	imaginables	des	croyances	
+humaines,	et	se	prête	à	une	modélisation	de	tous	les	phénomènes	dits	«	paranormaux	».	.		
+	
+Ce	petit	toy	model	est	décidément	très	amusant	et	se	prête	à	toutes	sortes	
+d’interprétations.	Selon	celui-ci	nos	pensées,	notre	activité	mentale	ou	affective	ne	peut	
+être	réduite	à	des	réactions	enzymatiques	ou	neuronales.	Le	modèle	les	situe	dans	un	
+«	ailleurs	»,	dans	un	secteur	de	la	noosphère.	Ceci	étant,	la	conscience	a-t-elle	accès	à	
+l’ensemble	de	nos	pensées.	Les	psychologues	répondront	qu’il	existe	une	par	
+inconsciente	de	cette	activité	et	de	telles	interactions.	Je	dessin	ci-après	est	une	
+modélisation	d’une	telle	situation.		
+
+L’inconscient.	
+
+	
+
+Pensée	consciente	et	nébuleuse	périphérique	de	l’inconscient	humain	
+
+	
+Le	rêve	
+
+Quand	nous	rêvons,	nous	donnons	libre	cours	à	notre	imagination.	Serait-ce	à	dire	que	
+notre	conscience	basculerait	dans	un	autre	plan	de	réalité,	en	jouant	avec	des	structures	
+faites	de	masse	imaginaire	?	Comment	interagissons	nous	avec	des	objets	de	nos	rêves	?	
+S’agit-il	d’une	activité	strictement	personnelle	ou	aurait-elle	une	composante	sous	la	
+forme	d’échanges	avec	d’autres	entités	?		
+Comment	se	créent	les	objets,	les	décors	de	nos	rêves	?	Un	ésotériste	dirait	que	leurs	
+créateurs	sont	les	rêveurs	eux-mêmes.	D’où	une	technique	de	pratique	de	«	rêve	
+conscient	»	qu’un	psychanalyste	interprétera	comme	une	action	dans	l’inconscient.		
+Là	encore	apparaît	l’analogie	avec	le	monde	de	l’informatique.		Dans	les	schémas	actuels	
+de	la	psychologie	le	rêve	humain	n’est	qu’une	tâche	laborieuse	de	classement	de	
+souvenirs	récents,	avec	confrontation	avec	des	souvenirs	anciens,	plus	ou	moins	
+fantasmés.	Nos	ordinateurs	font	de	même.	On	appelle	cela	une	tâche	de	défragmentation.	
+
+	
+39	
+livrer,	
+Jusqu’à	 une	 époque	 récente	 nos	 ordinateurs	 personnels	 devaient	 se	
+périodiquement,	à	ce	travail	de	réorganisation	de	leur	mémoire	vive.	Tous	les	
+programmeurs	savent	qu’alors	il	était	possible	de	programmer	ces	tâches	pour	une	
+certaine	heure	de	la	nuit4.	Alors	nos	ordinateurs	«	rêvaient	».		
+Aujourd’hui	est	né	Internet.	Nos	ordinateurs	ont	cessé	d’être	des	entités	indépendantes.	
+Les	messages	vont	et	viennent.	Les	virus	et	les	chevaux	de	Troie	aussi,	véritables	
+malédictions	pour	les	informaticiens.		
+Nos	technologies	sont	des	extensions	des	attributs	du	vivant.		Nos	technologies	de	la	
+gestion	des	informations	sont	aussi,	y	compris	avec	ce	monde	virtuel	que	nous	
+engendrons,	d’autres	prolongements	de	nous-mêmes.		
+		
+References	:		
+[1]	J.M.Souriau	:	Structure	des	systèmes	dynamiques.		Dunod	Ed.	France,	1970	and	
+Structure	of	Dynamical	Systems.	Boston,	Birkhaüser	Ed.	1997	
+	[2]	J.P.Petit	:	A	Symplectic	Cosmological	Model.	Progress	in	Physics,	Vol.	14,	jan.	2018		
+http://www.ptep-online.com/2018/PP-52-09.PDF	
+	[3]		J.M.Souriau	:	Géométrie	et	Relativité	(in	french).	Ed.	Hermann	1954	
+	[4]		J.P.Petit,	G.D’Agostini	:	Cosmological	Bimetric	model	with	interacting	positive	and	
+negative	masses	and	two	different	speeds	of	light,	in	agreement	with	the	observed	
+acceleration	of	the	Universe.	Modern	Physics	Letters	
+A,	Vol.29	;	N°	34,	2014	;	Nov	10th	DOI	:10.1142/So21773231450182X	
+	[5]		J.P.Petit	&	G.D’Agostini	:	Cancellation	of	the	singularity	of	the	Schwarzschild	solution	
+with	natural	mass	inversion	process.	Mod.	Phys.	Lett.	A	vol.	30	n°9		
+2015Doi:10.1142/S0217732315500510	
+[6]		J.P.Petit	&	G.D’Agostini	:	Lagrangian	derivation	of	the	two	coupled	field	equations	in	
+the	Janus	Cosmological	Model.	Astrophysics	and	Space	Science	2015,	357	:67Doi	:	
+10.1007/s10509-015-2250-6	
+[7]		J.P.Petit,	G.D’Agostini	:	Negative	Mass	hypothesis	in	cosmology	and	the	nature	of	
+dark	energy.	Astrophysics	And	Space	Science,.	A	29,	145-182	(2014)	
+[8]	J.P.PETIT,	Twin	Universe	Cosmology,	Astrophys.	and	Sp.	Science,	226,	273-307,	1995	
+	[9]	J.	P.	Petit,	Univers	Enantiomorphes	à	flèches	du	temps	opposées,	CRAS	du	8	mai	1977.	
+t.	285,	pp.	1217–1221	(1977).	
+[10]	J.	P.	Petit,	Univers	en	interaction	avec	leur	image	dans	le	miroir	du	temps,	CRAS	du6	
+																																																								
+4	Un	travail	effectué	aujourd’hui	en	continu,	comme	«	tâche	de	fond	».		
+
+	
+40	
+juin,	t.	284,	série	A,	pp.	1413–1416	(1977).	
+[11]	J.P.Petit,	G.	D’Agostini,	N.Debergh	:	Physical	and	mathematical	consistency	of	the	
+Janus	Cosmological	Model	(JCM).	Progress	in	Physics	2019	Vol.15	issue	1	
+[12]	J.	P.	Petit,	P.	Midy	and	F.	Landhseat,	Twin	matter	against	dark	matter,	int.	Conf.	
+onAstrophysics	and	Cosmology,	Where	is	the	Matter?,	Tracing	Bright	and	Dark	Matter	
+with	the	New	Generation	of	Large-Scale	Surveys	(Marseille,	France,	June	2001).	
+[13]	J.	P.	Petit,	Nuovo	Cimento	B.	The	missing	mass	problem.		109,	697	(1994).	
+[14]	J.	P.	Petit	and	G.	D’Agostini,	J.P.Petit,	Negative	mass	hypothesis	in	cosmology	and	the	
+nature	of	dark	energy.	Astrophysics	and	Space	Science,	2014	sept.	20	th	
+[15]	J.P.Petit,	P.Midy	and	F.Landsheat:	Twin	matter	against	dark	matter.	Intern.	Meet.	on	
+Atrophys.	and	Cosm.	"Where	is	the	matter	?	",	Marseille	2001	june	25-29	
+[16]	J.P.Petit	:	Physical	and	mathematical	consistency	of	the	Janus	Cosmological	Model.	
+Progress	in	Physics,	Vol.	15,	issue	1	(2019)	
+[17]	Y.Hoffman	,	D.Pomarède,	R.B.Tully	and	H.Courtois	:	The	Dipole	Repeller,	Anture	
+Astronomy	1	,	0036	(2017)	DOI	10.1038/s4	1550-016-0036		
+		
+
+	
+
+ANNEXE		
+
+	
+	
+	Considérons	l’espace	de	Minkowski	dont	la	
+métrique	est	:	
+	
+Ce	qui	correspond	à	la	matrice	de	Gramm	:		
+
+ ds2 = c2dt2 − dx2 − dy2 − dz2	
+avec	sa	signature	(	+	-	-	-	)		
+
+G =
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎝
+
+1
+0
+0 −1
+0
+0
+0
+0
+
+0
+0
+−1
+0
+
+0
+0
+0
+−1
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎠
+
+		
+
+	
+
+ 
+
+Introduisons	le	groupe	de	Lorentz	L	
+,	
+axiomatiquement	défini	par		:		
+	
+ LT G L = G		
+	
+et	le	quadrivecteur	des	translations	spatio-
+temporelles	:		
+	
+	
+
+Δt
+Δx
+Δy
+Δz
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+ 
+
+Formons	le	groupe	de	Poincaré	:		
+(1)	
+	
+⎠⎟	
+Et	l’élément	de	son	algebra	de	Lie		:		
+(2)	
+	
+⎟	
+
+Gω γ
+0
+0
+
+L C
+1
+0
+
+Z =
+ 
+
+g =
+ 
+
+⎛
+⎜
+⎝
+
+⎞
+⎠
+
+⎛
+⎝⎜
+
+⎞
+
+	
+
+41	
+
+Considérons	l’espace	de	Hermite	dont	la	
+métrique	est	:	
+	
+	
+																																																																				
+	
+Ce	qui	correspond	à	la	matrice	de	Gramm:		
+	
+
+avec	sa	signature	(	+	-	-	-	)	
+	
+
+	
+	
+	
+
+G =
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎝
+
+1
+0
+0 −1
+0
+0
+0
+0
+
+0
+0
+−1
+0
+
+0
+0
+0
+−1
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎠
+
+ 
+
+Introduisons	
+le	 groupe	 de	 Lorentz	
+complexe		L	,	axiomatiquement	défini	par		:		
+	
+ L * G L = G	
+et	le	quadrivecteur	des	translations	spatio-
+temporelles	complexes	:		
+	
+⎟	
+
+Formons	le	groupe	de	Poincaré	complexe	:		
+	(1)	
+	
+⎠⎟	
+Et	son	algèbre	de	Lie	complexe			:		
+	(2)	
+⎟	
+
+Δt
+Δx
+Δy
+Δz
+	
+
+Gω γ
+0
+0
+
+L C
+1
+0
+
+Z =
+ 
+
+g =
+ 
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+ 
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎝
+
+⎞
+⎠
+
+⎛
+⎝⎜
+
+⎞
+
+	
+
+	
+
+	
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+⎞
+⎟
+⎠
+
+⎛
+⎜
+⎝
+
+⎞
+⎟
+⎠
+
+⎛
+⎜
+⎝
+
+⎛
+⎜
+⎝
+ 
+
+⎛
+⎜
+⎝
+ 
+	
+
+⎞
+⎟ =
+⎠
+
+⎞
+⎟ =
+⎠
+
+42	
+
+Gω' γ'
+0
+
+Gω' γ'
+0
+
+L−1GωL GωC+ L−1γ
+
+L−1GωL GωC+ L−1γ
+
+ ω* = −ω		
+ Z' = g−1 Z g	
+
+ ωT = −ω		
+	
+ Z' = g−1 Z g	
+
+ G G = I	and		 L−1 = G tL G	
+
+ G G = I	and		 L−1 = G * L G 	
+
+	
+ ω' = LTωL	
+ γ' = G LTωC + G LT Gγ	
+
+avec		
+Formons	:		
+	(3)	
+	
+Nous	obtenons		:		
+	(4)	
+	
+Comme		
+(5)	
+(6)	
+
+	
+avec			
+	
+Formons	:		
+(3)	
+		
+Nous	obtenons		:		
+(4)	
+	
+Comme		
+(5)	
+(6)	
+	Introduisons	l’action	coadjointe	  µ! µ'	du	groupe	sur	so	n	moment	à	travers	la	relation	
+exprimant	la	dualité.		
+ < Z , µ> = < Z' , µ' >	
+On	écrira	le	moment,	complexe,		du	groupe	
+On	 écrira	
+Poincaré	sous	la	forme	:		
+de	Poincaré,	complexe,		sous	la	forme	:		
+(7)	
+(7)	
+} with M* = − M	
+	
+Qui	sera	exprimé	selon	:		
+Qui	sera	exprimé	selon	:		
+	(8)	
+	(8)	
+) + P* Gγ	
+	
+	
+Introduisons	la	dualité	:		
+Introduisons	la	dualité	:		
+
+le	 moment	 du	 groupe	 de	
+} with MT = − M	
+) + PT Gγ	
+
+ ω' = L*ωL	
+ γ' = G L*ωC + G L* Gγ	
+	
+
+ µ= M , P
+
+ µ= M , P
+
+Tr Mω(
+
+Tr Mω(
+
+µ≡
+ 
+
+µ≡
+ 
+
+1
+2
+
+1
+2
+
+{
+
+{
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+(9)	
+		
+Nous	obtenons		
+(10)	
+	
+
+Tr Mω(
+
+1
+2
+ 
+
+) + PT Gγ =
+
+Tr M'ω'
+
+(
+
+) + P'T G γ'
+
+1
+2
+
+(
+
+1
+2
+1
+2
+ 
+
+) + PT Gγ =
+
+(
+Tr M' LTωL
+ 
+
+) = Tr L M' LTω
+
+) + P'T LωC + P'T LT Gγ
+
+Tr Mω(
+(
+Tr M' LTωL
+
+	
+L’identification	des	termes	en		γ	donne	:		
+(11)	
+ PT = PT 'LT → P = L P'	
+	
+la	 trace	 on	 peut	 effectuer	 une	
+Dans	
+permutation	circulaire	:		
+	(12)	
+)	
+L’identification	des	termes	en		ω		donne	:		
+(13)	
+	
+) + P'T LTωC	
+Le	second	terme	du	second	membre	est	
+égal	au	produit	d’une	matrice-ligne	par	une	
+matrice-colonne.	Ceci	est	égal	au	produit	
+inversé.	 Schématiquement,	
+le	 produit	
+d’une	 matrice-ligne	 par	 une	 matrice-
+colonne	:		
+	(14)	
+)	
+	
+la	 trace	 on	 peut	 effectuer	 une	
+Dans	
+permutation	circulaire	:		
+(15)	
+	
+)	
+
+P'T LTωC = Tr LTωC P'T
+ 
+
+P'T LTωC = Tr C P'T LTω
+ 
+
+(
+Tr L M'LTω
+
+Tr Mω(
+
+) =
+
+1
+2
+ 
+
+1
+2
+
+(
+
+(
+
+43	
+
+(
+
+1
+2
+
+1
+2
+ 
+
+1
+2
+1
+2
+ 
+
+Tr M'ω'
+
+Tr Mω(
+
+) + P* Gγ =
+
+) + P* Gγ =
+
+) + P'* G γ'
+
+) + P'* LωC + P'* L* Gγ
+
+Tr Mω(
+(
+Tr M' L*ωL
+
+(9)	
+		
+Nous	obtenons		
+(10)	
+	
+	
+		
+L’identification	des	termes	en		γ	donne	:		
+(11)	
+ P* = P'* L* → P = L P'	
+la	 trace	 on	 peut	 effectuer	 une	
+Dans	
+permutation	circulaire	:		
+	(12)	
+)	
+	
+L’identification	des	termes	en		ω		donne	:		
+(13)	
+	
+) + P'* L*ωC	
+Le	second	terme	du	second	membre	est	
+égal	au	produit	d’une	matrice-ligne	par	
+une	matrice-colonne.	Ceci	est	égal	au	
+produit	
+inversé.	 Schématiquement,	
+le	
+produit	 d’une	 matrice-ligne	 par	 une	
+matrice-colonne	:		
+(14)	
+)	
+la	 trace	 on	 peut	 effectuer	 une	
+Dans	
+permutation	circulaire	:		
+	(15)	
+	
+	
+
+P' * L*ωC = Tr L*ωC P'*
+ 
+
+P'* L*ωC = Tr C P'* L*ω
+ 
+
+) = Tr L M'L*ω
+
+(
+Tr M'L*ωL
+ 
+
+(
+Tr L M' L*ω
+
+Tr Mω(
+
+)	
+
+) =
+
+1
+2
+ 
+
+1
+2
+
+(
+
+(
+
+(
+
+⎡⎣
+
+)
+
+	
+
+1
+2
+
+) =
+
+) +
+
+1
+2
+1
+2
+ 
+
+) ×ω
+
+Tr Aω(
+ 
+
+(
+Tr C P' T LT ω
+
+) = Tr antisym A(
+
+Tr Mω(
+(
+Tr L MT LT ω
+
+	
+D’où		:		
+(16)	
+	
+	
+Où		ω	est	une	matrice	antisymétrique.		
+Nous	savons	que	la	trace	d’une	matrice	est	
+égal	au	produit	d’une	autre	matrice	par	une	
+matrice	symétrique.	Toute	matrice	peut	
+être	symétrisée	ou	antisymétrisée.	De	plus	
+la	trace	du	produit	d’une	matrice	par	une	
+matrice	antisymétrique	est	nul.	Donc		
+	(17)	
+⎤⎦	
+En	appliquant	cela	à	la	matrice	 C tP tL		
+nous	prenons	la	trace	de	son	produit	par	
+une	matrice	antisymétrique	ω		
+(18)																														
+			
+Mais	:		
+(19)	
+Ainsi:		
+(20)	
+	
+	
+(21)		
+	
+(22)	
+	
+(23)	
+
+	
+)T CT = L P CT	
+
+(
+C PT LT + C PT LT
+
+antisym C PT LT
+(
+
+C PT LT = sym C PT LT
+ 
+
+) + antisym C PT LT
+
+⎤⎦ = Tr antisym C PT LT
+
+Tr sym C PT LT
+ 
+
+⎦ = 0	
+
+Tr C PT LT ω
+ 
+
+(
+= P LT
+
+) ×ω
+
+) ×ω
+
+C PT LT
+
+) =
+
+)T
+
+)T
+
+1
+2
+
+(
+ 
+
+⎡
+⎣⎢
+
+⎤
+⎦⎥
+
+(
+
+(
+
+)
+
+(
+
+(
+
+⎡
+⎣
+
+⎡
+⎣
+
+⎡⎣
+
+⎤
+
+ 
+
+44	
+
+⎡⎣
+
+)
+
+1
+2
+
+) =
+
+) +
+
+1
+2
+1
+2
+ 
+
+) ×ω
+
+Tr Aω(
+ 
+
+(
+Tr C P'* L* ω
+
+) = Tr antisym A(
+
+Tr Mω(
+(
+Tr L M* L* ω
+
+D’où		:		
+(15)	
+	
+	
+Où		ω	est	une	matrice	antisymétrique		
+Nous	savons	que	la	trace	d’une	matrice	est	
+égal	au	produit	d’une	autre	matrice	par	
+une	matrice	symétrique.	Toute	matrice	
+peut	être	symétrisée	ou	antisymétrisée.	
+De	plus	la	trace	du	produit	d’une	matrice	
+par	une	matrice	antisymétrique	est	nul.	
+Donc		
+	(17)	
+⎤⎦	
+En	appliquant	cela	à	la	matrice	 C tP tL		
+nous	prenons	la	trace	de	son	produit	par	
+une	matrice	antisymétrique	ω		
+(18)																														
+)		
+	
+Mais	:		
+(19)	
+	
+Ainsi	
+(20)	
+	
+	
+(21)															
+(22)	
+	
+(23)	
+
+⎦	
+)C* = L P C*	
+
+(
+C P* L* + C P* L*
+
+antisym C P* L*
+(
+
+C P* L* = sym C P* L*
+ 
+
+⎤⎦ = Tr antisym C P* L*
+
+) + antisym C P*L*
+
+Tr sym C P* L *
+ 
+
+⎦ = 0	
+
+Tr C P* L* ω
+ 
+
+(
+= P L*
+
+) ×ω
+
+) ×ω
+
+C P* L*
+
+) =
+
+) *
+
+)*
+
+1
+2
+
+	
+
+(
+ 
+
+(
+
+(
+
+⎡
+⎣
+
+(
+
+(
+
+⎡
+⎣
+
+⎡
+⎣
+
+⎡⎣
+
+⎤
+
+⎤
+
+ 
+
+⎤
+⎦
+
+⎤
+⎦
+
+ 
+
+ 
+
+ 
+
+=
+
+=
+
+)
+
+)
+
+)
+
+)
+
+)
+
+)
+
+	
+
+1
+2
+
+1
+2
+
+1
+2
+
+45	
+
+antisym C P'* L*
+
+antisym C P'T LT
+
+(
+(
+C P'* L* − L P' C*
+
+(
+(
+C P'T LT − LP' CT
+
+(
+Tr C P* L*
+(
+Tr C P'* L* − L P' C*
+=
+
+(
+Tr C PT LT
+(
+Tr C P'T LT − L P' CT
+=
+
+	
+	
+	
+	
+	
+(24)	
+(24)	
+)	
+)	
+	
+Finalement	:		
+Finalement	:		
+	(25)	
+(25)	
+	
+		
+ M = L M' L* + C P' * L* − L P' C*	
+ M = L M' LT + C P'T LT − L P' CT	
+	
+	
+(26)		
+(26)		
+ P = L P'	
+	
+	
+	Nous	pouvons	intervertir	-	M	et	M’	,	P	et	P’	et	nous	obtenons,	pour	l’application	moment	
+la	 même	 expression	 que	 pour	
+complexe	
+les	 réels,	 en	 changeant	 simplement	
+«	transposée	»	par	«	adjointe	»	:	»	:		
+	
+
+ P = L P'	
+
+M' = L M LT + C PT LT − L P CT
+
+M' = L M L* + C P* L* − L P C*
+
+1
+2
+
+ 
+
+ 
+
+P' = L P
+
+P' = L P
+
+						 
+Pn	peut	mettre	le	moment	sur	la	forme	matricielle	:		
+(27)																															
+⎟															 
+Ainsi	l’action	du	groupe	complexe	sur	son	moment,	complexe,	devient	:		
+(28)																																			  µ' = g µgT
+									  µ' = g µg*
+	
+
+⎟		
+		
+
+M − P
+PT
+0
+
+M − P
+P*
+0
+
+µ=
+ 
+
+µ=
+
+⎛
+⎜
+⎝
+
+⎛
+⎜
+⎝
+
+⎞
+
+⎠
+
+⎞
+
+⎠
+
+

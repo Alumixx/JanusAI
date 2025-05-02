@@ -1,0 +1,758 @@
+	
+
+Manaty	Research	Group	
+
+J.P.Petit1	,		G.d’Agostini2	Nathalie	Debergh3	
+
+1	
+The	Janus	cosmological	model:	an	answer	to	the	deep	crisis	of	today’s	cosmology.		
+____________________________________________________________________________________________________	
+Keywords	:	 Negative	 energy,	 negative	 mass,	 dark	 matter,	 dark	 energy,	 Janus	
+cosmological	model.		
+____________________________________________________________________________________________________	
+Abstract	:	After	having	evoked	the	deep	crisis	that	cosmology	and	physics	know,	we	
+examine	the	different	attempts	to	introduce	negative	masses	in	the	cosmological	model.	
+Only	the	Janus	cosmological	model	presents	both	a	mathematical	and	physical	
+coherence,	as	well	as	numerous	observational	confirmations.	Presenting	itself	as	a	
+geometrical	extension	of	general	relativity,	it	represents	a	possible	solution	to	the	crisis	
+of	cosmology.	
+____________________________________________________________________________________________________	
+1	-	Introduction	:	
+Physics	and	cosmology	have	been	in	perfect	crisis	since	1970.	In	2006	the	physicist	Lee	
+Smolin	published	a	book	entitled	"The	trouble	with	physics"	[1]	the	same	year	Peter	
+Woit	published	"Not	even	wrong!	"	[2].	Between	1900	and	1970	theoretical	physics,	
+experimental	 physics	 and	 observational	 techniques	 progressed	 hand	
+in	 hand.	
+Sometimes	the	experiment	or	the	observation	raised	a	question	to	which	theorists	then	
+answered,	possibly	by	introducing	a	profound	paradigm	shift	in	our	way	of	conceiving	
+space,	time,	matter,	the	universe.	Sometimes	the	theoretical	models	were	ahead	of	the	
+observation,	as	it	was	the	case	with	the	prediction	of	the	existence	of	antimatter	by	Dirac.	
+Through	an	anecdote,	we	can	evoke	the	fact	that	theoretical	advances	were	sometimes	
+received	with	irony.	Thus	Niels	Bohr	had	said,	after	this	announcement	made	by	Dirac,	
+that	“this	theory	was	good	for	capturing	elephants.	Dirac's	theory	is	hung	on	a	tree	in	
+Africa.	The	elephants	read	it	and	are	so	flabbergasted	that	they	can	be	easily	captured”.	
+In	the	sixties,	cosmology,	where	a	large	consensus	had	been	reached,	which	translated	
+into	the	idea	that	the	cosmological	constant	should	be	either	zero	or	negligible,	was	
+practically	reduced	to	the	measurement	of	the	density	of	the	universe,	by	comparing	it	
+to	a	critical	density	of	10-29	grams	per	cubic	centimeter.	Depending	on	the	case,	one	
+chose	one	of	the	three	models	derived	from	Friedmann's	solutions.		
+The	theory	of	quarks	had	allowed	the	emergence	of	a	standard	model	whose	elegance	
+and	coherence	were	admired.	Particle	physics	added	new	members	to	the	bestiary	with	
+supersymmetry	but,	all	of	a	sudden,	Nature	refused	to	confirm	these	predictions.	The	
+new	superparticles	did	not	appear.	The	crisis	spread	to	cosmology	and	astrophysics.	The	
+dynamics	of	galaxies	and	the	observed	strong	gravitational	lensing	effects	could	no	
+																																																								
+1	Jean-pierre.petit@manaty.net	
+2	gilles.dagostini@manaty.net	
+3	Nathalie.Debergh@manaty.net	
+
+	
+2	
+longer	work	with	visible	matter.	We	had	to	conjecture	the	existence	of	another	one,	of	
+unknown	nature,	to	which	we	gave	the	word	dark	matter.	But	for	the	moment	it	is	only	a	
+name,	hiding	our	ignorance.	To	explain	the	extraordinary	homogeneity	of	the	primitive	
+universe,	it	was	considered	that	the	universe	could	have	undergone	an	extremely	brutal	
+expansion	phase,	under	the	effect	of	the	field,	immediately	associated	with	a	new	
+particle:	the	inflaton.	But	today	there	are	as	many	models	of	inflatons	as	there	are	
+researchers	working	on	this	subject.		
+As	if	this	problem	was	not	enough,	the	evidence	of	the	acceleration	of	the	cosmic	
+expansion	required	that	we	consider	a	new	form	of	energy,	also	black.	
+The	years	pass.	All	attempts	to	identify	these	components,	as	important	by	their	effects	
+as	mysterious	by	their	nature,	were	failures.		
+If	it	takes	years	before	we	can	give	an	identity	to	all	these	unknown	components,	can	we	
+really	speak	of	a	standard	cosmological	model?		
+For	forty	years,	string	theory	seemed	to	represent	a	new	paradigm	shift.	Historically,	it	
+will	undoubtedly	be	an	interlude	one	day.	After	a	short	period	of	skepticism,	the	
+majority	of	theorists	threw	themselves	into	the	adventure,	which	gave	the	opportunity	
+to	publish	thousands	of	articles	and	to	present	hundreds	of	theses.	But	when	one	builds	
+a	model	it	is	still	desirable	that	it	proposes	explanations	of	phenomena,	or	predicts	them.	
+Half	a	century	later,	one	conclusion	is	obvious.	String	theory	is	no	more	than	a	
+mathematical	gesticulation4.	
+In	their	books	Smolin	and	Woit	called	for	the	emergence	of	new	ideas5.		In	what	follows	
+we	propose	to	study	the	benefit	and	cost	of	introducing	particles	with	negative	masses	
+and	energies	into	the	model.	
+	2	–	Attempts	to	introduce	negative	masses	in	cosmology.		
+	The	main	article	appeared	in	1957	[5].	The	author	introduces	then	two	types	of	masses,	
+inertial	and	gravitational,	which	are	identified	in	General	Relativity6.			Any	attempt	to	
+introduce	these	negative	masses	in	the	General	Relativity	model	is	then	confronted	with	
+the	runaway	phenomenon,	which	can	be	summarized	in	these	two	sentences:		
+	
+-	Positive	masses	attract	all	types	of		masses	
+-	Negative	masses	repel	all	types	of	masses.		
+																																																									
+4	But	the	four	representatives	of	theoretical	physics	at	the	Advanced	Studies	Institute	of	
+Princeton,	to	which	Einstein	and	Kurt	Gödel	belonged,	are	string	specialists.	Because	
+there	is	....	nobody	else.	
+5	Smolin	only	saw	a	justification	for	launching	a	"quantum	gravitation"	where	space	and	
+time	themselves	would	be	quantized.	But	for	the	moment,	it	doesn't	work.	Probably	
+because	the	approach	considered	(Carlo	Rovelli)	is	not	the	right	one.	Apart	from	that,	
+Smolin	refused	any	other	approach,	refusing	to	answer	to	our	mailings,	transmitted	by	
+the	mathematician	Alain	Connes,	Field	medalist	and	preface	of	his	work.	
+6	Their	identity	reflects	the	"principle	of	equivalence".	
+
+- 
+
+	
+3	
+Under	these	conditions,	if	two	masses	of	opposite	signs	are	brought	together,	the	
+negative	mass	runs	away,	pursued	by	the	positive	mass.	In	this	phenomenon	of	mutual	
+acceleration,	energy	is	conserved	since	the	kinetic	energy	of	the	negative	mass	is	
+negative.	A	physicist	can	hardly	imagine	that	such	a	behavior	could	be	part	of	a	new	
+physics.	This	article	provokes	some	comments	([6]-[12]).		
+	Years	later,	this	possibility	is	again	considered	[13]	,	without	any	more	success.	Let	us	
+quote	the	author's	conclusion	:	
+	
+Indeed,	what	I	am	writing	may	be	called	science	fantasy,	and	the	busy	reader	is	fully	
+entitled	to	turn	the	page.	My	reason	for	continuing	is	to	see	whether	the	properties	of	
+the	hypothetical	universe	suggest	why	the	real	universe	contains	only	positive	mass.	My	
+intention	is	summarized	by	Einstein’s	metaphorical	phrase	:	«	“What	interests	me	is	
+whether	God	had	choice	in	the	creation	of	the	world”	».		
+	For	the	sake	of	completeness,	let	us	quote	two	other	attempts,	one	in	string	theory	[29]	
+and	the	other	in	a	more	classical	approach	[30],	but	where	the	essential	paradigmatic	
+leap,	the	passage	to	a	system	of	two	coupled	field	equations,	is	not	made,	so	that	the	
+authors	run	up	against	the	runaway	paradox,	inevitable	for	any	attempt	to	introduce	
+negative	masses	into	the	Einstein	equation.				
+	
+Still	trying	to	introduce	these	negative	masses	into	General	Relativity,	i.e.,	into	Einstein's	
+field	equation,	we	find	the	suggestion	that	the	negative	energy	of	these	masses	could	
+mimic	the	cosmological	constant	[14].	But,	under	these	conditions	the	density	of	the	
+latter	must	remain	constant	during	the	cosmic	evolution.	The	author	then	suggests	a	
+mechanism	of	continuous	creation	of	these	negative	masses,	not	described,	which	does	
+not	clarify	the	problem.		
+	There	are	then	heuristic	attempts7	[15]	in	which	the	following	interaction	laws	are	given,	
+free	of	theoretical	justifications.		
+	-	Masses	of	the	same	sign	attract	each	other	according	to	Newton's	law	
+-	Masses	of	opposite	signs	repel	each	other	according	to	"anti-Newton".		
+	Such	a	heuristic	model	is	equivalent	to	restoring	the	principles	of	action-reaction	and	
+equivalence	in	this	set	of	masses.	By	taking	densities	and	temperatures	equal	in	absolute	
+value	for	the	two	entities,	one	obtains	then	a	phenomenon	of	percolation	(see	Fig.	1).		
+	
+
+																																																								
+7	Heuristic	approach:	we	formulate	a	hypothesis	on	the	interaction	laws,	without	
+theoretical	justifications,	and	we	look	at	what	results	from	it,	through	numerical	
+simulations.	
+
+	
+
+4	
+
+	
+
+Fig.1	:	Percolation,	from	figures	7	and	8	of	[15].	
+
+	
+	It	is	seen	that	the	two	types	of	masses	tend	to	separate,	giving	a	pattern	that	does	not	
+seem	to	be	able	to	be	connected	to	any	astronomical	observation.	This	1990	result8	was	
+based	on	250	positive	and	250	negative	mass	points.		Seeing	this	result	we	had	the	idea	
+to	give	the	negative	points	a	mass	of	an	order	of	magnitude	greater	than	that	of	the	
+positive	points.	The	effect	of	this	heuristic	approach	was	immediate.	The	negative	
+masses	immediately	formed	a	regular	network	of	clusters,	confining	the	positive	mass	in	
+the	residual	space.	(see	Fig.	2	and	Fig.	3).		
+		
+
+	
+Fig.2	:	Two-dimensional	(2D)	simulation	[17].	On	the	right	the	regular	distribution	of	
+negative	mass	clusters.	On	the	left	the	positive	mass	lacunar	distribution,	confined	in	the	
+																																																								
+8	Using	the	"Rolls"	of	the	computers	of	the	time,	a	Cray-one!	Today	any	PC	can	do	ten	
+times	better	(but	cannot	handle	3D)	
+
+Ratio	of	negative	mass	density	to	positive	mass	density:	50.	
+
+residual	space.		
+
+	
+	
+
+5	
+
+	
+
+		
+
+Fig.3	:	The	two	images,	superimposed	
+
+		This	suggested	that	the	key	to	the	large-scale	structure	of	the	universe	could	arise	from	a	
+very	dissymmetric	situation.	Moreover,	the	fact	that	positive	masses	were	the	first	to	
+give	rise	to	clusters	could	be	explained	by	the	fact	that	the	Jeans	time	associated	with	
+them	was	then	lower	:		
+	
+	(1)																																						
+		In	a	three-dimensional	(3D)	extension	(which	our	computational	means	at	the	time	did	
+not	allow)	this	suggests	a	large-scale	structure	of	the	universe	(VLS)	in	the	form	of	
+joined	soap	bubbles	(see	Fig.	4).	
+		
+
+4πG ρ(−)
+
+4πG ρ(+)
+
+<< t
+
+(−) =
+J
+
+(+) =
+J
+
+t
+ 
+
+	
+
+1
+
+1
+
+	
+
+6	
+
+Fig.4	:	The	joint	soap	bubbles	model	
+
+	
+	
+	
+At	the	center	of	each	cell,	there	is	a	cluster	of	negative	mass.	Three	cells	meet	along	a	
+segment,	likely,	still	by	gravitational	instability,	to	give	rise	to	a	filamentary	structure.	
+Four	cells	meet	along	a	point	in	the	vicinity	of	which	we	will	then	have	a	cluster	of	
+galaxies.	At	the	moment	of	the	constitution	of	this	structure	on	a	very	large	scale,	the	
+matter	is	brutally	compressed	according	to	plates,	which	allow	a	rapid	radiative	cooling,	
+destabilizing,	generating	the	birth	of	galaxies.		
+	This	idea	is	reinforced	by	the	discovery,	in	2017,	of	the	Dipole	Repeller	phenomenon	
+[16].	A	cluster	of	negative	mass,	occupying	the	center	of	this	great	void,	is	then	
+responsible	for	the	effect	of	repulsion	produced,	on	the	neighboring	galaxies.		
+	
+Another	observational	aspect	lends	credence	to	this	model	of	large-scale	structure	of	the	
+universe.	We	know	that	galaxies	with	high	redshift9	(	z	>	7	)	have	very	low	luminosities.	
+They	are	then	considered	as	dwarfs.	This	model	provides	a	different	interpretation:	
+objects	of	negative	mass,	producing	on	photons	of	positive	energy	a	negative	
+gravitational	lensing	[17],	[18]),	it	would	be	galaxies	of	a	normal	size	whose	luminosity	
+would	be	attenuated	by	this	phenomenon.	Combining	these	two	aspects,	finer	
+measurements	of	attenuation	of	this	luminosity	of	the	galaxies	in	the	background	would	
+then	provide	an	assessment	of	the	size	of	the	object.		
+		3	–	Towards	a	new	model	based	on	a	new	geometric	paradigm.		
+	It	is	clear	that	if	we	stay	in	the	geometrical	framework	proposed	by	Einstein,	where	the	
+trajectories	of	masses	and	photons	are	interpreted	as	metric	solutions10	
+	of	a	single	
+field	equation,	the	runaway	phenomenon	is	inevitable.	The	only	way	to	escape	this	
+																																																								
+9	With	great	speed	of	escape,	therefore	very	distant	and	therefore	very	young.	
+gµν	,	solutions	de	l’équation	de	champ.	
+10	Trajectoires	calculées	à	l’aide	de	ces	fonctions	 
+
+gµν
+ 
+
+	
+
+gµν
+(+) and gµν
+(−)
+ 
+
++ 𝑑!! −𝑔!𝐿𝛷!,𝑔! −𝜇!
+,	the	terms	corresponding	to	positive	matter	
+
+	
+7	
+paradox,	hardly	acceptable	to	a	physicist,	is	to	consider	that	the	trajectories	of	positive	
+masses	and	photons	of	positive	energy	on	the	one	hand,	and	of	negative	masses	and	
+photons	of	negative	energy	on	the	other	hand,	are	deduced	from	two	different	metrics	
+.	This	leads	to	a	new	geometrical	model	where	the	single	𝑀!	manifold11	is	
+equipped	with	not	one,	but	two	metric	fields12.	The	first	attempt	in	this	direction	
+presents	this	situation	as	resulting	from	the	interaction	between	two	“branes”.	In	this	
+model	the	elements	of	the	two	populations	are	supposed	to	interact	through	gravitons	of	
+non-zero	mass	([19],[20]).	This	non-zero	mass	of	the	gravitons13	means	that	this	model	
+also	belongs	to	the	 massive	 gravity,	and	is	thus	presented	as	 a	 massive	 bigravity.	An	
+assumption	which	only	complicates	the	model,	by	giving	birth	to	the	classical	ghost	
+instability14.	Hereafter	the	action15	corresponding	to	this	model:		
+	(2)	
+		𝑆= 𝑑!𝑥 −𝑔!𝑀!!𝑅𝑔! −𝛬! + 𝑑!𝑥 −𝑔!𝑀!!𝑅𝑔! −𝛬! + 𝑑!𝑥 −𝑔!𝐿𝛷!,𝑔!
+𝑑!𝑥𝑔!𝑔! ! !𝑉𝑔!,𝑔!
+Any	point	of	the	first	branch,	the	“right”	branch,	marked	by	the	letter	R	,	is	interacting	
+with	a	conjugate	point	of	the	second	branch,	the	“left”	branch,	marked	by	the	letter	L	.		
+	and		
+They	introduce	Lagrangian	densities	in	the	action	:	the	Ricci	terms	
+	and	negative	
+	.	All	those	are	based	on	the	corresponding	four-dimensional	
+matter	16
+																																																								
+11	A	"manifold"	is	simply	a	continuous	space,	consisting	of	points	(on	the	basis	of	which	
+one	can	construct	first	and	second	derivatives).	
+12	The	mathematical	tool	to	calculate	distances.	In	this	model,	between	two	points	there	
+are	two	different	distances.	
+13	Free	of	any	foundation.	
+14	"Ghost	instability"	which	stems	from	the	fact	that	gravitons	would	contribute	to	the	
+gravity	field,	which	makes	the	system	self	unstable	(...).	
+15	This	idea	of	"action"	derives	from	the	principle	of	least	action	of	the	Frenchman	Pierre	
+de	Maupertuis	(1698-1759).		The	trajectories	are	"optimal"	paths	along	which	the	
+integral	defined	by	the	scalar	S	is	minimal.	This	constraint	leads	to	"a	calculation	of	
+variation"	(it	is	the	metric,	which	then	becomes	the	unknown).	
+16	The	way	of	approaching	the	problem,	which	was	defined	by	David	Hilbert	to	support	
+the	empiricist	approach	of	Albert	Einstein,	is	to	compose	the	action	(which	became	the	
+"Hilbert-Einstein	action").	It	has	an	undeniable	"kitchen"	side.	In	the	integral	we	put	"the	
+Ricci	scalar"	R,	which	is	a	scalar	related	to	the	curvature	of	space.	It	is	zero	if	the	space	is	
+flat.	It	is	the	presence	of	this	term	that	gives	the	first	member	of	the	Einstein	equation,	at	
+the	end	of	a	"variation	calculation"	(of	the	metric	and	of	the	Ricci	tensor	which	is	
+deduced	from	it).	As	there	are	two	Ricci	scalars,	each	attached	to	each	of	these	two	
+"geometries",	the	calculation	of	the	variations	will	give	the	first	two	members	of	two	
+field	equations.		And	we	add	"Lagrangian	densities".	In	General	Relativity	there	is	only	
+
+)
+   − gL L(φL , g
+
+   − gR R(g
+)
+
+   − gR L(φR , g
+
+   − gL R(g
+
+)
+
+)
+
+R
+
+R
+
+L
+
+L
+
+R
+
+R
+
+  ( gR gL)1/4
+
+tµν
+L and tµν
+  
+
+Tµν
+L and Tµν
+  
+
+	and			
+
+   − g L dxodx1dx2dx3
+
+   − g R dxodx1dx2dx3
+
+  µ4( gR gL)1/4V (gR,gL)
+
+	
+8	
+.	They	introduce	an	interaction	
+hypervolumes	
+		.	The	interest	
+term	:
+	based	on	an	“average	volume	factor17”
+of	this	paper	is	that	the	Lagrangian	derivation	shows	for	the	first	time	the	form	of	the	
+system	of	two	coupled	field	equations,	linked	to	such	a	bimetric	model18:	
+(3)	
+2𝑀!! 𝑅!"𝑔! −12𝑔!"!𝑅𝑔! +𝛬!𝑔!"! =𝑡!"! +𝑇!"!
+2𝑀!! 𝑅!"𝑔! −12𝑔!"!𝑅𝑔! +𝛬!𝑔!"! =𝑡!"! +𝑇!"!	
+In	this	equation	the	tensors19	
+	represent	the	matter	fields	of	the	two	types	of	
+	are	then	responsible	for	what	can	be	called	an	
+masses,	while	the	terms	
+“induced	geometry	effect”,	i.e.	the	way	the	geometry	of	one	of	the	two	populations	is	
+influenced	by	the	matter	field	of	the	second.	But	their	test	does	not	lead	to	any	model,	
+because	they	cannot	specify	the	nature	of	the	interaction	terms20.	
+A	more	sophisticated	attempt	[18]	is	based	on	the	action21:		
+(4)	
+	The	metrics	are	then	marked	with	the	letters	 g	and	 h.	We	find	the	two	Lagrangian	
+densities.	The	author	manages	the	interaction	between	the	two	populations	with	the	
+help	of	applications	to	which	she	gives	the	name	“pull	over”.	Her	coupled	field	equations	
+system	is	then	Qui	donne	cette	fois	encore	les	deux	équations	de	champ	couplées	avec	
+les	termes	d’interaction.22	:		
+	(5)	
+																																																																																																																																																																													
+one	term	L,	which	gives	the	tensor	of	the	second	member.	Here	there	are	two.	The	
+coefficients	and	are	the	volume	elements	in	these	Riemanian	spaces.	
+17	A	heuristic	hypothesis	by	Damour	and	Kogan,	without	geometric	justification.	
+18	Thus	Damour	and	Kogan	produced	the	first	"bimetric"	model	leading	to	two	coupled	
+field	equations.	For	them	the	two	entities	are	supposed	to	"inhabit"	different	"branes".	
+19	The	"tensor"	formalism	means	that	the	equations	and	solutions	obtained	do	not	
+depend	on	the	chosen	coordinate	system.	The	only	invariant	objects	are	the	geodesics	
+and	the	lengths	measured	along	them	(think	of	the	S2	sphere).	
+20	Damour	and	Kogan	will	fail	to	define	them,	in	a	45-pages	paper	from	2004.	
+21	Second	attempt,	from	2008,	also	in	Physical	Review	D,	by	Sabine	Hossenfelder.	We	
+find	the	two	metrics,	the	two	Ricci	scalars	and	the	"Lagrangian	densities"	
+22	Which	again	gives	the	two	field	equations	coupled	with	the	interaction	terms.	
+
+	
+
+	
+
+9	
+
+	
+
+⎡⎣
+
+	
+
+µ a−1
+⎤⎦κ
+⎡⎣
+
+νδgµν
+⎤⎦ λ
+
+  δhκλ = − a−1
+
+	The	mapping	 a	corresponds	to	the	hypothesis	made	concerning	the	coupling	mode	
+between	the	two	metrics23		
+	(6)																																																			
+		The	conservativity	of	the	two	equations,	resulting	from	the	form	of	their	first	two	
+members	is	then	ensured.	If	the	mathematical	method	is	rigorous,	the	benefit	that	
+results	from	the	approach,	in	terms	of	comparison	with	observations,	derives	from	the	
+choice,	obviously	free,	of	the	sign	of	terms	present	in	the	action	(4).	At	the	time	she	
+composed	her	article,	in	2008,	the	scientific	community	had	not	yet	agreed	on	the	fact	
+that	the	expansion	of	the	universe	is	not	slowed	down,	but	accelerated	([21],[3],[4]).	In	
+particular,	her	hypothesis	leads	to	a	violation	of	the	equivalence	principle	in	the	negative	
+mass	population,	and	she	concludes	that	this	is	a	generic	property	of	bimetric	models24.	
+In	our	unpublished	work25[22]	her	method	is	taken	up	again,	with	different	choices	of	
+signs,	restoring	the	principle	of	equivalence	within	this	population	of	negative	mass.	
+This	work	represents	then	the	justification	of	the	various	works,	evoked	above,	until	
+then	founded	on	a	heuristic	hypothesis.	This	model,	named	Janus	Cosmological	Model	
+(JCM),	is	based	on	the	fundamental	assumption	of	a	deep	dissymmetry	between	the	
+mass	and	negative	energy	populations	and	the	mass	and	negative	energy	populations.	
+Here	is	the	system	of	equations	that	results	from	this	approach,	here	in	mixed	
+notation26	:		
+	(7)		
+																																																								
+23	This	is	the	key	to	the	construction	of	its	solution:	an	application	linking	the	
+differentials	of	the	two	metrics.	Between	brackets	of	tensors,	to	be	defined.	
+24	In	order	to	fit	with	the	observational	data	of	the	time,	she	violates	the	equivalence	
+principle	of	GR	(equality	between	inertial	mass-the	way	a	particle	behaves	in	a	field-	and	
+gravitational	mass-the	way	it	contributes	to	this	field).	In	doing	so,	it	loses	all	the	benefit	
+that	the	rigor	of	its	mathematical	approach	gave	it	and	does	not	manage	to	fit	with	
+observations				
+25	Refusal	of	four	journals	to	simply	submit	this	paper	for	review	by	referees	(or	
+admission	of	failure	of	the	journals	to	find	a	referee	willing	to	do	this	analysis	work).	
+26	T.	Damour,	in	2019,	believed	he	had	found	a	crippling	flaw	in	this	model,	which	was	
+quickly	eliminated	by	tinkering	(the	"hats"),	with	the	second	tensors	of	the	second	
+members	that	reflect	"induced	curvature	effects".	This	is	not	a	tinkering	with	the	model.	
+In	fact	it	is	the	satisfaction	of	the	"Bianchi	mathematical	conditions"	that	determine	the	
+shape	of	these	tensors.	But	he	never	read	our	answer.	
+
+	
+
+10	
+
+⎡
+⎢
+⎢
+⎣
+⎡
+⎢
+⎢
+⎣
+
+⎤
+⎥
+⎥
+⎦
+⎤
+⎥
+⎥
+⎦
+
+	
+
+R(+)
+
+ν −
+µ
+
+νR(+) = χ(+) T (+)
+
+δµ
+
+ν +
+µ
+
+1
+2
+
+g(−)
+g(+)
+
+⌢T (−)
+
+ν
+µ
+
+	
+
+   
+
+ν
+µ
+
+1
+2
+
+δµ
+
+ν −
+µ
+
+0
+0
+0
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+⌢T (+)
+
+g(+)
+g(−)
+
+ρ(−)c(−)2
+
+ρ(+)c(+)2
+
+R(−)
+   
+
+ν + T (−)
+µ
+
+⌢T µ
+(+)ν =
+
+⌢T µ
+(−)ν =
+
+νR(−) = − χ(−)
+
+0
+p(−)
+0
+0
+
+0
+0
+p(+)
+0
+
+0
+p(+)
+0
+0
+
+0
+0
+0
+p(+)
+
+	The	interaction	laws	are	derived	from	the	Newtonian	approximation,	and	are	those	that	
+were	chosen	heuristically.	The	form	of	the	tensors	responsible	for	the	effects	of	induced	
+geometry	is	determined	by	the	conservativity	and	equilibrium	relations	in	the	two	
+equations,	derived	from	the	Bianchi	identities.	When	we	study,	for	example,	the	induced	
+geometry	of	a	species,	under	the	action	of	the	field	created	by	the	second	species,	
+present	in	a	sphere	of	constant	density,	the	relation	simply	translates	the	fact	that	in	this	
+mass,	positive	or	negative,	the	pressure	force	balances	the	force	of	gravity	[23].	This	is	
+ensured	on	the	tensor	in	the	form:		
+(8)		
+	
+	This	model	is	supported	by	the	numerous	results	having	flowed	from	the	heuristic	
+approach:		
+	-	Explanation	of	the	confinement	of	galaxies	and	clusters	as	well	as	of	the	flatness	of	the	
+rotation	curves	of	galaxies	in	the	periphery.		
+	-	Explanation	of	the	strong	gravitational	lensing	effects	in	the	vicinity	of	galaxies	and	
+galaxy	clusters.		
+	-	Spiral	structure	as	a	result	of	the	interaction	between	galaxies	and	their	negative	mass	
+environment.		
+	
+-	Since	the	two	types	of	masses	are	mutually	exclusive,	the	density	of	negative	mass,	very	
+low	in	galaxies,	is	negligible	in	the	neighborhood	of	the	Sun.	The	first	equation	of	the	
+system	is	then	identified	with	the	Einstein	equation.	The	local	relativistic	verifications,	
+Mercury's	perihelion	advance,	deviation	of	light	rays	by	the	Sun,	is	thus	assured.	
+	Beyond	the	construction	of	an	exact	solution,	exploiting	the	dissymmetry	between	the	
+two	populations	has	led	to	an	excellent	agreement	with	the	data	from	the	observations	
+of	type	Ia	supernovae	[24]	(see	Fig	5).	
+	
+
+0
+0
+0
+p(−)
+
+0
+0
+p(−)
+0
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+0
+0
+0
+
+	
+
+11	
+
+	
+Fig.	5	:	Hubble	diagram	for	two	models	(linear	redshift	scale)	[24]			
+
+	
+			4	–	Conclusion.		
+	The	question	of	the	introduction	of	negative	masses	has	been	strongly	opposed	by	the	
+emergence	of	the	runaway	phenomenon	([5],[13]),	which	is	difficult	to	integrate	in	
+physics	and	cosmology.	This	concept	of	negative	mass	has	also	been	invoked	in	a	
+reinterpretation	of	some	particle	physics	phenomena	[25].	It	is	mentioned	in	the	string	
+theory	[26],	or	in	a	reinterpretation	of	the	geometry	associated	to	the	Schwarzschild	
+solution	([27],	[28]).	The	integration	in	a	mathematically	and	physically	coherent	Janus	
+cosmological	model,	leading	to	a	large	number	of	observational	confirmations,	makes	
+this	approach,	which	implies	a	deep	paradigmatic	leap	concerning	the	geometry	of	the	
+universe,	a	solution	to	the	current	crisis	in	cosmology	and	astrophysics.			
+		
+References	:		
+	[1]	L.Smolin	«	The	Trouble	With	Physics.	The	Rise	of	String	Theory,	the	Fall	of	Science,	
+and	What	Comes	Next	».	2006	Houghton	Mifflin	Ed.		
+	[2]	P.	Woit	«	Not	Even	Wrong	».	2006	Jonathan	Cape	ed.	London	
+	[3]	Perlmutter,	S.,	et	al.		1999,	ApJ,	517,	565	
+
+	
+12	
+	[4]	Riess	A.	G.	2000,	PASP,	112,	1284	
+	[5]		H.	Bondi:	Negative	mass	in	General	Relativity	:	Negative	mass	in	General	Relativity.	
+Rev.	of	Mod.	Phys.,	Vol	29,	N°3,	july1957	
+	[6]		P.Morisson.	Am.	J.	Phys.	26,358	(1958)	
+[7]		Matz	and	Kaempffer	Bull.		American	Phys.	Soc.	3,317(1958)	
+[8]		L.I.Shiff	Proc.	Nat.	Acad.	Sci.	45,	69	(	1959)	
+[9]		C.	de	Beauregard.	Comptes	Rendus	Acad.	Sc.	252,	1737	(	1961)	
+[10]		Winterberg.	Nuovo	Cimento	19,	186	(1961)		
+[11]		Ya.	Terlertsty.	Int.	Conf.	Theory	of	Gravit.	King’s	College	(1961)	
+[12]		A.	Inomata	and	D.	Peak	Nuovo	Cimento	63,	132	(1969)		
+[13]		H.Bonnor	Negative	mass	and	general	relativity.	Gen.	Relat.	And	Gravit.	Nov	1989	
+vol	21	pp	1143-1157 
+	[14]		J.Farnes	:	A	unifying	theory	of	dark	energy	ans	dark	matter	:	Negative	mass	and	
+matter	creation	within	a	modified	 ΛCDM	framework.	Astronomy	and	Astrophysics	
+(2018)	
+[15]		J.P.Petit	:	The	missing	mass	problem.	Il	Nuovo	Cimento	B	Vol.	109	July	1994,	pp.	
+697-710	
+[16]		The Dipole Repeller : Y Hoffman, D.Pomarède, R.B.Tully, H.Courtois. Nature 
+Astronomy 2017 1	,	0036	 	
+[17]	J.P.PETIT,	Twin	Universe	Cosmology,	Astrophys.	and	Sp.	Science,	 226,	273-307,	
+1995.		
+	[18]	S.	Hossenfelder	:	A	bimetric	Theory	with	Exchange	Symmetry.	Phys.	Rev.	D78,	
+044015,	2008	and	arXiv	:	0807.2838v1	(gr-qc)17	july	2008	 
+	[19]	Damour	T.	,	Kogan	I	I.	Effective	Lagrangians	and	universality	classes	of	nonlinear	
+bigravity	Phys.	Rev.	D	66	(2002)	104024.	hep-th/0206042.	 
+	[20]	Damour	T.	,	Kogan	I.	I.	,	Papazoglou	A.	Non-linear	bigravity	and	cosmic	acceleration	
+Phys.	Rev.	D	66	(2002)	104025.	hep-th/0206044.	 
+	[21]		Riess,	A.	G.,	et	al.	1998,	ApJ,	116,	1009 
+	[22]		J.P.Petit,	G,d’Agostini,	N.Debergh	:	The	Janus	Cosmological	Model	:	(2021) 
+	https://hal.archives-ouvertes.fr/hal-03285671/document 
+	
+
+	
+13	
+[23]		J.P.Petit,	G.	D’Agostini,	N.Debergh	:	Physical	and	mathematical	consistency	of	the	
+Janus	Cosmological	Model	(JCM).	Progress	in	Physics	15	issue	1	(2019)	
+[24]		G.	DAgostini	and	J.P.Petit	:	Constraints	on	Janus	Cosmological	model	from	recent	
+observations	of	supernovae	type	Ia,	Astrophysics	and	Space	Science,	363:139	(2018).	
+https://doi.org/10.1007/s10509-018-3365-3	
+[25]		Theory	of	negative	mass	cyclotron	resonance.	D.C.Mattis			M.J.Stevenson		Phys.	Rev.	
+lett.	3	,	19	(1959) 
+	[26]		Negative	energy	in	string	theory?	D.Brill,	G.T.Horowitz,	Phys.	Lett.	B	Vo.	262	issue	4		
+(1991) 
+	[27]		J.P.Petit,		G.D’Agostini	:	Cancellation	of	the	singularity	of	the	Schwarzschild	solution	
+with	natural	mass	inversion	process.	Mod.	Phys.	Lett.	A	vol.	30	n°9		(2015)	
+[28]	Negative	mass	scenario	and	Schwarzschild	spacetime	in	general	relativity.	
+S.Bondarenko,	Mod.	Phys.	Lette	A.	vol.	34	n°11	(2019)	
+	[29]	F.Winterberg	:	Planck	Mass	Rotors	as	Cold	Dark	Matter	and	Quintessence.	Verlag	
+der	Zeitschrift	für	Naturforschung.	Tübingen.	2003.		
+	[30]	J.Belletête	and	M.J.Paranjape	:	On	negative	mass.	Int.	Jr.	of	Mod.	Phys.	Voo.22	n°12,	
+1341017	(2013).	arXiv:1304.1566v1	[gr-qc]	A	apr.	2013.	
+	Doi/10.1142/50218271813410174	
+	
+
+ 
+
+14	
+
+	
+ 	
+Referees’		reports	:		
+	Manuscript	ID:	793564	
+Authors:	Nathalie	Debergh,	J.-P	Petit	and	G	D'agostini	
+Journal:	Frontiers	in	Physics,	section	Cosmology	
+Article	type:	Original	Research	
+Submitted	on:	12	Oct	2021	
+	
+First	referee	:		
+	Author	elucidates	the	idea	of	negative	mass	in	cosmological	models.	After	the	historical	
+review	of	different	attempts	to	explore	this	controversial	idea,	author	states	that	the	so	
+called	Janus	Cosmological	Model	(JCM)	is	a	good	candidate	for	the	modeling	of	negative	
+mass.	It	is	stressed	that	the	basic	argument	in	favor	of	the	Janus	Cosmological	Model	
+comes	out	both	from	the	heuristic	supposition	and	the	definite	observational	
+confirmation.	The	major	result	of	the	paper	is	in	detailed	justification	of	various	works	
+supporting	the	idea	of	negative	mass	in	cosmology.	The	results	of	this	paper	are	new	and	
+physically	interesting.	This	paper,	in	spite	of	some	formal	presentation,	may	be	useful	
+for	a	wide	scientific	community	in	view	of	the	fundamental	importance	in	understanding	
+the	physical	details	of	cosmological	expansion.	The	manuscript	is	well	organized,	clearly	
+written	and	may	be	published	as	it	is.	I	recommend	to	publish	this	paper	in	Frontiers	in	
+Physics.	
+	Check	List	
+	a.	Is	the	quality	of	the	figures	and	tables	satisfactory?			Yes	
+	b.	Does	the	reference	list	cover	the	relevant	literature	adequately	and	in	an	unbiased	
+manner?			Yes	
+	c.	Are	the	statistical	methods	valid	and	correctly	applied?	(e.g.	sample	size,	choice	of	
+test)		Yes	
+	d.	Are	the	methods	sufficiently	documented	to	allow	replication	studies?		Yes	
+	QUALITY	ASSESSMENT	(	x/5)	:	
+	Rigor	4	
+Quality	of	the	writing	3	
+Overall	quality	of	the	content	3	
+Interest	to	a	general	audience	4	
+	
+Second	referee	:		
+	
+
+	
+15	
+The	introduction	of	negative	masses	in	physics	is	generally	considered	as	a	problem.	
+However,	there	are	some	minority	but	authoritative	currents	that	hypothesize	this	
+possibility.	The	article	is	an	introductory	review,	and	should	be	commended	for	its	
+intellectual	honesty.	
+
+

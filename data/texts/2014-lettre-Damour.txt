@@ -1,0 +1,25 @@
+Thibaud Damour
+Institut des Hautes Etudes
+Le Bois-Marie, 35 route des chartres
+F-91440 Bures-sur-Yvette
+12 mars 2014 à J.P.Petit
+Monsieur,
+Les projets d’articles que vous m’avez envoyés ne sont pas écrits d’une façon mathématiquement (et physiquement) claire pour me permettre des les juger. En fait, si j’essaye d’interpréter ce que vous écrivez j’y vois une incohérence fondamentale mettant le doute sur l’ensemble des conséquences que vous essayez ensuite d’en déduire. 
+Même si je reste au niveau classique, le problème fondamental que je vois est le suivant : 
+Vous dites que vous suivez Souriau mais l’un des messages essentiels de Souriau est d’avoir un cadre mathématique bien défini, dans lequel on puisse montrer que la dynamique couplée des champs et de la matière forme un système dynamique ayant une structure symplectique.  Considérée localement (sans s’inquiéter en première approximation de considérations topologiques globales dans l’espace des phases , ou da	ns l’espace des mouvements)) une structure symplectique implique l’existence d’un principe de moindre action pour la dynamique couplée des champs et de la matière. Par exemple, en RG, si on décrit des particules de masses mn, le principe de moindre action est : 
+
+Partant de là (qui est un minimum théorique), si vous voulez une action décrivant deux métriques, couplées avec des signes différents à la matière (constituée de deux types de masses  il faut écrire quelque chose comme : 
+ :
+ 
+                                                                             
+Ici, il y a déjà un problème concernant les coefficients notés  et  par vous. Il serait essentiel de préciser leur statut dynamique , c’est à dire si ce sont des constantes ou des champs nouveaux, ou des fonctions des autres variables dynamiques ( en fait, ils ne peuvent pas être des champs nouveaux indépendants, car sinon ce seraient des multiplicateurs de Lagrange absurdes !). 
+Un autre problème très grave est celui de la cohérence des équations de champ, sous les identités de Bianchi. Comme il est discuté dans de nouveaux articles sur les théories bimétriques ( voir par exemple Damour)-Kogan, PRD 66, 104024 , 2002) il y a un conflit entre la symétrie étendue des termes en  et  ( sous le produit direct de deux groupes indépendants de difféomorphismes) et la symétrie restantes des couplages à la matière. 
+( Ici, je suppose que vous dites que chaque ligne d’univers  est couplée à la fois à  et   ??? ).  Dans ce cas la symétrie des termes en  est seulement un seul groupe de difféomorphismes).   En termes pratiques, cela veut dire qu’il y a a priori incompatibilité entre les deux identités de Bianchi, qui impliquent 
+
+Vous avez essayé de résoudre la contradiction dans un cadre ultrasimplifié d’une cosmologie FLRW, mais c’est totalement insuffisant. Avant de pouvoir déduire la moindre conséquence potentielle des modèles dont vous désirez parler, il faudrait prouver qu’il est possible de rendre compatibles les deux lois de conservations (3+) et (3-) pour des distributions arbitraires des lignes d’univers ci-dessus. Cela me semble impossible, si vous voulez garder une interaction gravitationnelle entre les m+  et les m-. 
+Si vous étudiez la façon dont cette contradiction fondamentale a été (plus ou moins) contournée dans les travaux sur les théories bimétriques ( par exemple en introduisant V( g+g- ) etc … et en réduisant le couplage de la matière, soit à g+ , soit à g- , mais pas aux deux simultanément vous pourrez peut être proposer un schéma théorique cohérent. 
+En attendant, je considère que votre essai théorique n’a pas de fondation théorique cohérente, et ne mérite donc pas publication.
+Bien sûr, un problème supplémentaire concerne la stabilité dynamique d’un système bimétrique. En général on supposera toujours que G+ = G- > 0. Pour éviter que les gravitions soient des « fantômes » à énergie négative. 
+Au niveau classique, il n’est pas exclu d’essayer de prendre (comme vous le souhaitez) 
+G- = - G+ < 0 . Il faut alors être conscient que cela ouvre la boite de Pandore d’instabilités dynamiques (rayonnement d’énergie négative) même au niveau classique. Dans compte, bien sûr, le problème de la stabilité du vide quantique qui n’est pas comme vous semblez le penser un problème de convention sur la définition de l’opérateur T. C’est un problème dynamique grave. En Méca Q tout processus permis se produit, et s’il y a des états négatifs disponibles, il y aura des transitions vers ces états. 
+                                                                               Sincèrement      T.Damour

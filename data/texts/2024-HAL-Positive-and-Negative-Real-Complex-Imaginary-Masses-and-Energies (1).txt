@@ -1,0 +1,2214 @@
+Positive and negative real, complex, imaginary masses
+
+and energies
+
+J P Petit, H Zejli, F Margnat
+
+To cite this version:
+J P Petit, H Zejli, F Margnat. Positive and negative real, complex, imaginary masses and energies.
+2024. ￿hal-04733998￿
+
+HAL Id: hal-04733998
+
+https://hal.science/hal-04733998v1
+
+Preprint submitted on 13 Oct 2024
+
+HAL is a multi-disciplinary open access
+archive for the deposit and dissemination of sci-
+entific research documents, whether they are pub-
+lished or not. The documents may come from
+teaching and research institutions in France or
+abroad, or from public or private research centers.
+
+L’archive ouverte pluridisciplinaire HAL, est
+destinée au dépôt et à la diffusion de documents
+scientifiques de niveau recherche, publiés ou non,
+émanant des établissements d’enseignement et de
+recherche français ou étrangers, des laboratoires
+publics ou privés.
+
+	
+
+1	
+
+J.P.Petit1	,	H.Zejli2,	F.Margnat34		
+
+Positive	and	negative	real,	complex,	imaginary	masses	and	energies.	
+
+1	–	Introduction	:		
+
+Wir	müssen	wissen,	wir	werden	wissen	
+
+____________________________________________________________________________________________________	
+
+____________________________________________________________________________________________________	
+
+____________________________________________________________________________________________________	
+
+We	must	know	and	we	shall	know.		
+
+Key	 words:	 	P-symmetry,	T-symmetry,	dynamic	groups,	momentum,	coadjoint	action,	
+extended	Poincaré	group,	orthochron	group,	antichron	set,	Kaluza	space,	paradigm	shift,	
+complex	Poincaré	group		
+Abstract	:	We	review	a	number	of	possible	avenues	for	the	paradigm	shift	necessitated	
+by	the	multiple	contradictions	that	are	increasingly	weighing	down	the	entire	Standard	
+Model,	 whether	
+in	 particle	 physics	 or	 cosmology.	 These	 are	 based	 on	 the	
+implementation	of	new	symmetries.	The	convergence	between	what	emanates	from	
+quantum	mechanics	and	the	theory	of	dynamical	groups,	i.e.	inversions	of	mass	and	
+energy,	is	noted.	An	extension	to	the	complex	field	is	explored.	
+On	the	grave	of	the	great	mathematician	David	Hilbert,	in	Göttingen,	we	find	his	motto,	
+engraved	on	his	tombstone:		
+It's	hard	to	imagine	such	a	limitless	ambition.	But	isn't	it	true	that	the	knowledge	
+scientists	are	after	is	constantly	eluding	them?	To	this	we	can	add	a	phrase	attributed	to	
+Goethe:	"The	goal	is	the	path".	And	this	is	perhaps	what	the	destiny	of	the	scientist	boils	
+down	to:	trying	to	make	progress	in	the	knowledge	-	as	the	history	of	science	attests	-	
+that	every	new	step	forward	will	be	taken	to	transcend	a	new	contradiction,	while	
+awaiting	the	next	one.		
+Theoretical	physics	and	cosmology	have	reached	an	impasse.	For	decades,	Nature	has	
+refused	to	fit	into	the	mold	that	theorists	have	constructed.	Particle	physics	predicted	
+the	existence	of	superparticles.	But	they	refuse	to	appear.	Until	now,	progress	in	physics	
+had	been	linked	to	an	increase	in	the	energy	brought	into	play	in	particle	colliders.	Since	
+this	failure,	what	path	should	we	follow?	Some	at	CERN	suggest	building	a	collider	91	
+kilometers	in	diameter,	at	a	cost	of	20	billion	euros.		The	aim?	Unspecified.	The	idea	is	
+simply	to	venture	into	an	unknown	field.	But	what	if	we	don't	find	anything	definite,	
+except	even	more	sprays,	reminiscent	of	the	sparks	flying	from	the	blacksmith's	anvil?	
+In	cosmology	and	astrophysics,	dark	matter	refuses	to	be	captured.	Space	telescopes	
+have	brought	a	harvest	of	problems.	In	2017,	the	Hubble	telescope	revealed	the	
+presence	of	an	immense	void,	a	hundred	million	light-years	away,	600	million	light-
+																																																								
+1	jean-pierre.petit@manaty.net	
+2	hicham.zejli@manaty.net	
+3	florent.margnat@univ-poitiers.fr	
+4	jean-pierre.petit@manaty.net	
+
+	
+2	
+years	from	Earth.	Subsequent	observation	confirmed	a	lacunar	universe	structure.	The	
+James	Space	Telescope	added	to	the	confusion	by	discovering	fully-formed	galaxies	300	
+million	years	old.	And,	to	round	things	off,	the	first	images	of	hypermassive	objects	at	
+the	center	of	the	M87	and	Milky	Way	galaxies,	described	as	giant	black	holes,	don't	have	
+perfectly	black	central	parts.	So,	what	could	be	the	way	forward?	Let's	explore	a	few	
+avenues.	
+	2	–	Possible	existence	of	negative-energy	states	in	quantum	mechanics.		
+In	quantum	mechanics,	negative	energy	states	have	long	been	a	subject	of	controversy.	
+Quantum	field	theory	uses	the	inversion	operators	of	space	(P)	and	time	(T),	which	can	
+be	linear	and	unitary,	or	antilinear	and	antiunitary.	Historically,	physicists	have	often	
+avoided	negative	energy	states	by	arbitrarily	choosing	linear	and	unitary	P,	and	
+antilinear	and	antiunitary	T.	However,	the	discovery	of	the	accelerating	cosmic	
+expansion	in	2011	has	called	this	approach	into	question.	In	the	Einstein	field	equation,	
+this	phenomenon	can	be	interpreted	by	the	presence	of	negative	pressure,	a	form	of	
+bulk	energy	density.	In	solving	the	Dirac	equation,	Paul	Dirac	discovered	solutions	with	
+both	positive	and	negative	energy	terms:	
+(1)																																																															  E = ±
+	correspond	to	the	positive	energies	expected	for	
+The	solutions	with	  E = +
+particles,	while	those	with	  E = −
+	suggest	the	existence	of	negative-energy	
+states.	This	double	solution	is	inherent	in	any	relativistic	theory.	In	quantum	mechanics,	
+negative	energy	would	lead	to	a	negative	probability	density,	which	is	physically	
+unacceptable	since	negative	probabilities	do	not	exist.	Indeed,	using	the	Klein-Gordon	
+equation,	we	have:	
+(2)																																																				  
+(ψ * ∂t ψ − ψ ∂t ψ * )	
+If	the	Ψ	wave	function	is	of	the	plane	wave	type,	we	have:		
+(3)																																																										   ψ( !r ,t ) = N e− i( Et− !p.!r )	
+Substituting	this	function	into	jo	expression	gives:		
+(4)																																							  
+	
+This	shows	that	jo	is	proportional	to	E.	Thus,	a	negative	energy	E	leads	to	a	negative	
+probability	density,	which	is	not	acceptable	in	quantum	mechanics.	
+Solutions	to	the	Dirac	equation	pose	a	similar	challenge.	Dirac	introduced	four	solutions:	
+two	with	positive	energy	and	two	with	negative	energy.	To	get	around	this	problem,	
+Stueckelberg	and	Feynman	proposed	that	negative-energy	particles	be	interpreted	as	
+traveling	backwards	in	time.	This	means	that,	by	changing	the	direction	of	time,	negative	
+energy	can	be	transformed	into	positive	energy.	Feynman	illustrated	this	idea	with	
+
+i
+2m ψ * (−i Eψ ) - ψ(i Eψ * )
+
+⎤⎦ = N 2 E
+m
+
+p2c2 + m2c4
+
+p2c2 + m2c4
+
+p2c2 + m2c4
+
+i
+2m
+
+jo =
+
+jo =
+
+	
+
+⎡⎣
+
+	
+
+	
+
+	
+3	
+diagrams,	where	particles	moving	backwards	in	time	are	seen	as	antiparticles.	For	
+example,	an	electron	with	negative	energy	can	be	interpreted	as	a	positron	moving	
+backwards	in	time.	
+Dirac,	however,	criticized	this	approach,	asserting	that	negative-energy	states	must	be	
+taken	into	account.	Each	negative-energy	state	solution	corresponds	to	an	antiparticle	
+with	an	opposite	charge.		
+CPT	(charge,	parity	and	time)	symmetry	plays	an	important	role	in	quantum	physics.	
+The	combined	C,	P	and	T	transformations	maintain	the	coherence	of	quantum	states.	For	
+example,	C	charge	conjugation	transforms	a	particle	into	its	antiparticle	by	inverting	the	
+charge:	
+	
+	
+(5)																																																																  C ψ = iγ 2ψ *	
+By	applying	this	transformation,	Dirac	solutions	can	be	related	to	Feynman-
+Stueckelberg	solutions.	The	γ5	transformation,	defined	by	:	
+(6)																																																														  γ 5 = γ oγ 1γ 2 γ 3	
+connects	positive	and	negative	energy	states	by	inverting	the	mass:	
++	
+(7)																																																							  ψ1
+This	transformation	suggests	that	negative	energies	are	acceptable	if	associated	with	
+negative	masses.		
+Thus,	through	examination	of	the	Dirac	and	Feynman-Stueckelberg	solutions	and	the	
+discrete	symmetries	C,	P	and	T,	the	unitary	application	of	the	T	operator	and	antiunitary	
+application	of	the	P	operator	to	the	Dirac	equation	enables	particles	of	positive	energy	
+and	mass	to	be	transformed	into	their	negative	equivalents,	while	preserving	the	norm	
+of	the	quantum	state.	
+This	approach	is	also	consistent	with	the	principles	of	quantum	field	theory	and	the	use	
+of	Dirac	fields,	showing	that	the	application	of	a	variable	electromagnetic	potential	to	a	
+beam	of	fermions	can	transform	them	into	negative-mass	antifermions.	This	process	
+involves	coupling	the	creation	and	annihilation	operators	for	positive	and	negative	mass	
+states,	providing	an	experimental	framework	for	exploring	the	fundamental	nature	of	
+matter.	[1],[2],[3].	
+This	transform	suggests	that	negative	energies	are	acceptable	if	they	are	associated	with	
+negative	masses..		
+	Thus,	by	examining	the	Dirac	and	Feyman-	Stueckelberg	solutions	and	the	discrete	
+symmetries	C	,	P	,	T	,	and	the	unitary	application	of	the	T	operator	and	the	anti-unitary	
+application	of	the	P	operator	to	the	Dirac	equation	makes	it	possible	to	transform	
+particles	of	positive	energy	and	mass	into	their	equivalents,	while	preserving	the	norm	
+of	the	quantum	state.		
+This	approach	is	also	consistent	with	the	principles	of	quantum	field	theory	and	the	use	
+of	Dirac	fields,	showing	that	the	application	of	a	variable	electromagnetic	potential	to	a	
+beam	of	fermions	can	transform	them	into	negative-mass	antifermions.	This	process	
+
+− ( m → − m ) = γ 5 ψ1
+
+	
+4	
+involves	the	coupling	of	creation	and	annihilation	operators	for	positive	and	negative	
+mass	states,	providing	an	experimental	framework	for	exploring	the	fundamental	nature	
+of	matter.	Until	2011,	this	might	have	seemed	justified.	But	then	a	Nobel	Prize	was	
+awarded	to	the	discoverers	of	the	accelerating	cosmic	expansion	([4],[5],[6]).	Now,	in	
+Einstein's	field	equation,	such	a	phenomenon	can	be	interpreted	by	the	presence	of	a	
+negative	pressure,	which	is	a	volume	density	of	energy.	The	study	of	negative	energy	
+states	should	therefore	be	considered.	The	probability	of	existence	of	these	negative	
+energy	states	is	  E / m	,	m	being	the	mass.	This	approach	would	therefore	imply	the	
+introduction	of	negative	masses	into	the	cosmological	model.	This	has	been	the	subject	
+of	articles	([7],[8]),	in	which	we	have	endeavoured	to	stick	to	observational	data.	
+		3	–	Matter	in	dynamic	group	theory.		
+	In	1970,	the	mathematician	J.M.Souriau	[10]	introduced	a	purely	geometric	definition	of	
+the	physical	quantities	energy,	impulse	and	spin.	His	starting	point	was	the	isometry	
+group	of	Minkowski	space.	A	first	subgroup	is	that	of	space-time	translations.			
+	
+(8)																																																																			
+	The	second	subgroup	is	the	Lorentz	group.	Let	X	be	a	vector	of	the	Minkowski	space.	Let	
+G	be	the	Gramm	matrix:		
+	
+(9)																																																									
+The	length	of	the	vector	X	is:		
+(10)																																																																										 Xt G X		
+	Let's	look	for	a	group	that	preserves	this	length,	whose	element	is	represented	by	the	
+matrix	L	that	acts	on	the	vector	X	according	to:		
+	(11)																																																																											 X' = L X		
+	The	conservation	of	vector	length	requires	that:		
+	(12)																																												 Xt G X = X't G X' = (LX)tG LX = Xt(LtG L)X	
+	Hence	the	axiomatic	definition	of	the	Lorentz	group:	
+	(13)																																																																											 LtG L = G	
+
+0
+1
+0 −1
+0
+0
+0
+0
+
+Δt
+Δx
+Δy
+Δz
+
+0
+0
+0
+−1
+
+0
+0
+−1
+0
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+		
+
+		
+
+G =
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎝
+
+C =
+
+ 
+
+ 
+
+⎞
+
+⎛
+⎝⎜
+
+⎞
+⎠
+
+⎛
+⎜
+⎝
+
+g =
+ 
+
+δg =
+ 
+
+L C
+1
+0
+
+δL δC
+0
+0
+
+	
+5	
+	Combining	the	two	subgroups	gives	us	the	Poincaré	group,	the	isometry	group	of	the	
+Minkowski	space:		
+⎠⎟		
+(14)																																																																											
+In	addition	to	the	action:		
+(13)																																																																																			 X' = g X		
+We	have	the	action:		
+(16)																																																																																				 g−1mg		
+Let	be	the	Lie	algebra	of	the	group:		
+(17)																																																																						
+⎟		
+	The	Poincaré	group	is	of	dimension	10.	Its	Lie	algebra	is	therefore	a	vector	space	of	the	
+same	dimension.	The	group	can	be	made	to	act	on	its	Lie	algebra	:	
+	(18)																																																																								 δg' = g−1δgg	
+	This	gives	rise	to	what	Souriau	calls	the	moment	of	the	group,	as	a	dual	of	Lie	algebra.	
+This	will	enable	us	to	construct	the	action	of	the	group	on	its	moment,	which	will	also	be	
+of	dimension	10.	Let's	calculate	the	inverse	matrix	of	g.		
+	(19)																																																											
+⎠⎟ = I4		
+	(20)																																																														
+⎛
+⎠⎟ × L' C'
+⎠⎟		
+⎝⎜
+	We	can	differentiate	around	any	element	of	the	group.	Let's	place	ourselves	in	the	
+vicinity	of	the	neutral	element	by	posing		:		
+	(21)																																																																	 L = I + εG ω		
+On	a	:	
+(22)																																																		 ( I + εGω)TG ( I + εGω) =G	
+	(23)																																																	 ( I + TεωG )G ( I + εG ω ) =G	
+	(24)																																																						 ωT + ω + εωT G ω = 0	
+To	the	nearest	second	order		:		
+(25)																																																																		 ωT + ω = 0	
+		 ω	is	an	antisymmetric	matrix.	By	posing	 δC = γthe	element	of	the	Lie	algebra	becomes	
+	
+
+L−1 L−1C
+0
+1
+
+L C
+1
+0
+
+g−1 =
+ 
+
+⎛
+⎝⎜
+ 
+
+⎛
+⎝⎜
+
+0
+
+1
+
+⎞
+
+⎞
+
+⎞
+
+6	
+
+⎠
+
+⎞
+
+⎞
+
+0
+
+0
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+⎛
+⎜
+⎝
+
+⎞
+⎠
+
+⎛
+⎜
+⎝
+
+⎛
+⎜
+⎝
+
+⎛
+⎜
+⎝
+ 
+
+⎛
+⎜
+⎝
+ 
+
+γ '
+0
+
+γ '
+0
+
+⎞
+⎠⎟ ×
+
+⎞
+⎟ ×
+⎠
+
+⎞
+⎟ =
+⎠
+
+⎞
+⎟ =
+⎠
+
+⎟	
+
+Gω'
+0
+
+Gω'
+0
+
+⎟	
+
+L C
+1
+0
+
+Gω γ
+0
+0
+
+Gω γ
+0
+0
+
+L−1 L−1C
+1
+0
+
+δg = Z =
+ 
+
+L−1G ω L L−1G ωC+ L−1γ
+
+	
+(26)																																																																	
+	The	action	on	this	Lie	algebra	become:		
+	(20)																																			
+⎠⎟	
+Let	:		
+(27)																																												
+Let's	calculate	 L−1	.		
+(28)																																																																																						 G G = I		
+	(29)																																																																					 L−1L = I = G G = G LtG L																																			
+Whence	:	
+(30)																																																																																	 L−1 = G LtG	
+	(31)																																																											 Gω' = L−1G ω L= G LtG G ω L= G Lt ω L 	
+Whence	:		
+(32)																																																																																	 ω' = Lt ω L 																		
+	(33)																																																				 γ ' = G LtGG ωC+ L−1γ = G LtG G ωC+G LtG γ	
+	(34)																																																																								 γ ' = G Lt ωC+G LtG γ	
+	The	moment	of	the	Poincaré	group	is	a	torsor:	
+	(35)																																																								 µ ≡ M,P
+} with M t = − M P ∈E4		
+It	will	be	defined	by	the	identity:	
+(36)																																																													
+Tr(M.ω ) + Pt.G γ		
+The	duality	is	expressed	as	follows:		
+	(37)																																											
+Tr(M'.ω') + P't .G γ '	
+Which	gives	:		
+						(38)	
+
+Tr(M.ω ) + Pt.G γ =
+
+µ(Z) ≡
+ 
+
+1
+2
+ 
+
+1
+2
+
+1
+2
+
+{
+
+ 
+
+=
+
+	
+
+1
+2
+
+1
+2
+
+1
+2
+ 
+
+7	
+
+Tr( Mω) =
+
+Tr(M.ω ) + Pt.G γ =
+
+Tr(M'.Lt ω L) + P't . Lt ωC + P't . LtG γ
+
+1
+Tr(M'.Lt ω L) + P't .( G G Lt ωC+G LtG γ )
+2
+1
+2
+
+	
+																												
+We	can	immediately	identify	on	 γ,	which	gives	
+	(39)																																																										 Pt = P't Lt → P = LP'	
+	We	know	that	when	we	have	the	trace	of	a	product	if	we	perform	a	circular	permutation	
+within	it.	We	can	therefore	write:	
+	(40)																																																										 Tr(M'Lt ω L) = Tr(LM'Lt ω )	
+	Now	let's	identify	on	 ω	
+Tr( LM' tLω) + tP tLωC		
+(41)																																															
+t Lω Cis	equal	to	the	trace	of	the	matrix	
+The	scalar	product	of	the	two	vectors	 t Pand	 
+formed	by	treating	the	vectors	in	reverse	order,	i.e.	
+	(42)																																																					 
+t P tLωC = Tr( tLω C tP)	
+	In	this	trace	we	can	perform	a	circular	permutation		:	
+		(43)																																																				 
+t P tLωC = Tr( C tPtLω )	
+Whence	:		
+Tr( LM' tLω) + Tr( C tP tLω )	
+(44)																																			
+And	:		
+(45)																																																					 M = LM' tL + 2C tP' tL	
+	We	know	that	any	real	matrix	can	be	put	into	the	form	of	a	half-sum	of	a	symmetric	
+matrix	and	an	antisymmetric	matrix,	which	gives	us:	
+(46)	
+	The	trace	of	the	product	of	a	symmetrical	matrix	and	an	antisymmetrical	matrix	 ωis	
+zero.	This	gives:		
+	(47)	
+
+⎤⎦
+Tr (C PT tL + L P tC) ×ω+ (C tP tL− L P tC) ×ω
+
+Tr( L M' tLω)
+
+Tr( Mω) =
+
+Tr( Mω) =
+
+1
+2
+ 
+
++
+ 
+
+1
+2
+
+1
+2
+
+1
+2
+
+1
+2
+
+	
+
+⎡⎣
+
+ 
+
+⎡⎣
+
+⎡⎣
+
+1
+2
+
+1
+2
+
+1
+2
+
+8	
+
+⎤⎦	
+
+Tr( Mω) =
+
+Tr( LM' tLω) +
+
+Tr (C tP tL − LPt C) ×ω
+
+Tr (C PT tL+ L P tC) ×ω
+
+	
+⎤⎦ = 0	
+We	get	:		
+(48)																						 
+	
+To	sum	up		:	
+(49)																																																			 M = LM' tL + C P' tL − LP' tC		
+	(50)																																																																												 P = L P'		
+	
+We	thus	construct	the	action	of	the	Poincaré	group	on	its	space	of	moments.	If	we	
+wanted	to	go	from	P'	to	P,	this	would	mean	using	the	inverse	of	the	group	element.	To	
+simplify,	we	can	simply	write:		
+	(51)																																																	 M' = LM tL + C P tL − LP tC	
+	(52)																																																																			 P' = L P	
+	What	is	the	physical	meaning	of	this	dynamic	group's	action?	Spatiotemporal	translation	
+places	us	elsewhere	and	in	a	different	era.	The	Lorentz	group	can	be	considered	as	the	
+group	of	four-dimensional	rotations	(to	which	symmetries	are	added).	It	conserves	the	
+length	of	the	vector	P,	which	will	simply	be	the	energy-impulse	quadrivector		
+(with	c	=	1):		
+(53)																																																																	
+		
+This	conservation	will	result	in:		
+(54)																																																																				 E2 − p2 = Cst		
+	The	moment	had	ten	components.	One	for	energy,	three	for	impulse.	That	leaves	six,	
+which	we're	going	to	arrange	into	an	antisymmetrical	matrix:		
+	
+	
+(55)																																																					
+	We	then	show	that	the	3-vector	f,	called	"passage"	by	Souriau,	can	be	cancelled	out	when	
+we	accompany	the	particle	in	its	motion.	It	therefore	does	not	characterize	a	motion,	by	
+identifying	the	nature	of	a	particle	with	the	type	of	motion	considered.	The	final	3-vector	
+is	spin,	which	is	unquantified	and	emerges	as	a	purely	geometric	quantity..		
+
+0
+sz
+−sy
+−fx
+
+sy
+−sx
+0
+−fz
+
+−sz
+0
+sx
+−fy
+
+E
+px
+py
+pz
+
+fx
+fy
+fz
+0
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+M =
+
+P =
+
+ 
+
+ 
+
+ 
+
+s =
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎝
+
+		
+
+sx
+sy
+sz
+
+9	
+
+	
+	
+(56)																																																																							
+	In	that	article,	we	were	in	pursuit	of	reality.	Here	we	have	Souriau's	illustration	of	the	
+strategy	[10],	which	can	be	summed	up	as	follows:		
+	-	We	give	ourselves	a	space,	with	its	metric	and	isometry	group.		
+	-	We	write	the	coadjoint	action	of	this	group	on	the	dual	of	its	Lie	algebra,	of	the	
+same	dimension	as	this	group.	
+	-	The	components	of	this	moment	then	define	"a	physics",	one	whose	
+"playground"	is	this	particular	space.		
+	
+To	illustrate	this	technique,	we'll	start	with	3D	Euclidean	space.	Its	metric	is:		
+	(57)																																																														 ds2 = dx2 + dy2 + dz2		
+	Its	Gramm	matrix	is	then	the	unit	matrix	I4.	Its	isometry	group	is	the	Euclidean	group:		
+	(58)																																																																						
+⎠⎟		
+	The	a	matrices	are	then	the	orthogonal	matrices,	defined	by:		
+	(59)																																																																											 a t a = I		
+	C	is	the	3D	translation	vector:	
+		
+(60)																																																																					
+	Euclid's	group,	of	dimension	6,	can	be	considered	as	a	particular	dynamic	group,	that	of	
+statics.	The	previous	calculation	can	be	repeated.	The	moment	is	then	composed	of	two	
+3-vectors,	which	are	then	assimilated	to	a	force	and	a	torsional	moment.	The	
+components	of	the	moment	allow	summations	to	be	made.	In	statics,	we	sum	forces	and	
+torsional	moments;	in	dynamics,	energies,	impulses	and	spins.	In	3D,	what	"inhabits"	
+Euclidean	space,	considered	as	related	to	statics,	are	states	of	stress	of	a	uniform,	infinite	
+material.	In	4D,	these	are	classes	of	motion,	each	class	being	assimilated	to	a	type	of	
+particle.	These	movements	are	inscribed	along	geodesics	of	Minkowski	space.	Non-zero-
+length	particles	are	masses,	and	zero-length	particles	are	photons.		
+	
+
+a C
+1
+0
+
+Δx
+Δy
+Δz
+
+C =
+
+⎛
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎝⎜
+ 
+
+⎞
+
+ 
+
+{
+
+	
+10	
+Euclid's	group	has	two	related	components.	A	property	inherited	from	its	subgroup,	that	
+of	orthogonal	matrices,	depending	on	whether	the	space	is	inverted	or	not,	depending	
+on	whether	we	are	considering	O(3)	or	SO(3)	groups.		
+	
+Let's	return	to	the	Poincaré	group.		
+		4	–	Dynamic	groups	and	reality.		
+	Hilbert	saw	mathematics	as	a	kind	of	lamp	illuminating	the	path	to	knowledge.	In	his	
+resolutely	optimistic	attitude,	he	was	convinced	that,	faced	with	any	problem,	a	
+mathematical	tool	would	always	emerge	that	would	enable	solutions	to	be	found,	even	if	
+this	meant	acting	as	a	key	to	open	a	door	onto	a	new	realm	of	reality.		For	example,	when	
+dynamic	group	theory	is	used	to	integrate	physical	quantities	into	a	geometric	context,	it	
+suggests	an	extension	of	the	"playground"	with	new	objects.	The	Lorentz	group	has	four	
+related	components.		
+- 	The	elements	  Ln
+}constitute	the	neutral	component,	because,	containing	the	
+}.	They	invert	neither	time	nor	space.		
+neutral	element,	they	are	a	subgroup	of	  L{
+	- Elements	  Ls{
+}invert	space,	but	not	time.		
+	
+}invert	time,	but	not	space.		
+- -	Elements	
+	
+}invert	both	time	and	space.		
+- Elements	
+	
+By	grouping	the	first	two	elements,	we	form	:		
+	
+- The	orthochronous	group	  Lo{
+},	also	known	
+as	the	restricted	Lorentz	group.		
+	
+- The	antichronous	subset		
+	The	Poincaré	group	inherits	these	properties	with	four	related	components.	The	
+orthochronous	Poincaré	subgroup,	also	known	as	the	restricted	Poincaré	group,	was	the	
+only	one	used	by	scientists.	But	what	to	do	with	its	antichronous	components?		
+	
+We	can	play	with	the	property:		
+	(61)																																															
+Whence	:		
+(62)																																																																					
+	Hence	the	full	Lorentz	group	representation:		
+
+},	a	subgroup	of	  L{
+
+} = − Ls{
+{
+ 
+
+Lst
+} = − Lo{
+
+} = − Ln
+
+}∪ Lst
+
+} = Ln
+
+}∪ Ls{
+
+} = Lt
+
+{
+ 
+{
+ 
+
+}	
+
+}	
+
+La{
+ 
+
+Lst
+
+Lst
+
+} 
+
+Lt
+
+Lt
+
+{
+ 
+
+{
+
+{
+
+{
+
+{
+
+}
+
+{
+
+⎞
+
+⎠
+
+{
+
+}
+
+⎛
+⎜
+⎝
+ 
+
+11	
+
+} = λ Lo
+
+λ Lo C
+0
+1
+
+avec				 λ = ± 1		
+⎟		
+
+	
+	(63)																																																					  L{
+	This	leads	us	to	rewrite	the	complete,	or	"extended",	Poincaré	group.»	:		
+	(64)																																																																		
+And	the	action	:	
+	(65)																																																	 M' = Lo M tLo + λC P tL o − λ Lo P tC	
+	(66)																																																																			 P' = λ Lo P	
+	We	thus	obtain	the	physical	meaning	of	the	inversion	of	the	time	coordinate,	of	T-
+symmetry		 ( λ = − 1)	:		
+	
+It	reverses	energy	(and	therefore	mass,	through	E	=	m	c2)	and	impulse.	
+- 
+	
+- 
+It	leaves	the	spin	unchanged.	
+	The	same	"message"	appears	as	in	quantum	mechanics,	in	the	form	of	an	invitation	to	
+consider	an	extension	of	the	physical	field	to	include	negative	energies	and	masses.		
+		5	–	A	further	extension	of	dynamic	group	theory.		
+	For	the	moment,	our	"real	world"	is	populated	only	by	photons	and	electrically	
+uncharged	masses.	As	early	as	1915,	D.Hilbert	had	attempted	to	include	electromagnetic	
+phenomena	in	a	geometric	formalism.	As	quantum	mechanics	had	not	yet	emerged,	nor	
+had	high-energy	physics,	scientists	of	the	time	knew	only	two	forces:	the	gravitational	
+force	and	the	electromagnetic	force.	In	1915	and	1916,	Hilbert	published	an	essay	
+entitled	"Fundamentals	of	Physics".	In	the	first	version,	presented	on	November	20,	
+1915	[25],	was	the	first	presentation	of	the	field	equation,	which	Einstein	presented	five	
+days	later	[26],	in	the	same	journal.	By	mutual	agreement,	Einstein	was	given	the	credit	
+for	what	was	to	become	the	foundation	of	general	relativity.	Here	is	Hilbert's	published	
+field	equation:	
+
+	
+
+	
+
+	
+
+12	
+
+	
+
+	
+	
+	
+	
+
+Fig.1	:	David	Hilbert's	field	equation,	November	20,	1915	[h]	
+
+Fig.2	:	The	same,	published	by	Einstein	on	November	25,	1915	[i]	
+
+	
+Hilbert	designates	the	Ricci	tensor	and	scalar	as	 
+Kµνand	 K.	In	Einstein's	equation,	
+Einstein	places	the	Laue	scalar	T	in	the	second	member.	In	Einstein's	equation,	Einstein	
+places	the	Laue	scalar	 T	in	the	second	member.	But	Einstein's	can	be	considered	the	
+most	accomplished.	Right	up	to	his	death	in	1955,	Einstein	pursued	the	project	of	
+integrating	gravitation	and	electromagnetism	into	a	single	field	equation,	without	
+succeeding.	In	fact,	it's	impossible	with	only	4	dimensions.	This	extension	was	attempted	
+in	1921	by	Theodor	Kaluza	[26]	and	in	1926	by	Oskar	Klein	[28].		The	complete	
+calculation	was	given	by	J.M.Souriau	in	1964	[11].	This	is	a	little-known	work,	published	
+exclusively	in	French.	This	work	includes	the	geometric	translation	of	matter-antimatter	
+symmetry,	by	inversion	of	the	fifth	dimension.	Let's	extend	this	dimensional	context	to	a	
+4D	space,	known	as	Kaluza	space,	where	the	fifth	dimension	ζ	is	space-like,	i.e.	where	
+the	metric	becomes		
+	(67)																																																		 ds2 = − dζ2 + dt2 − dx2 − dy2 − dz2 − dζ2		
+	The	Gramm	matrix	becomes:		
+	
+(68)																																																			
+	
+
+0 0 0 0
+1
+0
+0
+0
+0 −1 0
+−1 0
+0
+0
+0
+−1
+
+−1
+0
+0
+0
+0
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+ 
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+		
+
+0
+0
+
+0
+
+ 
+
+Γ =
+
+		
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+Δζ
+Δt
+Δx
+Δy
+Δz
+
+	
+13	
+If	we	look	for	the	isometry	group	of	such	a	space,	it	will	be	the	product	of	the	subgroup	
+of	pentadimensional	translations:	
+	
+(69)																																																												
+	And	the	subgroup	that	could	be	called	"extended	Lorentz	group"	 Λ,	axiomatically	
+defined	by:	
+(70)																																																																			 Λt Γ Λ = Γ		
+	It	is	then	possible	to	reconcile	the	whole	calculus	of	moment,	given	that	the	number	of	
+dimensions	is	not	explicitly	stated.	To	begin	with,	we	can	use	Noether's	theorem	to	say	
+that,	if	there	is	a	one-parameter	subgroup	of	translations	along	an	additional	dimension,	
+this	must	go	hand	in	hand	with	the	conservation	of	a	scalar	q,	which	we	will	then	
+assimilate	to	the	electric	charge.	This	charge	will	constitute	an	eleventh	component	of	
+the	moment	of	a	dynamical	group	of	dimension	11.	But	this	approach,	in	all	its	generality,	
+would	break	the	constancy	of	the	electric	charge.	We	can	then	consider	only	one	
+subgroup	of	this	extended	Lorentz	group:		
+	(71)																																																									
+	This	subgroup	acts	on	the	additional	scalar,	on	this	electric	charge	q,	in	only	two	ways.		
+	-	It	preserves	this	electric	charge	q	
+	-	It	inverts	it	
+	
+We	can	then	construct	a	subgroup	of	this	extension	of	the	complete	Poincaré	group	by	
+combining	it	with	the	subgroup	of	pentadimensional	translations.:	
+	
+(72)																																													
+and	denoting	by	 φthe	increment	 Δζ:	
+	
+
+0
+µ
+0 λ Lo
+
+λ = ± 1
+µ = ± 1
+
+Δt
+Δx
+Δy
+Δz
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+		
+
+		
+
+⎛
+⎜⎜
+⎝
+ 
+
+C =
+
+φ
+C
+
+⎞
+⎟⎟
+⎠
+
+⎛
+⎜
+⎝
+
+⎞
+⎟
+⎠
+
+ 
+
+ 
+
+0
+
+0
+
+0
+
+0
+
+	
+
+Z =
+
+⎞
+⎟
+⎟
+⎟
+⎠
+
+⎞
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎝
+
+		
+
+⎛
+⎜
+⎜
+⎜
+⎝
+ 
+
+λ = ± 1
+µ = ± 1
+
+0
+β
+0 Gω γ
+0
+0
+
+µ
+φ
+0 λ Lo C
+0
+0
+
+	
+14	
+(73)																																																								
+	This	is	a	dynamic	group	where	the	addition	of	load	reversal	symmetry	brings	the	
+number	of	related	components	to	8.	Calculating	the	action	on	the	moment	is	
+straightforward.	Assuming	δφ = β	the	element	of	the	group's	Lie	algebra	is	the	format	
+matrix	(5,5)	
+(74)																																																														
+	The	inverse	of	the	group	matrix	is:	
+	
+(75)																																																								
+Duality	is	ensured	by	the	constancy	of	the	scalar:		
+	(76)																											
+Tr ( M'ω') + tP'G γ' + q'ε'	
+	The	expression	of	the	action	of	the	group	on	the	dual	of	its	lie	algebra	is	finally	
+translated	by	the	addition	of	an	extra	dimension:		
+	(77)																																																																				 q' = µq		
+	(78)																																																	 M' = Lo M tLo + λC P tL o − λ Lo P tC	
+	(79)																																																																			 P' = λ Lo P	
+	By	moving	on	to	Kaluza	space	and	introducing	a	symmetry	on	the	fifth	dimension,	we	
+give	substance	to	J.M.Souriau's	idea	[11].	In	Chapter	V	of	[10],	Souriau	shows	how	the	
+compactification	of	this	fifth	dimension	allows	us	to	recover	the	relativistic	Klein-
+Gordon	equation.	We	can	see	how	dynamical	group	theory	and	field	theory,	including	
+the	quantum	mechanical	version,	respond	to	each	other..		
+		6	-			The	question	of	paradigm	shift.		
+	As	mentioned	in	the	introduction,	the	failure	to	detect	dark	matter,	identify	dark	energy	
+and	model	the	lacunar	structure	of	the	universe	and	the	abnormally	early	birth	of	stars	
+
+0
+− φ
+−1 Lo
+Lo
+−1C
+0
+1
+
+Tr ( Mω) + tPG γ + qε=
+
+⎟	
+
+−µ
+0
+0
+
+g−1 =
+
+1
+2
+ 
+
+⎞
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎝
+
+1
+2
+
+ 
+
+	
+15	
+and	galaxies	within	it,	has	given	rise	to	the	idea	of	a	necessary	paradigm	shift.	This	will	
+necessarily	involve	a	revision	of	the	geometric	context,	since	the	general	relativity	
+model	can	no	longer	account	for	observations.	There	are	two	ways	of	doing	this.	The	
+first	consists	in	hypothesizing	the	existence	of	a	second	universe,	CPT	symmetrical	to	
+our	own,	which	the	authors	then	situate	on	the	other	side	of	the	Big	Bang	[16].	More	
+recently,	N.	Kumar	 [18]	envisaged	the	interaction	of	these	two	universes	by	
+"entanglement",	and	showed	that	this	would	lead	to	an	acceleration	of	expansion	in	our	
+own	universe.	T-symmetry	evokes	what	had	already	been	predicted	by	Andréi	Sakharov	
+in	the	1960s	([19],	[20],	[21]).	The	didactic	2D	image	is	as	follows:	
+	
+
+	
+
+	
+
+	
+
+Fig.3	:	Didactic	2D	image	of	the	Sakharov,	Boyle,	Finn,	Turok	and	Kumar	Model.	
+	Another	way	of	looking	at	things	is	the	Janus	cosmological	model	([12],	[13],	[14],	[15],	
+[16])	with	a	two-folds	cover	structure.:		
+		
+
+	
+
+Fig.4	:	Didactic	2D	image	of	the	Janus	Cosmological	Model.		
+
+		Let's	translate	this	CPT-symmetry	into	dynamic	group	terms.	This	gives	us	the	Janus	
+group	[7].		
+(80)																																																									
+
+	
+
+λµ
+0
+0
+
+⎛
+⎜
+⎜
+⎜
+⎝
+ 
+
+0
+φ
+λ Lo C
+0
+0
+
+⎞
+⎟
+⎟
+⎟
+⎠
+
+λ = ± 1
+µ = ± 1
+
+	
+16	
+	Algebraically,	the	calculation	is	very	little	different.	Only	the	first	equation	is	modified.		
+	(81)																																																																					 q' = λµq		
+	(82)																																																	 M' = Lo M tLo + λC P tL o − λ Lo P tC	
+	(83)																																																																					 P' = λ Lo P	
+	CPT-symmetry	corresponds	to	 λ = − 1.	When	compared	with	observations,	this	model	
+gives	interesting	results,	including	a	quantified	description	of	the	acceleration	of	the	
+cosmic	expansion	[9].	
+		7	–	Additional	dimensions.		
+	The	electric	charge	q	is	just	one	of	the	quantum	charges,	like	the	baryonic	charge	 q b,	the	
+qµ.	Without	the	above,	we	have	seen	that	the	
+leptonic	charge	 qλand	the	muonic	charge	 
+appearance	of	electric	charge	was	the	result	of	the	addition	of	an	extra	dimension.	We	
+can	then	consider	the	addition	of	p	extra	dimensions,	as	follows:	
+	
+(84)																																																								
+	By	introducing	the	vectors	"quantum	dimension	ζ"	and	"quantum	translations	 φ":		
+	
+(85)																																										
+	Still	restricting	the	Lorentz	group	extended	to:		
+	
+
+ζ1
+ζ2
+...
+ζp
+
+φ1
+φ2
+...
+φp
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+ζ1
+...
+ζp
+
+t
+x
+y
+z
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+		
+
+X =
+
+ζ =
+
+φ =
+
+	
+
+ 
+
+ 
+
+ 
+
+	
+
+0
+0
+...
+0
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+φ1
+φ1
+...
+φp
+
+17	
+
+λ = ± 1
+µ = ± 1
+
+λ Lo C
+1
+0
+
+0 0 0 0
+0 0 0 0
+
+µ 0
+0
+0 µ 0
+...
+0
+
+0
+0
+... µ ...
+0 µ
+0
+
+	
+(86)																																							
+	In	passing,	we	can	extend	the	Janus	group	into	4	+	p	dimensions.	This	translates	into	the	
+addition	of	p	quantum	charges	with	the	relation:	
+	(87)																																																																			 qi ' = λµqi		
+	Moreover,	extending	Souriau's	construction,	if	these	p	dimensions	are	compact,	then	
+these	p	additional	loads	are	quantized.		
+		8	–	Complex	extension	[29].		
+	There	are	numerous	works	representing	attempts	to	resituate	the	formalism	of	general	
+relativity	in	a	complex	field,	by	considering	a	quantum	cosmology	([22],[23],[24]).	Let's	
+see	what	this	would	look	like	in	the	context	of	dynamical	group	theory.	We'll	consider	
+these	4-vectors,	belonging	to	a	complex	space,	with	transposed	and	adjoint	notation:	
+	(88)																																																																					
+X* = ( X°, X1, X2, X3 )	
+	The	metric,	with	a	real	ds,	refers	to	a	Hermite	space.:	
+	(89)																																					 ds2 = (dX°)* dX° − (dX1)* dX1 − (dX2)* dX2 − (dX3)* dX3	
+	The	real	Gramm	matrix	is	therefore:	
+	
+(90)																																																								 
+	The	lenght	:	
+
+XT = ( X°, X1, X2, X3 )
+
+1
+0
+0 −1
+0
+0
+0
+0
+
+X°
+X1
+X2
+X3
+
+X°
+X1
+X2
+X3
+
+0
+0
+0
+−1
+
+0
+0
+−1
+0
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎠
+
+G =
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎠
+
+X =
+
+X =
+
+	
+
+	
+
+ 
+
+ 
+
+C =
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+18	
+
+ΔX°
+ΔX1
+ΔX2
+ΔX3
+
+	
+(91)																																																															 < X , X > = X*G X	
+	Here	again,	it	is	translation-invariant,	according	to	the	complex	translation	vector	:		
+	
+	
+(92)																																																																	
+	Let	L	be	the	element	L	of	a	group	that	will	change	from	a	vector	X	to	a	vector	X	according	
+to	X'	=	L	X	.	If	the	length	of	X	is	conserved,	then	this	is	written	:		
+	(93)																																																																								 (LX)*G LX = X*G X	
+	which	gives	the	axiomatic	definition	of	a	complex	Lorentz	group:	
+	(94)																																																																											 L * G L =G																																																														
+	We	then	construct	a	complex	Poincaré	group	
+Let	L	be	the	element	L	of	a	group	that	will	pass	from	a	vector	X	to	a	vector	X	according	
+to	X'	=	L	X		
+	
+If	the	length	of	X	is	conserved,	then	 < X',Y'> = < X,Y>	:	
+	(95)																																																												 (LX)*G LX = X*G X	
+	Which	gives	the	axiomatic	definition	of	a	complex	Lorentz	group:	
+	(96)																																																																								 L * G L =G	
+	We	then	construct	a	complex	Poincaré	group:		
+		(97)																																																																					 
+⎠⎟	
+	The	dimension	of	the	complex	Lorentz	group	is	12+4	=	16	(the	imaginary	components	of	
+the	main	diagonal).	The	dimension	of	the	complex	Poincaré	group	is	18+8	=	24.	The	
+element	of	its	Lie	algebra	is:	
+	(98)																																																	 
+	(99)																																																																			 δ L * G L
+
+Z ≡ δL δC
+1
+
+⎞
+⎟ = Λ Γ
+1
+⎠
+
+⎤⎦ = 0	
+
+L C
+0
+1
+
+⎠⎟	
+
+⎛
+⎜
+⎝
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+⎡⎣
+
+0
+
+0
+
+⎞
+
+⎞
+
+(
+
+(
+
+⎞
+⎠
+
+⎛
+⎜
+⎝
+
+Z =
+ 
+
+19	
+
+G Ω Γ
+0
+0
+
+)*G L + L * GδL
+
+)* G + GδL
+(
+
+	
+	(100)																																																							 δL(
+) = 0	
+	By	differentiating	around	the	unit	matrix,	it	comes	to:	
+	(101)																																																										 δL(
+) = 0	
+Or	:	
+)* + GδL = 0	
+(102)																																																																		  GδL
+Therefore	 GδL	is	an	anti-Hermitian	matrix.	The	Lie	Algebra	element	is:	
+⎟		
+(103)																																																																		
+	
+Ω	being	an	anti-hermitian	matrix.	Let's	form	the	inverse	of	the	group	element	is	:	:	
+	(104)											 L *G L = G → L *G L L −1 = G L −1 → L *G = G L −1 → G L *G = G G L −1	
+	(105)																																																																 L −1 = G L *G	
+The	coadjoint	action	of	the	group	on	its	Lie	algebra	gives:		
+(106)																								
+This	gives	us:	
+⎛
+⎠⎟ × GΩ Γ
+(107)																																																																			 Ω' = L *Ω L		
+⎝⎜
+	(108)																																																								 Γ' = G L * ΩC + G L *G Γ	
+	In	an	anti-hermitian	matrix,	diagonal	terms	are	non-zero.			
+	
+(109)
+																																											 
+	So	we	have	these	sixteen	components,	six	complex	and	four	pure	imaginary.		
+	(110)
+}	
+	Upper-case	letters	refer	to	complex	quantities,	lower-case	letters	to	real	quantities.	All	
+																																 
+in	all,	we	have:		
+
+iω11 Ω12 Ω13 Ω14
+iω22 Ω23 Ω24
+−Ω12
+iω33 Ω34
+−Ω13
+−Ω23
+iω44
+−Ω34
+−Ω24
+−Ω14
+
+Ωsx , Ωsy , Ωsz , Ωfx , Ωfy , Ωfz, iω11, iω22 , iω33 , iω44
+
+GΩ' Γ'
+0
+0
+
+L−1 L−1C
+1
+0
+
+L C
+1
+0
+
+⎞
+⎟ =
+⎠
+
+⎞
+⎠⎟ ×
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+Ω =
+
+⎛
+⎜
+⎝
+ 
+
+	
+
+⎛
+⎝⎜
+
+{
+
+⎛
+⎝⎜
+
+0
+
+0
+
+⎞
+
+⎞
+
+⎠⎟																																																														
+
+20	
+
+}		
+}													
+
+{
+
+{
+
+	
+
+P =
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+E
+Px
+Py
+Pz
+
+, E , Px , Py , Pz, iθ11, iθ22 , iθ33 , iθ44
+
+Z = Ωsx , Ωsy , Ωsz , Ωfx , Ωfy , Ωfz , Γ t , Γ x , Γ y , Γz, iω11, iω22 , iω33 , iω44
+
+	
+	(111)
+	Twenty-four	quantities	associated	with	a	complex	moment	:
+									 
+	(112)
+										
+Complex	energy	(and	mass):		
+																								  µ = Sx , Sy , Sz , Fx , Fy , Fz
+m + iµ																													
+(113)																																																															 E = e + iε
+																																											
+	We	can	form	a	complex	impulse-energy	quadrivector:	
+	
+(114)																																																																											
+	
+	Combining	the	vectors	S	,	F	,	 iθ	,	we	form	a	complex	matrix	M	
+	
+(115)
+																																																										 
+	Combined	with	the	impulse-energy	quadrivector	we	get	the	complex	moment:	
+	(116)																							
+} with M* = − M ; P ∈!4	
+	We	can	express	duality	in	terms	of	a	quantity:	 M		
+Tr ( M Ω) + P * G Γ	
+(117)																																																					
+	This	translates	into:		
+(118)																																											
+Whence	:		
+(119)															
+	(120)																			 
+
+Tr ( M Ω) + P * G Γ = Tr ( M' Ω') + P'* G Γ'	
+
+Tr ( M' L *ΩL) + P'* G (G L *ΩC + G L *G Γ )	
+Tr ( M' L *ΩL) + P'* L *ΩC + P'* L *G Γ	
+
+  complex momentum ≡ M , P
+
+Tr ( M Ω) + P * G Γ =
+
+Tr ( M Ω) + P * G Γ =
+
+−Sz
+iθyy
+Sx
+−Fy
+
+iθxx
+Sz
+−Sy
+−Fx
+
+Sy
+−Sx
+iθzz
+−Fz
+
+Fx
+Fy
+Fz
+iθt t
+
+M(Z) =
+  
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜⎜
+⎝
+
+M =
+
+1
+2
+ 
+
+1
+2
+ 
+
+1
+2
+
+1
+2
+
+1
+2
+
+1
+2
+
+	
+
+{
+
+  
+
+  
+
+⎞
+
+⎛
+⎝⎜
+
+1
+2
+
+1
+2
+ 
+
+Tr ( M Ω) =
+
+21	
+
+)G E
+P
+
+P = E, P(
+
+	
+																																																							
+Identification	on	the	 Γ	terms	gives	the	complex	relationship:	
+	(121)																																																									 P * = P'* L * → P = LP'		
+Or,	as	justified	above:	
+(115)																																																																											P’	=	L	P		
+	(122)																										  P' = P'*G P' = (LP)*G(LP) = P *(L*GL)P = P * LP = P		
+	(123)																																
+⎠⎟ = E E −PP = ( e2 + ε2 ) − ( p2 + π2 ) = Cst	
+	Let's	move	on	to	the	M	component	of	the	moment.	We	have:		
+	(124)																																				
+Tr ( M' L *ΩL) + P'* L *ΓC 	
+	Like	Souriau,	we	begin	by	performing	a	circular	permutation	in	the	first	term	of	the	
+second	member.:		
+(125)	
+ Tr( M'L *ΩL) = Tr( LM'L *Ω)	
+Il	vient	:		
+(126)																																							
+Tr( LM'L *Ω) + P * L * ΩC		
+	
+The	term	 P * L * Ω Cis	the	scalar	product	of	two	(complex)	vectors.	There	is	the	row	
+vector P *	and	the	column	vector L * Ω C.		So	I	can	write	:	
+	(127)																																												 P * L * Ω C = Tr( L * Ω C P * )	
+	And	perform	another	circular	permutation		:		
+		(128)																																																				 P * L * Ω C = Tr( C P *L *Ω )	
+	
+Which	gives	me:		
+Tr( LM'L *Ω) + Tr( C P *L * Ω )	
+(123)																																			
+I	reverse	the	‘	:		
+(124)																																			 Tr( M'Ω) = Tr( LM'L *Ω) + 2Tr( C P *L * Ω )	
+	What	I	can	write:		
+(129)																																																			
+⎤⎦ = 0	
+Or	:	
+
+Tr ( M'− L M'L * − 2C P *L * )Ω
+
+Tr( MΩ) =
+
+Tr( MΩ) =
+
+1
+2
+ 
+
+1
+2
+ 
+
+1
+2
+
+1
+2
+
+⎡⎣
+
+ 
+
+22	
+
+	
+(130)																																																										 M'= LM L * + 2C P *L *	
+	The	physical	interpretation	of	this	section	remains	to	be	written..		
+		9	–	Conclusion.		
+	What	is	perhaps	most	interesting	in	the	overview	we	have	just	given	is	the	fact	that	
+inversions	of	energy	and	mass	appear	in	both	quantum	field	theory	and	dynamical	
+group	theory.	An	approach	which,	through	the	cosmological	Janus	model,	finds	its	
+answer	in	differential	geometry.	A	geometric	interpretation	of	quantum	charges	and	
+matter-antimatter	symmetry	is	also	suggested.	Finally,	we	explore	aspects	of	an	
+extension	into	the	complex	field.		
+		
+References.	
+[1]	B.	Guay,	"Experimental	test	to	verify	whether	quantum	states	of	conjugated	mass	and	
+energy	exist,"	Modern	Physics	Letters	A,	vol.	37,	no.	03,	pp.	2250013,	2022,	doi:	
+10.1142/S0217732322500134,	 URL:	 https://doi.org/10.1142/S0217732322500134,	
+eprint:	https://doi.org/10.1142/S0217732322500134	
+[2]	N.	Debergh,	G.D’Agistini,	J-P	Petit	et	al.,	"On	evidence	for	negative	energies	and	
+masses	in	the	Dirac	equation	through	a	unitary	time-reversal	operator,"	Journal	of	
+Physics	Communications,	2018.	
+[3]	N.	Debergh,	J.P.Petit	:	On	spacetime	algebra	and	its	relation	with	negative	mass	
+arXiv	:221.07359v1.	Reports	on	Mathematical	Physics	Vol.91,	issue	2,	April	2023	pp.	
+165-181	
+[4]	S.	Weinberg,	"The	Quantum	Theory	of	Fields,"	vol.	1-3,	Foundations,	Modern	
+Applications,	Supersymmetry,	Cambridge	University	Press,	2000.	
+[5]		Perlmutter,	S.,	et	al.		1999,	ApJ,	517,	565	
+[6]	Riess,	A.	G.,	et	al.	1998,	ApJ,	116,	1009	
+ [8]		J.P.Petit,	G.D’Agostini	:	Negative	Mass	hypothesis	in	cosmology	and	the	nature	of	
+dark	energy.	Astrophysics	And	Space	Sccience,.	A	29,	145-182	(2014)	
+	G.	DAgostini	and	J.P.Petit	:	Constraints	on	Janus	Cosmological	model	from	recent	
+[9]	
+Space	
+Ia,	 Astrophysics	
+observations	 of	
+(2018),	
+and	
+Science,	
+363:139.https://doi.org/10.1007/s10509-018-3365-3 
+	[10]	J.M.Souriau	:	Structure	des	systèmes	dynamiques.		Dunod	Ed.	France,	1970	and	
+Structure	of	Dynamical	Systems.	Boston,	Birkhaüser	Ed.	1997	
+	[11]		J.M.Souriau	:	Géométrie	et	Relativité.	Ed.	Hermann,	1964	(french	edition	only).	
+
+[7]  B.Schmidt  Observational  evidence  from  supernovae  for  an  accelerating  universe  and 
+cosmological constant. Astron. J. 116, pp 1009-1038 (1998). 
+
+supernovae	
+
+type	
+
+	
+23	
+	[12]	H.Zejli,	F.Margnat,	J.P.Petit	:	The	Janus	Cosmological	Model,	Mathematically	and	
+Physically	Consistent.	https://hal.science/hal-04583560.	Jan.	2024	
+	[13]	 H.Zejli,	
+Sakharov.	
+F.Margnat,	
+J.P.Petit	
+:	 The	
+Legacy	
+of	 Andrei	
+https://hal.science/hal-04572588	may	2024	
+	[14]	 H.Zejli,	
+the	
+Challenging	
+Standard	 Model.	
+F.Margnat,	
+J.P.Petit	
+:	
+https://hal.science/hal-04589263	2024	
+	[15]	H.Zejli,	F.Margnat,	J.P.Petit	:	Plugstars,	Alternative	to	Black	Holes.	2024	https://hal-
+science/hal-04606255	
+	[16]	H.Zejli,	F.Margnat,	J.P.Petit	:	About	the	Fundations	of	Black	Holes	Theory/	
+https://hal-science/hal-04637824	
+	[17]	L.Boyle,	K.Finn,	N.Turok.	CPT-symmetric	universe.	Physical	Review	Letters	121,	
+251301	20	dec.	2018	
+	[18]	N.Kumar	On	the	Accelerated	Expansion	of	the	Universe.	Gravitation	and	Cosmology,	
+2024,	Vo.30,	n°1	;	pp.	85-88	
+	[19]	A.D.Sakharov,	ZhETF	Pis’ma	5	:	32	;	JETP	Lett.	5	:	24	(	1967	)	
+	[20]	A.D.Sakharov	,	ZhETF	Pis’ma	76	:	1172	(1979)	;	JETP	49	:	594	(1979)	
+	[21]	A.D.Sakharov	,	(1980).	Cosmological	Model	of	the	Universe	with	a	Time	Vector	
+Inversion.	ZhETF	(Tr.	JETP	52,	349-351)	(79):	689–693	
+[22]C.Jonas,	JL.	Lehners,	J.	Quintin.	Use	of	complex	metrics	ins	cosmology.	Journal	of	
+High	Energy	Physics.	2022.	Vol.	22	n°	284	
+	[23]	Edward	Witten	:	A	Note	on	Complex	Spacetime	Metrics.;	arXiv	:2111.06514v2	:	11	
+Feb.	2022	
+[24]	JL.Lehners.	Allowable	complex	metrics	in	minisuperspace	quantum	cosmology.	
+Phys.	Rev.	D	,	105,	026022,	25	january	2022.		
+[25]	D.Hilbert.	Die	Grundlagen	der	Physik	(Esrte	Mitteilung).	Nachrochten	von	der	
+Gesellschaft			der	Wissenschaften	zu	Göttingen.	Mathematisch-ohysikalische	Klasse.	
+(1915)	395-407.			
+[26]	A.	Einstein	:	Die	Feldgleichungen	des	Gravitation	(	The	Field	Equation	of	
+Gravitation).	Sitzungsber.	XLIV	,	8	,	778	and	XLVI	s.	799	(	25	nov	1915)	
+		[27]	T.Kaluza.	Sitzungsber	Preuss	Akad.	Wiss.	Berlin	Math.	Phys.	K1,	966	
+	[28]	O.Klein.	Z	;	Phys.	37,	895	
+[29]	N.Debergh,	G.D’Agostini,	J-P	Petit	:On	the	Poincaré	Algebra	in	a	Complex	Space-Time	
+Manifold.	Journall	of	Modern	Physics	2021,12,pp.	218-228	
+
+

@@ -1,0 +1,430 @@
+ 
+
+ 
+
+1 
+
+A French academician who doesn't understand the Janus model 
+
+ 
+
+2023 
+
+ 
+     The  Janus  cosmological  model  represents  a  profound  change 
+in  the  geometric 
+representation  of  the  universe.  After  Einstein  it  was  described  it  as  a  "four-dimensional 
+hypersurface". The Janus model extends this geometric vision by endowing this hypersurface 
+with an "underside" where particles of negative energy and mass are located. Mathematically, 
+this  implies  a  "bimetric"  description,  where  the  two  entities  interact,  hence  the  term 
+"bigravity". 
+ 
+     As it happens, the first person to propose a similar project was French academician Thibault 
+Damour, in 2002.1.  
+ 
+
+Thibault Damour, academician. 
+
+ 
+
+ 
+
+ 
+
+      The articles, cited in the footnotes, are accompanied by an address from which they can 
+be downloaded.  
+ 
+     Damour and Kogan attempt to construct a “two-branes” theory, involving a spectrum of 
+gravitons endowed with masses, but this 40-page paper ends up in a fishtail. In passing, they 
+show that such bigravity must obey a system of two coupled field equations:  
+ 
+
+ 
+
+1 T.Damour & I.I.Kogan : Effective Lagrangian and Universality classes of Nonlinear Bigravity. 
+Phys. Rev. D 66 (2002). http://www.jp-petit.org/papers/cosmo/2002-Damour-Kogan-
+bigravity.pdf 
+ 
+
+ 
+
+ 
+
+2 
+
+     Six years later, German Sabine Hossenfelder2 (who has now become a science blogger) 
+takes  a  more  precise  approach.  This  time,  it's  a  question  of  conferring  an  identity  on  the 
+inhabitants  of  this  second  fold  of  universe,  in  the  form  of  negative  masses.  In  1957, 
+cosmologist  Hermann  Bondi  attempted  to  introduce  these  masses  into  Albert  Einstein's 
+model3.    But  the  so-called  runaway  phenomenon  (see  the  album)  brings  to  light  physical 
+contradictions so that the model contradicts fundamental principles of physics, such as the 
+action-reaction principle and equivalence.  Sabine Hossenfelder also constructs her system of 
+two coupled field equations:  
+ 
+
+ 
+     But  she  can't  get  rid  of  the  discrepancy  with  physical  principles.  Believing  that  this  is 
+inexorably linked to bigravity, she gives up..  
+ 
+     In  2014  we  published  a  first  exact  solution  of  our  system  of  coupled  field  equations, 
+physically and mathematically consistent, but which limits the solutions to a description of a 
+homogeneous, unsteady isotropic universe. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+     Mathematical consistency translates into a generalized conservation of energy. The exact 
+solution derived from the equations shows that the "dark energy" driving the acceleration of 
+cosmic expansion is none other than that of negative mass, which is in the majority.    
+ 
+    In 2018 Gilles d'Agostini exploited this exact solution and showed that the model, christened 
+Janus, perfectly accounts for the data from type Ia supernovae, which earned S.Perlmutter , 
+A.G. Riess and Schmidt the Nobel Prize for showing that the expansion of the universe, far 
+from slowing down, was actually accelerating. Here's how G.D'Agostini's curve fits perfectly 
+with the observational data:  
+ 
+
+ 
+
+2 S. Hossenfelder : A bimetric Theory with Exchange symmetry Phys. Rev. D78, 044015, 2008 
+and arXiv : 0807.2838v1 (gr-qc)17 july 2008. http://www.jp-petit.org/papers/cosmo/2008-
+Hossenfelder.pdf 
+3 H. Bondi: Negative mass in General Relativity : Negative mass in General Relativity. Rev. of 
+Mod. Phys., Vol 29, N°3, july1957 
+
+ 
+
+3 
+
+ 
+
+ 
+      The mathematical consistency of the system of coupled field equations dictates that the 
+terms of both members of the equations must have zero covariant derivatives. This applies to 
+their first members, by construction. In physical terms, this translates into the satisfaction of 
+conservation equations.  
+ 
+        Einstein's equation provides only two types of solutions. 
+ 
+     First,  there  are  unsteady  solutions  under  conditions  of  isotropy  and  homogeneity. 
+Satisfaction of the condition translates into conservation of energy. We have seen that the 
+same applies to the Janus equations. In the second article of 20144 the extension had been 
+operated with two different light speeds.  
+ 
+       The  second  set  of  solutions  refers  to  stationarity  (invariance  by  temporal  translation), 
+combined  with  assumptions  of  spatial  symmetry.  As  in  Einstein's  model,  the  Newtonian 
+approximation provides the 1/r2 law and the sign of the forces. The forces deduced from the 
+Janus  equations  (see  comic  strip)  are  in  line  with  the  principles  of  action-reaction  and 
+equivalence. The mathematical consistency of the equations in vacuum poses no problem, 
+since both second members are zero. 
+
+     But  in  2014,  at  the  model  development  stage,  it  was  not  possible  to  determine  the 
+geometry inside the masses. Indeed, the equation translating the physical and mathematical 
+coherence in this region of space simply translates into the fact that the forces of gravity 
+
+ 
+
+ 
+
+4 J.P.Petit, G.D’Agostini : Cosmological Bimetric model with interacting positive and negative 
+masses and two different speeds of light, in agreement with the observed acceleration of 
+the Universe. Modern Physics LettersA, Vol.29 ; N° 34, 2014 ; Nov 10th 
+http://www.jp-petit.org/papers/cosmo/2014-ModPhysLettA.pdf 
+ 
+
+ 
+
+4 
+
+within  the  masses  must  be  balanced  by  the  forces  of  pressure.  During  2018,  we  finally 
+succeeded in this project and were in dialogue with a peer-reviewed journal to publish a first 
+result, limited to the conditions of the Newtonian approximation, which represents 99% of 
+astrophysical phenomena. The article5 will be published in the early days of January 2019. 
+ 
+     At the same time, French academician Thibault Damour, considered the country's foremost 
+expert on cosmology, published an article entitled 6 « About the so-called Janus Cosmological 
+Model” in his page on the website of the Institut des Hautes Études to which he belongs, the 
+French equivalent of the Institute for Advanced Studies in Princeton, USA. He also sent me a 
+registered letter with acknowledgement of receipt, announcing the publication of an article 
+which, in his opinion, put an end to what he considered to be ramblings. 
+ 
+     Flabbergasted,  we  immediately  replied,  telling  him  that  we'd  just  solved  the  problem 
+through an article, a copy of which we sent him, and proposing a meeting.  
+
+ 
+
+ 
+
+No reply. 
+ 
+    Months and years go by without Mr Damour replying to any of our messages. In 2022, 
+november 11, three years after Mr. Damour's article went on line, a letter, co-signed by fellow 
+scientists  who  had  themselves  verified  the  accuracy  of  our  calculations,  was  sent  to  him, 
+asking for his reaction. 
+ 
+     The reaction was immediate. On December 12, 2022, he published a second article on the 
+IHES website, a veritable act of authority, entitled :  
+ 
+
+Physical and mathematical inconsistency of the Janus cosmological model.7 
+
+ 
+     He then bases this new article on the fact that in the Janus model "negative masses attract 
+each other, whereas it is well known that they repel each other". He thus demonstrates that 
+he hasn't actually read our articles, and bases his argument on Herman Bondi's result from 
+1950. In the Einsteinian model, indeed, these negative masses repel each other. But in the 
+Janus model, they attract. But there's none so deaf as those who don't want to understand.  
+
+     It's easy to deduce the direction of the forces by constructing geodesics in a vacuum. The 
+result is : 
+ 
+
+ 
+
+5  J.P.Petit,  G.  D’Agostini,  N.Debergh :  Physical  and  mathematical  consistency  of  the  Janus 
+Cosmological  Model  (JCM).  Progress  in  Physics  2019  Vol.15  issue  1.  http://www.jp-
+petit.org/papers/cosmo/2019-Progress-in-Physics-1.pdf 
+6 http://www.jp-petit.org/papers/cosmo/2019-Damour-IHES-eng.pdf 
+7 http://www.jp-petit.org/papers/cosmo/2022-12-12-Damour-IHES.pdf 
+ 
+
+ 
+
+ 
+ 
+
+5 
+
+ 
+
+	
+
+Fig.1 : Positive masses attract each other 
+
+ 
+ 
+
+	
+
+Fig.2	:	Negative masses attract each other	
+
+ 
+ 
+      This shows that in three years, Damour simply hasn't read the articles we've published. In 
+particular, he has failed to grasp the importance of the minus sign in front of the second 
+member  of  the  second  field  equation,  highlighted  in  red  below,  which  re-establishes  the 
+principles  of  action-reaction  and  equivalence,  and  makes  the  unmanageable  runway 
+phenomenon disappear. 
+
+ 																																																						R(")$%−12	R"δ$%=χ3T(")$%+6g&g"	T7(&)$%8 
+ 																																																		R(&)$%−12	R&δ$%=−χ36g"g&	T7(")$%+T(&)$%8 
+
+ 
+ 
+     On December 14, 2022, we immediately pointed out his error. 8.  
+
+8 http://www.jp-petit.org/papers/cosmo/2022-12-14-to-Damour.pdf 
+
+ 
+
+6 
+
+ 
+
+ 
+
+ 
+     He then abandons this criticism and replaces this second article with a third one 9, posted 
+on December 18, 2022, still on his IHES page, and expands on the alleged impossibility of 
+integrating the neutron star model.  
+ 
+    But here again, this last criticism doesn't hold water.  
+
+ 
+
+    There is no need to explain the form of the "interaction tensors": 
+
+ 
+
+     All we need to do is specify that their respective divergences must be zero. This is what 
+Damour  says  in  his  2002  article.  But  he  doesn't  go  further.  In  fact,  it  is  this  condition  of 
+compatibility and coherence that dictates the form of these two tensors. At this point, we 
+should remember that general relativity, which translates into cosmic geometry being based 
+on Albert Einstein's field equation, is in fact based on only two types of solution:  
+ 
+-  Unsteady  solutions  (invariance  of  the  solution  by  time  translation)  with  isotropy  and 
+homogeneity.  
+ 
+- Stationary solutions with invariance under the action of the SO(3) (spherical symmetry) and 
+SO(2) (axisymmetry) groups. 
+   
+   For the moment, the axisymmetric, SO(2)-invariant stationary solution of Einstein's equation 
+can be expressed by the Kerr exterior metric  10 (1963) (describing geometry in a vacuum, 
+outside a field-creating mass). This solution should logically be completed by its complement, 
+the solution expressed in the form of an internal metric. But this has never been produced. 
+The  Janus  equations  provide  the  joint  exterior  metrics,  two-folds  extensions  of  this  Kerr 
+exterior metric. As these solutions are derived from the equations without a second member, 
+their  mathematical  consistency  follows  automatically.  The  system  must  therefore  be 
+physically and mathematically consistent in both configurations;  
+ 
+-  Unsteady  solutions  (invariance  of  the  solution  by  time  translation)  with  isotropy  and 
+homogeneity.  
+ 
+- Stationary solutions with invariance under the action of SO(3) groups (spherical symmetry).  
+ 
+    The  question  has  been  solved  in  the  first  case  with  our  2014,2015,  2018  papers.  The 
+compatibility equation then translates into the generalized conservation of energy: 
+ 
+
+E = r(+)c(+)2a(+)3 + r(-)c(-)2a(-)3  = Cst 
+
+ 
+
+9http://www.jp-petit.org/papers/cosmo/2022-12-28-Damour-IHES.pdf 
+10 R.Kerr : Gravitational field of a spinning mass as an example of algebraic special metrics. 
+Physical Review Letters Vol. 11#5 1963 set. 1st. http://www.jp-
+petit.org/papers/cosmo/1963-Kerr.pdf 
+ 
+
+ 
+
+7 
+
+      In the second case, as Damour agrees in the article posted on his page of the IHES website 
+on December 28, 2022, these conditions are also fulfilled in the Newtonian approximation 
+(low curvature, low velocities ahead of the speed of light).  
+ 
+    This includes the geometric description of the region of space corresponding to the Great 
+Repeller phenomenon, both inside and outside this object. The geodesics followed by positive-
+energy  photons  (which  alone  lend  themselves  to  confrontation  with  observation)  can  be 
+deduced from the pair of inner and outer Schwarzschild metrics generated by a negative-mass 
+source.  
+ 
+     This left us with the problem of describing the geometry inside a neutron star, which is 
+based on this Newtonian approximation. Everything that could be done in this direction was 
+fully described in Karl Schwarzschild's two papers of 1916. The first describes the geometry 
+outside a mass.11  
+ 
+     A month later, he published a paper describing the geometry inside the mass 12. Thi paper 
+was  not  available  in  English  until  1999,  so  some  scientists  who  claim  to  be  experts  in 
+cosmology are unaware of its existence. 
+ 
+     Three authors have given their names to the so-called TOV equation of state (Tolman 13-
+Oppenheimer-Volkoff14)  which  is  simply  a  reformulation  of  the  1916  solution  in  another 
+coordinate system.  
+ 
+     This  can  be  reconciled  as  a  solution  of  the  Janus  system,  based  on  the  fact  that  these 
+neutron stars are automatically located (positive and negative masses are mutually exclusive) 
+in a region where negative mass is practically absent, and the system is reduced to equation 
+
+ 
+
+R µ
+( + )ν −
+ 
+
+1
+2
+
+R ( + )δµ
+
+ν = χ T µ
+
+( + )ν
+
+	
+
+ 
+
+to  Einstein 
+
+field  of  a  mass  point  according 
+
+11 K.Schwarzschild : Über das Gravitationsfeld Messenpunktes nach der Einsteinschen 
+Theorie. Sit. Deut. Akad. Wiss. 1916. English translation by S.Antoci and A.Loinger. On 
+the  gravitational 
+theory. 
+arXiv :physics/9912033v1 [physics.hist-ph] 16 dec 1999 
+http://www.jp-petit.org/papers/cosmo/1916-Schwarzschild-exterior-en.pdf 
+ 
+12  K.Schwarzschild  :  Über  das  Gravitionalsfeld  einer  Kugel  Aus  incompressibler 
+Flüssigkeit nach der Einsteinschen Theorie. Sitzung der phys. Math. Klasse v.23 märz 1916. 
+On 
+theory. 
+arXiv :physics/9912033v1 
+ [physics.hist-ph] 
+dec 
+16 
+Schwarzschild-interior-en.pdf 
+ 
+13 http://www.jp-petit.org/papers/cosmo/1939-Tolman.pdf 
+ 
+14 http://www.jp-petit.org/papers/cosmo/1939-Oppenheimer-Volkoff.pdf  
+
+http://www.jp-petit.org/papers/cosmo/1916-
+
+field  of  a  mass  point  according 
+
+the  gravitational 
+
+to  Einstein 
+
+1999. 
+
+ 
+
+8 
+
+						This	equation	is	nothing	but	Einstein's	equation,	in	mixed	notations,	which	explains	in	
+particular	why	the	Janus	model	satisfies	all	local	relativistic	data	(perigee	advance	of	
+planetary	orbits,	deviations	of	light	rays	by	masses).			
+	A	technically	more	detailed	description	can	be	found	in	the	reply	to	T.Damour,	in	French15.  
+
+ 
+ 
+Conclusion :  
+ 
+     The challenge introduced by the Janus model is obviously a major one. It involves adopting 
+a geometrical extension of general relativity, replacing the Einstein equation with the system 
+of two coupled field equations of the Janus model: 
+
+																																							R(")$%	−	12	R(")g(")$%	=	𝜒			)	T(")$%+	,g(&)g(")	T-(&)$%	. 
+																																									R(-)$%	−	12	R(-)g(-)$%	=	-	𝜒			)	T(-)$%+	,g(")g(-)	T-"$%	. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+     On such an important issue, it is totally anomalous that the French academician Thibault 
+Damour should have contented himself, in the form of an act of authority, with publishing on 
+the website of the institute to which he belongs two articles entitled:  
+ 
+
+Physical and mathematical inconsistency of the Janus model 
+
+ 
+Instead of publishing this criticism in due form in a peer-reviewed journal, which would have 
+been  an  ethical  response.  On  the  contrary,  he  refused  any  exchange,  any  debate,  any 
+legitimate expression of a scientific right of reply. 
+ 
+ 
+
+J.P.Petit    2023 
+
+ 
+
+15http://www.jp-petit.org/papers/cosmo/2023-Refutation-critiques-Damour.pdf 
+  
+  
+ 
+
+

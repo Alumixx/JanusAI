@@ -1,0 +1,254 @@
+Geometrization of matter and antimatter 
+
+through coadjoint action of a group on its momentum space
+
+2: Geometrical description of Dirac's antimatter
+
+Jean-Pierre Petit & Pierre Midy
+
+Marseille Observatory, France
+
+Abstract:
+
+We extend the precedent group to a four-components orthochron set. This operation gives a geometrical interpretation of
+antimatter after Dirac.
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+1- Introduction
+
+In a former paper [1] we have presented a description of elementary particles ins a ten-dimensional space, i.e. space-time (x,y,z,t)
+plus six additional dimensions:
+
+  
+We presented a 16-dimensions group, an extension of the Poincaré orthochron subgroup, acting on:
+
+{ ζ 1 , ζ 2 , ζ 3 , ζ 4 , ζ 5 , ζ 6 }
+
+- its 16-dimensions momentum space
+
+- its 10-dimensional movement space.
+
+The six additional components of the momentum have been identified to the charges of the particles:
+
+so that the momentum becomes:
+
+{ q , cB , cL , cμ , cτ , ϖ }
+
+ 
+
+ 
+
+(1)
+
+(2)
+
+ 
+
+Jpe = { q , cB , cL , cμ , cτ , ϖ , Jp }
+
+where Jp represent the classical moment, from the orthochron Poincaré sub-group:
+
+after J.M.Souriau [1].
+
+Jpo = { E , p , f , l }
+
+We have figured the link between the species of moments and the species of movement, suggesting that:
+
+- The movement of matter corresponds to { ζ i > 0 } sector.
+
+- The movement of antimatter corresponds to { ζ i < 0 } sector.
+
+- The movement of photons corresponds to { ζ i = 0 } plane.
+
+  
+All that must be now justified.
+
+2- Introducing a four components group. Geometrization of Dirac's antimatter
+
+The precedent 16-dimensional group had two components, correspondong to the two orthochron components of the Lorentz
+group, Ln (neutral component) and Ls , with:
+
+Our group was an extension of the orthochron Poincaré sub-group:
+
+Lo (orthochron sub-group) = Ln U Ls
+
+and we wrote it:
+
+Go = Gn U Gs
+
+(3)
+
+(4)
+
+ 
+
+(5)
+
+(6)
+
+(7)
+
+The corresponding coadjoint action was:
+
+{χ i} = { q , cB , cL , cμ , cτ , ϖ }
+
+In such a group no element transforms the movement of a matter mass-point into the movement of an antimatter mass-point, and
+vice versa. According to the chosen definition of antimatter, through a:
+
+some element should reverse the additional dimensions. With:
+
+ζ - Symmetry: {ζ i} ----> {- ζ i}
+
+  
+we can write the precedent group into a more compact form:
+
+(8)
+
+with:
+
+(9)
+
+(10)
+
+(11)
+
+(12)
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+It contains the neutral element:
+
+The matrix that reverses the additional dimensions is be the following orthochron commuter:
+
+  
+We can duplicate the precedent group through the operation:
+
+go × goc
+
+It is equivalent to write the new four component group, whose element is:
+
+The corresponding coadjoint action is:
+
+(13)
+
+(14) 
+
+ 
+
+ 
+
+ 
+
+(15)
+
+(16)
+
+(17)
+
+(18)
+
+ 
+We see that ( λ = - 1 ) reverses the charges. In that case the inversion of the additional dimensions:
+
+ζ - Symmetry: {ζ i} ----> {- ζ i}
+
+  
+goes with a:
+(19)
+
+C-symmetry (or charge conjugation):
+
+{ q , cB , cL , cμ , cτ , ϖ } ---> {- q ,- cB ,- cL ,- cμ ,- cτ , - ϖ }
+
+  
+which corresponds to Dirac's description of antimatter [4], so that the present paper represents a geometrization of antimatter after
+Dirac.
+ 
+
+3- Coadjoint action on momentum space
+
+In order to make the things clearer we can graphically figure it.
+ 
+
+Fig.1: The four component orthochron extended group. The (λ=1) components form a a sub-group. 
+
+Below, the momentum space with its three sub-sets, figuring particles', antiparticles' and photons' worlds. 
+
+Associated two-sectors movement space.
+
+ 
+If we choose an element picked from the ( λ = 1 ) sub-group we refind the schemas presented in the precedent paper [1].
+
+Examine the impact of the orthochron commuter goc on the moment and associated movement.
+ 
+
+Fig.2: Coadjoint action of the orthochron commuter goc
+
+Fig.3: Coadjoint action of the orthochron commuter goc on the photon: none, for it is its own antiparticle.
+
+  
+Now, introduce two coupled orthochron matrixes:
+
+(20)
+
+ 
+
+go and goc × go
+
+Fig.4 : Coadjoint action of the orthochron commuter goc and conjugated orthochron matrixes go and goc × go
+
+ 
+ 
+
+Conclusion
+ 
+
+We  start from  the  precedent paper  [1],  where  we  introduced  a  16-dimensional  group  acting  on  its  16-dimensions momentum
+space and 10-dimensional movement space. As in [1] we follow the basic idea: antimatter corresponds to a ζ-Symmetry, to the
+inversion  of  the  additional  variables.  We  define  a  matrix, called orthochron commuter,  which  achieves ζ-Symmetry. Then  we
+build a group which contains such element. We get a four components group, composed by the elements go of the ( λ = 1 ) sub-
+group, and by conjugated matrixes goc × go , formed through the action of the orthochron commuter goc on this sub-group. The
+antimatter becomes another movement of matter, driven by coadjoint action of the group. 
+ 
+ 
+ 
+
+References
+ 
+
+ 
+
+ 
+ 
+ 
+
+[1] J.P. Petit & P. Midy: Geometrization of matter and antimatter through coadjoint action of a group on its momentum space. 1:
+Charges as additional scalar components of the momentum of a group acting on a 10d-space. Geometrical definition of antimatter.
+Preprint, March 1998. 
+[2] J.M. Souriau: "Structure des Systèmes Dynamiques", Dunod, Ed. 1972 (in French); tr. "Structures of Dynamical Systems",
+Birkhauser, 1997. ISBN 0817636951. 
+[3] J.M. Souriau: "Géométrie et relativité". Ed. Hermann-France, 1964. 
+[4] P.M. Dirac: "A theory of protons and electrons", Dec. 6th 1929, published in Proceedings of Royal Society (London), 1930: A
+126 , pp. 360–365
+
+Acknowledgements
+ 
+This work was supported by french CNRS and Brevets et Développements Dreyer company, France. 
+Déposé sous pli cacheté à l'Académie des Sciences de Paris, 1998. 
+© French Academy of Sciences, Paris, 1998.
+
+

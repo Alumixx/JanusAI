@@ -1,0 +1,437 @@
+	
+
+1	
+
+A	Symplectic	Cosmological	Model	
+
+Jean-Pierre	Petit	
+Jp.petit@mailaps.org	
+
+Former	director	of	scientific	research-Observatory	of	Marseille	
+
+Abstract	
+
+Notations	
+
+	
+In	this	paper,	we	use	the	Lie	algebra	of	the	dual	Poincaré	dynamical	group	which	when	
+acted	upon	by	its	coadjoint	,	displays	energy,	momentum	and	spin	as	pure	geometrical	
+quantities.	When	extended	to	the	full	group,	one	obtains	negative	mass	species	in	
+accordance	with	our	Janus	Cosmologial	Model	and	the	twin	universe	model	conjectured	
+by	A.Sakharov.		
+Within	a	5D	Kaluza	Space,	the	theory	leads	to	a	new	matter/antimatter	duality,	implying	
+negative	energy	photons	emitted	on	the	negative	domain	of	the	twin	Universe.	This	
+account	for	the	dark	matter	and	dark	energy	which	are	thereof	impossible	to	detect	in	
+our	domain.	
+Finally,	we	show	that	shifting	to	a	Hermitean	space-time	with	an	associated	dynamic	
+group	yields	imaginary	energy,	imaginary	mass	and	imaginary	charges	all	imbeded	in	a	
+symplectic	(complex)	framework	which	remains	open	to	wide	inverstigations.			
+Space	time	:	indices	0,1,2,3	
+Space-time	signature	-2	
+	
+Symplectic	geometry	relies	on	symplectic	manifolds.	They	are	said	symplectic	when	they	
+are	endowed	with	a	symplectic	form	that	allows	the	measurement	of	sizes	of	2-
+dimensional	objects.	In		Riemanian	geometry,	the	metric	tensor	probes	lengths	and	
+angles,	whereas	the	sympectif	form	measures	areas.		
+The	term	sympletic	was	first	coined	by	H.Weyl	in	1939	as	a	substitute	to	rather	
+confusing	(line)	complex	groups	and/or	Abelian	linear	groups.		
+The	relativistic	Symplectic	Mechanics	[1]	was	primarly	developped	by	the	french	
+mathematician	J.M.Souriau	from	dynamic	groups	theory.		
+It	provides	a	new	definition	of	energy,	momentum	and	spin	only	in	terms	of	pure	
+geometrical	quantities.	This	arises	from	two	objects	:	 n-dimensional	space	and	its	
+isometry	group.		
+	
+
+Introduction	
+
+{
+
+P =
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+E
+px
+pY
+pz
+
+}		
+
+	
+2	
+1	–	The	Janus	Cosmological	Model		
+The	main	mathematical	tool	is	the	so-called	«	momentum	map	»	which	is	inferred	from	
+the	coadjoint	action	of	the	group	on	its	 Lie	 algebra	(the	 coadjoint	 of	 the	 Lie	
+representation	is	the	dual	of	the	adjoint	representation).		
+Applying	the	technique	of	this	coadjoint	action	leads	to	the	appearence	of	generalized	
+linear	and	angular	momenta	:	   Energy E , 3− momentum p , spin s
+The	action	corresponds	to	:		
+																																																		  M ' = L M tL + N tP tL − L P tN																																																		(1)	
+																																																																							P’	=	L	P																																																																												(2)	
+Where	P	is	the	energy-impulsion	4-vector	:	
+																																																																									(3)	
+																																																																			 
+	
+L	is	the	element	of	the	Lorentz	group	and	N	the	boost	4-vector	.			
+In	the	classical	treatment,	one	merely	considers	the	restricted	Poincaré	group	which	is	
+formed	with	the	orthochronous	components	Lo	.	Hence	the	full	Poincaré	Group	can	be	
+written	as		
+																																																																											
+⎟																																																																(4)	
+with	 λ= ± 1		
+We	then	obtain	two	kinds	of	matters	and	two	kinds	of	photons	which	each	an	opposite	
+mass	and	energy.	This	copes	with	the	Janus	Cosmological	Model	(JCM)	we	developped	
+earlier		([2],	[3],	[4]).		
+Such	a	model	involves	particles	ith	opposite	masses	and	energy.		
+However	as	shown	by	H.Bondi	in	1957	[5],	the	field	equation	cannot	sustain	this	duality	
+due	to	the	subsequent	and	unmanageable	«	runaway	effect	».	In	short	General	Relativity	
+deals	with	positive	masss	that	are	attractive,	while	negative	masses	woud	exhibit	
+repelling	forces.		
+The	issue	can	be	evaded		by	cinsidering	a	bi-metric	(our	JCModel)	with	a	single	manifold		
+M4	equipped	with	two	metric	tensors	  
+(−),	which	define	two	field	equations	:		
+(5)	
+
+(+)	and	  
+
+λLo N
+0
+1
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+gµν
+
+gµν
+
+⎛
+⎜
+⎝
+  
+
+⎠
+
+⎞
+
+3.	Extension	to	a	wider	geometrical	framework	
+
+	
+3	
+																																		(5)	
+																																																						
+																												(6)	
+																																																						
+whose	time-independent	and	time-dependent	solutions	fit	observational	data.		
+	
+We	now	turn	to	a	possible	extension	of	the	group	to	a	five	dimensional	scheme	so	as	to	
+obtain	an	isometry	group	which	acts	on	a	Kaluza	space-time	:		
+																																																														(7)	
+																																																																		  
+with		 λ= ± 1	and	 µ= ± 1	
+By	extension	to	the	fifth	dimension,	the	Noether	theorem	indices	an	additional	conserved	
+scalar	quantity	which	can	be	identified	to	the	electric	charge	q.		
+	 µ= − 1	implies	the	inversion	of	the	fifth	dimension,	which	is	just	the	geometrical	
+expression	of	the	matter-antimatter	duality,	as	firstly	presented	by	J.M.Souriau	in	
+1964[6]			.		
+Therefore	the	physics	ruled	by	the	dynamical	group	(7)	exhibits	straightforwardly	the	
+matter-antimatter	symmetry	in	the	two	sectors,	with	opposite	mass	and	energy.		
+If	we	now	add	p-Kaluza	like	dimensions,	we	obtain	the	metric	under	the	form	:		
+																																														  
+2																						(8)	
+This	can	be	coupled	to	an	isometry	group	:	
+
+λµ 0
+φ
+0 λLo N
+0
+1
+
+2... − dξp
+
+ds2 = dxo
+
+2 − dξ2
+
+2 − dx2
+
+2 − dξ1
+
+2 − dx3
+
+2 − dx1
+
+⎛
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎠
+
+0
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+λµ 0
+...
+0 λµ ...
+...
+...
+
+...
+
+0
+0
+0
+
+0 ...
+0 ...
+0 ...
+
+0
+0 φ1
+0
+0 φ2
+...
+...
+...
+λµ 0 φp
+0 λLo N
+1
+0
+
+0
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+																																								(9)	
+
+																																																				  
+with		 λ= ± 1	and	 µ= ± 1	
+
+(
+
+is	 no	
+
+longer	
+
+	
+4	
+The	electric	charge	is	one	of	the	quantum	charges.	Here	again		 µ= − 1		reflects	the	C-
+symmetry	:	they	account	for	the	classical	matter-antimatter	representation.		
+	  λ= −1 ; µ= −1
+)	correspond	to	the	PT	symmetry,	classically	associated	to	the	so-called	
+identified	 to	 the	 «	C-symmetrical	
+«	Feynman	 Antimatter	»,	 which	
+antimatter	»,	that	we	could	call	the	«	Dirac-antimatter	».	This	is	due	to	the	presence	of	
+the	(real)	time	reversal	operator	T		inducing	both	time,	mass	and	energy	inversions.		
+In	other	words	the	group	representation	(9),	which	is	the	basis	of	the	JCModel,	provides	
+two	distinct	types	of	antimatters	:		
+-  The	C-symmetrical	type,	corresponding	to	Dirac’s	antimatter	
+	
+-  The	PT-symmetrical	type,	corresponding	to	Feynman’s	antimatter	
+	4.	Remark	about	Andrei	Sakharov	schema		[7]			
+In	classical	cosmology	a	severe	problem	remains,	due	to	the	absence	of	observation	od	
+primeval	antimatter.	In	1967	A.Sakharov	suggested	the	Universe	comprises	two	
+domains	:	the	actual	Universe	and	its	twin	Universe,	each	connected	through	a	
+singularity	([8]	,	[9],	[10]	),	the	two	being	CPT-symmetrical.	Both	are	CPT-symmetrical.		
+Since	the	mass	inversion	goes	with	T-symmetry	,	our	JC-Model	.	([3]	,[4])	corresponds	to	
+such	CPT-symmetry.	The	so-called	twin	matter	becomes	nothing	but	a	copy	of	ordinary	
+particles,	with	opposite	mass	and	energy.		
+If,	as	suggested	by	A.Sakharov,	poitive	passes	are	synthetized	by	positive	energy	quarks	
+faster	the	the	synthesis	of	negative	mass	matter	ftom	positive	energy	antiquarks,	then,	
+in	the	positive	sector	we	find	:		
+-  Remnant	positive	mass	matter	
+-  The	equivalent	(ration	3/1)	of	positive	energy	antiquarks	
+-  Positive	energy	photons.		
+	In	analogy	to	Sakharov’s	idea	the	negative	energy	domain	would	be	composed	by	:		
+	
+-  Remnant	negative	mass	antimatter	
+-  The	equivalent	(ration	3/1)	of	negative	energy	quarks	
+-  Negative	energy	photons.		
+	As	shown	in	([3],[4])	the	negative	material	suitably	replaces	both	dark	matter	and	so-
+called	dark	energy.	Accordingly,	emitting	negative	energy	photons	the	remnant	negative	
+mass	antimatter	is	geniusly	invisible.		
+			
+
+unconventional	representation	of	inversions,	so	these	possibilitys	will	not	be	pursed	further	
+
+	
+5	
+5.	Remark	about	the	Quantum	Theory	of	Fields	[7]			
+In	QFT	the	time	reversal	operator	is	a	complex	operator	which	can	be	linear	and	unitary,	
+as	well	as	 antilinear	and	 anti-unitary.	If	chosen	as	linear	and	unitary	this	operator	
+implies	the	existence	of	negative	energy	states,	which	is	 a	 priori	banned	by	QFT.	In	
+Weinberg	[7]		we	quote	:	«	In	order	to	avoid	this	disastrous	conclusion	we	are	forced	to	
+conclude	that	T	is	antilinear	and	anti-unitary	».		
+On	page	104	Weinberg	also	writes	that	«	No	examples	are	known	of	particles	that	furnish	
+here	».		
+Actually,	thi	was	true	until	the	discovery	of	the	acceleration	of	the	expanding	Universe	
+which	implies	the	action	of	a	negative	pressure.		
+Aa	a	pressure	is	linkened	to	an	energy	density,	this	new	phenomenon	implies	the	
+existence	of	negative	energy	states	and	as	a	result	it	questions	QFT	by	itself.	In	the	same	
+manner,	it	also	raises	some	questions	as	to	the	validity	of	the	so-called	CPT	theorem	and	
+the	vacuum	instability.	Classically	one	considers	that	a	particle	may	loose	energy	by	the	
+emission	of	a	photon,	so	that	such	phenomenon	would	lead	to	negative	energy	states.	
+But	if	we	consider	that	a	negative	mass	particle	emits	negative	energy	photons,	that	
+leads	to	stable	zero	energy	state.		
+	6.	Extension	of	the	method	to	a	complex	field.				
+In	one	replaces	the	Minkowski	coordinates	   xo , x1 , x2 , x3
+}	with	complex	coordinates	
+we	may	form	the	Hermitean	Riemann	metric	:		
+																																													  ds2 = dxo * dxo − dx1 * dx1 − dx2 * dx2 − dx3 * dx3																										(10)	
+The	metric	is	defined	on	a	Hermitean	manifold		
+Let	us	now	consider	the	real	matrix	G	:		
+																																																											(11)	
+																																																																	 
+an	the	complex	Lorentz	group	defined	as	:		
+																																																																											  *LG L = G																																																																		(12)	
+  *L	stands	for	the	adjoint	of	L	.		
+One	can	easily	show	that	the		complex	Poincaré	group	
+⎠⎟																																																																(13)		
+																																																																													
+
+1
+0
+0 −1
+0
+0
+0
+0
+
+L N
+0
+1
+
+0
+0
+0
+−1
+
+0
+0
+−1
+0
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎝
+
+{
+
+⎞
+
+⎛
+⎝⎜
+  
+
+1
+
+1
+
+6	
+
+  ± (−1)
+
+Conclusion	
+
+momentum.		
+
+2 E.		
+
+	
+is	a	isometry	group	of	such	a	Hermitean	space	and	can	be	considered	as	a	dynamical	
+group.	Suprizingly,	all	classical	(matrix)	calculations	can	be	extended	to	such	complex	
+framework,	by	simply	substititing	the	matrices	  *A	to	the	transposed	matrices		 t A	.		
+As	a	result,	the	complex	momentum	obeys	the	law	:		
+																																																		  M ' = L M * L + N * P* L − L P* N																																															(14)	
+																																																																											P’	=	L	P																																																																									(15)	
+where	P	is	a	complex	energy-momentum	4-vector	with	complex	energy	and	complex	
+This	extended	physics	grants	the	mass	a	possibly	complex	nature	implying	the	possible	
+existence	of	purely	real	masses	 ± m	and	purely	imaginary	masses	  ± (−1)
+2 m	.		
+At	the	same	time,	such	mases	can	exchange	imaginary	photons,	whose	energies	are	
+	
+J.M.Souriau	gave	the	first	purely	geometrical	interpretation	of	all	classical	physics	
+features,	namely	energy,	momenta	and	spin.		
+When	extended	to	higher	dimensions	it	provides	a	geometrical	interpretation	of	the	
+matter-antimatter	duality.		
+In	addition,	one	can	notice	that	the	complex	approach	of	space	definition	yields	complex	
+physical	quantities.		
+The	physical	meaning	of	such	complex	quantities	should	demand	further	scrutiny	and	as	
+such	remains	a	new	field	of	investigantions.	
+	
+References		
+[1]	J.M.Souriau : Structure des systèmes dynamiques.  Dunod Ed. France, 1970 and Structure 
+		[2]		J.P.Petit,	G.D’Agostini	:	Negative	Mass	hypothesis	in	cosmology	and	the	nature	of	
+dark	energy.	Astrophysics	And	Space	Science,.	A	29,	145-182	(2014)	
+[3]		J.P.Petit,	G.D’Agostini	:	Cosmological	Bimetric	model	with	interacting	positive	and	
+negative	masses	and	two	different	speeds	of	light,	in	agreement	with	the	observed	
+acceleration	of	the	Universe.	Modern	Physics	Letters	
+A,	Vol.29	;	N°	34,	2014	;	Nov	10th	
+	[4]		J.P.Petit	&	G.D’Agostini	:	Lagrangian	derivation	of	the	two	coupled	field	equations	in	
+the	Janus	Cosmological	Model.	Astrophysics	and	Space	Science	2015,	357	:67	
+
+of Dynamical Systems. Boston, Birkhaüser Ed. 1997 
+
+Rev. of Mod. Phys., Vol 29, N°3, july1957 
+
+	
+7	
+[5]		H. Bondi: Negative mass in General Relativity : Negative mass in General Relativity. 
+ [6]		J.M.Souriau : Géométrie et Relativité. Ed. Hermann, 1964 (french edition only). 
+	[7]		S.Weinberg	:	The	Quantum	Theory	of	Fields.	Cambridge	University	Pres,	2005,	pages	
+74-76,	space-inversion	and	time-reversal,	and	page	104		
+[8]	A.D.Sakharov,	ZhETF	Pis’ma	5	:	32	;	JETP	Lett.	5	:	24	(	1967	)	
+	[9]	A.D.Sakharov	,	ZhETF	Pis’ma	76	:	1172	(1979)	;	JETP	49	:	594	(1979)	
+	[10]	.D.Sakharov	,  (1980).  Cosmological  Model  of  the  Universe  with  a  Time  Vector 
+Inversion. ZhETF (Tr. JETP 52, 349-351) (79): 689–693	
+	
+
+

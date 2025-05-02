@@ -1,0 +1,1320 @@
+1
+2
+0
+2
+
+ 
+r
+a
+
+ 
+
+M
+3
+2
+
+ 
+ 
+]
+c
+q
+-
+r
+g
+[
+ 
+ 
+
+9
+1
+5
+4
+6
+6
+3
+/
+t
+i
+
+m
+b
+u
+s
+:
+v
+i
+X
+r
+a
+
+Lagrangian derivation of the two coupled ﬁeld equations in the
+
+Janus cosmological model
+
+Published in Astrophysics and Space Science volume 357, Article number: 67 (2015)
+
+J.P. Petit∗
+
+G. D’Agostini†
+
+March 23, 2021
+
+Abstract
+
+After a review citing the results obtained in previous articles introducing the Janus
+Cosmological Model, consisting of a set of two coupled ﬁeld equations, where one metrics
+refers to the positive masses and the other to the negative masses, which explains the
+observed cosmic acceleration and the nature of dark energy, we present the Lagrangian
+derivation of the model.
+
+Keywords: Interacting positive and negative masses; Coupled ﬁeld equations; Acceleration of the
+
+universe; Dark energy; Janus geometry; Janus cosmological model
+
+1
+
+Introduction
+
+After F. Zwicky in 1931 and V. Rubin in 1979 pointing out the missing mass problem, the
+cosmological model was enriched with a new unidentiﬁed ingredient, the so called dark matter.
+Then a new problem appeared (Riess et al. 1998; Perlmutter et al. 1999; Riess 2000, 2004;
+Filippenko and Riess 2001; Leibindgut 2001; Knop et al. 2003; Tonry et al. 2003):
+instead of
+slowing down the universe was accelerating. Another distinct ingredient was added: dark energy.
+In Faraoni (2009), Faraoni et al. (2014) we quote:
+
+–Dark energy and dark matter are the basic constituents of the universe.
+
+In this paper the authors, thinking about the interaction between those two, try to build a
+Lagrangian whose variation would give rise to the interacting equations. Following a completely
+diﬀerent idea, Milgrom (1983, 1998), Milgrom and Sanders (2007) suggests an ad-hoc modiﬁ-
+cation of Newton’s law. But this last does not ﬁt galactic clusters data. Nevertheless Combes
+(2015a,b) following Milgrom extends the idea to a set of four successive ad-hoc laws depending
+on distance (Combes 2015a,b). We quote:
+
+–Gravity must be modiﬁed, adding a term, ﬁrst at galactic scale, then another one
+to clusters of galaxies scale, and ﬁnally a third to very large scale–the one of dark
+energy.
+
+Negative mass related to negative pressure could explain the observed acceleration. Alas,
+in 1957 Bondi (1957) showed that the introduction of such ingredient in the Einstein’s model
+produced unmanageable interaction laws. Einstein’s equation, without cosmological constant,
+is:
+
+∗CNRS, BP 55, 84122 Pertuis, France, e-mail: jppetit1937@yahoo.fr
+†dagostini.gilles@laposte.net
+
+1
+
+When we apply Newtonian approximation (Adler et al. 1967, 10.5), expanding the metric
+
+into a series, from a Lorentz metric gµν = ηµν + εγµν we get Newton’s law. Bondi writes:
+
+where m(i) is inertial mass, m(p) passive gravitational mass, and m(a) active gravitational
+
+mass. From equivalence principle m(i) = m(p), so that:
+
+Fig. 1 The preposterous runaway phenomenon
+
+Rµν − 1
+2
+
+Rgµν = χTµν
+
+m(1)
+
+i
+
+d2 #»r 1
+dt2 =
+
+G ( #»r 2 − #»r 1) m(1)
+| #»r 2 − #»r 1|3
+
+p m(2)
+a
+
+d2 #»r 1
+dt2 =
+
+G ( #»r 2 − #»r 1) m(1)
+| #»r 2 − #»r 1|3
+
+p m(2)
+a
+
+A consequence of (3) is that positive masses (m(a) > 0) attract everything, while negative
+masses repel everything, which produces the preposterous runaway phenomenon: when a mass
++m encounters a mass −m, the ﬁrst runs away, chased by the second. Both experience a uniform
+acceleration, while kinetic energy is saved, because one mass is negative, see Fig. 1. This analysis
+banned negative masses from cosmology during 57 years.
+
+2 Back to “full geometry”
+
+In a former paper (Petit and D’Agostini 2014a,b) we suggested to replace Einstein’s equation by
+a set of two coupled ﬁeld equations, which is a change of paradigm, which ﬁts local veriﬁcations
+of RG, as shown in the following:
+
+µν − 1
+R(+)
+2
+
+R(+)g(+)
+
+µν = χ
+
+µν − 1
+R(−)
+2
+
+R(−)g(−)
+
+µν = −χ
+
+µν + T (−)
+T (+)
+
+µν
+
+(cid:115) −g(−)
+
+−g(+)
+
+T (−)
+
+µν
+
+
+
+
+µν +
+
+T (+)
+(cid:115) −g(+)
+ with
+
+(cid:40)
+
+−g(−)
+
+2
+
+where the tensors T (+)
+
+µν and T (−)
+
+µν are:
+
+Tν
+
+(f )µ =
+
+ρ(f )
+0
+0 − p(f )
+c2
+0
+0
+0
+0
+
+0
+0
+− p(f )
+c2
+0
+
+0
+0
+0
+− p(f )
+
+c2
+
+
+
+ρ(f ) > 0 and p(f ) > 0 for f = “+”
+ρ(f ) < 0 and p(f ) < 0 for f = “−”
+
+(5)
+
+(1)
+
+(2)
+
+(3)
+
+(4a)
+
+(4b)
+
+Then Newtonian approximation:
+
+g(+)
+µν = η(+)
+g(−)
+µν = η(−)
+
+µν (Lorentz ) + εγ(+)
+µν
+µν (Lorentz ) + εγ(−)
+
+µν
+
+(6)
+
+provides completely diﬀerent interaction laws:
+
+– Positive masses mutually attract through Newton’s law.
+
+– Negative masses mutually attract through Newton’s law.
+
+– Masses with opposite signs mutually repel through “anti-Newton’s law”.
+
+The present system was introduced in 1994 (Petit 1994). In 1995 (Petit 1995), 2D numerical
+simulations were performed. Assuming, after discoupling from radiation, that negative matter
+is denser, this last ﬁrstly forms clusters by gravitational instability, repelling positive matter in
+the remnant space, which forms a lacunar pattern, see Fig. 2. The whole is found very stable,
+the net of positive matter preventing negative clusters merging, while these last play the role of
+anchors, stabilizing the lacunar positive pattern.
+
+Fig. 2 2D simulation of Very Large Structure of the Universe (VLS), after Petit (1995)
+
+Fig. 3 Numerical 2D simulation of VLS in compact 2D workspace (Petit et al. 2015)
+
+3
+
+Fig. 4 Stable spiral structure, after Petit et al. (2001)
+
+Fig. 5 Evolution du galactic design versus µ =
+
+(cid:12)(cid:12)(cid:12) m(−)
+
+m(+)
+
+(cid:12)(cid:12)(cid:12) after Petit et al. (2001).
+
+This theory has to be compared with recent results (Piran 1997; El-Ad et al. 1996, 1997;
+El-Ad and Piran 1997). Recently a new 2D simulation (Petit et al. 2015), performed on recent
+computers (5,000 positive mass points; 5,000 negative) introduced a compact 2D workspace,
+replacing euclidean distance, by distance measured along geodesics, see Fig. 3.
+
+In Petit (1995) negative gravitational lensing eﬀect was presented, which explained available
+data. The positive lensing is reinforced by the focusing action of negative matter environment,
+while this last explained galaxies’ conﬁnement.
+In 2000 another 2D simulation (Petit et al.
+(2001)) produced barred spirals, stable over 30 turns, the structure being due to dynamical
+friction with negative matter environment.
+
+On the right of Fig. 4 we see a strong reduction of galaxy’s momentum, due to dynamical
+friction, during ﬁve turns, which becomes almost negligible after that. Negative matter pro-
+duces a potential barrier, which prevents spiral arms dissipation. Modifying the ratio negative
+mass/positive mass, diﬀerent patterns are obtained, as shown in Fig. 5, which suggests a possible
+galaxies’ evolution schema.
+
+All these results were obtained on a personal computer. Collaboration with a group owing a
+fast computer could extend that work to 3D simulations, with compact workspace (S3 sphere).
+
+4
+
+Anyway, it is important to keep in mind that RG does not produce particles, only geodesics.
+The model is indeed a “pure geometrical description”. As the model ﬁts observation, we deduce
+that photons follow null-geodesics and matter follows non-null geodesics. In the Janus model,
+the second metric g(−)
+µν produces a second, distinct, geodesic system. Similarly, we can assume
+that negative energy photons follow corresponding null-geodesics and negative masses follow
+corresponding non-null geodesics. Double Newtonian approximation (6) (around Lorentz Met-
+rics) provides interaction schema. In (Petit and D’Agostini 2014a,b) an exact solution of system
+(4a)+(4b) for matter dominated era is built. Positive matter is found to accelerate, it obeys
+Bonnor’s equation (Bonnor 1989). In the literature, dark matter and dark energy are considered
+as distinct (unknown) ingredients.
+In contrast, our new Janus Model takes into account all
+phenomena with a single “ingredient”: negative mass. Its nature is cleared up through dynamic
+groups theory (Souriau 1970). The contents are similar: photons, electrons, protons, neutrons,
+and so on, with negative energies, and negative mass if the own one. In a recent publication
+(Petit and D’Agostini 2015) answers were given to a classical referee’s critics: Encounters of
+opposite energy species are not possible, on geometrical grounds. Critic based on vacuum insta-
+bility, due to (+m,−m) pairs creation is also not relevant for such hypothetical quantum process
+is not described until now. In (Souriau 1970) the fact that negative energy ban was arbitrarily
+done in QFT (Weinberg 2005), when shifting to anti-unitary and anti-linear T operator (time
+inversion), was pointed out: unitary and linear T operator reverses energy.
+
+Anyway, the system (4a)+(4b) needs a Lagrangian derivation. This is the subject of the
+
+present paper.
+
+3 Lagrangian derivation of the JCM model. Janus geometry
+In the following, we limit the method to c(+) = c(−) = 1 conditions, so that the determinants of
+the metrics are:
+
+g(+) = −(cid:16)
+
+a(+)(cid:17)6
+
+g(−) = −(cid:16)
+
+a(−)(cid:17)6
+
+(7)
+First, have a look on classical Lagrangian Einstein’s equation derivation. A scalar density
+√−g is constructed (Adler et al. 1967, Eq. (11.110)), such that, under the variation of the
+L
+metric ﬁeld:
+
+Then the equation of the gravitational ﬁeld in a nonempty space can be expressed in the
+
+variational form (Adler et al. 1967, Eq. (11.111)):
+
+√−gδgµν d4x
+
+Tµν
+
+D4
+
+δ
+
+L
+
+D4
+
+√−g d4x =
+(cid:90)
+
+(R − χL)
+
+√−g d4x = 0
+
+δ
+
+√−g is the scalar density of this system.
+
+D4
+
+(R − χL)
+The following relation holds:
+
+δ
+
+√−gδgµν d4x
+where the Einstein tensor is deﬁned by Gµν =(cid:0)Rµν − 1
+(cid:1).
+(cid:113)
+
+√−g d4x =
+(cid:113)
+
+2 Rgµν
+
+Gµν
+
+D4
+
+D4
+
+R
+
+−g(+) + R(−)
+
+−g(−) − 2χL(+)
+
+(cid:113)
+
+(cid:19)
+
+−g(+) − 2χL(−)
+
+−g(−)
+
+Now let us consider the following scalar density, associated to a bimetric system:
+
+(cid:18)
+(cid:113)
+µν and T (−)
+
+R(+)
+
+Tensors T (+)
+
+µν obey equations similar to (5):
+
+(8)
+
+(9)
+
+(10)
+
+(11)
+
+(cid:90)
+
+(cid:90)
+
+(cid:90)
+
+(cid:90)
+
+5
+
+−g(+) d4x =
+As ρ(−) and p(−) are negative, let us write:
+
+L(+)
+
+D4
+
+δ
+
+T (+)
+µν
+
+D4
+
+−g(+)δg(+)µν d4x
+
+δ
+
+L(−)
+
+(cid:90)
+(cid:113)
+(cid:90)
+(cid:113)
+(cid:90)
+(cid:113)
+µν and R(−)
+(cid:90)
+(cid:113)
+
+2 R(+)g(+)
+R(−)
+
+R(+)
+
+D4
+
+µν
+
+δ
+µν − 1
+R(+)
+
+δ
+
+D4
+
+(cid:16)
+
+(cid:16)
+
+(cid:17)
+
+(cid:17)
+
+(cid:90)
+(cid:90)
+(cid:90)
+(cid:90)
+
+(cid:113)
+(cid:113)
+(cid:113)
+(cid:113)
+
+−g(−) d4x =
+
+−T (−)
+
+µν
+
+−g(−)δg(−)µν d4x
+
+D4
+
+µν obey equations similar to (10):
+
+−g(+) d4x =
+
+G(+)
+µν
+
+D4
+
+−g(+)δg(+)µν d4x
+
+−g(−) d4x =
+
+G(−)
+
+µν
+
+−g(−)δg(−)µν d4x
+
+D4
+
+D4
+Similarly, tensors R(+)
+
+where G(+)
+
+µν =
+
+(12a)
+
+(12b)
+
+(13a)
+
+(13b)
+
+µν =
+
+R(−)
+µν − 1
+
+2 R(−)g(−)
+
+where G(−)
+Remark The integration refers to a 4D closed domain D4. Either we consider that on the
+border the function under integration has a ﬁxed value (zero). Either we can assume that the
+metrics are Lorentzian and the matter density is zero at inﬁnite, which gives both R(+), R(−)
+and L(+), L(−) equal to zero.
+
+µν
+
+Now let’s build a bivariation in a bimetric functional space the metrics g(+)
+
+to. A link between the two variations is required. Let’s write:
+
+µν and g(−)
+
+µν belong
+
+(14)
+A question arises immediately: what could be the physical signiﬁcance of such a link? The
+two metrics belong to a functional space. First, have a look on the external Schwarzschild metric
+(Schwarzschild 1916):
+
+δg(+)µν = −δg(−)µν
+
+(cid:0)1 − 2GM
+
+(cid:1) c2
+
+
+
+gµν =
+
+
+
+0
+0
+
+0
+
+r2 sin2 θ
+
+(cid:17)
+
+(cid:16)
+
+0
+1
+
+1− 2GM
+c2r
+0
+0
+
+0
+0
+
+r2
+0
+
+Such metric belongs to a metrics’ subspace whose elements depend on a single parameter
+µν , g(−)
+g(+)
+M. As described ﬁrst in Petit (1994, 1995); Petit et al. (2001) the metric solutions
+of coupled ﬁeld equations are joint solutions. For example, if an external Schwarzschild solution
+refers to a portion of empty space surrounding a positive mass M (+) we will write:
+
+µν
+
+c2r
+0
+
+0
+0
+
+c2r
+0
+
+0
+0
+
+c2r
+0
+
+0
+0
+
+(cid:17)
+
+(cid:17)
+
+(cid:16)
+
+(cid:16)
+
+
+
+
+1 − 2GM (+)
+
+c2
+
+g(+)
+µν =
+
+1− 2GM (+)
+
+associated to:
+
+1 + 2GM (+)
+
+c2
+
+g(−)
+µν =
+
+r2 sin2 θ
+
+
+
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+r2 sin2 θ
+
+(cid:17)
+
+(cid:17)
+
+0
+1
+
+c2r
+0
+0
+
+0
+1
+
+c2r
+0
+0
+
+0
+
+0
+
+r2
+0
+
+0
+
+0
+
+r2
+0
+
+1+ 2GM (+)
+
+(cid:16)
+
+(cid:16)
+
+6
+
+(15)
+
+(cid:17)
+
+(cid:16)
+
+(16a)
+
+(16b)
+
+with:
+
+2GM (+)
+
+c2
+
+= Rs (Schwarzschild’s radius
+
+(17)
+
+and similar relation if these joint geometries depend on a negative mass M (−).
+If r (cid:29) R :
+
+(cid:16)
+
+(cid:16)
+
+
+µν (cid:39)
+g(+)
+
+µν (cid:39)
+g(−)
+
+1 − 2GM (+)
+
+c2
+
+(cid:17)
+
+(cid:17)
+
+c2r
+0
+0
+0
+
+c2r
+0
+0
+0
+
+
+
+
+0
+
+0
+r2
+0
+
+0
+
+0
+r2
+0
+
+0
+
+0
+0
+
+0
+
+0
+0
+
+r2 sin2 θ
+
+r2 sin2 θ
+
+1 + 2GM (+)
+
+c2r
+
+1 − 2GM (+)
+
+c2r
+
+0
+
+0
+0
+
+0
+
+0
+0
+
+1 + 2GM (+)
+
+c2
+
+r
+0
+0
+0
+
+− 2G
+ 2G
+
+r
+
+δg(+)
+
+µν =
+
+δg(−)
+
+µν =
+
+0
+
++ 2G
+c2r
+0
+0
+
+0 0
+0 0
+0 0
+0 0
+
+0
+0 − 2G
+c2r
+0
+0
+0
+0
+
+0 0
+0 0
+0 0
+0 0
+
+ δM (+)
+ δM (+)
+
+In the sub-space of the external Schwarzschild metrics:
+
+Similar calculation shows that δg(+)µν = ϕ(r)δM (+), δg(−)µν = −ϕ(r)δM (+). Then the
+
+coupled metrics obey (14).
+
+An external Schwarzschild’s metric element is “organized” around some mass concentration
+M. For example, if we neglect the planetary system, the geometry of the solar system depends
+on a single parameter, the mass M of the Sun.
+
+During the matter-dominated era, the distribution of matter is not described by a continuous
+distribution of mass. Matter is located in relatively small and ﬁnite portions of space, surrounded
+by void, which is consistent with relationship (14).
+
+Anyway we will consider Eq. (14) as the mathematical deﬁnition of Janus geometry.
+Then, to the above Eqs. (12a), (12b) and (13a), (13b), we can add:
+
+(cid:113)
+(cid:113)
+
+(cid:90)
+(cid:90)
+
+δ
+
+δ
+
+D4
+
+D4
+
+(cid:113)
+
+(cid:113)
+
+(cid:18)
+
+Write
+
+(cid:90)
+
+δ
+
+D4
+
+L(+)
+
+−g(+) d4x = −
+
+−g(−)δg(−)µν d4x
+
+L(−)
+
+−g(−) d4x = +
+
+−g(+)δg(+)µν d4x
+
+R(+)
+
+−g(+) + R(−)
+
+−g(−) − 2χL(+)
+
+−g(+) − 2χL(−)
+
+−g(−)
+
+d4x = 0
+
+(21)
+
+Combining (12a), (12b), (13a), (13b), (20a), (20b) with (21) we ﬁnd:
+
+(cid:113)
+
+(cid:19)
+
+(cid:90)
+(cid:90)
+
+T (+)
+µν
+
+D4
+
+T (−)
+
+µν
+
+D4
+
+(cid:113)
+(cid:113)
+
+−g(−)
+
+(cid:115)−g(+)
+(cid:115)−g(−)
+(cid:113)
+
+−g(+)
+
+7
+
+(18a)
+
+(18b)
+
+(19a)
+
+(19b)
+
+(20a)
+
+(20b)
+
+(cid:90)
+
+D4
+
+
+R(+)
+R(−)
+
+µν − 1
+2
+
++
+
+R(+)g(+)
+
+µν − χ
+
+µν − 1
+2
+
+R(−)g(−)
+
+µν − χ
+
+−g(+)δg(+)µν
+
+µν + T (−)
+T (+)
+
+(cid:113)
+(cid:113)
+(cid:115)−g(−)
+
+µν
+
+µν
+
+µν +
+
+T (−)
+
+−g(+)
+
+−g(−)
+
+T (+)
+(cid:115)−g(−)
+(cid:115)−g(+)
+T (+)
+(cid:115)−g(+)
+
+µν = −χ
+
+R(+)g(+)
+
+µν = χ
+
+µν +
+
+R(−)g(−)
+
+−g(+)
+
+−g(−)
+
+T (−)
+
+µν
+
+
+
+
+µν + T (−)
+T (+)
+
+µν
+
+µν − 1
+R(+)
+2
+
+µν − 1
+R(−)
+2
+
+Which is satisﬁed by the following system:
+
+with
+
+ d4x = 0 (22)
+
+−g(+)δg(+)µν
+
+(23a)
+
+(23b)
+
+(24)
+If one assumes that the two speeds of light c(+) and c(−) are equal, we can set c(+) = c(1) =
+1 and ﬁnd again the system (1a)+(1b) which has been introduced and studied in Petit and
+D’Agostini (2014a,b).
+
+For c(+) (cid:54)= c(−) conditions, the paper (Petit and D’Agostini 2014a,b) gives more details.
+
+χ = − 8πG
+c2
+
+4 Physical features from Janus geometry
+
+In reference Petit and D’Agostini (2014a,b), we have built the Newtonian approximation. Then
+interaction laws and behavior arise, diﬀerent from Bondi (1957) and Bonnor (1989).
+
+– Masses with same signs mutually attract along Newton’s law
+
+– Masses with opposite signs mutually repel along “Anti-Newton’s” law
+
+Simulations have shown that the two populations separate by Petit (1995). This phenomenon
+
+agrees with Piran (1997), El-Ad et al. (1996, 1997), El-Ad and Piran (1997).
+
+Time-dependent exact solution (Petit and D’Agostini 2014a,b) agrees with Riess et al. (1998),
+Perlmutter et al. (1999), Riess (2000); Filippenko and Riess (2001), Leibindgut (2001), Knop et
+al. (2003), Tonry et al. (2003), Riess (2004).
+
+The link between mass inversion and time inversion (Souriau 1970) was presented in Petit
+
+et al. (2001).
+
+Sun so that the system reduces to:
+
+The model ﬁts local observational data. Indeed, negative matter is negligible around the
+
+µν − 1
+R(+)
+2
+
+R(+)g(+)
+
+µν ≈ χT (+)
+
+µν
+
+(cid:115)−g(+)
+
+µν − 1
+R(−)
+2
+
+R(−)g(−)
+
+µν ≈ −χ
+
+−g(− T (+)
+
+µν
+
+(25a)
+
+(25b)
+
+8
+
+(25a) identiﬁes to Einstein’s equation. Conversely at the center of big voids of Very Large
+Structure positive matter is negligible and negative matter dominates. Same thing between
+galaxies, so that we have there:
+
+(cid:115)−g(−)
+
+µν − 1
+R(+)
+2
+µν − 1
+R(−)
+2
+
+R(+)g(+)
+
+µν ≈ χ
+
+−g(+
+µν ≈ −χT (−)
+
+µν
+
+R(−)g(−)
+
+T (−)
+
+µν
+
+(26a)
+
+(26b)
+
+This corresponds to an “induced geometry”, due to the action of negative mass on positive
+mass and positive energy photons paths (negative gravitational lensing, ﬁrstly presented by Petit
+1995).
+
+5 Conclusion
+
+Based on Janus condition, deﬁning Janus geometry (14), Lagrangian derivation of the set of two
+ﬁeld equations corresponding to our Janus Cosmological Model (JCM) is presented. Observa-
+tional agreement is detailed. Slightly similar works from other authors correspond to Hossen-
+felder (2008) and Henry-Couannier (2005).
+In the paper (Petit and D’Agostini 2014a,b) the
+model explains the acceleration of the Universe and suggests the nature of so-called dark energy.
+The paper (Petit and D’Agostini 2014a,b) deals with diﬀerent speeds of light, for positive and
+negative particles. A future paper to be published is devoted to radiation dominated era and to
+variable constants regime that will explain c(−) > c(+).
+
+References
+
+(1967)
+
+(1989)
+
+Adler, R., Bazin, R., Schiifer, M.: Introduction to General Relativity. McGraw-Hill, New York
+
+Bondi, H.: Negative mass in general relativity. Rev. Mod. Phys. 29(3), 423 (1957)
+
+Bonnor, W.B.: Negative mass and general relativity. Gen. Relativ. Gravit. 21(11), 1143–1157
+
+Combes, F.: Explaining the formation of bulges with MOND (2015a). arXiv:1501.03603v1
+
+Combes, F.: Let’s dare to modify Newton’s law. Sci. Avenir 816, 34–35 (2015b)
+
+El-Ad, H., Piran, T., da Costa, L.N.: Astrophys. J. Lett. 462, L13 (1996)
+
+El-Ad, H., Piran, T., da Costa, L.N.: Mon. Not. R. Astron. Soc. 287(790), 429 (1997)
+
+El-Ad, H., Piran, T.: Astrophys. J. 491, 421 (1997)
+
+Faraoni, V.: The Lagrangian description of perfect ﬂuids and modiﬁed gravity with extra force
+
+(2009). arXiv:0912.1249
+
+Faraoni, V., Dent, J.B., Saridakis, E.N.: Covariantizing the interaction between dark energy
+
+and dark matter (2014). arXiv:1405.7288v2
+
+Filippenko, A.V., Riess, A.G.: In: AIP Conf. Proc., vol. 540, pp. 227–246 (2001)
+
+Hossenfelder, S.: A bimetric theory with exchange symmetry. Phys. Rev. D 78, 044015 (2008)
+
+Henry-Couannier, F.: Int. J. Mod. Phys. A 20, 2341 (2005)
+
+9
+
+Knop, R., et al.: Astrophys. J. 598, 102 (2003)
+
+Leibundgut, B.: Annu. Rev. Astron. Astrophys. 39, 67 (2001)
+
+Milgrom, M.: Astrophys. J. 270, 365 (1983)
+
+Milgrom, M.: Astrophys. J. 496, L89 (1998)
+
+Milgrom, M., Sanders, R.H.: Astrophys. J. 658, 17 (2007)
+
+Perlmutter, S., et al.: Astrophys. J. 517, 565 (1999)
+
+Petit, J.P.: The missing mass problem. Nuovo Cimento B 109, 697–710 (1994)
+
+Petit, J.P.: Twin Universe cosmology. Astrophys. Space Sci. 226, 273–307 (1995)
+
+Petit, J.P., Midy, P., Landhseat, F.: Twin matter against dark matter. In: Conf. on Astr. and
+
+Cosm. “Where Is the Matter?”, Marseille (2001)
+
+Petit, J.P., D’Agostini, G.: Negative mass in cosmology and nature of dark energy. Astrophys.
+
+Space Sci. 354, 611–615 (2014a)
+
+Petit, J.P., D’Agostini, G.: Cosmological bimetric model with interacting positive and negative
+masses and two diﬀerent speeds of light, in agreement with the observed acceleration of the
+universe. Mod. Phys. Lett. A 29(35c) (2014b). doi:10.1142/S021773231450182X
+
+Petit, J.P., D’Agostini, G.: Cancellation of the central singularity of the Schwarzschild solution
+
+with natural mass inversion process. Mod. Phys. Lett. A (2015, accepted)
+
+Petit, J.P., Lafont, X., Borallo, N.: 2D simulations of VLS with opposite masses populations.
+
+Unpublished (2015)
+
+Piran, T.: On gravitational repulsion. Gen. Relativ. Gravit. 29(11), 1363 (1997)
+
+Riess, A.G., et al.: Astron. J. 116, 1009 (1998)
+
+Riess, A.G.: Publ. Astron. Soc. Pac. 112, 1284 (2000)
+
+Riess, A.G.: Astron. J. 607, 665–687 (2004)
+
+Schwarzschild, K.: Über das Gravitational eines Massenpunktes nach der Einsteineschen Theory,
+
+pp. 189–196. Sitzber. Preuss. Akad. Wiss., Berlin (1916)
+
+Souriau, J.M.: Structure des Systèmes Dynamiques Dunod, France (1970) (Structure of Dynam-
+
+ical Systems, Birkhaüser, Boston, 1997)
+
+Tonry, J.T., et al.: Astrophys. J. 594, 1 (2003)
+
+Weinberg, S.: The Quantum Theory of Fields. Cambridge University Press, Cambridge (2005)
+
+10
+
+

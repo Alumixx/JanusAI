@@ -1,0 +1,2224 @@
+FEBRUARY 15, 1939
+
+PH YS ICAL REVIEW
+
+VOLUM E 55
+
+On Massive Neutron Cores
+
+Department
+
+J. R, OPPENHEIMER AND G. M. VOLKOFF
+of Physics, University of California, Berkeley, California
+
+(Received January 3, 1939)
+
+It has been suggested that, when the pressure within stellar matter becomes high enough,
+a new phase consisting of neutrons will be formed.
+In this paper we study the gravitational
+using the equation of state for a cold Fermi gas, and general
+equilibrium of masses of neutrons,
+relativity. For masses under —,Q only one equilibrium solution exists, which is approximately
+described by the nonrelativistic
+theory.
+For masses
+one more
+than 4 Q there are no static equilibrium solutions.
+condensed,
+chosen special cases
+These results are qualitatively
+by comparison with suitably
+recently discovered by Tolman. A discussion of the probable eEect
+of the analytic solutions
+stellar matter after the
+of deviations
+if massive
+exhaustion
+indefinitely,
+although more and more slowly, never reaching true equilibrium.
+
+—,'Q &m&-,'Q two solutions
+and unstable. For masses greater
+
+from the Fermi equation of state suggests
+
+Fermi equation of state and Newtonian
+
+exist, one stable and quasi-Newtonian,
+
+sources of energy will,
+
+enough, contract
+
+of thermonuclear
+
+that actual
+
+gravitational
+
+confirmed
+
+I. INTRoDUcTIQN
+
+original
+
+physical
+
+on the
+
+dependence
+
+the distribution
+
+the generation
+
+used in attacking
+
+of energy within
+
+the physical processes
+
+~OR the application of the methods commonly
+the problem of stellar
+of energy sources and
+structure'
+their
+conditions
+within the star must be known. Since at the time
+of Eddington's
+studies not much was
+known about
+responsible
+a star,
+for
+various mathematically
+assumptions
+were made in regard to the energy sources, and
+the
+these
+the point source model, etc.).
+Eddington model,
+It was found that with a given equation of state
+for the stellar material many important properties
+of the solutions
+(such as the mass-luminosity
+insensitive
+quite
+law) were
+assumptions
+sources, but were common
+models.
+
+choice of
+of energy
+to a wide range of
+
+led to different
+
+the distribution
+
+star models
+
+convenient
+
+to the
+
+about
+
+(e.g.
+
+that
+
+about
+
+instead
+
+the physical
+
+In 1932 Landau'
+
+for mathematical
+
+proposed
+assumptions
+
+arbitrary
+chosen merely
+
+of
+making
+energy
+con-
+sources
+venience, one should attack the problem by first
+of the equi-
+nature
+investigating
+librium of a given mass of material
+in which no
+and from which there is no
+energy is generated,
+in the hope that such an
+radiation,
+of the Stars
+1926); B. Stromgren,
+(Cambridge
+Ergebn. Exakt. Naturwiss. 10, 465 (1937);Short summary
+in G. Gamow, Phys. Rev. 53, 595 (1938).
+' L. Landau, Physik. Zeits. Sowjetunion 1, 285 (1932).
+
+The Internal Constitution
+
+~A. Eddington,
+
+presumably
+
+University
+
+Press,
+
+still
+
+it would
+
+temperature
+
+to thermal
+
+fail completely
+
+is nondegenerate,
+
+situation where the generation
+
+into the
+investigation would afford some insight
+of
+more general
+such a
+energy is taken into account. Although
+model gives a good description of a white dwarf
+is supposed to
+star in which most of the material
+state with a zero point energy
+be in a degenerate
+energies of even 10'
+high compared
+degrees, and such that the pressure is determined
+essentially by the density only and not by the
+to
+temperature,
+describe a normal main sequence star,
+in which
+the stellar
+on the basis of the Eddington model
+and the existence of
+material
+energy sources and of the consequent
+and pressure gradients plays an important part in
+The
+determining
+stability of a model
+in which the energy sources
+have to be taken into account is known to depend
+sensitivity of the energy
+also on the temperature
+and on the presence or absence of a
+sources
+time-lag in their response to temperature
+changes.
+at
+However,
+sources of
+present
+stellar energy, at least in main sequence stars, are
+then the limiting case
+thermonuclear
+considered by Landau again becomes of interest
+in the discussion of what will eventually
+happen
+star after
+to a normal main sequence
+the
+all
+reactions
+elements
+for a model
+are used up. Landau showed
+consisting of a cold degenerate Fermi gas there
+for
+exist no stable
+
+if the view which seems plausible
+
+equilibrium configurations
+
+for thermonuclear
+
+is adopted that
+
+the principal
+
+conditions.
+
+equilibrium
+
+reactions,
+
+available
+
+that
+
+the
+
+3
+
+74
+
+MASSIVE NEUTRON CORES
+
+of
+
+are
+
+per
+
+two
+
+square
+
+the mass
+
+The possibility
+
+protonic masses
+found the critical mass
+
+than a certain critical mass, all
+masses greater
+larger masses tending to collapse. For a mixture
+of electrons and nuclei
+in which on the average
+there
+electron
+to be roughly
+Landau
+1.5 Q, and in general
+the critical mass is inversely
+to the
+proportional
+per
+particle obtained by spreading out the total mass
+de-
+over only those particles which essentially
+termine the pressure of the Fermi gas.
+has been suggested'
+
+in
+the thermo-
+sufficiently massive
+nuclear sources of energy, at least for the central
+a
+material
+core would be formed. The
+condensed
+minimum mass for which such a core would be
+stable has been estimated by Oppenheimer
+and
+Serber, ' who on taking into account some effects
+0.1Q as a
+of nuclear
+reasonable minimum mass. The gradual growth
+of such a core with the accompanying
+liberation
+energy is suggested by Landau as
+of gravitational
+a possible source of stellar energy.
+
+forces give approximately
+
+the star, have
+
+stars after all
+
+been exhausted
+
+neutron
+
+that
+
+of
+
+such
+
+i.e.,
+
+stars,
+
+heavy
+
+for arbitrarily
+
+there is an upper
+
+size of such a neutron
+
+In this connection it seems of interest
+
+to ask
+this model of the final state of a star can
+whether
+to
+be right
+limit to the
+investigate whether
+core. Landau's
+possible
+original result for a cold relativistically
+degenerate
+Fermi gas quoted above gives in the case of a
+limit of about 6Q beyond
+neutron gas an upper
+which the core would not be stable but would
+tend to collapse. Two objections might be raised
+this result. One is that it was obtained on
+against
+the basis of Newtonian gravitational
+theory while
+for
+general
+relativistic effects must be considered. The other
+one is that
+to be
+relativistically
+the whole
+core, while it might be expected that on the one
+hand, because of the large mass of the neutron,
+of
+the nonrelativistically
+state might be more appropriate
+over the greater
+part of the core, and on the other hand
+the
+effect of the kinetic energy of the
+gravitational
+could not be neglected. The present
+neutrons
+' G. Gamow, Atomic Nuclei and Nuclear Transformations
+(Oxford, 1936), second edition, p, 234. L. Landau, Nature
+141, 333 (1938) and others.
+and R. Serber, Phys. Rev. 54, 540
+
+the Fermi gas was assumed
+
+high masses
+
+throughout
+
+degenerate
+
+degenerate
+
+densities
+
+equation
+
+and
+
+4 J. R. Oppenheimer
+(&938).
+
+seeks to establish what differences
+relativistic
+theory is used instead of Newtonian,
+
+investigation
+are introduced into the result if general
+gravitational
+and if a more exact equation of state is used. A
+relativistic treatment of
+discussion of the general
+the equilibrium of spherically
+distri-
+butions of matter
+and then the
+ideal case of a cold neutron gas is treated.
+special
+A discussion of the results, and comparison with
+some results of Professor R. C. Tolman reported
+in the
+in an accompanying
+concluding sections.
+
+is first given,
+
+are given
+
+symmetric
+
+paper
+
+II. RELATIVISTIC TREATMENT OF EQUILIBRIUM
+the most general static line
+symmetry may be
+spherical
+
+It is known'
+
+exhibiting
+
+that
+
+element
+expressed in the form
+
+r—'d8'
+
+ds' = e "dr'
+
+r—' sin' g—d@'+e"dt'
+v = r(r).
+X = X(r),
+If the matter supports no transverse
+stresses and
+then its energy momentum
+has no mass motion,
+tensor is given by'
+
+(&)
+
+T44= p
+
+Tg' ——Tg' ——T'= —p
+the pressure
+where p and p are respectively
+the macroscopic
+density measured
+proper coordinates. With these expressions
+the line element
+tensor,
+taken equal
+reduce to:~
+
+and with the cosmological
+
+to zero, Einstein's
+
+energy
+
+and for the energy momentum
+
+constant A
+field equations
+
+and
+in
+for
+
+1
+r'
+
+(v
+E. r
+
+——,
+
+1$
+8 p=e "i —+—)
+r')
+1 l
+8m p=e-"( ———)+—,
+E. r
+r'&
+(p+ p),
+
+pX'
+
+dp
+
+1
+
+df
+
+2
+
+(4)
+
+where primes denote differentiation with respect
+to r. These three equations
+together with the
+p=p(p) de-
+equation
+
+of state of the material
+
+molof, y (Oxford, 1934), pp. 239-241.
+
+' R. C. Tolman, Relativity,
+'R, C. Tolman,
+' R. C. Tolman,
+
+reference 5, p. 243.
+reference 5, p. 244.
+
+Thermodynamics
+
+and Cos-
+
+376
+
+J. R. OPPENHEIMER AND G. M. VOLKOFF
+
+as well as the dependence
+
+equilibrium of the matter
+of the
+
+termine the mechanical
+distribution
+g»'s on r.
+value of r = rb for which P =0, and such that
+r (rb, p)0. For r (rb the solution depends on the
+
+The boundary of the matter distribution
+
+is the
+for
+
+of state of the material
+
+equation
+and p. For many
+boundary exists with a finite value of rb.
+
+equations
+
+p
+of state a sharp
+
+connecting
+
+In empty space surrounding
+
+symmetric
+Schwarzschild's
+
+distribution
+
+the spherically
+of matter p = p = 0, and
+
+exterior solution is obtained:
+
+e "&'& =1+A/r,
+
+e"&'& =B(1+A/r)
+
+that at great distances
+
+(6)
+The constants A and 8 are fixed by the require-
+away from the
+ment
+.matter distribution
+the g„„'s must go over into
+their weak-field form, i.e., 8 = 1, A = —2m where
+m is the total Newtonian mass of the matter as
+calculated by a distant observer. '
+
+Inside the boundary Eqs. (3), (4) and (5) may
+of
+
+as follows. Using the equation
+
+(5) may
+
+be immediately
+
+be rewritten
+state
+integrated.
+
+p = p(p) Eq.
+
+v(r) = I (rb)—
+
+v&~&
+
+2dp
+
+p+ p(p)
+
+v(r)
+
+gv(rb) eXp
+
+v&~&
+
+2dp
+
+o
+
+p+ p(p)
+
+The constant
+continuous
+
+e"'"b) is determined
+across the boundary.
+
+by making e"
+
+e" &"& =
+
+~
+
+1 ——~ exp
+
+2m'
+
+rb 4
+
+v&"&
+
+&
+
+2dp
+
+~&&
+
+P+P(P)
+
+(7)
+
+Thus e" is known as a function of r if p is known
+in. Eq. (4) introduce a
+as a function of r Further
+new variable
+
+u(r) =-', r(1 —e ") or
+
+Then Eq. (4) becomes:
+
+e—"=1—2N/r (8).
+
+du/dr = 4sp(p) r'.
+
+(9)
+In Eq. (3) replace e " by its value from (8) and v'
+by its value from (5). It becomes:
+
+.
+
+dr
+' R. C. Tolman,
+' R. C. Tolman,
+
+$4&rpr'+ u7
+
+p+ p(p)
+r(r —2u)
+reference 5, p. 203.
+reference 5, pp. 203 and 207.
+
+equations
+
+Equations
+
+are integrated
+
+(9) and (10) form a system of two
+in I and p. Starting with
+first-order
+some initial values u=u&& p= p&& at r=0, the two
+to the
+equations
+value r=rb where P=O, i.e. , until
+the boundary
+is reached. The value
+of the matter distribution
+the value of e"("b) at
+of u=u~ at r =r~ determines
+the boundary,
+across
+making
+
+is joined continuously
+solution,
+
+to the exterior
+
+the boundary
+
+simultaneously
+
+and this
+
+(
+Nb ———L1 —e "&"'&7=—1 —
+
+rb
+
+rb
+
+2m)
+
+1 —
+
+~
+
+(
+
+=m.
+
+2
+
+2
+
+as measured
+
+Thus the mass of this spherical distribution
+by a distant
+matter
+observer
+given by the value I& of I at r=rb.
+The following restrictions must be made on the
+choice of p&& and u&&, the initial values of p and u
+at r=O:
+
+of
+is
+
+(a) In accordance with its physical meaning as
+
+(b) From Eq. (8) it is seen that
+
+pressure, P&&~0.
+for all finite
+values of e ", up=0. Since g~~ ———e" must never
+be positive, F0=0 for infinite values of e—~ at the
+it may be shown that of all the
+origin. However,
+finite values of p&& at the origin p&&
+——0 is the only
+one compatible with a negative value of No, and
+that for equations of state of the type occurring
+in this problem even this possibility is excluded,
+so that No must vanish. '
+
+(c) A special
+
+for any particular
+investigation
+equation of state must be made to see whether
+in which O~u&I ——0&& and p—b ~
+solutions exist
+as r-+0.
+
+III. PARTIcULAR EQUATIoNs QF STATE
+
+equation
+
+The above arguments
+
+(10) together with a given
+completely determine
+
+show that Eqs. (9) and
+of state
+of matter.
+' This can be seen from the following argument. Having
+chosen some particular value of p0 one may usually repre-
+sent the equation of state in that pressure range by p =E'p'
+value of s. Using this equation of
+with some appropriate
+form of Eq. (10) near
+state and taking the approximate
+the origin for the case 10&0, and finite p0, one obtains:
+
+the distribution
+
+e e+.V) &+I:~
+
+dr
+
+2r
+
+2r
+
+(10).
+
+Integration of this equation shows that for s &1 p0~0 can
+and for s~1 only the value p0=0 is
+not be satisfied,
+possible. For the equations of state used in this problem
+always s&j. holds. It may also be noted that
+the above
+equation together with Eq. (7) show that e"(")~~ as r~0.
+
+MASSI VE NEUTRON CORES
+
+p=const. , Up=0 makes
+
+it pos-
+The assumption
+sible to integrate Eqs.
+(9) and (10) explicitly
+solution. "
+and leads to Schwarzschild's
+to
+Other matter
+distributions
+of state are given by Professor
+other equations
+Tolman in an accompanying
+
+interior
+corresponding
+
+paper.
+
+If the matter
+
+is taken to consist of particles of
+rest mass pp obeying Fermi statistics,
+and their
+thermal energy" and all forces between them are
+that a para-
+neglected,
+metric form for the equation of state is:"
+
+then it may be shown
+
+p =Z(sinh t —t),
+p= —,'Z(sinh t
+where Z = nu04c'/4It'
+(p
+Luoc
+
+t=4log /
+
+and
+
+8sinh 2t—+3t),
+
++ 1+]
+
+(p &' *&
+( +pcJ
+)
+
+(11)
+(12)
+(13)
+
+(14)
+
+dr
+
+dr
+
+These equations
+values N=O,
+(which makes p=0), and u=uq.
+
+are to be integrated
+
+t=tp at r=O to r=r~ where
+
+from the
+tg=O
+
+A note must be made of the units employed
+in these equations. Eqs. (3), (4) and (3) from
+are stated in
+relativistic units, "i.e., such that c=1, G=1 (c is
+which
+
+(16) and (17) are derived
+
+of
+
+light, G is
+
+the gravitational
+the velocity
+constant). This determines
+the unit of time and
+the unit of mass in terms of a still arbitrary unit
+of length. The unit of length is now fixed by the
+that Z=1/4m. Eqs. (16) and (17)
+requirement
+now become:
+
+dQ—= r'(sinh t
+
+t), —
+
+(18)
+
+sinh t —2 sinh 2t
+2u) cos—h t 4cos—h -,'t+3
+
+r(r
+
+p is the maximum momentum in the
+and is related to the proper
+
+where
+Fermi distribution
+particle density N/V by
+
+X Pr'(sinh t+8 sinh ',t+3t) +-u).
+
+(19)
+
+The unit of length has been fixed to be
+
+for p and p
+
+while the unit of mass is
+
+1( hp& c
+s. E poc& (uoG)&
+
+c'
+
+a=—G
+
+1t
+vr ( @pc)
+
+lt )& c'
+
+(uoG') &
+
+8x
+V 3h'
+
+(16)
+
+the above expressions
+
+Substituting
+into Eqs. (9) and (10) one gets:
+dQ—=4sr'Z(sinh t
+
+—
+
+t),
+sinh t —2 sinh -', t
+
+4
+
+dr
+dt
+
+dr
+
+r(r
+
+2u) cosh t —4cosh -',t+3—
+
+8sinh —',t+3t)—+uj
+
+(17).
+
+X [(4/3)sZr'(sinh t
+"R.C. Tolman,
+'~The condition
+
+reference 5, pp. 246-247.
+for
+
+thermal
+
+the central
+
+the matter
+
+finite,
+distribution.
+
+equilibrium in a static
+field is given by Tolman (reference 5, p. 318)
+gravitational
+as T0(g44)& =const. where T0 is the proper temperature. The
+equilibrium state of a matter distribution which no longer
+to a low surface tempera-
+radiates appreciably corresponds
+ture T0. If g« is everywhere
+then T0 will be small
+For those singular
+throughout
+solutions in which g44 vanishes at the origin it is conceivable
+that
+temperature may be high. However, on
+the one hand from Eq. (7) it is seen that the vanishing of g«
+to infinite central pressure, and in
+at the origin. corresponds
+to
+of state given below reduces
+the equation
+this limit
+p=3P so that
+new
+eEects, and on the other hand zero values of g44 indicate
+the slowing down of all physical processes near the origin
+and thus may correspond to nonstatic solutions describing
+states which have not yet attained equilibrium,
+and which
+are not discussed in this paper.
+i' Cf. S. Chandrasekhar, Monthly Notices of R.A.S. 95,
+222 (1935),but introduce energy density in place of his tnass
+density.
+
+no radically
+
+temperature
+
+introduces
+
+For a neutron gas a=1.36X10'cm, b=1.83)&10"
+g. The general character of the solution is seen
+to be independent
+of the mass of the neutron
+which determines
+
+only the scale of the result.
+
+so Eqs.
+
+for several
+
+these cases up was taken to be equal
+
+No way was found to carry out the integration
+(18) and (19) were inte-
+analytically,
+finite values of $p.
+grated numerically
+For all
+to
+zero, since the equation of state near the origin
+like p(p) =Zp*, s(1. The
+for finite to behaves
+first four entries in Table I were thus obtained.
+For to—+~ Eqs. (18) and (19) may be replaced
+
+by their asymptotic
+
+du/dr = ,'r'e'-
+
+expressions:
+
+-r3—e'+n .
+
+dr
+
+r(r —2u)
+
+6
+
+'4 R. C. Tolman,
+
+reference 5, pp. 201—202.
+
+(20)
+
+(21)
+
+8. . OPPEXHEr MFR. AND G. M. VOLKOFF
+
+An exact solutloQ of these equations 18:
+
+e'=3/7r',
+
+u =3r/14,
+
+eqllR'tlolis
+
+of Eqs.
+
+corresponds
+
+are no other
+
+(20) and (21) shows
+solutions
+corresponding
+
+(22)
+to to= Oc, so=0. A cRlcful
+which
+that
+examination
+to
+there
+to ~, 0=NO= —~. The exact solution (22) of
+the RppfoxllllRte
+(20) Rnd (21) was
+to that value of r where k=6 (the
+taken out
+in the form of Eq. (20) and (21)
+approximation
+lt qUlte good for $—6), and then the llltegl R'tloll
+of the exact equations
+(18) and (19) was carried
+to r=rf, ~here /=0. This gave
+out numericRHy
+the last entry in Table I.
+
+It 18 of lntcIcst
+
+of partlclcs,
+cncrgy.
+
+to Rsk Whether
+perhaps R
+IDRss 1Tllght col respond to RQ
+infinite
+Rnd Rn
+It ITlRy bc sceQ
+the case by the following argu-
+density
+inhnite ~hen the central pressure be-
+so that
+remains
+of a
+is 4m'~~'r'dr. As the solution of
+1Q the Qclgh-
+
+6nlte gravItatlonal
+infinite
+gI'RvltRtlonal
+that
+this is not
+ment. Although
+becomes
+comes in6nite, still it remains
+the total number
+6nite. The element
+spherical
+thc RpproxllrlRtc
+borhood of the origin:
+
+integrable,
+ahvays
+
+of particles
+
+of proper
+
+cquRtlons
+
+particle
+
+number
+
+blndlng
+
+volume
+
+propel
+
+shows
+
+shell
+
+thc
+
+X~ —dr ~rl near the origin.
+
+"r2
+
+~ 0 rk
+
+A forll'Orl',
+nonsingular
+
+solutions.
+
+the number of particles
+
+is finite for
+
+FGI very SIQRll vRlues of t thc cquRtlon of
+
+to p =Ep'@ and j~ f.
+
+this equation
+
+of state and Newtonian
+
+state (11), (12) reduces
+Using
+theory (which is expected to give a
+gravitational
+for small masses and densities), one
+good result
+)~III&, or that m~t&. Fig. 1 gives a
+finds that
+schelTlatlc plot of thc dependence of 8$ on go foI"
+thc
+clcmental y pR1 tlcles Rre
+neutrons. The mass m is plotted
+in units of
+tan ' to. The curve
+sun's mass (2 && 10"g) against
+18 dotted since) Rs ha8 been
+ncal
+already pointed out, a neutron core with a mass
+into
+less
+nuclei Rnd clcctrons.
+
+0 j.Q wiH disintegrate
+
+the orlgln
+
+about
+
+than
+
+cRsc
+
+thRt
+
+the
+
+The striking feature of the curve is that
+
+the
+IQass lncrcRscs %'Ith lncICRSlng Io until R maxi-
+mum ls reached at about
+/0=3, after vrhich the
+curve drops until a value roughly
+~~ Q is reached
+for fo ——~. In other words no static solutions Rt
+Rll exist for m & 43 Q, two solutions exist for all ns
+ln -Q &m&-Q Rnd one solution exists for Rll
+m, &-'Q.
+
+assumed
+
+polytrope
+
+sRtlsfRC'tory
+
+Some insight
+
+considerations.
+
+of state was
+
+into this situation may be gained
+IQ the non-
+from the following
+solutions of Emden« the
+relativistic
+to be p=Zp'I
+equation
+=Xp'+'~". Solutions which at 6rst sight seem to
+(I.e., glvlllg R fln1te 111Rss
+be qlll'te
+within a 6nite radius) were found for values of
+II(5 or'r 06/5. But Landau
+pointed oil't tilRt Ri-
+though these solutions in every case give an equi-
+ln cvcry cRSC
+llbllum con6guratlon,
+'r —4/3 the
+give $/Illume equlllbriunl.
+is unstable. This may
+equilibrium con6guration
+calculation.
+be seen from the follovnng
+part of the free energy of the
+The gravitational
+to p where
+SysteHl
+
+Is Ilegative Rnd pIopoltlonRl
+
+they do Qot
+Tlllls,
+
+llllless
+
+rough
+
+"This solution is a limiting form of the solutions V, VI
+
+given by Tolman in the accompanying
+
+paper.
+
+'6 Emden, Guskggele
+phys. Vol. 3, p. 186.
+
+(1907), or cf. Hondblck der Aslvo-
+
+TAaI.E I. Mess, todils Ce8 eeltroe demsky for' eor~o@$ Mlles Of ~o.
+
+IN UNETS OF
+Eqs. {I8), {I9)
+
+IN UNITS OF O
+FOR NEUTRONS
+
+IN UNnS OF
+Kgs. (I8), (19)
+
+0,033
+0.066
+0.078
+0.070
+0.037
+
+0.30
+0.60
+0.71
+0.64
+0.34
+
+1.55
+0.98
+0.70
+0.50
+0.23
+
+21.1
+13.3
+9.5
+6.8
+3.1
+
+NEUTRONS
+
+Vg 1~0 I'
+0.062 X 10'9
+0.56 X10»
+2.2 g HP9
+y, 10»
+6.4
+
+MASSIVE NEUTRON CORES
+
+-6
+.5
+-.4
+
+p is an appropriate
+gravitational
+free energy
+tional
+
+average density (Newtonian
+theory is used). The part of the
+caused by compression
+is propor-
+to J'pdv, and hence to p& ' (yW1). Thus
+
+Ii = —o,p&+bp~ '.
+
+and
+
+Polytrope solutions exist for both y = 5/3() 4/3),
+)6/5), i.e., for n=4, but as may be seen from
+i.e.,
+but
+
+for y = 5/4( (4/3,
+
+for n = 3/2
+
+the schematic plot of the free energy curves
+Fig. 2,
+librium and the latter to unstable
+
+in
+to stable equi-
+
+the former
+
+corresponds
+
+equilibrium.
+
+for
+
+and
+
+small
+
+t& for
+
+against
+
+number
+
+a curve
+
+relativistic
+
+calculations
+
+fixed total
+
+small masses
+
+In the present
+
+the
+central
+results
+(small values of to), as
+densities
+and pressures
+above, may be expected
+was already mentioned
+to agree quite closely with nonrelativistic
+calcu-
+lations with the equation of state p=Xp'". Since
+p is a monotonic function of t, the curves of free
+of
+energy
+particles, and thus for a fixed Mo (gravitational
+mass at zero density;
+the gravitational mass will
+of constant
+somewhat
+vary
+along
+as the density increases), will
+particle number,
+for small masses have the same general character
+as the curves of free energy against some average
+case (cf. the curve
+density in the nonrelativistic
+for y=5/3 in Fig. 2). Then as the number
+of
+the character of the free
+is increased
+particles
+to admit
+energy curves must
+change
+the possibility of a second equilibrium position.
+be a continuous
+Since the free energy must
+of to, and since we know from non-
+function
+relativistic
+small masses
+(and low densities) we have a position of stable
+(a minimum
+equilibrium
+energy
+the second equi-
+curve) we can conclude
+to a maxi-
+either
+librium position
+corresponds
+mum or to an inHection point
+in the free energy
+to a minimum). Fig. 3
+curve (and certainly not
+gives a schematic plot of free energy against
+to
+for different values of Mo which would explain
+the existence of one equilibrium position
+for
+two for intermediate masses, and
+small masses,
+none for large masses. The masses marked
+on
+the curves are the actual gravitational masses
+to the equilibrium points of the
+corresponding
+critical
+the solu-
+tions into the three types mentioned
+
+free energy curves
+
+calculations
+
+separating
+
+in order
+
+in the
+
+above.
+
+that
+
+that
+
+free
+
+for
+
+~0r
+
+~ ~I
+)0
+
+0
+
+20
+
+30
+
+l
+l
+
+40
+FIG. I ~
+
+So
+
+2S4t. m
+
+70
+
+I
+90
+
+80
+TAN ''t
+
+FIQ. 1. Dependence of m on to for neutrons.
+
+IV. DIscUssIQN —RELATIQN To TQLMAN s
+
+SQLUTIoNs
+
+implications
+
+Before we study the physical
+
+features may be obtained
+discovered
+
+of
+these results, we may try to show how their
+from the
+qualitative
+by Pro-
+analytic
+fessor Tolman. '~ This will also help us to under-
+in the
+stand the probable
+gas at high
+equation
+densities.
+
+of state of the neutron
+
+effect of alterations
+
+solutions
+
+recently
+
+solution
+
+On the one hand Tolman's
+
+IV, dis-
+cussed in f6 of his paper, enables us to under-
+stand the existence of a limiting mass for static
+and to give an estimate of its magni-
+solutions
+tude; on the other hand Tolman's
+solution VI,
+discussed in )8 (and less directly solution V), has
+for n =-'„very much the character of our singular
+solution
+appropriately
+constants,
+chosen
+order of magnitude
+
+gives a mass of
+as we have found.
+
+and, with
+
+to—+,
+
+same
+
+the
+
+for
+
+Tolman's
+corresponds
+(6.5) of his paper:
+
+solution
+to the quadratic
+
+IV is nonsingular,
+
+equation
+
+and
+of state
+
+—5(p, —p)+ p, —p= 0
+
+(Tolman, 6.5),
+
+(p.-p)'
+
+pc+ pc
+
+8
+
+p, and p, are the central
+
+where
+pressure. From Eqs.
+Tolman's paper
+the mass corresponding
+solution is given in terms of p, and p, by
+
+and
+(6.6) and (6.9) of
+to this
+
+density
+
+(6.4),
+
+m =4]
+
+( p.
+E p.+ 3p.)
+
+( —(p.—3p.)
+
+3
+
+.
+
+(23)
+
+1' We are very much indebted to Professor Tolman for
+letting us see these results before publication, and for helpful
+discussions of them.
+
+J. R. 0 P PENH E I M EP~ AND G. M. VOLKOFF
+
+UNSTABL
+
+EQUILIBR
+
+STABLE
+
+EQVII.IBRI
+
+F&o. 2. Free energy as a function of average density.
+
+the values
+
+If p. and p, are now themselves
+connected by the
+Fermi equation of state (11), {12),then P, ~ p,'I'
+as pg~0, Rnd pc
+3pg~0(pg ) Rs pg~ +&, Rnd II$1s
+seen to have a maximum value. For values of
+to this maximum the equation
+p, corresponding
+of stRte (TollllRII 6.5) does llot differ quRlltR-
+of state (11),
+tively from the Fermi equation
+(12), as may be seen by comparing
+for the two
+of d ln p/d In p, and the
+solutions
+from (23) to
+maximum mass in fact
+0.4Q, agreeing in order of magnitude with
+be
+our value of
+solution V, with n=-'„R~~, »d
+his solution VI, with n= ,', B/A-+0, are just our-
+to the equation
+of
+solution
+state p=-,'p, a unique unstable singular
+solution.
+For solution V, with e=-,' and finite R,
+the
+p "' however,
+pressure d18ers from 3p by terms of the order of
+for VI with II = -', and finite B/A,
+for large p, p —3p=const. p', which is just
+the
+Fermi gas.
+behavior
+compressed
+Using for the mass of this solution
+
+{22) corresponding
+
+of a highly
+
+turns out
+
+Tobnan's
+
+0.7Q.
+
+(Tolman, 8.9)
+and adjusting the ratio B/A to make the equa-
+tion of state of VI, i.e.,
+
+1—9(B/A)(3/56lr)&p
+1—(B/A) (3/56lr) &p
+
+p
+
+&
+
+—'*
+
+(Tolman, 8.5)
+
+agree to terms of order p& with (11), (12), we get
+B/A = (7/3) &, and III
+(1/7) 8, to compare with
+the value of 3Q which
+equation
+gives.
+
+the Fermi
+
+These necessarily somewhat
+
+rough comparisons
+may thus serve to give an idea of the analytic
+
+of
+
+the
+
+character
+maximum mass
+central density which we obtained above.
+
+to maximum
+
+solutions
+
+corresponding
+
+and
+
+to
+(infinite)
+
+V. DISCUSSIDN—APPLICATION TO STELLAR
+
+MATTER
+
+Ke have seen that
+
+for a cold neutron
+
+for core masses greater
+
+for masses under 1.5$ (Landau's
+
+to formation of electrons and nuclei)
+less than
+
+core
+there are no static solutions,
+and thus no equi-
+than m 0.7Q.
+librium,
+The corresponding maximum mass Mo before
+than this.
+collapse is some ten percent greater
+cores can hardly be stable (with
+Since neutron
+for
+respect
+0.1Q, and since, even after
+masses
+sources of energy are exhausted,
+thermonuclear
+they will not tend to form by collapse of ordinary
+matter
+limit),
+it seems unlikely
+cores can
+8 and
+play any great part
+of what
+the question
+energy
+happens,
+to stars of mass greater
+sources are exhausted,
+It should
+than j..SQ still
+be observed that
+solution with
+m 0.7'Q the potentials g„, are nowhere singular,
+and that
+such a core does not tend
+itself" from the addition of further
+to "protect
+matter by the vanishing of g44 at the boundary.
+THere would then seem to be only two answers
+possible to the question of the "6nal" behavior
+of
+of very massive
+
+in stellar evolution
+after
+
+that static neutron
+
+remains unanswered.
+
+for the critical
+
+stars: either
+
+the equation
+
+in particular
+
+FIG. 3. Schematic plot of free energy as a function of t0.
+
+~8 The mass of the shell of ordinary (but dense) matter
+for cores much more
+to dis-
+
+surrounding
+massive than the lightest core stable with respect
+integration
+
+into electrons and nuclei.
+
+the core must be small
+
+MASS I VE NEUTRON CORES
+
+381
+
+that
+
+condensed matter
+
+state we have used so far fails to describe the
+the
+behavior of highly
+reached above are qualitatively mis-
+conclusions
+to contract
+leading,
+Both
+indefinitely,
+alternatives
+
+equilibrium.
+never
+require serious consideration.
+
+or the star will continue
+
+reaching
+
+unfavorable
+
+the disintegration
+
+rest on a very sure basis. Under
+of neutrons,
+
+The central density in the "critical" core is
+so that our
+than nuclear density,
+even higher
+of the Fermi equation of state can
+extrapolation
+these
+hardly
+either
+conditions
+and electrons, or into mesotrons,
+into protons
+and will not
+will be energetically
+occur. And the relatively weak attractive forces
+neutrons will
+which are known
+the collapse of the
+facilitate,
+core. If, however,
+compression,
+the eRect of
+phenomena
+forces, i.e., of raising the pressure for a
+repulsive
+by the
+given
+to
+tend
+Fermi
+prevent
+
+extreme
+occurred which have
+
+density
+equation
+the collapse.
+
+the value
+this
+
+and not prevent,
+
+to act between
+
+given
+could
+
+of state,
+
+above
+
+under
+
+they
+
+large
+
+Such repulsive
+
+static solutions
+of matter. For at
+affect
+appreciably
+
+forces, even if they exist, will
+for arbi-
+hardly make possible
+low
+amounts
+trarily
+the
+cannot
+densities
+of the
+equation of state, so that
+core will necessarily be finite, and so will be the
+gravitational mass m of the core
+m=-,'rq(1 —e "')
+
+the dimensions
+
+(Tolman, 5.5).
+
+the effect of
+
+solution. But
+
+Nor can the mass 350 before collapse be infinite.
+For this to be true we should have to have a
+repulsive
+singular
+forces can for high density at most be to make 3P
+to p than for the Fermi
+even more nearly equal
+of state; and for p=3P, as has been
+equation
+by
+above,
+remarked
+solutions V and VI, the only singular
+Tolman's
+total
+static
+solution
+particle number
+
+and as is also suggested
+
+(22),
+is
+is finite.
+
+for which
+
+the
+
+We may obtain an extreme limit on the in-
+crease in the limiting mass which strong repulsive
+forces at high
+by the
+densities
+argument. For p(10" g/cm'
+simple
+following
+be important. Let us
+these forces can hardly
+for p&~ j.0", they have the extreme
+assume
+
+could
+
+give,
+
+that
+
+for which
+
+effect of making p=-,'p. Then the mass of a
+of state holds
+sphere
+down to p = 10", and for which p falls rapidly as
+p—+0, is given by our solution (22), and is of the
+order of Q. It seems
+limit of
+
+likely that our
+
+this equation
+
+0.7S is near the truth.
+This argument
+
+high densities,
+
+is based on the requirement
+p —3p
+that even for arbitrarily
+shall not be negative; and this is in turn closely
+related to the positive definite character of the
+energy density of neutrons
+and of the
+(proper)
+associated
+6elds of force (apart from gravitation)
+with them. It seems probable that
+if P could be
+arbitrarily large mass could be found. "
+than -,'p, static solutions of
+very much greater
+
+these
+
+so that
+
+nonsta, tic solutions
+
+be essential. Among
+
+From this discussion it appears probable that
+of the long time behavior
+for an understanding
+of actual heavy stars a consideration
+of non-
+static solutions must
+all
+one would hope
+(spherical)
+to find some for which the rate of contraction,
+the time variation, become slower
+and in general
+be
+and slower,
+but as
+regarded,
+quasi-static. Some reason for this we may see
+for large enough mass
+in the following argument:
+the core will collapse; near the center the density
+and pressure will grow, and g44=e" will be small
+(cf. Eq. (7)); and as e" grows smaller, all processes
+slow down
+will, as seen by an outside observer,
+in
+in the central
+equations, of prod-
+the occurrence,
+ucts of the form
+
+region. Formally one sees this,
+
+not as equilibrium solutions,
+
+solutions might
+
+in Einstein's
+
+d9,
+
+e', e" —,e"——
+
+(dX& '
+Edt)
+
+dXdv
+
+dt dt
+
+the
+
+and
+
+For high enough central densities
+
+it is no longer
+. justified to neglect even a very slow time varia-
+pre-
+cores
+is taken into
+in-
+
+solutions which
+very massive neutron
+
+this
+are now being
+
+tion;
+sumably
+cannot
+account. These
+vestigated.
+
+be obtained
+
+represent
+
+solutions
+
+singular
+
+unless
+
+"Thus for p=const.
+
+static
+for which P~k/r~, and which would seem to lead,
+solutions,
+for E~~, to infinite masses, and which one of us (G.M.V.)
+hopes to discuss in detail elsewhere.
+
+there is a class of singular
+
+

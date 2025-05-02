@@ -1,0 +1,474 @@
+Geometrization of matter and antimatter 
+
+through coadjoint action of a group on its momentum space.
+
+4: The Twin group. Geometrical description of Dirac's antimatter.
+
+Geometrical interpretations of antimatter after Feynmann and so-called CPT-theorem.
+
+Jean-Pierre Petit & Pierre Midy
+
+Marseille Observatory, France
+
+ 
+
+Abstract:
+
+Starting from the work of reference [3] we modify the model, in order to avoid encounters between positive and negative mass
+particles. The solution is to build a two-ten-dimensional folds (F, F*) as the quotient of the group by its orthochron sub-group.
+Then we get two spaces with opposite arrows of time.
+
+We study the impact of the different components of the group on momentum and movement spaces. One shows that the duality
+matter-antimatter occurs in boths folds, in both universes. This work gives a new insight on antimatter, through geometrical tools.
+For  an  example  Dirac's  antimatter  is  the  antimatter  of  our  own  fold.  The  matter  of  the  second  fold is CPT-symmetrical with
+respect  to  ours.  The  PT-symmetrical  of  a  matter  particle  that  belongs  to  our fold is the antimatter of the other fold. Matter and
+antimatter  particles  of  our  universe  own  positive  mass  and  energie.  Matter  and  antimatter  particles  of  the second fold own
+negative mass and energy.
+
+1- Introduction
+In a former paper [1] we have introduced a geometrical definition of antimatter, through a ζ-symmetry. Charged mass-points are
+supposed to move in a ten-dimensional space, with two sectors:
+
+{ ζ i > 0 }: and { ζ i < 0 }
+
+The first refers to the movement of matter and the second to the movement of antimatter.
+
+By the way, photons follows the { ζ i = 0 } surface.
+
+It looks like Plato's cavern. The play is supposed to take place in a ten dimensional theater and, inside a four dimensional cavern
+called space time we observe 4d shadows, 4d movements.
+
+In [1] we introduce a group which is an extension of the orthochron part of the Poincaré group. It makes possible to describe the
+charges of the particles in terms of additional components of their moment. In the paper [2] the group is duplicated, through a ζ-
+symmetry, which gives a geometric description of Dirac's antimatter. This last owns positive mass and energy.
+
+Next step, paper [3], we decide to include antichron elements in the group. Then we get symmetries including T-symmetry, i.e.
+PT-symmetry and  CPT-symmetry.  We  find  that  the  PT-symmetrical  of  a  particle of matter is  an  antiparticle,  as  suggested by
+Feynmann. We find that the CPT-symmetric of a particle of matter is a particle of matter too, as asserted by the so-called "CPT-
+theorem". But, from the coadjoint action of the group on the momentum components we find that these two own negative masses
+and  energies.  Then  it is  no  longer  possible,  as  suggested  by  Feynmann,  to  identify  the PT-symmetry and  the  C-symmetry.
+Similarly the CPT-symmetry is different from identity, for it reverses the mass. As pointed out in [3] a solution, suggested by the
+mathematician J.M.Souriau [4] is to give up the antichron part of the Lorentz and Poincaré dynamical groups. But PT and CPT
+symmetries dissapear.
+
+In the following we suggest another solution.
+
+2- Building a group acting on a two folds space
+
+From [3] the action of our 16-dimensions group on a tend-dimensional space corresponds to:
+
+and the corresponding coadjoint action is:
+
+See computational details in the annex.We build the two-folds space as the quotient of the group by its orhochron sub-group.
+From (1) a point of space is defined by:
+
+{ ζ 1 , ζ 2 , ζ 3 , ζ 4 , ζ 5 , x , y , z , t }
+
+Introduce a fold indix f = ± 1
+
+The a point M of the first fold, called F, is defined by:
+
+{ ζ 1 , ζ 2 , ζ 3 , ζ 4 , ζ 5 , ζ 5, x , y , z , t , f = +1 }
+
+and the conjugated poit M*, which belongs to the second fold F*, by:
+
+{ ζ 1 , ζ 2 , ζ 3 , ζ 4 , ζ 5 , ζ 5 , x , y , z , t , f = -1 }
+
+We can write the new action:
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+ 
+
+The  coadjoint  action  on  the  momentum  space  is  unchanged. But  the  interpretation  of  the  results  is  different.  Negative energy
+movements occurs in another fold. Positive and negative energy particles cannot meet, for the move in distinct ten-dimensional
+twin spaces.
+
+ 
+
+ 
+
+ 
+
+Fig.1: Two sectors momentum space.  
+
+Fig.2: Associated symmetries
+
+ 
+
+ 
+
+Fig.3: The playing field: a two folds ( F and F*) space,
+
+associated to a two sectors momentum space
+
+( E > 0 and E < 0 ).
+
+  
+ 
+
+ 
+
+Fig.4: Movements of ordinary matter.
+
+Action of orthochron elements of the group, with λ = 1.
+
+Charges unchanged.
+
+  
+ 
+
+Fig. 5: Coadjoint action of a ( λ = -1 ; μ = 1 ) element of the group
+on the momentum associated to the movement of normal matter:
+
+the new movement corresponds to Dirac's antimatter.
+
+On the figure 5 the line M1 figures the movement of normal, orthochron matter. We figures straight lines because ou group does
+not take account of force field, like gravitational or electromagnétic field. It only runs the behaviour of lonely particles, charged
+mass-points.
+We choose an element in the grey area, corresponding to a ( λ = -1 ; μ = 1 ) matrix. The ( λ = - 1 ) value changes the signs of all
+the ζ i. They become negative. The new path is in the second sector, corresponding to antimatter. As λ μ = - 1 the charges are
+reversed. But as time is not reversed, the energy and the mass of the particle remains positive. This is a geometric description of
+(orthochron) antimatter after Dirac.
+Two more sectors has to be explored. On the third we examine the impact of ( λ = - 1 ; μ = - 1 ) element on the momentum and
+movement.
+( λ  =  -  1  )  reverses  the  {ζ  i}.  According  to our geometric definition this new movement corresponds to  antimatter,  for it takes
+place in the second sector of space { ζ 1 , ζ 2 , ζ 3 , ζ 4 , ζ 5 , ζ 6, x, y , z , t }.
+( μ = - 1 ) gives a PT-symmetry, reverses the signs of ( x, y , z , t )
+But  (  λ  μ  =  +  1  )  keeps  the  charges  unchanged. This is "PT-symmetric antimatter", so  that  it  is  a  geometric description of
+antimatter after Feynmann.
+
+The movement takes place in the second space sector, in the fold F*. 
+
+.
+ 
+
+Fig.6: ( λ= -1 ; μ = -1 ) elements transform movement of normal matter
+
+into movement of antimatter (ζ-symmetry) of PT-symmetrical object, runing bacward in time.
+
+Geometric description of Feynmann's vision of antimatter.
+
+Does not identify vompletely with Dirac's one: negative mass and negative energy.
+
+  
+The last elements correspond to the sector ( λ= 1 ; μ = -1 )
+( λ = 1 ) --- > the movement is still in the matter's sector: no ζ-symmetry.
+( μ = -1 ) goes with a PT-symmetry. The particle runs backward in time.
+( λ = -1 ): C-symmetry. The charges are reversed.
+
+This  is  CPT-symmetrical  matter,  so  that it corresponds to  a  geometrical  interpretation  of  the  so-called  "CPT theorem", which
+asserts that the CPT-symmetric of a particle should be identical to that particle. That's not true. This movement corresponds to an
+antichron movement. The particle goes backward in time, si that (coadjoint action) its mass and energy become negative.
+
+The movement of a particle which is the CPT-symmetrical of a normal particle takes place in the fold F*.
+
+ 
+
+.
+ 
+
+ 
+
+Fig.7: ( λ = 1 ; μ = - 1 ) case. Corresponds to CPT-symmetry.
+
+But the coadjoint action gives negative mass and energy.
+
+The CPT-symmetric of a particle of matter is a particle of matter, but with negative mass.
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+Now, examine the impact on photons movement and moment. The ζ-symmetry has no impact on it: there is no "antiphoton". As
+all the charges of the photon are zero a does not change it. It is identical to its antiparticle.
+
+The  coadjoint  action  of  orthochron components modifies the  movement  and  the  moment  of  the photon, but keep unchanged its
+energy. See figure 8. 
+ 
+
+Fig. 8: Coadjoint action of orthochron elements
+
+on photon's movement and moment.
+
+.
+ 
+
+ 
+
+   
+
+.
+ 
+
+Fig.9: The coadjoint action of antichron elements on photon's movement and moment,
+
+reverses the photon energy: it travels backwards in time.
+
+ 
+
+The antichron elements of the group acts on the momentum through coadjoint action. Such elements transform the normal photon,
+travelling forward in time un the ζ = 0 plan of the fold F into a movement in the corresponding plane of the fold F*. This photon
+travels backwards in time. Its energy is negative
+ 
+ 
+ 
+ 
+ 
+ 
+
+.3- About the contents of the two folds
+
+They can be summarized in the following tables.
+
+ 
+
+.
+
+.
+.
+ 
+
+Fig.10: Classical particles-antiparticles zoo.
+
+Fig.11: Ghost particles-ghost-antiparticles zoo.
+
+ 
+
+This last matrix is linked to the metric:
+
+(7)
+
+with
+
+(8)
+
+This last matrix is linked to the metric :
+
+(9)
+
+So that the two folds have same signature. If they are  described  as  Minkiwski  space  times,  their metrics are identical. But their
+arrows of time are opposite. But their arrows of time are opposite.
+
+If one wants to describe the two folds, the two universes, one have to choose his own arrow of time and space orientation.
+
+It  is  clear  that  the duality matter-antimatter occurs in  both  folds.  If  we  call  the  second  fold "twin fols" (Sakharov) or "shadow
+fold"  (Green,  Schwarz  and  Salam)  or  "ghost  fold"  (the  author's choice) the  arrow  of  time  in  this  second  fold  is  opposite (T-
+symmetry), as predicted by A. Sakharov, and space structures are enantiomorphic (P-symmetry).
+
+In the second fold the matter is CPT-symmetric with respect to ours. Whence, in that fold, a proton owns a negative charge and an
+electron a positive charge. Conversely, an anti-electron of that fold, PT-symmetric with respect to ours, owns a negative charge,
+whence an antiproton of the second fold has a positive charge. To sum up, the second fold is CPT symmetric with respect to ours.
+As suggested by Andrei Sakharov, we can expect that the violation of the parity principle could be reversed in that fold. If the
+absence  of  antimatter,  in  our  fold,  is  a  direct consequence  of  the  violation  of  the  parity  principle,  it  is  possible  that such
+dissymmetry would be reversed in the other fold.  
+
+All our work in astrophysics and cosmology comes from a system of two coupled field equations:
+
+4- Interacting folds
+
+(10)
+
+(11)
+
+S = χ ( T - T* )
+S * = χ ( T* - T )
+
+  
+The two minus signs were introduced as an a priori hypothesis. At the end of this work, based on group theory, the explanation
+arises. The two folds must have opposite arrows of time and must be enantiomorphic in order to fit constrainsts coming from the
+group structure.
+
+So that the other matter, located in the other fold, for an orbserver located in the first, bahaves as if it own a negative mass, which
+comes from the coadjoint action and the T-symmetry.
+ 
+
+Conclusion
+
+Starting from the work of reference [3] we have modified the model, in order to avoir encounters between positive and negative
+mass particles. The solution was to build a two-ten-dimensional folds (F,F*) as the quotient of the group by its orthochron sub-
+group.
+
+Then we get two spaces with opposite arrows of time.
+
+We study the impact of the different components of the group on momentum and movement spaces. One shows that the duality
+matter-antimatter occurs in boths folds, in both universes. This work gives a new insight on antimatter, through geometrical tools.
+
+For an example Dirac's antimatter is the antimatter of our own fold.
+The matter of the second fold is CPT-symmetrical with respect to ours.
+The PT-symmetrical of a matter particle that belongs to our fold is the antimatter of the other fold.
+
+Matter and antimatter particles of our universe own positive mass and energy.
+Matter and antimatter particles of the second fold own negative mass and energy.
+
+A N N E X
+
+Extension of the group 
+ 
+Consider a group Γ composed by matrixes:
+(1)
+
+A is a square matrix. B is a column matric and O a ligne matrix, composed by null terms. Consider the extension:
+(2)
+
+where ϑϑ is the following ligne sub-matrix:
+(3)
+
+ϑ being a scalar. Check that (2) is a group:
+(4)
+
+ 
+
+ 
+
+(5)
+
+(6)
+
+Then:
+(7)
+
+The inverse matrix is:
+(8)
+
+The element of the Lie algebra is:
+(9)
+
+Calculate the action of g3-1 on the element of the Lie algebra element δg3
+(10)
+
+(11)
+
+γ is a matrix :
+(12)
+
+so that:
+(13)
+
+The identification:
+(14)
+
+ 
+
+gives:
+
+gives:
+(15)
+
+(16)
+
+The equation (16) is the action on the Lie algebra element, corresponding to the group Γ. The coadjoint action is the dual of this
+action and is based on the invariance of a scalar. Call S this scalar from which one computes the coadjoint action of the group Γ on
+its momentum. We compute the coadjoint action of the group g3 from the scalar:
+(17)
+
+Then the coadjoint action of the group g3 on its momentum is: 
+(18)
+
+χ δϑ + S
+
+The moment of the group g3 is:
+(19)
+
+The extension of the group adds a component χ to the moment, which obeys (20). In particular, if Γ = g2 , i.e:
+(20)
+
+J = { χ , momentum of the group Γ }
+
+its coadjoint action is:
+(21)
+
+(22)
+
+(23)
+
+χ' = λ μ χ
+
+The equations (22) + (23) identifies to the coadjoint action of the Poincaré group when L is the neutral component of the Lorentz
+group.
+
+We know that we can put the momentum Jp of the Poincaré group gp into an antisymmetric matrix :
+(24)
+
+Then its action on this momentum is:
+(25)
+
+Then we can write:
+(26)
+
+and:
+(27)
+
+ 
+
+J = { χ , Jp }
+
+χ' =λμχ
+
+The Dimension of the Poincaré group is ten. The dimension of this extended group is eleven, due to adding the new variable φ . (
+λ = ± 1 ) and ( μ = ± 1 ) are not new dimensions of the group.
+
+This method can be extended as many times as one wants. Consider the following matrix:
+(28)
+
+The Poincaré group depends owns ten dimensions. The set
+
+( φ1 ,φ2 , φ3 , φ4 , φ5 , φ5 )
+
+adds si more dimensions. The scalar ( λ1 ,λ2 , λ3 , λ4 , λ5 , λ5 ) are fixed and do not correspond to new dimensions.
+
+The coadjoint action of the group on its momentum
+(29)
+
+is:
+(30)
+
+ 
+
+J = { χ1 , χ2 , χ3 , χ4 , χ5 , χ6 , Jp }
+
+χ'i = λi μ χi with i = { 1 , 2 , 3 , 4 , 5 , 6 }
+
+ 
+
+References
+
+ 
+
+[1] J.P.Petit & P.Midy: Geometrization of matter and antimatter through coadjoint action of a group on its momentum space. 1:
+Charges as additional scalar components of the momentum of a group acting on a 10d-space. Geometrical definition of antimatter.
+Preprint, March 1998.
+[2] J.P.Petit & P.Midy: Geometrization of matter and antimatter through coadjoint action of a group on its momentum space. 2:
+Geometrical description of Dirac's antimatter. Preprint, March 1998.
+[3] J.P.Petit & P.Midy: Geometrization of matter and antimatter through coadjoint action of a group on its momentum space. 3:
+Geometrical description of Dirac's antimatter. A first geometrical interpretation of antimatter after Feynmann and so-called CPT-
+theorem. Preprint, March 1998. 
+[4] J.M. Souriau: Structure des Systèmes Dynamiques, Dunod, Ed. 1972 (in French); tr. "Structures of Dynamical Systems",
+Birkhauser, 1997. ISBN 0817636951.
+[5] J.M.Souriau: Géométrie et relativité. Ed. Hermann-France, 1964. 
+[6] P.M. Dirac: "A theory of protons and electrons", Dec. 6th 1929, published in Proceedings of Royal Society (London), 1930: A
+126, pp. 360–365
+[7] R.Feynman: "The reason for antiparticles" in Elementary particles and the laws of physics. Cambridge University Press, 1987.
+ 
+
+Acknowledgements
+
+This work was supported by french CNRS and Brevets et Développements Dreyer company, France. 
+Déposé sous pli cacheté à l'Académie des Sciences de Paris, 1998. 
+© French Academy of Sciences, Paris, 1998.
+
+

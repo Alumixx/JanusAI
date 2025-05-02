@@ -1,0 +1,532 @@
+Astronomische Nachrichten
+
+Volume 322
+
+2001
+
+Number 3
+
+Astron. Nachr. 322 (2001) 3, 137–142
+
+Reconsidering Schwarzschild’s original solution
+
+S. Antoci, Pavia, Italy
+
+Dipartimento di Fisica “A. Volta” and INFM
+
+D.-E. Liebscher, Potsdam, Germany
+
+Astrophysikalisches Institut Potsdam
+
+Received 2001 May 16; accepted 2001 July 5
+
+We analyse the Schwarzschild solution in the context of the historical development of its present use, and explain the
+invariant deﬁnition of the Schwarzschild’s radius as a singular surface, that can be applied to the Kerr-Newman solution
+too.
+
+Key words: General relativity – Schwarzschild solution
+
+1.
+
+Introduction: Schwarzschild’s solution and the “Schwarzschild” solution
+
+Nowadays simply talking about Schwarzschild’s solution requires a preliminary reassessment of the historical record
+as conditio sine qua non for avoiding any misunderstanding. In fact, the present-day reader must be ﬁrstly made
+aware of this seemingly peculiar circumstance: Schwarzschild’s spherically symmetric, static solution (Schwarzschild
+1916) to the ﬁeld equations of the version of the theory proposed by Einstein (1915a) at the beginning of November
+1915 is diﬀerent from the “Schwarzschild” solution that is quoted in all the textbooks and in all the research papers.
+The latter, that will be here always mentioned with quotation marks, was found by Droste (1917), Hilbert (1917)
+and Weyl (1917), who worked instead by starting from the last version of Einstein’s theory (Einstein 1915b).1 As
+far as the vacuum is concerned, the two versions have identical ﬁeld equations; they diﬀer only because of the
+supplementary condition
+
+det (gik) = −1
+
+(1)
+
+that, in the theory of November 11th, limited the covariance to the group of unimodular coordinate transformations.
+Due to this fortuitous circumstance, Schwarzschild could not simplify his calculations by the choice of the radial
+coordinate made e.g. by Hilbert; he was instead forced to adopt “polar coordinates with determinant 1” that led
+him to a solution depending on two parameters instead of the single one found by Hilbert. Schwarzschild could
+then ﬁx one of the parameters in such a way as to push in the “Nullpunkt” the singularity that is named after
+him. This move is impossible with Hilbert’s choice, and this is the origin of the diﬀerence between Schwarzschild’s
+solution and the “Schwarzschild” solution of the literature which, to put an end to the present confusion, should
+be more aptly named after Hilbert.
+
+1Recent inspection of the relevant documents told that Schwarzschild contacted only Einstein about the question of the solution
+
+(Treder).
+
+@ WILEY-VCH Verlag Berlin GmbH, 13086 Berlin, 2001   0044-6337/01/0307-0137 $ 17.50+.50/0
+
+138
+
+Astron. Nachr. 322 (2001) 3
+
+2. Solving Schwarzschild’s problem without ﬁxing the radial coordinate
+
+In order to display the diﬀerence between the spherically symmetric, static solutions found with diﬀerent choices
+for the radial coordinate, let us brieﬂy recall the calculations done by Combridge (1923) and by Janne (1923)
+without ﬁxing the radial coordinate at all. By following de Sitter (1916), they found that the line element of the
+most general static, spherically symmetric ﬁeld can be reduced by choice of adapted coordinates to the form
+
+ds2 = − exp λdr2 − exp µ[r2(dϑ2 + sin2 ϑdϕ2)] + exp νdt2
+
+in symmetry adapted coordinates. Here λ, µ, ν are functions of r only. The proof of the correctness of de Sitter’s
+choice can be found e.g.
+in Eiesland’s paper (1925). By availing of the ﬁeld equations already made explicit by
+de Sitter (1916), the mentioned authors found that a solution that is Minkowskian at the spatial inﬁnity could be
+expressed in terms of one arbitrary function f(r) and of its derivative f
+
+(cid:1)(r) by setting:
+
+(cid:1) 2
+
+f
+
+,
+
+exp λ =
+
+1 − 2m/f
+exp µ = f 2
+r2 ,
+exp ν = 1 − 2m/f,
+
+(5)
+where m is a constant, while of course the arbitrary function f must have the appropriate behaviour as r → ∞.
+It is now an easy matter to reproduce the results that one obtains when the most popular coordinate conditions
+are imposed. With the exception of Schwarzschild’s case, the latter were adopted with the aim of making the
+calculations easier. However, a simple glance to the papers by Combridge and Janne shows that the calculations
+were not as extra vires as to be in urgent need of simpliﬁcation.
+
+Setting λ = 0 provides Droste’s initial way of ﬁxing the radial coordinate, as given in his equation (4). Despite
+
+this initial choice, the “Schwarzschild” solution made its ﬁrst appearance just in Droste’s paper 2.
+Choosing µ = 0 leads instead straight to the “Schwarzschild” solution, i.e. to Hilbert’s form (Hilbert 1917),
+given by equation (45) of his monumental paper. One notes that if one attributes to r the usual range 0 ≤ r < ∞
+equation (5) would only admit the value m = 0 of the mass constant. Maybe this is the reason why Hilbert deviated
+from de Sitter’s choice (2) for the line element and dropped the a priori condition of persistence of the sign for
+the components of the metric. The omission allows for a nontrivial solution, but also for the appearance of the
+well known singularity of the components of the metric at the “Schwarzschild” radius. The singularity separates
+an outer region r > 2m, that with the lapse of the years proved itself capable to precisely account for the workings
+of Nature, from an inner region whose occurrence soon evolved from a slightly annoying peculiarity into a major
+conundrum (Brillouin 1923).
+
+Posing λ = µ produces the solution expressed in isotropic coordinates, ingeniously found by Weyl through
+a coordinate transformation (Weyl 1917) by starting from his own “Schwarzschild” solution. Here again we get
+a singular behaviour, this time due to the vanishing of det(gik) when r = m/2. There is no track here of the
+tantalizing inner region of Hilbert. With isotropic coordinates Nature is well accounted for, maybe too well. There
+is in fact a little redundance: only the outer part of Hilbert’s solution is allowed to appear, but it appears twice,
+once for m/2 < r < ∞, and a second time in the range 0 < r < m/2. The two replicas happen to be joined just
+at the “Schwarzschild” singularity. Confronted with such embarras de richesse Weyl ﬂatly declared that in Nature
+only “ein St¨uck” of one of the two copies, not reaching the singularity, must be realised (Weyl 1917). Einstein
+and Rosen (1935) used the full structure to derive an argument for the mass to be positive. They felt one could
+postulate the necessity of hiding the curvature singularity by constructing such a “bridge” and identify it with a
+particle. Their hope to get a hint at some kind of quantisation was not met, but they found that only a positive
+mass allows to ﬁnd that bridge.
+
+Schwarzschild’s true and authentic solution (Schwarzschild 1916), though written with the usual polar coordi-
+nates rather than with the original “polar coordinates of determinant 1”, can instead be retrieved by imposing the
+condition λ + 2µ + ν = 0. Due to (3), (4) and (5) f must then fulﬁl the equation
+
+f
+
+(cid:1)2
+f 4
+r4 = 1,
+
+2Insisting with the coordinate condition λ = 0 leads one to deﬁne f through the hardly solvable equation
+
+r = f (1 − 2m/f )
+
+1/2
+
++ m ln
+
+f 1/2 + (f − 2m)1/2
+f 1/2 − (f − 2m)1/2 + const.
+
+Th is  is  why  Droste  changed  horses  in  itinere  and  eventually  su cceeded  in  b ecoming  the  forerunner  o f  Hilb ert.
+
+(2)
+
+(3)
+
+(4)
+
+(6)
+
+S. Antoci and D.-E. Liebscher: Reconsidering Schwarzschild’s original solution
+
+i.e., with appropriate choice of sign, f
+
+(cid:1) = r2/f 2. The latter equation integrates to
+
+f = (r3 + (cid:16))1/3
+
+where (cid:16) is a second integration constant, besides m. Had not he died just a few months after his discovery due
+to a rare illness contracted while at war on the Russian front, one could say that Schwarzschild, besides being
+very clever, was also a very lucky man. In fact the burden of the coordinate condition (1) he was obtorto collo
+forced to confront by the version of Einstein’s theory he was aware of turned out to be a blessing, when compared
+to the simplifying assumptions adopted by the later authors, that could enjoy the eventually conquered general
+covariance (Einstein 1915b), (Hilbert 1915). Although the move was later declared not recommendable by Hilbert
+with a footnote of devastating authority that decided the destiny of the true Schwarzschild’s solution 3, with his
+extra parameter (cid:16) Schwarzschild had the chance of imposing the continuity of the components of gik in the range
+0 < r < ∞. He did so by setting
+
+(cid:16) = (2m)3
+
+thereby dispatching in the “Nullpunkt” what the posterity would have unanimously called “the singularity at the
+Schwarzschild radius”.
+
+3. The role of hyperbolic motion in choosing Schwarzschild’s solution
+
+Schwarzschild’s position (8) is suﬃcient for complying with de Sitter’s prescription (2) for the line element, but it
+is by no means necessary. Larger values of (cid:16) fulﬁl the prescription as well; moreover, the solutions with (cid:16) ≥ (2m)3
+are diﬀerent from each other, as the simple consideration of the maximum value attained by the scalar curvature in
+each of them immediately shows. One needs an additional postulate for ﬁxing the value of (cid:16). Abrams (1989) has
+shown that one can avail of an assumption that seems to be quite appropriate both from a geometrical and from a
+physical standpoint. Let us consider a test body whose four-velocity is ui; its acceleration four-vector is deﬁned as
+
+ai ≡ Dui
+ds
+
+≡ dui
+ds
+
++ Γi
+
+klukul,
+
+α = (−aiai)1/2.
+
+where D/ds indicates the absolute derivative. From it one builds the scalar quantity
+
+The motion of a test body kept at rest in the static, spherically symmetric ﬁeld whose line element, in adapted
+coordinates, is given by equations (3), (4) and (5), is deﬁned by postulating the constancy of r, ϑ and ϕ. At ﬁrst
+glance, the deﬁnition of the world lines of rest seems to depend on the particular coordinates we use. However, we
+can identify the congruence of world-lines of our particles at rest through use of the Killing vectors of the metric.
+There is only one time-like Killing congruence that has not only the Killing property, but is hypersurface orthogonal
+(ξ[k,lξm] = 0) too. It is the congruence we identify in our coordinates with r, ϑ, ϕ constant. It obeys the diﬀerential
+(cid:1)
+equations
+
+(cid:2)
+
+D
+ds
+
+ai
+α
+
+− αui = 0, α = const;
+
+therefore the test body under question describes an invariantly deﬁned motion, that Rindler (1960) aptly called
+hyperbolic. The only nonvanishing component of ai in a ﬁeld with the line element (2) is
+
+For the solutions given by (3), (4) and (5) the constant α has the expression
+
+1
+2 ν
+(cid:3)
+
+a1 =
+
+(cid:1)
+
+exp (−λ).
+
+(cid:4)1/2
+
+α =
+
+m2
+
+f 3(f − 2m)
+
+139
+
+(7)
+
+(8)
+
+(9)
+
+(10)
+
+(11)
+
+(12)
+
+(13)
+
+in terms of the mass constant m and of the arbitrary function f. As noticed by Rindler, besides the geometrical
+meaning, α has an immediate physical meaning. Let us consider a locally Minkowskian coordinate system whose
+spatial coordinates be centered at the position r = r0, ϑ = ϑ0, ϕ = ϕ0; the quantity α equals the strength of the
+gravitational pull measured by a dynamometer that holds a unit mass at rest at the given position.
+
+3See footnote 1 at page 71 of Hilbert (1917).
+
+140
+
+Astron. Nachr. 322 (2001) 3
+
+By substituting (7) in (13) one sees that, with a ﬁxed value of the mass constant, the maximum value of the
+force that can be measured by the dynamometer is diﬀerent for diﬀerent values of (cid:16). As already noticed, the
+solutions are geometrically and physically diﬀerent, and we need some reason for choosing one of them. Abrams’
+argument is the following (Abrams 1989): since up to now no experimental evidence has been found for attributing
+a ﬁnite limiting value to α, we cannot help mimicking in the case of general relativity the way out adopted in
+Newtonian physics. There the norm of the force exerted by the gravitational ﬁeld of an ideal pointlike mass on
+a test body tends to inﬁnity as the test body is brought nearer and nearer to the source of the ﬁeld. According
+to equation (13), in the static spherically symmetric ﬁeld deﬁned by (3), (4) and (5) α → ∞ only when f → 2m,
+because f → 0 is prohibited by equation (5). If one chooses the arbitrary function f according to (7), α is allowed
+to grow without limit at r = 0 only when (cid:16) is chosen just in the way kept by Schwarzschild in his fundamental
+paper of 1916 4.
+
+We add a remark on the Killing congruences that shows how to generalize the argument for the full Kerr-
+
+(14)
+
+(15)
+
+(16)
+
+Newman-solution. The elements
+
+ξ
+
+k ∂
+∂xk = λ
+
+∂
+∂t
+
++ µ
+
+∂
+∂ϕ
+
+of the Killing group (ξk;l + ξl;k = 0) of the Kerr-Newman metric
+
+ϑ
+
+((r2 + J 2)dϕ − Jdt)2
+
+sin2
+(cid:16)2
+
+ds2 = (cid:16)2
+∆
+− ∆
+
+dr2 + (cid:16)2dϑ2 +
+(cid:16)2 (dt − J sin2 ϑdϕ)2
+∆ = r2 + J 2 + Q2 − 2M r
+2 = r
+(cid:16)
+
+2 cos2
+
+2 + J
+
+ϑ
+
+deﬁne invariantly a set of orbits. The acceleration on these orbits
+
+ξk
+N
+
+( ξj
+N
+
+);l
+
+ξl
+N
+
+,
+
+α2 = −gijaiaj = −gij( ξi
+N
+N =
+
+(cid:5)
+−gmnξmξn
+contains always the factor 1/
+at ∆ = 0 except for the case given by
+
+);k
+
+µ = λJ/(r2
+
+0 + J 2) .
+
+(cid:5)
+
+√
+∆ and diverges for orbits on the surface ∆ = 0. All Killing congruences are spacelike
+
+M 2 − J 2 − Q2.5
+
+(cid:5)
+This congruence is timelike for r > r0 = M +
+
+M 2 − J 2 − Q2 and null on the surface r = r0 = M +
+(cid:5)
+In the case of a static metric, J = 0, the
+M 2 − J 2 − Q2
+congruence turns out to be the hypersurface-orthogonal one. Hence, the surface r = r0 = M +
+is singular in the Kerr-Newman case, too. Any Killing congruence that remains timelike in the outer vicinity will
+show the singularity.
+
+Its acceleration diverges in the limit r → r0.
+
+One can see that the singularity in the acceleration is connected with the norm of the Killing vector becoming
+zero or the determinant of the metric in stationary coordinates becoming zero. Let us use the notation Ξ = ξaξa.
+The velocity along the orbits is given by uk = ξk/
+;l. The
+norm of this expression is
+
+√
+Ξ, the acceleration ak by Ξ2ak = Ξ ξk
+
+;lξl − ξkξlξbξb
+
+Ξ4 akak =
+
+Ξ2Ξ,kΞ,lgkl − Ξ(Ξ;lξl)2
+
+1
+4
+
+akak =
+
+1
+4Ξ2 Ξ,kΞ,lgkl
+
+We may, of course, introduce coordinates in which ξk = δk
+obtain
+
+0 . These coordinates show that Ξ,lξl = g00,0 = 0. We
+
+When Ξ has a zero of some order n on some surface of orbits, and the space-part metric has no singularity, the
+norm of the acceleration has to show a second-order inﬁnity. If the space-part metric has a singularity, but the
+4To dispel any possible misunderstanding, it is stressed that no meaning is attributed to the accidental vanishing of the radial
+
+coordinate where α → ∞.
+
+5The physical interpretation of the congruence is a swarm of particles kept at rest in the ﬁeld. This rest, in the static case (J = 0),
+is just no change in the spatial coordinates. In the general case, this “rest frame” undergoes a drag by the rotation of the source. The
+drag is given by µ (cid:4)= 0.
+
+S. Antoci and D.-E. Liebscher: Reconsidering Schwarzschild’s original solution
+
+141
+
+determinant of the metric remains ﬁnite, as in the Schwarzschild case, the inﬁnity of akak is still of ﬁrst order. If
+akak becomes inﬁnite while Ξ has no zero, it must be due to a zero of the determinant of the metric tensor in the
+coordinates deﬁned.6
+
+4. The analytic extensions of the “Schwarzschild” solution
+
+As previously shown, Hilbert’s solution was born out of the accidental choice of the radial coordinate r produced
+by setting µ = 0 in equation (4); hence there is no reason to accept as unavoidable consequences of the very ﬁeld
+equations of general relativity all the features stemming from this choice, in particular the existence of the region
+for r < 2m. However Hilbert’s solution was soon perceived as the unique “Schwarzschild” solution and as such
+it became the obligatory starting point of all the theoretical exertions. The curious circumstance that what was
+initially meant to model the ﬁeld of a “Massenpunkt” displayed two singularities, one at the “Schwarzschild radius”,
+and a second one for r = 0, instead of the single one appearing in Newtonian physics, suggested the idea that one
+of them had to be spurious 7. Since the Kretschmann scalar happened to be ﬁnite at the “Schwarzschild radius”,
+while it was inﬁnite at r = 0, the conviction arose that the “true” singularity was the one at r = 0. Therefore the
+singularity displayed by the components of the metric at r = 2m had to be a mere mathematical mishap, devoid
+both of geometrical and of physical meaning. A reason had to be given for the wrongdoing, and it was found in a
+presumed inadequacy of the coordinate system at r = 2m.
+
+The search thus started for diﬀerent coordinate systems that allowed to erase the singular behaviour displayed
+by gik at r = 2m. Already in 1924 Eddington had unintentionally succeeded in the task (Eddington 1924) by
+rewriting the static “Schwarzschild” solution in stationary form through the introduction of what would have been
+called the Eddington-Finkelstein coordinates 8. In 1933 Lemaˆıtre (1933) achieved the same result by rewriting the
+“Schwarzschild” metric with cosmological term in time-dependent form. Another solution to the problem was given
+in 1950 by Synge with a geometrically inspired paper (Synge 1950) that represents the now forgotten forerunner
+of the maximal extensions of the “Schwarzschild” metric obtained by Kruskal (1960) and Szekeres (1960).
+(cid:1)i = f i(xk) whose derivatives happen to be singular at
+the “Schwarzschild” radius in just the appropriate way for providing a transformed metric that is regular there.
+One cannot help noticing that the restriction to admissible coordinate transformations, which looked mandatory
+in the old papers, with the lapse of the decades has become optional and dependent on taste. In the time span
+that goes from Hilbert’s paper (1917) to, say, the publication of Lichnerowicz’ book (Lichnerowicz 1955) with his
+axioms inscribed in the ﬁrst chapter, transformations like the ones needed to eﬀace the “Schwarzschild” singularity
+were simply disallowed.
+
+All these exertions entail coordinate transformations x
+
+Nevertheless, the rule was violated here and there, and already in Synge’s paper one ﬁnds an explicit program
+of transgression, since for the latter author “it is precisely the non-regular transformations which are interesting”
+(Synge 1950). But the value of scalars cannot be altered by any transformation, however “interesting”. Therefore
+in all the alternative forms of the “Schwarzschild” metric mentioned in this section the singularity in the metric
+components at the “Schwarzschild” radius is canceled, but the norm α of the acceleration of the hyperbolic motion
+on the invariantly speciﬁed Killing orbit remains inﬁnite at the position of the erased singularity. Since α has a
+well deﬁned physical meaning, an inﬁnite value of α in the middle of a manifold should not be so light-heartedly
+overlooked: either this singularity should be removed from that position, or a physical argument for its existence
+there should be given.
+
+Already in 1916 Karl Schwarzschild had deliberately sent the singularity in the “Nullpunkt”, thus stipulating
+that there his idealised vacuum model ceased to be physically meaningful, because the source of the ﬁeld had been
+attained.
+
+References
+
+Abrams, L.S.: 1989, Can. J. Phys. 67, 919
+Brillouin, M.: 1923, J. Phys. Rad. 23, 43
+Combridge, J.T.: 1923, Phil. Mag. 45, 726
+de Sitter, W.: 1916, Mon. Not. R. Astron. Soc. 76, 699
+
+6When singular coordinate transformations are forbidden, the zeros of the determinant of the metric tensor acquire a physical
+interpretation (Kreisel 1967). In addition, the Schwarzschild mass can be interpreted as result of the gravitational ﬁeld outside the
+Schwarzschild sphere (Treder 1975, Treder 1978).
+
+7Hilbert did not share this opinion; however, he did not consider the singularities displayed by his solution really worth of much
+study. He believed in fact that the vacuum solutions with singularities were just “an important mathematical tool for approximating
+characteristic regular solutions”. To him, only the latter were capable to represent reality in an immediate way. See Hilbert (1917),
+page 70.
+
+8Eddington’s coordinate transformation was purposedly retrieved by Finkelstein in 1958.
+
+142
+
+Astron. Nachr. 322 (2001) 3
+
+Droste, J.: 1917, Proc. K. Ned. Akad. Wet., Ser. A 19, 197 (communicated 27 May 1916)
+Eddington, A.S.: 1924, Nature 113, 192
+Eiesland, J.: 1925, Trans. Am. Math. Soc. 27, 213
+Einstein, A.: 1915a, Sitzungsber. Preuss. Akad. Wiss., Phys. Math. Kl., p. 778 (communicated 11 Nov. 1915)
+Einstein, A.: 1915b, Sitzungsber. Preuss. Akad. Wiss., Phys. Math. Kl., p. 844 (communicated 25 Nov. 1915)
+Einstein, A., Rosen, N.: 1935, Phys. Rev. 48, 73
+Finkelstein, D.: 1958, Phys. Rev. 110, 965
+Hilbert, D.: 1915, Nachr. Ges. Wiss. G¨ottingen, Math. Phys. Kl., p. 395 (communicated 20 Nov. 1915)
+Hilbert, D.: 1917, Nachr. Ges. Wiss. G¨ottingen, Math. Phys. Kl., p. 53 (communicated 23 Dec. 1916)
+Janne, H.: 1923, Bull. Acad. R. Belg. 9, 484
+Kreisel, E., Liebscher, D.-E., Treder, H.-J.: 1963, Ann. Phys. (Leipzig) 12, 195
+Kruskal, M.D.: 1960, Phys. Rev. 119, 1743
+Lemaˆıtre, G.: 1933, Ann. Soc. Sci. Bruxelles 53, 51
+Lichnerowicz, A.: 1955, Th´eories relativistes de la gravitation et de l’´electromagn´etisme, Masson, Paris
+Rindler, W.: 1960, Phys. Rev. 119, 2082
+Schwarzschild, K.: 1916, Sitzungsber. Preuss. Akad. Wiss., Phys. Math. Kl., p. 189 (communicated 13 Jan. 1916)
+Synge, J.L.: 1950, Proc. R. Irish Acad. 53A, 83
+Szekeres, G.: 1960, Publ. Math. Debrecen 7, 285
+Treder, H.-J.: 1975, Ann. Phys. (Leipzig) 32, 159
+Treder, H.-J.: 1978, Ann. Phys. (Leipzig) 35, 137
+Treder, H.-J.: private communication
+Weyl, H.: 1917, Ann. Phys. (Leipzig) 54, 117
+
+Addresses of the authors:
+
+email: Antoci@ﬁsav.unipv.it
+
+email: deliebscher@aip.de
+
+Salvatore Antoci, Dipartimento di Fisica “A. Volta” and INFM, Pavia, Italy
+
+Dierck Ekkehard Liebscher, Astrophysikalisches Institut Potsdam, Potsdam, Germany
+
+

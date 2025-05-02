@@ -1,0 +1,1336 @@
+1	
+
+Les	dix-neuf	confirmations	observationnelles		
+
+du	Modèle	Cosmologique	Janus	(	JCM	)	
+Jean-Pierre	Petit1,	Gilles	d’Agostini,	Nathalie	Debergh			
+
+	
+	I	-	Les	bases	du	modèle		
+Le	thème	d’un	modèle	cosmologique	doté	de	flèches	du	temps	opposées,	qui	commence	
+à	recueillir	un	certain	écho	dans	le	milieu	scientifique	a	en	fait	été	introduit	en	1967	par	
+le	Russe	Andréi	Sakharov	([1],	[2],	[3]).		Celui-ci	propose	alors	un	modèle	où	deux	
+univers	jumeaux	sont	reliés	par	cette	singularité	nommé	Big	Bang.		
+
+	
+Il	indique	que	les	flèches	du	temps,	dans	ces	deux	univers,	sont	opposées	mais	sans	
+réellement	donner	de	raison	à	cela.	Son	idée	directrice	est	de	proposer	une	explication	à	
+la	non	observation	d’antimatière	primordiale.		
+Classiquement	la	matière	baryonique	se	crée	à	partir	de	trois	quarks,	tandis	que	
+l’antimatière	est	composée	de	trois	antiquarks.	Sakharov	suggère	alors	que	la	
+production	de	matière	à	partir	de	quarks	aurait	été	plus	rapide	que	la	production	
+d’antimatière	à	partir	d’antiquarks.	Ainsi,	après	l’annihilation	des	paires	matière	
+antimatière	il	subsisterait	un	reliquat	d’un	baryon	sur	un	milliard,	plus	l’équivalent	en	
+d’antiquarks,	dans	un	rapport	trois	sur	un.		
+Par	souci	de	symétrie	Sakharov	suggère	l’existence	d’un	univers	jumeau	où	on	aurait	la	
+situation	inverse,	c’est	à	dire	un	excès	d’antimatière	et	un	excès	de	quarks.		
+Il	ne	donne	pas	de	justification	à	cette	idée	de	flèches	du	temps	opposées.		
+L’inversion	de	cette	flèche	du	temps	est	ce	qu’on	appelle	une	T-ymmetry.	Celle-ci	est	
+examinée	dans	the	quantum	Theory	of	Field	[4].	L’opérateur	d’inversion	de	temps	peut	
+alors	se	présenter	sous	deux	formes	:		
+																																																								
+1	Jppetit1937@yahoo.fr	
+
+	
+2	
+-  Linéaire	et	unitaire	
+	
+-  Antilinéaire	et	anti	unitaire.		
+	
+Le	prix	Nobel	S.Weinberg	note	qu’en	optant	pour	un	opérateur	unitaire	ceci	condurait	
+alors	à	l’existence	d’états	d’énergie	négative.	Ceux-ci	lui	semblant	par	nature	a	priori	
+exclus	il	dit	qu’on	doit	alors	opter	pour	un	choix	d’opérateur	d’inversion	temporelle	anti	
+linéaire	et	anti	unitaire,	simplement	pour	éviter	de	devoir	gérer	de	tels	objets.	Il	indique	
+qu’il	n’existe	pas	de	situation	physique	propre	à	justifier	l’existence	de	tels	états.		
+	En	2011	un	prix	Nobel	([26],[27],[28])	a	récompensé	la	mise	en	évidence	de	
+l’accélération	de	l’expansion	cosmique,	imputée	à	une	mystérieuse	énergie	noire.		Celle-
+ci	est	synonyme	de	pression	négative.	Or	une	pression	est	aussi	une	densité	volumique	
+d’énergie.	Ce	phénomène	milite	donc	pour	l’existence	d’états	d’énergie	négative,	ce	qui	
+contredit	l’affirmation	de	Weinberg.		
+	Par	ailleurs	un	travail	récent	de	mécanique	Quantique	[5]	a	montré	que	son	formalisme	
+s’accommodait	parfaitement	de	l’existence	d’objets	d’énergie,	et	par	delà	de	masse	
+négatives.		
+	En	1970	le	mathématicien	Jean-Marie	Souriau	[6]	en	développant	sa	théorie	des	
+systèmes	dynamiques	donne	aux	attributs	classique	de	la	physique,	l’énergie,	la	masse,	
+le	spin,	une	nature	et	origine	purement	géométrique,	découlant	du	groupe	dynamique	
+considéré,	en	l’occurrence	le	groupe	d’isométrie	de	l’espace	de	Minkowski.		
+	Ce	groupe	possède	quatre	composantes.	Deux	forment	le	sous-groupe	orthochrone	
+(dont	les	éléments	n’inversent	pas	le	temps)	et	les	deux	autres	le	sous	ensemble	
+antichrone,	dont	les	éléments	inversent	le	temps.		
+	Classiquement	les	physiciens	négligent	ces	deux	autres	composantes,	considérées	
+comme	non	physiques	en	se	limitant	aux	composantes	orthochrones,	formant	le	groupe	
+de	Poincaré	restreint.		
+	Mais	si	on	envisage	de	prendre	en	charge	l’ensemble	du	groupe	[12]	on	démontre	alors	
+que	l’inversion	du	temps	est	synonyme	d’inversion	de	l’énergie,	et	par	delà	de	la	masse.		
+	Ceci	donne	alors	une	signification	au	modèle	de	Sakharov.	Son	second	univers,	jumeau	
+du	nôtre,	serait	composé	de	masses	négatives	et	de	photons	d’énergie	négative.		
+	Dans	le	modèle	cosmologique	Janus	on	«	replie	»	ces	deux	feuillets	d’univers	et	on	
+obtient	alors	un	modèle	où	interagissent	des	masses	positives	et	des	masses	négatives.		
+
+	
+
+3	
+
+	
+
+	Si	telle	était	la	réalité	physique	les	particules	de	masse	négative,	émettant	des	photons	
+d’énergie	négative	serait	inobservables	pour	notre	yeux	et	instruments	de	mesure.		
+	En	reprenant	l’idée	de	Sakharov,	avec		ces	rythmes	de	production	différents,	cette	
+«	matière	gémellaire	»	serait	constituée	d’antimatière	de	masse	négative	et	sa	nature	
+serait	connue.	Il	s’agirait		
+	
+-  D’antiprotons	de	masse	négative	
+	
+-  D’antineutrons	de	masse	négative	
+	
+-  D’antiélectrons	de	masse	négative	
+	
+Baignant	dans	une	mer	de	photons	d’énergie	négative,	issue	des	annihilations.		
+		II	-	Le	problème	des	masses	négatives	
+	On	peut	alors	considérer	que	l’univers	pourrait	contenir	des	masses	positives	et	des	
+masses	négatives.	Si	on	envisage	d’inclure	ces	masses	dans	le	tenseur	énergie-matière	
+de	l’équation	d’Einstein	on	voit	apparaître	un	paradoxe	appelé	runaway	qui	contredit	un	
+des	principes	fondamentaux	de	la	physique	:	le	principe	d’action-réaction.		
+	En	effet	si	le	champ	gravitationnel	est	créé,	localement	par	la	présence	de	masses	
+positives	l’équation	d’Einstein	fournit	un	ensemble	géodésique	qui	évoque	une	
+attraction.		
+		
+
+	
+
+4	
+
+	
+
+	
+
+	Des	masses-témoins,	qu’elles	soient	positives	ou	négatives,	ne	peuvent	suivre	que	cette	
+unique	famille	de	géodésiques.	On	en	déduit	que		
+	
+-  Les	masses	positives	attirent	tout,	qu’il	s’agisse	de	masses	positives	ou	de	masses	
+négatives	
+	
+Si	on	suppose	maintenant	que	le	tenseur	énergie	matière	est	construit	à	partir	d’une	
+distribution	de	masses	négatives,	on	obtient	des	géodésiques	évoquant	une	répulsion.		
+	
+
+	Là	encore	des	masses-témoins,	qu’elles	soient	positives	ou	négatives,	ne	peuvent	suivre	
+que	cette	unique	famille	de	géodésiques.	On	en	déduit	que		
+	Les	masses	négatives		repoussent	tout,	qu’il	s’agisse	de	masses	positives	ou	de	masses	
+négatives.	Elles	se	repoussent	elles-mêmes	et	repoussent	les	particules	de	masse	
+positive.		
+			III	-	L’effet	Runaway	
+	Considérons	maintenant	un	couple	de	masses	+	m	et	–	m	:	
+	
+
+	
+
+5	
+
+	
+
+gµν
+
+gµν
+  
+
+	La	masse	positive	s’enfuit,	poursuivie	par	la	masse	négative.	Ces	masses	subissent	une	
+accélération	uniforme,	mais	leur	énergie	cinétique	globale	reste	constante	puisque	
+l’énergie	de	la	masse	négative	est	négative.		
+	On	a	donné	à	ce	phénomène	le	nom	de	runaway,	qui	viole	le	principe	d’action-réaction.		
+	Certains	 chercheurs	 (Farnes	 [8],	 Chardin	 &	 Benoit-Lévy	 [9])	 envisagent	 de	
+s’accommoder	de	ce	phénomène.			
+	Si	on	envisage	de	reconstituer	le	principe	action-réaction	il	faut	que	les	particules	
+témoins	positives	et	négatives	suivent	des	géodésiques	différentes,	issues	de	métriques	
+(−)		pour	que,	placée	dans	un	champ	gravitationnel	donné	elles	réagissent	
+(+)et	  
+(−)		.		
+différemment.	A	ces	métriques	seront	associés	des	tenseurs	de	Ricci.	  
+			IV	-	Modèles	bimétriques		
+	Des	 modèles	 bimétriques	 ont	 été	 envisagés	 par	 T.Damour	 &	 I.	 Kogan	 [10],	
+S.Hossenfelfder	[11]	et	Petit	&	d’Agostini	([12],	[16])	basés	sur	des	systèmes	d’équations	
+de	champ	couplées.		
+Le	système	de	la	référence	[10]	est	:				
+(1)	
+	Celui	de	la	référence	[11]	s’écrit		
+(2)	
+
+(+)et	  
+
+Rµν
+
+Rµν
+
+	
+
+	
+
+(−)
+
+	
+
+	
+
+1
+2
+
+⎤
+⎥
+⎥
+⎦
+
+⎡
+⎢
+⎢
+⎣
+
+1
+2
+
+(+) +
+
+⌢Tµν
+
+g(+)
+g(−)
+
+g(−)
+g(+)
+
+6	
+
+R(−)gµν
+
+R(+)gµν
+
+(+) = χ Tµν
+
+Rµν
+(−) −
+  
+
+Rµν
+(+) −
+  
+
+⌢Tµν
+(+) + Tµν
+(−)
+
+⎡
+(−) = − χ
+⎢
+⎢
+⎣
+
+	
+Le	système	de	la	référence	[15]		
+(3)	
+	
+	(4)		
+Les	trois	systèmes	ont	exactement	les	mêmes	premiers	membres,	parce	qu’ils	dérivent	
+d’actions	similaires,	également	inspirées	par	celle	produisant	l’équation	d’Einstein.		
+Le	système	de	la	référence	[10]	fait	recours	à	des	gravitons	dotés	d’un	spectre	de		
+masses	et	ne	débouche	pas	sur	un	modèle	permettant	une	confrontation	à	des	
+observations.	Par	contre	ce	recours	engendre	une	ghost	instability,	typique	de	cette	
+approche	par	une	«	massive	gravity	».	Le	système	de	la	référence	[11]	évite	l’écueil	de	la	
+violation	du	principe	d’action-réaction,	mais	limite	la	production	d’une	solution	à	une	
+situation	symétrique	où	la	population	de	masse	négative	est	une	copie	de	celle	de	masse	
+positive.	Il	y	est	fait	mention	du	phénomène	du	phénomène	de	gravitational	lensing,	déjà	
+présentée	en	1995	dans	la	référence	[13].		
+			V	-	Le	modèle	Cosmologique	Janus	(	JCM	)		
+	Quand	on	tente	d’introduire	des	masses	négatives	dans	le	formalisme	de	la	Relativité	
+Générale,	c’est	à	dire	dans	l’équation	d’Einstein,	on	obtient	le	schéma	d’interaction	ci-
+après		
+
+⎤
+⎥
+⎥
+⎦
+
+Les	masses	négatives	se	repoussent	tandis	que	le	comportement	des	couples	de	masses	
+de	signes	opposées	viole	le	principe	l’action-réaction.			
+Par	contre	les	formulations	[11]	et	[12]	conduisent,	dans	l’approximation	Newtonienne	
+au	schéma	d’interaction	suivant	:		
+
+	
+
+	
+
+7	
+
+	
+
+	
+
+Le	principe	d’action-réaction	est	sauvegardé.		
+	1	-	JCM	et	les	effets	de	lentille	gravitationnelle.		
+	Le	fait	que	les	masses	de	signes	opposés	se	repoussent	fait	qu’à	l’issue	d’un	phénomène	
+d’instabilités	gravitationnelles	conjointes2	on	trouvera	dans	ce	modèle	des	concentrations	
+de	masse	positive	aussi	bien	que	des	concentrations	de	masses	négatives.	Celles-ci	
+s’accompagnent	d’un	effet	de	lentille	gravitationnelle.	Considérant	la	trajectoire	d’un	
+photon	d’énergue	positive	ce	rayonnement	subira	le	classique	effet	de	lentille	
+gravitationnelle	(positif)	au	voisinage	d’une	masse	positive.	Ceci	aura	pour	effet	de	
+renforcer	la	luminosité	des	sources,	par	concentration	des	rayons.		
+Mais	une	concentration	de	masse	négative	(invisible	mais	agissant	sur	les	masses	
+positive	et	les	photons	d’énergie	positive	par	antigravitation)	sera	la	source	d’un	effet	de	
+lentille	gravitationnelle	négatif	avec	atténuation	de	la	luminosité	de	la	source	par	
+dispersion	des	rayons.		
+	Enfin	si	le	rayon	lumineux	traverse	une	lacune	dans	la	masse	négative,	celle-ci	
+équivalant	à	une	concentration	de	masse	positive	et	créera	un	effet	de	lentille	
+gravitationnelle	positif.		
+		
+
+		
+		2	-	JCM	:	dynamique	cosmique	
+																																																									
+2	Décrit	par	un	ensemble	de	deux	équations	du	type	«	Jeans	»,	couplées.		
+
+	
+8	
+Le	système	de	la	référence	(3)	+	(4)	lorsqu’on	considère	la	phase	où	la	matière	est	
+dominante	[15]		a	permis	de	construire	une	solution	instationnaire	avec	homogénéité	et	
+isotropie	présentant	un	excellent	accord	avec	l’observation	[18].	Figure	extraite	de	la	
+référence	[18]	:	Comparaison	entre	les	modèles	Janus	et	LCDM	
+
+	
+
+	
+	3	-	Une	première	réponse	à	la	question	de	l’avant	Big	Bang	
+Dans	le	modèle	Janus	on	peut	envisager	que	les	géodésiques	parcourues	dans	le	sens	
+futur	passé,	au	lieu	de	converger	vers	une	singularité	Big	Bang	aboutisse	a	un	space	
+bridge	associé	à	une	extension	spatiale	cosmique	minimale.		
+
+	
+
+9	
+
+1
+2
+
+⌢Tµν
+  
+
+Rµν
+(+) −
+ 
+
+(+)	
+
+	
+	Dans	ces	conditions	la	question	de	l’avant	Big	Bang	perd	son	sens.		
+	4	-	Comparaison	de	JCM	vis	à	vis	des	observations	relativistes	locales.		
+Ce	schéma	fait	que	là	où	se	trouve	une	concentration	de	masse	positive,	la	masse	
+négative	se	trouve	repoussée	(et	vice-versa).	Dans	ces	conditions	le	tenseur	
+(−)	
+traduisant	l’action	des	masses	négatives	sur	les	masses	positive3	est	localement	
+négligeable	et	l’équation	(3)	devient	:			
+(5)																																																		
+C’est	à	dire	l’équation	d’Einstein	avec	une	constante	cosmologique	nulle.	Ainsi	le	modèle	
+cadre-t-il	avec	les	observations	qui	servent	classiquement	à	justifier	localement	la	
+validité	du	modèle	de	la	Relativité	Générale	(avance	du	périhélie	de	Mercure,	effet	de	
+lentille	gravitationnelle	créé	par	le	soleil,	etc).		
+	5	-	JCM	et	la	structure	à	grande	échelle	
+Dans	la	suite	d’articles	publiés	depuis	1995	on	a	exploré	toute	la	gamme	des	prédictions	
+issues	du	modèle	ainsi	que	des	conformations	subséquentes	vis	à	vis	des	confirmations	
+observationnelles.	A	partir	des	lois	(Newtoniennes)	d’interaction	il	a	été	possible	dès	le	
+milieu	des	années	quatre	vingt	dix	de	mener	des	simulations	numériques.	La	première	
+idée	avait	été	de	partir	d’un	système	symétrique	où	les	densité	des	deux	milieux	soient	
+égales	et	opposées.	On	observait	alors	un	phénomène	de	percolation	:		
+																																																								
+3	Effet	de	géométrie	induite	
+
+(+) = χ Tµν
+
+R(+)gµν
+
+	
+
+10	
+
+	
+
+	
+
+Evolution	d’une	système	à	partir	de	 ρ(−) = ρ(+)		
+Les	deux	populations	tendent	à	se	séparer,	mais	ceci	ne	ressemble	pas	à	la	structure	à	
+grande	échelle	de	l’univers.	Dès	1995	émergea	l’idée	de	chercher	comment	évoluerait	un	
+système	tel	que	 ρ(−) >> ρ(+)	.	Sachant	que	les	temps	d’accrétion	(temps	de	Jeans	)	
+varient	comme	
+		on	a	pu	observer	que	les	masses	négatives,	auto-attractives	dans	le	
+modèle	 Janus,	 forment	
+les	 premières	 une	 série	 de	 conglomérats	 sphéroïdaux	
+régulièrement	espacés,	repoussant	la	masse	positive	dans	l’espace	résiduel,	lui	conférant	
+ainsi	une	structure	lacunaire,	en	«	bulles	jointives	».	Ci-après	le	résultat	des	premières	
+simulations	de	1995	[13].		
+
+1
+ρ
+
+ 
+
+After	[13]	schematic	formation	of	the	very	large	structure	of	the	universe	
+	Ces	simulations	militent	pour	une	masse	positive	agencée	en	bulles	jointives	:		
+
+	
+
+11	
+
+	
+Dans	ces	conditions	la	matière	a	d’abord	tendance	à	se	rassembler	selon	les	lignes	de	
+jonction	de	trois	bulles	en	formant	des	filaments,	puis	aux	points	de	jonction	de	quatre	
+bulles	vides	en	formant	les	amas	de	galaxies.	Au	centre	de	chacun	de	ces	grands	vides,	
+d’une	centaine	de	millions	d’années	lumière	de	diamètre,	se	situe	96un	conglomérat	de	
+masse	négative,	repoussant	la	matière.		
+La	découverte	en	2017	du	Great	Repeller	[20]  trahit	cette	présence	de	ce	conglomérat	
+de	masse	négative,	repoussant	les	galaxies	environnantes.		
+Ces	conglomérats	de	masse	négative	agissent	sur	la	lumière	issue	des	galaxies	lointaines,	
+à	fort	redshift	(z>7)	en	atténuant	leur	luminosité.	Ainsi	ces	galaxies	distantes	
+apparaîtront-elles	comme	des	naines	alors	que	leurs	masses	sont	bien	supérieures.	En	
+supposant	que	leurs	luminosités	intrinsèques	soient	équivalente	à	celles	de	galaxies	
+proches	ceci	pourrait	constituer	une	première	source	d’information	permettant	de	
+préciser	les	paramètres,	densité,	extension,	température,	de	ces	conglomérats	de	masse	
+négative.	De	même	la	mise	en	évidence	d’une	frontière	significative	d’atténuation	de	la	
+luminosité	des	galaxies	distantes	fournirait	l’extension	spatiale	du	Great	Repeller.			
+
+	
+
+12	
+
+	
+
+	6	-	JCM	et	les	composants	invisibles	de	l’univers	
+Classiquement	matière	et	antimatière	se	créent	à	partir	de	quarks	:		
+
+Le	modèle	Janus	apporte	un	support	géométrique	cohérent	à	l’idée	d’Andréi	Sakharov.	Si,	
+comme	lui	on	suppose	que	le	taux	de	production	de	baryons	(de	masse	positive)	puisse	
+être	très	légèrement	supérieur	à	celui	des	antibaryons	(de	masse	positive)	on	aurait	le	
+résidu	suivant,	dans	le	monde	des	masses	et	des	énergies	positives	:	
+
+	
+
+	
+
+Et	dans	le	monde	négatif	:		
+
+13	
+
+	
+
+	
+Les	éléments	de	masse	et	d’énergie	négative	n’interagissent	avec	notre	propre	monde,	
+de	masse	et	d’énergie	positive	qu’à	travers	les	forces	(d’anti)gravitation	en	créant	un	
+effet	de	lentille	gravitationnel	négatif.	Si	on	considère	que	les	particules	de	masse	
+négative	émettent	des	photons	d’énergie	négative,	ceux-ci	sont	invisibles	pour	nos	yeux	
+et	nos	instruments	de	mesure.		
+Mais	on	peut	également	justifier	cette	invisibilité	sur	des	bases	géométriques	en	disant	
+que	les	photons	d’énergie	négative	suivent	des	géodésiques	de	longueur	nulle,	issues	de	
+la	métrique	  
+(−)	n’ont	rien	de	commun	avec	les	géodésiques	sur	lesquelles	se	placent	les	
+particules	de	masse	positive,	issues	de	la	métrique	  
+(+).		
+Et	vice-versa	:	pour	un	observateur	constitué	de	masse	négative	(d’antimatière	de	masse	
+négative)	nos	galaxies,	étoiles	et	planètes	seraient	invisibles.		
+
+gµν
+
+gµν
+
+	
+14	
+La	masse	négative	joue	le	double	rôle	de	matière	sombre	et	d’énergie	noire,	puisque	sa	
+présence	rend	compte	de	l’accélération	de	l’expansion	cosmique.	On	peut	donc	
+remplacer	le	schéma	accompagnant	le	modèle	 ΛCDM	par	celui	où	96	%	du	contenu	
+cosmique	est	constitué	d’antimatière	de	masse	négative.		
+
+	
+	7	–	JCM	:	l’antimatière	dans	le	champ	gravitationnel	terrestre.		
+Des	expériences	sont	en	cours	au	CERN	dont	le	but	est	de	mettre	en	évidence	le	
+comportement	d’une	antimatière	de	laboratoire,	créée	dans	le	grand	collisionneur,	sous	
+l’effet	du	champ	gravitationnel	terrestre.	Certains	pensent	(et	espèrent)		[9]			que	celle-ci	
+pourrait	«	tomber	vers	le	bas	».		
+Selon	le	modèle	Janus	il	existe	deux	types	d’antimatière.		
+-  Une	antimatière	de	masse	positive,	correspondant	à	une	C-symétrique,	que	l’on	
+pourrait	qualifier	«	d’antimatière	de	Dirac	»	
+	
+-  Une	antimatière	de	masse	négative,	PT-symétrique,	que	l’on	pourrait	qualifier	
+«	d’antimatière	au	sens	de	Feynman	».	Sa	masse	négative	provenant	de	la	T-
+symétrie.		
+C’est	cette	seconde	antimatière	qui	constitue	le	composant	invisible	de	l’univers	(à	
+96	%).	L’antimatière	de	laboratoire	appartient	par	contre	à	la	première	catégorie.	Le	
+modèle	Janus	prédit	donc	que	cette	antimatière	se	comportera	comme	la	matière	
+ordinaire	lorsqu’elle	sera	soumise	au	champ	gravitationnel	terrestre.		
+	8	-		JCM	et	le	«	théorème	CPT	».		
+
+	
+15	
+Ce	théorème	affirme	que	la	CPT-symétrique	d’une	particule	est	identique	à	cette	même	
+particule.	Cette		assertion4	repose	sur	le	fait	que	la	T-symétrie	n’inverse	pas	l’énergie,	ce	
+qui	qui	est	un	a	priori	de	la	Théorie	Quantique	des	Champs,	fondé	sur	le	choix,	arbitraire,	
+d’un	opérateur	d’inversion	de	temps	antiunitauire	et	antilinéaire.		
+Avec	le	choix	d’une	opérateur	T	linéaire	et	unitaire	c’est	toute	la	Théorie	Quantique	des	
+Champs	qui	doit	être	remise	sur	le	métier.		
+	9	–	JCM	:	Structures	des	concentrations	de	masse	négative.		
+On	peut	conjecturer	qu’une	nucléosynthèse	primordiale	donne	naissance	à	de	l’anti-
+hélium	de	masse	négative,	voire	à	des	traces	d’anti-lithium	de	masse	négative.	Ceci	
+indiquerait	de	quoi	seraient	faits	les	conglomérats	de	masse	négative.	Ceci	était	ceux-ci	
+se	comporteraient	comme	des	proto-étoiles	géantes,	rayonnant	dans	le	rouge	et	
+l’infrarouge,	en	émettant	des	photons	d’énergie	négative	(qui	échapperaient	à	nos	
+instruments	de	mesure).	Comme	les	proto-étoiles	ces	formations	auraient	un	cooling	
+time,	mais	d’une	durée	supérieure	à	l’âge	de	l’univers.	Ainsi	ces	objets	n’auraient	
+pratiquement	pas	évolué	depuis	leur	formation.	Le	corollaire	est	que	ce	monde	négatif	
+ne	donne	naissance,	ni	à	des	galaxies,	ni	à	des	étoiles,	ni	à	des	éléments	atomiques	plus	
+lourds	que	l’hydrogène	et	l’hélium,	ni	à	des	planètes.		
+
+masse	négative	
+
+	
+Le	«	monde	négatif	»	tel	que	le	percevrait	un	observateur	constitué	de	masse	négative	:	
+une	distribution	régulière	de	conglomérats	sphéroïdaux	constitués	d’antimatière	de	
+	Ce	monde	n’est	donc		donc	pas	propice	à	l’apparition	de	la	vie,	qui	resterait	l’apanage	du	
+monde	positif.		
+																																																								
+4	Un	«	théorème	de	physicien	»,	disait	le	mathématicien	Jean-Marie	Souriau	
+
+	
+16	
+	10	–	JCM	et	la	cartographie	par	weak	lensing.		
+Comme	suggéré	par	les	Japonais	[21]		des	concentrations	de	masse	négative	produisent	
+une	distorsion	inverse	des	images	des	galaxies,	de	la	même	manière	que	le	font	des	
+lentilles	convergentes	et	divergentes.	L’optique	convergente	engendre	une	distorsion	
+azimutale	tandis	que	l’optique	divergente	créer	une	distorsion	radiale	comme	indiqué	
+sur	cette	figure	:		
+
+Les	Japonais	ont	suggéré	d’entreprendre	une	cartographie	alternative	à	travers	le	weak	
+lensing	en	partant	de	l’hypothèse	d’un	weak	lensing	négatif.	On	obtiendrait	alors	une	
+cartographie	différente	qui	pourrait	alors	être	comparée	aux	cartes	figurant	la	
+disposition	des	grands	vides	comme	celui	présenté	en	1997	par	l’Israélien	Tsvi	Piràn	
+[22]		.		
+
+	
+
+	
+
+17	
+
+	
+
+		11	–	JCM	est	la	formation	des	galaxies.			
+C’est	l’instabilité	gravitationnelle	qui	crée	les	objets	dans	l’univers	lorsque	se	constitue	
+la	structure	à	grande	échelle	de	l’univers.	Pour	que	la	condensation	de	matière	puisse	
+s’effectuer	il	est	nécessaire	qu’une	partie	de	l’énergie	collectée	puisse	être	évacuée	par	
+rayonnement.	Dans	la	configuration	suggérée	par	le	modèle	Janus	la	matière	se	distribue	
+selon	des	plaques	qui	se	trouvent	prises	en	sandwich	entre	des	conglomérats	de	masse	
+négative	qui	exercent	sur	celles-ci	une	contre	pression.	La	configuration	en	plaques	est	
+alors	optimale	pour	assurer	un	refroidissement	rapide	par	émission	de	rayonnement.		
+
+	
+Les	puissants	moyens	de	calcul	actuels	pourraient	permettre	de	reconstituer	en	3D	ce	
+schéma	de	formation	des	galaxies.		
+	
+
+	
+18	
+12	-		JCM	:	Confinement	des	galaxies,	courbes	de	rotation.		
+Il	est	clair	dans	ces	conditions	que	la	masse	négative	envahira	tout	l’espace	se	situant	
+entre	les	galaxies	et	exercera	sur	elles	une	contre-pression,	assurant	leur	confinement.		
+
+		
+Une	lacune	dans	une	distribution	de	masse	négative	est	équivalente	à	une	concentration	
+de	masse	positive.	On	a	donc	calculé	et	présenté	en	2000	[23]	la	courbe	de	rotation	
+résultant	de	ce	phénomène	de	confinement	:		
+
+Qui	s’est	trouvée	coller	parfaitement	avec	des	résultats	d’observation.		
+
+	
+
+	
+
+Résultat	retrouvé	en	2017	par	Jamie	Farnes	[8]			:		
+
+19	
+
+	
+
+13	-	JCM	et	la	Structure	spirale	
+Des	simulations	2D	réalisées	en	plaçant	une	galaxie	dans	un	environnement	de	masse	
+négative,	les	deux	éléments	étant	calculés	sur	la	basse	d’une	résolution	de	deux	
+équations	de	Vlasov	couplées	à	une	équation	de	Poisson	ont	fait	naître	eu	quelques	tours,	
+par	friction	dynamique,	une	formation	spirale	barrée	perdurant		pendant	trente	tours.	
+Autant	cette	friction	s’accompagnait	d’une	forte	baisse	du	moment	cinétique	de	la	
+
+	
+
+	
+20	
+galaxie	au	moment	de	la	formation	de	cette	structure,	autant	cette	baisse	devenait	
+insensible	par	la	suite	.		
+
+	
+	14	-	JCM	:	Galaxies,	schéma	évolutif	
+Autant	on	a	créé	depuis	longtemps	un	classement	entre	les	différentes	formes	des	
+galaxies,	autant	la	raison	qui	fait	qu’elles	adoptent	ces	formes	n’est	pas	claire.	A	travers	
+le	simulation	on	a	pu	par	exemple	montrer	que	le	passage	de	galaxies	spirales	barrées	
+SBb	à	SBa	s’obtenait	en	accroissant	le	contraste	de	densité	entre	cette	de	la	masse	
+négative	environnante		et	celle	de	la	galaxies.		
+
+	
+	15	-	JCM	:	Magnitude	of	the	distant	sources	(	Z	>	7	)		
+Quand	la	lumière	traverse	des	conglomérats	de	masse	négative	elle	n’interagit	avec	
+lentille	
+ceux-ci	 que	 par	 antigravitation,	 ce	 qui	 s’accompagne	 d’un	 effet	 de	
+
+	
+21	
+gravitationnelle	négatif	ayant	pour	effet	de	réduire	la	magnitude	de	sources	très	
+distantes	en	l’occurrence	des	galaxies	ayant	des	redshifts	supérieurs	à	sept.		
+
+	
+Ces	faibles	magnitudes	ayant	été	constatées	les	astronomes	pensent	que	des	galaxies	
+naines	se	formeraient	d’abord,	donnant	des	objets	plus	denses	par	fusion.	Nous	pensons	
+qu’il	s’agit	de	galaxie	standard	et	que	cet	effet	trahit	l’existence	de	ces	conglomérats	de	
+masse	négative.		
+Par	ailleurs	des	mesures	futures,	plus	précises,	concernant	le	Great	Repeller	pourraient	
+permettre,	en	mettant	en	évidence	d’un	gradient	d’atténuation,	d’en	préciser	l’extension.		
+	16	-		JCM	et	l’homogénéité	de	l’univers	primitif.5		
+En	1988	[24],	précisé	en	1995	[13],	a	été	présentée	une	interprétation	de	l’homogénéité	
+de	l’univers	primitif,	alternative	au	schéma	mainstream	de	l’inflation,	attribuée	des	
+particules	de	nature	inconnue	appelées	inflatons.	Selon	cet	autre	schéma	l’homogénéité	
+de	l’univers	primitif	serait	du	à	une	variation	séculaire	de	la	vitesse	de	la	lumière.	Mais	à	
+la	différence	des	autres	modèles	à	c	variable	celui-ci	met	en	jeu	des	variations	conjointes	
+de	toutes	les	grandeurs	de	la	physique	de	manière	à	laisser	invariantes	les	équations	où	
+je	phénomène	ne	s’accompagne-t-il	pas	des	classiques	
+celles-ci	figurent.	Ainsi	
+contradictions	observationnelles	liées	à	la	variation	de	la	constante	de	structure	fine,	etc.	
+Sont	impliqués	dans	ces	variations	de	jauge	généralisées	:		
+-  Les	constantes	(indépendantes)	de	la	physique 		
+	
+	
+Le	fait	de	barrer	les	lettres	signifie	que	ces	grandeurs	varient.		
+-  Des	jauges	de	temps	et	d’espace		a	et	  ˆt  	
+																																																								
+5	Voir	Janus	18	https://www.youtube.com/watch?v=jlwD0r0IHEc&feature=youtu.be	
+
+	
+22	
+	
+Formant	l’ensemble	
+	
+	En	se	basant	sur	l’une	quelconque	de	ces	grandeurs	il	est	alors	possible	d’exprimer	
+toutes	les	autres	en	fonction	de	celles-ci.	Le	plus	parlant	est	d’exprimer	ces	grandeurs	à	
+l’aide	de	la	jauge	d’espace.	On	obtient	alors	:		
+(6)		
+	
+		A	c	constant,	l’évolution	de	l’univers	dans	sa	phase	primitive	correspond	à	:		
+	
+
+	
+
+	
+	A	«	constantes	variables	»	l’évolution	correspond	à	un	processus	de	jauge	.	L’évolution	
+de	l’horizon	cosmologique	suit	alors	la	croissance	de	l’univers	et	l’homogénéité	est	ainsi	
+assurée	à	toutes	les	échelles	:		
+
+	
+
+23	
+
+	
+	Il	n’est	plus	nécessaire	de	faire	recours	au	modèle	de	l’inflation	cosmique.		
+Dans	ces	conditions	toutes	les	longueurs	caractéristiques	varient	comme	a	et	tous	les	
+temps	caractéristiques	varient	comme	  ˆt.	Toutes	les	énergies	sont	également	conservées,	
+ce	qui	ne	cadre	pas	avec	un	phénomène	de	redshift	et	nous	amène	à	supposer	que	cette	
+dérive	des	constantes	se	produit	à	une	époque	se	situant	avant	le	découplage,	quand	les	
+mesures	ne	permettent	pas	de	mettre	un	redshift	en	évidence.	Nous	supposons	que	ce	
+phénomène	intervient	quand	la	densité	d’énergie	par	unité	de	volume	(la	pression)	
+dépasse	un	certain	seuil.		On	peut	aussi	supposer	que	ce	processus	de	jauge	s’enclenche	
+quand	la	distance	entre	les	baryons	devient	inférieure	à	leur	longueur	de	Compton	et	
+qu’ainsi	ces	particules	ne	disposent	plus	d’une	place	suffisante	pour	loger	leur	fonction	
+d’onde,	ce	qui	appelle	un	processus	évolutif	différent.	La	vitesse	de	la	lumière	et	la	
+constante	de	la	gravitation	décroissent,	tandis	que	les	autres	constantes	connaissent	une	
+évolution	parabolique,	toutes	ces	constantes	tendant	asymptotiquement	les	les	valeurs	
+que	nous	leur	connaissons	aujourd’hui.		
+	
+Ce	qui	correspond	aux	courbes	:		
+
+	
+
+24	
+
+	
+
+	Ce	processus	affecte	les	deux	ensembles	de	masses	qui	évoluent	donc	avec	leur	propre	
+jeu	de	constantes	et	de	facteurs	d’échelle.		Cette	profonde	rupture	de	symétrique	se	
+produit	au	tout	début	de	l’évolution,	à	partir	d’une	situation	totalement	symétrique,	
+phénomène	qui	a	pu	être	modélisé.	Le	schéma	ci-dessus	représente	l’évolution	globale	
+du	régime	dans	le	modèle	cosmologique	Janus.	L’instabilité	crée	d’abord	deux	jeux	de	
+«	constantes	variables	»,	l’un	pour	les	masses	positives	et	l’autre	pour	les	masses	
+négatives.	
+	
+Ces	deux	ensembles	connaissent	alors	leur	propre	processus	de	jauge	qui	correspond	à	:		
+
+Puis	la	situation	se	stabilise,	les	deux	entités	évoluent	cette	fois		avec	leurs	deux	jeux	de	
+constantes	absolues.		
+
+	
+
+	
+25	
+	
+	17	-		JCM	et	les	fluctuations	du	CMB.			
+Les	deux	entités	sont	soumises	au	phénomène	d’instabilité	gravitationnelle	à	toutes	les	
+échelles,	y	compris	lorsque	les	deux	milieux	ont	des	contenus	constitués	de	
+rayonnements.	L’instabilité	gravitationnelle	qui	s’y	développe	est	alors	associée	à	une	
+longueur	de	Jeans	qui	se	trouve	être	de	l’ordre	de	l’horizon	cosmologique6	lequel	est	de	
+l’ordre	du	scale	factor	dans	les	deux	populations	dans	ces	évolutions	«	à	constantes	
+variables	».		
+	
+
+	
+	Les	fluctuations	qui	affectent	une	population	ne	sont	ainsi	pas	détectable	par	un	
+observateurs	faire	du	même	type	de	matière.	Par	contre,	comme	le	système	est	très	
+dissymétrique	les	fluctuations	de	densité	affectant	le	monde	négatif	impriment	leur	
+empreinte	dans	le	monde	positif	et	ceci	constitue	une	interprétation	alternative	aux	
+fluctuations	du	CMB[25].			
+
+																																																								
+6	Raison	pour	laquelle	on	ne	s’est	jamais	préoccupé	de	ce	phénomène,	considéré	comme	
+fondamentalement	inobservable.		
+
+	
+
+26	
+
+  
+
+a (+)
+
+LJ
+(+)
+(−) ∝
+LJ
+
+a (−) ∝ 100		
+a(−) ∝10		
+
+	
+	Dans	ce	modèle	on	impute	les	fluctuations	du	CMB	à	l’empreinte	des	fluctuations	
+gravitationnelles	sévissant	dans	le	monde	des	masses	négatives.	La	longueur	d’onde	
+caractéristique	étant	de	l’ordre	du	degré	on	a	donc	un	rapport	entre	les	longueurs	de	
+Jeans	et	les	scale	factor	de	l’ordre	de	cent.		
+(7)																																																																	
+Si,	ce	qui	est	conjecturé,	les	vitesses	de	la	lumière,	différentes,	découlent	des	relations	de	
+jauge	[13]	on	a	:	
+(8)																																																																	
+Cela	entraîne	que		la	vitesse	de	la	lumière	est	dix	fois	plus	élevée	dans	le		versant	négatif.		
+	18	-	JCM	et	les	«	bulles	d’univers	»	
+	–Dans	ces	«	bulles	d’univers	»	jointives	les	jeux	de	constantes	diffèrent	de	l’une	à	l’autre,	
+ce	qui	donne	un	support	à	une	image	de	baby	universes.	Mais	si	ces	constantes	diffèrent	
+les	équations	où	elles	figurent	sont	semblables,	d’une	bulle	à	l’autre,	ce	qui	fait	que	les	
+histoires	qui	accompagnent	chacune	de	ces	bulles	gardent	une	complète	similitude.	Dans	
+chacune	de	ces	bulles	se	constituent	les	mêmes	objets,	de	la	nucléosynthèse	donnant	
+naissance	à	la	table	de	Mendeleiev	à	la	création	de	galaxies,	d’étoiles,	de	planètes,	de	
+biomolécules	etc.		
+	
+
+La	 combinaison	 des	 deux	 permet	 potentiellement	 de	 voir	 les	 temps	 des	 voyages	
+interstellaires	 réduits	 d’un	 facteur	 mille,	 à	 condition	 de	 pouvoir	 opérer	 l’inversion	 de	 la	
+masse	d’un	véhicule	et	de	ses	occupants.		
+
+c(−)
+c(+) ∝
+  
+
+a(+)
+
+	
+27	
+19	-	JCM	et	le	temps	cosmologique.		
+on	tente	de	conjecturer	ce	qui	a	pu	se	produire	en	remontant	dans	le	temps	jusqu’au	
+supposé	Big	Bang	On	se	contente	de	s’appuyer	sur	«	une	variable	temps	»	désignée	par	
+le	lettre	t.	Mais	ce	temps	a-t-il	un	sens	?	Serait-il	mesurable	?	Et	à	l’aide	de	quels	
+instruments	?		
+Quand	on	remonte	dans	le	passé	lointain	de	l’univers	plusieurs	problèmes	apparaissent.	
+Jadis	le	prix	Nobel	Steven	Weinberg	dans	son	célèbre	livre	«	Le	trois	premières	
+cosmique	
+minutes	»	 estimait	 qu’entreprendre	 une	 description	 du	
+antérieurement	au	premier	centième	de	seconde	était	problématique.	A	côté	de	cela	la	
+température	d’un	milieu	constitué	de	particules	n’est	rien	d’autre	que	la	mesure	de	
+l’énergie	(cinétique)	moyenne	de	ses	composants.	Ainsi,	lorsqu’on	remonte	le	fil	des	
+évènements	ces	mêmes	composants	se	trouvent	inexorablement	dotés	de	vitesses	
+relativistes,	tendant	à	terme	vers	celle	de	la	lumière.	Or	la	contraction	de	Lorentz	fait	
+qu’alors	«	le	mercure	gèle	dans	les	chrononomètres	»,	la	mesure	du	temps	perdu	son	
+sens.	On	peut	évidemment	envisager	une	horloge	élémentaire,	purement	conceptuelle,	
+composée	de	deux	masses	orbitant	autour	de	leur	centre	de	gravité	commun.		
+
+contenu	
+
+	
+
+Dans	un	schéma	où	les	masses,	la	constante	de	gravité	et	la	distance	joignant	ces	deux	
+objets	sont	des	constantes,	le	période	de	rotation	l’est	aussi.	Pour	nous,	une	mesure	de	
+temps	est	avant	tout	la	mesure	d’un	angle.	C’est	le	tour	de	la	trotteuse	de	nos	montres	
+qui	marche	la	minute,	la	tour	de	la	petite	aiguille	qui	marque	les	heures	;	le	tour	de	la	
+Terre	sur	elle-même	qui	marque	les	jours	et	le	tour	de	la	Terre	autour	du	soleil	qui	
+correspond	à	l’année.		
+Avec	une	telle	description	on	atteint	le	moment	qualifié	de	Big	Bang	alors	que	notre	
+horloge	aura	effectué	sur	elle-même	un	nombre	fini	de	tours.	
+Les	choses	se	passent	différemment	quand	on	opte	pour	le	schéma	«	Janus	»,	à	
+«	constantes	variables	».	Notre	horloge	élémentaire	voit	sa	période	dépendre	de	
+plusieurs	choses.	La	distance	entre	les	masses	diminue	et	tend	vers	zéro	au	fur	et	à	
+mesure	qu’on	remonte	dans	le	passé.	Les	masses	et	la	constante	de	gravité	varient	
+également.	Le	calcul	montre	alors	que	la	période	de	rotation	tend	également	vers	zéro	et	
+qu’ainsi,	en	tentant	de	remonter	vers	«	une	origine	»,	notre	horloge	élémentaire	devra	
+effectuer	un	nombre	infini	de	tours	!		
+Plus	haut	nous	avions	déjà	suggéré	que	le	modèle	Janus	remettait	en	question	la	validité	
+de	l’adverbe	«	avant	»,	près	de	l’origine	dans	la	mesure	où	ce	qui	est	qualifié	de	Big	Bang	
+se	traduit,	selon	Sakharov	initialement,	par	une	inversion	de	la	flèche	du	temps.	Mais,	«	à	
+constantes	 variables	»	
+fut-ce	
+il	 devient	 même	 problématique	 d’atteindre,	
+conceptuellement,	l’origine	du	temps.	Du	grain	à	moudre	pour	les	philosophes.		
+
+	
+28	
+On	peut	proposer	deux	images	pour	illustrer	cette	idée.	Dns	la	première	l’univers	est	
+comparable	à	un	livre.	L’instant	zéro	serait	comparable	à	sa	première	page,	là	où	
+l’auteur	du	livre	aurait,	dans	une	préface,	consigné	ses	intentions.	Quand	nous	tentons	
+d’accéder	à	celle-ci	les	pages	du	livre	deviennent	de	plus	en	plus	fines.	Leur	épaisseur	
+tendant	vers	zéro	il	devient	impossible		d’effectuer	cette	démarche.	Si	on	assimile	les	
+caractères	présents	sur	les	pages	à	des	évènements	microphysiques	quand	on	feuillète	
+le	livre	à	rebours	les	chapitres,	puis	les	phrases,	puis	les	mots	même	disparaissent.	Les	
+pages	ne	sont	plus	emplies	que	d’une	distribution	aléatoire	de	caractères,	dénuée	de	
+toute	signification7.	La	signification	conceptuelle	du	modèle	serait	que	l’accession	à	un	
+supposé	«	instant	zéro	»	impliquerait	une	suite	infinie	d’évènements	élémentaires8.		
+	
+
+	
+	On	connaît	le	paradoxe	dit	d’Achille	et	la	tortue,	où	celui-ci	ne	parient	pas	à	rattraper	
+l’animal.	On	peut	imaginer	cette	fois	le	même	personnage	tendant	de	s’approcher	de	
+l’instant	zéro		
+	
+
+																																																								
+7	Le	«	tohu	bohu	»	des	Hébreux.		
+8	Voir	Janus	18	https://www.youtube.com/watch?v=jlwD0r0IHEc&feature=youtu.be	
+
+	
+
+	et	subissant	à	son	approche	un	vieillissement	de	plus	en	plus	rapide	:	
+
+	
+
+	Le	dessin	ci-après	résume	tout	ce	qui	précède	:		
+
+29	
+
+	
+
+	
+
+	
+
+30	
+
+	
+
+	
+
+References	:		
+[1]	A.D.Sakharov,	ZhETF	Pis’ma	5	:	32	;	JETP	Lett.	5	:	24	(	1967	)	
+	[2]	A.D.Sakharov	,	ZhETF	Pis’ma	76	:	1172	(1979)	;	JETP	49	:	594	(1979)	
+	[3]	A.D.Sakharov	,  (1980).  Cosmological  Model  of  the  Universe  with  a  Time  Vector 
+Inversion. ZhETF (Tr. JETP 52, 349-351) (79): 689–693	
+	[4]	Steven	Weinberg	:	The	quantum	theory	of	fields,	Cambridge	University	Press,	2005.		
+	[5]	N.Debergh,	J.P.Petit	and	G.D’Agostini	:	Evidence	of	negative	energies	and	
+masses	in	the	Dirac	equation	through	a	unitary	time-reversal	operator.	,	J.	
+Phys.	Comm.	2	(2018)	115012		
+http://iopscience.iop.org/article/10.1088/2399-6528/aaedcc/pdf	
+	[6]	J.M.Souriau	:	Structure	des	systèmes	dynamiques.		Dunod	Ed.	France,	1970	and	
+Structure	of	Dynamical	Systems.	Boston,	Birkhaüser	Ed.	1997	
+	[7]		J.P.Petit,	G.D’Agostini	:	Negative	Mass	hypothesis	in	cosmology	and	the	nature	of	
+dark	energy.	Astrophysics	And	Space	Sccience,.	A	29,	145-182	(2014)	
+[8]			J.Farnes	:	A	unifying	theory	of	dark	energy	ans	dark	matter	:	Negative	mass	and	
+matter	creation	within	a	modified	LCDM	framework.	Astronomy	ans	Asntrophysics	
+2018:A	&	A	2018		620,	A	92	
+
+bigravity Phys. Rev. D 66 (2002) 104024. hep-th/0206042.  
+
+044015, 2008 and arXiv : 0807.2838v1 (gr-qc)17 july 2008 
+ 
+[12] J. P. Petit, Nuovo Cimento B. The missing mass problem.  109, 697 (1994). 
+
+	
+31	
+[9]			A.	Benoit-Lévy	&	G.Chardin	:	Introducing	the	Dirac-Milne	universe.	Astronomy	and	
+Astrophysics.	Vol.	537	(january	2012)	A	78	
+[10]		Damour T. , Kogan I I. Effective Lagrangians and universality classes of nonlinear 
+	[11]		S. Hossenfelder : A bimetric Theory with Exchange Symmetry. Phys. Rev. D78, 
+	[13]	J.P.PETIT,	Twin	Universe	Cosmology,	Astrophys.	and	Sp.	Science,	 226,	273-307,	
+1995	
+	[14]		J.	P.	Petit,	P.	Midy	and	F.	Landhseat,	Twin	matter	against	dark	matter,	int.	Conf.	
+onAstrophysics	and	Cosmology,	Where	is	the	Matter?,	Tracing	Bright	and	Dark	Matter	
+with	the	New	Generation	of	Large-Scale	Surveys	(Marseille,	France,	June	2001).	
+	[15]		J.	P.	Petit	and	G.	D’Agostini,	J.P.Petit,	Negative	mass	hypothesis	in	cosmology	and	
+the	nature	of	dark	energy.	Astrophysics	and	Space	Science,	2014	sept.	20	th	
+[16]		J.P.Petit,	G.D’Agostini	:	Cosmological	bimetric	model	with	interacting	positive	and	
+negative	masses	and	two	different	speeds	of	light,	in	agreement	with	the	observed	
+acceleration	of	the	Universe.	Modern	Physics	Letters	A,	Vol.	29,	N°	34,	2014	November		
+[17]	J.P.Petit,	G.	D’Agostini,	N.Debergh	:	Physical	and	mathematical	consistency	of	the	
+Janus	Cosmological	Model	(JCM).	Progress	in	Physics	2019	Vol.15	issue	1	
+[18]	G.	DAgostini	and	J.P.Petit	:	Constraints	on	Janus	Cosmological	model	from	recent	
+observations	of	supernovae	type	Ia,	Astrophysics	and	Space	Science,	(2018),	
+363:139.https://doi.org/10.1007/s10509-018-3365-3	
+[19]	K.Schwarzschild	:	«	Über	das	Gravitationsfeld	einer	Kugel	aus	incompressibler	
+Flüssigkeit	 nach	 der	 Einsteinschen	 Theorie	».	 Sitzungsberichte	 der	 Köninglish	
+Preussischen	Akademie	der	Wissenschapten	zu	Berlin.	Phys-Maths	Klasse	1916,	424-
+434	English	translation,	by	S.Antoci.		On	the	gravitational	field	of	a	sphere	of	
+theory.	 arXiv	:physics/9905030v1	
+to	 Einstein	
+fluid	 according	
+incompressible	
+[physics.hist-ph]	12	may	1999.  
+	
+Astronomy 2017 1	,	0036	  
+[21]		Koki	Izumi,	Chizaki	Hagiwara,	Koki	Nakajima	,	Takao	Kitamura	and	Hideki	Asada	:	
+Gravitational	lensing	shear	by	an	exotic	
+[22]		Piran	T.		:	On	Gravitational	Repulsion,	Gen.	Relat.	and	Gravit.	Vol.	29	,	N°	11	,	1997		
+	[23]	J.	P.	Petit,	P.	Midy	and	F.	Landhseat,	Twin	matter	against	dark	matter,	int.	Conf.	
+
+[20] The Dipole Repeller : Y Hoffman, D.Pomarède, R.B.Tully, H.Courtois. Nature 
+
+	
+32	
+onAstrophysics	and	Cosmology,	Where	is	the	Matter?,	Tracing	Bright	and	Dark	Matter	
+with	the	New	Generation	of	Large-Scale	Surveys	(Marseille,	France,	June	2001).	
+[24]		J.P.PETIT		:	Cosmological	model	with	variable	velocity	of	light.	Modern	Phys	Letters	
+A3,	1988,	pp.	1527		
+	[25]		J.P.Petit	:	Janus	Cosmological	Model	and	the	fluctuations	of	CMB.		
+Progress	in	Physics	Vol.14	Issue4(october)	http://www.ptep-online.com/2018/PP-55-
+11.PDF	
+	
+ [26]		Riess,	A.	G.,	et	al.	1998,	ApJ,	116,	1009	
+	[27]		Perlmutter,	S.,	et	al.		1999,	ApJ,	517,	565	
+	[28]		Riess	A.	G.	2000,	PASP,	112,	1284	
+	
+
+Annexe 1 : 
+
+Forme des tenseurs traduisant l’effet de géométrie induite. 
+
+ 
+Ecrivons le système (3) + (4) sous forme mixte :  
+
+(A1-1)	
+(A1-2)	
+
+ 
+
+	
+
+⎡
+⎢
+⎢
+⎣
+ 
+
+⎡
+⎢
+⎢
+⎣
+
+ν −
+µ
+
+νR(+) = χ T (+)
+
+δµ
+
+ν +
+µ
+
+g(−)
+g(+)
+
+⌢T (+)
+
+ν
+µ
+
+ν −
+µ
+
+νR(−) = − χ
+
+δµ
+
+g(+)
+g(−)
+
+⌢T (+)
+
+ν + T (−)
+µ
+
+ν
+µ
+
+1
+2
+
+1
+2
+
+R(+)
+   
+
+R(−)
+   
+
+⎥	
+
+⎤
+⎥
+⎦
+
+⎤
+⎥
+⎥  
+⎦
+
+Ce  système  doit  satisfaire  les  conditions  de  Bianchi,  qui  découlent  de  la  forme  des 
+premiers  membres.  Ceci  déterminé  la  forme  des  deux  tenseurs  traduisant  les  effets  de 
+géométrie induite :  
+
+p(+) > 0
+
+ρ(−) > 0
+
+p(−) > 0		
+
+Avec	:	  ρ(+) > 0
+(A1-3)	
+
+33	
+
+	
+
+(A1-4)	
+
+(A1-5)	
+
+(A1-6)	
+
+ρ(+)
+
+0
+
+0
+
+0
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+0
+p(+)
+c(+)2
+
+−
+
+0
+
+0
+
+T (+)
+
+ν =
+µ
+
+−
+
+p(+)
+c(+)2
+
+ρ(+)
+
+0
+
+0
+
+0
+
+0
+p(+)
+c(+)2
+
+0
+
+0
+
+p(+)
+c(+)2
+
+⌢T (+)
+
+µ
+
+ν =
+
+   
+
+ρ(−)
+
+0
+
+0
+
+0
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+0
+p(−)
+c(−)2
+
+−
+
+0
+
+0
+
+T (−)
+
+ν =
+µ
+
+−
+
+p(−)
+c(−)2
+
+  
+
+  
+
+⌢T (−)
+
+µ
+
+ν =
+
+ρ(−)
+
+0
+
+0
+
+0
+
+0
+p(−)
+c(−)2
+
+0
+
+0
+
+p(−)
+c(−)2
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+−
+
+p(+)
+c(+)2
+
+0
+
+0
+
+0
+
+p(+)
+c(+)2
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+−
+
+p(−)
+c(−)2
+
+0
+
+0
+
+0
+
+p(−)
+c(−)2
+
+	
+
+.	
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+	
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+	
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+ Si	on	considère	une	région	vide,	ces	quatre	tenseurs	sont	évidemment	nuls.	Les	
+solutions	métriques	sont	alors	deux	métriques	de	Schwarzschild	«	extérieure	»	
+
+   
+
+	
+34	
+correspondant	à	des	valeurs	positives	et	négative	du	paramètre	m	selon	que	cet	espace	
+vide	entoure	une	masse	positive	ou	une	masse	négative.		
+(A1-7)	
+− r 2( dθ2 + sin2θdϕ2 )	
+La	géométrie	à	l’intérieur	de	la	masse	considérée	correspond	alors	à	une	«	métrique	
+intérieure	»	de	Schwarzschild	[19]		et	la	condition	de	Bianchi	exprime	simplement	qu’à	
+l’intérieur	de	cette	masse	la	pression	est	équilibrée	par	le	force	de	gravité.		
+			
+
+ds2 = ( 1−
+
+) dt 2 −
+
+2m
+r
+
+2m
+r
+
+dr 2
+
+1−
+
+  
+
+

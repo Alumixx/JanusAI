@@ -1,0 +1,409 @@
+1
+
+The time independent spherically symmetric solution of the Einstein equation revisited
+
+Jean-Pierre Petit,  Gilles d’Agostini and Sebastien Michea +
+
+Manaty Research group
+
+Introduction and main idea of this article.
+
+_________________________________________________________________________________________
+
+Key   words : Non contractible hypersurface. Throat sphere, space bridge. Spherically
+symmetric solution. 
+____________________________________________________________________________________________________
+Abstract : Spherical symmetry does not immediately mean central symmetry. The time
+independent, spherically symmetric solution of the homogeneous Einstein equation is
+revisited with coordinates which keep the signature invariant and prevent time and radial
+coordinate interchange. The associated hypersurface is not contractible and corresponds to
+a space bridge linking two Minkowski spacetimes though a throat sphere. As the
+determinant of the metric vanishes on that sphere one gets an orbifold structure. When
+crossing that sphere the particles experience a PT, mass and energy inversions. 
+____________________________________________________________________________________________________
+In 1916 Karl Schwarzschild publishes [1] a solution of the vacuum Einstein equations
+(without second term) correspond to time translation invariance and spherical symmetry. It
+is only in 1999 that an English translation of this article will be available [2] thanks to
+S.Antoci et A.Loinger. Schwarzschild decides to express this  solution by using a first set of
+real variables  
+(a)
+                                                           
+The solution is then given in the form : 
+(b)                            
+He then introduces an intermediary variable : 
+(c)                                                                                     
+Which,  given (a) is essentially positive. 
+He performs a new coordinates change that allows him to simply express the spherical
+symmetry hypothesis : 
+(d)                                        
++ jean-pierre.petit@manaty.net , gilles.dagostini@manaty.net, sebastien.michea@manaty.net
+
+ 
+
+ 
+
+ 
+
+ 
+
+2
+
+ 
+
+ 
+
+ 
+
+He then obains the form : 
+(e)                                 
+In order for the metric to be lorentzian at infinity it is necessary that : 
+ 
+    implies    
+(f)                                           
+He introduces next a new change of coordinates : 
+(g)                                           
+Note that (a) + (c) imply that 
+In those new coordinates the metric becomes : 
+(h)                                   
+  are three functions of 
+where  
+conditions : 
+- For large 
+ :         
+- The determinant  
+- The metric must be a solution of the field equation. 
+- Except for 
+ the f functions must be continuous.
+
+ 
+
+  ( hence of r ) that must satisfy the
+
+His computation leads him to : 
+(i)            
+ being an integration constant. 
+Using (g) we can rewrite his solution as : 
+(j)  That we can rewrite : 
++ jean-pierre.petit@manaty.net , gilles.dagostini@manaty.net, sebastien.michea@manaty.net
+
+ 
+
+ . 
+
+The hypersurface solution is therefore non contractible.
+
+3
+being a
+are functions of the only variable r, the quantity 
+ . The variable r varies from 0 to infinity while being strictly positive
+  and let consider a path corresponding to dt = dr = 0 . It
+
+(k)                                            
+The coefficients 
+function of both r and 
+by definition (c).                                             
+Let us limit ourself to the case 
+has a perimeter : 
+(l)                                                                    
+This perimeter has a minimal value 
+The r variable cannot be considered as a « radial distance ». This hypersurface does not have
+a « centre », the object corresponding to r = 0 hence to a> x = y = z = 0 is not a dot but a sphere
+of radius 
+. 
+We will now replicate Scharzschild's calculations by replacing  the x, y, z and t variables by 
+Greek characters (
+ is however kept for a later purpose), so that the reader not be tempted 
+to assimilate them to distances (x, y and z) or time (t) and lose sight of what they
+really are: real numbers. 
+Let us consider the zero second member Einstein equation 
+ in time independent and
+spherically symmetrical conditions. Let  
+ stand for rectangular coordinates, and  
+ which stands real values for all
+ 
+as the time marker, with 
+coordinates.  In  addition we assume that there are no crossed terms in the line element, so
+that this last can be written : 
+(1)               
+where F , G , H are functions of   
+At infinity we must have
+(2)                                               
+Introduce the following coordinate change  : 
+(3)                                                           
++ jean-pierre.petit@manaty.net , gilles.dagostini@manaty.net, sebastien.michea@manaty.net
+
+Revisiting Schwarzchild computation. 
+
+   
+
+ . 
+
+ 
+
+4
+
+ 
+
+ 
+
+ , 
+
+(4)                                                             
+(5)                                                     
+which goes with : 
+     
+   and : 
+ , 
+that we will call « pseudo spherical coordinates ». It gives : 
+(6)                           
+Introduce the following additional coordinate change :  : 
+(7)                                           
+Then we have the volume element 
+. The new variables are
+then pseudo polar coordinate with the determinant 1. They have the evident advantage of
+polar coordinates for the treatment of the problem. 
+In the new pseudo polar coordinates : 
+(8)                         
+for which we write :
+(9)                       
+Then  f1 , f2 = f3 , f4  are functions of 
+1 – For 
+2 – The equation of the determinant : 
+3 – The field equations.
+4 – Continuity of the f , except for 
+In order to formulate the field equations one must first form the components of the
+gravitational field corresponding to the line element (9). This happens in the simplest way
++ jean-pierre.petit@manaty.net , gilles.dagostini@manaty.net, sebastien.michea@manaty.net
+
+ which have to fullfill the following conditions :
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+5
+when one builds the differential equation of the geodesic line by direct execution of the
+variation, and reads out the components of these. The differential equations of the geodesic
+line for the line element (9) immediatly result from the variation in the form :
+(10)
+ 
+       
+(11)
+(12)
+(13)
+The comparison with 
+(14)
+gives the components of the gravitational field : 
+ (15a)                                                         
+(15b)                                                  
+(15c)                                                   
+(15d)                                                         
++ jean-pierre.petit@manaty.net , gilles.dagostini@manaty.net, sebastien.michea@manaty.net
+
+ 
+
+6
+
+1
+
+. Then the calculation of the field equation gives : 
+
+(15e)                                                             
+(15f)                                                          
+(15g)                                                         
+(15h)                                                               
+(15i )                                                           
+The other ones are zero. Due to rotational symmetry it is sufficient to write the field
+equations only for the equator 
+, therefore, since they will be differentiated only
+once, in the previous expressions it is possible to set everywhere since the begining
+(16a)                        
+(16b)                                          
+(16c)                                          
+Besides these three equations the functions 
+determinant : 
+(17)                          
+For now we neglect (16b) and determine the three functions 
+and (13). The equation (16c) can be transposed into the form : 
+(18)                                         
+This can be integrated and gives 
++ jean-pierre.petit@manaty.net , gilles.dagostini@manaty.net, sebastien.michea@manaty.net
+
+  must fullfill the equation of the
+  from (16a) , (16c)
+
+ 
+
+7
+
+    ( 
+
+ integration constant ) 
+
+ being an integration constant ) 
+
+  ( 
+(19)                          
+The addition of (12a) and (12c’) gives :
+(20)                    
+By taking (17) into account we get : 
+(21)                                           
+By integrating : 
+(22)                                 
+or : 
+(23)                                                    
+After a second integration :
+(24)                                         
+  ( 
+The condition at infinity requires  
+ = 1 . Then 
+(19)                                                        
+Hence it results further from (22) and (17)
+(20)                                              
+By integrating, while taking account the condition at infinity 
+(25)                                                      
+Hence, from (17)   
++ jean-pierre.petit@manaty.net , gilles.dagostini@manaty.net, sebastien.michea@manaty.net
+
+ integration constant )
+
+ 
+
+ 
+ 
+
+ . We have : 
+
+8
+(26)                                                      
+As it can be easily verified the equation (16b) is automatically fullfilled by the expression
+that we found for f1 and f2 
+Therefore all the conditions are satisfied except the condition of continuity. 
+f1 will be discontinuous when      
+In order this disconinuity coincides with the origin, it must be :
+(27)                                                                       
+Therefore the condition of continuity relates in this way the two integration constants 
+and 
+(28)                                                                  
+(29)                                                            
+(30)                                                                 
+(31)                                                                     
+Finally :
+(32)
+When 
+ tends to zero when 
+ tends to zero. 
+ 
+  . An expansion into a series shows that  
+When 
+Consider a loop located in the plane 
+  = 0 the
+ . It is no contractile : for 
+perimeter of the loop tends to 
+ . 
+  = 0  does not
+ is definitely not a « radius ». The point 
+Notice that 
+correspond to some « center of symmetry ». The spherically symmetric requirement does
++ jean-pierre.petit@manaty.net , gilles.dagostini@manaty.net, sebastien.michea@manaty.net
+
+  the line element tends to Lorentz form. 
+
+ , with
+
+   
+
+ 
+
+ 
+
+ 
+
+Expressing the metric in a better coordinate system. 
+
+  through the following coordinate change : 
+
+9
+ is just
+not identify automatically to a central symmetry, as suggested by David Hilbert [5] 1 
+one of the « space markers », nothing else. It’s a number, not a length. The only length to be
+considered is the quantity s . 
+Let us consider the coordinate system introduced in [3]. 
+Introduce the new space marker 
+(33)                                               
+(34)                                                     
+                                                                    
+  the line element becomes :
+With 
+(35)
+  we get the following Lorentz form : 
+When  
+(36)                               
+We can figure this geometrical objet as a space bridge linking two Minkowski spacetimes,
+though a throat sphere whose perimeter is 
+ . We cannot think about its « radius »
+because that sphere has no center. 
+When 
+(37)                                                         
+(38)                                              
+(39)                                                       
+ 
+1 We quote, page 67 of the german edition : « Die Gravitation 
+ ist zentrisch symmetrisch
+in Bezug auf den Kooridinatenanfangspunkt. « 
+is centrally symmetric with respect to the origin of
+English translation : « The gravitation 
+coordinates. »  
++ jean-pierre.petit@manaty.net , gilles.dagostini@manaty.net, sebastien.michea@manaty.net
+
+ 
+
+ 
+
+10
+(40)                                                                 
+We may easily overcome the indetermination (33) through an expansion into a series, which
+shows that when  
+ 
+(41)                                             
+The determinant is : 
+(42)                                                        
+It vanishes on the throat sphere. As a consequence, on this last we cannot define gaussian
+coordinates, so that the object is no longer a manifold but an orbifold. On the throat sphere
+the arrow of time and the space orientation cannot ne defined. This can be interpreted as a
+geometric structure where space and time are reversed through the throat sphere : when a
+particle crosses the throat sphere it experiences a PT-symmetry. According to Souriau’s
+theorem [4]  this T-inversion goes with a mass inversion. 
+In a future paper the physical interpretation of such solution will be investigated. 
+
+α2
+
+ 
+
+References : 
+
+[1] K. Schwarzschild : Über das Gravitionalsfeld einer Kugel Aus incompressibler Flüssigkeit
+nach der Einsteinschen Theorie. Sitzung der phys. Math. Klasse v.23 märz 1916
+
+[2] K. Schwarzschild : On the gravitational field of a sphere of incompressible fluid according
+to   Einstein   theory.   Translation   by   S.Antoci   and   A.Loinger.   arXiv :physics/9905030v1
+[physics.hist-ph] 12 may 1999. 
+
+[3]  J.P.Petit & G.D’Agostini : Cancellation of the singularity of the Schwarzschild solution 
+with natural mass inversion process. Mod. Phys. Lett. A vol. 30 n°9  2015
+[4]  J.M.Souriau : Structure des syste>mes dynamiques.  Dunod Ed. France, 1970 and Structure
+of Dynamical Systems. Boston, BirkhauOser Ed. 1997. For time inversion see page 190
+equation (14.67). 
+[5]  D.Hilbert : “Die Grundlagen der Physij. (Zweite Mitteilung)” in Nachchrichten von der
+KoOniglichen Gesellschaft zu GoOttingen. Math. -Phys. Klasse. 1917 , p.53-76. Presented in the
+session of 23 december 1916
+
++ jean-pierre.petit@manaty.net , gilles.dagostini@manaty.net, sebastien.michea@manaty.net
+
+

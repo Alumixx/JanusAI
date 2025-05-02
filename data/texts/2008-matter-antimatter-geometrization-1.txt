@@ -1,0 +1,527 @@
+Geometrization of matter and antimatter 
+
+through coadjoint action of a group on its momentum space
+
+1: Charges as additional scalar components of the momentum of a group acting on a 10d-space.
+
+Geometrical definition of antimatter.
+
+Jean-Pierre Petit & Pierre Midy
+
+Marseille Observatory, France
+
+Abstract
+
+Through a new four components non-connex group, acting on a ten dimensional space, composed by (x,y,z,t) plus six additional
+dimensions we give a description of particles like photon, proton, neutron, electrons, neutrinos (e, μ and τ) and their anti, through
+the coadjoint action on the momentum space. Quantum numbers become components of the moments. Matter and antimatter are
+interpreted as two different movements of mass-points in this
+
+ { ζ 1, ζ 2, ζ 3, ζ 4, ζ 5, ζ 6, x , y , z , t } space
+
+  
+matter movement taking place in the {ζ i > 0} half space and antimatter in the remnant {ζ i < 0} one.
+The ζ-Symmetry :
+
+{ζ i ---> - ζ i }
+
+which there goes with charge conjugation, becomes the definition of matter-antimatter duality.
+
+ 
+
+ 
+
+1- Introduction
+
+As pointed out by J.M.Souriau in his book [1] the Poincaré group, as a dynamic group for physics, arises a problem about the sign
+of the mass.
+
+Everything starts from the Lorentz group L, whose element L is axiomaticaly defined by:
+
+ 
+
+ 
+ 
+ 
+
+(1)
+
+where:
+(2)
+
+(4)
+
+(5)
+
+(6)
+
+ 
+
+(7)
+
+The Lorentz group acts on space-time:
+(3)
+
+through the action:
+
+The matrix G comes from the expression of the Lorentz metric (with c=1):
+
+We know than the Lorentz group is composed by four components :
+
+Ln is the neutral componant, which contains the neutral element 1, i.e. the peculiar matrix:
+
+Ls , the second component, contains the matrix :
+
+which reverses space.
+
+which reverses both space and time.
+
+From the Lorentz group one builds the Poincaré group Gp, whose element is:
+
+Lt , the third component, contains the matrix :
+
+which reverses time.
+
+Lst , the fourth component, contains the matrix :
+
+(8)
+
+(9)
+
+(10)
+
+(11)
+
+C is a space-time translation:
+
+- Its neutral component:
+
+(12)
+
+built with the neutral component Ln of the Lorentz group L.
+ 
+
+If we use the four components of the complete Lorentz group L , (10) will be called the complete Poincaré group. As the Lotentz
+group, it owns four components:
+
+- A second component:
+
+(13)
+
+built with the component Ls of the Lorentz group.
+
+- A third component:
+
+(14)
+
+built with the component Lt of the Lorentz group.
+
+- and a fourth one:
+
+(15)
+
+ 
+built with the component Lst of the Lorentz group. 
+ 
+
+(16)
+
+(17)
+
+E is the energy. 
+p is the impulsion vector:
+
+  
+f is the passage vector [1].
+
+A group acts on its momentum space [1]. Call Jp the momentum space associated to the Poincaré group.
+
+Each peculiar moment Jp ∈ Jp, is a peculiar movement of the relativistic mass point, described by this group. On may compute the
+caodjoint action of the group on the momentum [1].
+
+The momentum is a set of 10 components (equal to the dimension of the group). These components are:
+
+Jp = { E , px , py , pz , fx , fy , fz , sx , sy , sz } = { E , p , f , s }
+
+ s is an antisymmetric (3,3) matrix, whose independant components are 
+(19)
+
+{ sx , sy , sz }
+
+The momentum can be arranged into a matrix form [1], with:
+
+  
+Introduce the impulsion-Energy four-vector:
+
+(18)
+
+(20)
+
+and:
+
+(21)
+
+(22)
+
+ 
+
+(23)
+
+ 
+
+Then the coadjoint action of the Poincaré group can be written into a matrix form:
+
+It  is  interesting  to  study  the  impact  of  the  different  components  of  the  complete  Poincaré  group on  the  components  of  its
+momentum. We can concentrate on peculiar matrixes :
+
+More explicitely:
+(26)
+
+or:
+
+(24)
+
+(25)
+
+(27)
+
+(28)
+
+(29)
+
+  
+A is the associated Lorentz matrix.
+
+The coadjoint action gives:
+
+  
+
+  
+and is the neutral component of the complet Poincaré group.
+
+The corresponding coadjoint action is:
+
+E --> E ; p --> p ; f ---> f ; s ----> s
+
+  
+
+which reverses space. The corresponding coadjoint action is:
+
+E --> E ; p --> - p ; f ---> - f ; s ----> s
+
+which reverses time. The corresponding coadjoint action is:
+
+  E --> - E ; p --> p ; f ---> - f ; s ----> s
+
+which reverses both space and time. The corresponding coadjoint action is:
+
+  E --> - E ; p --> - p ; f ---> f ; s ----> s
+
+  
+As pointed out by J.M.Souriau [1], The two components
+
+go with the inversion of the energy E ----> - E , so that it implies the inversion of the mass m ---> - m
+
+Define the following sets of matrixes:
+
+.
+
+The complete Poincaré group is:
+(31)  
+
+The neutral component Gn is the first sub-group. The orthochron group [1]:
+
+Gp = Gn U Gs U Gt U Gst
+
+is also a sub-group of the Poincaré group.
+
+The antichron part of the group [1]:
+
+Go = Gn U Gs
+
+(30)
+
+(32)
+
+(33)
+
+(34)
+
+Gac = Gt U Gst is not a group. Obvioulsy:
+
+Gp = Go U Gac
+
+(35)
+
+  
+ 
+
+(36)
+
+(38)
+
+  
+As pointed out in [1] the presence of the elements of Gac = Gt U Gst may produce negative mass particles, as peculiar movements
+of matter, runing backward in time. In his book [1] J.M.Souriau suggests two solution:
+
+Either one simply decides that negative masses cannot exist.
+Either the Poincaré group is limited to its orthochron subgroup.
+
+Go = Gn U Gs
+
+2- The central extension of the Poincaré group
+
+  
+is the central extension of the Poincaré group, built from the orhochron sub-group. 
+The corresponding action is:
+(37)
+
+  
+ζ is an additional dimension, a fifth dimension. The dimension of the group becomes 11 and the momentum gets a corresponding
+extra component:
+
+Jpe = { χ , M , P } = { χ , Jp }
+
+The coadjoint action gives:
+(39)
+
+ 
+The  physical  meaning  of this  11th  component χ  was  neven  clearly  undestood.  Through  his  geometric  quantification  method,
+J.M.Souriau shows than the spin must be quanticized [1]. Choosing a coordinate system in which the passage becomes zero, and
+considering only z-motions, the Jp the momentum matrix becomes:
+ 
+
+(40)
+
+  
+where E is the energy, p the modulus of the vector impulsion and s the spin.
+
+Photons correspond to
+(41)
+
+with two distinct helicities: right and left (polarization).
+
+Neutrinos correspond to:
+(42)
+
+ with also two distinct helicities.
+
+Non zero mass particles like proton, electron, neutron, correspond to:
+(43)
+
+with:
+(44)
+
+(45)
+
+(46)
+
+ 
+
+ 
+
+From the extended Poincaré group (36), through the Kostant-Kirilov-Souriau method one can derive [1] the relativistic quantum
+Klein-Gordon equation. Similarly [1] the non-relativist Bargmann group (1960) gives the non-relativistic Schödinger equation. 
+ 
+
+What about antimatter?
+In a former book [2] J.M. Souriau developped general relativity in five dimensions, adding an extra dimension ζ to space-time (x,
+y, z, t)
+Then, reference [2], Chater VII, page 413, he identifies the inversion of the fifth dimension ( ζ ---> - ζ ) to the charge conjugation
+(or charge inversion, or C-symmetry) transforming matter into antimatter.
+ 
+
+3- A description of quantum numbers as components of the moment of an extended group
+
+The Poincaré group can be extended as many times one wants. Let us do it six times. Then we get:
+
+This two components group ( due to the two components of the orthochron Lorentz group Lo ) acts on a ten dimensional space:
+
+{ ζ 1 , ζ 2 , ζ 3 , ζ 4 , ζ 5 , ζ 6, x , y , z , t }
+
+i.e. space time ( x , y , z , t )
+
+plus six additional dimensions
+
+{ ζ 1 , ζ 2, ζ 3 , ζ 4 , ζ 5 , ζ 6 }
+
+Jpe = { χ 1, χ 2, χ 3, χ 4, χ 5, χ 6, Jp }
+
+  
+where Jp represent the classical expression of the Poincaré group's momentum.
+
+The momentum becomes:
+(47)
+
+The coadjoint action is:
+(48)
+
+All these additional scalars are conserved and we identify these to the following classical quantum numbers:
+
+(49)
+
+ 
+We give to each first five numbers three possible values : { -1 , 0 , +1 }
+
+The value of the gyromagnetic factor ϖ depend of the considered particle.
+
+The momentum space is supposed to be a continuum, but one assume that discrete values of some components correspond to real
+particules,  from  physics'  world.  Then  we  get a description of  elementary  particles  in  terms  of  group's  orbits. We can write the
+momentum: 
+ 
+
+χ 1 = q (electric charge)
+
+χ 2 = cB (baryonic charge)
+χ 3 = cL (leptonic charge)
+χ 4 = cμ (muonic charge)
+χ 5 = cτ (tauonic charge)
+χ 6 = ϖ (gyromagnetic coefficient)
+
+(50) Jpe = { q , cB , cL , cμ , cτ , ϖ , Jp }
+Jφ = { 0 , 0 , 0 , 0 , 0 , 0 , Jp }: photon
+
+Jp = { 1 , 1 , 0 , 0 , 0 , ϖp , Jp }: proton
+
+Jn = { 0 , 1 , 0 , 0 , 0 , ϖn , Jp }: neutron
+
+Je = { -1 , 0 , 1 , 0 , 0 , ϖe , Jp }: electron
+
+Jνe = { 0 , 0 , 1 , 0 , 0 , ϖνe , Jp }: electronic neutrino
+
+Jνμ = { 0 , 0 , 0 , 1 , 0 , ϖνμ , Jp }: μ neutrino
+
+Jντ = { 0 , 0 , 0 , 0 , 1 , ϖντ , Jp }: τ neutrino
+
+ ......
+
+We transform a particle into the corresponding antiparticle through charge conjugation (C-symmetry). The charges of the photon
+are all zero, so that it identifies with its antiparticle.
+ 
+
+4- Suggested geometric definition of antimatter
+
+A particle is a species, corresponding to a sub-set of the momentum space. It corresponds to peculiar choices in some components
+of the momentum, the charges:
+
+{ q , cB , cL , cμ , cτ , ϖ }  
+
+A momentum is a movement of a mass-point, governed by a dynamic group. Here an extension of the orthochron Poincaré's sub-
+group.
+
+Classically  (Dirac's antimatter)  one  considers  that  reversing  the  charge  (C-symmetry  of charge conjugation)  transforms  matter
+into anti matter
+
+(51)
+
+(52)
+
+{ - q , - cB , - cL , - cμ , - cτ , - ϖ }
+
+Then we can classify the particles, through their momentum space, into two sub-sets, the first containing matter and the second
+anti  matter.  Schematically,  photons  have been figured on  the  borde  between  the  two,  for  they  are identical to antiphotons. See
+figure 1.
+
+  
+
+  
+
+Fig.1: Classification of particles.
+
+  As  we  know  each  momentum  correspond  to a movement. Here we consider movements  in  a  ten-dimensional  space, a fibered
+space-time, as evoked on figure 2.
+ 
+
+  
+
+  
+
+Fig.2: Fibered space-time.
+
+As shown of the figure we suggest that matter-antimatter duality corresponds to a:
+(53)
+
+ζ - Symmetry: {ζ i} ---> { - ζ i }
+
+Particles move in { ζ  i> 0 } half-space and antiparticles in the other { ζ  i< 0 } one. Photons move in { ζ  i = 0 } plane. Their
+movement is not changed by ζ-Symmetry, so that they are identical to their antiparticle.
+
+In  this  paper  we deal with  an  extended  16-dimensional  orthochron  group.  We can figure schematically the  coadjoint  action of
+such a group on its moment space and associated movement space. See figures 3, 4 and 5.
+
+  
+
+  Fig. 3 : Movement of matter, in the { ζ i > 0 } half 10d-space and coadjoint action on the momentum. 
+
+The link between momentum and movement has been figured.
+
+ 
+
+ 
+
+  
+
+  Fig. 4 : Movement of antimatter, in the { ζ i < 0 } half 10d-space and coadjoint action on the momentum. 
+
+The link between momentum and movement has been figured.
+
+  
+
+  
+
+Fig. 5: Movement of photons, in the { ζ i = 0 } plane and coadjoint action on the momentum. 
+
+The link between momentum and movement has been figured.
+
+We  have  extended  the  othochron  Poincaré  sub-group,  corresponding  to  positive  energy  particles to a 16-dimensional  group,
+acting:
+
+ 
+
+Conclusion
+
+- On a 16-dimensional momentum space
+- On a 10-dimensional movement space. 
+ 
+
+Particles
+Antiparticles
+Photons.
+
+The extension gives the momentum six extra components, which are identified to charges, so that we get a geometric description
+of usual elementary particles: photon, proton, electron, neutrons , e , μ and τ neutrinos and their antis.
+
+This provides a classification of particles in terms of momentum's components, defining three basic species:
+
+each corresponding to a sub-set of the ( E > 0 ) momentum space. Then we suggest a basic definition of antimatter, and photons,
+in terms of peculiar movements in a 10d-space.
+
+ { ζ i > 0 } corresponding to matter.
+
+ { ζ i < 0 } corresponding to antimatter.
+ { ζ i = 0 } corresponding to photons. 
+ 
+
+This is similar to Plato's vision.
+
+References
+
+ 
+
+ 
+
+The objects move in a 10-dimensional space, but the inhabitants of the cavern can just see the 4-dimensional (x,y,z,t) shadows of
+these movements.
+
+[1]  J.M.  Souriau:  "Structure  des Systèmes Dynamiques", Dunod,  Ed.  1972  (in French); tr.  "Structures  of Dynamical Systems",
+Birkhauser, 1997. ISBN 0817636951. 
+[2] J.M. Souriau: Géométrie et relativité. Ed. Hermann-France, 1964. 
+[3] P.M. Dirac: "A theory of protons and electrons", Dec. 6th 1929, published in Proceedings of Royal Society (London), 1930: A
+126, 360–365.
+
+Acknowledgements
+This work was supported by french CNRS and Brevets et Développements Dreyer company, France. 
+Déposé sous pli cacheté à l'Académie des Sciences de Paris, 1998. 
+© French Academy of Sciences, Paris, 1998.
+
+

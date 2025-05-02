@@ -1,0 +1,243 @@
+1 
+
+Extension maximale de la métrique de Schwarzschild1 
+
+Projet Matterhorn, Université de Princeton, Princeton, New Jersey 
+
+M. D. Kruskal2 
+
+(Reçu le 21 décembre 1959) 
+
+ 
+
+supervisée par Jean-Pierre Petit, avec l'aide de Laurent v. D.  
+
+Traduction libre de droits, 
+
+ 
+
+ 
+
+ 
+
+ 
+On présente une transformation particulièrement simple de la métrique de Schwarzschild dans de 
+nouvelles coordonnées, par laquelle la « singularité sphérique » est supprimée et l'extension maxi-
+male sans singularité est clairement exposée. 
+ 
+L'expression3 bien connue de la métrique de Schwarzschild autour d'un centre de masse 
+
+𝑚 (g) ou 𝑚∗=!𝐺𝑚/𝑐2" (cm) est  
+
+𝑑𝑠#=−(1−2𝑚∗/𝑟)𝑑𝑇#+(1−2𝑚∗/𝑟)$%𝑑𝑟#+𝑟#𝑑𝜔#, 
+
+𝑑𝜔#≡𝑑𝜃#+sin#𝜃𝑑𝜑#. 
+
+ 
+(1)  
+ 
+avec  
+ 
+(2) 
+ 
+Kasner, Lemaître, Einstein et Rosen, Robertson, Synge, Ehlers, Finkelstein et Fronsdal 
+
+ont montré4 que les singularités à 𝑟=0 et 𝑟=2𝑚∗ sont de caractère très différent 
+𝑟 
+0 
+2𝑚∗ 
+
+Infini comme 𝑚∗ 𝑟#⁄  
+
+Tableau I. Singularités de la métrique de Schwarzschild, réelles et apparentes. 
+
+Singularité dans le sys-
+tème de coordonnées de 
+
+Représentation inva-
+riante de la courbure 
+
+Singularité dans 
+la métrique ? 
+
+(tableau I).  
+ 
+
+Schwarzschild ? 
+
+Oui 
+Non 
+
+Oui 
+Oui 
+
+Fini 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+1 Ce travail a été présenté sous forme abrégée par J. A. Wheeler au nom de l'auteur à la Conférence de 
+Royaumont sur les théories relativistes de la gravitation, juin 1959. 
+2 En congé 1959-60 à l'Institut Max-Planck d'astrophysique, Aumeisterstrasse 2, Munich 23, Allemagne. 
+3 K. Schwarzschild, Sitzber. Preuss. Akad. Wiss. Physik.-math. Kl. 189 (1916). 
+4 E. Kasner, Am. J. Math. 43, 130 (1921); G. Lemaître, Ann. soc. sci. Bruxelles A53, 51 (1933); A. Einstein 
+et N. Rosen, Phys. Rev. 48, 73 (1935); H. P. Robertson, conférence à Toronto, 1939 (non publié), cité par J. 
+L. Synge; J. L. Synge, Proc. Roy. Irish. Acad. A53, 83 (1950); J. Ehlers, thèse, Hamburg, 1957 (non publié); 
+D. Finkelstein, Phys. Rev. 110, 965 (1958); C. Fronsdal, Phys. Rev. 116, 778 (1959). 
+
+ 
+
+2 
+
+être démontrée par un choix de coordonnées apparemment plus simple et plus explicite 
+que tous ceux qui ont été présentés jusqu'ici à cette fin. Une façon de la trouver est de 
+chercher un système de coordonnées à symétrie sphérique dans lequel les rayons lumi-
+
+Leur conclusion — à savoir qu'il n'y a pas de véritable singularité à 𝑟=2𝑚∗ — peut 
+neux radiaux ont partout la pente 𝑑𝑥%/𝑑𝑥&=±1 :  
+𝑑𝑠#=𝑓#(−𝑑𝑣#+𝑑𝑢#)+𝑟#𝑑𝜔#. 
+En identifiant (3) avec (1) et en exigeant que 𝑓 dépende uniquement de 𝑟 et reste fini 
+et non nul pour 𝑢=𝑣=0, on trouve les équations de transformation essentiellement 
+uniques suivantes entre l'extérieur de la « singularité sphérique », 𝑟>2𝑚∗, et le qua-
+drant 𝑢>|𝑣| dans le plan des nouvelles variables (tableau II). 
+
+ 
+(3) 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Tableau II. Relation entre les nouvelles coordonnées 
+
+et les coordonnées de Schwarzschild. 
+
+ 
+ 
+
+nouvelles coordonnées 
+
+coordonnées de Schwarzschild 
+
+Nouvelles coordonnées en termes de 
+
+Coordonnées de Schwarzschild en termes de 
+
+𝑢=#$ 𝑟2𝑚∗(−1+"#exp$ 𝑟4𝑚∗(cosh4 𝑇4𝑚∗6 
+𝑣=#$ 𝑟2𝑚∗(−1+"#exp$ 𝑟4𝑚∗(sinh4 𝑇4𝑚∗6 
+
+!" 𝑟2𝑚∗&−1)exp" 𝑟2𝑚∗&=𝑢#−𝑣# 
+𝑇/4𝑚∗=arctanh(𝑣 𝑢⁄ )=12arctanh[2𝑢𝑣/(𝑢#+𝑣#)] 
+𝑓!=(32𝑚∗#/𝑟)exp(−𝑟/2𝑚∗)=une	fonction	transcendantale	de	(𝑢!−𝑣!) 
+Les nouvelles coordonnées donnent une extension analytique, ℰ, de cette région limi-
+tée  de  l'espace-temps, ℒ ,  qui  est  décrite  sans  singularité  par  les  coordonnées  de 
+Schwarzschild avec 𝑟>2𝑚∗. La métrique de la région étendue se raccorde en dou-
+ceur et sans singularité à la métrique à la frontière de ℒ à 𝑟=2𝑚∗. Le fait que cette 
+métrique de Schwarzschild sont parfaitement finis et se comportent bien à 𝑟=2𝑚∗. 
+L'espace étendu, ℰ, est en outre l'extension maximale sans singularité de ℒ qui soit 
+familières 𝑟,𝑇, avec une attention particulière aux géodésiques sur lesquelles 𝑟=2𝑚∗ 
+soit se heurte à la « barrière » des singularités intrinsèques à 𝑟=0			(𝑣#−𝑢#=1), 
+
+possible, pour la raison suivante : comme on peut le voir par un examen direct des 
+géodésiques (peut-être plus simplement effectué principalement dans les coordonnées 
+
+extension soit possible était déjà indiqué par le fait que les invariants de courbure de la 
+
+est soit isolé, soit partout), chaque géodésique, suivie dans n'importe quelle direction, 
+
+soit est prolongeable à l'infini par rapport à sa « longueur naturelle ». (Celle-ci est me-
+surée en termes de nombre de transferts parallèles d'un vecteur tangent infinitésimal, 
+n'est déterminée que jusqu'à un facteur d'échelle arbitraire, et non seulement s'accorde 
+
+ 
+
+ 
+3 
+avec le temps ou la distance appropriés le long de géodésiques semblables au temps ou 
+à l'espace, mais est définie même pour les géodésiques nulles). Mais il est évident que 
+
+s'il y avait une transformation (aussi sauvage soit-elle à la frontière) entre ℰ et une 
+sous-région ℰ′ d'une autre extension ℱ sans singularité, il devrait y avoir une géodé-
+sique (pour le moins) allant de ℰ′ à ℱ−ℰ’, en contradiction avec la propriété susmen-
+
+tionnée. 
+ 
+ 
+
+FIG. 1. Deux interprétations de la « métrique de Schwarzschild maximalement étendue » tridimen-
+
+sionnelle à l'instant 𝑇=0. En haut : une connexion ou un pont au sens d'Einstein et Rosen entre deux 
+L'extension maximale ℰ a une topologie non euclidienne (Fig. 1) et tombe donc dans 
+
+espaces autrement euclidiens. En bas : un trou de ver au sens de Wheeler reliant deux régions dans 
+un espace euclidien, dans le cas limite où ces régions sont extrêmement éloignées l'une de l'autre par 
+rapport aux dimensions de la gorge du trou de ver. 
+ 
+ 
+
+la classe des topologies considérées par Einstein et Rosen, Wheeler, et Misner et Whee-
+ler5. Il est remarquable qu'elle présente justement un tel « pont » entre deux espaces 
+autrement euclidiens, comme Einstein et Rosen ont cherché à l'obtenir en modifiant les 
+équations de champ. On peut également l'interpréter comme décrivant la « gorge d'un 
+trou de ver » au sens de Wheeler, reliant deux régions distantes dans un espace eucli-
+dien dans la limite où la séparation des bouches des trous de ver est très grande par 
+rapport à la circonférence de la gorge. La longueur de la connexion du trou de ver peut 
+bien sûr être excessivement courte par rapport à la distance entre les bouches du trou 
+de ver dans l'espace euclidien approximatif. Cependant, comme le montre la figure 2, 
+il est impossible d'envoyer un signal à travers la gorge de manière à contredire le prin-
+cipe de causalité ; en effet, la gorge « pince » le rayon lumineux avant qu'il ne puisse 
+passer. Cet effet de pincement pose des problèmes de principe fondamentaux qui né-
+cessitent une étude plus approfondie. 
+
+5 J. A. Wheeler, Phys. Rev. 97, 511 (1955); C. W. Misner et J. A. Wheeler, Ann. Physik 2, 525 (1957). 
+
+ 
+
+ 
+ 
+
+4 
+
+ 
+
+FIG. 2. Régions correspondantes des plans (𝑟,𝑇) et (𝑢,𝑣). Dans ce dernier, les courbes de constante 
+𝑟 sont des hyperboles asymptotiques aux lignes 𝑟=2𝑚∗ tandis que 𝑇 est constante sur les droites 
+passant par l'origine. L'extérieur de la sphère singulière, 𝑟>2𝑚∗, correspond à la région |𝑣|<𝑢 
+(les zones hachurées). La ligne entière 𝑟=2𝑚∗ dans le plan (𝑟,𝑇) correspond à l'origine 𝑢=𝑣=
+0, tandis que deux familles unidimensionnelles de points limites idéaux avec 𝑟→2𝑚∗ et 𝑇→±∞ 
+correspondent aux points limites restants 𝑢=|𝑣|>0. 
+Dans le plan (𝑢,𝑣), la métrique est entièrement régulière non seulement dans la zone de battement 
+mais dans toute la zone comprise entre les deux branches de l'hyperbole 𝑟=0. Cela comprend deux 
+II sont valables dans le quadrant droit 𝑢>|𝑣|. Pour obtenir des formules valables dans le quadrant 
+gauche, remplacer partout 𝑢 et 𝑣 par leurs valeurs opposées. Pour obtenir des formules valables dans 
+le quadrant supérieur ou inférieur, remplacer 𝑢 par ±𝑣, 𝑣 par ±𝑢, et 𝑟/2𝑚∗−1 par son opposé par-
+tout. Notons que la formule pour 𝑟 et la formule finale pour 𝑇 restent invariantes sous ces substitu-
+tions). Les géodésiques nulles purement radiales (𝑑𝜃=𝑑𝜑=0) sont des lignes inclinées à 45°. Les 
+points avec 𝑟=2𝑚∗ n'ont pas de distinction topologique locale, mais une distinction globale : si une 
+particule test traverse 𝑟=2𝑚∗ vers l'intérieur (où 𝑟 est semblable au temps et 𝑇 semblable à l'es-
+pace), elle ne peut jamais en ressortir mais doit inévitablement heurter la singularité inamovible 𝑟=
+0 (invariants de courbure infinis). Cette circonstance garantit que l'on ne peut pas violer la causalité 
+
+images de l'extérieur de la singularité sphérique et deux de son intérieur. (Les expressions du tableau 
+
+ordinaire dans l'« univers principal » en envoyant des signaux via le trou de ver effectivement plus 
+rapides que la lumière. 
+ 
+ 
+
+

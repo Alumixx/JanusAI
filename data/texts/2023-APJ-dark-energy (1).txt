@@ -1,0 +1,1385 @@
+The Astrophysical Journal Letters, 944:L31 (9pp), 2023 February 20
+© 2023. The Author(s). Published by the American Astronomical Society.
+
+https://doi.org/10.3847/2041-8213/acb704
+
+Observational Evidence for Cosmological Coupling of Black Holes and its Implications
+
+for an Astrophysical Source of Dark Energy
+
+Duncan Farrah1,2
+Jose Afonso9,10
+David L Clements17
+
+, Kevin S. Croker2
+, Nicolas Fernandez11
+, Andreas Efstathiou18
+
+, Michael Zevin3,4
+
+, Gregory Tarlé5
+
+, Valerio Faraoni6
+
+, Sara Petty7,8
+
+,
+
+Lura K Pitchford23,24
+
+, Nobuyuki Sakai25
+
+, Kurtis A. Nishimura2
+, Evanthia Hatziminaoglou19
+
+, Chris Pearson12,13,14
+, Mark Lacy20
+, and Joel Weiner26
+
+, Lingyu Wang15,16
+,
+, Conor McPartland21,22
+
+,
+
+1 Institute for Astronomy, University of Hawai‘i, 2680 Woodlawn Dr., Honolulu, HI, 96822, USA; dfarrah@hawaii.edu
+2 Department of Physics and Astronomy, University of Hawai‘i at Mānoa, 2505 Correa Rd., Honolulu, HI, 96822, USA
+
+3 Enrico Fermi Institute, The University of Chicago, 933 East 56th Street, Chicago, IL 60637, USA
+
+4 Kavli Institute for Cosmological Physics, The University of Chicago, 5640 South Ellis Avenue, Chicago, IL 60637, USA
+
+5 Department of Physics, University of Michigan, 450 Church St., Ann Arbor, MI, 48109, USA
+
+6 Department of Physics & Astronomy, Bishop’s University, Sherbrooke Quebec J1M 1Z7, Canada
+
+7 NorthWest Research Associates, 3380 Mitchell Ln., Boulder, CO 80301, USA
+
+8 Convent & Stuart Hall Schools of the Sacred Heart, 2222 Broadway, San Francisco, CA 94115, USA
+
+9 Departamento de Física, Faculdade de Ciências, Universidade de Lisboa, Portugal
+10 Instituto de Astrofísica e Ciências do Espaço, Universidade de Lisboa, Portugal
+
+11 NHETC, Department of Physics and Astronomy, Rutgers University, Piscataway, NJ 08854, USA
+
+12 RAL Space, STFC Rutherford Appleton Laboratory, Didcot, Oxfordshire OX11 0QX, UK
+
+13 Oxford Astrophysics, University of Oxford, Keble Rd, Oxford OX1 3RH, UK
+
+14 The Open University, Milton Keynes MK7 6AA, UK
+
+15 Kapteyn Astronomical Institute, University of Groningen, Postbus 800, 9700 AV Groningen, The Netherlands
+
+16 SRON Netherlands Institute for Space Research, Landleven 12, 9747 AD, Groningen, The Netherlands
+
+17 Imperial College London, Blackett Laboratory, Prince Consort Road, London SW7 2AZ, UK
+
+18 School of Sciences, European University Cyprus, Diogenes Street, Engomi, 1516 Nicosia, Cyprus
+
+19 ESO, Karl-Schwarzschild-Str 2, D-85748 Garching bei München, Germany
+
+20 National Radio Astronomy Observatory, Charlottesville, VA, USA
+
+21 Cosmic Dawn Center (DAWN), Denmark
+
+22 Niels Bohr Institute, University of Copenhagen, Jagtvej 128, DK-2200 Copenhagen, Denmark
+
+23 George & Cynthia Woods-Mitchell Institute for Fundamental Physics and Astronomy, Texas A&M University, TX, USA
+
+24 Department of Physics and Astronomy, Texas A&M University, College Station, TX, USA
+
+25 Graduate School of Sciences and Technology for Innovation, Yamaguchi University, Yamaguchi 753-8512, Japan
+26 Department of Mathematics, University of Hawai‘i at Mānoa, 2565 McCarthy Mall, Honolulu, HI 96822, USA
+Received 2022 November 19; revised 2023 January 5; accepted 2023 January 29; published 2023 February 15
+
+Abstract
+
+Observations have found black holes spanning 10 orders of magnitude in mass across most of cosmic history. The
+Kerr black hole solution is, however, provisional as its behavior at inﬁnity is incompatible with an expanding
+universe. Black hole models with realistic behavior at inﬁnity predict that the gravitating mass of a black hole can
+increase with the expansion of the universe independently of accretion or mergers, in a manner that depends on the
+black hole’s interior solution. We test this prediction by considering the growth of supermassive black holes in
+elliptical galaxies over 0 < z  2.5. We ﬁnd evidence for cosmologically coupled mass growth among these black
+holes, with zero cosmological coupling excluded at 99.98% conﬁdence. The redshift dependence of the mass
+growth implies that, at z  7, black holes contribute an effectively constant cosmological energy density to
+Friedmann’s equations. The continuity equation then requires that black holes contribute cosmologically as
+vacuum energy. We further show that black hole production from the cosmic star formation history gives the value
+of ΩΛ measured by Planck while being consistent with constraints from massive compact halo objects. We thus
+propose that stellar remnant black holes are the astrophysical origin of dark energy, explaining the onset of
+accelerating expansion at z ∼ 0.7.
+Uniﬁed Astronomy Thesaurus concepts: Astrophysical black holes (98); Black hole physics (159); Supermassive
+black holes (1663); Dark energy (351); Star formation (1569); Cosmological constant (334)
+
+1. Introduction
+
+Astrophysical black holes (BHs), with masses spanning a
+few to several billion solar masses, are found in systems
+ranging from stellar binaries to supermassive BHs (SMBHs) in
+the centers of galaxies. Observations of gravitational waves
+
+Original content from this work may be used under the terms
+of the Creative Commons Attribution 4.0 licence. Any further
+distribution of this work must maintain attribution to the author(s) and the title
+of the work, journal citation and DOI.
+
+1
+
+from binary BH mergers (Abbott et al. 2019, 2021) and of
+supermassive BHs by the Event Horizon Telescope Collabora-
+tion et al. (2019) and Akiyama et al. (2022), have shown
+excellent consistency with the Kerr
+solution on
+timescales from milliseconds to hours, and spatial scales of
+up to milliparsecs. BHs are thus established as a universal
+phenomenon, across at least 10 orders of magnitude in mass.
+Existing models for astrophysical BHs are necessarily
+provisional. They feature singularities, horizons, and unrealistic
+
+(1963)
+
+al.
+
+The Astrophysical Journal Letters, 944:L31 (9pp), 2023 February 20
+boundary conditions27 (e.g.,Visser 2009). Though singularities
+and horizons are of theoretical interest (e.g., Harlow 2016), the
+Kerr solution reduces to ﬂat spacetime at spatial inﬁnity. This is
+incompatible with our universe, which is in concordance with a
+perturbed Robertson Walker (RW) cosmology to sub-percent
+precision
+2020; Dodelson &
+Schmidt 2020). Thus, regardless of singularities and horizons,
+Kerr is only appropriate for intervals of time short compared to
+the reciprocal expansion rate of the universe, and can only be
+consistently interpreted as an approximation to some more
+general solution.
+
+(e.g., Aghanim et
+
+Efforts to construct a BH model in general relativity (GR)
+with realistic RW boundary conditions have been ongoing for
+nearly a century, but have met with limited success. Early work
+by McVittie (1933) generalized the Schwarzschild solution to
+arbitrary RW spacetimes. Nolan (1993) constructed a non-
+singular interior for this solution, and progress has been made
+in understanding its horizon/causal structure (e.g., Kaloper
+et al. 2010; Lake & Abdelqader 2011; Faraoni et al. 2012; da
+Silva et al. 2013). Faraoni & Jacques (2007) constructed
+solutions featuring dynamical phenomena such as horizons that
+comove with the universe’s expansion, evolution of interior
+energy densities and pressures, and time-varying mass. These
+solutions are signiﬁcant, because they show how heuristic
+application of Birkhoff’s theorem in cosmological settings can
+fail in the presence of strong gravity28 (see Lemaître 1931;
+Einstein & Straus 1945; Callan et al. 1965; Peebles 1993).
+Time-varying mass in particular has been studied by Guariento
+et al. (2012) and Maciel et al. (2015), but its interpretation
+remains largely unexplored. All of these solutions, however,
+are incompatible with Kerr on short timescales because they do
+not spin. A BH solution that satisﬁes observational constraints
+at small and large scales simultaneously has yet to be found.
+Progress on these problems in GR has become possible with
+advances that resolve a long-standing ambiguity in Fried-
+mann’s equations (e.g., Ellis & Stoeger 1987).
+In RW
+cosmology,
+the metric is position-independent and has no
+preferred directions in space. In order for Einstein’s equations
+to be consistent, the stress-energy must share these properties.
+Einstein’s equations, however, give no prescription for
+converting the actual, position-dependent, distribution of
+stress-energy observed at late times into a position-independent
+source. Croker & Weiner
+resolved this averaging
+ambiguity, showing how the Einstein–Hilbert action gives the
+necessary relation between the actual distribution of stress-
+energy and the source for the RW model.
+
+(2019)
+
+A consequence of this result is that relativistic material,
+located anywhere, can become cosmologically coupled to the
+expansion rate. This has implications for singularity-free BH
+models, such as those with vacuum energy interiors (e.g.,
+Gliner 1966; Dymnikova 1992; Chapline et al. 2002; Mazur &
+Mottola 2004; Lobo 2006; Mazur & Mottola 2015; Dymnikova
+& Galaktionov 2016; Posada 2017; Beltracchi & Gon-
+dolo 2019; Posada & Chirenti 2019). The stress-energy within
+BHs like these, and therefore their gravitating mass, can vary in
+time with the expansion rate. The effect is analogous to the
+
+27 Boundary conditions include both behavior at junctions and asymptotic
+behavior at inﬁnity, if applicable.
+28 It is not sufﬁcient that densities and pressures exterior to some region justify
+a Newtonian treatment. Densities and pressures interior to that region must also
+remain non-relativistic (Weinberg 2008).
+
+Farrah et al.
+
+cosmological photon redshift, but generalized to timelike
+trajectories.
+
+The presence or absence of cosmologically coupled mass in
+BHs strongly constrains observationally viable BH solutions.
+In general, the way in which a BH’s mass M changes in time
+depends on the BH model. Croker et al. (2021) give a
+parameterization of the effect in terms of the RW scale factor a,
+
+( )
+M a
+
+=
+
+(
+M a
+
+)
+
+i
+
+
+
+a
+
+a ,
+i
+
+( )
+1
+
+⎛
+⎝
+
+⎜
+
+a
+a
+
+i
+
+k
+
+⎞
+⎠
+
+⎟
+
+where ai
+is the scale factor at which the object becomes
+cosmologically coupled and k  0 is the cosmological coupling
+strength.29 The Nolan (1993) solution can be regarded as
+cosmologically coupled with k = 0 because its stress-energy
+evolves such that
+the
+cosmological expansion. Vacuum energy interior solutions
+with cosmological boundaries have been predicted to produce
+k ∼ 3, which is the maximum value for causal material with
+positive energy density (Croker & Weiner 2019).
+
+the mass remains ﬁxed throughout
+
+Cosmologically coupled mass change allows for exper-
+imental distinction between singular and non-singular BHs,
+complementing constraints from short-timescale data (e.g.,
+Sakai et al. 2014; Cardoso et al. 2016; Uchikata et al. 2016;
+Yunes et al. 2016; Cardoso & Pani 2017; Chirenti 2018;
+Konoplya et al. 2019; Maggio et al. 2020). Observing
+cosmologically coupled mass change, however, is challenging.
+Between an initial scale factor ai and a ﬁnal one af, mass
+evolution only becomes apparent when (
+1
+. For
+example, an observational test of cosmological mass change at
+z  3 requires a population of BHs whose masses can be
+tracked across at least a gigayear, and in which accretion or
+merging can be independently estimated.
+
+) 
+k
+
+a a
+f
+
+i
+
+In this paper, we perform a direct test of BH mass growth
+due to cosmological coupling. A recent study by Farrah et al.
+(2023) compares the BH masses MBH and host galaxy stellar
+masses M* of “red-sequence” elliptical galaxies over 6–9 Gyr,
+from the current epoch back to z ∼ 2.7. The study ﬁnds that the
+BHs increase in mass over this time period by a factor of
+8–20× relative to the stellar mass. The growth factor depends
+on redshift, with a higher factor at higher redshifts. Because
+SMBH growth via accretion is expected to be insigniﬁcant in
+red-sequence ellipticals, and because galaxy–galaxy mergers
+should not on average increase SMBH mass relative to stellar
+mass, this preferential increase in SMBH mass is challenging to
+explain via standard galaxy assembly pathways (Farrah et al.
+2023, Section 5). We here determine if this mass increase is
+consistent with cosmological
+the
+constraints on the coupling strength k.
+
+coupling and,
+
+so,
+
+if
+
+2. Methods
+
+We consider ﬁve high-redshift samples, and one local
+sample, of elliptical galaxies given by Farrah et al. (2023). For
+the high-redshift samples we use: two from the WISE survey
+(one at z
+=
+measured with the Hβ line, and one at
+measured with the Mg II line), two from the SDSS
+z
+0.85
+(one at z
+=
+, with Hβ and Mg II,
+
+and one at z
+
+0.75
+
+0.75
+
+0.85
+
+=
+
+=
+
+29 This model agrees with the GR prediction for a population of identical
+objects, with homogeneous and non-singular interiors. For such objects,
+k = −3P/ρ, where P and ρ are the object’s interior pressure and energy
+density, respectively.
+
+2
+
+The Astrophysical Journal Letters, 944:L31 (9pp), 2023 February 20
+
+Farrah et al.
+
+Figure 1. (Top) Posterior distributions of cosmological coupling strength k, inferred by comparing supermassive black holes (BHs) in local elliptical galaxies to those
+in ﬁve samples of elliptical galaxies at z > 0.7. (Bottom) Combining these posterior samples with equal weighting gives a distribution with k
+at 90%
+conﬁdence. If ﬁt to a Gaussian, the ﬁt has a mean of k = 3.09 with a standard deviation of 0.76 (shading). Vertical lines indicate: k = 0 coupling, as expected for
+traditional BHs like Kerr and the decoupled solution by Nolan (1993); and k = 3 coupling, as predicted for vacuum energy interior BHs. The measurement disfavors
+zero coupling at 99.98% conﬁdence and is consistent with BHs possessing vacuum energy interiors, as ﬁrst suggested by Gliner (1966).
+
+1.19
+3.11 1.33
+
+=
+
++
+-
+
+respectively), and one from the COSMOS ﬁeld (at z
+).
+1.6=
+We then determine the value of k needed to align each high-
+redshift sample with the local sample in the MBH–M* plane. If
+the growth in BH mass is due to cosmological coupling alone,
+regardless of sample redshift, the same value of k will be
+recovered.
+
+To compute the posterior distributions in k for each
+combination, we apply the pipeline developed by Farrah
+et al. (2023), which we brieﬂy summarize. Realizations of each
+galaxy sample are drawn from the sample with its reported
+uncertainties. The likelihood function applies the expected
+measurement and selection bias corrections to the realizations,
+as appropriate for each sample. The de-biased, and so best
+actual estimate, BH mass of each galaxy is then shifted to its
+mass at z = 0 according to Equation (1) with some value of k.
+Using the Epps–Singleton test, an entire high-redshift realiza-
+tion is then compared against a realization of
+the local
+ellipticals, where BH masses are shifted to z = 0 in the same
+way. The result is a probability that can be used to reject the
+hypothesis
+the samples are drawn from the same
+distribution in the MBH–M* plane,
+they are
+cosmologically coupled at this k.
+
+that
+
+that
+
+i.e.,
+
+3. Results and Discussion
+
+We present posterior distributions in k, for each high-redshift
+to local comparison, in the top row of Figure 1. The redshift
+dependence of mass growth translates to the same value k ∼ 3
+across all ﬁve comparisons, as predicted by growth due to
+cosmological coupling alone. As further veriﬁcation, we
+
+compute k from a comparison between high-redshift WISE
+and COSMOS samples. This comparison requires no BH bias
+1.65
+2.96 1.46
+corrections. We ﬁnd a consistent value of k
+.
+Combining the results from each local comparison gives
+
+=
+
++
+-
+
+k
+
+=
+
++
+3.11
+-
+
+1.19
+1.33
+
+(
+
+)
+90% confidence ,
+
+( )
+2
+
+which excludes k = 0 at 99.98% conﬁdence, equivalent
+to
+>3.9σ observational exclusion of the singular Kerr interior
+solution.
+
+3.1. Implications
+
+Our result provides a single-channel explanation for the
+disparity in SMBH masses between local ellipticals and their
+7–10 Gyr antecedents (Farrah et al. 2023). Furthermore, the
+recovered value of k ∼ 3 is consistent with SMBHs having
+vacuum energy interiors. Our study thus makes the existence
+argument for a cosmologically realistic BH solution in GR with
+a non-singular vacuum energy interior.
+
+Equation (1) implies that a population of k ∼ 3 BHs will gain
+mass proportional to a3. Within an RW cosmology, however,
+all objects dilute in number density proportional to a−3. When
+accretion becomes subdominant to growth by cosmological
+coupling, this population of BHs will contribute in aggregate as
+a nearly cosmologically constant energy density. From
+conservation of stress-energy, this is only possible if the BHs
+also contribute cosmological pressure equal to the negative of
+their energy density, making k ∼ 3 BHs a cosmological dark
+energy species.
+
+3
+
+The Astrophysical Journal Letters, 944:L31 (9pp), 2023 February 20
+
+Farrah et al.
+
+Figure 2. Cosmic star formation rate densities (SFRDs) capable of producing the necessary k = 3 BH density to give ΩΛ = 0.68 (green, solid). The details of the
+model are given in Appendix A. The upper bound of the viable region adopts a Kroupa (2002) initial mass function (IMF) at all redshifts with the least amount of
+remnant accretion required to produce ΩΛ with a decreasing power-law SFRD model (red, solid). The lower bound adopts the top-heavy IMF of Harikane et al.
+(2022a) at z > 7 (blue, solid). Two middle lines show the impact of a top-heavy IMF at z > 7, but no remnant accretion (green, solid); and higher accretion, but with a
+Kroupa IMF (orange, solid). Existing measurements of the SFRD via IR (Rowan-Robinson et al. 2018, red, squares), γ-ray bursts (Kistler et al. 2009, orange, stars),
+FIR (Algera et al. 2023, brown, xs), and rest-frame UV via the JWST (Harikane et al. 2022a; Donnan et al. 2022, purple, dots), (Bouwens et al. 2022, blue, dots) are
+over-plotted. The UV points can vary ∼−1 dex depending upon IMF assumptions and UV luminosity integration bounds. Consistency occurs with consumption of
+<3% of the baryon fraction Ωb after cosmic dawn. The results assume stellar ﬁrst light at zå = 25 (Harikane et al. 2022b, Figure 25) but are typical of the scenario for
+15 < zå < 35. Also indicated are the redshifts probed by 21 cm experiments.
+
+3.2. ΩΛ from the Cosmic Star Formation History
+
+If k ∼ 3 BHs contribute as a cosmological dark energy
+species, a natural question is whether they can contribute all of
+the observed ΩΛ. We test this by assuming that: (1) BHs couple
+with k = 3, consistent with our measured value; (2) BHs are the
+only source for ΩΛ, and (3) BHs are made solely from the
+deaths of massive stars. Under these assumptions, the total BH
+mass from the cosmic history of star formation (and subsequent
+cosmological mass growth)
+consistent with
+ΩΛ = 0.68.
+
+should be
+
+formation rate density (SFRD)
+
+In Appendix A we construct a simple model of the cosmic
+star
+that allows exploring
+combinations of stellar production rate, stellar initial mass
+function (IMF), and accretion history. Figure 2 displays models
+that produce the Planck measured value of ΩΛ = 0.68
+(Aghanim et al. 2020) with the indicated IMF and Eddington
+ratio λe. Any monotonically decreasing path inside the ﬁlled
+region produces ΩΛ = 0.68 for some observationally viable
+IMF and accretion history, consuming at most 3% of baryons.
+This baryon consumption is compatible with the results of
+Macquart et al. (2020), who ﬁnd that Ωb at low redshift agrees
+with Ωb inferred from the big bang to within 50%.
+
+It follows from Equation (1) that cosmological coupling in
+BHs with k = 3 will produce a BH population with masses
+>102Me. If these BHs are distributed in galactic halos, they
+will form a population of MAssive Compact Halo Objects
+(MACHOs). In Appendix B, we consider the consistency of
+SFRDs in Figure 2 with MACHO constraints from wide halo
+binaries, microlensing of objects in the Large Magellanic
+Cloud, and the existence of ultra-faint dwarfs (UFDs). We
+conclude that non-singular k = 3 BHs are in harmony with
+
+MACHO constraints while producing ΩΛ = 0.68, driving late-
+time accelerating expansion.
+
+4. Future Tests
+
+Further tests of cosmological coupling in BHs are essential
+to conﬁrm or refute our proposal. We list some examples
+below, highlighting possible tensions.
+
+4.1. Signatures in the Cosmic Microwave Background
+A population of k ∼ 3 BHs are a dark energy species. Thus,
+their distribution in space need not trace baryons or dark matter
+at all times. For example, Croker et al. (2020b) study the spatial
+distribution of k ∼ 3 BHs with anisotropic stress (e.g., Cattoen
+et al. 2005) at ﬁrst order in cosmological perturbation theory.
+Anisotropic stress within individual BHs leads to an effective
+ﬂuid at ﬁrst-order that resists clustering and can even drive the
+spatial distribution to uniformity.30 Resistance to clustering is
+computed from the non-singular BH model, of which there is
+currently none preferred (Section 4.6). Some amount of
+anisotropic stress is, however, necessary to satisfy constraints
+on the galaxy two-point correlation function (Croker et al.
+2020b).
+
+Anisotropic stress from cosmologically coupled BHs at
+zå = 25 would maximally impact
+the cosmic microwave
+background (CMB) via the Integrated Sachs–Wolfe effect at
+ℓ = 5, with lesser impacts at ℓ  5 (e.g., Koivisto & Mota 2006;
+Dodelson & Schmidt 2020). The low ℓ  30 multipoles of the
+CMB TT anisotropy spectrum are anomalous in several
+respects (e.g., Schwarz et al. 2016) and with amplitude in
+
+30 For mathematical details, see Croker et al. (2022).
+
+4
+
+The Astrophysical Journal Letters, 944:L31 (9pp), 2023 February 20
+
+Farrah et al.
+
+Figure 3. (Vertical bars) Fraction of z = 0 halo density contributed by k = 3 BHs, as produced by the indicated SFRDs in Figure 2. Models are ordered by increasing
+SFRD power-law slope, with colors set to agree with the model lines in Figure 2. Also displayed (gray, shaded) are current constraints on MACHOs from
+microlensing (Blaineau et al. 2022), wide halo binary disruption (Monroy-Rodríguez & Allen 2014; Tyler et al. 2022), and ultra-faint dwarf (UFD) galaxy disruption
+(Brandt 2016). Noting the broken vertical axis, the microlensing and halo binary constraints are easily satisﬁed. Dwarf galaxy constraints may discriminate candidate
+SFRD and IMF combinations. As shown, UFD constraints are overly conservative because they do not account for the decrease in comoving BH mass density at
+earlier times, as will be present in the k > 0 coupled scenario. The effects of accretion at z > 7, as well as adopting a top-heavy IMF (Appendix A), are visible as a
+decreased fraction in the intermediate-mass BH range. Horizontal bars show the fraction of present-day ΩΛ contributed by each mass bin. Mass bins that contribute
+<5% of ΩΛ are unlabeled for clarity. Color gradients indicate mass binning and are common to both vertical and horizontal bars. Contributions less than 1%, including
+negligible contributions omitted in the vertical bars, are also shown in log scaling. Here, contributions are ordered by density fraction.
+
+excess of cosmic variance at ℓ = 5 (e.g., Planck Collaboration
+et al. 2020). Any imprint of BH production at cosmic dawn on
+the CMB at low ℓ provides a precision test of non-singular BH
+models, and could enable independent constraint of the high-
+z SFRD.
+
+4.2. Strong Lensing of γ-Ray Bursts
+
+The prevalence of strong gravitationally lensed γ-ray bursts
+(GRBs) has been used to estimate the comoving density of
+intermediate-mass BHs (IMBHs; Paynter et al. 2021, see also,
+e.g., Wang et al. 2021; Yang et al. 2021; Chen et al. 2022;
+Kalantari et al. 2022; Liao et al. 2022; Lin et al. 2022). GRBs
+probe IMBHs at scales much greater than the nonlinearity scale
+of ∼6 Mpc, complementing ∼50 kpc MACHO constraints
+
+5
+
+The Astrophysical Journal Letters, 944:L31 (9pp), 2023 February 20
+(Appendix B). At these larger scales, the prediction of uniform
+spatial distribution from anisotropic stress (Section 4.1) is
+directly applicable.
+
+Xiao & Schaefer (2011) report GRBs with spectroscopic
+redshifts and ﬁnd that 90% of GRBs have redshifts z > 0.25,
+with 50% occurring at z > 1.5. Across these distances, k ∼ 3
+cosmological coupling of BHs strongly impacts the comoving
+mass density of lenses along the line of sight, reducing it by
+factors of at least 2–16×. Existing analyses do not incorporate
+this impact of cosmological coupling on the optical depth.
+Thus, a direct comparison of measured ΩIMBH against
+the
+simulated BH populations in Appendix B is not yet possible.
+is to incorporate cosmological
+coupling into the optical depth calculation. In general, a
+spectroscopic redshift
+is not available for candidate lensed
+GRBs, signiﬁcantly weakening measurement of ΩIMBH (e.g.,
+Paynter et al. 2021). Consistency with our population
+predictions, when evaluated at the lens redshift, could help to
+constrain such measurements.
+
+A promising future test
+
+4.3. Stellar Mass BH–BH Merger Rates
+
+The population properties of observable binary BH mergers
+probe cosmological coupling because their inspiral time can be
+a signiﬁcant fraction of the age of the universe. If k > 0, then
+the component masses of binary BH systems observed by
+gravitational-wave detectors are not representative of the birth
+masses. This impacts the interpretation of merging populations
+of BHs (The LIGO Scientiﬁc Collaboration et al. 2021) and the
+stochastic background (Christensen 2019; Arzoumanian et al.
+2020). Coupled mass growth further leads to accelerated orbital
+decay, though the rate of this decay may be model dependent
+(see Hadjidemetriou 1963; Croker et al. 2020a). This aspect
+affects both the observed mass spectrum and rate of binary BH
+mergers. For example,
+in the absence of cosmological
+coupling, stellar-mass binary BH systems with semimajor axis
+0.3 au can only merge within a Hubble time when highly
+eccentric. Conversely, with k  0.2, systems with initial
+semimajor axes 0.1 < R < 104 au can merge within less than
+a Hubble time. This can lead to signiﬁcant increases in merger
+rate. Competing with this effect, however, is that mergers can
+happen so quickly after remnant formation that they merge at a
+redshift beyond the detection limit of current generation
+observatories.
+
+4.4. Direct Measurement from Orbital Period Decay
+
+Direct measurement of altered orbital decay rate in binary
+BH systems with proposed space-based observatories like
+LISA (Armano et al. 2018), DECIGO (Sato et al. 2017), and
+Taiji (Gong et al. 2021) is likely not possible because these
+observatories can only track orbital decay in the ﬁnal few
+months. Decade-scale electromagnetic observations of a
+pulsar–BH orbit, however, would provide sufﬁcient precision
+to measure cosmological coupling directly (e.g., Weisberg et al.
+2010; Croker & Weiner 2019).
+
+4.5. Stellar Mass BHs and Stellar Evolution
+
+Farrah et al.
+coupling of k = 3 and adopting contemporary stellar population
+synthesis estimates can lead to an overabundance of BHs with
+masses >120Me. While uncertainties in binary BH formation
+channels (Zevin et al. 2021; Mandel & Farmer 2022), massive
+binary star evolutionary physical processes (Broekgaarden
+et al. 2022), nuclear reaction rates (Farmer et al. 2020),
+supernova core collapse physics (Patton & Sukhbold 2020),
+and SFRD and metallicity evolution (Chruślińska 2022) leave
+population model ﬂexibility,
+there are known young BHs
+within X-ray binaries with mass ∼20Me (e.g., Miller-Jones
+et al. 2021). If this BH mass is typical of young stellar remnants
+at z  5, then the distribution of remnant binary semimajor axes
+and eccentricities becomes constrained so as not to produce
+overly massive BH–BH mergers. An important test for k = 3
+BHs is whether such constraints are plausible.
+
+4.6. Theoretical Considerations
+
+As described in Section 1, there are known exact solutions
+with each of the following properties: strong spin, arbitrary RW
+asymptotics, dynamical mass, and interior vacuum energy
+equation of state. Our result implies the existence, within GR,
+of an exact solution with all of these properties. Currently, there
+is no known solution that possesses all four, though there are
+two (e.g.,
+known solutions with various combinations of
+Guariento et al. 2012; Dymnikova & Galaktionov 2016).
+Finding solutions that feature all four properties is an important
+theoretical step forward.
+
+It is also interesting that a link between BHs and late-time
+accelerating expansion has been independently suggested
+within frameworks distinct from GR. Afshordi (2008) and
+Prescod-Weinstein et al. (2009) adopt a gravitational æther
+framework in which an effective cosmological constant
+emerges from quantum gravity effects at BH horizons. Notably,
+this yields a reduction of the quantum ﬁeld theory tuning
+required, from over one hundred decimal places to only two.
+Their scenario is, however, distinct from ours; it has a different
+theoretical basis and does not, to our knowledge, predict that
+BHs gain mass as the scale factor increases.
+
+4.7. Validation of Preferential Growth of SMBHs
+
+testing combinations of
+
+Further validation of the measured preferential growth of
+SMBHs by Farrah et al. (2023) is an essential test of our
+proposal. This can be done by: deepening understanding of the
+relevant biases, improving morphological determinations of the
+high-redshift samples,
+traditional
+assembly pathways in simulations, and improving the accuracy
+of SMBH and stellar mass measures. An important future test is
+to improve the statistics and reliability of the high redshift
+sample. Doing so requires assembling a sample of 103 active
+galactic nuclei in elliptical hosts with low SFRs and reddenings
+over 0.7 < z < 2.5. The sample should have reliable measures
+of host stellar mass and consistent measures of SMBH mass
+with a subset that includes multi-epoch reverberation mapped
+measures. Such a study would enable narrower
+redshift
+intervals to be used at z > 0.7, giving ﬁner discrimination
+between cosmological coupling and other processes.
+
+Mass shifts consistent with cosmological coupling have been
+proposed to exist
+in the merging binary BH population,
+explaining both the observed BH mass spectrum and the
+existence of BHs in the pair-instability mass gap, though with a
+smaller coupling strength of k ∼ 0.5 (Croker et al. 2021). A
+
+4.8. Quasars at z > 6 and the SMBH Mass Function
+
+The existence of SMBHs at z  6 (e.g., Trakhtenbrot et al.
+2015) with masses >109Me is challenging to explain via
+accretion and direct collapse models (e.g., Inayoshi et al. 2020;
+
+6
+
+The Astrophysical Journal Letters, 944:L31 (9pp), 2023 February 20
+Volonteri et al. 2021). Cosmological coupling with k = 3,
+starting at z = 25, provides a mass increase of a factor of 51 by
+z = 6 (Equation (1)). This would ease tensions between BH
+growth models and observations of z > 6 quasars, but it has not
+been shown that cosmological coupling is required to do so.
+BH masses must also increase between z ∼ 6 and z = 0 by a
+factor of 343. Comparison of the BH mass function in quasars
+at z ∼ 6 with that at z = 0 must be compatible with this
+the Sołtan (1982)
+minimum increase. Generalization of
+argument to k = 3 coupling is a ﬁrst step, though comparison
+of the high-end mass cutoff is not sufﬁcient, because SMBHs
+may cease to accrete luminously above ∼1011Me (e.g.,
+King 2015; Inayoshi & Haiman 2016; Carr et al. 2021).
+
+5. Conclusions
+
+=
+
+Realistic astrophysical BH models must become cosmolo-
+gical at large distance from the BH. Non-singular cosmological
+BH models can couple to the expansion of the universe,
+gaining mass proportional to the scale factor raised to some
+power k. A recent study of SMBHs within elliptical galaxies
+across ∼7 Gyr ﬁnds redshift-dependent 8–20× preferential BH
+growth, relative to galaxy stellar mass. We show that this
+growth excludes decoupled (k = 0) BH models at 99.98%
+conﬁdence. Our measured value of k
+at 90%
+conﬁdence is consistent with vacuum energy interior BH
+models that have been studied for over half a century.
+Cosmological conservation of stress-energy implies that k = 3
+BHs contribute as a dark energy species. We show that k = 3
+stellar remnant BHs produce the measured value of ΩΛ within a
+wide range of observationally viable cosmic star formation
+histories, stellar IMFs, and remnant accretion. They remain
+consistent with constraints on halo compact objects and they
+naturally explain the “coincidence problem,” because dark
+energy domination can only occur after cosmic dawn. Taken
+together, we propose that stellar remnant k = 3 BHs are the
+astrophysical origin for the late-time accelerating expansion of
+the universe.
+
+1.19
+3.11 1.33
+
++
+-
+
+their ﬁnancial support of
+
+We thank the referees for very helpful reports. We thank
+M. Valluri (U. Michigan) for suggesting the bias-free high-
+redshift crosscheck. We thank the David C. and Marzia C.
+Schainker Family for
+required
+computations. M.Z. is supported by NASA through the NASA
+Hubble Fellowship grant HST-HF2-51474.001-A awarded by
+the Space Telescope Science Institute, which is operated by the
+Association of Universities for Research in Astronomy, Inc.,
+for NASA, under contract NAS5-26555. G.T. acknowledges
+support through DoE Award DE-SC009193. V.F. is supported
+by the Natural Sciences & Engineering Research Council of
+Canada (grant 2016-03803). J.A. acknowledges ﬁnancial
+support from the Science and Technology Foundation (FCT,
+Portugal) through research grants PTDC/FIS-AST/29245/
+2017, UIDB/04434/2020 and UIDP/04434/2020.
+
+The National Radio Astronomy Observatory is a facility of
+the National Science Foundation operated under cooperative
+agreement by Associated Universities, Inc.
+
+Appendix A
+
+SFRD Bounding Model
+
+Here we construct a simple model
+
+to establish whether
+plausible SFRDs lead to ΩΛ ; 0.7, if massive stellar collapse
+
+Farrah et al.
+produces k = 3 BHs. For the overall form of the SFRD, we
+adopt the model of Madau & Fragos (2017) at z  4. Between
+z = 4 and cosmic dawn at z = 25 we adopt a power law for the
+SFRD with exponent α < 0, matched continuously to the z  4
+SFRD. In units of Me Mpc−3 yr−1,
+
+(
+
+r
+*
+
+z
+
+,
+
+) ≔
+
+a
+
+2.6
+
++
++
+
+)
+)
+
+z
+z
+
+3.2
+
+]
+6.2
+
+⎧
+⎪
+⎨
+⎩⎪
+
+0.01
+(
+z
+0
+
+4
+
+1
+)
+a
+
+(
+1
+[(
++
+1
+( )
+
+r a
+*
+
+
+
+4
+
+
+z
+25
+
+<
+>
+
+25
+
+z
+
+4
+z
+
+(
+
+. A1
+
+)
+
+r is the time rate of production of stellar mass. The
+where *
+choice of varying the power-law slope at z > 4 is motivated by
+r over 4 < z < 10. Estimates from
+the disparities in observed *
+IR (Rowan-Robinson et al. 2018) and GRBs (Kistler et al.
+2009) can be 1–2 dex higher than estimates from UV-dropouts
+(Harikane et al. 2022a; Bouwens et al. 2022; Donnan et al.
+2022). Varying α at z > 4 allows us to encompass SFRDs
+consistent with all extant data.
+
+To account for variation in the stellar IMF with redshift, we
+divide the SFRD into a Population III epoch at z > 7 (e.g.,
+Inoue et al. 2014, but see Liu & Bromm 2020) and a standard
+epoch, characterized by a Kroupa IMF at z  7. We consider
+scenarios where the Population III epoch is characterized by
+either a Kroupa IMF or the top-heavy Harikane et al. (2022a)
+IMF ∝M−2.35 for 50  M  500, and zero elsewhere. Finally,
+we use the redshift-dependent, mean-metallicity model of
+Madau & Fragos (2017), truncated at Ze, to enable use of
+standard metallicity-dependent
+sequence
+(ZAMS) mass to remnant mass, delayed, core-collapse super-
+novae prescriptions by Fryer et al. (2012).
+
+zero-age main
+
+For simplicity, we apply post-remnant formation accretion,
+with a ﬁxed Eddington ratio λe, to all Population III BHs over a
+duration te,
+
+(
+M t
+i
+
++
+
+)
+
+t
+e
+
+µ
+
+( )
+M t
+i
+
+exp
+
+(
+
+e el
+t
+
+)
+
+
+,
+
+(
+
+A2
+
+)
+
+of
+
+studies
+
+galaxy mergers
+
+brief enough that
+the impact on instantaneous rate from
+cosmological coupling of accreted mass can be neglected.
+Because te, λe, and ò are degenerate in Equation (A2), there is
+(2023) use
+effectively only one parameter. Farrah et al.
+simulation
+to
+estimate
+te = 44 ± 22 Myr at λe > 1 from observations of 21 IR-
+luminous galaxy mergers at z < 0.3. This value is consistent
+with ∼10 Myr estimates by Madau et al. (2014) for high-z BH
+seeds, so we adopt te = 20 Myr. The uncertainty in te is large,
+e.g., Safarzadeh & Haiman (2020) ﬁnd Population III stellar
+BH accretion across timescales ∼0.5 Myr. Tortosa et al. (2022)
+measure λe ; 472 for a Seyfert 1 galaxy, while simulations by
+(2016) ﬁnd stable accretion onto isolated
+Inayoshi et al.
+Population III BHs at λe ; 5000. As we apply this accretion to
+all Population III BHs in our model, we consider models within
+a more conservative λe  30. Given the large range of plausible
+te and λe, we ﬁx the efﬁciency ò = 0.16, roughly 30% of the
+Kerr BH limit (e.g., Bardeen 1970).
+
+To compute viable SFRDs, we use a Monte Carlo approach.
+Because high-mass remnants formed at high redshift can easily
+dominate ΩΛ, care must be taken to sufﬁciently sample these
+tails of the distributions. We divide the domains for IMF and
+SFRD distributions into distinct windows such that, in these
+windows,
+the distributions are guaranteed to give Poisson
+
+7
+
+10
+
+t-
+
+yr
+
+~
+
+10
+
+)
+
+(
+M M
+
+The Astrophysical Journal Letters, 944:L31 (9pp), 2023 February 20
+errors 1% in the lowest probability bin. The total collection of
+draws is eventually reweighted by relative areas under the
+windowed IMFs and Equation (A1). In each window, we draw
+106 ZAMS stellar masses from the appropriate IMFs and 106
+redshift-dependent metallicities. Given the birth masses and
+redshifts, we approximate a redshift of stellar death using
+, where τ = 2.5 (e.g., Harwit 2006).
+t
+life
+We discard draws that live beyond z = 0, and then determine
+collapsed remnant masses. The ZAMS mass to remnant mass
+model we adopt assumes that all stars drawn are single stars.
+Consistent with Kalogera & Baym (1996), we regard any
+remnants with mass >2.7Me as BHs. To convert the resulting
+population of BHs into a cosmological density, we regard this
+drawn population as residing within one co-moving Mpc3. We
+ﬁrst reweight all draws by the probability of having come from
+from this
+their
+(
+)
+
+r =
+0
+z
+reweighted mass to a predicted mass by rescaling *
+by the total mass in long-lived stars, neutron stars, and initial
+BH remnant mass, as described by Madau & Fragos (2017).
+(
+r = by integrating Equation (A1) in time,
+
+z
+We compute *
+and scaling by an IMF-appropriate gas return fraction 1 − R
+(e.g., R = 0.39 given by Madau & Fragos 2017 for Kroupa, and
+1 for Harikane). We then divide the summed predicted mass in
+BHs at z = 0 by the critical density today H
+2 p to get ΩΛ.
+80
+
+respective windows. We
+
+then convert
+
+)
+0
+
+G
+
+3
+
+Massive Compact Halo Object Constraints
+
+Appendix B
+
+Here we establish that a k ∼ 3 BH population sufﬁcient to
+produce ΩΛ is consistent with constraints on MACHOs. In
+Figure 3, we display the contribution to halo density from k = 3
+BH masses at z = 0 computed in the explicit SFRD models
+shown in Figure 2. Consistent with the discussion in
+Section 4.1, we have assumed a uniformly dispersed population
+in the computation of Figure 3. We adopt a uniform Milky Way
+(MW) halo density equal to the median dark matter density at
+the solar system 8.8 ± 0.5 × 10−3 Me/pc3 as measured by
+Cautun et al. (2020). This is conservative relative to a mean
+halo density 1.7 × 10−2 Me/pc3, inferred from 1.37 × 1011 Me
+within the MW at <20 kpc as measured by Posti &
+Helmi (2019).
+
+In Figure 3 we display limits on MACHOs from microlen-
+sing (e.g., Blaineau et al. 2022), wide halo binary disruption
+(e.g., Monroy-Rodríguez & Allen 2014; Tyler et al. 2022), and
+UFD disruption (e.g., Brandt 2016). We approximate the UFD
+constraint from Brandt (2016) as ∝1/m following Binney &
+Tremaine (2011, Equation (7.104)) and convert from the UFD
+halo density assumed by Brandt (2016, Figure 4) to our MW
+halo density scale by a multiplicative factor 0.3/0.0088.
+
+All BH density contributions lie below the microlensing and
+wide binary limits by several orders of magnitude. High
+accretion models with a Kroupa IMF show some tension with
+UFD constraints, which begin to have discriminatory power in
+our scenario. Comparing the two top-heavy IMF models, the
+effect of accretion is to redistribute mass density from the
+IMBH range into the SMBH range. The top-heavy IMF with no
+accretion model shows how a top-heavy IMF acts to populate
+the IMBH region.
+
+density
+
+The aforementioned constraints do not account for comoving
+BH mass
+redshift
+(Equation (1)) for k > 0. The constraints as presented are thus
+overly stringent because the probability of compact object
+interactions is reduced at earlier times. The UFD galaxy and
+
+decrease with
+
+increasing
+
+8
+
+Farrah et al.
+
+wide halo binary constraints are most
+impacted, as they
+consider the stability of astrophysical phenomena over gigayear
+timescales. A thorough analysis that incorporates decreasing
+comoving density of compact objects further back in time is the
+subject of future work.
+
+Duncan Farrah
+Kevin S. Croker
+Michael Zevin
+Gregory Tarlé
+Valerio Faraoni
+Sara Petty
+Jose Afonso
+Nicolas Fernandez
+Kurtis A. Nishimura
+8818-8922
+Chris Pearson
+Lingyu Wang
+David L Clements
+Andreas Efstathiou
+Evanthia Hatziminaoglou
+0917-9636
+Mark Lacy
+Conor McPartland
+Lura K Pitchford
+Nobuyuki Sakai
+Joel Weiner
+
+ORCID iDs
+
+https://orcid.org/0000-0003-1748-2010
+https://orcid.org/0000-0002-6917-0214
+
+https://orcid.org/0000-0002-0147-0835
+https://orcid.org/0000-0003-1704-0781
+https://orcid.org/0000-0002-2601-1870
+
+https://orcid.org/0000-0003-0624-3276
+
+https://orcid.org/0000-0002-9149-2973
+
+https://orcid.org/0000-0002-3573-339X
+
+https://orcid.org/0000-0001-
+
+https://orcid.org/0000-0001-6139-649X
+https://orcid.org/0000-0002-6736-9158
+
+https://orcid.org/0000-0002-9548-5033
+https://orcid.org/0000-0002-2612-4840
+
+https://orcid.org/0000-0003-
+
+https://orcid.org/0000-0002-3032-1783
+
+https://orcid.org/0000-0003-0639-025X
+https://orcid.org/0000-0002-5206-5880
+https://orcid.org/0000-0002-4702-0864
+
+https://orcid.org/0000-0002-1888-8744
+
+References
+
+Abbott, B., Abbott, R., Abbott, T., et al. 2019, PhRvX, 9, 031040
+Abbott, R., Abbott, T., Abraham, S., et al. 2021, PhRvD, 103, 122002
+Afshordi, N. 2008, arXiv:0807.2639
+Aghanim, N., Akrami, Y., Ashdown, M., et al. 2020, A&A, 641, A6
+Akiyama, K., Alberdi, A., Alef, W., et al. 2022, ApJL, 930, L12
+Algera, H. S. B., Inami, H., Oesch, P. A., et al. 2023, MNRAS, 518, 6142
+Armano, M., Audley, H., Baird, J., et al. 2018, PhRvL, 120, 061101
+Arzoumanian, Z., Baker, P. T., Blumer, H., et al. 2020, ApJL, 905, L34
+Bardeen, J. M. 1970, Natur, 226, 64
+Beltracchi, P., & Gondolo, P. 2019, PhRvD, 99, 044037
+Binney, J., & Tremaine, S. 2011, Galactic Dynamics, Vol. 13 (Princeton, NJ:
+
+Princeton Univ. Press)
+
+Blaineau, T., Moniez, M., Afonso, C., et al. 2022, A&A, 664, A106
+Bouwens, R. J., Stefanon, M., Brammer, G., et al. 2022, arXiv:2211.02607
+Brandt, T. D. 2016, ApJL, 824, L31
+Broekgaarden, F. S., Berger, E., Stevenson, S., et al. 2022, MNRAS, 516, 5737
+Callan, C., Dicke, R. H., & Peebles, P. J. E. 1965, AmJPh, 33, 105
+Cardoso, V., Franzin, E., & Pani, P. 2016, PhRvL, 116, 171101
+Cardoso, V., & Pani, P. 2017, NatAs, 1, 586
+Carr, B., Kühnel, F., & Visinelli, L. 2021, MNRAS, 501, 2029
+Cattoen, C., Faber, T., & Visser, M. 2005, CQGra, 22, 4189
+Cautun, M., Benítez-Llambay, A., Deason, A. J., et al. 2020, MNRAS,
+
+494, 4291
+
+Chapline, G., Laughlin, R. B., & Santiago, D. I. 2002, in Artiﬁcial Black Holes,
+(Singapore: World
+
+ed. M. Novello, M. Visser, G. Volovik et al.
+Scientiﬁc), 179
+
+Chen, S., Wen, X., Gao, H., et al. 2022, ApJ, 924, 49
+Chirenti, C. 2018, BrJPh, 48, 102
+Christensen, N. 2019, RPPh, 82, 016903
+Chruślińska, M. 2022, AnPhy, in press
+Croker, K. S., Nishimura, K. A., & Farrah, D. 2020a, ApJ, 889, 115
+Croker, K. S., Runburg, J., & Farrah, D. 2020b, ApJ, 900, 57
+Croker, K. S., & Weiner, J. L. 2019, ApJ, 882, 19
+Croker, K. S., Weiner, J. L., & Farrah, D. 2022, PhRvD, 105, 084042
+Croker, K. S., Zevin, M., Farrah, D., Nishimura, K. A., & Tarlé, G. 2021,
+
+ApJL, 921, L22
+
+da Silva, A. M., Fontanini, M., & Guariento, D. C. 2013, PhRvD, 87, 064030
+Dodelson, S., & Schmidt, F. 2020, Modern Cosmology (Amsterdam: Elsevier)
+
+The Astrophysical Journal Letters, 944:L31 (9pp), 2023 February 20
+
+Donnan, C. T., McLeod, D. J., Dunlop, J. S., et al. 2022, MNRAS, 518, 6011
+Dymnikova, I. 1992, GReGr, 24, 235
+Dymnikova, I., & Galaktionov, E. 2016, CQGra, 33, 145010
+Einstein, A., & Straus, E. G. 1945, RvMP, 17, 120
+Ellis, G. F., & Stoeger, W. 1987, CQGra, 4, 1697
+Event Horizon Telescope Collaboration, Akiyama, K., Alberdi, A., et al. 2019,
+
+Faraoni, V., & Jacques, A. 2007, PhRvD, 76, 063510
+Faraoni, V., Zambrano Moreno, A. F., & Nandra, R. 2012, PhRvD, 85, 083526
+Farmer, R., Renzo, M., de Mink, S. E., Fishbach, M., & Justham, S. 2020,
+
+ApJL, 875, L6
+
+ApJL, 902, L36
+
+Farrah, D., Petty, S., Croker, K., et al. 2023, ApJ, 943, 133
+Fryer, C. L., Belczynski, K., Wiktorowicz, G., et al. 2012, ApJ, 749, 91
+Gliner, E. B. 1966, JETP, 22, 378
+Gong, Y., Luo, J., & Wang, B. 2021, NatAs, 5, 881
+Guariento, D. C., Fontanini, M., da Silva, A. M., & Abdalla, E. 2012, PhRvD,
+
+86, 124020
+
+Hadjidemetriou, J. D. 1963, Icar, 2, 440
+Harikane, Y., Ouchi, M., Oguri, M., et al. 2022a, arXiv:2208.01612
+Harikane, Y., Ono, Y., Ouchi, M., et al. 2022b, ApJS, 259, 20
+Harlow, D. 2016, RvMP, 88, 015002
+Harwit, M. 2006, Astrophysical Concepts (New York: Springer)
+Inayoshi, K., & Haiman, Z. 2016, ApJ, 828, 110
+Inayoshi, K., Haiman, Z., & Ostriker, J. P. 2016, MNRAS, 459, 3738
+Inayoshi, K., Visbal, E., & Haiman, Z. 2020, ARA&A, 58, 27
+Inoue, Y., Tanaka, Y. T., Madejski, G. M., & Domínguez, A. 2014, ApJL,
+
+781, L35
+
+Kalantari, Z., Rahvar, S., & Ibrahim, A. 2022, ApJ, 934, 106
+Kalogera, V., & Baym, G. 1996, ApJL, 470, L61
+Kaloper, N., Kleban, M., & Martin, D. 2010, PhRvD, 81, 104044
+Kerr, R. P. 1963, PhRvL, 11, 237
+King, A. 2015, MNRAS, 456, L109
+Kistler, M. D., Yüksel, H., Beacom, J. F., Hopkins, A. M., & Wyithe, J. S. B.
+
+2009, ApJL, 705, L104
+
+Koivisto, T., & Mota, D. F. 2006, PhRvD, 73, 083502
+Konoplya, R. A., Posada, C., Stuchlík, Z., & Zhidenko, A. 2019, PhRvD, 100,
+
+044027
+
+Kroupa, P. 2002, Sci, 295, 82
+Lake, K., & Abdelqader, M. 2011, PhRvD, 84, 044045
+Lemaître, G. 1931, MNRAS, 91, 490
+Liao, K., Biesiada, M., & Zhu, Z.-H. 2022, ChPhL, 39, 119801
+Lin, S.-J., Li, A., Gao, H., et al. 2022, ApJ, 931, 4
+Liu, B., & Bromm, V. 2020, MNRAS, 497, 2839
+Lobo, F. S. 2006, CQGra, 23, 1525
+Maciel, A., Guariento, D. C., & Molina, C. 2015, PhRvD, 91, 084043
+
+Farrah et al.
+
+Macquart, J. P., Prochaska, J. X., McQuinn, M., et al. 2020, Natur, 581, 391
+Madau, P., & Fragos, T. 2017, ApJ, 840, 39
+Madau, P., Haardt, F., & Dotti, M. 2014, ApJL, 784, L38
+Maggio, E., Buoninfante, L., Mazumdar, A., & Pani, P. 2020, PhRvD, 102,
+
+064053
+
+Mandel, I., & Farmer, A. 2022, PhR, 955, 1
+Mazur, P. O., & Mottola, E. 2004, PNAS, 101, 9545
+Mazur, P. O., & Mottola, E. 2015, CQGra, 32, 215024
+McVittie, G. C. 1933, MNRAS, 93, 325
+Miller-Jones, J. C. A., Bahramian, A., Orosz, J. A., et al. 2021, Sci, 371, 1046
+Monroy-Rodríguez, M. A., & Allen, C. 2014, ApJ, 790, 159
+Nolan, B. 1993, JMP, 34, 178
+Patton, R. A., & Sukhbold, T. 2020, MNRAS, 499, 2803
+Paynter, J., Webster, R., & Thrane, E. 2021, NatAs, 5, 560
+Peebles, P. J. E. 1993, Principles of physical cosmology (Princeton, NJ:
+
+Princeton Univ. Press)
+
+Planck Collaboration, Aghanim, N., Akrami, Y., et al. 2020, A&A, 641, A5
+Posada, C. 2017, MNRAS, 468, 2128
+Posada, C., & Chirenti, C. 2019, CQGra, 36, 065004
+Posti, L., & Helmi, A. 2019, A&A, 621, A56
+Prescod-Weinstein, C., Afshordi, N., & Balogh, M. L. 2009, PhRvD, 80,
+
+043513
+
+184001
+
+Rowan-Robinson, M., Wang, L., Farrah, D., et al. 2018, A&A, 619, A169
+Safarzadeh, M., & Haiman, Z. 2020, ApJL, 903, L21
+Sakai, N., Saida, H., & Tamaki, T. 2014, PhRvD, 90, 104013
+Sato, S., Kawamura, S., Ando, M., et al. 2017, JPhCS, 840, 012010
+Schwarz, D. J., Copi, C. J., Huterer, D., & Starkman, G. D. 2016, CQGra, 33,
+
+Sołtan, A. 1982, MNRAS, 200, 115
+The LIGO Scientiﬁc CollaborationThe Virgo CollaborationThe KAGRA
+
+Collaboration, et al. 2021, arXiv:2111.03634
+
+Tortosa, A., Ricci, C., Tombesi, F., et al. 2022, MNRAS, 509, 3599
+Trakhtenbrot, B., Urry, C. M., Civano, F., et al. 2015, Sci, 349, 168
+Tyler, E., Green, A. M., & Goodwin, S. P. 2022, arXiv:2207.08668
+Uchikata, N., Yoshida, S., & Pani, P. 2016, PhRvD, 94, 064015
+Volonteri, M., Habouzit, M., & Colpi, M. 2021, NatRP, 3, 732
+Wang, Y., Jiang, L.-Y., Li, C.-K., et al. 2021, ApJL, 918, L34
+Weinberg, S. 2008, Cosmology (Oxford: Oxford Univ. Press)
+Weisberg, J. M., Nice, D. J., & Taylor, J. H. 2010, ApJ, 722, 1030
+Visser, M. 2009, in The Kerr Spacetime, ed. D. L. Wiltshire, M. Visser, &
+
+S. M. Scott (Cambridge: Cambridge Univ. Press)
+
+Xiao, L., & Schaefer, B. E. 2011, ApJ, 731, 103
+Yang, X., Lü, H.-J., Yuan, H.-Y., et al. 2021, ApJL, 921, L29
+Yunes, N., Yagi, K., & Pretorius, F. 2016, PhRvD, 94, 084002
+Zevin, M., Bavera, S. S., Berry, C. P. L., et al. 2021, ApJ, 910, 152
+
+9
+
+

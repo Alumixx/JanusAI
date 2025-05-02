@@ -1,0 +1,950 @@
+PHYSICAL REVIEW D 100, 123505 (2019)
+
+Dark matter as Planck relics without too exotic hypotheses
+
+Aur´elien Barrau, Killian Martineau, Flora Moulin, and Jean-Fr´ed´eric Ngono
+Laboratoire de Physique Subatomique et de Cosmologie, Universit´e Grenoble-Alpes,
+
+CNRS/IN2P3 53, avenue des Martyrs, 38026 Grenoble cedex, France
+
+ 
+
+(Received 23 August 2019; published 3 December 2019)
+
+The idea that dark matter could be made of stable relics of microscopic black holes is not new. In this
+article, we revisit this hypothesis, focusing on the creation of black holes by the scattering of trans-
+Planckian particles in the early Universe. The only new physics required in this approach is an unusually
+high-energy scale for inflation. We show that dark matter emerges naturally and we study the question of
+fine-tuning. We finally give some lines of thoughts for a possible detection.
+
+DOI: 10.1103/PhysRevD.100.123505
+
+I. INTRODUCTION
+
+Dark matter is a very old problem. On the experimental
+side, it is being actively searched for, by direct detection
+(see, e.g., [1–3] for reviews), by indirect detection (see, e.g.,
+[4–6] for reviews), and by accelerator production (see, e.g.,
+[7,8] for reviews). Many “little anomalies” are known, from
+the Fermi excess of GeV gamma rays [9] to the PAMELA
+and AMS-02 overabundance of positrons [10–12]. All of
+them can however be quite simply accounted for by
+conventional astrophysical processes and at this stage no
+clear signal for nonbaryonic dark matter has been unam-
+biguously recorded.
+
+On the theoretical side, many hypotheses are being
+considered. They are actually too numerous to be exhaus-
+tively mentioned here (see, e.g., [13] for an introductory
+review). From supersymmetry [14] to axions [15], most
+of them imply some amount of “new physics.” Recent
+developments even include an impressive list of highly
+speculative hypotheses.
+
+Obviously, estimating the “exoticity” of a model is quite
+subjective. In this brief article, we revisit the idea of dark
+matter made of Planck relics and we argue that this scenario
+might be much less exotic than most models. The only
+nonstandard hypothesis is a higher than usual reheating
+temperature.
+
+II. TRANS-PLANCKIAN SCATTERING
+
+Most studies considering primordial black holes (PBHs)
+are relying on production mechanisms that involve the
+
+Published by the American Physical Society under the terms of
+the Creative Commons Attribution 4.0 International
+license.
+Further distribution of this work must maintain attribution to
+the author(s) and the published article’s title, journal citation,
+and DOI. Funded by SCOAP3.
+
+collapse of overdense regions (see, e.g., [16] for an early
+detailed calculation, [17,18] for studies of phase transitions,
+and [19,20] for reviews). Those scenarios are however very
+unlikely as the density contrast required to form a PBH is
+close to 1, whereas the primordial power spectrum mea-
+sured in the cosmological microwave background (CMB)
+has a much lower normalization. This bound could have
+been circumvented by a blue power spectrum as the scales
+involved in the formation of PBHs are much smaller than
+those probed by the CMB. The actual spectrum, however,
+happens to be red (ns ≈ 0.965) [21], making the production
+of primordial black holes by “historical” mechanisms very
+difficult. Other scenarios like the collapse of cosmic strings
+were also considered [22] but they are also disfavored—if
+not ruled out—by recent measurements. Interesting new
+ideas are, however, now being considered [23,24].
+
+Nevertheless, there exists a very different way to produce
+small black holes, namely, through the scattering of trans-
+Planckian particles. As initially argued in [25], when the
+impact parameter is smaller than the Schwarzschild radius
+(associated with the considered center-of-mass energy of a
+particle collision), the cross section for the scattering of
+trans-Planckian particles is dominated by an inelastic
+process leading to the formation of a single black hole.
+The key point is that the main features of high-energy
+scattering above the Planck energy can be studied from
+semiclassical considerations in general relativity and are
+therefore reliable.
+
+Basically, at
+
+impact parameters greater
+
+than the
+Schwarzschild radius, elastic and inelastic processes (gravi-
+tational radiation, bremsstrahlung for charged particles,
+etc.) are described by solving the classical equations of the
+low-energy theory with initial conditions described by a
+pair of shock waves with appropriate quantum numbers.
+At smaller impact parameters, scattering is dominated by
+the resonant (in a sense different from the classical Breit-
+Wigner one) production of a black hole with mass equal to
+
+2470-0010=2019=100(12)=123505(6)
+
+123505-1
+
+Published by the American Physical Society
+
+BARRAU, MARTINEAU, MOULIN, and NGONO
+
+PHYS. REV. D 100, 123505 (2019)
+
+the center-of-mass energy. The elastic cross section is
+suppressed by a Boltzmann factor and the incoming
+particles never get close enough together to perform a
+hard QCD scattering. In this limit the eikonal approxima-
+tion for the initial state becomes valid and is described by a
+metric containing a pair of Aichelburg-Sexl shock waves
+with the associated impact parameter.
+
+ﬃﬃﬃ
+p
+s
+
+In [26], the study was refined and it was also concluded
+that the cross section for black hole production should be
+of the order of σðsÞ ¼ FðsÞπR2
+ðsÞ with FðsÞ being factor
+the center-of-mass energy, and RS the
+of order 1,
+Schwarzschild radius. The details obviously depend on the
+considered quantum gravity theory but the main features
+are basically model independent.
+
+S
+
+Those ideas were applied to the possible production and
+observation of microscopic black holes at colliders (see,
+e.g., [26–29] for early works) in theories with a low Planck
+scale—typically in the TeV range (usually associated with
+the existence of large extra dimensions [30] or with many
+new particle species [31]). A nice review including astro-
+physical effects, like those mentioned in [32], can be found
+in [33]. In this article, we do not rely on the existence of
+extra dimensions and we do not assume a low Planck scale.
+
+III. STABLE RELICS
+
+The Hawking temperature TH ¼ 1=ð8πMÞ [34] is van-
+ishingly small for astrophysical black holes but becomes
+significant for very small black holes. The mass loss rate
+during the evaporation is proportional to M−2 and the
+process is therefore highly explosive. In itself, the evapo-
+ration mechanism is well understood from many different
+perspectives and is very consensual (see, e.g., [35] for a
+simple introduction). Although it has not been observatio-
+nally confirmed, there are indications that it might have
+been revealed in analog systems [36].
+
+The status of the end point of the evaporation process is
+less clear. Obviously, the semiclassical treatment breaks
+down in the last stages and the divergence of the temper-
+ature together with the appearance of a naked singularity is
+nonphysical. Many different arguments have been pushed
+forward in favor of the existence of stable Planck relics at
+the end of the evaporation process (see [37–50] to mention
+only a few historical references, among many others).
+There are excellent arguments from quantum gravity, string
+gravity, or modified gravity theories in favor or remnants.
+Those are however obviously based on new physics. One of
+the best arguments for Planck relics using only known
+physics was given by Giddings in [51]. Locality, causality,
+and energy conservation considered within the information
+paradox framework (see, e.g., the first sections of [52] for a
+precise description) do suggest that the time scale for the
+final decay of BHs is larger than the age of the Universe.
+Although no clear consensus exists on the status of BHs
+at the end of the evaporation process, it is fair to suggest
+that the existence of relics is somehow simpler from the
+
+viewpoint of usual physics. A recent review on the pros
+and cons of stable remnants can be found in [53]. It is
+concluded that if relics contain a large interior geometry—
+which is supported by [54,55]—,
+they help solve the
+information loss paradox and the firewall controversy.
+
+IV. REHEATING SCALE
+
+The idea that dark matter could be made of Planck
+relics was first suggested in [56]. This seminal work was,
+however, focused on PBHs formed by the collapse of
+overdense regions (or similar mechanisms), which is now
+believed to be extremely unlikely as previously pointed out.
+We focus here on the possibility that PBHs are formed by
+the collision of
+trans-Planckian particles in the early
+Universe. This has already been considered in [57] and
+in [58,59] (see also references therein) for the case with
+extra dimensions.
+
+that
+
+In this work, we do not assume a lower than usual Planck
+scale due to extra dimensions. We quite simply consider the
+standard cosmological scenario in a (3 þ 1)-dimensional
+spacetime and just take into account the “tail” of trans-
+Planckian particles at the reheating time. The key point lies
+in the fact
+the potentially produced relics behave
+nonrelativistically and are therefore much less diluted (their
+energy density scales as a−3) than the surrounding radiation
+(whose energy density scales as a−4). Hence, it is possible
+to reach a density of relics (normalized to the critical
+density) close to 1, Ωrel ≡ ρrel=ρcr ≈ 1, with only a tiny
+fraction of relics at
+the formation time. The relative
+“amplification” of the relics density compared to the
+radiation density between the reheating and the equilibrium
+times is given by TRH=Teq ≈ 3 × 1027TRH when TRH is
+given in Planck units. To fix ideas, for a reheating temper-
+ature at the grand unified theory (GUT) scale, a relics
+fraction of only 10−24 at the formation time would be
+enough to nearly close the Universe at the equilibrium time.
+For a thermal distribution of particles at temperature T,
+the number of particles above Eth > T is exponentially
+suppressed. This is why, even with the amplification factor
+given above, the scenario presented here requires a reheating
+temperature not much below the Planck scale. This con-
+stitutes, in our view, the only “nonstandard” input of this
+model. The Planck experiment final results lead to an upper
+limit on the tensor-to-scalar ratio of primordial perturbations
+r < 0.1 [60], which is even tightened to r < 0.064 by
+combining the data with the BICEP2/Keck Array BK14
+measurements. This is usually interpreted as an upper limit on
+the energy scale of inflation around the GUT scale (the higher
+the energy scale, the larger the normalization of tensor
+modes), which is too low for the process considered here.
+There are, however, at least two ways to circumvent this
+bound (we assume for simplicity a sudden reheating).
+
+The first one consists in noticing that the upper limit
+on the energy scale of inflation holds firmly only for
+
+123505-2
+
+DARK MATTER AS PLANCK RELICS WITHOUT TOO EXOTIC …
+
+PHYS. REV. D 100, 123505 (2019)
+
+In k inflation [61],
+
+rudimentary models.
+the relation
+basically becomes r ¼ −8CSnt
+(instead of r ¼ −8nt),
+where nt is the tensor index and CS < 1 is the speed of
+sound for perturbations. This relaxes the bound. In two-
+field inflation [62],
+is also relaxed to
+r ¼ −8nt sin2ðθÞ, where θ accounts for the possible evo-
+lution of adiabatic scalar modes on super-Hubble scales.
+In multifield inflation the relation between r and nT even
+becomes an inequality.
+
+the upper limit
+
+A second and probably more provocative argument
+would be the following. Whereas temperature anisotropies
+originate from usual quantum physics, namely, from the
+quantum fluctuations of the inflaton field,
+the tensor
+perturbations leading to B modes in the CMB should come
+from the quantum fluctuations of the polarization modes
+of the graviton. In a sense (and although some counter-
+examples have been constructed but for artificial models),
+B modes would be a signature of perturbative quantum
+gravity (dimensional arguments are given in [63]).
+Quantum gravity is a fascinating area of research but it
+has still no connection with experiments and assuming
+gravity not to be quantized is also legitimate, especially
+when considering how difficult and paradoxical the quan-
+tization of the gravitational field is [64]. It is therefore
+meaningful to consider the possibility that no B mode is
+produced, even with a very high-energy scale for inflation,
+just because gravity might not be quantum in nature (this
+would also raise many consistency questions but is obvi-
+ously worth being considered, as advocated in [65,66]). In
+such a case, the usual upper bound could also be ignored.
+the normalization of the scalar spectrum
+would also be in tension with such a high scale (violating
+the slow-roll conditions in the most simple cases). We do
+not mean that a higher than usual energy scale for inflation
+is unavoidable or even favored. We simply state that this is
+not ruled out by the tensor-to-scalar ratio and might be, in
+our opinion, less “exotic” than most assumptions required
+for usual DM candidates.
+
+Obviously,
+
+V. DARK MATTER ABUNDANCE
+
+The threshold energy Et to produce a BH in a head on
+collision of particles is expected to be of the order of the
+Planck energy but, depending on the details of
+the
+considered model, might be slightly different and we keep
+it as a free parameter. To estimate the number density of
+particles above Et, one simply needs to integrate the
+thermal distribution, which leads to
+
+npart ≈ TRHe−Et=TRH;
+
+where we use Planck units (as everywhere in this work
+except otherwise specified). Obviously,
+if the reheating
+temperature is too small when compared to the threshold
+energy of BH production, the number of PBHs will be
+exponentially suppressed and the process will be inefficient.
+
+The cross section, in principle, depends on the energy of
+the collision but, as a fist step, can be assumed to be a
+constant σBH above the threshold. The collision rate is
+therefore given by Γ ¼ npartσBHv ≈ npartσBH. The energy
+density of radiation is
+
+with g(cid:2) being the total number of effectively massless degrees
+of freedom, that is, species with masses mi ≪ TRH. The
+Hubble parameter is
+
+ρR ¼ π2
+
+30
+
+g(cid:2)T4
+
+RH;
+
+H ¼ 1.66g1=2(cid:2) T2
+RH:
+
+If relics are assumed to have a mass mrel (necessarily lower
+than Eth), the energy density of relics is given by
+
+ρrel ≈ npartmrelΓ
+
+≈ e
+
+H
+
+− 2Et
+TRHσBHmrel
+1.66g1=2(cid:2)
+
+:
+
+The relative density of relics at the formation time is
+
+leading, in agreement with [59], to a relative density at the
+equilibrium time of
+
+Ωf
+rel
+
+¼ 30σBHmrel
+1.66π2g3=2(cid:2)
+
+·
+
+− 2Et
+e
+TRH
+T4
+
+RH
+
+;
+
+Ωeq
+rel
+
+¼ 30σBHmrel
+1.66π2g3=2(cid:2)
+
+·
+
+− 2Et
+e
+TRH
+TeqT3
+RH
+
+:
+
+Let us first assume that the cross section is of order 1 in
+Planck units ðσ ∼ APlÞ above the threshold and that the
+mass of the relics is also of order 1 in Planck units
+ðmrel ∼ mPlÞ. In Fig 1, the relative abundance of relics at
+the equilibrium time is plotted at
+the function of the
+reheating temperature. Figure 2 is a zoom on the relevant
+region. For a reheating temperature slightly above 10−2,
+
+FIG. 1. Fraction of relics at the equilibrium time as a function of
+the reheating temperature (in Planck units).
+
+123505-3
+
+BARRAU, MARTINEAU, MOULIN, and NGONO
+
+PHYS. REV. D 100, 123505 (2019)
+
+VI. THE FINE-TUNING ISSUE
+
+The model presented here seems to require a high level
+of fine-tuning. In particular, as the dependency upon the
+reheating temperature is exponential, varying slightly its
+value leads to a large variation in the density of relics. One
+can easily check that
+
+dTRH
+TRH
+
+¼ dΩrel
+eq
+Ωrel
+eq
+
+(cid:3)
+2ET
+TRH
+
+(cid:4)
+−1 ≈ TRH
+2ET
+
+þ 3
+
+dΩrel
+eq
+Ωrel
+eq
+
+∼ 10−4;
+
+to remain in agreement with data. Unquestionably, the
+model requires a very high level of fine-tuning.
+
+The question of fine-tuning is, however, tricky. It is only
+well defined relatively to an a priori specific state. In the
+cosmological framework, the value Ω ¼ 1 is clearly such a
+special case. As is well known, inflation fixes a vanishing (or
+nearly so) curvature. Basically, as ðΩ−1 − 1Þ ¼ − 3k
+8πρa2 with
+ρ remaining constant and the scale factor increasing by at
+least 60 e-folds, Ω is fixed (close) to 1 at the end of inflation.
+There is obviously nothing magical here as Ω involves a nor-
+malization to the critical density that, itself, depends on the
+Hubble parameter. Should the content of the Universe be
+different, we would still have Ω ¼ 1, with a different
+expansion rate. This means that changing the parameters
+of this model would, in fact, not drive the Universe out of the
+specific situation Ω ¼ 1. In this sense it does not require fine-
+tuning.
+
+One might argue that if the reheating temperature were
+different, other parameters of the Universe—e.g., the (un-
+normalized) matter density, the equilibrium time, etc.—would
+be different. This is correct. But, in our opinion, this is not a
+fine-tuning issue. This is just the obvious statement that things
+could have been different and that changing parameters do, of
+course, change the final state. This is not problematic as long
+as the “lost” state was not a very peculiar one.
+
+To summarize, the parameters of the model need to be
+fine-tuned so that the relic density closes the Universe at the
+equilibrium time—which is a contingent fact—but not to
+ensure Ω ¼ 1, which is indeed the a priori specific feature.
+
+VII. DETECTABILITY
+
+Testing this model is challenging. A Planck relic has the
+weight of a grain of dust and no other interaction than
+gravity to reveal itself to the outer world. Even though the
+Planck mass is very small from the gravitational viewpoint,
+it is very large from the particle physics viewpoint. The
+number density of relics is therefore extremely small, even
+if they are to account for all the dark matter. A density of
+10−18 relics par cubic meter—that is, one relic per volume
+of a million times the one of planet Earth—is enough to
+close the Universe. Detection seems hopeless. The cross
+section (or greybody factor) hopefully does not tend to 0 for
+the absorption of fermions in the low-energy limit [67].
+However, even avoiding this catastrophic suppression
+
+FIG. 2. Zoom on the fraction of relics at the equilibrium time as
+a function of the reheating temperature (in Planck units), around
+the relevant zone.
+
+S
+
+one is led to a density of relics that can account for
+dark matter.
+Although the influence is negligible, from now on we
+use the cross section σðsÞ ¼ FðsÞπR2
+ðsÞ, where RS ¼ 2s.
+We set F ¼ 1 above the threshold, but with the dependency
+being linear it is easy to extrapolate to any reasonable value.
+In Fig. 3, we show the influence of the threshold energy.
+The influence of the threshold energy is—as expected—
+very large. Interestingly, if nonperturbative effects were to
+lower the threshold by 1 order of magnitude with respect
+to the expected value, a reheating temperature around
+the GUT scale would be enough to produce the required
+density of remnants.
+
+It is worth noticing that in the case with extra dimensions
+[59], the “allowed” parameter space is defined by ensuring
+that the Hubble rate during inflation Hi, together with the
+maximal temperature are smaller than the D-dimensional
+Planck scale. Meanwhile Hi must remain much larger
+than the nucleosynthesis temperature. The formed relics
+account for dark matter basically between a Hubble rate
+of 10−16 (in usual four-dimensional Planck units) for a
+D-dimensional Planck scale of 10−7 to a Hubble rate of
+10−3 for a D-dimensional Planck scale equal to MPl.
+
+FIG. 3. Fraction of relics at the equilibrium time as a function of
+the energy threshold for different reheating temperatures (in
+Planck units), from 10−3 to 2 × 102 from bottom to top.
+
+123505-4
+
+DARK MATTER AS PLANCK RELICS WITHOUT TOO EXOTIC …
+
+PHYS. REV. D 100, 123505 (2019)
+
+(which does exist for higher spins), the area involved is of
+the order of the Planck one, 10−66 cm2, which indeed
+makes direct detection impossible in practice.
+
+We consider here another possibility associated with the
+coalescences of relics that have occurred during the history
+of the Universe. Contrarily to what is sometimes done for
+PBHs we shall not focus on the emission of gravitational
+waves whose amplitude would be negligible and frequency
+way too high for any detector. However, something else is
+also expected to happen in this model. When two remnants
+merge, a higher-mass black hole is formed and evaporates
+until it reaches again mrel ∼ mPl assumed to be the minimal
+one. This should happen preferably via the emission of one
+(or a few) quantum close to the Planck energy. Each merging
+should therefore emit about a Planck-energy particle, which
+is, in principle, detectable. This sketch should of course be
+refined but the hypothesis is realistic enough to investigate
+whether this path is potentially fruitful.
+
+We estimate the merging rate following [68], which
+builds on [69]. It is not hard to show that the probability of
+coalescence in the time interval ðt; t þ dtÞ is given by
+
+(cid:5)
+(cid:3)
+−
+
+(cid:4)
+3=8 þ
+
+(cid:6)
+
+3=37
+
+(cid:3)
+
+(cid:4)
+
+t
+T
+
+dt
+t
+
+;
+
+58
+
+dP ¼ 3
+
+t
+T
+where T ≡ ¯x4 3
+ðGmrelÞ−3,
+(cid:3)
+(cid:4)
+1=3 ¼
+Mrel
+ρrelðzeqÞ
+
+¯x ¼
+
+170
+
+(cid:4)
+
+1=3
+
+(cid:3)
+8πG
+3H2
+0
+
+mrel
+Ωrel
+
+1
+
+ð1 þ zeqÞ
+
+being the mean separation of relics at the equilibrium time.
+In those formulas, we have reinserted the constants to make
+the use easier. The event rate is then given by
+
+nmerg ¼ 3H2
+0
+8πG
+
+Ωrel
+mrel
+
+dP
+dt
+
+:
+
+t0
+
+(cid:7)(cid:7)(cid:7)(cid:7)
+
+This is of the order of 10−45 m−3 s−1. It is then straightfor-
+ward to estimate the measured flux on a detector of surface
+Sd and solid angle acceptance Ωacc, integrated up to a
+distance Rmax,
+
+Z
+
+0
+
+Φmes ¼
+
+Rmax
+
+nmergSd
+
+Ωacc
+4π dR:
+
+Although it is well known that TeV photons are absorbed
+by interactions with the infrared background and PeV
+photons by interactions with the CMB photons, there is no
+strong absorption to be expected for Planck-energy pho-
+tons. The wavelength of the background photons that
+would lead to a center-of-mass energy close to the electron
+mass is way larger than any expected background. The
+Rmax value can therefore be assumed to be much larger than
+for usual high-energy cosmic-ray estimations. For detectors
+like Auger [70],
+the expected flux is too small for a
+detection. For Euso-like instruments [71]—looking at
+the atmosphere from the space station—we are led to an
+
+order of magnitude not far from a fraction of an event per
+year. For speculative ideas about using giant planets as
+cosmic-ray detectors [72], we reach a dozen events per
+year. This is obviously a hard task but, interestingly, the
+model is clearly not unfalsifiable.
+
+Furthermore, the idea that the Hawking radiation due to
+the formed black holes before they become stable relics
+might play a role in baryogenesis was considered in [73].
+The possibility that
+they might have an effect on the
+primordial nucleosynthesis should also be considered. In
+the case considered in this article—with a true Planck scale
+at the four-dimensional value—, the relics are so heavy and
+heir number density so small that it is easy to check that the
+associated signal would be entirely negligible.
+
+VIII. CONCLUSION
+
+The idea that dark matter could be made of Planck relics is
+not new. Nor is the possibility that black holes could be formed
+by the scattering of trans-Planckian particles in the early
+Universe. In this article we have gathered all the ingredients
+and argued that the resulting model is not (that) exotic.
+Unquestionably, the very high reheating temperature required
+raises questions. We have however explained that the upper
+bounds usually considered can be circumvented. Still, build-
+ing a consistent cosmological model with such a high scale for
+inflation is not trivial and should be considered as a challenge.
+There is no obvious solution to the dark matter problem,
+which is one of the oldest enigmas of contemporary
+cosmology. The scenario suggested here is based on a
+minimum amount of new physics, if not only on known
+physics. It requires a quite unusual cosmological behavior
+but no new particle physics input is needed. From this point
+of view, it might be worth being considered seriously.
+
+Several developments would be worth being considered.
+(i) The possibility that nonthermal processes do happen
+during the reheating, eventually enhancing the high-
+energy tail of the distribution, should be studied
+with care.
+
+(ii) The model presented in this article should be
+investigated in the context of noninflationary bounc-
+ing cosmologies, expected to be more favorable to
+this scenario.
+
+(iii) The experimental possibilities that were outlined
+should be made more precise thanks to Monte Carlo
+simulations.
+
+(iv) in addition to the possible detection of extremely
+high-energy gamma rays, it might be interesting to
+consider a possible low-energy (in the 100 MeV
+range) signal due to the disintegration of neutral
+pions produced by the hadronization of quarks or
+gluons emitted by the merging of relics.
+
+ACKNOWLEDGMENTS
+
+K. M is supported by a grant from the CFM foundation.
+
+123505-5
+
+BARRAU, MARTINEAU, MOULIN, and NGONO
+
+PHYS. REV. D 100, 123505 (2019)
+
+[1] B. Censier, EAS Publ. Ser. 53, 59 (2012).
+[2] J. Gascon, EPJ Web Conf. 95, 02004 (2015).
+[3] F. Mayet et al., Phys. Rep. 627, 1 (2016).
+[4] M. Cirelli, Pramana 79, 1021 (2012).
+[5] J. Conrad, in Interplay between Particle and Astroparticle
+Physics (IPA2014) London, United Kingdom (2014), arXiv:
+1411.1925.
+
+[6] J. M. Gaskins, Contemp. Phys. 57, 496 (2016).
+[7] F. Kahlhoefer, Int. J. Mod. Phys. A 32, 1730006 (2017).
+[8] M. Felcini, in 53rd Rencontres de Moriond on Cosmology
+
+La Thuile, Italy (ARIFS, 2018).
+
+[9] M. Ackermann et al. (Fermi-LAT Collaboration), Astro-
+
+[10] O. Adriani et al.
+
+(PAMELA Collaboration), Nature
+
+[11] L. Accardo et al. (AMS Collaboration), Phys. Rev. Lett.
+
+[12] M. Aguilar et al. (AMS Collaboration), Phys. Rev. Lett.
+
+phys. J. 840, 43 (2017).
+
+(London) 458, 607 (2009).
+
+113, 121101 (2014).
+
+113, 121102 (2014).
+
+[13] M. Bauer and T. Plehn, arXiv:1705.01987.
+[14] E. A. Bagnaschi et al., Eur. Phys. J. C 75, 500 (2015).
+[15] V. B. Klaer and G. D. Moore, J. Cosmol. Astropart. Phys. 11
+
+(2017) 049.
+
+[16] B. J. Carr, Astrophys. J. 201, 1 (1975).
+[17] D. B. Cline, Nucl. Phys. A610, 500C (1996).
+[18] K. Jedamzik and J. C. Niemeyer, Phys. Rev. D 59, 124014
+
+(1999).
+
+[19] B. J. Carr, K. Kohri, Y. Sendouda, and J. Yokoyama, Phys.
+
+Rev. D 81, 104019 (2010).
+
+[20] A. M. Green, Fundam. Theor. Phys. 178, 129 (2015).
+[21] N. Aghanim et al. (Planck Collaboration), arXiv:1807.06209.
+[22] S. W. Hawking, Phys. Lett. B 231, 237 (1989).
+[23] J. Garca-Bellido, B. Carr, and S. Clesse, arXiv:1904.11482.
+[24] B. Carr, S. Clesse, and J. Garca-Bellido, arXiv:1904.02129.
+[25] T. Banks and W. Fischler, arXiv:hep-th/9906038.
+[26] S. B. Giddings and S. D. Thomas, Phys. Rev. D 65, 056010
+
+[27] S. Dimopoulos and G. L. Landsberg, Phys. Rev. Lett. 87,
+
+(2002).
+
+161602 (2001).
+
+114 (2004).
+
+[29] B. C. Paul and D. Paul, Phys. Rev. D 74, 084015 (2006).
+[30] N. Arkani-Hamed, S. Dimopoulos, and G. R. Dvali, Phys.
+
+Lett. B 429, 263 (1998).
+
+[31] G. Dvali, Fortschr. Phys. 58, 528 (2010).
+[32] A. Barrau, C. Feron, and J. Grain, Astrophys. J. 630, 1015
+
+(2005).
+
+[33] P. Kanti, Int. J. Mod. Phys. A 19, 4899 (2004).
+[34] S. W. Hawking, Commun. Math. Phys. 43, 199 (1975).
+[35] P.-H. Lambert, Proc. Sci., Modave2013 (2013) 001 [arXiv:
+
+[36] J. Steinhauer, Nat. Phys. 12, 959 (2016).
+[37] J. D. Barrow, E. J. Copeland, and A. R. Liddle, Phys. Rev. D
+
+1310.8312].
+
+46, 645 (1992).
+
+[38] Y. B. Zeldovich and I. D. Novikov, Relativistic Astrophysics
+
+(University of Chicago Press, Chicago, 1983).
+
+[39] Y. Aharonov, A. Casher, and S. Nussinov, Phys. Lett. B 191,
+
+[41] T. Banks, M. O’Loughlin, and A. Strominger, Phys. Rev. D
+
+47, 4476 (1993).
+
+[42] M. J. Bowick, S. B. Giddings, J. A. Harvey, G. T. Horowitz,
+
+and A. Strominger, Phys. Rev. Lett. 61, 2823 (1988).
+
+[43] S. R. Coleman, J. Preskill, and F. Wilczek, Phys. Rev. Lett.
+
+[44] K.-M. Lee, V. P. Nair, and E. J. Weinberg, Phys. Rev. Lett.
+
+[45] G. W. Gibbons and K.-i. Maeda, Nucl. Phys. B298, 741
+
+67, 1975 (1991).
+
+68, 1100 (1992).
+
+(1988).
+
+[46] T. Torii and K.-i. Maeda, Phys. Rev. D 48, 1643 (1993).
+[47] C. G. Callan, Jr., R. C. Myers, and M. J. Perry, Nucl. Phys.
+
+B311, 673 (1989).
+
+[48] R. C. Myers and J. Z. Simon, Phys. Rev. D 38, 2434 (1988).
+[49] B. Whitt, Phys. Rev. D 38, 3000 (1988).
+[50] S. Alexeyev, A. Barrau, G. Boudoul, O. Khovanskaya,
+and M. Sazhin, Classical Quantum Gravity 19, 4431
+(2002).
+
+[51] S. B. Giddings, Phys. Rev. D 46, 1347 (1992).
+[52] S. D. Mathur, Pramana 79, 1059 (2012).
+[53] P. Chen, Y. C. Ong, and D.-h. Yeom, Phys. Rep. 603, 1
+
+[54] M. Christodoulou and C. Rovelli, Phys. Rev. D 91, 064046
+
+(2015).
+
+(2015).
+
+[55] M. Christodoulou and T. De Lorenzo, Phys. Rev. D 94,
+
+104002 (2016).
+
+[56] J. H. MacGibbon, Nature (London) 329, 308 (1987).
+[57] A. Saini and D. Stojkovic, J. Cosmol. Astropart. Phys. 05
+
+[58] J. A. Conley and T. Wizansky, Phys. Rev. D 75, 044006
+
+[59] T. Nakama and J. Yokoyama, Phys. Rev. D 99, 061303
+
+(2018) 071.
+
+(2007).
+
+(2019).
+
+[60] O. E. Núñez, J. Socorro, and R. Hernández-Jim´enez, As-
+
+trophys. Space Sci. 364, 69 (2019).
+
+[61] C. Armendariz-Picon, T. Damour, and V. F. Mukhanov,
+
+Phys. Lett. B 458, 209 (1999).
+
+[62] D. Wands, Lect. Notes Phys. 738, 275 (2008).
+[63] L. M. Krauss and F. Wilczek, Int. J. Mod. Phys. D 23,
+
+[64] D. Oriti, Approaches to Quantum Gravity: Toward a New
+Understanding of Space, Time and Matter (Cambridge
+University Press, Cambridge, England, 2009).
+[65] T. Jacobson, Phys. Rev. Lett. 75, 1260 (1995).
+[66] C. Eling, R. Guedens, and T. Jacobson, Phys. Rev. Lett. 96,
+
+[67] J. H. MacGibbon and B. R. Webber, Phys. Rev. D 41, 3052
+
+121301 (2006).
+
+(1990).
+
+[68] M. Sasaki, T. Suyama, T. Tanaka, and S. Yokoyama, Phys.
+
+Rev. Lett. 117, 061101 (2016); 121, 059901(E) (2018).
+
+[69] T. Nakamura, M. Sasaki, T. Tanaka, and K. S. Thorne,
+
+Astrophys. J. 487, L139 (1997).
+
+[70] C. Covault et al. (Telescope Array Collaboration), EPJ Web
+
+Conf. 210, 05004 (2019).
+
+[71] N. Inoue, K. Miyazawa, and Y. Kawasaki (JEM-EUSO
+Collaboration), Nucl. Phys. B, Proc. Suppl. 196, 135
+(2009).
+
+[72] P. B. Rimmer, C. R. Stark, and C. Helling, Astrophys. J.
+
+[73] S. Alexander and P. Meszaros, arXiv:hep-th/0703070.
+
+[28] A. Barrau, J. Grain, and S. O. Alexeyev, Phys. Lett. B 584,
+
+1441001 (2014).
+
+[40] T. Banks, A. Dabholkar, M. R. Douglas, and M. O’Loughlin,
+
+787, L25 (2014).
+
+51 (1987).
+
+Phys. Rev. D 45, 3607 (1992).
+
+123505-6
+
+

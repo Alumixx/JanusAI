@@ -1,0 +1,2579 @@
+Exploring symmetries through the action on the Torsors
+
+of the eight connected components Janus Symplectic
+
+David Pigeon, Gilles d’Agostini, Hicham Zejli, Jean-Pierre Petit
+
+Group
+
+To cite this version:
+David Pigeon, Gilles d’Agostini, Hicham Zejli, Jean-Pierre Petit. Exploring symmetries through
+the action on the Torsors of the eight connected components Janus Symplectic Group. 2023.
+￿hal-
+04164572v5￿
+
+HAL Id: hal-04164572
+
+https://hal.science/hal-04164572v5
+
+Preprint submitted on 8 Feb 2024
+
+HAL is a multi-disciplinary open access
+archive for the deposit and dissemination of sci-
+entific research documents, whether they are pub-
+lished or not. The documents may come from
+teaching and research institutions in France or
+abroad, or from public or private research centers.
+
+L’archive ouverte pluridisciplinaire HAL, est
+destinée au dépôt et à la diffusion de documents
+scientifiques de niveau recherche, publiés ou non,
+émanant des établissements d’enseignement et de
+recherche français ou étrangers, des laboratoires
+publics ou privés.
+
+Distributed under a Creative Commons Attribution| 4.0 International License
+
+Exploring symmetries through the action on
+
+the Torsors of the eight connected components
+
+Janus Symplectic Group
+
+D. Pigeon, H. Zejli, J-P Petit, G. D’Agostini
+
+February 7, 2024
+
+Keywords : Dynamic groups, Symplectic groups, Lorentz group, Poincar´e group, Janus
+
+group, torsors of a Lie group, Action on the torsors.
+
+Abstract
+
+In this article, after presenting the physical foundations leading to the construction
+of the Janus Cosmological Model, its principles and consequences, we focus on the
+Janus symplectic group associated with it. We explore the different symmetries, its
+action on the various elements of the dual of its Lie algebra, highlighting a charge
+symmetry, that is, the matter-antimatter duality in both sets of components.
+
+Contents
+
+1 The physico-mathematical foundations of this approach
+
+2 When observations suggest the introduction of negative masses
+
+3 When the theory of dynamic groups illuminates the traveled path
+
+4 Janus Symplectic Group
+
+5 Discussion & Conclusion
+
+2
+
+5
+
+12
+
+13
+
+20
+
+1
+
+1 The physico-mathematical foundations of this approach
+
+The French mathematician Jean-Marie Souriau, who passed away in 2012, used to say, ”A
+little mathematics takes you away from physics, but a lot of it brings you back”. In his work,
+he provided an example of such a statement by revealing the physical quantities like energy,
+momentum, and spin as objects of pure geometry, representing a brilliant application of
+symplectic geometry. He is one of the few who excelled both as a high-level mathematician
+and an excellent physicist.
+In his work Structure of Dynamical Systems [35] (today, we
+prefer to use the term symplectic groups), he constructs the action of the Poincar´e group on
+the dual of its Lie algebra, known as the momentum space. It is a vector space of the same
+dimension as the group, which is 10. He then organizes its components according to:
+
+(cid:136) A scalar, energy
+
+(cid:136) A 3-vector momentum
+
+(cid:136) A 3-vector spin
+
+(cid:136) A 3-vector to which he gives the name ”passage”
+
+These components of momentum then define motions in Minkowski space, where the
+Poincar´e group is the isometry group. These motions are divided into classes, and Souriau
+establishes a connection between particles and classes of motions. He shows that the com-
+ponents of the 3-vector passage can be canceled by choosing a coordinate system that ac-
+companies the particle in its motion. The remaining physical quantities are the first three.
+Their emergence can also be interpreted as an application of Noether’s theorem:
+
+(cid:136) The scalar energy is then associated with the subgroup of temporal translations.
+
+(cid:136) The 3-vector momentum with the subgroup of spatial translations.
+
+(cid:136) The 3-vector spin (unquantized) with the Lorentz subgroup, around which the Poincar´e
+
+group is constructed.
+
+But at the end of this approach, a surprise awaited the physicist. The Lorentz group is
+
+defined by:
+
+with:
+
+Lor := {L ∈ GL(4, R), τ (L)L = I4} .
+
+(cid:32)−1
+
+0
+
+(cid:33)
+
+0
+Ik
+
+τ (L) := I1,3LT I1,3 , I1,k :=
+
+(k ∈ N).
+
+We extend the map τ to vectors of R4, by setting for all X ∈ R4:
+
+τ (X) := X T I1,3
+
+The Lorentz group has four connected components (see [7], [27] and [33]):
+
+(cid:136) Lorn is the neutral component (its restricted subgroup), does not invert either space
+
+or time i.e. defined by:
+
+Lorn := {L ∈ Lor, det(L) = 1 ∧ [L]00 ≥ 1}
+
+2
+
+(cid:136) Lors inverts space i.e. defined by:
+
+Lors := {L ∈ Lor, det(L) = −1 ∧ [L]00 ≥ 1}
+
+(cid:136) Lort inverts time but not space i.e. defined by:
+
+Lort := {L ∈ Lor, det(L) = 1 ∧ [L]00 ≤ −1}
+
+(cid:136) Lorst inverts both space and time i.e. defined by:
+
+Lorst := {L ∈ Lor, det(L) = −1 ∧ [L]00 ≤ −1}
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+We have:
+
+Lor = Lorn ⊔ Lors ⊔ Lort ⊔ Lorst.
+
+The first two components are grouped together to form the subgroup called ”orthochronous”:
+
+Loro = Lorn ⊔ Lors
+
+It includes P-symmetry, which poses no problem for physicists who know that there are
+photons of ”right” and ”left” helicity whose motions are derived from this symmetry. This
+corresponds to the phenomenon of the polarization of light.
+
+The last two components form the subset ”retrochronous” or ”antichronous”, whose
+
+components invert time:
+
+We have:
+
+The Poincar´e group is defined by:
+
+Lora = Lort ⊔ Lorst
+
+Lor = Loro ⊔ Lora
+
+(cid:40)(cid:32)
+
+(cid:33)
+
+(cid:41)
+
+Poin :=
+
+L D
+0
+1
+
+, L ∈ Lor ∧ D ∈ R4
+
+,
+
+it inherits the properties of the Lorentz group and thus has four connected components.
+We then distinguish the subgroup of the complete Poincar´e group, constructed from the
+orthochronous components of the Lorentz group. And we define all components (like Lorentz
+group):
+
+∀α ∈ {n, s, t, st, o, a}, Poinα :=
+
+, Lα ∈ Lorα ∧ D ∈ R4
+
+.
+
+(6)
+
+(cid:41)
+
+We have the same decomposition like (1), (2), (3) and (4).
+
+The classification of motions yields two classes corresponding to the movements of pho-
+tons and particles with a positive mass m. Souriau summarizes his study by providing a
+
+(cid:40)(cid:32)
+
+(cid:33)
+
+Lα D
+1
+0
+
+3
+
+(7)
+
+(8)
+
+(9)
+
+summary of the group’s action on its momentum (see [35] chapter 13).
+
+We can define the moment matrix M and the stress–energy vector P as follows:
+
+(cid:32)
+
+(cid:33)
+
+M :=
+
+, P :=
+
+0
+g
+
+gT
+j(ℓ)
+
+(cid:32)
+
+(cid:33)
+
+E
+p
+
+with ℓ the angular momentum of M , g the relativist barycenter of M , p the linear momen-
+tum of P , and E the energy of P .
+
+The action is written (see [35] equation 13.107) for all L ∈ Lor :
+
+M′ = LM τ (L) + Cτ (P )τ (L) − CLP τ (C)
+P ′ = LP
+
+We have:
+
+Lort = −Lors Lorst = −Lorn
+
+Then, it is possible to write the complete Poincar´e group as:
+
+(cid:40)(cid:32)
+
+(cid:33)
+
+Poin :=
+
+λLo D
+1
+
+0
+
+(cid:41)
+
+, Lo ∈ Loro ∧ D ∈ R4 ∧ λ ∈ {±1}
+
+.
+
+(10)
+
+The action of the complete group is then written as follows for all L := λLo ∈ Lor:
+
+M′ = LoM τ (Lo) + λCτ (P )τ (Lo) − CLP τ (C)
+P ′ = λLoP
+
+It’s then observed that the retrochronous components reverse the energy and, conse-
+
+quently, the mass, as noted by J.M. Souriau ((14.67) of page 198 [35]).
+
+In the past, we have seen an example where P. Dirac suggested the use of an electric
+charge symmetry. The existence of particles with opposite electric charges was thus directly
+implied by an extension of the theory. This involved postulating the existence of positrons.
+Fortunately, the existence of such particles was quickly confirmed by C.A. Anderson’s ob-
+servations1, which earned him the Nobel Prize in 1936.
+
+We are in 1970. J.M. Souriau’s theoretical framework raised the possibility of particles
+
+with negative energy, which were categorized into two classes:
+
+(cid:136) Particles endowed with a negative mass m
+
+(cid:136) Photons endowed with negative energy.
+
+In conclusion, the author indicated potential measures to circumvent the emergence
+of particles with negative mass, one of which was to decide that only the orthochronous
+components of the Poincar´e group should pertain to the realm of physics.
+
+1To be precise, this observation did not follow P. Dirac’s deduction in the sense that, in 1923, the Russian
+
+D. Skobeltzyn was the first to make this observation.
+
+4
+
+2 When observations suggest the introduction of nega-
+
+tive masses
+
+Major Implications in Cosmology
+
+When observations suggest the introduction of negative masses in cosmology, the introduc-
+tion of particles with negative mass and energy posed a serious problem in physics. It is
+noteworthy that they also appear in quantum mechanics if, in the field theory of quantum
+mechanics, we choose to make the T-operator, which inverts time, linear and unitary, in-
+stead of antiunitary and antilinear as had been chosen until then, precisely to oppose the
+emergence of states with negative energy [41]. This perspective opens up a new field of
+theoretical research where N. Debergh has published some articles [18], [17]. However, it
+required an observation to reveal a phenomenon that demonstrates the action of unknown
+particles. The discovery of the acceleration of cosmic expansion, due to negative contents,
+can be considered an answer to this question.
+
+In general relativity, the cosmological dynamics are determined by two possible causes:
+the value of the cosmological constant present in Einstein’s equation, and a field source
+represented by the contents of the tensor on the right-hand side of the equation. In mixed
+notation:
+
+µ − 1
+Rν
+2
+
+Rδν
+
+µ = χT ν
+
+µ − χΛδν
+
+µ
+
+In this equation, Rν
+
+µ represents the Ricci curvature tensor, R is the Ricci scalar, and
+δν
+µ is the Kronecker symbol, which is used to write the equations in a compact form. The
+term χT ν
+µ corresponds to the energy-momentum tensor that describes the distribution and
+flow of energy and momentum in spacetime, which acts as the source of the gravitational
+field. The term −χΛδν
+µ introduces the cosmological constant Λ, which can be interpreted as
+the energy density of the vacuum of space contributing to the overall dynamics of the cosmos.
+
+Taking Λ = 0, assuming positive masses, and by considering the cosmic fluid as a perfect
+
+gas, the source tensor, or the energy-momentum tensor, is given by:
+
+ ρc2
+
+T ν
+µ =
+
+0
+0 −p
+0
+0
+
+0
+0
+0 −p
+0
+
+0
+0
+0
+0 −p
+
+
+
+where c represents the speed of light, ρ is the energy density and p is the pressure, as the
+volumetric kinetic energy density associated with thermal agitation at the mean quadratic
+velocity ⟨v⟩, following the relationship:
+
+(11)
+
+(12)
+
+(13)
+
+If it involves positive mass, then ρ and p are positive. However, the evolution then indi-
+cates deceleration. The currently adopted solution attributes this expansion’s acceleration
+to the constant Λ, likened to the action of dark energy, of unknown nature, with constant
+
+ρ⟨v2⟩
+
+3
+
+p =
+
+5
+
+volumetric density. The evolution of the cosmic space scale factor then becomes exponential.
+
+Deceleration could occur if the source of the field could be attributed to a negative mass
+and energy content, while simultaneously taking a zero cosmological constant. This results
+in an evolution with a negative curvature index that tends, at infinity, towards asymptotic
+expansion at constant speed. However, a significant and insurmountable difficulty arises.
+With a single field equation, test particles, especially test masses, follow the same geodesics.
+This can be summarized in the laws of interaction:
+
+(cid:136) Positive masses (source ρ and p > 0) attract both positive and negative masses.
+
+(cid:136) Negative masses (source ρ and p < 0) repel both positive and negative masses.
+
+Such a set of forces violates both the action-reaction principle and the equivalence princi-
+ple, giving rise to the uncontrollable runaway phenomenon. When this aspect was discovered
+in 1957 [5], scientists concluded that negative masses could never be a part of physics.
+
+J.P. Petit and G. D’Agostini ([30], [29]) consider a bimetric configuration, where positive
+masses and positive-energy photons would follow geodesics arising from a metric g(+)
+µν , while
+negative masses and negative-energy photons would follow geodesics arising from a metric
+g(−)
+µν . This led to the project of conceiving a system of two coupled field equations derived
+from an action. However, the first attempt at a bimetric modeling was by T. Damour and
+I. Kogan in 2004 ([12], [13]). Starting from these two metrics, two Ricci tensors R(+)
+µν and
+R(−)
+µν , and two Ricci scalars R(+) and R(−) are constructed. The proposed system, with the
+pair of metrics g(L)
+
+µν and g(R)
+
+µν , is then:
+
+gL
+
+µνRL =(cid:0)T L
+µνRR =(cid:0)T R
+
+gR
+
+µν + tL
+µν
+
+µν + tR
+µν
+
+(cid:1)
+(cid:1)
+
+µν − 1
+RL
+2
+µν − 1
+RR
+2
+
+(14)
+
+(15)
+
+Such an approach implies introducing a different geometric context. It does not involve
+introducing negative masses at all. The authors consider an interaction between two branes,
+using gravitons with a mass spectrum. The tensors T L and T R represent the content of each
+brane. The tensors tL and tR can be described as interaction tensors. Tensor tL reflects the
+source of the action of particles from the “Right” brane structured by equation 15 on those
+from the “Left” brane structured by the first field equation 14, while tensor tR represents the
+source of the action of particles from the “Left” brane structured by the first field equation
+14 on those from the “Right” brane structured by equation 15.
+
+Starting from the metrics g(L)
+
+µν , we construct covariant derivative operators ∇ν
+L
+and ∇ν
+R. The covariant derivatives of the first two terms are zero by construction. There-
+fore, the covariant derivatives of the second terms must also be zero. This represents the
+translation of the Bianchi conditions.
+
+µν and g(R)
+
+6
+
+It is easy to envision, with mixed notation:
+
+ , T Rν
+
+µ =
+
+ ρRc2
+
+0
+0
+0
+
+0
+−pL
+0
+0
+
+0
+0
+−pL
+0
+
+0
+0
+0
+−pL
+
+0
+−pR
+0
+0
+
+0
+0
+−pR
+0
+
+0
+0
+0
+−pR
+
+ (16)
+
+ ρLc2
+
+0
+0
+0
+
+T Lν
+
+µ =
+
+And to have:
+
+which are then conservation equations. The problem then is to produce the forms of the
+
+interaction tensors such as:
+
+∇ν
+LT Lν
+
+µ = ∇ν
+
+RT Rν
+
+µ = 0
+
+∇ν
+LtLν
+
+µ = ∇ν
+
+RtRν
+
+µ = 0
+
+Here ends the attempt of these two authors.
+
+A more intriguing approach in 2008 is that of S. Hossenfelder [21], also based on an
+
+action, which leads to the system of equations:
+
+(g)Rvk − 1
+2
+
+(g)R = Tkv − V
+
+gvk
+
+h
+g
+
+vak
+av
+
+k
+
+(h)Rvk − 1
+2
+
+(h)R = T vk − W
+
+hvk
+
+ak
+kav
+
+vTkv
+
+(cid:115)
+(cid:114) g
+
+h
+
+(17)
+
+(18)
+
+(19)
+
+(20)
+
+The same divergence-free first terms are found, whose form results from the introduc-
+tion of the Ricci scalars (h)R and (g)R into the action that was used to construct this system
+of equations. The second terms of both right-hand sides also reveal interaction tensors,
+weighted by the square root of the ratio of the determinants of the two metrics, whose
+presence stems from the form of the considered action. The author indicates his intention
+to manage masses of both signs. However, his system of equations generates interaction
+laws, similar to what was obtained with Einstein’s equation, which are also physically un-
+acceptable. Believing that this aspect is automatically linked to any bimetric description,
+the author then abandons this project.
+
+It is useful, in presenting a new model, to follow the progression adopted by the authors
+of what would become the Janus cosmological model. While the first two attempts were
+immediately based on an action, their approach can be described as heuristic.
+
+In 1995 [28], J.P. Petit created numerical simulations by making positive and negative
+masses interact. Starting from complete symmetry, where only the sign of the mass changes,
+he observed a percolation phenomenon that hardly seems comparable to observational data
+as on figure 1.
+
+7
+
+Figure 1: Percolation phenomenon with separation of masses of opposite signs
+
+He then had the idea to endow the negative species with a higher volumetric mass value.
+A lacunar structure then appears, where the positive mass is caught between conglomerates
+of adjacent negative mass as on figure 2.
+
+Figure 2: Formation of a Lacunar Structure
+
+Today, it is known that ordinary, visible matter has such a lacunar structure. In 1995,
+the author concluded that this structure results from a profound asymmetry between pos-
+itive and negative masses. Since the accretion time, or the time it takes for structures to
+form through gravitational instability, varies as the inverse of the square root of the absolute
+value of the volumetric mass, it is deduced that conglomerates of negative mass are the first
+to form, in a regular distribution, confining positive mass within the interstitial space.
+
+The existence of these conglomerates of negative mass was confirmed with the discovery
+
+in 2017 of the first among them, the dipole repeller 3 [20].
+
+8
+
+Figure 3: Dipole Repeller
+
+The second point in favor of such a model is its prediction of an early formation of
+stars and galaxies, within the first hundred million years, based on the following idea:
+when positive mass adopts its lacunar structure, it is violently compressed by the repulsion
+exerted by the two adjacent negative mass conglomerates.
+It then heats up, but its flat
+plate structure leads to equally abrupt cooling by radiative dissipation, which destabilizes
+it and results in the birth of stars and galaxies (figure 4).
+
+Figure 4: Scheme for the rapid formation of galaxies
+
+Observational confirmation has recently been provided in 2022 [19] and 2023 [1], with
+the James Webb Space Telescope revealing the existence of fully formed spiral galaxies,
+hosting stars that are already old, only 500 million years post Big Bang, a scenario that the
+prevailing model, even with the best parameters for dark matter, cannot account for.
+
+Over the years, observational confirmations have become increasingly numerous, prompt-
+ing the development of a mathematically coherent relativistic model. The first success was
+achieved in 2014 [31], by constructing a coupled field equation system that accounts for the
+acceleration of cosmic expansion, under the assumption that both the positive and nega-
+
+9
+
+(21)
+
+(23)
+
+(24)
+
+(25)
+
+(26)
+
+(27)
+
+(28)
+
+(29)
+
+tive sectors satisfy the conditions of homogeneity and isotropy. Under these conditions, the
+corresponding hyperbolic Riemannian metrics are FLRW-type metrics:
+
+µν = dx02 − a(+)2
+g(+)
+1 − k(+)
+
+µν = dx02 − a(−)2
+g(−)
+1 − k(−)
+
+(cid:0)du2 + u2dθ2 + u2 sin2 θdϕ2(cid:1)
+(cid:0)du2 + u2dθ2 + u2 sin2 θdϕ2(cid:1)
+
+(22)
+The set {u, θ, ϕ} represents the radial coordinates. x0 is a chronological variable. a(+)
+and a(−) are the scale factors for the two populations. A system of equations of the form:
+
+Applied specifically to this symmetry, this system generates a solution such that a(+) =
+a(−) with equal and opposite specific masses, which cannot account for the results of the
+simulations. The authors then attempt to enrich their model by writing:
+
+R(+)ν
+
+R(+)δν
+
+µ = χ
+
+T (+)ν
+
+µ + T (−)ν
+
+µ
+
+R(−)ν
+
+R(−)δν
+
+µ = −χ
+
+T (−)ν
+
+µ + T (+)ν
+µ
+
+µ − 1
+2
+µ − 1
+2
+
+(cid:104)
+(cid:104)
+
+(cid:104)
+(cid:104)
+
+(cid:105)
+(cid:105)
+
+(cid:105)
+(cid:105)
+
+R(+)ν
+
+R(+)δν
+
+µ = χ
+
+T (+)ν
+
+µ + Φ(x0)T (−)ν
+
+µ
+
+R(−)ν
+
+R(−)δν
+
+µ = −χ
+
+T (−)ν
+
+µ + ϕ(x0)T (+)ν
+µ
+
+µ − 1
+2
+µ − 1
+2
+
+In these equations, all terms depend only on the chronological variable x0. With this
+approach, where only solutions a(+) and a(−) are sought as functions of the chronological
+variable x0, the covariant derivatives refer only to this single variable. The consistency of
+the equations leads to the result:
+
+As the determinants of the metrics are:
+
+(cid:113) g(+)
+
+It is then noticed that the coefficients ϕ and Φ are respectively identified with the factor
+g(−) and its inverse, which draws attention to the essay by D. Hossenfelder [12]. In 2014,
+an exact solution is presented [31], and in 2018, G. D’Agostini [11] shows that it indeed
+accounts for the available observational data (5).
+
+(cid:20) a(−)
+
+(cid:21)3
+
+a(+)
+
+Φ =
+
+= ϕ−1
+
+g(+) = −a(+)6
+g(−) = −a(−)6
+
+sin2 θ
+
+sin2 θ
+
+10
+
+Figure 5: Acceleration of the expansion in agreement with observational data
+
+Thus, the system of coupled field equations for the Janus model becomes:
+
+µν − 1
+R(+)
+2
+
+R(+)g(+)
+
+µν = χ
+
+µν +
+
+g(−)
+g(+)
+
+ˆT (−)
+
+µν
+
+(cid:115)
+
+T (+)
+(cid:115)
+
+
+
+
+µν − 1
+R(−)
+2
+
+R(−)g(−)
+
+µν = κχ
+
+g(+)
+g(−)
+
+µν + T (−)
+ˆT (+)
+
+µν
+
+(30)
+
+(31)
+
+Major Implications of Quantum Field Theory
+
+In Quantum Mechanics, quantum physicists traditionally adopt an anti-linear and anti-
+unitary perspective for the T-operator. A P-operator is chosen to be unitary and linear for
+analogous reasons as quoted on pages 75 and 76 of [41]:
+
+If P were antiunitary then it would anticommute with i, so PHP−1 = −H.
+But then for any state Ψ of energy E ≥ 0, there would have to be another
+state P−1Ψ of energy −E < 0. There are no states of negative energy
+(energy less than that of the vacuum), so we are forced to choose the
+other alternative: P is linear and unitary, and commutes rather than
+anticommutes with H. On the other hand, setting ρ = 0 in Eq. (2.6.6) yields
+
+If we supposed that T is linear and unitary then we could simply cancel the is,
+and find THT−1 = −H, with the again disastrous conclusion that for
+any state Ψ of energy E there is another state T−1Ψ of energy −E. To
+avoid this, we are forced here to conclude that T is antiunitary and
+antilinear.
+
+TiHT−1 = −iH.
+
+11
+
+Now that we have decided that P is linear and T is antilinear, we can conve-
+niently rewrite Eqs. (2.6.3)-(2.6.6) in terms of the generators (2.4.15)-(2.4.17)
+in a three-dimensional notation.
+
+And to conclude by adding on page 104 that: ”No examples are known of particles
+that furnish unconventional representations of inversions, so these possibilities
+will not be pursued further here. From now on, the inversions will be assumed
+to have the conventional action assumed in Section 2.6”. So, at the time this theory
+was conceived, no phenomena had yet been observed that would allow us to address the
+question of negative energy states. However, the observation that the universe’s expansion
+is accelerating compels us to consider these states, as pointed out on the previous section
+and in the study [31]. This idea was subsequently taken up and developped by N. Debergh
+([18], [17]).
+
+In summary, everything mentioned above is intended to recall the approach used to create
+this model, which presents itself as an extension of general relativity, exploring its physical
+foundations, implications, and outcomes. It is now appropriate to attempt to specify the
+contents of this model. A presentation of this symplectic group, which was associated with
+it, has already been published ([31]), showing that matter-antimatter symmetry could be
+included. The second paper, which will follow the publication of this present article revised
+in accordance with your feedback, is currently being drafted in a more structured manner. It
+will include the Lagrangian derivation from an action, as illustrated in the diagram proposed
+in reference [32].
+
+3 When the theory of dynamic groups illuminates the
+
+traveled path
+
+The application of the coadjoint action of a symplectic group on the dual of its Lie algebra,
+initiated by the mathematician Jean-Marie Souriau, has shed light on specific aspects of the
+approach followed by physics. The orbit method is due to Kirillov ([6], [10], [8], [9], [23],
+[24], [26], [36], [39] and [40]).
+
+Thus, the restricted Lorentz symplectic group, limited to its two orthochrone compo-
+nents, translates, through the invariance properties that result from it, the aspects of special
+relativity. In 1970, J-M Souriau established that the analysis of the components of its mo-
+ment makes it possible to shed light on the geometric nature of a spin (not quantized): see
+[35] and [34]. He uses for this purpose symplectic methods ([16], [14], [37] and [38]). In
+the theory of symplectic groups, we show a classification in terms of movements. At this
+stage, the action of these elements reversing space finds its illustration in the phenomenon
+of polarization of light, where any ”right” photon can be converted into a ”left” photon.
+
+By operating the product of this group by that of the spatio-temporal translations,
+we obtain the restricted Poincar´e symplectic group, always limited to its two orthochrone
+components. In its moment, we first find the energy related to the subgroup of temporal
+translations. Then the momentum, linked to the spatial translations, the two being linked
+by the invariance of the modulus of the energy-momentum four-vector under the action of
+the Lorentz group.
+
+12
+
+By adding a translation along a fifth dimension to the restricted Poincar´e group, we
+form a Lie group to which we will give the name Restricted Kaluza Group ([2], [3], [4], [22],
+[25]). This group is not the 15-dimensional Kaluza group associated with a 5-dimensional
+Lorentzian manifold but a new 11-dimensional group, including 5-dimensional space-time
+translation. This new dimension endows the momentum with an additional scalar that can
+be identified with the electric charge q, which may be positive, negative, or zero, and is
+still not quantized. We then bring out the geometric translation according to a scalar ϕ
+due to endowing the masses with an invariant electric charge. Then, by bringing in a new
+symmetry reflecting the inversion of the fifth dimension, synonymous with an inversion of
+the scalar from q to −q, we double the number of its connected components from 2 to 4.
+The action on the moment then links this new symmetry to the inversion of the electric
+charge q. We thus deduce the geometric modeling of charge conjugation or C-Symmetry,
+which translates the matter-antimatter symmetry introduced by Dirac. It’s then logical to
+name this new extension, the Restricted Janus Group.
+
+By introducing a new symmetry to the previous group, which we describe as T-Symmetry
+and which converts matter into antimatter with negative mass – a concept we could name
+antimatter in the Feynman sense – we build the Janus Symplectic Group. Thus, we double
+the number of connected components from four to eight, grouped into two subsets: ”Or-
+thochronous”, conserving time and energy properties, and ”Antichronous”, reversing time
+and energy. Therefore, we bring forth the geometric translation of endowing masses with
+an invariant electric charge. As the Jean-Marie Souriau demonstrated as early as 1970, a
+pioneer in the theory of symplectic groups ([35], [15], [34]), this approach has allowed key
+elements, which have marked the progress of relativistic physics, to be given a purely geo-
+metric nature.
+
+In relation to the world of physics, wouldn’t the role of mathematics be to illuminate
+the path traveled? Conversely, could it be possible that the exploration of new symmetries,
+accompanying this decoding using symplectic groups, contains more than what we thought
+we put into it? That it could designate new paths to follow?
+
+This is what we will consider with the Janus Symplectic Group with charge symme-
+try, by integrating the antichronous components of the Lorentz group, resulting from its
+simple axiomatic definition, with the obvious repercussions on the Poincar´e group and its
+extensions.
+
+4 Janus Symplectic Group
+Let ˜T := I1,3, ˜P := − ˜T and:
+
+(cid:16) ˜P
+
+λ(cid:17)
+
+(cid:110)
+
+∀λ, ν ∈ {0, 1}, Lor
+
+ν ˜T
+
+:=
+
+Ln ˜P
+
+λ
+
+ν ˜T
+
+, Ln ∈ Lorn
+
+.
+
+(cid:111)
+
+13
+
+Then, there are 4 connected components of Lor, given by2
+
+(cid:16) ˜P
+(cid:16) ˜P
+
+0 ˜T
+
+0 ˜T
+
+0(cid:17)
+1(cid:17)
+
+Lorn = Lor
+Lort = Lor
+
+(cid:16) ˜P
+(cid:16) ˜P
+
+1 ˜T
+
+1 ˜T
+
+0(cid:17)
+1(cid:17)
+
+Lors = Lor
+Lorst = Lor
+
+and we have the decomposition:
+
+(cid:71)
+
+(cid:16) ˜P
+
+Lor
+
+ν ˜T
+
+λ(cid:17)
+
+Lor =
+
+ν,λ∈{0,1}
+
+Then, we define the Janus symplectic group.
+
+(32)
+
+Definition 4.1. The Janus symplectic group is defined as the subgroup of GL(6, R):
+
+
+
+L
+
+0
+0
+
+J an :=
+
+(−1)η
+
+0
+
+0
+
+D
+ϕ
+1
+
+sion 5 given by3:
+
+Aff(O(1, 4)) :=
+
+ , η ∈ {0, 1} ∧ ϕ ∈ R ∧ L ∈ Lor ∧ D ∈ R4
+(cid:40)(cid:32)
+
+(cid:41)
+
+(cid:33)
+
+
+
+, L ∈ O(1, 4) ∧ D′ ∈ R5
+
+L D′
+1
+0
+
+The Janus symplectic group is therefore a subgroup of the group of isometries in dimen-
+
+with τ1,4(L) := I1,4LT I1,4 and O(1, 4) := {L ∈ GL(5, R), τ1,4(L)L = I5}. The elements of
+Aff(O(1, 4)) are the elements which preserve the distance between two events (pentavectors)
+X := (t, x, y, z, ξ) and X′ := (t′, x′, y′, z′, ξ′) given by:
+
+d(X, X′) := c2(t − t′)2 − (x − x′)2 − (y − y′)2 − (z − z′)2 − (ξ − ξ′)2
+
+This fifth dimension is of space type (we note the variable ξ). Each dimension is therefore
+associated with a symmetry, there are three types of symetries:
+• the T-symmetry;
+• the Px-symmetry, Py-symmetry, Pz-symmetry grouped together what we call the P-
+
+symmetry;
+
+• the ξ-symmetry corresponding to the C-symmetry (the charge conjugation).
+
+2Equalities are shown by double inclusion. For example, let’s demonstrate that Lors = Lor
+
+.
+Take L ∈ Lors (det(L) = −1 et [L]00 ≥ 1). Then we have det(L ˜P) = −1 and [L ˜P]00 ≥ 1 i.e., we have
+Ln := L ˜P ∈ Lorn. Since ˜P
+. The inclusion in the
+other direction is trivial.
+3Aff(O(1, 4)) is the affine group associated with O(1, 4), it is also defined by the semi-direct product
+Aff(O(1, 4)) := O(1, 4) ⋉ R5. We can also define the symplectic Janus group as being the affine group
+associated with the subgroup of O(1, 4) given by:
+
+= ˜P, we can conclude that L = Ln ˜P ∈ Lor
+
+(cid:16) ˜P
+
+0(cid:17)
+
+1 ˜T
+
+1 ˜T
+
+−1
+
+(cid:16) ˜P
+
+0(cid:17)
+
+(cid:27)
+
+Elec :=
+
+0
+
+(−1)η
+
+, η ∈ {0, 1} ∧ L ∈ Lor
+
+called the symplectic electric group and we have J an := Aff(Elec).
+
+(cid:26)(cid:18)L
+
+0
+
+(cid:19)
+
+14
+
+This space of dimension 5 is a Minkowski metric space to which we have added one dimen-
+sion, it has the metric I1,4.
+
+We also define the restricted Janus group is the subgroup of J an given by:
+
+Ln
+
+0
+0
+
+
+I4
+
+0
+0 −1
+0
+0
+
+0
+0
+1
+
+J ann :=
+
+C :=
+
+0 D
+1 ϕ
+0
+1
+
+
+ , ϕ ∈ R ∧ Ln ∈ Lorn ∧ D ∈ R4
+ , P :=
+(cid:32) ˜P 0
+(cid:32) ˜T 0
+(cid:33)
+(cid:33)
+Ln ˜P
+ CηPνTλ =
+
+(−1)η
+
+, T :=
+
+I2
+
+I2
+
+0
+
+0
+
+0
+
+λ
+
+.
+
+0 D
+1 ϕ
+1
+0
+
+ν ˜T
+0
+0
+
+0
+
+
+
+D
+ϕ
+1
+
+Ln
+
+0
+0
+
+∀λ, η, ν ∈ {0, 1},
+
+Let:
+
+We have:
+
+and therefore by equation (32):
+
+
+Ln ˜P
+
+λ
+
+ν ˜T
+0
+0
+
+J an =
+
+(−1)η
+
+0
+
+0
+
+D
+ϕ
+1
+
+ , λ, η, ν ∈ {0, 1} ∧ ϕ ∈ R ∧ Ln ∈ Lorn ∧ D ∈ R4
+
+ .
+
+Definition 4.2.
+
+(i) The CPT-group is the subgroup K of J an of order 8 generated by
+
+C, P and T ie:
+
+CηPνTλ, η, ν, λ ∈ {0, 1}(cid:111)
+(cid:110)
+
+K :=
+
+(ii) For all X ∈ K, the X-component of J an is:
+
+= {I6, T, P, PT, C, CT, CP, CPT} .
+
+J an (X) := {JX, J ∈ J ann} .
+
+Thus, we have:
+
+(cid:16)
+
+CηPνTλ(cid:17)
+
+=
+
+J an
+
+λ
+
+ν ˜T
+0
+0
+
+(−1)η
+
+0
+
+0
+
+
+
+Ln ˜P
+(cid:71)
+
+X∈K
+
+J an =
+
+J an (X) =
+
+η,ν,λ∈{0,1}
+
+D
+ϕ
+1
+
+ , ϕ ∈ R ∧ Ln ∈ Lorn ∧ D ∈ R4
+(cid:71)
+
+CηPνTλ(cid:17)
+
+J an
+
+(cid:16)
+
+.
+
+ .
+
+These 8 components are the 8 connected components of J an, we have the decomposition:
+
+The group Lor is the Lie group of dimension 6 and its Lie algebra is:
+
+lor :=A(1, 3) := {Λ ∈ M(4, R), τ1,3(Λ) = −Λ}
+
+15
+
+Then, the group J an is a Lie group of dimension 11 and its Lie algebra is:
+
+jan =
+
+0
+0
+
+ε
+0
+
+0
+0
+
+
+Λ 0 Γ
+(cid:33)
+(cid:40)(cid:32)
+(cid:55)−→ −(cid:16)
+(cid:26)
+
+Γ
+ε
+
+Λ (cid:55)−→ − 1
+2
+
+ , Λ ∈ A(1, 3) ∧ Γ ∈ R4 ∧ ε ∈ R
+(cid:32)
+(cid:17)
+
+(cid:32)
+
+(cid:33)
+
+= −τ (P )Γ − qε,
+
+I1,4
+
+q
+
+P T
+
+ .
+(cid:33)
+
+Γ
+ε
+
+(cid:27)
+
+(cid:41)
+
+∈ R5
+
+P
+q
+
+A(1, 3)∗ =
+
+Tr(M Λ), M ∈ A(1, 3)
+
+We have two caracterisations4:
+
+(cid:0)R5(cid:1)∗
+
+=
+
+Then, we have:
+
+
+(cid:110)
+
+(cid:111)
+
+Λ 0 Γ
+
+ (cid:55)−→ − 1
+
+2
+
+0
+0
+
+ε
+0
+
+0
+0
+
+jan∗
+
+=
+
+M P q
+
+:
+
+Tr(M Λ) − τ (P )Γ − qε, M ∈ A(1, 3) ∧ P ∈ R4 ∧ q ∈ R
+
+ 5.
+
+The action of the group J an on jan∗
+
+any a ∈ J an and any µ ∈ jan∗
+
+, we denote this action by:
+
+is defined by the coadjoint representation i.e., for
+
+a • µ := Ad
+∗
+a(µ).
+
+)
+
+Aut(jan∗
+
+a : µ (cid:55)−→(cid:0)Z (cid:55)−→ µ(cid:0)a−1Za(cid:1)(cid:1)
+ ∈ J an ,
+(cid:111) ∈ jan∗
+
+M P q
+
+(cid:110)
+
+.
+
+with
+
+∗
+Ad
+
+: J an −→
+
+a
+
+(cid:55)−→ Ad
+∗
+
+Proposition 4.1. Let:
+
+a :=
+
+0
+0
+
+L
+a •(cid:110)
+(cid:110)
+
+(−1)η
+
+0
+
+0
+
+D
+ϕ
+1
+
+(cid:111)
+
+M P q
+
+We have:
+
+=
+
+LM τ (L) + Dτ (P )τ (L) − LP τ (D) LP (−1)ηq
+
+4For all β ∈ R∗, the application Φβ which to M ∈ A(1, 3) associates the linear form Λ (cid:55)−→ βTr(M Λ) is
+an isomorphism of A(1, 3) to A(1, 3)∗. Taking {Akl := −Ekl + [I1,3]ll[I1,3]kkElk, k, l ∈ {1, . . . , 4}, k < l}
+the canonical basis of A(1, 3), we have Φ−1/2(Akl)(Akl) = 1, hence the choice of β := −1/2.
+
+5The elements of jan∗ are called torsors.
+
+(cid:111)
+
+.
+
+16
+
+Proof. We have:
+
+M P q
+
+(cid:16)
+a •(cid:110)
+(cid:110)
+(cid:110)
+(cid:110)
+
+=
+
+M P q
+
+=
+
+M P q
+
+=
+
+M P q
+
+ε
+0
+
+0
+0
+
+0
+0
+
+
+(cid:111)(cid:17)Λ 0 Γ
+ a
+
+(cid:111)a−1
+Λ 0 Γ
+(cid:111)
+τ (L)
+(cid:111)τ (L)ΛL 0
+
+(−1)η
+
+0
+0
+
+0
+0
+
+0
+0
+
+ε
+0
+
+0
+
+0
+
+0
+0
+
+0
+0
+
+1
+
+0
+
+−τ (L)D
+(−1)η+1ϕ
+
+τ (L)(ΛD + Γ)
+
+(−1)ηε
+
+
+
+
+(−1)η
+
+0
+
+0
+
+D
+ϕ
+1
+
+L
+
+0
+0
+
+
+Λ 0 Γ
+
+
+
+0
+0
+
+0
+0
+
+ε
+0
+
+Tr (M τ (L)ΛL) − τ (P )τ (L)(ΛD + Γ) − (−1)ηqε
+Tr [(LM τ (L) + 2Dτ (P )τ (L)) Λ] − τ (LP )Γ − (−1)ηqε
+Tr [(LM τ (L) + Dτ (P )τ (L) − LP τ (D)) Λ] − τ (LP )Γ − (−1)ηqε
+
+= − 1
+2
+= − 1
+2
+= − 1
+2
+
+(cid:110)
+
+=
+
+LM τ (L) + Dτ (P )τ (L) − LP τ (D) LP (−1)ηq
+
+(cid:111)Λ 0 Γ
+
+
+
+0
+0
+
+ε
+0
+
+0
+0
+
+To describe the Lie algebra of J an, we can also use the isomorphism of Lie algebras6:
+
+j :
+
+(R3,∧) −→
+
+x
+
+ (cid:55)−→
+
+y
+z
+
+ 0 −z
+
+(A(3), [ , ])
+y
+0 −x
+0
+x
+
+z
+−y
+
+with ∧ the cross product on R3 and A(3) the vector space of antisymmetric matrices of size
+3. Then, we have:
+
+
+Λ 0 Γ
+
+ , Λ ∈ A(1, 3) ∧ Γ ∈ R4 ∧ ε ∈ R
+
+v
+0
+0 γ
+ε
+0
+0
+0
+6We have for all u, v ∈ R3: u ∧ v = j(u)(v) and j(u ∧ v) = [j(u), j(v)] = j(u)j(v) − j(v)j(u).
+
+βT
+β j(w)
+0
+0
+
+ =
+
+0
+0
+
+0
+0
+
+ε
+0
+
+0
+0
+
+jan =
+
+ , β, w, γ ∈ R3 ∧ v, ε ∈ R
+
+ .
+
+.
+
+
+
+0
+
+17
+
+Therefore, for all
+
+M P q
+
+, there are unique ℓ, g, p ∈ R3 and E, q ∈ R such as:
+
+(cid:111) ∈ jan∗
+(cid:40) (cid:32)
+
+(cid:110)
+(cid:111)Λ 0 Γ
+
+0
+0
+
+ε
+0
+
+0
+0
+
+ =
+
+(cid:110)
+
+M P q
+
+(cid:33) (cid:32)
+(cid:33)
+(cid:33)(cid:32)
+
+E
+p
+
+0
+g
+
+gT
+j(ℓ)
+
+(cid:32)(cid:32)
+
+(cid:41)0
+(cid:33)(cid:33)
+
+βT
+β j(w)
+0
+0
+
+0
+0
+
+q
+
+
+
+0
+v
+0 γ
+ε
+0
+0
+0
+
+−(cid:16)
+E pT(cid:17)
+
+(cid:32)
+
+(cid:33)
+
+v
+γ
+
+I1,3
+
+− qε
+
+Tr
+
+= − 1
+2
+
+βT
+0
+β j(w)
+= ℓT w − gT β + pT γ − Ev − qε
+
+gT
+j(ℓ)
+
+0
+g
+
+We denote this last equality as:
+
+(cid:110)
+
+0
+(cid:110)
+
+ℓ
+
+g
+
+p E q
+
+(cid:110)
+
+
+
+The dual jan∗
+
+has the following descriptions:
+
+ℓ
+
+g
+
+p E q
+
+:
+
+(cid:111)
+
+βT
+β j(w)
+0
+0
+
+0
+0
+
+0
+v
+0 γ
+0
+ε
+0
+0
+
+Definition 4.3. Let
+
+µ :=
+
+M P q
+
+:=
+
+with relations:
+
+(cid:111)
+
+(cid:32)
+
+0
+g
+
+gT
+j(ℓ)
+
+0
+0
+
+ .
+
+0
+v
+0 γ
+0
+ε
+0
+0
+
+βT
+β j(w)
+0
+0
+
+(cid:111)0
+ (cid:55)−→ ℓT w − gT β + pT γ − Ev − qε, ℓ, g, p ∈ R3 ∧ E, q ∈ R
+(cid:110)
+(cid:33)
+
+(cid:111) ∈ jan∗
+
+p E q
+
+(cid:33)
+
+(cid:32)
+
+g
+
+l
+
+ .
+
+M =
+
+, P =
+
+.
+
+E
+p
+
+(i) The matrix M := M (µ) ∈ A(1, 3) is called the moment matrix associated with µ.
+The vector ℓ := ℓ(µ) ∈ R3 is called the angular momentum of M , and the vector
+g := g(µ) ∈ R3 is the relativist barycenter of M .
+
+(ii) (a) The vector P := P (µ) ∈ R4 is called the stress–energy vector associated with µ.
+The vector p := p(µ) ∈ R3 is called the linear momentum of P , and the scalar
+E := E(µ) ∈ R is called the energy of P .
+
+(b) The first Casimir number associated with µ is defined by:
+C1 := C1(µ) := P T I1,3P = E2 − p2.
+
+(c) The mass associated to µ is defined by :
+
+m := m(µ) := sign(E)
+
+C1 = sign(E)
+
+(cid:112)
+
+E2 − p2.
+
+(iii) The scalar q := q(µ) ∈ R is called the electric charge associated with µ.
+
+(cid:112)
+
+18
+
+We deduce a simple expression of the action of the CPT-group K on the torsors of jan∗
+
+.
+
+(cid:111) ∈ jan∗
+(cid:110)
+
+(cid:111)
+
+l
+
+g
+
+p E q
+
+. For all λ, η, ν ∈ {0, 1}, we have:
+
+g
+
+p E q
+
+=
+
+l
+
+(−1)λ+νg
+
+(−1)νp (−1)λE (−1)ηq
+
+(cid:111)
+
+.
+
+Proof. We apply the Proposition 4.1 with a := CηPνTλ:
+
+(cid:110)
+
+Corollary 4.2. Let
+
+(CηPνTλ) •(cid:110)
+(CηPνTλ) •(cid:110)
+
+l
+
+g
+
+l
+
+p E q
+
+= (CηPνTλ) •
+
+(cid:111)
+
+(cid:40) (cid:32)
+
+gT
+j(ℓ)
+
+0
+g
+
+(cid:33)
+
+(cid:33) (cid:32)
+
+(cid:33)
+
+(cid:41)
+
+E
+p
+
+q
+
+ν
+
+˜T
+
+λ ˜P
+
+gT
+j(ℓ)
+(−1)λ+νgT
+
+I1,3 ˜T
+
+(cid:33) (cid:32)
+
+j(ℓ)
+
+ν
+
+λ ˜P
+
+I1,3
+
+(−1)λE
+(−1)νp
+
+(−1)νp (−1)λE (−1)ηq
+
+˜P
+
+(cid:40)
+(cid:40) (cid:32)
+(cid:110)
+
+l
+
+=
+
+=
+
+=
+
+(cid:32)
+
+0
+g
+
+λ
+
+ν ˜T
+
+0
+
+(−1)λ+νg
+(−1)λ+νg
+
+(cid:41)
+
+(cid:32)
+(cid:33)
+
+(cid:33)
+
+E
+p
+
+(cid:111)
+
+(−1)ηq
+
+(cid:41)
+
+(−1)ηq
+
+So we have:
+
+C •(cid:110)
+P •(cid:110)
+T •(cid:110)
+
+l
+
+l
+
+g
+
+g
+
+p E q
+
+p E q
+
+=
+
+=
+
+(cid:111)
+(cid:111)
+(cid:111)
+
+(cid:111)
+
+(cid:111)
+(cid:111)
+
+g
+
+p E −q
+l
+l −g −p E q
+l −g
+p −E q
+
+l
+Corollary 4.3. Let µ ∈ jan∗
+
+=
+
+p E q
+
+g
+. For all λ, η, ν ∈ {0, 1}, we have:
+
+(cid:16)
+(cid:16)
+(cid:16)
+
+P
+
+C1
+
+m
+
+(cid:16)(cid:110)
+(cid:16)(cid:110)
+(cid:16)(cid:110)
+
+= ˜P
+
+ν ˜T
+
+λ
+
+P (µ)
+
+= C1(µ)
+= (−1)λm(µ)
+
+(CηPνTλ) • µ
+(CηPνTλ) • µ
+(CηPνTλ) • µ
+
+(cid:111) ∈ jan∗
+
+(cid:110)
+
+P (P • µ) = P
+
+l −g −p E q
+
+P (T • µ) = P
+
+l −g
+
+p −E q
+
+E
+−p
+
+(cid:33)
+(cid:32)
+(cid:32)−E
+(cid:33)
+(cid:32)
+(cid:33)
+
+p
+
+=
+
+=
+
+(cid:111)(cid:17)
+(cid:111)(cid:17)
+(cid:111)(cid:17)
+
+E
+p
+
+= ˜PP (µ)
+
+= ˜TP (µ)
+
+P (P • µ) = P
+
+l
+
+g
+
+p E −q
+
+=
+
+= P (µ)
+
+Proof. Let µ :=
+
+l
+
+g
+
+p E q
+
+. We have for the stress-energy tensor:
+
+for the first Casimir number:
+
+(cid:16)
+
+(cid:17)
+
+(CηPνTλ) • µ
+
+C1
+
+= P (µ)T ˜T
+
+ν
+
+λ ˜P
+
+I1,3 ˜P
+
+λ
+
+ν ˜P
+
+P (µ) = P (µ)T I1,3P (µ) = C1(µ)
+
+(cid:110)
+(cid:110)
+(cid:110)
+(cid:17)
+(cid:17)
+(cid:17)
+
+19
+
+for the mass:
+
+(cid:16)
+
+(cid:17)
+
+(cid:16)
+
+(cid:16)
+
+(CηPνTλ) • µ
+
+m
+
+= sign
+
+E
+
+(CηPνTλ) • µ
+
+(CηPνTλ) • µ
+
+C1
+
+(cid:17)(cid:17)(cid:114)
+
+(cid:16)
+
+(cid:17)
+
+= sign((−1)λE)(cid:112)C1(µ) = (−1)λm(µ)
+
+Therefore the elements variable by these actions are:
+
+P (P • µ) = ˜PP (µ)
+
+P (T • µ) = ˜TP (µ)
+
+m (T • µ) = −m(µ)
+
+(33)
+
+and we have the following table:
+
+Figure 6: This table lists the 8 values of µ′ := (CηPνTλ) •(cid:110)
+
+λ, η, ν ∈ {0, 1}.
+
+(cid:111)
+
+l
+
+g
+
+p E q
+
+for all
+
+5 Discussion & Conclusion
+
+General relativity immediately and irrevocably rejects the introduction of negative masses
+into the universe by invoking the resulting Runaway phenomenon, and violations of the
+principles of action-reaction and equivalence ([5]). Therefore, the construction of a new
+model introducing states of negative energy and mass could only be considered in relativity
+
+20
+
+by extending its initial geometric context. The theory of symplectic groups, articulated
+around the different Lorentz, Poincar´e or Kaluza groups allows to describe a universe where
+no force is exerted, a flat world without curvature and where particles follow geodesics of
+the Minkowski space according to a Lorentzian metric or of a fibered space structured by
+a fifth dimension (open or closed). This theory only suggests the existence of two kinds of
+contents that thus live in isolation without interacting.
+
+The transition from the Lorentzian metric to a Riemannian metric, a solution to a field
+equation arising from an action, introduces these interactions between masses by giving them
+the power to contribute to the gravitational field. All this translates into the construction of
+a field equation, the Einstein equation, whose solutions, in the form of metrics, describe the
+behavior of this universe, either globally, over time, or locally by introducing phenomena of
+gravitational lenses and the advance of the perihelia of elliptical type trajectories. These
+phenomena have been confirmed by observation. However, if we have to manage two types
+of masses, they will have to travel according to their own networks of geodesics structured
+by distinct metrics in an extended geometric context. This bimetric configuration will then
+emerge from a couple of two linked field equations that will be presented and studied in a
+second paper, as well as the related geometric aspects. The phenomena accounted for by
+this new model will be listed, including in the forefront the acceleration of cosmic expansion.
+A balance will be made of the agreements of this model with already observed phenomena,
+as well as predicted phenomena, then observed, such as the early birth of galaxies recently
+observed by the James Webb Space Telescope. Thus, mathematics would play the role of a
+guide in relation to physics, illuminating the path to follow, rather than the path already
+taken.
+
+References
+
+[1] N. J. Adams, C. J. Conselice, and L. Ferreira. Discovery ans properties of ultra-hich
+redshift galaxies (9<z<12) in the jwst ero smacs 073 field. Monthly Notices of the Royal
+Astronomical Society, 518, January 2023.
+
+[2] V. Bargmann, P. G. Bergmann, and A. Einstein. On The Five-Dimensional Represen-
+
+tation Of Gravitation And Electricity, page 212. Cal Tech, 1941.
+
+[3] P. Bergmann. An Introduction To The Theory Of Relativity. Prentice-Hall, 1942.
+
+[4] P. Bergmann and A. Einstein. On a generalization of kaluza’s theory of electricity.
+
+Annals of Mathematics, 39:683, 1938.
+
+[5] H. Bondi. Negative mass in general relativity. Rev. of Mod. Phys., 29(3), July 1957.
+
+[6] N. Burgoyne and R. Cushman. Conjugacy classes in linear groups. J. Alg., 44, 1977.
+
+[7] G. Costa and G. Fogli. Symmetries and Group Theory in Particle Physics. 2012.
+
+[8] R. Cushman. Adjoint orbits in the lie algebra of the generalized real orthogonal group.
+
+2022.
+
+[9] R. Cushman. Coadjoint orbits of the odd real symplectic group. 2023.
+
+21
+
+[10] R. Cushman and W. van der Kallen. Adjoint and coadjoint orbits of the poincar´e
+
+group. 2003.
+
+[11] G. DAgostini and J. P. Petit. Constraints on janus cosmological model from recent
+
+observations of supernovae type ia. Astrophysics and Space Science, 363:139, 2018.
+
+[12] T. Damour and I. I. Kogan. Effective lagrangians and universality classes of nonlinear
+
+bigravity. Phys. Rev. D, 66:104024, 2002.
+
+[13] T. Damour, I. I. Kogan, and A. Papazoglou. Non-linear bigravity and cosmic acceler-
+
+ation. Phys. Rev. D, 66:104025, 2002.
+
+[14] G. de Saxc´e. Euler-poincar´e equation for lie groups with non-null symplectic coho-
+mology. application to the mechanics. Geometric Science of Information, pages 66–74,
+2019.
+
+[15] G. de Saxc´e and C-M Marle. Presentation of jean-marie souriau’s book “structure des
+
+syst`emes dynamiques”. Mathematics and Mechanics of Complex Systems, 2023.
+
+[16] G. de Saxc´e and C. Vall´ee. Construction of a central extension of a lie group from its
+
+class of symplectic cohomology. Journal of Geometry and Physics, 60:165–174, 2010.
+
+[17] N. Debergh and J. P. Petit. On some reasons why the the reversal operator could be
+
+unitary. Phys. Lett A, 442, 2022.
+
+[18] N. Debergh, J. P. Petit, and G. D’Agostini. Evidence of negative energies and masses in
+the dirac equation through a unitary time-reversal operator. J. Phys. Comm., 2:115012,
+2018.
+
+[19] L. Ferreira, N. Adams, and G. J. Conselice. Panic at rhe discs: First rest-frame optical
+observations of galaxy structure at z>3 with jwt in the smacs 0723 field. Astrophysical
+Letters, 938(1), 2022.
+
+[20] Y. Hoffman, D. Pomar`ede, R. B. Tully, and H. Courtois. The dipole repeller. Nature
+
+Astronomy, 1:0036, 2017.
+
+[21] S. Hossenfelder. A bimetric theory with exchange symmetry. Phys. Rev. D, 78:044015,
+
+2008.
+
+1962.
+
+1926.
+
+[22] Th. Kaluza. On the unification problem in physics. Sitzungsberichte Pruss. Acad. Sci.,
+
+page 966, 1921.
+
+[23] A. Kirillov. Unitary representations of nilpotent lie groups. Uspehi Mat. Nauk, 17,
+
+[24] A. Kirillov. Elements of the Theory of Representations. Springer-Verlag, Berlin-
+
+Heidelberg-New York, 1976.
+
+[25] O. Klein. Quantum theory and five-dimensional theory of relativity. Z. Phys., 37:895,
+
+[26] B. Kostant. Quantization and unitary representations. Lectures in Modern Analysis
+
+and Applications. Springer-Verlag, Berlin-Heidelberg-New York, 1970.
+
+22
+
+[27] M. Nakahara. Geometry, Topology, and Physics. CRC Press, 2003.
+
+[28] J. P. Petit. Twin universe cosmology. Astrophys. and Sp. Science, 226:273–307, 1995.
+
+[29] J. P. Petit and G. D’Agostini. Bigravity, a bimetric model of the universe. exact non
+linear solutions. positive and negative lensings. In International Meeting on Variational
+Techniques, August 2007.
+
+[30] J. P. Petit and G. D’Agostini. Bigravity as an interpretation of the cosmic acceleration.
+
+In International Meeting on Variational Techniques, August 2007.
+
+[31] J. P. Petit and G. D’Agostini. Negative mass hypothesis in cosmology and the nature
+
+of dark energy. Astrophysics And Space Science, 29:145–182, 2014.
+
+[32] J. P. Petit and G. D’Agostini. Janus cosmological model. derivation from an action.
+
+dynamical group. In International Meeting on Variational Techniques, 2023.
+
+[33] W. Rindler. Introduction to Special Relativity. Oxford University Press, 1991.
+
+[34] J. M. Souriau. G´eom´etrie et relativit´e. Hermann, 1964.
+
+[35] J. M. Souriau.
+
+Structure of Dynamical Systems, a Symplectic View of Physics.
+
+Birkh¨auser Verlag, New York, 1997.
+
+[36] P. Torasso. Quantification g´eom´etrique, op´erateurs d’entrelacement et repr´esentations
+
+unitaires de sl3(r). Acta Math., 1983.
+
+[37] G. M. Tuynman. The lagrangean in symplectic mechanics.
+
+In Proceedings of The
+
+Blekinge University International Conference in the honor of Jean Leray, 1999.
+
+[38] G. M. Tuynman. Supermanifolds and supergroups. Basic theory, volume 570 of Math-
+
+ematics and its Applications. Kluwer Academic Publishers, Dordrecht, 2004.
+
+[39] D. Vogan. Noncommutative algebras and unitary representations. American Mathe-
+
+matical Society, 1988.
+
+[40] D. Vogan. The method of coadjoint orbits for real reductive groups, volume 8 of Rep-
+resentation Theory of Lie Groups. American Mathematical Society, Providence, RI,
+1999.
+
+[41] Steven Weinberg. The Quantum Theory of Fields. Cambridge University Press, 2005.
+
+23
+
+

@@ -1,0 +1,4781 @@
+	
+
+	DYNAMIQUE	GALACTIQUE	
+J.P.Petit	G.d’Agostini		N.Debergh	F.Margnat	
+
+14	avril	-	9	mai	2021	
+
+Il	n’y	a	pas	de	vent	favorable	pour	celui	qui	ne	sait	pas	où	il	va	
+
+1	
+
+Sénèque	
+
+Nous	 sommes	 en	 train	 de	 finaliser	 nos	 travaux	 sur	 la	 dynamique	 galactique	 qui	
+seront,	 bien	 sûr,	 adressés	 aux	 revues	 spécialisées.	 Si	 vous	 voulez	 les	 suivre,	
+commencez	 par	 vous	 familiariser	 avec	 cette	 lecture	 de	 ces	 problèmes	 dans	
+
+l’espace	à	sept	dimensions	(	t	,	x	,	y	,	z	,	u	,	v	;	x	).		
+Prologue.		
+De	toute	manière	il	est	prévu	que	courant	2021	tous	les	travaux,	sans	exception,	soient	
+regroupés	dans	un	ouvrage	à	l’attention	des	«	niveau	math	sup	et	math	spé	»	qui	sera	
+gratuitement	téléchargeable	et	qu’on	entreprendra	aussitôt	de	traduire	dans	toutes	les	
+logiciels	 de	 traduction	 automatique,	 devenus	 suffisamment	
+langues,	 grâce	 aux	
+performants	pour	traduire	des	textes	de	ce	genre,	qui	sont	loin	de	la	grande	littérature.		
+C’est	ça,	notre	arme	la	plus	puissante	:	pouvoir	porter	nos	travaux	à	la	compréhension	
+des	non-spécialistes	».	Parce	que	les	«	spécialistes	»	et	prétendus	experts,	auto-
+proclammés,	n’ont	rien	lu	et	ne	liront	rien,	comme	ça	a	été	le	cas	de	Jean-Pierre	Luminet,	
+confer	son	dernier	ouvrage	«	l’Ecume	de	l’Espace-Temps	»	(Odile	Jacob).	.	Pour	eux,	des	
+travaux	sur	«	l’univers	holographique	»	ou	«	la	thermodynamique	des	trous	noirs	»	sont	
+des	sujets	d’actualité.	Les	nôtres	sont	perçus	comme	«	exotiques	».		
+Une	galaxie	est	un	objet	assez	complexe,	composé	de	plusieurs	éléments	obéissant	à	des	
+dynamiques	différentes.	Il	y	a	essentiellement	la	population	des	étoiles	et	ce	qu’on	
+appelle	le	gaz	interstellaire.	En	physique	on	est	habitué	à	commencer	par	négliger	ce	qui	
+contribue	de	manière	minoritaire	aux	phénomènes.		
+Avec	ces	travaux	de	dynamique	galactique	nous	allons		
+Ainsi	commencera-t-on	par	négliger	l’importance	du	gaz	interstellaire	en	considérant	
+qu’une	galaxie	est	un	ensemble	de	points-masses	«	auto-gravitant	»,	c’est	à	dire	orbitant	
+dans	le	champ	gravitationnel	qu’il	crée	lui-même.		
+On	réduira	ensuite	la	population	stellaire	à	une	seule	population,	de	masse	m.		
+La	dynamique	de	cette	population	d’étoiles	est	par	ailleurs	fort	étrange.	On	considère	
+que	celle-ci	forme	un	système	non-collisionnel.	Mais	qu’entend-t-on	par	là	?				
+Le	terme	français	est	«	collision	»,	alors	que	les	anglo-saxons	emploient	le	terme	plus	
+adapté	«	encounter	»,	qui	veut	dire	«	rencontre	».	Notre	propre	galaxie	est	composée	par	
+un	ensemble	de	cent	à	deux	cent	milliards	d’étoiles.		Qu’entend-t-on	par	«	encounter	»,	
+«	rencontre	»	?	C’est	le	fait	que	quand	deux	étoiles	passent	à	une	distance	suffisamment	
+faible	pour	que	leurs	vitesses	soient	modifiées,	en	directions	et	en	modules.	On	raisonne	
+alors	en	terme	de	statistique	en	introduisant	une	grandeur	qu’on	appelle	«	le	temps	de	
+libre	parcours	moyen	»,	c’est	à	dire	le	temps	au	bout	duquel	une	étoile	aura	des	chances	
+
+	
+2	
+d’en	croiser	une	autre	et	que	cette	rencontre	altère	sa	vitesse.	Ce	temps	a	été	calculé	par	
+l’Indien	Chandrasekhar	en	1942	et	le	chiffre	obtenu	est	1010	ans,	c’est	à	dire	
+pratiquement	l’âge	de	l’univers	!	Il	est	donc	tout	à	fait	licite	de	considérer	que	les	
+«	rencontres	»	entre	étoiles	ne	se	produisent	…	jamais	et	qu’elles	forment	un	système	
+totalement	«	non-collisionnel	».		
+Ceci	a	une	forte	incidence	sur	le	thermodynamique	du	milieu,	au	sens	large.	En	effet	
+toute	notre	mécanique	des	fluides	est	fondée	sur	des	systèmes	collisionnels.	C’est	le	cas	
+de	l’air	que	nous	respirons.	Au	cours	de	ces	multiples	interactions	à	deux	corps	les	
+molécules	d’air	échangent	quantité	de	mouvement	et	énergie.		Ce	sont	ces	collisions	qui	
+tendent	à	instaurer,	pour	les	«	vitesses	d’agitation	thermiques	»	une	statistique	de	
+Maxwell-Boltzmann.		
+	on	ne	manipule	que	des	grandeurs	
+Dans	la	mécanique	des	fluides	classique	
+macroscopiques	:		
+-  La	densité	n	des	particules,	par	unité	de	volume.		
+-  La	masse	volumique	ρ	de	ces	mêmes	particules,	en	kilos	par	mètre	cube.		
+-  La	température	absolue	T.		
+-  La	pression	p			
+Le	«	terrain	de	jeu	»	est	un	espace-temps	(	x	,	y	,	z	,	t	)	avec,	bien	entendu,	un	«	espace	
+absolu	»	et	un	«	temps	absolu	».	On	n’est	plus	dans	le	monde	de	la	relativité,	restreinte	
+ou	générale.		
+Considérons	un	élément	du	fluide,	une	particule	de	masse	m.	Au	point	(	x	,	y	,	z	)	et	au	
+temps	t	sa	vitesse	est	   
+!v(x, y, z,t)	,	les	coordonnées	de	ce	vecteur	vitesse	étant,	en	lettres	
+minuscules		(	u	,	v	,	w	).			
+Considérons	maintenant	un	petit	volume	correspondant	au	parallèlogramme	ou	les	
+coordonnées	sont	entre		:		
+et	dont	le	volume	est	dx	dy	dz	.	Dans	ce	volume	ne	trouvent	n	dx	dy	d	z	particules,	ayant	
+chacune	leur	propre	vitesse,	de	composantes	(	u	,	v	,	w	)	.		
+La	 vitesse	 macroscopique	  < !v >est	définie	comme	étant	la	moyenne	de	ces	vitesses	
+individuelles	  
+!v.		
+Toujours	dans	ce	petit	parallélogramme,	en	isolant	une	des	particules	on	pourra	définir	
+sa	vitesse	d’agitation	thermique	avec	une	lettre	C	majuscule.			
+dont	les	composantes	seront	:		(	U	,	V	,	W	)	,	en	lettre	majuscules.		
+L’énergie	cinétique	individuelle	de	ces	particules,	associée	à	ce	phénomène	d’agitation	
+thermique		et	:		
+
+x	et	x	+	dx	
+y	et	y	+	dy		
+z	et	z	+	dz		
+
+C = !v - < !v >	
+
+!
+  
+
+1
+2
+
+1
+2
+
+1
+2
+ 
+
+3
+2
+ 
+
+kT =
+
+mC2 =
+
+3	
+
+	
+m( U 2 + V2 + W2 )	
+On	définit	la	température	absolue	par	:		
+m < C2 >	
+m	étant	la	masse	de	l’élément	du	gaz	et	T	la	température	absolue,	qui	est	alors	définie	
+comme		la	mesure	de	l’énergie	moyenne	d’agitation	thermique.		
+Les	collisions	entre	particules	font	s’instaurer	un	état	d’équilibre	thermodynamique	
+correspondant	à	la	statistique	de	Maxwell-Boltzmann.		
+Détaillons-la.		
+Considérons	un	observateur	qui	accompagne	le	fluide	dans	son	mouvement,	donc	qui	se	
+déplace	avec	la	vitesse	macroscopique	  < !v >.	Imaginons	qu’à	un	instant	t	et	en	un	point	
+(x,y,z)	il	puisse	opérer	des	mesures	de	vitesse	des	particules	qui	l’entourent,	dans	un	
+volume	élémentaire	dxdydz.	Il	aurait	donc	accès	à	chaque	instant	à	la	mesure	des	
+composantes	U(t),	V(t)	,	W(t)	de	la	vitesse	d’agitation	thermique	d’une		molécule.		
+Il	lui	serait	alors	possible	d’opérer	un	classement,	particule	par	particule,	pour	toutes	
+ces	composantes	de	la	vitesse.	Il	pourrait	alors	ranger	ces	particules	selon	trois	courbes.	
+Voici	la	courbe	correspondant	à	la	composante	U	de	la	vitesse	d’agitation		:		
+	
+
+	
+Si	le	nombre	des	particules	décomptées	est	suffisamment	important	ceci	fera	apparaître	
+une	courbe	enveloppe	sous	la	forme	d’une	gaussienne.	
+
+Fig.1	:	Points	figurant	les	vitesses	d’agitation	mesurées,	répartis	par	classes	
+
+	
+
+	
+
+4	
+
+	
+
+Fig.2	:	La	courbe	enveloppe,	gaussienne	
+
+Fig	3	:	de	Gauss	issue	du	Chapman	et	Cowling	
+
+	
+	Un	constat	:	les	courbes	obtenues	sont	les	mêmes	pour	les	directions	V	et	W,	ce	qui	
+signifie	que	les	collisions	distribuent	les	vitesses	d’agitation	thermique	de	manière	
+isotrope.		
+On	peut	alors	dégager	de	cette	statistique	une	fonction	 Φ(U)	de	densité	de	probabilité.	
+Prenons	une	composante	U	de	cette	vitesse	d’agitation.	Considérons	une	vitesse	U	et	un	
+intervalle	dU.	Le	nombre	des	particules	ayant	une	vitesse	dont	la	composante	U	se	situe	
+entre	U	et	U	+	dU	sera	:			 Φ(U)dU	
+En	poussant	les	choses	plus	loin	nous	définirons,	dans	une	espace	à	7	dimensions	:	
+
+(	x	,	y	,	z	,	U	,	V	,	W	,	t	)	
+
+	
+5	
+une	fonction	de	distribution	des	vitesses	f	(	x	,	y	,	z	,	U	,	V	,	W	,	t	)	telle	que,	à	un	instant	t,	dans	
+l’hypervolume	à	six	dimensions		
+
+(	x	,	x	+	dx	)		
+(	y	,	y	+	dy	)		
+(	z	,	z	+	dz	)		
+(	U	,	U	+	dU	)		
+(	V	,	V	+	dV	)		
+(	W	,	W	+	dW	)		
+le	nombre	dn	des	particules	qui	se	trouve	dans	cet	hypervolume	dx	dy	dz	dU	dV	dW	est	:		
+f	(	x	,	y	,	z	,	U	,	V	,	W	,	t	)	dx	dy	dz	dU	dV	dW	
+fluides	 est	 centrée	 sur	 cette	 situation	 d’équilibre	
+Toute	 notre	 physique	 des	
+thermodynamique	local.	Celui-ci	correspond	à	la	fonction	de	distribution	des	vitesses	
+d’agitation	thermique	locales	correspondant	à	:		
+f(x,y,z,U,V,W,t) = a(x,y,z,t) e− b(x,y,z,t)  ( U2+ V2+W2 )	
+a	et	b	étant	des	fonctions	de	x	,	y	,	z	t		
+On	remarque	que	cette	le	logarithme	de	cette	fonction	f		est	une	fonction	sphérique	des	
+coordonnées	U	,	V	,	W	de	la	vitesse	d’agitation	thermique.		
+ Log f = − b ( U 2 + V2 + W2) + Log a 	
+Comment	déterminer	les	fonctions	a	et	b	?		
+La	fonction	f	sera	normée	au	sens	où	si	on	effectue	une	sommation	«	pour	toutes	les	
+vitesses	d’agitation	possibles,	c’est	à	dire	selon	les	composantes	U	,	V	,	W	de	la	vitesse	
+d’agitation	on	devra	trouver	le	nombre	de	densité	n(x,y,z,t),	c’est	à	dire	le	nombre	de	
+particules	se	situant	dans	l’élément	de	volume	dx	dy	dz	à	l’instant	t	:		
+n(x,y,z,t)	
+Supposons	qu’on	définisse	une	fonction	F(U,V,W)	de	la	vitesse	d’agitation.	On	pourra	
+calculer	sa	valeur	moyenne	selon	:		
+par	raison	de	symétrie	:		
+
+a e− b(U2 +V2 +W2 ) dU dV dW =
+
+F ( U, V, W, ) f ( U, V, W, )dU dV dW
+
+< F> =
+ 
+
+W=+ ∞
+
+W =+ ∞
+
+∫
+ 
+
+U =+ ∞
+
+V=+ ∞
+
+U =+ ∞
+
+V=+ ∞
+
+1
+n
+
+W=-∞
+
+W =-∞
+
+U =-∞
+
+V=-∞
+
+U =-∞
+
+	
+
+	
+
+V=-∞
+
+∫
+
+∫
+
+∫
+
+∫
+
+∫
+
+ 
+
+= < V > = < W > = 0	
+
+< U > =
+ 
+
+1
+n
+
+∫
+
+U =+ ∞
+
+V=+ ∞
+
+W =+ ∞
+
+∫
+
+∫
+
+U =-∞
+
+V=-∞
+
+W =-∞
+
+U f ( U, V, W, )dU dV dW
+
+ 
+
+3/2
+
+e
+
+f o
+
+m
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+1
+2
+
+3
+2
+
+<
+ 
+
+− mC2
+
+2πk T
+
+mC2 > =
+
+( x,y,z,t,U,V,W ) = n
+
+2kT 	
+
+	
+6	
+Les	vitesses	d’agitation	thermiques	se	distribuent	autour	d’une	valeur	moyenne	nulle	
+(par	définition).	
+Mais	nous	pouvons	calculer	la	valeur	moyenne	de	l’énergie	cinétique	d’agitation	
+thermique,	qui	définit	la	température	absolue	T		selon	:		
+kT	
+Je	ne	fais	pas	le	calcul,	mais	ceci	permet	de	donner	la	forme	de	la	fonction	de	distribution	
+de	la	vitesse	«	Maxwelienne	»	:		
+Nous	avons	donc	une	variable,	la	vitesse	d’agitation	thermique		qui	se	distribue	selon	la	
+courbe	correspondant	à	cette	fonction.	Nous	pouvons	envisager	de	calculer	un	«	écart-
+type	»	(à	partir	de	l’écart	quadratique	moyen	).	
+  < C2 >	
+Qu’on	confondra	avec	la	valeur	moyenne	de	l’agitation	thermique,	qui	devrait	être	
+obtenue	à	partir	de	:	
+En	effet	
+! 1.5	proche	de	racine	de	2.	
+Nous	sommes	des	physiciens.	Nous	ferons	:		
+On	peut	écrire	:		
+On	peut	tracer	la	courbe	de	probabilité	construite	sur	la	valeur	de	la	vitesse	d’agitation	
+thermique	,	correspondant	à	:		
+
+o dUdVdW = 3kT
+m
+
+⎠⎟ + Ln n
+T3/2 −
+
+Log m
+2πk
+
+= Cst + Ln n
+
+( U2 + V2 + W2) f
+
+< C > !
+  
+
+< C2 > =
+ 
+
+< C > =
+ 
+
+U2 + V2 + W2
+
+8kB T
+πm
+
+dUdVdW =
+
+mC2
+2kT
+
+mC2
+2kT
+
+2kT
+m
+
+T3/2 −
+
+Lnf o =
+
+∫∫∫
+
+∫∫∫
+
+8
+π
+
+3
+2
+
+1
+n
+
+1
+n
+
+	
+
+	
+
+	
+
+	
+
+⎛
+⎝⎜
+
+⎞
+
+f
+
+  
+
+ 
+
+o
+
+  U 2 + V2 + W2 f o	
+
+	
+	On	obtient	une	courbe	comme	ceci	:		
+
+7	
+
+	
+
+	
+
+Fig.	4	:	Densité	de	probabilité	de	la	vitesse	quadratique,	tirée	du	Chapman	et	Cowling	
+
+Signification	:	On	a	un	maximum	de	points-masses	dont	la	vitesse	d’agitation	thermique	
+(	appelée	vitesse	résiduelle	par	les	astronomes	)	se	situe	autour	de	la	valeur	moyenne.	Et	
+il	y	a	deux	«	queues	de	distribution	».	A	gauche	les	étoiles	ayant	des	vitesses	très	faibles	
+et	à	droite	des	vitesses	très	élevées.		
+Les	collisions	(	alias	«	rencontres	»	)	tendent	à	établir		(rétablir)	cette	distribution	
+correspondant	à	l’équilibre	thermodynamique.	Si	on	a	affaire	à	une	distribution	d’étoiles	
+à	symétrie	sphérique,	centrée	sur	un	point	O	(	amas	globulaires	)	si	les	collisions	
+peuvent	être	considérées	comme	inexistantes	alors,	quand	les	étoiles	rapides,	dont	la	
+vitesse	excède	la	vitesse	de	libération	de	l’amas,		auront	quitté	celui-ci,	l’objet	n’évoluera	
+plus.	Mais	dans	les	amas	globulaires	la	densité	au	centre	est	telle	que	des	collisions	se	
+produisent,	qui	créent	ces	étoiles	rapides,	lesquelles	s’évaderont	alors	de	l’amas.	Ainsi	
+les	amas	globulaires,	qui	sont	les	premiers	objets	qui	se	sont	créés	en	même	temps	que	
+la	galaxie,		«	s’évaporent	»,,	perdent	des	étoiles	mais	à	un	rythme	si	lent	qu’ils	ont	
+perduré	jusqu’à	nos	jours.	On	y	reviendra	plus	loin.	
+	
+
+	
+
+8	
+
+	
+
+Fig.	5	:	Amas	globulaire	(amas	d’Hercule)	
+
+Image	d’une	«	galaxie	à	symétrie	sphérique	»	
+
+	Les	phénomènes	de	la	mécaflu	:	mouvement	macroscopique,	transfert	de	moment	
+cinétique	et	d’énergie	thermique	reposent	toujours	sur	une	situation	«	proche	de	l’état	
+d’équilibre	thermodynamique	»,	ce	qui	signifie	que	quel	que	soit	le	phénomène	
+considéré,	en	tout	point	et	pour	tout	temps	t	la	fonction	de	distribution	de	la	vitesse	sera	
+toujours	très	proche	de	cette	fonction	Maxwellienne.		
+Existe-t-il	dans	notre	physique	terrestre,	de	laboratoire,	des	situations	où	la	fonction	de	
+distribution	de	la	vitesse	s’écarte	notablement	de	cette	situation	Maxwellienne	?		
+La	réponse	est	non.	Parce	que	les	collisions	ramènent	le	fluide	en	permanence	dans	cet	
+état	avec	«	un	temps	caractéristique	de	retour	à	l’équilibre	thermodynamique	local	»	qui	
+est	de	l’ordre	du	temps	de	libre	parcours	moyen	des	molécules,	donc	extrêmement	bref	
+quand	le	milieu	n’est	pas	raréfié.		
+Si	le	milieu	n’est	pas	ionisé,	si	ses	éléments	ne	sont	pas	soumis	à	une	force	
+électromagnétique,	il	existe	un	phénomène	qui	représente	un	écart	brutal	vis	à	vis	de	
+l’état	d’équilibre	thermodynamique	local	c’est	celui	des	ondes	de	choc.	Considérons	un	
+tube	empli	d’un	gaz,	parcouru	par	une	onde	de	choc.	Lorsque	l’onde	parcourt	le	gaz	elle	
+est	l’équivalent	d’un	«	coup	de	marteau	»	qui	frapperait	les	molécules,	dans	la	direction	
+de	propagation	de	l’onde.		
+
+	
+9	
+Le	premier	phénomène,	mesurable,	est	un	saut	de	densité,	pratiquement	sans	épaisseur.	
+On	peut	mettre	en	évidence	cette	discontinuité	de	la	densité	par	une	méthode	
+interférométrique.	La	densité	subit	donc	un	saut	brutal	à	la	traversée	d’une	surface	
+qu’on	peut	considérer	comme	un	plan	sans	épaisseur.	Mais	que	se	passe-t-il	en	aval	?		
+Ce	«	coup	de	marteau	»	communique	aux	molécules	une	vitesse	à	la	fois	macroscopique	
+et	d’agitation	thermique.	Sur	une	distance	extrêmement	courte	(le	«	libre	parcours	
+moyen	»)	et	selon	un	temps	qui	est	de	l’ordre	du	«	libre	parcours	moyen	»	les	molécules	
+vont	s’entrechoquer	les	unes	avec	les	autres.	A	la	traversée	de	l’onde,	l’impulsion	de	
+vitesse	et	communiquée	dans	le	sens	de	propagation	de	l’onde.	Mais	au	fil	des	collisions	
+les	vitesses	vont	tendre	à	se	distribuer	dans	toutes	les	directions.	On	nommera	ce	
+phénomène	une	«	thermalisation	».	
+	Quand	cette	thermalisation	sera	achevée	le	gaz	«	choqué	»	aura		
+-  Un	vitesse	macroscopique,	que	lui	aura	communiqué	l’onde	«	coup	de	marteau	».		
+	
+
+	
+
+		
+		
+
+10	
+
+	
+
+Fig.	6	:	Propagation	de	l’onde	de	choc	dans	le	tube	à	choc	
+
+	
+
+11	
+	
+-  Une	nouvelle	vitesse	d’agitation	avec	une	distribution	isotrope,	associée	à	une	
+nouvelle	température	T.		
+	
+A	la	fin	des	années	soixante,	quand	je	menais	des	expériences	dans	un	«	tube	à	choc	»,	
+nous	mesurions	le	saut	de	densité	par	méthode	interférométrique	et	le	flux	de	chaleur	à	
+la	paroi.	Pour	ce	faire	cette	paroi	était	équipée	de	capteurs	de	flux	de	chaleur	sous	la	
+forme	d’un	film	métallique	très	fin.		En	collectant	de	la	chaleur	ce	film	s’échauffait	très	
+rapidement,	étant	donnée	son	épaisseur	infime.	On	pouvait	considérer	le	temps	de	
+réponse	à	pratiquement	zéro.	Cet	échauffement	modifiait	sa	résistivité	et	on	mesurait	
+alors	l’intensité	du	courant	qui	le	traversait.		
+	
+
+	
+
+	
+
+Fig.7	:	Mon	tube	à	choc	TC8	
+
+	Mais	cette	mesure	de	température	accusait	un	temps	de	retard	vis	à	vis	du	saut	de	
+densité	mesuré.	Il	se	produisait	avec	un	millionième	de	seconde	de	retard.	
+		Pourquoi	?		
+	Eh	bien	immédiatement	après	le	saut	de	densité	correspondant	au	«	coup	de	marteau	»	
+les	molécules	du	gaz	étaient	bien	agitées,	mais	selon	le	sens	de	propagation	de	l’onde.	De	
+ce	fait	elles	ne	communiquaient	pas	au	film	métallique		pariétal	de	chaleur	par	collisions.	
+Il	fallait	pour	cela	que	des	collisions	créent	des	composantes	de	la	vitesse	d’agitation	
+thermique	perpendiculaires	à	la	paroi.		
+	Nous	étions	donc	«	témoins	oculaires	»	de	cette	thermalisation	du	gaz	derrière	une	
+onde	de	choc.	La	très	courte	distance	le	long	de	laquelle	ce	phénomène	s’opérait	pouvait	
+être	assimilée	à		«	l’épaisseur	de	l’onde	de	choc	».	Dans	le	temps	(évidemment	à	l’aide	
+
+	
+12	
+l’équilibre	
+d’enregistreurs)	 nous	 étions	 également	 «	témoins	»	 du	 retour	 à	
+thermodynamique	du	fluide.		
+	Je	raconte	tout	cela	pour	que	chacun	ait	bien	conscience	de	la	tendance	des	fluides	
+adopter	un	état	d’équilibre	thermodynamique	local	avec	un	temps	caractéristique	qui	
+est	de	l’ordre	du	temps	de	libre	parcours.		
+Je	rappelle	aussi	qu’avant	d’être	un	théoricien	j’ai	été	un	expérimentateur.	Et	je	
+m’empresse	d’ajouter	que	sur	quoi	un	théoricien	doit	porter	toute	son	attention	ce	sont	
+les	données	expérimentales	et	d’observation.		Sans	cela	on	court	après	des	chimères.			
+	Je	reviens	sur	cette	question	:	existe-t-il	dans	nos	expérience	des	phénomènes	qui	
+s’écartent	de	cela	?	Il	faut	pour	ce	faire	que	le	milieu	soit	extrêmement	raréfié	et	que	
+quelque	chose	entraîne	le	milieu	vers	un	écart	vis	à	vis	de	l’équilibre	thermodynamique.	
+Exemple	:	le	plasma	très	raréfié,	totalement	ionisé,		emplissant	la	champ	d’un	Tokamak,	
+soumis	à	des	forces	électromagnétique.	Le	milieu	est	alors	totalement	hors	de	l’état	
+d’équilibre	thermodynamique	local.	D’où	l’impossibilité	de	le	décrire	par	simple	
+combinaison	des	équations	de	Navier	Stokes	et	de	Maxwell.	Je	n’insiste	pas.		
+	La	dynamique	des	galaxies	nous	fait	nous	confronter	à	un	milieu	totalement	nouveau,	
+où	les	«	collisions	»	(«	rencontres	»)	en	étoiles	sont	pratiquement	inexistantes.	On	ne	
+pourra	alors	plus	s’accrocher	à	ce	concept	de	tendance	vers	un	état	d’équilibre	
+thermodynamique	local.	Bien	que	ce	milieu	contienne	un	nombre	de	«	points-masses	»	
+suffisamment	grand	pour	qu’on	puisse	les	assimiler	aux	molécules	d’un	gaz	on	ne	pourra	
+recourir	aux	équations	de	Navier	Stokes.		
+	C’est	la	raison	pour	laquelle	la	modélisation	mathématique	d’une	galaxie	accuse	
+tellement	de	retard.	La	«	Bible	»	de	la	dynamique	galactique	est	un	ouvrage	de	882	pages,	
+paru	à	Oxford	University	Press	intitulé	«	Galactic	Dynamics	»,	de	James	Binney	et	Scott	
+Tremaine.	La	première	édition	est	de	1987.	Cette	couverture	correspond	à	celle	de	2008	.	
+	
+
+	
+
+13	
+
+	
+
+	
+
+	J’ai	jugé	utile	de	traduire	les	messages	ayant	salué	l’édition	de	cet	ouvrage	:		
+
+Fig.8	:	Couverture	du	livre	de	Binney	et	Tremaine	
+
+	
+
+14	
+
+	
+
+	
+
+	
+
+Fig.9	:	Quatrième	de	couverture	du	livre	
+
+Je	n’ai	jamais	lu	de	commentaires	aussi	dithyrambiques.	Si	vous	allez	à		la	page	web	de	
+James	Binney	:		
+https://www-thphys.physics.ox.ac.uk/people/JamesBinney/	
+Vous	y	trouverez	aussitôt	un	lien	Modelling	the	Galaxy.	Vous	n’y	apprendrez	pas	grande	
+chose,	si	ce	n’est	que	les	galaxies	sont	constituées	d’étoiles	et	de	gaz	et	que	leur	
+cohérence	est	assurée	par	un	halo	de	matière	sombre	de	nature	inconnue.		
+
+ou
+
+= 0
+
+ρe
+εo
+
+ρe
+εo
+
+ΔV +
+
+∂2V
+  
+
+= 0	
+
+∂y2 + ∂2V
+∂z2 +
+
+	
+15	
+Dans	le	corps	du	livre	vous	trouverez	force		développements	semi-empiriques.	Mais	un	
+modèle	de	galaxie	en	tant	que	solution	mathématique	exacte	d’une	équation	:	non.		
+Comment	se	fait-il	que	la	crème	des	mathématiciens	et	des	théoriciens,	y	compris	ceux	
+de	l’Institut	des	Etudes	avancées	de	Princeton,	où	Albert	Einstein	acheva	sa	carrière	
+n’ont	pas	été	fichus	de	pondre	cela	?		
+Les	galaxies	sont	assimilables	à	des	ensembles	de	points-masses	«	auto-gravitants	»,	
+constituant	des	systèmes	axisymétriques.	Les	forces	qui	unissent	ces	points	dérivent	de	
+la	loi	de	Newton,	une	loi	qui	dérive	d’un	potentiel	qui,	comme	le	potentiel	électrique	est	
+en	1/r.	C’est	un	«	potentiel	Newtonien	».	
+En	électrostatique	les	charges	électriques	créent	un	potentiel	électrique	V.	Celui-ci	obéit	
+à	l’équation	de	Poisson	qui	est	une	des	équation	formant	«	l’ensemble	des	équations	de	
+Maxwell	«	.	Elle	s’écrit	:	
+en	introduisant	«	l’opérateur	Laplacien	».	 ρe	est	la	densité	de	charge	électrique	par	unité	
+∂x2 + ∂2V
+de	volume,	en	Coulombs	par	mètre	cube.		
+En	gravitation	on	aura	une	équation	en	tous	points	analogue,	mais	avec	un	changement	
+de	signe	:		
+où	 Ψ	est	le	potentiel	gravitationnel.	ρ	est	la	masse	volumique	en	kilos	par	mètre	cube	
+∂y2 + ∂2Ψ
+et	G	la	constante	de	la	gravitation.		
+Pourquoi	le	changement	de	signe	?	Parce	que,	si	deux	charges	électriques	de	même	signe	
+se	repoussent,	effet	inverse	pour	les	masses,	qui	s’attirent	selon	la	loi	de	Newton.		
+En	coordonnées	sphériques	cette	équation	s’écrit	:	
+Nous	nous	en	servirons.		
+En	coordonnées	sphériques	:		
+= 0		
+Sur	l’équateur		
+
+ΔΨ = 4πG ρ	
+
+= 4πG ρ	
+
+= 4πG ρ	
+
+∂z2 = 4πG nm
+
+∂x2 + ∂2Ψ
+
+∂2Ψ
+∂r2 +
+ 
+
+cosθ
+r2 sin2 θ
+
+∂2Ψ
+∂θ2 +
+
+∂2Ψ
+∂ϕ2 +
+
+d2Ψ
+dr2 +
+
+∂2Ψ
+  
+
+r2 sin2 θ
+
+r2 sin2 θ
+
+dΨ
+dr
+
+∂Ψ
+∂r
+
+∂Ψ
+∂θ
+
+2
+r
+
+2
+r
+
+ou
+
++
+
+1
+
+1
+
+ 
+
+θ = π
+2
+ 
+
+∂
+∂θ
+
+	
+
+16	
+
+= 4πG ρ	
+
+ 
+
+ 
+
+⎞
+
+⎞
+
+1
+
+1
+
++
+
++
+
++
+
+⎛
+⎝⎜
+
+2
+r
+
+2
+r
+
+1
+u
+
+1
+u
+
+1
+r2
+
+∂ϕ2
+
+1
+u2
+
+∂2Ψ
+
+∂2Ψ
+
+∂Ψ
+∂u
+
+∂Ψ
+∂u
+
+∂Ψ
+∂r
+
+∂Ψ
+∂θ
+
+∂Ψ
+∂r
+
+u =
+  
+
+x2 + y2
+
+r2 sin2 θ
+
+r2 sin2 θ
+
++ ∂2Ψ
+
+∂2Ψ
+∂u2 +
+
+∂2Ψ
+∂u2 +
+
+∂2Ψ
+∂θ2 +
+
+cosθ
+r2 sin2 θ
+
+∂2Ψ
+∂r2 +
+ 
+
+∂2Ψ
+∂r2 +
+ 
+
+∂ϕ2 + ∂2Ψ
+
+ϕ = arctg y
+⎛
+⎝⎜
+x
+
+∂2Ψ
+∂ϕ2 +
+∂θ2 + ∂2Ψ
+
+Equation	de	Poisson	en	coordonées	cylindriques	(	avec	comme	variables	la	distance	à	
+l’axe	l’angle	ϕ		et	la	cote	z	).	Avec		
+
+⎠⎟ = 4πG ρ	
+⎠⎟	
+∂z2 = 4πG ρ 	
+En	axisymétrique	la	fonction	ne	dépend	plus	de	ϕ:		
+∂z2 = 4πG ρ 	
+Bien,	voilà	des	équations.	Mais	quid	des	autres	?		
+	L’étrange	mécanique	qui	régit	la	dynamique	des	galaxies.		
+Si	quelqu’un	pouvait	s’asseoir	sur	une	molécule	d’un	gaz	bien	terrestre		et	effectuer	des	
+mesures	de	vitesses	des	molécules	environnantes	il	obtiendrait	ce	qui	a	été	dit	plus	
+haut	:	une	distribution	assimilable	à	celle	construite	par	messieurs	Maxwell	et	
+Boltzmann.		
+Revenons	à	la	courbe	de	la	figure	2.		Qui	de	l’environnement	du	Soleil	?		
+L’effet	Doppler	nous	donne	immédiatement	accès	à	la	composante	radiale	des	vitesses	
+des	étoiles	environnantes.	L’astronome	peut	ainsi	se	donner	un	cône	avec	un	petit	angle	
+solide	et	recenser	les	vitesses	radiales	des	étoiles	contenues	dans	ce	volume.	En	portant	
+ces	vitesses	(par	rapport	à	l’observateur)	l’astronome	obtiendra	la	courbe	gaussienne	
+associée	à	cette	distribution	des	vitesses,	à	partir	de	laquelle	il	pourra	calculer	la	
+moyenne	du	module	de	cette	vitesse	d’agitation	qui	est	alors	fonction	de	l’angle	ϕ		
+(azimut)	et	de	l’angle		φ	(	qui	représente	l’ange	de	site	)	:		
+  < C >(ϕ,φ)	
+Dans	un	système	à	symétrie	sphérique	cette	valeur	est	indépendante	des	angles.	On	
+obtient	un	«		sphéroïde	des	vitesses	résiduelles	»	.		
+On	ne	peut	effectuer	une	telle	mesure	qu’au	voisinage	du	Soleil.	Alors,	qu’obtient-on	?		
+	
+
+	
+Voici	la	meilleure	carte	que	nous	ayons	de	notre	galaxie,	la	Voie	Lactée	:	
+
+La	déviation	du	vertex.		
+
+17	
+
+	
+	Le	spot	jaune	situe	le	Soleil,	à	proximité	d’un	de	ses	bras,	le	«	bras	d’Orion	».	C’est	donc	
+par	rapport	à	ce	point	d’observation	qu’on	a	effectué	des	mesures	concernant	
+l’ellipsoïde	des	vitesses.	Le	voici	:		
+
+Fig.10	:	La	voie	Lactée		
+
+	
+
+18	
+
+Dans	cette	figure	le	centre	de	la	galaxie	est	vers	le	bas.	Pour	le	situer	par	rapport	à	celle-
+ci	il	nous	faut	modifier	la	figure,	comme	ceci	:		
+
+Fig.	11	:	Le	«	vertex	»	
+
+	Cela	nous	permet	de	le	situer	par	rapport	à	la	galaxie	:	
+
+Fig.12	:	Ellipsoïde	des	vitesses	résiduelles	
+
+	
+
+	
+
+	
+
+19	
+
+	
+Si	on	se	reporte	à	l’ouvrage	de	Binney	et	Tremaine	on	peut	consulter	les	mots	qui	
+correspondent	aux	thèmes	abordés.	Si	on	cherche	le	mot	«		Vertex	»	on	trouve	ceci	:		
+
+Fig.13	:Ellipsoïde	des	vitesses,étoiles	jeunes	:	pratiquement	perpendiculaire	au	bras	voisin	
+
+	
+
+	
+
+20	
+
+	
+
+Fig.14	:	Mots-clés	dans	le	livre	de	Binney	et	Tremaine		
+
+	Le	mot	vertex	n’est	pas	cité.		On	trouve	des	données	sur	le	VO,	le	velocity	ellipsoid,		page	
+686	:	
+
+	
+
+	
+
+21	
+
+	
+
+Fig15	:	Axes		de	l’ellipsoïdes	des	vitesses	en	fonction	de	l’âge	des	étoiles	
+
+	On	y	trouve	les	dispersions	des	vitesses	 σR σϕ σz		
+ σR	Vitesses	pointant	vers	le	centre	galactique	
+- 
+	
+-  σϕVitesses	perpendiculaires	au	plan	de	symétrie	
+	
+- 
+ σzVitesses	selon	une	direction	azimutale.		
+Ces	dispersions	ne	sont	pas	égales.	On	est	très	loin	d’un	«	sphéroïde	des	vitesses	»	(celui	
+de	la	distribution	maxwellienne	des	vitesses	résiduelles	dans	un	milieu	qui	serait	
+dominé	par	les	«	collisions	»	entre	points-masses.	Il	y	a	trois	grandeurs	caractéristiques	
+correspondant	aux	écarts	types	correspondant,	qui	sont	les	trois	axes	principaux	de	
+l’ellipsoïde.	On	a	d’abord	deux	axes	transverses		σϕ	et	 σz	qui	ont	pratiquement	la	même	
+valeur,	et	une	dispersion	«	quasi-radiale	»	 σRdont	l’ordre	de	grandeur	est	pratiquement	
+du	double.	Pourquoi	parle-t-on	d’ordre	de	grandeur	?	Parce	que	le	tracé	de	cet	ellipsoïde	
+des	vitesses	n’est	pas	le	même	selon	l’âge	des	étoiles.	On	peut	considérer	le	milieu	
+stellaire	comme	un	mélange	de	«	gaz	»	différents	:		
+
+	
+22	
+-  Les	étoiles	jeunes	
+	
+-  Les	vieilles	étoiles	
+Puisque	la	dispersion	des	vitesses	«	résiduelles	»	est	l’équivalent	d’une	«	vitesse	
+d’agitation	thermique	on	peut	dire	que	le	«	gaz	d’étoiles	anciennes	»	est	plus	«	chaud	»	
+que	le	gaz	d’étoiles	jeunes.	Comme	la	«	température	»	du	milieu	varie	comme	la	valeur	
+moyenne	de	la	vitesse	d’agitation	(vitesse	résiduelle)	et	qu’il	existe	un	facteur	2,5		à	3	
+entre	celle	des	plus	vieilles	étoiles	mesurées	et	celle	des	plus	jeunes	étoiles	(mesurées)	
+on	en	déduit	à	un	«	échauffement	»	d’un	facteur	36	du	gaz	des	jeunes	étoiles.	Dans	le	
+temps	on	s’arrête	à	600	millions	d’années	d’âge,	ce	qui	correspond	aux	300	étoiles	de	
+l’amas	Hyades,	proche	du	Soleil.	Le	Soleil,	c’est	le	point	d’observation.	Sirius	n’a	que	250	
+millions	d’années.		
+Il	est	dommage	que	les	astronomes	n’aient	pas	fait	figurer	de	données	concernant	les	
+étoiles	plus	jeunes.	Mais	celles-ci	son	alors	plus	proches	du	«	bras	»	dans	lequel	elles	se	
+sont	formées.		La	loi	d’évolution	de	cette	vitesse	d’agitation	thermique	des	étoiles	n’est	
+pas	linéaire	en	fonction	de	l’âge.	Les	données	se	rapportent	à	un	âge	compris	entre	1	et	
+10	milliards	d’années	(	le	Soleil	;	4	milliards	d’années	).	Mais	on	peut	tenter	une	
+extrapolation	:		
+
+Fig.16	:	Extrapolation	de	cette	courbe		
+
+	
+
+	
+
+	
+23	
+Les	données	auraient	des	chances	de	se	trouver	dans	la	partie	rosée.	Qualitativement,	
+plus	on	remonterait	dans	le	passé	des	étoiles	et	plus	leurs	vitesse	résiduelle	diminuerait.	
+Jusqu’à	quelle	limite	?		
+Jusqu’à	une	vitesse	correspondant	au	niveau	de	turbulence	du	gaz	interstellaire	au	sein	
+duquel	elles	se	sont	formées,	niveau	qui	correspond	à	une	«	vitesse	d’agitation	des	
+éléments	du	gaz	interstellaire	»	qui	est	de	l’ordre	de	quelques	kilomètres	par	seconde.	
+Ainsi	ce	«	gaz	d’étoiles	primitif	»	serait	«	encore	plus	froid	»	au	moment	de	sa	création.	Il	
+y	aurait	donc	transfert	d’énergie	depuis	une	autre	source	que	le	milieu	stellaire,	puisque	
+celui-ci	est	«	non	collisionnel	».	
+Ce	transfert	d’énergie	correspond	aux	interactions	entre	les	jeunes	étoiles	et	les	
+grumeaux	constituant	le	gaz	interstellaire.		
+Qui	dit	vitesse	d’agitation	thermique	dit	pression.	La	«	pression	»	au	sein	de	ce	«	gaz	
+d’étoiles	jeunes	»	s’accroît	et	le	chiffre	important	est	la	dispersion	des	vitesses	
+perpendiculaires	au	plan	de	symétrie	de	la	galaxie.		Immédiatement	après	leur	
+formation,	si	on	considérait	une	sous-population	représentée	par	les	étoiles	qui	
+viennent	juste	de	se	former,	leur	vitesse	résiduelle	se	chiffre	en	quelques	kilomètres	par	
+seconde,	synonyme	d’une	«	pression	»	très	faible.	On	peut	alors	assimiler	cette	
+population	aux	..	anneaux	de	Saturne	(qui	forment	alors	un	ensemble	à	«	pression	»	
+nulle).	Au	fur	et	à	mesure	que	les	interactions	avec	les	grumeaux	de	gaz	vont	«	chauffer	»	
+ce	gaz	d’étoiles	celles-ci	quitteront	le	plan	diamétral	de	la	galaxie,	où	elles	se	sont	
+formées.	Progressivement	elles	iront	peupler	l’ellipsoïde	aplati	occupé	par	les	vieilles	
+étoiles.		
+Je	fais	cette	digression	pour	montrer	que	la	dynamique	des	galaxies	est	quelque	chose	
+d’assez	complexe.		
+La	«	déviation	du	vertex	»	,	ne	semble	pas	évoquée	dans	le	Binney	et	Tremaine.	J’avoue	
+que	je	n’ai	pas	eu	le	courage	de	rechercher	cette	donnée	dans	les	huit	cent	et	quelques	
+pages	de	l’ouvrage.	Pourtant	c’est	une	donnée-clé	du	problème.	Déviation	par	rapport	à	
+quoi	?	à	quelle	direction	qui	serait	considérée	comme	«	standard	»	?		C’est	par	rapport	à	
+la	distance	radiale.	Ceci	étant	on	ne	sait	pas	construire	ces	distributions	en	d’autres		
+lieux	que	le	voisinage	du	Soleil.		
+Mais	cela	nous	indique	que	la	fonction	de	distribution	est	très	éloignée	de	l’état	
+d’équilibre	local.	Donc,	impossible	de	recourir	aux	équations	classiques	de	la	mécanique	
+des	fluides,	aux	équations	de	Navier-Stokes.	Il	faut	alors	se	battre	sur	l’équation	de	
+Vlasov,	alias	l’équation	de	Boltzmann	sans	collision	(avec	second	membre	nul).	Dans	
+cette	équation	:	la	fonction	de	distribution	de	la	vitesse,	en	tant	qu’inconnue.	Voir	le	livre	
+de	Binney	et	Tremaine	page	275.	Nous	ne	détaillerons	pas	l’établissement	de	cette	
+équation	de	Vlasov.	Elle	se	présente,	dans	le	référentiel		
+(	x	,	y	,	z	,	u	,	v	,	w	,	t	)	
+!v	=	(	u	,	v	,	w	)	le	vecteur	vitesse	par	rapport	à	
+où	  !r	=	(	x	,	y	,	z	)	est	le	vecteur	position	et	  
+un	point	fixe	de	l’espace.		
+	Dans	ce	qui	suivra	nous	utiliserons	les	notation	suivantes.		
+
+24	
+
+f	,	t	,	u	,	v	,	w	,	C	,		,	U	,	V	,	W	,	k	
+
+	
+Quand	il	s’agit	d’une	lettre	maigre	c’est	un	scalaire	:		
+Quand	c’est	une	lettre	grasse	c’est	un	vecteur	:		
+Le	potentiel	gravitationnel	sera	désigné	par	la	lettre	Grecque	majuscule	 Ψ	.	Le	potentiel	
+créé	par	une	masse	m	sera	:	
+Le	champ	gravitationnel	est	égal	à	‘opposé	duu	gradient	de	ce	potentiel.		
+Considérons	une	dérivée	partielle.	S’il	n’y	a	pas	de	lettre	grasse	c’est	un	scalaire.	
+Exemple	:		
+Mais	si	une	lettre	grasse	est	présente	au	dénominateur	c’est	un	gradient	:		
+
+Ψ = −
+ 
+
+r	,	v	,	C	
+
+∂f
+∂t
+ 
+
+G m
+
+	
+
+	
+
+r
+
+  
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+∂f
+∂r =
+
+∂f
+∂v =
+
+∂f
+∂C =
+
+∂f
+∂x
+∂f
+∂y
+∂f
+∂z
+
+∂f
+∂u
+∂f
+∂v
+∂f
+∂w
+
+∂f
+∂U
+∂f
+∂V
+∂f
+∂W
+
+= ∂f
+∂u
+= ∂f
+∂v
+= ∂f
+∂w
+
+	
+Le	champ	gravitationnel	 g		est	égal	à	l’opposé	du	gradient	du	potentiel	gravitationnel	:		
+Quand	deux	vecteur	(	lettres	grasses	a	et	b	)	seront	séparés	par	un	point	il	s’agira	d’un	
+produit	scalaire	:		
+	S	i	un	vecteur	gradient	est	séparé	d’un	vecteur	par	un	point	il	s’agira	d’une	divergence	:		
+
+a	.	b	=	ax	bx	+	ay	by	+	az	bz	
+
+g = - ∂Ψ
+∂r
+  
+
+	
+
+	
+
+. a = ∂a x
+∂x +
+
+∂a y
+∂y +
+
+∂a z
+∂z
+
+∂
+∂r
+   
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎝
+
+ab =
+
+a xbx
+a ybx
+a zbx
+
+a xb y
+a yb y
+a zb y
+
+	
+25	
+Si	on	trouve	deux	vecteurs	juxtaposés,	sans	être	séparés	par	un	point	il	s’agira	d’un	
+dyadique1.	Nous	allons	faire	largement	usage	de	l’algèbre	des	dyadiques.		
+http://www.jp-petit.org/books/Chapman-et-Cowling.pdf	
+On	aura	:		
+
+Pour	télécharger	l’ouvrage	de	référence	:	
+
+	
+On	aura	à	gérer	des	dyadiques	particuliers.	L’un	est	formé	à	partir	des	composantes		
+(	U	,	V	,	W	)	du	vecteur	vitesse	résiduelle	C.	C’est	le	dyadiques	:		
+	
+
+Il	y	aura	également	le	dyadique	:		
+	Le	gradient	d’un	vecteur	sera	un	dyadique.	Prenons	par	exemple	le	vecteur	vitesse	
+macroscopique	<	v	>.	Son	gradient	sera	le	vecteur	:		
+
+U2
+UV UW
+UV V2 VW
+UW VW W2
+
+xy xz
+yz
+y2
+yz
+z2
+
+a xbz
+a ybz
+a zbz
+
+x2
+xy
+xz
+
+CC =
+
+rr =
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎠
+
+⎞
+⎟
+⎟
+⎟⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜⎜
+⎝
+
+	
+
+   
+
+  
+
+  
+
+∂< u >
+
+∂< v >
+
+∂< w >
+
+∂< u >
+
+∂< v >
+
+∂< w >
+
+∂x
+
+∂y
+
+∂x
+
+∂y
+
+∂x
+
+∂y
+
+∂< v >
+
+∂r
+
+=
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+	
+
+   
+
+∂z
+
+∂z
+
+∂z
+
+∂< u >
+
+∂< v >
+
+∂< w >
+
+	Produit	d’un	dyadique	par	un	vecteur		
+Il	sera	figuré	par	un	point	:		
+																																																								
+1	Alias	la	représentation	matricielle	du	produit	tensoriel	de	deux	vecteurs	 a ⊗ b		
+
+3
+
+3
+
+ 
+
+  
+
+j = 1
+
+i = 1
+
+∑
+
+∑
+
+		
+
+M : N =
+
+M i j N j i
+
+26	
+
+	
+ab	.	c	
+	Produit	scalaire	de	dyadiques	(ou	de	matrices)	
+Soient	deux	matrices	
+M i j et N i j		
+Ce	produit	sera	:																																
+	
+Théorèmes	donnés	sans	démonstration	:		
+donc	:		
+	
+	
+Ces	théorèmes	vont	nous	permettre	de	traiter	matriciellement	certaines	expressions.	
+Prenons	par	exemple	:		
+Cette	notation	matricielle	et	l’usage	de	théorèmes	permettent	de	représenter	des	
+expressions	complexes	de	manière	beaucoup	plus	compacte.	Ainsi	l’expression	ci-dessus,	
+développée,	deviendrait	:		
+
+  bc .a ≡ ca .b 	
+  ( ab . c ) .d ≡ ab :cd 	
+
+  ( a . b ) ( c . d ) ≡ ac :bd ≡ ad :bc
+
+( a .b ) c ≡ c ( a .b ) ≡ ca .b
+  
+
+∂C ≡ C ∂f
+∂C
+
+( ∂< v >
+∂r
+  
+
+( a .b ) c ≡ bc .a
+
+: ∂< v >
+∂r
+
+. C ) . ∂f
+
+	
+
+	
+
+	
+
+u ∂f
+∂u
+
+∂< u >
+
+∂x
+
++ u ∂f
+∂v
+
+∂< u >
+
+∂y
+
++ u ∂f
+∂w
+
+∂< u >
+
+∂x
+
++ v ∂f
+∂u
+
+∂< v >
+
+∂x
+
++ v ∂f
+∂v
+
+∂< v >
+
+∂y
+
++ v ∂f
+∂w
+
+∂< v >
+
+∂z
+
+		
+
++ w ∂f
+∂u
+ 
+
+∂< w >
+
+∂x
+
++ w ∂f
+∂v
+
+∂< w >
+
+∂y
+
++ w ∂f
+∂w
+
+∂< w >
+
+∂z
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+collisions
+
+F
+m
+
+∂f
+∂t
+
+∂f
+∂t
+   
+
+∂r +
+
++ v . ∂f
+
+. ∂f
+∂v =
+
+L’équation	de	Vlasov	
+
+	
+27	
+Grâce	à	ces	notations	matricielles	compactes	on	peut	plus	aisément	voir	«	ce	qu’on	
+manipule	».		
+	
+Quand	la	fonction	de	distribution	des	vitesses	s’écarte	notablement	de	la	symétrie	
+sphérique,	ce	qui	n’est	possible	que	dans	un	milieu	où	les	collisions	peuvent	être	
+négligées,	la	fonction	de	distribution	f	est	alors	solution	d’une	équation	proposée	par	le	
+mathématicien	russe	A.A.	Vlasov.	Cette	équation	s’obtient	en	annulant	le	second	membre	
+de	l’équation	de	Boltzmann	:		
+	
+F	représente	la	force	agissant	sur	les	particules.	Le	second	membre	représente	la	façon	
+dont	les	collisions	modifient	la	fonction	de	distribution	des	vitesses.	C’est	une	intégrale.	
+L’équation	de	Boltzmann	est	donc	une	équation	intégro-différentielle.	Celle-ci	a	été	
+proposée	en	1872.	Quelle	date	attribuer	à	l’équation	de	Vlasov	?		
+∂v = 0	
+Une	recherche	m’a	fait	atterrir	sur	un	site	en	russe.	C’est	une	équation	«	récente	»	au	
+sens	où	cette	problématique	a	été	proposée	par	le	Russe	A.A.Vlasov	en	1938,	article	suivi	
+d’une	autre	publication	en	1945.	Vlasov	est	intéressé	par	la	physique	des	plasmas.	On	
+sait	qu’on	crée	facilement	ces	plasmas	dans	des	gaz	sous	pression	basse	(les	«	tubes	à	
+vide	»	des	«	lampes	radio	»	de	l’époque).	Le	milieu	est	alors	un	mélange	ternaire	de	trois	
+«	espèces	».	Si	on	parle	de	gaz	rares,	monoatomiques		:		
+-  Les	atomes	neutres	
+	
+-  Les	électrons	libres	
+	
+-  Les	ions.		
+	
+En	pression	suffisamment	basse	et	avec	un	chauffage	modéré	du	«	gaz	d’électrons	»	par	
+un	champ	électrique	on	peut	même	négliger	l’existence	d’atomes	neutres.	Le	milieu	peut	
+être	considéré	comme	«	totalement	ionisé	».		
+	Les	physiciens	de	l’époque	ont	donc	tenté	de	comprendre	les	phénomènes	à	l’œuvre	
+dans	ce	milieu	raréfié.	L’outil	était	la	théorie	cinétique	des	gaz,	appliquée	aux	plasmas.	
+Le	titre	de	l’article	de	Vlasov2	,	publié	dans	le	journal	russe	de	physique	théorique	est	:		
+	
+-  Au	sujet	de	propriétés	vibratoires	du	gaz	d’électrons.	
+	
+																																																								
+2	А. А. Власов. О вибрационных свойствах электронного газа // Журнал экспериментальной и 
+теоретической физики. — 1938. — Т. 8 (3). — С. 291.	
+
++ v . ∂f
+
+∂r +
+
+∂f
+∂t
+  
+
+. ∂f
+
+F
+m
+
+Principles	of	stellar	dynamics	
+
+The	Mathematical	Theory	of	Non	Uniform	Gases	
+
+	
+28	
+Il	est	suivi	en	1945	d’un	autre	article3	intitulé	:		
+	
+-  La	théorie	des	propriétés	vibratoires	du	gaz	électronique	et	ses	applications	
+	
+Le	rapport	avec	l’astrophysique	théorique	a	été	proposé	par	S.	Chandrasekhar	en	1942	
+dans	son	ouvrage,	paru	aux	éditions	Dover	:			
+	
+	Le	lecteur	retrouvera	dans	ce	qui	va	suivre	une	démarche	similaire	à	celle	de	l’Indien,	à	
+la	différence	que	les	calculs	mettent	en	jeu	l’algèbre	dyadique,	ce	qui	les	allège	
+énormément.		
+	Ce	sont	S.Chapman	et	T.G.Cowling	qui	ont	utilisé	les	ressources	de	l’algèbre	dyadique	
+dans	leur	approche	de	la	théorie	cinétique	des	gaz.	J’ai	déjà	cité	leur	ouvrage,	paru	en	
+1939	(Cabridge	University	Press),	intitulé		
+	
+	Telle	qu’elle	est	écrite	plus	haut,	l’équation	de	Vlasov	se	réfère	aux	coordonnées	
+	
+(	t	,		x	,	y	,	z,	u	,	v	,	v		)	
+	
+Dans	ce	qui	suivra	nous	utiliserons	sa	forme	lorsqu’on	fait	intervenir	la	vitesse	
+macrocopique		<	v	>et	la	vitesse	d’agitation	thermique	(	résiduelle	)	C.	Je	ne	reproduirai	
+pas	le	calcul	qui	permet	d’arriver	à	ce	résultat.	Les	lecteurs	intéressés	le	trouveront	au	
+chapitre	3	de	l’ouvrage4	,	pages	48	,	équation	(3.12.2).		
+Pour	alléger	l’écriture	nous	écrirons	:		
+  < v > = co	
+On	introduit	alors	l’opérateur	:		
+L’équation	s’écrit	alors	:		
+⎠⎟ = 0	
+Le	dernier	terme	fait	intervenir	deux	matrices	dyades	:		
+⎠⎟ . ∂f
+∂C − ∂f
+⎛
+																																																								
+⎝⎜
+∂C
+3	А. А. Власов. Теория вибрационных свойств электронного газа и её приложения // Уч. зап. 
+МГУ. — 1945. — Вып. 75. Кн. 2. Ч. 1.	
+	4	Téléchargeable	à	partir	de	mon	site	à	l’adresse	:	
+http://www.jp-petit.org/books/Chapman-et-Cowling.pdf	
+
+∂r + co . ∂f
+∂r +
+
+⎠⎟ : ∂co
+⎛
+⎝⎜
+
++ co. ∂
+∂r
+
++ C . ∂f
+
+= ∂
+∂t
+
+Dco
+Dt
+
+D
+Dt
+   
+
+∂f
+∂t
+  
+
+F
+m
+
+∂r
+
+	
+
+⎛
+⎝⎜
+
+C
+
+−
+
+⎞
+
+⎞
+
+⎞
+
+  
+
+⎞
+
+⎞
+
+⎞
+
+C
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+∂r
+
+Dco
+Dt
+
+∂f
+∂C
+  
+
+∂co
+∂r
+  
+
+∂Ψ
+∂r +
+
+∂ Lnf
+∂t
+
+29	
+
+⎠⎟ : ∂co
+⎛
+⎝⎜
+
++ C . ∂ Lnf
+
+g = - ∂Ψ
+∂r
+  
+
+∂C − ∂ Lnf
+∂C
+
+C			et				
+
+⎠⎟ = 0 	
+
+∂r + co . ∂ Lnf
+∂r −
+
+	
+	
+et	représente	le	produit	scalaire	de	ces	deux	matrices.		
+La	force	est	la	force	gravitationnelle	mg	dérivant	du	potentiel	Newtonien	 Ψ		:		
+	
+On	peut	diviser	cette	équation	par	f	et	elle	devient	:		
+	C’est	sous	cette	forme	que	nous	l’utiliserons	pour	effectuer	une	recherche	de	solution,	
+⎠⎟ . ∂ Lnf
+en	l’associant	à	l’équation	de	Poisson.	
+	
+Ce	qui	est	remarquable	c’est	que	ces	équations	«	contiennent	»,	implicitement,	des	
+équations	macroscopiques.		
+Faisons	une	rapide	digression	avec	l’équation	de	Boltzmann.		
+Dans	le	second	membre	se	trouve	un	tere	qui	se	présente	sous	la	forme	d’une	intégrale	
+⎠⎟ : ∂co
+⎛
+⎠⎟ . ∂f
+∂C − ∂f
+⎛
+pris	dans	l’espace	des	vitesses,	de	la	forme	:	
+⎝⎜
+⎝⎜
+∂C
+	
+Ceux	qui	en	seront	curieux	pourront	aller	voir	dans	le	Chapman	et	Cowling	la	forme	de	
+ce	terme.	C’est	page	63,	équation	(3.52,9).		
+Cet	«	opérateur	intégral	»	a	une	propriété.	Il	existe	des	fonctions	de	la	vitesse	C	qui	sont	:		
+telles	que	:		
+
+Lien	entre	l’équation	de	Boltzmann	et	les	équations	de	Navier-Stockes	
+
+∂r + co . ∂f
+∂r +
+
+(quelque chose) du dv dw 
+
+⎠⎟ = ∂f
+⎛
+⎝⎜
+
++ C . ∂f
+
+Dco
+Dt
+
+∂f
+∂t
+  
+
+∂f
+∂t
+
+∫∫∫
+
+F
+m
+
+⎛
+⎝⎜
+  
+
+∂r
+
+	
+
+∂t
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+⎞
+⎠⎟
+
+C
+
+=
+
+−
+
+⎞
+
+⎞
+
+⎞
+
+e
+
+e
+
+  F1 = 1 ; F2 = C ; F3 = C2	
+= 0	
+= 0	
+
+F1(quelque chose) du dv dw 
+
+F2(quelque chose) du dv dw 
+
+∫∫∫
+  
+∫∫∫
+   
+
+	
+30	
+Compte	tenu	de	nos	notations	on	voit	que	la	seconde	équation	est	vectorielle	et	est	en	
+fait	:		
+
+F3(quelque chose) du dv dw 
+
+= 0	
+
+∫∫∫
+  
+
+∫∫∫
+
+∫∫∫
+
+U(quelque chose) du dv dw 
+
+= 0
+
+V(quelque chose) du dv dw 
+
+= 0
+
+	
+
+1
+2
+
+= 0
+
+1
+2
+ 
+
+∫∫∫
+  
+
+m F3 =
+
+W(quelque chose) du dv dw 
+
+	Signification	physique	de	ces	fonctions	:	il	suffit	de	rajouter	un	coefficient	devant	:		
+ m F1=	m		c’est	la	masse	
+  mF2 = mCc’est	l’impulsion	(	quantité	de	mouvement	)		
+mC2			c’est	l’énergie		
+Les	relations	intégrales	signifient	simplement	que	les	collisions	conservent,	globalement,		
+la	masse	,	l’impulsion	et	l’énergie.			
+On	pourra	donc	appliquer	cela	au	premier	membre	et	écrire	:		
+⎥du dv dw = 0	
+Cette	équation	nous	donne	la	première	équation	de	Navier-Stockes,	qui	traduit	la	
+⎠⎟ : ∂co
+⎛
+∂C − ∂f
+⎠⎟ . ∂f
+∂r + co . ∂f
+⎛
+∂r +
+conservation	de	la	masse	:		
+⎝⎜
+⎝⎜
+∂C
+.co = 0	
+De	manière	plus	familière,	en	posant	 ρ= nm		:		
+) = 0	
+En	formant	:		
+
++ div ρ< !v >
+
++ n ∂
+∂r
+
+m∫∫∫
+  
+
++ C . ∂f
+
+∂ρ
+∂t
+   
+
+Dn
+Dt
+  
+
+Dco
+Dt
+
+∂f
+∂t
+
+F
+m
+
+∂r
+
+⎡
+⎢
+⎣
+
+⎤
+⎦
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+C
+
+−
+
+(
+
+⎞
+
+⎞
+
+C∫∫∫
+
+m
+  
+
+∂f
+∂t
+
+⎡
+⎢
+⎣
+
++ C . ∂f
+
+∂r + co . ∂f
+∂r +
+
+⎛
+⎝⎜
+
+F
+m
+
+−
+
+Dco
+Dt
+
+⎞
+
+∂C − ∂f
+⎠⎟ . ∂f
+⎛
+⎝⎜
+∂C
+
+C
+
+⎞
+
+⎠⎟ : ∂co
+⎛
+⎝⎜
+
+∂r
+
+⎞
+⎠⎟
+
+⎥du dv dw = 0	
+
+⎤
+⎦
+
+	
+31	
+on	exprime	que	dans	les	collisions	il	y	a	conservation	du	moment	cinétique,	de	
+l’impulsion	  m C.	On	pourrait	donc	s’attendre	à	retrouver	la	seconde	équation	de	Navier-
+Stockes.	Mais	l’équation	qui	en	découle	est	plus	générale		
+Dans	l’équation	de	Navier-Stockes	on	trouve	une	grandeur	p	appelée	pression.	Mais	
+qu’est-ce	que	la	pression	exercée	sur	une	membrane	?	C’est	le	résultat	des	chocs	des	
+molécules	sur	celles-ci.	Or	si	dans	une	équation	nous	voyons	apparaître	une	pression	
+sous	
+la	forme	d’un	scalaire	p	cela	traduit,	
+l’hypothèse	d’un	état	
+localement,	
+«	hydrostatique	»	des	contraintes.	Cela	nous	ramène	à	l’expérience	évoquée	plus	haut,	
+où	le	gaz	est	pendant	un	très	court	instant	et	sur	une	très	faible	distance	«	hors	
+d’équilibre	»	c’est	à	dire	loin	de	l’équilibre	thermodynamique	local.		
+Ce	phénomène	avait	été	mis	en	équilibre	en	disposant	à	la	paroi	un	très	fin	film	
+métallique	qui,	au	passage	du	gaz,	n’accusait	aucun	échauffement,	celui-ci	ne	pouvant	
+découler	que	des	chocs	des	atomes	contre	ce	film,	liés	à	la	température	de	celui-ci,	au	
+phénomène	d’agitation	thermique.	Or,	pendant	tout	ce	temps	où	le	gaz	est	loin	de	son	
+état	d’équilibre	thermodynamique	local	cette	vitesse	d’agitation	se	réduit	à	une	
+composante	dirigée	parallèlement	à	la	paroi.	
+Quid	de	la	pression	dans	ce	milieu	?		
+On	ne	peut	alors	proposer	qu’une	«	expérience	de	pensée	».	Imaginons	que	nous	
+puissions	mettre	dans	ce	fluide,	en	l’accompagnant	dans	son	mouvement,		une	«	capsule	
+barométrique	»	c’est	à	dire	une	membrane	qui	subira	une	force	consécutive	des	chocs	
+qu’elle	subira.	Si	le	fluide	était	dans	l’état	d’équilibre	thermodynamique	local	cette	force	
+serait	indépendante	de	l’orientation	de	la	membrane.	Mais	dans	le	gaz	du	fluide	situé	
+immédiatement	en	aval	de	l’onde	de	choc	ça	ne	sera	plus	le	cas.		
+
+	
+
+	
+A	gauche,	capsule	barométrique	immergée	dans	un	gaz	à	l’état	d’équilibre	local.	La	
+composante	normale	de	la	force	exercée	sur	la	membrane,	la	«	pression	»,	la	flèche	rouge,	
+a	une	valeur	identique	quelle	que	soit	l’orientation	de	celle-ci.	A	droite	cette	composante	
+normale	de	cette	force	varie	avec	l’orientation	de	la	membrane.	Quand	la	paroi	est	
+parallèle	à	l’écoulement	du	fluide,	cette	composante	est	nulle.		
+
+Fig.17	:	Capsule	barométrique		
+
+  
+
+!
+  
+
+	
+32	
+Comment	traduire	cela	mathématiquement	?		
+Commençons	par	la	figure	de	gauche.	Introduisons	un	vecteur	unitaire	normal	à	la	paroi	
+de	la	membrane	que	nous	appellerons	 
+!ν	.	Soit	s	la	surface	de	la	membrane.	Nous	
+pouvons	introduire	le	vecteur	  
+!s = s !ν	.	L’état	«	hydrostatique	de	contrainte	de	pression	»,	
+de	la	figure	de	gauche,	se	traduit	par	:		
+F = p !s	
+En	divisant	la	force	par	la	surface	de	la	membrane	nous	obtenons	le	vecteur	pression,	
+perpendiculaire	à	la	surface	de	la	capsule	(	colinéaire	au	vecteur	normal	 
+!ν).		
+!p = p !ν	
+ou	p	est	un	scalaire.		
+Introduisons	la	matrice	unité	:		
+Nous	écrirons	:		
+De	nos	cours	de	physique	nous	nous	rappelons	que		
+p	=	n	k	T	
+Mais	nous	avons	vu	plus	haut	(dans	le	cas	d’une	fonction	de	distribution	de	Maxwell-
+Boltzmann	correspondant	à	l’état	d’équilibre	thermodynamique	local	)		que		
+⎤⎦	
+On	en	tire			
+On	peut	écrire	:		
+
+< U 2 > = < V 2 > = < W 2 > =
+  
+
+m  < U 2 > + < V 2 > + < W 2 >
+
+p 0 0
+0 p 0
+0 0 p
+
+1 0 0
+0 1 0
+0 0 1
+
+1 0 0
+0 1 0
+0 0 1
+
+× !ν	
+
+k T = 1
+2
+
+m < C 2 > =
+
+× !ν=
+
+!p = p
+
+k T
+m
+
+3
+2
+ 
+
+⎛
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎠
+
+I =
+
+1
+2
+
+	
+
+	
+
+⎡⎣
+
+  
+
+  
+
+!p = p !ν= nm
+
+  
+
+⎛
+⎜
+⎜
+⎜
+⎝
+
+< U2 >
+
+0
+0
+
+< V2 >
+
+0
+
+0
+
+0
+0
+
+< W2 >
+
+× !ν	
+
+⎞
+⎟
+⎟
+⎟
+⎠
+
+  
+
+0
+
+0
+
+	
+
+0
+0
+
+0
+0
+
+⎞
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎝
+
+< V2 >
+
+< U2 >
+
+< W2 >
+
+!p = !!
+  
+
+!!
+p = nm
+
+	
+33	
+On	a	donc	une	matrice,	pour	le	moment	proportionnel	)	la	matrice	unité,	que	nous	
+appellerons	«	matrice-pression	»	ou	«	tenseur	de	pression	».	Utilisons	pour	un	moment	
+cette	notation	:		
+La	force	qui	s’exerce	sur	la	membranes	est	alors	:		
+p × !s	
+Que	se	passe-t-il	dans	le	cas	de	la	figure	de	droite,	où	l’agitation	thermique	ne	se	
+manifeste	plus	que	dans	une	seule	direction,	par	exemple	U.	La	matrice	devient	:		
+Alors	:		
+Si	vous	repérez	le	vecteur	 
+Vous	exprimerez	matriciellement	la	valeur	des	composantes	de	la	force	s’exerçant	sur	la	
+membrane	selon	son	orientation.		
+Si	le	fluide	est	dans	un	état	quelconque	le	tenseur	de	pression	s’écrira,	sous	sa	forme	la	
+plus	générale		:		
+
+!ν	avec	un	angle	:		
+
+	
+× !ν	
+
+< U2 > 0 0
+0 0
+0 0
+
+< U2 > 0 0
+0 0
+0 0
+
+!!
+p = nm
+
+cosθ
+sinθ
+
+!p = nm
+
+!ν=
+  
+
+⎛
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎠
+
+0
+0
+
+0
+0
+
+⎛
+⎜⎜
+⎝
+
+	
+
+  
+
+  
+
+⎛
+⎜
+⎜
+⎜⎜
+⎝
+
+!!
+p = nm
+
+< UV >
+< U2 >
+< UV >
+< V2 >
+< UW > < VW >
+
+< UW >
+< WW >
+< W2 >
+
+C’est	une	matrice	symétrique,	mais	les	composantes	de	sa	diagonale	principale	ne	sont	
+plus	automatiquement	égaux.		
+Revenons	à	l’expression	de	la	conservation	de	l’impulsion	via	l’équation	de	Boltzmann	:		
+
+  
+
+	
+
+⎞
+⎟
+⎟
+⎟⎟
+⎠
+
+⎞
+
+⎞
+
+⎞
+
+⎞
+
+⎞
+
+−
+
+−
+
+C
+
+C
+
+m
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+⎡
+⎢
+⎣
+
+⎤
+⎦
+
+⎤
+⎦
+
+⎡
+⎢
+⎣
+
+∂r
+
+∂r
+
+C 2
+
+F
+m
+
+F
+m
+
+∫∫∫
+
+1
+2
+  
+
+∂f
+∂t
+
+∂f
+∂t
+
+m
+  
+
+!
+F −
+
+C∫∫∫
+
+Dco
+Dt
+
+Dco
+Dt
+
+!
+∂
+∂r
+   
+
+D !co
+Dt
+
+. !!
+p − ρ
+
++ C . ∂f
+
++ C . ∂f
+
+34	
+
+∂r + co . ∂f
+∂r +
+
+∂r + co . ∂f
+∂r +
+
+⎠⎟ = 0	
+
+∂C − ∂f
+⎠⎟ . ∂f
+⎛
+⎝⎜
+∂C
+
+	
+⎥du dv dw = 0	
+On	obtient,	voir	le		Chapman	et	Cowling	page	51,	équation	(3.21,3	)		
+⎠⎟ : ∂co
+⎛
+⎝⎜
+Le	formalisme	de	l’équation	de	Boltzmannn	introduit	quelque	chose	en	plus	:	le	fait	que	
+le	milieu	puisse	être	hors	de	l’état	d’équilibre	thermodynamique	local.		
+Si	on	calcule,	à	l’aide	du	troisième	invariant	collisionnel	l’intégrale	:		
+	
+⎥du dv dw = 0	
+On	obtiendra	l’équation	traduisant	la	conservation	de	l’énergie	cinétique,	voir	le	livre	de	
+⎠⎟ : ∂co
+⎛
+⎠⎟ . ∂f
+∂C − ∂f
+⎛
+Chapman	et	Cowling	page	51,	équation	(	3.21,5)	
+⎝⎜
+⎝⎜
+∂C
+Le	premier	représente	la	façon	dont	s’accroît	(ou	décroit)		la	température	absolue	T	du	
+fluide	quand	on	l’accompagne	dans	son	mouvement	(	dérivée	«	particulaire	»	
+		)	.	Le	
+troisième	terme	représente	la	divergence	du	vecteur	flux	de	chaleur	(	ce	qui	entre	mons	
+ce	qui	sort).	Le	second	terme	retiendra	toute	notre	attention.	C’est	le	produit	scalaire	de	
+deux	matrices,	la	matrice	pression	  
+p	et	la	matrices	dyade	composée	à	l’aide	du	vecteur	
+«	nabla	»		
+!co= < !v >.		Ce	terme	:		
+représente	le	travail	des	forces	de	pression.	Là	vous	réalisez	la	puissance	de	cette	
+notation	dyadique	pour	la	mécanique	des	fluides	:	un	seul	terme	au	lieu	de	neuf.		
+Bien.	Il	s’agissait	de	l’équation	de	Boltzmann,	pas	de	l’équation	de	Vlasov,	dont	le	second	
+membre	est	égal	à	zéro.		
+	
+Solution	Maxwellienne	de	l’équation	de	Vlasov.		
+Comme	on	l’a	déjà	montré	plus	haut,	la	fonction	de	distribution	Mawellienne	donne	:		
+
+et	du	vecteur	vitesse	macroscopique		   
+
+. !q = 0	
+
+!
+∂!co
+∂r +
+
+nk DT
+Dt
+
+!
+∇ =
+  
+
+!
+∂!co
+∂r
+
+D
+Dt
+ 
+
+!
+∂
+∂r
+
++ !!
+p:
+
+!
+∂
+∂r
+
+!!
+p:
+   
+
+3
+2
+   
+
+	
+
+!!
+
+Lnf o = Cst + Ln n
+ 
+
+T3/2 −
+
+mC2
+
+2kT	
+
+35	
+
+	
+Ce	qui	nous	donne	:		
+
+∂T
+
+∂t	
+∂r	
+
+∂Lnf o
+  
+
+∂t
+
+=
+
+1
+n
+
+∂n
+∂t
+
++
+
+mC2
+2kT 2
+
+∂T
+∂t
+
+−
+
+3
+2T
+
+⎞
+
+⎞
+
+⎞
+
+−
+
+=
+
+C
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+∂r
+
+∂r
+
+Dt
+
+1
+n
+
+∂T
+
+3
+2T
+
+m
+kT
+
+Dco
+Dt
+
+∂n
+∂r +
+
+∂T
+∂r −
+
+∂Ψ
+∂r +
+
+mC2
+2kT 2
+
+C	
+
+⎠⎟ : ∂co
+⎛
+⎝⎜
+
+∂Lnf o
+   
+
+D Lnf
+  
+
++ C . ∂ Lnf
+∂r
+
+∂Lnf o
+∂C = −
+  
+
+⎠⎟ = 0	
+
+∂C − ∂ Lnf
+∂C
+
+En	régime	stationnaire	:		
+Si	nous	introduisons	tout	cela	dans	notre	équation	de	Vlasov,	écrite	en	terme	de	vitesse	
+résiduelle	(vitesse	d’agitation	thermique	)	:		
+Nous	obtiendrons	un	polynôme	de	degré	trois	en	fonction	des	composants	(	U	,	V	,	W	)	
+⎠⎟ . ∂ Lnf
+de	cette	vitesse.	Examinons	ses	différents	termes.		
+Le	premier	donne	:			
+Soit	un	terme	d’ordre	zéro	et	un	d’ordre	2	:		
+	
+Terme	suivant	:		
+soit	un	terme	d’ordre	un	et	un	terme	d’ordre	trois.		
+	
+Terme	suivant	:		
+Soit	deux	termes	d’ordre	unité.		
+	
+
+⎠⎟ . ∂ Logf
+∂C =
+
+∂r = C . 1
+
+C . ∂ Lnf
+   
+
+.C	
+
+mC2
+2kT 2
+
+∂Ψ
+∂r +
+
+⎠⎟	
+
+∂n
+∂r +
+
+⎠⎟	
+
+mC2
+2k
+
+Dco
+Dt
+
+Dco
+Dt
+
+n
+T 3/2
+
+⎤
+⎥ −
+⎦
+
+∂Ψ
+∂r
+
+⎞
+⎠⎟ +
+
+∂T
+∂r
+
+m
+kT
+
+m
+kT
+
+D Lnf
+
+D
+Dt
+
+D
+Dt
+
+Log
+
+. C
+
+−
+  
+
+1
+T
+
+.C
+
+Dt
+
+⎡
+⎢
+⎣
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+=
+
+n
+
+⎞
+
+⎞
+
+⎞
+
+ 
+
+  
+
+⎞
+
+⎞
+
+C
+
+∂r
+
+∂T
+
+m
+kT
+
+∂T
+∂r
+
+⎞
+⎠⎟ =
+
+CC(
+
+36	
+
+mC2
+2kT 2
+  
+
+) : ∂co
+⎛
+⎝⎜
+∂r
+
+− ∂ Lnf
+⎛
+⎝⎜
+∂C
+  
+
+⎠⎟	
+.C.		
+
+	
+Passons	au	dernier	terme	:		
+Soit	deux	termes	d’ordre	deux.		
+⎠⎟ : ∂co
+⎛
+⎝⎜
+	
+Nous	n’avons	qu’un	unique	terme	d’ordre	trois			
+Son	annulation	entraîne	que	:		
+∂r = 0 	
+Le	milieu	n’est	pas	nécessairement	homogène	et	isotrope,	mais	il	est	isotherme.	La	
+température	est	la	même	partout.		
+Il	nous	reste	à	regrouper	les	termes	d’ordre	zéro,	un	et	deux:		
+	
+Termes	d’ordre	zéro	:		
+= 0	
+	
+Termes	d’ordre	un	:		
+⎠⎟ = 0	
+qui	donne	:		
+⎠⎟ = 0	
+	
+Termes	d’ordre	deux	:		
+On	a	:		
+
+CC : ∂co
+∂r +
+  
+
++ co . ∂co
+∂r
+
+= 0	
+
+C . 1
+n
+   
+
+∂n
+∂r −
+
+∂n
+∂r −
+
+∂Ψ
+∂r −
+
+Dco
+Dt
+
+n
+T 3/2
+
+Dn
+Dt
+
+∂co
+∂t
+
+⎤
+⎥ =
+⎦
+
+∂Ψ
+∂r
+
+⎞
+⎠⎟ −
+
+m
+kT
+
+m
+kT
+
+m
+kT
+
+m
+kT
+
+3
+2T
+
+C2
+2T
+
+dT
+dt
+
+dT
+dt
+
+D
+Dt
+
+1
+n
+   
+
+. C
+
+Ln
+
+.C
+
+1
+n
+
+⎡
+⎢
+⎣
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+−
+
+⎞
+
+⎞
+
+ 
+
+	
+
+37	
+
+C C =
+
+⎛
+⎜
+⎜
+⎜⎜
+⎝
+
+U2
+UV UW
+UV V2 VW
+UW VW W2
+
+⎞
+⎟
+⎟
+⎟⎟
+⎠
+
+Dans	cette	équation	scalaire,	le	coefficient	devant	chaque	dyade	de	CC	(U²,	V²,	W²,	UV,	
+UW,	VW)	doit	être	nul	;	d’où	:	
+
+   
+
+∂co
+∂r =
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+∂uo
+∂x
+∂uo
+∂y
+∂uo
+∂z
+
+∂vo
+∂x
+∂vo
+∂y
+∂vo
+∂z
+
+∂w o
+∂x
+∂w o
+∂y
+∂w o
+∂z
+
+	
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+	
+
+1
+2T
+
+dT
+dt
+
++
+
+∂uo
+∂x
+
+= 0
+
+1
+2T
+
+dT
+dt
+
++
+
+∂vo
+∂x
+
+= 0
+
+	
+
+dT
+dt
+
+1
+2T
+  
+∂vo
+∂x +
+
++
+
+∂w o
+∂x
+
+= 0
+
+∂uo
+∂y =0
+
+∂w o
+∂y +
+
+∂uo
+∂z +
+  
+
+∂vo
+∂z =0
+
+∂w o
+∂x =0
+
+	
+Introduisons	un	vecteur	unitaire	k	=	(	kx	,	ky	,	kz	)		
+Ce	système	a	pour	solution	exacte	:		
+		ainsi	:		
+On	pose	:				
+Ce	champ	de	vitesse	est	donc	la	superposition	de	deux	champs.		
+-  Une	vitesse	radiale		  !φ r	proportionnelle	au	module	r	de	la	distance	au	centre	du	
+système,	variant	avec	le	temps.		
+
+   co = !φ r + ω(t) k ∧r
+
+φ = Ln 1
+T
+ 
+
+r + ω(t) k ∧r
+
+)	
+
+co = −
+
+1
+2T
+
+dT
+dt
+
+	
+
+(
+
+)
+
+(
+
+  
+
+38	
+),	autour	de	l’axe	défini	par	le	vecteur	k	
+
+ 
+
+⎞
+
+(
+
+=
+
+⎛
+⎝⎜
+
+	
+
+1
+n
+
+1
+n
+   
+
+dT
+dt
+
+3
+2T
+
+m
+kT
+
+m
+kT
+
+Dn
+Dt
+
+∂co
+∂t
+
+∂Ψ
+∂r +
+
+∂n
+∂r +
+
++ co . ∂co
+∂r
+
+⎠⎟ = 0	
+
+	
+	
+-  Une	rotation	en	corps	solide	  ω(t) k ∧r
+avec	une	vitesse	angulaire	variant	également	au	fil	du	temps		
+	
+Réécrivons	ce	que	nous	avions	obtenu	:		
+	Termes	d’ordre	zéro	:		
+	
+Termes	d’ordre	unité	:		
+	
+	Termes	d’ordre	deux	:		
+	
+	On	va	orienter	le	vecteur	k	selon	oz	:	k	=	(	0	,	0	,	1	)		
+	
+	
+) − "ρ ω2	
+	avec	:				   
+!ρ = ( x , y , 0 )	(	je	n’ai	pas	de	lettre	Grecques	grasses	)		
+	
+L’équation	d’ordre	1	devient	:		
+Qu’on	écrit	:		
+	
+
+∂r = ( !!φ + !φ2 ) r + ( !ω + 2 !φω ) k ∧r
+
+co = !φ r + ω k ∧r
+     
+
+∂co
+∂t = !!φ r + !ω k ∧r
+    
+
+∂r = !φ2r + 2 !φω k ∧r
+
+( !!φ + !φ2 ) r + 2 !φω k ∧r
+
+∂co
+∂r = !φ I +
+
+co . ∂co
+   
+
++ co . ∂co
+
+∂n
+∂r +
+
+∂Ψ
+∂r +
+
+y
+−x
+0
+
+)	
+
+∂co
+∂t
+
+m
+kT
+
+m
+kT
+
+1
+n
+    
+
+) =
+
+) − "ρ ω2
+
+⎛
+⎜
+⎜
+⎜
+⎝
+
+⎛
+⎜
+⎜
+⎜
+⎝
+
+	
+	
+
+(
+
+⎡⎣
+
+(
+
+(
+
+(
+
+(
+
+   
+
+0 ω 0
+0
+−ω 0
+0
+0
+0
+
+⎟	
+
+⎞
+⎟
+⎟
+⎠
+
+) − "ρ ω2	
+⎤⎦ = 0	
+
+⎡⎣
+
+⎡⎣
+
+(
+
+⎡⎣
+
+−
+
+⎤
+⎦
+
+⎡
+⎢
+⎣
+
+1
+2
+
+⎫
+⎬
+⎭
+
+⎧
+⎨
+⎩
+
+⎤⎦ =
+
+= −
+
+= −
+
+d
+dt
+
+Ln Τ
+
+Ln ω
+
+d
+dt
+ 
+
+ρ2  ω2
+
+m
+kT
+
+m
+kT
+
+∂
+∂r
+   
+
+Ln n +
+
+m Ψ
+kT
+
+m Ψ
+kT
+
+⎤⎦		
+
+⎤⎦	
+
+) − "ρ ω2
+
+Ln n +
+  
+
+( !!φ + !φ2 ) r 2
+2
+
+( !!φ + !φ2 ) r + ( !ω + 2 !φω ) k ∧r
+
+	
+39	
+	Le	premier	membre	est	un	gradient.	Il	faut	que	le	second	membre	le	soit	aussi,	ce	qui	
+implique	:		
+
+En	injectant	cela	dans	l’équation	de	Poisson	(	avec	pour	le	moment	une	seule	espèce	)	:		
+
+  !ω + 2 !φω = 0	
+	
+	
+ω ∝ Τ 	
+	
+	
+	
+	
+	
+On	peut	envisager	quelques	cas	particuliers.		
+			
+	
+	Solution	présentée	par	Chandrasekahar	en	1942.	On	prend	comme	conditions	initiale		
+	En	r	=	0	:																						
+	Se	rappeler	que								
+
+kT	
+dr2 = 4πGρo		
+
+⎥ + ϕ (t)	
+	
+
+Distribution	Maxwellienne	stationnaire	à	symétrie	sphérique.		
+
+= 4πGρoe − mΨ
+
+< C2 >		
+
+kT Ψ(r,t) + ( !!φ + !φ2 ) r 2
+− m
+
+Δ Ψ = 4πG m no (t)e
+
+n(r, t) = no(t)e
+
+d2Ψ
+dr2 +
+  
+
+Ψ(r,t) + ( !!φ + !φ2 ) r 2
+2
+
+Ψ = 0
+  
+
+dΨ
+dr
+
+dΨ
+dr
+
+2 − 1
+
+2ρ2  ω2
+
+d2Ψ
+
+= 0
+
+2
+r
+
+	
+
+ρ2  ω2
+
+m
+kT
+
+=
+
+⎡
+⎢
+⎢
+⎣
+
+⎤
+⎥
+⎥
+⎦
+
+1
+2
+
+    
+
+    
+
+⎡
+⎢
+⎢
+⎣
+
+⎤
+⎥
+⎥
+⎦
+
+−
+
+−
+
+kT
+m
+ 
+
+1
+2
+
+	
+	Voilà	la	forme	de	la	courbe	de	densité	obtenue	par	Chandrasekhar	:		
+	
+
+40	
+
+	
+
+2
+
+Ψ" +
+  
+
+Fig.18	:	Evolution	de	la	densité,	solution	Maxwellienne	(	Chandrasekhar	)		
+
+	
+	
+Il	espérait,	grâce	à	cette	solution	exacte,	pouvoir	décrire	la	distribution	de	masse	dans	
+un	amas	globulaire,	ou	une	galaxie	sphéroïdale.	Sou	sa	forme	adimensionnelle	l’équation	
+peut	être	écrite	:		
+r Ψ' = e − Ψ	
+	Cette	solution	admet	la	solution	mathématique	:		
+	
+	
+Elle	saurait	prétendre	à	constituer	un	modèle	puisque	la	densité	est	infinie	à	l’origine.	
+Mais	elle	donne	le	comportement	de	l’objet	à	grande	distance.	On	peut	alors	calculer	la	
+masse	de	cet	objet.		
+	Considérons	un	angle	solide	 dΩ	.	A	une	distance	r	il	dessine	sur	la	sphère	un	élément	de	
+ dΩ.	Considérons	deux	sphère	de	rayon	r	et	r	+	dr.	L’élément	de	volume	
+surface	d’aire	r2
+correspondant	est	r2
+ dΩ.	On	peut	calculer	le	nombre	de	points	masses		entre	une	sphère	
+de	rayon	ro	et	l’infini.	On	obtient	l’intégrale	:		
+	
+
+1
+r 2 → Ψ = Log 2 + 2Logr → Ψ' =
+
+e − Ψ = n =
+ 
+
+r 2	
+
+→ Ψ" = −
+
+2
+r
+
+2
+
+∞∫
+
+ro
+
+1
+r
+
+N =
+  
+
+r2 dΩ dr
+
+∞∫
+= 4π
+
+ro
+
+1
+r
+
+r2 dr
+
+= ∞	
+
+ 
+
+1
+
+	
+
+2
+r
+
+1
+r
+ 
+
+V2
+r
+ 
+
+g = − Ψ' = −
+  
+
+Distribution	Maxwellienne	instationnaire,	milieu	homogène		
+
+	
+41	
+La	masse	de	cet	objet	tend	vers	l’infini.		
+	Ceci	étant,	imaginons	que	nous	adjoignions	à	cet	objet	à	symétrie	sphérique	un	disque	
+plat	de	gaz,	ne	représentant	qu’un	apport	négligeable	vis	à	vis	du	potentiel.	Le	champ	
+gravitationnel	
+	.	Dans	le	disque	de	gaz,	constitué	de	particule	«	à	
+température	nulle	»,	où	les	vitesses	d’agitation	thermique	sont	insignifiantes,	la	force	
+centrifuge	est	en	
+	où	V	est	la	vitesse	d’orbitation	circulaire.	Si	on	écrit	que	la	force	
+centrifuge	équilibre	la	force	de	gravité	on	a	alors	une	vitesse	V	constante,	ne	dépendant	
+pas	de	la	distance	au	centre.	Vous	découvrez	au	passage	l’origine	de	l’idée	de	l’Israélien	
+Mordechaï	Milgrom,	pour	expliquer	la	forme	en	plateau	des	courbes	de	rotation	des	
+r 2		
+galaxies,	en	périphérie,	et	pourquoi	il	propose	un	champ	de	gravitation	qui	passe	de	
+à	
+partir	d’une	certaine	distance,	dans	les	galaxies.	
+		
+	L’équation	de	Poisson	est	:		
+	
+	On	a	:		
+	
+	Il	faut	donc	que	:		
+	
+L’équation	:		
+devient	:		
+	
+	ou	:																																																																	  ρT 3/2 = Cst
+	
+
+   Ψ(r, t) = − ( !!φ+ !φ2 ) r 2
+dT
+1
+n
+ 
+
+2	
+dt	
+LnT	
+		
+
+    ΔΨ = 4πG m no (t)e
+
+kT Ψ(r,t) + ( !!φ + !φ2) r 2
+− m
+2
+
+kT Ψ(r,t) + ( !!φ + !φ2) r 2
+− m
+2
+
+    n(t) = no (t)e
+
+⎥	
+
+⎥	
+
+Dn
+Dt
+
+Ln n =
+
+3
+2T
+
+d
+dt
+ 
+
+d
+dt
+
+3
+2
+
+=
+
+⎤
+⎥
+⎦
+
+⎡
+⎢
+⎢
+⎣
+
+⎤
+⎥
+⎦
+
+⎡
+⎢
+⎢
+⎣
+
+	
+
+2
+r
+
+3
+2
+
+!R
+R
+
+d
+dt
+
+d
+dt
+
+d
+dt
+ 
+
+n =
+  
+
+Ln n =
+
+dΨ
+dr
+
+Ln R = - 3
+
+ΔΨ =
+  
+
+d2Ψ
+dr2 +
+
+42	
+
+1
+R3 →
+
+Ln n = - 3 d
+dt
+
+φ = Log 1
+ 
+
+LnT	
+!T	
+
+	
+L’évolution	est	isentropique.	(	restera	à	définir	plus	loin	ce	qu’on	appelle	l’entropie	).		
+	Calculons	:																													
+= − 3( !!φ + !φ2 ) = 4πG m n		
+		On	avait	posé	:																																						
+T	
+Nous	allons	faire	intervenir	une	longueur	caractéristique	R	telle	que	le	volume	R3	ne	
+contienne	qu’un	particule	de	masse	m.	Donc	:	
+	
+	Mais	:																																																						
+	
+	
+	Donc	:	
+	
+	D’où	l’équation	différentielle	du	seconde	ordre	:		
+	
+= 0 	
+	qui	n’est	rien	d’autre	que	…	l’équation	de	la	cosmologie	de	Friedmann.	C’est	d’ailleurs	
+comme	cela	que	je	l’ai	découverte,	à	la	fin	des	années	soixante,	en	cherchant	la	solution	
+instationnaire	Maxwelienne	pour	un	milieu	uniforme.		
+		Signification	:		
+
+R3 = − 3( !!φ + !φ2 )
+4πG m
+
+!R 2
+R 2 → !!φ + !φ2 =
+
+= − 3
+4πG m
+
+Ln n = 3
+2
+
+Ln T = - 3 !φ = - 3
+
+n = 1
+  
+
+R	
+
+R	
+
+R	
+
+!φ = −
+  
+
+→ !!φ =
+
+4πG m
+
+R 2 !!R +
+
+!φ =
+  
+
+1
+2T
+
+d
+dt
+  
+
+d
+dt
+
+!!R
+R
+
+!R
+R
+
+!!R
+
+!!R
+
+!R
+
+−
+
+3
+
+  
+
+  
+
+∫∫∫
+
+f Logf
+
+S(t) = − k
+
+s (r, t) = − k
+
+43	
+
+Un	cosmos	en	état	d’équilibre	thermodynamique	évolue	selon	l’équation	de	Friedmann.		
+
+dudvdw 	
+dudvdw	
+
+	
+	
+	Cet	état	correspond	à	l’entropie	maximale.	Mais	qu’est-ce	que	l’entropie	?		
+		L’entropie	en	théorie	cinétique	des	gaz.		
+	Soit	f	la	fonction	de	distribution,	solution	de	l’équation	de	Boltzmann	ou	de	Vlasov.		
+	L’entropie	(	par	unité	de	volume	)	est	définie	par	:		
+	
+	où	k	est	la	constante	de	Boltzmann.		Cette	intégrale	est	prise	dans	l’espace	des	vitesses.		
+	Bien	sûr,	pour	un	système	contenu	dans	un	domaine	physique	D,	sont	entropie	sera	:		
+	
+	Elle	variera	dans	le	temps	Si	vous	voulez	en	savoir	plus,	référez-vous	au	chapitre	4,	page	
+67	du	livre	de	Chapman	et	Cowling.		
+	Mon	propos,	dans	cette	sorte	de	cours,	n’est	pas	de	vous	donner	un	cours	complet	de	
+théorie	cinétique	des	gaz.	Pour	cela	vous	n’aurez	qu’à	télécharger	le	livre	de	Chapman	et	
+Cowling.	Le	concept	d’entropie	et	d’irréversibilité	est	introduit	en	1885	par	le	physicien	
+allemand	Rudolf	Clausius.	Boltzmann	donne	à	cette	
+idée	une	formulation	de	
+microphysique,	à	travers	sa	fonction	de	distribution,	en	1872.	En	fait	il	propose	une	
+«	fonction	H	»	:		
+	
+dudvdw	
+	qui	n’est	autre	que	l’entropie,	à	un	coefficient	près	et	changée	de	signe.	Il	envisage	
+l’évolution	d’un	système	de	particules	enfermée	dans	une	enceinte	isolé	et	constituant	
+un	système		isotherme.	Ce	système	va	cependant	évoluer,	compte	tenu	de	conditions	
+initiales.	L’équation	d’évolution	est	alors	:		
+	
+	Dans	le	premier	membre	il	ne	subsiste	que	la	dérivée	par	rapport	au	temps.	Dans	le	
+second	membre	se	trouve	le	terme	collisionnel	(	avec	l’indice	e	pour	«	encounters	»	).	
+Voir	l’expression	de	cette	loi	d’évolution	dans	le	Chapman	et	Cowling	page	67	équation	
+(4.1,1)	et	sa	fonction	H	,	équation	(4.1,2).	La	suite	comporte	la	démonstration	de	
+l’inéluctable	décroissance	de	cette	«	fonction	H	»	(	donc	la	croissance	de	l’entropie).	La	
+fonction	H	étant	bornée,	doit	tendre	vers	une	valeur	minimale	(	et	l’entropie	vers	une	
+
+= ∂f
+⎛
+⎝⎜
+∂t
+
+  H (r, t) =
+
+dxdydz
+
+f Logf
+
+f Logf
+
+∫∫∫
+
+∫∫∫
+
+df
+dt
+
+D∫
+
+	
+
+⎞
+⎠⎟
+
+e
+
+  
+
+ 
+
+	
+44	
+valeur	maximale	).	Ceci	correspond	à	la	fonction	de	distribution	de	Maxwell-Boltzmann	
+(	4.1,10),	qui	annule	au	passage	le	second	membre	de	l’équation.		
+	A	l’époque	de	Boltzmann	la	controverse	faisait	rage	entre	les	tenants	de	la	théorie	
+atomiste,	corpusculaire	de	la	matière	et	leurs	opposants.	Ces	derniers	critiquaient	
+l’existence	d’atomes	en	disant	que	cette	vision	de	la	matière	était	imprégnée	d’idée	
+empruntées	à	l’antiquité	(	Démocrite	).	C’était	à	leur	sens	une	idée	plus	philosophique	
+que	physique.	Les	grandeurs	macroscopiques,	formant	un	champ	continu,	étaient	les	
+seules	capables	de	décrire	par	exemple	l’état	d’un	gaz.	Considérant	un	élément	de	gaz	
+donné,	supposé	immobile	dans	une	enceinte	parfaitement	calorifugée,	la	donnée	de	sa	
+densité	et	de	sa	température	suffisait	à	le	décrire,	dans	la	mesure	où	ce	milieu	n’était	le	
+siège	d’aucune	évolution	relevant	de	la	chimie.		
+	Boltzmann	montrait	que	ce	même	gaz	pouvait	exister	selon	différentes	configurations	
+avec	des	forme	de	la	fonction	de	distribution	des	vitesse	différentes	mais	telles	que	
+celles-ci	conduisaient	à	des	valeurs	identiques	pour	la	densité	:		
+	
+dUdVdW	
+	Le	milieu	étant	macroscopiquement	immobile,	la	vitesse	v	(	x,y,z)	des	particules	se	
+confond	avec	la	vitesse	d’agitation	C	(U,V,W).		
+	On	peut	alors	calculer	la	vitesse	quadratique	moyenne	selon	:		
+		
+	Et	en	déduire	la	température	absolue	par	:		
+	
+	Ce	que	disait	Boltzmann	c’est	qu’il	pouvait	exister	une	infinité	de	configurations	initiales	
+différentes		des	molécules	de	ce	gaz,	ayant	mêmes	valeurs	de	la	densité	et	de	la	
+température.		
+		Ces	distributions	des	vitesses	devraient	alors	évoluer	très	rapidement	jusqu’à	
+la	 fonction	 H	
+s’identifier	 avec	
+(	maximisant	l’entropie	s	).	Dans	cette	évolution	l’air	sous	la	courbe,	équivalant	à	la	
+densité	n,	reste	cnstante.		
+	
+
+la	 fonction	 de	 Maxwell-Boltzmann,	 minimisant	
+
+dUdVdW	
+
+m < C2 >	
+
+( U2 + V2 + W2) f
+
+< C2 > =
+  
+
+n =
+ 
+
+k T =
+
+3
+2
+ 
+
+W = −∞
+
+W = +∞
+
+W = − ∞
+
+W = + ∞
+
+U = −∞
+
+U = +∞
+
+V = +∞
+
+V = −∞
+
+U = − ∞
+
+U = + ∞
+
+V = − ∞
+
+V = + ∞
+
+1
+n
+
+1
+2
+
+∫
+
+∫
+
+∫
+
+∫
+
+∫
+
+∫
+
+f
+
+	
+
+45	
+
+	
+	Une	évolution	qui	échappait	alors	aux	adversaires	de	la	vision	atomiste	de	la	matière.	Le	
+temps	caractéristique	d’évolution	était	alors	le	temps	de	libre	parcours.		
+	
+
+Fig.19	:	Evolution	d’une	fonction	de	distribution	des	vitesses	
+
+	
+
+	
+
+Fig.20	:	Evolution	de	l’entropie	
+
+	Le	théorème	H	de	Boltzmann	marque	une	date	dans	l’histoire	des	science	car	il	remplace	
+le	second	principe	par	un	théorème.	Cette	fonction	H	est	par	ailleurs	conceptuellement		
+mesurable.	Imaginons	une	table	de	billard	«	parfaite	»,	avec	des	paroi	parfaitement	
+réfléchissantes.	Un	y	place	un	grand	nombre	de	billes	d’acier	et	on	crée	un	état	initial	
+quelconque.	Un	appareil	photographique	permet	de	mesurer	à	tout	instant	la	position	et	
+la	vitesse	des	billes	(leur	déplacement	pendant	un	temps	d’obturation	connu).	A	partir	
+de	ces	données	on	peut	calculer	l’entropie	)	à	tout	moment.	Si	on	dispose	de	deux	
+photons,	on	pourra	déterminer	l’antériorité	de	l’une	par	rapport	à	l’autre	si	elle	possède	
+une	entrope	plus	faible.	On	a	donc	accès	à	l’écoulement	du	temps.	Cette	idée	est	illustrée	
+sur	une	de	mes	bandes	dessinées,	le	Chronologicon	5:		
+	
+
+																																																								
+5	http://www.savoir-sans-
+frontieres.com/JPP/telechargeables/Francais/LE%20CHRONOLOGICON.pdf	
+
+	
+
+	
+
+46	
+
+	
+
+Fig.	21	A	et	21	B	:	Dessins	extraits	du	Chronologicon		
+
+	
+	Quid	de	l’entropie	d’un	système	stellaire	?	C’est	à	dire	d’un	système	de	points-masses	
+régi	par	le	couple	équation	de	Vlasov	–	équation	de	Poisson.		
+	On	peut	calculer	l’entropie.	Mais	comment	celle-ci	pourrait-elle	varier	puisqu’il	n’y	a	pas	
+de	collisions,	d’échanges	entre	couples	de	particules,	d’étoiles	?		
+	
+
+	
+47	
+On	remarquera	que	la	dynamique	de	la	population	stellaire	n’est	pas	indépendant	du	
+reste	du	contenu	cosmique	des	galaxies	légères,	c’est	à	dire	du	fin	disque	de	gaz	situé	
+dans	le	plan	diamétral.	Au	passage	la	géométrie	de	ce	disque	est	celle	d’un	…	disque	
+microsillon.	On	a	vu	que	les	vitesses	d’agitation,	les	«	vitesses	résiduelles	»	des	étoiles	
+différaient	selon	leur	âge,	celle	des	étoiles	jeunes	étant	plus	faibles.	Elles	se	voient	donc	
+communiquer	de	l’énergie	cinétique	en	croisant	les	grumeaux	de	gaz,	de	diamètre	et	de	
+masse	variée	composant	le	disque.		
+	Quid	des	étoiles	anciennes,	celles	qui	emplissent	un	ellipsoïde	aplati.	Elles	traversent	le	
+fine	couche	gazeuse	«		de	temps	e	temps	»	mais	cela	ne	les	affectent	guère.	Il	y	a	par	
+ailleurs	des	galaxies	où	ce	gaz	interstellaire	est	absent,	qui	ne	sont	peuplées	que	de	
+vieilles	étoiles.	Si	elles	ne	tournent	pas	sur	elles-mêmes,	elles	affectent	alors	une	forme	
+sphéroïdale.	Selon	leur	mouvement	de	rotation,	cette	sphère	se	mue	en	ellipsoïde	plus	
+ou	moins	aplati.		
+	Il	n’est	pas	question	évidemment	d’avoir	accès	aux	vitesses	d’agitation	des	étoiles	dans	
+ces	ensembles,	ni	de	mettre	en	évidence	la	forme	de	leur	«	ellipsoïde	des	vitesses	
+résiduelles	».	C’est	au-delà	de	nos	capacités	d’observation.		Conceptuellement,	si	nous	
+pouvions	avoir	accès	à	ces	données,	il	nous	serait	possible	de	calculer	l’entropie	de	tels	
+systèmes	de	points-masses,	toujours	régi	par	le	couple	«	Equation	de	Vlasov-Equation	de	
+Poisson	».		
+	La	théorie	amènerait	alors	à	la	conclusion	que	cette	entropie	ne	varie	pas	et	que	ce	n’est	
+pas	à	travers	cet	outil	conceptuel	que	nous	pouvons	concevoir	un	schéma	évolutif	de	ces	
+galaxies.			
+	Sur	le	simple	plan	de	la	physique	mathématique,	quel	serait	alors	le	fil	conducteur	
+donnant	le	schéma	évolution	de	systèmes	de	points-masses	autogravitants	et	isolés	?		
+	En	d’autres	termes,	quel	est	le	mécanisme	qui	fait	que	ces	systèmes	échangent	quantité	
+de	mouvement	et	énergie,	puisqu’il	n’y	a	pas	de	phénomènes	collisionels	en	leur	sein.		
+		La	réponse	:	
+	
+	Dans	les	années	soixante	dix	les	théoriciens	ont	imaginé	que	ces	ondes	de	densité	
+pourraient	prendre	naissance	lorsque	deux	galaxies	passent	suffisamment	près	l’une	de	
+l’autre.	Des	simulations	numériques	ont	permis	de	reconstituer	le	phénomène.	L’objet-
+type	est	alors	«	la	galaxie	des	chiens	de	chasse	»,	découverte	en		par	l’astronome	Charles	
+Messier	en	1773	:	
+	
+
+Les	vecteurs	de	tels	échanges	sont	les	ondes	de	densité	qui	peuvent	y	prendre	naissance.	
+
+	
+
+48	
+
+	
+	
+
+Fig.	22	:	La	galaxie	des	chiens	de	chasse		
+
+	
+	Elle	est	située	à	27	millions	d’années	lumière	de	notre	galaxie,	la	Voie	Lactée	(la	plus	
+proche	est	la	galaxies	d’Andromède,	située	à	2,5	millions	d’années	lumière	).		
+En	voyant	cette	image	on	serait	tenté	de	penser	que	cette	galaxie	serait	gigantesque.	
+Mais	non,	elle	a	le	même	diamètre	que	la	nôtre	:	100.000	années	lumière,	avec	la	même	
+masse.	Dans	le	bestiaire	galactique	les	«	galaxies	spirales	»	se	classent	parmi	les	
+«	galaxies	légères	»	avec	ue	population	de	quelque	centaines	de	milliards	d’étoiles	et	une	
+masse	de	quelques	centaines	de	milliards	de	masses		solaires	(	un	milliard	d’étoiles	pour	
+Andromède,	avec	un	diamètre	de	220	millions	d’années-lumière	).		
+	Les	«	galaxies		elliptiques	»	ont	des	masses	de	un	à	deux	ordres	de	grandeur	plus	
+important.	Exemple	la	galaxie	M	87	(	2000	milliards	de	masses	solaires	).		
+	Revenons	à	M	51.	Elle	possède	un	compagnon,	une	mini-galaxie,	qui	croise	sa	route	au	
+sein	de	l’amas	qui	les	abrite.	Les	simulations	numériques	ont	permis	de	faire	apparaître	
+des	ondes	de	densité	qui	traduisent	la	réaction	de	M	51	vis	à	vis	de	la	perturbation	du	
+champ	gravitationnel	issue	de	l’approche	de	ce	compagnon.	Ces	ondes	de	densité	sont	
+les	lieux	de	plus	forte	densité	d’étoiles.	En	affectant	le	gaz	interstellaire	ceci	suscite	en	
+son	sein	la	naissances	d’étoiles,	qui	émettent	alors	aussitôt	dans	l’ultra-violet.	Ce	
+rayonnement	excite	les	atomes	et	molécules	du	gaz	interstellaire	qui	réemettent	par	
+phénomène	de	fluorescence.	C’est	cette	lumière	que	l’ont	voit	sur	la	photo.	Elle	ne	
+correspond	pas	à	l’amplitude	réelle	de	l’onde	de	densité.	Elle	n’est	que	son	révélateur.		
+	Quand	les	théoriciens	ont	eu	en	main	ces	simulations	ils	se	sont	dit	:		
+	
+-  Voilà	l’origine	des	structures	spirales.	Elles	sont	la	conséquence	d’interactions	entre	
+	
+
+galaxies	porteuses	de	gaz	!			
+
+	
+49	
+Mais	l’observation	met	en	évidence	ces	structures	dans	des	galaxies	trop	éloignées	de	
+leurs	voisines	pour	connaître	ces	interactions.	Par	ailleurs	ces	études	par	siimulations	
+numériques	ont	montré	que,	quand	on	introduisait	«	à	la	main	»	une	structure	spirale,	
+celle-ci	disparaissait	en	quelques	tours.		Françoise	Combes	a	imaginé	que	cette	structure	
+était	la	conséquence	d’un	apport	d’hydrogène	froid.	Mais	il	a	été	impossible	de	mettre	e	
+évidence	l’existence	de	masses	d’hydrogène	froid	entre	les	galaxies.	Au	contraire,	le	
+milieu	intergalactique	est	extrêmement	chaud,	à	des	millions	de	degrés,	ce	qu’a	révélé	
+son	analyse	par	captation	dans	la	bande	des	rayons	X.		
+	Actuellement	les	théoriciens	ont	opté	pour	l’idée	selon	laquelle	ces	structures	spirales	
+seraient	«	réactivées	»	périodiquement	par	un	phénomène	inconnu.		
+	En	1992	nous	avons	reconstitué	le	phénomène	par	simulation	et	obtenu	une	spirale	
+barrée	stable	sur	un	intervalle	de	temps	équivalent	à	l’âge	de	l’univers.	
+	
+
+	
+
+Fig.23	:	Notre	galaxie	numérique	
+
+	
+	
+Cette	stabilité	était	un	résultat	tout	à	fait	remarquable	mais	dans	le	milieu	personne	ne	
+daigna	s’intéresser	à	ce	résultat.	Nous	ne	parvînmes	pas	non	plus	à	publier	ce	résultat,	
+l’article	ayant	été	rejeté	par	toutes	les	revues	spécialisées	avec	comme	simple	réponse	:		
+	
+-  Sorry,	we	don’t	publish	specularive	works	…	
+	
+Cette	structure	était	due	à	l’interaction	entre	l’ensemble	de	points-masses	et	un	
+environnement	de	masse	négative,	assurant	son	confinement,	solution	d’un	système	
+mettant	en	jeu	deux	équations	de	Vlasov	couplées	par	l’équation	de	Poisson,	qui	sera	
+l’objet	du	présent	mémoire.		
+	Cette	digression	est	simplement	là	pour	montrer	comment	le	système	des	points-masses	
+(positives)	échange	de	l’énergie	avec	son	environnement,	alors	qu’il	n’y	a	pas	de	
+collisions.	L’échange	procède	grâce	à	l’apparition	d’ondes	de	densité,	dans	les	deux	
+milieux.	La	simulation	faisait	état	d’un	fort	ralentissement	dans	la	phase	initiale.	Ci	après	
+la	courbe	donnant	le	moment	cinétique	de	la	galaxie.		
+
+	
+		
+
+50	
+
+	
+
+	
+
+Fig.24	:	Evolution	du	moment	cinétique	de	la	galaxie	
+
+		Les	systèmes	non	collisionnels	peuvent	ainsi	évoluer	par	échange	d’énergie	et	de	
+quantité	de	mouvement,	en	faisant	naître	en	leur	sein	des	ondes	de	densité.	Ces	ondes	
+n’ont	de	raison	d’être	que	s’il	y	a	un	milieu	avec	lequel	interagir.	Comme	ce	second	
+milieu	n’était	pas	pris	en	charge	dans	les	simulations,	les	ondes	…	disparaissaient.	Mais	
+on	peut	penser	que	quand	les	théoriciens	auront	réalisé	cela	ils	envisageront	une	
+interaction	entre	les	galaxies	et	un	halo	de	matière	sombre	…	
+		
+	Nous	avons	l’équation	de	Poisson	:		
+	
+		Nous	savons	que	la	rotation	s’effectue	alors	en	corps	solide,	à	une	vitesse	angulaire	ω		
+constante.	Le	champ	de	température	est	également	uniforme.	Le	potentiel	gravitationnel,	
+le	champ	gravitationnel	et	la	densité	peuvent	se	déduire	du	calcul	numérique	associée	à	
+une	représentation	de	l’équation	de	Poisson	en	coordonnées	cylindriques	:		
+	
+
+Système	autogravitant	Maxwellien	avec	rotation.		
+
+   Δ Ψ = 4πG m ρo e
+
+kT Ψ(r,t) − 1
+− m
+
+⎥	
+
+2ρ2  ω2
+
+⎤
+⎥
+⎦
+
+⎡
+⎢
+⎢
+⎣
+
+x2 + y2	
+
+  u =
+
+ou
+
+1
+u
+
+∂Ψ
+∂u
+
++ ∂2Ψ
+
+∂2Ψ
+  
+
+51	
+
+∂2Ψ
+∂u2 +
+ 
+
+∂x2 + ∂2Ψ
+
+∂y2 + ∂2Ψ
+
+∂z2 = 4πG ρ
+
+	
+∂z2 = 4πG ρ	
+		C’est	une	question	sur	laquelle	nous	reviendrons	plus	loin.		
+	Enfin	il	reste	un	problème	à	envisager.		
+		Champ	gravitationnel	dans	un	milieu	homogène,	stationnaire.		
+	Densité	et	température	uniforme.	Que	reste-t-il	?	A	priori	l’équation	de	Poisson	:		
+	
+ΔΨ = 4πG ρ	
+	est	constant,	donc	le	second	membre	est	constant.	Le	premier	membre	doit	l’être	aussi.	
+Il	faut	donc	que	le	potentiel	gravitationnel	soit	«	non-constant	»,	sinon	le	premier	
+membre	serait	nul.	Cherchons	une	solution	à	symétrie	sphérique	:		
+	
+	Solution	:		
+	
+D’où	un	champ	gravitationnel,	radial,	attractif	:		
+	
+	Un	champ	qui	pointe	vers	l’origine	des	coordonnées,	a	priori	quelconque.	Qu’est-ce	donc	
+que	cette	diablerie	?		
+	Eh	oui	c’est	absurde.	Par	ailleurs	l’équation	de	Poisson	est	linéaire	et	se	prête	ainsi	à	une	
+superposition	de	solutions.	On	pourrait	ainsi	se	demander	quel	serait	le	champ	
+gravitationnel	dans	une	lacune	ménagée	«	dans	une	lacune	de	la	matière	sombre	».	
+L’idée,	pour	calculer	cela,	serait	de	superposer,	quelque	part,	à	une	distribution	
+uniforme	de	matière	sombre,	de	masse	positive,	une	sphère	emplie	d’une	matière	de	
+masse	équivalente,	de	signe	opposé.		
+	Effectivement	si	on	considère	une	sphère	emplie	d’une	masse	de	densité	négative,	en	
+suivant	l’équation	de	Poisson	on	aura	une	solution	identique	donnant	un	champ	
+gravitationnel,	de	signe	opposé	(	répulsif	)		:		
+	
+	
+
+Ψ = a r 2 → Ψ' = 2a r → Ψ" = 2a → a = 4πG ρ
+ 
+
+= 4πG ρ	
+
+d2Ψ
+dr2 +
+ 
+
+g = −
+  
+
+r	
+
+8πG ρ
+
+dΨ
+dr
+
+2
+r
+
+	
+
+3
+
+3
+
+	
+
+52	
+
+d2Ψ
+dr2 +
+ 
+
+2
+r
+
+dΨ
+dr
+
+= 4πG ρ( − )	
+
+	
+
+r	
+
+3
+
+3
+
+r =
+
+8πG ρ( + )
+
+8πG ρ( − )
+
+g ( − ) = −
+  
+
+Gravitational	field	in	a	dark	matter	gap.	
+
+	L’équation	étant	linéaire	je	peux	superposer	les	deux	potentiels	et	les	deux	champs	et	…	
+le	champ	dans	ma	lacune	est	donc	nul	!		
+	J’ai	adressé	en	novembre	2020	un	papier	résolvant	ce	paradoxe,	à	la	revue	Physical	
+Letters	A	intitulé	:		
+	
+		J’espère	qu’elle	enverra	mon	papier	à	un	referee	et	ne	fera	pas	comme	d’autres	revues,	
+renvoyer	l’article	sans	effectuer	cette	expertise.	Je	rendrai	compte	de	l’issue	de	la	
+démarche,	que	je	ne	peux	évoquer	ici,	car	il	relève	du	matériel	mathématique	de	la	
+relativité	Générale.	Il	faut	se	demander	d’où	vient	l’équation	de	Poisson.		
+	Dans	ce	mémoire	je	m’adresse	aux	lecteurs	niveau	mathématiques	spéciales.	Ils	
+connaissent	l’équation	de	Poisson	de	l’électromagnétisme.		
+	
+	Le	potentiel	électrique	V	est	newtonien,	en	1/r	.Le	champ	électrique	s’exprime	donc	
+sous	la	forme	du	gradient	du	potentiel.		Au	numérateur	de	la	fraction	figure	la	densité	
+locale	de	charge	électrique.	On	calcule	alors	la	flux	du	vecteur	champ	électrique	à	travers	
+une	surface	fermée.	Puis	on	joue	sur	le	le	faire	que	le	flux	à	travers	la	surface	fermée	est	
+égale	à	la	divergence	du	vecteur.	Or	la	divergence	d’un	gradient	c’est	le	Laplacien	du	
+potentiel,	etc.	D’où	cette	belle	équations.		
+	Le	potentiel	gravitationnel	est	aussi	Newtonien,	en	1/r	et	le	champ	gravitationnel	en	
+1/r2.	On	imagine	donc	qu’on	va	pouvoir	refaire	le	même	calcule,	avec	un	changement	de	
+signe	qui	vient	du	fait	qu’une	charge	électrique	positive,	agissant	sur	une	charge	de	
+même	signe	donne	une	force	de	répulsion,	alors	qu’en	gravitation	la	force	est	attractive.	
+D’où	le		
+	
+	Où	est	l’os	?	…	
+	C’est	l’infini	qui	nous	joue	des	tours.	En	électromagnétisme	la	présente	d’une	densité	de	
+charge	électrique	n’est	qu’un	phénomène	local.	A	l’infini,	et	mêle	simplement	«	au	loin	»	
+cette	charge	est	nulle.		
+	
+
+ ΔΨ = 4πG ρ	
+
+= 0	
+
+Δ V +
+  
+
+ρe
+εo
+
+Entropie	maximale	et	univers	tournants.	
+
+	
+53	
+La	charge	électrique	de	l’univers	ne	peut	être	qu’égale	à	strictement	zéro.	Pourquoi	?		
+Parce	que	si	elle	était	non	nulle	l’univers	exploserait	immédiatement,	sous	l’effet	d’une	
+force	de	répulsion	1039	fois	plus	force	que	la	forces	de	gravitation.	Personne	ne	se	soucie	
+donc	de	calculer	le	champ	électrique	dans	une	distribution	uniforme	de	charge	
+électrique.	Tout	change	en	gravitation.		
+	Pour	résoudre	le	paradoxe	il	faut	donc	remonter	à	la	véritable	source	de	l’équation	de	
+Poisson		la	linéarisation	de	l’équation	d’Einstein	On	s’aperçoit	alors	qu’il	est	impossible	
+de	définir	le	potentiel	gravitationnel	dans	un	milieu	uniforme.	Le	champ	gravitationnel	
+est	donc	nul	dans	ce	milieu	de	masse	volumique	uniforme.	C’est	ce	que	je	montre	dans	
+l’article	soumis	à	Physical	Letters	A.	Affaire	à	suivre.		
+			&&&	Si	j’ai	le	temps	je	rajouterai	ici	la	solution	Maxwellienne	exacte,	instationnaire,	avec	
+rotation	en	corps	solide,	que	nous	avions	publiée	au	comptes	Rendus	de	l’Académie	des	
+Sciences	de	Paris,	Monnet	et	moi,	en	19756.	,	intitulée		
+	
+	Nous	allons	maintenant	passer	à	ce	qui	constitue	le	véritabe	but	du	présent	travail	:	
+construire	le	premier	modèle	de	galaxie	en	tannt	que	solution	exacte	d’un	ensemble	
+cnstitué	par		
+	
+-  Deux	équations	de	Vlasov	(pour	les	masses	positives	et	les	masses	négatives	)		
+-  L’équation	Poisson	assurant	le	couplage.		
+		A	propos	de	l’ellipsoïde	des	vitesses	:	Quand	la	galaxie	se	forme,	elle	résulte	de	
+l’implosion	d’une	masse	de	gaz,	qui	de	toute	façon	ne	pourrait	être	totale	du	fait	qu’il	
+existe	toujours	un	certain	mouvement	de	rotation,	synonyme	de	turbulence.	L’équations	
+dynamique	n’est	donc	pas	celle	de	Friedmann,	mais	celle	d’Heckman	et	Sücking,	que	
+nous	avions	retrouvée	et	publié	en	1972	au	Comptes	Rendus	de	l’Académie	des	Sciences	
+de	Paris.		De	toute	façon	le	processus	est	dissipatif.	Il	y	a	rebond,	mais	limité.	Durent	ce	
+processus	des	collisions	interviennent,	qui	se	traduisent	par	des	redistributions	de	
+vitesses	résiduelles	selon	des	composantes	non	radiales,	transverses.		
+Ces	collisions	seront	plus	importante	près	du	centre,	dans	les	régions	plus	denses.	Cela	
+les	
+cautionne	 mon	 hypothèse	 d’une	 distribution	 des	 vitesses	 résiduelles	 dont	
+composantes	 transverses	 tombent	 à	 zéro	 à	 grande	 distance.	 Une	 distribution	
+maxwelienne	au	centre	et	quasi	maxwellienne	en	son	voisinage.		De	même,	la	loi	de	
+vitesse	sera	linéaire	dans	le	noyau	de	la	galaxie.		
+La	solution	stationnaire	donne	une	composante	de	la	vitesse	résiduelle	radiale		
+indépendante	de	la	distance.		
+																																																								
+6	http://www.jp-petit.org/papers/CRAS/cosmology_1975b.pdf	
+
+	
+54	
+En	1942	Chandrasekhar	avait	étudié,	analytiquement,	une	solution	Maxwellienne	de	
+l’équation	de	Vlasov	et	trouve	que	la	«	température	»	du	milieu	(	la	valeur	du	carré	de	la	
+vitesse	résiduelle	moyenne	)	était	indépendante	de	la	distance.	Il	avait	également	tracé	
+le	profil	de	la	densité	et	déduit,	aisément,	que	la	masse	de	l’objet	était	infinie.	Ci-après	sa	
+courbe	:	
+
+	
+
+2
+
+Ψ" +
+  
+
+r Ψ' = e − Ψ	
+
+Cela	correspondait	à	l’équation	de	Poisson	:		
+Ici	cette	équation	a	été	écrit	sous	sa	forme	adimensionnelle.	Il	importe	que	bien	situer	
+cette	 transformation.	 En	 mode	 dimensionnel		 cette	 équation	 s’écrit,	 en	 mode	
+dtationnaire	et	en	symétrie	sphérique			:		
+Le	coefficient		
+a	la	dimension	de	l’inverse	du	carré	d’une	vitesse	Vo	L’exposant	est	de	dimension	zéro.	
+Donc	le	potentiel	a	la	dimension	du	carré	d’une	vitesse	:	L2	T-2	=	Vo2	
+
+kTo	
+
+kTo	
+
+d2Ψ
+dr2 +
+  
+
+= 4πGρo e
+
+dΨ
+dr
+
+− mΨ
+
+2
+r
+
+m
+
+  
+
+2 ϕ	
+
+  On posera Ψ = Vo
+
+2
+
+2
+
+2
+
+⎛
+⎝⎜
+
+2
+u
+
+2
+u
+
+Lo
+Vo
+
+dϕ
+du
+
+Vo
+Lo
+  
+
+⎞
+dϕ
+du
+
+= 4πGρo
+
+d2ϕ
+du2 +
+
+55	
+
+d2ϕ
+du2 +
+  
+
+ On choisit Vo = 104m / s	(	ordre	des	vitesses	résuduelles	stellaires	)		
+
+ On posera r = Lo u	
+⎠⎟ = 4πGρo e −ϕ	
+2 e −ϕ	
+1kiloparsec = 31019m 	
+ Vo = 104m / s = 10km / s	
+
+	
+On	fait	ensuite	apparaître	une	longueur	caractéristique	 L o	en	posant	:		
+L’équation	s’écrit	:		
+On	obtient	aors	une	équation	qui	s’écit	:		
+On	va	exprimer	Lo	en	kilo	parsecs	en	sachant	que	
+Mais	je	vais	garder	:		
+en	définissant	le	potentiel	comme	des	multiples	de	cette	quantité.	J’aurai	ainsi	:		
+) 	
+Il	y	a	quelque	chose	qui	manque	dans	le	traitemement	de	Gilles.	C’est	la	donnée	«	vitesse	
+d’agitation	thermique	».	Si	on	opte	pour	le	choix	ci-dessus	l’exposant	c’est	pas	l’unité.		
+Il	faut	introduite	le	coefficient	Vth	(	qui	est	un	nombre	)	selon	:		
+) 	
+Alors	on	aura	:		
+Il	faut	y	aller	progressivement.	Ainsi,	compte	tenu	des	choix	effectués	:		
+
+kTo
+k = Vth × Vo = Vth × 104 mètres / s
+
+) = 10−8ϕ exprimé en (dizaines de km / s)2
+
+(
+Ψ exprimé en (m / s)2
+
+r (mètres) = 31019 u (kiloparsec)
+
+− mΨ
+kTo = e
+
+2	
+
+− ϕ
+Vth
+
+	
+
+   e
+
+(
+
+(
+
+  
+
+  
+
+  
+
+ 
+
+2
+
+Vo
+Lo
+  
+
+2
+
+⎛
+⎝⎜
+
+d2ϕ
+du2 +
+
+2
+u
+
+⎞
+dϕ
+⎠⎟ = 4πGρo e
+du
+
+2	
+
+− ϕ
+Vth
+
+(
+
+(
+
+⎞
+⎠⎟
+
+	
+
+2
+u
+
+⎛
+⎝⎜
+  
+
+− ϕ
+Vth
+
+)- e
+
+104
+31019
+
+) rho 10−21
+
+2 d2ϕ
+⎛
+du2 +
+⎝⎜
+
+⎞
+dϕ
+⎠⎟ = 4π 6.67 10−11
+du
+
+   ρo (en k / m3) = rhozero (sans dimension ) × 10−21
+
+	
+56	
+Maintenant	nous	faisons	apparaître	le	second	paramètre	de	la	solutions	:		
+J’introduis	la	valeur	de	référence	de	la	masse	volumique	:	10-21	k/m3	
+Cela	va	me	permettre	d’exprimer	ma	donnée	de	masse	volumique	à	l’aide	d’une	quantité	
+d’un	nombre	qui	correspondra	au	regaistre	informatique	rho	
+(	quand	j’aurai	deux	types	de	masse	je	manipulerai	rhoplus	et	rhomoins	)	.	J’écrirai	
+donc	:		
+Avec	:	Vo	=	104	m/s		et	Lo	=	3	1019	mètres		(	dix	kiloparsecs)	j’ai	:		
+Ce	qui	s’écrira	:		
+Soit	(	sauf	erreur	)	mon	équation	adimensionnelle,	avec	ses	deux	paramètres	d’entrée	
+est		
+	
+où	rho	doit	être	traduit	en	multiples	de	10-21	kilo/mètre	cube	
+et	Vth	en	multiples	de	10	km/s.		
+Alors	la	solution	sera	exprimée	en	multiples	de	108	m/s	au	carré.		
+Comment	exploite-t-on	les	valeurs	numériques	obtenues.		
+Le	calcul	nous	donne,	dans	le	registre		
+du	
+la	valeur	du	potentiel,	exprimé	en		
+On	peut	alors	rechercher	la	vitesse	d’orbiration	circulier.	En	«	dimsnsionnel	»	:		
+
+)2 par kiloparsec		
+
+(
+   dizaines de milliers de m / s
+
+2	
+2	
+
+(
+× 6.6710−11
+
+potentiel =
+ 
+
+) rhozero e
+
+= 7.54 rhozero e
+
+d2ϕ
+du2 +
+  
+
+⎛
+= 4π
+⎝⎜
+
+) 10−21
+(
+
+d2ϕ
+du2 +
+
+31019
+104
+
+− ϕ
+Vth
+
+dϕ
+du
+
+dϕ
+du
+
+− ϕ
+Vth
+
+dϕ
+
+2
+u
+
+2
+u
+
+⎞
+⎠⎟
+
+  
+
+2
+
+2
+
+=
+
+	
+
+)2
+
+(
+ 
+
+dΨ
+dr
+
+Vrot
+r
+
+r dΨ
+dr
+
+→ Vrot =
+
+57	
+
+	
+Dans	le	calcul	numérique	la	dérivée	du	potentiel	sera	dans	un	registre	:		
+Si	je	forme	dansle	programme	la	quantité	présente	da	ns	le	registre	:		
+J’obtiendrai	cette	valeur	de	la	vitesse	de	rotation	directement	exprimée	en	disaines	de	
+kilomètres	par	seconde.		
+Da	la	même	optique	j’ai	:		
+Si	je	fabrique	le	contenu	de	ce	registre	rho,	les	valeurs	obtenue	seront	en	multiples	de	
+10-21	kilo/m3	
+	
+
+= potentiel1	
+vtrot	=	sqr	(	u	*	potentiel1)	
+
+   rho = rhozero e
+
+dϕ
+du
+ 
+
+2	
+
+− ϕ
+Vth
+
+	
+
+	
+58	
+J’ai	joué	ensuite	avec	les	paramètres	pour	en	sentir	les	effets.	Ci-après	l’effet	sur	le	profil	
+de	vitesse.	Celui-ci	présente	un	palier	et	c’est	celui	sur	lequel	on	joue	en	ajoutant	un	halo	
+de	matière	sombre.		
+
+	
+J’ai	repris	et	programmé	ce	qu’on	avait	initié	en	1972,	à	savoir	la	distribution	elliptique	à	
+symétrie	sphérique.	
+Passons	à	la	solution	elliptique	à	symétrie	sphérique	:		
+
+	
+
+	
+
+	
+
+Fig.26	:	Evolution	de	l’ellipsoïde	des	vitesses	en	fonction	de	la	distance	
+
+59	
+
+	
+	
+L’équation	solution	est	alors	:		
+		Voilà	ce	que	ça	donne,	numériquement	:		
+
+Lnf = Ln B −
+  
+
+Ψ" +
+
+2
+r
+
+ 
+
+Ψ' =
+
+C2 + a ( C .r )2	
+	
+
+- mΨ
+kTo
+
+e
+
+m
+2k H
+
+4πG ρo
+r 2
+1+
+ro
+2
+
+	
+Une	telle	solution	pourrait	tendre	à	modéliser	une	galaxies	spéroïdale	à	laquelle	
+s’ajouterait	un	disque	de	gaz.		
+On	voit	que	la	masse	tend	toujours	vers	l’infini,	mais	«	moins	vite	».	Ceci	indique	que	
+même	avec	une	distribution	elliptique	il	faudra	un	environnement	confinant	de	masse	
+négative	pour	donne	une	masse	finie	aux	galaxies	en	tant	que	solutions	exactes.		
+
+	
+
+

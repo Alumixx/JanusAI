@@ -1,0 +1,1352 @@
+GRA VI "I ATIONAL CONTRACTION
+
+phase,
+
+knowing
+
+densed neutron phase would start at the center.
+of the con-
+By reason of the greater density
+the star will begin to collapse.
+densed
+The details of this process are di6.cult to analyze
+the change of density and the
+without
+(latent heat of evapora-
+heat of condensation
+tion). If the latter one can be neglected beside
+stellar
+the
+can go on until a very thin
+interior,
+con-
+the
+neutron
+affords a
+densed neutron
+
+around
+core. This hypothesis
+
+collapsing
+atmosphere
+
+liberation
+
+regular
+
+energy
+
+left
+
+the
+
+in
+
+is
+
+originate
+
+the supernovae
+
+concrete physical basis for Zwicky's'
+suggestion
+that
+from the sudden
+to a centrally
+transition
+a detailed
+that
+condensed
+analysis of this problem must await a great deal
+data concerning the physical
+more experimental
+properties of the neutron.
+
+star
+of an ordinary
+one. It is obvious
+
+like to express my thanks
+discussions
+
+for helpful
+
+to Dr.
+on the
+
+I should
+
+Rupert Wildt
+subject.
+
+6 F. Zwicky, Astrophys. J. 88, 522 (&938).
+
+SEPTEM BER 1, 1939
+
+PHYSICAL REVIEW
+
+VOLUM E 56
+
+On Continued Gravitational Contraction
+
+J. R. OPPENHEIMER AND H. SNYDER
+
+University of California, Berkeley, California
+
+(Received July 10, 1939)
+
+heavy
+
+describe
+
+When all
+
+a suSciently
+
+thermonuclear
+
+this process.
+
+are exhausted
+
+In I, general
+
+sources of energy
+
+fission due to rotation,
+
+reduce the star's mass to the order of that of the sun,
+
+In the present paper we study the solutions of the gravitational
+
+collapse. Unless
+radiation,
+indefinitely.
+which
+behavior
+proaches
+gressively
+analytic solution of the field equations
+case that
+server comoving with the stellar matter
+masses, of the order of a day; an external observer
+its gravitational
+
+of the metrical
+asymptotically
+reddened,
+
+tensor as the contraction
+its gravitational
+
+star will
+the radiation of mass, or the blowing off of mass by
+this contraction will continue
+field equations
+on the
+the radius of the star ap-
+is pro-
+In II, an
+is obtained for the
+time of collapse for an ob-
+stellar
+to
+
+is finite, and for this idealized case and typical
+
+light
+and can escape over a progressively
+
+the pressure within the star can be neglected. The total
+
+from the surface of the star
+
+sees the star asymptotically
+
+these general arguments
+
+range of angles.
+
+and qualitative
+
+progresses:
+
+are given
+
+confirming
+
+arguments
+
+shrinking
+
+narrower
+
+radius;
+
+radius.
+
+that
+
+field equations
+
+relativistic
+static
+
+ECENTLY it has been shown'
+general
+any
+
+the
+do not
+for a spherical
+if the total mass of
+of cold neutrons
+0.7Q. It seems of
+than
+is greater
+to investigate
+the behavior of nonstatic
+
+possess
+distribution
+the neutrons
+interest
+solutions of the field equations.
+
+solutions
+
+have
+
+In this work we will be concerned with stars
+large masses, &0.7Q, and which
+which
+have used up their nuclear
+sources of energy. A
+star under
+collapse
+field and
+under
+release energy. This energy could be divided into
+four parts:
+(1) kinetic energy of motion of the
+and G. M. Volkoff, Phys. Rev. SS,
+
+the inAuence of its gravitational
+
+these circumstances would
+
+i J. R. Oppenheimer
+
+374 (1939).
+
+rotational
+
+in the star,
+
+(2) radiation,
+
+could be blown
+
+(3) potential
+particles
+and kinetic energy of the outer layers of the star
+away by the radiation,
+which
+the
+could divide
+energy which
+(4)
+If the mass of the
+star into two or more parts.
+original star were sufficiently small, or if enough
+of the star could be blown from the surface by
+or lost directly in radiation, or if the
+radiation,
+angular momentum of the star were great enough
+to split
+then the re-
+static
+maining matter
+a white dwarf star. We consider the
+distribution,
+case where this cannot happen.
+
+form a stable
+
+into small
+
+fragments,
+
+could
+
+it
+
+If then,
+
+neglect
+
+the
+radiation
+
+for the late stages of contraction, we
+effect of any
+still
+and may
+symmetry
+
+gravitational
+or matter,
+
+from spherical
+
+the deviations
+
+can
+escaping
+neglect
+
+J. R. OPPENHEI MER AND H. SNYDER
+
+456
+
+produced
+the boundary
+the form
+
+ds' = e"dt'
+
+with
+
+by rotation,
+
+r& of the stellar matter must
+
+the line element outside
+take
+
+ftdy')
+
+(1)
+
+e"d—r'
+e"= (1
+e"= (1
+
+r'(—d8'+sin'
+ro/—r)
+r,/r)—
+
+radius
+
+it against
+
+to support
+
+up by a factor
+outward
+
+since the pressure of the stellar matter
+
+and
+Here ro is the gravitational
+connected
+radius,
+nz of the star by
+with the gravitational mass
+and constant. We should now expect
+rp=2mg/c',
+that
+is
+its own gravi-
+insufficient
+the star will contract, and its
+tational attraction,
+r& will necessarily approach the gravi-
+boundary
+the surface of the star,
+tational
+ro. Near
+where the pressure must
+in any case be low, we
+should expect to have a local observer see matter
+falling inward with a velocity very close to that
+of light; to a distant observer
+this motion will be
+e—nergy
+slowed
+from the surface of the star
+emitted
+will be reduced very much in escaping, by the
+Doppler effect from the receding source, by the
+red-shift,
+and by
+large gravitational
+the gravitational
+deflection of light which will
+the escape of radiation except through a
+prevent
+the outward normal of progressively
+cone about
+shrinking aperture as the star contracts. The star
+thus tends to close itself off from any communi-
+cation with a distant observer; only its gravi-
+that
+tational
+from the point of view of a
+although
+this
+distant
+an
+for an
+asymptotic
+this
+observer
+time is finite and may be quite short.
+
+field persists. We shall
+it takes,
+observer,
+
+comoving with the stellar matter
+
+to be established,
+
+(1—ro/rz)l,
+
+(1 ro/r&). All
+
+see later
+
+isolation
+
+infinite
+
+time
+
+for
+
+Inside the star we shall still suppose that
+
+the
+distributed. We may then
+in the form (1). For this
+
+are
+
+1/r') +——1/r'—
+
+(2)
+(3)
+
+matter
+is spherically
+take the line element
+line element
+—S~T&'
+SwT4'
+
+the field equations
+e "(v'/r+1/r'——) —1/r'
+e~(X'/r
+—82'-T2' ———8m. T3'
+(v"
+E2
+
+=e 'I —+—— +
+
+v"
+
+v'X'
+
+4
+
+v' —X')
+2r
+
+4
+—e "(X/2+X'/4 —'hv/4),
+
+S~T '= S~e" "T,4= —e 'X/—r;
+
+(4)
+(5)
+
+with
+in which primes
+respect to r and dots differentiation with respect
+to t.
+
+differentiation
+
+represent
+
+have
+
+nuclei,
+
+relation
+
+density,
+
+between
+
+neutrons
+
+a definite
+
+and which
+
+and other
+
+and temperature.
+
+is moving
+in comoving
+
+The energy-momentum tensor T„I"is composed
+of two parts: (1) a material part due to electrons,
+(2) radi-
+protons,
+ation. The material part may be thought
+of as
+that of a fluid which
+in a radial
+coordinates
+direction,
+the
+would
+The radi-
+pressure,
+to be in equilibrium
+ation may be considered
+with the matter at this temperature,
+flow of radiation due to a temperature
+
+except for a
+gradient.
+We have been unable to integrate these equa-
+to
+
+tions except when we place the pressure equal
+zero. However, one can obtain some information
+about
+implied by
+the differential
+and from conditions
+for regularity of the solutions. From Eqs. (2) and
+(3) one can see that unless X vanishes
+least
+r~o, T44 will become
+as rapidly
+and that either or both TI' and v' will
+singular
+such a singularity
+become singular.
+Physically
+would mean that
+the
+the expression
+tensor does not take account
+energy-momentum
+fact which would
+of some
+physical
+really smooth the singularity out. Further, a star
+in its early stage of development
+not
+is
+possess
+to develop in a finite
+impossible
+time.
+
+for a singularity
+
+from inequalities
+
+as r' when
+
+the solutions
+
+or pressure;
+
+a singular
+
+equations
+
+used for
+
+essential
+
+density
+
+would
+
+If, therefore, X(r=0) =0, we can express X in
+
+at
+
+it
+
+terms of T44, for, integrating Eq. (3)
+1 —— T4'r'dr
+
+) = —ln
+
+8x
+
+0
+
+Therefore ) &~ 0 for all r since T4' &~ 0.
+
+Now that we know ) &~ 0, it is easy to obtain
+
+some information
+
+about v' from Eq. (2);
+
+v'& 0,
+since ) and —T&' are equal
+zero.
+
+to or greater
+
+than
+
+If we use clock time at r = ~, we may take
+condition and
+
+r(r= ~) =0. From this boundary
+Eq. (7) we deduce
+
+v&0.
+
+The condition that
+
+space be flat
+
+for large r is
+
+(6)
+
+(7)
+
+(S)
+
+GRAVITATIONAL
+X(r = ~) =0. Adding Eqs. (2) and (3) we obtain:
+(9)
+Since T4' is greater than zero and T&' is less than
+zero we conclude
+
+87r(T44 T—') = e"(X'+ v')/r.
+
+),'+v'& 0.
+
+(10)
+
+Because of the boundary
+we have
+
+conditions on X and v
+
+)+v& 0.
+
+For those parts of the star which are collapsing,
+i.e., all parts of the star except those being blown
+away by the radiation, Eq. (5) tells us that X is
+than zero. Since ) increases with time,
+it
+greater
+may (a) approach an asymptotic value uniformly
+as a function of r; or (b) increase indefinitely,
+as a function of
+although certainly not uniformly
+r, since X(r=0) =0. If X were
+to approach
+a
+a
+limiting value the star would be approaching
+stationary state. However, we are supposing that
+between the T„& do not admit
+the relationships
+any stationary
+exclude
+this possibility. Under case (b) we might expect
+that
+'A will
+become greater than any preassigned
+value if t is
+large. If this were so the volume of
+sufficiently
+the star
+
+for any value of r greater
+
+and therefore
+
+than zero,
+
+solutions,
+
+U= 4z
+
+e"~'r'dr
+
+'rb
+
+0
+
+(12)
+
+would increase indefinitely with time; since the
+the mean density in the star
+mass is constant,
+would tend to zero. We shall see, however,
+that
+ro, X approaches a finite
+for all values of r except
+increase
+limiting
+indefinitely.
+
+value; only for r=ro does it
+
+tensor
+
+To investigate
+
+to the field
+
+this question we will solve the
+form of the
+field equations with the limiting
+in which the pressure
+energy-momentum
+is zero. When the pressure vanishes
+there are no
+static solutions
+except
+when all components of T „I"vanish. With P = 0 we
+collapse of the matter.
+have the free gravitational
+the
+We believe
+solution obtained this way give a valid indication
+even for the case that
+is not zero,
+the mass is great enough to cause
+provided that
+collapse.
+
+the pressure
+
+the general
+
+equations
+
+features
+
+that
+
+of
+
+CONTRACTION
+
+For the solution
+found it convenient
+Tolman'
+which
+finding a solution, we will
+transformation
+
+and use another
+
+are comoving with
+
+of this problem, we have
+to follow the earlier work of
+system of coordinates,
+the matter. After
+introduce a coordinate
+
+to put the line element
+
+in form (1).
+
+We take a line element of the form:
+
+ds'=dr'
+
+e"—dR' —e"(d0'+sin' ed'').
+
+(13)
+
+Because the coordinates
+matter and the pressure is zero,
+
+are comoving with the
+
+T4 =p
+
+and all other
+mentum tensor vanish.
+
+components
+
+of the energy mo-
+
+The field equations are:
+87rT '=O=e "—e "—+~+4co'=0,
+
+M
+
+4
+
+8~T&' ——8~T, =0= —s
+
+(14)
+
+(15)
+
+Gd
+
+) —+——
+QA0 i
+(M
+( 2
+4
+
+4
+
+~ ~
+
++ +—+ + +, (Ifi)
+
+2
+
+4
+
+2
+
+4
+
+4
+
+8~T '=8~a=& "—s "~ (o"+4~"—
+
+I.
+
+2)
+
+S7fe"T4' ———87r Tg4 = 0 =
+
+GO
+
+AGO
+
++—+—, (17)
+4
+——+~'
+— I
+
+(18)
+
+2
+
+2
+
+I
+
+2
+
+with primes and dots here and in the following
+to R and
+representing
+r, respectively. The integral of Eq. (18) is given
+by Tolman
+
+differentiation with respect
+
+e"= e~&a '/4f'(R)
+
+(19)
+
+a. positive
+
+with f'(R)
+arbitrary
+function of R. We find a sufficiently wide class of
+solutions
+
+if we put f'(R) = 1.
+
+but otherwise
+
+(19) in (15) with f'(R) = 1 we
+
+Substituting
+
+obtain
+
+M+ gM =0.
+
+(20)
+
+2 R. C. Tolman, Proc. Nat. Acad. Sci. 20, 3 (1934).
+3 WVe wish to thank Professor R. C. Tolman and Mr. G.
+available
+
+Orner for making this portion of the development
+to us, and for helpful discussions.
+
+458
+
+J. R. OPPENHEIMER AND H. SNYDER
+
+The solution of this equation is:
+
+e =(Fr+G)4~2,
+
+(21)
+
+in which F and G are arbitrary functions of R.
+of (19) in (16) gives a result
+to (20). Therefore the solution of the
+
+The substitution
+
+equivalent
+field equations
+
+is (21).
+
+For the density we obtain from (17), (19),
+
+and (21)
+
+82yp = 4/3 (r+ G/F)
+
+'(r+ G—'/F') '(—22)
+
+real
+
+There is less
+
+freedom in (21) than is
+from the two arbitrary functions F and
+apparent
+G; for taking R a function
+of a new variable
+R* the differential
+(15), (17) and (18)
+equations
+will remain of the same form. We may therefore
+choose
+
+G=R'.
+
+At a particular
+
+time, say r equal zero, we may
+assign the density as a function of R. Eq. (22)
+then becomes a first-order differential
+equation
+for F.
+
+FF' = 92rR2pp(R).
+
+The solution of this equation contains only one
+arbitrary constant. We now see that the effect of
+to one allows us to assign
+setting f2(R) equal
+for the
+only a one-parameter
+initial values of po, whereas
+in general one should
+be able to assign the initial values of po arbitrarily.
+
+family of functions
+
+We now take, as a particular case of (24):
+
+const. XR',
+FF~—
+0
+
+const. &0; R (Rg
+R &Rp.
+solution of this equation is:
+
+A particular
+
+F'=
+
+,'r p'*(R/Rp) '—; —R(Rp
+1f0 2
+R&Rf,
+
+2
+
+(25)
+
+(26)
+
+in which
+convenience,
+the star.
+
+the
+
+constant
+
+«0
+
+is
+
+introduced
+
+and is the gravitational
+
+for
+radius of
+
+We wish to find a coordinate
+
+transformation
+
+which will change the line element
+It is clear, by comparison
+we must take
+
+into form (1).
+of (1) and (13), that
+
+same form as those in Eq. (1). Using the contra-
+form of the metric tensor, we find that:
+varient
+g44 —e—v —t2
+g1 1 — e—x — (1
+g'4= 0 = tr
+y,'/r'—.
+
+yv2/yv2 —t2( 1 r'2)
+
+(28)
+
+(29)
+
+r'2)
+
+(30)
+
+(30)
+
+is a first-order
+
+Here
+equation for 3 Us. ing the values of r given by (27),
+and the values of F and G given by (26) and (23)
+we find:
+
+differential
+
+partial
+
+t'/t =r'r'=
+
+The general
+
+—(rpR)4[R2 ——22rp~r]
+—rppRRp 2[1—prp'*rRp
+solution of (31) is:
+
+'; R)Rp
+
+(3])
+
+'*$2; R& Ra.
+
+t=L(x) for R)Rp, with x=
+
+(RI—rt)
+
+2
+
+3f0
+
+—2(rrp)'*+rp ln
+
+«'+f 0'
+
+f2
+
+fO2
+
+(=M(y) for R&Rb, with y=2[(R/Rp)' —1j
+
+(32)
+
++Rpr/rpR,
+
+arbitrary
+
+func-
+
+where L and M are completely
+tions of their arguments.
+
+Outside the star, where R is greater than R~, we
+to be of the Schwartzchild
+the gravi-
+thus
+
+wish the line element
+form,
+tational. effect of any escaping radiation;
+
+since we are again neglecting
+
+e' = (1 rp/r)-
+e"= (1 rp/r)—
+
+(33)
+
+fixes
+
+requirement
+
+This
+(28) we can show that we must
+
+(34)
+the form of L; from
+take L(x) = x, or
+(35)
+At the surface of the star, R equal R&, we must
+to 3f for all 7.. The form of M is
+
+have L equal
+determined
+/=M(y) =-', rp 1(Rpp —rp~y2)
+
+by this condition to be:
+
+2rpy&+rp ln— .
+y& —1
+
+(36)
+
+e""= Fr+Gr=r.
+t which is a function of v and R formation
+
+27
+
+Eq. (36), together with (27), defines
+
+the trans-
+from R, ~ to r and t, and implicitly,
+
+so that
+
+the g„„are of the
+
+from (28) and (29), the metrical
+
+tensor.
+
+A new variable
+must be introduced
+
+IONS I N THE CYCLOTRON
+
+We now wish to find the asymptotic behavior
+
+of e", e", and r for large values of t. When t is „,,«„»
+
+relation from
+
+large we obtain the approximate
+Eqs. (36) and (27):
+
+e "—1 —(R/Rb)2{e 'I"'+2[3—(R/Rb)'j} ',
+
+«„,+,[3 I/R), j}
+
+(38)
+
+(39)
+
+t
+
+rb—ln»-, [(R/Rb)' —3]
++Rb/ro(1
+
+3rb'r—/2Rb') *
+
+I .
+
+(37)
+
+From this
+
+relation we see that
+for a fixed
+value of R as t tends toward infinity,
+7 tends to a
+finite limit, which increases with R. After
+this
+time vo an observer
+comoving with the matter
+would not be able to send a light signal
+from the
+star; the cone within which a signal can escape
+has closed entirely. For a star which has an
+initial density of one gram per cubic centimeter
+and a mass of 10"grams this time To is about a
+day.
+
+Substituting
+
+(27) and (37) into (28) and (29)
+
+we find
+
+the qualitative
+
+This quantitative
+
+For R less than R~, e" tends to a finite limit as
+t
+tends to infinity. For R equal
+to Rb, e" tends to
+infinity like e""' as t approaches
+infinity. Where
+R is less than Rt„e" tends to zero like e '""' and
+where R is equal to R&, e" tends to zero like e '~"'.
+account of the behavior of
+e" and e" can supplement
+dis-
+cussion given in I. For ) tends to a finite limit
+and for r = ro
+for r &ro as t approaches
+tends to infinity. Also for r &~ ro, p tends to minus
+this behavior will be
+infinity. We expect
+reajized by all collapsing stars which cannot end
+in a stable stationary
+state. Of course, actual
+stars would
+the
+example which we studied analytically
+because
+of the effect of the pressure of matter, of radi-
+ation, and of rotation.
+
+collapse more
+
+infinity,
+
+s]owly
+
+than
+
+that
+
+SEPTEM BER 1, 1939
+
+PH YSI CAL REVIEW
+
+VOI UME 56
+
+Formation of Ions in the Cyclotron
+
+Radiation I.aboratory, Department of Physics, University of California, Berkeley, Cal&fornia
+
+RQBERT R. WILsoN
+
+(Received July 10, 1939)
+
+of the initial
+
+Measurements
+
+ionization in a cyclotron, produced by the use of a filament, as a
+function of the pressure,
+of
+ionization is found to be too high to be simply explained
+by an electron passing between the
+region between dees only once. A theory is proposed wherein some of the electrons are caught
+by the changing electric field between the dees and oscillate back and forth many times during a
+cycle of the dee voltage. Experimental
+observations which conform to the theory are described.
+
+and dee voltage are presented, The amount
+
+electron emission,
+
+and homogeneity
+
+HE manner of formation of the initial
+in a cyclotron is important
+
+ions
+as it affects the
+intensity
+of the high energy
+Ideally the ions should be formed in a
+beam.
+region at the center of cyclotron and
+very small
+at the median plane. Livingston, Holloway and
+Baker' have developed
+a capillary type of ion
+source with
+However,
+extended filament
+ion sources are more generally
+used at present because they give larger circu-
+and this paper will be concerned
+lating currents,
+
+characteristics.
+
+these
+
+' M. S. Livingston, M. 6, Holloway
+
+Rev. Sci. Inst. 10, 63 (1939).
+
+and C. P. Baker,
+
+is for the filament
+
+The usual arrangement
+
+only with an analysis of this type of ion source.
+to be
+located under a shield in which a wide slot is cut
+to permit
+the electrons to pass up along the lines
+of magnetic force between the dees and so ionize
+by collision the gas in the central
+region of the
+cyclotron. A potential
+re-
+hereafter
+difference,
+ferred to as the emission voltage, between the
+filament and shield accelerates the electrons from
+the shielded region.
+
+One is first
+
+interested in the magnitude
+
+of the
+ionization between the dees caused by the narrow
+beam of electrons. This was measured
+directly
+
+

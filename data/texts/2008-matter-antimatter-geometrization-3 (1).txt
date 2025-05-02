@@ -1,0 +1,318 @@
+Geometrization of matter and antimatter 
+
+through coadjoint action of a group on its momentum space.
+
+A first geometrical interpretation of antimatter after Feynmann and so-called CPT-theorem.
+
+3: Geometrical description of Dirac's antimatter. 
+
+Jean-Pierre Petit & Pierre Midy
+
+Marseille Observatory, France
+
+Abstract:
+
+1- Introduction
+
+ 
+
+ 
+
+(1)
+
+(2)
+
+(3)
+
+We  include  antichron elements in  the  dynamic  group.  Then  we  get  movements  and  moments involving T-symmetry, like  PT-
+symmetric movements and CPT-symmetric movements. The first evoke the Feynmann's vision of antimatter and the second the so
+calle "CPT theorem". But tim-inversion, from coadjoint action, changes the sign of the mass and energy. The PT-symmetrical of
+a particle of matter does not longer identify to Dirac's antiparticle, as Feynmann thaught. It is an antiparticle, but with negative
+mass.  Same  thing  for  CPT  theorem:  the  CPT-symmetrcal  of  a  particle of  a  particle  of  matter  is  a  partcle  of  matter,  but with
+negative mass.
+
+In former papers ([1] and [2]) we have given a geometrical interpretation of antimatter. Matter and antimatter are suppose to have
+their personal playing field {ζ i > 0} and {ζ i < 0} in a ten dimensional space:
+
+{ ζ 1 , ζ 2 , ζ 3 , ζ 4 , ζ 5 , ζ 6  , x , y , z , t }
+
+composed by space-time { x , y z , t } plus six additional dimensions. The playing field of photons corresponds to the {ζ i > 0}
+plane.
+
+Our 16 dimension groups gives six additional scalars, identified to quantum charges. The basic geometric definition of antimatter
+we suggest corresponds to:
+
+ζ-symmetry: { ζ i} ----> {- ζ i}
+
+Through a four component group  [2]  we  have  shown  that,  in such conditions, the ζ-symmetry goes  with  a C-symmetry, which
+corresponds to Dirac's antimatter [3], [4] and [5].
+
+Feynmann  suggested  an  alternative  description  of  antimatter.  The  argument  is  the  following.  If  we consider the evolution of a
+particule owing a mass m and an impulsion p, its energy is:
+
+Suppose that this particle, moving in the "twin fold" F*, goes from a state 1 ( P*1 ) to a state 2 ( P*2 ). We just keep one space
+marker x = x1 ( doing x2 = 0 and x3 = 0 ). The amplitude of such an evolution is:
+
+marker x = x1 ( doing x2 = 0 and x3 = 0 ). The amplitude of such an evolution is:
+
+(where, conventionnaly, c = h = 1).  
+
+This path owns a conjugated image in our space-time fold F. Due to the effect of PT symmetry, the "vision" of some hypothetic
+observers, located in the folds F and F*, would be different. For the observer located in the fold F the particle, owing a mass m
+and an impulsion  p  moves  from  the  state  2  to  the  state  1  (  P and T both add a minus sign  to  the  impulsion  ). This movement
+occurs during a time-interval Δt' = t'1 - t'2 = t2 - t1, and from a position x2 to a position x1.
+If, for an example, a neutrino νe , with a left helicity, moves in the fold F*, from the "point of view" of the fold F its helicity will
+be reversed: it will be an antineutrino.
+ 
+
+2- Shifting to complete extended Poincaré group
+
+The  idea  of  Feynmann  ( PT-symmetrical  particles  )  implies  the  presence  of  antichron  components in the  group.  In  the group
+presented in reference [1] and [2] space inversion is already present, due to their presence in the basic orthochron Lorentz group.
+They are required to take account of disntinct helicities for photons and neutrinos.
+
+We could extend the group, introducting a time-switch matrix:
+
+Multiplying and the elements of the orthochron sub-group we could build the antichron components. But let us do it in a simpler
+way:
+
+(4)
+
+(5)
+
+(6)
+
+This group contains all the required components: orthochron and antichron, but such writing evidences the PT-symmetry (μ = - 1)
+in a convenient way. This is a eight components group ( 2 x 2 x 2 ). The group of [2] is a sub-group of (6) whence the group of
+[2] was a sub-group of the one of [1]. The coadjoint action is found to be:
+
+Here again, we identify the scalars χ i to the particle's charges set:
+
+λ = - 1 achieves:
+
+{χ i} = { q , cB , cL , cμ , cτ , ϖ }
+
+ζ - Symmetry: {ζ i} ----> {- ζ i}
+
+Here again ζ - Symmetry is assimilated to matter-antimatter duality. With this material we can analyze the impact of the different
+components  on  the  momentum.  As we have  antichron  terms  our  momentum  space  must  be  extended  to  ( E < 0 ) momentums
+sectors. See figure 1. 
+ 
+ 
+ 
+
+.
+ 
+
+Fig.1: Momentum space with positive and negative energies sectors.
+
+(7)
+
+(8)
+
+(9)
+
+ 
+ 
+
+3- negative energies sectors
+ 
+
+ 
+
+.
+
+.
+
+Fig.2: Subsequent symmetries
+
+ 
+
+Fig.3: The eight components group.
+its momentum and movement spaces.
+
+ 
+ 
+
+It  becomes  easy  to  examine  the  impact  of  each  component  on  momentum  and  movement.  We  shall consider a reference
+movement and momentum J+
+1 , refering to positive energy matter (the impact on positive energy photons will be analysed in a
+second step).
+
+The sector of the group in which the element is chose will be grey.
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+Next, the movements of ordinary matter.
+
+λ = +1 μ = +1
+
+λ μ = +1
+
+The charges are unchanged. The movement M2 refers to ( E > 0 ), positive mass, orthochron matter. 
+ 
+
+ 
+ 
+
+Fig.4: Movements of ordinary matter.
+
+Action of orthochron elements of the group, with λ = 1
+
+Charges unchanged.
+
+Fig. 5: Coadjoint action of a ( λ = -1 ; μ = 1 ) element of the group on the momentum 
+
+associated to the movement of normal matter: the new movement corresponds to Dirac's antimatter.  
+
+ 
+
+ 
+ 
+
+On the figure 5 the line M1 figures the movement of normal, orthochron matter. We figures straight lines because ou group does
+not take account of force field, like gravitational or electromagnétic field. It only runs the behaviour of lonely particles, charged
+mass-points.
+We choose an element in the grey area, corresponding to a ( λ = -1 ; μ = 1 ) matrix. The ( λ = - 1 ) value changes the signs of all
+the ζ i. They become negative.
+The  new  path  is  in  the  second sector, corresponding  to  antimatter.  As λ μ  =  -  1  the  charges are reversed.  But  as  time  is not
+reversed, the energy and the mass of the particle remains positive. This is a geometric description of (orthochron) antimatter after
+Dirac.
+ 
+ 
+ 
+ 
+ 
+
+Two more sectors has to be explored. On the third we examine the impact of ( λ = - 1 ; μ = - 1 ) element on the momentum and
+movement.
+
+( λ  =  -  1 ) reverses the {ζ  i}.  According  to  our  geometric  definition  this new movement corresponds to  antimatter,  for it takes
+place in the second sector of space { ζ 1 , ζ 2 , ζ 3 , ζ 4 , ζ 5 , ζ 6, x, y , z , t }.
+( μ = - 1 ) gives a PT-symmetry, reverses the signs of ( x, y , z , t )
+But  (  λ  μ  =  +  1  )  keeps  the  charges unchanged. This is "PT-symmetric antimatter",  so  that  it  is  a  geometric description of
+antimatter after Feynmann.
+
+But the group belongs to the antichron sector, so that (coadjoint action) the energy and the mass of the particle is reversed.
+
+PT-symmetrical object does not identify completely with Dirac's antimatter, for it changes the sign of the mass. If such particles
+exist, they can produce full annihilation with positive mass particles. 
+ 
+
+ 
+
+Fig. 6: ( λ= -1 ; μ = -1 ) elements transform movement of normal matter into movement 
+
+of antimatter (ζ-symmetry) of PT-symmetrical object, runing bacward in time.
+
+Geometric description of Feynmann's vision of antimatter.
+
+Does not identify completely with Dirac's one: negative mass and negative energy.
+
+ 
+
+ 
+The last elements correspond to the sector ( λ= 1 ; μ = -1 )
+( λ = 1 ) --- > the movement is still in the matter's sector: no ζ-symmetry.
+( μ = -1 ) goes with a PT-symmetry. The particule runs backward in time.
+( λ = -1 ): C-symmetry. The charges are reversed.
+
+This  is  CPT-symmetrical matter,  so  that  it  corresponds  to  a  geometrical  interpretation  of the so-called "CPT  theorem", which
+asserts that the CPT-symmetric of a particle should be identical to that particle. That's not true. This movement corresponds to an
+antichron movement. The particle goes backward in time, si that (caodjoint action) its mass and energy become negative .
+
+If CPT-symmetrical particle do exist and if they collide normal particle, complete annihilation occurs. 
+ 
+
+ 
+
+Fig.7: ( λ = 1 ; μ = - 1 ) case. Corresponds to CPT-symmetry. 
+
+But the coadjoint action gives negative mass and energy.
+
+The CPT-symmetric of a particle of matter is a particule of matter, but with negative mass.
+
+ 
+ 
+
+ 
+ 
+Now, examine the impact on photons movement and moment. The ζ-symmetry has no impact on it: there is no "antiphoton". As
+all the charges of the photon are zero a does not change it. It is identical to its antiparticle.
+
+The coadjoint action of orthochron  components  modifies  the  movement  and  the moment of the photon, but  keep  unchanged its
+energy. See figure 8. 
+ 
+ 
+
+ 
+
+Fig. 8: Coadjoint action of orthochron elements
+
+on photon's movement and moment.
+
+   
+
+ 
+
+Fig.9: The coadjoint action of antichron elements on photon's movement and moment,
+
+reverses the photon energy: it travels backwards in time.
+
+ 
+
+Conclusion
+
+We  have  extend  the  group,  including  antichron  elements.  We  refind the geometric description  of  Dirac's  antimatter.  But the
+analysis of the coadjoint action of antichron elements of the group produces PT-symmetrical and CPT-symmetrical movements.  
+
+We  find  that  PT-symmetry  goes  with matter ----->  antimatter  transform.  It  joins  Feynmann's  idea.  The  PT-symmetric of a
+particle of matter is a particle of antimatter. But the coadjoint action of antochron elements reverses the mass and the energy. Then
+we cannot identify the PT-symmetrical of a particle of matter to its antiparticle, after Dirac's description.The first owns a negative
+mass and a negative energy.
+
+Similarly the CPT-symmetric of a particle of  matter  is  a  partocle  of  matter,  but  with  a negative mass, for it goes backwards in
+time.  
+
+The problem remains unsolved. As recommanded by J.M.Souriau, we could limit the dynamic group to its orthochron part, but
+we would'nt have PT and CPT-symmetrical object for symmetries including time-symmetry becomes forbiden.  
+
+If we keep the antichron sector we have an universe filled by positive and negative mass particles.
+
+Charybde or Scylla?
+
+In the next paper we shall propose another solution.
+
+ 
+
+References
+
+[1] J.P.Petit & P.Midy: Geometrization of matter and antimatter through coadjoint action of a group on its momentum space. 2:
+Geometrical description of Dirac's antimatter. Preprint, March 1998. 
+[2] J.P.Petit & P.Midy: Geometrization of matter and antimatter through coadjoint action of a group on its momentum space. 1:
+Charges as additional scalar components of the momentum of a group acting on a 10d-space. Geometrical definition of antimatter.
+Preprint, March 1998. 
+[3] J.M. Souriau: Structure des Systèmes Dynamiques, Dunod, Ed. 1972 (in French); tr. "Structures of Dynamical Systems",
+Birkhauser, 1997. ISBN 0817636951.
+[4] J.M.Souriau: Géométrie et relativité. Ed. Hermann-France, 1964. 
+[5] P.M. Dirac: "A theory of protons and electrons", Dec. 6th 1929, published in Proceedings of Royal Society (London), 1930: A
+126 , pp. 360–365
+[6] R.Feynman: "The reason for antiparticles" in Elementary particles and the laws of physics. Cambridge University Press, 1987.
+ 
+
+Acknowledgements
+
+This work was supported by french CNRS and Brevets et Développements Dreyer company, France. 
+Déposé sous pli cacheté à l'Académie des Sciences de Paris, 1998. 
+© French Academy of Sciences, Paris, 1998.
+
+

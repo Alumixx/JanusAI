@@ -1,0 +1,679 @@
+ Jean-Pierre Petit
+				        22 septembre  2020
+Développement détaillé de ce que j’ai présenté en mars 2019 dans la revue Progress in Physics sous le titre « Physical and Mathematical consistency of the Janus Cosmological Model »
+Résumé : 
+En janvier 2019 Thibaud Damour a publié sur sa page du site de l’IHES une analyse critique du système équations de champ Janus de 2015 : 
+                                                   
+                                                   
+De par la structure des premiers membres ces équations doivent satisfaire les équations de Bianchi. Nous savions de longue date que les termes
+
+qui traduisent ce qu’on pourrait appellerons « effet de géométrie induite » c’est à dire comment la distribution des masses négative modifie la géométrie du premier « secteur » associé à la métrique   et comment la distribution des masses positives intervient, inversement, sur la géométrie des masses positives, associées à la métrique. 
+La choix de la forme de ces termes est totalement arbitraire, libre. Personne ne sait comment ces entités interagissent. Toujours est-il que les équations, quel que soit le choix opéré, doivent satisfaire ces conditions de Bianchi, par simple souci de cohérence mathématique. 
+Le choix les la forme de ces tenseurs selon : 
+
+Peut semble logique. Mais le détail du calcul, avec des métrique stationnaire, conduit à une incohérence. Damour choisit une situation  où il s’agit de la géométrie liée à la présence d’une masse de densité constante , entourée de vide. 
+Même si on se situe dans le cadre d’une approximation Newtonienne cette satisfaction des équations de Bianchi se traduit en effet, physiquement, par une équation traduisant l’équilibre, dans les régions où se situe la masse, entre la force de gravité et la force de pression. On tombe alors, en  se situant à l’intérieur de « l’étoile » emplie de masse positive de masse volumique  sur : 
+                                                                               
+                                                                               
+Des équations qui se contredisent, donc. C’est ce qui a été soulevé par Damour et considéré comme un défaut rhédibitoire. 
+Dans le papier que j’ai publié en mars 2019 j’ai rappelé que le choix de la forme des tenseurs responsables des géométries induites était libre. On pouvait alors inverser la proposition en disant que ces choix devaient alors être tels que les équations de Bianchi soient satisfaites (toujours dans l’approximation Newtonienne). Ceci s’obtient en inversant simplement le signe des termes de pression : 
+                                                 
+                                                 
+
+on obtient alors ( tous les détails des calculs sont donné ) 
+
+
+Les deux équations sont identiques. L’incohérence disparaît. Modulo la notation introduite plus haut le nouveau système s’écrira : 
+                                                   
+                                                   
+Une modification qui ne change en rien tous les résultats antérieures publiés concernant : 
+La satisfaction du principe d’action-réaction ( disparition du phénomène runaway)
+Les effets de lentilles gravitationnels négatifs
+L’accélération de m’expansion cosmique
+L’effet de confinement, les fortes plates des courbes de rotation, etc .. etc …
+
+
+Les modèles n’émergent pas d’emblée sous leurs forme définitive. Ce modèle Janus  devra être adapté pour pouvoir décrire l ‘évolution cosmique plus loin dans son passé, en prenant en charge la phase radiative, en expliquant pourquoi les paramètres deux deux entités diffèrent, etc. 
+
+Fin de ce résumé. 
+
+______________________________________________________________
+
+
+
+
+
+
+
+Commençons par commenter l’essai de Damour (Physical Review D 2002 )
+Damour part du lagrangien 
+
+Avec les notations « Janus », en optant pour une nullité des deux constantes cosmologies et en prenant   ses équations de champ s’écrivent : 
+(1)                                                  
+(2)                                                  
+Dans les seconds membres on trouve les sources des champs déterminant les géométries des secteurs « + » et « -«  ou « Right » et « Left » selon les notations de Damour. 
+Les termes  et  traduisent l’interaction entre ces deux secteurs. 
+ -  représente la contribution au champ, qui détermine la géométrie « + » (« right »)  due à la présence de masses « -» (« left »). 
+
+-  représente la contribution au champ, qui détermine la géométrie « - » (« left ») due à la présence de masses «+»(« right »)  .
+La convention d’écriture « Janus » se traduit par : 
+(3)                                                                  
+(4)                                                               
+
+La forme des deux premiers membres impose alors que les divergences des deux seconds membres soient nulles.
+Dans le but de démontrer l’incohérence du système Janus Damour a choisi d’opter pour la configuration : 
+Situation stationnaire
+
+Présence d’une masse positive, de densité constante  , située à l’intérieur d’une sphère ( c’est dire, schématiquement, une « étoile )
+
+Densité de matière négative ( « left ») nulle. 
+Le système devient alors, avec ses notations : 
+(5)                                                        
+(6)                                                       
+On notera à ce stade que rien ne définit la façon dont le tenseur  doit être construit. C’est l’effet de « géométrie induite » créé dans le secteur « left » par la matière « right ». Tout ce qu’on pourrait dire est que ce tenseur devrait être fonction du contenu « right » c’est à dire 
+(7)                                                          
+La proposition de modèle « Janus » revient à donner à ce terme la forme : 
+(8)                                                           
+Pour montrer que l’incohérence apparaît même dans une situation quasi Lorentienne, dans son article, page 2, équation (5) il introduit  un tenseur  selon : 
+(9)                                                      
+Les conditions de divergence nulle des deux équations s’écrivent alors  (ses équation (7) et (8), page 3 de votre article) : 
+(10)                                                                        
+(11)                                                                        
+Où les opérateurs  et sont construits à partir des deux métriques différentes  et . 
+Quel est le sens physique de ces conditions de divergence nulle ? Ce sont des équations de conservation. Il n’est donc pas étonnant que ces équations (10) et (11) débouchent sur des équations de type Euler, qui expriment le fait que, dans l’étoile, la force de gravité équilibre la force de pression. 
+Or le calcul conduit à : 
+ (12)                                                                               
+(13)                                                                               
+De équations qui, comme Damour le note fort justement, se contredisent. 
+Revenons maintenant à la physique en décidant d’écrire les équations Janus sous leur forme mixte : 
+(14)                                                             
+(15)                                                             
+Comme lui, j’ai pris la constante d’Einstein égale à l’unité. 
+Les tenseurs s’écrivent alors : 
+(16)
+
+Dans le cas considéré le système Janus se réduit à : 
+(17)                                                      
+(18)                                                     
+La contradiction s’exprime alors quand on calcule l’équation différentielle donnant la pression en fonction de la variable radiale. C’est ce qui correspond à l’équation de Tolmann Oppenheimer Volkoff). Pour l’équation (17) on obtient :  
+(19)                                                      
+Avec   où M est la masse de l’étoile. 
+Lorsqu’on passe à l’approximation Newtonienne  cette équation devient
+(20)                                                         
+On retrouve l’équation d’Euler. 
+La même chose, appliquée à l’équation (18) fournit : 
+(21)                                                   
+L’approximation Newtonienne fournit alors : 
+(22)                                                      
+
+C’est une façon équivalente de faire apparaître cette contradiction que vous soulevez.
+
+Mais c’est aussi une façon de découvrir son origine, qui vient du choix effectué pour exprimer le tenseur  responsable de l’effet de géométrie induite. 
+Or il n’y a a priori aucune raison physique pour que ce tenseur s’écrive : 
+ 
+(23)                                                 
+
+Nous allons envisager de modifier le système des équations de champ couplées Janus comme suit et c’est que j’ai fait dans l’article que j’ai publié en 2019 dans la revue Progress in Physics, à comité de lecture  : 
+En restant dans l’expression des équations dans leur forme mixte, envisageons de modifier les tenseurs responsables des effets de géométrie induite, ce qui revient à suggérer de passer du système (14) + (15) au système : 
+(24)                                                     
+(25)                                                  
+Rappelons-le : aucun impératif de nature physique n’impose un choix particulier de la forme de ces tenseurs  et. Par contre la forme des premiers membres impose les impératifs mathématiques de divergence nulle que nous avez pointés, et auxquels ont ne peut échapper. 
+
+Montrons que le choix : 
+(26)                                         
+(27)                                         
+permet de satisfaire cet impératif mathématique. Reprenons la configuration que Damour a envisagé dans son article, c’est à dire la situation d’une étoile de masse positive, entourée de vide : 
+ (28)                                                    
+(29)                                                  
+tout rentre dans l’ordre (le détail des calculs est fourni en annexe). La seconde équation différentielle devient : 
+(30)                                           
+qui, en newtonien, redonne l’équation d’Euler, traduisant l’équilibre entre pression et force de gravité dans l’étoile. 
+
+L’incohérence physique et mathématique disparaît.
+Les deux équation satisfont (asymptotiquement, en approximation newtonienne) les identités de Bianchi. 
+
+A ce stade, quelqu’un pourrait dire : 
+C’est très malin. Pour faire disparaître cette difficulté Petit a bricolé des tenseurs présents dans les seconds membres pour que l’incohérence liée à l’émergence de l’équation d’Euler, traduisant dans les masses l’équilibre entre forces de pression et force de gravité, disparaisse. . 
+Mais, comme nous l’avons souligné
+ qu’est-ce qui déterminait la forme des tenseurs  et responsables des effets de géométrie induite ? Ici en reprenant la formulation de Damour :  
+(31)                                                  
+(32)                                                  
+
+Rien  a priori ! 
+
+Dans l’approximation Newtonienne (linéarisation)  l’effet de la pression se trouve négligé, par rapport au terme de densité  . En disant que ce système ne sera valable que pour des solutions linéarisées, cela fournit une bonne dizaine de résultats en accord avec les observations. 
+Dans cette optique de linéarisation on aura  des tenseurs sous la forme : 
+(33)                   
+Les trois termes diagonaux étant finalement négligés. 
+Comment compléter alors ces tenseurs en ajoutant ces termes diagonaux manquants ? 
+Réponse (de physicien) : en faisant en sorte que les équations d’Euler (équilibre, dans les régions où sont présentes des masses, entre la force de gravité et la force de pression) soient satisfaites. Ce qui est équivalent au fait de souhaiter que les équations satisfassent (asymptotiquement) les conditions de Bianchi. 
+Ce qui conduite au choix (26) + (27). 
+Voilà donc la réponse que j’avais fournie à travers cet article publié dans Progress in Physics. 
+
+               Sincèrement vôtre     	      				       Jean-Pierre Petit
+
+References : 
+[1]  T.Damour : Sur le modèle « Janus » de J.P.Petit http://www.ihes.fr/~damour/publications/JanusJanvier2019-1.pdf
+[2] J.P.Petit : Physical and mathematical consistency of the Janus Cosmological Model. Progress in Physics 291 Vol.15 issue 1.  (http://www.ptep-online.com ) 
+[3] S.Hossenfelder Antigravitation Physical Letters B vol. 636 issue 2 4 may 2006 pp.119-125
+[4] J.P.Petit, G.D’Agostini : Negative Mass hypothesis in cosmology and the nature of dark energy. Astrophysics And Space Sccience,. A 29, 145-182 (2014)
+
+[5] G. DAgostini and J.P.Petit : Constraints on Janus Cosmological model from recent observations of supernovae type Ia, Astrophysics and Space Science, (2018), 363:139.https://doi.org/10.1007/s10509-018-3365-3
+[6] J.P.PETIT, P.MIDY & F.LANDSHEAT : Twin matter against dark matter. Intern. Meet. on Atrophys. and Cosm. "Where is the matter ? ", Marseille 2001 june 25-29
+[7] J. P. Petit, Astrophys. Space Sci. Twin universe cosmology 226, 273 (1995).
+[8] W.B.Bonnor : Negative mass and general relativity. General Relativity and Gravitation Vol.21, N°11, 1989
+[9] J.P.Petit & G.D’Agostini : Lagrangian derivation of the two coupled field equations in the Janus Cosmological Model. Astrophysics and Space Science 2015, 357 :67
+[10] G. DAgostini and J.P.Petit : Constraints on Janus Cosmological model from recent observations of supernovae type Ia, Astrophysics and Space Science, (2018), 363:139.https://doi.org/10.1007/s10509-018-3365-3
+[11]   J.P.PETIT  : Cosmological model with variable velocity of light. Modern Phys Letters A3, 1988, pp. 1527
+[12]  The Dipole Repeller : Y Hoffman, D.Pomarède, R.B.Tully, H.Courtois. Nature Astronomy 2017 1 , 0036  
+[13]  T.Damour and II Kogan Effective Lagrangians and universality classes of non linear bigravity Phys Rev D 2002
+
+
+ANNEXE 1
+Mise en perspective d’éléments de votre propre article
+ et de la façon dont nous avions apporté remède à ce problème.
+
+ Les citations d’extraits du texte installé par Damour dans sa page de l’IHES figurent en indentation. 
+En rouge, la modification de votre analyse, quand on se base sur le nouveau système d’équations de champ de 2019 [2] qui correspond à (28) – ci-dessus. 
+Damour note [1] que de par la structure des premiers membres des équations de champ Janus on a la relation : 
+                                                                             (2)
+                                                                             (3)
+En ajoutant que ces identités de Bianchi impliquent des lois de conservation pour les sources correspondantes. Votre texte : 
+ Comme les équations (Janus) sont constituées de deux équations du type Einstein, ces équations impliquent deux lois de conservation séparées pour leurs deux membres de droite . 
+C’est là où le raisonnement va être repris. 
+Damour part du système Janus de 2015 [9]
+                                                            (1a)
+                                                        (1b)
+avec :                              
+et il pose :   
+Puis écrit: 
+ Les deux tenseurs sources  et  sont censés représenter, respectivement, l’énergie-impulsion de la matière ordinaire (dite « à masse positive ») et d’une nouvelle matière dit « à masse négative . 
+Dans le papier de 2019 [2]  les équations de champ ont été modifiées et, avec sesnotations elles doivent s’écrire :  : 
+                                                            (1a’)
+                                                        (1b’)
+Dans les seconds membres les termes sources d’une « géométrie induite » (c’est à dire gérant la façon dont la géométrie d’une population est influencée par la distribution d’énergie-matière de la seconde) sont remplacés par  et . 
+Damour passe  ensuite au cas où la masse négative est absente : 
+                                                                             (4a)
+                                                                             (4b)
+Auquel doit se substituer le système : 
+                                                                             (4a’)
+                                                                             (4b’)
+Il pose  ensuite                               
+et :
+                                                                            (5)
+Auquel doit se substituer le choix opéré dans Janus 2019 [2] : 
+                                                                            (5’)
+
+Il rappelle qu’on doit avoir : 
+                                                                                  (7)
+                                                                                  (8)
+Certes, mais maintenant modulo la modification (5’)
+Remarque : à noter votre choix de la signature :  . Moi j’opte pour Mais ça ne tire pas à conséquence. 
+Page 5 de son texte il écrit : 
+« Je rappelle d’abord que la solution linéarisée des équations d’Einstein dans l’équation d’Einstein habituelles ( disons le premier système dans (6)  ) peut s’écrire comme : 
+                          (19)
+où le potentiel quasi-newtonien U satisfait l’équation de Poisson
+                  (20)
+A cause de la symétrie formelle entre les deux équations du système (6), une solution linéarisée des équations de type Einstein pour la métrique  s’écrit comme :
+                           (21)
+où le potentiel quasi-newtonien  satisfait l’équation de Poisson modifiée 
+                                  (22)
+D’après l’équation (5) la source de cette équation de Poisson modifiée (dénoté ici ) est, à l’approximation la plus basse qui suffit ici ( vu que le rapport , simplement l’opposée de la source habituelle. 
+    (23)
+Là je suis toujours d’accord , bien que dans Janus 2019 [2], si  ce second tenseur devient  . 
+Je continue. 
+Du coup, le potentiel quasi-newtonien entrant dans la seconde métrique est aussi l’opposé du potentiel habituel :
+                                       (24) 
+C’est en ce début de la page 6 qu’il écrit  (sur la base des équations Janus 2015 [9]) : 
+La partie spatiale du tenseur source pour la deuxième équation d’Einstein est : 
+                                 (25)
+Et là, si on se base sur les équations Janus de 2019 [2] , qui sont : 
+  
+
+Avec : 
+            
+Ce que je suis parfaitement en droit de choisir, alors le signe de la partie spatiale du tenseur source de la géométrie induite est inversé. 
+Damour écrit  ensuite, page 6 [1]  : 
+Je rappelle la formule explicite de  (où je appelle que  ) 
+                                     (26)
+En appliquant cette formule au cas statique d’une étoile et pour un indice spatial  un indice spatial  valant   
+                                     (26)
+Dans le dernier terme la contribution de  domine, dans le cas quasi-Newtonien ( car  alors que et . On trouve alors : 
+                                    (28)
+C’est cette équation qui traduit la relation d’Euler de l’équilibre statique dans un fluide habituel, comme Damour le signale : 
+                                                                         (32)
+Et d’indiquer qu’on doit avoir ( rappelons que   )
+                                                      (30)
+Avec les équations Janus de 2015 on aura bien, comme il l’indique en haut de sa page 7 : 
+Dans cette seconde équation d’Euler on peut remplacer  ,  et   par leurs valeurs, c’est à dire à l’ordre le plus bas par   - ,  et    . Cela donne : 
+                            (31)
+Apparaît alors une contradiction avec deux équations d’Euler qui se contredisent. Mais cette contradiction disparaît avec les équations Janus 2019 [2]  où la phrase équivalente sera :
+Dans cette seconde équation d’Euler on peut remplacer  ,  et   par leurs valeurs, c’est à dire à l’ordre le plus bas par    ,  et    . Cela donne : 
+                            (31)
+
+et la contradiction disparaît.
+
+Et là on voit apparaître la raison suffisante présidant aux choix des termes sources de la « géométrie induite »  qui sert de guide aux équations Janus 2019 [2] :
+Pour que celles-ci ne fassent pas apparaître
+de contradictions dans les équations d’Euler ! 
+
+
+
+En outre : 
+Ce qui vient d’être établi pour une région de l’univers où la masse négative serait pratiquement absence, en quantité négligeable, peut être étendu à l’inverse : à une portion de l’espace où, dans une situation considérée comme stationnaire c’est au contraire la masse négative qui domine et où la masse positive peut être négligée. Ceci correspondra au système d’équations de champ couplées : 
+(32)                                     
+(33)                                     
+La relation de Bianchi se référant à la seconde équation fournira l’équivalent d’une équation d’Euler pour cette matière négative, traduisant l’équilibre entre force de gravité et force de pression. 
+Mais cette même contrainte, se référant à la première équation du système n’aura pas de signification physique et ne fera qu’exprimer la nécessaire compatibilité mathématique entre les deux solutions , qui sera assurée si l’effet de géométrie induite (dans le secteur des masses positives, du fait de la présente des masses négatives correspond à l’expression du tenseur du second membre sous la forme : 
+(34)                                         
+La relation de Bianchi (commune pour les deux équations) correspondra, avec vos notations, à 
+(35)                                                                                                          
+où le potentiel gravitationnel  est alors créé par les masses négatives. 
+En poussant la construction des solutions métriques, on obtiendra en particulier, pour celle décrivant le comportement des particules d’énergie positive : 
+Métrique intérieure  :
+(36) 
+
+Avec : 
+                                                                      
+
+Métrique extérieure  : 
+(37)
+
+Avec   
+En linéarisant : 
+(38)              
+Qui correspond à un phénomène de répulsion. Ainsi se trouve expliqué le phénomène du Great Repeller, découvert en janvier 2017 [12] . Il a été montré qu’existait dans une direction grossièrement opposée à celle de l’attracteur Shapley une région apparemment vide qui semblait repousser toute matière.   
+
+Figure : Thee Great Repeller
+Comme suggéré dès 1995 ans  ces conglomérats de masse négative crée un effet de lentille gravitationnelle négatif qui a pour effet de réduire la luminosité des sources distantes, situées à l’arrière plan. Effet qui, selon nous, explique la faible magnitude des galaxies à z > 7. 
+Ceci étant, l’analyse fine des magnitudes des sources distantes situées dans la direction du Great Repeller devrait permettre d’avoir accès au diamètre de ce conglomérat de masse négative, invisible puisqu’émettant des photons d’énergie négative. 
+
+
+En résumé : 
+Nous avons donc un système de deux équations de champ couplées Janus, dont la portée se limite aux solutions linéarisées, quasi-Newtoniennes. 
+Qui dérive d’une action
+Qui satisfait les identités de Bianchi
+Qui prend en charge toutes les situations classiques de la RG
+Qui remplace avantageusement matière sombre et énergie noire. 
+Qui cadre avec une bonne douzaine de données observationnelles. 
+En dépit du progrès qu’a représenté la première mise en évidence de l’existence d’ondes gravitationnelles la cosmologie souffre de ne pouvoir mettre en évidence l’hypothétique matière sombre ni d’être à même de fournir un modèle quelconque pour cet autre composant représenté par cette non moins hypothétique énergie noire. 
+Le modèle Janus est le seul à fournir une description argumentée quant à la nature de ces composants invisibles du cosmos, à savoir de l’antimatière (antihydrogène de masse négative). Le modèle explique 	au passage la non observation d’antimatière primordiale, en donnant corps à l’idée initiale de 1967 d’André Sakharov. Il cadre avec une bonne douzaine d’ensembles de données observationnelles. 
+Jean-Pierre Petit 
+
+ 
+References : 
+[1]  T.Damour : Sur le modèle « Janus » de J.P.Petit http://www.ihes.fr/~damour/publications/JanusJanvier2019-1.pdf
+[2] J.P.Petit : Physical and mathematical consistency of the Janus Cosmological Model. Progress in Physics 291 Vol.15 issue 1.  (http://www.ptep-online.com ) 
+[3] S.Hossenfelder Antigravitation Physical Letters B vol. 636 issue 2 4 may 2006 pp.119-125
+[4] J.P.Petit, G.D’Agostini : Negative Mass hypothesis in cosmology and the nature of dark energy. Astrophysics And Space Sccience,. A 29, 145-182 (2014)
+
+[5] G. DAgostini and J.P.Petit : Constraints on Janus Cosmological model from recent observations of supernovae type Ia, Astrophysics and Space Science, (2018), 363:139.https://doi.org/10.1007/s10509-018-3365-3
+[6] J.P.PETIT, P.MIDY & F.LANDSHEAT : Twin matter against dark matter. Intern. Meet. on Atrophys. and Cosm. "Where is the matter ? ", Marseille 2001 june 25-29
+[7] J. P. Petit, Astrophys. Space Sci. Twin universe cosmology 226, 273 (1995).
+[8] W.B.Bonnor : Negative mass and general relativity. General Relativity and Gravitation Vol.21, N°11, 1989
+[9] J.P.Petit & G.D’Agostini : Lagrangian derivation of the two coupled field equations in the Janus Cosmological Model. Astrophysics and Space Science 2015, 357 :67
+[10] G. DAgostini and J.P.Petit : Constraints on Janus Cosmological model from recent observations of supernovae type Ia, Astrophysics and Space Science, (2018), 363:139.https://doi.org/10.1007/s10509-018-3365-3
+[11]   J.P.PETIT  : Cosmological model with variable velocity of light. Modern Phys Letters A3, 1988, pp. 1527
+[12]  The Dipole Repeller : Y Hoffman, D.Pomarède, R.B.Tully, H.Courtois. Nature Astronomy 2017 1 , 0036  
+
+
+
+Annexe 2
+Ceci contient l’intégralité des calculs (ô combien fastidieux, comme c’est toujours le cas en géométrie différentielle) qui supportent le raisonnement présenté dans le corps de l’article. 
+En règle générale nous nous situons dans le cas d’une géométrie à symétrie sphérique. 
+Dans ce cas les deux métriques s’écrivent : 
+(1)                               
+(2)                               
+Dans ce qui suit, pour alléger l’écriture, on posera : 
+
+
+
+
+
+ 
+
+                                
+Nous allons effectuer les calculs en partant d’une expression des équations de champ présentées sous forme mixte :
+(3)                              
+(4)                              
+On optera ensuite pour la configuration envisagée par Damour, considérant une partie de l’espace où la masse négative est absente, c’est à dire les équations : 
+(5)                                                       
+(6)                                                  
+La première équation s’identifie alors à l’équation d’Einstein sans constante cosmologique. 
+
+La seconde équation traduit un « effet de géométrie induite » ( sur les géodésiques de l’espèce de masse négative, du fait le la présence de la masse positive à l’intérieure d’une sphère de rayon , de densité  
+
+Nous allons nous efforcer de coller avec les notations utilisées par T .Damour [1]  dans son papier. Il écrit notre système (5) + (6) selon son équation (4), page 1 : 
+
+
+puis il pose (son équation (4) ) 
+
+
+Ce qui le conduit à écrire le système d’équations ( ses équations (6)  )  : 
+ 
+Et là on dégage la source de sa critique du systèmes des deux équations. En effet la structure des premiers membres impose que : 
+(7)                                                               
+(8)                                                              
+Par voie de conséquence on doit avoir les lois de conservation ( ses équations (7) et (8) dans la page 3 de son papier): 
+(9)                                                               
+(10)                                                            
+Nous reprendrons le fil de son calcul dans la fin de cette annexe 1 . Toujours-est-il qu’en donnant au tenseur la forme correspondant aux équations Janus non modifiées ces équations (9) et (10) conduisaient à des équations d’Euler contradictoires ( les équations   (32) et (33) de son papier, à sa page 7 ) . 
+Comment sortir de cette impasse ? 
+En remarquant que nous sommes totalement libres dans le choix des tenseurs traduisant les effets induits (par une matière sur celle de signe opposé). Comme on le montrera en reprenant tout son calcul par le menu, une légère modification du tenseur  apporte la solution, sans modifier d’un iota tous les aspects liés aux solutions émergeant des deux équations couplées ( métriques « intérieure » c’est à dire à l’intérieur de l’étoiles et métrique « extérieure », à l’extérieur de l’étoile ). 
+ Lorsqu’on entreprend de calculer la solution exacte de ce système, si on ne prend pas cette précaution, on verrait également se manifester ce genre de contradiction, à l’intérieur de l’étoile, sous forme de l’émergence de deux équations du type Tolmann Oppenheimer Volkoff, également contradictoires. Dans ce qui va suivre, qui traduit la construction de l’ensemble des deux métriques, modulo cette précaution, ce problème n’apparaîtra pas. Mais pour entraîner la conviction du lecteur nous reprendrons tout ce schéma selon l’approche suivie par Damour [1]  . 
+Ci après le calcul des composantes du tenseur de Ricci et du premier membre, pour l’espèce positive. 
+On a   : 
+(11) 
+ 	       
+Quand j’aurai le temps je rajouterai une annexe, pour les non-spécialistes, en expliquant comment on calcule les composantes du tenseur de Ricci à partir des coefficients d’une métrique, ce qui est assez fastidieux. Et, pour bonne mesure, il faudrait même une initiation minimale aux tenseurs 
+Avec la métrique sous cette forme les composantes non nulles du tenseur de Ricci sont :
+(12) 
+	
+	
+	
+	
+Et le scalaire de Ricci : 
+(13)
+
+Ce qui donne pour le tenseur d’Einstein :
+(14)                                                 
+
+(15)                                                 
+(16)                                                 
+Ecrivons les équations correspondant à la première des deux équations de champ, dans les notations de Damour [1] , dans une écriture mixte 
+(17)                                                                 
+ (18)	                                                    
+(19)	                                                   
+(20)	                                                   
+Et aussi :
+(21)                                              	
+On va maintenant considérer la métrique extérieure, là où les seconds membres des équations sont nuls. La méthode est décrite dans la référence [2]  , au chapitre 14,  et cela correspond à :
+
+(22)                               
+Avec
+(23)                                                                
+M étant la masse (positive) de l’étoile. 
+Passons à la construction, classique, de la métrique intérieure [2] . On a : 
+(23)
+
+Les équations s’écrivent :
+(24)	                                                         	
+(25)	                                                         	
+(26)	                                                         
+ (27)	                                                           
+D’où on tire : 
+(28)                                        
+(29)                                                     
+Pour la résolution, on pose 
+(30)                                                      soit 
+On dérive cette expression : 
+(31)                                                       
+(32)                                                
+(33)                                                       
+Soit : 
+(34)                                                           
+
+(35)                                          
+
+(36)                                                      
+On va éliminer en dérivant l’équation (25) 
+(37)                                
+
+
+
+
+En combinant avec l’équation  (29) on obtient 
+(38)                                              
+(39)                                                           
+On utilise l’équation (27) ce qui donne : 
+(40)                                     
+Avec 
+et : 
+(41)                                                           
+
+On obtient au final l’équation « TOV » ( Tolmann-Oppenheimer-Volkoff ) : 
+(42)                                                     
+Lorsqu’on passe à l’approximation Newtonienne  cette équation devient(43)
+
+
+
+En symétrie sphérique le champ gravitationnel qui règne à une distance  (à l’intérieur de l’étoile de densité supposée constante) est égal au champ qui serait créé par la masse  contenue dans une sphère de rayon rs, concentrée au centre. Ainsi l’équation (43) s’identifie-t-elle avec l’équation (32) de conservation de la page 7 du papier de Damour :     
+Bien que cela soit terriblement fastidieux il est indispensable de reprendre, ligne après ligne, tous ces calculs ( ici, classiques ) dans le but de leur extension au calcul de la métrique intérieure décrivant les espèces négatives. Quand ceci sera opéré, plus loin, on verra que sans cette précaution prise concernant le tenseur on déboucherait sur cette même contraction. 
+Continuant le calcul nous allons maintenant expliciter le calcul complet de la métrique intérieure . 
+En reprenant la notation de la référence [2] on pose : 
+(44)                                                            
+Comme on a établi plus haut (34) que : 
+(45)                                                      
+Cela va nous donner tout de suite l’un des termes de la métrique : 
+(46)                                       
+Et ainsi notre métrique intérieure s’écrit : 
+(47)                                  
+
+Il reste à déterminer la fonction  . La densité est constante par hypothèse . On a : 
+(48)                        
+(49)              
+En utilisant  (25) pour résoudre
+(50)              
+(51)                           
+On pose           
+(52)                             
+1 solution particulière de l’équation est 
+Il faut trouver une solution générale de l‘équation homogène : 
+(53)                                                
+soit : 
+(54)                                                            
+(55)                                                            
+où l’on a écrit :
+(56)                                                  
+Exprimons maintenant que la pression est nulle à la surface de la sphère :
+(57)                                             
+(58)                                                                   
+Quand    on a   p = 0 
+(59)                                                
+    Il reste à déterminer B, ce que nous allons faire en imposant que les métriques intérieures et extérieures se raccordent sur la surface de la sphère. Ce qui se traduit par : 
+    (60)                 
+(61)                                    
+(62)                                             
+(63)                                    
+(64)                                                              
+(65)                                      
+D’où la métrique intérieure : 
+(66)    
+Nous allons maintenant déployer le même schéma de calcul, mais en l’adaptant cette fois à la métrique décrivant l’espèce de masse négative, ce qui est alors solution de l’équation : 
+(67)                                     
+Le rapport des déterminants peut être écrit :
+(68)                              
+kD sera pris peu différent de 1 car on se situera toujours dans l’approximation newtonienne.  
+On calcule cette fois l’incidence de la présence des masses positives sur la géométrie  du secteur négatif. On rappelle qu’on est parfaitement libre du choix de ce tenseur , dans la mesure où ce choix peut découler d’une dérivation Lagrangienne.  Et nous avons vu, choix XVIII,  que nous optons pour : 
+(69)
+
+hypothèse qui ne pèse pas sur l’ensemble du modèle dans la mesure où dans l’approximation Newtonienne les termes de pression sont toujours négligeables. Ceci limite donc la portée du modèle à ce champ de l’approximation Newtonienne. Mais celle-ci couvre tous les observables connus. 
+Nous allons montrer que cette option n’entraîne plus l’incohérence signalée par Damour dans son papier. 
+On décline une nouvelle fois la construction du premier membre à partir d’une métrique qui est cette fois : 
+(70)                              
+Les premiers membres des équations sont les mêmes, en remplaçant simplement  par   . On obtient alors 
+(71)                   	            	
+(72)				
+(73)				
+ (74)				
+ (75) 				
+Pour la résolution, on pose 
+(76)                                         soit 
+Comme tout à l’heure on dérive cette expression : 
+(77)                               
+Et en utilisant (71) :        
+En conclusion, à ce stade : 
+(78)                                                             
+
+On obtient  
+(79)                                                        
+
+Pour éliminer  on dérive (72) 
+(80)                         
+
+
+
+Avec (75) on obtient  
+ (81)                 
+ (82)                                                      
+On utilise (74)
+Ce qui nous donne : 
+ (83) :                              
+et finalement : 
+(84) :                                             
+A comparer avec ce qui émergeait de l’analyse pour les masses positives, c’est à dire l’équation (43) : 
+
+J’ai encadré ces deux résultats car c’est justement ce que vous voulions montrer. 
+Ces équations différentielles ne sont pas identiques, sauf si on fait jouer l’approximation newtonienne , alors elles conduisent au même résultat 
+ (85) :                                                              
+Equation qui est équivalent à l’équation (32) :     
+du  papier de Damour  [1]  , en sa page 7.  
+L’incohérence physique et mathématique du modèle disparait. On pourrait objecter que ceci limite les solutions à celles qui cadrent avec cette approximation Newtonienne. Mais en cosmologie, que demande-t-on de plus. 
+Mieux vaut un modèle qui fournit des résultats de calculs se limitant aux conditions de l’approximation Newtonienne (c’est à dire à toutes les données disponibles observationnellement) qu’un modèle extrêmement ambitieux (Damour et Kogan 2001) qui nous promet des solutions non linéaires mais qui, in fine, n’offre pas une possible confrontation aux observations. 
+Nous allons, comme tout à l’heure, finaliser le calcul de la métrique intérieur de l’espèce négative. Nous n’omettrons aucun intermédiaire de calcul pour être sûr qu’une erreur (c’est vite arrivé) ne se glissera pas dans la démarche. 
+(86)                                                             
+Pour exprimer la métrique intérieure : 
+(87)                                                         
+Compte tenu que par hypothèse  est constant. 
+(88)                                     
+(89)                                                         
+On pose : 
+(90)                                       
+Pour résoudre on utilise  (74)
+(91)                                       
+(92)                                           
+(93)                      
+On pose : 
+(94)                                                     
+Il vient : 
+(95)                         
+Une solution particulière de cette équation différentielle est : 
+(96)                                                                  
+Il faut trouver la solution générale de l’équation homogène : 
+(97)                                                      
+qui est : 
+(98)                                                      
+Ainsi la solution générale est : 
+(99)                                           
+Détermination des éléments de la métrique    : 
+(100)                                           
+où on a : 
+(101)                          
+On a vu que : 
+(102)            
+(103)                                           
+On exprime que la pression est nulle à la surface de la sphère 
+(104)                                                       
+Pour détermine B on va faire en sorte qu’il y ait un raccordement continu entre la métrique intérieure et la métrique extérieure, en r = rs
+On sait qu’on a : 
+(105)                                                       
+
+(106)                 
+(107)          
+(108)                                                          
+(109)                                                  
+(110)                           
+D’où l’expression finale de la métrique intérieure  
+(111)
+
+qui se raccorde avec la métrique extérieure : 
+(112)                     
+Sous leur formes linéarisées :
+(113)           
+(114)              
+
+References : 
+[1]  T.Damour : Sur le modèle « Janus » de J.P.Petit http://www.ihes.fr/~damour/publications/JanusJanvier2019-1.pdf
+[2]  Adler, Schiffer et Bazin : Introduction to General Relativity.
+http://www.jp-petit.org/books/asb.pdf
+
+
+Annexe 3 :
+
+Thibaud Damour, IHES 2019 January the fourth
+About the « Janus Cosmological Model of J.P.Petit
+( translated by J.P.Petit )
+
+Before all let us give our conclusion : 
+The « Janus Cosmological Model » is physically (and mathematically ) unconsistent
+The Janus equations are the following : 
+(1a)                                            
+(1b)                                        
+With                
+The classical definition of which ensures its tensorial conservation with respect to is :
+
+Where  refers to the action of the ordinary matter. There is no need to give the definition of  , which was not precised in the works of Petit and d’Agostini. 
+The « Janus Model » does not fit the Bianchi identities. In effect the system (1a) + (1b) goes with : 
+(2a)                                                                 
+(2b)                                                                  
+Consider the case    so that the Janus system becomes : 
+(3a)                                                                 
+(3b)                                                                
+
+  Let us write :  
+
+ 
+
+
+The the Janus system becomes : 
+(4a)                                                                 
+(4b)                                                                
+with (4c) : 
+                                                                         
+The authors have introduced the factor   is order to cure a difficulty to some unconsistency linked to a simplified model but as will be shown further this does not prevent the severe unconsistency in the case of the hydrostatic equilibrium when we consider the cas of a self-gravitating star, in the Newtonian limit 
+The central point is based on the constainsts 
+(5a)                                                                 
+(5b)                                                                  
+where  is the connection linked to . 
+To illustrate such point let us consider the simple case where the « positive » matter comes both from a background source   ( for example a star, or the sun in our solar system ), considered as a sphere filled by a uniform distribution of « dust », i.e , then : 
+(6a)                                                                 
+(6b)                                                                  
+where  
+(7)                                                        
+(8)                                                                       
+(9)                                                                       
+Here the covariant 4-velocity field  is, defined with respect to the metric  , so that  .  Considered with respect to the second metric   the co-vectorial field defines in a unique way the equivalent 4-velocity field  (with ) as defined above. 
+Now consider the two conservation laws (5a) and (5b). 
+Let us first concentrate on the movement of the test dust matter. The laws (5a) and (5b) the following constrainst : 
+(10)                                                                       
+(11)                                                                       
+(12)                                                                       
+(12)                                                                       
+
+The physical meaning of the equation (10) is the following. It shows that the lines of the universe of the matter (defined by  ) are geodesics of  , while the third equation (12) says that the same positive matter is also ruled (by the equations  ) to obey another equations of the movement   which shows that the line of the universe defined by  must be geodesics derived from the metric. But the 4-velocity field  is not independent of  . Considered as a covariant field it is basically the same through a renormalization factor , equation, so that  As the two metrics  and  are a priori different I don’t see how it could be possible ( considering a complex general time dependent solution, defined by arbitrary Cauchy data for   ) to have the same matter following different motion equations. If we consider for example some initial velocity data for a a test dust, such velocity would be supposed to folllow at the same time two distinct rules of evolution, which is mathematically absurd for a classical theory !
+   Another physico-mathematical contradiction may arise from equations (4a) and (4b) applying such system to the structure of a self-gravitating star, in Newtonian limit. Consider a background source corresponding to a perfect fluid : 
+(13)                                          
+I will limit the analysis to the almost Newtonian conditions. I will show that this theory is self contradictory and does not lead to any physical solution. 
+I recall that the linearized solution of the Einstein equations may be written : 
+(14)                                     
+where U is the newtonian potential from Poisson equation : 
+(15)                          
+Due to the formal symmetry of the system (4a) + (4b) we get the corresponding linearized solution :
+(16)                                    
+where the quasi Newtonian potential  obeys : 
+(17)                        
+from (9) with    is simply  -  . So that : 
+(18)                                                   
+Now I shift to another thing that shows the unconsistency of the « Janus Model ». After equation (4c)  
+(19)                                                
+It is now very important to take in charge the consequences of the equations (5a) and (5b) which act on the same energy-impulsion tensor.
+I recall : 
+(20)                                                      
+If i refers to space : 
+(21)                                                      
+In the Newtonian approximation, in  the last term the contribution from   is dominant because  while  and . Then 
+ (22)           
+I recall that in the Newtonian approximation the order of magnitude of  is unity, i.e. is when   .  
+For example, for a perfect moving fluid we have  Then the above equation (when fullfilled by  ) is nothing ( when ) but the classical hydrodynamical Euler equation.  I have considered a static case, with the equilibrium of a self-gravitating star. 
+Now, consider the second conservation law (5b). We shall have : 
+(23)                                            
+Thus, finally : 
+(24)                                            
+In this second Euler equation :    then 
+(25)                                            
+which contradicts the classical Euler equation (22). 
+If the star is filled by a perfect fluid this static equilibrium implies both 
+(26)                                  
+
+CONCLUSION : The system of coupled equations of the « Janus Model » are mathematically and physically contradictory.
+

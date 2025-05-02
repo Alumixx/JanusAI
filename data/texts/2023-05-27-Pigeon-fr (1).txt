@@ -1,0 +1,13527 @@
+Calculs pratiques en relativit´e g´en´erale
+
+dans le cas des m´etriques diagonales
+
+David Pigeon 1
+
+23 mai 2023
+
+Le pr´esent texte se focalise exclusivement sur l’exploration d’une vari´et´e d’espace-temps(M, g), o`u la
+
+m´etrique g est diagonale.
+
+Au sein du premier chapitre, une ´etude comparative est entreprise pour ´evaluer deux m´ethodes distinctes
+permettant de calculer avec pr´ecision les composantes des tenseurs classiques li´es `a la courbure, tels que le
+tenseur de courbure, le tenseur de Riemann, le tenseur de Ricci et le tenseur d’Einstein.
+
+de vecteurs(∂0, ∂1, ∂2, ∂3).
+base alternative(θ0, θ1, θ2, θ3), sp´ecialement choisie pour orthonormaliser la m´etrique g et ainsi faciliter les
+
+La seconde m´ethode, connue sous le nom de m´ethode des ”t´etrades”, se distingue par l’utilisation d’une
+
+La premi`ere approche adopt´ee est la m´ethode standard, qui s’appuie sur l’utilisation de la base de champs
+
+calculs et les interpr´etations g´eom´etriques.
+
+On applique ces deux m´ethodes dans le contexte d’une m´etrique h sp´ecifique, pr´esentant des propri´et´es
+diagonales et une sym´etrie sph´erique. Cette m´etrique englobe les m´etriques connues telles que celles de
+Schwarzschild, de Reissner-Nordstr¨om et de Friedmann-Lemaˆıtre-Robertson-Walker.
+
+Le deuxi`eme chapitre est d´edi´e `a la r´esolution de l’´equation d’Einstein pour la m´etrique h en pr´esence
+d’un tenseur ´energie-impulsion g´en´eral. Les efforts se concentrent sur l’analyse et la r´esolution de l’´equation
+d’Einstein pour en d´eduire les premi`eres propri´et´es des fonctions apparaissant dans la m´etrique.
+
+Des exemples sont pr´esent´es pour illustrer l’application des r´esultats obtenus. Une attention particuli`ere
+est accord´ee `a l’´etude de la m´etrique de Friedmann-Lemaˆıtre-Robertson-Walker, qui est utilis´ee pour d´ecrire
+l’expansion de l’Univers dans le cadre de la cosmologie. Dans un second temps, une analyse plus d´etaill´ee
+est consacr´ee aux m´etriques de Schwarzschild et de Reissner-Nordstr¨om, qui repr´esentent respectivement les
+solutions pour un objet massif non charg´e et charg´e dans un espace-temps courb´e.
+
+Enfin, des r´esultats g´en´eraux sont d´emontr´es concernant la forme g´en´erale de la m´etrique dans ces cas
+
+sp´ecifiques.
+
+1. Professeur agr´eg´e en classes pr´eparatoires et charg´e de TD `a l’universit´e de Caen-Normandie.
+
+Contact : david.pigeon@unicaen.fr
+
+1
+
+Calculs pratiques en relativit´e g´en´erale
+
+2
+
+David Pigeon
+
+Table des mati`eres
+
+1 Calculs des objets associ´es `a la courbure pour les m´etriques diagonales
+
+1.1 G´en´eralit´es et notations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.1.1 Fibr´es tangent et cotangent . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.1.2 Le langage des tenseurs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.1.3 Champs tensoriels . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.1.4 La m´etrique diagonale du texte . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.1.5 Orthonormalisation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+1.1.6 Les bases E et E∗ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.1.9 Monter les indices avec le tenseur g∗ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+1.1.7 Notations des tenseurs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.1.8 Descendre les exposants avec le tenseur g . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+1.2 Connexions associ´ees `a la courbure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.2.1 D´eriv´ee et crochet de Lie . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.2.2 Connexion de Levi-Civita . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.2.3 Trace et divergence . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+1.3 Tenseur de courbure et tenseur de Riemann . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.3.1 G´en´eralit´es . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+1.2.4 D´efinition de la connexion dans les bases E et E∗ . . . . . . . . . . . . . . . . . . . . . .
+1.2.5 Calculs pratiques de la connexion dans les bases C et C∗ . . . . . . . . . . . . . . . . .
+1.2.6 Calculs pratiques de la connexion dans les bases C⊥ et C∗⊥ . . . . . . . . . . . . . . . . .
+1.3.2 Calcul des composantes dans E et E∗ . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.3.3 Calculs pratiques dans C et C∗ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.3.4 Calculs pratiques de la 2-forme de courbure dans C⊥ et C∗⊥ . . . . . . . . . . . . . . . .
+1.3.5 Calculs pratiques dans C⊥ et C∗⊥
+1.4.2 Calcul des composantes dans E et E∗ . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.4.3 Calcul des composantes dans C et C∗ . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.4.4 Calcul des composantes dans C⊥ et C∗⊥
+1.5.1 Calculs pratiques dans C et C∗ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.5.2 Calculs pratiques dans C⊥ et C∗⊥
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.4.1 G´en´eralit´es . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.5 Courbure scalaire . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.6 Tenseur d’Einstein . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+1.4 Tenseur de Ricci
+
+2 R´esolution pratique dans le cas des m´etriques `a sym´etrie sph´erique
+
+2.1 R´esolution g´en´erale
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.1.1 Objets associ´es `a la courbure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.1.2 Forme du champ tensoriel Sjl
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.1.3 Utilisation de l’identit´e de Bianchi . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.1.4 Les six ´equations fondamentales
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.1.5 Cas o`u G et S sont diagonaux . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+2.1.6 Cas o`u les fonctions u′ et ξ sont nulles.
+
+5
+5
+5
+9
+12
+14
+16
+17
+17
+19
+23
+27
+27
+29
+33
+35
+38
+44
+50
+50
+53
+57
+58
+62
+67
+67
+67
+69
+70
+74
+77
+78
+79
+
+85
+85
+85
+86
+88
+90
+90
+91
+
+3
+
+TABLE DES MATI`ERES
+
+TABLE DES MATI`ERES
+
+2.2 Cas o`u les fonctions ˙b et ξ sont nulles.
+
+94
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+96
+2.2.1 Plan de la section . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.2.2 R´esolution g´en´erale . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+96
+2.2.3 M´etrique ext´erieure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 100
+2.2.4 M´etrique int´erieure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 102
+
+2.2.5 Cas o`u β(r)= 0 pour r> R . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 107
+
+2.2.6 Exemple de la m´etrique Reissner–Nordstr¨om . . . . . . . . . . . . . . . . . . . . . . . . . 110
+
+Bibliographie
+
+115
+
+Calculs pratiques en relativit´e g´en´erale
+
+4
+
+David Pigeon
+
+Chapitre 1
+
+Calculs des objets associ´es `a la courbure
+pour les m´etriques diagonales
+
+1.1 G´en´eralit´es et notations
+
+On fixe pour toute la suite une vari´et´e diff´erentiable M de dimension 4. On se donne un atlas maximal
+
+sur M et on suppose en chaque point p de M donn´e une carte de M du type :
+
+(U, φ∶=(x0, x1, x2, x3))
+avec p∈ U sur laquelle on fera les calculs. On a donc un diff´eomorphisme φ∶ U—→ φ(U)⊂ R4 et donc pour
+tout i∈{0, 1, 2, 3}, on a une application infiniment diff´erentiable :
+On note C∞(M) l’ensemble des fonctions f infiniment diff´erentiables de M dans R (sur chaque carte U
+la fonction f∣U∶ U—→ R est telle que f○ ϕ−1∶ ϕ(U)⊂ R4—→ R soit infiniment diff´erentiables au sens usuel).
+
+xi∶ U—→ R
+
+appel´ee l’application coordonn´ees i-`eme.
+
+Dans toute la suite, tous les objets consid´er´es seront infiniment diff´erentiables.
+
+Pour simplifier la notation, nous utiliserons par la suite le symbole M `a la place de U . Il sera ainsi
+
+sous-entendu que nous travaillons dans une carte munie de coordonn´ees.
+
+Des r´ef´erences pour les notions trait´ees dans ce chapitre sont :
+
+[2], [6], [8],
+
+[9], [11], [17],
+
+[20].
+
+1.1.1 Fibr´es tangent et cotangent
+
+On commence par d´efinir la notion de vecteurs et d’espace tangent.
+
+D´efinition 1.1.1.1: Espace tangent en un point
+
+Soit p∈ M .
+
+(i) Un vecteur en p de M est une fonction :
+
+v∶ C∞(M)—→ R
+telle que pour tous f1, f2∈ C∞(M) et tous a, b∈ R :
+(a) v(af1+ bf2)= av(f1)+ bv(f2) ;
+(b) v(f1f2)= f1(p)v(f2)+ f2(p)v(f1).
+
+(ii) L’espace tangent TpM en p de M est d´efini comme l’ensemble des vecteurs en p de M .
+
+5
+
+CHAPITRE 1. CALCULS DES OBJETS ASSOCI´ES `A LA COURBURE POUR LES M´ETRIQUES
+DIAGONALES
+
+1.1. G´EN´ERALIT´ES ET NOTATIONS
+
+On remarque que si f∶= a est constante sur M alors v(f)= 0 car on a par le point (i.b) :
+i.e. v(1)= 0 et donc on a par le point (i.a) :
+
+v(1)= 2v(1)
+v(f)= v(a)
+= av(1)
+= 0
+
+Notation 1.1.1.2: Notation pour l’espace tangent en un point
+
+Soit p∈ M .
+(1) On d´efinit deux lois sur TpM . Pour tous v1, v2∈ TpM , tout a∈ R et tout f∈ C∞(M), on pose :
+(a) (v1+ v2)(f)∶= v1(f)+ v2(f) ;
+(b) v1(af)∶= av1(f).
+(2) L’´el´ement ∂i,p∶ C∞(M)—→ R est d´efini pour tout f∈ C∞(M) par :
+
+∂i,p(f)∶= ∂
+
+∂xi(f○ φ
+
+−1)∣φ(p) .
+
+On a le r´esultat classique suivant.
+
+Proposition 1.1.1.3: Structure d’espace vectoriel de TpM
+
+(i) On a :
+
+∂i,p∈ TpM.
+
+i.e. on a :
+
+(ii) Les ∂i,p sont lin´eairement ind´ependants.
+
+(iii) Soit p∈ U . Le triplet(TpM,+, .) est un R-espace vectoriel de dimension 4 engendr´e par les ∂i,p
+(i) Soit f1, f2∈ C∞(M) et a, b∈ R. On a par lin´earit´e de la d´erivation, de la composition
+
+TpM= VectR(∂i,p) .
+
+D´emonstration.
+
+`a gauche et de l’´evaluation :
+
+∂
+
+∂xi((af1+ bf2)○ φ
+−1)∣φ(p)
+∂i,p(af1+ bf2)= ∂
+−1)∣φ(p)
+∂xi(af1○ φ
+−1+ bf2○ φ
+= ∂
+∂xi(f2○ φ
+∂xi(f1○ φ
+−1)∣φ(p)+ b
+= a
+= a∂i,p(f1)+ b∂i,p(f2)
+∂xi((f1f2)○ φ
+−1)∣φ(p)
+∂i,p(f1f2)= ∂
+∂xi((f1○ φ
+−1))∣φ(p)
+−1)(f2○ φ
+= ∂
+−1)∣φ(p)+ f2(φ
+∂xi(f2○ φ
+−1(φ(p)) ∂
+= f1(φ
+= f1(p)∂i,p(f2)+ f2(p)∂i,p(f1)
+
+∂
+
+−1)∣φ(p)
+
+−1(φ(p)) ∂
+
+∂xi(f1○ φ
+
+−1)∣φ(p)
+
+Par la d´erivation d’un produit, on a :
+
+Calculs pratiques en relativit´e g´en´erale
+
+6
+
+David Pigeon
+
+CHAPITRE 1. CALCULS DES OBJETS ASSOCI´ES `A LA COURBURE POUR LES M´ETRIQUES
+DIAGONALES
+
+1.1. G´EN´ERALIT´ES ET NOTATIONS
+
+Donc on a :
+
+(ii) Soit a0, a1, a2, a3∈ R tels que :
+i.e. pour tout f∈ C∞(M), on a :
+Comme xj∶ M—→ R∈ C∞(M), on a :
+
+∂i,p∈ TpM.
+ai∂i,p= 0
+3∑
+i=0
+ai∂i,p(f)= 0.
+3∑
+i=0
+0= 3∑
+ai∂i,p(xj)
+i=0
+∂xi(xj○ φ
+−1)∣φ(p)
+= 3∑
+i=0
+= 3∑
+−1(φ(p)))
+j(φ
+i=0
+= 3∑
+i=0
+= aj
+(iii) Soit v∈ TpM f∈ C∞(M) et q∈ M . Posons :
+F∶= f○ φ
+z∶=(z0, z1, z2, z3)∶= φ
+λ∶=(λ0, λ1, λ2, λ3)∶
+
+Ainsi les ∂i,p sont lin´eairement ind´ependants.
+
+Notons :
+
+ai ∂
+
+aiδi
+j
+
+aiδi
+
+−1∶ R4—→ R.
+−1(q) y∶=(y0, y1, y2, y3)∶= φ
+[0, 1] —→
+z→ (1− s)y+ sz
+
+R4
+
+s
+
+−1(p).
+
+0
+
+0
+
+d
+
+f(q)− f(p)= F(z)− F(y)
+= F(λ(1))− F(λ(0))
+=[F(λ(s))]1
+ds(F○ λ)(s)ds
+=∫ 1
+(λi)′(s)∂iF(λ(s))ds
+=∫ 1
+3∑
+i=0
+(zi− yi)∂iF((1− s)y+ sz)ds
+=∫ 1
+3∑
+i=0
+∂iF((1− s)y+ sz)ds
+(zi− yi)∫ 1
+= 3∑
+i=0
+(zi− yi)Gi(z)
+= 3∑
+i=0
+= 3∑
+(xi○ φ(q)− xi○ φ(q))Gi(φ(q))
+i=0
+
+0
+
+0
+
+0
+
+le segment reliant y et z dans R4. Comme F est diff´erentiable sur R4 et comme λ′= z− y, on a par le
+
+th´eor`eme fondamental de l’analyse et la d´eriv´ee d’une compos´ee :
+
+David Pigeon
+
+7
+
+Calculs pratiques en relativit´e g´en´erale
+
+CHAPITRE 1. CALCULS DES OBJETS ASSOCI´ES `A LA COURBURE POUR LES M´ETRIQUES
+DIAGONALES
+
+1.1. G´EN´ERALIT´ES ET NOTATIONS
+
+avec :
+
+Ainsi la fonction f est donn´ee par :
+
+Gi(z)∶=∫ 1
+f∶ qz→ f(p)+ 3∑
+i=0
+
+0
+
+∂iF((1− s)y+ sz)ds.
+(xi○ φ(q)− xi○ φ(p))Gi(φ(q)).
+
+Comme v est lin´eaire et nulle sur les constantes et en utilisant les lois v´erifi´ees par v, on a en appliquant
+v :
+
+v((xi○ φ(q)− xi○ φ(p))Gi(φ(q)))
+v(f)= v(f(p))+ 3∑
+i=0
+= v(f(p))+ 3∑
+(xi○ φ(q)− xi○ φ(p))q=pv(Gi(φ(p)))+ 3∑
+i=0
+i=0
+= 3∑
+v(xi○ φ)∂i,p(f)
+i=0
+
+Gi(φ(p))v(xi○ φ− xi○ φ(p))
+
+En posant :
+
+on a donc :
+
+vi∶= v(xi○ φ)
+
+v= vi∂i,p∈ VectR(∂i,p) .
+
+D´efinition 1.1.1.4: Fibr´es tangent et contangent
+
+(i) (a) Le fibr´e tangent de M est d´efini par :
+
+T M∶= ⋃
+p∈M
+={(p, v), p∈ M ∧ v∈ TpM}
+π∶
+(b) Un champ de vecteurs est une section de T M i.e. une application X∶ M —→ T M telle
+que π○ X= IdM .
+(ii) (a) Soit p∈ M . L’espace cotangent T∗
+
+{(p, v), v∈ TpM}
+T M —→ M
+(p, v) z→ p
+
+p M en p de M est d´efini comme le dual de TpM i.e.
+
+il est muni naturellement d’une application projection :
+
+on a :
+
+Les ´el´ements de T∗
+
+(b) Le fibr´e cotangent de M est d´efini par :
+
+p M sont appel´es covecteurs.
+
+∗
+
+T
+
+.
+
+T
+
+p M∶=(TpM)∗
+∗
+p M}
+{(p, ϕ), ϕ∈ T
+M∶= ⋃
+∗
+p∈M
+={(p, ϕ), p∈ M ∧ ϕ∈ T
+π∗∶ T∗M —→ M
+(p, ϕ) z→ p
+
+p M}
+∗
+
+il est muni naturellement d’une application projection :
+
+(c) Un champ de covecteurs ou 1-forme (diff´erentielle) est une section de T∗M i.e. une
+application α∶ M—→ T∗M telle que π∗○ α= IdM .
+
+Calculs pratiques en relativit´e g´en´erale
+
+8
+
+David Pigeon
+
+CHAPITRE 1. CALCULS DES OBJETS ASSOCI´ES `A LA COURBURE POUR LES M´ETRIQUES
+DIAGONALES
+
+1.1. G´EN´ERALIT´ES ET NOTATIONS
+
+Exemple 1.1.1.5: Fibr´es tangent et contangent
+
+(1) On note pour tout i∈{0, 1, 2, 3}, la section :
+La famille C ∶= (∂0, ∂1, ∂2, ∂3) forme une base de champs de vecteurs i.e. pour tout p ∈ M ,
+(∂0,p, ∂1,p, ∂2,p, ∂3,p) est une base de TpM .
+(2) On note(dx0,p, dx1,p, dx2,p, dx3,p) la base duale de(∂0,p, ∂1,p, ∂2,p, ∂3,p) i.e. pour tout j∈{0, 1, 2, 3}
+
+∂i∶ M —→ T M
+p z→ (p, ∂i,p)
+
+on a une forme lin´eaire :
+
+telle que :
+
+On note alors la section :
+
+dxj,p∶ TpM—→ R
+dxj,p(∂xi,p)= δj
+dxj∶ M —→
+T∗M
+p z→ (p, dxj,p)
+
+i .
+
+dxj(∂i)= δj
+
+i .
+
+La famille C∗∶=(dx0, dx1, dx2, dx3) forme une base de champs de covecteurs i.e. pour tout p∈ M ,
+(dx0,p, dx1,p, dx2,p, dx3,p) est une base de T∗
+
+p M .
+
+Dans toute la suite, on omettra par abus l’indice ”p”. Donc on confond dans les notations vecteurs et
+
+champs de vecteurs, et covecteurs et champs de covecteurs. On aura donc par exemple :
+
+1.1.2 Le langage des tenseurs
+
+Soit des R-espaces vectoriels E, F, E1, . . . , Ek.
+
+● On note :
+l’ensemble des applications k-lin´eaires de E1×⋯× Ek dans F ;
+● On note :
+l’espace dual de E et E∗∗∶=(E∗)∗ l’espace bidual de E. On a un isomorphisme canonique entre
+E et son bidual E∗∗ donn´e par :
+
+E
+
+Lk(E1×⋯× Ek, F)
+∗∶= L(E, R)
+E —→
+E∗∗
+u z→ (ϕz→ ϕ(u))
+
+On les identifie `a partir de maintenant.
+
+On fixe pour cette sous-section des bases B∶=(e1, . . . , en) et B′∶=(f1, . . . , fm) sur E et F respectivement.
+On note B∗∶=(e1, . . . , en) et B′∗∶=(f 1, . . . , f m) les bases de E∗ et F∗ respectivement d´eduites de B et B′
+(on a ei(ej)= δi
+
+j et f i(fj)= δi
+
+j).
+
+D´efinition 1.1.2.1: Produit tensoriel
+
+Le produit tensoriel des espaces vectoriels E1, . . . , Ek est d´efini par :
+
+E1⊗⋯⊗ Ek∶= Lk(E
+Les ´el´ements de E1⊗⋯⊗ Ek sont appel´es tenseurs.
+
+1×⋯× E
+∗
+
+k , R).
+∗
+
+David Pigeon
+
+9
+
+Calculs pratiques en relativit´e g´en´erale
+
+CHAPITRE 1. CALCULS DES OBJETS ASSOCI´ES `A LA COURBURE POUR LES M´ETRIQUES
+DIAGONALES
+
+1.1. G´EN´ERALIT´ES ET NOTATIONS
+
+Exemple 1.1.2.2: Exemples usuels
+
+(1) Pour tout T∈ E⊗ F , on a une d´ecomposition :
+
+T= n∑
+i=1
+
+m∑
+j=1
+
+Tijei⊗ fj= Tijei⊗ fj.
+
+(2) On a :
+
+La deuxi`eme ´egalit´e est la convention d’Einstein que nous adoptons `a partir de maintenant.
+On a donc :
+
+T(ek, f l)= Tijei⊗ fj(ek, f l)= Tijei(ek)fj(f l)= Tijδk
+j= Tkl.
+∗∶= L2(E
+∗× E, R)
+E⊗ E∶= L2(E
+∗× E
+, R) , E⊗ E
+Pour tous k, l∈ N, on a par exemple :
+⊗k⊗ E
+⊗l∶= E
+⊗k⊗ E
+⊗(k+1)∶= E
+⊗k)⊗l∶= E
+(E
+⊗1∶= L(E
+∗∗= E
+, R)= E
+∗
+⊗0∶= R
+
+i δl
+
+∗
+
+E
+
+E
+
+E
+
+⊗(k+l)
+⊗(kl)
+
+E
+
+On pose :
+
+vectoriels.
+
+∗)⊗l
+
+On construit ainsi l’ensemble :
+
+qui nous permet d’identifier ces deux espaces
+
+On a un isomorphisme canonique(E∗)⊗k=(E⊗k)∗
+T k,lE∶= E
+⊗k⊗(E
+T E∶= ⊕
+k,l≥0
+● Les ´el´ements de T kE∶= T k,0E (avec k> 0) sont appel´es tenseurs contravariants.
+● Les ´el´ements de T 0,lE (avec l> 0) tenseurs covariants.
+● Les ´el´ements de T k,lE (avec k, l> 0) tenseurs mixtes.
+On construit de fa¸con naturelle une loi+ entre tenseurs de mˆeme type ainsi qu’une multiplication par
+un scalaire. Ce qui fait du triplet(T E,+,⋅) un R-espace vectoriel. Une tenseur T de type(k, l) admet une
+ei1⊗⋯⊗ eik⊗ ej1⊗⋯⊗ ejl
+On dira que c’est la d´ecomposition de T dans les bases B et B∗.
+
+T= T i1⋯ik
+j1⋯jk
+
+unique d´ecomposition du type :
+
+T k,lE.
+
+On construit ci-dessous une op´eration de multiplication.
+
+D´efinition 1.1.2.3: Produits de tenseurs
+
+Soit x1, . . . , xk∈ E et ψ1, . . . , ψk∈ E∗. On a un ´el´ement :
+d´efini pour tous ϕ1, . . . , ϕk∈ E∗ et y1, . . . , yl∈ E par :
+
+∗)⊗l
+⊗k⊗(E
+x1⊗⋯⊗ xk⊗ ψ1⊗⋯⊗ ψl ∈ T k,lE∶= E
+(x1⊗⋯⊗ xk⊗ ψ1⊗⋯⊗ ψl)(ϕ1, . . . , ϕk, y1, . . . , yl)∶= k∏
+ϕi(xi)× l∏
+i=1
+j=1
+
+ψj(yj).
+
+Ce produit se g´en´eralise par lin´earit´e aux formes multilin´eaires quelconque ainsi le produit S⊗ T de
+tenseurs d’ordre(k1, l1) et(k2, l2) est d’ordre(k1+ k2, l1+ l2).
+
+Calculs pratiques en relativit´e g´en´erale
+
+10
+
+David Pigeon
+
+CHAPITRE 1. CALCULS DES OBJETS ASSOCI´ES `A LA COURBURE POUR LES M´ETRIQUES
+DIAGONALES
+
+1.1. G´EN´ERALIT´ES ET NOTATIONS
+
+∗
+
+Exemple 1.1.2.4: Exemples simples de produits de tenseurs
+
+(1) Le produit de x, y∈ E est un ´el´ement x⊗ y∈ E⊗ E= L2(E∗× E∗, R) d´efini par :
+∀ϕ, ψ∈ E
+, (x⊗ y)(ϕ, ψ)∶= ϕ(x)ψ(y).
+(2) Le produit de ϕ, ψ∈ E∗ est un ´el´ement ϕ⊗ ψ∈ E∗⊗ E∗= L2(E× E, R) d´efini par :
+∀x, y∈ E, (ϕ⊗ ψ)(x, y)∶= ϕ(x)ψ(y).
+(3) Le produit de x∈ E et ψ∈ E∗ est un ´el´ement x⊗ ψ∈ E⊗ E∗= L2(E∗× E, R) d´efini par :
+,∀y∈ E, (x⊗ ψ)(ϕ, y)∶= ϕ(x)ψ(y).
+∀ϕ∈ E
+∗
+Ces produits sont associatifs, non commutatifs et distributifs par rapport `a+.
+Le quadruplet(T E,+,⋅,⊗) est ainsi une R-alg`ebre gradu´ee.
+
+On finit cette sous-section par la contraction de tenseur.
+
+ind´ependantes de la base choisie.
+
+D´efinition 1.1.2.5: La contraction d’un tenseur
+
+[T]i
+j= yj(xi)x1⊗⋅⋅⋅⊗ xi−1⊗ xi+1⊗⋅⋅⋅⊗ xk⊗ y1⊗⋅⋅⋅⊗ yj−1⊗ yj+1⊗⋅⋅⋅⊗ yl
+
+Soit un tenseur T∶= x1⊗⋅⋅⋅⊗ xk⊗ y1⊗⋅⋅⋅⊗ yl∈ E⊗k⊗(E∗)⊗l d’ordre(k, l) avec k, l≥ 1, i∈{1, . . . , k}
+et j∈{1, . . . , l}. La contraction de T suivant les indices i et j est le tenseur :
+C’est un tenseur d’ordre(k− 1, l− 1).
+Ces contractions sont associatives et distributives par rapport `a +. On peut montrer qu’elles sont
+Exemple 1.1.2.6: La trace d’un tenseur de type(1, 1)
+1 E de type(1, 1). Comme
+Soit un tenseur T∈ T 1
+1 E= E⊗ E
+∗= L(E)
+T∶= Ti
+jei⊗ ej.
+tr(T)∶=[T]1
+tr(T)=[T]1
+= Ti
+jej(ei)
+= Ti
+= Tj
+
+alors T est vu aussi comme une application lin´eaire de E. Notons la d´ecomposition dans la base B
+
+et B∗ par :
+
+La trace de T est d´efinie par :
+
+On a donc :
+
+jδj
+
+T 1
+
+1.
+
+1
+
+i
+
+j
+
+Cette d´efinition est donc la mˆeme que la d´efinition standard de trace d’un endomorphisme. La trace
+est ind´ependante de la base choisie.
+
+David Pigeon
+
+11
+
+Calculs pratiques en relativit´e g´en´erale
+
+CHAPITRE 1. CALCULS DES OBJETS ASSOCI´ES `A LA COURBURE POUR LES M´ETRIQUES
+DIAGONALES
+
+1.1. G´EN´ERALIT´ES ET NOTATIONS
+
+1.1.3 Champs tensoriels
+
+On note T k,lM l’ensemble des champs tensoriels r´eels de M de type (k, l) i.e. l’ensemble des
+champs A tels que en chaque point p∈ M , on ait un tenseur Ap de type(k, l). On a donc une application
+
+k-lin´eaire :
+
+grˆace `a l’´egalit´e :
+
+On note alors T M l’ensemble des champs tensoriels de M i.e.
+
+Ap∶(TpM)k×(T
+T k,lTpM=(TpM)⊗k⊗(T
+
+p M)l—→ R
+∗
+p M)⊗l
+∗
+
+.
+
+T M∶= ⊔
+k,l≥0
+
+T k,lM.
+
+Toutes les op´erations d´efinies sur les tenseurs dans la sous-section pr´ec´edente s’´etendent au champs ten-
+
+soriels naturellement.
+
+D´efinition 1.1.3.2: Exemples de champs tensoriels
+
+Exemple 1.1.3.1: Exemples de champs tensoriels
+
+(1) Un champ scalaire est un champ tensoriel de type(0, 0).
+(2) Un champ de vecteurs est un champ tensoriel de type(1, 0).
+(3) Un champ de covecteurs ou 1-forme est un champ tensoriel de type(0, 1).
+(4) Une application lin´eaire de M dans M (i.e. pour tout p∈ M , on a une application lin´eaire de
+TpM ) peut-ˆetre vu comme un tenseur de type(1, 1).
+Une m´etrique d’espace-temps (de signature (1, 3)) est un champ tensoriel g de type(0, 2) tel
+que pour tout p∈ M :
+(i) gp soit sym´etrique i.e. pour tous champs de vecteurs X et Y et tout p∈ M , on a :
+(ii) gp soit non d´eg´en´er´ee i.e. pour tous champs de vecteurs X et Y et tout p∈ M , on a :
+(iii) gp soit de signature(1, 3) i.e. il existe une base Bp de TpM telle que
+⎞⎟⎟⎟⎠
+
+gp(X(p), Y(p))= 0R (cid:212)⇒ X(p)= 0TpM ∨ Y(p)= 0TpM .
+
+M atBp(g)=⎛⎜⎜⎜⎝
+0 −1
+
+gp(X(p), Y(p))= gp(Y(p), X(p)).
+
+−1
+
+0
+0
+0
+
+0
+0
+
+1
+
+0
+
+0
+0
+
+0
+0
+
+−1
+
+On dit alors que le couple (M, g) est une vari´et´e d’espace-temps ou vari´et´e lorentzienne de
+signature(1, 3).
+gp(X(p), Y(p))= gp(Y(p), X(p)) simplement :
+
+On omettra par la suite la lettre ”p”. On dira par exemple que g est sym´etrique et on ´ecrira au lieu de
+
+0
+
+g(X, Y)= g(Y, X).
+
+Calculs pratiques en relativit´e g´en´erale
+
+12
+
+David Pigeon
+
+CHAPITRE 1. CALCULS DES OBJETS ASSOCI´ES `A LA COURBURE POUR LES M´ETRIQUES
+DIAGONALES
+
+1.1. G´EN´ERALIT´ES ET NOTATIONS
+
+Exemple 1.1.3.3: M´etriques `a sym´etrie sph´erique
+
+(1) M´etrique sur la 2-sph`ere unit´e. Consid´erons la 2-sph`ere unit´e de R3 :
+
+Le changement de variables entre les coordonn´ees cart´esiennes et sph´eriques est donn´e par :
+
+La matrice jacobienne du changement de variables vaut :
+
+f∶
+
+S 2∶={(x, y, z)∈ R3, x2+ y2+ z2= 1} .
+S 2⊂ R3
+]0, π[×[0, 2π[ —→
+(ϑ, φ)
+z→ (x, y, z)∶=(sin ϑ cos φ, sin ϑ sin φ, cos ϑ)
+⎞⎟⎟⎠=⎛⎜⎝cos ϑ cos φ − sin ϑ sin φ
+J∶=⎛⎜⎜⎝ ∂x
+⎞⎟⎠ .
+− sin ϑ
+δ∶= dx⊗ dx+ dy⊗ dy+ dz⊗ dz
+M at(∂x,∂y,∂z)(δ)= I3∶=⎛⎜⎝1 0 0
+
+cos ϑ sin φ sin ϑ cos φ
+
+0 1 0
+0 0 1
+
+∂x
+∂ϕ
+∂y
+∂ϕ
+∂z
+∂ϕ
+
+⎞⎟⎠
+
+∂ϑ
+∂y
+∂ϑ
+∂z
+∂ϑ
+
+0
+
+Notons :
+
+et hΩ∶= f∗δ la m´etrique sur la 2-sph`ere unit´e d´eduite de δ par la param´etrisation f . Comme :
+
+(2) Passage des coordonn´ees cart´esiennes aux coordonn´ees sph´eriques. La m´etrique η est
+
+⎞⎟⎠
+
+⎛⎜⎝cos ϑ cos φ − sin ϑ sin φ
+⎞⎟⎠
+− sin ϑ
+
+cos ϑ sin φ sin ϑ cos φ
+
+0
+
+on a :
+
+M at(∂φ,∂ψ)(hΩ)= tJM at(∂x,∂y,∂z)(δ)J
+= tJI3J
+=( cos ϑ cos φ cos ϑ sin φ − sin ϑ
+− sin ϑ sin φ sin ϑ cos φ
+=(1
+0 sin2 ϑ)
+
+0 )⎛⎜⎝1 0 0
+hΩ∶= dϑ⊗ dϑ+ sin2 ϑdφ⊗ dφ
+
+0 1 0
+0 0 1
+
+0
+
+Donc on a :
+
+donn´ee dans la base C∗ par :
+
+Donc on a :
+
+1
+
+0
+
+η= dx0⊗ dx0− dx1⊗ dx1− dx2⊗ dx2− dx3⊗ dx3.
+NC ∶= M atC(η)=⎛⎜⎜⎜⎝
+⎞⎟⎟⎟⎠ .
+0 −1
+−1
+⎧⎪⎪⎪⎪⎪⎨⎪⎪⎪⎪⎪⎩
+x0∶= t
+x1∶= r sin ϑ cos φ
+x2∶= r sin ϑ sin φ
+x3∶= r cos ϑ
+
+−1
+
+0
+0
+0
+
+0
+0
+
+0
+0
+
+0
+0
+
+0
+
+Le changement de variables entre les coordonn´ees cart´esiennes et sph´eriques est donn´e par :
+
+David Pigeon
+
+13
+
+Calculs pratiques en relativit´e g´en´erale
+
+CHAPITRE 1. CALCULS DES OBJETS ASSOCI´ES `A LA COURBURE POUR LES M´ETRIQUES
+DIAGONALES
+
+1.1. G´EN´ERALIT´ES ET NOTATIONS
+
+La matrice jacobienne du changement de variables vaut :
+
+J∶=
+
+⎛⎜⎜⎜⎜⎜⎜⎝
+
+∂x0
+∂t
+∂x1
+∂t
+∂x2
+∂t
+∂x3
+∂t
+
+⎞⎟⎟⎟⎟⎟⎟⎠
+
+∂x0
+∂r
+∂x1
+∂r
+∂x2
+∂r
+∂x3
+∂r
+
+0
+
+0
+
+1
+
+∂x0
+∂ϕ
+∂x1
+∂ϕ
+∂x2
+∂ϕ
+∂x3
+∂ϕ
+
+∂x0
+∂ϑ
+∂x1
+∂ϑ
+∂x2
+∂ϑ
+∂x3
+∂ϑ
+
+⎞⎟⎟⎟⎠ .
+=⎛⎜⎜⎜⎝
+0 sin ϑ cos φ r cos ϑ cos φ −r sin ϑ sin φ
+
+0 sin ϑ sin φ r cos ϑ sin φ r sin ϑ cos φ
+0
+
+−r sin ϑ
+B∶=(∂t, ∂r, ∂ϑ, ∂ϕ) , B∗∶=(∂t, ∂r, ∂ϑ, ∂ϕ)
+
+cos ϑ
+
+0
+
+0
+
+Notons :
+
+Posons pour simplifier :
+
+NB∶= M atB(η) , c(ϑ)∶= cos ϑ , s(ϑ)∶= sin ϑ , c(ϕ)∶= cos ϕ , s(ϕ)∶= sin ϕ.
+
+0
+
+0
+
+1
+
+0
+
+⎞⎟⎟⎟⎠
+⎛⎜⎜⎜⎝
+rc(ϑ)c(φ) −rs(ϑ)s(φ)
+0 s(ϑ)c(φ)
+rc(ϑ)s(φ)
+rs(ϑ)c(φ)
+0 s(ϑ)s(φ)
+−rs(ϑ)
+c(ϑ)
+−1
+⎞⎟⎟⎟⎠
+rc(ϑ)c(φ) −rs(ϑ)s(φ)
+rc(ϑ)s(φ)
+rs(ϑ)c(φ)
+−rs(ϑ)
+
+0
+
+0
+
+0
+
+0
+
+⎞⎟⎟⎟⎠
+
+Par changement de base on a :
+
+0
+
+1
+
+0
+
+0
+
+1
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+0
+
+0
+0
+
+0
+0
+
+1
+0
+0
+
+0
+0
+0
+
+⎛⎜⎜⎜⎝
+0 −1
+−1
+⎛⎜⎜⎜⎝
+0 s(ϑ)c(φ)
+0 s(ϑ)s(φ)
+c(ϑ)
+
+NB=tJNC J
+=⎛⎜⎜⎜⎝
+⎞⎟⎟⎟⎠
+s(ϑ)s(φ)
+c(ϑ)
+s(ϑ)c(φ)
+rc(ϑ)s(φ) −rs(ϑ)
+rc(ϑ)c(φ)
+rs(ϑ)c(φ)
+0 −rs(ϑ)s(φ)
+⎞⎟⎟⎟⎠
+=⎛⎜⎜⎜⎝
+−s(ϑ)s(φ) −c(ϑ)
+0 −s(ϑ)c(φ)
+rs(ϑ)
+0 −rc(ϑ)c(φ) −rc(ϑ)s(φ)
+rs(ϑ)s(φ) −rs(ϑ)c(φ)
+⎞⎟⎟⎟⎠
+=⎛⎜⎜⎜⎝
+0 −1
+−r2
+η= dx0⊗ dx0− dx1⊗ dx1− dx2⊗ dx2− dx3⊗ dx3
+= dt⊗ dt− dr⊗ dr− r2dϑ⊗ dϑ− r2 sin2 ϑdφ⊗ dφ
+
+−r2 sin2 ϑ
+
+Donc on a :
+
+0
+0
+0
+
+0
+0
+
+0
+0
+
+0
+0
+
+0
+
+0
+
+0
+
+1
+
+0
+
+1
+
+0
+
+0
+
+1.1.4 La m´etrique diagonale du texte
+
+On rappelle ce qui a ´et´e d´efini.
+
+● Une vari´et´e diff´erentielle M de dimension 4.
+● En chaque point p de M , on se donne une carte de M du type :
+(U, φ∶=(x0, x1, x2, x3))
+● C ∶=(∂0, ∂1, ∂2, ∂3) la base de champs de vecteurs sur U associ´ee aux coordonn´ees x∶=(x0, x1, x2, x3) i.e.
+● C∗∶=(dx0, dx0, dx0, dx0) la base duale associ´ee `a C de champs de covecteurs i.e. on a :
+
+sur laquelle on fera les calculs
+
+on a :
+
+∂xi
+
+.
+
+∂i∶= ∂
+dxi(∂j)= δi
+
+j.
+
+Calculs pratiques en relativit´e g´en´erale
+
+14
+
+David Pigeon
+
+CHAPITRE 1. CALCULS DES OBJETS ASSOCI´ES `A LA COURBURE POUR LES M´ETRIQUES
+DIAGONALES
+
+1.1. G´EN´ERALIT´ES ET NOTATIONS
+
+On omet les ”p” dans les notations ainsi que le ”U ”.
+
+On se donne sur M une m´etrique g d’espace-temps (de signature(1, 3)) qui soit en coordonn´ees locales
+
+avec
+
+de la forme :
+
+g= ηk(euk(x)
+= ηke2uk(x)
+= e2u0(x)
+ηk∶={ 1
+● les composantes de g par :
+● la m´etrique :
+
+On note aussi :
+
+dxk)
+dxk)⊗(euk(x)
+dxk⊗ dxk
+dx0⊗ dx0− e2u1(x)
+dx1⊗ dx1− e2u2(x)
+si k∶= 0
+, ηij∶= δi
+−1 sinon.
+gij∶= g(∂i, ∂j)= ηije2ui(x)
+
+, δi
+
+jηi
+
+dx2⊗ dx2− e2u3(x)
+dx3⊗ dx3
+j∶= δij∶= δij∶={ 1 si i= j
+
+0 sinon.
+
+η= ηkdxk⊗ dxk
+= dx0⊗ dx0− dx1⊗ dx1− dx2⊗ dx2− dx3⊗ dx3
+
+ηij∶= η(∂i, ∂j) .
+, ui,kl∶= ∂2
+
+ui,k∶= ∂kui∶= ∂ui
+
+∂xk
+
+klui∶= ∂2ui
+
+∂xk∂xl
+
+.
+
+et donc on a :
+
+● les d´eriv´ees :
+
+On omettra par la suite la variable ”x” dans les fonctions ui.
+
+Exemple 1.1.4.1: Exemple de la m´etrique h
+
+Dans tout ce texte, on prendra comme exemple la m´etrique diagonale h suivante :
+
+h= e2u(t,r)
+= e2u(t,r)
+
+dt⊗ dt− e2v(t,r)
+dt⊗ dt− e2v(t,r)
+
+dr⊗ dr− r2e2b(t)(dϑ⊗ dϑ+ sin2 ϑdφ⊗ dφ)
+dr⊗ dr− r2e2b(t)
+
+hΩ
+
+la m´etrique sur la 2-sph`ere unit´e en coordonn´ees sph´eriques (voir le point (2) de l’exemple ??). On
+est donc dans le cas o`u :
+
+et
+
+avec :
+
+hΩ∶= dϑ⊗ dϑ+ sin2 ϑdφ⊗ dφ
+(x0, x1, x2, x3)∶=(t, r, ϑ, ϕ).
+u0(t, r)∶= u(t, r)
+u1(t, r)∶= v(t, r)
+u2(t, r)∶= b(t)+ ln(r)
+u3(t, r, ϑ)∶= b(t)+ ln(r)+ ln sin(ϑ)
+On notera pour les indices ou exposants :(0, 1, 2, 3)≡(t, r, ϑ, ϕ)
+
+David Pigeon
+
+15
+
+Calculs pratiques en relativit´e g´en´erale
+
+CHAPITRE 1. CALCULS DES OBJETS ASSOCI´ES `A LA COURBURE POUR LES M´ETRIQUES
+DIAGONALES
+
+1.1. G´EN´ERALIT´ES ET NOTATIONS
+
+On notera les d´eriv´ees par rapport `a t avec un point (par exemple ˙u et ¨u) et les d´eriv´ees par rapport
+
+`a r avec une apostrophe (par exemple u′ et u′′).
+
+Cette m´etrique nous permettra de traiter deux cas usuels dans le prochain chapitre.
+
+(a) Les m´etriques int´erieure et ext´erieure de Schwarzschild (SCHW), et la m´etrique de
+
+Reissner–Nordstr¨om (RN) qui correspondent au cas o`u :
+
+b= 0.
+
+(b) La m´etrique de Friedmann–Lemaˆıtre–Robertson–Walker (FLRW) qui correspond au cas
+
+o`u :
+
+˙u= u
+
+′= 0 , v(t, r)= v(r)+ b(t).
+
+1.1.5 Orthonormalisation
+
+On veut que :
+
+La base C n’est pas orthonormale pour g en g´en´erale i.e. on a en g´en´erale :
+
+g(∂i, ∂j)= gij≠ ηij.
+On va construire une base orthonormale C⊥∶=(θ0, θ1, θ2, θ3) associ´ee `a C . Notons :
+θk∶= f k∂k.
+ηk= g(θk, θk)= g(f k∂k, f k∂k)=(f k)2
+g(∂k, ∂k)=(f k)2
+1√∣gkk∣= e
+=
+−uk
+1√∣gkk∣ ∂k= e
+−uk ∂k
+On note C∗⊥ ∶=(θ0, θ1, θ2, θ3) la base duale associ´ee `a C⊥ avec :
+θk∶= fkdxk.
+
+f k=√ ηk
+θk= f k∂k=
+
+i.e. on a donc :
+
+Ainsi on a :
+
+gkk
+
+gkk
+
+1= θk(θk)= f kdxk(fk∂k)= f kfkdxk(∂k)= f kfk
+
+fk=(f k)−1= euk .
+θk= fkdxk= euk dxk.
+
+On a donc :
+
+i.e. on a :
+
+Ainsi on a :
+
+On a donc :
+
+g= θ0⊗ θ0− θ1⊗ θ1− θ2⊗ θ2− θ3⊗ θ3= ηkθk⊗ θk= ηijθi⊗ θj.
+
+Exemple 1.1.5.1: Suite 1 de la m´etrique h
+
+On reprend l’exemple avec la m´etrique h (voir 1.1.4.1) avec :
+
+u0(t, r)∶= u(t, r)
+u2(t, r)∶= b(t)+ ln(r)
+
+u1(t, r)∶= v(t, r)
+u3(t, r, ϑ)∶= b(t)+ ln(r)+ ln sin(ϑ)
+
+(1.1.5.1)
+
+(1.1.5.2)
+
+Calculs pratiques en relativit´e g´en´erale
+
+16
+
+David Pigeon
+
+CHAPITRE 1. CALCULS DES OBJETS ASSOCI´ES `A LA COURBURE POUR LES M´ETRIQUES
+DIAGONALES
+
+1.1. G´EN´ERALIT´ES ET NOTATIONS
+
+et
+
+On note :
+
+la base orthonormale associ´ee `a :
+
+B⊥∶=(θ0, θ1, θ2, θ3)∶=(θt, θr, θϑ, θϕ)
+B∶=(∂0, ∂1, ∂2, ∂3)∶=(∂t, ∂r, ∂ϑ, ∂ϕ)
+B∗⊥∶=(θ0, θ1, θ2, θ3)∶=(θt, θr, θϑ, θϕ)
+la base duale associ´ee `a B⊥. On a donc :
+θt= θ0= e
+θr= θ1= e
+−u∂t
+−v∂t
+θϕ= θ3= r
+θϑ= θ2= r
+−1 ϑe
+−1 sin
+−b∂ϑ
+−1e
+θr= θ1= evdr
+θt= θ0= eudt
+θϕ= θ3= r sin ϑeadϕ
+θϑ= θ2= readϑ
+h= θt⊗ θt− θr⊗ θr− θϑ⊗ θϑ− θϕ⊗ θϕ.
+
+Ainsi on a :
+
+−b∂ϕ
+
+On note pour toute la suite :
+
+1.1.6 Les bases E et E∗
+● E ∶=(e0, e1, e2, e3) une base de champs de vecteurs sur M ;
+● E∗∶=(e0, e1, e2, e3) la base duale associ´ee `a E i.e. on a :
+ei(ej)= δi
+Les bases E et E∗ nous serviront `a traiter le cas g´en´eral. Posons :
+ggij∶= g(ei, ej)
+g= ggijei⊗ ej.
+i≠ j ∧ ggij≠ 0.
+
+i.e. on a :
+
+j.
+
+1.1.7 Notations des tenseurs
+
+Soit un champ tensoriel A de type(k, l). On note :
+
+AAj1⋯jk
+i1⋯il
+Aj1⋯jk
+i1⋯il
+Aj1⋯jk
+i1⋯il
+
+∶= A(ej1, . . . , ejk , ei1, . . . , eil)
+∶= A(dxj1, . . . , dxjk , ∂i1, . . . , ∂il)
+∶= A(θj1, . . . , θjk , θi1, . . . , θil)
+
+Il est `a noter que contrairement `a C et C⊥, la m´etrique g n’est pas diagonale dans E i.e. on peut avoir :
+
+On utilisera des lettres sp´ecifiques suivant la base avec laquelle on calcule les composantes des champs
+tensoriels. Voici un tableau qui explique la forme de lettres utilis´ees :
+
+Champs
+tensoriels
+
+Dans les bases Dans les bases Dans les bases
+
+E et E∗
+
+C et C∗
+
+C⊥ et C∗⊥
+
+R, G , T , . . .
+
+RR, GG, TT, . . .
+
+R, G, T, . . .
+
+R, G, T, . . .
+
+David Pigeon
+
+17
+
+Calculs pratiques en relativit´e g´en´erale
+
+CHAPITRE 1. CALCULS DES OBJETS ASSOCI´ES `A LA COURBURE POUR LES M´ETRIQUES
+DIAGONALES
+
+1.1. G´EN´ERALIT´ES ET NOTATIONS
+
+Ainsi on a les d´ecompositions :
+
+A = AAj1⋯jk
+i1⋯il
+A = Aj1⋯jk
+i1⋯il
+A = Aj1⋯jk
+i1⋯il
+
+ej1⊗⋯⊗ ejk⊗ ei1⊗⋯⊗ eil
+∂j1⊗⋯⊗ ∂jk⊗ dxi1⊗⋯⊗ dxil
+θj1⊗⋯⊗ θjk⊗ θi1⊗⋯⊗ θil
+
+Proposition 1.1.7.1: Relations entre les composantes
+
+.
+
+On a :
+
+D´emonstration. On a :
+
+ujn) Aj1⋯jk
+i1⋯il
+
+i1⋯il = exp( l∑
+Aj1⋯jk
+n=1
+
+uin− k∑
+n=1
+∂j1⊗⋯⊗ ∂jk⊗ dxi1⊗⋯⊗ dxil
+Aj1⋯jk
+i1⋯il
+=A=Aj1⋯jk
+θj1⊗⋯⊗ θjk⊗ θi1⊗⋯⊗ θil
+i1⋯il
+−ujk ∂jk⊗ eui1 dxi1⊗⋯⊗ euil dxil
+−uj1 ∂j1⊗⋯⊗ e
+=Aj1⋯jk
+i1⋯il
+∂j1⊗⋯⊗ ∂jk⊗ dxi1⊗⋯⊗ dxil
+= exp( l∑
+uin− k∑
+ujn) Aj1⋯jk
+i1⋯il
+n=1
+n=1
+Ainsi par unicit´e de la d´ecomposition de A dans les bases C et C∗, on a :
+uin− k∑
+i1⋯il = exp( l∑
+ujn) Aj1⋯jk
+Aj1⋯jk
+i1⋯il
+n=1
+n=1
+
+e
+
+.
+
+On donne dans l’exemple suivant, les principaux champs tensoriel ´etudi´e dans ce chapitre.
+
+Exemple 1.1.7.2: Exemples usuels
+
+(1) Le tenseur de courbure se d´ecompose en :
+
+Ri
+
+jkl ei⊗ ej⊗ ek⊗ el
+R= RRi
+jkl ∂i⊗ dxj⊗ dxk⊗ dxl
+R= Ri
+jkl θi⊗ θj⊗ θk⊗ θl
+R= Ri
+jkl= e
+−ui+uj+uk+ulRi
+Rm= RRijkl ei⊗ ej⊗ ek⊗ el
+Rm= Rijkl dxi⊗ dxj⊗ dxk⊗ dxl
+Rm= Rijkl θi⊗ θj⊗ θk⊗ θl
+Rijkl= eui+uj+uk+ulRijkl.
+
+jkl.
+
+Ainsi on a par la proposition pr´ec´edente 1.1.7.1 :
+
+(2) Le tenseur de Riemann se d´ecompose en :
+
+Ainsi on a par la proposition pr´ec´edente 1.1.7.1 :
+
+Calculs pratiques en relativit´e g´en´erale
+
+18
+
+David Pigeon
+
+CHAPITRE 1. CALCULS DES OBJETS ASSOCI´ES `A LA COURBURE POUR LES M´ETRIQUES
+DIAGONALES
+
+1.1. G´EN´ERALIT´ES ET NOTATIONS
+
+(3) Le tenseur de Ricci se d´ecompose en :
+
+Ainsi on a par la proposition pr´ec´edente 1.1.7.1 :
+
+(4) Le tenseur d’Einstein se d´ecompose en :
+
+Ainsi on a par la proposition pr´ec´edente 1.1.7.1 :
+
+Ric= RRjl ej⊗ el
+Ric= Rjl dxj⊗ dxl
+Ric= Rjl θj⊗ θl
+Rjl= euj+ulRjl.
+G = GGjl ej⊗ el
+G = Gjl dxj⊗ dxl
+G = Gjl θj⊗ θl
+Gjl= euj+ulGjl.
+
+g= ggijei⊗ ej
+ggij∶= g(ei, ej) .
+
+1.1.8 Descendre les exposants avec le tenseur g
+
+Dans cette sous-section, on d´efinit une op´eration qui fait baisser les indices. On rappelle que :
+
+avec :
+
+Exemple 1.1.8.1: Un calcul simple
+
+Soit deux champs de vecteurs X ∶= X kek et Y ∶= Y lel. Calculons g(X, Y) avec la d´ecomposition
+
+donn´ee de g. On a :
+
+g(X, Y)= ggijei⊗ ej(X kek, Y lel)
+= ggijei(X kek) ej(Y lel)
+= ggijX kY lei(ek) ej(el)
+= ggijX kY lδi
+= ggklX kY l
+
+kδj
+
+l
+
+ag∶ T M —→
+
+X z→ Y z→ g(X, Y)
+
+T∗M
+♭∶= ag(X).
+
+X
+
+Comme g est non d´eg´en´er´ee, on peut associer un isomorphisme naturel `a g de T M vers T∗M .
+
+D´efinition 1.1.8.2: Rabaissement du i-`eme exposant
+
+L’isomorphisme musical plat associ´e `a g est l’application ag d´efinie par :
+
+On notera aussi pour tout champ de vecteurs X :
+
+David Pigeon
+
+19
+
+Calculs pratiques en relativit´e g´en´erale
+
+CHAPITRE 1. CALCULS DES OBJETS ASSOCI´ES `A LA COURBURE POUR LES M´ETRIQUES
+DIAGONALES
+
+1.1. G´EN´ERALIT´ES ET NOTATIONS
+
+Notation 1.1.8.3: Notations usuelles
+
+Soit un champ de vecteurs X∶= XXiei. Posons :
+
+i.e. on a :
+
+Comme :
+
+on a :
+
+et par lin´earit´e, on a :
+
+ag(ei)(ej)= g(ei, ej)= ggij
+
+XXi∶= X
+♭(ei)
+♭= XXiei.
+
+X
+
+X
+
+ag(ei)= ggijej
+♭= ag(X)
+= ag(XXiei)
+= XXiag(ei)
+= XXiggijej.
+XXj= XXiggij.
+
+Ainsi par unicit´e de la d´ecomposition, on a :
+
+Matriciellement, on a :
+
+G∶= M atC ,C∗(ag)= M atC(g)=(ggij)ij .
+Exemple 1.1.8.4: Exemple de ag et de g dans les bases C et C⊥
+
+(1) Dans C , on a :
+
+Ainsi on a :
+
+(2) Dans C⊥, on a :
+
+−eu1
+
+gij= ηije
+−uj .
+M atC ,C∗(ag)= M atC(g)=⎛⎜⎜⎜⎝
+M atC⊥,C∗⊥(ag)= M atC⊥(g)=⎛⎜⎜⎜⎝
+0 −1
+
+eu0
+0
+0
+0
+
+0
+0
+
+0
+
+1
+
+0
+
+0
+0
+
+0
+0
+
+⎞⎟⎟⎟⎠ .
+
+0
+0
+
+−eu2
+
+0
+
+0
+0
+
+−1
+
+0
+
+0
+0
+0
+
+−eu3
+⎞⎟⎟⎟⎠ .
+−1
+
+0
+0
+0
+
+D´efinition 1.1.8.5: L’isomorphisme musical plat
+
+Soit un champ tensoriel A de type (k, l) avec k ≥ 1 et n ∈ {1, . . . , k}. Le champ tensoriel n-
+rabaiss´e de A est le champ tensoriel[A]n de type(k−1, l+1) d´efini pour tous champs de covecteurs
+α1, . . . , αn−1, αn+1, . . . , αk et tous champs de vecteurs X0, . . . , Xl par :
+[A]n(α1, . . . , αn−1, αn+1, . . . , αk, X0, . . . , Xl)∶= g(X0, A(α1, . . . , αn−1,●, αn+1, . . . , αk, X1, . . . , Xl)) .
+
+Calculs pratiques en relativit´e g´en´erale
+
+20
+
+David Pigeon
+
+CHAPITRE 1. CALCULS DES OBJETS ASSOCI´ES `A LA COURBURE POUR LES M´ETRIQUES
+DIAGONALES
+
+1.1. G´EN´ERALIT´ES ET NOTATIONS
+
+On a alors la relation :
+
+[A]n(α1, . . . , αn−1, αn+1, . . . , αk, X0, . . . , Xl)= ag(A(α1, . . . , αn−1,●, αn+1, . . . , αk, X1, . . . , Xl))(X0) .
+
+La proposition suivante montre pourquoi le mot ”rabaiss´e” a ´et´e utilis´e.
+
+Proposition 1.1.8.6: Rabaissement du n-`eme exposant
+
+Soit un champ tensoriel A de type(k, l) avec k≥ 1 et n∈{1, . . . , k}. Posons :
+
+∶= A(ej1, . . . , ejk , ei1, . . . , eil)
+AAj1⋯jk
+i1⋯il
+∶=[A]n(ej1, . . . , ejn−1, ejn+1, . . . , ejk , ejn, ei1, . . . , eil)
+AAj1⋯jn−1jn+1⋯jk
+jni1⋯il
+= AAj1⋯jn−1mjn+1⋯jk
+AAj1⋯jn−1jn+1⋯jk
+i1⋯il
+jni1⋯il
+
+ggmjn.
+
+Alors on a :
+
+D´emonstration. On a :
+
+AAj1⋯jn−1jn+1⋯jk
+jni1⋯il
+
+=[A]n(ej1, . . . , ejn−1, ejn+1, . . . , ejk , ejn, ei1, . . . , eil)
+= g(ejn, A(ej1, . . . , ejn−1,●, ejn+1, . . . , ejk , ei1, . . . , eil))
+em)
+= g(ejn, AAj1⋯jn−1mjn+1⋯jk
+i1⋯il
+= AAj1⋯jn−1mjn+1⋯jk
+g(ejn, em)
+i1⋯il
+= AAj1⋯jn−1mjn+1⋯jk
+i1⋯il
+
+ggmjn
+
+Corollaire 1.1.8.7: Rabaissement du n-`eme exposant
+
+Comme g est diagonale dans les bases C et C⊥, on a donc le r´esultat suivant.
+Soit un champ tensoriel A de type(k, l). On a donc :
+= ηjne2ujn Aj1⋯jk
+i1⋯il
+= ηjn
+
+Aj1⋯jn−1jn+1⋯jk
+jni1⋯il
+Aj1⋯jn−1jn+1⋯jk
+jni1⋯il
+
+Aj1⋯jk
+i1⋯il
+
+On voit donc que l’action d´efinie fait baisser les exposants d’un champ tensoriel. On reprend les calculs
+
+sur deux exemples simples.
+
+Exemple 1.1.8.8: Deux exemples simples
+
+(1) Soit un champ tensoriel A ∶= AAi
+
+jei⊗ ej de type(1, 1). On note :
+
+AAkl∶=[A]1(ek, el)
+[A]1= AAkl ek⊗ el.
+
+[A]1(X, Y)= g(X, A(●, Y))
+
+i.e. on a :
+
+Comme :
+
+David Pigeon
+
+21
+
+Calculs pratiques en relativit´e g´en´erale
+
+CHAPITRE 1. CALCULS DES OBJETS ASSOCI´ES `A LA COURBURE POUR LES M´ETRIQUES
+DIAGONALES
+
+1.1. G´EN´ERALIT´ES ET NOTATIONS
+
+et
+
+on a :
+
+On a donc par exemple :
+
+i.e. on a :
+
+Ainsi on a :
+
+On a donc par exemple :
+
+jej(el) ei
+
+l
+
+l
+
+l
+
+l
+
+l ei
+
+lggki
+
+jδj
+l ei
+
+A(●, el)= AAi
+= AAi
+= AAi
+AAkl=[A]1(ek, el)
+= g(ek, A(●, el))
+= g(ek, AAi
+l ei)
+= AAi
+lg(ek, ei)
+= AAi
+Akl= ηkiAi
+= ηkAk
+Akl= gkiAi
+= gkkAk
+= ηke2uk Ak
+XXk∶=[X]1(ek)
+♭=[X]1= XXkek
+XXk=[X]1(ek)
+= g(ek, X)
+= g(ek, XXiei)
+= XXig(ek, ei)
+= XXiggki
+Xk= Xiηki
+= ηkXk
+Xk= Xigki
+= Xkgkk
+= ηke2uk Xk
+
+X
+
+(2) Soit un champ de vecteurs X∶= XXiei i.e. X est un champ tensoriel de type(1, 0). On note :
+
+l
+
+Calculs pratiques en relativit´e g´en´erale
+
+22
+
+David Pigeon
+
+CHAPITRE 1. CALCULS DES OBJETS ASSOCI´ES `A LA COURBURE POUR LES M´ETRIQUES
+DIAGONALES
+
+1.1. G´EN´ERALIT´ES ET NOTATIONS
+
+1.1.9 Monter les indices avec le tenseur g∗
+
+Dans cette sous-section, on d´efinit une op´eration qui cette fois-ci fait monter les indices.
+
+D´efinition 1.1.9.1: L’isomorphisme musical di`ese
+
+L’isomorphisme musical di`ese associ´e `a g est l’application inverse a−1
+
+g de ag d´efinie par :
+
+a−1
+
+g
+
+∶ T∗M —→ T M
+♯∶= a
+g (α).
+−1
+
+α
+
+On notera aussi pour tout champ de covecteurs α :
+
+Notation 1.1.9.2: D´efinition de a−1
+
+g et g∗
+
+(1) On note :
+
+On a donc :
+
+Comme :
+
+on a :
+
+a
+
+a
+
+a
+
+kej
+
+ggij∶= a
+g (ei)(ej)
+−1
+g (ei)= ggijej.
+−1
+g ○ ag= IdT M , ag○ a
+g = IdT∗M
+−1
+−1
+IdT M(ek)= ek= δj
+g (ggkiei)
+g (ag(ek))= a
+−1
+−1
+g (ei)
+= ggkia
+−1
+= ggkiggijej
+ggkiggij= δj
+ααj∶= α♯(ej)
+α♯= ααjej.
+g (ei)= ggijej
+−1
+α♯= a
+g (α)
+−1
+g (ααiei)
+= a
+−1
+= ααia
+g (ei)
+−1
+= ααiggijej.
+ααj= ααiggij.
+
+k.
+
+a
+
+D’o`u par unicit´e de la d´ecomposition, on a :
+
+(2) Soit un champ de covecteurs α∶= ααiei. Posons :
+
+i.e. on a :
+
+Comme :
+
+on a par lin´earit´e :
+
+Ainsi par unicit´e de la d´ecomposition, on a :
+
+David Pigeon
+
+23
+
+Calculs pratiques en relativit´e g´en´erale
+
+CHAPITRE 1. CALCULS DES OBJETS ASSOCI´ES `A LA COURBURE POUR LES M´ETRIQUES
+DIAGONALES
+
+1.1. G´EN´ERALIT´ES ET NOTATIONS
+
+le tenseur g∗ de type(2, 0) d´efini pour tous champs de covecteurs α∶= ααiei et
+
+(3) On associe `a a−1
+β∶= ββjej par :
+
+g
+
+On a donc :
+
+et par bilin´earit´e :
+
+avec :
+
+Et donc on a :
+
+Donc on a :
+
+Ainsi on a :
+
+(2) Dans C∗⊥ , on a :
+
+Donc on a :
+
+k
+
+g
+
+g
+
+g
+
+∗(α, β)∶= β(a
+g (α)).
+−1
+∗(ei, ej)= ej(a
+g (ei))
+−1
+= ej(ggikek)
+= ggikδj
+= ggij
+∗(ααiei, ββjej)
+∗(α, β)= g
+= g
+∗(ei, ej)ααiββj
+= ggijααiββj
+= ααjββj
+= ααiββi
+, ββjej∶= β
+♯
+∗= ggijei⊗ ej
+g )= M atC∗(g
+−1= M atC∗,C(a
+−1
+
+ααiei∶= α
+
+♯
+
+g
+
+.
+
+k
+
+gkigij= δj
+gki= ηikeuk
+gij= ηije
+−uk .
+∗)=⎛⎜⎜⎜⎝
+e−u0
+gkigij= δj
+gki= ηki
+gij= ηij.
+
+0
+0
+0
+
+k
+
+Matriciellement, on a :
+
+G
+
+Exemple 1.1.9.3: Exemple de a−1
+(1) Dans C∗, on a :
+
+∗)=(ggij)ij
+g et de g∗ dans les bases C∗ et C∗⊥
+
+.
+
+M atC∗,C(a
+g )= M atC∗(g
+−1
+
+−e−u1
+
+0
+
+0
+0
+
+⎞⎟⎟⎟⎠ .
+
+0
+0
+
+−e−u2
+
+0
+
+0
+0
+0
+
+−e−u3
+
+Calculs pratiques en relativit´e g´en´erale
+
+24
+
+David Pigeon
+
+CHAPITRE 1. CALCULS DES OBJETS ASSOCI´ES `A LA COURBURE POUR LES M´ETRIQUES
+DIAGONALES
+
+1.1. G´EN´ERALIT´ES ET NOTATIONS
+
+Ainsi on a :
+
+M atC∗⊥ ,C⊥(a
+g )= M atC∗⊥(g
+−1
+
+∗)= M atC⊥(g)=⎛⎜⎜⎜⎝
+0 −1
+
+0
+0
+
+0
+0
+
+1
+
+0
+
+0
+0
+
+−1
+
+0
+
+⎞⎟⎟⎟⎠ .
+
+0
+0
+0
+
+−1
+
+D´efinition 1.1.9.4: El´evation du n-`eme indice
+
+Soit un champ tensoriel A de type(k, l) avec l≥ 1 et n∈{1, . . . , l}. Le champ tensoriel n-´elev´e de
+A est le champ tensoriel[A]n de type(k+1, l−1) d´efini pour tous champs de covecteurs α0, α1, . . . , αk
+et tous champs de vecteurs X1, . . . , Xn−1, Xn+1, . . . , Xl par :
+∗(α0, A(α1, . . . , αk, X1 . . . , Xn−1,●, Xn+1, . . . , Xl)) .
+[A]n(α0, . . . , αk, X1, . . . , Xn−1, Xn+1, . . . , Xl)∶= g
+g (A(α1, . . . , αk, X1 . . . , Xn−1,●, Xn+1, . . . , Xl))(α0) .
+[A]n(α1, . . . , αk, X1, . . . , Xn−1, Xn+1, . . . , Xl)= a
+−1
+
+Les deux notions sont alors reli´ees par :
+
+La proposition suivante montre pourquoi le mot ”´elev´e” a ´et´e utilis´e.
+
+Proposition 1.1.9.5: ´El´evation du n-`eme indice
+
+Soit un champ tensoriel A de type(k, l) et n∈{1, . . . , l}. Posons :
+
+i1⋯in−1in+1⋯il∶=[A]n(ein, ej1, . . . , ejk , ei1, . . . , ein−1, ein+1, . . . , eil)
+AAinj1⋯jk
+
+AAj1⋯jk
+i1⋯il
+
+∶= A(ej1, . . . , ejk , ei1, . . . , eil)
+i1⋯in−1in+1⋯il= AAj1⋯jk
+AAinj1⋯jk
+
+i1⋯in−1min+1⋯il
+
+ggmin.
+
+Alors on a :
+
+D´emonstration. On a :
+
+i1⋯in−1in+1⋯il=[A]n(ein, ej1, . . . , ejk , ei1, . . . , ein−1, ein+1, . . . , eil)
+AAinj1⋯jk
+∗(ein, A(ej1, . . . , ejk , ei1, . . . , ein−1,●, ein+1, . . . , eil))
+= g
+∗(ein, AAj1⋯jk
+= g
+= AAj1⋯jk
+i1⋯in−1min+1⋯il
+= AAj1⋯jk
+i1⋯in−1min+1⋯il
+
+em)
+i1⋯in−1min+1⋯il
+∗(ein, em)
+
+g
+ggmin
+
+Corollaire 1.1.9.6: El´evation du i-`eme indice
+
+Comme g∗ est diagonale dans C∗ et C∗⊥ , on a donc le r´esultat suivant.
+Soit un champ tensoriel A de type(k, l) avec l≥ 1. On a donc :
+−2uin
+−2uin
+
+i1⋯in−1in+1⋯il= Aj1⋯jk
+Ainj1⋯jk
+i1⋯il
+i1⋯in−1in+1⋯il= Aj1⋯jk
+Ainj1⋯jk
+i1⋯il
+
+ηine
+
+ηine
+
+On voit donc que l’action d´efinie fait ´elever les indices d’un champ tensoriel. On reprend les calculs sur
+
+deux exemples simples.
+
+David Pigeon
+
+25
+
+Calculs pratiques en relativit´e g´en´erale
+
+CHAPITRE 1. CALCULS DES OBJETS ASSOCI´ES `A LA COURBURE POUR LES M´ETRIQUES
+DIAGONALES
+
+1.1. G´EN´ERALIT´ES ET NOTATIONS
+
+Exemple 1.1.9.7: Deux exemples simples
+
+(1) Soit A ∶= AAi
+
+jei⊗ ej un champ tensoriel de type(1, 1). On note :
+
+Comme :
+
+on a :
+
+On a donc par exemple :
+
+i.e. on a :
+
+Ainsi on a :
+
+On a donc par exemple :
+
+j
+
+k
+
+jg
+jggkj
+
+jδl
+iej
+j ej
+
+AAkl∶=[A]1(ek, el) .
+[A]1(α, β)= g
+∗(α, A(β,●))
+A(el,●)= AAi
+jei(el) ej
+= AAi
+= AAl
+AAkl=[A]1(ek, el)
+∗(ek, A(el,●))
+= g
+∗(ek, AAl
+j ej)
+= g
+∗(ek, ej)
+= AAl
+= AAl
+Akl= ηkjAl
+= ηkAl
+Akl= gkjAl
+= ηke
+−2uk Al
+ααk∶=[α]1(ek)
+♯=[α]1= ααkek
+ααk=[α]1(ek)
+∗(ek, α)
+= g
+∗(ek, ααiei)
+= g
+∗(ek, ei)
+= ααig
+= ααiggki
+αk= αiηki
+= ηkkαk
+αk= αigki
+= αkgkk
+= ηkke
+
+−2uk αk
+
+α
+
+j
+
+(2) Soit un champ de covecteurs α∶= ααiei i.e. α est un tenseur de type(0, 1). On note :
+
+k
+
+Calculs pratiques en relativit´e g´en´erale
+
+26
+
+David Pigeon
+
+CHAPITRE 1. CALCULS DES OBJETS ASSOCI´ES `A LA COURBURE POUR LES M´ETRIQUES
+DIAGONALES
+
+1.2. CONNEXIONS ASSOCI´EES `A LA COURBURE
+
+1.2 Connexions associ´ees `a la courbure
+
+1.2.1 D´eriv´ee et crochet de Lie
+
+action de X sur f , c’est ce que l’on appelle aussi la d´eriv´ee de Lie de f suivant X.
+
+On commence par rappeler la d´efinition de la d´eriv´ee de Lie et du crochet de Lie suivant un champ vec-
+toriel. Ils sont utiles pour d´efinir la connexion de Levi-Civita. On se limite `a la d´eriv´ee de champs scalaire.
+
+Par la d´efinition du vecteur tangent (voir 1.1.1.1), on a d´efini l’objet ”X(f)”, que l’on peut voir comme une
+Soit un champ de vecteurs X∶= X j∂j et une champ scalaire f . La d´eriv´ee de Lie suivant X est
+
+D´efinition 1.2.1.1: D´eriv´ee de Lie
+
+d´efinie par :
+
+Remarque 1.2.1.2: Remarque sur la d´eriv´ee de Lie
+
+On peut ´etendre la d´efinition de la d´eriv´ee de Lie suivant X `a ΩM (l’alg`ebre des formes diff´erentielles
+sur M ) comme l’unique application lin´eaire :
+
+X(f)∶= X i∂i(f).
+
+LX∶ ΩM→ ΩM
+
+telle que :
+
+(i) pour tout champ scalaire f , on ait :
+
+LX(f)∶= X(f)∶= df(X) ;
+
+(ii) LX soit une d´erivation de l’alg`ebre ΩM , i.e. :
+
+∀α, β∈ ΩM, LX(α∧ β)= LX(α)∧ β+ α∧ LX(β);
+
+(iii) les applications LX et d commutent.
+On ne se servira dans la suite que de la d´efinition sur les champs scalaires.
+
+Lemme 1.2.1.3: Autre expression de la d´eriv´ee de Lie
+
+Soit un champ de vecteurs X. On a
+
+D´emonstration. Comme :
+
+on a directement :
+
+X(f)= df(X) .
+df= ∂i(f)dxi
+df(X)= df(X j∂j)
+= X jdf(∂j)
+= X j∂i(f)dxi(∂j)
+= X j∂i(f)δi
+= X i∂i(f)
+= X(f)
+
+j
+
+David Pigeon
+
+27
+
+Calculs pratiques en relativit´e g´en´erale
+
+Lemme 1.2.1.5: Descriptions locales
+
+Soit deux champs de vecteurs X et Y et un champ scalaire f .
+
+(1.2.1.1)
+
+CHAPITRE 1. CALCULS DES OBJETS ASSOCI´ES `A LA COURBURE POUR LES M´ETRIQUES
+DIAGONALES
+
+1.2. CONNEXIONS ASSOCI´EES `A LA COURBURE
+
+On en d´eduit alors la d´efinition du crochet de Lie.
+
+D´efinition 1.2.1.4: Crochet de Lie
+
+Soit deux champs de vecteurs X et Y . Le crochet de Lie de X et Y est l’application[X, Y] qui `a
+
+tout champs scalaire f associe le champs scalaire :
+
+On a en particulier par le th´eor`eme de Schwartz :
+
+[X, Y](f)∶= X(Y(f))− Y(X(f)).
+[∂i, ∂j](f)= ∂i(∂j(f))− ∂j(∂i(f))
+
+= ∂i,j(f)− ∂j,i(f)
+= 0
+[∂i, ∂j]= 0.
+
+Y(X(f))= Y j∂jX i∂if+ Y jX i∂2
+[X, Y](f)=(X j∂jY i− Y j∂jX i) ∂if.
+
+jif
+
+X(f)= X i∂if
+Y(X(f))= Y j∂j(X i∂if)
+= Y j∂jX i∂if+ Y jX i∂2
+ijf= 0
+jif− ∂2
+[X, Y](f)= X(Y(f))− Y(X(f))
+jif− Y j∂jX i∂if− Y jX i∂2
+= X j∂jY i∂if+ X jY i∂2
+ijf)
+=(X j∂jY i− Y j∂jX i) ∂if+ X jY i(∂2
+jif− ∂2
+=(X j∂jY i− Y j∂jX i) ∂if
+
+jif
+
+∂2
+
+jif
+
+i.e. on a :
+
+(i) On a :
+
+(ii) On a :
+
+on a :
+
+(ii) Comme :
+
+on a :
+
+D´emonstration.
+
+(i) Comme :
+
+On finit avec l’identit´e de Jacobi.
+
+Proposition 1.2.1.6: Identit´e de Jacobi
+
+Soit trois champs de vecteurs X, Y et Z. On a :
+
+[X,[Y, Z]]+[Y,[Z, X]]+[Z,[X, Y]]= 0.
+
+Calculs pratiques en relativit´e g´en´erale
+
+28
+
+David Pigeon
+
+CHAPITRE 1. CALCULS DES OBJETS ASSOCI´ES `A LA COURBURE POUR LES M´ETRIQUES
+DIAGONALES
+
+1.2. CONNEXIONS ASSOCI´EES `A LA COURBURE
+
+D´emonstration. On a :
+
+[X,[Y, Z]](f)= X((Y Z− ZY)(f))−(Y Z− ZY)(X(f))
+
+En supprimant les parenth`eses et les f , on a en permutant les variables X, Y et Z :
+
+= X(Y(Z(f)))− X(Z(Y(f)))− Y(Z(X(f)))+ Z(Y(X(f)))
+[X,[Y, Z]]= XY Z− XZY − Y ZX+ ZY X
+[Y,[Z, X]]= Y ZX− Y XZ− ZXY + XZY
+[Z,[X, Y]]= ZXY − ZY X− XY Z+ Y XZ
+[X,[Y, Z]]+[Y,[Z, X]]+[Z,[X, Y]]= 0.
+
+Ainsi en sommant les trois ´equations, on a :
+
+1.2.2 Connexion de Levi-Civita
+
+qui nous serviront dans les calculs.
+
+On commence par une d´efinition simplifi´ee de connexion qui met en avant les deux propri´et´es essentielles
+
+D´efinition 1.2.2.1: Connexion de Koszul
+
+Une connexion ∇ est une application lin´eaire qui `a tous champs de vecteurs X et Y associe un
+champ de vecteurs∇X Y v´erifiant les deux propri´et´es suivantes :
+∇f X Y = f∇X Y.
+
+(i) (Lin´earit´e en X) Pour tout champ scalaire f et pour tous champs de vecteurs X et Y , on a :
+
+(ii) (R`egle de Leibniz) Pour tout champ scalaire f et pour tous champs de vecteurs X et Y , on
+
+a :
+
+∇X(f Y)= df(X)Y + f∇X Y = df(X)Y +∇f X Y.
+
+On d´efinit alors la connexion de Levi-Civita comme l’unique connexion sans torsion et g-parall`ele.
+
+Proposition 1.2.2.2: La connexion associ´ee `a g
+
+La connexion de Levi-Civita est l’unique connexion∇ sur T M telle que :
+(i) ∇ est sans torsion i.e. pour tous champs de vecteurs X et Y on a :
+
+∇X Y −∇Y X=[X, Y]
+
+(ii) g est parall`ele i.e. pour tous champs de vecteurs X, Y et Z, on a :
+
+Z(g(X, Y))= g(∇ZX, Y)+ g(X,∇ZY).
+
+D´emonstration. On fait un raisonnement par analyse synth`ese.
+
+● Analyse-Unicit´e. Soit deux champs de vecteurs X et Y sur M . Comme la m´etrique g est une forme
+bilin´eaire sym´etrique non d´eg´en´er´ee, il suffit pour calculer∇X Y d’avoir une expression de 2g(∇X Y, Z)
+
+pour tout champ de vecteurs Z. Par bilin´earit´e et sym´etrie de g, on a pour tout champ de vecteurs
+
+David Pigeon
+
+29
+
+Calculs pratiques en relativit´e g´en´erale
+
+CHAPITRE 1. CALCULS DES OBJETS ASSOCI´ES `A LA COURBURE POUR LES M´ETRIQUES
+DIAGONALES
+
+1.2. CONNEXIONS ASSOCI´EES `A LA COURBURE
+
+Z :
+
+2g(∇X Y, Z)=g(2∇X Y, Z)
+
+champ de vecteurs sur M tel que pour tout champ de vecteur Z, on ait :
+
+=g(∇X Y, Z)+ g(∇X Z, Y)+ g(∇Y Z, X)+ g(∇Y X, Z)− g(∇ZX, Y)− g(∇ZY, X)
++ g(∇X Y −∇Y X, Z)+ g(∇ZX−∇X Z, Y)− g(∇Y Z−∇ZY, X)
+=g(∇X Y, Z)+ g(Y,∇X Z)+ g(∇Y Z, X)+ g(Z,∇Y X)− g(∇ZX, Y)− g(X,∇ZY)
++ g([X, Y], Z)+ g([Z, X], Y)− g([Y, Z], X)
+=X(g(Y, Z))+ Y(g(Z, X))− Z(g(X, Y))+ g([X, Y], Z)+ g([Z, X], Y)− g([Y, Z], X)
+Ainsi la valeur∇X Y est uniquement d´etermin´ee.
+● Synth`ese-Existence. Pour tous champs de vecteurs X et Y , on d´efinit par∇X Y comme l’unique
+2g(∇X Y, Z)= X(g(Y, Z))+ Y(g(Z, X))− Z(g(X, Y))+ g([X, Y], Z)+ g([Z, X], Y)− g([Y, Z], X).
+Montrons que∇ est bien une connexion sur M . On a pour tout champ de vecteurs Z :
+(i) On a pour tout champ de vecteurs Z et tout champ scalaire f∈ C p(X, R) :
+2g(∇X(f Y), Z)=X(g(f Y, Z))+(f Y)(g(Z, X))− Z(g(X, f Y))
++ g([X, f Y], Z)+ g([Z, X], f Y)− g([f Y, Z], X)
+=df(X).g(Y, Z)− df(Z).g(X, Y)+ df(X).g(Y, Z)
++ df(Z).g(X, Y)+ f.2g(∇X Y, Z)
+=2g(df(X).Y + f∇X Y, Z)
+2g(∇f X Y, Z)=(f X)(g(Y, Z))+ Y(g(Z, f X))− Z(g(f X, Y))
++ g([f X, Y], Z)+ g([Z, f X], Y)− g([Y, Z], f X)
+=df(Y).g(Z, X)− df(Z).g(X, Y)− df(Y).g(X, Z)
++ df(Z).g(X, Y)+ f.2g(∇X Y, Z)
+=2g(f∇X Y, Z).
+
+et on a :
+
+D’o`u le r´esultat par d´eg´en´erescence de g.
+
+(ii) Montrons que∇ est sans torsion. On a pour tout champ de vecteurs Z :
+
+2g(∇X Y −∇Y X, Z)=X(g(Y, Z))+ Y(g(Z, X))− Z(g(X, Y))+ g([X, Y], Z)
++ g([Z, X], Y)− g([Y, Z], X)− Y(g(X, Z))− X(g(Z, Y))
++ Z(g(Y, X))− g([Y, X], Z)− g([Z, Y], X)+ g([X, Z], Y)
+=2g([X, Y], Z).
+
+(iii) Montrons que g est parall`ele pour∇. On a pour tout champ de vecteurs Z :
+
+D’o`u le r´esultat par d´eg´en´erescence de g.
+
+2g(∇X Y, Z)+ 2g(Y,∇X Z)=X(g(Y, Z))+ Y(g(Z, X))− Z(g(X, Y))+ g([X, Y], Z)
++ g([Z, X], Y)− g([Y, Z], X)+ X(g(Z, Y))+ Z(g(Y, X))
+− Y(g(X, Z))+ g([X, Z], Y)+ g([Y, X], Z)− g([Z, Y], X)
+=2X(g(Y, Z)).
+
+Ainsi∇ est l’unique connexion de Koszul v´erifiant le th´eor`eme.
+
+D’o`u le r´esultat par d´eg´en´erescence de g.
+
+Calculs pratiques en relativit´e g´en´erale
+
+30
+
+David Pigeon
+
+1.2. CONNEXIONS ASSOCI´EES `A LA COURBURE
+
+CHAPITRE 1. CALCULS DES OBJETS ASSOCI´ES `A LA COURBURE POUR LES M´ETRIQUES
+DIAGONALES
+
+On a donc montrer que∇ v´erifie :
+2g(∇X Y, Z)= X(g(Y, Z))+ Y(g(Z, X))− Z(g(X, Y))+ g([X, Y], Z)+ g([Z, X], Y)− g([Y, Z], X).
+de∇ sur les 1-formes et vis `a vis des deux op´erations+ et⊗.
+
+On ´etend la d´efinition de la connexion `a des champs tensoriels quelconques. Pour cela on d´efinit l’action
+
+D´efinition 1.2.2.3: Connexion sur les tenseurs
+
+Soit un champ scalaire f , deux champs tensoriels A et B, deux champs de vecteurs X et Y et un
+champ de covecteurs α.
+
+(i) On note :
+
+(ii) On note :
+
+(iii) On note :
+
+∇X f∶= X(f) .
+
+(∇X α)(Y)∶= X(α(Y))− α(∇X Y) .
+∇X(A⊗ B)∶=(∇X A)⊗ B+ A⊗(∇X B) .
+
+∇X(A+ B)∶=∇X A+∇X B.
+
+(iv) Supposons que A et B soit de mˆeme type. On note :
+
+On a alors le r´esultat suivant qui nous donne une formule explicite de l’action de ∇ sur les champs
+
+tensoriels.
+
+Proposition 1.2.2.4: Formule de la connexion sur les tenseurs
+
+Soit un champ tensoriel A de type(k, l). Pour tous champs de covecteurs α1, . . . , αk et tous champs
+
+de vecteurs X1, . . . , Xl, Y , on a :
+
+(∇Y A)(α1, . . . , αk, X1, . . . , Xl)
+=Y(A(α1, . . . , αk, X1, . . . , Xl))
+− A(∇Y α1, . . . , αk, X1, . . . , Xl)−⋯− A(α1, . . . ,∇Y αk, X1, . . . , Xl)
+− A(α1, . . . , αk,∇Y X1, . . . , Xl)−⋯− A(α1, . . . , αk, X1, . . . ,∇Y Xl)
+
+D´emonstration. On fixe Y un champ de vecteurs. On d´emontre le r´esultat par r´ecurrence double sur(k, l)∈
+N2. Notons Q(k, l) la proposition.
+(i) Cas Q(0, 0) vraie. Le r´esultat suit directement de la d´efinition de∇ sur les champs de vecteurs (voir
+(ii) Cas Q(0, l) vraie ⇒ Q(0, l+1) vraie. Soit l∈ N et A un champ tensoriel de type(0, l+1). Supposons
+que Q(k, l) soit vraie. Alors par lin´earit´e de ∇ (voir le point (iv) de la d´efinition 1.2.2.3), on peut
+
+le point (i) de la d´efinition 1.2.2.3).
+
+supposer que A ne contient qu’un seul terme du type :
+
+Posons :
+
+Donc on a :
+
+A∶= AAei1⊗⋯⊗ eil+1.
+B∶= AAei1⊗⋯⊗ eil.
+A= B⊗ eil+1.
+
+David Pigeon
+
+31
+
+Calculs pratiques en relativit´e g´en´erale
+
+CHAPITRE 1. CALCULS DES OBJETS ASSOCI´ES `A LA COURBURE POUR LES M´ETRIQUES
+DIAGONALES
+
+1.2. CONNEXIONS ASSOCI´EES `A LA COURBURE
+
+On a alors par le point (iii) de la d´efinition 1.2.2.3 :
+
+∇Y A=∇Y(B⊗ eil+1)
+
+=(∇Y B)⊗ eil+1+ B⊗(∇Y eil+1)
+
+On a par la formule de Leibniz :
+
+= Y(B(X1, . . . , Xl)) eil+1(Xl+1)+ B(X1, . . . , Xl) Y(eil+1(Xl+1)) .
+
+Y(A(X1, . . . , Xl+1))= Y(B(X1, . . . , Xl) eil+1(Xl+1))
+Ainsi on a par Q(0, l) et par le point (iii) de la d´efinition 1.2.2.3 :
+(∇Y A)(X1, . . . , Xl+1)
+=(∇Y B)⊗ eil+1(X1, . . . , Xl+1)+ B⊗(∇Y eil+1)(X1, . . . , Xl+1)
+=(∇Y B)(X1, . . . , Xl) eil+1(Xl+1)+ B(X1, . . . , Xl)(∇Y eil+1)(Xl+1)
+=Y(B(X1, . . . , Xl)) eil+1(Xl+1)− B(∇Y X1, . . . , Xl) eil+1(Xl+1)−⋯− B(X1, . . . ,∇Y Xl) eil+1(Xl+1)
++ B(X1, . . . , Xl)(Y(eil+1(Xl+1))− eil+1(∇Y Xl+1))
+=Y(A(X1, . . . , Xl+1))− A(∇Y X1, . . . , Xl+1)−⋯− A(X1, . . . ,∇Y Xl+1)
+Donc Q(0, l+ 1) est vraie.
+(iii) Cas Q(k, l) vraie ⇒ Q(k+ 1, l) vraie. Soit (k, l) ∈ N2 et un champ tensoriel A de type (k, l).
+Supposons que Q(k, l) soit vraie. Alors par lin´earit´e de∇ (voir le point (iv) de la d´efinition 1.2.2.3),
+
+on peut supposer que A ne contient qu’un seul terme du type :
+
+Posons :
+
+Donc on a :
+
+On a alors par le point (iii) de la d´efinition 1.2.2.3 :
+
+A∶= AAej0⊗⋯⊗ ejk⊗ ei1⊗⋯⊗ eil.
+B∶= AAej1⊗⋯⊗ ejk⊗ ei1⊗⋯⊗ eil.
+
+A= ej0⊗ B.
+∇Y A=∇Y(ej0⊗ B)
+
+=(∇Y ej0)⊗ B+ ej0⊗(∇Y B)
+
+On a par la formule de Leibniz :
+
+Ainsi on a par Q(k, l) et par le point (iii) de la d´efinition 1.2.2.3 :
+
+Y(A(α0, . . . , αk, X1, . . . , Xl))
+=Y(ej0(α0) B(α1, . . . , αk, X1, . . . , Xl))
+=Y(ej0(α0)) B(α1, . . . , αk, X1, . . . , Xl)+ Y(B(α1, . . . , αk, X1, . . . , Xl)) ej0(α0) .
+(∇Y A)(α0, . . . , αk, X1, . . . , Xl)
+=(∇Y ej0)⊗ B(α0, . . . , αk, X1, . . . , Xl)+ ej0⊗(∇Y B)(α0, . . . , αk, X1, . . . , Xl)
+=(∇Y ej0)(α0) B(α1, . . . , αk, X1, . . . , Xl)+ ej0(α0)(∇Y B)(α1, . . . , αk, X1, . . . , Xl)
+=Y(ej0(α0)) B(α1, . . . , αk, X1, . . . , Xl)+ ej0(α0)[Y(B(α1, . . . , αk, X1, . . . , Xl))
+− B(∇Y α1, . . . , αk, X1, . . . , Xl)−⋯− B(α1, . . . ,∇Y αk, X1, . . . , Xl)
+−B(α1, . . . , αk,∇Y X1, . . . , Xl)−⋯− B(α1, . . . , αk, X1, . . . ,∇Y Xl)]
+=Y(A(α0, . . . , αk, X1, . . . , Xl))
+− A(∇Y α0, . . . , αk, X1, . . . , Xl)−⋯− A(α0, . . . ,∇Y αk, X1, . . . , Xl)
+− A(α0, . . . , αk,∇Y X1, . . . , Xl)−⋯− A(α0, . . . , αk, X1, . . . ,∇Y Xl)
+
+Donc Q(k+ 1, l) est vraie.
+
+Calculs pratiques en relativit´e g´en´erale
+
+32
+
+David Pigeon
+
+1.2. CONNEXIONS ASSOCI´EES `A LA COURBURE
+
+CHAPITRE 1. CALCULS DES OBJETS ASSOCI´ES `A LA COURBURE POUR LES M´ETRIQUES
+DIAGONALES
+
+(iv) Par le principe de r´ecurrence double, Q(k, l) est vraie pour tout(k, l)∈ N2.
+Soit un champ tensoriel A de type(k, l). On utilisera une notation en composante pour l’action de
+∇ sur A .
+
+Notation 1.2.2.5: Notations avec les composantes
+
+(1) Supposons que la description locale de A soit :
+
+(2) Supposons que la description locale de A soit :
+
+On note alors :
+
+On note alors :
+
+On note alors :
+
+ej1⊗⋯⊗ ejk⊗ ei1⊗⋯⊗ eil.
+A = AAj1⋯jk
+i1⋯il
+A(ej1, . . . , ejk , ei1, . . . , eil) .
+∇mAAj1⋯jk
+∶=∇em
+i1⋯il
+∂j1⊗⋯⊗ ∂jk⊗ dxi1⊗⋯⊗ dxil.
+A = Aj1⋯jk
+i1⋯il
+A(dxj1, . . . , dxjk , ∂i1, . . . , ∂il) .
+∶=∇∂m
+∇mAj1⋯jk
+i1⋯il
+A = Aj1⋯jk
+θj1⊗⋯⊗ θjk⊗ θi1⊗⋯⊗ θil.
+i1⋯il
+A(θj1, . . . , θjk , θi1, . . . , θil) .
+∶=∇θm
+∇mAj1⋯jk
+i1⋯il
+
+(3) Supposons que la description locale de A soit :
+
+C’est donc le style d’´ecriture de la composante de A qui d´enote si m d´esigne em, ∂m ou θm.
+
+1.2.3 Trace et divergence
+
+dans la contraction de champs tensoriels (voir la d´efinition 1.1.2.5). On commence par une notation usuelle
+sur l’action de nabla sur les champs tensoriels.
+
+On fixe pour toute cette sous-section un champ tensoriel A de type(k, l). On utilise les notations vues
+Notation 1.2.3.1: Le champ tensoriel∇A
+On note∇A le champ tensoriel de type(k, l+ 1) d´efini par :
+
+∇A(α1, . . . , αk, X1, . . . , Xl+1)∶=(∇Xl+1
+
+A)(α1, . . . , αk, X1, . . . , Xl)
+
+D´efinition 1.2.3.2: Trace d’un champ tensoriel
+
+(i) Supposons que k, l≥ 1. Soit m∈{1, . . . , k} et n∈{1, . . . , l}. La trace de A suivant(n, m) est :
+(a) Si k∶= 1 (donc m∶= 1), on la note simplement :
+(b) Si l∶= 1 (donc n∶= 1), on la note simplement :
+
+tr(m,n)A ∶=[A]m
+tr(n)A ∶=[A]1
+tr(m)A ∶=[A]m
+
+1 .
+
+n .
+
+n .
+
+David Pigeon
+
+33
+
+Calculs pratiques en relativit´e g´en´erale
+
+CHAPITRE 1. CALCULS DES OBJETS ASSOCI´ES `A LA COURBURE POUR LES M´ETRIQUES
+DIAGONALES
+
+1.2. CONNEXIONS ASSOCI´EES `A LA COURBURE
+
+(ii) Supposons que l≥ 2 et k∶= 0. Soit m∈{1, . . . , l− 1} et n∈{1, . . . , l} . La g-trace de A suivant
+(m, n) est :
+
+trg,(m,n)A ∶=[[A]n]1
+
+m .
+
+(ii) On a :
+
+(i) On a :
+
+Regardons le type des champs tensoriels apparaissant dans les d´efinitions.
+
+● A est un champ tensoriel de type(k, l)
+● tr(m,n)A est un champ tensoriel de type(k− 1, l− 1).
+● A est un champ tensoriel de type(0, l)
+● [A]n est un champ tensoriel de type(1, l− 1)
+● trg,(m,n)A est un champ tensoriel de type(0, l− 2).
+Exemple 1.2.3.3: Exemple de la trace d’un champ tensoriel de type(1, 1)
+Soit un champ tensoriel A de type(0, 2). Supposons que A soit sym´etrique i.e. pour tous champs
+de vecteurs X et Y , on a A(X, Y)= A(Y, X). Alors on a :
+[A]1=[A]2.
+trg,(1,1)A = trg,(2,1)A
+trgA ∶= trg,(i,1)A .
+
+On notera alors dans ce cas simplement :
+
+Donc on a :
+
+D´efinition 1.2.3.4: Divergence d’un champ tensoriel
+
+(i) Supposons que k≥ 1. Soit n∈{1, . . . , k}. La divergence de A suivant n est :
+Si k∶= 1 (donc n∶= 1), on la note simplement :
+
+(ii) Supposons que l≥ 1. Soit n∈{1, . . . , l}. La g-divergence de A suivant n est :
+
+div(n)A ∶=[∇A]n
+l+1 .
+divA ∶= div(1)A ∶=[∇A]1
+l+1 .
+divg,(n)A ∶=[∇[A]n]1
+l+1 .
+divgA ∶= divg,(1)A ∶=[∇A]1
+l+1 .
+
+Si l∶= 1 (donc n∶= 1), on la note simplement :
+
+Regardons le type des champs tensoriels apparaissant dans les d´efinitions.
+
+(i) On a :
+
+● A est un champ tensoriel de type(k, l)
+● ∇A est un champ tensoriel de type(k, l+ 1)
+● div(n)A est un champ tensoriel de type(k− 1, l).
+
+(ii) On a :
+
+Calculs pratiques en relativit´e g´en´erale
+
+34
+
+David Pigeon
+
+CHAPITRE 1. CALCULS DES OBJETS ASSOCI´ES `A LA COURBURE POUR LES M´ETRIQUES
+DIAGONALES
+
+1.2. CONNEXIONS ASSOCI´EES `A LA COURBURE
+
+● A est un champ tensoriel de type(k, l)
+● [A]n est un champ tensoriel de type(k+ 1, l− 1)
+● ∇[A]n est un champ tensoriel de type(k+ 1, l)
+● divg,(n)A est un champ tensoriel de type(k, l− 1).
+Exemple 1.2.3.5: Divergences d’un champ de vecteurs et de covecteurs dans C et C∗
+(1) Soit un champ de vecteurs X∶= X j∂j. On a par la d´efinition d’une connexion :
+
+div(X)=[∇X]1
+
+1
+
+= dxi(∇∂iX)
+= dxi(∇∂i(X j∂j))
+= dxi(dX j(∂i) ∂j+ X j∇∂i∂j)
+= dxi(∂iX j∂j+ X j∇∂i∂j)
+= ∂iX jδi
+j+ X jΓi
+= ∂iX i+ X jΓi
+divgα∶= divα
+
+ij
+
+ij
+
+Donc on a :
+
+♯∶= div[α]1.
+
+(2) Soit un champ de covecteurs α∶= αjdxj. La divergence de α est d´efinie par :
+(3) Soit un champ tensoriel A de type (0, 2). Supposons que A soit sym´etrique i.e. pour tous
+champs de vecteurs X et Y , on a A(X, Y)= A(Y, X). Alors on a :
+
+[A]1=[A]2
+divg,(1)A = divg,(2)A
+divgA ∶= divg,(i)A .
+1.2.4 D´efinition de la connexion dans les bases E et E∗
+Les ´el´ements ∇ek ej sont des champs de vecteurs et donc ils se d´ecomposent dans la base E . D’o`u les
+Soit i, j, k∈{0, 1, 2, 3}.
+
+D´efinition 1.2.4.1: Symboles de Christoffel
+
+On notera alors dans ce cas simplement :
+
+d´efinitions suivantes.
+
+(i) Les coefficients de rotation de Ricci ΓΓi
+
+kj sont d´efinis par :
+
+(ii) La matrice des 1-formes de rotation de Ricci
+
+est d´efinie par :
+
+ΓΓi
+
+ωω∶=(ωωi
+
+kj∶= ei(∇ek ej) .
+j)ij∈ M4(Λ1(U))
+j∶= ΓΓi
+
+kjek.
+
+ωωi
+
+David Pigeon
+
+35
+
+Calculs pratiques en relativit´e g´en´erale
+
+CHAPITRE 1. CALCULS DES OBJETS ASSOCI´ES `A LA COURBURE POUR LES M´ETRIQUES
+DIAGONALES
+
+1.2. CONNEXIONS ASSOCI´EES `A LA COURBURE
+
+On a donc :
+
+j(ek)= ΓΓi
+kjei=∇ek ej= ωωi
+
+kj
+
+ΓΓi
+
+ωωi
+
+j(ek) ei
+
+Exemple 1.2.4.2: Symboles de Christoffel et coefficients t´etradiques
+
+Soit i, j, k∈{0, 1, 2, 3}.
+(1) Les ´el´ements∇∂k ∂j sont des champs de vecteurs et donc ils se d´ecomposent dans la base C .
+
+(a) Les symboles de Christoffel Γi
+
+(2) Les ´el´ements∇θk θj sont des champs de vecteurs et donc ils se d´ecomposent dans la base C⊥.
+
+Γi
+
+(a) Les coefficients t´etradiques Γi
+
+(b) La matrice des 1-formes de Christoffel
+
+est d´efinie par :
+
+On a donc :
+
+(b) La matrice des 1-formes t´etradiques
+
+est d´efinie par :
+
+On a donc :
+
+Γi
+
+kj sont d´efinis par :
+
+ω∶=(ωi
+
+kj∶= dxi(∇∂k ∂j) .
+j)ij∈ M4(Λ1(U))
+j∶= Γi
+j(∂k)= Γi
+kj∂i=∇∂k ∂j= ωi
+
+j(∂k) θi
+
+kjdxk.
+
+ωi
+
+kj
+
+ωi
+
+Γi
+
+kj sont d´efinis par :
+
+ϖ∶=(ϖi
+
+kj∶= θi(∇θk θj) .
+j)ij∈ M4(Λ1(U))
+j∶= Γi
+j(θk)= Γi
+kjθi=∇θk θj= ϖi
+
+j(θk) θi
+
+kjθk.
+
+ϖi
+
+kj
+
+Γi
+
+ϖi
+
+Le lemme suivant ´etablit le lien entre les Γj
+
+ki et les Γj
+
+ki.
+
+ki
+
+ki et les Γj
+
+(i) (a) On a :
+
+Lemme 1.2.4.3: Liens entre les Γj
+
+Soit i, j, k∈{0, 1, 2, 3} tels que i≠ j.
+−uk(−uj,k+ Γj
+kj= e
+kj= eui−uj−uk Γi
+
+(b) On a :
+
+Γj
+
+Γi
+
+kj
+
+kj)
+
+Γj
+
+kj= uj,k+ eukΓj
+kj= e
+−ui+uj+ukΓi
+
+kj
+
+kj
+
+Γi
+
+Calculs pratiques en relativit´e g´en´erale
+
+36
+
+David Pigeon
+
+CHAPITRE 1. CALCULS DES OBJETS ASSOCI´ES `A LA COURBURE POUR LES M´ETRIQUES
+DIAGONALES
+
+1.2. CONNEXIONS ASSOCI´EES `A LA COURBURE
+
+D´emonstration.
+
+(i) On a pour tous champs scalaires f et g et tous champs de vecteurs X et Y :
+
+(ii) (a) On a :
+
+j
+
+j
+
+Γi
+
+ωi
+
+ωj
+
+ϖi
+
+ϖj
+
+kj∂i
+
+kj∂i
+
+⎤⎥⎥⎥⎥⎦
+
+(b) On a :
+
+Ainsi on a :
+
+et d’autre part :
+
+j= ωj
+j− uj,ke
+j= ϖj
+j+ uj,kdxk
+−uk θk
+j= eui−uj ωi
+j= e
+−ui+uj ϖi
+∇gX(f Y)= g∇X(f Y)= gdf(X)Y + f g∇X Y.
+−uj ∂j)
+∇θk θj=∇e−uk ∂k(e
+−uj)(∂k)∂j+ e
+−uj−uk∇∂k ∂j
+−uk d(e
+= e
+−uj−uk ∂j+ e
+=−uj,ke
+−uj−uk Γi
+⎡⎢⎢⎢⎢⎣(−uj,k+ Γj
+kj) ∂j+∑
+= e
+−uj−uk
+i≠j
+∇θk θj= Γi
+= Γi
+−ui∂i
+Par unicit´e de la d´ecomposition, on a pour i≠ j :
+−uj−uk(−uj,k+ Γj
+−uj= e
+−ui= e
+−uj−uk Γi
+kj= uj,k+ eukΓj
+kj= e
+−ui+uj+ukΓi
+j= Γj
+=(uj,k+ eukΓj
+= uj,kdxk+ Γj
+= uj,kdxk+ Γj
+= ϖj
+j+ uj,kdxk
+−uk θk
+j= Γi
+= e
+−ui+uj+ukΓi
+= e
+−ui+uj ϖi
+
+j− uj,ke
+
+kj) dxk
+
+D’o`u les points (a) et (b).
+
+kjeuk dxk
+kjθk
+
+j= ϖj
+
+j= ωj
+
+−uk θk
+
+et donc aussi :
+
+kj)
+
+Ainsi on a :
+
+kjθi
+kje
+
+kje
+kje
+
+kjdxk
+
+kjdxk
+
+Γj
+Γi
+
+Γj
+Γi
+
+kje
+
+ϖj
+
+ωj
+
+ωj
+
+ωi
+
+(b) On a :
+
+kj
+
+kj
+
+kj
+
+j
+
+j+ uj,kdxk
+
+(ii) (a) On a par (i.a) :
+
+David Pigeon
+
+37
+
+Calculs pratiques en relativit´e g´en´erale
+
+CHAPITRE 1. CALCULS DES OBJETS ASSOCI´ES `A LA COURBURE POUR LES M´ETRIQUES
+DIAGONALES
+
+1.2. CONNEXIONS ASSOCI´EES `A LA COURBURE
+
+ϖi
+
+Ainsi on a :
+
+j= eui−uj ωi
+
+j= e
+−ui+uj ϖi
+1.2.5 Calculs pratiques de la connexion dans les bases C et C∗
+formule explicite pour le calcul de∇ sur un champ tensoriel en utilisant les symboles de Christoffel.
+
+jk et les champs tensoriels g et g∗. On commence par une proposition qui donne une
+
+Dans cette sous-section, on calcule les symboles de Christoffel de mani`ere classique en utilisant une
+
+relation entre les Γi
+
+ωi
+
+j
+
+j
+
+On commence par un exemple.
+
+Exemple 1.2.5.1: Exemple de calculs
+
+(1) On a :
+
+(∇∂k dxi)(∂j)= ∂k(dxi(∂j))− dxi(∇∂k ∂j)
+
+j)− Γi
+
+kj
+
+= ∂k(δi
+=−Γi
+
+kj
+
+(2) Soit un champ de covecteurs α∶= αidxi. On a alors par (1) :
+(∇∂k α)(∂j)=(∇∂k(αidxi))(∂j)
+
+= ∂k(αidxi(∂j))− αidxi(∇∂k ∂j)
+= ∂kαj− αiΓi
+(3) Soit un champ tensoriel A∶= Aildxi⊗ dxl. On a alors par (1) et (2) :
+(∇∂k A)(∂j, ∂p)=∇∂k(Aildxi⊗ dxl)(∂j, ∂p)
+kj) δl
+p− Ailδi
+kj− AjlΓl
+
+=(∇∂k(Aildxi)⊗ dxl)(∂j, ∂p)+(Aildxi⊗∇∂k(dxl))(∂j, ∂p)
+=∇∂k(Aildxi)(∂j)dxl(∂p)+ Aildxi(∂j)∇∂k(dxl)(∂p)
+=(∂kAjl− AilΓi
+= ∂kAjp− AipΓi
+
+jΓl
+kp
+
+kp
+
+kj
+
+Proposition 1.2.5.2: Formule de la connexion sur les tenseurs
+
+Soit un champ tensoriel A de type(k, l) dont la d´ecomposition en coordonn´ees locales est :
+
+Alors on a :
+
+A = Aj1⋯jk
+∂j1⊗⋯⊗ ∂jk⊗ dxi1⊗⋯⊗ dxil.
+i1⋯il
+i1⋯il =∂mAj1⋯jk
+∇mAj1⋯jk
+i1⋯il
+i1⋯il +⋯+ Γjk
++ Γj1
+nmAnj2⋯jk
+nmAj1⋯jk−1n
+i1⋯il
+− Γn
+ni2⋯il−⋯− Γn
+i1mAj1⋯jk
+ilmAj1⋯jk
+i1⋯il−1n
+A(dxj1, . . . , dxjk , ∂i1, . . . , ∂il) .
+i1⋯il =∇∂m
+
+∇mAj1⋯jk
+
+D´emonstration. On a par les notations 1.2.2.5 :
+
+On a trois relations :
+
+Calculs pratiques en relativit´e g´en´erale
+
+38
+
+David Pigeon
+
+CHAPITRE 1. CALCULS DES OBJETS ASSOCI´ES `A LA COURBURE POUR LES M´ETRIQUES
+DIAGONALES
+
+1.2. CONNEXIONS ASSOCI´EES `A LA COURBURE
+
+● pour tout champ scalaire f , on a :
+∇∂mf= ∂mf
+● on a par d´efinition des Γn
+∇∂m∂i= Γn
+● par le point (1) de l’exemple 1.2.5.1, on a :∇∂mdxj=−Γj
+
+im :
+
+im∂n
+
+nmdxn.
+
+Ainsi on a par la proposition 1.2.2.4 :
+
+∇mAj1⋯jk
+i1⋯il
+=(∇∂mA)(dxj1, . . . , dxjk , ∂i1, . . . , ∂il)
+=∇∂m(A(dxj1, . . . , dxjk , ∂i1, . . . , ∂il))
+− A(∇∂mdxj1, . . . , dxjk , ∂i1, . . . , ∂il)−⋯− A(dxj1, . . . ,∇∂mdxjk , ∂i1, . . . , ∂il)
+− A(dxj1, . . . , dxjk ,∇∂m∂i1, . . . , ∂il)−⋯− A(dxj1, . . . , dxjk , ∂i1, . . . ,∇∂m∂il)
+=∇∂mAj1⋯jk
+i1⋯il
+nmdxn, ∂i1, . . . , ∂il)
+− A(−Γj1
+nmdxn, . . . , dxjk , ∂i1, . . . , ∂il)−⋯− A(dxj1, . . . ,−Γjk
+ilm∂n)
+i1m∂n, . . . , ∂il)−⋯− A(dxj1, . . . , dxjk , ∂i1, . . . , Γn
+− A(dxj1, . . . , dxjk , Γn
+=∇∂mAj1⋯jk
+i1⋯il
+nmA(dxj1, . . . , dxn, ∂i1, . . . , ∂il)
+nmA(dxn, . . . , dxjk , ∂i1, . . . , ∂il)+⋯+ Γjk
++ Γj1
+ilmA(dxj1, . . . , dxjk , ∂i1, . . . , ∂n)
+i1mA(dxj1, . . . , dxjk , ∂n, . . . , ∂il)−⋯− Γn
+− Γn
+=∂mAj1⋯jk
+i1⋯il
+i1⋯il +⋯+ Γjk
++ Γj1
+nmAnj2⋯jk
+ni2⋯il−⋯− Γn
+− Γn
+i1mAj1⋯jk
+
+nmAj1⋯jk−1n
+i1⋯il
+ilmAj1⋯jk
+i1⋯il−1n
+
+On pourrait g´en´eraliser ce r´esultat dans les bases E et E∗ mais le r´esultat n’est pas pratique.
+La connexion∇ est g-parall`ele i.e.
+
+∇∂j g= 0
+
+On en d´eduit le r´esultat usuel suivant.
+
+Lemme 1.2.5.3: Expression des symboles de Christoffel en fonction de la m´etrique
+
+D´emonstration. Par le point (3) de l’exemple 1.2.5.1, on a :
+
+On a :
+
+i.e. on a :
+
+kl= 1
+
+gim(gmk,l+ gml,k− gkl,m).
+
+Γi
+
+2
+
+0=∇∂ig(∂m, ∂n)
+= gmn,i− gjnΓj
+= gmn,i− gpnΓp
+gmn,i= gpnΓp
+
+im− gmlΓl
+im− gmpΓp
+im+ gmpΓp
+
+in
+
+in
+
+in
+
+David Pigeon
+
+39
+
+Calculs pratiques en relativit´e g´en´erale
+
+CHAPITRE 1. CALCULS DES OBJETS ASSOCI´ES `A LA COURBURE POUR LES M´ETRIQUES
+DIAGONALES
+
+1.2. CONNEXIONS ASSOCI´EES `A LA COURBURE
+
+km+ gmpΓp
+
+kl− gplΓp
+
+ml)
+mk− gkpΓp
+
+En permutant les indices et exposants, on a :
+
+∶ gmk,l= gpkΓp
+(1)
+∶ gml,k= gplΓp
+(2)
+∶ gkl,m= gplΓp
+(3)
+Ainsi en faisant(1)+(2)−(3), on a :
+gim(gpkΓp
+gim(gmk,l+ gml,k− gkl,m)= 1
+lm+ gmpΓp
+= 1
+= Γp
+= Γp
+= Γi
+
+lkgimgmp
+lkδi
+
+gim2Γp
+
+lkgmp
+
+1
+2
+
+2
+
+2
+
+kl
+
+p
+
+lk
+
+kl
+
+ml
+
+lm+ gmpΓp
+km+ gmpΓp
+mk+ gkpΓp
+lk+ gplΓp
+
+On en d´eduit les valeurs exactes des Γj
+
+ki.
+
+ki
+
+(i) On a :
+
+Th´eor`eme 1.2.5.4: Valeurs exactes des Γj
+
+Soit i, j, k∈{0, 1, 2, 3} distincts et l quelconque.
+il= ui,l.
+li= Γi
+ii=−ηiηjui,je2ui−2uj .
+
+(ii) On a :
+
+Γj
+
+Γi
+
+(iii) On a :
+
+ki= 0.
+
+Γj
+
+D´emonstration.
+
+(i) Comme g est sym´etrique, on a :
+
+On a de plus :
+
+Γi
+
+Γi
+
+il
+
+2
+
+2
+
+gim(gml,i+ gmi,j− gli,m)
+li= 1
+gim(gmi,l+ gml,i− gil,m)
+= 1
+= Γi
+gim(gml,i+ gmi,l− gli,m)
+li= 1
+= 1
+gii(gil,i+ gii,l− gli,i)
+= 1
+= ui,l
+
+giigii,l
+
+2
+
+2
+
+2
+
+Calculs pratiques en relativit´e g´en´erale
+
+40
+
+David Pigeon
+
+CHAPITRE 1. CALCULS DES OBJETS ASSOCI´ES `A LA COURBURE POUR LES M´ETRIQUES
+DIAGONALES
+
+1.2. CONNEXIONS ASSOCI´EES `A LA COURBURE
+
+(ii) On a :
+
+(iii) Comme g est diagonale, on a directement :
+
+2
+
+2
+
+2
+
+Γj
+
+Γj
+
+gjjgii,j
+
+gjm(gmi,i+ gmi,i− gii,m)
+ii= 1
+gjj(gji,i+ gji,i− gii,j)
+= 1
+=− 1
+=−ηiηjui,je2ui−2uj
+gjm(gmk,i+ gmi,k− gki,m)
+ki= 1
+gjj(gjk,i+ gji,k− 0)
+= 1
+gjj(0+ 0)
+= 1
+= 0
+Γi∶=⎛⎜⎜⎜⎝
+
+02 Γi
+12 Γi
+22 Γi
+32 Γi
+
+00 Γi
+10 Γi
+20 Γi
+30 Γi
+
+01 Γi
+11 Γi
+21 Γi
+31 Γi
+
+⎞⎟⎟⎟⎠ .
+
+Γi
+Γi
+Γi
+Γi
+
+23
+
+03
+
+13
+
+2
+
+2
+
+2
+
+On note :
+
+● Cas i∶= 0. On a :
+
+● Cas i∶= 1. On a :
+
+● Cas i∶= 2. On a :
+
+● Cas i∶= 3. On a :
+
+33
+
+u0,3
+0
+0
+
+0
+u1,3
+0
+
+u3,0e−2u0+2u3
+
+⎞⎟⎟⎟⎠ .
+⎞⎟⎟⎟⎠ .
+−u3,1e−2u1+2u3
+⎞⎟⎟⎟⎠ .
+⎞⎟⎟⎟⎠ .
+
+u2,3 −u3,2e−2u2+2u3
+−u2,3e−2u3+2u2 u3,2
+
+0
+0
+u2,3
+
+u3,0
+u3,1
+
+u2,2
+
+0
+0
+
+u3,2
+
+u3,3
+
+u0,2
+0
+
+u2,0e−2u0+2u2
+
+0
+
+u1,1
+
+u1,3
+
+0
+u1,2
+
+u1,2 −u2,1e−2u1+2u2
+−u1,2e−2u2+2u1 u2,1
+
+u2,0
+
+0
+
+0
+
+−u1,3e−2u3+2u1
+
+0
+
+u2,1
+0
+
+0
+u3,1
+
+u0,1
+
+u0,1 u1,0e−2u0+2u1
+u0,1e−2u1+2u0 u1,0
+
+0
+0
+
+u0,0
+
+u0,2
+u0,3
+
+u1,0
+0
+0
+
+Γ0=⎛⎜⎜⎜⎝
+Γ1=⎛⎜⎜⎜⎝
+Γ2=⎛⎜⎜⎜⎝
+Γ3=⎛⎜⎜⎜⎝
+u0(t, r)∶= u(t, r)
+u2(t, r)∶= b(t)+ ln(r)
+
+0
+0
+u3,0
+
+0
+u2,0
+0
+
+u0,2e−2u2+2u0
+
+u0,3e−2u3+2u0
+
+u1(t, r)∶= v(t, r)
+u3(t, r, ϑ)∶= b(t)+ ln(r)+ ln sin(ϑ)
+
+Exemple 1.2.5.5: Suite 2 de la m´etrique h
+
+On reprend l’exemple avec la m´etrique h (voir 1.1.4.1 et 1.1.5.1) avec :
+
+David Pigeon
+
+41
+
+Calculs pratiques en relativit´e g´en´erale
+
+CHAPITRE 1. CALCULS DES OBJETS ASSOCI´ES `A LA COURBURE POUR LES M´ETRIQUES
+DIAGONALES
+
+1.2. CONNEXIONS ASSOCI´EES `A LA COURBURE
+
+˙v
+
+0
+
+0
+
+˙u
+
+0
+0
+
+0
+0
+
+0
+0
+
+0
+0
+
+0
+0
+
+0
+0
+0
+
+0
+0
+0
+
+0
+0
+0
+
+˙v
+0
+0
+
+0
+˙b
+
+0
+0
+˙b
+0
+
+⎞⎟⎟⎟⎠
+
+⎞⎟⎟⎟⎟⎠
+
+r−1
+
+On a donc :
+
+u′
+˙ve−2u+2v
+
+u′
+u′e2u−2v
+
+r2 ˙be2b−2u
+v′
+0 −re2b−2v
+r−1
+
+r2 ˙b sin2 ϑe2b−2u
+−r sin2 ϑe2b−2v
+⎞⎟⎟⎟⎟⎠
+
+Γ0=⎛⎜⎜⎜⎜⎝
+Γ1=⎛⎜⎜⎜⎝
+Γ2=⎛⎜⎜⎜⎜⎝
+Γ3=⎛⎜⎜⎜⎜⎝
+r−1
+u′dx0+ ˙ve−2u+2vdx1
+˙udx0+ u′dx1
+ω=⎛⎜⎜⎜⎜⎝
+r2 ˙b sin2 ϑe−2b−2udx3
+˙vdx0+ v′dx1
+u′e2u−2vdx0+ ˙vdx1
+−r sin2 ϑe2b−2vdx3
+− cos ϑ sin ϑdx3
+r−1dx2
+˙bdx0+ r−1dx1+ cot ϑdx2
+r−1dx3
+On finit cette sous-section par une autre formule pour calculer la somme∑3
+i=0 Γi
+Soit j∈{0, 1, 2, 3}. On a :
+
+− cos ϑ sin ϑ
+⎞⎟⎟⎟⎟⎠
+r−1
+r2 ˙be2b−2udx2
+−re2b−2vdx2
+˙bdx0+ r−1dx1
+
+Proposition 1.2.5.6: Autre formules pour Γi
+ij
+
+Et ainsi, on a :
+
+˙bdx2
+˙bdx3
+
+cot ϑdx3
+
+0
+0
+0
+˙b
+
+cot ϑ
+
+cot ϑ
+
+0
+0
+0
+
+0
+0
+0
+
+ij.
+
+0
+0
+
+˙b
+
+0
+
+0
+
+⎞⎟⎟⎟⎟⎠ .
+
+ij= ∂j(ln
+
+Γi
+
+3∑
+i=0
+
+√∣ det g∣) .
+
+(1) On commence par un r´esultat d’alg`ebre lin´eaire. On munit Mn(R) de la norme de Frobenius :
+
+(2) On a :
+
+D´emonstration. Montrons le r´esultat en deux ´etapes :
+
+(1) pour tout A∈ GLn(R), on a :
+
+Γi
+
+ij= ∂j(ln
+
+−1H).
+dA det∶ Hz→ det(A)tr(A
+√∣ det g∣) .
+3∑
+i=0
+∀M∈ Mn(R), ∣∣M∣∣∶=√
+tr(tM M).
+Cette norme est une norme sous-multiplicative sur Mn(R) i.e. on a :
+∀A, B∈ Mn(R), ∣∣AB∣∣≤∣∣A∣∣.∣∣B∣∣.
+Montrons que pour tout A∈ GLn(R), on a :
+dA det∶ Hz→ det(A)tr(A
+−1H).
+
+Calculs pratiques en relativit´e g´en´erale
+
+42
+
+David Pigeon
+
+CHAPITRE 1. CALCULS DES OBJETS ASSOCI´ES `A LA COURBURE POUR LES M´ETRIQUES
+DIAGONALES
+
+1.2. CONNEXIONS ASSOCI´EES `A LA COURBURE
+
+n∑
+i=1
+
+(1+ tλn)= 1+ t
+
+det(In+ tH)= n∏
+i=1
+
+λi+ O(t2)= 1+ t tr(H)+ O(t2).
+
+Pour cela, commen¸cons par calculer la diff´erentielle de det en In. Comme det est de la classe C∞, il
+suffit de calculer la d´eriv´ee de det en In dans une direction quelconque H∈ Mn(R). Soit une matrice
+r´eelle H∈ Mn(R) et λ1, . . . , λn ses valeurs propres. On a pour tout r´eel t au voisinage de 0 :
+Comme l’application Hz→ tr(H) est lin´eaire, on a donc :
+dIn det∶ Hz→ tr(H).
+Soit A∈ GLn(R). On en d´eduit que pour toute matrice H∈ Mn(R) :
+−1H)
+det(A+ H)= det(A(In+ A
+= det(A) det(In+ A
+−1H)
+−1H∣∣))
+−1H)+ o(∣∣A
+= det(A)(det(In)+ dIn(A
+−1H∣∣) det(A)
+= det(A)+ det(A)tr(A
+−1H)+ o(∣∣A
+Or∣∣.∣∣ est une norme sous-matricielle, donc on a∣∣A−1H∣∣≤∣∣A−1∣∣.∣∣H∣∣. Et ainsi :
+−1H∣∣) det(A)= o(∣∣H∣∣).
+o(∣∣A
+Comme l’application Hz→ det(A)tr(A−1H) est lin´eaire, on a donc :
+dA det∶ Hz→ det(A)tr(A
+−1H).
+gkl(glj,i+ gli,j− gij,l)
+ij= 1
+2(gilglj,i+ gilgil,j− gilgij,l)
+ij= 3∑
+i,l=0
+⎡⎢⎢⎢⎢⎣ 3∑
+= 1
+gilgil,j− 3∑
+gilglj,i+ 3∑
+i,l=0
+i,l=0
+i,l=0
+⎡⎢⎢⎢⎢⎣ 3∑
+gilgil,j− 3∑
+gilglj,i+ 3∑
+= 1
+i,l=0
+i,l=0
+i,l=0
+= 1
+3∑
+i,l=0
+∂j(det g) dxj= d(det g)
+
+Par (1), on a :
+
+⎤⎥⎥⎥⎥⎦
+⎤⎥⎥⎥⎥⎦
+
+3∑
+i=0
+
+gilgil,j
+
+gilglj,i
+
+gilgij,l
+
+on a :
+
+Γk
+
+Γi
+
+2
+
+2
+
+2
+
+2
+
+1
+
+(2) Comme :
+
+i.e. on a :
+
+On a donc :
+
+1
+
+=(det g) gildgil
+=(det g) gilgil,jdxj
+gilgil,j=
+∂j(det g)
+ij=
+∂j(det g)
+3∑
+i=0
+√∣ det g∣
+1√∣ det g∣ ∂j
+=
+√∣ det g∣) .
+= ∂j(ln
+
+2 det g
+
+det g
+
+Γi
+
+1
+
+David Pigeon
+
+43
+
+Calculs pratiques en relativit´e g´en´erale
+
+CHAPITRE 1. CALCULS DES OBJETS ASSOCI´ES `A LA COURBURE POUR LES M´ETRIQUES
+DIAGONALES
+
+1.2. CONNEXIONS ASSOCI´EES `A LA COURBURE
+
+Corollaire 1.2.5.7: Autre formules pour Γi
+ij
+
+Soit j∈{0, 1, 2, 3}. On a :
+
+D´emonstration. Comme g est diagonale, on a :
+
+3∑
+i=0
+
+ij= 3∑
+i=0
+
+Γi
+
+ui,j.
+
+gii
+
+det g= 3∏
+i=0
+=−e2u0+2u1+2u2+2u3
+√∣ det g∣= u0+ u1+ u2+ u3.
+3∑
+i=0
+
+ij= 3∑
+i=0
+
+ui,j.
+
+Γi
+
+ln
+
+1.2.6 Calculs pratiques de la connexion dans les bases C⊥ et C∗⊥
+
+Dans cette sous-section, on calcule les coefficients t´etradiques Γj
+
+ki en utilisant la m´ethode des t´etrades.
+
+On commence par quelques propri´et´es simples des symboles Γj
+
+ki et des 1-formes ϖi
+
+j.
+
+Lemme 1.2.6.1: Sym´etries des symboles Γj
+
+ki et ϖi
+
+j
+
+Soit i, j, k, l∈{0, 1, 2, 3}.
+
+(i) On a :
+
+Ainsi on a :
+
+Et donc on a :
+
+(ii) On a :
+
+(iii) On a :
+
+(iv) On a :
+
+D´emonstration.
+
+(i) Comme ηkl est constant, on a pour tout champ de vecteurs X :
+
+ϖl
+
+Γj
+
+l.
+
+kj.
+
+k=−ηlηkϖk
+ki=−ηjηiΓi
+j= 0.
+kj= 0.
+
+ϖj
+
+Γj
+
+0=∇X ηkl
+=∇X g(θk, θl)
+= g(∇X θk, θl)+ g(θk,∇X θl)
+= g(ϖi
+k(X)θi, θl)+ g(θk, ϖi
+= ϖi
+k(X)g(θi, θl)+ ϖi
+l(X)ηki
+k(X)ηil+ ϖi
+= ϖi
+l(X)ηk
+= ϖl
+k(X)ηl+ ϖk
+=(ηlϖl
+l)(X)
+k+ ηkϖk
+
+l(X)θi)
+l(X)g(θk, θi)
+
+Calculs pratiques en relativit´e g´en´erale
+
+44
+
+David Pigeon
+
+CHAPITRE 1. CALCULS DES OBJETS ASSOCI´ES `A LA COURBURE POUR LES M´ETRIQUES
+DIAGONALES
+
+1.2. CONNEXIONS ASSOCI´EES `A LA COURBURE
+
+Comme cela est vrai pour tout champ de vecteurs X, on a donc :
+
+i.e. on a :
+
+(ii) On a par (i) :
+
+(iii) On a par (i) :
+
+Donc on a ϖj
+(iv) On a par (iii) :
+
+j= 0.
+
+kj= ϖi
+
+Γi
+
+l.
+
+ϖl
+
+ηlϖl
+
+l= 0
+k+ ηkϖk
+k=−ηlηkϖk
+j(θk)=−ηiηjϖj
+j=−ηjηjϖj
+kj= ϖj
+
+i(θk)=−ηiηjΓj
+j=−ϖj
+j(θk)= 0.
+
+ϖj
+
+Γj
+
+j.
+
+ki.
+
+Le r´esultat fondamental suivant fait le lien entre les 1-formes ϖi
+
+la m´etrique, cela nous permettra de calculer les symboles Γj
+calculer de deux fa¸cons diff´erentes les 2-formes :
+
+j et les fonctions ui apparaissant dans
+ki en fonction de ces fonctions. Pour cela on va
+
+θi,j(θk, θl)= θi∧ θj(θk, θl)= θi⊗ θj(θk, θl)− θj⊗ θi(θk, θl)= δi
+
+l − δj
+
+kδi
+
+l
+
+kδj
+
+(1.2.6.1)
+
+On note :
+
+On a donc :
+
+et :
+
+Proposition 1.2.6.2: Calculs des dθi
+
+Soit i∈{0, 1, 2, 3}.
+
+(i) On a :
+
+(ii) On a :
+
+D´emonstration.
+
+(i) Comme :
+
+on a :
+
+dxi= f iθi= e
+
+dθi∈ Λ2(U)
+θj,i∶= θj∧ θi
+θj,i=−θi,j
+
+−uj θj,i.
+j∧ θj.
+, θi= fidxi= euidxi
+
+dθi= ui,je
+dθi=−ϖi
+−uiθi
+dθi= d(fidxi)
+= ∂j(fi) dxj∧ dxi
+= ∂j(fi) f jθj∧ f iθi
+= ∂j(eui) f if jθj∧ θi
+= ui,jeuie
+−uj−uiθj∧ θi
+−uj θj∧ θi
+= ui,je
+= ui,je
+−uj θj,i
+
+David Pigeon
+
+45
+
+Calculs pratiques en relativit´e g´en´erale
+
+CHAPITRE 1. CALCULS DES OBJETS ASSOCI´ES `A LA COURBURE POUR LES M´ETRIQUES
+DIAGONALES
+
+1.2. CONNEXIONS ASSOCI´EES `A LA COURBURE
+
+(ii) On a fkf k= 1, ce qui donne en diff´erenciant :
+i.e. on a f kdfk=−fkdf k. Et ainsi on a :
+
+fkdf k+ f kdfk= 0
+dθi= d(fidxi)= dfi∧ dxi
+= dfi∧ f iθi
+= f idfi∧ θi
+=−fidf i∧ θi
+=−fi∂j(f i) dxj∧ θi
+=−fi∂j(f i) f jθj∧ θi
+
+Donc on a par l’´equation (??) :
+
+dθi(θk, θl) θi= fif j∂j(f i) θj∧ θi(θk, θl) θi
+= fif j∂j(f i)(δj
+k) θi
+= flf k∂k(f l) θl− fkf l∂l(f k) θk
+
+l+ δj
+
+kδi
+
+l δi
+
+Comme :
+
+∇θk θl=∇f k∂k(f l∂l)
+= f k∇∂k(f l∂l)
+= f kd(f l)(∂k) ∂l+ f kf l∇∂k(∂l)
+j(θk, θl) θi
+j(θl) θi
+
+ϖi
+
+et comme[∂k, ∂l]= 0, on a :
+j⊗ θj(θk, θl) θi− θj⊗ ϖi
+j∧ θj(θk, θl) θi= ϖi
+j(θk) θi− θj(θk) ϖi
+= θj(θl) ϖi
+= δj
+l∇θk θj− δj
+k∇θlθj
+=∇θk θl−∇θlθk
+= f kd(f l)(∂k) ∂l+ f kf l∇∂k(∂l)− f ld(f k)(∂l) ∂k− f kf l∇∂l(∂k)
+= f k∂k(f l) ∂l− f l∂l(f k) ∂k+ f kf l[∂k, ∂l]
+= f k∂k(f l) ∂l− f l∂l(f k) ∂k
+=−dθi(θk, θl) θi
+
+D’o`u le r´esultat car cela est vrai pour tous champs de vecteurs θk, θl, θi.
+
+Donc on a :
+
+dθ0= u0,je
+dθ1= u1,je
+dθ2= u2,je
+dθ3= u3,je
+
+−uj θj,0= u0,1e
+−uj θj,1= u1,0e
+−uj θj,2= u2,0e
+−uj θj,3= u3,0e
+
+−u1θ1,0+ u0,2e
+−u0θ0,1+ u1,2e
+−u0θ0,2+ u2,1e
+−u0θ0,3+ u3,1e
+
+−u2θ2,0+ u0,3e
+−u2θ2,1+ u1,3e
+−u1θ1,2+ u2,3e
+−u1θ1,3+ u3,2e
+
+−u3θ3,0
+−u3θ3,1
+−u3θ3,2
+−u2θ2,3
+
+Calculs pratiques en relativit´e g´en´erale
+
+46
+
+David Pigeon
+
+CHAPITRE 1. CALCULS DES OBJETS ASSOCI´ES `A LA COURBURE POUR LES M´ETRIQUES
+DIAGONALES
+
+1.2. CONNEXIONS ASSOCI´EES `A LA COURBURE
+
+On a alors :
+
+Exemple 1.2.6.3: Suite 3 de la m´etrique h
+
+On reprend l’exemple avec la m´etrique h (voir 1.1.4.1, 1.1.5.1 et 1.2.5.5) avec :
+
+u1(t, r)∶= v(t, r)
+u3(t, r, ϑ)∶= b(t)+ ln(r)+ ln sin(ϑ)
+
+u0(t, r)∶= u(t, r)
+u2(t, r)∶= b(t)+ ln(r)
+dθt= u0,1e
+−u1θ1,0
+= u
+′
+dθr= u1,0e
+−u0θ0,1
+= ˙ve
+−uθt,r
+dθϑ= u2,0e
+−u0θ0,2+ u2,1e
+−u1θ1,2
+= ˙be
+−uθt,ϑ+ r
+−1e
+−vθr,ϑ
+−u1θ1,3+ u3,2e
+−u0θ0,3+ u3,1e
+dθϕ= u3,0e
+−vθr,ϕ+ r
+= ˙be
+−uθt,ϕ+ r
+−1e
+−1 cot ϑe
+
+evθr,t
+
+−u2θ2,3
+−bθϑ,ϕ
+
+On en d´eduit alors les valeurs exactes des symboles Γj
+
+ki et des ϖi
+
+j en fonction des ´el´ements des fonctions
+
+ui apparaissant dans la m´etrique.
+
+Th´eor`eme 1.2.6.4: Valeurs exactes des Γj
+
+Soit i, j, k∈{0, 1, 2, 3} distincts.
+
+ki et ϖi
+
+j
+
+(i) On a :
+
+(ii) On a :
+
+D´emonstration. Posons pour la preuve :
+
+On a donc avec les notations et la proposition pr´ec´edente 1.2.6.2 :
+
+ij= ui,je
+−uj
+ii=−ηiηjui,je
+−uj
+ki= 0
+
+Γi
+Γj
+Γj
+
+ai
+
+ϖj
+ϖi
+
+−uj .
+
+j= 0
+j= ui,je
+−uj θi− ηiηjuj,ie
+−uiθj
+kj∶= Γi
+kj− Γi
+jk , bji∶= ui,je
+bjiθji= ui,je
+−uj θj,i
+= dθi
+=−ϖi
+j∧ θj
+kjθk∧ θj
+=−Γi
+(Γi
+= ∑
+kj− Γi
+0≤j<k≤3
+= ∑
+0≤j<k≤3
+
+jk) θj∧ θk
+
+kjθj,k.
+
+ai
+
+David Pigeon
+
+47
+
+Calculs pratiques en relativit´e g´en´erale
+
+CHAPITRE 1. CALCULS DES OBJETS ASSOCI´ES `A LA COURBURE POUR LES M´ETRIQUES
+DIAGONALES
+
+1.2. CONNEXIONS ASSOCI´EES `A LA COURBURE
+
+ki. On a par (I) et par le point (ii) du
+
+On a donc :
+
+(I) pour tous i, j, k distincts :
+
+(II) pour tous i, j distincts :
+
+Montrons le th´eor`eme.
+
+(i) On a les sym´etries :
+
+On va montrer que Γj
+lemme 1.2.6.1 :
+
+D’o`u le r´esultat par sym´etrie.
+
+ji= 0, on a :
+
+(ii) Comme Γi
+
+i.e. on a :
+
+(iii) On a par (ii) :
+
+(iv) On a :
+
+On note :
+
+● Cas i∶= 0. On a :
+
+kj= Γi
+
+jk.
+
+ij= Γj
+
+ji
+
+ij= Γi
+
+ij
+
+ij.
+
+Γj
+
+Γj
+
+ik , Γi
+
+jk , Γk
+
+0= ai
+
+ki= Γj
+
+kj= Γi
+
+kj− Γi
+jk= 0 i.e. Γi
+bji=−ai
+ji= ai
+kj= Γi
+ki = −Γj
+ki = 0 en montrant que Γj
+ki=−ηiηjΓi
+=−ηiηjΓi
+= ηiηjηkηiΓk
+= ηjηkΓk
+ik=−Γj
+=−Γj
+ji+ Γi
+ji=−Γi
+−uj= bji=−ai
+ij= ui,je
+−uj .
+ii=−ηjηiΓi
+=−ηiηjui,je
+
+−uj .
+
+ui,je
+
+Γj
+
+Γi
+
+jk
+
+kj
+
+ki
+
+ji
+
+ij
+
+ij
+
+ϖi
+
+kjθk
+
+j= Γi
+ijθi+ Γi
+= Γi
+−uj θi− ηiηjuj,ie
+= ui,je
+
+jjθj
+
+−uiθj
+
+⎞⎟⎟⎟⎠
+
+Γi=⎛⎜⎜⎜⎝
+Γ0=⎛⎜⎜⎜⎝
+
+Γi
+Γi
+Γi
+Γi
+
+00 Γi
+10 Γi
+20 Γi
+30 Γi
+
+01 Γi
+11 Γi
+21 Γi
+31 Γi
+
+02 Γi
+12 Γi
+22 Γi
+32 Γi
+
+03
+
+13
+
+23
+
+33
+
+0 u0,1e−u1 u0,2e−u2 u0,3e−u3
+0 u1,0e−u0
+u3,0e−u0
+
+u2,0e−u0
+
+0
+0
+
+0
+0
+
+0
+0
+
+0
+
+0
+
+⎞⎟⎟⎟⎠ .
+
+Calculs pratiques en relativit´e g´en´erale
+
+48
+
+David Pigeon
+
+CHAPITRE 1. CALCULS DES OBJETS ASSOCI´ES `A LA COURBURE POUR LES M´ETRIQUES
+DIAGONALES
+
+1.2. CONNEXIONS ASSOCI´EES `A LA COURBURE
+
+Γ1=⎛⎜⎜⎜⎝
+Γ2=⎛⎜⎜⎜⎝
+Γ3=⎛⎜⎜⎜⎝
+
+u0,1e−u1
+u1,0e−u0
+
+0
+0
+
+0
+
+0
+
+u0,2e−u2
+u2,0e−u0
+u0,3e−u3
+u3,0e−u0
+
+0
+0
+
+0
+
+0
+
+0
+
+0
+0
+
+u1,2e−u2
+0 −u2,1e−u1
+−u1,2e−u2
+u2,1e−u1
+
+0
+
+0
+
+0
+
+−u1,3e−u3
+u3,1e−u1
+
+0
+
+0
+
+u1,3e−u3
+−u3,1e−u1
+
+0
+
+0
+0
+
+0
+0
+0
+
+u2,3e−u3
+0 −u3,2e−u2
+−u2,3e−u3
+u3,2e−u2
+
+0
+0
+0
+0
+
+0
+0
+
+⎞⎟⎟⎟⎠ .
+⎞⎟⎟⎟⎠ .
+⎞⎟⎟⎟⎠ .
+
+● Cas i∶= 1. On a :
+
+● Cas i∶= 2. On a :
+
+● Cas i∶= 3. On a :
+
+On a donc :
+
+Et ainsi, on a :
+
+Par le lemme 1.2.4.3, on retrouve les valeurs Γi
+
+jk trouv´ees dans la sous-section pr´ec´edente.
+
+Exemple 1.2.6.5: Suite 4 de la m´etrique h
+
+On reprend l’exemple avec la m´etrique h (voir 1.1.4.1, 1.1.5.1, 1.2.5.5 et 1.2.6.3) avec :
+
+0
+
+0
+
+0
+0
+
+0
+0
+
+0
+0
+
+0
+0
+0
+
+0
+0
+0
+
+0 u′e−v
+˙ve−u
+u′e−v 0
+˙ve−u
+
+u0(t, r)∶= u(t, r)
+u2(t, r)∶= b(t)+ ln(r)
+Γ0=⎛⎜⎜⎜⎜⎝
+Γ1=⎛⎜⎜⎜⎝
+Γ2=⎛⎜⎜⎜⎜⎝
+Γ3=⎛⎜⎜⎜⎜⎝
+˙be−u
+r−1e−v
+u′e−vθ0+ ˙ve−uθ1
+ϖ=⎛⎜⎜⎜⎜⎝
+u′e−vθ0+ ˙ve−uθ1
+r−1e−vθ2
+r−1e−vθ3
+
+u1(t, r)∶= v(t, r)
+u3(t, r, ϑ)∶= b(t)+ ln(r)+ ln sin(ϑ)
+⎞⎟⎟⎟⎟⎠
+˙be−u
+˙be−u
+⎞⎟⎟⎟⎠
+0 −r−1e−v
+−r−1e−v
+r−1e−v 0
+0 −r−1 cot ϑe−b
+⎞⎟⎟⎟⎟⎠
+r−1 cot ϑe−b 0
+˙be−uθ2
+−r−1e−vθ2
+r−1 cot ϑe−bθ3
+
+˙be−uθ3
+−r−1e−vθ3
+−r−1 cot ϑe−bθ3
+
+˙be−uθ2
+˙be−uθ3
+
+˙be−u
+
+⎞⎟⎟⎟⎟⎠
+
+0
+0
+0
+
+0
+0
+0
+
+0
+0
+0
+
+0
+0
+0
+
+0
+0
+0
+
+0
+0
+0
+
+0
+0
+
+0
+0
+
+0
+0
+
+0
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+⎞⎟⎟⎟⎟⎠ .
+
+David Pigeon
+
+49
+
+Calculs pratiques en relativit´e g´en´erale
+
+CHAPITRE 1. CALCULS DES OBJETS ASSOCI´ES `A LA COURBURE POUR LES M´ETRIQUES
+DIAGONALES
+
+1.3. TENSEUR DE COURBURE ET TENSEUR DE RIEMANN
+
+1.3 Tenseur de courbure et tenseur de Riemann
+
+1.3.1 G´en´eralit´es
+
+D´efinition 1.3.1.1: Les applications de courbures
+
+l’application R(X, Y) d´efinie par :
+
+(i) Soit deux champs de vecteurs X et Y . L’application de courbure associ´ee `a X et Y est
+
+i.e. `a tout champ de vecteurs Z, on associe le champ de vecteurs :
+
+R(X, Y)∶=[∇X ,∇Y]−∇[X,Y]
+
+R(X, Y)Z∶=∇X∇Y Z−∇Y∇X Z−∇[X,Y]Z.
+Rm(W, Z, X, Y)∶= g(W, R(X, Y)Z) .
+
+(ii) L’application de Riemann est l’application qui `a tous champs de vecteurs X, Y , Z et W
+
+associe le champ scalaire :
+
+L’application R est un champ tensoriel de type(1, 3) et l’application Rm est un champ tensoriel de type
+(0, 4).
+
+Proposition 1.3.1.2: Propri´et´es usuelles
+
+Soit des champs de vecteurs X, Y , Z, W et T .
+
+(i) (Premi`ere identit´e de Bianchi) On a :
+
+(ii) On a :
+
+(iii) On a :
+
+(iv) On a :
+
+R(X, Y)Z+ R(Y, Z)X+ R(Z, X)Y = 0
+Rm(W, Z, X, Y)+ Rm(W, X, Y, Z)+ Rm(W, Y, Z, X)= 0
+
+R(X, Y)Z=−R(Y, X)Z
+
+Rm(W, Z, X, Y)=−Rm(W, Z, Y, X)
+Rm(W, Z, X, Y)=−Rm(Z, W, X, Y).
+Rm(W, Z, X, Y)= Rm(X, Y, W, Z).
+(∇XR)(Y, Z)+(∇Y R)(Z, X)+(∇ZR)(X, Y)= 0
+∇XRm(T, W, Z, Y)+∇Y Rm(T, W, X, Z)+∇ZRm(T, W, Y, X)= 0
+∇Rm(T, W, Z, Y, X)+∇Rm(T, W, X, Z, Y)+∇Rm(T, W, Y, X, Z)= 0
+
+(v) (Deuxi`eme identit´e de Bianchi) On a :
+
+D´emonstration.
+
+(i) On a par l’identit´e de Jacobi (voir la proposition 1.2.1.6) :
+
+R(X, Y)Z+ R(Y, Z)X+ R(Z, X)Y
+=∇X∇Y Z−∇Y∇X Z−∇[X,Y]Z
++∇Y∇ZX−∇Z∇Y X−∇[Y,Z]X
+
+Calculs pratiques en relativit´e g´en´erale
+
+50
+
+David Pigeon
+
+CHAPITRE 1. CALCULS DES OBJETS ASSOCI´ES `A LA COURBURE POUR LES M´ETRIQUES
+DIAGONALES
+
+1.3. TENSEUR DE COURBURE ET TENSEUR DE RIEMANN
+
++∇Z∇X Y −∇X∇ZY −∇[Z,X]Y
+=∇X(∇Y Z−∇ZY)+∇Y(∇ZX−∇X Z)+∇Z(∇X Y −∇Y X)
+−(∇[X,Y]Z+∇[Y,Z]X+∇[Z,X]Y)
+=(∇X[Y, Z]−∇[Y,Z]X)+(∇Y[Z, X]−∇[Z,X]Y)+(∇Z[X, Y]−∇[X,Y]Z)
+=[X,[Y, Z]]+[Y,[Z, X]]+[Z,[X, Y]]
+=0
+
+Rm(W, Z, X, Y)+ Rm(W, X, Y, Z)+ Rm(W, Y, Z, X)
+=g(W, R(X, Y)Z)+ g(W, R(Y, Z)X)+ g(W, R(Z, X)Y)
+=g(W, R(X, Y)Z+ R(Y, Z)X+ R(Z, X)Y)
+=g(W, 0)
+=0
+
+Ainsi on a par lin´earit´e de g :
+
+(ii) Comme :
+
+on a :
+
+Et ainsi on a :
+
+(iii) On a :
+
+i.e. on a :
+
+−∇[X,Y]Z=∇−[X,Y]Z
+=∇[Y,X]Z
+
+R(X, Y)Z=∇X∇Y Z−∇Y∇X Z−∇[X,Y]Z
+=−(∇Y∇X Z−∇X∇Y Z−∇[Y,X]Z)
+=−R(Y, X)Z
+
+Rm(W, Z, X, Y)= g(W, R(X, Y)Z)
+= g(W,−R(Y, X)Z)
+=−g(W, R(Y, X)Z)
+=−Rm(W, Z, Y, X)
+X(g(Y, Z))= g(∇X Y, Z)+ g(Y,∇X Z)
+g(∇X Y, Z)= X(g(Y, Z))− g(Y,∇X Z) .
+
+Ainsi on a :
+
+Rm(W, Z, X, Y)=g(W, R(X, Y)Z)
+
+=g(W,∇X∇Y Z−∇Y∇X Z−∇[X,Y]Z)
+=g(W,∇X∇Y Z)− g(W,∇Y∇X Z)− g(W,∇[X,Y]Z)
+=[X(g(W,∇Y Z))− g(∇X W,∇Y Z)]−[Y(g(W,∇X Z))− g(∇Y W,∇X Z)]
+−[[X, Y](g(W, Z))− g(∇[X,Y]W, Z)]
+=[X(Y(g(W, Z)))− X(g(∇Y W, Z))− g(∇X W,∇Y Z)]
+−[Y(X(g(W, Z)))− Y(g(∇X W, Z))− g(∇Y W,∇X Z)]
+−[[X, Y](g(W, Z))− g(∇[X,Y]W, Z)]
+=(XY − Y X)(g(W, Z))− X(g(∇Y W, Z))− g(∇X W,∇Y Z)
+
+David Pigeon
+
+51
+
+Calculs pratiques en relativit´e g´en´erale
+
+CHAPITRE 1. CALCULS DES OBJETS ASSOCI´ES `A LA COURBURE POUR LES M´ETRIQUES
+DIAGONALES
+
+1.3. TENSEUR DE COURBURE ET TENSEUR DE RIEMANN
+
++ Y(g(∇X W, Z))+ g(∇Y W,∇X Z)−[X, Y](g(W, Z))+ g(∇[X,Y]W, Z)
+=[X, Y](g(W, Z))− g(∇X∇Y W, Z)− g(∇X W,∇Y Z)
++ g(∇Y∇X W, Z)+ g(∇Y W,∇X Z)−[X, Y](g(W, Z))+ g(∇[X,Y]W, Z)
+=− g(∇X∇Y W, Z)− g(∇X W,∇Y Z)+ g(∇Y∇X W, Z)
++ g(∇Y W,∇X Z)+ g(∇[X,Y]W, Z)
+=−[g(∇X∇Y W, Z)− g(∇Y∇X W, Z)− g(∇[X,Y]W, Z)]
+=− g(∇X∇Y W−∇Y∇X W−∇[X,Y]W, Z)
+=− g(Z, R(X, Y)W)
+=− Rm(Z, W, X, Y)
+
+(iv) On a par (i, ii, iii) :
+
+2Rm(Z, W, X, Y)− 2Rm(X, Y, Z, W)
+=Rm(Z, W, X, Y)+ Rm(W, Z, Y, X)+ Rm(X, Y, W, Z)+ Rm(Y, X, Z, W)
+=Rm(Z, W, X, Y)+ Rm(Z, X, Y, W)+ Rm(Z, Y, W, X)
++ Rm(W, Z, Y, X)+ Rm(W, Y, X, Z)+ Rm(W, X, Z, Y)
++ Rm(X, Y, W, Z)+ Rm(X, W, Z, Y)+ Rm(X, Z, Y, W)
++ Rm(Y, X, Z, W)+ Rm(Y, Z, W, X)+ Rm(Y, W, X, Z)
+−(Rm(Z, X, Y, W)+ Rm(Z, Y, W, X))−(Rm(W, Y, X, Z)+ Rm(W, X, Z, Y))
+−(Rm(X, W, Z, Y)+ Rm(X, Z, Y, W))−(Rm(Y, Z, W, X)+ Rm(Y, W, X, Z))
+=0+ 0+ 0+ 0
+−(Rm(Z, X, Y, W)+ Rm(X, Z, Y, W))−(Rm(W, Y, X, Z)+ Rm(Y, W, X, Z))
+−(Rm(X, W, Z, Y)+ Rm(W, X, Z, Y))−(Rm(Y, Z, W, X)+ Rm(Z, Y, W, X))
+=− 0− 0− 0− 0
+=0
+
+Rm(Z, W, X, Y)= Rm(X, Y, Z, W).
+
+i.e. on a :
+
+(v) On a par l’action de∇ sur les champs tensoriels (voir la proposition 1.2.2.4) :
+
+∇XR(Y, Z) W+∇Y R(Z, X) W+∇ZR(X, Y) W
+=∇X(R(Y, Z) W)+∇Y(R(Z, X) W)+∇Z(R(X, Y) W)
+− R(∇X Y, Z) W− R(Y,∇X Z) W− R(∇Y Z, X) W− R(Z,∇Y X) W− R(∇ZX, Y) W− R(X,∇ZY) W
+− R(Y, Z)∇X W− R(Z, X)∇Y W− R(X, Y)∇ZW
+=∶(I)− (II)
+− (III)
+(II)=R(∇X Y, Z)+ R(Y,∇X Z)+ R(∇Y Z, X)+ R(Z,∇Y X)+ R(∇ZX, Y)+ R(X,∇ZY)
+=R(∇X Y −∇Y X, Z)+ R(∇Y Z−∇ZY, X)+ R(∇ZX−∇X Z, Y)
+=R([X, Y], Z)+ R([Y, Z], X)+ R([Z, X], Y)
+=∶ (IV)
+
+Calculons les ´el´ements (II) et (I) s´epar´ement. On a :
+
+Calculs pratiques en relativit´e g´en´erale
+
+52
+
+David Pigeon
+
+CHAPITRE 1. CALCULS DES OBJETS ASSOCI´ES `A LA COURBURE POUR LES M´ETRIQUES
+DIAGONALES
+
+1.3. TENSEUR DE COURBURE ET TENSEUR DE RIEMANN
+
+Ainsi on a :
+
+Par l’identit´e de Jacobi, on a :
+
+∇[X,[Y,Z]]W+∇[Y,[Z,X]]W+∇[Z,[X,Y]]W=∇[X,[Y,Z]]+[Y,[Z,X]]+[Z,[X,Y]]W
+
+=∇0W= 0
+(I)=∇X(R(Y, Z) W)+∇Y(R(Z, X) W)+∇Z(R(X, Y) W)
+=∇X∇Y∇ZW−∇X∇Z∇Y W+∇Y∇Z∇X W−∇Y∇X∇ZW+∇Z∇X∇Y W−∇Z∇Y∇X W
+−∇X∇[Y,Z]W−∇Y∇[Z,X]W−∇Z∇[X,Y]W
+=∇Y∇Z∇X W−∇Z∇Y∇X W+∇Z∇X∇Y W−∇X∇Z∇Y W+∇X∇Y∇ZW−∇Y∇X∇ZW
+−∇[Y,Z]∇X W− R(X,[Y, Z])−∇[X,[Y,Z]]W
+−∇[Z,X]∇Y W− R(Y,[Z, X])−∇[Y,[Z,X]]W
+−∇[X,Y]∇ZW− R(Z,[X, Y])−∇[Z,[X,Y]]W
+=R(Y, Z)∇X W+ R(Z, X)∇Y W+ R(X, Y)∇ZW
+− R(X,[Y, Z]) W− R(Y,[Z, X]) W− R(Z,[X, Y]) W
+=(III)+ R([Y, Z], X) W+ R([Z, X], Y) W+ R([X, Y], Z) W
+=(III)+ (IV)
+
+On a donc :
+
+∇XR(Y, Z)+∇Y R(Z, X)+∇ZR(X, Y)= (I)− (II)− (III)
+
+= (III)+ (IV)− (IV)− (III)
+= 0
+On a :∇XRm(T, W, Z, Y)=X(Rm(T, W, Z, Y))− Rm(∇X T, W, Z, Y)− Rm(T,∇X W, Z, Y)
+− Rm(T, W,∇X Z, Y)− Rm(T, W, Z,∇X Y)
+=X(g(T, R(Z, Y)W))− Rm(∇X T, W, Z, Y)− Rm(T,∇X W, Z, Y)
+− Rm(T, W,∇X Z, Y)− Rm(T, W, Z,∇X Y)
+=g(∇X T, R(Z, Y)W)+ g(T,∇X(R(Z, Y)W))− g(∇X T, R(Z, Y)W)
+− g(T, R(Z, Y)∇X W)− g(T, R(∇X Z, Y)W)− g(T, R(Z,∇X Y)W)
+=g(T,∇X(R(Z, Y)W)− R(Z, Y)∇X W− R(∇X Z, Y)W− R(Z,∇X Y)W)
+=g(T,∇XR(Z, Y)W)
+
+Donc on a en permutant X, Z et Y :
+
+∇XRm(T, W, Z, Y)+∇Y Rm(T, W, X, Z)+∇ZRm(T, W, Y, X)
+=g(T,∇XR(Z, Y)W)+ g(T,∇Y R(X, Z)W)+ g(T,∇ZR(Y, X)W)
+=g(T,∇XR(Z, Y)W+∇Y R(Z, X) W+∇ZR(Y, X) W)
+=g(T, 0)
+=0
+
+1.3.2 Calcul des composantes dans E et E∗
+
+David Pigeon
+
+53
+
+Calculs pratiques en relativit´e g´en´erale
+
+D´emonstration. Cela se d´eduit directement de la proposition 1.1.8.6. On refait la preuve dans ce cas. On a :
+
+CHAPITRE 1. CALCULS DES OBJETS ASSOCI´ES `A LA COURBURE POUR LES M´ETRIQUES
+DIAGONALES
+
+1.3. TENSEUR DE COURBURE ET TENSEUR DE RIEMANN
+
+D´efinition 1.3.2.1: Les tenseurs de courbure et de Riemann
+
+(i) Les composantes du tenseur de courbure dans E et E∗ sont :
+(ii) Les composantes du tenseur de Riemann dans E et E∗ sont :
+
+On a donc les d´ecompositions :
+
+On a une relation simple entre ces deux composantes.
+
+Lemme 1.3.2.2: Relation entre les deux composantes
+
+On a :
+
+RRi
+
+jkl∶= ei(R(ek, el) ej) .
+RRijkl∶= Rm(ei, ej, ek, el) .
+R= RRi
+jkl ei⊗ ej⊗ ek⊗ el
+Rm= RRijkl ei⊗ ej⊗ ek⊗ el
+
+jkl.
+
+RRijkl= gginRRn
+RRijkl= Rm(ei, ej, ek, el)
+= g(ei, R(ej, ek) el)
+jkl en)
+= g(ei, RRn
+= RRn
+jklg(ei, en)
+= gginRRn
+
+jkl
+
+RRi
+
+jkl+ RRi
+ljk= 0
+klj+ RRi
+RRijkl+ RRiklj+ RRiljk= 0
+jkl=−RRi
+RRijkl=−RRijlk
+RRijkl=−RRjikl.
+RRijkl= RRklij.
+
+RRi
+
+jlk
+
+On en d´eduit de la proposition 1.3.2.3, la proposition suivante.
+
+Proposition 1.3.2.3: Propri´et´es usuelles
+
+Soit i, j, k, l∈{0, 1, 2, 3}.
+
+(i) (Premi`ere identit´e de Bianchi) On a :
+
+(ii) On a :
+
+(iii) On a :
+
+(iv) On a :
+
+(v) (Deuxi`eme identit´e de Bianchi) On a :
+
+∇nRRijkl+∇kRRijln+∇lRRijnk= 0.
+
+Calculs pratiques en relativit´e g´en´erale
+
+54
+
+David Pigeon
+
+CHAPITRE 1. CALCULS DES OBJETS ASSOCI´ES `A LA COURBURE POUR LES M´ETRIQUES
+DIAGONALES
+
+1.3. TENSEUR DE COURBURE ET TENSEUR DE RIEMANN
+
+D´emonstration. On utilise la proposition 1.3.2.3.
+
+(i) Comme :
+
+on a :
+
+jkl+ RRi
+
+klj+ RRi
+
+RRi
+
+R(ek, el)ej+ R(el, ej)ek+ R(ej, ek)el
+ljk= ei(R(ek, el)ej)+ ei(R(el, ej)ek)+ ei(R(ej, ek)el)
+= ei(R(ek, el)ej+ R(el, ej)ek+ R(ej, ek)el)
+= ei(0)
+= 0
+= 0
+
+RRijkl+ RRiklj+ RRiljk= Rm(ei, ej, ek, el)+ Rm(ei, ek, el, ej)+ Rm(ei, el, ej, ek)
+
+(ii) On a :
+
+(iii) On a :
+
+(iv) On a :
+
+RRi
+
+jkl= ei(R(ek, el)ej)
+= ei(−R(el, ek)ej)
+=−ei(R(el, ek)ej)
+=−RRi
+RRijkl= Rm(ei, ej, ek, el)
+=−Rm(ei, ej, el, ek)
+=−RRijlk
+
+kjl
+
+RRijkl= Rm(ei, ej, ek, el)
+=−Rm(ej, ei, ek, el)
+=−RRjikl
+
+RRijkl= Rm(ei, ej, ek, el)
+= Rm(ek, el, ei, ej)
+= RRklij
+
+(v) On a :∇nRRijkl+∇kRRijln+∇lRRijnk=∇en
+= 0
+
+Rm(ei, ej, ek, el)+∇ek
+
+Rm(ei, ej, el, en)+∇el
+
+Rm(ei, ej, en, ek)
+
+On en d´eduit la nullit´e d’une classe de composantes.
+
+Corollaire 1.3.2.4: Nullit´es et sym´etries de certaines composantes
+
+Soit i, j, k, l∈{0, 1, 2, 3}.
+
+(i) On a :
+
+RRjkii= RRiijk= 0.
+
+David Pigeon
+
+55
+
+Calculs pratiques en relativit´e g´en´erale
+
+CHAPITRE 1. CALCULS DES OBJETS ASSOCI´ES `A LA COURBURE POUR LES M´ETRIQUES
+DIAGONALES
+
+1.3. TENSEUR DE COURBURE ET TENSEUR DE RIEMANN
+
+(ii) On a :
+
+RRijki= RRkiij=−RRkiji=−RRikij=−RRijik=−RRjiki= RRjiik= RRikji.
+
+D´emonstration.
+
+(i) On a par le point (ii) de la proposition 1.3.2.3 :
+
+On a par le point (iii) de la proposition 1.3.2.3 :
+
+(ii) Par (i) et par le point (i) de la proposition 1.3.2.3, on a :
+
+i.e. on a :
+
+i.e. on a :
+
+i.e. on a :
+
+Et on a :
+
+i.e. on a :
+
+RRijll=−RRijll
+RRijll= 0.
+RRiikl=−RRiikl
+RRiikl= 0.
+0= RRijll+ RRillj+ RRiljl
+= 0+ RRillj+ RRiljl
+RRillj=−RRiljl.
+0= RRiikl+ RRikli+ RRilik
+= 0+ RRikli+ RRilik
+RRikli=−RRilik.
+RRijil= RRilij
+RRijki= RRkiij
+
+Par le point (iv) de la proposition 1.3.2.3, on a directement :
+
+Exemple 1.3.2.5: Exemples de composantes
+
+(1) (a) Les composantes du tenseur de courbure dans les bases C et C∗ sont :
+(b) Les composantes du tenseur de Riemann dans les bases C et C∗ sont :
+
+Ri
+
+jkl∶= dxi(R(∂k, ∂l) ∂j) .
+Rijkl∶= Rm(∂i, ∂j, ∂k, ∂l) .
+R= Ri
+jkl ∂i⊗ dxj⊗ dxk⊗ dxl
+Rm= Rijkl dxi⊗ dxj⊗ dxk⊗ dxl
+
+On a donc les d´ecompositions :
+
+Calculs pratiques en relativit´e g´en´erale
+
+56
+
+David Pigeon
+
+CHAPITRE 1. CALCULS DES OBJETS ASSOCI´ES `A LA COURBURE POUR LES M´ETRIQUES
+DIAGONALES
+
+1.3. TENSEUR DE COURBURE ET TENSEUR DE RIEMANN
+
+par le lemme 1.3.2.2, on a les relations :
+
+Rijkl= ginRn
+= giiRi
+= ηieuiRi
+
+jkl
+
+jkl
+
+jkl∶= θi(R(θk, θl) θj) .
+Rijkl∶= Rm(θi, θj, θk, θl) .
+jkl θi⊗ θj⊗ θk⊗ θl
+R= Ri
+Rm= Rijkl θi⊗ θj⊗ θk⊗ θl
+
+Rijkl= ηiiRi
+= ηiRi
+
+jkl
+
+jkl
+
+(2) (a) Les composantes du tenseur de courbure dans les bases C⊥ et C∗⊥ sont :
+(b) Les composantes du tenseur de Riemann dans les bases C⊥ et C∗⊥ sont :
+
+Ri
+
+jkl
+
+On a donc les d´ecompositions :
+
+par le lemme 1.3.2.2, on a les relations :
+
+1.3.3 Calculs pratiques dans C et C∗
+
+les symboles de Christoffel.
+
+Proposition 1.3.3.1: Propri´et´es usuelles
+
+Soit i, j, k, l∈{0, 1, 2, 3}. On a :
+
+D´emonstration. On a par d´efinition de R :
+
+Ainsi on a :
+
+Ri
+
+lm.
+
+jl Γi
+
+kjΓi
+
+kj+ Γm
+
+jl− ∂lΓi
+
+jkl= ∂kΓi
+
+km− Γm
+R(∂k, ∂l) ∂j=∇∂k∇∂l∂j−∇∂l∇∂k ∂j−∇[∂k,∂l]∂j
+jl ∂m)−∇∂l(Γm
+=∇∂k(Γm
+kj∂m)
+jl∇∂k ∂m− dΓm
+jl(∂k) ∂m+ Γm
+= dΓm
+kj(∂l) ∂m+ Γm
+kj∂m− Γm
+km∂n− ∂lΓm
+= ∂kΓm
+jl ∂m+ Γm
+jkl= dxi(R(∂k, ∂l) ∂j)
+= dxi(∂kΓm
+km∂n− ∂lΓm
+jl ∂m+ Γm
+kj∂m− Γm
+n− ∂lΓm
+m+ Γm
+= ∂kΓm
+m− Γm
+km− Γm
+= ∂kΓi
+kj+ Γm
+jl− ∂lΓi
+
+jl Γn
+kmδi
+jl Γi
+
+kjδi
+kjΓi
+lm
+
+kjΓn
+
+kjΓn
+
+kjΓn
+
+lmδi
+n
+
+jl Γn
+
+jl Γn
+
+lm∂n
+
+jl δi
+
+Ri
+
+lm∂n)
+
+kj∇∂l∂m
+
+On commence par une proposition qui donne un lien entre les composantes du tenseur de courbure et
+
+David Pigeon
+
+57
+
+Calculs pratiques en relativit´e g´en´erale
+
+CHAPITRE 1. CALCULS DES OBJETS ASSOCI´ES `A LA COURBURE POUR LES M´ETRIQUES
+DIAGONALES
+
+1.3. TENSEUR DE COURBURE ET TENSEUR DE RIEMANN
+
+Par le corollaire 1.3.2.4, il n’y a que deux types de composantes `a calculer, les autres se d´eduisant par
+
+sym´etrie :
+
+Ri
+
+jil
+
+, Ri
+
+jij.
+
+Th´eor`eme 1.3.3.2: Valeurs des tenseurs de courbure et de Riemann
+
+Soit i, j, k, l∈{0, 1, 2, 3} distincts i.e. on a{0, 1, 2, 3}={i, j, k, l}.
+
+(i) On a :
+
+jil=−ui,jl+ ui,j(uj,l− ui,l)+ ul,jui,l
+iil=−ηiηje2ui−2uj Ri
+ili=−Rj
+jli=−Ri
+
+jil
+
+jil
+
+iil
+
+Ri
+Rj
+Rj
+Ri
+
+(ii) On a :
+
+et :
+
+jij=−(ui,jj+ ui,j(ui,j− uj,j))− ηiηj(uj,ii+ uj,i(uj,i− ui,i)) e2uj−2ui
+− ηkηjui,kuj,ke2uj−2uk− ηlηjui,luj,le2uj−2ul
+
+Ri
+
+iij=−ηiηjRi
+
+Rj
+
+jij.
+
+(iii) Toutes les autres valeurs du tenseur de Riemann sont nulles.
+
+D´emonstration.
+
+(i) On a :
+
+Ri
+
+jl Γi
+
+ij+ Γm
+ij+ Γl
+
+jil=∂iΓi
+jl− ∂lΓi
+im− Γm
+ij+ Γj
+il− Γi
+=− ∂lΓi
+=− ∂l(ui,j)+ uj,lui,j+ ul,jui,l− ui,jui,l
+=− ui,jl+ ui,j(uj,l− ui,l)+ ul,jui,l
+==−ui,jl+ ui,j(uj,l− ui,l)+ ul,jui,l
+
+ij Γi
+lm
+ijΓi
+li
+
+jlΓi
+
+jlΓi
+
+(ii) On a :
+
+Ri
+
+ij+ Γm
+ij+ Γm
+
+im− Γm
+im− Γi
+
+jj− ∂jΓi
+jij=∂iΓi
+=∂iΓi
+jj− ∂jΓi
+=∂i(−ηiηjuj,ie2uj−2ui)− ∂j(ui,j)+(−ηmηjuj,me2uj−2um) ui,m− u2
+=−(ui,jj+ ui,j(ui,j− uj,j))− ηiηj(uj,ii+ uj,i(uj,i− ui,i)) e2uj−2ui
+− ηkηjui,kuj,ke2uj−2uk− ηlηjui,luj,le2uj−2ul
+
+ji− Γj
+
+jjΓi
+jjΓi
+
+ij Γi
+ijΓi
+
+ijΓi
+
+jm
+
+jj
+
+i,j− uj,i(−ηiηjuj,ie2uj−2ui)
+
+1.3.4 Calculs pratiques de la 2-forme de courbure dans C⊥ et C∗⊥
+Soit deux champs de vecteurs X et Y . Pour tout champ de vecteur ∂j, l’´el´ement R(X, Y)∂j est un champ
+de vecteurs, donc il se d´ecompose dans la base C⊥. On en d´eduit la d´efinition des 2-formes de courbures.
+
+Calculs pratiques en relativit´e g´en´erale
+
+58
+
+David Pigeon
+
+CHAPITRE 1. CALCULS DES OBJETS ASSOCI´ES `A LA COURBURE POUR LES M´ETRIQUES
+DIAGONALES
+
+1.3. TENSEUR DE COURBURE ET TENSEUR DE RIEMANN
+
+D´efinition 1.3.4.1: Les applications de courbures
+
+Soit deux champs de vecteurs X et Y et i, j∈{0, 1, 2, 3}. On d´efinit le champ scalaire Ωi
+
+j(X, Y) par :
+j ∈ Λ2(U) qui `a tous champs de vecteurs X et Y associe le champ scalaire
+
+Ωi
+
+j(X, Y)∶= θi(R(X, Y)θj) .
+j(X, Y)θi.
+R(X, Y)θj= Ωi
+
+Ωi
+
+On a donc une 2-forme Ωi
+
+j(X, Y). On a la d´ecomposition :
+Soit i, j, k∈{0, 1, 2, 3}.
+
+Lemme 1.3.4.2: Propri´et´es usuelles
+
+D´emonstration.
+
+(iii) On a :
+
+(ii) On a :
+
+(i) On a :
+
+Ωi
+
+j
+
+k.
+
+Ωi
+
+Ωk
+
+Ωk
+
+(i) On a pour tous champs de vecteurs X et Y :
+
+j= dϖi
+j+ ϖi
+k∧ ϖk
+j=−ηkηjΩj
+k= 0.
+j(X, Y)θi=R(X, Y)θj=∇X∇Y θj−∇Y∇X θj−∇[X,Y]θj
+j(Y)θi)−∇Y(ϖi
+j(X)θi)− ϖi
+=∇X(ϖi
+j([X, Y])θi
+j(X)) θk− ϖk
+j(Y)∇X θk− Y(ϖk
+j(Y)) θk+ ϖk
+=X(ϖk
+j([X, Y])θi
+j(X)∇X θk− ϖi
+j(X)) θk− ϖk
+k(X)θi− Y(ϖk
+j(Y)) θk+ ϖk
+=X(ϖk
+j(X)ϖi
+j(Y)ϖi
+k(Y)θi− ϖi
+j([X, Y])θi
+j(X)) θi− ϖk
+k(X)θi− Y(ϖi
+j(Y)) θi+ ϖk
+=X(ϖi
+j([X, Y])θi
+k(Y)θi− ϖi
+j(X)ϖi
+j(Y)ϖi
+j([X, Y])) θi
+j(X))− ϖk
+k(X)− Y(ϖi
+j(Y))+ ϖk
+=(X(ϖi
+k(Y)− ϖi
+j(X)ϖi
+j(Y)ϖi
+j(Y))− Y(ϖi
+j(X))− ϖi
+=(X(ϖi
+k(Y)) θi
+j([X, Y])+ ϖk
+k(X)− ϖk
+j(Y)ϖi
+j(X)ϖi
+k)(X, Y)) θi
+j(X, Y)+(ϖi
+=(dϖi
+k⊗ ϖk
+j− ϖk
+j⊗ ϖi
+j)(X, Y)θi
+=(dϖi
+k∧ ϖk
+j+ ϖi
+k=−ηkηj(dϖj
+k)
+−ηkηjΩj
+k+ ϖj
+i∧ ϖi
+=−ηkηjdϖj
+k− ηkηjϖj
+i∧ ϖi
+i)∧(−ηkηiϖi
+k)−(−ηiηjϖj
+= d(−ηkηjϖj
+= dϖk
+j− ϖi
+j∧ ϖk
+= dϖk
+j+ ϖk
+i∧ ϖi
+= Ωk
+k=−ηkηkΩk
+
+k=−Ωk
+
+k)
+
+Ωk
+
+k
+
+k
+
+j
+
+j
+
+i
+
+Comme cela est vrai pour tous champs de vecteurs X, Y et θi, on a le r´esultat.
+
+(ii) On a :
+
+(iii) On a par (ii) :
+
+k= 0.
+
+i.e. on a Ωk
+
+David Pigeon
+
+59
+
+Calculs pratiques en relativit´e g´en´erale
+
+CHAPITRE 1. CALCULS DES OBJETS ASSOCI´ES `A LA COURBURE POUR LES M´ETRIQUES
+DIAGONALES
+
+1.3. TENSEUR DE COURBURE ET TENSEUR DE RIEMANN
+
+D´emonstration.
+
+−ui−upθp,j.
+−ui−uq θq,j.
+
+ϖi
+
+dϖi
+
+(i) On a :
+
+(i) On a :
+
+(ii) On a :
+
+j= ui,pup,je
+
+Lemme 1.3.4.3: Lemme pr´eparatoire au calcul des deux formes Ωi
+j
+
+−up−uj θi,p− ηpηjui,puj,pe
+
+Soit i, j, k, l∈{0, 1, 2, 3} distincts i.e. on a{0, 1, 2, 3}={i, j, k, l}, et p, q≠ i, j.
+−2upθi,j+ ηiηjup,iuj,pe
+−uj−uq θq,i− ηiηj(uj,iq+ uj,i(uj,q− ui,q)) e
+−upθj)
+−uj θp− ηpηjuj,pe
+−2upθi,j+ ηiηjup,iuj,pe
+−ui−upθp,j
+
+p∧ ϖp
+j=(ui,jq+ ui,j(ui,q− uj,q)) e
+p∧ ϖp
+
+−uiθp)∧(up,je
+−upθi− ηiηpup,ie
+−up−uj θi,p− ηpηjui,puj,pe
+
+j=(ui,pe
+= ui,pup,je
+−uiθj)
+j=d(ui,je
+−uj θi− ηiηjuj,ie
+−uiθj)
+−uj θi)− ηiηjd(uj,ie
+=d(ui,je
+−uj d(θi)− ηiηjd(uj,ie
+−uj)∧ θi+ ui,je
+=d(ui,je
+−ui)∧ θj− ηiηjuj,ie
+=(ui,jq− ui,juj,q) e
+−uj dxq∧ θi+ ui,je
+−uj ui,qe
+−uq θq,i
+−uidxq∧ θj− ηiηjuj,ie
+− ηiηj(uj,iq− uj,iui,q) e
+−uq θq,j
+−uiuj,qe
+=(ui,jq+ ui,j(ui,q− uj,q)) e
+−uj−uq θq,i− ηiηj(uj,iq+ uj,i(uj,q− ui,q)) e
+
+dϖi
+
+ϖi
+
+−uid(θj)
+−ui−uq θq,j
+
+(ii) On a :
+
+Proposition 1.3.4.4: Valeurs exactes des deux formes Ωi
+j
+
+−ui−upθp,j]
+−up−uj θp,i+ ηiηj(up,iuj,p− uj,ip+ uj,i(ui,p− uj,p)) e
+⎤⎥⎥⎥⎥⎦ θj,i
+−2up
+
+−2ui+ ηj ∑
+p≠i,j
+
+−2uj+ ηiηj(uj,ii+ uj,i(uj,i− ui,i)) e
+
+ηpui,puj,pe
+
+D´emonstration. On a :
+
+Ωi
+
+Ωi
+
+On a :
+
+[(ui,jp+ ui,j(ui,p− uj,p)− ui,pup,j) e
+j= ∑
+p≠i,j
++⎡⎢⎢⎢⎢⎣(ui,jj+ ui,j(ui,j− uj,j)) e
+j=dϖi
+j+ ∑
+p≠i,j
+=(ui,jq+ ui,j(ui,q− uj,q)) e
++ ∑
+p≠i,j
+=(ui,jj+ ui,j(ui,j− uj,j)) e
++(ui,jl+ ui,j(ui,l− uj,l)) e
+− ηiηj(uj,ik+ uj,i(uj,k− ui,k)) e
++ ui,kuk,je
+−uk−uj θi,k− ηkηjui,kuj,ke
++ ui,lul,je
+−ul−uj θi,l− ηlηjui,luj,le
+
+p∧ ϖp
+−up−uj θi,p− ηpηjui,puj,pe
+
+ui,pup,je
+
+ϖi
+
+j
+
+−uj−uq θq,i− ηiηj(uj,iq+ uj,i(uj,q− ui,q)) e
+−ui−uq θq,j
+−2upθi,j+ ηiηjup,iuj,pe
+−ui−upθp,j
+−uj−uj θj,i+(ui,jk+ ui,j(ui,k− uj,k)) e
+−uj−uk θk,i
+−uj−ulθl,i− ηiηj(uj,ii+ uj,i(uj,i− ui,i)) e
+−ui−uiθi,j
+−ui−uk θk,j− ηiηj(uj,il+ uj,i(uj,l− ui,l)) e
+−2uk θi,j+ ηiηjuk,iuj,ke
+−ui−uk θk,j
+−2ulθi,j+ ηiηjul,iuj,le
+−ui−ulθl,j
+
+−ui−ulθl,j
+
+Calculs pratiques en relativit´e g´en´erale
+
+60
+
+David Pigeon
+
+CHAPITRE 1. CALCULS DES OBJETS ASSOCI´ES `A LA COURBURE POUR LES M´ETRIQUES
+DIAGONALES
+
+1.3. TENSEUR DE COURBURE ET TENSEUR DE RIEMANN
+
+[(ui,jp+ ui,j(ui,p− uj,p)− ui,pup,j) e
+= ∑
+p≠i,j
++⎡⎢⎢⎢⎢⎣(ui,jj+ ui,j(ui,j− uj,j)) e
+
+−ui−upθp,j]
+−uj−upθp,i− ηiηj(uj,ip+ uj,i(uj,p− ui,p)− up,iuj,p) e
+⎤⎥⎥⎥⎥⎦ θj,i
+−2up
+
+−2ui+ ηj ∑
+p≠i,j
+
+−2uj+ ηiηj(uj,ii+ uj,i(uj,i− ui,i)) e
+
+ηpui,puj,pe
+
+Exemple 1.3.4.5: Suite 5 de la m´etrique h
+
+On reprend l’exemple avec la m´etrique h (voir 1.1.4.1, 1.1.5.1, 1.2.5.5, 1.2.6.3 et 1.2.6.5) avec :
+
+● On a :
+
+● On a :
+
+Ω2
+
+● On a :
+
+Ω1
+
+−u1−u2θ2,0
+−u1−u3θ3,0
+
+u0(t, r)∶= u(t, r)
+u1(t, r)∶= v(t, r)
+u2(t, r)∶= b(t)+ ln(r)
+u3(t, r, ϑ)∶= b(t)+ ln(r)+ ln sin(ϑ)
+0=(u1,02+ u1,0(u1,2− u0,2)− u1,2u2,0) e
+−u2−u0θ2,1
++ η1η0(u2,1u0,2− u0,12+ u0,1(u1,2− u0,2)) e
++(u1,03+ u1,0(u1,3− u0,3)− u1,3u3,0) e
+−u3−u0θ3,1
++ η1η0(u3,1u0,3− u0,13+ u0,1(u1,3− u0,3)) e
++[(u1,00+ u1,0(u1,0− u0,0)) e
+−2u0+ η1η0(u0,11+ u0,1(u0,1− u1,1)) e
+−2u3] θ0,1
++[η0η2u1,2u0,2e
+−2u2+ η0η3u1,3u0,3e
+=[(u1,00+ u1,0(u1,0− u0,0)) e
+−2u0+ η1η0(u0,11+ u0,1(u0,1− u1,1)) e
+′)) e
+′(u
+−2u−(u
+=[(¨v+ ˙v( ˙v− ˙u)) e
+−2v] θ0,1
+′′+ u
+′− v
+0=(u2,01+ u2,0(u2,1− u0,1)− u2,1u1,0) e
+−u1−u0θ1,2
++ η2η0(u1,2u0,1− u0,21+ u0,2(u2,1− u0,1)) e
+−u2−u1θ1,0
++(u2,03+ u2,0(u2,3− u0,3)− u2,3u3,0) e
+−u3−u0θ3,2
++ η2η0(u3,2u0,3− u0,23+ u0,2(u2,3− u0,3)) e
+−u2−u3θ3,0
++[(u2,00+ u2,0(u2,0− u0,0)) e
+−2u3] θ0,2
++[η0η1u2,1u0,1e
+−2u1+ η0η3u2,3u0,3e
+=(u2,0(u2,1− u0,1)− u2,1u1,0) e
++ η0η1u2,1u0,1e
+−2u1θ0,2
+−u−vθ1,2+[(¨b+ ˙b(˙b− ˙u)) e
+′)− r
+=(˙b(r
+−1 ˙v) e
+−1− u
+0=(u3,01+ u3,0(u3,1− u0,1)− u3,1u1,0) e
+−u1−u0θ1,3
++ η3η0(u1,3u0,1− u0,31+ u0,3(u3,1− u0,1)) e
++(u3,02+ u3,0(u3,2− u0,2)− u3,2u2,0) e
+−u2−u0θ2,3
++ η3η0(u2,3u0,2− u0,32+ u0,3(u3,2− u0,2)) e
++[(u3,00+ u3,0(u3,0− u0,0)) e
+−2u0+ η3η0(u0,33+ u0,3(u0,3− u3,3)) e
+−2u2] θ0,3
++[η0η1u3,1u0,1e
+−2u1+ η0η2u3,2u0,2e
+=(u3,0(u3,1− u0,1)− u3,1u1,0) e
+−u1−u0θ1,3+(u3,0u3,2− u3,2u2,0) e
+−2u1] θ0,3
++[(u3,00+ u3,0(u3,0− u0,0)) e
+−2u0+ η0η1u3,1u0,1e
+−u−vθ1,3+[(¨b+ ˙b(˙b− ˙u)) e
+−1 ˙v) e
+′)− r
+=(˙b(r
+−2u− r
+−1− u
+−1u
+′
+
+−2u0+ η2η0(u0,22+ u0,2(u0,2− u2,2)) e
+−u1−u0θ1,2+[(u2,00+ u2,0(u2,0− u0,0)) e
+−2v] θ0,2
+
+−2u− r
+−u3−u1θ1,0
+−u3−u2θ2,0
+
+−1u
+′
+
+e
+
+e
+
+Ω3
+
+−2u1] θ0,1
+−2u1] θ0,1
+
+−2u2] θ0,2
+−2u0] θ0,2
+
+−2u3] θ0,3
+−u2−u0θ2,3
+−2v] θ0,3
+
+David Pigeon
+
+61
+
+Calculs pratiques en relativit´e g´en´erale
+
+CHAPITRE 1. CALCULS DES OBJETS ASSOCI´ES `A LA COURBURE POUR LES M´ETRIQUES
+DIAGONALES
+
+1.3. TENSEUR DE COURBURE ET TENSEUR DE RIEMANN
+
+● On a :
+
+● On a :
+
+● On a :
+
+−2u2] θ1,2
+
+Ω2
+
+Ω3
+
+e
+
+−2u0] θ1,2
+−2u] θ1,2
+
+−u2−u0θ0,1
+−u2−u3θ3,1
+
+−u3−u0θ0,1
+−u3−u2θ2,1
+
+1=(u2,10+ u2,1(u2,0− u1,0)− u2,0u0,1) e
+−u0−u1θ0,2
++ η2η1(u0,2u1,0− u1,20+ u1,2(u2,0− u1,0)) e
++(u2,13+ u2,1(u2,3− u1,3)− u2,3u3,1) e
+−u3−u1θ3,2
++ η2η1(u3,2u1,3− u1,23+ u1,2(u2,3− u1,3)) e
++[(u2,11+ u2,1(u2,1− u1,1)) e
+−2u1+ η2η1(u1,22+ u1,2(u1,2− u2,2)) e
+−2u3] θ1,2
++[η1η0u2,0u1,0e
+−2u0+ η1η3u2,3u1,3e
+=(u2,1(u2,0− u1,0)− u2,0u0,1) e
+−u0−u1θ0,2
++[(u2,11+ u2,1(u2,1− u1,1)) e
+−2u1+ η1η0u2,0u1,0e
+−1(˙b− ˙v)− ˙bu
+=(r
+′) e
+−u−vθ0,2+[−r
+−2v− ˙v ˙be
+′
+−1v
+1=(u3,10+ u3,1(u3,0− u1,0)− u3,0u0,1) e
+−u0−u1θ0,3
++ η3η1(u0,3u1,0− u1,30+ u1,3(u3,0− u1,0)) e
++(u3,12+ u3,1(u3,2− u1,2)− u3,2u2,1) e
+−u2−u1θ2,3
++ η3η1(u2,3u1,2− u1,32+ u1,3(u3,2− u1,2)) e
++[(u3,11+ u3,1(u3,1− u1,1)) e
+−2u1+ η3η1(u1,33+ u1,3(u1,3− u3,3)) e
++[η1η0u3,0u1,0e
+−2u2] θ1,3
+−2u0+ η1η2u3,2u1,2e
+−u0−u1θ0,3+(u3,1u3,2− u3,2u2,1) e
+=(u3,1(u3,0− u1,0)− u3,0u0,1) e
++[(u3,11+ u3,1(u3,1− u1,1)) e
+−2u1+ η1η0u3,0u1,0e
+−1(˙b− ˙v)− ˙bu
+=(r
+−u−vθ0,3+[−r
+′) e
+−2v− ˙v ˙be
+′
+−1v
+2=(u3,20+ u3,2(u3,0− u2,0)− u3,0u0,2) e
+−u0−u2θ0,3
++ η3η2(u0,3u2,0− u2,30+ u2,3(u3,0− u2,0)) e
+−u3−u0θ0,2
++(u3,21+ u3,2(u3,1− u2,1)− u3,1u1,2) e
+−u1−u2θ1,3
++ η3η2(u1,3u2,1− u2,31+ u2,3(u3,1− u2,1)) e
+−u3−u1θ1,2
++[(u3,22+ u3,2(u3,2− u2,2)) e
+−2u1] θ2,3
++[η2η0u3,0u2,0e
+−2u0+ η2η1u3,1u2,1e
+=u3,2(u3,0− u2,0) e
+−u0−u2θ0,3+ u3,2(u3,1− u2,1) e
+−u1−u2θ1,3
++[(u3,22+(u3,2)2) e
+−2u0+ η2η1u3,1u2,1e
+−2u2+ η2η0u3,0u2,0e
+−2b−(˙b)2
+−2u+ r
+−2v] θ2,3
+=[−r
+−2e
+−2e
+
+−2u2+ η3η2(u2,33+ u2,3(u2,3− u3,3)) e
+−2u1] θ2,3
+
+−2u0] θ1,3
+−2u] θ1,3
+
+e
+
+e
+
+Ω3
+
+−2u3] θ1,3
+−u2−u1θ2,3
+
+−2u3] θ2,3
+
+1.3.5 Calculs pratiques dans C⊥ et C∗⊥
+
+On commence par un lien entre les Ri
+
+jkl et les Ωi
+j.
+
+Calculs pratiques en relativit´e g´en´erale
+
+62
+
+David Pigeon
+
+CHAPITRE 1. CALCULS DES OBJETS ASSOCI´ES `A LA COURBURE POUR LES M´ETRIQUES
+DIAGONALES
+
+1.3. TENSEUR DE COURBURE ET TENSEUR DE RIEMANN
+
+Lemme 1.3.5.1: Lien avec les 2-formes Ωi
+j
+
+On a :
+
+D´emonstration. On a par d´efinition des Ri
+jkl :
+Ri
+
+jkl= Ωi
+
+j(θk, θl) .
+
+Ri
+
+jkl= θi(R(θk, θl) θj)
+j(θk, θl) θl)
+= θi(Ωl
+= Ωl
+j(θk, θl) δi
+= Ωi
+j(θk, θl)
+
+l
+
+On a donc :
+
+Ri
+
+jil= Ωi
+=dϖi
+
+j(θi, θl)
+j(θi, θl)+ ϖi
+
+p∧ ϖp
+
+j(θi, θl)
+
+Le lemme suivant donne la valeur de chaque terme de droite.
+
+Lemme 1.3.5.2: Lemme pr´eparatoire au calcul des tenseurs de Riemann
+
+Soit i, j, k, l tels que{0, 1, 2, 3}={i, j, k, l} et p≠ i, j.
+
+(i) (a) On a :
+
+(b) On a :
+
+(ii) (a) On a :
+
+(b) On a :
+
+dϖi
+
+D´emonstration.
+
+(i) (a) On a :
+
+(b) On a :
+
+p∧ ϖp
+
+ϖi
+
+ϖi
+
+l ui,lul,je
+
+j(θi, θl)= δp
+p∧ ϖp
+−ul−uj .
+j(θi, θj)=−ηpηjui,puj,pe
+p∧ ϖp
+−2up.
+j(θi, θl)=−(ui,jl+ ui,j(ui,l− uj,l)) e
+−uj−ul.
+
+ϖi
+
+dϖi
+
+j(θi, θj)=−(ui,jj+ ui,j(ui,j− uj,j)) e
+p∧ ϖp
+
+ϖi
+
+−2uj− ηiηj(uj,ii+ uj,i(uj,i− ui,i)) e
+−2upθi,j(θi, θl)
+
+−2ui.
+
+−ui−upθp,j(θi, θl)
+
+j(θi, θl)=ui,pup,je
+−up−uj θi,p(θi, θl)− ηpηjui,puj,pe
++ ηiηjup,iuj,pe
+−up−uj θi,p(θi, θl)
+=ui,pup,je
+=δp
+−ul−uj
+−up−uj θi,p(θi, θj)− ηpηjui,puj,pe
+
+j(θi, θj)=ui,pup,je
+
+l ui,lul,je
+
+−ui−upθp,j(θi, θj)
++ ηiηjup,iuj,pe
+−2upθi,j(θi, θj)
+=− ηpηjui,puj,pe
+=− ηpηjui,puj,pe
+−2up
+
+−2upθi,j(θi, θj)
+
+David Pigeon
+
+63
+
+Calculs pratiques en relativit´e g´en´erale
+
+CHAPITRE 1. CALCULS DES OBJETS ASSOCI´ES `A LA COURBURE POUR LES M´ETRIQUES
+DIAGONALES
+
+1.3. TENSEUR DE COURBURE ET TENSEUR DE RIEMANN
+
+(ii) (a) On a :
+
+(b) On a :
+
+dϖi
+
+j(θi, θl)=(ui,jq+ ui,j(ui,q− uj,q)) e
+−uj−uq θq,i(θi, θl)
+− ηiηj(uj,iq+ uj,i(uj,q− ui,q)) e
+−uj−uq θq,i(θi, θl)
+=(ui,jq+ ui,j(ui,q− uj,q)) e
+=−(ui,jl+ ui,j(ui,l− uj,l)) e
+−uj−ul
+
+−ui−uq θq,j(θi, θl)
+
+dϖi
+
+j(θi, θj)=(ui,jq+ ui,j(ui,q− uj,q)) e
+− ηiηj(uj,iq+ uj,i(uj,q− ui,q)) e
+j(ui,jq+ ui,j(ui,q− uj,q)) e
+=− δq
+=−(ui,jj+ ui,j(ui,j− uj,j)) e
+
+−uj−uq θq,i(θi, θj)
+−ui−uq θq,j(θi, θj)
+i ηiηj(uj,iq+ uj,i(uj,q− ui,q)) e
+−uj−uq− δq
+−2uj− ηiηj(uj,ii+ uj,i(uj,i− ui,i)) e
+−2ui
+
+−ui−uq
+
+On en d´eduit les valeurs exactes des composantes du tenseur de Riemann Ri
+
+jkl.
+
+(i) On a :
+
+Th´eor`eme 1.3.5.3: Valeurs des tenseurs de Riemann
+
+Soit i, j, k, l tels que{0, 1, 2, 3}={i, j, k, l}.
+jil=−(ui,jl+ ui,j(ui,l− uj,l)− ui,lul,j) e
+iil=−ηiηjRi
+ili=−Rj
+jli=−Ri
+
+Ri
+Rj
+Rj
+Ri
+
+jil
+
+jil
+
+iil
+
+−uj−ul
+
+(ii) On a :
+
+et :
+
+Ri
+
+jij=−(ui,jj+ ui,j(ui,j− uj,j)) e
+− ηkηjui,kuj,ke
+
+−2uj− ηiηj(uj,ii+ uj,i(uj,i− ui,i)) e
+−2uk− ηlηjui,luj,le
+−2ul
+iij=−ηiηjRi
+
+jij.
+
+Rj
+
+−2ui
+
+(iii) Toutes les autres valeurs du tenseur de Riemann sont nulles.
+
+D´emonstration.
+
+(i) On a :
+
+Ri
+
+j(θi, θl)
+j(θi, θl)+ ϖi
+j(θi, θl)+ ϖi
+
+jil= Ωi
+=dϖi
+p∧ ϖp
+j(θi, θl)
+l∧ ϖl
+j(θi, θl)+ ϖi
+k∧ ϖk
+=dϖi
+=−(ui,jl+ ui,j(ui,l− uj,l)) e
+−uj−ul+ ui,lul,je
+=−(ui,jl+ ui,j(ui,l− uj,l)− ui,lul,j) e
+−uj−ul
+
+j(θi, θl)
+−ul−uj
+
+Calculs pratiques en relativit´e g´en´erale
+
+64
+
+David Pigeon
+
+CHAPITRE 1. CALCULS DES OBJETS ASSOCI´ES `A LA COURBURE POUR LES M´ETRIQUES
+DIAGONALES
+
+1.3. TENSEUR DE COURBURE ET TENSEUR DE RIEMANN
+
+(ii) On a :
+
+Ri
+
+l∧ ϖl
+
+j(θi, θj)
+jij=Ωi
+=dϖi
+j(θi, θj)+ ϖi
+p∧ ϖp
+j(θi, θj)
+=dϖi
+k∧ ϖk
+j(θi, θj)+ ϖi
+j(θi, θj)+ ϖi
+=−(ui,jj+ ui,j(ui,j− uj,j)) e
+−2uj− ηiηj(uj,ii+ uj,i(uj,i− ui,i)) e
+− ηkηjui,kuj,ke
+−2uk− ηlηjui,luj,le
+−2ul
+i= 0, on a pour tous p, q :
+ipq= 0.
+qii= 0.
+
+j est une forme altern´ee, on a :
+
+j(θi, θj)
+
+Rp
+
+Ri
+
+−2ui
+
+jkl= 0.
+
+Par l’expression g´en´erale trouv´ee des Ωi
+
+j dans la proposition 1.3.4.4, Ri
+
+(iii) Comme Ωi
+
+Comme Ωi
+
+On reprend l’exemple avec la m´etrique h (voir 1.1.4.1, 1.1.5.1, 1.2.5.5, 1.2.6.3, 1.2.6.5 et 1.3.4.5) avec :
+
+On en d´eduit les valeurs dans le cas de la m´etrique h.
+
+Exemple 1.3.5.4: Suite 6 de la m´etrique h
+
+On ´etudie deux cas :
+
+(1) Calculs des Ri
+
+jij
+
+jil.
+
+jij.
+
+R0
+
+(1) Ri
+
+● Cas o`u i∶= 0. On a :
+
+u0(t, r)∶= u(t, r)
+u2(t, r)∶= b(t)+ ln(r)
+
+u1(t, r)∶= v(t, r)
+u3(t, r, ϑ)∶= b(t)+ ln(r)+ ln sin(ϑ)
+, (2) Ri
+101=−(u0,11+ u0,1(u0,1− u1,1)) e
+−2u1
+− η0η1(u1,00+ u1,0(u1,0− u0,0)) e
+−2u0
+−2u2− η3η1u0,3u1,3e
+− η2η1u0,2u1,2e
+−2u3
+−2u1− η0η1(u1,00+ u1,0(u1,0− u0,0)) e
+=−(u0,11+ u0,1(u0,1− u1,1)) e
+′)) e
+′(u
+=−(u
+′− v
+′′+ u
+● Cas o`u j∶= 2, 3 (k∶= 3, 2). On a :
+j0j=−(u0,jj+ u0,j(u0,j− uj,j)) e
+−2uj
+− η0ηj(uj,00+ uj,0(uj,0− u0,0)) e
+−2u0
+−2u1− ηkηju0,kuj,ke
+− η1ηju0,1uj,1e
+−2uk
+−2u0− η1ηju0,1uj,1e
+=− η0ηj(uj,00+ uj,0(uj,0− u0,0)) e
+=(¨b+ ˙b(˙b− ˙u)) e
+−2u− r
+−2v
+−1u
+′
+j1j=−(u1,jj+ u1,j(u1,j− uj,j)) e
+−2uj
+− η1ηj(uj,11+ uj,1(uj,1− u1,1)) e
+−2u1
+−2u0− ηkηju1,kuj,ke
+− η0ηju1,0uj,0e
+−2uk
+−2u1− η0ηju1,0uj,0e
+=− η1ηj(uj,11+ uj,1(uj,1− u1,1)) e
+=− r
+−2v+ ˙v ˙be
+−1v
+−2u
+
+−2v−2b+(¨v+ ˙v( ˙v− ˙u)) e
+
+−2b−2u
+
+−2u0
+
+−2u1
+
+R0
+
+R1
+
+′
+
+e
+
+e
+
+−2u0
+
+David Pigeon
+
+65
+
+Calculs pratiques en relativit´e g´en´erale
+
+CHAPITRE 1. CALCULS DES OBJETS ASSOCI´ES `A LA COURBURE POUR LES M´ETRIQUES
+DIAGONALES
+
+1.3. TENSEUR DE COURBURE ET TENSEUR DE RIEMANN
+
+● Cas o`u i∶= 2. On a :
+
+R2
+
+323=−(u2,33+ u2,3(u2,3− u3,3)) e
+−2u3
+− η2η3(u3,22+ u3,2(u3,2− u2,2)) e
+−2u2
+−2u0− η1η3u2,1u3,1e
+− η0η3u2,0u3,0e
+−2u1
+=− η2η3(u3,22+(u3,2)2) e
+−2u2
+− η0η3u2,0u3,0e
+−2u0− η1η3u2,1u3,1e
+−2u1
+−2b+(˙b)2
+−2u− r
+=r
+−2v
+−2e
+−2e
+
+e
+
+−uj−ul
+
+jil=−(ui,jl+ ui,j(ui,l− uj,l)+ ui,lul,j) e
+=−(ui,j(ui,l− uj,l)+ ui,lul,j) e
+−uj−ul
+3il=−(ui,3(ui,l− u3,l)+ ui,lul,3) e
+−u3−ul= 0
+ji3=−(ui,j(ui,3− uj,3)+ ui,3ul,j) e
+−uj−u3= 0
+
+Ri
+Ri
+
+Les autres termes se calculent par sym´etrie.
+
+(2) Calculs des Ri
+
+jil. On a :
+Ri
+
+● Cas o`u j, l= 3. On a :
+
+−u2−ul= 0
+−uj−u2= 0
+−u2−ul
+
+−uj−u2
+
+R3
+
+Ri
+Ri
+
+● Cas o`u i∶= 0, 1 (donc j, l= 1, 0= 1− i). On a :
+
+2il=−(ui,2(ui,l− u2,l)+ ui,lul,2) e
+ji2=−(ui,j(ui,2− uj,2)+ ui,2u2,j) e
+● Cas o`u i∶= 3. On a pour j, l= 0, 1 :
+230=−(u3,2(u3,l− u2,l)− u3,lul,2) e
+=−(u3,2(u2,l− u2,l)) e
+−u2−ul
+= 0
+j32=−(u3,j(u3,2− uj,2)− u3,2u2,j) e
+=−(u3,ju3,2− u3,2u2,j) e
+−uj−u2
+=−(u2,ju3,2− u3,2u2,j) e
+−uj−u2
+= 0
+0i1=−(ui,0(ui,1− u0,1)− ui,1u1,0) e
+=−(˙b(r
+′)− r
+−1 ˙v) e
+−1− u
+−u−v
+1i0=−(ui,1(ui,0− u1,0)− ui,0u0,1) e
+′ ˙b) e
+−1(˙b− ˙v)− u
+=−(r
+−u−v
+
+● Cas o`u i∶= 2, 3. On a :
+
+R3
+
+Ri
+
+Ri
+
+Ce sont les seuls termes non nuls du type Ri
+
+jil.
+
+−u0−u1
+−u1−u0
+
+Calculs pratiques en relativit´e g´en´erale
+
+66
+
+David Pigeon
+
+CHAPITRE 1. CALCULS DES OBJETS ASSOCI´ES `A LA COURBURE POUR LES M´ETRIQUES
+DIAGONALES
+
+1.4. TENSEUR DE RICCI
+
+1.4 Tenseur de Ricci
+
+1.4.1 G´en´eralit´es
+
+Le tenseur de courbure R est de type(1, 3), on peut donc contracter l’exposant avec le deuxi`eme indice.
+
+2
+
+D´efinition 1.4.1.1: Le tenseur de Riemann
+
+Le tenseur de Ricci est d´efini par :
+
+i.e. on a pour tous champs de vecteurs Y et Z :
+
+Ric=[R]1
+Ric(Y, Z)=[R]1
+1.4.2 Calcul des composantes dans E et E∗
+Les composantes du tenseur de Ricci dans E et E∗ sont :
+
+D´efinition 1.4.2.1: Le tenseur de Riemann
+
+2(Y, Z).
+
+On a donc la d´ecomposition :
+
+RRjl∶= Ric(ej, el).
+Ric= RRjl ej⊗ el.
+
+Xz→ R(X, Y)Z.
+
+On peut donc regarder la trace de cette application lin´eaire.
+
+Proposition 1.4.2.2: Propri´et´es usuelles
+
+Soit j, k, l, n∈{0, 1, 2, 3} et deux champs de vecteurs Y et Z.
+RRjl= RRlj.
+
+(i) (Sym´etrie) On a :
+
+(ii) (a) On a :
+
+(b) On a :
+
+(iii) (Identit´e de Bianchi contract´ee) On a :
+
+Ric(Y, Z)= tr(Xz→ R(X, Y)Z) .
+
+RRjl= RRi
+
+jil.
+
+∇nRRjl−∇lRRjn=−∇kRRk
+
+jln.
+
+On montre ensuite les propri´et´es usuelles du tenseur de Ricci. Pour le point (ii), on remarque que pour
+tous champs de vecteurs Y et Z, on a une application lin´eaire de T M (en chaque point p de M , on a une
+application lin´eaire de TpM ) :
+
+D´emonstration.
+
+(i) On utilise les trois premiers points de la proposition 1.3.2.3.
+
+● Par le point (i), on a :
+
+RRijkl+ RRiklj+ RRiljk= 0
+
+David Pigeon
+
+67
+
+Calculs pratiques en relativit´e g´en´erale
+
+CHAPITRE 1. CALCULS DES OBJETS ASSOCI´ES `A LA COURBURE POUR LES M´ETRIQUES
+DIAGONALES
+
+1.4. TENSEUR DE RICCI
+
+● Par le point (iii), on a :
+
+i.e. on a :
+
+● Par le point (ii), on a :
+
+i.e. on a :
+
+on a :
+
+Ainsi on a :
+
+gkiRRiklj= gikRRiklj
+=−gikRRkilj
+=−gkiRRikjl
+gkiRRiklj= 0.
+0= gki(RRijkl+ RRiklj+ RRiljk)
+= RRk
+jkl+ 0+ RRk
+= RRjl− RRk
+= RRjl− RRlj
+
+ljk
+
+lkj
+
+RRjl= RRlj.
+tr(ϕ)∶= ei(ϕ(ei)) .
+R= RRi
+mkn ei⊗ em⊗ ek⊗ en
+mkn ek(ei)em⊗ en
+[R]1
+2= RRi
+= RRi
+i em⊗ en
+min em⊗ en
+= RRi
+2(ej, el)
+Ric(ej, el)=[R]1
+=(RRi
+min em⊗ en)(ej, el)
+= RRi
+mkn em(ej)en(el)
+= RRi
+= RRi
+
+min δm
+
+mkn δk
+
+j δn
+l
+
+jil
+
+(ii) On montre les deux points en mˆeme temps. On rappelle que pour tout endomorphisme ϕ de T M , la
+
+trace de ϕ est d´efinie par :
+
+La trace est ind´ependante de la base choisie.
+Comme :
+
+et d’un autre cˆot´e, on a :
+
+tr(Xz→ R(X, ej)el)= ep(R(ep, ep)el)
+
+mkn em(el)ek(ep)en(ej)ei)
+
+j ep(ei)
+
+l δk
+
+p δn
+
+mkn δm
+lpj δp
+i
+
+= ep(RRi
+= RRi
+= RRi
+= RRi
+= RRi
+
+jil
+
+lij
+
+D’o`u le r´esultat par bilin´earit´e de Ric et de(Y, Z)z→ tr(Xz→ R(X, Y)Z).
+
+Calculs pratiques en relativit´e g´en´erale
+
+68
+
+David Pigeon
+
+CHAPITRE 1. CALCULS DES OBJETS ASSOCI´ES `A LA COURBURE POUR LES M´ETRIQUES
+DIAGONALES
+
+1.4. TENSEUR DE RICCI
+
+(iii) On utilise les point (ii) et (iv) de la proposition 1.3.2.3.
+
+● Par le point (iv), on a :
+
+● Ainsi avec le point (ii), on a :
+
+i.e. on a :
+
+∇nRRijkl+∇kRRijln+∇lRRijnk= 0.
+∇nRRijkl+∇jRRiknl+∇kRRinjl= 0.
+0= gki(∇nRRijkl+∇kRRijln+∇lRRijnk)
+=∇nRRk
+jkl+∇kRRk
+jln+∇lRRk
+=∇nRRjl+∇kRRk
+jln−∇lRRk
+∇nRRjl−∇lRRjn=−∇kRRk
+
+jln.
+
+jkn
+
+jnk
+
+Exemple 1.4.2.3: Composantes du tenseur de Ricci dans les bases C et C⊥
+(i) Les composantes du tenseur de Ricci dans C et C∗ sont :
+
+ikj.
+
+On a donc la d´ecomposition :
+
+On a donc la d´ecomposition :
+
+(ii) Les composantes du tenseur de Ricci dans C⊥ et C∗⊥ sont :
+
+Rij∶= Rk
+Ric= Rjl dxj⊗ dxl.
+Rij∶= Rk
+Ric= Rjl θj⊗ θl.
+Rij= e
+−ui−uj Rij.
+1.4.3 Calcul des composantes dans C et C∗
+ij+ Γp
+jl− ∂lΓi
+
+Rjl= ∂iΓi
+
+Lemme 1.4.3.1: Propri´et´es usuelles
+
+ip− Γp
+
+ijΓi
+lp.
+
+On a :
+
+On a :
+
+jlΓi
+
+ikj.
+
+D´emonstration. On a par la proposition 1.3.3.1 :
+
+Rjl= Ri
+= ∂iΓi
+
+jil
+
+jl− ∂lΓi
+
+ij+ Γp
+
+jlΓi
+
+ip− Γp
+
+ijΓi
+
+lp
+
+David Pigeon
+
+69
+
+Calculs pratiques en relativit´e g´en´erale
+
+CHAPITRE 1. CALCULS DES OBJETS ASSOCI´ES `A LA COURBURE POUR LES M´ETRIQUES
+DIAGONALES
+
+1.4. TENSEUR DE RICCI
+
+i,i∶=∑
+k≠i
+
+ˆu2
+
+u2
+k,i
+
+ˆuij,j∶= ∑
+k≠i,j
+
+uk,j
+
+ˆuij,jj∶= ∑
+k≠i,j
+
+uk,jj
+
+Notation 1.4.3.2: La notation chapeau
+
+Th´eor`eme 1.4.3.3: Valeurs exactes des Rjl
+
+uk,jj
+
+uk,i
+
+On note
+
+ˆui,i∶=∑
+k≠i
+
+ˆui,jj∶=∑
+k≠i
+Soit j, l∈{0, 1, 2, 3} distincts. On a :
+Rjl=−⎡⎢⎢⎢⎢⎣∑
+Rjj=−(ˆuj,jj+ ˆu2
+
+p≠j,l
+
+up,jl− uj,lup,j− ul,jup,l+ up,jup,l
+j,j− uj,j ˆuj,j)− ηj∑
+p≠j
+
+⎤⎥⎥⎥⎥⎦
+ηp[uj,pp+ uj,p(ˆup,p− up,p)] e2uj−2up
+
+● On a :
+
+● On a :
+
+D´emonstration. On a deux cas.
+
+il
+
+ilΓl
+
+ipΓp
+
+jpΓp
+ijΓj
+
+jl+ Γi
+
+jl− Γi
+li+ Γi
+
+Rjl=∂iΓi
+li+ Γi
+jl− ∂jΓi
+jl− Γi
+jl− ∂jΓi
+=∂jΓj
+jl+ ∂lΓl
+⎤⎥⎥⎥⎥⎦
+=−⎡⎢⎢⎢⎢⎣∑
+up,jl− uj,lup,j− ul,jup,l+ up,jup,l
+p≠j,l
+ij− Γi
+jj− Γi
+ji+ Γi
+jj− ∂jΓi
+Rjj=∂iΓi
+i,j−(−ηjηiuj,ie2uj−2ui) uj,i
+=∂i(−ηjηiuj,ie2uj−2ui)− ∂jui,j+ ui,p(−ηjηpuj,pe2uj−2up)− u2
+=− ηjηi(uj,ii+ 2uj,i(uj,i− ui,i)) e2uj−2ui− ui,jj− ηjηpui,puj,pe2uj−2up− u2
+i,j+ ηjηiu2
+j,j− uj,j ˆuj,j)− ηj∑
+=−(ˆuj,jj+ ˆu2
+ηp[uj,pp+ uj,p(ˆup,p− up,p)] e
+−2up+2uj
+p≠j
+
+jpΓp
+
+ipΓp
+
+jjΓj
+
+jiΓi
+
+ij
+
+il
+
+j,ie2uj−2ui
+
+On calculera dans la sous-section suivantes les valeurs des composantes du tenseur de Ricci.
+
+On a :
+
+Lemme 1.4.4.1: Propri´et´es usuelles
+
+1.4.4 Calcul des composantes dans C⊥ et C∗⊥
+Rjl= dωi
+j(θi, θl)+ ωi
+j(θi, θl)
+Rjl= Ωi
+= dωi
+j(θi, θl)+ ωi
+
+D´emonstration. On a directement :
+
+k∧ ωk
+
+j(θi, θl) .
+
+k∧ ωk
+
+j(θi, θl)
+
+On en red´eduit les valeurs des composantes du tenseur de Ricci.
+
+Calculs pratiques en relativit´e g´en´erale
+
+70
+
+David Pigeon
+
+CHAPITRE 1. CALCULS DES OBJETS ASSOCI´ES `A LA COURBURE POUR LES M´ETRIQUES
+DIAGONALES
+
+1.4. TENSEUR DE RICCI
+
+Th´eor`eme 1.4.4.2: Valeurs exactes des Rjl
+
+Soit i, j, k, l tels que{0, 1, 2, 3}={i, j, k, l} et p≠ j, l. On a :
+⎤⎥⎥⎥⎥⎦ e
+up,jl− uj,lup,j− ul,jup,l+ up,jup,l
+j,j− uj,j ˆuj,j) e
+ηp[uj,pp+ uj,p(ˆup,p− up,p)] e
+−2uj− ηj∑
+−2up
+p≠j
+
+Rjl=−⎡⎢⎢⎢⎢⎣∑
+Rjj=−(ˆuj,jj+ ˆu2
+
+−uj−ul
+
+p≠j,l
+
+D´emonstration. On a deux cas.
+
+jjl= 0 , Rl
+
+jll
+
+Rj
+
+● Comme :
+
+on a :
+
+● Comme :
+
+on a :
+
+jpl
+
+Rp
+
+Rjl=Rp
+= ∑
+p≠j,l
+=−⎡⎢⎢⎢⎢⎣∑
+p≠j,l
+
+jpl
+
+up,jl− uj,lup,j− ul,jup,l+ up,jup,l
+
+−uj−ul
+
+⎤⎥⎥⎥⎥⎦ e
+
+jjj= 0
+
+Rj
+
+jlj
+
+jpj
+
+Rjj=Rp
+jkj+ Rl
+jij+ Rk
+= Ri
+=−(ui,jj+ ui,j(ui,j− uj,j)) e
+−2uj− ηiηj(uj,ii+ uj,i(uj,i− ui,i)) e
+−2ui
+−2uk− ηlηjui,luj,le
+− ηkηjui,kuj,ke
+−2ul
+−2uj− ηkηj(uj,kk+ uj,k(uj,k− uk,k)) e
+−(uk,jj+ uk,j(uk,j− uj,j)) e
+−2uk
+− ηiηjuk,iuj,ie
+−2ui− ηlηjuk,luj,le
+−2ul
+−2uj− ηlηj(uj,ll+ uj,l(uj,l− ul,l)) e
+−(ul,jj+ ul,j(ul,j− uj,j)) e
+−2ul
+−2uk− ηiηjul,iuj,ie
+− ηkηjul,kuj,ke
+−2ui
+(up,jj+ up,j(up,j− uj,j)) e
+=−∑
+−2uj
+p≠j
+− ηlηj[(uj,ll+ uj,l(uj,l+ uk,l+ ui,l− ul,l))] e
+−2ul
+j,j− uj,j ˆuj,j) e
+=−(ˆuj,jj+ ˆu2
+−2uj− ηj∑
+p≠j
+
+ηp[uj,pp+ uj,p(ˆup,p− up,p)] e
+
+−2up
+
+On en d´eduit les valeurs des composantes pour la m´etriques h.
+
+Exemple 1.4.4.3: Suite 7 de la m´etrique h
+
+On reprend l’exemple avec la m´etrique h (voir 1.1.4.1, 1.1.5.1, 1.2.5.5, 1.2.6.3, 1.2.6.5, 1.3.4.5,
+et 1.3.5.4) avec :
+
+u0(t, r)∶= u(t, r)
+u2(t, r)∶= b(t)+ ln(r)
+
+u1(t, r)∶= v(t, r)
+u3(t, r, ϑ)∶= b(t)+ ln(r)+ ln sin(ϑ)
+
+David Pigeon
+
+71
+
+Calculs pratiques en relativit´e g´en´erale
+
+CHAPITRE 1. CALCULS DES OBJETS ASSOCI´ES `A LA COURBURE POUR LES M´ETRIQUES
+DIAGONALES
+
+1.4. TENSEUR DE RICCI
+
+(1) Premi`ere m´ethode. On utilise le th´eor`eme 1.4.3.3. On traite les ´el´ements non diagonaux puis
+
+−u1−u2= 0
+−u2−ul= 0
+
+⎤⎥⎥⎥⎥⎦ e
+
+−u1−u0
+
+−u1−u0
+
+les ´el´ements diagonaux.
+
+p≠3,l
+p≠j,3
+p≠1,2
+p≠2,l
+
+⎤⎥⎥⎥⎥⎦ e
+−u3−ul= 0
+−u3,lup,3− ul,3up,l+ up,3up,l
+⎤⎥⎥⎥⎥⎦ e
+−uj,3up,j− ul,jup,3+ up,jup,3
+−uj−u3= 0.
+⎤⎥⎥⎥⎥⎦ e
+−u1,2up,1− u2,1up,2+ up,1up,2
+−u1−u2=−[−u2,1u3,2+ u3,1u3,2] e
+⎤⎥⎥⎥⎥⎦ e
+−u2−ul=−[−u2,lu3,2+ u3,2u3,l] e
+−u2,lup,2− ul,2up,l+ up,2up,l
+
+● Termes nuls non diagonaux. On a :
+R3l=−⎡⎢⎢⎢⎢⎣∑
+Rj3=−⎡⎢⎢⎢⎢⎣∑
+R12=−⎡⎢⎢⎢⎢⎣∑
+R2l=−⎡⎢⎢⎢⎢⎣∑
+● Termes non nuls. On a :
+R10=−⎡⎢⎢⎢⎢⎣∑
+up,10− u1,0up,1− u0,1up,0+ up,1up,0
+p≠1,0
+=−[−u1,0u2,1− u0,1u2,0+ u2,1u2,0− u1,0u3,1− u0,1u3,0+ u3,1u3,0] e
+=− 2[−u1,0u2,1− u0,1u2,0+ u2,1u2,0] e
+−u1−u0
+−1] e
+=− 2[− ˙vr
+′+ ˙br
+−1− ˙bu
+−u−v
+−1)] e
+−1+ ˙b(u
+=2[ ˙vr
+′− r
+−u−v
+R00=−[ˆu0,00+ ˆu2
+0,0− u0,0 ˆu0,0] e
+−2u0− η0η1[u0,11+ u0,1(ˆu1,1− u1,1)] e
+−2u1
+−2u2− η0η3[u0,33+ u0,3(ˆu3,3− u3,3)] e
+− η0η2[u0,22+ u0,2(ˆu2,2− u2,2)] e
+−2u3
+0,0− u0,0 ˆu0,0] e
+=−[ˆu0,00+ ˆu2
+−2u0− η0η1[u0,11+ u0,1(ˆu1,1− u1,1)] e
+−2u1
+=−[¨v+ 2¨b+( ˙v)2+ 2(˙b)2− ˙u( ˙v+ 2˙b)] e
+′)] e
+′(u
+−2u+[u
+−1− v
+′′+ u
+′+ 2r
+−2v
+1,1− u1,1 ˆu1,1] e
+R11=−[ˆu1,11+ ˆu2
+−2u1− η1η0[u1,00+ u1,0(ˆu0,0− u0,0)] e
+−2u0
+−2u2− η1η3[u1,33+ u1,3(ˆu3,3− u3,3)] e
+− η1η2[u1,22+ u1,2(ˆu2,2− u2,2)] e
+−2u3
+1,1− u1,1 ˆu1,1] e
+=−[ˆu1,11+ ˆu2
+−2u1− η1η0[u1,00+ u1,0(ˆu0,0− u0,0)] e
+−2u0
+−2v+[¨v+ ˙v( ˙v+ 2˙b− ˙u)] e
+′(u
+′′+(u
+′)2− v
+−1)] e
+′+ 2r
+=−[u
+−2u
+2,2− u2,2 ˆu2,2) e
+R22=−(ˆu2,22+ ˆu2
+−2u2− η2η0[u2,00+ u2,0(ˆu0,0− u0,0)] e
+−2u0
+−2u1− η2η3[u2,33+ u2,3(ˆu3,3− u3,3)] e
+− η2η1[u2,11+ u2,1(ˆu1,1− u1,1)] e
+−2u3
+2,2) e
+=−(ˆu2,22+ ˆu2
+−2u2− η2η0[u2,00+ u2,0(ˆu0,0− u0,0)] e
+−2u0
+− η2η1[u2,11+ u2,1(ˆu1,1− u1,1)] e
+−2u1
+−2b+[¨b+ ˙b( ˙v+ 2˙b− ˙u)] e
+−1) e
+−1(u
+−2u− r
+=r
+′− v
+−2v
+−2e
+R33=−(ˆu3,33+ ˆu2
+3,3− u3,3 ˆu3,3) e
+−2u3− η3η0[u3,00+ u3,0(ˆu0,0− u0,0)] e
+−2u0
+−2u1− η3η2[u3,22+ u3,2(ˆu2,2− u2,2)] e
+− η3η1[u3,11+ u3,1(ˆu1,1− u1,1)] e
+−2u2
+=− η3η0[u3,00+ u3,0(ˆu0,0− u0,0)] e
+−2u0− η3η1[u3,11+ u3,1(ˆu1,1− u1,1)] e
+−2u1
+− η3η2[u3,22+ u3,2(ˆu2,2− u2,2)] e
+−2u2
+−1(u
+−2b+[¨b+ ˙b( ˙v+ 2˙b− ˙u)] e
+−2u− r
+=r
+′− v
+−2e
+
+−1) e
+
+′+ r
+
+′+ r
+
+−2v
+
+(2) Deuxi`eme m´ethode. On utilise la d´efinition 1.4.1.1.
+
+Calculs pratiques en relativit´e g´en´erale
+
+72
+
+David Pigeon
+
+CHAPITRE 1. CALCULS DES OBJETS ASSOCI´ES `A LA COURBURE POUR LES M´ETRIQUES
+DIAGONALES
+
+1.4. TENSEUR DE RICCI
+
+−2u− 2(¨b+ ˙b(˙b− ˙u)) e
+−2u+ 2r
+−1u
+′
+′(u
+−2u+[u
+′)] e
+′′+ u
+′+ 2r
+−1− v
+−2v
+
+−2v
+
+e
+
+020
+
+030
+
+● Cas j∶= 0. On a :
+R00=R0
+000+ R1
+010+ R2
+020+ R3
+=R1
+010+ 2R2
+′)) e
+′(u
+=(u
+−2v−(¨v+ ˙v( ˙v− ˙u)) e
+′′+ u
+′− v
+=−[¨v+ 2¨b+( ˙v)2+ 2(˙b)2− ˙u( ˙v+ 2˙b)] e
+021+ R3
+R01=R0
+011+ R2
+001+ R1
+=2R2
+=2(˙b(u
+−1)+ r
+−1 ˙v) e
+′− r
+−u−v
+032= 0
+022+ R3
+012+ R2
+002+ R1
+R02=R0
+R03=R0
+003+ R1
+013+ R2
+023+ R3
+033= 0
+● Cas j∶= 1. On a :
+
+021
+
+031
+
+−2v+[¨v+ ˙v( ˙v+ 2˙b− ˙u)] e
+
+−2u
+
+e
+
+131
+
+120
+
+130
+
+021
+
+121
+
+110+ R2
+
+120+ R3
+
+R10=R0
+100+ R1
+=2R2
+=2R2
+=R01
+121+ R3
+111+ R2
+101+ R1
+R11=R0
+101+ 2R2
+=R0
+′)) e
+′(u
+=−(u
+−2v+(¨v+ ˙v( ˙v− ˙u)) e
+′′+ u
+′− v
+−2u
+−2v+ 2 ˙v ˙be
++ 2r
+−2u
+′
+−1v
+−1)] e
+′′+(u
+′)2− v
+′(u
+=−[u
+′+ 2r
+132= 0
+122+ R3
+112+ R2
+102+ R1
+R12=R0
+133= 0
+123+ R3
+113+ R2
+103+ R1
+R13=R0
+230= 0
+220+ R3
+210+ R2
+200+ R1
+R20=R0
+231= 0
+221+ R3
+211+ R2
+201+ R1
+R21=R0
+212+ R2
+202+ R1
+R22=R0
+222+ R3
+=R0
+202+ R1
+212+ R3
+=(¨b+ ˙b(˙b− ˙u)) e
+−2u− u
+−2v
+−1e
+′
+−2v+ ˙v ˙be
++ r
+′
+−1v
+−2u
+−2+(˙b)2
+−2u− r
++ r
+−2v
+−2e
+−2+[¨b+ ˙b( ˙v+ 2˙b− ˙u)] e
+−1(u
+−2u− r
+=r
+′− v
+R23=R0
+203+ R1
+213+ R2
+223+ R3
+233= 0
+
+232
+
+232
+
+e
+
+e
+
+r
+
+′+ r
+
+−1) e
+
+−2v
+
+● Cas j∶= 2. On a :
+
+David Pigeon
+
+73
+
+Calculs pratiques en relativit´e g´en´erale
+
+CHAPITRE 1. CALCULS DES OBJETS ASSOCI´ES `A LA COURBURE POUR LES M´ETRIQUES
+DIAGONALES
+
+1.5. COURBURE SCALAIRE
+
+● Cas j∶= 3. On a :
+
+Donc les matrices Rjl et Rjl sont de la forme :
+
+avec :
+
+232
+
+323
+
+333
+
+330= 0
+331= 0
+332= 0
+
+R00 R01
+R10 R11
+0
+0
+
+320+ R3
+321+ R3
+322+ R3
+323+ R3
+
+R30=R0
+300+ R1
+310+ R2
+R31=R0
+301+ R1
+311+ R2
+302+ R1
+R32=R0
+312+ R2
+R33=R0
+303+ R1
+313+ R2
+=R0
+303+ R1
+313+ R2
+=R0
+202+ R1
+212+ R3
+=R22
+⎞⎟⎟⎟⎠
+⎞⎟⎟⎟⎠ , Rjl=⎛⎜⎜⎜⎝
+Rjl=⎛⎜⎜⎜⎝
+−2u+[u
+′)] e
+′(u
+R00=−[¨v+ 2¨b+( ˙v)2+ 2(˙b)2− ˙u( ˙v+ 2˙b)] e
+−1− v
+′′+ u
+′+ 2r
+−2v
+′)] e2u−2v
+R00=−[¨v+ 2¨b+( ˙v)2+ 2(˙b)2− ˙u( ˙v+ 2˙b)]+[u
+′(u
+−1− v
+′′+ u
+′+ 2r
+−1 ˙v) e
+−1)+ r
+R01=2(˙b(u
+′− r
+−u−v
+−1 ˙v)
+−1)+ r
+R01=2(˙b(u
+′− r
+′(u
+′)2− v
+−1)] e
+−2v+[¨v+ ˙v( ˙v+ 2˙b− ˙u)] e
+′′+(u
+′+ 2r
+R11=−[u
+−2u
+′′+(u
+−1)]+[¨v+ ˙v( ˙v+ 2˙b− ˙u)] e
+′(u
+′)2− v
+R11=−[u
+′+ 2r
+−2u+2v
+−1) e
+−2+[¨b+ ˙b( ˙v+ 2˙b− ˙u)] e
+−1(u
+R22=R33= r
+′+ r
+′− v
+−2u− r
+−2v
+R22=1+ r2[¨b+ ˙b( ˙v+ 2˙b− ˙u)] e
+−1) e
+−2u− r1(u
+′+ r
+′− v
+−2v
+R33= sin2 ϑR22
+
+R00 R01
+R10 R11
+0
+0
+
+0
+0
+0
+0 R33
+
+0
+0
+0
+0 R33
+
+0
+0
+0 R22
+0
+
+0
+0
+0 R22
+0
+
+1.5 Courbure scalaire
+
+D´efinition 1.5.0.1: La courbure scalaire
+
+La courbure scalaire est d´efinie par :
+
+S ∶=[[Ric]1]1
+
+.
+
+Comme les op´erations[●]1
+
+1 et[●]1 sont ind´ependantes de la base choisie, S est aussi ind´ependante de la
+
+1
+
+base choisie.
+
+Proposition 1.5.0.2: Propri´et´es usuelles
+
+(i) (a) On a :
+
+S = trgRic.
+
+Calculs pratiques en relativit´e g´en´erale
+
+74
+
+David Pigeon
+
+CHAPITRE 1. CALCULS DES OBJETS ASSOCI´ES `A LA COURBURE POUR LES M´ETRIQUES
+DIAGONALES
+
+1.5. COURBURE SCALAIRE
+
+(ii) (Identit´e de Bianchi deux fois contract´ees)
+
+(b) On a :
+
+(a) On a :
+
+(b) On a :
+
+on a :
+
+et on a :
+
+D´emonstration.
+
+(i) Comme :
+
+S = ggikRRik.
+∇lRRlj= 1
+2∇jS
+∇kRRk
+2∇jS
+j= 1
+ggkl∇kRRlj= 1
+2∇jS
+[[Ric]1]1
+2= 1
+div[Ric]1= 1
+divgRic= 1
+
+dS
+
+dS
+
+dS
+
+2
+
+2
+
+2
+
+∗(α, Ric(●, X))
+
+[Ric]1∶(α, X)z→ g
+Ric= RRkl ek⊗ el
+∗(ei, Ric(●, ej))
+[Ric]1(ei, ej)= g
+∗(ei, RRkl el(ej)ek)
+= g
+jek)
+∗(ei, RRkl δl
+= g
+∗(ei, RRkj ek)
+= g
+∗(ei, ek)
+= RRkjg
+= RRkjggik
+S = tr([Ric]1)
+= ei([Ric]1(●, ei))
+l el(ei)ej)
+= ei(RRj
+= RRj
+iei(ej)
+= RRj
+= RRi
+= ggikRRki
+
+l δl
+i δi
+j
+
+i
+
+∇nRRjl−∇lRRjn+∇kRRk
+
+jln= 0.
+
+(ii) (a) Par l’identit´e de Bianchi contract´ee (voir la proposition 1.4.2.2), on a :
+
+David Pigeon
+
+75
+
+Calculs pratiques en relativit´e g´en´erale
+
+CHAPITRE 1. CALCULS DES OBJETS ASSOCI´ES `A LA COURBURE POUR LES M´ETRIQUES
+DIAGONALES
+
+1.5. COURBURE SCALAIRE
+
+on a alors en recontractant :
+
+Comme :
+
+i.e. on a :
+
+on a :
+
+Pour les deux autres ´egalit´es, il suffit de remarquer que :
+
+(b) On se place dans la base C . Comme :
+
+ggnl∇kRRk
+
+njl= ggnlggkp∇kRRpnjl
+= ggnl∇pRRpnjl
+= ggnl∇pRRnplj
+=∇pRRl
+=∇pRRpj
+=∇pRRjp
+
+plj
+
+njl
+
+0= ggnl(∇nRRjl−∇jRRnl+∇kRRk
+njl)
+= ggnl∇nRRjl− ggnl∇jRRnl+ ggnl∇kRRk
+=∇lRRjl−∇jS+∇pRRjp
+∇lRRjl= 1
+2∇jS .
+∇lRRjl= ggkl∇kRRjl
+=∇kRRk
+
+j
+
+divgRic=[∇[Ric]1]1
+divgRic(∂j)=[∇[Ric]1]1
+2(∂j)
+
+2
+
+j
+
+=∇kRRk
+= 1
+2∇jS
+dS(∂j)
+= 1
+divgRic= 1
+
+dS .
+
+2
+
+2
+
+S = gjjRjj= ηjjRjj.
+S = gjlRjl
+= gjjRjj
+
+Comme cela est vrai pour tout j, on a :
+
+Exemple 1.5.0.3: Exemples de calculs dans les bases C et C⊥
+
+On a donc :
+
+On peut montrer la derni`ere ´egalit´e directement sans utiliser l’invariance par changement de base.
+Comme gjl et ηjl sont diagonales, on a :
+
+Calculs pratiques en relativit´e g´en´erale
+
+76
+
+David Pigeon
+
+CHAPITRE 1. CALCULS DES OBJETS ASSOCI´ES `A LA COURBURE POUR LES M´ETRIQUES
+DIAGONALES
+
+1.5. COURBURE SCALAIRE
+
+= gjje2ujRjj
+= gjjηjgjj
+= ηjRjj
+
+Rjj
+
+1.5.1 Calculs pratiques dans C et C∗
+S = gkl(∂iΓi
+
+On a :
+
+kl− ∂kΓi
+
+li+ Γi
+
+kl− Γi
+
+ipΓp
+
+il) .
+
+kpΓp
+
+Proposition 1.5.1.1: Valeur en fonction des symboles de Christoffel
+
+D´emonstration. On a par le lemme 1.5.0.2 :
+
+S = gklRkl.
+li+ Γi
+kl− ∂kΓi
+kl− ∂kΓi
+li+ Γi
+
+Rkl= ∂iΓi
+S = gkl(∂iΓi
+
+kl− Γi
+kl− Γi
+
+ipΓp
+
+kpΓp
+
+il
+
+ipΓp
+
+kpΓp
+
+il) .
+
+Comme :
+
+on a :
+
+Corollaire 1.5.1.2: Valeur exacte
+
+On a :
+
+S =−∑
+
+k
+
+ηk(2ˆuk,kk+ ˆu2
+
+k,k− 2uk,k ˆuk,k+(ˆuk,k)2) e
+
+−2uk .
+
+D´emonstration. On a :
+
+kkΓk
+
+ipΓp
+ipΓp
+
+kpΓp
+kiΓi
+
+li+ Γi
+kl− ∂kΓi
+kk− ∂kΓi
+ki+ Γi
+
+S =gkl(∂iΓi
+il)
+kl− Γi
+=gkk(∂iΓi
+ik)
+kk− Γi
+ik− Γi
+=ηk(∂i(−ηkηiuk,ie2uk−2ui)− ∂kui,k+ ui,p(−ηkηpuk,pe2uk−2up)− u2
+i,k−(−ηkηiuk,ie2uk−2ui) uk,i) e
+−2uk
+k,ie2uk−2ui) e
+=ηk(−ηkηi(uk,ii+ 2uk,i(uk,i− ui,i)) e2uk−2ui− ui,kk− ηkηpui,puk,pe2uk−2up− u2
+−2uk
+=− ηi(uk,ii+ 2uk,i(uk,i− ui,i)) e
+−2ui− ηkui,kke
+−2uk− ηpui,puk,pe
+−2up− ηku2
+−2ui
+=− ηk(ui,kk+ 2ui,k(ui,k− uk,k)) e
+−2uk− ηkui,kke
+−2uk− ηkui,kup,ke
+−2uk− ηku2
+−2uk
+=− ηk(ui,kk+ 2ui,k(ui,k− uk,k)− ui,kk− ui,kup,k+ u2
+i,k) e
+i,k+ u2
+−2uk
+i,k) e
+=− ηk(2ui,k(ui,k− uk,k)− ui,kup,k+ u2
+−2uk
+=− ηk(2(u2
+i,k− ui,kuk,k)− ui,kup,k) e
+−2uk
+ηk(2ˆuk, kk+ ˆu2k, k− 2uk,k ˆuk, k+(ˆuk, k)2) e
+=−∑
+−2uk
+
+i,k+ ηkηiu2
+−2uk+ ηiu2
+−2uk+ ηku2
+
+i,ke
+
+k,ie
+
+i,ke
+
+i,ke
+
+k
+
+On calcule avec la m´etrique h, la valeur de S en fin de sous-section suivante.
+
+David Pigeon
+
+77
+
+Calculs pratiques en relativit´e g´en´erale
+
+CHAPITRE 1. CALCULS DES OBJETS ASSOCI´ES `A LA COURBURE POUR LES M´ETRIQUES
+DIAGONALES
+
+1.5. COURBURE SCALAIRE
+
+1.5.2 Calculs pratiques dans C⊥ et C∗⊥
+
+Par la formule :
+
+S = ηjRjj
+
+on en d´eduit la valeur de la courbure scalaire.
+
+Th´eor`eme 1.5.2.1: Valeur du tenseur scalaire
+
+On a :
+
+S =−∑
+
+k
+
+ηk(2ˆuk,kk+ ˆu2
+
+k,k− 2uk,k ˆuk,k+(ˆuk,k)2) e
+
+−2uk .
+
+D´emonstration. On a :
+
+j
+
+ηje
+
+S =ηjRjj
+⎛⎝uj,kk+ uj,k(−uk+∑
+=−∑
+(uk,jj+ uk,j(uk− uj),j)−∑
+∑
+−2uj∑
+k≠j
+k≠j
+i≠k
+⎞⎠ e
+⎛⎝uj,kk+ uj,k(−uk+∑
+−2uk−∑
+ui)
+=−∑
+∑
+∑
+i≠k
+j≠k
+j≠k
+⎛⎜⎝2uj,kk+ uj,k
+⎞⎟⎠
+⎛⎝2uj− 2uk+ ∑
+⎞⎠,k
+=−∑
+−2uk∑
+j≠k
+i≠j,k
+k,k− 2uk,k ˆuk,k+(ˆuk,k)2) e
+=−∑
+ηk(2ˆuk,kk+ ˆu2
+−2uk
+
+⎞⎠ e
+−2uk
+−2uk(uj,kk+ uj,k(uj− uk),k)
+
+ui)
+
+ηke
+
+ηke
+
+ηk
+
+ηk
+
+ui
+
+,k
+
+,k
+
+k
+
+k
+
+k
+
+j
+
+k
+
+Exemple 1.5.2.2: Suite 8 de la m´etrique h
+
+On reprend l’exemple avec la m´etrique h (voir 1.1.4.1, 1.1.5.1, 1.2.5.5, 1.2.6.3 , 1.2.6.5, 1.3.4.5 , 1.3.5.4
+et 1.4.4.3) avec :
+
+u0(t, r)∶= u(t, r)
+u2(t, r)∶= b(t)+ ln(r)
+
+u1(t, r)∶= v(t, r)
+u3(t, r, ϑ)∶= b(t)+ ln(r)+ ln sin(ϑ)
+
+On calcule Scal de deux fa¸cons diff´erentes.
+
+(1) Par le th´eor`eme 1.5.2.1, on a :
+
+S =− η0(2ˆu0,00+ ˆu2
+0,0− 2u0,0 ˆu0,0+(ˆu0,0)2) e
+−2u0
+− η1(2ˆu1,11+ ˆu2
+1,1− 2u1,1 ˆu1,1+(ˆu1,1)2) e
+−2u1
+− η2(2ˆu2,22+ ˆu2
+2,2− 2u2,2 ˆu2,2+(ˆu2,2)2) e
+−2u2
+=−(2(¨v+ 2¨b)+( ˙v)2+ 2(˙b)2− 2 ˙u( ˙v+ 2˙b)+( ˙v+ 2˙b)2) e
+−2u
+−2)+(u
++(2(u
+′)2+ 2r
+−1)2) e
+−1)+(u
+′(u
+′′− 2r
+′+ 2r
+′+ 2r
+−2− 2v
+− 2r
+−2e
+−2b
+=− 2[¨v+ 2¨b+( ˙v)2+ 3(˙b)2− ˙u ˙v− 2 ˙u˙b+ 2 ˙v ˙b] e
+−2u
+′)2+ 3r
+−2+(u
+′] e
+′)u
+′+ 2r
+−2− u
+′′− 2r
++ 2[u
+−1(u
+′− v
+−2v− 2r
+′
+
+v
+
+−2v
+
+−2e
+−2b
+
+Calculs pratiques en relativit´e g´en´erale
+
+78
+
+David Pigeon
+
+CHAPITRE 1. CALCULS DES OBJETS ASSOCI´ES `A LA COURBURE POUR LES M´ETRIQUES
+DIAGONALES
+
+1.6. TENSEUR D’EINSTEIN
+
+(2) Par la d´efinition 1.5.0.1, on a :
+
+S =ηjRjj
+=η0R00+ η1R11+ η2R22+ η3R33
+=R00− R11− 2R22
+=−[¨v+ 2¨b+( ˙v)2+ 2(˙b)2− ˙u( ˙v+ 2˙b)] e
+−2u+[u
+′(u
+−1− v
+′′+ u
+′+ 2r
+−2v−[¨v+ ˙v( ˙v+ 2˙b− ˙u)] e
+−1)] e
+′(u
+′)2− v
+′′+(u
++[u
+′+ 2r
+−2u
+−1(u
+−1) e
+−2− 2[¨b+ ˙b( ˙v+ 2˙b− ˙u)] e
+′+ r
+′− v
+− 2r
+−2u+ 2r
+−2v
+=− 2[¨v+ 2¨b+( ˙v)2+ 3(˙b)2− ˙u ˙v− 2 ˙u˙b+ 2 ˙v ˙b] e
+−2u
+′)2+ 3r
+−2+(u
+−2v− 2r
+′)u
+−1(u
+′+ 2r
+−2− u
+′′− 2r
++ 2[u
+′− v
+′] e
+′
+
+−2e
+
+v
+
+−2b
+
+′)] e
+
+−2v
+
+On voit l’efficacit´e de la premi`ere m´ethode qui donne directement une tr`es bonne factorisation.
+
+1.6 Tenseur d’Einstein
+
+D´efinition 1.6.0.1: Le tenseur d’Einstein
+
+Le tenseur d’Einstein est d´efini par :
+
+G ∶= Ric− 1
+G(X, Y)= Ric(X, Y)− 1
+
+2
+
+S g.
+
+i.e. pour tous champs de vecteurs X et Y , on a :
+
+On d´efinit ensuite les composantes de G dans la base E .
+
+S g(X, Y).
+D´efinition 1.6.0.2: Les composantes du tenseur d’Einstein dans E et E∗
+Les composantes du tenseur de Ricci dans E et E∗ sont :
+Proposition 1.6.0.3: Propri´et´es simples du tenseur d’Einstein dans E et E∗
+
+GGjl∶= G(ej, el).
+
+2
+
+(i) (Sym´etrie)
+
+(a) On a :
+
+(b) On a :
+
+(a) On a :
+
+(ii) (Identit´e de Bianchi deux fois contract´ees)
+
+G(X, Y)= G(Y, X).
+
+GGjl= GGlj.
+∇lGGlj= 0
+∇kGGk
+j= 0
+ggkl∇kGGlj= 0
+
+David Pigeon
+
+79
+
+Calculs pratiques en relativit´e g´en´erale
+
+CHAPITRE 1. CALCULS DES OBJETS ASSOCI´ES `A LA COURBURE POUR LES M´ETRIQUES
+DIAGONALES
+
+1.6. TENSEUR D’EINSTEIN
+
+(b) On a :
+
+D´emonstration.
+
+(i) (Sym´etrie)
+
+(a) Comme Ric et g sont sym´etriques, on a :
+
+(b) On a :
+
+(ii) On a par la proposition 1.5.0.2 :
+
+i.e. on a :
+
+Ainsi on a par lin´earit´e de∇ :
+
+[[G]1]1
+2= 0
+div[G]1= 0
+divgG = 0
+
+S g(X, Y)
+S g(Y, X)
+
+2
+
+2
+
+G(X, Y)= Ric(X, Y)− 1
+= Ric(Y, X)− 1
+= G(Y, X)
+GGjl= G(ej, el)
+= G(el, ej)
+= GGlj.
+∇nRRnl= 1
+2∇lS
+ggnl∇nS .
+∇nRRnl= 1
+ggnlS)
+∇nGGnl=∇n(RRnl− 1
+
+2
+
+2
+
+= 0
+
+Exemple 1.6.0.4: Composantes du tenseur d’Einstein dans les bases C et C⊥
+(i) Les composantes du tenseur d’Einstein dans C et C∗ sont :
+
+On a donc la d´ecomposition :
+
+(ii) Les composantes du tenseur d’Einstein dans C⊥ et C∗⊥ sont :
+
+S .
+
+2
+
+gjl
+
+Gjl∶= Rjl− 1
+G = Gjl dxj⊗ dxl.
+Gjl∶= Rjl− 1
+G = Gjl θj⊗ θl.
+Gij= e
+−ui−uj Gij.
+
+2
+
+ηjlS .
+
+On a donc la d´ecomposition :
+
+On a :
+
+Calculs pratiques en relativit´e g´en´erale
+
+80
+
+David Pigeon
+
+CHAPITRE 1. CALCULS DES OBJETS ASSOCI´ES `A LA COURBURE POUR LES M´ETRIQUES
+DIAGONALES
+
+1.6. TENSEUR D’EINSTEIN
+
+Th´eor`eme 1.6.0.5: Valeur du tenseur d’Einstein
+
+Soit j, l∈{0, 1, 2, 3} distincts.
+
+D´emonstration.
+
+(ii) On a :
+
+(ii) On a :
+
+(i) On a :
+
+2
+
+2
+
+2
+
+2
+
+ˆu2
+
+ˆu2
+
+(i) On a :
+
+−uj−ul
+
+⎤⎥⎥⎥⎥⎦ e
+⎤⎥⎥⎥⎥⎦
+
+Gjj= 1
+Gjj= 1
+
+up,jl− uj,lup,j− ul,jup,l+ up,jup,l
+
+ˆuk,k(ˆujk,k− 2uk,k− uj,k)+ uj,kuk,k] e
+k,k+ 1
+−2uk
+ˆuk,k(ˆujk,k− 2uk,k− uj,k)+ uj,kuk,k] e2uj−2uk
+
+up,jl− uj,lup,j− ul,jup,l+ up,jup,l
+up,jl− uj,lup,j− ul,jup,l+ up,jup,l
+ηk[ˆujk,kk+ 1
+k,k+ 1
+
+Gjl=−⎡⎢⎢⎢⎢⎣∑
+p≠j,l
+Gjl=−⎡⎢⎢⎢⎢⎣∑
+p≠j,l
+j,j] e
+2[(ˆuj,j)2− ˆu2
+−2uj+ ηj∑
+k≠j
+j,j]+ ηj∑
+2[(ˆuj,j)2− ˆu2
+ηk[ˆujk,kk+ 1
+k≠j
+Gjl= Rjl=−⎡⎢⎢⎢⎢⎣∑
+Gjj=Rjj− 1
+=−(ˆuj,jj+ ˆu2
+j,j− ˆuj,juj,j) e
+−2uj− ηj∑
+k≠j
+k,k− 2uk,k ˆuk,k+(ˆuk,k)2) e
++ 1
+ηk(2ˆuk,kk+ ˆu2
+ηj∑
+−2uk
+=−(ˆuj,jj+ ˆu2
+j,j− ˆuj,juj,j) e
+−2uj− ηj∑
+k≠j
+k,k− 2uk,k ˆuk,k+(ˆuk,k)2) e
++ 1
+ηk(2ˆuk,kk+ ˆu2
+ηj∑
+−2uk
+k≠j
+j,j− 2uj,j ˆuj,j+(ˆuj,j)2) e
+2(2ˆuj,jj+ ˆu2
++ 1
+−2uj
+k,k− 2uk,k ˆuk,k+(ˆuk,k)2− 2uj,kk− 2uj,k(ˆuk,k− uk,k)) e
+2[(ˆuj,j)2− ˆu2
+j,j] e
+−2uj+ 1
+ηk(2ˆuk,kk+ ˆu2
+= 1
+ηj∑
+k≠j
+ˆuk,k(ˆuk,k− 2uk,k− 2uj,k)+ uj,kuk,k] e
+j,j] e
+2[(ˆuj,j)2− ˆu2
+k,k+ 1
+ηk[ˆuk,kk− uj,kk+ 1
+−2uj+ ηj∑
+= 1
+−2uk
+k≠j
+ˆuk,k(ˆujk,k− 2uk,k− uj,k)+ uj,kuk,k] e
+2[(ˆuj,j)2− ˆu2
+j,j] e
+k,k+ 1
+−2uj+ ηj∑
+ηk[ˆujk,kk+ 1
+= 1
+−2uk
+k≠j
+
+ηk(uj,kk+ uj,k(ˆuk,k− uk,k)) e
+ηk(uj,kk+ uj,k(ˆuk,k− uk,k)) e
+
+⎤⎥⎥⎥⎥⎦ e
+−uj−ul.
+
+−2uk
+
+−2uk
+
+p≠j,l
+
+ηjR
+
+ˆu2
+
+ˆu2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+k
+
+−2uk
+
+Exemple 1.6.0.6: Suite 9 de la m´etrique h
+
+On reprend l’exemple avec la m´etrique h (voir 1.1.4.1, 1.1.5.1,
+
+1.2.5.5, 1.2.6.3 , 1.2.6.5, 1.3.4.5
+
+David Pigeon
+
+81
+
+Calculs pratiques en relativit´e g´en´erale
+
+CHAPITRE 1. CALCULS DES OBJETS ASSOCI´ES `A LA COURBURE POUR LES M´ETRIQUES
+DIAGONALES
+
+1.6. TENSEUR D’EINSTEIN
+
+−2uk
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+ˆu2
+
+ˆu2
+
+ˆu2
+
+ˆu2
+
+On a :
+
+−1− 2v
+
+, 1.3.5.4, 1.4.4.3 et 1.5.2.2) avec :
+
+u1(t, r)∶= v(t, r)
+u3(t, r, ϑ)∶= b(t)+ ln(r)+ ln sin(ϑ)
+ˆuk,k(ˆujk,k− 2uk,k− uj,k)+ uj,kuk,k] e
+k,k+ 1
+
+u0(t, r)∶= u(t, r)
+u2(t, r)∶= b(t)+ ln(r)
+2[(ˆuj,j)2− ˆu2
+j,j] e
+Gjj= 1
+−2uj+ ηj∑
+ηk[ˆujk,kk+ 1
+k≠j
+● Cas j∶= 0. On a :
+2[(ˆu0,0)2− ˆu2
+0,0] e
+G00= 1
+−2u0
+1,1+ 1
++ η0η1[ˆu01,11+ 1
+ˆu1,1(ˆu01,1− 2u1,1− u0,1)+ u0,1u1,1] e
+−2u1
+2,2+ 1
+ˆu2,2(ˆu02,2− 2u2,2− u0,2)+ u0,2u2,2] e
++ η0η2[ˆu02,22+ 1
+−2u2
++ η0η3[ˆu03,33+ 1
+3,3+ 1
+ˆu3,3(ˆu03,3− 2u3,3− u0,3)+ u0,3u3,3] e
+−2u3
+2[( ˙v+ 2˙b)2−( ˙v)2− 2(˙b)2] e
+= 1
+−2u
+′)+ u
+2((u
+′)2+ 2r
+2(u
+−1)(2r
+′] e
+′− u
+−2)+ 1
+−[−2r
+−2+ 1
+′+ 2r
+−2v
+′
++ r
+−2e
+−2b
+′) e
+−1(r
+=˙b(2 ˙v+ ˙b) e
+−1− 2v
+−2u− r
+−2v+ r
+−2b
+−2e
+● Cas j∶= 1. On a :
+2[(ˆu1,1)2− ˆu2
+1,1] e
+G11= 1
+−2u1
+0,0+ 1
+ˆu0,0(ˆu10,0− 2u0,0− u1,0)+ u1,0u0,0] e
++ η1η0[ˆu10,00+ 1
+−2u0
+2,2+ 1
+ˆu2,2(ˆu12,2− 2u2,2− u1,2)+ u1,2u2,2] e
++ η1η2[ˆu12,22+ 1
+−2u2
+ˆu3,3(ˆu13,3− 2u3,3− u1,3)+ u1,3u3,3] e
+3,3+ 1
++ η1η3[ˆu13,33+ 1
+−2u3
+2[(u
+−1)2−(u
+′)2− 2(u
+′)2] e
+= 1
+′+ 2r
+−2v
+2(( ˙v)2+ 2(˙b)2)+ 1
+2( ˙v+ 2˙b)(2˙b− 2 ˙u− ˙v)+ ˙u ˙v] e
+−[2¨b+ 1
+−2u
+− r
+−2e
+−2b
+=[˙b(2 ˙u− 3˙b)− 2¨b] e
+−1(2u
+−2u+ r
+′+ r
+−2e
+−2b
+2,2] e
+2[(ˆu2,2)2− ˆu2
+−2u2
++ η2η0[ˆu20,00+ 1
+0,0+ 1
+1,1+ 1
++ η2η1[ˆu21,11+ 1
++ η2η3[ˆu23,33+ 1
+3,3+ 1
+
+ˆu0,0(ˆu20,0− 2u0,0− u2,0)+ u2,0u0,0] e
+ˆu1,1(ˆu21,1− 2u1,1− u2,1)+ u2,1u1,1] e
+ˆu3,3(ˆu23,3− 2u3,3− u2,3)+ u2,3u3,3] e
+
+● Cas j∶= 2. On a :
+G22= 1
+
+−2u0
+−2u1
+−2u3
+
+−2v− r
+
+−1) e
+
+ˆu2
+
+ˆu2
+
+ˆu2
+
+ˆu2
+
+ˆu2
+
+ˆu2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+v
+
+2
+
+2
+
+Calculs pratiques en relativit´e g´en´erale
+
+82
+
+David Pigeon
+
+CHAPITRE 1. CALCULS DES OBJETS ASSOCI´ES `A LA COURBURE POUR LES M´ETRIQUES
+DIAGONALES
+
+1.6. TENSEUR D’EINSTEIN
+
+−2v
+
+−u−v.
+
+−1 ˙v) e
+
+Donc les matrices Gjl et Gjl sont de la forme :
+
+2(( ˙v)2+ 2(˙b)2)+ 1
+2( ˙v+ 2˙b)( ˙v+ ˙b− 2 ˙u− ˙b)+ ˙u˙b] e
+=−[¨v+ ¨b+ 1
+−2u
+2((u
+′)2+ 2r
+′)+ r
+−1)(u
+2(u
+′] e
+−2)+ 1
+′+ 2r
+′− 2v
+−2+ 1
++[u
+′′− r
+−1v
+−2v
+′] e
+−1)− r
+′(u
+−2u+[u
+=[−¨v− ¨b+( ˙u− ˙v)( ˙v+ ˙b)−(˙b)2] e
+′+ r
+′′+ u
+′− v
+−1v
+● Cas j∶= 3. Comme R33= R22, on a donc :
+G33= G22.
+● On a :
+−1)+ r
+G01= G10= R01= 2(˙b(u
+′− r
+⎞⎟⎟⎟⎠ , Gjl=⎛⎜⎜⎜⎝
+Gjl=⎛⎜⎜⎜⎝
+G00=˙b(2 ˙v+ ˙b) e
+−1(r
+′) e
+−2u− r
+−1− 2v
+−2v+ r
+−2e
+−2b
+G00=˙b(2 ˙v+ ˙b)− r
+−1(r
+′) e2u−2v+ r
+−1− 2v
+−2e
+−2b+2u
+−1 ˙v) e
+G01=2(˙b(u
+−1)+ r
+′− r
+−u−v
+G01=2(˙b(u
+−1 ˙v)
+−1)+ r
+′− r
+−1) e
+−1(2u
+G11=[˙b(2 ˙u− 3˙b)− 2¨b] e
+′+ r
+−2u+ r
+−2v− r
+−2e
+−2b
+−1)− r
+G11=[˙b(2 ˙u− 3˙b)− 2¨b] e
+−1(2u
+−2u+2v+ r
+′+ r
+−2e
+−2b+2v
+G22=G33=[−¨v− ¨b+( ˙u− ˙v)( ˙v+ ˙b)−(˙b)2] e
+−2u+[u
+′(u
+−1)− r
+′] e
+′′+ u
+′− v
+′+ r
+−1v
+−2v
+G22=r2[−¨v− ¨b+( ˙u− ˙v)( ˙v+ ˙b)−(˙b)2] e
+′] e
+−1)− r
+′(u
+−2u+ r2[u
+′+ r
+′′+ u
+′− v
+−1v
+−2v
+G33= sin2 ϑG22
+
+G00 G01
+G10 G11
+0
+0
+
+0
+0
+0
+0 G33
+
+0
+0
+0
+0 G33
+
+0
+0
+0 G22
+0
+
+0
+0
+0 G22
+0
+
+G00 G01
+G10 G11
+
+⎞⎟⎟⎟⎠
+
+avec :
+
+0
+0
+
+David Pigeon
+
+83
+
+Calculs pratiques en relativit´e g´en´erale
+
+CHAPITRE 1. CALCULS DES OBJETS ASSOCI´ES `A LA COURBURE POUR LES M´ETRIQUES
+DIAGONALES
+
+1.6. TENSEUR D’EINSTEIN
+
+Calculs pratiques en relativit´e g´en´erale
+
+84
+
+David Pigeon
+
+Chapitre 2
+
+R´esolution pratique dans le cas des
+m´etriques `a sym´etrie sph´erique
+
+On ´etudie la m´etrique h trait´ee dans les exemples du chapitre pr´ec´edent voir :
+
+1.1.4.1, 1.1.5.1, 1.2.5.5, 1.2.6.3 , 1.2.6.5, 1.3.4.5 , 1.3.5.4, 1.4.4.3, 1.5.2.2, 1.6.0.6
+
+h= e2u(t,r)
+= e2u(t,r)
+
+dt⊗ dt− e2v(t,r)
+dt⊗ dt− e2v(t,r)
+
+dr⊗ dr− r2e2b(t)(dϑ⊗ dϑ+ sin2 ϑdφ⊗ dφ)
+dr⊗ dr− r2e2b(t)
+
+hΩ
+
+avec :
+
+On notera au choix :
+
+hΩ∶= dϑ⊗ dϑ+ sin2 ϑdφ⊗ dφ
+(0, 1, 2, 3)∶=(t, r, ϑ, ϕ)
+
+la m´etrique sur la 2-sph`ere unit´e en coordonn´ees sph´eriques (voir le point (2) de l’exemple 1.1.3.3).
+
+Suite `a l’article d’Einstein [3], plusieurs r´esolutions de l’´equation de la relativit´e g´en´erale ont ´et´e donn´ees
+
+dans des cas particuliers, voici des r´ef´erences pour celles trait´ees dans ce chapitre :
+
+● m´etrique de Schwarzshild :
+● m´etrique de Reissner-Nordstr¨om :
+● m´etrique FLRW :
+
+[10],
+
+[1],
+
+[5],
+
+[4],
+
+[18],
+
+[19],
+
+[20]
+
+[7], [12],
+
+[13]
+
+[14],
+
+[15],
+
+[16],
+
+[20], [21],
+
+2.1 R´esolution g´en´erale
+
+2.1.1 Objets associ´es `a la courbure
+
+Pour les calculs, nous aurons besoin des symboles de Christoffel et des composantes du tenseur d’Einstein.
+
+D’apr`es l’exemple 1.2.5.5, les symboles de Christoffel sont donn´es par :
+
+⎞⎟⎟⎟⎟⎠
+
+0
+0
+0
+
+r2 ˙b sin2 ϑe2b−2u
+
+Γ0=⎛⎜⎜⎜⎜⎝
+Γ2=⎛⎜⎜⎜⎜⎝
+
+˙u
+
+u′
+
+0
+0
+
+0
+0
+˙b
+0
+
+u′
+˙ve−2u+2v
+
+0
+0
+
+˙b
+
+r−1
+
+0
+0
+
+0
+0
+
+r−1
+
+0
+
+0
+0
+
+r2 ˙be2b−2u
+
+0
+
+0
+0
+0
+
+− cos ϑ sin ϑ
+
+⎞⎟⎟⎟⎟⎠
+
+Γ1=⎛⎜⎜⎜⎝
+Γ3=⎛⎜⎜⎜⎜⎝
+
+0
+0
+0
+˙b
+
+u′e2u−2v
+
+˙v
+
+0
+
+0
+0
+
+v′
+0 −re2b−2v
+⎞⎟⎟⎟⎟⎠
+r−1
+
+cot ϑ
+
+0
+0
+0
+
+0
+˙b
+
+0
+
+cot ϑ
+
+˙v
+0
+0
+
+0
+0
+0
+
+r−1
+
+⎞⎟⎟⎟⎠
+
+0
+0
+0
+
+−r sin2 ϑe2b−2v
+
+85
+
+CHAPITRE 2. R´ESOLUTION PRATIQUE DANS LE CAS DES M´ETRIQUES `A SYM´ETRIE
+SPH´ERIQUE
+
+2.1. R´ESOLUTION G´EN´ERALE
+
+D’apr`es l’exemple 1.6.0.6, les composantes non nulles du tenseur d’Einstein sont donn´ees par :
+
+bases
+
+Dans les G00 = ˙b(2 ˙v+ ˙b) e−2u− r−1(r−1− 2v′) e−2v+ r−2e−2b
+C⊥ et C∗⊥ G11 =[˙b(2 ˙u− 3˙b)− 2¨b] e−2u+ r−1(2u′+ r−1) e−2v− r−2e−2b
+
+G01 = 2(˙b(u′− r−1)+ r−1 ˙v) e−u−v
+G22 =[−¨v− ¨b+( ˙u− ˙v)( ˙v+ ˙b)−(˙b)2] e−2u+[u′′+ u′(u′− v′+ r−1)− r−1v′] e−2v
+G33 = G22
+Dans les G00 = e2uG00
+C et C∗ G01 = eu+vG01
+G11 = e2vG11
+G22 = r2G22
+G33 = r2 sin2 ϑG33
+
+= ˙b(2 ˙v+ ˙b)− r−1(r−1− 2v′) e2u−2v+ r−2e−2b+2u
+= 2(˙b(u′− r−1)+ r−1 ˙v)
+=[˙b(2 ˙u− 3˙b)− 2¨b] e−2u+2v+ r−1(2u′+ r−1)− r−2e−2b+2v
+= r2[−¨v− ¨b+( ˙u− ˙v)( ˙v+ ˙b)−(˙b)2] e−2u+ r2[u′′+ u′(u′− v′+ r−1)− r−1v′] e−2v
+=−r2 sin2 ϑ[2¨b+ 3(˙b)2] e2b−2u+ r2 sin2 ϑ[u′′+(u′+ r−1)(u′− v′)] e−2v
+
+bases
+
+2.1.2 Forme du champ tensoriel Sjl
+
+Suivant l’utilit´e que l’on fait des tenseurs, il est utile de monter ou descendre les indices (voir les sous-
+sections 1.1.8 et 1.1.9). Les tenseurs ainsi obtenus sont reli´es par des formules simples. On commence par
+un exemple.
+
+Exemple 2.1.2.1: Formes du tenseur ´energie impulsion dans le cas d’un fluide parfait
+
+Dans la litt´erature, on trouve comme exemple usuel de tenseur ´energie impulsion, le tenseur ´energie
+impulsion dans le cas d’un fluide parfait en ´equilibre thermodynamique. On le trouve sous six formes
+diff´erentes ´equivalentes :
+
+0
+
+0
+0
+
+Tj
+
+−P
+
+0
+0
+0
+0
+P 0
+0 P 0
+0
+0 P
+
+ρc2
+0
+0
+0
+ρc2
+0
+0
+0
+ρc2
+0
+0
+0
+
+⎞⎟⎟⎟⎠
+−P
+⎞⎟⎟⎟⎠
+
+Tjl=⎛⎜⎜⎜⎝
+l =⎛⎜⎜⎜⎝
+Tjl=⎛⎜⎜⎜⎝
+
+Tjl=⎛⎜⎜⎜⎝
+l =⎛⎜⎜⎜⎝
+Tjl=⎛⎜⎜⎜⎝
+ou sans t´etrades et de type(2, 0) ou(1, 1) ou(0, 2).
+
+0
+0
+0
+P 0
+0
+0 P 0
+0
+0 P
+
+−P
+
+⎞⎟⎟⎟⎠
+
+0
+0
+0
+
+Tj
+
+0
+0
+
+0
+
+ρc2e2u
+
+0
+
+0
+0
+0
+ρc2
+0
+0
+0
+
+−P
+ρc2e−2u
+
+0
+0
+
+0
+0
+0
+
+P e2v
+
+0
+
+0
+0
+
+0
+0
+
+−P
+P e−2v
+
+0
+
+0
+
+0
+0
+
+0
+0
+r2P
+0
+
+⎞⎟⎟⎟⎠
+
+0
+0
+0
+
+−P
+r−2P
+
+0
+0
+
+0
+
+⎞⎟⎟⎟⎠
+
+0
+0
+0
+
+r2 sin2 ϑP
+
+⎞⎟⎟⎟⎠
+
+0
+0
+0
+
+r−2 sin−2 ϑP
+
+avec ρ la masse volumique du fluide et P la pression hydrostatique. Comme pr´ecis´e avec la
+notation T ou T et les indices, ces six tenseurs repr´esentent le cas d’un fluide parfait dans le cas avec
+
+Calculs pratiques en relativit´e g´en´erale
+
+86
+
+David Pigeon
+
+CHAPITRE 2. R´ESOLUTION PRATIQUE DANS LE CAS DES M´ETRIQUES `A SYM´ETRIE
+SPH´ERIQUE
+
+2.1. R´ESOLUTION G´EN´ERALE
+
+Ces six tenseurs sont reli´es par les formules standards (voir les r´esultats des sous-sections 1.1.8
+et 1.1.9) :
+
+j= hjjTjj
+j= ηjjTjj
+Tjj= e2ujTjj
+
+Tj
+Tj
+
+j
+
+Tjj= hjjTj
+Tjj= ηjjTj
+j= Tj
+j= Tj
+
+Tj
+
+Tj
+
+j.
+
+j
+
+j
+
+On remarque que dans le cas o`u le tenseur Tjl est diagonal, on a :
+
+Tjj= e
+
+−2ujTjj
+
+cela ne sera plus vrai si Tjl n’est pas diagonale.
+On pr´ef´erera les tenseurs Tjl et Tjl quand on utilisera l’´equation d’Einstein et les tenseurs Tj
+quand on utilisera l’identit´e de Bianchi.
+
+l et Tj
+
+l
+
+L’´equation d’Einstein s’´ecrit :
+
+Dans les bases C⊥ et C∗⊥ Dans les bases C et C∗
+
+Gjl= Sjl
+
+Gjl= Sjl
+
+.
+
+avec un second membre valant dans le cas avec constante cosmologique :
+
+Dans les bases C⊥ et C∗⊥ Dans les bases C et C∗
+Sjl∶=−Λgjl+ κSjl
+
+Sjl∶=−Ληjl+ κTjl
+
+On a pos´e :
+
+Sjl du type :
+
+κ∶= 8πG
+
+c4
+
+.
+
+sym´etrique(j, l)∶=(0, 1) et(j, l)∶=(1, 0), on va regarder dans la suite de cette section, des tenseurs Sjl et
+
+Comme Gjl et Gjl ne contiennent que deux termes non diagonaux non nuls qui sont ´egaux en positions
+
+Sjl∶=⎛⎜⎜⎜⎝
+Sjl=⎛⎜⎜⎜⎝
+
+S00 S01
+S10 S11
+0
+0
+0
+0
+S00 S01
+S10 S11
+0
+0
+0
+0
+
+0
+0
+S22
+0
+
+0
+0
+S22
+0
+
+⎞⎟⎟⎟⎠∶=⎛⎜⎜⎜⎝
+⎞⎟⎟⎟⎠∶=⎛⎜⎜⎜⎝
+
+0
+0
+0
+S33
+0
+0
+0
+S33
+
+αe2u
+
+ξeu+v
+
+0
+0
+
+α ξ
+0 0
+ξ β 0 0
+0 γ 0
+0
+0
+0
+0 γ
+
+ξeu+v
+
+βe2v
+
+0
+0
+
+⎞⎟⎟⎟⎠
+
+⎞⎟⎟⎟⎠
+
+0
+0
+r2γ
+0
+
+0
+0
+0
+
+r2 sin2 ϑγ
+
+David Pigeon
+
+87
+
+Calculs pratiques en relativit´e g´en´erale
+
+CHAPITRE 2. R´ESOLUTION PRATIQUE DANS LE CAS DES M´ETRIQUES `A SYM´ETRIE
+SPH´ERIQUE
+
+2.1. R´ESOLUTION G´EN´ERALE
+
+α
+
+Sj
+
+avec α(t, r), β(t, r), γ(t, r), ξ(t, r) des fonctions des variables t et r. On a donc :
+−γ
+⎞⎟⎟⎟⎠
+
+⎞⎟⎟⎟⎠=⎛⎜⎜⎜⎝
+−ξeu−v
+⎞⎟⎟⎟⎠=⎛⎜⎜⎜⎝
+−ξ −β
+
+S0
+0 S0
+1
+0 S1
+S1
+1
+0
+0
+0
+0
+S0
+S0
+1
+0
+S1
+S1
+1
+0
+0
+0
+0
+0
+
+ξe−u+v
+−β
+
+l = gllSjl=⎛⎜⎜⎜⎝
+l = ηllSjl=⎛⎜⎜⎜⎝
+Dans les bases C⊥ et C∗⊥
+
+0
+0
+0
+S3
+3
+0
+0
+0
+S3
+3
+
+On a matriciellement :
+
+−γ
+
+−γ
+
+0
+0
+S2
+2
+0
+
+0
+0
+S2
+2
+0
+
+0
+0
+0
+
+Sj
+
+0
+0
+
+0
+0
+
+0
+0
+
+0
+0
+
+0
+0
+
+0
+0
+
+α
+
+0
+
+0
+
+ξ
+
+⎞⎟⎟⎟⎠
+
+0
+0
+0
+
+−γ
+
+Dans les bases C et C∗
+
+.
+
+⎞⎟⎟⎟⎠
+
+0
+0
+0
+S33
+
+S00 S01
+S10 S11
+0
+0
+0
+0
+
+0
+0
+S22
+0
+
+0
+0
+0
+0 G33
+
+0
+0
+0 G22
+0
+
+G00 G01
+G10 G11
+0
+0
+
+⎛⎜⎜⎜⎝
+(E0 ∶ G00= S00)
+(E01 ∶ G01= S01)
+(E1 ∶ G11= S11)
+(E2 ∶ G22= S22)
+
+0
+0
+
+0
+0
+S22
+0
+
+0
+0
+0
+S33
+
+G00 G01
+G10 G11
+
+⎞⎟⎟⎟⎠=⎛⎜⎜⎜⎝
+
+0
+0
+0 G22
+0
+
+0
+0
+0
+0 G33
+
+S00 S01
+S10 S11
+0
+0
+0
+0
+
+⎞⎟⎟⎟⎠=⎛⎜⎜⎜⎝
+⎛⎜⎜⎜⎝
+⎞⎟⎟⎟⎠
+˙b(2 ˙v+ ˙b) e
+−1(r
+′) e
+−2b= α
+∶
+−2u− r
+−1− 2v
+−2v+ r
+−2e
+∶ (˙b(u
+−1 ˙v) e
+−1)+ r
+−u−v= ξ
+′− r
+−1) e
+−1(2u
+[˙b(2 ˙u− 3˙b)− 2¨b] e
+−2b= β
+−2v− r
+′+ r
+∶
+−2u+ r
+−2e
+[−¨v− ¨b+( ˙u− ˙v)( ˙v+ ˙b)−(˙b)2] e
+−2u+[u
+′(u
+′− v
+∶
+′′+ u
+′+ r
+
+Ce qui nous donne dans les deux cas, les quatre ´equations fondamentales suivantes :
+
+−1)− r
+
+−1v
+
+′] e
+−2v= γ
+
+D’apr`es la proposition 1.6.0.3, l’identit´e de Bianchi deux fois contract´ees donne quatre ´equations pour
+
+2.1.3 Utilisation de l’identit´e de Bianchi
+
+l∈{0, 1, 2, 3} :
+∇jGj
+l = 0.
+Or par la proposition 1.2.5.2, on a : ∇jGj
+l = ∂jGj
+l+ Γj
+∇jGj
+l = ∂jGj
+l+ Γj
+l = Sj
+l = ∂jSj
+l+ Γj
+
+k= 0.
+et par lin´earit´e de∇j, on en d´eduit les quatre ´egalit´es pour l∈{0, 1, 2, 3} :
+
+l − Γk
+l − Γk
+
+0=∇jSj
+
+l − Γk
+
+Par l’´egalit´e :
+
+Donc on a :
+
+ljGj
+k.
+
+jkGk
+
+jkGk
+
+ljSj
+k
+
+ljGj
+
+jkSk
+
+Gj
+
+l
+
+La proposition qui suit donne les deux ´egalit´es non triviales d´eduites de ces quatre ´egalit´es.
+
+Calculs pratiques en relativit´e g´en´erale
+
+88
+
+David Pigeon
+
+CHAPITRE 2. R´ESOLUTION PRATIQUE DANS LE CAS DES M´ETRIQUES `A SYM´ETRIE
+SPH´ERIQUE
+
+2.1. R´ESOLUTION G´EN´ERALE
+
+Proposition 2.1.3.1: Application de l’identit´e de Bianchi
+
+L’identit´e :
+
+∇jGj
+l = 0
+−1) ξ] eu−v+ 2˙b(α+ γ)−(u
+˙α−[ξ
+′+ 2(u
+α− v
+β+ 2r
+′+ r
+′
+′
+[ ˙ξ+( ˙v− 2 ˙u− 2˙b) ξ] e
+−1(γ− β)= 0
+′+ 2r
+−u+v− β
+′−(α+ β) u
+
+−1γ)+ ˙vβ= 0
+
+est ´equivalente aux deux ´equations :
+
+(B0 ∶ ∇jSj
+(B1 ∶ ∇jSj
+
+0= 0)
+1= 0)
+
+∶
+∶
+
+D´emonstration. On a :
+
+0=∇jSj
+
+l = ∂jSj
+l+ Γj
+
+l − Γk
+
+jkSk
+
+ljSj
+k
+
+10S0
+
+01S1
+
+0jSj
+j
+
+jkSk
+j0S0
+
+jkSk
+j0S0
+
+1jSj
+k
+j1S1
+
+0jSj
+k
+j1S1
+
+On a quatre cas.
+
+0− Γ0
+
+● Cas l∶= 0. On a :
+0=∇jSj
+0= ∂jSj
+0+ Γj
+0− Γk
+0− Γj
+0+ Γj
+0+ Γj
+0+ ∂1S1
+= ∂0S0
+−1) ξeu−v− ˙vα−( ˙uα− ˙vβ− 2˙bγ)
+′) ξ] eu−v+( ˙u+ ˙v+ 2˙b) α−(u
+′+(u
+= ˙α−[ξ
+′+ 2r
+′+ v
+′− v
+′+ 2(u
+−1) ξ] eu−v+ 2˙b(α+ γ)−(u
+−1γ)+ ˙vβ
+= ˙α−[ξ
+β+ 2r
+α− v
+′+ r
+′
+′
+● Cas l∶= 1. On a :
+1= ∂jSj
+1− Γk
+1+ Γj
+0=∇jSj
+1− Γj
+1− Γ1
+1+ Γj
+1+ Γj
+1+ ∂1S1
+= ∂0S0
+−u+v−(u
+′−( ˙u+ ˙v+ 2˙b) ξe
+=[ ˙ξ+( ˙v− ˙u) ξ] e
+−u+v− β
+′+ v
+′+ 2r
+=[ ˙ξ+( ˙v− 2 ˙u− 2˙b) ξ] e
+−1(γ− β)
+′+ 2r
+′−(α+ β) u
+−u+v− β
+2− Γk
+0=∇jSj
+2= ∂jSj
+2+ Γj
+2− Γj
+= Γj
+2− cot ϑS3
+= cot ϑS2
+= 0
+0=∇jSj
+3= ∂jSj
+3+ Γj
+= Γj
+3− Γj
+2− cot ϑS3
+= cot ϑS2
+= 0
+
+● Cas l∶= 3. On a :
+
+● Cas l∶= 2. On a :
+
+−1) β− ˙vξe
+
+−u+v−(u
+′
+
+β− 2r
+
+3− Γk
+
+α− v
+
+2jSj
+k
+
+3jSj
+k
+
+2jSj
+j
+
+1jSj
+j
+
+3jSj
+j
+
+jkSk
+
+jkSk
+
+j2S2
+
+j3S3
+
+′
+
+3
+
+3
+
+Les deux derniers cas sont donc triviaux.
+
+−1γ)
+
+David Pigeon
+
+89
+
+Calculs pratiques en relativit´e g´en´erale
+
+CHAPITRE 2. R´ESOLUTION PRATIQUE DANS LE CAS DES M´ETRIQUES `A SYM´ETRIE
+SPH´ERIQUE
+
+2.1. R´ESOLUTION G´EN´ERALE
+
+2.1.4 Les six ´equations fondamentales
+
+Les six ´equations fondamentales qui nous servirons tout au long de cette partie sont :
+
+(E0 ∶ G00= S00)
+(E01 ∶ G01= S01)
+(E1 ∶ G11= S11)
+(E2 ∶ G22= S22)
+0= 0)
+(B0 ∶ ∇jSj
+(B1 ∶ ∇jSj
+1= 0)
+
+˙b(2 ˙v+ ˙b) e
+−1(r
+′) e
+∶
+−2u− r
+−1− 2v
+−2v+ r
+−2b= α
+−2e
+−1 ˙v) e
+∶ (˙b(u
+−1)+ r
+−u−v= ξ
+′− r
+−1) e
+[˙b(2 ˙u− 3˙b)− 2¨b] e
+−1(2u
+∶
+−2u+ r
+−2b= β
+−2v− r
+′+ r
+−2e
+′] e
+[−¨v− ¨b+( ˙u− ˙v)( ˙v+ ˙b)−(˙b)2] e
+−2u+[u
+′(u
+−1)− r
+′− v
+∶
+′′+ u
+′+ r
+−2v= γ
+−1v
+−1) ξ] eu−v+ 2˙b(α+ γ)−(u
+˙α−[ξ
+−1γ)+ ˙vβ= 0
+′+ 2(u
+α− v
+∶
+β+ 2r
+′+ r
+′
+′
+[ ˙ξ+( ˙v− 2 ˙u− 2˙b) ξ] e
+∶
+−u+v− β
+′−(α+ β) u
+′+ 2r
+−1(γ− β)= 0
+
+Les quatre premi`eres sont d´eduites de l’´equation de la relativit´e g´en´erale et les deux derni`eres sont dues aux
+identit´es de Bianchi.
+
+Les deux identit´es de Bianchi sont d´eduites de l’´equation de la relativit´e g´en´erale mais `a cause de leurs
+
+importances dans les calculs on les consid`ere comme deux ´equations fondamentales suppl´ementaires.
+
+La derni`ere ´equation est un crit`ere difficilement exploitable en g´en´eral. On a tout de mˆeme le r´esultat suivant
+simple.
+
+(i) Gjl et Sjl sont diagonaux ;
+
+2.1.5 Cas o`u G et S sont diagonaux
+
+Par l’´equation(E01), on a les ´equivalences :
+(ii) ξ= 0 ;
+(iii) r ˙bu′+ ˙v− ˙b= 0.
+Proposition 2.1.5.1: Cas o`u ξ= 0
+
+On se place dans le cas :
+
+ξ= 0.
+
+(i) On a ´equivalence entre :
+
+(a) u′= 0 i.e. u est ind´ependante de r ;
+(b) ˙v= ˙b ;
+(c) la fonction v se d´ecompose en v(t, r)= b(t)+ vr(r).
+Alors ˙v= 0 i.e. v est ind´ependante de t.
+
+˙b= 0.
+
+(ii) Supposons que :
+
+D´emonstration.
+
+(i) Par le point (iii) de l’´equivalence cit´ee avant la proposition et comme ξ= 0, on a :
+
+′+ ˙v− ˙b= 0.
+
+r ˙bu
+
+On a donc les ´equivalences entre :
+
+● u′= 0 ;
+● ˙v− ˙b= 0 ;
+● ˙v= ˙b.
+
+Le dernier point est ´equivalent en int´egrant `a l’existence d’une fonction vr d´ependant de r seulement
+telle que :
+
+v(t, r)= b(t)+ vr(r).
+
+Calculs pratiques en relativit´e g´en´erale
+
+90
+
+David Pigeon
+
+CHAPITRE 2. R´ESOLUTION PRATIQUE DANS LE CAS DES M´ETRIQUES `A SYM´ETRIE
+SPH´ERIQUE
+
+2.1. R´ESOLUTION G´EN´ERALE
+
+(ii) Supposons que :
+
+Alors on a par le point (iii) de l’´equivalence cit´ee avant la proposition :
+
+˙b= 0.
+˙v= 0
+
+i.e. v est ind´ependante de t.
+
+Les deux cas ´etudi´es dans cette proposition seront trait´es s´epar´ement, le premier dans la sous-section
+
+suivante et le deuxi`eme, plus long, sera trait´e dans la section suivante.
+
+Par le point (i) de la proposition 2.1.5.1, la fonction v est `a variables s´epar´ees. On supposera que v s’´ecrit :
+
+Dans toute cette sous-section, on consid`ere un tenseur ´energie impulsion qui v´erifie les six ´equations
+
+fondamentales du type :
+
+On se place dans le cas o`u :
+
+2.1.6 Cas o`u les fonctions u′ et ξ sont nulles.
+′= ξ= 0.
+eu= c.
+
+Donc il existe une constante c telle que :
+
+u
+
+v(t, r)∶= b(t)+ v(r).
+dr⊗ dr+ r2(dϑ⊗ dϑ+ sin2 ϑdφ⊗ dφ))
+
+Ainsi la m´etrique ´etudi´ee est du type :
+
+h= c2dt⊗ dt− e2b(t)(e2v(r)
+α(t, r)
+Sjl∶=⎛⎜⎜⎜⎝
+(B1 ∶ ∇jSj
+
+0
+0
+0
+
+β(t, r)
+
+0
+
+0
+0
+
+0
+0
+
+β(t, r)
+
+0
+
+⎞⎟⎟⎟⎠
+
+0
+0
+0
+
+β(t, r)
+′= 0
+
+avec α, β des fonctions des variables t et r.
+
+On a :
+
+Ainsi β ne d´epend pas de r, donc on a :
+
+∶ −β
+1= 0)
+β(t, r)= β(t).
+L’´equation(E01) est triviale, les cinq ´equations fondamentales deviennent :
+−2(˙b)2+ r
+−2b[(2v
+−1) e
+∶ 3c
+′− r
+−2v+ r
+−1e
+−2[2¨b+ 3(˙b)2]+ r
+−2b(e
+−2v− 1)= β
+∶ −c
+−2e
+−2[2¨b+ 3(˙b)2]− r
+∶ −c
+−2b−2v= β
+−1v
+′
+˙α+ ˙b(2α+ 3β)+(v
+−1) β= 0
+∶
+′− 2r
+∶ −β
+′= 0
+
+(E0 ∶ G00= S00)
+(E1 ∶ G11= S11)
+(E2 ∶ G22= S22)
+0= 0)
+(B0 ∶ ∇jSj
+(B1 ∶ ∇jSj
+1= 0)
+
+e
+
+−1]= α
+
+David Pigeon
+
+91
+
+Calculs pratiques en relativit´e g´en´erale
+
+CHAPITRE 2. R´ESOLUTION PRATIQUE DANS LE CAS DES M´ETRIQUES `A SYM´ETRIE
+SPH´ERIQUE
+
+2.1. R´ESOLUTION G´EN´ERALE
+
+Th´eor`eme 2.1.6.1: M´etrique g´en´eralis´ee
+
+Il existe k∈ R telle que :
+
+avec :
+
+dr⊗ dr+ r2hΩ)
+
+1
+
+h= c2dt⊗ dt− e2b(t)(
+(˙b)2+ kc2e
+
+1− kr2
+−2b= αc2
+¨b+(˙b)2=− c2
+
+3
+
+6 (3β+ α)
+
+D´emonstration. On montre le r´esultat en trois ´etapes :
+
+(1) On donne deux m´ethodes.
+
+(a) On a
+
+0= β− β
+= G11− G22
+−2[2¨b+ 3(˙b)2]+ r
+=−c
+−2b(r
+= r
+−2v+ v
+−1e
+−1e
+′
+Donc on a en posant g∶= e−2v :
+
+e
+
+(1)
+−2v= 1− kr2
+(˙b)2+ kc2e
+(2)
+(3) ¨b+(˙b)2=− c2
+
+−2b= αc2
+6 (3β+ α)
+
+3
+
+e
+
+e
+
+g
+
+2
+
+−1
+
+−1.
+
+−2v− 1)+ c
+−2b(e
+−2e
+−1)
+−2v− r
+−2v− r
+0= r
+−2v+ v
+′
+−1e
+′− r
+−1g− 1
+= r
+−1
+−1y=−2r
+′− 2r
+(E) ∶ y
+−1dr)= e2 ln(r)= r2.
+rz→ exp(2∫ r
+rz→ 1.
+g= 1− kr2.
+e2v= 1
+g=
+1− kr2
+
+1
+
+r
+
+1
+
+.
+
+Ainsi g est solution de l’´equation diff´erentielle :
+
+Les solutions homog`enes sont engendr´ees par la fonction :
+
+On a la solution particuli`ere constante :
+
+Donc il existe une constante r´eelle k telle que :
+
+Donc on a :
+
+−2[2¨b+ 3(˙b)2]+ r
+
+′
+
+−1v
+
+e
+
+−2b−2v
+
+Calculs pratiques en relativit´e g´en´erale
+
+92
+
+David Pigeon
+
+CHAPITRE 2. R´ESOLUTION PRATIQUE DANS LE CAS DES M´ETRIQUES `A SYM´ETRIE
+SPH´ERIQUE
+
+2.1. R´ESOLUTION G´EN´ERALE
+
+(2) Comme :
+
+On obtient aussi une autre ´equation que l’on retrouve dans le point (3) :
+
+.
+
+r
+
+g
+
+1
+
+on a :
+
+i.e. on a :
+
+i.e. on a :
+
+−2v− 1)
+
+e2b(β+ c
+
+Ainsi il existe une constante k telle que :
+
+L’avantage de la deuxi`eme m´ethode est qu’elle n’utilise que l’´equation(E1).
+
+(b) Par(E1), en s´eparant les variables r et t, on a :
+−2(e
+−2[2¨b+ 3(˙b)2])= r
+−2(e
+−2v− 1)=−k
+e2v=
+1− kr2
+−2[2¨b+ 3(˙b)2])=−k
+e2b(β+ c
+2¨b+ 3(˙b)2+ kc2e
+−2b=−βc2.
+′=−2kr
+α= G00
+−1) e
+−1(2v
+−2(˙b)2+ r
+−2b−2v+ r
+′− r
+= 3c
+−2b
+−2e
+−2b(2v
+−1)
+−2(˙b)2+ r
+−2v+ r
+−2v− r
+= 3c
+−1e
+′
+−1e
+−1)
+−2b(−g
+−2(˙b)2+ r
+−1g+ r
+′− r
+= 3c
+−1e
+−1)
+−2b(2kr− r
+−2(˙b)2+ r
+−1+ kr+ r
+= 3c
+−1e
+−2(˙b)2+ 3ke
+= 3c
+−2b
+˙b+ kc2e
+−2b= αc2
+β= G22
+−2(2¨b+ 3(˙b)2)− r
+=−c
+−1v
+′
+−2(2¨b+ 3(˙b)2)− 1
+=−c
+′
+−2(2¨b+ 3(˙b)2)− ke
+=−c
+−2b
+2¨b+ 3(˙b)2+ kc2e
+−2b=−βc2
+(˙b)2+ kc2e
+−2b= αc2
+¨b+(˙b)2=− c2
+6 (3β+ α)
+
+Donc on a les deux ´equations (la deuxi`eme est le point (ii)) :
+
+Par diff´erence de ces deux ´equations, on a donc :
+
+−2b−2v
+−2b
+
+Donc on a :
+
+2r
+
+3
+
+3
+
+g
+
+e
+
+e
+
+e
+
+.
+
+(3) On a :
+
+Dans le corollaire suivant, on donne les relations avec les notations usuelles utilis´ees dans le cas de la
+
+m´etrique de Friedmann-Lemaˆıtre-Robertson-Walker (FLRW).
+
+David Pigeon
+
+93
+
+Calculs pratiques en relativit´e g´en´erale
+
+CHAPITRE 2. R´ESOLUTION PRATIQUE DANS LE CAS DES M´ETRIQUES `A SYM´ETRIE
+SPH´ERIQUE
+
+2.2. CAS O `U LES FONCTIONS ˙B ET ξ SONT NULLES.
+
+Corollaire 2.1.6.2: Autres versions
+
+(i) Le facteur d’´echelle est d´efini par :
+
+Alors il existe k∈ R telle que :
+
+avec :
+
+(ii) Le param`etre d’Hubble est d´efini par :
+
+La courbure spatiale est d´efinie par :
+
+Alors on a :
+
+dr⊗ dr+ r2hΩ)
+
+6 (3β+ α)
+
+1
+
+3
+
+¨a
+
+a∶= eb.
+h= c2dt⊗ dt− a(t)2(
+1− kr2
+a2 = αc2
+( ˙a
+a)2+ kc2
+a=− c2
+H∶= ˙b= ˙a
+−b= k
+K∶= ke
+( ˙H)2+ Kc2
+a = αc2
+˙H+ H 2=− c2
+
+a
+
+a
+
+3
+
+.
+
+.
+
+6 (3β+ α)
+
+c4
+
+c2
+
+α∶= 8πG
+( ˙a
+a)2+ kc2
+
+P+ Λ.
+
+ρ− Λ , β∶= 8πG
+a2 = 8πG
+ρ− Λc2
+c2 (P+ ρc2)− Λ
+a=− 8πG
+
+¨a
+
+3
+
+3
+
+3
+
+Exemple 2.1.6.3: Exemple usuel
+
+On reprend les notations de l’exemple 2.1.2.1. On se place dans le cas o`u :
+
+On a donc les ´equations de Friedmann-Lemaˆıtre :
+
+2.2 Cas o`u les fonctions ˙b et ξ sont nulles.
+
+On se place dans le cas o`u :
+
+˙b= 0 ∧ ξ= 0.
+v(t, r)∶= v(r).
+
+Par le point (ii) de la proposition 2.1.5.1, la fonction v est ind´ependante de la variable t i.e. v s’´ecrit :
+
+Calculs pratiques en relativit´e g´en´erale
+
+94
+
+David Pigeon
+
+CHAPITRE 2. R´ESOLUTION PRATIQUE DANS LE CAS DES M´ETRIQUES `A SYM´ETRIE
+SPH´ERIQUE
+
+2.2. CAS O `U LES FONCTIONS ˙B ET ξ SONT NULLES.
+
+On consid`ere dans toute cette sous-section, un tenseur ´energie impulsion du type g´en´eral :
+
+Ainsi la m´etrique ´etudi´ee est du type :
+
+dr⊗ dr− r2(dϑ⊗ dϑ+ sin2 ϑdφ⊗ dφ)
+dr⊗ dr− r2hΩ
+β(t, r)
+
+h= e2u(t,r)
+= e2u(t,r)
+
+dt⊗ dt− e2v(r)
+dt⊗ dt− e2v(r)
+α(t, r)
+Sjl∶=⎛⎜⎜⎜⎝
+(E0 ∶ G00= S00)
+
+avec α, β, γ des fonctions des variables t et r.
+
+r
+
+0
+
+0
+
+0
+0
+
+0
+0
+
+0
+0
+0
+
+0
+0
+0
+
+Par l’´equation :
+
+γ(t, r)
+
+⎞⎟⎟⎟⎠
+γ(t, r)
+−1]= α
+−1) e
+−1[(2v
+−2v+ r
+∶
+′− r
+α(t, r)∶= α(r).
+L’´equation(E01) est triviale, les cinq ´equations fondamentales deviennent :
+−1]= α
+−1) e
+−1[(2v
+′− r
+∶
+−2v+ r
+−1]= β
+−1) e
+−1[(2u
+−2v− r
+′+ r
+∶
+−1)(u
+′′+(u
+[u
+′)] e
+′− v
+′+ r
+∶
+−2v= γ
+∶ u
+α− v
+β+ 2r
+−1γ= 0
+′
+′
+∶ −β
+′−(α+ β) u
+′+ 2r
+−1(γ− β)= 0
+α(r)r2dr.
+A(r)∶=∫ r
+
+(E0 ∶ G00= S00)
+(E1 ∶ G11= S11)
+(E2 ∶ G22= S22)
+(B0 ∶ ∇jSj
+0= 0)
+(B1 ∶ ∇jSj
+1= 0)
+
+On pose :
+
+r
+
+r
+
+0
+
+et comme la partie gauche ne d´epend que de r, on en d´eduit que α est ind´ependante de t i.e.
+
+Exemple 2.2.0.1: Trois exemples simples
+
+les notations). On supposera que les fonctions ρ(r) et P(r) sont ind´ependantes de t.
+
+Tout au long de cette section, on traitera comme exemples trois cas usuels (voir l’exemple 2.1.2.1 pour
+
+(1) Cas du fluide parfait. On est dans le cas o`u (voir aussi l’exemple 2.1.2.1) :
+
+Sjl∶=⎛⎜⎜⎜⎝
+
+κρc2
+
+0
+0
+0
+
+0
+κP
+0
+0
+
+0
+0
+κP
+0
+
+⎞⎟⎟⎟⎠
+
+0
+0
+0
+κP
+
+On est donc dans le cas o`u :
+
+−Λ 0
+Sjl∶=⎛⎜⎜⎜⎝
+
+0
+0 Λ 0
+0
+0
+
+0
+0
+0 Λ 0
+0
+0 Λ
+
+⎞⎟⎟⎟⎠
+
+On est donc dans le cas o`u :
+
+0
+0
+0
+
+κρc2e2u
+
+Sjl∶=⎛⎜⎜⎜⎝
+α∶= κρc2 , β∶= κP.
+−Λe2u
+⎛⎜⎜⎜⎝
+α∶=−Λ , β∶= Λ.
+
+Sjl∶= κ
+
+0
+0
+0
+
+(2) Cas avec constante cosmologique. On est dans le cas o`u :
+
+κP e2v
+
+0
+
+0
+0
+
+0
+0
+
+0
+
+κr2P
+
+0
+0
+0
+
+κr2 sin2 ϑP
+
+⎞⎟⎟⎟⎠
+
+Λe2v
+
+0
+
+0
+0
+
+0
+0
+r2Λ
+0
+
+0
+0
+0
+
+r2 sin2 ϑΛ
+
+⎞⎟⎟⎟⎠
+
+David Pigeon
+
+95
+
+Calculs pratiques en relativit´e g´en´erale
+
+CHAPITRE 2. R´ESOLUTION PRATIQUE DANS LE CAS DES M´ETRIQUES `A SYM´ETRIE
+SPH´ERIQUE
+
+2.2. CAS O `U LES FONCTIONS ˙B ET ξ SONT NULLES.
+
+(3) Cas du fluide parfait avec constante cosmologique. On est dans le cas o`u :
+
+0
+
+κρ− Λ
+Sjl∶=⎛⎜⎜⎜⎝
+κP+ Λ
+(κρ− Λ) e2u
+Sjl∶=⎛⎜⎜⎜⎝
+
+0
+0
+0
+
+0
+0
+0
+
+0
+0
+
+0
+
+0
+0
+
+0
+0
+0
+
+⎞⎟⎟⎟⎠
+κP+ Λ
+κP+ Λ
+(κP+ Λ) e2v
+r2(κP+ Λ)
+α∶= κρ− Λ , β∶= κP+ Λ.
+
+0
+0
+
+0
+0
+
+0
+
+0
+
+⎞⎟⎟⎟⎠
+
+0
+0
+0
+
+r2 sin2 ϑ(κP+ Λ)
+
+On est donc dans le cas o`u :
+
+A la fin de la section, on traitera un exemple plus compliqu´e avec une charge ´electrique.
+
+2.2.1 Plan de la section
+
+On traitera diff´erents cas dans la section. Voici un plan succinct :
+
+● R´esolution g´en´erale. On ne suppose dans cette sous-section aucune hypoth`ese suppl´ementaire.
+● M´etrique ext´erieure. On suppose qu’il existe un r´eel R> 0 tel que pour tout r> R :
+
+et que la m´etrique est asymptotiquement plate i.e. on a :
+
+On regarde donc ce qu’il se passe `a l’ext´erieur d’une ”boule” de rayon R.
+
+● M´etrique int´erieure. On garde les hypoth`eses de la m´etrique ext´erieure. On suppose de plus que α est
+constante sur[0, R], que γ= β, que β est ind´ependante de t et que β est continue en r∶= R.
+● Cas o`u β(r)= 0 pour r> R. On suppose les hypoth`eses du point d’avant en supposant que β (et donc
+α) est nulle pour r> R.
+● Exemple de la m´etrique Reissner–Nordstr¨om. On traite d’un exemple plus long avec une charge
+
+On regarde donc ce qu’il se passe `a l’ext´erieur d’une ”boule” de rayon R.
+
+2.2.2 R´esolution g´en´erale
+
+On commence par des r´esultats g´en´eraux sur les fonctions apparaissant dans l’´equation de la relativit´e
+
+´electrique.
+
+g´en´erale.
+
+(i) On a :
+
+(ii) On a :
+
+Th´eor`eme 2.2.2.1: Propri´et´es usuelles
+
+α(r)=−β(r)
+r→∞ gii= ηi.
+
+lim
+
+r)−1
+e2v=(1− A
+′= r3β+ A
+2r(r− A) .
+
+u
+
+.
+
+Calculs pratiques en relativit´e g´en´erale
+
+96
+
+David Pigeon
+
+CHAPITRE 2. R´ESOLUTION PRATIQUE DANS LE CAS DES M´ETRIQUES `A SYM´ETRIE
+SPH´ERIQUE
+
+2.2. CAS O `U LES FONCTIONS ˙B ET ξ SONT NULLES.
+
+Pour calculer la valeur de C, on se place au voisinage de r∶= 0+. On peut supposer que α est constante
+de valeur α0 sur ce voisinage de 0+. Donc on a dans ce voisinage de 0+ :
+
+(iii) On a :
+
+D´emonstration.
+
+.
+
+0
+
+r
+
+e
+
+e
+
+d
+
+β
+
+i.e. on a :
+
+(i) On a :
+
+on a donc :
+
+γ− β
+
+r(1− e
+
+En int´egrant, il existe une constante C telle que :
+
+Par l’´equation(E0), on a donc :
+
+′=− r3β+ A
+2r(r− A)(α+ β)+ 2
+−2v(2v
+−1)+ r
+G00= r
+′− r
+−2
+−1e
+−2v+(1− e
+−2(rv
+−2v))
+= r
+′
+dr(r(1− e
+−2v))
+= r
+−2 d
+−2v))= αr2
+dr(r(1− e
+−2v)=∫ r
+α(r)r2dr+ C= A+ C
+r(A+ C)
+−2v= 1− 1
+e2v=(1− A+ C
+)−1
+α0r2dr≈ α0
+A(r)≈∫ r
+−2v≈ 1− α0r3/3+ C
+≈ 1− α0r2
+3 + C
+Ainsi pour ´eviter une singularit´e dans la m´etrique en 0+, on prend :
+C∶= 0.
+r)−1
+e2v=(1− A
+r)−1
+e2v=(1− A
+β= G11
+−2v(2u
+−1)− r
+= r
+′+ r
+−1e
+−2
+r)(2u
+−1)− r
+′+ r
+−1(1− A
+= r
+−2
+−1= r3β+ A
+rβ+ r−1
+′= 1
+− 1
+2r(r− b) .
+1− A
+
+on a par(E1) :
+
+Ainsi on a :
+
+donc on a :
+
+i.e. on a :
+
+r3
+3
+
+u
+
+2
+
+2
+
+e
+
+r
+
+r
+
+r
+
+r
+
+0
+
+.
+
+.
+
+.
+
+r
+
+(ii) Comme :
+
+David Pigeon
+
+97
+
+Calculs pratiques en relativit´e g´en´erale
+
+CHAPITRE 2. R´ESOLUTION PRATIQUE DANS LE CAS DES M´ETRIQUES `A SYM´ETRIE
+SPH´ERIQUE
+
+2.2. CAS O `U LES FONCTIONS ˙B ET ξ SONT NULLES.
+
+(iii) On donne deux preuves.
+
+(1) On a par(B1) :
+
+(2) On donne une autre preuve sans utiliser l’identit´e de Bianchi. En d´erivant l’´equation
+
+β
+
+′+ 2r
+
+′=−(α+ β) u
+−1(γ− β)
+=− r3β+ A
+γ− β
+2r(r− A)(α+ β)+ 2
+∶ G11= β
+(E1)
+
+r
+
+β
+
+on a :
+
+e
+
+v
+
+u
+
+u
+
+dr
+
+−3
+
+G11
+
+′= d
+−2)− r
+dr(e
+−2v(2r
+−2)
+= d
+′+ r
+−1u
+−3)+ 2r
+−2v(−4r
+′′− 2r
+′− 2r
+= e
+′− 2r
+′+ 2r
+−1u
+−2u
+′
+−1v
+−2v
+−2v(−2v
+−2)+ 2r
+′′− r
+′− r
+= 2r
+′− r
+′+ u
+′
+−3
+−1e
+−1v
+−1u
+−2v(−u
+−1[−e
+−2)
+′−(u
+′′+ u
+= 2r
+′)+ r
+−1(u
+′)2+ r
+′+ v
+′
+[−u
+−2v(v
+′)]+ 2r
+′+ u
+′
+−3
+−1[e
+−2v(u
+−1(2u
+−1)+ r
+= 2r
+′′− u
+′+(u
+′)2+ r
+−1(u
+′− v
+′)− r
+′+ r
+−2e2v− r
+′
+−2e2v)− u
+−2v(v
+−1[e
+′)]+ 2r
+−2v(e2vG11− e2vG22− r
+′+ u
+= 2r
+−3
+′
+−1[β− γ− r
+−2v(v
+′)]+ 2r
+−2− u
+= 2r
+′+ u
+′
+−3
+γ− β
+′) e
+′(v
+−2v+ 2
+′+ u
+=−2r
+−1u
+γ− β
+=−(G00+ G11) u
+−2v+ 2
+′
+γ− β
+=−(α+ β) u
+′+ 2
+γ− β
+=− r3β+ A
+2r(r− A)(α+ β)+ 2
+
+v
+
+e
+
+e
+
+e
+
+r
+
+r
+
+r
+
+r
+
+−2e2v)− u
+′
+
+−2v(v
+
+′)]+ 2r
+′+ u
+
+−3
+
+e
+
+Donc la m´etrique est de la forme :
+
+avec :
+
+dr⊗ dr− r2hΩ
+
+r)−1
+h= e2udt⊗ dt−(1− A
+′= r3β+ A
+2r(r− A) .
+
+u
+
+Le point (iii) est une g´en´eralisation de l’´equation Tolman–Oppenheimer–Volkoff (appel´ee TOV).
+
+Exemple 2.2.2.2: Suite 1 - deux exemples simples
+
+On reprend les trois exemples de 2.2.0.1.
+
+(1) Cas du fluide parfait. On est dans le cas o`u :
+
+α∶= κρc2 , β∶= κP.
+
+Calculs pratiques en relativit´e g´en´erale
+
+98
+
+David Pigeon
+
+CHAPITRE 2. R´ESOLUTION PRATIQUE DANS LE CAS DES M´ETRIQUES `A SYM´ETRIE
+SPH´ERIQUE
+
+2.2. CAS O `U LES FONCTIONS ˙B ET ξ SONT NULLES.
+
+Ainsi par le th´eor`eme 2.2.2.1, on a :
+
+Posons :
+
+On a donc :
+
+(i) On a :
+
+(ii) On a :
+
+(iii) On a :
+
+On a donc :
+
+(ii) On a :
+
+.
+
+0
+
+0
+
+u
+
+P
+
+c2
+
+c2r
+
+8πG
+c2
+
+m(r)
+
+ρ(r)r2dr.
+ρ(r)r2dr
+
+m(r)∶= 4π∫ r
+A(r)=∫ r
+= 2G
+e2v=(1− 2Gm(r)
+)−1
+′= r3κP+ 2Gm(r)/c2
+2r(r− 2Gm(r)/c2)
+= 8πGr3P+ 2Gc2m(r)
+2c2r(c2r− 2Gm(r))
+′=− 8πGr3P+ 2Gc2m(r)
+2c2r(c2r− 2Gm(r)) (ρc2+ P) .
+h= e2udt⊗ dt−(1− 2Gm(r)
+)−1
+dr⊗ dr− r2hΩ
+α∶=−Λ , β∶= Λ.
+Λr2dr=− Λr3
+A(r)=−∫ r
+3 )−1
+e2v=(1+ Λr2
+′= r3Λ− Λr3/3
+2r(r− Λr3/3)
+= Λr
+3− Λr2
+ln∣3− Λr2∣+ k
+u=− 1
+3 ∣−1
+3 ∣1− Λr2
+e2u= e2k
+
+c2r
+
+u
+
+3
+
+2
+
+0
+
+.
+
+.
+
+.
+
+(iv) La m´etrique est de la forme :
+
+(2) Cas avec constante cosmologique. On est dans le cas o`u :
+
+Ainsi par le th´eor`eme 2.2.2.1, on a :
+(i) On a :
+
+Donc il existe une constante k telle que :
+
+Ainsi on a :
+
+David Pigeon
+
+99
+
+Calculs pratiques en relativit´e g´en´erale
+
+CHAPITRE 2. R´ESOLUTION PRATIQUE DANS LE CAS DES M´ETRIQUES `A SYM´ETRIE
+SPH´ERIQUE
+
+2.2. CAS O `U LES FONCTIONS ˙B ET ξ SONT NULLES.
+
+(iii) La m´etrique est de la forme :
+
+(3) Cas du fluide parfait avec constante cosmologique. On est dans le cas o`u :
+
+.
+
+3
+
+c2
+
+dr⊗ dr− r2hΩ
+
+A(r)=∫ r
+
+3 ∣−1
+3 )−1
+3 ∣1− Λr2
+h= e2k
+dt⊗ dt−(1+ Λr2
+α∶= κρ− Λ , β∶= κP+ Λ.
+(κρc2− Λ) r2dr= 2Gm(r)
+− Λr3
+e2v=(1− 2Gm(r)
+3 )−1
++ Λr2
+′= r3(κP+ Λ)+ 2Gm(r)/c2− Λr3/3
+2r(r− 2Gm(r)/c2+ Λr3/3)
+= 24πGr3P+ 6Gc2m(r)− Λc4r3
+2c2r(3c2r− 6Gm(r)+ Λc2r3)
+′=− 24πGr3P+ 6Gc2m(r)− Λc4r3
+2c2r(3c2r− 6Gm(r)+ Λc2r3) (ρc2+ P) .
+h= e2udt⊗ dt−(1− 2Gm(r)
+3 )−1
+dr⊗ dr− r2hΩ
++ Λr2
+
+c2r
+
+c2r
+
+P
+
+u
+
+.
+
+0
+Ainsi par le th´eor`eme 2.2.2.1, on a :
+
+On a donc :
+
+(i) On a :
+
+(ii) On a :
+
+(iii) On a :
+
+(iv) La m´etrique est de la forme :
+
+2.2.3 M´etrique ext´erieure
+
+On fait deux hypoth`eses :
+
+● il existe un r´eel R> 0 tel que :
+● la m´etrique est asymptotiquement plate i.e. on a :
+
+∀r> R, α(r)=−β(r).
+
+r→∞ gii= ηi.
+
+lim
+
+Th´eor`eme 2.2.3.1: Forme de la m´etrique ext´erieure
+
+On a pour r> R :
+
+h= c2(1− A
+
+r)−1
+r) dt⊗ dt−(1− A
+
+dr⊗ dr− r2hΩ.
+
+Calculs pratiques en relativit´e g´en´erale
+
+100
+
+David Pigeon
+
+CHAPITRE 2. R´ESOLUTION PRATIQUE DANS LE CAS DES M´ETRIQUES `A SYM´ETRIE
+SPH´ERIQUE
+
+2.2. CAS O `U LES FONCTIONS ˙B ET ξ SONT NULLES.
+
+D´emonstration. On a :
+
+0= α(r)− α(r)
+= α(r)+ β(r)
+= G00+ G11
+−2v(2v
+−1)+ r
+′− r
+= r
+−1e
+′)
+−2v(u
+= r
+′+ v
+−1e
+
+−2v(2u
+′+ r
+−1e
+Donc on a u′+ v′= 0. Ainsi il existe une constante C telle que :
+
+−2+ r
+
+−1)− r
+
+−2
+
+Comme l’espace temps est asymptotiquement plat, on a :
+
+lim
+
+lim
+
+u+ v= C
+r→∞ e2u= g00= c2η00= c2 ,
+r→∞−e2v= g11= η11=−1
+r→∞ u= ln c ,
+r→∞ v= 0.
+C= lim
+r→∞(u+ v)= ln c.
+e2u= e2 ln c−2v
+= c2e
+−2v
+r)
+= c2(1− A
+
+lim
+
+lim
+
+i.e. on a :
+
+Ainsi on a :
+
+On a donc u= ln c− v et :
+
+Exemple 2.2.3.2: Suite 2 - deux exemples simples
+
+(voir aussi 2.1.2.1 et 2.2.0.1). On suppose pour les deux exemples qu’il existe une constante R> 0
+
+On reprend les exemples (1) et (3) de 2.2.2.2 du fluide parfait avec ou sans constante cosmologique
+
+telle que :
+
+ρ(r)∶={ ρ(r)
+
+0
+
+si r≤ R
+si r> R.
+
+0
+
+, P(r)∶={ P(r)
+ρ(r)r2dr.
+
+si r≤ R
+si r> R.
+M∶= m(R)= 4π∫ R
+m(r)= m(R)= M.
+
+0
+
+Rs∶= A(R)= 2G
+A(r)= 2G
+
+m(R)= 2GM
+m(r).
+m(r)= Rs
+
+c2
+
+c2
+
+.
+
+c2
+
+M
+
+(a) La masse de l’objet central est d´efinie par :
+
+Ainsi pour tout r≥ R, on a :
+
+(b) Le rayon de Schwarzschild est d´efini par :
+
+On a donc :
+
+On traite les deux exemples.
+
+David Pigeon
+
+101
+
+Calculs pratiques en relativit´e g´en´erale
+
+CHAPITRE 2. R´ESOLUTION PRATIQUE DANS LE CAS DES M´ETRIQUES `A SYM´ETRIE
+SPH´ERIQUE
+
+2.2. CAS O `U LES FONCTIONS ˙B ET ξ SONT NULLES.
+
+(1) On se place dans le cas o`u :
+
+Grˆace `a l’exemple (1) de ??, la m´etrique est de la forme :
+
+h=(1− Rs
+
+dr⊗ dr− r2hΩ.
+
+α∶= κρc2 , β∶= κP.
+r )−1
+r ) dt⊗ dt−(1− Rs
+α∶= κρc2− Λ , β∶= κP+ Λ.
+3 )−1
+r + Λr2
+3 ) dt⊗ dt−(1− Rs
+
+dr⊗ dr− r2hΩ.
+
+(3) On se place dans le cas o`u :
+
+h=(1− Rs
+
+r + Λr2
+Pour r> R, la m´etrique h est statique.
+
+Corollaire 2.2.3.3: M´etrique statique
+
+Grˆace `a l’exemple (3) de ??, la m´etrique est de la forme :
+
+D´emonstration. Comme v est ind´ependante du temps et que :
+
+Ainsi u est ind´ependante de t. Donc la m´etrique h est statique pour r> R.
+Par(E1) et(E2), on voit aussi que β et γ sont ind´ependantes de t pour r> R.
+
+u= ln(c)− v
+
+2.2.4 M´etrique int´erieure
+
+On suppose que :
+
+● α est constante sur[0, R] i.e. il existe une constante α0 telle que sur[0, R], on ait α= α0. On suppose
+α= α0< 3
+√
+3− α0r2 apparaissant dans les r´esultats de cette sous-
+
+que :
+
+R2
+
+la condition sur α0 est due `a la racine carr´ee
+section.
+
+● γ∶= β, β ind´ependante de t et β est continue en r∶= R, on pose :
+βR∶= β(R−)= β(R+).
+● pour tout r> R, on a :
+α(r)=−β(r).
+
+cette condition nous permettra de raccorder la m´etrique int´erieure avec la m´etrique ext´erieure.
+
+Dans toute cette sous-section, on a donc :
+
+α0
+0
+0
+0
+
+r≤ R ∶ Sjl∶=⎛⎜⎜⎜⎝
+α(r)
+r> R ∶ Sjl∶=⎛⎜⎜⎜⎝
+
+0
+0
+0
+
+0
+
+β(r)
+−α(r)
+
+0
+0
+
+0
+
+0
+0
+
+0
+0
+0
+
+⎞⎟⎟⎟⎠
+β(r)
+−α(r)
+
+0
+0
+0
+
+⎞⎟⎟⎟⎠
+
+0
+
+0
+0
+
+β(r)
+−α(r)
+
+0
+0
+
+0
+
+Calculs pratiques en relativit´e g´en´erale
+
+102
+
+David Pigeon
+
+CHAPITRE 2. R´ESOLUTION PRATIQUE DANS LE CAS DES M´ETRIQUES `A SYM´ETRIE
+SPH´ERIQUE
+
+2.2. CAS O `U LES FONCTIONS ˙B ET ξ SONT NULLES.
+
+On a donc sur[0, R] :
+
+A(r)=∫ r
+= α0r3
+
+0
+
+3
+
+α0r2dr
+
+Th´eor`eme 2.2.4.1: M´etrique int´erieure
+
+On a pour r≤ R :
+h=
+
+√
+
+c2
+3α2
+0
+
+4
+
+(3(α0+ βR)√
+
+3− α0R2−(α0+ 3βR)√
+
+3− α0r2)2
+
+dt⊗ dt−
+
+dr⊗ dr− r2hΩ.
+
+3− α0r2
+
+3
+
+D´emonstration. Par(B1) et comme γ= β, on a :
+
+Donc il existe une constante C1 telle que :
+
+′=− β′
+α0+ β
+
+.
+
+u
+
+u=− ln∣α0+ β∣+ C1.
+α0+ β= G00+ G11
+′)
+−2v(v
+′+ u
+= 2r
+−1e
+r)(v
+′)
+−1(1− A
+= 2r
+′+ u
+3 )(v
+′)
+′+ u
+−1(1− α0r2
+= 2r
+reC1= r exp(u+ ln∣α0+ β∣)
+= reu∣α0+ β∣
+−2v∣v
+= reu(2r
+′∣)
+′+ u
+−1e
+−2v∣v
+′∣> 0
+= 2eue
+′+ u
+−2v∣v
+′∣
+reC1= 2eue
+′+ u
+−2v(v
+′)
+= 2εeue
+′+ u
+dr(e
+−2v)
+= 2εu
+−2v− εeu d
+′
+3 )+ 2εα0r
+= 2εu
+eu(1− α0r2
+′
+= 2ε(1− α0r2
+3 ) U
+′+ 2εα0r
+(E) ∶ 2ε(1− α0r2
+3 ) y
+′+ 2εα0r
+
+eue
+
+U.
+
+3
+
+3
+
+3
+
+eu
+
+y= reC1
+
+Donc par continuit´e de v′+ u′, ε∈{±1} tel que∣v′+ u′∣= ε(v′+ u′). Avec U∶= eu, on a donc :
+
+Donc U est solution de l’´equation diff´erentielle :
+
+David Pigeon
+
+103
+
+Calculs pratiques en relativit´e g´en´erale
+
+On a :
+
+et :
+
+CHAPITRE 2. R´ESOLUTION PRATIQUE DANS LE CAS DES M´ETRIQUES `A SYM´ETRIE
+SPH´ERIQUE
+
+2.2. CAS O `U LES FONCTIONS ˙B ET ξ SONT NULLES.
+
+On a :
+
+i.e. on a 1− α0/r2≥ 0. Ainsi les solutions homog`enes sont engendr´ees par la fonction :
+ln(1− α0r2/3))=√
+1− α0r2
+
+rz→ exp(−∫ r
+
+0
+
+.
+
+3
+
+On a la solution particuli`ere constante :
+
+r2
+
+α0< 3
+R2≤ 3
+2εα0r/3
+2ε(1− α0r2/3) dr)= exp( 1
+rz→ 3εeC1
+√
++ C2
+
+2α0
+
+2
+
+.
+
+⎞⎠
+1− α0R2
+
+3
+
+3
+
+.
+
+e
+
+3
+
+2α0
+
+2α0
+
+2α0
+
+i.e. on a :
+
+i.e. on a :
+
+1− α0r2
+
+Calculons les deux constantes C1 et C2.
+
+Donc il existe une constante C2 telle que :
+
+U= 3εeC1
+● Utilisation de β(R−)= βR= β(R+). On a :
+reC1= reu∣α0+ β∣= εr(α0+ β) U
+
+et donc en R−, on a :
+
+−C1(α0+ β) U= ε
+ε= e
+−C1(α0+ β(R−)) U(R)
+= e
+−C1(α0+ βR) U(R)
+√
+−C1(α0+ βR)⎛⎝ 3εeC1
+1− α0R2
+= e
++ C2
+√
+= 3ε(α0+ βR)
++ C2(α0+ βR) e
+−C1
+√
+(α0+ βR)
+1− α0R2
+=−C2
+(α0+ 3βR)
+● Utilisation de le continuit´e de la m´etrique en R. Comme :
+g00(R−)= g00(R+)
+3 )= c2(1− A(R)
+R )
+= g00(R+)
+= g00(R−)
+= e2u(R−)
+= U(R−)2
+√
+=⎛⎝ 3εeC1
+⎞⎠2
++ C2
+=⎛⎝−3C2
+(α0+ βR)
+1− α0R2
+3 + C2
+(α0+ 3βR)
+(α0+ 3βR)2(1− α0R2
+= 4C2
+3 )
+
+1− α0R2
+√
+
+c2(1− α0R2
+
+εeC1
+2α0
+
+on a :
+
+2α0
+
+α2
+0
+
+3
+
+3
+
+2
+
+.
+
+√
+
+1− α0R2
+
+3
+
+⎞⎠2
+
+Calculs pratiques en relativit´e g´en´erale
+
+104
+
+David Pigeon
+
+CHAPITRE 2. R´ESOLUTION PRATIQUE DANS LE CAS DES M´ETRIQUES `A SYM´ETRIE
+SPH´ERIQUE
+
+2.2. CAS O `U LES FONCTIONS ˙B ET ξ SONT NULLES.
+
+Corollaire 2.2.4.2: Forme int´egrale et valeur au centre de β
+
+i.e. on a :
+
+et donc :
+
+Ainsi on a :
+
+Ainsi on a :
+
+D’o`u le r´esultat.
+
+(i) On a :
+
+(ii) On a :
+
+D´emonstration. On a :
+
+Donc on a :
+
+2α0
+
+εeC1
+2α0
+
+C2=± c(α0+ 3βR)
+√
+=∓ c(α0+ βR)
+1− α0R2
+√
+√
+eu= U=∓ 3c(α0+ βR)
+3 ± c(α0+ 3βR)
+1− α0R2
+1− α0r2
+3 −(α0+ 3βR)√
+⎛⎝3(α0+ βR)√
+⎞⎠2
+1− α0r2
+1− α0R2
+e2u= c2
+3− α0R2−(α0+ 3βR)√
+(3(α0+ βR)√
+√
+=
+3− α0r2)2
+
+2α0
+
+2α0
+
+2α0
+
+3
+
+3
+
+3
+
+.
+
+4α2
+0
+c2
+3α2
+0
+
+4
+
+.
+
+.
+
+3
+
+eu=∓ 3c(α0+ βR)
+
+(α0+ 3βR)√
+3(α0+ βR)√
+β= α0
+r→0+ β= α0
+βc∶= lim
+
+3− α0r2−(α0+ βR)√
+3− α0R2
+3− α0R2−(α0+ 3βR)√
+3− α0r2
+3−(α0+ βR)√
+(α0+ 3βR)√
+3− α0R2
+3(α0+ βR)√
+3− α0R2−(α0+ 3βR)√
+α0+ β= εeC1e
+−u
+√
+3 ± c(α0+ 3βR)
+1− α0R2
+εeC1=∓c(α0+ βR)√
+1− α0R2
+−u− α0
+β= εeC1e
+∓2cα0(α0+ βR)√
+1− α0R2/3
+1− α0R2/3± c(α0+ 3βR)√
+∓3c(α0+ βR)√
+=
+1− α0r2/3
+2α0(α0+ βR)√
+3− α0R2
+3(α0+ βR)√
+3− α0R2−(α0+ 3βR)√
+3− α0r2− α0
+=
+3− α0r2−(α0+ βR)√
+(α0+ 3βR)√
+3− α0R2
+3− α0R2−(α0+ 3βR)√
+3(α0+ βR)√
+= α0
+3− α0r2
+
+√
+1− α0r2
+
+2α0
+
+2α0
+
+3
+
+3
+
+.
+
+− α0
+
+D’o`u le r´esultat pour βc en passant `a la limite r→ 0.
+
+David Pigeon
+
+105
+
+Calculs pratiques en relativit´e g´en´erale
+
+CHAPITRE 2. R´ESOLUTION PRATIQUE DANS LE CAS DES M´ETRIQUES `A SYM´ETRIE
+SPH´ERIQUE
+
+2.2. CAS O `U LES FONCTIONS ˙B ET ξ SONT NULLES.
+
+Exemple 2.2.4.3: Suite 3 - deux exemples simples
+
+On reprend les exemples (1) et (3) de 2.2.3.2 du fluide parfait avec ou sans constante cosmologique
+(voir aussi 2.1.2.1, 2.2.0.1 et 2.2.2.2). On suppose pour les deux exemples qu’il existe une constante
+
+dr⊗ dr− r2hΩ
+
+R> 0 telle que :
+
+Ainsi on a :
+
+ρ(r)∶={ ρ0
+
+On traite les deux exemples.
+(1) On est dans le cas o`u :
+
+On remarque que :
+
+(i) La m´etrique est de la forme :
+
+h= c2
+
+4
+
+⎛⎝3
+
+(ii) On a :
+
+(iii) On a :
+
+0
+
+0
+
+R
+
+α0R2
+
+3
+α0r2
+
+si r≤ R
+si r> R.
+
+, P(r)∶={ P(r)
+si r≤ R
+si r> R.
+PR= P(R−)= P(R+)= 0
+α∶= κρc2 , β∶= κP.
+= A(R)
+R = Rs
+R2= Rsr2
+= α0R2
+R −√
+√
+⎞⎠2
+R3 )−1
+dt⊗ dt−(1− r2Rs
+1− r2Rs
+1− Rs
+√
+1− Rsr2/R3−√
+1− Rs/R
+1− Rs/R−√
+√
+P= ρ0c2
+1− Rsr2/R3
+r→0+ P= ρ0c2 1−√
+1− Rs/R
+√
+Pc∶= lim
+1− Rs/R− 1
+α∶= κρc2− Λ , β∶= κP+ Λ.
+
+R3
+
+R3
+
+r2
+
+3
+
+3
+
+3
+
+3
+
+.
+
+.
+
+(3) On est dans le cas o`u :
+
+On remarque que :
+
+(i) La m´etrique est de la forme :
+
+3
+
+3
+
+3
+
+3
+r2
+
+α0R2
+
+3
+α0r2
+
+= Rs
+R − ΛR2
+= α0R2
+R2= Rsr2
+R3 − Λr2
+βR= β(R−)= β(R+)= Λ.
+√
+3 −√
+⎞⎠2
+1− r2Rs
+R3 + Λr2
+1− Rs
+R + ΛR2
+√
+1− Rsr2/R3+ Λr2/3−√
+1− Rs/R+ ΛR2/3−√
+√
+P= ρ0c2
+r→0+ P= ρ0c2 1−√
+√
+Pc∶= lim
+
+3
+
+3
+
+3
+
+3 )−1
+dt⊗ dt−(1− r2Rs
+R3 + Λr2
+1− Rs/R+ ΛR2/3
+1− Rsr2/R3+ Λr2/3
+1− Rs/R+ ΛR2/3
+1− Rs/R+ ΛR2/3− 1
+
+.
+
+.
+
+On a donc :
+
+h= c2
+
+4
+
+⎛⎝3
+
+(ii) On a :
+
+(iii) On a :
+
+dr⊗ dr− r2hΩ
+
+Calculs pratiques en relativit´e g´en´erale
+
+106
+
+David Pigeon
+
+On se place dans les conditions de la sous-section pr´ec´edente. On suppose de plus qu’on a deux tenseurs :
+
+CHAPITRE 2. R´ESOLUTION PRATIQUE DANS LE CAS DES M´ETRIQUES `A SYM´ETRIE
+SPH´ERIQUE
+
+2.2. CAS O `U LES FONCTIONS ˙B ET ξ SONT NULLES.
+
+2.2.5 Cas o`u β(r)= 0 pour r> R
+r≤ R ∶ S(1)
+
+β(r)
+
+0
+0
+
+0
+
+jl
+
+∶=⎛⎜⎜⎜⎝
+
+α0
+0
+0
+0
+
+avec α0, λ et µ des constantes r´eelles et :
+
+On suppose que S(2)
+
+jl et S(2)
+
+jl
+
+⎞⎟⎟⎟⎠
+
+0
+0
+0
+
+µβ(r)+ δ(r)
+
+jl
+
+0
+
+0
+
+0
+0
+
+0
+0
+
+0
+0
+0
+
+λα0
+0
+0
+0
+
+⎞⎟⎟⎟⎠ , S(2)
+β(r)
+β(r)
+∶=⎛⎜⎜⎜⎝
+r> R ∶ S(1)
+δ(r)∶={ δ(r)
+
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+
+∶=⎛⎜⎜⎜⎝
+µβ(r)+ δ(r)
+∶=⎛⎜⎜⎜⎝
+⎞⎟⎟⎟⎠ , S(2)
+si r≤ R
+si r> R.
+
+0
+
+jl
+
+jl
+
+0
+
+0
+0
+
+µβ(r)+ δ(r)
+⎞⎟⎟⎟⎠
+
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+
+sont solutions des cinq ´equations fondamentales du d´ebut de la section.
+
+On va vouloir ensuite ´etudier les limites newtoniennes des formules trouv´ees. On rappelle dans le cas
+
+classique ce qu’est la limite newtonienne.
+
+Exemple 2.2.5.1: Limite newtonienne
+
+En limite newtonienne usuelle, on demande que :
+
+(1) que la vitesse v du fluide soit tr`es petite devant la vitesse de la lumi`ere i.e.
+
+(2) que le rayon de Schwarzschild soit tr`es petit devant la position r et devant le rayon R i.e. on a :
+
+donc on a :
+
+Dans le cas o`u G∶=∶ c= 1, on a donc :
+
+D´efinition 2.2.5.2: D´efinition de la limite newtonienne
+
+Soit un tenseur :
+
+2
+
+c2
+
+v<< c
+P≡ 1
+ρv2<< ρc2.
+<< r, R.
+Rs= 2GM
+P<< ρ
+m(r), M, Rs<< r, R
+Sjl∶=⎛⎜⎜⎜⎝
+
+β(r)
+
+α0
+0
+0
+0
+
+0
+
+0
+0
+
+0
+0
+
+0
+0
+0
+
+β(r)
+β(r)
+α0r2, α0R2<< 1.
+
+0
+
+⎞⎟⎟⎟⎠
+
+On dit qu’un tenseur Sjl v´erifie la condition newtonienne s’il v´erifie les conditions suivantes :
+(i) on a :
+
+David Pigeon
+
+107
+
+Calculs pratiques en relativit´e g´en´erale
+
+CHAPITRE 2. R´ESOLUTION PRATIQUE DANS LE CAS DES M´ETRIQUES `A SYM´ETRIE
+SPH´ERIQUE
+
+2.2. CAS O `U LES FONCTIONS ˙B ET ξ SONT NULLES.
+
+Supposons que Sjl v´erifie les cinq ´equations fondamentales et qu’il v´erifie la condition newtonienne.
+(i) Alors on a :
+
+(ii) on a :
+
+β<< α0.
+
+Proposition 2.2.5.3: Approximation newtonienne de β
+
+Soit un tenseur :
+
+Sjl∶=⎛⎜⎜⎜⎝
+
+α0
+0
+0
+0
+
+β(r)
+
+0
+
+0
+0
+
+β(r)
+
+0
+0
+0
+
+⎞⎟⎟⎟⎠
+
+0
+
+0
+
+0
+0
+
+R2.
+
+0
+12
+
+β(r)
+12(R2− r2) .
+β≈ α2
+βc≈ α2
+(i) Comme β(r)= 0 pour r> R (et donc βR= 0), on a :
+3− α0r2−√
+√
+3− α0R2
+√
+3− α0R2−√
+β= α0
+3− α0r2
+√
+1− α0r2/3−√
+1− α0R2/3
+√
+1− α0R2/3−√
+= α0
+1− α0r2/3
+(1− α0r2/6)−(1− α0R2/6)
+= α0
+12(R2− r2)
+≈ α2
+r→0+ β(r)≈ α2
+βc= lim
+
+R2.
+
+3
+
+2
+
+3
+
+0
+
+0
+12
+
+(ii) Alors on a :
+
+D´emonstration.
+
+(ii) On a :
+
+Exemple 2.2.5.4: Suite 4 - deux exemples simples
+
+On reprend l’exemple de 2.2.4.3 du fluide parfait
+aussi 2.1.2.1, 2.2.0.1, 2.2.2.2 et 2.2.3.2). On suppose que :
+
+sans
+
+constante
+
+cosmologique
+
+(voir
+
+On retrouve en approximation newtonienne les approximations standards :
+
+P.
+
+ρ0 , β∶= 8πG
+0(R2− r2)
+
+ρ2
+
+c4
+
+c2
+
+α0∶= 8πG
+P≈ 2πG
+Pc≈ 2πG
+
+3
+
+3
+
+ρ2
+0R2
+
+Calculs pratiques en relativit´e g´en´erale
+
+108
+
+David Pigeon
+
+CHAPITRE 2. R´ESOLUTION PRATIQUE DANS LE CAS DES M´ETRIQUES `A SYM´ETRIE
+SPH´ERIQUE
+
+2.2. CAS O `U LES FONCTIONS ˙B ET ξ SONT NULLES.
+
+Proposition 2.2.5.5: Conditions pour avoir 2 TOV ´egaux
+
+Supposons que S(1)
+
+jl
+
+jl et S(2)
+(3− µ)F(R2)F(λr2)+(1− 3µ)F(r2)F(λR2)+ 3(µ− 1)[F(R2)F(λR2)+ F(r2)F(λr2)]
+
+soient solutions des cinq ´equations fondamentales.
+
+(3F(λR2)− F(λr2))(3F(R2)− F(r2))
+
+(i) On a :
+
+δ= α0
+
+avec :
+
+F(x)∶=√(3− α0x).
+
+D´emonstration.
+
+0
+
+(ii) En approximation newtonienne, on a :
+
+24[(3− µ)(R2+ λr2)+(1− 3µ)(r2+ λR2)+ 3(µ− 1)(1+ λ)(r2+ R2)] .
+δ≈ α2
+(i) Par le corollaire 2.2.4.2, on a deux formes int´egrales pour β et µβ+ δ :
+
+√
+3− α0r2−√
+3− α0R2
+3− α0R2−√
+√
+(F1) ∶ β= α0
+3− α0r2
+3− λα0r2−√
+√
+√
+3− λα0R2−√
+(F2) ∶ µβ+ δ= α0
+On en d´eduit en faisant(F2)− µ(F1) que :
+√
+3− α0r2−√
+3− α0R2
+3− λα0R2
+3− α0R2−√
+√
+3− λα0r2− µα0
+δ= α0
+3− α0r2
+= α0
+
+3− λα0r2−√
+√
+3− λα0R2−√
+√
+(3− µ)F(R2)F(λr2)+(1− 3µ)F(r2)F(λR2)+ 3(µ− 1)[F(R2)F(λR2)+ F(r2)F(λr2)]
+
+(3F(λR2)− F(λr2))(3F(R2)− F(r2))
+
+3− λα0R2
+3− λα0r2
+
+3
+
+3
+
+3
+
+3
+
+(ii) On a :
+
+Donc on a pour x∶= r2, R2, λr2, λR2 :
+
+α0r2, α0R2<< 1.
+F(x)≈√
+6 ) .
+3(1− α0x
+
+Ainsi on a :
+
+24[(3− µ)(R2+ λr2)+(1− 3µ)(r2+ λR2)+ 3(µ− 1)(1+ λ)(r2+ R2)] .
+δ≈ α2
+
+0
+
+Corollaire 2.2.5.6: Cas λ∶=−1 et µ∶= 1
+On se place dans le cas o`u λ∶=−1 et µ∶= 1.
+δ= 2α0
+
+(i) On a :
+
+(ii) On se place en approximation newtonienne.
+
+F(R2)F(−r2)− F(r2)F(−R2)
+(3F(−R2)− F(−r2))(3F(R2)− F(r2)) .
+
+David Pigeon
+
+109
+
+Calculs pratiques en relativit´e g´en´erale
+
+CHAPITRE 2. R´ESOLUTION PRATIQUE DANS LE CAS DES M´ETRIQUES `A SYM´ETRIE
+SPH´ERIQUE
+
+2.2. CAS O `U LES FONCTIONS ˙B ET ξ SONT NULLES.
+
+(a) On a :
+
+(b) On a :
+
+0
+
+6 (R2− r2)≈ 2β.
+δ≈ α2
+−α0 0 0 0
+⎞⎟⎟⎟⎠ , S(2)
+jl ≈⎛⎜⎜⎜⎝
+⎞⎟⎟⎟⎠ .
+
+0 0 0
+0 0 0
+0 0 0
+
+0
+0
+0
+
+α0 0 0 0
+0 0 0
+0
+0 0 0
+0
+0
+0 0 0
+
+S(1)
+
+jl ≈⎛⎜⎜⎜⎝
+
+Exemple 2.2.5.7: Suite 5 - deux exemples simples
+
+On reprend l’exemple de 2.2.5.4 du fluide parfait
+sans
+aussi 2.1.2.1, 2.2.0.1, 2.2.2.2, 2.2.3.2 et 2.2.4.3). On suppose que :
+
+constante
+
+cosmologique
+
+(voir
+
+α0∶= 8πG
+On se place dans le cas o`u λ∶=−1 et µ∶= 1.
+
+δ= 2
+
+8πG
+c2
+
+ρ0
+
+c4
+
+c2
+
+P.
+
+ρ0 , β∶= 8πG
+F(R2)F(−r2)− F(r2)F(−R2)
+(3F(−R2)− F(−r2))(3F(R2)− F(r2))
+F(x)∶=√
+δ≈ 2πG
+
+3− 8πGρx/c2.
+0(R2− r2)≈ 2P.
+− 8πG
+⎞⎟⎟⎟⎠ , S(2)
+jl ≈⎛⎜⎜⎜⎝
+
+c2 ρ0 0 0 0
+0 0 0
+0
+0 0 0
+0
+0
+0 0 0
+
+ρ2
+
+3
+
+⎞⎟⎟⎟⎠ .
+
+S(1)
+
+jl ≈⎛⎜⎜⎜⎝
+
+8πG
+c2 ρ0 0 0 0
+0 0 0
+0
+0 0 0
+0
+0
+0 0 0
+
+(i) On a :
+
+avec :
+
+(a) On a :
+
+(b) On a :
+
+(ii) On se place en approximation newtonienne.
+
+2.2.6 Exemple de la m´etrique Reissner–Nordstr¨om
+
+On ´etudie dans cette sous-section la m´etrique de Reissner-Nordstr¨om. Elle correspond au champ gravi-
+
+tationnel d’un corps charg´e, non rotatif, `a sym´etrie sph´erique de masse M et charger q.
+
+On commence par une proposition.
+
+Proposition 2.2.6.1: Expression simple de α et β
+
+Supposons que pour tout r> R :
+
+Posons :
+
+α(r)=−β(r)= ν0+ ν1
+As∶= A(R)− ν0R3
+3 + ν1
+
+r4
+
+R
+
+.
+
+.
+
+Calculs pratiques en relativit´e g´en´erale
+
+110
+
+David Pigeon
+
+CHAPITRE 2. R´ESOLUTION PRATIQUE DANS LE CAS DES M´ETRIQUES `A SYM´ETRIE
+SPH´ERIQUE
+
+2.2. CAS O `U LES FONCTIONS ˙B ET ξ SONT NULLES.
+
+On a pour r> R :
+
+h= c2(1− As
+
+r − ν0r2
+3 + ν1
+D´emonstration. On a pour r> R :
+
+r2) dt⊗ dt−(1− As
+
+r2)−1
+3 + ν1
+r − ν0r2
+
+dr⊗ dr− r2hΩ.
+
+0
+
+0
+
+R
+
+α(r)r2dr
+A(r)=∫ r
+=∫ R
+α(r)r2dr+∫ r
+α(r)r2dr
+ν0r2dr+∫ r
+= A(R)+∫ r
+R+ ν0r3
+3 − ν1
+3 + ν1
+= A(R)− ν0R3
+= As+ ν0r3
+3 − ν1
+r − ν0r2
+r = 1− As
+3 + ν1
+1− A
+
+ν1
+r2
+
+dr
+
+r2
+
+r
+
+r
+
+R
+
+R
+
+.
+
+Ainsi on a :
+
+Le tenseur ´energie-impulsion est d´eduit du tenseur ´electromagn´etique. On suppose qu’il n’y a pas de
+champ magn´etique et que le champ ´electrique n’a qu’une composante radiale. On donne la d´efinition du
+tenseur ´energie impulsion.
+
+D´efinition 2.2.6.2: D´efinition du tenseur ´energie impulsion
+
+En coordonn´ees polaires sph´eriques, le tenseur ´energie impulsion est d´efinit par :
+
+µ0
+
+Tjl∶= 1
+, Fjl∶=⎛⎜⎜⎜⎝
+−Er/c
+
+0
+0
+
+0
+
+4
+
+ηjlFikF ik− ηlkFjiF ki)
+( 1
+Er/c 0 0
+⎞⎟⎟⎟⎠ , F jl∶=⎛⎜⎜⎜⎝
+Er/c
+
+0 0
+0 0
+0 0
+
+0
+0
+0
+
+0
+0
+
+0
+
+−Er/c 0 0
+
+0
+0
+0
+
+0 0
+0 0
+0 0
+
+⎞⎟⎟⎟⎠
+
+avec :
+
+Er∶= Q
+
+4πε0r2
+
+Le tenseur ´energie-impulsion a alor une forme simple.
+
+Lemme 2.2.6.3: Valeur des composantes du tenseur ´energie impulsion
+
+On a :
+
+avec :
+
+⎞⎟⎟⎟⎠
+
+0
+0
+0
+
+−1
+
+Tjl= Φ
+
+1
+
+0
+0
+
+−1 0
+⎛⎜⎜⎜⎝
+0 −1
+Φ∶=− GQ2
+
+0
+0
+0
+
+r4
+
+4πε0c4r4
+
+0
+
+0
+
+.
+
+David Pigeon
+
+111
+
+Calculs pratiques en relativit´e g´en´erale
+
+CHAPITRE 2. R´ESOLUTION PRATIQUE DANS LE CAS DES M´ETRIQUES `A SYM´ETRIE
+SPH´ERIQUE
+
+2.2. CAS O `U LES FONCTIONS ˙B ET ξ SONT NULLES.
+
+D´emonstration. Comme :
+
+on a :
+
+F01F 01= F10F 10
+ηjlFikF ik− ηlkFjiF ki)
+ηjl(F01F 01+ F10F 10)− ηlkFj0F k0− ηlkFj1F k1)
+ηjlF01F 01− ηl1δj,1F01F 01− ηl0δj,0F01F 01)
+( 1
+
+ηjl− ηl1δj,1− ηl0δj,0)
+
+2
+
+4
+
+µ0
+
+( 1
+Tjl= 1
+( 1
+= 1
+( 1
+= 1
+= F01F 01
+
+µ0
+
+µ0
+
+4
+
+2
+
+µ0
+
+On a deux cas.
+
+(1) Cas j≠ l. On a :
+
+(2) Cas j= l. On a :
+
+Et comme c2ε0µ0= 1, on a :
+
+ηjl− ηl1δj,1− ηl0δj,0)
+
+η00− η01δ0,1− η00δj,0)
+η11− η11δ1,1− η10δ1,0)
+η22− η21δ2,1− η20δ2,0)
+η33− η31δ3,1− η30δ3,0)
+
+( 1
+
+2
+
+2
+
+µ0
+
+µ0
+
+2µ0
+
+Tjl= F01F 01
+= 0
+T00= F01F 01
+( 1
+=− F01F 01
+T11= F01F 01
+( 1
+= F01F 01
+T22= F01F 01
+( 1
+=− F01F 01
+T33= F01F 01
+( 1
+=− F01F 01
+
+2µ0
+
+2µ0
+
+µ0
+
+µ0
+
+µ0
+
+2
+
+2
+
+2
+
+2µ0
+
+F01F 01
+
+2µ0
+
+2µ0c2
+
+=− Er
+=− GQ2
+= Φ
+
+r4
+
+4πε0c4r4
+
+Calculs pratiques en relativit´e g´en´erale
+
+112
+
+David Pigeon
+
+CHAPITRE 2. R´ESOLUTION PRATIQUE DANS LE CAS DES M´ETRIQUES `A SYM´ETRIE
+SPH´ERIQUE
+
+2.2. CAS O `U LES FONCTIONS ˙B ET ξ SONT NULLES.
+
+On reprend les notations des exemples de ce chapitre (voir par exemple 2.1.2.1) avec :
+
+r4
+
+r4
+
+−Λ+ Φ0
+Λ− Φ0
+
+si r≤ R
+α(r)∶={ κc2ρ(r)− Λ+ Φ(r)
+si r> R.
+β(r)∶={ κP(r)+ Λ− Φ(r)
+si r≤ R
+si r> R.
+γ(r)∶= δ(r)∶={ κP(r)+ Λ+ Φ(r)
+Λ+ Φ0
+Q= Q2G
+⎞⎠ dt⊗ dt−⎛⎝1− Rs
+
+r − Λr2
+
+3 + R2
+
+4πε0c4
+
+Q
+r2
+
+R2
+
+r4
+
+.
+
+si r≤ R
+si r> R.
+
+3 + R2
+
+Q
+r2
+
+⎞⎠
+−1
+
+dr⊗ dr− r2hΩ
+
+Posons :
+
+Pour r> R, on a donc :
+h=⎛⎝1− Rs
+
+r − Λr2
+
+David Pigeon
+
+113
+
+Calculs pratiques en relativit´e g´en´erale
+
+CHAPITRE 2. R´ESOLUTION PRATIQUE DANS LE CAS DES M´ETRIQUES `A SYM´ETRIE
+SPH´ERIQUE
+
+2.2. CAS O `U LES FONCTIONS ˙B ET ξ SONT NULLES.
+
+Calculs pratiques en relativit´e g´en´erale
+
+114
+
+David Pigeon
+
+Bibliographie
+
+[1] R. Adler, M. Bazin, M Schiffer, Introduction to General Relativity, First ed., McGraw-Hill Book Company,
+
+[2] E. Cartan, Sur les vari´et´es `a connexion affine et la th´eorie de la relativit´e g´en´eralis´ee, Annales scienti-
+
+fiques de l’´Ecole Normale Sup´erieure, S´erie 3, Tome 40, pp. 325-412, (1923).
+
+[3] A. Einstein, Die Feldgleichungen der Gravitation, Sitzungsberichte der Preussischen Akademie der Wis-
+
+senschaften zu Berlin, (1915).
+
+[4] A. Friedmann, ¨Uber die Kr¨ummung des Raumes, Z. Phys., vol. 10, no 1, p. 377-386, (1922).
+[5] A. Friedmann, ¨Uber die M¨oglichkeit einer Welt mit konstanter negativer Kr¨ummung des Raumes, Z.
+
+Phys., vol. 21, no 1, p. 326-332, (1924).
+
+[6] S. Gallot, D. Hulin, J. Lafontaine, Riemannian Geometry, Springer-Verlag, (2004).
+
+[7] G. B. Jeffery, The field of an electron on Einstein’s theory of gravitation, Proc. R. Soc. Lond. A. 99 (697),
+
+(1965).
+
+(1921).
+
+[8] S. Kobayashi, Theory of Connections, Ann. Mat. Pura Appl., 43 : 119–194, (1957).
+
+[9] S. Kobayashi, K Nomizu, Foundations of Differential Geometry, Vol.I, Wiley Interscience, (1963).
+
+[10] G. Lemaitre, Un univers homog`ene de masse constante et de rayon croissant rendant compte de la
+vitesse radiale des n´ebuleuses extragalactiques, Annales de la Soci´et´e scientifique de Bruxelles, p. 49-56,
+(1927).
+
+[11] M. Ludvigsen, General Relativity : A Geometrical Approach, Cambridge University Press, (1999).
+
+[12] G. Nordstr¨om, On the Energy of the Gravitational Field in Einstein’s Theory, Verhandl. Koninkl. Ned.
+
+Akad. Wetenschap, Afdel Natuurk, Amsterdam 26 : 1201–1208, (1918).
+
+[13] H. Reissner, ¨Uber die Eigengravitation des elektrischen Feldes nach der Einsteinschen Theorie, Annalen
+
+der Physik, 50 (9) : 106–120, (1916).
+
+[14] H. P. Robertson, Kinematics and world-structure, Astrophys. J., vol. 82, no 4,, p. 284-301, (1935).
+
+[15] H. P. Robertson, Kinematics and world-structure. II, Astrophys. J., vol. 83, no 3, p. 187-201, (1936).
+
+[16] H. P. Robertson, Kinematics and world-structure. III, Astrophys. J., vol. 83, no 4, p. 257-271, (1936).
+
+[17] L. Schwartz, Les tenseurs, Hermann, (1975).
+[18] K. Schwarzschild, ¨Uber das Gravitationsfeld eines Massenpunktes nach der Einsteinschen Theorie, Sit-
+zungsberichte der Deutschen Akademie der Wissenschaften zu Berlin, Klasse fur Mathematik, Physik,
+und Technik, p. 189, (1916).
+
+[19] K. Schwarzschild, ¨Uber das Gravitationsfeld einer Kugel aus inkompressibler Flussigkeit nach der Ein-
+steinschen Theorie, Sitzungsberichte der Deutschen Akademie der Wissenschaften zu Berlin, Klasse fur
+Mathematik, Physik, und Technik, p. 424, (1916).
+
+[20] R. M. Wald, General Relativity, University of Chicago Press, (1984).
+
+[21] A. G. Walker, On Milne’s theory of world-structure, Proceedings of the London Mathematical Society,
+
+2e s´erie, vol. XLII, no 1, p. 90-127, (1937).
+
+[22] H. Weyl, Zur Gravitationstheorie, Annalen der Physik, 54 (18), (1917).
+
+115
+
+

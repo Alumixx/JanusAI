@@ -1,0 +1,90 @@
+The problem of the Dipole Repeller
+J.P.Petit ,  G.d’Agostini Nathalie Debergh
+Manaty Research Group
+____________________________________________________________________________________________________
+Keywords : Dipole repeller, Poisson equation, dark matter
+____________________________________________________________________________________________________
+Abstract : After the discovery in 2017 of the Great Repeller some have suggested that this repulsion effect can be attributed to a gap in a uniform dark matter distribution. This interpretation is difficult to reconcile with a systematic use of the Poisson equation which then leads to the nullity of the gravitational field in the gap. This paradox is resolved by showing that this equation cannot describe the field created by a uniform distribution. Then a gap in this positive mass produces the observed repulsive effect. But as the gravitational instability produces clusters and not gaps, we must consider that this configuration arises from a new field, with associated particles to which one could give the name, as that of inflation is already taken, of schwarzinos.
+ ____________________________________________________________________________________________________
+Introduction :
+In 2017 four researchers: Yehuda Hofman, Brent Tully, Hélène Courtois and Daniel Pomarède published in the journal Nature [1]   the result of a mapping referring to hundreds of thousands of galaxies located in a cube of one and a half billion light-years side. The data exploited concerned the luminosity of the objects and their recession speed. The authors then had the idea to put in speed the proper speeds of these objects by subtracting the escape speed corresponding to the Hubble law. 
+The result was a remarkable structure in which the objects followed lines comparable to the current lines in a river. The existence of an important grouping of galaxies corresponding to what was called the Great Attractor and towards which the surrounding galaxies seemed to converge was known for a long time. The study revealed an even more important formation at a greater distance, which was given the name of Shapley attractor. 
+But it was a great surprise to discover that these basins of attraction constituted one of the elements of a dipole, the other region being at approximately the same distance from the observation point, the center of the cube, and in the diametrically opposite direction. This region appeared remarkably empty of galaxies and matter. Moreover, the velocity field of the surrounding galaxies showed a repulsion. This formation was named Dipole Repeller.
+
+The difficult interpretation of the phenomenon. 
+It remains to be understood how such a structure could have formed. If it is easy to justify huge clusters of galaxies like the Shapley attractor, by invoking the Jeans instability, one does not find so far a model of the mechanism that gave rise to a vacuum corresponding to the Great Repeller. 
+We only hear speakers mentioning the possible existence of a gap in a dark matter distribution. Once again we appeal to this magical component which always refuses to be captured by our observational instruments, in tunnels, in mines or on board the space station. In a recent article (&&&) the authors have even given it a new name by suggesting that the object which, at the center of our galaxy, manages the movement of nearby stars is made of "darkinos". And these speakers added that a gap in a field of negative mass is equivalent to its negative image, ie a conglomerate of negative mass, repulsive. 
+But this poses a problem when we try to build this model using the Poisson equation, corresponding here to a spherical symmetry:
+ (1)                                                       
+This equation is linear. We can therefore say that by superimposing two given density distributions  and , the resulting gravitational potential is the sum of the potentials associated with these two distributions . 
+Let us consider a uniform density distribution , creating a potential  .  We will create the gap by assuming that in a certain volume contained in a sphere we superimpose an equal and opposite density   creating a potential  . 
+Let us start by calculating this one, solution of
+ (2)                                                                                              
+This solution is : 
+(3)                                
+We thus obtain a repulsive gravitational field, proportional to the distance to the center of the sphere. It remains to calculate the gravitational field created by the uniform distribution, still considering the Poisson equation (1). Its solution is then: 
+(4)                             
+We obtain the same force field, of opposite sign. Consequently, by superimposing, inside the gap the gravitational field is null:
+(5)                                                               
+In any case, the solution (4), of the Poisson equation, corresponding to a uniform distribution is a paradox. We have placed ourselves in a stationary or quasi-stationary situation, considering a uniform distribution of density. Then, whatever the point chosen as the origin of the coordinates, we find a non-zero gravitational field, whose modulus increases proportionally to the distance to this point. We are faced with a paradox.
+We are forced to come back to the construction of this Poisson equation
+In any case the solution (4), of the Poisson equation, corresponding to a uniform distribution is a paradox. We have placed ourselves in a stationary or quasi-stationary situation, considering a uniform distribution of density . Then, whatever the point chosen as the origin of the coordinates, we find a non-zero gravitational field , whose modulus increases proportionally to the distance to this point. We are faced with a paradox.
+We are forced to go back to the construction of this Poisson equation
+
+The ontological basis of the Poisson equation. 
+All students know the origin of this equation, associated with a Newtonian potential, when it refers to the potential V created by electric charges. In a spherically symmetric system: 
+(6)                                                      
+There is a change of sign because, with respect to a control electric charge +1 a positive charge creates a Newtonian force of repulsion, whereas with respect to a control mass +1 a positive mass creates an attractive Newtonian force. This equation is obtained by evaluating the flux of the electric field vector across a closed surface and applying Green's theorem. But nobody would consider a world where the electric charge would not be zero at infinity. 
+In gravitation we will be forced to consider the Poisson equation as the linearized version of Einstein's equation in a very restrictive case: in a stationary (or quasi-stationary) situation and when we can describe the metric as a perturbation of a Lorentz metric : .
+ (7)                                                              
+This is consistent with a situation where the density is zero to first order. 
+(8)                                                                 
+By adding the assumption of low velocities in front of c, which gives the second member tensor the form: 
+(9)                                                     
+If we neglect the term of the order of   , the Laue scalar   is 
+(10)                                                 
+and the right side of the field equation is to the first order in small quantities  : 
+(11)
+
+Neglecting the second-order terms in  gives the following approximate form for the contracted Riemann tensor :
+(12)                                      
+Consider first the case  . Since we are considering a rim-independent metric, the first term of (74) is zero, so we are left with the equation 
+(13)                                          
+The Christoffel symbol of the first kind is defined by 
+(14)                                                
+Since the Lorentz metric is constant in space and time, this simplifies to 
+(15)                                                               
+Furthermore  is time-independent, so  is zero. Neglecting the second-order terms in , we then have
+(16)                                                          
+which is zero for  . 
+Substituing in (15) we obtain an approximate field equation for   
+(17)                                                                  
+or, by virtue of time independence, 
+(18)                                                                
+This makes it possible to show a gravitational potential according to  
+(19)                                                                  
+By opting for the definition of the Einstein constant according to : 
+(20)                                                                      
+We obtain the Poisson equation. 
+(21)                                                                  
+But, in this approach, it should be noted that everything is based on the fact that we can consider a stationary metric solution, in the zero order, expressed in the form of a Lorentz metric , immediately associated to a portion of empty space.  In the above, the perturbation of the metric is due to a density of finite extension. It is not possible to reconcile this approach on the basis of a non-empty, uniform and infinite density of order zero. 
+
+The conclusion is that it is simply impossible to define 
+a gravitational potential in a uniform matter distribution.
+
+ The Poisson equation cannot be used. In such a medium the mass points are attracted in the same way in all directions and the resultant of this force is zero. The solution (4) is therefore not physical. 
+
+The corollary is that the gravitational field associated with a gap in a uniform distribution of matter, whether this mass is positive or negative, is equivalent to the field created by : 
+
+- A uniform distribution of density  ( null gravitational field ) 
+
+- The image of the gap with  changed sign, corresponding to a density , inverted. 
+
+
+Conclusion:
+
+A gap in a positive mass distribution produces a repulsive effect. But it should be noted that the gravitational instability, in a medium like dark matter, supposedly self-attracting, can only create clusters of matter, not gaps. Unless they invoke a new hypothetical phenomenon, i.e. a new field, associated with a new hypothetical particle to which we can then give a name, as we did with the so called inflaton, or what recently introduced in [2] with darkinos . For this new field we suggest, as the name « inflaton » is already taken, of «  schwarzinos ». 
+
+References : 
+[1]   The Dipole Repeller : Y. Hoffman, D.Pomarède, R.B.Tully, H.Courtois. Nature Astronomy 2017 1 , 0036  
+[2]   Hinting a dark matter nature of SgrA* via the S-stars : E.A. Becerra-Vergara, C.R. Argüelles, A. Krut, J.A. Rueda , R. Ruffini. Monthly Notives of the Royal Astronomical Society : Letters slab051 . https:/doi.org/10.1093/mnras/slab051. Published : May 2021  

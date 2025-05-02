@@ -1,0 +1,186 @@
+2 Relativistic Quantum Mechanics
+
+74
+respect the symmetry of space inversion, so these particles are given
+different names : neutrinos for helicity +1/2, and antineutrinos for helicity
+-1/2.
+
+Even though the helicity of a massless particle is Lorentz-invariant, the
+state itself is not. In particular, because of the helicity-dependent phase
+factor exp(i a H) in Eq. (2.5.42), a state formed as a linear superposition of
+one-particle states with opposite helicities will be changed by a Lorentz
+transformation into a different superposition . For instance, a general
+one-photon state of four-momenta may be writte n
+
+where
+
+I X+I 2 + I U_ 11 = 1 .
+
+The generic case is one of elliptic polarization, with Ioc+ I both non-zero and
+unequal. Circular polarization is the limiting case where either Y+ or x_
+vanishes, and linear polarization is the opposite extreme, with a+ = la-1 .
+The overall phase of ac+ and a_ has no physical significance, and for linear
+polarization may be adjusted so that ac_ = a+, but the relative phase is
+still important. Indeed, for linear polarizations with a_ = a+, the phase
+of ac+ may be identified as the angle between the plane of polarization
+and some fixed reference direction perpendicular to p. Eq. (2.5.42) shows
+that under a Lorentz transformation A,,, this angle rotates by an amount
+B(11> p). Plane polarized gravitons can be defined in a similar way, and
+here Eq. (2.5.42) has the consequence that a Lorentz transformation A
+rotates the plane of polarization by an angle 20 (A, P) •
+
+2.6
+
+Space Inversion and Time-Reversal
+
+We saw in Section 2.3 that any homogeneous Lorentz transformation is
+either proper and orthochronous (i .e., DetA :;-- +1 and AOO > +1) or
+else equal to a proper orthochronous transformation times either : or
+9- or Y g-, where 9 and JV are the space inversion and time-reversal
+transformations
+p -L-
+
+~'
+
+4
+
+0
+
+0
+
+0
+
+1
+
+1
+
+1
+
+~~ o 1
+V = o 0
+U 4
+
+0 0
+0
+0
+0
+0 - 1
+
+0
+0 0
+a a
+0 - 1
+0 0 1
+
+0
+
+It used to be thought self-evident that the fundamental multiplication rule
+of the Poincare group
+
+2.6 Space Inversion and Time-Reversal
+
+75
+would be valid even if A and/or A involved factors of ~P or °l or 503T.
+In particular, it was believed that there are operators corresponding to
+and ~F themselves :
+
+such that
+
+(2.6.1)
+{
+.G.2}
+for any proper orthochronous Lorentz transformation 11P, and translation
+aP. These transformation rules incorporate most of what is meant when
+we say that P or T are 'conserved'.
+In 1956-57 it became understaod8 that this is true for P only in the
+approximation in which one ignores the effects of weak interactions, such
+as those that produce nuclear beta decay . Time-reversal survived for a
+while, but in 1964 there appeared indirect evidence9 that these properties
+of T are also only approximately satisfied. (See Section 3.3.)
+In what
+follows, we will make believe that operators P and T satisfying Sys . (2-6-1)
+and (2.6.2) actually exist, but it should be kept in mind that this is only
+an approximation .
+(2.6.1) and (2.6.2) in the case of an infinitesimal
+Let us apply Eqs.
+transformation, i.e.,
+
+~ ~ ~ alt = ,U
+
+with w.,, _ -o),,, and e. both infinitesimal. Using (2.4.3), and equating
+coefficients of r~),o¢ and eP i n Eqs. (2.6.1 ) and (2.6.2), we obtain the P and
+T transformation properties of the Poincare generators
+
+p i P{3p- 1 = i
+
+4 PPY ,
+T iPPT-' = ?' .1JU PPP .
+
+(2.6.3)
+(2.6.4)
+(2.6.5)
+(2.6.6)
+This is much like Eqs. (2.4.8) and (2.4.9), except that we have not cancelled
+factors of i on both sides of these equations, because at this point we have
+not yet decided whether P and T are linear and unitary or antilinear an d
+antiunitary-
+
+The decision is an easy one . Setting p = 0 in Eq . (2.6.4) gives
+
+P i HPR t = i H ,
+
+where H - P° is the energy operator. If P were antiunitary and antilinear
+then it would anticommute with i, so PHP-l = -H. But then for and
+state T of energy E > 0, there would have to be another state P-1 T of
+
+2 Relativistic Quantum Mechanics
+
+76
+energy - E < 0. There are no states of negative energy (energy less than
+that of the vacuum), so we are forced to choose the other alternative- P
+is linear and unitary, and commutes rather than anticommutes with H .
+
+On the other hand, setting p =Din Eq. (2.6.6) yields
+
+T i HT-1 _ ----i H .
+
+If we supposed that T is linear and unitary then we could simply cancel
+the is, and find TAT-1 = - H, with the again disastrous conclusion that
+for any state T of energy E there is another state T-1'I' of energy -E.
+To avoid this, we are forced here to conclude that T is antilinear and
+antxuraitary.
+Now that we have decided that P is linear and T is antilinear, we
+(2.6.3)-(2.6.6) in terms of the generators
+can conveniently rewrite Eqs.
+(2.4.15)-(2.4.17) in a three-dimensional notation
+
+PIMP-1 = -K (2.6.8)
+PPP-1 = _P, (2.6.9)
+
+TKTT' _ +K , (2.6. 1 1)
+TPT-1 = -P , (2.6.12)
+
+and, as shown before,
+
+PHP-1 = THT-1 = H . (2.6.13)
+It is physically sensible that P should preserve the sign of J, because at
+least the orbital part is a vector product r x p of two vectors, both of which
+change sign under an inversion of the spatial coordinate system. On the
+other hand, T reverses J, because after time-reversal an observer will see
+all bodies spinning in the opposite direction. Note by the way that Eq .
+(2.6.10) is consistent with the angular-momentum commutation relations
+J x J = iJ, because T reverses not only J, but also i. The reader can easily
+(2.6.7)-(2.6.13) are consistent with all the commutation
+check that Eqs.
+relations (2.4.1$)-(2.4.24).
+P :M> O
+The one-particle states 'I'k,, are defined as eigenvectors of P . H, and J3
+with eigenvalues 0, M, and a, respectively. From Eqs. (2.6.7), (2.6.9), and
+(2.6.13), we see that the same must be true of the state P`F'k, ,, and therefore
+(barring degeneracies) these states can only differ by a phase
+
+Let us now consider what P and T do to one-particle states :
+
+with a phase factor (I~ j = 1) that may or may not depend on the spin a.
+
+

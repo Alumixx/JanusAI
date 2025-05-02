@@ -1,0 +1,789 @@
+1	
+
+	How	to	derive	the	geodesics	from	the		Schwarzschild’s	metric.	
+
+December	2	nd	2017	
+Jean-Pierre	Petit	
+
+	
+	Cosmology	appears	as	a	hard	field,	reserved	to	very	few	people.		
+In	effect,	when	Einstein	published	his	theory	the	journalists	presented	that	work	as	
+highly	sophisticated,	reserved	to	a	very	small	number	of	men.	
+Today	the	so-called	specialists	of	the	field	look	like	the	keepers	of	the	house.	They	
+present	themselve	as	an	intellectual	and	scientific	elite.		
+In	my	video	I	will	show	that	all	that	stuff	is	accessible	to	a	large	number	of	people.		
+Cosmology	is	like	a	puzzle	with	several	parts.	The	concept	of	metric	was	one	of	them.	I	
+have	discussed	a	lot	in	my	precedent	video.	The	concept	of	geodesic	in	another	one.	But	
+how	to	link	the	two	?		
+This	will	be	the	goal	of	the	present	vidéo.		
+The	Schwarzschild	metric	is	a	solution	of	Einstein’s	equation.	To	make	the	things	
+line	 element	 of	 such	 metric	 expressed	 with	 the	
+let’s	 consider	 the	
+simpler	
+coordinates		   x° , r ,θ,ϕ
+},	as	written	page	194,	equation	(6.53)	in	the	book	of		
+	
+Adler,	Schiffer	and	Bazin	:	
+Mc	Graw	Hill	
+	
+You	can	download	that	book	through	:	
+http://www.jp-petit.org/books/asb.pdf	
+
+Introduction	to	General	Relativity	
+
+{
+
+	
+
+	
+
+	
+
+	
+
+2	
+
+a
+
+∫
+
+⎛
+⎝⎜
+
+	
+
+1−
+
+1−
+
+dr 2
+
+⎧
+⎪
+⎨
+⎪
+⎩
+
+⎫
+⎪
+⎬
+⎪
+⎭
+
+2m
+r
+
+2m
+r
+
+b∫
+  
+
+⎞
+⎠⎟ c2dt 2 −
+
+− r 2( dθ2 + sin2θdϕ2 )
+
+m	is	a	simple	integration	constant.		
+x°	is	a	chronological	marker.		
+s	is	the	length,	measure	of	the	4D-hypersurface.		
+Asb	writes	:		
+ x° = ct	
+A	geodesic	of	such	hypersurface	is	a	line	correspondong	to	a	minimum	length.	It	
+corresponds	(	asb	page	201	)	to		
+(6.73)																																																															  δ ds = 0
+		
+It	means	that	:	
+has	a	minimum	value	along	a	certain	path	ab,	corresponding	to		
+Write	:		
+	
+	So	that	we	have	to	search	the	paths	which	corresponds	to	a	minimum	of		
+	
+This	corresponds	to	a	function	:		
+   L ≡ L(t , r ,θ,ϕ, !t , !r , !θ, !ϕ)							or								   L ≡ L( xi , !xi )	
+This	problem	has	been	solved	by	the	French	mathematician	Lagrange	and	corresponds	
+to	well-known	Lagrange	equations.		
+The	reader	could	say	:		
+What	such	equation	comes	from	?		
+Years	ago	I	have	composed	a	file	entitled		
+
+r(s) θ(s) ϕ(s)	
+
+− r 2( !θ2 + sin2θ !ϕ2 )
+
+!r 2
+2m
+1−
+r
+
+⎞
+⎠⎟ c2!t 2 −
+
+b∫
+   
+
+dϕ
+ds
+
+2m
+r
+
+dθ
+ds
+
+!t =
+  
+
+⎫
+⎪
+⎬
+⎪
+⎭
+
+⎧
+⎪
+⎨
+⎪
+⎩
+
+dr
+ds
+
+dt
+ds
+
+  t(s)
+
+!θ=
+
+!ϕ=
+
+!r =
+
+1−
+
+ds
+
+⎛
+⎝⎜
+
+a
+
+	
+
+3	
+
+http://www.jp-petit.org/papers/bourbakof_en.pdf	
+
+	There,	you	will	discover	how	such	equations	are	derived,	starting	from	a	problem	of	
+soap	film,	this	last	being	linked	to	two	circles	:		
+
+	Bourbakof	shows	how	to	derive	the	equation	of	the	meridian	of	the	film	surface,	which	
+minimizes	its	area.		
+Hereafter	the	meridian	line	of	the	soap	film	:		
+	
+
+	
+
+	
+
+	
+
+	
+Calculation	of	the	film’s	area	:		
+	
+
+4	
+
+  
+
+!f =
+
+L( f , !f )dx
+
+A( f ) =
+   
+
+df
+dx
+b∫
+
+			and			
+
+			,					to	:		
+
+	
+		This	corresponds,	with		
+= 0	
+The	file	shows	that	the	solution	is	given	by	the	Lagrange	equation	:		
+Similarly	the	equations	of	geodesics	are	given	by	the	Lagrange	equations	:		
+with	:		
+
+b∫
+   δ L( f , !f )dx
+
+d
+dx
+  
+
+d
+ds
+  
+
+∂ L
+∂ !xi
+
+∂ L
+∂ !f
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+⎞
+
+⎞
+
+a
+
+a
+
+	
+⎠⎟ = ∂ L
+∂ f
+∂ x	
+⎠⎟ = ∂ L
+− r 2( !θ2 + sin2θ !ϕ2 )	
+	
+
+= − 2 r 2 sinθcosθ !ϕ2
+
+L = 1−
+
+⎛
+⎝⎜
+
+2m
+r
+
+⎞
+⎠⎟ c2!t 2 −
+
+!r 2
+2m
+1−
+r
+
+   
+
+∂L
+∂t = ∂L
+   
+
+∂ϕ
+
+= 0
+
+∂L
+∂θ
+
+	
+
+	
+
+	
+We	could	write	a	fourth	equation	but,	along	the	geodesic	solution	we	have,	above,	the	
+equation	(6.53)	:		
+If	we	divide	by	ds	we	get	
+(6.78)		:																																				
+The	solution	is	sperically	symmetric.	We	see	that	it	goes	with	the	planes			 θ= Cst	.	We	
+can	study	geodesics	lying	in	the	plane	 θ= π/ 2	,	then	:		
+
+− r 2( dθ2 + sin2θdϕ2 )	
+− r 2( !θ2 + sin2θ !ϕ2 )		
+
+!r 2
+2m
+1−
+r
+
+⎞
+⎠⎟ c2dt 2 −
+
+⎞
+⎠⎟ c2!t 2 −
+
+ds2 = 1−
+
+1= 1−
+
+2m
+r
+
+2m
+r
+
+2m
+r
+
+dr 2
+
+1−
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+   
+
+  
+
+5	
+
+	
+
+	
+
+	
+
+	
+
+6	
+
+	
+
+	
+
+	
+
+7	
+
+	
+This	is	the	exact	solution	  ϕ≡ϕ(1 / r)	which	gives	the	plane	geodesics	as	derived	from	the	
+Schwarzschild’s	solution	of	the	Einstein’s	equation.		
+	
+
+	
+
+	
+
+8	
+
+Comment	construire	le	système	des	géodésiques	
+
+	issues	de	la	métrique	de	Schwarzschild	
+
+2017	december	2	nd.	
+Jean-Pierre	Petit	
+
+temperature correlations in the cosmic microwave background 
+
+Dodecahedral space topology as an explanation for weak wide-angle 
+
+https://arxiv.org/pdf/astro-ph/0310253.pdf	
+
+	Au	sein	du	public	la	cosmologie	fait	figure	de	discipline	extrêmement	pointue,	qui	
+semble	réservée	à	une	élite	de	scientifiques	et	de	mathématiciens.		
+	En	fait,	en	tout	cas	en	France,	d’où	aucune	contribution	notable	n’a	jamais	émergé	au	
+cours	de	l’histoire	(pas	plus	qu’en	astronomie	et	en	astrophysique,	du	reste)	les	«	stars	»	
+de	la	discipline,	auto-proclamées,	n’ont	jamais	fait	que	montrer	qu’elles	comprenaient	la	
+Relativité	Générale.	Et	c’est	encore	le	cas	aujourd’hui.		
+En	2003	Jean-Pierre	Luminet,	Roland	Lehoucq,	Alain	Riazuelo,	J.P.	Uzan	publient	un	
+article	dans	la	prestigieuse	revue	Nature,	intitulé	:	
+Le	lecteur	intéressé	pourra	avoir	accès	à	une	longue	suite	de	papiers,	auxquels	s’est	
+également	associé	un	autre	«	expert	»	en	cosmologie,	Marc	Lachièze-Rey	:		
+https://scholar.google.fr/scholar?hl=fr&as_sdt=0%2C5&q=roland+lehoucq&oq=roland+	
+C’est	ce	que	Luminet	a	tenté	de	populariser	son	le	nom	de	«	modèle	d’univers	chiffonné	»,	
+qui	constitue	la	seule	contribution	dont	il	continue	de	se	réclamer	(en	dehors	d’une	
+imagerie	de	trous	noirs,	reprise	par	Alain	Riazuelo).		
+En	matière	de	cosmologie	ou	d’astrophysique	tout	repose	sur	une	confirmation	
+observationnelle.	Dans	un	mail	récent	(2	décembre	2017	)	Roland	Lehoucq	m’a	répondu	
+sur	ce	point,	je	cite		:	
+-  Ces	
+travaux,	 n’ayant	 bénéficié	 d’aucune	 confirmation	 observationnelle,		
+appartiennent	désormais	au	passé.		
+	En	dépit	de	cet	insuccès	c’est	sur	cette	suite	d’articles	que	s’est	fondée	la	réputation	de	
+Roland	Lehoucq	de	«	spécialiste	de	topologie	cosmique	»,	ainsi	que	celle	de	Jean-Pierre	
+Luminet.		
+	Soyons	clair	:	les	apports	de	tous	les	«	cosmic	men	»	français	se	résument	à	strictement	
+zéro.	Tous	ne	doivent	leur	notoriété,	auto-proclamée,	que	grâce	à	leurs	talents	de	
+vulgarisateurs	et	au	puissant	relai	que	leur	fournissent	les	revues	de	vulgarisation	.		
+	Dans	ces	vidéos	et	cette	suite	de	pdf		je	fais	en	sorte	de	donner	accès	à	ceux	qui	ont	
+simplement	un	niveau	math	sup,	aux	points	essentielle	de	cette	cosmologie,	pour	
+désacraliser	cette	discipline.		
+
+	
+9	
+	Tout	cela	comporte	plusieurs	volets.	J’ai	déjà,	au	fil	de	ces	vidéos,		présenté	au	lecteur	les	
+concepts	de	métrique	et	de	géodésiques.		
+	Comment	lier	les	deux	?		
+	La	métrique	de	Schwarzschild	est	une	solution	exacte	de	l’équation	d’Einstein.	Nous	
+allons	partir	de	son	expression,	avec	des	coordonnées	   x° , r ,θ,ϕ
+},	telle	qu’elle	se	
+trouve	donnée	page	194,	équation	(6.53)	du	livre	d’Adler,	Schiffer	et	Bazin	intitulé	:	
+	
+Vous	pourrez	télécharger	l’intégralité	de	l’ouvrage	à	l’adresse	:		
+http://www.jp-petit.org/asb.pdf	
+
+Introduction	to	General	Relativity	
+
+{
+
+Mc	Graw	Hill	
+	
+
+m	est	une	simple	constante	d’intégration	(une	longueur)	
+x°	est	un	marqueur	chronologique	(également	une	longueur)		
+s	est	la	longueur	mesurée	sur	l’hypoersurface	4D		
+
+où	:		
+	Les	auteurs	écrivent	:		
+ x° = ct	
+Une	géodésique	est	un	trajet,	inscrit	dans	l’hypersurface,	qui	correspond	à	une	longueur	
+minimale	:		
+	(6.73)																																																															  δ ds = 0
+Ce	qui	signifie	que	cette	longueur	:	
+a	une	valeur	minimale	le	long	d’un	trajet	ainsi	paramétré	:		
+
+− r 2( dθ2 + sin2θdϕ2 )
+
+⎞
+⎠⎟ c2dt 2 −
+
+b∫
+  
+
+2m
+r
+
+2m
+r
+
+⎫
+⎪
+⎬
+⎪
+⎭
+
+⎧
+⎪
+⎨
+⎪
+⎩
+
+		
+
+dr 2
+
+1−
+
+1−
+
+	
+
+⎛
+⎝⎜
+
+∫
+
+a
+
+	
+
+	
+
+!r =
+
+!ϕ=
+
+!θ=
+
+  t(s)
+
+dt
+ds
+
+dr
+ds
+
+!t =
+  
+
+dθ
+ds
+
+10	
+
+	
+r(s) θ(s) ϕ(s)	
+Ecrivons		:		
+	Ainsi	cela	revient	à	chercher	les	trajets	qui	minimisent	:		
+La	quantité	entre	crochets	est	:		
+	Ce	problème	a	été	résolu	par	le	mathématicien	français	Lagrange	et	correspond	à	ce	
+qu’on	appelle	«	les	équations	de	Lagrange	».		
+Le	lecteur	trouvera	une	présentation,	imagée	mais	précise,	de	ces	éléments	dans	le	
+fichier	suivant	:		
+
+	
+   L ≡ L(t , r ,θ,ϕ, !t , !r , !θ, !ϕ)							or								   L ≡ L( xi , !xi )	
+
+− r 2( !θ2 + sin2θ !ϕ2 )
+
+!r 2
+2m
+1−
+r
+
+⎞
+⎠⎟ c2!t 2 −
+
+b∫
+   
+
+dϕ
+ds
+
+2m
+r
+
+⎫
+⎪
+⎬
+⎪
+⎭
+
+⎧
+⎪
+⎨
+⎪
+⎩
+
+1−
+
+ds
+
+⎛
+⎝⎜
+
+a
+
+	
+http://www.jp-petit.org/papers/bourbakof.fr.pdf	
+	L’établissement	des	équations	de	Lagrange	y	est	présenté	à	travers	la	recherche	de	
+l’équation	de	la	méridienne	d’un	film	de	savon	s’appuyant	sur	deux	cercles.		
+
+	
+
+11	
+
+	Ce	film	de	savon	constitue	une	surface	d’aire	minimale.	Ci-après,	la	méridienne	:		
+	
+
+	
+
+Et	le	calcul	de	l’aire	du	film	de	savon	:		
+	
+
+		Ce	qui	correspond,	avec	
+
+			,					à	:		
+
+df
+dx
+
+!f =
+
+  
+
+	
+
+	
+
+a
+
+12	
+
+b∫
+   δ L( f , !f )dx
+
+			and			
+
+	
+= 0	
+On	montre	que	la	solution	est	donnée	par	l’équation	de	Lagrange	:		
+La	recherche	des	géodésiques	relève	ainsi	d’un	problème	«	d’extremum	lié	».		
+Lié,	parce	qu’on	considère	tous	les	trajets	reliant	deux	points	a	et	b	,	donc	liés	à	ces	
+points.	Les	géodésiques	sont	alors	données	par	les	équations	:		
+Avec	:		
+
+⎠⎟ = ∂ L
+∂ f
+
+d
+dx
+  
+
+d
+ds
+  
+
+∂ L
+∂ !xi
+
+∂ L
+∂ !f
+
+	
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+⎞
+
+⎞
+
+∂ x	
+⎠⎟ = ∂ L
+− r 2( !θ2 + sin2θ !ϕ2 )	
+	
+
+L = 1−
+
+⎛
+⎝⎜
+
+2m
+r
+
+⎞
+⎠⎟ c2!t 2 −
+
+!r 2
+2m
+1−
+r
+
+   
+
+= 0
+
+∂t = ∂L
+∂L
+   
+
+Je	reproduis	les	passages	du	livre,	en	traduisant	:		
+Les	trois	premières	équations	de	Lagrange,	correspondant	aux	variables	  θ,ϕet t	,	sont	
+les	suivantes	:		
+
+= − 2 r 2 sinθcosθ !ϕ2
+
+∂L
+∂θ
+
+∂ϕ
+
+	
+On	pourrait	écrire	la	quatrième,	se	référant	à	la	variable	 r.	Mais	il	est	beaucoup	plus	
+simple	de	se	servir	de	l’expression	de	la	métrique.		
+Si	on	divise	les	deux	membres	par	ds2	on	obtient	:		
+
+− r 2( dθ2 + sin2θdϕ2 )	
+
+⎞
+⎠⎟ c2dt 2 −
+
+ds2 = 1−
+
+2m
+r
+
+2m
+r
+
+dr 2
+
+1−
+
+⎛
+⎝⎜
+
+  
+
+   
+
+⎛
+⎝⎜
+
+	
+
+2m
+r
+
+1= 1−
+
+⎞
+⎠⎟ c2!t 2 −
+
+!r 2
+2m
+1−
+r
+
+− r 2( !θ2 + sin2θ !ϕ2 )		
+
+	
+13	
+(6.78)		:																																				
+Cette	solution,	par	hypothèse,	possède	une	symétrie	sphérique.	Or	nous	voyons	que	
+nous	pouvons	isoler	des	solution	à	  θ= Cst	qui	correspondent	à	des	plans.	Ces	
+géodésiques	s’inscrivent	donc	dans	des	plans	et	nous	les	construirons	en	optant	poutr	le	
+plan	 θ= π/ 2	,	alors		:		
+(6.80)																																																			   r 2 !ϕ= h =	constante		
+L’équation	(6.77),	ci-dessus,	s’intègre	et	donne		
+Par	substitution	on	obtient	alors	l’équation	différentielle	:		
+	
+qui	donne	r	en	fonction	du	paramètre	s.	Mais	en	utilisant	une	équation	présente	plus	
+haut	on	peut	passer	à	une	équation	différentielle	où	figure	la	dérivée	;	
+	
+A	partir	de	(6.80)	et	de	(6.81)	on	obtient	alors	:		
+	
+On	peut	alors	obtenir	l’équation	différentielle	reliant	r	et	:		
+On	peut	alors	passer	de	la	variable	r	à	une	variable	:		
+Ce	qui	nous	conduit	à	:		
+
+u2	
+
+u =
+  
+
+r ' = −
+
+1
+r
+
+	
+
+u'
+
+	
+qui	se	réduit	à	:		
+dont	l’intégration	immédiate	donne	:		
+
+14	
+
+	
+	
+
+	
+Ceci	constitue	une	solution	exacte	de	l’équation	d’Einstein	qui	donne	des	géodésiques	
+«	quasi	elliptiques	»,	fonction	des	deux	constantes	d’intégration	l	et	h	.		
+	
+
+

@@ -1,0 +1,3364 @@
+About the Fundations of the Black Holes Theory
+
+Hicham Zejli, Florent Margnat, Jean-Pierre Petit
+
+To cite this version:
+Hicham Zejli, Florent Margnat, Jean-Pierre Petit. About the Fundations of the Black Holes Theory.
+2024. ￿hal-04637824￿
+
+HAL Id: hal-04637824
+
+https://hal.science/hal-04637824
+
+Preprint submitted on 7 Jul 2024
+
+HAL is a multi-disciplinary open access
+archive for the deposit and dissemination of sci-
+entific research documents, whether they are pub-
+lished or not. The documents may come from
+teaching and research institutions in France or
+abroad, or from public or private research centers.
+
+L’archive ouverte pluridisciplinaire HAL, est
+destinée au dépôt et à la diffusion de documents
+scientifiques de niveau recherche, publiés ou non,
+émanant des établissements d’enseignement et de
+recherche français ou étrangers, des laboratoires
+publics ou privés.
+
+	
+
+1	
+
+H.Zejli1	,	F.Margnat2,	J.P.Petit3	
+
+About	the	Fundations	of	the	Black	Holes	Theory.		
+
+_______________________________________________________________________________________________	
+Key	words	:	black	hole,	Schwarzschild	metric,	proper	time,	space	bridge,	throat	sphere,	
+Flamm	surface,	time	factor,	two-folds	cover,	bimetric,	Birkhoff	theorem,	unicity,	free	fall	
+time,	staticity,	physical	criticity,	geometrical	criticity,	signature,	imaginary	proper	time,	
+crossed	term	
+_______________________________________________________________________________________________	
+Abstract	:		In	a	broad	overview,	we	discuss	the	two	interpretations	that	have	been	given	
+of	the	outer	Schwarzschild	solution,	depending	on	whether	one	opts	for	uniqueness,	in	
+which	case	the	geometric	object	has	a	single	layer,	a	structure	of	a	variety	with	an	edge,	
+or	non-uniqueness	of	the	solution,	i.e.	for	a	configuration	in	which	there	are	two	metrics,	
+each	referring	to	one	of	the	layers	of	a	covering	structure	with	two	sheets,	joined	by	a	
+groove	sphere.	In	these	two	interpretations,	the	object	is	non-contractile.	The	black	hole	
+model,	as	described	in	Chandrasekhar's	1992	book	entitled	"Mathematics	of	Black	Holes",	
+is	based	on	the	central	hypothesis	of	including	in	the	real	world	particles	whose	geodesic	
+trajectories	are	traversed	with	pure	imaginary	proper	time,	which	goes	hand	in	hand	with	
+the	hypothesis	of	contractibility	of	the	geometric	object,	which	is	then	equipped	with	a	
+central	singularity.	
+_______________________________________________________________________________________________	
+1	-	Introduction	
+In	2011,	C.	Corda	published	an	article	[1]	entitled	"A	clarification	on	the	debate	on	the	
+'original	Schwarzschid	solution'"	in	the	form	of	a	simple	preprint	posted	online	on	the	
+arXiv	platform,	to	which	specialists	refer	anyone	wishing	to	question	the	physical	and	
+mathematical	consistency	of	the	black	hole	model.	We	propose	to	return	to	this	question.		
+Recent	observations	([2],[3])	of	supermassive	objects	located	at	the	centre	of	the	M87	and	
+Milky	Way	galaxies,	which	were	immediately	described	as	"Giant	Black	Holes",	are	far	
+from	being	consistent	with	what	characterises	black	holes	in	principle,	i.e.	that	their	
+central	part	is	absolutely	black.	Even	if	no	value	is	placed	on	the	temperature	values	
+displayed,	the	ratio	of	maximum	temperature	to	minimum	temperature	constitutes	
+usable	observational	data.	
+
+	
+
+	
+1	Hicham.zejli@manaty.et	
+2	Florent.margnat@univ-poitiers.fr	
+3	Jean-Pierre.petit@manaty.net	
+
+	
+
+2	
+
+	
+
+Fig.1	:	Images	of	hypermassive	objects	M87	and	Srg	A*	
+
+Although	the	masses	and	temperatures	of	these	two	objects	are	very	dissimilar,	the	ratios	
+of	maximum	temperature	to	minimum	temperature	are	surprisingly	close	to	3.	This	
+closeness	can	hardly	be	attributed	to	chance	and,	at	the	end	of	the	article,	we	will	examine	
+the	possible	significance	of	this	value.	Let's	take	a	look	back	at	what	is	known	as	the	
+"Original	Schwarzschild	Solution".	
+	2	–	The		original	Schwarzschild	solution.		
+It	corresponds	to	the	two	articles	published	by	the	author	in	January	1916	[4]	and	
+February	1916	[5],	shortly	before	his	death	on	11	May	1916.	The	English	translations	
+were	not	available	until	very	late,	the	first	article	in	1975	[6]	and	the	second	in	1999	[7],	
+twenty-four	and	eighty-three	years	after	their	publication	in	German.		The	approach	is	
+very	clear.	The	author	starts	with	the	field	equation	as	Einstein	had	just	published	it	two	
+months	earlier	[8].	In	what	follows,	our	equations	are	sometimes	numbered	twice.	In	this	
+case,	as	below,	on	the	left	will	appear	the	numbering	of	the	article	and	on	the	right,	in	
+italics,	the	numbering	in	the	article	from	which	this	equation	is	extracted.	to	cause.	Thus,	
+in	[5]	it	is	equation	(5)	:		
+		
+(1)																																																																
+where	
+	is	the	Einstein	constant	and	T	is	the	Laue	scalar.	Schwarzschild	clearly	indicates	
+his	course	of	action,	specifying	that	the	calculation	of	geodesics	will	be	based	on	the	
+optimisation	of	the	length	s.	These	are	equations	(1)	from	[4],	which	we	reproduce	exactly	
+as	they	appear	below:		
+		
+(2)																																																												
+
+G µν = − κ ( Tµν −
+  
+
+gµνT )
+
+(5)
+
+(1)
+
+1
+2
+
+κ
+
+∫
+δ ds = 0
+where
+∑
+
+ds =
+
+gµν dxµ dx ν
+
+⎧
+⎪
+⎪
+⎨
+⎪
+⎪
+⎩
+  
+
+		
+
+  r =
+
+x2 + y2 + z2
+
+  ds2 = F dt 2 −G( dx2 + dy2 + dz2 ) − H ( xdx + ydy + zdz )2
+
+If	one	calls	t	the	time,	x	,	y	,	z	,	the	rectangular	coordinates,	the	most	general	
+line	element	that	satisfies	the	conditions	1-3	is	clearly	the	following	:		
+
+(3)															
+where	F	,	G	,	H	are	functions	of		
+
+3	
+	
+At	the	same	time,	the	author	constructs	stationary	solutions	of	the	field	equation,	with	
+and	without	a	second	member.	In	this	approach,	which	is	remarkable	for	its	clarity	and	
+physical,	geometric	and	mathematical	coherence,	he	endeavours	to	ensure	the	continuity	
+of	the	solution	at	the	surface	of	the	star.	On	page	2	of	[5]	he	writes,	and	we	quote:	
+	
+This	means	that	its	variable	r,	which	is	perfectly	defined,	can	only	be	positive	or	zero.	
+Let's	start	by	analysing	the	calculation	that	gives	his	interior	metric,	which	describes	the	
+.	As	in	
+geometry	inside	a	sphere	filled	with	incompressible	matter	of	constant	density	
+all	his	calculations	he	used	c	=	1,	we	will	reconstruct	the	equations	by	reintroducing	this	
+letter	where	it	belongs.	The	schemes	for	the	two	calculations	are	similar,	in	terms	of	the	
+choice	of	coordinates	and	the	calculation	of	the	components	of	the	tensor	of	the	first	
+member,	which	is	common	to	both	solutions.	The	interior	metric	is	given	in	equation	(35)	
+of	[5]:	
+		
+(4)																						
+That	we	will	write:		
+(5)																		
+	
+Schwarzschild	clearly	understood	that	in	Einstein's	theory	the	mass	content	determined	
+the	curvature.	Since	his	mass	density	
+is	assumed	to	be	constant,	he	relies	on	a	geometry	
+within	the	mass	that	is	that	of	a	3D	hypersphere,	where	the	constant	radius	of	curvature	
+is:		
+(6)																																																																			
+.	This	hypersphere	is	then	fully	
+whose	points	are	identified	by	the	three	angles	
+described	for	the	values	:	
+(7)																																
+The	area	of	the	sphere	containing	the	mass	corresponding	to	
+.	The	spatial	
+part	of	the	metric	is	:		
+
+dχ2 +sin2 χdθ2 +sin2 χsin2 θdϕ2
+
+dχ2 +sin2 χdθ2 +sin2 χsin2 θdϕ2
+
+  χ :( 0 → π / 2 )
+
+  χ = χa < π / 2
+
+3cosχa −cosχ
+
+3cosχa −cosχ
+
+ϕ :( 0 → 2π )
+
+θ :( 0 → π )
+
+ds2 =
+ 
+
+ds2 =
+  
+
+ χ , θ , ϕ
+
+ˆR =
+ 
+
+8πG ρo
+
+8πG ρo
+
+3
+κρo
+
+c2dt2 −
+
+dt2 −
+
+		
+
+(35)
+
+3c2
+
+3c2
+
+ ρo
+
+ ρo
+
+	
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+⎡⎣
+
+⎤⎦
+
+⎡⎣
+
+⎤⎦
+
+2
+
+2
+
+2
+
+2
+
+3
+
+⎤⎦
+
+⎡⎣
+
+χ
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+3c
+
+ ˆR
+
+∫∫
+
+3c2
+
+A =
+ 
+
+gθθ gϕϕ
+
+8πG ρo
+
+8πG ρo
+
+dσ2 =
+ 
+
+dθdϕ = 4π ˆR 2 sin2 χ
+
+dχ2 +sin2 χdθ2 +sin2 χsin2 θdϕ2
+
+sin4 χsin2 θ = ˆR6 sin4 χsin2 θ
+
+gσ = gχχgθθ gϕϕ =
+ 
+
+4	
+	
+.	The	determinant	of	
+		
+.	Its	area	is	:		
+
+	
+(8)																																							
+This	is	the	metric	of	a	sphere	S3	of	constant	radius	of	curvature	
+this	metric	is	:		
+(9)																													
+Consider	a	sphere	centred	on	the	origin,	corresponding	to	a	fixed	value	
+		
+(10)																																																					
+So	the	area	of	a	sphere	surrounding	the	origin	can	be	taken	to	be	zero.		
+This	3D	object	is	contractile	.	
+We	now	turn	to	its	exterior	metric	[4].	After	switching	to	polar	coordinates,	it	introduces	
+a	new	set	of	spatial	coordinates	for	computational	convenience:		
+(11)																																				
+According	to	(equation	(7)	of	[4]):		
+		
+(12)																																												
+is	the	time	variable	t	(in	equation	(7)	of	[4]).	Its	metric	is	then	written	
+His	variable	
+(equation	(9)	of	[4].)	:	
+		
+(13)																																								
+	(the	future	"Schwarzschild	radius"
+).	He	
+First,	there	is	an	integration	constant	
+introduced	a	second	integration	constant	 which	was	quickly	identified	with	
+(equation	(13)	of	[4]).	This	means	that	his	result	is	expressed	according	to	equations	(10),	
+(11)	and	(12)	of	[4],	which	we	rename	:		
+		
+(14)																																																			
+(15)																																																
+		
+	
+(16)																																															
+
+f4 = 1− α( 3x1 + ρ )−1/3 =1−
+  
+
+  f2 = f3 = ( 3x1 + υ)2/3 = ( r3 + α3 )2/3
+
+} → r , θ , ϕ
+
+ds2 = f4 dx4
+  
+
+{
+  x , y , z
+
+dx2
+1− x2
+
+x2 = −cosθ
+
+( r3 + α3 )1/3
+
+x1 , x2 , x3
+
+2 − f3 dx3
+
+2 − f1dx1
+
+} →
+
+2(1− x2
+
+x1 =
+  
+
+x3 = ϕ
+
+2 − f2
+
+  x4
+
+		
+
+(11)
+
+(12)
+
+(10)
+
+ Rs
+
+r3
+3
+
+ α3
+
+(9)
+
+(7)
+
+{
+
+{
+
+}
+
+2)
+
+α
+
+α
+
+ρ
+
+2
+
+f1 =
+
+( 3x1 + ρ )− 4/3
+1− α( 3x1 + ρ )−1/3 =
+
+( r3 + α3 )− 4/3
+1−
+
+α
+
+( r3 + α3 )1/3
+
+  
+
+⎡⎣
+
+⎤⎦
+
+⎡⎣
+
+r4
+
+r4
+
+	
+
+2 =
+
+		
+
+5	
+
+c2dt2 −
+
+ds2 =
+ 
+
+dσ(3d)
+ 
+
+ g = − r4( r3 + α3 )1/3
+
+(r3 +α3) (r3 +α3)1/3 −α
+
+(r3 +α3) (r3 +α3)1/3 −α
+
+(r3 +α3)1/3 −α
+(r3 +α3)1/3
+
+dr2 + (r3 +α3)2/3(dθ2 +sin2θdϕ2)
+
+dr2 − (r3 +α3)2/3(dθ2 +sin2θdϕ2)
+
+⎤⎦
+   grr ! 3r / α → 0
+
+	
+This	would	enable	him	to	write	his	external	metric:		
+(17)	
+n	example	of	this	would	be	the	"Original	Schwarzschild	Solution".	What	are	its	
+properties?		Its	determinant	is:		
+		
+(18)																																																													
+This	tends	towards	zero	with	r.		Let's	isolate	its	spatial	part:		
+(19)																
+A	limited	expansion	shows	that	
+	tends	towards	in	the	vicinity	of	r	=	0	.	But,	
+apart	from	the	nullity	of	its	determinant	at	r	=	0,	this	metric	is	by	no	means	singular.	
+Schwarzschild	was	then	faced	with	the	problem	of	identifying	its	two	solutions	(14)	and	
+(4).	He	began	by	making	the	change	of	variable	in	[4]	:		
+(20)																																																										
+with	:		
+(21)																																																						
+His	line	element	becomes	:	
+(22)																	
+On	the	surface	of	the	star	
+(23)																														
+But:	
+(24)																																																		
+So	the	internal	metric	on	the	star	wall	becomes:	
+
+.	It	comes	:		
+
+ R = Ra
+⎛
+Ra
+⎝⎜
+ˆR 2
+
+} → R , θ , ϕ
+
+⎡⎣
+2 dθ2 +sin2 θdϕ2
+
+− R 2 dθ2 +sin2 θdϕ2
+
+⎞
+⎠⎟ c2dt2 −
+
+sin χ = ˆR sin χ
+
+{
+  χ , θ , ϕ
+
+dR 2
+Ra
+ˆR 2
+
+dR 2
+R 2
+ˆR 2
+
+1
+ˆR 2 =
+ 
+
+3 = α
+Ra
+
+Ra
+ˆR 2 −
+
+ds2 = 1−
+
+8πG ρo
+
+8πG ρo
+
+R =
+ 
+
+c2dt2 −
+
+2G M
+
+1
+Ra
+
+R 2
+ˆR 2
+
+ds2 =
+
+− Ra
+
+		
+
+		
+
+		
+
+3c2
+
+3c2
+
+1−
+
+1−
+
+1−
+
+1−
+
+1
+2
+
+3
+2
+
+⎛
+⎜⎜
+⎝
+
+⎞
+⎟⎟
+⎠
+
+	
+
+	
+
+c2
+
+{
+
+}
+
+=
+
+⎡⎣
+
+⎤⎦
+
+⎤⎦
+
+ 
+
+ 
+
+2
+
+2
+
+3
+
+2
+
+2
+
+ 
+
+ 
+
+⎤⎦
+
+⎤⎦
+
+⎡⎣
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+		
+
+− R a
+
+dR 2
+1− α
+R
+
+⎞
+⎠⎟ c2dt2 −
+
+⎞
+⎠⎟ c2dt2 −
+
+dR 2
+1− α
+R a
+
+R = ( r3 + α3 )1/3 ≥α
+
+ R = ( r3 + α3 )1/3
+
+− R 2 dθ2 +sin2 θdϕ2
+
+⎡⎣
+2 dθ2 +sin2 θdϕ2
+
+ds2 = 1− α
+R
+
+ds2 = 1− α
+R a
+
+6	
+	
+	
+(25)																																					
+Schwarzschild	thus	discovered	a	simple	way	of	identifying	the	two	metrics	at	the	surface	
+of	the	star.	All	he	had	to	do	in	the	external	metric	was	to	change	the	variable:		
+(26)																																																																	
+oducing	what	he	calls	an	"intermediate	quantity"	(Hilfsgröbe)	which	automatically	
+implies	that	and	this	metric	then	becomes:		
+	
+(27)																																				
+We	have	therefore	simply	discovered	an	initial	reason	why	Schwarzschild	chose	to	
+present	the	external	metric	in	this	form.	At	this	stage	he	is	trying	to	find	Einstein's	result	
+concerning	the	advance	of	Mercury's	perihelion	[9].	By	carrying	out	the	limited	expansion,	
+which	is	explicitly	mentioned	in	his	article	on	page	7			
+(28)																																																						
+But	it	never	occurred	to	him	to	think	that	this	external	metric,	considered	in	isolation,	
+could	refer	to	a	physical	object..		
+	3	–	The	construction	of		Ludwig	Flamm'	meridian	[10]		.		
+In	the	months	that	followed,	the	young	mathematician	Ludwig	Flamm,	who	was	31	at	the	
+time	Schwarzschild's	article	appeared,	became	interested	in	this	solution,	in	the	form	of	
+pairs	of	connected	metrics.	He	also	applied	it	[10]	to	evaluate	the	deviation	of	light	rays	
+grazing	the	surface	of	the	Sun	and	obtained	the	value	1.75'',	in	good	agreement	with	
+Einstein's	result.		What	is	interesting	is	the	precise	analysis	he	gives	from	the	geometric	
+angle.	This	article	remains	little	known	because	it	was	only	available	in	an	English	
+translation	when	it	was	republished	in	this	form	in	2015	[11].	This	geometry	of	Einstein's	
+equation,	invariant	by	time	translation,	is	equivalent	to	the	displacement	along	this	time	
+coordinate	of	a	3-surface,	whose	metric	is	given	by	the	spatial	parts	of	the	two	solutions.	
+For	the	interior	metric	it	is	:		
+(29)																														
+For	the	external	metric,	its	3D	space	part	is		:	
+
+R = ( r3 + α3 )1/3 = r 1+ α3
+3r3
+  
+
+⎤⎦ with R ≤ Ra
+
+− R 2 dθ2 +sin2 θdϕ2
+
+dR 2
+R 2
+ˆR 2
+
+⎞
+⎠⎟ ! r
+
+dσ(3d)
+
+1−
+
+2 =
+
+	
+
+	
+
+⎛
+⎝⎜
+
+⎡⎣
+
+ 
+
+ 
+
+⎤⎦
+
+⎡⎣
+
+	
+
+2 =
+
+2 =
+
+1−
+
+dσ(2d)
+
+ ϕ = cst
+
+with R ≥ α
+
+  θ = π / 2
+
+dR 2
+R 2
+ˆR 2
+
+dσ(3d)
+ 
+
+dR 2
+1− α
+R
+
+− R 2 dθ2 +sin2 θdϕ2
+
+− R 2 dϕ2 with R ≤ Ra
+
+	and	then	to	
+
+7	
+,	we	obtain	2-surfaces.	
+	
+
+	
+(30)																																					
+By	making	flat	cuts,	corresponding	to	
+For	the	inner	part	:			
+(31)																																																
+For	the	external	part	:		
+(32)																																																	
+The	two	2-surfaces	can	be	immersed,	which	means	that	in	both	cases,	if	we	do	
+can	write	that	
+portions	of	the	meridian.	For	the	inner	part,	equation	:	
+(33)																																																																														
+	.		
+In	other	words,	a	portion	of	a	circle	with	radius	
+For	the	external	part,	the	equation	is:		
+(34)																																																																																
+In	other	words,	a	portion	of	a	lying	parabola.	Hence	the	figure	taken	from	L.Flamm's	
+article:		
+
+	we	
+.	We	then	obtain	two	differential	equations	giving	the	two	
+
+ dσ2 = dR 2 + dz2
+
+ R 2 + z2 = ˆR 2
+
+dR 2
+1− α
+R
+
+dσ(2d)
+ 
+
+R = α +
+ 
+
+with R ≥ α
+
+		
+	
+
+ ϕ = cst
+
+− R 2dϕ2
+
+z2
+4α
+
+2 =
+
+ ˆR
+
+	
+
+Fig.2	:	L.Flamm’	meridian	curve	[10].	
+
+	
+
+	
+
+8	
+
+	
+At	this	stage,	neither	Schwarzschild	nor	Flamm	envisaged	treating	the	Schwarzschild	
+exterior	metric,	considered	in	isolation,	as	a	physical	object.	
+	4	–	Attempts	to	model	a	mass	by	H.Weyl,	Einstein	and	Rosen.			
+When	Schwarzschild's	article	was	published,	Weyl	was	the	same	age	as	Flamm.	He	then	
+envisaged	using	the	external	metric	to	describe	a	mass	as	the	source	of	a	gravitational	
+field.	At	a	distance,	geodesics	of	non-zero	length	can	be	likened	to	the	trajectories	of	
+planets,	when	they	are	quasi-elliptical,	or	for	certain	non-periodic	comets,	quasi-
+hyperbolic	or	quasi-parabolic.	The	further	away	we	are	from	the	source	of	this	field,	the	
+more	they	tend	towards	Keplerian	conics.	On	the	other	hand,	if	we	move	closer,	we	have	
+to	discover	what	strange	geometric	structure	is	responsible	for	creating	the	gravitational	
+field	that	we	can	then,	at	a	distance,	believe	to	have	been	created	by	a	point	mass.		To	this	
+end,	Weyl	had	to	give	the	Schwarzschild	solution,	considered	in	isolation,	the	character	of	
+a	physical	object.	He	uses	the	equation	published	by	Einstein	in	November	2015	[8],	which	
+shows	the	Laue	scalar	T,	instead	of	the	Ricci	scalar	R	in	the	standard	form	that	is	now	
+traditionally	used.:		
+(35)																																																																		
+He	also	constructed	geodesic	trajectories	of	zero	length	(ds	=	0)	corresponding	to	the	
+paths	of	light	rays.	For	the	material	particles	affected	by	the	field,	he	unambiguously	
+states:		
+(36)																																																																				
+Geodesics,	which	can	be	deduced	from	the	variation:	
+(37)																																																																							
+Then	considering	the	case	of	solutions	invariant	by	time	translation,	he,	like	all	his	
+by	writing	the	metric	in	the	
+contemporaries,	materialised	a	type	signature	
+form:		
+		
+(38)																																							
+Like	Flamm,	he	isolates	the	temporal	part	from	the	spatial	part.	And,	like	Flamm,	he	
+constructs	the	equation	of	the	meridian	in	the	form	of	a	recumbent	parabola:		
+(39)																																																																		
+He	designates	the	Schwarzschild	radius	by	the	quantity	2a.	He	therefore	has	three	
+	of	r	to	determine:	.	Like	Hilbert	[13]	and	Droste	[14]	he	
+unknown	functions	
+chooses	to	reduce	his	calculation	to	just	two	unknown	functions	by	posing	,	which	will	
+have	the	advantage	of	immediately	evoking	the	identification	with	the	Lorentz	metric	at	
+infinity,	and	arrives	at	the	result	:	
+
+2 − dσ2 = f dt2 − hdr2 − µ( dθ2 + sin2 θdϕ2 )
+
+ds2 = gik dxidxk > 0
+ 
+
+		
+		
+
+  ds2 = f dx4
+
+gik R = − Tik
+
+ ( + − − − )
+
+8a( R − 2a )
+
+  f , h , µ
+
+R ik −
+ 
+
+F∫
+
+ds = 0
+
+ R =
+
+		
+
+		
+
+1
+2
+
+ δ
+
+⎛
+⎝⎜
+
+		
+
+ R ≥ α
+
+ ds2 ≥ 0
+
+⎞
+⎠⎟ dt2 −
+
+ R < 2m = α
+
+ (Hilfsgröβe)
+
+dr2
+1− α
+R
+
+− R 2( dθ2 + sin2 θdϕ2 )
+
+ u2 = R − 2m ≥ 0
+
+ r = x2 + y2 + z2
+
+ds2 = 1− α
+R
+ 
+
+9	
+	
+(40)																																										
+		
+We	have	deliberately	used	the	letter	R	instead	of	r	to	show	that	this	is	Schwarzschild's	
+,	which	is	limited	to	
+"intermediate	coordinate"	
+,	in	contrast	to	his	
+coordinate	
+,	which	can	take	on	any	value	.	In	so	doing,	Droste	limited	
+himself	to	describing	the	trajectories	of	planets	and	comets.	Weyl	considers	that	this	
+geometric	structure	is	made	up	of	two	folds,	connected	by	a	sphere,	an	aspect	to	which	
+we	shall	return	in	detail	later.	Moreover,	he	was	not	the	only	one	to	envisage	this	sort	of	
+topological	modelling,	since	Einstein	and	Rosen	[15]	did	the	same,	18	years	later,	starting	
+from	the	expression	(33)	and	noting	that	their	transformation	:	
+(41)																																																																
+,	opted	for	by	Flamm,	Droste	and	Weyl,	implies	denying	all	reality	
+The	imperative	
+to	portions	of	the	object	such	as	
+,	corresponding	to	the	interior	of	the	gorge	
+sphere,	whose	existence	is	explicitly	mentioned	in	[15],	we	quote:		
+Like	H.	Weyl,	Einstein	and	Rosen	were	the	first	to	suggest	a	structure	of	universes	
+constituting	a	two-sheet	covering	of	the	variety	composed	of	points	associated	with	
+coordinates	
+(42)																				
+There	is	therefore	no	uniqueness	of	the	stationary	solution	with	SO(3)	symmetry.	But	the	
+Einstein	and	Rosen	model	is	not	Lorentzian	at	infinity.		
+It	is	possible	to	opt	for	another	set	of	coordinates:		
+(43)																																																			
+Using	the	change	of	variable	[16]:		
+(44)																																																														
+Cette	métrique	extérieure	devient	:		
+(45)	
+	
+			is	not	"a	new	radial	variable".	It's	the	expression	"radial	variable"	that	doesn't	make	
+sense.	And	the	same	applies	to	the	letters	r	or	R.	Coordinates	are	simply	ways	of	
+
+The	writers	investigate	the	possibility	of	an	atomistic	theory	of	matter	and	
+electricity,	 while	 excluding	 the	 singularities	 of	 the	 field,	 with	 a	
+mathematical	representation	of	physical	space	of	two	identical	sheets,	a	
+«	particle	»	being	represented	by	a	«	bridge	»	connecting	these	sheets.		
+
+which	thus	split	into	pairs	of	adjacent	points:	
+
+α2 th2ρ dρ2 − α2( 1+ Logchρ )2( dθ2 + sin2θdϕ2)
+
+t , R , θ , ϕ
+{
+
+} → t , ρ , θ , ϕ
+
+ R = α( 1+ Ln chρ )
+
+2 + Logchρ
+1+ Logchρ
+
+Logchρ
+1+ Logchρ
+
+u = − R − 2m , θ , ϕ
+
+u = + R − 2m , θ , ϕ
+
+t , R , θ , ϕ
+
+ds2 =
+ 
+
+c2dt2 −
+
+		
+
+and
+
+{
+ 
+
+{
+ 
+
+}
+
+{
+
+}
+
+	
+
+	
+
+{
+
+}
+
+}
+
+ρ
+
+ 
+
+10	
+	
+identifying	points	in	the	manifold.	The	only	relevant	quantity	is	the	length	s,	which	must	
+.	The	geometric	object	then	
+then	be	identified	with	the	proper	time	
+explicitly	has	two	folds.	The	first	is	traversed	giving	 values	from	minus	infinity	to	0,	the	
+second	from	0	to	plus	infinity.	The	two	layers	are	joined	along	a	sphere	with	a	throat	of	
+	(minimal,	in	the	case	of	the	family	of	SO(3)-invariant	spheres).	This	is	the	
+area	
+fundamental	property	of	the	geometric	object	that	is	the	solution	to	Einstein's	equation:	
+it	is	non-contractile.		And	this	time,	unlike	the	Einstein-Rosen	bridge,	this	structure	
+creates	a	link	between	two	Lorentzian	spaces.	It	is	a	3D	object	that	undergoes	translation	
+in	the	direction	of	time.	Cutting	it	at	constant	gives	a	2D	object,	the	Flamm	surface:	
+
+	by	posing	
+
+ s = cτ
+
+ 4πα2
+
+ρ
+
+τ
+
+ ds2 = h (r)dr2 + k(r)( dθ2 + sin2 θdϕ2 ) + l(r)dt2 + a(r)drdt
+
+	
+Fig.3	:	Flamm’s	surface	meridian	curve.	
+	5	–	Describing	an	unsteady	phenomenon	using	a	stationary	metric.			
+The	most	general	form	of	a	time-independent	SO(3)-invariant	solution	is	([1],	[17]):		
+		
+(46)																													
+Such	a	solution	is	not	invariant	to	changing	t	to	-	t.	So,	for	the	same	coordinate	
+	
+point,	we	might	expect	to	have	not	one	solution,	but	two.	Now,	in	physics,	when	theorists	
+are	looking	for	a	solution	to	a	differential	equation,	or	to	a	system	of	differential	equations,	
+they	first	give	themselves	boundary	conditions,	and	then	try	to	construct	a	solution	that	
+is	unique.	In	the	case	of	the	search	for	a	stationary	solution	to	the	Einstein	equation,	these	
+boundary	conditions	consist	of	imposing	that	the	solution	be	Lorentzian	at	infinity.	If	we	
+focus	on	the	requirement	of	uniqueness,	we	obtain	G.D.Birkhoff's	theorem	[18].	This	then	
+rules	out	the	presence	of	a	cross	term	in	dr	dt.	Such	a	solution	is	then	invariant	by	time	
+inversion,	which	is	not	based	on	any	physical	constraint.	It	is	then	qualified	as	static,	as	
+opposed	to	stationary,	which	expresses	invariance	by	temporal	translation.	But,	for	
+example	in	[10],	[12],	[15],	[16],	there	are	interpretations	of	the	stationary	solution	with	
+spherical	symmetry	that	reveal	a	different	topology,	with	two	sheets	connected	by	a	
+throat	sphere,	described	as	a	bridge	by	Einstein	and	Rosen.	So	the	non-uniqueness	of	the	
+solution	is	not	simply	permitted,	but	necessary,	in	order	to	differentiate	between	what	
+refers	to	one	of	the	slicks	and	what	refers	to	the	other.	We	can	therefore	see	that	Birkhoff's	
+theorem	implies	an	additional,	implicit	hypothesis	of	a	topological	nature.	If	we	consider	
+the	two-folds	structure,	which	is	also	non-contractile,	then	the	presence	of	the	cross	term	
+
+t , r , θ , ϕ
+
+{
+ 
+
+}
+
+ 
+
+ζ
+
+ξ
+
+α
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+	
+
+− 1
+
+Ln
+
+R
+α
+
+		
+
+ R = α
+
+	:		
+
+⎞
+⎠⎟ dζ2 −
+
+dξ2
+1− α
+ξ
+
+t' = t + α
+c
+ 
+
+− ξ2 ( dθ2 + sin2 θdϕ2 )
+
+ds2 = 1− α
+ξ
+
+11	
+	
+in	dr	dt	is	necessary.	Its	implications	have	been	studied	by	the	mathematician	P.	
+Koiran[19].	These	two	solutions	implement	the	change	of	coordinates	initially	proposed	
+by	Eddington	[20],	in	order	to	eliminate	the	coordinate	singularity	in	
+	(47)																																																										
+To	make	it	clear	that	the	scalar	R	(Schwarzschid's	"intermediate	quantity")	is	just	a	
+coordinate,	a	simple	way	of	locating	points	in	the	hypersurface,	let's	replace	these	
+	and	
+	.	Then	we	have	:	
+coordinates	t	and	R	by	the	Greek	letters	
+(48)																																				
+	an	simple	integration	constant,	whose	value	
+At	this	point	we	should	remember	that	is	
+can	be	negative.	Thus,	if	Newtonian	imperatives,	in	the	component	where	the	
+observations	are	made,	dictate	that	:		
+(49)																																																																							
+The	line	element	:		
+(50)																																					
+is	also	a	stationary	and	spherically	symmetric	solution	of	the	field	equation,	with		zero	
+second	member.	Its	geodesics	therefore	suggest	repulsion.		Remember	that	only	the	
+quantity	s	is	relevant	and	has	a	physical	meaning.	We	will	apply	the	change	of	variable	to	
+equation	(48):		
+(52)																																															
+With	
+(Eddington's	
+[20]):	
+		
+The	equation	(48)	besomes	:	
+(54)							
+	
+P.	Koiran	[19]	has	shown	that,	in	this	form,	with	this	cross	term,	this	Schwarzchild	solution	
+goes	hand	in	hand	with	a	finite	free-fall	time	and	an	infinite	escape	time.		
+	We	can	now	just	as	easily	apply	the	change	of	variable	to	equation	(50):		
+
+⎞
+⎠⎟ dξ2 − ξ2 ( dθ2 + sin2 θdϕ2 ) −
+
+		
+variable	
+
+change	
+
+⎠⎟ dζ' 2− 1+ α
+
+ds2 = 1− α
+ξ
+ 
+
+ζ = ζ' + α Ln
+ 
+
+ds2 = 1+ α
+ξ
+
+− ξ2 ( dθ2 + sin2 θdϕ2 )
+
+{
+   ζ , ξ , θ , ϕ
+
+} → ζ'
+{
+
+dξ2
+1+ α
+ξ
+
+⎞
+⎠⎟ dζ2 −
+
+of	
+
+2αdξ dζ'
+
+, ξ , θ , ϕ
+
+α =
+ 
+
+2G M
+
+		
+
+> 0
+
+ξ
+α
+
+− 1
+
+	
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+c2
+
+}
+
+ξ
+
+ξ
+
+⎞
+
+ 
+
+(53)																																																							
+
+⎞
+
+ξ
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+	
+
+	
+
+− 1
+
+ξ
+α
+
+12	
+
+ζ = ζ' − α Ln
+ 
+
+⎠⎟ dζ ' 2− 1− α
+
+ds 2 = 1+ α
+ξ
+ 
+
+⎞
+⎠⎟ dξ2 − ξ2 ( dθ2 + sin2 θdϕ2 ) +
+
+	
+(55)																																																									
+	This	line	element	becomes	:		
+(56)																												
+Always	with		:		
+(57)																																																																					
+This	representation	(56)	of	the	Schwarzschild	solution	goes	hand	in	hand	with	a	finite	
+escape	time	and	an	infinite	free-fall	time.	With	this	pair	of	solutions,	this	bimetric	
+representation	of	the	stationary	solution	with	spherical	symmetry,	we	obtain	a	two-folds,	
+non-contractile	structure,	equipped	with	a	throat	sphere,	representing	a	passage	linking	
+two	Minkowski	spaces,	whose	geodesics	can,	in	a	short	finite	time,	only	be	traversed	in	
+one	direction.	It's	a	one	way	membrane.		
+Thus,	the	fact	of	considering	a	non-uniqueness,	a	bimetric	solution,	which	then	authorises	
+the	presence	of	a	cross	term	by	combining	space	and	time	variables,	makes	it	impossible	
+to	use	the	stationary	solution	to	describe	the	implosion	of	a	star.		
+Tu	sum	up		:		
+	
+
+2αdξ dζ '
+
+α =
+ 
+
+2G M
+
+		
+
+> 0
+
+c2
+
+ξ
+
+Fig.4	:	Assuming	uniqueness	of	solution	
+
+	
+
+	
+
+	
+
+13	
+
+	
+
+Fig.5	:	Bimetric	solution.		
+	We	can	see	that	the	article	by	Oppenheimer	and	Snyder	[21],	the	founder	of	the	black	hole	
+model,	is	based	on	an	assumption	of	the	uniqueness	of	the	solution,	devoid	of	any	physical	
+justification.	
+	6	–	The	debate	and	C.	Corda's	"clarification”	[1].		
+It	is	therefore	this	article	that	we	should	now	concentrate	on	because,	quoted	by	all	the	
+specialists,	it	is	supposed	to	shed	light	on	this	question	of	the	"Schwarzschild	metric	in	an	
+'original'	or	'standard'	form".	It	presents	different	presentations	of	the	solution,	with	
+different	qualifiers.		He	acknowledges	that	the	"standard"	form	found	in	the	literature	is	
+not	the	"original"	form	constructed	by	Schwarzschild	on	the	basis	of	his	hypotheses.		
+In	what	follows	we	shall	reproduce	extracts	from	C.	Corda's	publication,	which	includes	
+numbered	equations	and	reference	calls.	As	we	have	done	above,	so	that	the	reader	can	
+tell	the	difference,	the	numbering	of	the	equations,	as	it	appears	in	Corda's	article,	will	be	
+placed	to	the	right	of	the	equations	and	in	italics.	As	before,	we	will	add	our	own	
+numbering	of	these	same	equations,	to	the	left	of	them.	His	own	references	will	also	be	in	
+italics.		
+In	equation	(1)	he	presents	"the	standard	form	of	the	Schwarzschild	solution".		
+	
+(58)																													
+
+ds2 = 1−
+
+(1)
+
+⎞
+⎠⎟ dt 2 − r 2 ( dθ2 + sin2θdϕ2 ) −
+
+rg
+r
+
+⎛
+⎝⎜
+
+dr 2
+rg
+r
+
+1−
+
+   
+
+(3)
+
+(2)
+
+		
+
+		
+
+  2πr
+
+   r ≥ 0 ,
+
+0 ≤θ ≤ π,
+
+0 ≤ ϕ ≤ 2π
+
+																			Where	:		
+
+[42].				
+
+				At	this	point,	if	one	wants	«	the	standard	solution	»,	i.e.	the	elements	(1)	r	and	
+
+   ds2 = h(r,t)dr 2 + k (r,t)(sin2θdϕ2 + dθ2) + l(r,t)dt 2 + a(r,t)dr dt
+
+14	
+	
+On	several	occasions	he	refers	to	a	work	by	L.	Landau	and	R.	Lifschit	[22]	.	At	the	beginning	
+of	section	2,	he	writes:	
+																				«	The	more	general	line-element	which	respects	central	symmetry	is	»		:		
+(59)											
+(60)																																							
+It	is	important	to	reproduce	his	words	exactly.	So	he	writes:		
+
+second	condition	implies	that	the	standard	Schwarzschild	radius	is	determined	
+in	a	way	which	garanties	the	the	lenght	of	the	circumference	centred	in	the	origin	
+is		
+
+the	 standard	 analysis,	 we	 will	 assume	 that	 the	 lenght	 of	 the	 circumference	
+centered	 in	 the	 origin	 is	 not	
+.	 We	 release	 an	 apparent	 different	 physical	
+assumption,	i.e.	the	arches	of	circumférence	are	deformd	by	the	presence	of	the	
+mass	of	the	central	body	M.	Note	that	this	different	physical	hypothesis	permit	to	
+
+t	have	to	be	chosen	in	a	way	that	a(r,t)	=	0		and	k(r,t)	=	-	r2	.	in	particular,	the	
+				In	our	approach,	we	will	suppose	again	that		a(r,t)	=	0,	but,	differently	from	
+circumnavigate	 the	 Birhoff	 theorem	 [4]	(our	reference	[18])	 In	 fact,	 the	
+demonstration	of	the	Birkhoff	Theorem	starts	from	a	line	element	in	which	k(r,t)	
+=	−r2	has	been	chosen.	
+Then,	we	proceed	assuming	k	=	−mr2,	where	m	is	a	generic	function	to	
+in	 the	 origin	 of	 the	 coordinate	 system	 are	 not	2πr.	 In	 other	 words,	 m	
+represents	a	measure	of	the	deviation	from	2πr	of	circumferences	centred	
+	(61)													ds2	=	hdr2	–	mr2(sin2	θdϕ2	+	dθ2)	+	ldt2.																												(5)	
+			
+One	puts	
+		
+(62)																																		
+	He	writes,	which	is	correct,	that	if	we	want	to	obtain	the	"standard	solution",	i.e.	
+our	equation	(58)	(or	hiss	equation	 (1)),	we	must	remove	the	cross	term	and	
+ensure	that	the	coefficient	of	
+	He	then	presents	
+Schwarzschild's	calculation	as	an	agreed	deviation	from	this	second	hypothesis,	
+which	seems	obvious	to	him,	namely	that	the	perimeter	of	a	closed	curve,	lying	in	
+
+be	determined	in	order	to	obtain	that	the	length	of	circumferences	centred	
+
+X ≡
+Y ≡ − cosθ
+Z ≡ϕ
+
+in	the	origin	of	the	coordinate	system.	
+
+The	line	element	(2)	becomes	:	
+
+is	 r2.	
+
+  ( dθ2 + sin2θdϕ2 )
+
+  2πr
+
+(6 )
+
+1
+3
+
+r 3
+
+  
+
+	
+
+	
+	
+
+15	
+
+  
+
+a
+
+a
+
+−
+
+⎡
+⎢
+⎣
+
+	
+
+⎤
+⎥
+⎥
+⎦
+
+⎡
+⎢
+⎢
+⎣
+
+  r 2
+
+3)1/3
+
+  2πr
+
+ds2 = 1 −
+
+ds2 = 1 −
+
+(r 3 + a3)1/3
+
+(r 3 + a3)1/3
+
+dt 2 − (r 3 + rg
+
+rg
+(r 3 + rg
+
+3)2/3( sin2θdϕ2 + dθ2 )
+
+d (r 3 + a3)2/3
+1 −
+
+⎤
+⎥dt 2 − (r 3 + a3)2/3( sin2θdϕ2 + dθ2 )
+⎦
+
+a	plane,	is	
+,	for	which	there	is	no	physical	justification.	This	"deviation"	from	
+this	"standard	solution",	the	only	relevant	one	according	to	him,	results	in	the	
+replacement	of	 by	a	function	m.	What	follows	is	the	identical	calculation	made	
+by	Schwarzschild	[4].	He	then	explains	the	result	in	equation	(28):	
+			(28)										
+(63)																				
+where	he	replaces	the	integration	constant	a	with	the	Schwarzschild	radius	rg	:	
+			(30)										
+(64)																				
+He	gives	this	final	expression	of	the	external	metric,	by	Schwarzschild,	without	making	it	
+fully	explicit.	We	are	going	to	do	it	and	he	comes:		
+(65)
+	
+																									
+	
+						This	is	identical	to	equation	(17)	in	this	article.	The	constant	a	is	none	other	than	the	
+	.	This	result	
+characteristic	length	 rg	,	is	the	"Schwarzschild	radius",	designated	by	
+means	that	his	function	m	is,	which	he	specifies	in	equation	(29)	:	
+																																																								(29)	
+(66)																																																																				
+The	behaviour	of	the	"original	Schwarzschild	metric",	corresponding	to	equation	(17),	
+was	examined	above.	With	these	coordinates	the	variable	r	can	take	any	non-negative	
+value,	given	its	definition	by	Schwarzschild.		The	geometric	object	is	non-contractile.	The	
+point	r	=	0	can	be	described	as	the	"origin	of	the	coordinates".	Corda	then	introduces	the	
+change	of	variable	(his	equation	(31)):	
+		
+(63)																																																																	
+
+d (r 3 + rg
+3)2/3
+rg
+1 −
+(r 3 + rg
+
+3)2/3( dθ2 +sin2θdϕ2)
+
+c2dt 2 − (r 3 +rg
+
+3)1/3 −rg
+3)1/3
+
+⎡⎣
+3) (r 3 +rg
+
+(r 3 + a3)2/3
+
+3)1/3 −rg
+
+(r 3 +rg
+
+(r 3 +rg
+
+(r 3 +rg
+
+m =
+  
+
+ds2 =
+
+3)1/3
+
+3)1/3
+
+dr 2
+
+α
+
+r 4
+
+r 2
+
+−
+
+⎤⎦
+
+−
+
+  
+
+  
+
+	
+
+3
+
+(31)
+
+ˆr = (r 3 + rg
+   
+
+   
+
+⎛
+⎝⎜
+
+1−
+
+rg
+ˆr
+
+(32)
+
+ds2 = 1−
+
+dˆr 2
+rg
+ˆr
+
+16	
+
+⎞
+⎠⎟ dt 2 − ˆr 2 ( dθ2 + sin2θdϕ2 ) −
+
+	
+As	a	result,	he	obtains	(	his	equation	(32)	):	
+(64)																															
+	
+It	then	becomes	important	to	reproduce	his	own	words,	in	the	knowledge	that	all	black	
+hole	specialists	invoke	this	article,	simply	positioned	on	the	arXiv	database,	and	not	
+published	in	a	peer-reviewed	journal,	as	soon	as	someone	questions	the	relevance	of	the	
+"standard	interpretation"	of	the	Schwarzschild	outer	solution,	as	the	basis	of	the	black	
+hole	model.	We	quote	him:		
+Eq.	(32)	looks	formally	equal	to	the	“standard	Schwarzschild	solution”	
+(1).	But	one	could	think	that	the	transformation	(31)	is	forbidden	for	the	
+following	motivation.	It	transfers	the	origin	of	the	coordinate	system,	r	=	
+0,	θ	=	0,	
+	=	0,	which	is	the	surface	of	a	sphere	having	radius	rg	in	the	
+	coordinates,	in	a	non-dimensional	material		point	
+	=	0,	θ	=	0,	ϕ	=	
+0	 in	 the	
+corresponds	 to	 the	 point		 r	=	−rg,	 θ	=	0,	 ϕ	=	0	 in	 the	 original	 r,	 θ,	 ϕ	
+coordinates.	 Thus,	 the	 transformation	 (31)	 could	 not	 be	 a	 suitable	
+
+,	 θ,	 ϕ	 coordinates.	 Such	 a	 non-dimensional	 material	 point	
+
+θ,	
+
+ϕ
+
+ϕ
+
+ ˆr
+
+ ˆr
+
+ ˆr
+
+,	
+
+coordinate	transformation	because	it	transfers	a	spherical	surface,	i.e.	a	
+bi-dimensional	manifold,	in	a	non-dimensional	material	point.	We	will	
+see	in	the	following	that	this	interpretation	is	not	correct.		
+On	 the	 other	 hand,	 we	 are	 searching	 solution	 for	 the	 external	
+
+geometry	,thus	we	assumed	r	≥	0		in	Eq.(3)	and	from	Eq.	(31)	it	il	always	
+		in	Eq.	(30).	In	this	way	there	are	not	physical	singularity	in	Eq.	
+	in	Eq.	(32)	which	corresponds	
+(32).	In	fact	r	=	0	in	Eq.	(30)	implies	
+to	the	mathematical	singularity	at		X	=	0	.	This	singularity	is	not	physical	
+transformation	(6).		
+
+but	is	due	to	the	particular	coordinates	t,		X	,	Y	,	Z	defined	defined	by	the	
+
+ˆr = rg
+ 
+
+ˆr ≥ rg
+ 
+
+	
+
+Again,	 we	 emphasize	 the	 apparent	 different	 assumption	 of	 our	
+analysis.	As	it	is	carefully	explained	in	[42],	the	“standard	Schwarzschild	
+solution”	(1),	arises	from	the	hypothesis	that	the	coordinates	r	and	t	of	
+the	two	functions	(4)	are	chosen	in	order	to	guarantee	that	the	length	of	
+the	circumference	centred	in	the	origin	of	the	coordinate	system	is	2πr.	
+Indeed,	in	the	above	derivation	of	“the	original	Schwarzschild	solution”	
+
+(30),	 r	 and	 t	 are	 chosen	 in	 order	 to	 guarantee	 that	 the	 length	 of	 the	
+circumference	centred	in	the	origin	of	the	coordinate	system	is	not	2πr.	
+
+In	 particular,	 choosing	 to	 put	 the	 mathematical	 singularity	 of	 the	
+
+17	
+
+	
+
+3)1/3
+
+function	A	at	X	=	0	is	equivalent	to	the	physical	condition	that	the	length	
+of	 the	 circumference	 centred	 in	 the	 origin	 of	 the	 coordinate	 system	 is	
+.	Then,	one	could	think	that	by	forcing	the	transformation	
+(31)	for	r	≤	0,	one	returns	to	the	standard	Schwarzschild	solution	(1),	but	
+become	Euclidean.	In	that	case,	such	a	mathematical	forcing	could	be	the	
+
+a	 bi-dimensional	 spherical	 surface,	 that	
+is	 the	 surface	 of	 the	
+Schwarzschild	sphere,	is	forced	to	become	a	non-dimensional	material	
+point	 and	 we	 force	 a	 non-Euclidean	 geometry	 for	 circumferences	 to	
+
+2π( r 3 + rg
+  
+
+cause	of	the	singularity	in	the	core	of	the	black-hole.	Thus,	this	singularity	
+could	be	only	mathematical	and	not	physical.	But	in	the	following,	by	
+matching	with	the	internal	geometry,	we	will	see	that	this	interpretation	
+is	not	correct	and	that	the	singularity	in	the	core	of	the	BH	remains	a	
+physical	 singularity	 also	 in	 the	 case	 of	 the	 “original	 Schwarzschild	
+solution”	given	by	Eq.	(30).	
+
+rg ≪ r
+  
+
+Notice	 that	 a	 large	 distances,	 i.e.	 where	
+
+	r,	 the	 solution	 (30)	
+well	approximates	the	standard	Schwarzschild	solution	(1),	thus,	both	of	
+the	weak	field	approximation	and	the	analysis	of	astrophysical	situations	
+remain	the	same.	
+
+	We	have	underlined	in	red	the	geometric	object	described	by	C.	Corda	as	a	'non-
+dimensional	material	point'.	We	have	not	been	able	to	find	a	definition	of	such	an	
+object	in	mathematics	or	geometry,	and	it	seems	to	exist	only	in	the	imagination	of	
+its	author.	
+	He	then	describes	the	portion	of	space	corresponding	to	the	value	
+	of	the	
+coordinate	singularity,	i.e.	in	the	system	
+	,	which	is	correct,	but	he	errs	
+in	saying	that	this	coordinate	singularity	is	also	present	in	 r	=	0,	i.e.	in	the	
+Schwarzschild	coordinate	system	
+.	In	this	system	the	form	of	the	metric	
+corresponds	to	equation	(55).	In	r	=	0	the	potentials	of	this	metric	are	not	singular	
+at	all.	It	is	significant	that	C.	Corda	did	not	fully	explain	the	metric	in	this	form,	which	
+suggests	that	he	analysed	Schwarzschild's	original	calculation	only	very	briefly.		
+	Let	us	summarise	the	scheme	of	the	calculation	as	Schwarzschild	led	it			
+	
+- 
+-	It	starts	with	Cartesian	coordinates		
+	
+-  Then	he	shifts	to	polar	coordinates		
+		
+	
+-  He	uses	a	third	system,	for	computational	convenience	(equation	(7)	from	
+[4])			:		
+																		(7)	
+(55)																													
+
+		
+	with	
+
+  r = x2 + y2 + z2 ≥ 0
+
+, x2 = −cosθ , x3 =ϕ
+
+t ,ˆr ,θ,ϕ
+
+t ,r ,θ,ϕ
+
+t ,r ,θ,ϕ
+
+t , x , y , z
+
+ˆr = rg
+ 
+
+, x1 =
+
+{
+ 
+
+{
+ 
+
+{
+ 
+
+{
+ 
+
+}
+
+}
+
+}
+
+}
+
+x4 = t
+ 
+
+r 3
+3
+
+18	
+
+	
+
+  
+
+  
+
+}
+
+}
+
+}
+
+α
+
+	
+
+	
+
+{
+ 
+
+{
+ 
+
+1−
+
+f1 =
+
+(12 )
+
+(11)
+
+(10 )
+
+f4 = 1−
+
+t ,r ,θ,ϕ
+
+t ,χ,θ,ϕ
+
+(3x1 +α3)1/3
+
+(3x1 +α3)1/3
+
+(3x1 +α3)1/3
+
+  f2 = f3 = (3x1 +α3)2/3
+
+{
+  x3 , x1 , x2 , x3
+α
+
+-  He	gets	his	metric	potentials	expressed	in	
+(56)																																																			
+	(57)																																																			
+	
+	(58)																																																				
+	
+	-	He	did	not	publish	his	result,	which	he	would	have	done	if	he	had	gone	back	
+to	coordinates	
+,	because	he	realised,	after	having	no	doubt	
+explained	it,	that	he	would	have	difficulty	making	the	junction	with	his	
+internal	metric,	first	expressed	in	spherical	coordinates	
+,	then	
+expressed	in	polar	coordinates	using	:			
+	(69)	
+	
+	
+																																											
+	-	To	negotiate	this	connection	between	the	two	metrics,	it	then	makes	a	final	
+change	of	variable	in	its	external	metric,	passing	from	its	r	coordinate	to	an	
+intermediate	quantity	(Hilfsgöbe)	R	according	to	:				
+	
+	
+variable	designated	by	the	character	
+	in	Corda's	article.		
+	
+.	
+In	his	articles	Corda	uses	coordinates	X	,	Y	,	Z	,	which	are	the	coordinates	
+the	non-regularity	of	the	term	
+He	is	right	that	in	the	coordinates	
+introduces	this	coordinate	singularity.	But	it	disappears	in	the	system	
+because	when	r	tends	towards	zero,	,	see	equation	(16),	
+	tends	towards	
+,	
+i.e.	towards	zero,	and	not	towards	infinity.		
+	One	thing	is	clear.	The	"standard	form"	of	the	solution	results	entirely	from	a	
+transformation	of	the	form	envisaged	by	Schwarschild	(equation	(6)	in	[4]):		
+	(70)																										
+		
+	
+
+ds2 = Fdt 2 − G( dr 2 + r 2dθ2 + r 2 sin2θdϕ2) − H r 2dr 2
+
+= Fdt 2 − (G + H)dr 2 − G( r 2dθ2 + r 2 sin2θdϕ2)
+
+}
+t ,r ,θ,ϕ
+  3r / α
+
+{
+   x4 , x1 , x2 , x3
+
+  R = ( r 3 +α3 )1/3
+
+sinχ= ˆRsinχ
+
+  x1 , x2 , x3
+
+8πGρo
+
+R =
+ 
+
+gr r
+ 
+
+(6 )
+
+3c2
+
+{
+ 
+
+	
+
+}
+
+ ˆr
+
+  
+
+19	
+
+  
+
+	,
+
+	,
+
+	
+
+	
+The	first	person	to	modify	this	expression	was	David	Hilbert,	on	23	December	
+1916	[23].	In	Schwarzschild's	presentation,	three	functions	of	r	:	F	,	G	,	H	are	to	be	
+determined.	Hilbert	wrote:		
+	
+
+		
+
+( 42 )
+
+  G(r)
+
+  H (r)
+
+According	
+
+	
+where
+
+  r * = G(r)
+
+to	 Schwarzschild	
+
+	,	are	still	arbitrary	functions	of	r.	If	we	put			
+
+the	 most	 general	 metric	
+conforming	 to	 these	 assumptions	 ins	 represented	 in	 polar	
+coordinates	
+
+w1 = r cosθ
+w2 = r sinθcosϕ
+w3 = r sinθsinϕ
+w4 = l
+
+  F (r)dr 2 + G(r) ( dθ2 + sin2θdϕ2 ) + H (r)dl 2
+  F (r)
+
+(71)																																									
+by	the	expression	
+	(72)				
+	
+	(73)																																														
+	
+	
+	as	 spatial	
+Then	 we	 are	 equally	 justified	 in	 interpreting	
+	in	(42)	instead	of	r	and	the	
+polar	coordinates.	If	we	introduce		
+eliminate	the	sign	
+,	the	result	is	the	expression		
+	
+(74)										
+	Don't	look	to	Hilbert	for	high-geometry	justifications.	He	simply	sees	this	as	a	
+way	of	having	to	determine	only	two	functions,	instead	of	three.		
+	
+Corda	cites	Droste's	construction	of	the	solution	in	1917[14]	as	leading	to	"the	
+standard	form	of	Schwarzshild's	solution".		Droste	presents	his	solution	in	the	form:		
+	(75)																												
+	
+	Droste,	too,	realised	that	the	construction	of	the	solution	could	be	reduced	to	
+that	of	two	unknown	functions,	in	this	case	 w	and	 v	.	He	made	two	successive	
+changes	of	variable	:		
+(76)																														
+	Which	gives	:		
+	(77)																							
+	
+
+  ds2 = w2 dt 2 − dr 2 − v2 ( dθ2 + sin2θdϕ2 )
+
+  M (r)dr 2 + dθ2 + sin2θdϕ2 + W (r)dl 2
+
+( 1− ξ)ξ4 dξ2 − α2
+
+ds2 = ( 1− ξ)dt 2 −
+  
+
+ξ2 ( dθ2 + sin2θdϕ2 )
+
+} → t ,ξ,θ,ϕ
+
+} → t , x ,θ,ϕ
+
+ r * ,θ,ϕ
+
+t ,r ,θ,ϕ
+
+( 43 )
+
+		
+
+4α2
+
+( 4 )
+
+ r *
+
+{
+ 
+
+	
+
+{
+
+{
+
+}
+
+ *
+
+20	
+
+		
+
+ξ= α
+r
+ 
+
+	
+He	then	faced	the	problem	of	boundary	conditions:	How	to	choose	a	new	space	
+variable	such	that,	as	it	tends	towards	infinity,	the	metric	tends	towards	the	Lorentz	
+metric.	The	solution	was	quickly	found		:		
+	(78)																																																												
+	The	result	is	what	Corda	calls	"the	standard	form	of	the	Schwarzchild	solution".:	
+	(79)																									
+	
+n	fact,	the	only	constraint	is	that	when	the	value	of	a	spatial	coordinate	tends	
+towards	infinity,	the	metric	has	a	Lorentzian	form.	Otherwise,	all	coordinate	forms	
+are	possible	and	refer	only	to	different	representation	systems.	In	fact,	these	choices	
+are	simply	different	ways	of	representing	the	same	object,	where	the	only	intrinsic	
+quantity	that	is	invariant	to	changes	in	coordinates	is	the	length	s.	The	scientist	is	
+therefore	like	a	blind	man	who	has	only	one	measure	of	length,	using	his	hands,	to	
+assess	the	shape	of	an	object..		
+	Flamm	[10]	immediately	understood	that	we	could	concentrate	on	the	spatial	
+part	of	a	time	translation	invariant	solution.		This	can	be	taken	into	account	in	the	
+physical	solution	presented	by	Schwarzschild	in	the	form	of	two	regular,	connecting	
+metrics,	without	any	singular	aspect	appearing	in	space.	This	3D	geometric	object,	
+which	we	might	call	the	Schwarzschild-Flamm	hypersurface,	is	then	contractible.	It	
+turns	out	that	it	can	be	plunged	into	.	And	plane	cuts	can	be	made	in	such	an	object,	
+for	example	at	constant.	The	plane	section	of	a	3D	object	is	a	2D	object.	Here	is	this	
+section,	taken	from	[24]..		
+	
+
+⎞
+ds2 = 1− α
+⎠⎟ dt 2 −
+r
+  
+
+− r 2 ( dθ2 + sin2θdϕ2 )
+
+dr 2
+1− α
+r
+
+(7 )
+
+⎛
+⎝⎜
+
+Fig.6	:	Schwarzschild-Flamm	hypersurface		[24].	
+
+	
+	Pour	obtenir	l’objet	3D	il	faut	opérer	des	rotations.	Ce	faisant	il	est	clair	que	
+l’ensemble	de	l’espace	3D	sera	balayé	et	il	n’existera	aucun	de	ces	points	qui	
+n’appartienne	pas	à	l’hypersurface.		
+	
+
+	
+
+21	
+
+	
+
+Fig.7	:	Flamm’s	surface	[24].	
+
+	
+	When	only	the	external	metric	is	considered,	the	4D	hypersurface	connects	two	
+Minkowski	spaces.	The	cross-section	at	constant	t	of	a	Minkowski	space	is	a	3D	
+Euclidean	space.	If	we	make	plane	cuts	of	these	3D	Euclidean	spaces,	we	obtain	
+planes.	It	is	therefore	perfectly	relevant	to	say	that	the	plane	cut	of	the	3D	
+hypersurface	gives	an	object	that	is	a	bridge	connecting	two	planes.	The	object	has	
+a	throat	circle.	Now,	if	we	want	to	generate	the	3D	object,	we	need	to	consider	
+rotations	in	the	3D	plunge	space.	By	doing	this,	the	throat	circle	will	envelop	a	
+sphere,	the	throat	sphere.	Only	points	in	the	imbedding	3D	space	outside	this	
+sphere	will	belong	to	the	3D	hypersurface.	A	l’intérieur	de	la	sphère	les	points	
+donneront	un	
+	.	Le	fait	de	considérer	qu’ils	appartiennent	ou	non	à	la	
+physique	dépend	des	choix	retenus.		
+		Figure	6	corresponds	to	a	representation	space	associated	with	the	coordinates	
+	What	 about	 the	 3D	 space	 associated	 with	
+or	
+Schwarzschild's	initial	choice?	Once	again,	this	would	correspond	to	a	structure	
+linking	two	Euclidean	3D	spaces.	The	junction	would	not	be	made	by	a	sphere	of	
+throat,	but	through	a	point,	which	could	be	likened	to	"a	very	small	sphere	of	throat".	
+But	this	vision	is	misleading.	In	fact,	this	time	the	3D	object	is	no	longer	"plungable".	
+
+t , R ,θ,ϕ
+
+t ,ˆr ,θ,ϕ
+
+  ds2 < 0
+
+{
+ 
+
+{
+ 
+
+}
+
+}
+
+22	
+
+}
+
+}
+
+}
+
+{
+ 
+
+{
+ 
+
+  ds2 ≥ 0
+
+t ,r ,θ,ϕ
+
+t , R ,θ,ϕ
+
+{
+   r = 0 ,θ,ϕ
+
+	
+There	is	no	one	representation	space	that	is	better	than	another.	It's	all	a	question	
+of	knowing	what	game	you	want	to	play.	If	this	approach	consists	of	imposing	that	
+,	then	the	solution	to	the	equation	delivers	the	same	message,	in	different	
+forms	depending	on	the	geometric	context	chosen.	If	we	impose	the	uniqueness	of	
+the	solution,	then	there	will	only	be	one	layer	and	one	metric.	
+	With	 the	 space-time	 associated	 with	 the	 coordinates	
+or	
+the	3D	hypersurface	will	have	an	edge	with	the	topology	of	a	sphere	
+S2.	In	the	second	case,	the	sphere	will	be	made	up	of	points	with	coordinates	and	
+the	area	of	this	sphere	will	be	.	In	the	first	case,	the	edge	sphere	will	have	the	same	
+.	This	situation	will	come	as	no	
+area,	but	its	points	will	correspond	to	
+shock	to	a	geometric	mathematician.	Similarly,	who	can	create	a	mental	
+representation	of	Minkowski	space,	where	the	square	of	the	hypothenuse	is	equal	
+to	the	difference	between	two	adjacent	sides?	Who	has	a	mental	diagram	in	which	
+the	phenomena	of	quantum	mechanics	become	clear?		
+	If	we	consider	the	possibility	of	non-uniqueness,	of	a	bimetric	solution,	
+the	edge	sphere	becomes	a	throat	sphere.		
+	
+This	being	the	case,	when	C.Corda	says	:	
+	
+this	sentence	reveals	his	lack	of	mastery	of	the	subject,	because,	given	the	very	
+definition	of	these	coordinates		:
+	
+				Still	commenting	on	the	second	part	of	C.	Corda's	article,	we	would	say	that	for	
+decades,	when	black	hole	specialists	have	been	talking	about	the	foundations	of	the	
+model,	they	have	always	referred	to	earlier	work	that	would	have	enabled	them	to	
+analyse	them	definitively.	We	were	present	in	2017	at	the	"Schwarzschild	Annual	
+Colloquium"	held	in	his	home	town.	Juan	Maldacena,	a	pioneer	in	black	hole	physics,	
+was	the	guest	speaker.	He	began	his	talk	by	saying:	
+- 
+	
+Corda	is	no	exception	to	this	rule,	writing:	
+
+	,	θ	=	0,	ϕ	=	0	in	the	original	r,	θ,	ϕ	coordinates.		
+
+-	Schwarzschild's	solution	baffled	theorists	in	the	early	days.	But	today	it	has	
+been	elucidated	and	this	solution	is	now	well	understood.	(…)		
+
+Such	 a	 non-dimensional	 material	 point	 corresponds	 to	 the	 point	
+
+on	a	
+
+x2 + y2 + z2 ≥ 0
+
+r = − rg
+ 
+
+t ,r ,θ,ϕ
+
+			
+
+  r =
+
+{
+ 
+
+}
+
+	
+
+	
+
+implies	 that	 the	 standard	
+-	 In	 particular,	 the	 second	 condition	
+Schwarzschild	 radius	 is	 determined	 in	 a	 way	 which	 garantees	 that	 the	
+
+lenght	of	the	curcumference	centred	in	the	origin	of	the	coordiate	system	is	
+2	p	r	.	
+	-  Again,	we	emphasize	the	apparent	different	assumption	of	our	analysis.	
+As	 it	 is	 carefully	 explained	 in	 [52]	(our	reference	[25]),	 the	 «	standard	
+
+	
+
+23	
+
+	
+
+	.	
+
+  2πr
+
+hypothesis	that	the	coordinates	r	and	t	of	rhe	two	functions	are	chosen	in	
+order	to	garantee	that	the	lenght	of	the	circumference	centre	in	the	origin	
+of	the	coordinate	is	
+
+Schwarzschild	 solution	»	 	 (1)	(notre	équation(54)	 ,	 arises	 from	 the	
+	But	no	physical	or	mathematical	consideration	justifies	this	hypothesis..		
+	The	second	part	of	his	article	is	an	attempt	to	model	the	implosion	of	a	
+destabilised	star.	Before	this	happens,	due	to	the	lack	of	energy	from	fusion,	the	star	
+will	tend	to	collapse	in	on	itself.	If	it	is	a	neutron	star,	criticality	may	be	due	to	an	
+influx	of	matter	from	a	companion	star.	In	both	cases,	the	collapse	of	the	massive	
+star	or	the	increase	in	diameter	of	the	neutron	star	will	be	accompanied	by	a	rise	in	
+temperature	and	pressure	within	these	objects.	Since	1916,	we	have	known	about	
+the	violent	increase	in	pressure	within	a	sphere	filled	with	an	incompressible	
+material	of	constant	density.	[5].	Even	if	we	refuse	to	give	credence	to	this	
+calculation,	which	suggests	a	rise	in	pressure	to	an	infinite	value,	it	is	still	
+reasonable	to	imagine	that	before	this	collapse	occurs	the	pressure	has	already	
+reached	a	very	high	value..		
+	
+
+	
+
+Fig.8	:	Evolution	of	the	pressure	within	a	sphere	filled	with		
+an	incompressible	material	as	a	function	of	radius	[24].	
+
+		The	collapse	model	proposed	by	C.	Corda	at	zero	pressure	therefore	makes	no	
+physical	sense..		
+			
+	
+
+i j
+
+  
+
+gi j
+
+L =
+
+( 9 )
+
+ds
+dt =
+
+ds2 =
+ 
+
+ ( + − − − )
+
+24	
+
+1 − α
+r −
+
+!r 2
+1 − α
+r
+
+− r 2 !θ2 − r 2 sin2θ !ϕ2
+
+∑ dxi dx j ≥ 0
+
+	
+7	–	The	foundations	of	black	holes	theory.		
+	Before	the	Second	World	War,	all	publications	in	mathematics	or	theoretical	
+physics	journals	were	based	on	the	following	points.	
+	The	metric	was	written	as	([4],[9],[6],[10],[12],[14])	:		
+	(80)																																																							
+		
+Geodesics	were	defined	as	curves	minimising	a	length	s	.	As	C.Corda	refers	to	Droste's	
+paper	as	the	first	construction	of	the	"standard	Schwarzschild	solution",	we	will	quote	the	
+Lagrangian	expression	given	by	Droste	[14]	in	his	equation	(9):		
+(81)																																							
+		
+At	that	time,	the	concept	of	a	signature	was	not	yet	used,	but	it	was	in	fact	everywhere	in	
+the	form	
+.	In	his	presentation,	C.	Corda	discusses	the	history	of	this	stationary	
+solution	to	Einstein's	spherically	symmetric	equation.	He	writes	
+-	A	few	months	after	Schwarzschild,	J.	Droste,	a	student	of	H.Lorentz,	gave	an	
+about	 its	 properties	 [20]	(our	reference	[14])	 .	 In	 such	 a	 work	 Droste	 also	
+(our	reference	[12]).		This	solution	had	a	peculiar	behaviour	and	what	is	now	
+surface	was	not	quite	understood	at	the	time,	but	Hilbert	[22]	(our	reference	
+[13])	claimed	that	the	forma	by	Droste	and	Weyl	was	preferable	in	[3]	(our	
+reference	[6])	and	even	since	the	phrase	«	Schwarzschild	solution	»	has	been	
+[2]	(our	reference	[26]).		
+There	is	only	one	"Schwarzschild	solution",	which	is	presented	and	interpreted	in	
+different	coordinate	systems.	In	1917	[12],	H.	Weyl	analysed	the	solution	of	Einstein's	
+equation	in	vacuum,	taken	in	isolation,	in	an	attempt	to	geometrise	mass,	as	Einstein	and	
+Rosen	did	in	1935	[15].	He	wrote	his	action	(his	equation	(2)	from	[12]):	
+		
+(82)																																																														
+He	then	separates	the	two	elements	of	the	metric	according	to:	
+(83)																																																																
+He	specifies	the	hypothesis	concerning	the	length	element:		
+		
+(84)																																																												
+
+claimed	that	his	solution	was	physically	equivalent	to	the	one	by	Schwarzschild.	
+In	the	same	year,	1917,	H.Weyl	reobtained	the	same	solution	by	Droste	[21]	
+
+called	the	Schwarzschild	radius,	where	it	becomes	singular,	,	meaning	that	the	
+sum	of	the	terms	in	the	Einstein	equation	became	infinite.	The	nature	of	this	
+
+taken	to	mean	the	line	element	in	[20,21].	rather	than	the	original	solution	in	
+
+apparently	different	solution	for	the	point	mass	and	wrote	more	extensively	
+
+ f dt 2 − dσ2
+
+g ik dxi dxk
+
+		
+
+( 2 )
+
+dm
+
+{
+
+}
+
+∫
+ 
+
+∫
+
+ds2 = gik dxi dxk > 0
+  
+
+2
+
+  
+
+		
+
+		
+
+		
+
+  z =
+
+  r =
+
+2a
+r
+
+2 + x3
+
+f = 1−
+
+x1
+2 + x2
+
+8a( r − 2a )
+
+25	
+
+	the	projection	covers	the	exterior	of	the	circle	
+
+	
+And	the	nature	of	his	r	coordinate:	
+(85)																																																													
+He	obtains	the	expression	for	his	function	f	:	
+(86)																																																																			
+where	2a	is	the	Schwarzschild	radius.	As	L.Flamm	did	in	1916	[10],	he	makes	a	plane	
+section	of	the	3D	object	passing	through	the	origin	and	also	gives	the	equation	of	the	
+meridian		:		
+(87)																																																											
+This	is	the	very	first	time	that	this	solution	has	been	considered	as	a	two-layer	coating,	
+which	is	worth	mentioning.		
+Let's	mention	Weyl	[12]:		
+If	the	paraboloid	is	projected	orthogonally	on	the	z=0	plane	with	the	polar	
+- 
+coordinates	
+	twice,	but	
+does	not	cover	the	interior	at	all.		
+				In	other	words,	this	projection	is	the	2D	two-folds	covering	of	a	non-contractile	variety	
+with	a	circular	edge,	perimeter	
+	.	He	then	introduced	a	second,	isotropic	coordinate	
+system,	where	the	metric	of	this	"gravitational	space"	becomes	conformal	to	a	Euclidean	
+space,	according	to	the	factor	:		
+	(88)																																																																			
+	This	(now	classic)	change	of	variable	is:		
+	(89)																											
+		
+(90)																										
+									
+						However,	in	so	doing,	Weyl	expresses	the	metric	with	this	new	coordinate	which	he	
+designates	by	the	letter	r	,	but	which	is	no	longer	the	R	coordinate	of	Schwarzschild	or	
+from	Corda.	For	ease	of	reading,	we	will	keep	r'	and	write	:	
+(91)																			
+
+dσ2 = 1+
+  
+
+r − a / 2
+r + a / 2
+
+r = r' +
+
+x1' =
+  
+
+  r ≥ 2a
+
+, x2' =
+
+, x3' =
+
+2 + dx2
+
+2 + dx3
+
+  2πr
+
+ r ,θ
+
+. 1
+r'
+
+a
+2r
+
+a
+2r
+
+( dx1
+
+		
+
+r'
+r
+
+r'
+r
+
+r'
+r
+
+f =
+
+1 +
+
+⎛
+⎝⎜
+  
+
+a
+2
+
+	
+
+x2
+
+x3
+
+x1
+
+2 )
+
+2 )
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+⎞
+⎠⎟
+
+ ˆr
+
+,
+
+,
+
+,
+
+2
+
+2
+
+4
+
+2
+
+4
+
+2
+
+( dx1
+
+2 + dx2
+
+2 + dx3
+
+f =
+
+⎛
+⎝⎜
+
+r' − a / 2
+r' + a / 2
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+dσ2 = 1+
+  
+
+a
+2r'
+
+⎞
+⎠⎟
+
+		
+
+a
+2
+
+r' =
+ 
+
+	
+and,	repeating	Weyl's	text,	we	write:		
+
+ dσ2
+
+26	
+		is	regular	for	all	values	r	>	0	,	f		is	always	positive	and	becomes	zero	
+only	for	
+The	circumference	of	the	circle	
+if	we	allow	r’	to	run	over	its	range	of	values	begining	with	
+function	decreases	monotonocally	until	it	reaches	the	value		
+
+		,	then	this	
+	for		
+
+r' =
+  
+2 + x2
+  x1
+
+2πr' 1+
+  
+
+	
+	is		
+
+a
+2r'
+
++ ∞
+
+		
+
+a
+2
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+2
+
+2
+
+  4πa
+
+ 
+
+f
+
++ ∞
+
+f dt =
+
+ds =
+  
+
+after	which	it	begins	to	increase	again		as	r’	is	decreased	further	toward	zero,	
+and	grows	finally	without	bound.		
+
+What	is	interesting	is	that	H.	Weyl	has	introduced	a	parameter	r'	which,	varying	from	
+to	zero,	makes	it	possible	to	describe	the	two	layers,	with	the	throat	sphere	corresponding	
+to	the	value	a/2.	Of	course,	he	intends	to	use	this	geometry	to	describe	a	mass,	which	he	
+therefore	imagines	to	have	an	exterior,	for	r'	>	a/2,	and	an	interior,	for	r	<	a/2.		The	most	
+important	thing	is	that	he	envisages	the	values	of	
+,	which	will	be	called	the	"time	
+factor",	since	it	represents	the	coefficient	of	dt.	And	he	writes	
+	
+(92)																																																						
+Coefficient	which	would	therefore	become	negative	beyond	the	throat	sphere.	s	is	the	
+length,	measured	along	the	geodesics	and	cannot	be	negative.	The	negativity	of	the	time	
+factor	would	imply,	if	Schwarzschild's	geometry	leads	to	another	sheet	of	space-time,	that	
+the	time	coordinate	reverses	at	the	passage	of	the	throat,	but	not	the	proper	time,	in	other	
+words	that	the	two	sheets	are	T-symmetrical.	End	of	this	digression	regarding	the	
+interpretation	of	Weyl's	solution.		However,	contrary	to	what	Corda	writes,	Weyl	does	not	
+find	the	same	solution	as	Droste	and	Schwarzschild.	To	his	credit,	the	English	translation	
+of	Weyl's	text	only	became	available	in	2012,	after	his	article	had	been	published.		
+It	is	now	necessary	to	return	to	the	article	published	on	23	December	1916	[13].	Before	
+1915,	Einstein	had	convinced	the	great	mathematician	David	Hilbert	that	the	use	of	
+modern	geometry,	which	was	in	the	process	of	being	born,	would	shed	a	new	and	
+powerful	light	on	physics.	It	should	also	be	remembered	that	in	1915	:		
+-	We	only	know	two	forces,	the	force	of	gravity	and	the	electromagnetic	force.	
+The	electron	has	just	been	discovered.		
+
+r'− a / 2
+r'+ a / 2
+
+dt
+
+	
+
+  x1 , x2 , x3
+
+27	
+	-	We	have	no	idea	that	the	universe	can	evolve	over	time.		
+	-	The	deviation	from	Euclidean	geometry	and	Newtonian	and	Maxwellian	
+physics,	when	trains	run	on	steam,	is	just	a	tiny	phenomenon,	part	of	the	
+philosophy	of	science,	with	no	immediate	physical	application.	
+In	1915	Hilbert,	who	had	just	discovered	that	the	high	mathematics	he	championed	had	
+some	application	in	physics,	applied	the	principle	of	least	action	to	electromagnetism	and	
+gravitation.	In	an	article	entitled	"The	Foundations	of	Physics"	[27],	which	dealt	jointly	
+with	gravitation	and	electromagnetism,	he	published	what	we	would	today	call	a	"Theory	
+of	Everything".	In	it,	he	set	out	his	own	understanding	of	special	relativity:	what	did	he	
+mean	by	the	presence	of	a	minus	sign	in	the	metric?	His	own	answer:	time	is	simply	
+imaginary,	when	squared,	the	minus	sign	appears.	Whereas	Einstein	strove	to	show	that	
+this	temporal	dimension	is	of	the	same	nature	as	the	other	three,	and	that	it	must	be	
+measured	in	metres	and,	incidentally,	converted	into	seconds	by	dividing	by	a	constant:	c.	
+So,	for	Hilbert,	space,	with	its	three	coordinates	
+,	is	'prime'.	Time	is	just	another	
+dimension,	grafted	onto	a	quasi-Euclidean	space.	The	relativistic	effects	do	not	appear	
+until	the	very	end	of	the	calculation,	which	is	carried	out	with	dimensions	
+,	
+and	it	is	only	in	the	last	line	that	a	time	coordinate	appears,	according	to	
+.	The	two	
+articles,	from	1915	and	1916,	have	the	same	title:	"The	Foundations	of	Physics".	This	is	
+Hilbert's	aim:	to	discover	the	ultimate	workings	of	the	universe,	which	is	governed	by	
+what,	for	him,	takes	the	place	of	Nature	and	God:	logic.	Everything	is	governed	by	
+mathematics,	which	reveals	its	facets	one	by	one	to	enable	man	to	understand	the	
+universe.	The	key	words	are	completeness,	consistency	and	decidability.	Hence	the	motto	
+of	an	absolute	intellectual	optimist,	which	will	be	engraved	on	his	tombstone	in	Göttingen			
+For	him,	the	production	of	measurable	quantities,	in	this	case	time	itself,	is	the	work	of	
+the	engineer.	What	counts	is	the	matrix	that	gives	birth	to	these	quantities.	And	this	matrix	
+is	a	bilinear	form,	extraordinarily	compact	and	elegant.:		
+(93)																																																									
+		
+For	Hibert,	the	metric	is	just	a	tiny	variation	on	the	Euclidean	metric,	associated	with	the	
+.	Curvature	is	a	very	small	perturbation	:	
+Kronecker	tensor
+		
+(94)																																																														
+On	20	November	1915,	Hilbert	published	his	first	version	[27]	of	his	"Fundamentals	of	
+Physics",	which	also	contained	the	field	equation,	to	the	great	displeasure	of	Einstein,	who	
+published	the	same	equation	five	days	later	[8],	in	the	same	journal.	After	a	brief	moment	
+of	hesitation	between	these	geniuses	who	had	become	friends,	Hilbert	decided	that	
+
+Wir	müssen	wissen,	wir	werden	wissen	
+
+  w1 , w2 , w3 , w4
+  w4 = it
+
+We	need	to	know,	and	we	will	know.	
+
+gµν =δµν + εhµν + ...
+ 
+
+∑ gµν Xµ Xν + i2 X4
+
+G( X s) =
+  
+
+( 37 )
+
+( 32 )
+
+δµν
+
+1,2,3
+
+µν
+
+2
+
+}
+
+ ds2
+
+G(r)
+
+( 42 )
+
+  r * =
+
+ ( + + + + )
+
+{
+  r ,θ,ϕ,l
+
+  F (r),G(r),H (r)
+
+  F (r)dr 2 + G(r)( dθ2 + sin2θdϕ2) + H (r)dl 2
+
+then	 we	 are	 equally	 justified	 in	 interpreting	
+coordinates.	If	we	introduce	
+the	sign 	,	the	result	is	the	expression	
+
+are	still	arbitrary	functions	of	r.	Il	we	put	
+
+28	
+	
+Einstein	alone	would	retain	the	paternity	of	what	would	serve	as	the	basis	for	general	
+relativity.	But	in	early	1916	Schwarzschild	published	the	first	exact	solution	to	this	
+equation	[4].	Hilbert	then	decided	to	publish	a	second	version	of	his	article,	with	the	same	
+title	[13],	which	incorporated	Schwarzschild's	result.	But	he	focused	his	attention	only	on	
+the	exterior	metric	[4],	completely	neglecting	the	February	paper	on	the	interior	metric	
+	.	
+[5].	Moving	on	to	polar	coordinates,	he	denoted	these	new	coordinates	by	
+It	is	important	to	quote	this	key	passage	in	which	he	presents	his	bilinear	form	:	
+		
+(95)																	
+l	is	the	time	coordinate,	which	becomes	it	a	little	further	on.	The	
+has	disappeared.	At	
+this	stage	the	"signature"	is	Euclidean:	
+.	At	this	stage	Hilbert	has	three	functions	
+of	r	to	determine.	With	what	follows,	he	reduces	this	number	to	two	:	
+where	
+		
+	(96)																																										
+(97)																			
+This	approach	was	described	as	an	error	by	L.S.	Abrams	[29]	and	later	commented	on	by	
+S.	Antoci	[30].	This	is	not	an	error,	but	a	simple	change	in	Schwarzschild's	notation	from	
+to	the	system	
+the	polar	co-ordinate	system	
+.	It	
+remains	for	Hilbert	to	provide	the	result	of	his	calculation			
+	
+(98)																													
+So	we	have	four	+	signs,	one	signature	
+	
+(99)																							
+You	can	find	the	origin	of	the	signature	change	here:		
+	
+(100)																																																			
+which,	in	the	post-war	period,	was	generalized	to	the	whole	of	theoretical	physics,	
+without	it	being	possible	to	mention	an	article	in	which	this	transformation	was	justified.	
+Previously,	for	example,	the	Lorentz	line	element	was	written	as:	
+(101)																																																		
+		
+To	express	the	fact	that	matter	moves	at	a	speed	slower	than	the	speed	of	light,	it	was	
+sufficient	to	state	that	
+.	The	length	 s	was	identified	with	the	proper	time	
+
+	with	
+.	Then,	with	l	=	it		
+
+as	 spatial	 polar	
+	in	(42)	instead	of	r	and	the	eliminate	
+
+  M (r)dr 2 + r 2dθ2 + r 2 sin2θdϕ2 + W (r)dl 2
+
+ ds2 = c2dt 2 − dx2 − dy2 − dz2
+
+ ( + − − − ) → (− + + + )
+
+G( dr,dθ,ϕ,dt ) =
+ 
+
+G( dr,dθ,ϕ,dl ) =
+ 
+
+dr 2 + r 2dθ2 + r 2 sin2θdϕ2 −
+
+dr 2 + r 2dθ2 + r 2 sin2θdϕ2 +
+
+  R ( r 3 +α3 )1/3
+
+{
+  R ,θ,ϕ
+
+{
+  r ,θ,ϕ
+
+  (+ + + + )
+
+ r * ,θ,ϕ
+
+( 45bis )
+
+r −α
+
+r −α
+
+r −α
+
+r −α
+
+( 45 )
+
+( 43 )
+
+ r *
+
+dt 2
+
+dl 2
+
+}
+
+}
+
+ *
+
+r
+
+r
+
+r
+
+r
+
+	
+
+τ
+
+  ds2 ≥ 0
+
+ s = cτ
+
+29	
+.	With	Hilbert,	attention	is	now	focused	on	the	bilinear	form,	which	we	
+
+	
+according	to	
+will	write	as	:	
+(102)																																																				
+How,	in	these	conditions,	can	a	real	clean	time	appear?	It's	as	simple	as	asking:		
+(103)																																																												
+This	is	exactly	what	Hilbert	does	in	his	1915	article	[13],	where	he	writes:		
+
+ G ≡ dx2 + dy2 + dz2 − c2dt 2
+
+− G
+
+1
+c
+
+	
+
+Shal	be	called	a	segment	and	the	integral	piece	of	the	curve		
+
+τ =
+  
+
+A	piece	of	curve	for	which	
+
+		
+(104)																																																			
+(105)																																													
+(106)																																																					
+(107)																																													
+(108)																																																						
+
+λ=
+  
+
+τ =
+  
+
+∫
+
+dxs
+do
+
+G(
+  
+
+) > 0
+
+G(
+
+) dp
+
+dxs
+do
+
+∫
+
+dxs
+do
+
+G(
+  
+
+) < 0
+
+− G(
+
+) dp
+
+dxs
+do
+
+	
+
+	
+
+		
+
+	
+
+	
+
+will	be	called	a	time	line,	and	the	integral		
+
+Shall	be	called	the	length	of	the	segment.	A	piece		of	the	curve	for	wich	
+
+) = 0
+
+G(
+  
+
+evaluated	along	this	piece	of	curve	shall	be	the	proper	time	of	the	time	
+line.	Finally	a	piece	of	curve	along	which	
+dxs
+do
+
+shall	be	called	a	null	line.		
+
+	To	calculate	geodesics,	he	uses	the	variational	calculation	method,	as	follows:		
+(109)																							
+		
+Everything	was	in	place	for	the	birth	of	the	black	hole	model	in	the	post-war	period.		In	
+1992,	the	future	Nobel	laureate	S.	Chandrasekhar	[31],	who	published	a	book	entitled	
+“Mathematical	Theory	of	Black	Holes”,	took	up	this	same	Lagrangian:		
+
+⎛
++ r 2 sin2θ
+⎝⎜
+
++ r 2 dθ
+⎞
+⎠⎟
+dp
+
+dϕ
+⎞
+⎠⎟
+dp
+
+dp = 0
+
+∫
+δ
+  
+
+r −α
+
+r −α
+
+dr
+dp
+
+dt
+dp
+
+⎛
+⎜
+⎝
+
+⎞
+⎟
+⎠
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+⎞
+⎠⎟
+
+−
+
+r
+
+r
+
+2
+
+2
+
+2
+
+2
+
+⎛
+⎝⎜
+
+⎛
+⎝⎜
+
+!r 2
+
+!r 2
+
+⎤
+⎥
+⎦
+
+⎡
+⎢
+⎣
+
+	
+
+1
+2
+
+1−
+
+1−
+
+( 80 )
+
+2M
+r
+
+2M
+r
+
+L =
+   
+
+L =
+   
+
+⎞
+⎠⎟ !t 2 −
+
+⎞
+⎠⎟ !t 2 −
+
+30	
+		
+
+1− 2M / r − r 2 !θ2 − (r 2 sin2θ) !ϕ2
+
+	
+(110)																											
+Let's	return	to	the	Droste	action,	i.e.	equation	(70).	Its	Lagrangian	is:		
+(111)																												
+Lagrangians	(97)	and	(98)	lead	to	the	same	Lagrange	equations,	and	therefore	to	the	same	
+geodesic	curves.	Simply,	in	the	pre-war	mathematical	context	of	Einstein,	Schwarzschild,	
+Droste,	etc	,	curves	such	as	
+	are	considered	not	to	belong	to	the	hypersurface,	
+whereas	those	who	now	opt	for	(97)	will	consider	that	curves	"spiralling	towards	a	
+central	singularity"	are	"inside	the	black	hole".		Chandrasekhar	writes;	
+	
+(112)																													
+on	page	96,	we	quote:		
+So	the	particles	travelling	along	the	portion	of	its	curve	"inside	the	Schwarzschild	sphere"	
+evolve	with	an	imaginary	pure	time	of	their	own..		
+
+For	time-like	geodesics,	
+the	particle	describing	tge	geodesic.		
+
+1− 2M / r − r 2 !θ2 − (r 2 sin2θ) !ϕ2
+
+1− 2M / r − r 2(dθ2 + sin2θdϕ2)
+
+	may	be	identified	with	the	proper	time	s	,	of	
+
+ds2 = 1−
+  
+
+⎞
+⎠⎟ ds2 −
+
+  ds2 < 0
+
+2M
+r
+
+(60 )
+
+dr 2
+
+⎛
+⎝⎜
+
+τ
+
+Fig.9	:	Geodesic	curves,	"inside	the	black	hole",	according	to	Chandrasekhar	[31].	
+
+	
+
+ 
+
+1
+
+=
+
+=
+
+8
+9
+
+1−
+
+1−
+
+λ'
+λ
+
+   8 / 9
+
+  λ' / λ= 3
+
+1
+2GM
+c2 Rs
+
+																																															
+
+31	
+	
+	8	–	Conclusion	
+In	this	article	we	have	tried	to	explain	the	ins	and	outs	of	black	hole	theory.	What	can	we	
+say	about	the	only	two	data	available	([2],	[3])?	These	images	do	not	fit	in	with	the	very	
+large	number	of	computer-generated	images	available.	We	can	try	to	account	for	the	
+strong	darkening	of	the	central	parts,	which	evokes,	for	both	images,	an	increase	in	
+wavelength	 by	 gravitational	 redshift	 corresponding	 to	
+.	 Referring	 to	
+Schwarzschild's	solution	for	the	interior	metric	[5],	we	obtain	;	
+(113)	
+	
+its	
+in	other	words,	a	subcritical	object	whose	mass	would	be	equal	to	
+Schwarzschild	radius,	and	where	the	force	of	gravity	would	therefore	be	balanced	by	the	
+very	strong	rise	in	pressure	at	its	centre.	What	remains	to	be	done	is	to	construct	the	
+scenario	that	would	allow	the	formation	of	such	objects,	which	would	not	be	giant	black	
+holes.	
+	
+References	:		
+[1]	C.Corda	:	A	clarification	on	the	debate	on	«	the	original	Schwarzschild	solution	»	
+(2011)	62-82.		arxiv	:1010	:6031v5	(gr-qc)	25	mar	2011.	
+[2]	First	M87	Event	Horizon	Telescope	Results.	I..	The	Shadow	of	the	Supermassive	
+Black	Hole.	K.	Akiyama,	A.Alberdi,W.Alef,K.Asada,	R.Azulay,	A.K.Bcako,	D.Ball,M.	
+Balakovic,	J.	Barrett.		Astrophysical	Journal,	vo.	875,	n°1,2019	
+[3]First	Sagittarius	A*	Event	Horizon	Telescope	Results.	I.	The	Shadow	of	the	
+Supermassive	Black	Hole	in	the	Center	of	the	Milky	Way.	K.	Akiyama,	A.Alberdi,	W.	Alef,	
+J.C.Algaba,	E.	Anantua,	K.	Asada,	R.	Azulay,	U.	Bach,	A.K.Backo.	The	Astrophysical	Journal	
+Letters,	vol.	930,	number	2.	2022.	DOI	10.3847/2041-8213/ac6674	
+[4]	K.	Schwarzschild	:	Über	das	Gravitationsfeld	Messenpunktes	nach	der	Einsteinschen	
+Theorie.	Sit.	Deut.	Akad.	Wiss.	1916	
+	[5]	K.	Schwarzschild	:	Über	das	Gravitionalsfeld	einer	Kugel	Aus	incompressibler	
+Flüssigkeit	nach	der	Einsteinschen	Theorie.	Sitzung	der	phys.	Math.	Klasse	v.23	märz	
+1916	
+	[6]	K.Schwarzschild.	On	the	gravitational	field	of	a	mass	point	according	to	Einstein	
+theory.	English	translation	by	S.Antoci	and	A.Loinger.	arXiv	:physics/9912033v1	
+[physics.hist-ph]	16	dec	1999.		
+	[7]	English	translation,	by	S.Antoci.	
+	On	the	gravitational	field	of	a	sphere	of	
+incompressible	
+theory.	 arXiv	:physics/9905030v1	
+fluide	 according	
+to	 Einstein	
+
+32	
+	
+[physics.hist-ph]	12	may	1999.		
+	[8]	A.	Einstein	:	Die	Feldgleichungen	des	Gravitation	(	The	Field	Equation	of	Gravitation).	
+Sitzungsber.	XLIV	,	8	,	778	and	XLVI	s.	799	(	25	nov	1915)	
+[9]	A.Einstein	:	Erlklärung	der	Perihelbeweggung	des	Merkur	aus	allgemeinen	
+Relarivitätstheorie.	Königlish	Preubische	Akademie	der	Wissenschaften	
+(Berlin)	Sitzungberichet	(25	nov.	1915)	p.	831-838	
+[10]	Ludwig	Flamm.	Beiträge	zur	Einsteinschen	Gravitationstheorie,	Physikalische	
+Zestschrift	XVII	(1916)	pp.	448-454.	
+[11]	Ludwig	Flamm	:Republication	of	:Contribution	to	Einstein’s		Theory	of	Gravitation.	
+General	Relativity	and	Gravitation.	Vol.47	nb	72,	(2015)	
+[12]	H.Weyl	:	Zu	Gravitationstherie.	Annalen	der	physik,	Vol.35	n°	18	(aug.	1917)	
+https://onlinelibrary.wiley.com/doi/epdf/10.1002/andp.19173591804	:	49	$	
+On	the	Theory	of	Gravitation.	Reprinted	in	Gen.	Relat.	And	Gravit.	Vol.	44	pp	779-810		
+(2012).	English	translation	from	C.Nutto	and	
+S.J.Crothers	:https://www.sjcrothers.plasmaresources.com/Weyl-2.pdf	
+[13]	D.Hilbert.	Die	Grundlagen	der	Physik	(Esrte	Mitteilung).	Nachrochten	von	der	
+Gesellschaft			der	Wissenschaften	zu	Göttingen.	Mathematisch-physikalische	Klasse.	
+(1916)		
+[14]	J.Droste	–	The	field	of	a	single	centre	in	Einstein’s	theory	of	gravitation	and	the	
+motion	of	a	particle	in	that	field.	Ned.	Acad.	Wer.	.	SA	1917	lutecium.fr.	KNAW,	
+Proceedings	19	I	,	1917,	Amsterdam,	pp.	197-215	
+[15]	A.Einstein	and	N.Rosen	:	The	particle	problem	in	general	theory	of	relativity.	
+Physical	Review	110	(4)	:	73-77.	1935	
+[16]	J.P.Petit	&	G.D’Agostini	:	Cancellation	of	the	singularity	of	the	Schwarzschild	
+solution	with	natural	mass	inversion	process.	Mod.	Phys.	Lett.	A	vol.	30	n°9		2015.	arXiv	
+(gr-qc)	:	2103.12845v1	23	march	2021.		
+[17]	R.C.Tolman	:		Relativity,	thermodynamics	and	cosmology.	Oxford	Clarendon	Press.	
+1935,	page	239,	equation	(94.1)	and	Static	Solutions	of	Einstein’s	field	equation	for	a	
+sphere	of	fluid.	Phys.	Rev.	1939	nol.55	(	15feb.	1939)	
+[18]	G.D.	Birkhoff	:	Relativitiy	and	modern	physics.	Cambridge	Harvard	University	Press,	
+1923		
+[19]	P.Koiran	:	Infall	Time	in	the		Eddington-Finkelstein	Metric,	with	Application	do	
+Eddigton-Rosen	Bridges.		Inter.	Jr.	of	Mod.	Phys.	D,	14	aug.	2021,		to	be	published.		
+https://arxiv.org/abs/2110.05938		
+[20]	A.Eddington	:	The	mathematical	Theory	of	Relativity.	Cambridge	University	Press.	
+1924.		
+[21]	J.R.Oppenheimer	and	H.Snyder	:	On	Continued	Gravitational	Contraction.	Phys.	Rev.	Vol.	
+56	pp	455-459	sept	1939	
+
+33	
+	
+[22]	L.Landau	et	E.	Lifshiz	:	Classical	Theory	of	Fields	(3rd	ed.)	London,	Pergamon.	Vol.	2	of	
+the	Course	of	Theoretical	Physics	(1971)		
+	[24]		Gravitation.	C.W.Misner,	K.S.Thorne,	J.A.Wheeler.	Pinceton	University	Press.	2017.	
+[25]		L.Landau,	E.	Lisfchitz	–	Classical	Theory	of	Fields	(3rd	e.)	London	:	Pergamon.	ISBN	
+0-08-016019-0	Vol.2	of	the	Course	of	Theoretical	Physics	(1971)	
+[26]		P.C.Davis.	Rep.	Prog.Phys.	41,	1313-1355	(1978)		
+[27]		D.Hilbert.	Die	Grundlagen	der	Physik	(Erste	Mitteilung).	Nachrichten	von	der	
+Gesellschaft			der	Wissenschaften	zu	Göttingen.	Mathematisch-Physikalische	Klasse.	
+(1915)	395-407.			
+	[29]		L.S.	Abrams,	Phys.	Rev.	D20,	2774	(1979)	alors	in	arXiv	:	gr-qc/0202044.		
+	[30]		S.Antoci,	D.E.Liebscher,	Gen.	Relat.	Grav.	35,5,945-950	(2003)	
+[31]		S.Chandrasekhar	:The	Mathematical	Theory	of	Black	Holes.	Okford	University	Press	
+1992	
+			
+
+

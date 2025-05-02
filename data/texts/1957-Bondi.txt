@@ -1,0 +1,1937 @@
+D I VERGENCE PROBLEM OF QUANTUM THEORY
+
+423
+
+in addition,
+
+or whether
+
+of homogeneous
+
+space-time, but
+
+fields. Alternately,
+
+local commutativity
+
+is, the commutator
+
+the free parts of those
+
+specific way, or whether
+
+only general
+(1) would
+
+coupling will work. Equation
+
+fields
+to be nonlinear
+rela-
+still
+theories, being a purely kine-
+the
+properties would be lost;
+of a field component with its
+times, depend on
+
+extension,
+which play such a role need,
+in some
+tivistic
+hold for such extended
+matical property
+usual
+that
+time-derivative would, even at equal
+other
+would be a function of such other
+fields as well as of
+the time derivative
+component.
+The assumption
+to be
+the pessimistic
+implicitly
+are
+theorems.
+relations
+closely
+related to the creation and annihilation
+of particles;
+it might
+if they now depend on the other fields present,
+of
+happen
+are passed with
+higher
+increasing energies, are damped thereby. These contri-
+seem to be the
+butions
+
+of the corresponding
+this is not the case appears
+in the proofs of
+
+from new creation processes
+
+that
+and higher
+
+conjugate momentum
+
+creation processes
+
+as the thresholds
+
+the contributions,
+
+required
+The
+
+commutation
+
+that
+
+the
+
+of
+
+expression)
+
+(or another
+
+the divergences
+
+cause
+field theory,
+yield convergence.
+
+in
+in which cases the new couplings might
+for example,
+be
+is,
+or high energies, may
+
+in quantum hydrodynamics. " Saturation might
+expected to occur with some of these couplings;
+damp further creation. "
+the presence of many quanta,
+
+Such couplings
+
+arise,
+
+that
+
+ACKNOWLEDGMENTS
+
+I am most
+
+thankful
+
+valuable discussions
+all its phases have been extremely illuminating.
+
+to Professor O. Klein for many
+to
+
+of this work; his contributions
+
+The author also wishes to acknowledge
+
+the hospitality.
+for Theoretical Physics.
+tenure of a National
+
+accorded him at the Institute
+His work was performed
+Science. Foundation
+
+during
+Fellowship.
+
+"A. Thellung, Helv. Phys. Acta 29, 103 (1956).In this case the
+kinetic energy has the form pv'/2, both p and v being 6elds. This
+form may be very different, however,
+from one in which several
+variables p;; multiply v;v;,
+"Landau" has also remarked that at high energies 6eld theory
+
+might go over into a quantum hydrodynamical
+
+scheme.
+
+REVIEWS OF MODERN PHYSICS
+
+VOLUME 29, NUMBER 3
+
+JULY, 1957
+
+:5'egative .V. :ass in Genera. . .4e. .ativity
+
+H. BONDI
+
+Kirtg's College, Urtiversity of Lortdoit, London, Eegtarid
+
+relating
+
+elementary
+
+are fairly
+
+the arguments
+
+negative mass
+
+be of advantage
+
+it will nevertheless
+
+a theory, we can distinguish
+
+A ITHOUGH some of
+
+to
+and well
+to rediscuss
+known,
+the meaning of this term. In the first
+instance, without
+between
+fully specifying
+three kinds of mass according to the measurement
+by
+which it is defined:
+and
+inertial, passive gravitational,
+active gravitational mass. Inertial mass is the quantity
+that enters
+second law*;
+the
+is the mass on which
+passive gravitational mass
+is it is defined by I'= —m
+fields acts, that
+gravitational
+that
+grad V; active gravitational
+mass
+is the source of gravitational
+fields and is hence the
+mass that enters Poisson's equation and Gauss'
+
+(and is defined by) Newton's
+
+the mass
+
+law.
+
+physics
+
+In Newtonian
+
+the equality
+
+the law of action and reaction
+the equality of active and passive gravitational
+implies
+masses, but
+of inertial mass with these
+fact. The sign of both
+other two is a separate empirical
+these masses can take either value and it is an additional
+it is always positive. Four cases
+empirical
+is left out of
+accordingly
+account.
+
+if this empirical
+
+result
+
+arise,
+
+fact
+
+that
+
+is
+
+*A mass-independent
+
+has to be used here, for obvious reasons.
+
+force (say, of electromagnetic
+
+nature)
+
+this is familiar.
+
+(i) All mass is positive;
+(ii) Inertial mass negative,
+
+is
+positive. A body consisting of matter of this k,ind will
+gravitational
+respond perversely
+or of other kinds, but will produce gravitational
+just as a usual body does.
+
+to all forces whether
+
+gravitational
+
+forces
+
+mass
+
+(iii) Inertial mass
+
+positive,
+
+masses
+In this case we would have normal behavior
+forces, but gravitational
+
+gravitational
+
+involving masses of this type and of type (i)
+i.e.,
+and unlike masses would
+
+by a negative Coulomb
+attract
+
+law;
+
+negative.
+relating to all nongravitational
+behavior
+would be governed
+like masses would
+repel.
+
+(ii) and
+
+(iv) All mass is negative. This would be a combina-
+of
+this kind responds
+forces,
+like
+forces, but produces
+
+(iii). Matter
+to nongravitational
+
+to gravitational
+
+responds
+
+tion of
+perversely
+ordinary matter
+repulsive gravitational
+relativity
+
+In general
+
+fields.
+the situation is quite di6erent.
+is not a separate fact but
+the ratio of inertial
+is the same for all
+active
+passive
+like
+third law as this would require integrals over
+
+The principle of equivalence
+is basic to the theory. Accordingly
+and passive gravitational masses
+bodies. The
+gravitational
+Newton's
+
+fixed by anything
+
+relation
+masses
+
+between
+
+is not
+
+and
+
+H. BONDI
+
+accelerations.
+to
+
+f=s cosht, $=x, g=y,
+
+accelerated frame by the transformation
+
+the other particle would have different
+The usual Minkowski metric may be transformed
+the uniformly
+r=s sinht,
+in the
+resulting
+metric ds'=s'dt' —dx' —dy' —ds'. It is clear
+this
+metric does not cover the whole of space, but is bordered
+by portions of the asymptotes which act as horizons
+and accordingly
+only covers one-quarter
+of space-time
+
+the metric
+
+that
+
+(Fig. 1).
+
+of
+
+We now return to the task of constructing a model
+
+relativity
+sign. Accordingly we use a uniformly
+frame,
+
+in
+two bodies whose masses have
+general
+ac-
+opposite
+celerated
+in it
+two 6nite
+In the uniformly
+bodies with opposite
+accelerated frame the system will be axially symmetric
+and so we can use4 the metric of Weyl and I.evi-Civita.
+In this metric we have,
+
+and then immerse
+sign of mass.
+
+in empty space,
+
+ds'= e'"dt'
+
+e'"Pe"(—dr'+dP)+r'd8q
+
+where p= p(r, 5), o=e (r,e). satisfy
+
+[The operator occurring in (2) will be denoted by V".j
+
+Bo(By l'( cd)
+
+i-I
+
+(Br)
+
+(clz)
+
+ar
+
+(4)
+
+It is well known that
+for this metric. 4 For our purposes
+be given in a slightly different
+
+condition
+this condition will
+form from the usual one.
+
+there is a consistency
+
+extended
+the required
+has been done'
+is rather complicated.
+
+regions of space-time which do not possess
+character. A good deal of work
+the relation
+
+' and tends to indicate that
+
+tensorial
+
+solution.
+
+the inertial
+
+If this constant
+
+then test particles will,
+
+time as a constant of integration
+
+As long as relativity is considered purely as a theory
+of gravitation,
+and passive gravitational
+masses do not in fact appear. Active gravitational mass
+occurs for the first
+in
+is tak.en to
+Schwarzschild's
+in the first approx-
+be positive,
+orbits corresponding
+imation, describe the Newtonian
+to an attractive
+taken to be negative
+test particles will describe the orbits corresponding
+the Newtonian
+first case all bodies will be attracted,
+bodies will be repelled.
+
+to
+in the
+in the second all
+
+case with repulsion. Note that
+
+in the 6rst approximation,
+
+If, however,
+
+the constant
+
+body.
+
+then,
+
+is
+
+separated
+
+by empty
+
+then a remarkable
+
+space. Then,
+approximation,
+
+If we now leave the one-body problem and consider
+situation arises.
+the two-body case,
+Imagine a body of positive mass and a body of negative
+to use the
+mass
+the positive
+language of the Newtonian
+body will attract
+(since all bodies
+are attracted by it), while the negative body will repel
+the positive body (since all bodies are repelled by it).
+If the motion is confined to the line of centers,
+then one
+would expect the pair to move off with uniform accelera-
+tion. This
+requires
+confirmation by the complete construction of the model
+in general
+
+the negative
+
+relativity.
+
+surprising
+
+clearly
+
+rather
+
+result
+
+one
+
+f plane—
+
+Uniformly
+
+relativity)
+
+in general
+
+in the r
+
+in retaining
+
+the stationary
+
+accelerated systems
+
+are well known, ' but
+
+relativity
+it may
+(and in special
+be worth while repeating here briefly the main properties
+of such systems. The Newtonian
+concept of uniform
+to special
+acceleration may be generalized
+relativity
+in a number of ways, but one of these is of outstanding
+property. The
+importance
+system in this case is described by the equation g' —v'
+=const. The orbits of all particles
+form a system of rectangular
+hyperbolas with 6xed
+all have an acceleration
+asymptotes. These particles
+which is uniform in the sense that
+the motion of each
+particle viewed from that particle is constant
+in time.
+of every point
+However,
+although
+is not
+the acceleration
+is uniform,
+the trajectory
+the same. Roughly speaking,
+of the particle passes to the origin the larger its accelera-
+tion. The remarkable
+its
+stationary character. If any particle carried an observer
+the distance of any other particle partaking
+measuring
+then he would 6nd this distance to be
+of the motion,
+to a fixed observer he arid
+constant
+
+of different points
+the nearer
+
+in time, although
+
+the acceleration
+
+system is
+
+feature
+
+this
+
+of
+
+' J. L. Synge, Proc. Edinburgh Math. Soc. (2) 7, 93 (1937).
+' E. T. Whittaker, Proc. Roy. Soc. (London) AI49, 384 (1935).
+' I.. Marder, Proc. Cambridge Phil. Soc. 53, 194 (1957).
+
+I'zo. 1. The shaded portion on the right
+
+is mapped on the
+
+half-space s&~0 and also on the entire (t,r,s,8) space.
+
+4 P. G. Bergmann,
+
+Introduction
+
+(Prentice Hall, Inc., New York, 1946), p. 208.
+
+to the Theory
+
+of Relativity
+
+NEGATI VE MASS I N GENERAL RELATI VI TY
+
+For any closed circuit C situated entirely in empty
+region)
+
+enclosing a nonempty
+
+space (though
+we have from (3) and (4)
+
+possibly
+
+0=
+
+aa
+
+c ar
+
+ao
+
+az
+
+(ap)
+Ear)
+
+I
+
+c
+
+(aie ~
+&as) J
+
++2r
+
+By By
+
+Br Bz
+
+dS = 2
+
+(' By
+
+~ Bz
+
+V2q rdrdz
+
+(5)
+
+theorem,
+
+the integral
+
+being taken
+by the divergence
+plane enclosed by C.
+through
+It has been assumed
+the whole of
+through
+this region the metric has the form (1) though it need
+not satisfy Eqs. (2), (3), and (4).
+
+the part of the meridian
+here that
+
+The metric (1) is not in fact the most general metric
+it
+for a nonempty
+is suSciently general for the model we wish to construct.
+It is easy to show that
+
+static axially symmetric
+
+region but
+
+Kp
+
+KT00
+
+t!2(p—o) —2V'y+ V20.———
+
+1 Bo'
+
+r Br
+
+(az&'
+
+(as''
+
+I
+
+I+Ii
+
++Isa
+
+1 Bo-
+
+r Br
+
+(a~I '
+& as)
+
+I +I
+
++I
+
+(ar )
+
+I+I
+
+(a~~'
+&as)
+
+I
+
+(6)
+
+(7)
+
+(8)
+
+(9)
+
+Kpii=
+
+gT 1—gT 2 —gp22
+
+e2(y—s)
+
+i.ar- i
+—ep33 —— zTP=e'&~'i —V'o.———
+
+1 Bo
+
+r Br
+
+KTyg= 2
+
+By By
+
+Bz
+
+1 Bo'
+
+r Bz
+
+it
+
+is that
+
+condition
+
+The significance
+
+the gravitational
+
+of the consistency
+
+Since the other components
+
+(5) is
+now clear:
+force on any
+by empty space must have a vanishing
+body surrounded
+vanish by
+z component.
+equilibrium
+symmetry,
+condition. We can now regard y as the exact Newtonian
+of a Newtonian
+the
+potential
+analog
+density of the Newtonian
+system will not be exactly
+the same as the density of the relativistic
+
+(5) is simply
+
+the Newtonian
+
+system though
+
+system.
+
+if
+
+there
+
+solutions.
+
+In particular
+
+Since Laplace's equation
+
+is linear, we can of course
+are two
+superpose
+bodies Li.e., two separate regions in which (2) does not
+solutions may be
+hold),
+(5) holding for each
+superposed,
+body separately. A few theorems of Newtonian gravita-
+tion may now usefully be quoted.
+
+then the two corresponding
+
+to condition
+
+(i) If p—4 at ~ and V'z=0 except
+(ii) If p~0 at ~ and V'p=0 except
+
+finite closed region,
+
+then condition (5) is satisfied.
+
+in a single
+
+subject
+
+in a finite
+in the region z&a
+
+for all z&~a.
+
+closed region which
+and in which V'y&&0, thenap/as&&0
+
+lies entirely
+
+(iii) If p~0 at ~ and V2p=0 except
+
+in two finite
+regions one of which lies entirely in z&a and the other
+in z) u, and in each of which V' y is of one sign,
+then
+condition (5) cannot be satisfied. This important
+result
+follows from (i) and (ii). If z is split
+into two parts, pi
+satisfying Laplace's
+in body 1 and
+except
+(5) for body 1
+then condition
+q» except
+requires
+
+in body 2,
+
+equation
+
+that
+
+» as
+
+V'pi+
+
+V2pi rdrdz=0.
+
+az
+
+The first
+
+term vanishes
+
+by (i); the second cannot
+vanish by virtue of (ii). The theorem shows that
+there
+is no static solution in general
+relativity for two bodies,
+each containing matter of one sign, situated on opposite
+sides of a surface z= const, with the metric tending to
+the Minkowski metric at infinity. It will now be shown
+if the last condition is dropped such a solution is
+that
+no longer
+
+impossible.
+
+involved
+
+The type of specialization
+
+in the retention
+of metric (1) is clearly shown in (7). The condition that
+that o-= const on r=0.
+T~2 is finite on the axis implies
+loss of generality we may take 0 =0 on r=0.
+Without
+there is no matter on r =0, then this
+If we suppose that
+condition also follows from (5).
+
+p is
+
+in which
+
+a Newtonian
+
+the gravitational
+
+We can now construct
+
+analog of our
+system in which r, z, 0 are cylindrical polar coordinates
+(in
+and
+units). In empty space y satisfies Laplace's
+gravitational
+(3) and (4)
+equation
+imply that o is small of the second order. Equation (6)
+identical with Poisson's
+is then,
+equation, while Eqs. (7), (8), and (9) imply that
+the
+stresses are small compared with the density.
+
+(2). Also, as long as p is small,
+
+to the 6rst order,
+
+potential
+
+The uniformly
+
+accelerated metric
+dS =z dt —ds —dp —dz
+
+may be transformed
+by the transformation
+
+to the Weyl-Levi-Civita
+
+(10)
+form (1)
+
+(x'+y')1= re
+tan —'y/x=8
+
+where
+
+q'= 2 log([r'+ (z—u)'j + (z—a)}
+c=-' log(l+ l(s-c)9'+ (S-c)'j '}
+
+(12)
+(13)
+
+and u is an arbitrary constant.
+
+H. BOND I
+
+As an example we may take a=0 and
+
+relevant
+
+in the whole
+
+portion of space,
+earlier,
+
+This p, which will be called pp, satisfies Laplace's
+i.e.,
+the
+part of
+at r=0, z ~&a need
+
+equation
+except on r=0, z &~a. As was discussed
+uniformly
+space-time
+not cause surprise or alarm.
+
+accelerated metric only represents
+and so the singularity
+for z) a, 8 g o/Bz) 0
+
+Note that,
+Consider now the problem of two bodies, as in (iii)
+that we
+
+above, but add the potential
+drop the boundary condition that space is Minkowskian
+at
+uniformly
+time which is Rat at inanity.
+entirely
+lower
+(body 2) 7'p2&~0,
+in suitable
+8/2/cia(0 and,
+both regions,
+show that
+
+to a
+in a space-
+If each of the bodies is
+in z&a, and if in the body (body 1) in the
+in the other
+one
+(5) can be satisfied
+inside body 1,
+in body 2, el+i/cia(0. As Bpo/cjz&0 in
+to
+
+z region V'p»~&0, whereas
+then condition
+
+there is now no argument
+is impossible.
+
+and replace
+accelerated
+
+frame of reference
+
+pp. This implies
+
+the arrangement
+
+circumstances.
+
+it by that
+
+from signs
+
+appropriate
+
+infinity
+
+then,
+
+For
+
+regions
+
+To establish
+
+the possibility we proceed as follows.
+Let B», B2 be two finite
+of space with B»
+entirely in z» &z &z»' and B2 in z2 ~& z &z2' where z»'(z2.
+Let p» satisfy Laplace's
+outside
+and with V p»~&0 in B».
+B», with
+Similarly let p2 satisfy Laplace s equation
+outside B2,
+let it tend to zero at infinity, but V'q2~&0 in B2. Then
+consider
+
+p»—+0 at
+
+everwhere
+
+equation
+
+in6nity
+
+P = go+kg»+tP2
+
+(14)
+l are
+and k,
+/, k&0 and
+(5) is to be satisfied for both Bi
+
+qp is a constant
+later, with
+
+the a entering
+
+where
+constants
+a(zi. If condition
+and B2 then
+
+to be determined
+
+and
+
+8Pg+l—=0
+
+p
+
+Bz
+
+Bz
+
+f'df'dzV p»
+
+J
+
+f)f)f;d;d;~ „+h =O.
+
+~Vp
+R
+
+BZz
+
+B2
+
+Since the factor
+
+this
+equation can be considered as an equation determining
+/. Moreover,
+
+h can be canceled
+
+since in B»
+
+(15),
+
+in
+
+(15)t
+
+(16)t
+
+(17)
+
+~qp &0&-—
+8z
+
+Bz
+
+All
+
+the conditions
+
+I will be positive. Similarly (16) determines
+
+the problem,
+
+a positive h.
+are
+a
+pair of bodies whose densities
+
+therefore,
+
+satis6ed, and so we have succeeded in constructing
+uniformly
+have opposite sign.
+
+accelerated
+
+of
+
+t The Newtonian
+
+been
+omitted in (15) and ('16), since its integral vanishes by theorem (i).
+
+term V'q, Bq,/BX has
+
+"self-force"
+
+C r'+ (z—hi)'7'
+
+P»=-
+
+[r'+ (z—hi)']-
+
+ss»
+
+. 2a»3
+
+38$»
+
+2Q»
+
+(r'+ (z—h„)' ~& a,')
+
+(18)
+
+jr'+ (z h)']l— (r'+ (z—hp)' ~& aP)
+Lr'+ (Z—hg)']—
+(r'+ (z—h2)' ~& aP)
+
+3m2
+
+282
+
+m2
+.202
+
+Here,
+
+for simplicity,
+
+h» and h2 are disposable
+
+rather
+
+than k and 1.
+
+Condition
+
+(16) becomes, since V'p2 ——const
++—.
+BPp BP» '
+Bz .
+If a2((h2 —h» then this becomes eRectively
+
+0=)f)f,-d,-d.-
+
+Bz
+
+in 8~,
+
+and so
+
+BPp BP»+
+
+Bz
+
+Bz
+
+a =h2, r =p
+
+(hg —hi)'
+
+Hence m» is negative.
+
+Similarly we must have,
+
+if a»((h2 —h» and a»((h»,
+
+I —+—1
+
+(cI yo
+( Bz
+
+clz ) z=hi, r=o
+
+2hi
+
+(h2 —hi)'
+
+of
+
+It follows
+
+that
+
+produced
+
+the potentials
+
+the derivatives
+
+in both bodies
+yp are of the same order of magnitude
+of
+the Newtonian
+the derivatives
+in spite of the additional
+the densities are an order of magnitude
+stresses, and are themselves,
+gp = 2e2(«—0» V2p
+
+as the derivatives
+then,
+potentials
+are small,
+of 0 will be small of the second order,
+terms due to pp. Accordingly
+than the
+to the first order, given by
+
+by themselves.
+of both bodies
+
+larger
+
+If,
+
+By (12) and (13)
+
+e—2(v o—~o)—
+
+Hence
+
+2h
+
+2 (r'+z') l
+op= 12h—.
+
+rg
+
+C
+
+(25)
+
+(26)
+
+(20)
+
+(21)
+
+(23)
+
+(24)
+
+NEGATIVE MASS I N GENERAL RELATIVITY
+
+It may be advantageous
+
+to view the system from
+the Galilean frame of reference r, f', n, 8 at r= t=0.f.
+to be spheres with centers at
+Then the bodies appear
+f=(2h)l and of radii a(2h)
+are still
+given by (26) and so the masses
+'*,
+while
+limit,
+
+are (2h):. In the Newtonian
+should be given by
+
+the accelerations
+the accelerations
+
+'. The densities
+
+are 3f=m(2h)
+
+(2h2) l
+
+2
+
+[(2h2) i—(2hi) l]'
+
+is of the same nature.
+
+Defining now
+
+we arrive at the metric
+df'2 —ti(rd—r
+
+ds2= dr2
+
+power series in r' for small r. Also
+
+8(s,r) = o (z,r) —op(z, r)
+
+(32)
+
+r=set'sinht,
+
+f'=set'cosht,
+
++=re t'
+
+(33)
+
+f'dt)—~
+
+2vdn—(rdr
+
+f'df)—
+—Mn' —n'd8'
+
+(34)
+
+the coefficients p, v, X are functions
+r' —Not. e that
+
+only of n
+where
+and f'
+under
+that we
+any
+are still dealing with a case of uniform acceleration
+though we are no longer
+
+this metric is invariant
+
+in Qat space-time.
+
+(t,r) Lorentz
+
+transformation,
+
+showing
+
+of
+
+of
+
+consists
+
+laborious
+
+two null
+
+of parts
+
+expressions
+
+(34) that
+
+a somewhat
+
+from the structure
+
+By virtue of Eqs. (33), metric (34) is established only
+for t ~&~ r ~. What happens
+on and beyond this bound-
+ary? It is clear
+the
+boundary
+geodesics.
+Furthermore,
+of
+coefficients yields
+for p, v, X in terms of
+P, BP/Bs, 8$/Br, and 8. An examination of these expres-
+that, as a consequence of the behavior
+sions establishes
+of P and 8 for small s referred to above,
+the three new
+coefficients
+in series of powers of
+the coefficients of the terms
+f'2
+in these series being functions
+themselves
+in powers of n' near n=0. Metric
+can be expanded
+(34) is therefore perfectly regular at the boundary.
+
+r' near —the boundary,
+
+can be expanded
+
+comparison
+
+of n that
+
+it
+
+defined.
+
+free of
+
+singularities
+
+is not uniquely
+
+As the boundary
+
+of the metric beyond
+would be most attractive to find a continuation
+that was
+comprised all space-time. The mathematical
+of finding such a continuation
+and have so far proved unsurmountable.
+interesting
+existence of such a continuation,
+far defied solution.
+
+is a null geodesic the continuation
+It
+of (34)
+and
+difficulties
+to be formidable
+It is also an
+the
+too has so
+
+problem to establish
+
+and significant
+
+of matter,
+
+appear
+
+this
+
+and
+
+but
+
+(29)
+
+If (34) is supposed
+
+A solution of a di8erent character has however been
+to retain its form for all
+is symmetrical
+
+obtained.
+r and f then a metric is obtained that
+about
+the coefficients depend only on n and on the time like
+variable
+
+/=0 In the re.gion
+
+r=0 and about
+
+(and similarly
+
+& r) while in-
+
+in ~ f ~
+
+(30)—
+
+v' —f'2
+t—he mirror
+
+l ~&
+
+i.e.,
+
+in f' &~
+
+there will
+
+~ r ~
+apply;
+
+image of the conditions
+
+~ r ~
+again be two uniformly
+will
+accelerated bodies of opposite
+sign of mass. The sole
+question to be decided in order to establish the validity
+of this type of solution is whether
+there is an empty
+space metric of this kind in r &~ ~f~
+fitting with the
+on to our previously
+required
+obtained metric at r=t &~0.
+
+degree of smoothness
+
+We first notice that
+r= Te' coshZ,
+
+the transformation
+
+g= Te' sinhZ,
+
+n=Re '
+
+(2hi) l[(2hg) -*—(2hi) -*]'
+
+(27)
+
+By (22) this equals
+
+(hs —hi)'
+
+2h, (2h,) *[(2h,) i—(2h,)'*]'
+
+{2D2hi) "+(2h2) '])'
+
+(2h~) l
+
+(2hi) l(2hg) i
+
+(2g)
+
+is small. This is an appropriate
+
+the case provided h2 —h~((hi,
+This will be approximately
+i.e., provided
+the product of acceleration and distance
+for
+apart
+the Newtonian
+the
+masses are not quite equal and opposite, but this is not
+in
+surprising
+the uniformly
+
+since their accelerations must be unequal
+
+case. It is interesting
+
+limitation
+to note that
+
+accelerated model.
+
+4.
+
+constructed
+
+The metric
+
+in the preceding
+
+contains a singularity
+ing, since the uniformly
+contains
+artificial and is transformed
+(r,f,n, 8) metric. Is a similar elimination
+ity possible if p = q 0+ &pi+ z 2?
+
+section
+at r = 0, z &~ 0. This is not surpris-
+accelerated metric p= po also
+purely
+to the
+of the singular-
+
+such a singularity which is, however,
+away by returning
+
+We note first of all that
+
+space corresponds
+of space-time;
+the same transformation
+
+if p= pp the entire (t,z,r,8)
+to s~&0 in (t,s,r,8) and to a quarter
+to
+
+in (r,f',o.,8). Keeping
+
+vis , f &~~r.~
+
+equations
+z=-,'(s' —r')
+
+t=t
+
+r=rs
+
+we have now the metric
+e"'
+
+ds'= s'e'&dt'
+
+t'i (dr'+dr')
+
+r—'e 't'd8'
+
+y (s,r) = q (z,r) —s o(z,r)
+
+where the singular part of the metric appears explicitly
+and we are only dealing with z ~& 0. It is easily seen that
+(3I)
+it is readily
+as a
+on r,
+by
+
+function of z and r. Moreover
+that,
+
+is a regular
+established
+power
+the
+
+s, P can be expanded
+
+depending
+representable
+
+coefficients
+being
+
+in z' with
+
+coefficients
+
+themselves
+
+for small
+
+series
+
+$ Where $=n cos8, g=n sin8.
+
+H. 8 ON D 1
+
+(35)
+
+(36)
+
+428
+
+with
+
+with
+
+yields the metric
+
+ds'= e'&~'(dT'
+
+dR')—T'e"—dZ' R'e—"d8'
+
+e= «(T,R)
+
+g =g(T,R)
+
+)I
+
+that
+
+In fact it turns out
+
+provided the p, v, X of (34) are suitably connected with
+the e, g of (36).
+the expres-
+in terms of e and g are identical with
+sions for p, v,
+those in terms of f and 6 provided P, 5, r, s', sB/Bs
+T', TB/—BT
+are replaced
+Accordingly, we have found a metric 6tting smoothly
+the intermediate
+to our original metric by continuing
+metric (34) across the boundary.
+
+by e, g, R,
+
+respectively
+
+The behavior
+
+of (36) away from the boundary
+
+is
+
+governed in empty space by the equations
+
+B2~
+
+] B~
+
++— = +-
+
+1 Bf
+BR' R BR BT' T BT
+
+B26
+
+(37)
+
+(R-T) =RT I
+
+BT
+
+I+I-
+
+EBT)
+
+(BR)
+
+(R-T-)
+
+Bfj
+
+BR
+
+=RT I
+
+(Beg
+&BR)
+
+t Be)
+KBT) .
+
+2R—'T
+
+B6 B6
+
+BR BT
+
+B6
+
++2RT —2R'
+
+BT
+
+B6
+
+BR
+
+(39)
+
+equation
+
+is a hyperbolic
+for T)0, R~&0 provided
+
+it will have no
+Since (3/)
+e and Be/BT
+singularities
+are given on T=O in a nonsingular manner
+as even
+functions of R. This is the case in view of the properties
+of P and since e is connected with P as mentioned above.
+In fact, near T=0, e can be expanded in a power series
+in T' with coefFicients that
+can be expanded.
+in powers of R', as a consequence of the corresponding
+e will be nonsingular. As for
+property of P. Accordingly
+character arises
+g, the only doubt about
+its nonsingular
+from the factor E.'—T'. It is, however,
+easily seen that
+this
+provided
+Be/BR=Be/BT on R=T, and this
+in turn is a con-
+sequence of (37) and of the fact that Be/BR=Be/BT=O
+at R= T=O.
+%e have
+
+lead to a singularity
+
+factor does not
+
+in constructing
+
+succeeded,
+
+themselves
+
+therefore,
+
+a
+
+solution of Einstein s equations
+world-wide nonsingular
+two oppositely accelerated pairs of bodies, $
+containing
+each pair consisting of two bodies of opposite sign of
+mass. Since To' and m are for any one body of the
+same sign the negative mass occurring is of type (iv).
+
+2RT'
+
+B6 B6
+
+BR BT
+
++—2R'
+
+2RT
+
+B6
+
+BT
+
+B6
+
+BE.
+
+(38)—
+
+$ This solution is closely analogous
+electromagnetic
+(I,ondon) A229, 416 (1955)j.
+
+to Born's solution for the
+case )H. Bondi and T. Gold, Proc. Roy. Soc.
+
+

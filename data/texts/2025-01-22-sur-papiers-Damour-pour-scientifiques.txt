@@ -1,0 +1,622 @@
+21	janvier	2025-01-21	
+
+	Si	vous	avez	ces	lignes	sous	les	yeux	cela	signifiera	que	personne	n’aura	rien	fait	depuis	
+cette	date	de	janvier	1979	où	l’académicien	Thibault	Damour,	qui	est	«	monsieur	
+cosmologie	en	France	»	a	positionné	le	premier	des	articles	sans	queue	ni	tête1,	dans	sa	
+page	de	l’Institut	des	Hautes	Etudes	de	Bures	sur	Yvette,	auquel	il	appartient.		
+	
+
+	
+
+	
+
+Thibault	Damour	
+
+	
+	
+Quel	est	l’enjeu	?		
+
+	
+Il	est	de	taille.	La	cosmologie	et	l’astrophysique	sont	en	perdition	depuis	des	décennies.	
+Comme	évoqué	dans	la		vidéo,	le	modèle	de	la	Relativité	Générale,	basé	sur	l’équation	
+d’Einstein,		
+	Mais	ce	modèle	ne	parvient	plus	à	rendre	compte	des	observations.		Je	propose	donc	de	
+passer	à	un	nouveau	modèle	correspondant	à	un	système	composé	de	deux	équations	
+de	champ	:		
+	
+
+R gµν = χTµν
+
+R µν −
+ 
+
+1
+2
+
+	
+
+R µν −
+
+R gµν = χ T µν +
+
+1
+2
+
+⎡
+⎢
+⎢
+⎣
+
+g
+g
+
+t µν
+
+⎤
+⎥
+⎥
+⎦
+
+	
+
+⎡
+⎢
+⎢
+⎣
+
+1
+2
+
+g
+g
+
+T µν + t µν
+
+R µν −
+ 
+
+R g µν = − χ
+
+		
+1	https://www.ihes.fr			page	perso	Damour	et		
+http://www.jp-petit.org/papers/cosmo/2022-12-12-Damour-IHES.pdf	
+http://www.jp-petit.org/papers/cosmo/2022-12-28-Damour-IHES.pdf	
+	
+
+⎤
+⎥
+⎥
+⎦
+
+	
+
+L
+
+	
+	
+
+	
+
+ δgµν
+
+S = d4∫
+ 
+
+gµν
+R and gµν
+ 
+
+gµν and gµν
+ 
+
+x − g ( R − χ L )
+
+conduit	à		:		
+
+En	2019	Damour	réagit	face	à	cet	effort	de	proposer	une	extension	du	modèle	
+lettre	
+l’envoi	 d’une	
+cosmologique	 par	 une	 démarche	 agressive,	 assortie	 de	
+recommandée	avec	accusé	de	réception	adressée	à	mon	domicile.	Toute	démarche	en	
+vue	d’une	rencontre,	d’une	explication	reste,	pendant	des	années,	sans	réponse.	
+	
+Pourquoi	?		
+	En	2002	avec	un	autre	chercheur,	Ian	Kogan	il	publie	un	article2	de	41	pages	qui	est	le	
+premier	modèle	«	bimétrique	»,	avec	donc	deux	types	de	matières.	Il	les	qualifie	de	
+	.	Pour	plus	de	clarté,	
+«	droite	»	et	«	gauche		en	leur	associant	les	métriques	
+en	comparant	les	deux	approches	nous	conserverons	nos	notations	
+		
+L’équation	d’Einstein	découle	d’un	calcul	variationnel	effectué	à	partir	d’une	action	:		
+	
+	où	R	est	le	scalaire	de	Ricci	découlant	de	la	métrique,		L	le	Lagrangien	de	la	matière	et	
+	
+la	constante	d’Einstein.	Le	calcul	des	variations,	classique,	qui	consiste	à	faire	varier	la	
+métrique	selon	
+	
+et	à	:		
+	
+		D’où	l’équation	d’Einstein	indiquée	plus	haut.		
+		
+Que	fait	Damour,	en	2002	?	
+	Il	construit	une	action,	en	notant	que	ce	geste	est	purement	arbitraire	et	ne	découle	pas	
+de	contraintes	physiques.	Comme	il	a	deux	métriques	
+	il	en	déduit	deux	
+scalaires	de	Ricci	
+	(	qu’il	affecte	des	indices	R	et	L,	«	right	»	et	«	left	»	).		Comme	
+	.	Il	
+il	a	deux	types	de	matières	il	introduit	deux	«	Lagrangiens	de	la	matière	
+propose	donc	une	action	sous	la	forme	:		
+	
+2	T.Damour	and	I.Kogan	:	Effective	Lagrangians	and	universality	classes	of	non	linear	
+bigravit.	Physical	Review	D	66	104024.	27	Nov	2002.		
+	http://www.jp-petit.org/papers/cosmo/2022-Damour-Kogan-bigravity.pdf	
+https://doi.org/10.1103/PhysRevD66.66,	104024T.T.Damour	2008	
+arXiv	:	hep-th/0206042v2	23	Oct	2002	
+
+x − g δgµν ( R µν −
+
+x − g R = d4∫
+
+x − g R = d4∫
+
+x − g δgµν Tµν
+
+gµν and gµν
+ 
+
+ R and R
+
+ L and L
+
+δ d4∫
+ 
+
+ δ d4∫
+
+R gµν )
+
+1
+2
+
+	
+
+	
+
+χ
+
+g
+
+∫
+
+∫
+
+	
+
+	
+
+	
+
+d4x
+ 
+
+x(g g )
+
+ d4x − g
+
+ d4x − g
+
+1
+4 V(g,g )
+
+S = d4x
+ 
+
+  g = R 2 sinθ
+
+− g ( R − χ L ) + d4x
+
+− g ( R − χ L ) − µ4 d4∫
+
+ ds2 = R 2 (dθ2 + sin2 θdϕ2 )
+
+	ou	en	fait	
+
+	
+Quand	on	construit	l’action	d’Einstein-Hilbert	on	utilise	un	hypervolume	élémentaire	
+.	Une	formule	qui	peut	paraître	étrange.	Mais	considérons	
+la	métrique	de	la	sphère	S2	:	
+	
+	La	racine	carrée	du	déterminant	de	la	métrique	est	:		
+	
+	
+	En	intégrant	on	retrouvera	la	surface	de	la	sphère	S2.	En	4D	le	volume	élémentaire	
+	est	un	volume	élémentaire	«	spatio-temporel	».		
+	Que	dire	alors	du	terme	:		
+	
+	
+	Il	ne	découle	pas	de	subtiles	considérations	de	géométrie	différentielle.	C’est	un	
+introduisant	 une	
+bricolage	
+comme	 un	
+sorte	 d’hypervolume	
+autre	
+en	
+	.	La	fonction	V,	toute	aussi	heuristique,	est	censée	
+quadridimensionnel	
+prendre	en	charge	l’interaction	entre	les	deux	types	de	matières	(qui	dans	l’approche	de	
+Damour	et	de	Kogan	sont	censées	appartenir	à	des	«	branes	»).	Le	calcul	des	variations	
+s’effectue	en	considérant	les	variations	des	métriques	
+	.	Damour	parvient	
+alors	aux	équations	:		
+	
+		Enfin	au	terme	d’un	article	de	40	pages	Damour	et	Kogan	ne	produisent	aucun	résultat	
+de	quelque	nature	que	ce	soit.		
+		On	remarque	une	grande	similitude	avec	les	équations	du	modèle	Janus.	Dans	son	
+article	Damour	ne	suggère	nullement	que	cette	seconde	matière	puisse	être	constituée	
+de	masses	négatives.	Ecrivons	son	système	d’équation	en	notation	Mixte	:		
+	
+
+R g µν = χ T µν + t µν
+
+R gµν = χ T µν + t µν
+
+ δg µ ν and δ g µ ν
+
+x(g g )1/4V(g,g )
+
+ d4x(g g )1/4
+
+ − µ4 d4∫
+
+R µν −
+ 
+
+R µν −
+
+1
+2
+
+1
+2
+
+	
+
+⎡⎣
+
+⎤⎦
+
+⎡⎣
+
+⎤⎦
+
+ 
+
+ν
+
+ν
+
+⎤⎦
+
+⎡⎣
+
+⎤⎦
+
+⎡⎣
+
+	
+
+	
+
+1
+2
+
+1
+2
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎜
+⎝
+
+Tµ
+ν =
+
+Tµ
+ν =
+
+R λ µ
+
+R λ µ
+
+R µ
+ν −
+
+ν + t µ
+
+ν + t µ
+
+R µ
+ν −
+ 
+
+0
+− p
+0
+0
+
+0
+− p
+0
+0
+
+ν = χ T µ
+
+ν = χ T µ
+
+0
+0
+− p
+0
+
+0
+0
+0
+− p
+
+0
+0
+− p
+0
+
+ρc2
+0
+0
+0
+
+ρc 2
+0
+0
+0
+
+	
+	Le	tenseur	d’une	matière	«	ordinaire	»	peut	alors	s’écrire	:		
+	
+	Par	analogie	on		pourrait	écrire	que	:		
+	
+	En	se	plaçant	dans	le	cadre	de	l’approximation	Newtonienne	les	termes	de	pression	
+pourraient	être	négligés.		
+	
+	
+	De	ce	système	de	deux	équations,	en	faisant	abstraction	des	termes	d’interaction	
+		on	en	
+	et	si	la	seconde	matière	est	faite	de	masse	négative,	c’est	à	dire	si	
+déduirait	que	les	masses	positives	s’attirent	mutuellement	tandis	que	les	masses	
+négatives	se	repoussent	mutuellement.		
+	Or	dans	le	modèle	Janus	elles	s’attirent	mutuellement.		
+	Comment	passer	à	cette	configuration	en	suivant	l’approche	de	Damour	?		
+	Rien	de	plus	simple.	Il	suffit	d’ajouter	un	signe	«	moins	»	dans	l’action	(ici	en	rouge)	:	
+	
+	
+	
+
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+
+− g ( R − χ L ) − µ4 d4∫
+
+− g ( R − χ L ) − d4x
+
+0
+0
+0
+− p
+
+tµ
+ν and t µ
+ 
+
+ρc2
+0
+0
+0
+
+ρc2
+0
+0
+0
+
+S = d4x
+ 
+
+1
+4 V(g,g )
+
+ ρ ≺ 0
+
+x(g g )
+
+Tµ
+ν !
+
+Tµ
+ν !
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎟
+⎠
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎝
+
+⎞
+⎟
+⎟
+⎟
+⎟
+⎠
+
+⎛
+⎜
+⎜
+⎜
+⎜
+⎝
+
+∫
+
+∫
+
+  
+
+ 
+
+ν
+
+	
+
+	Et	cela,	on	a	parfaitement	le	droit	de	le	faire.	Le	système	d’équations	deviendrait	alors:		
+	
+
+R µν −
+
+R gµν = χ T µν + interaction term
+
+⎡⎣
+
+⎤⎦
+
+1
+2
+
+	
+
+	
+
+⎤⎦
+
+⎡⎣
+
+1
+2
+
+R µν −
+  
+
+Tout	simplement.	
+
+R g µν = χ −T µν + interaction term
+
+Opter	pour	une	forme	de	l’action	qui	permet	
+de	restaurer	le	principe	d’action-réaction.	
+
+Voilà	qui	commence	à	se	rapprocher	des	équations	Janus.	Dans	l’article	publié	en	
+novembre	2024	dans	la	revue	the	European	Physical	Journal3	on	trouvera	une	
+dérivation	du	système	d’équations	effectuée	à	partir	d’une	autre	action,	ces	démarches	
+ayant	la	vertu	d’assurer	l’invariance	des	équations	par	changement	de	coordonnées.		
+	
+En	fait,	quel	a	été	le	principe	directeur	du	modèle	Janus	?	
+	
+	
+	Et	dans	cette	démarche	le	«	signe	moins	»	est	essentiel.	C’est	l’astuce	qui	sert	de	pivot	au	
+modèle.	Dans	ce	qui	va	suivre,	c’est	à	dire	dans	les	deux	articles	que	T.Damour	a	mis	sur	
+sa	page	de	l’IHES,	il	est	clair	qu’il	n’a	rien	compris	(ou	n’a	rien	voulu	comprendre)		à	la	
+subtilité	de	cette	démarche	de	recherche	de	cohérence	physique.		
+	Dans	son	article	du	12	décembre	20224	il	insiste	sur	l’absurdité	du	modèle	Janus,	
+prétendant	que	les	masses	négatives	s’attirent	«	alors	qu’il	est	bien	connu	qu’elles	se	
+repoussent	»	(dans	le	modèle	Einsteinien).	Je	lui	ai	aussitôt	signalé	son	erreur,	ce	que	
+j’aurais	du	éviter	de	faire,	ce	qui	aurait	permis	de	montrer	qu’il	n’avait	en	fait	pas	lu	mes	
+papiers.	Il	a	rectifié	le	tir	dans	un	papier	du	28	décembre	2022,	mis	en	ligne	six	jours	
+plus	tard.	Au	passage,	dans	ce	second	article	il	montre	qu’il	a	enfin	compris	que	
+approximation	Newtonienne.	Il	évoque	alors	le	cas	des	étoiles	à	neutrons,		en	oubliant	
+que	dans	ce	cas,	cette	requête	concerne	le	calcul	des	géodésiques	suivies	par	les	masses	
+négatives,	ce	qui	échappe	alors	à	toute	observation.		
+	Pour	qui	sait	lire	et	voir,	ses	objections	initiales,	dans	ce	papier	du	28	décembre	20225,	
+tombent	totalement,	Mais	ce	sont	les	seuls	mots	que	retiendront	les	scientifiques,	les	
+journalistes	et	les	intellectuels	(français	et	…	étrangers	!).	Conformément	aux	règles	du	
+milieu	scientifique	l’exercice	d’un	droit	de	réponse	serait	parfaitement	justifiée,	et	le	
+3	J.P.Petit	and	H.Zejli	:		
+https://link.springer.com/content/pdf/10.1140/epjc/s10052-024-13569-w.pdf	
+4	http://www.jp-petit.org/papers/cosmo/2022-12-12-Damour-IHES.pdf	
+5	http://www.jp-petit.org/papers/cosmo/2022-12-28-Damour-IHES.pdf	
+	
+
+«	les	 conditions	 de	 Bianchi	»	 étaient	 satisfaites	 asymptotiquement,	 en	
+
+	
+
+	
+
+dont	le	contenu	contredit	le	titre	qu’il	porte.		
+
+mieux	serait	que	celui-ci	soit	exercé	dans	l’enceinte	même	de	l’académie	des	science,	
+celle-ci	publiant	un	compte	rendu	final.		
+	Si	ce	texte	est	toujours	accessible,	cela	signifiera	que	ce	droit	de	réponse	n’aura	pas	pu	
+être	exercé	et	que	subsistent	sur	sa	page	de	l’IHES	un	article	final,	celui	du	28	décembre,	
+	
+Une	dernière	remarque	:		
+	Les	décodages	des	signaux	gravitationnels	enregistrés	à	l’aide	des	dispositifs	LIGO	et	
+VIRGO,	font	état	de	«	fusions	de	trous	noirs	»	impliquant	des	masses	dépassant	les	cent	
+masses	solaires.	Tout	ceci	se	fonde	(Damour	a	eu	le	prix	Balsan	pour	sa	contribution	à	
+ces	travaux)	sur	deux	choses	:	
+	-  L’idée	que	le	modèle	des	trous	noirs	est	cohérente	mathématiquement	et	
+physiquement	
+	
+-  Que	les	signaux	peuvent	être	interprétés	comme	résultat	d’ondes	gravitationnelles	
+telles	qu’émanant	du	modèle	de	la	relativité	générale.		
+	
+A	cela	deux	remarques	:		
+	-	Dans	le	modèle	Janus	les	trous	noirs	deviennent	des	chimères	mathématiquesÒ.	Les	
+images	enregistrées	des	objets	hypermassifs	situés	au	sein	de	la	galaxie	M	87	et	de	la	
+Voie		Lactée	étant	des	«	corps	de	Schwarzschild	»	(où	on	est	face	à	un	simple	effet	de	
+resdhift	gravitationnel	correspondant	à	un	rapport	des	longueurs	d’onde	de	3).		
+	-	La	théorie	des	ondes	gravitationnelles,	dans	le	cadre	du	modèle	Janus,	reste	à	écrire,	de	
+même	que	le	résultat	de	fusions	des	masses	requiert	un	autre	scénario.		
+	Pour	ces	deux	raisons	je	pense	que	le	décodage	des	signaux	correspondant	aux	ondes	
+gravitationnelles	conduit	à	une	surestimation	des	masses.		
+	
+
+	
+
+

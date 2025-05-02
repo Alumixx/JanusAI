@@ -1,0 +1,606 @@
+Incoh´erence Physique et Math´ematique du “mod`ele Janus-2019” de J. P. Petit et coll.
+
+Thibault Damour, IHES
+
+28 d´ecembre 2022
+
+Dans le document “Sur le “mod`ele Janus” de J. P. Petit” (mis en ligne sur
+http://www.ihes.fr/˜damour le 4 Janvier 2019), j’avais expliqu´e en grand d´etail
+l’incoh´erence physique et math´ematique de la version du mod`ele Janus publi´ee
+en 2014 par J. P. Petit and G. d’Agostini; c.a.d.
+
+J. P. Petit. et G. d’Agostini, “Negative mass hypothesis in cosmology and the nature of
+
+dark energy”, Astrophys. Space Sci DOI 10.1007/s10509-014-2106-5);
+
+J. P. Petit, et G. d’Agostini, “Cosmological bimetric model with interacting positive and
+
+negative masses and two diﬀerent speeds of light, in agreement with the observed acceleration
+of the Universe”. Mod. Phys. Lett. A Vol. 29 (no 34) (2014) 145082.
+
+Quelques mois plus tard (le 12 Mars 2019), j’ai re¸cu une lettre de J. P. Petit
+aﬃrmant qu’il avait maintenant r´esolu l’incoh´erence (que j’avais signal´ee) de la
+version 2014 du mod`ele Janus dans un nouvel article:
+
+Jean-Pierre Petit, Gilles D’Agostini and Nathalie Debergh [disons PDD19], “ Physical and
+
+Mathematical Consistency of the Janus Cosmological Model (JCM)”, Progress in Physics, 15,
+issue 1, (2019) (http://www.ptep-online.com )1.
+
+Dans sa lettre du 12 mars 2019 (et dans un courriel ult´erieur du 3 avril
+2019) J. P. Petit aﬃrmait qu’il avait corrig´e l’une des incoh´erences que j’avais
+point´ee du doigt par “une l´eg`ere modiﬁcation des seconds membres des ´equations
+Janus”, et me demandait de modiﬁer mon document du 4 janvier 2019 pour
+prendre en compte son travail de 2019. J’ai r´epondu `a J. P. Petit dans un
+courriel d’avril 2019 en y disant que: “Dans votre dernier article, “Physical and
+Mathematical Consistency of the JCM” (January 2019), vous dites avoir cor-
+rig´e l’incoh´erence (soulign´ee dans mon texte) du mod`ele Janus par “une l´eg`ere
+modiﬁcation des seconds membres des ´equations Janus”. Mais, les sections 3
+et 4 de votre article, loin de fournir une d´eduction bien d´eﬁnie d’une th´eorie
+modiﬁ´ee coh´erente, sont math´ematiquement incoh´erentes, et conduisent, selon
+votre article lui-mˆeme, `a une incoh´erence math´ematico-physique.”
+
+Malgr´e cette r´eponse, il semble que ni J.P. Petit, ni ses collaborateurs n’ont
+appr´eci´e l’incoh´erence math´ematico-physique des ´equations de champ publi´ees
+dans leur article de 2019. Pour clariﬁer cette situation, je discute ci-dessous en
+d´etail les incoh´erences de la version 2019 du mod`ele Janus, en montrant aussi
+que d’autres incoh´erences encore plus graves (d´ej`a signal´ees dans mon document
+de janvier 2019) s’appliquent aussi bien `a la version 2019 du mod`ele Janus, qu’`a
+sa version 2014.
+Les ´equations de base qui sont cens´ees d´eﬁnir “le mod`ele Janus-2019” concer-
+nent deux m´etriques (de signatures Lorentziennes − + ++), g+
+µν, sur une
+mˆeme vari´et´e quadri-dimensionnelle, et sont [´equations (40), (41) de PDD19]:
+
+µν et g−
+
+w+E+
+w−E−
+
+µν = χ(w+T +
+µν = −χ(w−T −
+
+µν + w−ϕT −
+µν) ,
+µν + w+ϕT +
+
+µν).
+
+(1)
+
+1Notons en passant que la date exacte de publication de cet article n’est pas claire. Le
+volume 1 est ´etiquet´e comme “January 2019”. Cependant, le dernier article de ce volume,
+c.a.d.“Non-commutativity: Unusual View”, by Valeriy V. Dvoeglazov, est marqu´e comme “
+Submitted on February 18, 2019”, ce qui est ´etrange pour un volume formellement publi´e en
+Janvier 2019. Quoiqu’il en soit, la premi`ere copie que j’ai re¸cue de ce travail m’a ´et´e envoy´ee
+par J. P. Petit le 12 mars 2019.
+
+1
+
+µν = Eµν(g±) = R±
+µν et T −
+
+Ici: E±
+
+ou g−); w± ≡ (cid:112)− det g±; χ = +8πG/c4 (avec mes conventions); et les deux
+
+µν d´enote le tenseur d’Einstein (de g+
+
+2 R±g±
+
+µν − 1
+
+tenseurs sources T +
+µν sont cens´es repr´esenter, respectivement, l’´energie-
+impulsion de la mati`ere ordinaire (dite `a “masse positive”), et d’une nouvelle
+mati`ere, dite `a “masse n´egative”. Les d´eﬁnitions (standard) de T +
+µν (assur-
+ant sa conservation tensorielle par rapport `a g+
+µν (assurant sa con-
+servation tensorielle par rapport `a g−
++ , et
+µν ≡ −2δSmatiere−/δgµν− , o`u Smatiere+ d´enote l’action de la mati`ere ordi-
+w−T −
+naire, et Smatiere− l’action de la mati`ere dite `a “masse n´egative”.
+
+µν ≡ −2δSmatiere+/δgµν
+
+µν) et de T −
+
+µν) sont w+T +
+
+Finalement, la notation ϕ dans les ´eqs. (1) n’est pas d´eﬁnie clairement dans
+
+PDD19. L’ ´eq. (30) dit que ϕ d´enote la “matrice diagonale constante”
+
+ϕ = diag[1,−1,−1,−1] .
+
+Une telle d´eﬁnition briserait de fa¸con violente la covariance des ´eqs (1) sous
+les diﬀ´eomorphismes de la vari´et´e quadri-dimensionnelle sur laquelle vivent g+
+µν
+et g−
+µν. Pour donner un sens covariant aux ´eqs (1) on supposera dans la suite
+(en accord avec la section 4 de PDD19) que l’action de ϕ sur un tenseur T ±
+µν
+(suppos´e diagonalisable par rapport `a la m´etrique correspondante g±
+µν) consiste
+`a changer le signe des trois valeurs propres de T ±
+µν du type spatial. Autrement
+dit, par rapport `a un co-rep`ere diagonalisant T ±
+µν, et orthonorm´e (par rapport `a
+ν = −1),
+g±
+µν), e
+tel que
+
+µ est du genre temps; gµν± u±
+
+±(0)
+µ ≡ u±
+
+(o`u u±
+
+µ u±
+
+±(1)
+µ
+
+±(2)
+µ
+
+±(3)
+µ
+
+µ , e
+
+, e
+
+, e
+
+T ±
+µν = ρ±c2u±
+
+µ u±
+
+ν +
+
+p±
+a e±(a)
+
+µ
+
+e±(a)
+
+ν
+
+,
+
+l’action de ϕ est d´eﬁnie par
+
+ϕT ±
+
+µν = ρ±c2u±
+
+µ u±
+
+p±
+a e±(a)
+
+µ
+
+e±(a)
+
+ν
+
+.
+
+(2)
+
+(3)
+
+(4)
+
+Notons en passant que l’utilisation de l’op´eration ϕ dans la “d´erivation” des ´eqs
+de champ `a partir de l’action (31) de PDD19 utilise des manipulations formelles
+qui sont math´ematiquement injustiﬁ´ees. Une autre incoh´erence math´ematique
+de la d´erivation des ´eqs de champ est contenue dans l’´eq. (39) de PDD19, cad,
+δgµν− = −δgµν
++ . En eﬀet, cette ´eq. aﬃrme que les deux m´etriques ne peuvent
+pas ˆetre vari´ees ind´ependamment. Mais, si c’est le cas, la variation de l’action
+ne pourra donner qu’une seule ´eq. de champ, qui serait la diﬀ´erence des deux
+´equations (1). Une telle unique ´eq. de champ ne d´eﬁnirait alors pas un syst`eme
+permettant de d´eterminer les deux m´etriques, g+
+µν, `a partir des deux
+sources T +
+µν. Dans la suite nous ne consid´ererons que les ´eqs de champ,
+Eqs. (1), avec la d´eﬁnition covariante ci-dessus de ϕ, ´eq. (4), en soulignant les
+incoh´erences physico-math´ematiques auxquelles elles conduisent.
+
+µν et g−
+
+µν et T −
+
+Une premi`ere incoh´erence concerne l’id´ee de base du mod`ele Janus (tel qu’il
+le fait que, dans ce mod`ele, les
+
+a ´et´e d´eﬁni dans un cadre newtonien), c.a.d.
+
+3(cid:88)
+ν − 3(cid:88)
+
+a=1
+
+a=1
+
+2
+
+masses de mˆeme signe sont cens´ees s’attirer, et les masses de signes oppos´es se
+repousser.2
+
+Consid´erons (essentiellement comme dans mon texte du 4 Janvier 2019) le
+cas o`u la mati`ere comprend `a la fois une source de fonds (g´en´erale) T 0+
+µν et
+T 0−
+µν , et une source d’´epreuve constitu´ee (pour ﬁxer les id´ees) d’une r´epartition
+continue de “poussi`ere” `a masse positive, c.a.d. T 1+
+
+µν = ρ+
+
+1 u+
+
+µ u+
+ν .
+
+µν = ρ+
+
+ν est ´equivalent `a l’identit´e: ϕT 1+
+
+Comme la “poussi`ere” est un ﬂuide `a pression nulle, l’action de ϕ sur T 1+
+µ u+
+
+µν =
+ρ+
+1 u+
+ν . Nous pouvons donc
+appliquer les r´esultats correspondants de mon texte “Sur le “mod`ele Janus” de
+J. P. Petit”. J’avais d´emontr´e dans ce texte [voir ´eqs (14) `a (17)] que l’existence
+des deux identit´es s´epar´ees de Bianchi pour E+
+µν impliquait (notamment)
+que le mˆeme champ (pris ici covectoriel) de quadrivitesse u+
+µ devait satisfaire `a
+la fois deux ´equations du mouvement diﬀ´erentes. Explicitement, ∇+ d´enotant
+la connexion d´eﬁnie par g+
+µν, l’unique champ de
+quadrivitesse u+
+
+µν, et ∇− celle d´eﬁnie par g−
+
+µν et E−
+
+1 u+
+
+µ u+
+
+g−µν)
+
+ν ∇+νu+
+u+
+
+µ doit satisfaire `a la fois
+
+et (avec le facteur N ≡»−g−µνu+
+Ç u+
+ã
+Å
+Å
+ã
+
+1 − 2
+
+∇−ν
+
+u+
+ν
+N
+
+µ u+
+
+µ
+N
+
+00 = −
+g+
+00 = −
+g−
+
+1 + 2
+
+U
+c2
+U
+c2
+
+µ = 0 ,
+
+å
+
+= 0 .
+
+Å
+Å
+
+ã
+ã
+
+; g+
+
+ij = +
+
+1 + 2
+
+; g−
+
+ij = +
+
+1 − 2
+
+U
+c2
+U
+c2
+
+δij,
+
+δij,
+
+Prenons pour simpliﬁer la limite newtonienne, dans laquelle (voir par ex. mon
+texte de Janvier 2019)
+
+ν tel que
+
+u+
+µ
+N est unitaire par rapport `a
+
+o`u le potentiel quasi-newtonien U + ≡ U dans la m´etrique g+
+de Poisson de source ρ+ + ρ− (avec ρ+ > 0 et ρ− < 0)
+
+µν satisfait l’´equation
+
+∆U = −4πG
+
+00 + T −
+T +
+
+00
+
+c2
+
+= −4πG(ρ+ + ρ−).
+
+(5)
+
+(6)
+
+(7)
+
+(8)
+
+A cause du signe moins dans la deuxi`eme ´eq. (1), le potentiel quasi-Newtonien
+µν est U− = −U + = −U (voir la deuxi`eme ´eq.
+U− entrant dans la m´etrique g−
+(7)).
+
+Les limites newtoniennes des deux ´eqs du mouvement (5) et (6), en prenant
+
+2Le raisonnement ci-dessous compl`ete et remplace le raisonnement correspondant dans la
+
+version du pr´esent document dat´ee du 12 d´ecembre 2022.
+
+3
+
+l’indice (covectoriel) µ = i, donnent alors3, respectivement
+
+dvi
++
+dt
+dvi
++
+dt
+
+= −c2Γ+0
+
+i0 = +
+
+= −c2Γ−0
+
+i0 = +
+
+1
+2
+1
+2
+
+c2∂ig+
+c2∂ig−
+
+00 = +∂iU ,
+00 = −∂iU .
+
+(9)
+
+La premi`ere de ces ´equations implique qu’une masse d’´epreuve positive est at-
+tir´ee par une masse-source positive et repouss´ee par une masse-source n´egative,
+alors que la deuxi`eme de ces ´equations implique l’inverse: une masse d’´epreuve
+positive doit aussi [comme cons´equence n´ecessaire des ´eqs (1)] ˆetre repouss´ee par
+une masse-source positive et attir´ee par une masse-source n´egative. En refaisant
+ce raisonnement `a partir d’une source d’´epreuve constitu´ee d’une r´epartition
+continue de “poussi`ere” `a masse n´egative, c.a.d. T 1−
+ν , on obtiendrait,
+mutatis mutandis, deux autres ´equations similairement contradictoires pour la
+dvi−
+dt d’une masse d’´epreuve n´egative. Ceci montre de fa¸con
+
+variation de vitesse
+frappante l’incoh´erence du mod`ele Janus (ici au niveau newtonien).
+
+µν = ρ−
+
+1 u−
+
+µ u−
+
+Une autre incoh´erence des ´eqs. (1) apparait quand on consid`ere les analogues
+de l’´equation de Tolman-Oppenheimer-Volkoﬀ donnant la variation radiale de
+la pression d’une ´etoile de mati`ere ordinaire (positive). Dans mon document
+pr´ec´edent (“Sur le “mod`ele Janus” de J. P. Petit”), j’avais point´e du doigt
+que les ´equations de champ de Janus-2014 (qui diﬀ´eraient des ´eqs. (1) en ne
+contenant pas ϕ dans les membres droits) donnaient deux ´equations pour la
+variation radiale de la pression dont les membres de droite diﬀ´eraient par leur
+signe. Plus pr´ecis´ement, Janus-2014 impliquait que la pression devait satisfaire
+(`a la limite newtonienne) les deux ´equations incompatibles
+
+Les auteurs de PDD19 ont cru corriger ce d´efaut fondamental de la th´eorie
+Janus en rajoutant le facteur ϕ, Eq. (2), apparaissant dans les membres droits
+de (1), dont l’ eﬀet est de changer le signe de p+(r) dans la deuxi`eme ´equation
+(10). Il est vrai que cette modiﬁcation ´elimine la violente contradiction entre
+les deux ´equations newtoniennes (10), en les repla¸cant par l’unique (et correcte)
+´equation de structure newtonienne
+
+Quand on part des ´eqs de champ de Janus-2019, les analogues des ´equations
+de Tolman-Oppenheimer-Volkoﬀ sont obtenues `a partir des ´eqs. (1) en mettant
+
+3Dans cette limite u+
+
+i ≈ vi
+
++
+
+c o`u vi
+
+O(1/c2) est n´egligeable, et seuls comptent les coeﬃcients de connexion Γ±0
+
+i0 ≈ − 1
+
+2 ∂ig±
+00.
+
++ d´enote la vitesse newtonienne, le facteur N = 1 +
+
++ = −Gρ+
+p(cid:48)
+p(cid:48)
++ = +Gρ+
+
+M+(r)
+
+M+(r)
+
+r2
+
+r2
+
+,
+
+.
+
++ = −Gρ+
+p(cid:48)
+
+M+(r)
+
+.
+
+r2
+
+4
+
+(10)
+
+(11)
+
+4π(cid:82) r
+
+T −
+µν `a z´ero, et en r´esolvant les ´equations pour les deux m´etriques dans un cas
+o`u la source T +
+µν est stationnaire et `a sym´etrie sph´erique. Ces solutions ont ´et´e
+´ecrites4 dans les ´eqs. (45), (46) de PDD19, c-a-d (avec (cid:48) = d/dr)
+
+(cid:16)
+(cid:16)
+
++ = −G
+p(cid:48)
++ = −G
+p(cid:48)
+
+ρ+ +
+
+p+
+c2
+ρ+ − p+
+c2
+
+(cid:17) M+(r) + 4πp+r3/c2
+(cid:17) M+(r) − 4πp+r3/c2
+
+r(r − 2GM+(r)/c2)
+
+r(r + 2GM+(r)/c2)
+
+,
+
+,
+
+(12)
+
+o`u p+(r) est la pression (de la mati`ere ordinaire), ρ+(r) sa densit´e, et M+(r) =
+c2 → 0
+
+0 drr2ρ+(r) est la masse (positive) contenue dans le rayon r.
+Il est vrai que si l’on prend formellement la limite newtonienne 1
+
+dans les ´equations (12), ces deux ´equations deviennent compatibles, car elles
+deviennent toutes deux identiques `a l’unique ´equation de structure newtoni-
+enne (11). Mais, il est physiquement inacceptable de n´egliger ainsi le fait que le
+mod`ele Janus-2019 pr´edit que la variation radiale de la pression dans une ´etoile
+de mati`ere ordinaire doit satisfaire deux ´equations incompatibles entre elles.
+En eﬀet, si l’on consid`ere par exemple une ´etoile `a neutrons, les termes rela-
+tivistes suppl´ementaires dans (12), cad ±p+/c2, ±4πp+r3/c2, et ±2GM+(r)/c2,
+sont num´eriquement tr`es signiﬁcatifs (de l’ordre de 10%), et conceptuellement
+tr`es importants car ils modiﬁent grandement la valeur de la masse maximum
+d’une ´etoile `a neutrons. Comme il est rappel´e dans l’´eq. (10), les analogues
+des ´equations (12) dans Janus-2014 avaient des membres droits qui diﬀ´eraient
+d’environ 200%. La modiﬁcation (ϕ) introduite dans Janus-2019 a simplement
+formellement r´eduit la diﬀ´erence des membres de droite qui ´etait de 200%
+`a, disons, environ 20% (pour une ´etoile `a neutrons). Cela ne change rien `a
+l’incoh´erence math´ematique fondamentale que le mod`ele Janus-2019 pr´edit que
+la variation radiale de la pression dans une ´etoile de mati`ere ordinaire doit satis-
+faire deux ´equations math´ematiquement (et physiquement) incompatibles entre
+elles.
+
+CONCLUSION: Les ´equations de champ de la version 2019 du “mod`ele
+Janus”, Eqs.
+(1), n’ont aucune d´erivation logique d’un principe variationnel
+covariant, et sont math´ematiquement et physiquement contradictoires. Ces in-
+coh´erences apparaissent `a la fois `a l’approximation newtonienne [voir ´eqs. (9)],
+et au niveau post-newtonien [voir ´eqs. (12)]. Comme je l’avais d´ej`a indiqu´e dans
+ma lettre du 12 mars 2014 `a J. P. Petit l’origine de ces incoh´erences est “qu’il
+y a a priori une incompatibilit´e entre les deux identit´es de Bianchi” satisfaites
+par E+
+
+µν et E−
+µν.
+
+4En fait, la solution donn´ee par (46) n’est pas exacte car les auteurs on n´eglig´e le facteur
+w+/w− devant le terme ϕT +
+µν . Mais la version correcte
+de l’´equation (46) implique toujours une forme l´eg`erement modiﬁ´ee de la contradiction discut´ee
+ci-dessous.
+
+µν dans l’´equation pour la m´etrique g−
+
+5
+
+

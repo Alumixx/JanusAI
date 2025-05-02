@@ -1,0 +1,1287 @@
+Janus Cosmological Model
+
+Mathematically & Physically Consistent
+
+J-P Petit1 and Hicham Zejli2
+
+1j.p.petit@manaty.net
+
+2hicham.zejli@manaty.net
+
+April 23, 2024
+
+Keywords : Janus Model, Bimetric Model, Positive and Negative Masses, Geodesics, Lorentzian Met-
+rics, Ricci Tensors, Ricci Scalars, Field Equations, Cosmological Constants, Interaction Tensors, Numerical
+Simulations, Mutual Attraction and Repulsion, Schwarzschild Solution, Tolman-Oppenheimer-Volko(cid:27) Equa-
+tion, Dipole Repeller, Dark Matter, Dark Energy, General Relativity, Lagrangian Derivation, Coupled Field
+Equations, Stationarity, Symmetry, Isotropy, Homogeneity, Expansion of the Universe, Observational Pre-
+dictions
+
+Abstract
+
+In this article, we introduce a new bimetric model designed to describe a universe in which positive and
+negative masses coexist. This model is based on a M4 manifold, equipped with two Lorentzian metrics,
+solutions to a system of coupled (cid:28)eld equations that we have constructed by Lagrangian derivation from
+an action speci(cid:28)cally designed for this geometric context. Our approach unveils new insights into the
+interactions between masses of opposite signs, proposing a new paradigm in which our model becomes a
+geometric extension of General Relativity in regions dominated by negative masses, such as the vicinity
+of the "Dipole Repeller". Moreover, our model converges to the Einstein (cid:28)eld equation in the limit of
+weak (cid:28)elds, as is the case near the Sun, making it a natural and elegant generalization of the classical
+theory. We have also developed a non-stationary, homogeneous, and isotropic exact solution, which
+explains the acceleration and expansion of the universe without resorting to a cosmological constant.
+The Janus model provides an explanation for the lacunar structure observed in the mass distribution in
+the universe, a phenomenon illustrated by the discovery of the "Dipole Repeller". The implications of our
+theory, which suggests concrete predictions such as the dimming of brightness around vast negative mass
+structures, are veri(cid:28)able through observation and represent a potential advance in our understanding of
+the universe.
+
+1
+
+Introduction
+
+Here we propose a bimetric model describing a universe where positive and negative masses coexist. Particles
+with non-zero positive mass move along non-zero length geodesics, while photons, with zero mass and positive
+energy, follow zero-length geodesics. These two types of trajectories stem from metrics gµν and ¯gµν. These
+two Lorentzian metrics, with signature (+ − −−), are de(cid:28)ned on a spacetime with a coordinate system
+{x0, x1, x2, x3}. We construct the corresponding Ricci tensors Rµν and ¯Rµν, as well as the Ricci scalars R
+
+1
+
+(1.1)
+
+(1.2)
+
+(1.3)
+
+(1.4)
+
+(1.5)
+
+(1.6)
+
+(1.7)
+
+1 INTRODUCTION
+
+and ¯R derived from them. In a heuristic manner1, we consider a system of (cid:28)eld equations of the form:
+
+Rµν − 1
+2
+¯Rµν − 1
+2
+
+Rgµν = χ [Tµν + Tµν]
+
+¯R¯gµν = κχ(cid:2) ¯Tµν + ¯Tµν
+
+(cid:3)
+
+We choose not to introduce cosmological constants Λ and ¯Λ. The tensors Tµν and ¯Tµν represent the
+contributions to the (cid:28)eld from positive and negative masses, respectively. The tensors Tµν and ¯Tµν will be
+interaction tensors, representing the action of negative masses on positive masses and the action of positive
+masses on negative masses, respectively.
+
+In our numerical simulations, we have heuristically opted for the following interaction laws:
+
+(cid:136) Positive masses attract each other
+
+(cid:136) Negative masses attract each other
+
+(cid:136) Masses of opposite signs repel each other.
+
+From a physical perspective, numerical simulations [3] indicate that in regions dominated by positive
+masses, negative masses are almost nonexistent, and vice versa. Focusing on the Newtonian approximation,
+in mixed notation, we express the tensors associated with the two types of matter as follows:
+
+µ ≈
+T ν
+
+µ ≈
+¯T ν
+
+0
+0
+0
+
+0
+0
+0
+0
+
+0
+0
+0
+0
+
+0
+0
+0
+0
+
+ρc2
+¯ρ¯c2
+µ = χ(cid:2)T ν
+µ = −χ(cid:2) ¯T ν
+
+
+
+(cid:3)
+µ + T ν
+µ + ¯T ν
+
+0
+0
+0
+0
+
+0
+0
+0
+0
+
+0
+0
+0
+0
+
+0
+0
+0
+
+µ
+
+µ
+
+(cid:3)
+
+µ − 1
+Rν
+2
+µ − 1
+¯Rν
+2
+
+Rδν
+
+¯Rδν
+
+µ − 1
+Rν
+2
+
+Rδν
+
+µ = χT ν
+µ
+
+2
+
+For negative masses to exert mutual attraction, it is necessary to choose a negative gravitational constant,
+
+that is, to set κ = −1. Thus, we write:
+
+µ and ¯T ν
+
+The terms T ν
+
+µ represent the interaction tensors. The (cid:28)rst, T ν
+
+µ , represents the contribution of
+negative masses to the (cid:28)eld experienced by positive masses, while the second, ¯T ν
+µ , represents the contribution
+of positive masses to the (cid:28)eld experienced by negative masses. In a region dominated by positive masses,
+which primarily contribute to the (cid:28)eld, the interaction tensor T ν
+µ can be neglected, thus simplifying the (cid:28)rst
+equation.
+
+The equation in question is Einstein’s equation, where the cosmological constant is set to zero. This
+equation is at the origin of local phenomena predicted by general relativity, such as the perihelion precession
+of Mercury and the de(cid:29)ection of light by the Sun, con(cid:28)rming that the Janus model is in agreement with
+
+1The coupled (cid:28)eld equations system of the model is obtained by Lagrangian derivation from an action that will be addressed
+
+at the end of the article
+
+2 CONSTRUCTION OF A NON-STATIONARY, HOMOGENEOUS, ISOTROPIC EXACT SOLUTION [4]
+
+these tests of general relativity at the local scale. Moreover, in regions dominated by negative masses, the
+mutual attraction they exert on each other follows from the following equation:
+
+µ − 1
+¯Rν
+2
+
+¯Rδν
+
+µ = −χ ¯T ν
+
+µ
+
+Since ¯ρ < 0 and ¯p < 0, this results in an attraction. This phenomenon also a(cid:27)ects photons of negative
+energy, whose trajectories are altered when they pass near a negative mass, following an attractive trajectory.
+
+The challenge lies in determining the exact form of the interaction tensors T ν
+
+µ and ¯T ν
+µ .
+
+2 Construction of a Non-Stationary, Homogeneous, Isotropic Exact
+
+Solution [4]
+
+Numerical simulations, relying on the Newtonian approximation and starting from the principle that masses
+of opposite signs repel each other in a manner proportional to the product of their masses and inversely
+proportional to the square of the distance separating them, have yielded conclusive results. This leads us to
+formulate the following hypothesis:
+
+If we consider describing the behavior of the system under the assumptions of non-stationarity, isotropy,
+and homogeneity, the interaction terms can be identi(cid:28)ed, for the radiative phase where pressures can be
+neglected, with forms 2.1 and 2.2, where the scalars are then functions of the chronological variable x0. The
+metrics then take the following FLRW forms:
+
+gµν = dx02 − a2
+
+¯gµν = dx02 − ¯a2
+
+1 − ku2 + u2dθ2 + u2 sin2 θdϕ2
+
++ u2dθ2 + u2 sin2 θdϕ2
+
+(cid:20) du2
+(cid:20) du2
+
+1 − ¯ku2
+
+(cid:21)
+(cid:21)
+
+A search for solutions yields negative curvature indices k = ¯k = −1.
+
+If we introduce these metrics into the system of equations 2.5 and 2.6, considering 2.1 and 2.2, we obtain
+a classical system of four equations whose compatibility conditions require having the form 2.7 of the two
+functions Φ and ϕ of the chronological variable x0:
+
+0
+0
+0
+
+ρc2
+¯ρ¯c2
+
+0
+0
+0
+
+¯T ν
+µ ≈
+
+T ν
+µ ≈
+
+
+
+
+0
+0
+0
+0
+
+0
+0
+0
+0
+
+0
+0
+0
+0
+
+0
+0
+0
+0
+
+0
+0
+0
+0
+
+0
+0
+0
+0
+
+Rδν
+
+¯Rδν
+
+µ
+
+µ = χ(cid:2)T ν
+(cid:3)
+µ + ΦT ν
+µ = −χ(cid:2) ¯T ν
+µ + ϕ ¯T ν
+(cid:17)3
+(cid:16) a
+
+µ
+
+(cid:3)
+
+µ − 1
+Rν
+2
+µ − 1
+¯Rν
+2
+(cid:16) ¯a
+(cid:17)3
+
+a
+
+Φ =
+
+, ϕ =
+
+, ϕ = Φ−1
+
+¯a
+
+3
+
+(1.8)
+
+(2.1)
+
+(2.2)
+
+(2.3)
+
+(2.4)
+
+(2.5)
+
+(2.6)
+
+(2.7)
+
+(2.8)
+
+(2.9)
+
+(2.10)
+
+(3.1)
+
+(3.2)
+
+(3.3)
+(3.4)
+
+(3.5)
+(3.6)
+
+3 CONSTRAINTS ASSOCIATED WITH STATIONARY SOLUTIONS
+
+This then leads to an equation that is none other than that of the conservation of energy and mass.
+Here, in a similar situation, the compatibility condition is a conservation of energy extended to the two
+populations:
+
+As we will see later, the mathematical consistency of the system of two (cid:28)eld equations (Bianchi conditions)
+translates physically into conservation and balance equations. This leads to obtaining an exact solution in
+the form of two di(cid:27)erential equations:
+
+E = ρc2a3 + ¯ρ¯c2¯a3
+
+a2 d2a
+
+dx02 =
+
+χ
+2
+
+E
+
+¯a2 d2¯a
+dx02 = − ¯χ
+
+2
+
+E
+
+(cid:18)
+(cid:18)
+
+∇µ
+
+¯∇µ
+
+Rµν − 1
+2
+¯Rµν − 1
+2
+
+Rgµν
+
+= 0
+
+¯R¯gµν
+
+= 0
+
+(cid:19)
+(cid:19)
+
+∇µTµν = 0
+¯∇µ ¯Tµν = 0
+
+∇µTµν = 0
+¯∇µ ¯Tµν = 0
+
+4
+
+To be in agreement with observational data, which suggest that in this phase where the radiation pressure
+is negligible, the acceleration of the expansion of the positive species is positive, the total energy of the
+system must be negative [5]. With a negative curvature index, both curves tend towards asymptotes.
+This situation seems more satisfactory to the physicist than the one emerging from Einstein’s equation
+where this acceleration of expansion is then attributed to the cosmological constant, re(cid:29)ecting an unknown
+phenomenon. As this energy density does not evolve over time, this results in exponential growth. We note
+that the coe(cid:30)cients ϕ and Φ from 2.7 can respectively be identi(cid:28)ed with the factor
+
+(cid:113) g
+
+¯g and its inverse.
+
+3 Constraints Associated with Stationary Solutions
+
+In the system of coupled (cid:28)eld equations 1.1 and 1.2, the terms on the left-hand side involve the Ricci tensors
+Rµν and ¯Rµν and the corresponding Ricci scalars R and ¯R. These terms are calculated from the two metrics
+gµν and ¯gµν.
+
+Using these two metrics, we then calculate the form of two operators known as covariant derivatives ∇µ
+and ¯∇µ. It turns out that, due to their form, the two left-hand sides of both equations identically satisfy
+the following relation:
+
+The two tensors, Tµν and ¯Tµν, also satisfy the following condition:
+
+We should also have:
+
+At this stage, it can be said that it is precisely these two conditions that determine the form of these
+
+interaction tensors. As for observational data, what is the constraint we must adhere to?
+
+4 INTERPRETATION OF THE DIPOLE REPELLER THROUGH THE JANUS COSMOLOGICAL MODEL
+
+Numerical simulations have shown that the two populations mutually exclude each other. If we limit
+ourselves to these two extreme situations, the system of coupled (cid:28)eld equations 1.5 and 1.6 simpli(cid:28)es, when
+positive mass dominates, to:
+
+The (cid:28)rst equation 3.7 reduces to Einstein’s equation. This solution can be constructed, both in vacuum
+and within masses, in which case the mathematical condition 3.3 translates into the equation established
+in 1916 by Karl Schwarzschild and in 1939 by Tolman, Oppenheimer, and Volko(cid:27), known as the Tolman-
+Oppenheimer-Volko(cid:27) equation [2] [6] [7]. This solution can then extend to the description of the geometry
+inside a neutron star.
+
+There is no need to explicitly detail the form of the interaction tensor, present on the right-hand side of
+equation 3.8, since the physical e(cid:27)ect that ensues, the de(cid:29)ection of negative energy photons by a positive
+mass, eludes observation.
+
+When, on the contrary, negative mass dominates, the system becomes:
+
+For equation 3.10, condition 3.4 re(cid:29)ects the balance between pressure force and gravity within a body
+(cid:28)lled with negative mass matter. This yields a condition identical to the classic Tolman-Oppenheimer-Volko(cid:27)
+equation. The challenge then is to give a form to the interaction tensor T ν
+µ in the (cid:28)rst equation 3.9 that
+satis(cid:28)es condition 3.5.
+
+4
+
+Interpretation of the Dipole Repeller through the Janus Cosmo-
+logical Model
+
+When negative masses are predominant as near the Dipole Repeller ([1]), we are faced with potential obser-
+vational data that will emerge sooner or later and will require a response.
+
+Numerical simulations have shown that as soon as gravitational instability can play its role in both
+populations, it is negative mass that dominates, given that negative mass density is predominant. In this
+gravitational instability, we have a characteristic time, given by Jeans, which is:
+
+(3.7)
+
+(3.8)
+
+(3.9)
+
+(3.10)
+
+(4.1)
+
+(4.2)
+
+Since |¯ρ| ≫ ρ, the accretion time of negative masses is shorter.
+
+It is therefore within this second
+population that a semi-regular population of spheroidal conglomerates will establish itself. Observationally,
+this will create immense voids in the positive world, hundreds of millions of light-years in diameter. In 2017,
+observation con(cid:28)rmed this prediction [1]. This is the Dipole Repeller, located 600 million light-years from
+our galaxy (Figure 1).
+
+In the seven years following, other large voids of this kind have been identi(cid:28)ed. These then behave
+like immense proto-stars, composed of negative-mass anti-hydrogen and anti-helium. This concentration of
+matter occurs until the ionization of hydrogen, which then stops this movement. Nevertheless, the geometry
+
+µ − 1
+Rν
+2
+µ − 1
+¯Rν
+2
+
+Rδν
+
+¯Rδν
+
+µ = χT ν
+µ
+µ = −χ ¯T ν
+
+µ
+
+µ − 1
+Rν
+2
+µ − 1
+¯Rν
+2
+
+Rδν
+
+¯Rδν
+
+µ
+
+µ = χT ν
+µ = −χ ¯T ν
+
+µ
+
+tj =
+
+¯tj =
+
+1√
+4πGρ
+
+1(cid:112)4πG|¯ρ|
+
+5
+
+4 INTERPRETATION OF THE DIPOLE REPELLER THROUGH THE JANUS COSMOLOGICAL MODEL
+
+Figure 1: Dipole Repeller
+
+inside this spheroid falls within the framework of the Newtonian approximation, that is, when the particle
+agitation velocities are much smaller than the local speed of light2 and when curvature e(cid:27)ects are negligible3.
+This context also leads to the fact that pressure terms can be neglected.
+
+We then need to propose a form of the source tensors such that the condition of zero covariant derivative
+
+is asymptotically satis(cid:28)ed in the limit of weak (cid:28)elds4.
+
+Hence, if we consider the impact of the presence of negative masses on the geometry of spacetime struc-
+tured by the metric tensor of the (cid:28)rst (cid:28)eld equation 3.9 associated with the population of positive masses,
+we can de(cid:28)ne the corresponding interaction tensor 4.3 as follows:
+
+(4.3)
+
+24πr3p ≪ mc2 and 2Gm
+3The inequality r ≫ 2m indicates that we are su(cid:30)ciently far from the gravitational source for the e(cid:27)ects of general relativity
+
+≪ 1
+
+c2r
+
+to be negligible. Indeed, at large distances (r), the term 2GM
+
+c2 becomes very small.
+
+4All the details of the following calculations can be found in section 3.3.8 of Hicham Zejli’s book [8].
+
+¯ρ¯c2
+
+T ν
+µ =
+
+0
+0
+0
+0 −¯p
+0
+0
+0 −¯p
+0
+0
+0 −¯p
+0
+0
+
+
+
+6
+
+(4.4)
+
+(4.6)
+
+(4.7)
+
+(4.8)
+
+(4.9)
+
+(4.10)
+
+4 INTERPRETATION OF THE DIPOLE REPELLER THROUGH THE JANUS COSMOLOGICAL MODEL
+
+Thus, the impact of the pressure gradient of negative masses on the geodesics followed by ordinary
+matter and positive-energy photons according to the (cid:28)eld equation 3.9 translates into the following Tolman(cid:21)
+Oppenheimer(cid:21)Volko(cid:27) equation:
+
+Then, it’s possible to build the Schwarzschild interior metric solution in this manner:
+
+(cid:34)
+
+(cid:115)(cid:18)
+
+3
+2
+
+(cid:19)
+
+1 +
+
+R2
+S
+ˆr2
+
+− 1
+2
+
+(4.5)
+
+ds2 =
+
+− r2(cid:0)dθ2 + sin2 θdϕ2(cid:1)
+
+dx02 − dr2
+1 + r2
+ˆr2
+
+Where the characteristic radius ˆr is de(cid:28)ned depending on the star’s density ρ as follows:
+
+And the Schwarzschild Radius is given by :
+
+This metric can be connected to the Schwarzschild exterior metric:
+
+(cid:18)
+
+(cid:19)
+
+ds2 =
+
+1 +
+
+2GM
+c2r
+
+c2dx02 − dr2
+
+1 + 2GM
+c2r
+
+− r2(cid:0)dθ2 + sin2 θdϕ2(cid:1)
+
+We can deduce that a particle of ordinary matter will undergo a repulsive gravitational (cid:28)eld due to the
+
+e(cid:27)ect of a distribution of negative masses.
+
+Then, when the source of the gravitational (cid:28)eld of the second (cid:28)eld equation 3.10 is created by a negative
+
+mass, we can freely de(cid:28)ne the following energy-momentum tensor as follows:
+
+(cid:17)
+
+(cid:16)
+
+¯ρ − ¯p
+¯c2
+
+¯c4
+
+r(r + 2m)
+
+¯c2 = − m − 4πG ¯pr3
+¯p′
+(cid:115)(cid:18)
+(cid:19)(cid:35)2
+(cid:115)
+
+r2
+ˆr2
+
+1 +
+
+ˆr =
+
+3c2
+8πGρ
+
+Rs = 2
+
+GM
+c2
+
+¯ρ¯c2
+
+0
+0
+0
+
+
+
+0
+0
+¯p 0
+0
+0
+
+0
+0
+¯p 0
+0
+¯p
+
+¯T ν
+µ =
+
+(cid:17)
+
+(cid:16)
+
+¯ρ +
+
+¯p
+¯c2
+
+We can therefore deduce the following Tolman(cid:21)Oppenheimer(cid:21)Volko(cid:27) equation:
+
+Hence, the interior Schwarzschild metric can be constructed as follows:
+
+(4.11)
+
+¯ds2 =
+
+¯c4
+
+¯p′
+¯c2 = − ¯m + 4πG ¯pr3
+r(r − 2 ¯m)
+(cid:115)(cid:18)
+
+(cid:19)2
+
+1 − r2
+ˆr2
+
+− 1
+2
+
+(cid:33)
+
+2
+
+(cid:118)(cid:117)(cid:117)(cid:116)(cid:32)
+
+ 3
+
+2
+
+1 − ¯Rs
+ˆr2
+(cid:18)
+
+(cid:19)
+
+− r2(cid:0)dθ2 + sin2 θdϕ2(cid:1)
+
+dx02 − dr2
+1 − r2
+
+ˆr2
+
+This metric matches the exterior Schwarzschild metric:
+¯c2dx02 − dr2
+
+¯ds2 =
+
+(4.12)
+
+1 − 2G ¯M
+¯c2r
+
+1 − 2G ¯M
+
+¯c2r
+
+− r2(cid:0)dθ2 + sin2 θdϕ2(cid:1)
+
+We can deduce that a particle of negative mass will undergo an attractive gravitational (cid:28)eld due to the
+
+e(cid:27)ect of a distribution of negative masses.
+
+7
+
+4 INTERPRETATION OF THE DIPOLE REPELLER THROUGH THE JANUS COSMOLOGICAL MODEL
+
+Both solutions 4.4 and 4.10 reduces to the Euler equation approximately equal to − G ¯M (r) ¯ρ(r)
+
+in the
+
+r2
+
+Newtonian limit, re(cid:29)ecting hydrostatic equilibrium5.
+
+The form of these two source tensors satis(cid:28)es the Bianchi conditions. This would obviously not be the
+case if the negative mass were to fall outside of this framework. For that, there would need to exist neutron
+stars of negative mass. However, the characteristic time of evolution of conglomerates of negative mass,
+their "cooling time", exceeds the age of the universe. These spheroidal conglomerates cannot evolve, so the
+content of this negative spacetime will be limited to a mixture of negative mass anti-hydrogen and anti-
+helium. Since nucleosynthesis cannot occur, there can be no anti-galaxies or anti-stars, regardless of their
+mass. Consequently, there cannot exist anti-neutron stars.
+
+Moreover, in the case where this negative spacetime would generate hyperdense stars through an as yet
+unknown mechanism, it would then be necessary to reconsider the form of these tensors. However, the
+current con(cid:28)guration satis(cid:28)es all currently available and potentially available observational data.
+
+Photons of positive energy emitted by sources located behind the Dipole Repulsor will experience a sig-
+ni(cid:28)cant decrease in their magnitude due to the negative gravitational lensing e(cid:27)ect. These photons then
+freely traverse this vast void. The e(cid:27)ect will be maximal when the photons brush past this spheroidal con-
+glomerate, where the entirety of the mass must be taken into account. However, it will be negligible when
+these photons pass through the central neighborhood (Figure 2).
+
+Thus, we predict that when a map is established by the JWST telescope, the invisible mass will manifest
+
+its presence by a brightness attenuation, not over the entire disk, but in a ring.
+
+Figure 2: Deviation of positive-energy photons by a negative mass.
+
+5Where the pressure at the center of this negative mass spheroid is balanced by the negative gravitational force depending
+
+on density and mass
+
+8
+
+5 LAGRANGIAN DERIVATION OF AN ACTION YIELDING THE COUPLED FIELD EQUATIONS OF THE
+JANUS MODEL
+
+5 Lagrangian Derivation of an Action Yielding the Coupled Field
+
+Equations of the Janus Model
+
+Let us now consider the interaction between two entities: ordinary matter with positive mass interacting
+with negative mass through gravitational e(cid:27)ects. This model involving negative mass takes into account the
+in(cid:29)uence of both dark matter and dark energy.
+
+We can describe this system of two entities with respective metrics gµν and ¯gµν. Let R and ¯R be the
+
+corresponding Ricci scalars. We then consider the following two-layer action6:
+
+(cid:90)
+
+(cid:18) 1
+
+E
+
+2χ
+
+(cid:19)(cid:112)|g| d4x +
+
+(cid:90)
+
+(cid:18) κ
+
+E
+
+2 ¯χ
+
+(cid:19)(cid:112)|¯g| d4x
+
+¯R + ¯S + ¯S
+
+(5.1)
+
+A =
+
+R + S + S
+
+The terms S and ¯S will give the source terms related to the populations of the two entities, while the
+terms S and ¯S will generate the interaction tensors. χ and ¯χ are the Einstein gravitational constants for
+each entity. g and ¯g are the determinants of the metrics gµν and ¯gµν. For κ = ±1, we apply the principle of
+least action. The Lagrangian derivation of this action gives us:
+
+0 = δA
+
+=
+
+=
+
+R + S + S
+
+¯R + ¯S + ¯S
+
+(cid:90)
+
+E
+
++
+
+(cid:90)
+
+E
+
++
+
++
+
++
+
+E
+
+δ
+
+δ
+
+δ
+
+2χ
+
+2 ¯χ
+
+(cid:90)
+
+1
+2χ
+
+(cid:18) 1
+(cid:18) κ
+(cid:34)
+(cid:32)
+δ((cid:112)|g|S)
+1(cid:112)|g|
+(cid:32)
+(cid:34)
+(cid:90)
+δ((cid:112)|¯g| ¯S)
+1(cid:112)|¯g|
+
+κ
+2 ¯χ
+
+δ
+
+E
+
+δgµν +
+δ ¯R
+δ¯gµν +
+
+δ¯gµν +
+
+δR
+δgµν +
+
+δgµν
+
+δgµν
+
+(cid:19)(cid:112)|g| d4x
+(cid:19)(cid:112)|¯g| d4x
+(cid:33)
+δ(cid:112)|g|
+R(cid:112)|g|
+(cid:35)
+δ((cid:112)|g|S)
+1(cid:112)|g|
+(cid:33)
+δ(cid:112)|¯g|
+¯R(cid:112)|¯g|
+(cid:35)
+δ((cid:112)|¯g| ¯S)
+1(cid:112)|¯g|
+δ((cid:112)|g|S)
+δ((cid:112)|¯g| ¯S)
+
+1(cid:112)|g|
+1(cid:112)|¯g|
+
+δ¯gµν
+
+δ¯gµν
+
+δgµν +
+
+δ¯gµν +
+
+δgµν(cid:112)|g| d4x
+
+δ¯gµν(cid:112)|¯g| d4x
+
+δ((cid:112)|g|S)
+δ((cid:112)|¯g| ¯S)
+
+δgµν = 0
+
+δ¯gµν = 0
+
+1(cid:112)|g|
+1(cid:112)|¯g|
+
+For any variation δgµν and δ¯gµν, we locally obtain:
+
+(cid:32)
+(cid:32)
+
+1
+2χ
+
+δR
+δgµν +
+
+κ
+2 ¯χ
+
+δ ¯R
+δ¯gµν +
+
+(cid:33)
+(cid:33)
+
+δ(cid:112)|g|
+δ(cid:112)|¯g|
+
+δgµν
+
+δ¯gµν
+
++
+
++
+
+R(cid:112)|g|
+¯R(cid:112)|¯g|
+
+(5.2)
+
+(5.3)
+
+(5.4)
+
+6Integration over E using the element d4x is a method for computing the total action in the bimetric spacetime, re(cid:29)ecting the
+four-dimensional nature of this bimetric universe. This implies considering the entire spacetime as the domain of integration,
+integrating the contributions from each point to the action. The term d4x represents an in(cid:28)nitesimal element of hypervolume of
+this bimetric spacetime, used to "measure" each segment during integration. Thus, it is a multiple volume integral performed
+over the four dimensions of spacetime, accumulating contributions to the total action from each four-dimensional volume segment
+corresponding to each metric.
+
+9
+
+5 LAGRANGIAN DERIVATION OF AN ACTION YIELDING THE COUPLED FIELD EQUATIONS OF THE
+JANUS MODEL
+
+Let us then introduce the following tensors:
+
+δS
+δgµν + gµνS
+δ ¯S
+δ¯gµν + ¯gµν ¯S
+
+δgµν
+
+δ((cid:112)|g|S)
+δgµν = −2
+δ((cid:112)|¯g| ¯S)
+δ¯gµν = −2
+δ((cid:112)|g|S)
+δ((cid:112)|¯g| ¯S)
+δ((cid:112)|g|S)
+δ((cid:112)|¯g| ¯S)
+
+Tµν = − 2(cid:112)|g|
+¯Tµν = − 2(cid:112)|¯g|
+Tµν = − 2(cid:112)|¯g|
+¯Tµν = − 2(cid:112)|g|
+(cid:115)|¯g|
+−2(cid:112)|¯g|
+(cid:115)|g|
+−2(cid:112)|g|
+
+δ¯gµν =
+
+δgµν =
+
+δ¯gµν
+
+|¯g|
+
+|g|
+
+Rµν − 1
+2
+
+gµνR = χ
+
+Tµν +
+
+¯Rµν − 1
+2
+
+¯gµν ¯R = κ ¯χ
+
+¯Tµν +
+
+−2(cid:112)|g|
+−2(cid:112)|¯g|
+(cid:32)
+(cid:32)
+
+δ((cid:112)|g|S)
+δgµν = −2
+δ((cid:112)|¯g| ¯S)
+δ¯gµν = −2
+(cid:115)|¯g|
+(cid:33)
+|g|Tµν
+(cid:115)|g|
+(cid:33)
+|¯g| ¯Tµν
+
+We obtain then from equations 5.7 and 5.8:
+
+(cid:115)|¯g|
+|g|Tµν =
+(cid:115)|g|
+|¯g| ¯Tµν =
+
+δS
+δgµν + gµνS
+
+δ ¯S
+δ¯gµν + ¯gµν ¯S
+
+Introduced into equations 5.3 and 5.4, we can thus deduce the coupled (cid:28)eld equations describing the
+
+system of the two entities:
+
+(5.5)
+
+(5.6)
+
+(5.7)
+
+(5.8)
+
+(5.9)
+
+(5.10)
+
+(5.11)
+
+(5.12)
+
+Where Tµν and ¯Tµν are the interaction tensors of the system of the two entities corresponding to the
+"induced geometry", meaning how each matter distribution on one layer of the universe contributes to the
+geometry of the other7.
+
+7Interaction between populations of positive and negative masses.
+
+10
+
+6 CONCLUSION
+
+6 Conclusion
+
+This model sheds light on several fundamental aspects of the universe:
+
+(cid:136) It describes the temporal evolution of the universe in its material phase, based on the assumption that
+the involved mediums are isotropic and homogeneous. In this context, positive masses are accelerated.
+With a negative curvature index, the model anticipates a decrease of this acceleration towards zero,
+eventually leading to a linear expansion of the universe. This conclusion contrasts with predictions
+stemming from the use of a cosmological constant, which suggest an asymptotic expansion.
+
+(cid:136) It accounts for stationary states corresponding to an SO(3) symmetry, thus illustrating the model’s
+ability to reproduce con(cid:28)gurations classically associated with Einstein’s equation. For an SO(2) sym-
+metry, the model, like Einstein’s, only describes the geometry of empty space, where mathematical
+coherence conditions are inherently respected.
+
+(cid:136) The analysis of the exact instationary solution provided by the model reveals results in accordance
+
+with observations, underlining its adequacy with real phenomena observed in the universe [5].
+
+(cid:136) It predicts a patchy structure for positive mass, forming around spaces left by conglomerates of negative
+mass in a spheroidal shape, arranged in a regular manner. This prediction received initial observa-
+tional con(cid:28)rmation with the discovery of the Dipole Repeller in 2017 [1]. Subsequently, the detection
+of numerous other cosmic voids, each extending over a hundred million light-years in diameter, further
+strengthens this theory.
+
+(cid:136) The model also predicts a decrease in the apparent magnitude of objects located behind the Dipole
+Repeller in an annular region, a phenomenon applicable in the long run to all similar formations. This
+attenuation is due to the e(cid:27)ect of these massive negative structures on the distribution of light in the
+universe.
+
+In summary, our model o(cid:27)ers a comprehensive understanding of phenomena classically associated with
+
+Einstein’s equation, while providing predictions veri(cid:28)able by observation.
+
+11
+
+REFERENCES
+
+References
+
+1:0036, 2017.
+
+1939.
+
+[1] Y. Hoffman, D. PomarŁde, R.B. Tully et H. Courtois : The dipole repeller. Nature Astronomy,
+
+[2] J. R. Oppenheimer et G. M. Volkoff : On Massive Neutron Cores. Physical Review, 55(4):374(cid:21)381,
+
+[3] J.P. Petit : Twin Universe Cosmology. Astrophysics and Space Science, 226:226(cid:21)273, 1995.
+
+[4] J.P. Petit et G. D’Agostini : Cosmological Bimetric model with interacting positive and negative
+masses and two di(cid:27)erent speeds of light, in agreement with the observed acceleration of the Universe.
+Modern Physics Letters A, 29(34), 2014a.
+
+[5] J.P. Petit et G. D’Agostini : Constraints on Janus Cosmological model from recent observations of
+
+supernovae type Ia. Astrophysics and Space Science, 2021b. hal-03426721f.
+
+[6] K. Schwarzschild : (cid:220)ber das Gravitationsfeld einer Kugel aus inkompressibler Fl(cid:252)ssigkeit nach der
+Einsteinschen Theorie. Sitzungsberichte der K(cid:246)niglich Preussischen Akademie der Wissenschaften, 1916.
+
+[7] R. Tolman : Static Solutions of Einstein’s (cid:28)eld equation for a sphere of (cid:29)uid. Phys. Rev., 1939.
+
+[8] Hicham Zejli
+
+:
+
+Perspectives & Chal-
+lenges. Amazon, 2024. https://www.savoir-sans-frontieres.com/JPP/telechargeables/English/
+janus-model-livre-Zejli/Janus_Cosmological_Model_Hicham_Zejli.pdf.
+
+Janus Cosmological Model, Bimetric Universe:
+
+12
+
+

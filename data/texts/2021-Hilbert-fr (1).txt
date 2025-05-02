@@ -1,0 +1,874 @@
+Quand le mathématicien David Hilbert tente en  
+1916 de construire la première Théorie du Tout
+Jean-Pierre Petit
+______________________________________________________________________________
+Résumé : On analyse les deux articles publiés par David Hilbert en 1915 et 1916, intitulés : Fondements de la Physique. On les recadre en rappelant qu’à cette époque les seules forces connues découlaient de la gravitation et de l’électromagnétisme. On montre qu’Hilbert faisait découler le caractère hyperbolique de la variété espace-temps  du fait qu’il interprétait la variable temps comme une grandeur imaginaire pure. On détaille sa construction personnelle de l’équation de champ. On relève toutes les implications qui ont découlé de ces articles, concernant le changement de la signature et l’interprétation de la métrique extérieure publiée par Schwarzschild en 1916. 
+______________________________________________________________________________
+
+      Le présent article se fonde sur les deux publications faites par Hilbert en 1915 et 1916 ([1], [2]). Avant d’entrer dans le vif du sujet il est nécessaire de préciser le contexte dans lequel  ces travaux ont été réalisés. 
+     Nous sommes en 1915. A cette époque seules deux forces, à l’œuvre dans l’univers, sont connues : la force électromagnétique et la force de gravité. Les deux autres : la force d’interaction forte, liant les composants des noyaux des atomes et la force faible, responsable de la radioactivité béta, ne seront découvertes que beaucoup plus tard. 
+     Le bouleversement introduit par Albert Einstein, avec sa relativité restreinte, a fini par s’imposer, du moins chez certains esprits avancés, puisqu’elle est la seule à rendre compte de l’expérience initiée par l’américain Abraham Michelson en 1887, qui conclut à l’invariance de la valeur de la vitesse de la lumière, quel que soir le référentiel, fixe ou immobile, dans lequel on opère. Aucune autre interprétation, crédible, n’ayant vu le jour.  
+     Cette idée mettra cependant du temps à devenir un des piliers de la physique moderne, à telle enseigne que quand le prix Nobel fut attribué en 1921 à son auteur, ce ne fut pas pour celle-ci mais pour son interprétation de physicien du phénomène photoélectrique. Einstein est d’ailleurs considéré comme l’inventeur du mot « photon ». 
+
+En quoi consiste la découverte de la relativité ? 
+     Elle repose sur une nouvelle vision de l’univers, avec l’apparition d’une jonction opérée entre deux mots, débouchant sur le mot composé espace-temps. Einstein, ainsi, peut être considéré comme  l’inventeur de l’espace-temps. 
+     Antérieurement l’espace et le temps sont des objets dissociés. L’espace est considéré comme Euclidien. C’est à dire que le théorème de Pythagore en trois dimensions, comme quoi si on repère la position de deux points A et B à l’aide d’un repère orthonormé en leur conférant des coordonnées : 
+  et  
+la distance qui les sépare est :
+
+     Le temps se mesure différemment, à l’aide d’horloges, de systèmes mécaniques. Avant Einstein personne n’aurait eu l’idée de joindre, de mêler deux « objets » aussi différents que l’espace et le temps, de combiner des mètres et des secondes. 
+     Il y a derrière tout cela une vision géométrique du cosmos. Si nous enlevons une dimension d’espace, la coordonnée z, par exemple,  nous avons le schéma suivant : 
+
+
+Fig.1 : Espace pré-relativiste
+
+     Quant au temps t = 0 il se réfère bien évidemment, en 1915, à l’instant de la création de l’univers, « par Dieu ». 
+     A cette époque, avant l’irruption de la relativité restreinte dans le mode de la science et de la physique, la question « quelle est alors la géométrie de l’espace-temps ? » n’a guère de sens. On ne peut l’identifier à un espace mathématique Riemannien, défini par une métrique. Sinon, quel sens donner à la formule suivante, définissant une « longueur » s  : 
+(1)                                               
+     où a serait une constante, sous la forme d’une vitesse, pour qu’on puisse additionner des grandeurs semblables. Cette métrique est alors dénuée de sens physique. 
+     Les coordonnées d’espace sont  évidemment des réels : 
+     Et le temps ? Il ne viendrait à l’idée de personne d’imaginer un temps négatif, pas plus que  d’envisager un écoulement du temps rétrochrone. Cette variable t appartient donc à l’ensemble  . 
+     La découverte d’Albert Einstein a pourtant une interprétation géométrique tout à fait claire, à travers l’espace inventé par le mathématicien russe Hermann Minkowski. 
+
+Fig. 2 : Hermann Minkowski (1864-1909)
+
+     C’est lui qui impose cette idée d’un continuum espace-temps, défini par la façon dont exprime la longueur, selon un un outil, qualifié par le mathématicien français Henri Poincaré de pseudo-métrique : 
+
+     La contrainte, imposée en 1905 par la relativité restreinte d’Einstein, s’y trouve exprimée de façon simple et claire : il suffit de dire que s est réel. Ainsi faut-il que :
+   ou :    
+     Ce qui entraîne que la vitesse soit inférieure à c . A cette métrique, on associe sa signature, sous la forme de la suite de ses  signes :
+
+     Quand Einstein entreprend de décrire la gravitation à l’aide d’une forme bilinéaire, si on note par   les coordonnées d’un des points de l’espace tangent, repérant celui-ci dans l’espace et x4 étant la coordonné de temps, il semble logique d’écrire, indifféremment  : 
+ ou 
+     Ce choix apparaît par exemple dans l’article publié en 1915 par Einstein, se référant à son calcul de l’avance du périhélie de Mercure [3] . 
+
+
+Fig.3 : Le choix de signature d’Einstein
+
+     Il est facile de constater que ce choix de signature est omniprésent dans les articles de tous les auteurs qui ont publié des articles, antérieurement à celui de Hilbert de 1916. Citons Schwarzschild, Weyl, Droste, etc. 
+
+Quelques préliminaires avant d’aborder la conception 
+que se fait Hilbert de la géométrie de l’espace-temps. 
+     On peut décrire un objet géométrique 2D à l’aide de sa métrique. Celle de la sphère est par exemple : 
+(1)                                                      
+     C’est une métrique qui est totalement régulière, quelles que soient les valeurs des deux variables. Comment peut-on affirmer, sur la base de cette simple donnée,  qu’il s’agit d’une 2-sphère ? Eh bien, on effectue un changement de variable  pour passer des coordonnées  à des coordonnées . On obtient alors : 
+(2)                                                     
+     On remarque alors que pour r = R le premier terme a un dénominateur nul. Nous avons ainsi créé une singularité de coordonnées. Autre remarque : pour r < R le terme ds2 est négatif. L’élément de longueur ds devient imaginaire pur. C’est normal : nous sommes en dehors de la sphère. Pour ces métriques 2D, définissant des objets, des surfaces, nous voyons se dessiner un fil conducteur. La métrique est un polynôme de degré deux, une forme bilinéaire, exprimée avec un certain jeu de coordonnées, a priori réelles. Si l’élément de longueur est aussi réel, c’est que notre intervalle de définition a été judicieusement choisi. Sinon, là où ds est imaginaire, nous sommes simplement en dehors de la surface. Evidemment, de manière formelle, on peut toujours envisager d’étudier le comportement de cet objet, en dehors de cet intervalle de définition. Mais alors nous brisons notre règle du jeu. Nous ne sommes plus dans le monde des réels, mais dans celui des complexes. 
+   Revenons à la question posée. Comment savoir que (1) et (2) représentent une sphère ? On va pour ce faire la plonger dans un espace tridimensionnel .     Le physicien reconnaît les coordonnées « cylindriques » d’un espace euclidien 3D. Dans cette opération de plongement l’élément de longueur doit s’exprimer de la même façon, en particulier sur des courbes méridiennes à constant . On écrira donc : 
+(2)                                                   
+     C’est une équation différentielle qui nous donne immédiatement le lien entre r et z. Son intégration nous donne : 
+(3)                                                                 
+     Cette surface est donc engendrée par la rotation d’un cercle centré à l’origine des coordonnées, autour de l’axe oz. C’est bien une sphère S2. On pourrait faire la même démarche en partant de deux expressions de la métrique du tore T2 : 
+(4)       et     
+     Dans ces expression nous reconnaissons le rayon rg du cercle générateur du tore, le rayon de ce petit cercle dont le centre tourne autour d’un axe passant par son plan, le long d’un cercle de rayon Rr. A  gauche nous avons opté pour des coordonnées qui ne posent aucun problème. A droite, en passant au système de représentation  nous avons, comme pour la sphère, créé des singularités de coordonnées pour les deux valeurs qui annulent le dénominateur du premier terme du second même à savoir 
+(5)                                                       r = Rr + rg     et      r = Rr - rg
+Par ailleurs le ds n’est réel que si ce dénominateur reste positif : 
+(6)                                                              Rr - rg  <  r < Rr + rg     
+sinon on est en dehors de la surface. Une opération de plongement dans l’espace tridimensionnel euclidien permet de découvrir des propriétés géométrique qui feront apparaître le mode d’engendrement du tore. Mais personne ne s’intéresse aux propriétés géométrique de cet objet, par exemple pour  r < (Rr - rg)  . Si on décidait de le faire, on quitterait le mode des réels pour entrer dans une étrange géométrie complexes, qui n’a alors plus rien à voir avec des objets 2D tangibles. 
+     Il s’agit là d’objets définis par des métriques dont les signes sont tous positifs. On les désignera pas l’appellation métriques elliptiques. Cela vaut pour un nombre illimité de dimensions, Considérons par exemple l’objet 3D :
+(7)                                                     
+     Là, à l’aide de changements de coordonnées adéquats pour ferait réapparaître la métrique d’une espace Euclidien : 
+(8)                                                           
+     Ainsi nous retrouverions notre espace de représentation familier. Dans (7) les points sont seulement repérés en coordonnées polaires 3D. Mais, en étudiant l’objet à l’aide d’une famille de surfaces à r constant, s’emboitant comme des poupées russes, nous pourrions « lire » l’objet à l’aide de ce feuilletage. Cet espace possède des géodésiques qui sont l’infinité des droites que nous pouvons dessiner dans cet espace 3D. Parmi ceux-ci se trouvent les droites issues de l’origine, qui sont perpendiculaires à ces surfaces S2 qui sont des sphères. Les coordonnées  font figure de coordonnées Gaussiennes, concept auquel Hilbert fera référence dans ce qui va suivre. 
+     Nous pouvons quitter le 3D Euclidien en imaginant des espaces 3D, des hypersurfaces 3D définies par : 
+(9)                                            
+et nous aurions le même système de feuilletage par des sphères. Nous allons envisager le cas particulier : 
+(10)                                    
+     Pour le moment il n’y a pas de variable temps. Dans l’optique d’une extension de ce que nous avons dit sur les surfaces 2D à des hypersurfaces 3D, définies par leur métrique, à partir desquelles ont peut construire leurs courbe géodésiques on envisagera l’existence de cette hypersurface dans son ds est réel, donc quand ds2 > 0. Ce qui donne un espace de définition tel que r > Rs . En faisant r constant nous pouvons encore feuilleter l’objet avec une famille de sphères emboitées les unes dans les autres comme des poupées russes. Mais il existe alors une sphère d’aire minimale  qui correspond à la métrique : 
+(11)                                                                                    
+     C’est une sphère de gorge. Mais que se passe-t-il en r = Rs ? Le dénominateur du premier terme du second membre devient nul. Cette sphère est-elle singulière ?  Non, c’est encore une singularité de coordonnées. On peut l’éliminer en opérant le changement de variable : 
+(12)                                                          
+La métrique devient alors 
+(13)            
+     Il n’y a alors plus  de limite dans l’espace de définition, et peut varier de moins l’infini à plus l’infini. Les potentiels métriques sont 
+(14)
+
+
+     En quoi cette opération a-t-elle rendu cette métrique régulière ? Quand  le cosinus hyperbolique vaut l’unité et son logarithme est alors nul. Donc le dénominateur dans le premier terme du second membre est toujours nul. Oui, mais il en est de même pour la tangente hyperbolique. Si nous faites un développement en série au voisinage de  vous verrez que . Cette hypersurface est donc parfaitement régulière. Sa sphère de gorge pour  a toujours une aire minimale égale à  . Pour calculer ce « volume 2D » (une surface) il faut faire : 
+(15)                                                               
+     Mais vous pourrez vous convaincre que la non contractibilité de l’objet est toujours présente. Il vous suffit sur cette sphère de faire   et de faire varier de 0 à   . Vous obtenez un périmètre fini  . Que s’est-il passé ? Vous n’êtes plus dans votre confortable espace de représentation tridimensionnel euclidien (le seul dont vous disposez en fait, pour vous construire une image mentale). 
+     Cette hypersurface est donc une variété à trois dimensions, équipée d’une métrique Riemannienne elliptique. Dans ce nouveau système d’axes le déterminant n’est jamais nul.  Ce qui signifie que cette hypersurface est orientable.     En tout point on peut y définir un produit vectoriel et la « règle du tire-bouchon », qui va avec, sera la même tout touts points. Il est évidemment pénible pour les neurones d’envisager cette sorte de « pont spatial » qui crée un passage entre deux espaces 3D euclidiens (qui sont comme « l’un dans l’autre »). On peut l’appeler un « diabolo 3D ». Nous verrons plus loin comment le mathématicien Hermann Weyl a créé et étudié cet objet, en 1917. 
+     Au passage vous pouvez  effectuer ces démarches avec « le diabolo 2D », défini par la métrique : 
+(16)                                                                                                
+     Avec le même changement de variable vous pourriez vérifier sa régularité en obtenant : 
+(17)                  
+     Mais il y a alors une façon beaucoup plus « tangible » d’appréhender cette surface. Il suffit de la plonger dans un espace à trois dimensions et de construire sa méridienne  . Vous obtenez alors, comme pour la sphère,  l’équation différentielle : 
+(18)                                                     
+Sa solution est la « parabole couchée »: 
+(19)                                                                
+Voici cette surface,( dite aussi « surface de Flamm » )  : 
+
+
+Fig.4 : Le diabolo 2D
+     Nous retrouverons ce schéma dans l’analyse faite en 1917 par Weyl, que nous détaillerons plus loin. 
+
+Un autre système de représentation : la projection, et les pièges de la pensée. 
+     Nous avons évoqué un mode de représentation d’une 2-surface en la plongeant dans notre espace 3D euclidien. Nous effectuons là un geste transcendant, en ajoutant une dimension supplémentaire. Mais comment un être vivant dans un espace 2D euclidien se représenterai-il ce diabolo ? Il ne pourrait le concevoir que projeté dans son propre monde. Il imaginerait alors une étrange frontière, figurée par un cercle. Les objets qui cheminent sur cette surface, non Euclidienne, franchissent alors un cercle de gorge. Notre habitant de l’espace euclidien 2D peut alors imaginer que son mode « possède un endroit et un envers ». 
+
+Dig.5 : Représentation plane du diabolo 2D
+
+    On peut illustrer cette relation d’énantiomorphie en partant d’un triangle orienté tracé sur ce plan, « habitat de notre observateur 2D ». La figure ci-après illustre cette inversion de l’orientation. 
+
+Fig.6 : Inversion de l’orientation. 
+
+     Ceci nous paraît évident car nous avons la possibilité de plonger ces deux structure dans notre espace de représentation Euclidien 3D. Mais pour l’habitant de ce plan il serait très problématique d’envisager « qu’à l’intérieur de ce cercle il n’y ait rien ».  
+     Passons à l’hypersurface 3D. Là, on ne peut plus dessiner, mais cette idée de projection dans une espace de représentation 3D Euclidien est la même. Cette fois, l’habitant de cet espace c’est vous, c’est moi. Ils sera très difficile d’envisager « qu’à l’intérieur de cette sphère de gorge il n’y ait rien », et qu’on ne puisse pas contracter une sphère en lui donnant une aire inférieure à une valeur finie  , en un mot que cet espace 3D ne soit pas contractile.  
+     A travers ces exemples 2D et 3D nous voyons que le fait d’utiliser un espace de représentation Euclidien (le seul outil mental dont nous disposons) pour tenter de lire, de « comprendre » (étymologiquement « prendre ensemble ») des objets se présentant sous forme d’ensembles de points nous amène à imaginer des objets qui n’existent pas. C’est particulièrement frappant pour la structure 3D où nous sommes totalement incapables, mentalement, de nous débarrasser de cette idée de « l’intérieur de la sphère de gorge »
+
+Surfaces et hypersurfaces hyperboliques. 
+     Le terme hypersurface évoque toujours une possible représentation dans un espace de représentation de dimension supérieure. Nous avons une image intuitive des géodésiques d’une surface. Il est beaucoup plus difficile d’imaginer celles-ci en 3D. En relativité générale on dit souvent que l’espace temps est une hypersurface à quatre dimensions. Là encore, l’objet est défini par sa métrique. Ce qu’Einstein et Minkowski ont apporté de nouveau c’est l’introduction en physique à de métriques hyperbolique, dont la signature fait cohabiter des signes opposés. Nous pouvons ainsi considérer un espace temps relativiste à deux dimensions. 
+(20)                                                    
+     Le calcul des géodésiques correspond au problème variationnel : 
+(21)                                                           
+     On cherche les courbes correspondant à des trajets où la distance parcourue est minimale. Cela nous amène à résoudre les équations de Lagrange. Celles-ci nous conduisent à des représentations de x et de t linéaires en fonction du paramètre s. Par voie de conséquence x et s sont liés par la relation également linéaire  x = v s, ou v est la vitesse. Et si nous imposons que la longueur s soit réelle, nous devons avoir : 
+(22)                                                                    
+     Que font alors les théoriciens ? Que trouve-t-on dans tous les livres, les cours ? On trouve des images comme celles-ci, en 2D ou en 3D : 
+
+
+Fig.7 : Le cône de lumière
+     A gauche une façon de représenter cet espace hyperbolique ( t , x ) à deux dimensions. A droite le classique « cône de lumière ». Sur la figure de gauche la courbe rouge est censée représenter un trajet correspondant à x = v t avec v < c 
+     La courbe noire à un trajet à v > c . Elle se situe dans « l’ailleurs ». Mais en faisant cela, que faisons-nous ? Nous tentons de nous forger une image 2D d’un espace hyperbolique en le projetant dans un espace 2D euclidien, de métrique : 
+(23)                                                  
+     Nous créons ainsi « quelque chose qui n’existe pas », en l’occurrence cette surface ou volume grisé « extérieur au cône de lumière ». Ces espace n’existe pas plus que cet « intérieur de la sphère de gorge » que nous créons en tentant de projeter la structure du diabolo 3D ans un espace 3D Euclidien. Cet « ailleurs » n’existe, étymologiquement parlant que dans notre imagination et découle de l’image que nous avons créée. 
+     La conclusion est simple : 
+On ne peut simplement pas constituer une image mentale, ou didactique d’une structure dotée d’une géométrie hyperbolique.  Toute tentative de ce genre induit une vision erronée des choses. 
+
+     Ce préambule ayant été posé, nous allons passer à la matière même de l’article, à la façon dont Hilbert a créé sa propre représentation de l’espace temps et par de là de l’univers. 
+
+
+La course trépidante, au coude à coude, de deux génies. 
+
+     En 1915 Hilbert a 53 ans et a déjà un palmarès impressionnant derrière lui, qui l’a fait connaître bien au-delà des frontières allemandes. Il aime l’abstraction, la logique et s’est signalé, entre autre, en publiant un traité où il définit les axiomes qui sous-tendent la géométrie euclidienne.  Tous les mathématiciens allemands et étrangers le considèrent comme un « phare » dans la discipline et savent que son nom s’inscrira en bonne place dans l’histoire des mathématiques. 
+     Il n’a pas toujours porté d’intérêt pour la physique. On rapporte à son sujet une anecdote amusante. Sollicité pour remplacer le mathématicien Félix Klein qui, chaque année, donnait devant les élèves d’une école d’ingénieurs de Göttingen une conférence, il avait commencé celle-ci par ces mots : 
+- On dit que les mathématiciens et les ingénieurs ont du mal à se comprendre. C’est faux : ils n’ont tout simplement rien à faire ensemble. 
+
+
+
+
+
+Fig.8: David Hilbert (1862-1943), en 1915
+
+
+Fig.9 : Félix Klein ( 1849-1925) en 1915
+
+     Notons qu’à l’époque un fossé similaire existe dans le domaine de la physique expérimentale, à son niveau fondamental, où des gens qui sont physiciens et chimistes défrichent ce qu’on appellera plus tard la physique nucléaire. Parmi ceux-ci le physicien Néo-Zélandais, haut en couleurs, Ernst Rutherford. Sollicité pendant la première guerre mondiale par des politiques, qui lui demandaient s’il ne pourrait pas produire, à partir de ses travaux, quelque arme nouvelle qui permettrait à l’Angleterre de prendre le pas sur son adversaire,  l’Allemagne, il leur avait répondu, alors qu’il jetait les base de la future physique nucléaire : 
+
+- Je laisse à vos chimistes le soin d’inventer des gaz asphyxiants et à vos ingénieurs des avions, des sous-marins et des torpilles. Nous, savants,  nous occupons de choses totalement différentes, en cherchant à percer les secrets de la matière. 
+     C’est la rencontre avec le jeune  Einstein, de vingt ans son cadet,  qui est pour Hilbert déterminante. Il découvre alors un fantastique champ d’applications des mathématiques sophistiquées  à une physique, qui désormais ne l’est pas moins. Il noue d’étroites relations avec Einstein, que l’on peut même très vite qualifier d’amicales et qui sont en tout cas fondée sur une grande estime mutuelle. En juin 1915 Einstein lui donne un véritable cours sur la relativité et Hilbert comprend qu’il y a là matière à mise en œuvre de l’outil extrêmement puissant représenté par les techniques du calcul des variations. 
+   Il commence par appliquer cette idée à l’électromagnétisme, puis il s’intéresse à la gravitation. A l’époque, le téléphone n’existe pas. C’est donc à travers de nombreuses lettres que ces deux-là communiquent. Il se trouve qu’un nombre important de ces correspondances nous est parvenu.  Elles se trouvent reproduites, en tout ou parties, entre autre par Tilman Sauer [3,], qui a la gentillesse de reproduire ces textes dans leur traduction anglaise. Hilbert communique à Einstein sa vision des choses : il pense être sur le point d’unifier les deux seules forces connues à l’époque, la force électromagnétique et la gravitation. Einstein travaille différemment, par essai-erreur. Les grandes mathématiques ne sont pas son fort. Très intuitif,  en étant avant tout fantastique physicien, c’est par tâtonnement qu’il est sur le point d’arriver, après dix années de réflexion,  à ce qui sera considéré comme la clé d’une nouvelle théorie, celle de la relativité générale. Mais Hilbert le coiffe au poteau le 20 novembre 1915 [1]. Ce n’est que cinq jours plus tard qu’Einstein envoie à la même revue : les annales de l’académie des sciences de Prusse [4]: 
+
+
+Fig.10 : L’article d’Albert Einstein, du 25 novembre 2015, intitulé :
+« L’équation de champ de la Gravitation » [4]
+
+   Voici l’équation d’Einstein où il formule ce après quoi tous deux couraient, une équation dont les deux membres sont à divergence nulle. 
+
+
+Fig.11 : L’équation de champ d’Einstein sous sa forme première (25 nov. 1915).
+
+Hélas, quatre jours plus tôt Hilbert a inscrit dans son article cette équation : 
+
+
+Fig.12 : L’équation de champ de Hilbert (20 nov. 1015) [1].
+
+Traduction : 
+Utilisant les notations de la dérivation variationnelle par rapport à  que nous avons introduites plus haut, l’équation de la gravitation prend la forme : 
+                                   
+Avec, comme premier membre 
+                              
+
+Pour Hilbert  est le tenseur de Ricci, qu’Einstein appelle .  K est le scalaire qui en dérive, le « scalaire de Ricci », qui est désigné par la lettre R chez Einstein. De plus : 
+
+Donc l’équation de Hilbert s’écrit : 
+(24)                                                     
+     C’est bien sous cette forme, à laquelle il manque le terme attaché à la constante cosmologique
+
+qu’Einstein introduira plus tard, sur le conseil de Hilbert, pour réussir à construire le premier modèle cosmologique relativiste, décrivant un univers stationnaire, que cette équation entrera dans l’histoire. 
+    L’équation présente dans l’article d’Einstein, postérieur de 5 jours à celui d’Hilbert, n’est qu’une autre forme, équivalente, où on reconnaît, à droite, « le tenseur matière » et « le scalaire de Laue» T, qui en dérive. Mais Hilbert ajoute une construction de l’équation par méthode variationnelle en la fondant sur une action construite sur ce qu’il appelle une « fonction de l’univers » :
+(25)                                                            H = K + L 
+K est évidemment le scalaire de Ricci. Technique que l’histoire retiendra sous le nom « d’action de Einstein-Hilbert ». 
+     Au fil de leur intense correspondance épistolaire, des relations très chaleureuses se créent entre ces deux génies, qui s’assument comme tels, parfaitement conscients de leur propre valeur, et  de celle de leur partenaire.  
+
+Fig.13 : Albert Einstein en 1915
+
+     Effectivement, Einstein et Hilbert poursuivent, à une époque qualifiée de « trépidante », deux programmes de recherche parallèles, où Einstein se centre sur la seule gravitation,  alors que  Hilbert rêve d’unir les deux champs de force, électromagnétique et gravitationnel. Dans [3] vous retrouverez évoquées ces journées d’agitation et de doute. Mais finalement Einstein choisit l’apaisement, en écrivant à Hilbert le 20 décembre 1915 (voir cette référence, page 48 ).  : 
+- Il y avait entre nous un certain ressentiment, dont je ne veux pas analyser la cause. J'ai lutté contre le sentiment d'amertume qui y était associé, et avec un succès total, je pense à nouveau à vous avec une amitié sans mélange, et j'aimerais que vous pensiez de la même façon.  
+   En toute rigueur la conclusion aurait du être d’attribuer cette équation aux deux auteurs. Mais à cette époque les pas d’Einstein ne sont pas encore complètement assurés. A l’opposé, la brillante carrière d’Hilbert est un fait reconnu. L’aîné, très sport,  laisse donc la prime au benjamin. 
+   Cependant, quand on revient sur ces deux équations il subsiste une différence. Dans celle d’Einstein est présent un radical  où le déterminant de la métrique est précédé d’un signe moins, absent chez Hilbert. Dans ce qui va suivre nous allons découvrir pourquoi. 
+
+ Le cosmos en 1915.
+   Avant de présenter la propre vision de David Hilbert il est important de considérer ce que les hommes de science savaient sur l’univers en 1915. 
+   La spectroscopie voit le jour en Allemagne, à Heidelberg, en 1859 avec les premiers travaux de Gustav Kirchhoff et de Robert Bunsen, inventeur du bec à gaz du même nom. Elle permet d’identifier la nature d’une source sur la base de sa signature spectrale. A la même époque, à l’aide d’une lunette installé sur le toit du Vatican, le père Angelo Secchi, quant à lui,  poursuit l’idée que chaque étoile est liée à un défunt. Mais aux Etats-Unis, en Nouvelle Angleterre,  à la même époque l’astronome Edward Pickering Entreprend un vaste classement des étoiles, selon leur spectre, ce qui donnera naissance au diagramme d’Hertzprung-Russel en 1900.  En 1865 le génial Ecossais James Clerk Maxwell publie les équations qui gouvernent l’électromagnétisme.  
+
+
+Fig.14 : James Clerk Maxwell 1831-1879
+( mort à 48 ans ) 
+   En 1916 l’Anglais Eddington suit de très près à la fois les avancées expérimentales et observationnelles et les progrès de la théorie. Il  participe de très près au mouvement qui débouchera sur la compréhension des mécanismes de production d’énergie sous forme de rayonnement au sein des étoiles, qui exploiteront la compréhension de la radioactivité, théorie qui ne sera fonctionnelle qu’en 1920. 
+   Depuis 1840  on connaît les vitesses des étoiles (et par delà leurs masses), évaluées par l’effet découvert par l’Autrichien Christian Doppler (1803-1853) et le Français Armand Fizeau (1819-1896). 
+   Grâce à Newton la mécanique céleste a pris ses marques. Confronté au problème de l’instabilité des trajectoires des planètes celui-ci estimait que, de temps en temps, c’était Dieu qui, opérant dans les coulisses, les remettait sur leurs orbites. Une idée invalidée par le Français Pierre Simon de Laplace qui résout le problème par les mathématiques. Questionné par Bonaparte, qui lui demande quelle est la place de Dieu dans tout cela il lui répond « qu’il n’a eu besoin de cette hypothèse dans ses calculs ». En 1902 l’Anglais James Jeans formalise le mécanisme d’instabilité gravitationnelle donnant naissance aux étoiles et planètes. 
+   La première particule élémentaire découverte est l’électron, par l‘Anglais J.J.Thomson en 1897, donc à l’orée immédiate du siècle. L’idée résulte de l’interprétation des expériences menées par l’Anglais Crookes où une cathode placée dans un tube à vide projette son « rayonnement cathodique », lequel se trouvé dévié par un champ magnétique. En 1995 le Français Jean Perrin identifie ces « rayons » à un jet d’électrons. Très vite le rapport masse-charge et déterminé et cette dernière est mesurée en 1911 par l’Américain Millikan. 
+
+
+Fig.15 : J.J.Thomson 1856-1940
+
+   Quand en 1905 le Néo-Zélandais Ernst Rutherford démontre la nature corpusculaire de la matière, l’existence des atomes, l’idée d’atomes  constitué de noyaux chargés positivement autour desquels gravitent des électrons émerge en 1913, le premier modèle, se proposant de décrire l’atome d’hydrogène, ayant été avancé par le Danois Niels Bohr, alors âgé de 28 ans. 
+   Ainsi, pendant toute la première moitié du XIX° siècles tous les outils, tant théoriques qu’observationnels, voient le jour. Quand Hilbert s’interroge sur le fonctionnement du cosmos, la quantité de découvertes effectuées dans le peu d’années précédentes est hallucinante et tranche avec la stagnation actuelle de la physique, de l’astronomie et de l’astrophysique, depuis un demi siècle, où aucune nouvelle particule n’a été découverte, ou les « savants », les « trouveurs » semblent avoir été remplacés par une armée de « chercheurs », cinq cent fois plus nombreux que leurs aînés, et ne faisant « qu’accumuler les données ». 
+   Il reste que personne n’imagine une seule seconde une évolution quelconque de la scène cosmique, perçue comme globalement homogène et stationnaire. S’impose dans l’esprit de tous, quelle soit explicitement formulée ou non, l’idée d’une création par Dieu, à un « instant zéro ». 
+   Ajoutons que le tout début de la découverte de la nature profonde de la force de gravité, réinterprétée en terme de géodésiques d’un espace très faiblement courbé, ne change pas la nature globale du cosmos. 
+   Dans cette année 1915, décidément riche en évènements scientifiques de première grandeur, nous avons vu qu’Einstein avait publié, le 25 novembre 1915, un article  présentant l’équation du champ gravitationnel [4]. Mais, en ce même jour il apporte une seconde contribution, de poids sous la forme d’une première solution, linéaire, qui donne une évaluation précise de l’avance du périhélie de Mercure [5]. La linéarisation se justifie amplement, le phénomène, minime, quelques dizaines de secondes par siècle,  pouvant être assimilé à une perturbation. Ce résultat retentit comme  un coup de tonnerre. Non seulement l’approche des phénomènes du ciel à l’aide d’une équation de champ représente un saut paradigmatique majeur, mais une solution de cette même équation apporte la clé d’une énigme restée jusqu’ici sans solution. Un travail qui se trouve confirmé quelques semaines plus tard quand l’Autrichien Karl Schwarzschild [6] , qui  écrit à Einstein, en décembre 2015, qu’il vient de construire la solution linéaire. 
+   Cela stimule Hilbert qui, au long de l’année 1916 prépare fiévreusement la publication d’un travail encore plus ambitieux, extension de son papier de novembre 1915, qu’il publie le 23 décembre 1916, la veille de Noël. En même temps il annonce à Einstein qu’il est sur le point d’opérer une synthèse entre électromagnétisme et gravitation, bref de créer ce qu’on peut considérer comme la première Théorie du Tout. 
+
+La conception de la géométrie de l’espace-temps par Hilbert. 
+     Si on excepte ces courbures infimes liées à la présente des masses l’espace temps  reste quasi plat, quasi Euclidien. Einstein a, bien sûr, apporte l’idée que le mouvement altère l’écoulement du temps, mais le phénomène ne semble se manifester de manière sensible que pour des vitesses « relativistes », non négligeables devant la vitesse de la lumière, qui n’appartiennent pas encore au monde de la physique expérimentale et est de toute façon totalement négligeables dans la Nature.  On peut, dans la figure suivante, donner la représentation que se fait Hilbert de l’espace-temps. 
+    Bien sûr, le formalisme général de la relativité montre que les points de cet espace peuvent être repérés par une infinité de systèmes de coordonnées différents , de même qu’il existe une infinité de façon de repérer les points sur ne sphère, de la cartographier. Mais Hilbert garde en tête qu’il doit exister un système particulier, meilleur que les autres, qu’il qualifie de « vrai » (Eigentliche). L’idée sous jacente est celle d’un espace 4D feuilleté par une infinité d’hypersurfaces 3D empilées les unes sur les autres. 
+
+Fig.16 : L’espace temps de Hilbert, sous sa forme primitive. 
+
+    Les points masses suivent évidemment des géodésiques de cet espace temps. Ils cheminent alors selon des « time lines » (Zeitlinie) . Le dessin montre cette famille de lignes de temps, perpendiculaires aux hypersurfaces 3D figurant l’espace. Bien sûr, s’il n’y avait aucune force, les hypersurfaces 3D de l’espace seraient des espaces 3D Euclidiens, et les trajectoires seraient des parallèles, perpendiculaires à ces couches parallèles. Et il ne se passerait rien. Mais les forces de gravité se traduisent par un gondolement à peine perceptible des hypersurfaces 3D.  Corrélativement les time lines s’écartent légèrement de cette famille de lignes parallèles. Ceci étant, on reste très proche d’une structure Euclidienne. Hilbert commence donc par introduire quatre coordonnées  qu’il désigne comme étant des « paramètres universels » (Weltparameter).  Les trois coordonnées  se réfèrent à l’espace, w4 se référant au temps. L’instant w4 = 0 représente, même si Hilbert ne le formule pas explicitement,  « l’instant de la création du monde par Dieu » (Hilbert est issu d’une famille protestante, profondément croyante). 
+    Pour Hilbert, le temps est d’une essence différente de l’espace. La façon élégante de rendre compte de cela est d’imaginer que la coordonnée de temps soit imaginaire pure, ce qu’il pose en écrivant, sur la première page de son article : 
+ (26)                           
+    Avant de parler de longueur, en bon mathématicien, Hilbert considère une forme bilinéaire G construite à partir des coordonnées  d’un vecteur de cet espace quadridimensionnel : 
+                                             
+Il ne précise son choix concernant cette forme que six pages plus loin
+
+
+Fig.17 : La forme bilinéaire préférentiellement choisie par Hilbert, 
+exprimée dans un système de coordonnées Gaussiennes.
+
+Cette expression peut alors s’exprimer sous sa forme différentielle : 
+(28)                                       
+    Hilbert considère alors une courbe dont les points sont repérés à l’aide d’un paramètre p : 
+(29)                                  
+     Il précise bien que ces coordonnées les    sont des  réels. Il divise alors sa courbe en portions et considère l’expression : 
+(30)                                               
+Il considère alors deux cas de figure. 
+    Soit la forme bilinéaire, dans la région où cette courbe est travée, est positive
+(31)                                                          
+    Il décide alors d’appeler ces portions de courbe des segments (Strecke). Il introduit alors une première « longueur de ce segment », selon : 
+(32)                                                
+     Puis il envisage une autre portion qu’il décide d’appeler ligne de temps (Zeitlinie) où : 
+(33)                                                          
+et l’intégrale calculée le long de cette autre portion de courbe sera appelée le temps propre de cette courbe du genre temps 
+(34)                                                          
+    Enfin il introduit des courbes de longueur nulle (Nullinie), telles que 
+(35)                                                                 .
+    Grâce à l’expression (34) Hilbert parvient à établir un lien avec la relativité d’Einstein. En effet sa forme bilinéaire, sous sa forme différentielle, est : 
+(36)                                           
+    Elle est donc négative si on veut cadrer avec les impératifs de la relativité, avec une vitesse de la lumière c = 1 : 
+(37)                                           
+    Grâce à l’introduction du signe moins sous la racine, Hilbert retrouve le temps propre de la relativité restreinte 
+(38)                                        
+    Mais vous avez maintenant l’origine du changement de signature, qui s’est imposé comme un standard aujourd’hui, dans les cosmologie comme dans la physique théorique, sans qu’on puisse trouver a trace d’un article qui le justifie. 
+    Dans l’expression (37) on trouve la signature introduite par Einstein qui est . Dans ce qu’écrit Hilbert elle est devenue  ou  et le signes se sont trouvés inversés. 
+    Dans ces premières pages de son article de 1916 on trouve quelque chose de beaucoup plus grave, qui va peser sur tout le développement ultérieur de la cosmologie, qui est cette idée de doter sa variété quadridimensionnelles M4 , non d’une longueur, mais de deux et et  ! Il parle ainsi de deux instruments de mesure différents. La longueur  sera mesuré à l’aide d’une « horloge lumière » (Lichtuhr). Dans les autres régions de son espace-temps, là où sa forme G est positive, il utilisera un ruban (Mafaden) pour mesurer sa longueur .  Mais il précise quand même que si on tente d’effectuer dans une des régions, une mesure avec l’instrument en usage dans l’autre, ça ne fonctionne pas. On obtient en effet alors des valeurs imaginaires. 
+    Mais il n’en dira pas plus, dans le reste de l’article, sur la nature de ces mystérieuses régions de son espace temps où les longueurs se mesurent avec ce scalaire . Et cela alors qu’il se concentre avec beaucoup d’insistance sur ce qui peut avoir, selon lui, une signification physique (Physicalischer Natur). 
+    Un peu plus loin, Hilbert définit le cône de lumière (Null-kegel : le cône nul) qui est en  (son sommet) et dont le point courant a pour coordonnées satisfaisant l’équation 
+ (39)                                  
+    Et il précise que toutes les lignes de temps (courbes du genre temps) issues du point  se situent à l’intérieur de cette partie quadridimensionnelle du monde dont la frontière est la séparation temporelle de . 
+     Toutes les lignes de temps (courbes du genre temps) issues du point  se situent à l’intérieur de cette partie quadridimensionnelle du monde dont la frontière est la séparation temporelle de . Il se concentre ensuite sur le problème de la causalité en physique, en recherchant un système de coordonnées « vrai ». 
+     A ce sujet il déclare : 
+- Un système de coordonnées d’espace temps sera qualifié de « vrai » (Eigentliches Raum-Zeitkoordinatensystem) si c’est un système pour lequel  les quatre inégalités ci-après sont satisfaites, avec en outre le fait que le déterminant  soit négatif. 
+(40)
+
+    Il adopte ensuite la définition d’un système d’un changement de coordonnées d’espace-temps qualifié également de « vraie », de « réelle » (eigentliches). C’est simplement le système de changement de coordonnées qui, à des coordonnées « vraies », satisfaisant les inégalités (40), fait correspondre un autre système, doté des mêmes propriétés. Les quatre inégalités signifient qu’en tout point événement as le cône nul associé exclut l’espace linéaire x4 = a4 mais contient à l’intérieur la ligne passant par le point  
+    Il se donne alors  une ligne d’univers xs = xs(p). Du fait de  (33) il découle que dans un système de coordonnées d’espace temps « vrai » on doit avoir
+(41)                                                                  
+    Il en déduit que  le long de cette ligne de temps, la coordonnée de temps « vraie » x4 doit être systématiquement croissante et ne peut décroître. En raison de ce  qu’une ligne du genre temps reste une ligne du genre temps sous toute transformation des coordonnées, deux point évènements situés sur la même ligne de temps ne peuvent jamais correspondre à une même valeur x4 de la coordonnée de temps, à travers une transformation d’espace-temps « vraie ». Ce qui signifie que ces deux évènements ne peuvent être simultanés. 
+    Nous voyons ainsi que les relations de cause à effet qui sous-tendent le principe de causalité (Kausalitätsprinzips), ne conduisent pas à des contradictions internes dans cette nouvelle physique, si nous tenons compte des inégalités (31) en tant que partie de nos équations de base, ce qui nous conduit à nous confiner dans des coordonnées d’espace-temps « vraies ». 
+   Hilbert introduit maintenant le point important de son exposé : le recours à des coordonnées qu’il décide d’appeler Gaussiennes, du fait qu’elles représentent une généralisation du système des coordonnées polaires utilisé par Gauss dans sa théorie des surfaces. La figure (13) illustre le concept, qui est un feuilletage, où ces surfaces correspondent à une valeur constante de x4. La famille des courbes orthogonales sont des géodésiques le long desquelles court cette coordonnée. Si on opte pour un système de coordonnées où  alors la coordonnée x4 s’identifie avec le temps propre  . Les coordonnées Gaussiennes satisfont alors la relation (32) et correspondent à 
+(42)                                  
+   Mais, à ce stade, le choix de Hilbert reste arbitraire. Il avoue échouer à le faire émerger sur la base de considérations purement mathématiques. 
+
+Comment Hilbert justifie son choix. 
+    Quand un espace de Riemann est mis sous sa forme diagonalisée (absence de termes croisés) la suite signes attachés aux différents termes représente sa signature.  C’est un invariant par changement de coordonnées (réelles). Ainsi l’espace temps d’Einstein correspond-t-il à la forme bilinéaire : 
+(43)                         
+et sa signature est   . Par opposition, dans sa vision de l’espace-temps la forme retenue par Hilbert est : 
+(45)                         
+et sa signature est   . Le choix d’Einstein relève de l’identification de la quatrième coordonnées à travers  . Ainsi, le simple fait d’imposer que la forme soit positive traduit cette propriété physique qui est la limitation de la vitesse à la vitesse c, celle de la lumière (correspondant à une valeur zéro de la forme).  Le temps propre se calcule alors par 
+ (46)                                                     
+     Le choix de Hilbert est moins clair et l’oblige à situer le réel, les trajectoires du genre temps, dans une représentation telle que G < 0. Il lui faut alors introduire un changement de signe, et opter pour la relation : 
+(47)                                                    
+    A cela on ajoutera l’idée, singulière, de doter l’espace d’un second outil de mesure, donnant un longueur , dont la nature physique n’est même pas effleurée dans l’article, ni dans les suivants, et qui donnera naissance au mythe de « trajectoires du genre espace ». 
+Il est alors nécessaire de comprendre pourquoi Hilbert a fait ce choix.
+
+L’explication du choix d’une signature inversée par Hilbert. 
+    Pour Einstein, cette quatrième coordonnée est « de même nature » que les trois autres. Prenons notre espace tridimensionnel Euclidien familier. A la surface de la Terre nous parlerons par exemple de « longueur x », de « largeur y» et de « hauteur z» d’un objet, en sachant que ces dénominations sont arbitraires. Nous pouvons faire agir sur cet objet un élément du groupe de rotations en modifiant totalement ce schéma, alors que nous n’altérons pas l’objet lui-même. Les distances entre ses différents points restent inchangées. Ces rotation font partie du groupe d’isométrie de cet espace Euclidien 3D. Au lieu de faire tourner l’objet nous pouvons décider de l’observer sous un angle différent. 
+    Les objets de l’espace temps sont des mouvements, caractérisés par l’énergie E et l’impulsion p qui y sont associés. Le groupe d’isométrie de l’espace de Minkowski, le groupe de Poincaré, possède un sous-groupe, le groupe de Lorentz, qui se trouve être l’équivalent du groupe des rotations et des symétries, dans le groupe d’Euclide.  Ce dernier opère des rotations et des symétries qui préservent les longueurs (isométrie : même longueur). Le groupe de Lorentz « opère des rotations à quatre dimensions » et préserve une longueur, celle du quadrivecteur impulsion-énergie. 
+    Ceux qui voient les choses de cette façon, à travers cette « vision-groupe » sont alors tentés  d’imaginer que cette dimension x4 soit réelle et se mesure en … mètres. Ce qui crée ces « rotation hyperboliques » provient alors de la construction axiomatique du groupe de Lorentz : 
+(48)             avec la matrice de Gramm       
+    Cet aspect est présent dans la pensée d’Einstein, pas chez Hilbert, qui se rattache immédiatement aux rassurantes coordonnées Gaussiennes. Certes, les points-masses ne restent pas immobiles. Mais dans un monde qui reste très loin d’une physique relativiste, on est très proche de la vision Euclidienne évoquée sur la figure 13. Alors ce qui est réel pour Hilbert, ce sont les coordonnées d’espace :
+
+    Celles-là sont pour lui tangibles. Le temps, c’est une autre affaire. Personne ne peut prendre une seconde entre le pouce et l’index. Donc celui-ci, pour Hilbert, doit être d’une autre nature, imaginaire. Enfin, autre point, l’univers a un commencement, en x4 = 0. 
+    Hilbert est protestant. On l’imagine paraphrasant la Genèse : 
+Dieu créa d’abord un espace quadridimensionnel dont les points étaient repérés par les coordonnées . 
+
+    Avant que la pièce ne commence, il fallait que l’auteur en installe le décor, avant le lever de rideau.  Tous les objets furent donc mis à leur place, les étoiles et leur cortège de planètes, prêtes à s’élancer sur leurs orbites.  Les distances qui les séparaient étant prédéfinies et réelles
+- Alors Dieu décida que la quatrième coordonnée devait être imaginaire pure, selon  et ce fut le premier jour, le premier moment.  La Terre alors entama son mouvement autour du Soleil, ce même que les autres astres du cosmos. Le temps apparut, irréversible et implacable. 
+   Nous lisons cette interprétation de la pensée de Hilbert à travers ces lignes de son article. Citons-le : 
+En raison de la nature de l’espace tridimensionnel en  x4 = 0 , telle que nous l’avons posée a priori (vorausgesestzen : « posé en premier, devant ») la forme quadratique des variables X1 ,  X2 ,  X2  décrite par le membre de droite de (voir la figure 14) est nécessairement positive et définie.
+     Par conséquent les trois première inégalités (40 dans le présent article) sont satisfaites, ainsi que la quatrième, et le système des coordonnées Gaussiennes apparaît comme le véritable (eigentliches : propre) système de coordonnées de l’espace-temps. 
+   Qu’est-ce qui crée les évènements ? Hilbert reprend l’idée lancée un siècle plutôt par Laplace. Il écrit : 
+- Si dans le temps présent nous disposons des données concernant les quantités physiques et de leurs dérivées premières par rapport au temps, leur valeurs futures  peuvent toujours êtres déterminées : les lois de la physique, et cela sans exception, les lois de la physique, ont été exprimées à ce jour à travers un système d’équation différentielles dans lequel le nombre des fonctions inconnues est égal au nombre de ces équations. 
+    Hilbert recense ces données. Ce sont les dix potentiels  qui émergent du tenseur de format (4,4), symétrique, représentant la matière. A cela il faut ajouter, en tout point, les composantes du quadrivecteur  de l’électromagnétisme. Ce qui fait un total de quatorze potentiels. Mais, en faisant le décompte des équations, y compris celles trouvées en 1840 par le génial Maxwell, Hilbert n’en compte que dix, indépendantes les unes des autres. 
+    Dans de telles conditions, comme cela est le cas dans cette nouvelle physique de la relativité générale, il en conclut qu’il n’est pas possible, à partir de la connaissance des quantités physique à l’instant présent, de déterminer les valeurs futures de manière unique. Face à cette impossible d’ancrer une logique de la physique sur une causalité fondée sur des éléments concrets, Hilbert se rabat sur l’opinion selon laquelle « pour suivre l’essence de ce nouveau principe de relativité on doit exiger l’invariance, séparément, de chaque postulat de la physique qui possède un sens physique ».  Et il ajoute  «En physique, nos devons considérer tout ce qui n’est pas invariant par changement du système des coordonnées, comme dénué de signification physique ». Et, sans réelle argumentation mathématique, puisqu’il ajoute «  ce ne sont pas des problèmes mathématiques qu’il importe de discuter ici »). Et  il conclut :  (« A la place je me limiterai à formuler des considérations concernant ce problème en particulier ») .  Il en revient à conclure que son choix ; 
+ (49)                         
+se présente, pour lui, comme la seule alternative représentant « la seule solution régulière des équations de base de la physique », et que cela représente selon lui « une solution, et même la seule solution régulière des équations de base de la physique ».  
+
+Conclusion sur cette première partie de l’article de Hilbert de 1916. 
+    Après la seconde guerre mondiale,  à la charnière des années soixante-soixante dix un changement de signature a été de facto entériné, à travers les publications scientifiques qui ont suivi, sans qu’un article publié dans ne revue de physique ne vienne en justifier la raison. De même ces chimères, comme « le cône de lumière »,  « à  l’extérieur duquel » se trouve une partie d’espace qualifiée « d’ailleurs », peuplée de « trajectoires du genre espace », sont apparues, alors que cette vision relève de la projection d’une réalité associée à une géométrie hyperbolique, dans  un espace de représentation doté d’une géométrie elliptique, acte dont nous avons montré qu’il engendrait des objets exempts de caractère de réalité. 
+    Il a fallu remonter jusqu’à l’article de 1916, rédigé par Hilbert, pour retracer la source de ces dérives. En fait, une vision « standard » de la cosmologie, peuplée de présentations qu’on considérait comme acquises, non contestables,  s’est construite sur la base de textes ultérieurs, rédigés en anglais, donc plus facilement assimilables dans cette langue devenue véhiculaire à une échelle planétaire dans l’après guerre. Les auteurs, tels des copistes médiévaux, se sont recopiés les uns et les autres sans qu’aucun ne puisse, s’il n’avait pas la maîtrise de l’allemand, retourner aux textes fondamentaux. 
+    A cela il faut ajouter que s’ils avaient simplement fait l’effort de remonter vers la version originale, en regardant simplement l’équation (14) de cet article ils auraient pu immédiatement constater que leur interprétation était en totale contradiction avec le résultat de Schwarzschild. 
+   Il est significatif que les articles de Hilbert de 1915-1916 n’aient été traduits en anglais qu’en 2007 ([1], [2]), c’est à dire quatre vingt dix ans après avoir été publiés. Fait aggravant, ces traductions restent aujourd’hui  frappées, comme beaucoup d’autres, d’un copyright, comme faisant partie d’un ouvrage regroupant des éléments de ce genre mis à la disposition des scientifiques pour un prix (octobre 2021)  de 733 dollars pour la version imprimée et de 608 dollars pour la version numérique ! Nous avons du débourser 58 dollars pour acheter les deux pdf correspondant aux deux articles qui servent de base au présent papier, alors que ce sont des outils de travail pour les chercheurs. Si les lecteurs veulent consulter ces traductions, il leur faudra débourser la même somme.  Aujourd’hui, il n’y a pas de scientifiques, se présentant comme experts en cosmologie, qui aient lu les textes fondamentaux, ou même connaissent l’existence d’une masse de textes capitaux dont certains n’ont pas encore été traduits de l’allemand. 
+    Dans ce qui va suivre nous allons mettre en lumière une erreur flagrante et incontestable de David Hilbert, dont on mesurera l’immense impact dans tout le développement de la cosmologue qui a suivi. 
+    Celle-ci a été pour la première fois identifiée par le Canadien L.S.  Abrams [7] en 1989, après examen du texte original, publié en allemand par Karl Schwarzschild en janvier 1916  [6], en le confrontant à l’article de Hilbert, de décembre 1916, toujours en Allemand. 
+    En 1999 démarche similaire de A.Loinger [8], toujours en partant des textes en allemand, qu’il lit couramment. 
+    En 1999 l’Italien S.Antoci, et l’Allemand D.E Liebscher reprennent cette question [9] et installent sur arXiv les traductions faites par Liebscher, enfin disponibles en langue anglaise, 83 ans après leur parution en allemand, alors que ces textes  sont considérés comme la base même de la théorie du trou noir.  
+   En 2001 ils montrent que l’erreur relève d’une mauvaise compréhension de la topologie de la solution trouvée par Schwarzschild [10]  .
+   En 2003 S.Antoci réitère en publiant un article très documenté : David Hilbert and the origin of the Schwarzschild Solution [11]. 
+Plus récemment, en 2021, le Russe Anatoli Vankov souligne ce point en concluant «Strictly talking the Black hole does not come from the general relativity theory » [12].   
+
+L’erreur de Hilbert. 
+    Revenons sur la chronologie. Le 20 novembre 1916 Hilbert publie son premier article intitule « Fondements de la physique » [1]. Cinq jours après Einstein publie sa propre version de l’équation de champ [4] ainsi que la première solution de la version linéarisée de celle-ci, fournissant la première explication de l’avance du périhélie de Mercure [5]. Le 22 décembre 1915 le mathématicien Karl Schwarzschild, qui suit avec avidité tout ce qui se publie dans la section des annales de l’Académie de Prusse consacrées aux mathématiques, écrit à Einstein en lui annonçant qu’il vient de construire la solution non linéaire de son équation, qui confirme son calcul. Il lui annonce qu’il va publier un article dans la même revue. Le texte de cette lettre est accessible à la référence [3] : 
+
+
+Fig.18 : La lettre de Schwarzschild à Einstein du 22 décembre 1916
+
+
+
+Traduction du passage souligné : 
+ ne sont pas les coordonnées « en usage », mais il se trouve que c’est la meilleure façon d’exprimer la métrique. 
+    On voit que l’authentique variable radiale r est bien visible. Schwarzschild introduit une « variable intermédiaire » (Hilfsgröe) R , selon la relation 
+ ,
+que Hilbert va confondre avec une variable radiale. 
+    A sa décharge on pourra dire qu’en 1916 l’outil mathématique « géométrie différentielle » n’était pas totalement maitrisé. Pour pointer l’erreur avec précision, nous allons reprendre le calcul de Hilbert, point par point. 
+    Celui-ci commence par recenser les hypothèses qui sont à la base de cette solution, qu’il choisit de décrire à l’aide de ce qui est pour lui une pierre de touche, des coordonnées Gaussiennes, avec : 
+(50)                                     
+   Les potentiels métrique sont indépendants du temps x4 . A cela il ajoute qu’ils présentent une symétrie centrale (zentrisch symmeytisch) , par rapport à l’origine des coordonnées. Une origine qu’il assimilera à  la valeur R = 0 et non r = 0. De façon plus moderne on parlerait d’une invariance sous l’action du groupe SO(3) et même O(3). En effet, un objet géométrique qui possède cette propriété n’a pas automatiquement de « centre ». Un tore a une symétrie « axiale », pourtant cet axe n’apparaît que lorsqu’on le plonge dans   . Formellement, cet axe n’existe pas. De même, en revenant à la métrique du « diabolo 3D » cet objet ne possède par une « symétrie centrale », parce que ce « centre » n’apparaît que lorsqu’on le projet dans un espace de représentation qui est l’espace euclidien à trois dimensions. Il est invariant par action du groupe O(3).  
+Hilbert écrit alors : 
+(51)
+En accord avec Schwarzschild, si on pose : 
+
+
+   On trouve un caractère l qui traduit la vision qu’Hilbert a de l’univers. Ce sont quatre coordonnées qui sont, reportons-nous au début de son article, des paramètres universels (weltparameter) .Ce qui est extraordinaire c’est qu’Hilbert va conduire son calcul dans ce système de coordonnées. Le temps t n’apparaîtra que tout à la fin « quand toute la mécanique cosmique se mettra an marche » .  
+     Dans les équations de Lagrange, qui vont suivre il ne manipule pas la dérivée  . Ce qui est une façon pour lui d’affirmer que cette métrique « existe », que cette géométrie « pre-existe » avant que Dieu ne décide que l = it , avant de déclencher  la course du temps. Pour Hilbert le système solaire existe, tel qu’il est, depuis la création de l’univers par Dieux, depuis le temps zéro.  
+   Autre remarque, dans ce suivra vous trouverez des   et non des  . Donc le déterminant de la métrique est positif. Il faut se rappeler que pour Hilbert les phénomènes de courbure sont des accidents exceptionnels, des plis quasi imperceptibles dans un univers pratiquement Euclidien. L’univers associé à ces coordonnées est donc Euclidien. Possède-t-il une longueur ? Non pas encore. Ca n’est que quand cette longueur (ces longueurs au pluriel, si on s’en tient au texte de Hilbert, qui en définit deux) que l’espace devient pseudo-Euclidien et que le déterminant devient négatif. Avant que Dieu ne lui confère un caractère physique, c’est un objet de pure mathématique. On pourrait le qualifier de « métaphysique ». 
+
+-> Quand Einstein produit son équation de champ, il crée un outil avec lequel on pourra interpréter des phénomènes physiques, accessibles à l’astronomie. Il est donc déjà dans un monde quadridimensionnel , concret. Le déterminant de sa métrique est donc négatif et il doit manipuler un . 
+
+-> Quand Hilbert produit sa propre version de l’équation de champ il est dans un autre univers, qu’il veut plus abstrait, plus fondamental, l’univers des . Vous avez maintenant ‘explication de la présence du  dans son équation de champ, construite et écrite dans le système . 
+
+    Il est extrêmement regrettable que je ne puisse pas indiquer un lien qui permette au lecteur d’avoir accès à la traduction anglaise l’article de Hilbert de 1915[1], qui est toujours sous ce scandaleux copyright, alors que c’est un élément clé de la culture scientifique planétaire. Il vous en coûtera donc 29 dollars si vous voulez vérifier  que les coordonnées sont totalement absentes de cet article où toutes les dérivées sont en . Cela vaut pour tous les termes, les coefficients de Christoffels, les termes du tenseur de Ricci. 
+Donc l’équation de champ de Hilbert se réfère à un espace 
+    Fin de cette digression. Dans son papier de 1916 Hilbert met la forme bilinéaire sous la forme : 
+(52)                            
+Un pas de plus a été franchi. Hilbert se situe alors dans un référentiel : 
+(53)                                   
+   Le passage en coordonnées polaires implique que sa variable r est définie, comme chez Schwarzschild [10];  par : 
+(54)                                                   
+   Puis, grâce au changement de variable, implicite, il est passé en coordonnées polaires : 
+(54)                                      
+    Nous sommes donc dans les coordonnées (51). De par (52) il est clair qu’Hilbert exprime sa forme bilinéaire dans le système : 
+(55)                                                      
+    Autre forme du système . Il n’est alors nullement question de temps. 
+Il pose ensuite : 
+(56)                                                           
+   C’est alors qu’il va commettre une erreur capitale, signalée depuis 1989 dans 
+([7], [8], [9], [10], [11], [12]) . 
+Il écrit : 
+
+
+
+Fig.19 : L’erreur de Hilbert
+
+Traduction : 
+- Nous sommes donc, de la même manière, en droit d'interpréter  comme des coordonnées polaires spatiales. Si nous introduisons r  au lieu de r* dans (notre expression de la forme bilinéaire) et omettons à nouveau le signe *, nous obtenons l'expression : 
+(57)                              
+    Cette forme bilinéaire est solution de l’équation de champ d’Einstein sans second membre qui alors se réduit à annuler les composantes du tenseur de Ricci, qu’Hilbert désigne par  . Celles-ci se calculent sur la base des symboles de Christoffels. On remarquera qu’Hilbert, comme dans son papier de 1915 effectue tous ses calculs avec les variables  c’est à dire des variables « universelles »  .  Son calcul des géodésiques se fondent alors sur la variation de l’action, construite avec ces mêmes variables  : 
+
+(58)           
+
+     Ses équations de Lagrange correspondantes sont :
+(59)
+
+     Le caractère ‘ dans ces équations, et dans ce qui suit, se réfère à une dérivation par rapport à r.  Les équations différentielles des courbes géodésiques sont :
+
+(60)                                      
+
+    On remarque qu’on est toujours dans ces coordonnées « universelles » . Hilbert calcule alors des symboles de Christofells non nuls : 
+(61)                                                
+
+
+    Ce qui lui permet de calculer les composantes du tenseur de Ricci 
+
+
+
+(62)
+
+    Le calcul du scalaire de Ricci suit :
+ (63)
+
+
+    Hilbert se place dans un système de coordonnées  où le déterminant est positif, ce qui lui permet à d’écrire : 
+(64)                                                       
+Alors :
+(65) 
+
+Il pose
+(64)                                         
+    La lettre w ne désigne pas le module du vecteur 
+    C’est une fonction inconnue. En effectuant le changement (64) Hilbert aura maintenant deux fonctions inconnues à déterminer : m et w . Pourquoi un tel changement ? Il s’inspire de l’équation qui figure dans l’article de Schwarzschild et ces fonctions m et w s’avèreront être de simples constantes. 
+   Mais, au passage, nous découvrons l’origine de lette m utilisée pour décrier ce qui a la dimension d’une longueur ! 
+    Il vient 
+(65)
+
+    Hilbert construisait son action sur la base d’une fonction H = K + L  , où K est le scalaire de Ricci. Mais dans une portion de l’univers qui est vide, L = 0 . Donc la variation se réduit à : 
+ (66)                                                     
+      Notez que nous sommes toujours dans le système des coordonnées . Ces géodésiques « existent », mais « comme Dieu n’a pas encore  créé  le temps », les planètes ne peuvent s’élancer sur ces géodésiques-orbites. Cette équation équivaut à : 
+(67)                                                                 
+    Et les équations de Lagrange donnent alors 
+(68)                                                                        
+    La solution construite par David Hilbert s’écrit alors : 
+(69)                     
+     Et, en faisant   l = i t  ( c’est à dire w4 = i x4 , selon les notation de Hilbert de ). 
+(70)               
+    Dans le texte original on trouve une erreur typographique de Hilbert qui laisse sa « variable universelle » l dans le premier membre.  
+
+Fig.20 : Une erreur typographique de Hilbert
+A ce stade, Hilbert est convaincu qu’il a retrouvé le résultat de Schwarzchild. Il écrit : 
+- Für l = it die gesuchte Mabestimmung in der von Schwarzschild zuerst gefunden Gestalt 
+Traduction : 
+- Pour l = it on retrouve la métrique construite pour la première fois par Schwarzchild. 
+C’est cette erreur qui a été très vite propagée à travers des interprétations erronées successives. 
+
+La véritable métrique de Schwarzschild. 
+    Si Schwarzschild avait survécu à ce printemps 1916, où il mourut d’une infection contractée sur le front russe, il aurait immédiatement ramené ces commentateurs de son œuvre à la forme originale de celle-ci, où la nature de R est bien précisée et ne correspond qu’à une grandeur intermédiaire (Hilfsgröe)  et en aucun cas à la distance radiale r . 
+
+
+Fig.21 : La véritable métrique de Schwarzschild, 1916
+
+    Ce qui est extraordinaire c’est que cette confusion entre R et r, fondement de l’erreur de Hilbert, se soit imposée que un standard depuis plus d’un siècle alors qu’elle apparaissait de manière évident dans le résultat de Schwarzschild, dans son équation (14), même pour un non germanophone. La seule explication possible fut que cette interprétation erronée se propagea, comme l’interprétation erronée d’un texte fondateur par des gens se comportant comme des copistes médiévaux. 
+    En fait, les générations de théoriciens qui se succédèrent s’estimaient satisfaits par le fait que cette solution remplissait pour eux une considération qui pouvait être considérée comme fondamentale : s’identifier à la métrique de Lorentz à l’infini. Dans son article de 2003 [11], le mathématicien italien Salvatore Antoci analyse avec les plus grande précisions le mécanisme de construction, par Hilbert, de cette erreur, en mettant en perspective le calcul de celui-ci et celui de Schwarzschild. Dans un autre [10] , Antpci et l’Allemand D.E. Liebscher montrent que l’erreur de Hilbert traduit une interprétation erronée sur la topologie de l’objet. 
+   A cela il faut ajouter que pendant 43 ans la seule application qui vint à l’esprit concernait la forme linéarisée de cette métrique. Et c’est la raison pour laquelle Schwarzschild lui-même ne fournit pas l’expression de sa solution non linéaire dans ses coordonnées . Dans son article, Schwarzschild prend le cas du Soleil, où la grande  vaut alors 3 km , en notant :  
+
+
+Fig.22 : Schwarzschild justifie sa limitation à la solution linéarisée.
+
+ Traduction : 
+- Malgré tout, l’approche du calcul de la géodésiques par  Mr. Einstein est compatible avec la solution exacte, si nous l’exprimons à l’aide de r au lieu de : 
+
+puisque /r  est proche de deux fois le carré de la vitesse planétaire (en prenant pour unité la vitesse de la lumière). Pour Mercure, l’ordre de grandeur est de 10-12. Ainsi R est pratiquement égal à r et l’approche de Mr. Einstein est suffisante, au-delà des besoins de la pratique courante. 
+
+     Si Schwarzschild avait finalisé son travail, ce qui ne lui a semblé nullement nécessaire, ce qu’il aurait fait en exprimant la métrique dans les coordonnées   ceci l’aurait alors conduit à écrire la véritable solution, qu’on obtient immédiatement en opérant le changement de coordonnée, mentionné explicitement par Hilbert.  Une opération qui aurait fait apparaître cette véritable solution métrique de l’équation d’Einstein sans second membre. 
+ 
+
+
+(71) 
+
+ Bien évidemment, si on effectue un développement en série en fonction du petit paramètre Rs/r on retrouve la solution linéarisée d’Einstein. 
+    Dans une note de bas de la page 70 de son manuscrit, Hilbert signe son incompréhension manifeste de la relation (numéro 14 sans l’article original de Schwarzschild ; qui accompagne son expression de sa solution métrique, selon la grandeur intermédiaire R )  
+(72)                                                       
+
+
+Fig.23 : Note de Hilbert
+Traduction : 
+Selon mon opinion je ne recommanderai pas, comme le fait Schwarzschild, cette transformation amenant le point r =  à l’origine, d’autant plus qu’il existe des moyens pus simple pour un parvenir. 
+    Ainsi, alors que l’expression selon la véritable coordonnée radiale r est cohérente avec la démarche suivie par Schwarzschild  et que le fait de présenter le résultat selon cette grandeur intermédiaire R n’est qu’un artifice utilisé par Schwarzschild pour coller plus simplement avec la solution linéarise d’Einstein, Hilbert inverse le raisonnement en considérant R comme la variable radiale et r comme un artifice de calcul pour se débarrasser de la singularité en ce qu’il croit être l’origine des coordonnées, en R = 0 , alors que, d’après (72) ce point correspond à la valeur imaginaire pure : 
+(73)                                                  
+
+     Ce faisant, Hilbert ne se rend pas compte qu’il est sorti du domaine de définition de la variété M4. 
+      Une erreur qui entraînera des flots d’encre et la production de théorèmes (Penrose, Hawking) se référant à une « singularité centrale », n’existant que dans l’imagination des scientifiques qui se sont penchés sur cette question, ceux-ci prenant ainsi pour une réalité ce qui appartient, mathématiquement parlant, à un domaine de l’espace imaginaire. 
+
+    Revenant à cette expression (71), en effectuant un développement en série on obtient les valeurs des potentiels métrique quand r tend vers zéro :
+(74)                
+    En r = 0 le scalaire de Kretschman est différent de zéro, la sphère n’est donc pas un lieu singulier. Par contre le déterminant est nul, ce qui indique que l’hypersurface est localement inorientable. Elle l’est doublement, puisque les deux potentiels  et son nuls. Si la sphère est une sphère de gorge, elle traduit une double inversion de l’espace et du temps, une PT-symétrie, comme établi dans . [13]].  Si on considère cette nullité du déterminant comme une région singulière » on peut alors conclure que l’hypersurface n’est pas un 4-manifold mais un 4-orbifold. 
+    Rappelons, comme le note Hilbert, que ces coordonnées sont Gaussiennes. On peut donc envisager un feuilletage de l’hypersurface où la variable  avec t comme paramètre. Ce qui correspond pour ces hypersurfaces tridimensionnelles à : 
+(75)           
+     Celles-ci sont elles-mêmes passible d’un nouveau feuilletage à r = Cst ce qui donne une famille de sphères imbriquées comme des poupées russes ayant l’aire minimale, correspond à r = 0 :
+(75)                                                               
+L’hypersurface 4D est donc non contractile. Il s’agit alors :
+Soit d’une variété à bord
+
+Soit d’un objet géométrique traduisant un pont spatio-temporel entre deux espaces de Minkowski, réalisé à travers une sphère de gorge d’aire  . 
+     On peut produire une description plus fine de l’objet en introduisant une variable à travers le changement de variable [13] : 
+(77)                                                      
+La métrique devient alors : 
+(78)
+
+    Le déterminant est toujours nul à cause du terme   mais cette fois . 
+   Ce qui explique que les théoriciens se soient massivement embarqués dans cette interprétation erronée de la solution de Schwarzschild reprise sur plusieurs points. 
+Le fait de prendre en charge les aspects non linéaires de la solution ne s’est imposé qu’en 1939, après la publication d’une article clé [14] par R. Oppenheimer, exempt de références, que nous allons évoquer dans ce qui va suivre. 
+
+Le fait, hautement probable, qu’aucun cosmologiste, en partant de cet « article fondateur » n’ait eu la curiosité de jeter un coup d’œil à l’article original, en allemand, auquel cas l’équation (14) de ce papier aurait du attirer leur attention. 
+
+    Le fait que cette curiosité se soit heurtée au fait ces textes en allemand n’aient été accessibles, jusqu’à l’apparition d’internet et des fichiers pdf, que dans des livres  d’un coût en général élevé. 
+
+    Le fait que l’article de Schwarzschild n’ait été traduit en anglais qu’en 1999 [6], soit 86 ans après sa publication sous sa forme originale. 
+
+    Le fait que les traductions des documents indispensables pour tirer cette affaire au clair soient toujours n’aient été traduits en anglais qu’en 2007 ([1], [2]), soit 91 ans après leur parution, et restent toujours couverts par un scandaleux copyright. 
+
+    En 1960  la publication en 1960, par M.D.Kruskal [15],  de la construction d’un prolongement analytique permettant de « pénétrer à l’intérieur de la sphère de Schwarzschild » donne l’illusion d’un progrès dans la compréhension de cette géométrie, avec que cela ne change rien à l’affaire. Cette extension, qui se réfère à une valeur de r imaginaire, se situe hors de l’espace de définition de l’objet géométrique. Le la même manière on pourrait construire un prolongement analytique permettant d’étudier un tore à l’intérieur de son cercle de gorge. 
+
+   A cela il faut ajouter, depuis plus d’un demi siècle, la conviction illusoire d’un progrès dans la compréhension de cette solution, alors que la contagion généralisée de cette erreur flagrante a fait basculer des milliers de publications dans ce qui n’est rien d’autre que de la science fiction. 
+
+L’acte de naissance du modèle du trou noir. 
+    En 1939 l’hypothèse de l’existence d’étoiles à neutrons circule déjà, bien que leur existence n’ait été confirmée qu’en 1967 par la découverte des pulsars. Dans leur article [14] J.R. Oppenheimer et H.Snyder en font explicitement mention. En fait tout démarre avec un article publié quelques mois plus tôt par R.C.Tolman, alors en poste au Caltech [16]. 
+
+Fig.24  : Richard Tolman et Albert Einstein 
+
+On y trouve cette expression de la métrique :
+
+
+Fig.25 : Métrique de Tolman. 
+
+    Cette description nous place encore ici dans des coordonnées Gaussiennes. On peut donc feuilleter l’espace temps en utilisant t comme paramètre, traduisant une simple translation temporelle et en considérant les hypersurfaces tridimensionnelles décrite par la métrique : 
+(79)                                       
+    Hypersurface elles-mêmes feuilletables à l’aide d’une familles de sphères d’aires  . Cette aire pourra-t-elle être amenée à zéro ? Si oui, cela signifiera que l’objet géométrique associé à cette portion d’espace temps est contractile. 
+    Par ailleurs en introduisant les deux fonctions   et  strictement positives, si on se situe dans un mode gouverné par des réels, Tolman rejette une éventuelle modification de la signature hyperbolique qui, pour lui, est ( - - - + ) ; ou ( + - - -) selon l’ordre des termes. 	
+
+
+Fig.26 : Reprise de l’expression de Tolman par Oppenheimer et Snyder. 
+
+     Ce travail est en fait d’une reprise du second article [17] publié par Karl Schwarzschild, juste avant sa mort, où celui-ci construit entièrement la géométrie à l’intérieur d’une sphère emplie d’une matière incompressible, de densité constante. R.Oppenheimer et H.Snyder le citent dans l’article qu’ils publient en 1939 [14] et repartent de la même forme de la métrique, cette fois pour reprendre la  question de la géométrie à l’extérieur de la masse. La question de la fin de vie des étoiles ayant épuisé leur carburant de fusion est au centre de l’article. L’accentuation du redshift gravitationnel est évoqué, au fur et à mesure que la contraction de l’étoile s’accentue. Le calcul du temps de chute libre d’une particule test est calculé de deux manière. Les auteurs montrent que si on se fonde sur le temps propre, ce temps est fini, et très bref. Par contre si on mesure ce temps en employant la coordonnée t , qui est censée se référer au temps propre d’un observateur situé à grande distance de l’objet, ce temps devient infini. 
+    Cette remarque signe l’acte de naissance du modèle du Trou Noir, selon le raisonnement suivant : 
+Une étoile, ne pouvant plus contrebalancer à l’aide des forces de pression, la force de gravité, subit un effondrement en chute libre vers son centre, que rien ne peut plus contrarier. 
+
+Sans entreprendre une description de ce phénomène, on se fonde sur les données émanant de la métrique décrivant l’extérieur de cet objet, qu’on qualifiera de « métrique extérieure de Schwarzschild »
+
+En calculant les temps de chute libre d’une masse témoin , si on trouve que celle-ci atteint la sphère de Schwarzschild en un temps propre fini , ce temps devient infini par un observateur situé à grande distance. Pour ce dernier ce phénomène d’implosion semble donc comme en arrêt sur image, figé. 
+
+En même temps le rayonnement émis par la matière subit un effet de redshift gravitationnel qui devient infini quand ce signal est émis à partir d’un point situé sur la sphère de Schwarzschild de rayon Rs. Donc, à fortiori, aucun rayonnement ne peut franchir cette sphère qui sera qualifié d’horizon cosmologique. 
+    Un observateur extérieur percevra alors cet objet sous la forme d’un disque parfaitement noir, que l’on qualifiera de Trou Noir. 
+    Ce raisonnement permet de s’affranchir de la description du phénomène d’effondrement en partant du raisonnement : 
+Je ne me sens pas  tenu de décrire un phénomène qui pour moi, observateur extérieur, dure un temps infini. 
+
+     Ceci permet également de ramener la description de la géométrie de l’objet  à la seule géométrie se référant à l’extérieur de la sphère horizon, donc à une solution de l’équation d’Einstein qui se réfère à une portion d’univers vide. En supposant qu’on peut partir de la solution de la figure 21 pour calculer le temps de chute libre d’une particule témoin jusqu’au point r = 0 , supposé être le «centre » de l’objet, on obtient une valeur finie, et brève. On en déduit, bien qu’on ne puisse pas effectuer d’observation sur ce qui se passe et s’est passé à l’intérieur de la sphère horizon, que toute la matière s’est concentrée en une singularité centrale. 
+
+    Ce raisonnement repose sur l’hypothèse que l’expression considéré de la solution ait une signification physique. Or, comme rappelé dans ce qui précède, ceci n’est pas le résultat trouvé par Schwarschild en 1916 mais le résultat de l’erreur commise par Hilbert, en confondant la grandeur intermédiaire  avec la distance radiale r. En envisageant d’exploiter un calcul se référant à une valeur r < ro ( Rayon de Schwarzschild) on se situe simplement en dehors de l’hypersurface quadridimensionnelle, ce qu’on peut constater immédiatement du fait que les fonctions exponentielles deviennent négative. Or : 
+
+(80)                                          
+
+    On voit apparaître une fonction complexe, elle-même fonction d’une valeur complexe des variables. Ainsi le supposé « intérieur » d’un tel objet n’existe que dans l’imagination des théoriciens, au sens strict, puisque ceux-ci décident  de considérer comme réel ce qui est imaginaire.
+
+
+L’émergence du surréalisme en physique. 
+
+     Les années ont passé. Aucun théoricien ne se soucie de revenir aux textes fondateurs, ni d’envisager un autre modèle. Voici les raisonnements qui figurent dans tous les livres et manuels destinés à la formation des étudiants. Nous reproduisons à titre d’exemple des éléments de la section 6.8 du chapitre 6 de l’ouvrage de la référence [18]. Le choix de la forme de la métrique introduite par Tolman [16] est alors simplement présenté comme « raisonnable ». 
+
+Quand r devient inférieur à 2m (le rayon de Schwarzschild), les signes des composants de la métrique  (potentiel métrique se référant au temps) et (potentiel métrique se référant à la supposée coordonnée radiale) changent,  devenant positif et  négatif. Ceci nous oblige à reconsidérer la signification physique (…) accordée aux variables t et r en tant que système de repérage du temps et du rayon, à l’intérieur de la sphère de Schwarzschild. En fait une ligne d’univers qui se trouve décrite selon un t , c’est à dire avec  constants,  correspond  à un  . C’est une courbe du genre espace (spacelike curve), tandis qu’un ligne d’univers pour laquelle  est une courbe du genre temps (timelike curve). 
+     Et là vous tombez sur a conséquence d’une autre erreur de Hilbert, celle de doter l’espace temps de deux systèmes de mesure, le second se référant à des portions de courbes  qu’il appelle « segments » et pour lesquels le signe de la forme bilinéaire se trouve inversé. 
+
+Fig.27 : La seconde « longueur » mesurée sur les « segments » de Hilbert. 
+
+Traduction : 
+- Une portion de courbe où (la forme G est positive) sera appelée segment, tandis que (l’expression donnant le scalaire  ) représente la longueur de ce segment. 
+     Cette vision des choses est en totale contradiction avec celle d’Einstein, K. Schwarzschild, de J. Droste, H.Weyl,  et de tous les scientifiques-mathématiciens qui à cette époque contribuaient à la construction de la relativité générale. Dans l’article de Schwarzschild, par exemple on lit : 
+
+
+Fig.28 : Comment Schwarzschild définit la longueur, essentiellement positive. 
+
+Traduction : 
+Considérons un point qui se meut selon (les expressions de la figure), où les variables sont des fonctions des variables x (coordonnées de points de l’hypersurface espace-temps) et où les valeurs de x  doivent être considérées comme constantes au début et à la fin du chemin suivi pour l’intégration. En clair, le point devra se déplacer selon une géodésique de la variété (manifold) caractérisée par l’élément ds. 
+ 
+    Comment Hilbert en est-il arrivé à doter l’espace-temps de deux longueurs ? Peut-être avait-il en têt l’idée de créer une métaphysique, vis à vis des évènements se produisant à l’intérieur (…) de la sphère de Schwarzschild. 
+
+
+ Reprenons le texte de la référence [18].
+
+- Il apparaîtrait donc naturel (…) de traiter r comme une coordonnée de temps et t comme une coordonnée radiale (…). Nous interprétons ds/c comme le temps propre le long the lignes d’univers parcourues par une particule. Alors, comme nous l’avons montré dans la section 4.2 cette définition n’a de sens physique que si  . De même, une particule massive ne peut se maintenir sur une trajectoire à r constant à l’intérieur de la sphère de Schwarzschild, ce qui entraînerait que   e long de cette ligne d’univers. 
+ 
+
+L’artefact des coordonnées de Kruskal.
+
+     Citons la dérivation « standard » de la prétendue solution de Schwarzschild, par exemple en citant les pages correspondance du chapitre 6 de l’ouvrage de la référence [18], datant de 1975. Page 186 l’équation (6.4) représente la forme la plus générale de la métrique, en l’absence de termes croisés. Le signe moins montre que les auteurs entendent, avec A , B , C ; D positifs, introduire d’emblée la signature  de la métrique. : 
+
+
+
+Fig.29 :  Extrait de la page 186 de la référence [18]
+
+    Mais dans les dernières lignes on lit « néanmoins, il est possible d’obtenir une simplification supplémentaire par un choix judicieux de coordonnée radiale ». 
+
+
+Fig. 30 : Extrait de la page 187 de la référence [18].
+
+
+    Et là, nous voyons, reproduit à l’identique, le raisonnement tenu par Hilbert dans son article de 1916, ce qui montre bien qu’il est à l’origine de cette distorsion de la véritable solution de Schwarzschild. Dans l’équation (6.9) les auteurs reprennent l’introduction, en 1939, de deux exponentielles par Tolman [16] et Oppenheimer [14]. Ils spécifient même que ces fonctions sont « intrinsèquement positives » et que « ces coordonnées ont un sens physique clair », alors que, justement, le fait d’attribuer un sens physique à des coordonnées de la première source d’erreur. 
+
+     Six pages plus loin, page 193,  figure le résultat de leur calcul : 
+
+
+
+
+Fig. 31 : Extrait de la page 193 de la référence [18].
+
+
+     Si ces fonctions exponentielles sont « intrinsèquement positives », alors la variable r ne peut être inférieure à 2m, sinon les grandeurs et correspondraient à : 
+
+(81)                           
+
+    En dépit de cette contradiction évidente D.Kruskal a construit un prolongement analytique , de manière à pouvoir construire une description de cet « intérieur de la sphère de Schwarzschild ( 0 < r < 2m ). Le lecteur trouvera la construction « standard » de ces nouvelles coordonnées u et v , ainsi que de la métrique qui en résulte, dans les pages 226 à 230 de la référence [18]. Nous ne reproduirons que les équations elles-mêmes. Nous avons d’abord les deux équations repérées par (6.91) dans l’ouvrage : 
+
+(82)                                                
+
+(83)                                                     
+
+    
+    A partir de ces relations il est établi en introduisant la grandeur intermédiaire  , l’équation (6.200) de la référence [18] montre que : 
+
+(84)                                                        
+
+
+
+     On lit alors, dans les équations (6.201) 
+
+
+
+
+
+
+
+(85) 
+
+
+
+On lit ensuite : 
+
+
+
+Fig. 32 : Extrait de la	 page 229 de la référence [18]. 
+
+     Le scalaire m étant réel,  l’est donc aussi 
+
+     Ceci conduit à l’expression finale des nouvelles variables, dans deux configurations.  
+
+(86)    r > 2m  :  
+
+
+
+
+(87)                                 
+
+Et
+(88)     r < 2m :
+
+
+Avec :
+(89)                               
+
+    La métrique prend alors la forme, équation (6.187) de la référence [18]: 
+
+(90)                         
+
+     Bien que cette métrique ne s’identifie pas avec la métrique de Lorentz à l’infini, quand on forme ds = 0 on a , voir l’équation (6.188) de la référence [18] : 
+
+(91)                                                              
+
+     Ci-après le célèbre diagramme de Kruskal : 
+
+
+
+Fig.33 : Diagramme de Kruskal
+
+    Si on suit ce diagramme, où toutes les quantités deviennent réelles, avec un ds réel on parvient donc à pénétrer « à l’intérieur de la sphère de Schwarzschild ». Les points se situant à r constant sont sur des hyperboles. Celle de droite se réfère à la valeur r = 4m. Le trajet A figure celui d’une particule dotée d’une masse, qui plonge vers la sphère de Schwarzschild. La demi-droite x° = 2m évoque la façon dont évolue le temps. Dans le système des coordonnées choisi cette masse atteint cette sphère en un temps infini, figure par le demi-droite v = u . Puis, en supposant que ce point-masse puisse pénétrer à l’intérieur de cette sphère, il poursuit sont chemin et atteint le point associée à une valeur nulle de r qui est une autre hyperbole accompagnée de hachures, qui est censée représenter « la singularité ». Un raisonnement similaire est associé à la trajectoire B. 
+  
+     Par un véritable coup de baguette magique, Kruskal semble avoir transformé une portion irréelle de la variété en quelque chose de réel, décrit par les équations (85) à (89). Mais il faut se souvenir que si avec des grandeurs réelles, comme les coordonnées d’espace-temps, on peut aboutir à une grandeur complexe ds, l’inverse est également possible. 
+
+     Il nous faut donc reprendre à rebours la démarche de Kruskal. Explicitons la relation (84) : 
+
+(92)                                                        
+
+     A l’intérieur de la sphère de Schwarzschild (83) nous indique que : 
+
+(93)                                                       
+
+     En combinant avec l’équation précédente ceci nous donne : 
+
+(94)                                                
+
+     Or l’exponentielle ne peut être négative que si l’exposant est complexe : 
+
+
+(95)                                           
+
+     Or tout le calcul a été basée sur l’hypothèse (82), qui débouche sur :
+
+(96)                   
+
+   Il y a donc une contradiction. Cette relation devient donc incohérente. Dans les deux membres d’une équation, l’un ne peut pas être réel et l’autre complexe. Ce prolongement analytique fait sens si on se situe dans le mode des complexes, mais n’a pas de sens dans celui de la physique, qui se situe dans le monde des réels. 
+
+
+
+L’interprétation d’Hermann Weyl ( 1917)
+
+     En 1915 Hermann Weyl a trente ans. Après avoir enseigné les mathématiques à l’université de Göttingen, où il s’est passionné pour les idées révolutionnaires introduites par Riemann et particulièrement pour les variétés hyperboliques, il trouve un poste à Zurich, à l’école polytechnique fédérale, où une chaire lui est offerte. Il rencontre alors Einstein et assimile rapidement les concepts de base de la relativité, restreinte, puis générale.  Découvrant la solution non linéaire exacte trouvée par Karl Schwarzschild il publie l’interprétation qu’il en donne en 1917 [19]. 
+
+
+
+Fig.34 : Hermann Weyl en 1915
+
+      Pour avoir accès à la version en allemand de cet article, publié il y a plus d’un siècle mais sur lequel la société Springer a posé un copyright, lors d’une republication en 2012 où figure également sa version traduite en anglais , il vous en coûtera 49  dollars, quelle que soit la version. Dans on article, à différence de celui de Hilbert, la lettre R est utilisée pour désigner le scalaire de Riemann : 
+
+
+
+Fig.35 : Dérivation de l’équation de champ par Weyl. 
+
+    La première équation montre que Weyl  a immédiatement intégré la technique de dérivation de l’équation de champ par méthode variationnelle, avec introduction du tenseur de Ricci et du scalaire R qui en dérive. En bas, on voit apparaître l’équation de champ à laquelle Einstein donnera son nom, sous la forme (équivalente à cette de sa publication du 25 novembre 1916 [4]) que lui connaissent les étudiants d’aujourd’hui. La première chose que fait Weyl est de rappeler l’inégalité qui confère aux solution un caractère physique : 
+
+
+Fig.36 : La mesure de longueur, selon H.Weyl [21].
+
+
+    Comme Schwarzschild, il est parfaitement clair dans le choix de ses coordonnées Gaussiennes . L’espace-temps est donc feuilletable à l’aide d’une suite d’hypersurfaces à trois dimensions, invariantes par rapport au temps x4. Le problème est donc de construire cette hypersurface stationnaire à trois dimensions, décrite par les coordonnées  et définie par son élément de longueur  en accord avec : 
+(97)                                                    
+    Si on fait une comparaison des choix opérés par Weyl avec l’approche de Schwarzschild, celui-ci mène son calcul avec une coordonnée r qui est en fait sa grandeur intermédiaire R. Il calcule la fonction f ainsi que les expressions des trois autres potentiels métriques. 
+
+ Fig.37 : Résultat du calcul du potentiel   [21].
+ Comme Schwarzschild il fait apparaître ce qu’il appelle le rayon gravitationnel associé à une masse m.  Sa métrique se résume à : 
+(98)         
+Avec l’hypersurface 3D définie par la métrique : 
+(99)                                        
+   Mais Weyl n’a pas la naïveté d’envisager que cette solution puisse avoir un sens physique pour r < 2a, où l’élément de longueur cesserait d’être réel. Cette variable r (qui n’est pas la même que celle du papier de Schwarzschild) correspond à un rayon vecteur de coordonnées . C’est une hypersurface à 3 dimensions dont on sait qu’elle « n’existe » que pour r > 2a. Weyl va donc pousser plus loin, pour percer le secret de sa géométrie, et plus précisément de sa topologie. Sur ces trois coordonnées d’espace il peut toujours en supprimer une. Il écrit donc : 
+
+
+Fig. 38 : L’analyse de la topologie de l’hypersurface 3D par Weyl
+
+Il écrit ainsi : 
+De manière à déterminer la géométrie qui est caractérisée par la forme de la métrique donnant   , nous allons projeter dans un plan correspondant à  . Si nous introduisons les coordonnées polaires : 
+
+
+     Ce qui lui donne : 
+
+    Dans ce qui suit, il fait exactement ce que nous avons fait pour le diabolo 3D, c’est à dire qu’il fixe l’angle  pour déterminer l’équation de la méridienne, ce qui lui donne l’équation différentielle : 
+(100)                                                  
+     Dont la solution est : 
+(101)                     ou   
+       On retrouve l’équation(19) de la parabole couchée. L’hypersurface est donc un « diabolo 3D » qui est la projection de l’hypersurface 3D dans un espace Euclidien . Et Weyl poursuit : 
+
+Die projektion bedekt das äubere doppelt Cette projection couvre deux fois (doppelt : doublement) la partie de l’espace , das innere überhaupt nicht : mais ce revêtement (3D) de couvre en aucun cas la portion d’espace  . BeI natürlicher analytischer Fortsetzung wird also der wirkliche Raum in dem zur Darstellung benuntzen Koordinaten der xi das durch  gekennziechnete Gebeit dopplet überdecken :  Dans un prolongement analytique naturel, l'espace réel dans les coordonnées utilisées pour la représentation de la coordonnée xi du point correspondent deux points de l’hypersurface 3D.  Sur cette sphère de rayon 2a, qui fait la jonction entre ces deux revêtements, se situe la masse. 
+
+    Là on voit poindre une idée tout à fait extraordinaire, assimilant les masses à des singularités topologiques. On se rappellera que la topologie, à cette époque, est en train de naître en tant que discipline mathématique. Les surfaces fermées régulières 2D sont au nombre de quatre. On a la sphère, le tore, puis la bouteille de Klein et la surface de Boy.   Précisons que Félix Klein invente sa bouteille en 1882, tandis que Werner Boy, élève de Hilbert,  créera sa propre surface en 1902. Comme Schwarzschild ce dernier s’engage à 35 ans, dès l’entrée en guerre de l’Allemagne, en juillet 1914  et est tué en France, où il repose, en septembre de la même année. 
+    Weyl (qui s’est aussi engagé, mais a été renvoyé à la vie civile pour raison de santé) poursuit son analyse de l’hypersurface 3D. Il est ainsi le premier à introduire la forme isotrope de la métrique. 
+
+Fig. 39 : Forme isotrope de la métrique de Schwarzschild
+    Sa variable r n’est pas la précédente. Sa formule (12) correspond  à l’équation (6.69) de la référence [18]. La dernière expression représente le coefficient de dilatation linéaire (lineare Vergröberungsverhältnis). 
+     Il est clair que Weyl a parfaitement intégré le fait que les diverses coordonnées ne sont que des représentations des objets définis par leur métrique et que le seul objet doté d’une réalité intrinsèque (invariant par tout changement de coordonnées) est l’élément de longueur s . Ces choix successifs permettent de découvrir leur topologie. Ainsi, en 1917 est le premier à découvrir que la géométrie découverte par Schwarzschild est non-contractile. 
+
+La P-symétrie qui accompagne le passage de la sphère de gorge. 
+     Weyl crée donc ce concept d’espace de représentation et de revêtement à deux feuillets d’une variété. Les points homologues de ces  deux feuillets quadridimensionnels peuvent donc être repérés à l’aide des mêmes coordonnées xi. On peut considérer quatre points au voisinage d’un point de coordonnées xi qui forment un tétraèdre  constitué par quatre triangles équilatéraux ayant deux sommets communs. On peut définir une orientation positive en définissant un sens de parcours de ces triangles, considéré comme positif. Celui-ci définit un vecteur normal. La figure suivante montre ce qu’il advient de cet ensemble de points lorsqu’ils franchissent la sphère de gorge. Le tétraèdre doté d’arêtes noires est censé appartenir à une des deux nappes tridimensionnelles de l’objet. Soit une de ses faces ABC, le sens de parcours positif, arbitraire, étant indiqué par des flèches. Le tétraèdre aux arêtes grisées A’B’C’ appartient à l’autre nappe. Si on amène ces deux objets en coïncidence on pourra constater que les deux de parcours sont inverses l’un de l’autre.
+  
+
+
+Fig.40 : Inversion de l’orientation d’un tétraèdre après franchissement de la sphère de gorge
+      On en déduit que tout objet franchissant la sphère de gorge de la géométrie de Schwarzschild subit une P-symétrie
+
+Temps de chute libre ou d’évasion dans la géométrie de Schwarzschild. 
+      Le modèle du trou noir est basé sur le complet découplage du temps propre d’objets accompagnant le phénomène d’implosion que cette géométrie est censée décrire et le temps propre d’un observateurs situé à l’infini, observant le phénomène, qui pour lui est censé durer un temps infini. Considérons des trajectoires radiales. On a (en gardant la notation de Schwarzschild )  : 
+(102)                 
+     Les équations de Lagrange donnent : 
+(103)                                                        
+ (104)                                                    
+    
+     L’intégration donne le schéma  
+
+
+
+Fig. 41 : Temps de chute libre
+
+     La particule témoin atteint la sphère de gorge en un temps fini, en terme de temps propre, mais ce parcours correspond à un temps infini pour un observateur distant. 
+
+La métrique de Kerr. 
+     En 1963 Roy Kerr construit la solution de l’équation d’Einstein sans second membre [20], décrivant une portion d’espace vide, invariant par translation temporelle et par action du groupe O(2). 
+(105)
+
+   
+  Le paramètre a chiffre l’importance de la rotation. S’il est nul on retrouve la métrique de Schwarzschild. Dans le plan cette métrique devient : 
+
+(106)
+
+     Considérons deux rayons de lumière émis tangentiellement à une trajectoire à  constant : 
+(107)      
+     La vitesse de la lumière prend alors deux valeurs différentes, selon la direction de l’émission : 
+(108)                          
+       Ce phénomène est classiquement interprété comme un phénomène d’entraînement du système de coordonnées (frame-dragging) et n’est pas sans évoquer l’idée d’Ernst Mach selon laquelle la matière et l’espace seraient étroitement liées. Ces deux valeurs de la vitesse des photons est lié à la présence d’un terme croisé  en  . La présence dans la solution stationnaire d’un terme croisé en  a été envisagée en 1916 par le Hollandais J. Droste [21], mais rejetée aussitôt par cet auteur car considérée comme non physique.  
+    Faisons une courte digression. Droste, élève de Lorentz,  présente ce travail le 27 mai 1916, il a trente ans. 
+
+Fig.42 : Johannes Droste (1886-1963)
+
+     Il part des mêmes hypothèses que Schwarzschild, et voici son résultat :
+
+Fig.43 : Métrique de Droste
+    Résultat identique à celui de Schwarzchild. Dans cet article très complet, tout est explicité. Les expressions des géodésiques et le reste. Par la suite Droste dira que lors qu’il avait présenté son papier, il ignorait que Schwarzschild venait de résoudre ce problème trois mois plus tôt. 
+     Mais revenons au travail de Roy Kerr : 
+    Dans la mesure où on admet dans sa solution la présence d’un frame-dragging azimutal, qu’obtient-on si on envisage dans une solution invariante par action de O(3) un frame-dragging radial. Cela se traduit par la présence d’un terme croisé en  En conservant les notations de Schwarzschid, ceci correspond à la métrique d’Eddington-Finkelstein, qui se déduit de la métrique de Schwarzschild par le changement de variable : 
+(109)                                     
+  Ce qui donne :
+(110)     
+
+     Cette situation a été récemment étudiée dans [22]. Le temps de transit le long d’une trajectoire radiale devient : 
+(111)    :  trajectoire centripète ;   :  trajectoire centrifuge
+                       
+     Pour des trajectoires radiales ( h = 0 ) 
+(112)
+
+     Quand R tend vers Rs , cette contribution du temps devient infini si 
+     Dans ces conditions : 
+(113)                                                
+   Il est donc possible de coupler deux solutions métriques, deux nappes se raccordant selon la sphère de gorge, jouant alors le rôle de one-way membrane, de surface que les masses ne peuvent traverser que dans un seul sens. Considérons le couple de métriques ci-après. Dans la première les masses ne peuvent qu’entrer dans la sphère de gorge, en un temps bref, mais ne peuvent en émerger qu’en un temps infini, ce qui équivaut à une impossibilité.  Situation inverse vis à vis de la seconde nappe, définie par la métrique (91). Globalement le transit, avec entrée dans la première nappe et émergence dans la seconde, s’effectue en un temps fini. Le transit inverse est impossible. 
+ (114) 
+(115) 
+     Une étoile en implosion verrait ainsi sa masse transférée dans une seconde nappe, selon un temps fini. 
+
+Epilogue. 
+    Francfort est la ville natale de Karl Schwarzschild. Chaque année se tient à l’Advanced Studies Institute de Francfort un « colloque Schwarzschild », consacré aux questions de cosmologie et d’astrophysique. En 2017 les organisateurs du colloque avaient invité le cosmologiste Argentin Juan Malcadena, en poste à l’Advanced Studies Institute de Princeton, Etats-Unis. Celui-ci débuta sa conférence, consacrée au dernières avancées dans le domaine de le thermodynamique des trous noirs en disant. 
+En 1916, quand Karl Schwarzschild publia son article, la communauté scientifique dut passer un certain temps avant que certains points soient éclaircis. Aujourd’hui ces problèmes ont été bien maîtrisés. 
+
+     Pour montrer la façon donc la communauté des spécialistes perçoit ces questions, depuis les années soixante, le plus simple est de reproduire l’interprétation main stream telle qu’elle se présente dans la page 223 de la référence [18], et qui traduit un consensus unanime au sein de la communauté des cosmologistes d’aujourd’hui, et des partisans du modèle de Trou Noir. 
+
+
+Fig.44 : Interprétation standard de la métrique de Schwarzschild
+
+Traduction : 
+La solution de Schwarzschild et ses Conséquences.
+
+6.8 Le rayon de Schwarzschild, les coordonnées de Kruskal et le Trou Noir. 
+Nous avons remarqué dans l’expression (5.3) de la métrique de Schwarzsvchild une singularité apparaît en r = 2m, au rayon de Schwarzschild ; en ce point le potentiel métrique  devient infini, alors que le potentiel  devient nul. Du fait que  est nul, la sphère de Schwarzschild r = 2m est une surface avec un redshift infini, si on se base sur notre discussion des sections 4.2 et 4.4.  Ainsi comme la longueur d’onde de la lumière émise par cette surface subit un redshift infini, la fréquence du signal perçu à une un observateur distance sous une fréquence nulle, ce qui fait que nul atome ne peut être observé. 
+   Quand r devient inférieur à 2m, les signes des composants de la métrique  et changent ,  devenant positif et  négatif. Ceci nous contraint à reconsidérer la signification physique  de t et de r en tant qu’indicateurs du temps et du rayon ( !?…) à l’intérieur ( ?...) de la sphère de Schwarzschild. En fait, une ligne d’univers ( ? …) le long de l’axe du temps,  c’est à dire à  correspond alors à ds2 < 0 . C’est donc une courbe du genre espace. Mais si on chemine le long de l’axe r ( !?!...) on a ds2 > 0, c’est une courbe du genre temps. Il apparaîtra ainsi naturel de réinterpréter r comme une coordonnée de temps et t comme un indicateur de rayon, vis à vis des évènements survenant à l’intérieur de la sphère de Schwarzschild.  ( n’importe quoi ! …). Ceci étant fait nous pouvons interpréter ds/c comme le temps propre le long de la ligne d’univers d’une particule car, comme nous l’avons vu à la section 4.2 ds2 doit être positif tout au long. Ainsi une particule dotée de masse ne saurait rester à r constant à l’intérieur de la sphère de Schwarzschild puisque ceci impliquerait que soit négatif de long de celle ligne d’univers. 
+
+
+Références :
+[1] D.Hilbert. Die Grundlagen der Physik (Esrte Mitteilung). Nachrichten von der Gesellschaft   der Wissenschaften zu Göttingen. Mathematisch-ohysikalische Klasse. (1915) 395-407.  
+English translation : The foundations of Physics (first communication). English translation. Boston Series in Philosophy and Science. Copyright Springer, Vol.250  2007 ( 29$95 ) 
+https://link.springer.com/chapter/10.1007/978-1-4020-4000-9_44
+[2] D.Hilbert. Die Grundlagen der Physik (Esrte Mitteilung). Nachrochten von der Gesellschaft   der Wissenschaften zu Göttingen. Mathematisch-ohysikalische Klasse. (1916) 
+English translation : The foundations of Physics (second communication). English translation. Boston Series in Philosophy and Science. Copyright Springer, Vol.250  2007 ( 29$95 ) 
+https://link.springer.com/chapter/10.1007%2F978-1-4020-4000-9_45
+[3] Tilman Sauer : The Relativity Discovery : Hilbert’s First Note on Foundations of Physis. See page 48. Correspondance Einstein-Hilbert au jour le jour. Page 48 https://arxiv.org/pdf/physics/9811050.pdf
+[4] A. Einstein : Die Feldgleichungen des Gravitation ( The Field Equation of Gravitation). Sitzungsber. XLIV , 8 , 778 and XLVI s. 799 (25 nov 1915)
+[5] A.Einstein : Erlklärung der Perihelbeweggung des Merkur aus allgemeinen Relarivitätstheorie. Königlish Preubische Akademie der Wissenschaften (Berlin) ? Sitzungberichet (25 nov. 1915) p. 831-838
+[6] K. Schwarzschild : Über das Gravitationsfeld Messenpunktes nach der Einsteinschen Theorie. Sitzungsberichte der Königlich Preubischen Akademie der Wissenschaften p. 189-196. jan 1916
+English translation by S.Antoci and A.Loinger. On the gravitational field of a mass point according to Einstein theory. arXiv :physics/9912033v1 [physics.hist-ph] 16 dec 1999. 
+Traduction française à partir de la version allemande par H.Traccard :
+http://www.jp-petit.org/papers/cosmo/1916-Schwarzschild-fr.pdf
+
+[7] L.S.Abrams : Black Hole : the Legacy of Hilbert’s Error. Can. Jr. Phys. 67 , 9191 (1989).  arXiv : gr-qc/01205055v1/13 feb 2001
+[8]    A.Loinger : The Black holes do not exist « Also sprach Karl Schawarzschild » (« Ainsi parlait Karl Schwarzschild »). arXiv :physics/9905030  may 1999nb
+[9]   S.Antoci and D.E. Liebscher : Reconsidering Schwarzschild original solution. Astronomische Nachrichten 322 (2001), 3, 137-174
+[10]  S.Antoci and D.E. Liebscher : The Topology of Schwarzschild Original Solution. arXiv : gr-qc/0308005v3  26 sept 2005.
+[11] S.Antoci . David Hilbert and the origin of the Schwarzschild Solution. (2003)
+https/arxiv.org/abs/physics/0310104 
+[12] A.A.Vankov : Explanation of the Perihelion of Mercury From General Relativity ». Gen.Sc.Jr. Researchgate.net. (2021)
+[13] J.P.Petit & G.D’Agostini : Cancellation of the singularity of the Schwarzschild solution with natural mass inversion process. Mod. Phys. Lett. A vol. 30 n°9  (2015). arXiv : gr-qc/2103.12845/13 feb 2001( 23 March 2021)
+[14] J.R.Oppenheimer and H.Snyder : On Continued Gravitational Contraction. Phys. Rev. Vol. 56 pp 455-459 sept 1939
+https://journals.aps.org/pr/pdf/10.1103/PhysRev.56.455
+[15] M.D Kruskal : Maximal extension of Schwarzschild metric. Phys. Rev. 119, 1734 (1° sept 1060). 
+[16] R.C.Tolman :  Static Solutions of Einstein’s field equation for a sphere of fluid. Phys. Rev. 1939 nol.55 ( 15feb. 1939) https://authors.library.caltech.edu/4362/1/TOLpr39.pdf
+[17] K.Schwarzschild : Über das Gravitationsfeld einer Kugel aus incompressibler Flüssigkeit nach der Einsteinschen Theorie. Sitzund der Phys. Math. Klasse V.24 24 Februar 1916
+[18] R.Adler, M.Bazin, M.Schiffer : Introduction to General Relativity, Mc Graw Hill Books Cie, 1975. http://www.jp-petit.org/books/asb.pdf
+[19] H.Weyl : Zu Gravitationstherie. Annalen der physik, Vol.35 n° 18 (1917) https://onlinelibrary.wiley.com/doi/epdf/10.1002/andp.19173591804 : 49 $
+On the Theory of Gravitation. Reprinted in Gen. Relat. And Gravit. Vol. 44 pp 779-810  (2012).
+ https://link.springer.com/article/10.1007%2Fs10714-011-1310-7 : 49 $
+[20] R.P.Kerr (1963) Gravitational Field of a Spinning Body as an Example of Argebraic Special Metrics. Phys. Rev.Letters 11 ; 237
+[21] J Droste : The Field of a Single Centre in Einstein’s Theory of Gravitation and the Motion of a Particle in that Field. Royal Netherland Academy of Arts and Sciences (KNAW) Proc. 19 I , Amsterdam 1917 pp.197-215. 
+[22] P.Koiran : Infall Time in the  Eddington-Finkelstein Metric, with Application do Eddigton-Rosen Bridges.  Inter. Jr. of Mod. Phys. D, 14 aug. 2021,  to be published.  https://arxiv.org/abs/2110.05938
+[23] A.Eddington : A Comparizon of Withehead’sand Einstein’s formulae. Nature 113-192, 1924
+[24] D.Finkelstein : Pst-Future asymetry of the gravitational field od a point particle. Phys. Rev. 110(4) : 956-967, 1958
+[25] S.Bondarenko : Negative mass Scenario and Schwarzschild Spacetime in General Relativity. Od. Phys. Lett. A Vol.34 n°11 (2019). https://arxiv.org/pdf/1807.07412.pdf

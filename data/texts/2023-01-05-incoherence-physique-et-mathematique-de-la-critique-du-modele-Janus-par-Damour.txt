@@ -1,0 +1,992 @@
+1	
+
+par	T.Damour		
+
+	
+5	janvier	2023.	
+J.P.Petit	:	Incohérence	mathématique	et	physique	de	la	critique	du	modèle	Janus	
+	
+A	propos	de	la	construction	d’un	modèle	bimétrique	:		
+					ll	y	a	eu	trois	essais	,	qui	présentent	des	différences	fondamentales.		
+					Commençons	par	celui	de	2002,	où	Damour	et	Kogan	imaginent	N	«	branes	en	
+interaction	»,	en	se	fondant	sur	le	concept	de	WCW	(weakly	connected	worlds).	Une	
+démarche	qui	se	présente	d’emblée	comme	«	universelle	»	et	«	non	linéaire	».		
+					Rapidement,	les	auteurs	limitent	leurs	ambitions	en	proposant	un	modèle	à	deux	
+branes,	reliées	par	des	«	gravitons	»	dotés	de	masses,	lesquelles	forment	un	«	spectre	de	
+masses	».	Ils	se	fondent	ensuite	sur	un	travail,	dont	ils	sont	les	auteurs,	où	ils	disent	avoir	
+montré	l’existence	d’un	«	gap	»	entre	«	les	gravitons	légers	»	et	«	les	gravitons	lourds	»	:		
+	
+
+	
+						A	cet	effet	ils	décident	de	se	limiter	«	aux	gravitons	légers	»,	puis	à	«	un	seul	graviton	
+doté	d’une	masse.	Leur	travail	s’inscrit	donc	dans	le	cadre	général	d’une	«	massive	
+gravity	»	et	devient	la	première	pierre	de	ce	qu’ils	qualifient	de	«	massive	bigravity	».	
+						Comme	il	y	a	deux	branes,	deux	entités	géométriques,	celles-ci	ont	leurs	propres	
+métriques	notées	«	L	»	pour	«	Left	»	et	«	R	»	pour	«	Right	».	On	peut	qualifier	cette	
+structure	de	bi-géométrie.		
+							Le	point	de	départ	consiste,	en	s’inspirant	de	l’action	de	Einstein-Hilbert,	à	partir	d’une	
+action	S.		
+							Commençons	par	un	retour	sur	la	dérivation	Lagrangienne	d’Einstein-Hilbert.		
+L’action	s’écrit		:	
+	
+1	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+2	
+
+	
+					Où	on	trouve	l’hypervolume	élémentaire	:	
+Ainsi	que	la	densité	Lagrangienne	:		
+			La	métrique	est	implicitement	contenue	dans	le	scalaire	de	Ricci	R,	qui	s’en	déduit.	L’idée	
+est	d’utiliser	une	technique	variationnelle		pour	faire	émerger	la	contrainte	qui	s’imposera	
+sur	la	métrique,	appartenant	à	un	espace	fonctionnel	des	métriques	riemaniennes	
+hyperboliques		:		
+Explicitée	:	
+					D’où	l’équation	à	laquelle	la	métrique	doit	obéir,	à	travers	sa	présence	implicite	dans	le	
+tenseur	et	le	scalaire	de	Ricci	:	
+					A	partir	de	solutions	de	cette	équation	on	pourra	construire	les	familles	de	géodésiques	
+de	longueur	non-nulle,	dont	on	suppose	qu’elles	représentent	les	chemins	suivis	par	les	
+particules	de	matière	et	où	les	géodésiques	de	longueur	nulle	sont	les	chemin	suivis	par	
+les	photons.	D’où	ce	lien	entre	géométrie	et	physique.		
+						Dans	une	bi-géométrique	on	a	cette	fois	un	couple	de	métriques	:		
+(	gL	,	gR	)	
+						Or	il	n’existe	pas	the	théorie	mathématique	générale	de	bi-géométries	riemaniennes	
+hyperboliques,	où	les	deux	métriques	appartiennent	à	cet	espace	fonctionnel	.	
+					à	Un	jour	un	mathématicien	créera	cette	théorie	en	indiquant	avec	précision	comment	
+construire	l’approche	Lagrangienne	permettant	de	déboucher	sur	des	équations	
+tensorielles,	d’où	les	métriques-solutions	pourront	être	extraites.		
+						Tous	ceux	qui	tentent	de	construire	ce	genre	de	bi-géométries	sont	donc	semblables	à	
+des	cuisiniers	qui	choisissent	de	mettre	tel	ou	tel	ingrédient	dans	leurs	plats.		
+				Ainsi	Damour	et	Kogan	proposent-ils	cette	expression	de	l’action	:		
+	
+
+Mais	pour	le	moment	cette	théorie	mathématique	n’existe	pas.	
+
+Cette	démarche	reste	donc	essentiellement	heuristique.	
+
+2	
+
+	
+
+	
+
+3	
+
+	
+
+	
+
+	
+
+				On	y	trouve	les	hypervolumes	élémentaires	:		
+					Ainsi	que	les	scalaires	de	Ricci	construits	à	partir	des	deux	métriques	:	
+					Quand	émergera	la	théorie	mathématique	de	ces	bi-géométries	on	peut	penser	que	les	
+actions	dont	elles	dériveront	comporteront	parmi	leurs	composantes	des	termes		
+composés	avec	les	scalaires	de	Ricci,		ainsi	que	des	termes	liés	aux	deux	matières	L	et	R	,	
+ceci	n’étant	que	la	traduction	de	l’hypothèse	selon	laquelle	les	deux	hypersurfaces	voient	
+leur	propre	géométrie	partiellement	déterminées	par	leur	propre	matière.		
+				Il	reste	à	traduire	l’interaction	entre	ces	deux	entités	et	c’est	là	qu’on	est	dans	une	
+démarche	totalement	heuristique.	Ceci	signifiant	qu’on	fait	telle	ou	telle	hypothèse,	en	
+invoquant,	pour	une	justification	à	posteriori,	le	fait	que	cela	engendre	des	éléments	
+s’accordant	avec	telle	ou	telle	donnée	observationnelle.		
+				Damour	et	Kogan	introduisent	dans	leur	action	un	terme	d’interaction.	Ci-après	
+«	sous		sa	forme	la	plus	générale	»	dans	un	modèle	à	N	branes		:		
+					Où	µ	est	une	constante.	En	limitant	leur	modèle	à	deux	branes.		
+	
+Les	auteurs	choisissent	alors	de	donner	à	cette	fonction	la	forme	:	
+	
+où	apparaît	ce	qu’ils	qualifient	de	«	average	volume	factor	».		
+						C’est	une	contribution	totalement	heuristique,	qui	ne	s’appuie	sur	aucun	élément	de	
+géométrie	différentielle.		 Mais,	finalement,	pourquoi	pas	?	
+	
+3	
+
+	
+
+	
+
+	
+
+4	
+	
+					Cette	stratégie	permettra	d’opérer	une	«	bi-variation	»	en	dérivant	tous	les	termes	
+situés	dans	l’intégrale,	et	en	obtenant	:		
+	
+					Ceci	conduisant	au	système	d’équations	de	champ	couplées	:		
+Dans	l’article	de	Damour	et	Kogan	les	équations	qui	en	résultent	sont	:		
+
+A	=	0	
+B	=	0	
+
+								On	retrouve	des	premiers	membres	analogues	à	celui	de	l’équation	d’Einstein,	qui	
+découlent	de	la	présence	des	scalaires	de	Ricci	dans	l’action.	Le	terme	d’interaction	
+présenté	plus	haut	engendre	deux	tenseurs	d’interaction.		Ceux-ci	doivent	satisfaire	les	
+conditions	de	Bianchi.	Tout	cela	est	dit.	Hélas,	au	terme	d’un	article	de	40	pages	les	auteurs	
+tentent	de	donner	forme	à	leur	essai	en	faisant	le	tour	de	différents	modèles,	«modèle	des	
+branes	»,	«	modèle	de	Kaluza	Klein	»,	«	Géométrie	non	commutative	».		
+à	Dans	la	section	conclusion	de	l’article	on	ne	trouve	aucun	élément	susceptible	d’une	
+quelconque	confrontation	avec	une	donnée	observationnelle.		
+					Après	cet	essai	de	2002	on	trouve	l’article	publié	en	2008	par	l’Allemande	Sabine	
+Hossenfelder	dans	la	même	revue	Physical	Review	D.		
+						Je	ne	peux	que	regretter	que	Mr.	Damour	n’ait	pas	produit	son	analyse	de	cet	article,	
+d’un	abord	ardu,	où	elle	introduit	des	outils	mathématiques	qu’elle	qualifie	de	«	Pull-
+overs	»	
+					Elle	part	de	l’action	ci-après	:		
+
+A	Bimetric	Theory	with	Exchange	Symmetry1	
+
+	
+
+1	S.	Hossenfelder	:	A	bimetric	Theory	with	Exchange	Symmetry.	Phys.	Rev.	D78,	044015,	
+2008	and	arXiv	:	0807.2838v1	(gr-qc)17	july	2008	
+	
+4	
+
+	
+
+	
+
+	
+					Il	faut	rajouter	des	crochets,	sans	quoi	cette	expression	est	incorrecte2.		
+
+5	
+
+	
+					On	note	que	son	action	se	présente	en	deux	éléments	séparés.	Ce	qui	suggère	:		
+S	=	S(g)	+	S(h)	
+						Chaque	hypersurface	voyant	sa	géométrie	déterminée	par	sa	propre	action.	La	
+technique	variationnelle	équivaut	alors	à	:	
+dS(g)	=	0	
+	dS(h)	=	0	
+					C’est	donc	différent	de	l’approche	pratiquée	par	T.Damour	et	I.Kogan.	Cette	approche	
+est-elle	plus	ou	moins	rigoureuse,	plus	ou	moins	conforme	?		
+Conforme	par	rapport	à	quelle	théorie	mathématique	rigoureuse	?	
+				C’est-à-dire	indiquant	la	marche	à	suivre	pour	construire	ce	genre	de		bi-géométrie	
+riemanienne.		
+					Revenons	à	l’approche	de	Sabine	Hossenfelder.	Comme	ces	deux	variations	
+déboucheront	sur	quelque	chose	du	genre	:		
+
+Il	n’existe	pas	de	méthode	mathématique	qui	indique	comment	procéder.	
+
+	
+
+un	lien	fonctionnel	entre	les	deux	éléments	des	métrique	g	et	h.	
+
+il	devient	indispensable	de	se	donner	:		
+	
+	
+donc	simplement	du	fait	que	l’approche	est	différente.		
+								Entre	ces	deux	façons	de	procéder,	laquelle	s’imposera	comme	étant	«	la	bonne	»	?	
+Seul	le	mathématicien	qui	réussira	à	construire	la	théorie	des	bi-géométries	pourra	
+répondre.	Pour	le	moment	on	ne	peut	que	considérer	qu’il	s’agit	de	deux	stratégies	
+2	Confirmé	par	S.Hossenfelder.	Communication	privée.		
+	
+5	
+
+àCette	façon	de	faire,	qualifiée	d’erreur	dans	T.Damour	dans	son	article,	découle	
+
+	
+
+	
+
+A	propos	de	l’incohérence	physique	et	mathématique	du	modèle	Janus.		
+
+6	
+	
+heuristiques,	qui	en	l’état	ne	peuvent	trouver	leur	justification	que	dans	une	confrontation	
+avec	des	données	observationnelles.		
+						Le	lien	fonctionnel	introduit	par	Sabine	Hossenfelder	est	:		
+				Dans	notre	article3	de	2015	nous	avons	en	quelque	sorte	présenté	la	version	non	
+covariante	de	cette	construction4.	Par	rapport	aux	deux	approches	précédentes,	la	nôtre	
+a	pour	intérêt	d’offrir	plus	d’une	douzaine	de	confirmations	observationnelles,	ce	qui	
+inciterait	à	ne	pas	la	rejeter	d’emblée.		
+	
+		à			A	ce	stade	il	est	indispensable	de	reprendre,	dès	son	début,	la	genèse	de	ce	modèle	
+Janus	qui	comporte	de	nouveaux	«	tenants	»	et	aboutissants	».		
+Tout	part	des	travaux	d’Andréi	Sakharov,	de	19675.	
+						Depuis	que	les	astrophysiciens	ont	eu	confirmation	du	modèle	du	Big	Bang,	avec	la	
+découverte	du	fond	de	rayonnement	à	2.7°K	il	a	subsisté	deux	questions,	à	ce	jour	toujours	
+sans	réponse	:		
+-  Pourquoi	l’ensemble	des	couples	matière-antimatière	n’a-t-il	pas	donné	lieu	à	une	
+-  Corollaire	:	qu’est	devenu	l’équivalent	en	antimatière	primordiale	?		
+	
+						En	1967	Andréi	Sakharov	suggère	l’existence	d’un	«	univers-jumeau	»,	symétrique	du	
+nôtre,	n’étant	relié	au	nôtre	que	par	la	singularité	Big	Bang,	où	la	synthèse	d’antimatière	
+à	partir	des	antiquarks	auraient	été	légèrement	plus	rapide	que	celle	de	la	matière	à	partir	
+des	quarks.	Situation	inverse	dans	l’univers	de	matière.	Il	suggère	en	outre	que	ces	deux	
+univers	soient	liés	par	une	PT-symétrie.		
+						N’importe	qui	peut	remarquer	à	quel	point	toutes	les	équations	de	notre	physique	font	
+montre	de	cette	PT-symétrie,	de	cette	symétrie	d’espace	et	de	temps6.		
+	
+3	J.P.Petit	&	G.D’Agostini	:	Lagrangian	derivation	of	the	two	coupled	field	equations	in	the	
+Janus	Cosmological	Model.	Astrophysics	and	Space	Science	2015,	357	:67	
+4	La	question	de	cet	impératif	de	respect	de	la	covariance	sera	discutée	plus	loin.		
+5 A.D.Sakharov,	ZhETF	Pis’ma	5	:	32	;	JETP	Lett.	5	:	24	(	1967	)	
+A.D.Sakharov	,	(1980).	Cosmological	Model	of	the	Universe	with	a	Time	Vector	
+Inversion.	ZhETF	(Tr.	JETP	52,	349-351)	(79):	689–693	
+6	Au-delà,	elles	sont	CPT-invariantes.	En	physique	non	quantique	la	symétrie	C	est	
+l’inversion	du	signe	de	la	densité	de	charge	électrique,	tandis	que	la	symétrie	P	se	traduit	
+par	l’inversion	du	produit	vectoriel,	découlant	de	l’énantiomorphie.		
+	
+6	
+
+totale	 annihilation	?	 Pourquoi	 cette	 survivance	 de	 particules	 de	 masse	 positive,	 à	
+raison	d’une	sur	un	milliard	?	
+	
+
+	
+
+7	
+	
+						Interpellé	par	ces	travaux	de	Sakharov	je	les	traduis	à	l’aide	de	deux	équations	de	
+Vlasov	couplées	par	l‘équation	de	Poisson,	le	tout	géré	par	une	technique	matricielle.	Ce	
+travail	ayant	intéressé	le	mathématicien	et	académicien	André	Lichnérowicz,	celui-ci	
+présente	pour	moi	deux	comptes	rendus,	à	l’Académie	des	Sciences	de	Paris	dès	19777.		
+							Par	rapport	à	Sakharov,	en	couplant	les	deux	équations	de	Vlasov		avec	l’équation	de	
+Poisson,	j’introduis	d’emblée	l’idée	que	ces	deux	univers	puissent	interagir	à	travers	la	
+							L’image	didactique	2D	du	modèle	de	Sakharov	est	celle	d’un	sablier,	où	deux	nappes	
+son	reliées	par	une	singularité.		
+	
+
+gravité.		
+
+	
+
+								Mes	échanges	avec	le	mathématicien	Bernard	Morin	suggèrent	une	géométrie	
+permettant	aux	deux	nappes	interagir	:	celles	d’une	sphère	S4	configurée	en	revêtement	
+d’un	projectif	P4.	L’image	didactique	2D	étant	la	configuration	d’une	sphère	S2	en	
+revêtement	un	projectif	P28.		
+	
+
+	
+
+	
+
+	
+
+	
+7	J.	P.	Petit,	Univers	Énantiomorphes	à	flèches	du	temps	opposées,	CRAS	du	8	mai	t.285,	
+pp.	1217–1221	(1977).	
+J.	P.	Petit,	Univers	en	interaction	avec	leur	image	dans	le	miroir	du	temps,	CRAS	du6	juin,	
+t.	284,	série	A,	pp.	1413–1416	(1977).	
+8	Illustrée	par	la	surface	découverte	en	1905	par	Werner	Boy,	élève	de	Hilbert.	Dans	ce	
+cas	les	singularités	Big	Bang	et	Big	Crunch	son	amenée	en	coïncidence.	Si	on	remplace	
+cette	singularité	par	un	passage	tubulaire	on	passe	au	revêtement	d’un	tore,	exempt	
+alors	de	toute	singularité.		
+	
+
+7	
+
+8	
+	
+			Autre	apport	:	l’exploitation	du	théorème	de	Souriau	liant	l’inversion	de	la	coordonnée	
+de	temps	à	l’inversion	de	l’énergie	et	de	la	masse9.		
+	
+1	-	A	ce	stade	le	paradoxe	de	la	non-détection	de	l’antimatière	primordiale	se	
+trouve	levé.	On	ne	détecte	pas	celle-ci	parce	qu’ayant	une	masse	et	une	énergie	
+négative,	elle	émet	des	photons	d’énergie	négative	que	nous	télescopes	ne	
+peuvent	capter.		
+	
+2	–	Cette	antimatière	d’énergie	négative	se	présente	également	d’emblée	
+comme	susceptible	de	constituer	ce	qu’on	désigne	actuellement	sous	
+l’appellation	d’énergie	noire,	qui	est	en	fait	négative.		
+						Toujours	dans	une	démarche	100	%	heuristique	j’entreprends,	en	1992,	de	réaliser	les	
+premières	simulations	faisant	interagir,	par	des	lois	Newtoniennes	et	anti-Newtoniennes,	
+des	particules	de	masses	opposées.	Il	faut	alors	faire	des	hypothèses	concernant	les	lois	
+d’interaction.	Intuitivement,	j’opte	pour	celles	qui	deviendront	les	lois	du	modèle	Janus,	
+dans	le	but,	d’emblée,	de	restaurer	les	deux	principes	les	plus	fondamentaux	de	la	
+physique	:		
+				Ces	lois	sont	alors	:		
+
+Le	principe	d’action-réaction.	
+
+Le	principe	d’équivalence.		
+
+	
+
+					Nous	disposons	dans	un	espace	de	calcul	2D	cinq	cent	masses	positives	et	cinq	cent	
+masses	négatives,	disposées	aléatoirement,	alors	les	mêmes	densité	et	distribution	de	
+vitesses.	Ce	premier	calcul	est	exécuté	en	France	sur	un	Cray-one.		Une	percolation	se	
+manifeste	alors	:		
+	
+
+	
+
+9	J.M.Souriau	:	Structure	des	systèmes	dynamiques,	170	Editions	Dunod	et	1979	
+Structure	of	dynamical	systems,	chapitre	14,	équations	(14.67)	
+	
+
+8	
+
+	
+
+9	
+
+	
+
+9	
+
+	
+							Mais	ce	résultat	ne	semble	guère	pouvoir	traduire	quelque	observation	en	
+astrophysique.	J’ai	alors	l’idée	(nous	sommes	en	1992,	il	y	a	trente	ans)	de	demander	à	un	
+étudiant,	Frédéric	Descamp,	thésard	au	centre	DAISY	de	Hambourg,	d’étendre	cette	
+simulation	en	introduisant	une	dominance	de	la	masse	négative	:	 r(-)	>>	 r	(+),	ce	qu’il	
+entreprend	à	l’insu	de	sa	hiérachie.	.		
+					En	tant	qu’astrophysicien	je	sais	que	le	temps	d’accrétion	varie	comme	l’inverse	de	la	
+racine	carrée	de	cette	masse	volumique,	et	donc	que	cette	instabilité	se	manifestera	
+d’abord	dans	l’espace	négative.	La	simulation	confirme	aussitôt	on	intuition10	:		
+		
+
+	
+
+	
+
+10	J.	P.	Petit,	Astrophys.	Space	Sci.	Twin	universe	cosmology	226,	273	(1995).	
+	
+	
+
+	
+
+10	
+3	–	Ce	résultat	suggère	une	nouvelle	interprétation	de	la	structure	à	grande	
+échelle	de	l’univers,	évoquant	des	bulles	de	savon	jointives,	au	centre	desquelles	
+se	logent	des	conglomérats	constitués	d’antihydrogène	et	d’antihélium	de	
+masse	négative.	En	3D,	trois	de	ces	«	cellules	»,	en	interagissant,	donneront	des	
+«	filaments	».	Aux	«	nœuds	»,	points	commun	à	huit	cellules,	se	constitueront	les	
+amas	de	galaxies.		
+4	–	En	2017	Yehudi	Hoffman,	Brent	Tully,	Daniel	Pomarède	et	Hélène	Courtois	
+mettent	en	évidence	un	vide	de	100	millions	d’années-lumière,	à	600	millions	
+d’années-lumière	de	notre	galaxie.	Le	modèle	Janus	est	le	seul	qui	fournisse	une	
+interprétation	de	ce	phénomène	en	l’attribuant	à	la	présence	au	centre	de	cette	
+formation,	d’un	conglomérat	de	masse	négative,	second	élément	d’un	«	dipole	
+repeller	».		
+
+	
+						Je	fournis	alors	à	ce	garçon	les	données	initiales	décrivant	une	galaxie	confinée	par	son	
+environnement	 de	 masse	 négative	
+(solution	 d’un	 ensemble	 d’équation	 de	
+Vlasov+équation	Poisson).	
+5	–	Ce	qui	fournit	une	solution	alternative	au	modèle	de	la	matière	sombre,	
+pour	le	confinement	des	galaxies,	en	produisant	au	passage	une	courbe	de	
+rotation	plate	en	périphérie.	Même	chose	pour	les	amas	de	galaxies,	en	
+justifiant	l’existence	de	vitesses	résiduelles	supérieures	à	la	vitesse	de	
+libération.		
+6	–	La	simulation	est	lancée	et	produit	immédiatement	une	structure	spirale	
+barrée	qui	perdure	pendant	trente	tours,	alors	que	cette	structure	se	dissipe	
+en	un	à	deux	tours	dans	les	travaux	des	autres	chercheurs,	quand	elle	est	
+imposée	en	tant	que	conditions	initiales.	L’explication	de	ces	structures	
+spirales	des	galaxies	émerge	alors.	Ce	sont	des	structures	dissipatives	
+traduisant	l’interaction,	par	ondes	de	densité,	de	la	galaxie	avec	son	
+environnement	de	masse	négative.		
+10	
+
+	
+
+11	
+
+	
+
+	
+
+	
+
+	
+
+7	–	Le	modèle	rend	en	outre	compte	des	effets	de	lentille	gravitationnelle	autour	
+des	galaxies	et	des	amas,	constituant	une	alternative	au	modèle	de	la	matière	
+sombre.		
+8	–	Le	modèle	prédit,	par	effet	de	lentille	gravitationnelle	négatif,	une	réduction	
+de	ma	magnitude	des	galaxies	lointaines.	Effectivement,	très	vite,	les	galaxies	à	
+Z	>7	sont	qualifiées	de	naines.		
+9	–	Le	modèle	suggère11	un	schéma	de	formation	des	galaxies	différent,	
+beaucoup	plus	rapide,	où	la	masse	positive,	prise	en	sandwich	entre	deux	
+conglomérats	de	masse	négative,	répulsifs,	subit	une	forte	excursion	en	
+température,	suivie	d’un	refroidissement	radiatif	tout	aussi	rapide,	rendu	
+possible	par	leurs	structure	plane.	Les	premières	images	du	télescope	spatial	
+James	Webb	vont	dans	ce	sens.		
+
+	
+								Mais	hélas	ces	simulations	ne	peuvent	être	poursuivies	à	Hambourg.	Néanmoins	ce	
+sont	ces	résultats	concernant	la	formation	et	la	maintenance	d’une	structure	spirale	qui	
+11	J.	P.	Petit,	Nuovo	Cimento	B.	The	missing	mass	problem.		109,	697	(1994).	
+	
+11	
+
+	
+
+12	
+	
+me	font	penser	que	cette	idée	de	modèle	combinant	masses	positives	et	masses	négatives	
+mérite	d’être	poussé	plus	avant.	Ces	résultats	militent	alors	pour	une	forte	dissymétrie	
+entre	les	deux	populations,	la	dynamique	étant	majoritairement	assurée	par	le	contenu	
+en	masse	négative.	
+					En	2011	un	prix	Nobel	récompense	la	découverte	de	l’accélération	de	l’expansion	
+cosmique,	sous	l’effet	d’un	contenu	en	énergie	négative.		
+	
+10	–	Le	Le	modèle	Janus	propose	une	interprétation	alternative	où	le	contenu	
+en	masse	négative	assure	les	deux	rôles,	imputés	à	la	matière	sombre	et	à	
+l’énergie	noire,	ceci	correspondant	aux	camemberts		:		
+	
+
+	
+
+Cette	démarche	part	d’une	hypothèse	heuristique.	
+
+					Pour	pouvoir	rendre	compte	de	cette	accélération	de	l’expansion	il	devient	alors	
+indispensable	d’associer	à	ces	idées	une	modélisation	relativiste.	Mais	comme	l’illustre	ce	
+préambule	:		
+					La	masse	des	résultats	évoqués,	issus	de	simulations,	incite	à	poursuivre	dans	cette	
+voie.	Mais	si	Mr.	T.Damour	ne	fait	pas	l’effort	de	lire	ce	préambule,	l’ensemble	du	modèle	
+lui	restera	incompréhensible.		
+					Donc,	avant	d’envisager	cette	«	cuisine	»	que	représente,	pour	tous,	la	construction	
+d’une	dérivation	Lagrangienne,	l’installation	d’un	système	d’équations	de	champ	couplées	
+découle	ici	encore	d’une	démarche	100	%	heuristique.		
+						Commençons	par	revenir	sur	l’équation	d’Einstein.	Dans	son	premier	membre	les	deux	
+termes	qui	le	constituent	sont	souvent	regroupés	sous	l’appellation	:		
+Tenseur	d’Einstein	:		
+
+	
+
+12	
+
+	
+
+	
+
+13	
+	
+						On	sait	que	ces	tenseurs	peuvent	être	exprimés	sous	différentes	formes	:	covariante,	
+contravariante,	mixte,	mais	qu’ils	conservent	leur	identité	de	«	tenseurs	»,	qu’on	peut	
+alors	représenter	par	des	lettres	grasses,	en	outre	colorées,	en	écrivant	:		
+					Ainsi,	en	l’absence	de	constante	cosmologique	(on	n’en	a	pas	besoin)	et	en	donnant	à	la	
+constante	d’Einstein	la	valeur	unité,	l’équation	d’Einstein	peut	être	représentée	par	
+l’équation	tensorielle	:		
+					C’est	en	passant	à	l’approximation	Newtonienne	qu’on	peut	déduire	de	cette	équation	
+le	schéma	des	forces,	celle-ci	fournissant	en	outre	la	loi	de	Newton,	c’est-à-dire	avec	des	
+forces	en	1/r2	.		
+					Le	caractère	attractif	ou	répulsif	se	déduit	alors	des	courbes	géodésiques	issues	d’une	
+solution	de	Schwarzschild	extérieure.	Dans	cette	approximation	Newtonienne	le	tenseur-
+matière	se	réduit	à	la	masse	volumique	r12	.	On	a	alors	le	schéma	de	calcul	ci-après	:		
+
+Cette	technique	ne	semble	pas	vous	être	familière,	apparemment.	
+
+point	n’est	besoin	de	recourir	à	votre	schéma	compliqué	
+
+Source	de	votre	erreur.	
+
+	
+
+						Quand	la	source	du	champ	correspond	à	un	contenu	en	masse	positive	(r	>	0)	les	
+géodésiques	ont	l’allure	ci-après	:		
+	
+
+	
+
+	
+
+12	Ou	rc2	selon	le	mode	d’écriture	adopté.		
+	
+
+13	
+
+	
+
+							Si	maintenant	le	champ	gravitationnel	est	créé	par	une	masse	négative	(r	<	0),	nous	
+allons	figurer	celle-ci	par	la	couleur	verte	:		
+
+					Les	géodésiques	ont	alors	cette	allure	:		
+
+					Ceci	débouche	sur	le	schéma	global	des	forces	ci-après:		
+	
+
+14	
+
+14	
+
+	
+
+	
+
+	
+
+	
+
+15	
+
+	
+
+						Ce	schéma	viole	les	principes	d’action-réaction	et	d’équivalence	et	engendre	le	
+phénomène	 runaway	:	Si	on	met	en	présence	deux	particules	de	masses	opposées,	la	
+masse	positive	s’enfuit,	poursuivie	par	la	masse	négative.	Leurs	vitesses	croissent	
+uniformément,	sans	apport	d’énergie	puisque	leurs	gains	en	énergie	cinétique	sont	de	
+signes	opposés.	L’impossibilité	de	gérer	une	telle	dynamique	dans	une	physique	a	fait	
+conclure	en	1957	que	l’introduction	de	masses	négatives	dans	le	modèle	de	la	relativité	
+générale	était	impossible.		
+				Mais	un	début	de	gestion	d’un	modèle,	avec	des	équations	heuristiques,	a	fourni	des	
+résultats	intéressants	à	travers	des	simulations	numériques.	Il	est	donc	licite	de	tenter	
+une	extension	de	la	relativité	générale	en	envisageant	une	bi-géométrie,	correspondant	à	
+une	situation	bimétrique.	On	peut	à	cet	effet	partir	des	équations	de	champ	couplées	
+suggérées	par	T.Damour	et	I.Kogan,	découlant	d’une	formulation	heuristique	de	leur	
+action.	Nous	utiliserons	la	couleur	rouge	pour	désigner	les	masses	positives	et	la	couleur	
+verte	pour	désigner	les	masses	négatives.	Si	on	néglige	les	constantes	cosmologiques,	
+qu’on	prend	une	constante	d’Einstein	égale	à	l’unité,	et	qu’on	enlève	«	les	masses	de	
+Planck	»	ce	système	correspond,	schématiquement,	à	:	
+	
+
+	
+
+	
+
+àLa	lettre		T	correspond	à	la	contribution	de	la	masse	positive	au	champ	subi	par	ces	
+mêmes	masses.		
+à	La	lettre		T	correspond	à	la	contribution	de	la	masse	négative	au	champ	subi	par	ces	
+mêmes	masses.		
+	
+15	
+
+16	
+	
+à	La	lettre		t	correspond	à	la		contribution	de	la	masse	négative	au	champ	subi	par	les	
+masses	positives,	tel	qu’il	est	perçu	par	celles-ci.		
+à	La	lettre		t	correspond	à	la		contribution	de	la	masse	positive	au	champ	subi	par	les	
+masses	négatives,	tel	qu’il	est	perçu	par	celles-ci.		
+								Considérons	une	région	où	le	champ	gravitationnel	soit	créé	par	un	contenu	en	masses	
+négatives.	Regardons	ce	que	devient	la	seconde	équation	:		
+
+						Effectivement,	dans	ce	schéma,	les	masses	négatives	repoussent	les	autres	masses	
+négatives.	Mais	ce	n’est	pas	le	schéma	géométrique	qui	est	proposé	pour	servir	de	base	
+aux	équations	«	Janus	»	posées	heuristiquement.		
+
+				
+
+		Ajoutons	un	signe	«	moins	»	au	second	membre	de	la	seconde	équation.		
+
+à	Ce	signe	«	moins	»	est	une	des	clés	du	modèle	Janus.	
+
+	
+					Il	a	en	effet	la	vertu	de	restaurer	les	deux	principes	fondamentaux	de	la	physique	:	le	
+principe	d’action-réaction	et	le	principe	d’équivalence.		
+					Plaçons-nous	dans	le	cadre	de	l’approximation	Newtonienne.	Dans	ces	conditions,	dans	
+les	quatre	tenseurs	du	second	membre,	seul	un	terme	se	référant	à	la	masse	subsiste.	On	
+	
+16	
+
+	
+
+	
+
+17	
+	
+peut	donc	considérer	que	la	contribution	du	tenseur	d’interaction	t	est	positive	et	celle	de	
+t	négative.	On	peut	alors	déterminer	le	sens	des	forces	en	imaginant	applique,	à	chaque	
+fois,	une	solution	métrique	extérieure	de	Schwarzschild.		
+						L’étude	de	la	première	équation	nous	donne	:		
+à	Une	masse	positive	attire	une	masse	positive		
+à	Une	masse	négative	repousse	une	masse	positive.		
+								L’effet	du	signe	«	moins	»	dans	la	seconde	équation	fait	que	maintenant	:		
+à	Une	masse	négative	attire	une	masse	négative	
+à	Une	masse	positive	repousse	une	masse	négative.		
+						Cette	façon	de	déterminer	le	sens	des	forces	est	à	la	fois	classique	et	parfaitement	
+rigoureuse.		
+
+	
+			Passons	aux	à	la	cohérence	mathématique	de	ces	mêmes	équations.		
+					A	partir	de	la	métrique	g,	des	masses	positives,	on	associe	un	opérateur	de	dérivation	
+covariante,	noté		:		
+					A	partir	de	la	métrique	g	,	des	masses	négatives,	on	associe	un	opérateur	de	dérivation	
+covariante,	noté	:	
+							Les	équations	de	champs	(quels	que	soient	les	signes	qui	affectent	leurs	termes)	
+doivent	satisfaire	les	conditions	:		
+
+	
+	
+
+	
+
+	
+
+17	
+
+18	
+	
+						Dans	ces	deux	colonnes	les	deux	premières	équations	ne	posent	pas	de	problème.	Ce	
+sont	les	troisièmes	sur	lesquelles	l’attention	doit	se	concentrer.		
+						En	2014	j’envisage	d‘étudier	les	propriétés	du	système	ci-après	:		
+
+	
+
+	
+					En	sachant	qu’il	est	impossible	de	décrire	la	géométrie	à	l’intérieur	des	masses,	dans	la	
+mesure	où	à	priori	:		
+							En	201413	nous	trouvons	une	première	solution	pour	sortir	de	cette	impasse.	Il	faut	
+se	rappeler	que	dans	la	relativité	générale	on	n’a	que	deux	classes	de	solutions	:		
+à	Solutions	Instationnaires,	Univers	isotrope	et	homogène	(dérivées	par	
+rapport	aux	variables	d’espace,	nulles)	
+à	Solutions	stationnaires	(dérivées	par	rapport	au	temps	nulles).		
+-	Symétrie	sphérique	
+-	Solution	axisymétrique.		
+
+						Nous	ne		chercherons	donc	pas,	dans	le	modèle	Janus,		à	nous	situer	au-delà	d’un	tel	
+cadre.		
+						En	2014	nous	envisageons	donc	une	solution	instationnaire	«	d’univers	de	poussière	»	
+(à	pression	nulle).	Les	tenseurs	de	champ	se	réduisent	donc	à	une	masse	volumique.	Pour	
+obtenir	des	contenus,	et	donc	des	évolutions	très	dissemblables	nous	envisageons	le	
+système,	modulo	les	limitations	évoquées	:		
+				Les	fonctions	j et	y 	étant	des	fonctions	d’une	variable	chronologique	commune.		
+13	J.P.Petit,	G.D’Agostini	:	Negative	Mass	hypothesis	in	cosmology	and	the	nature	of	dark	
+energy.	Astrophysics	And	Space	Science,.	A	29,	145-182	(2014)	
+	
+	
+18	
+
+	
+
+	
+
+19	
+	
+		à	Il	est	regrettable	que	T.Damour	n’ait	porté	aucune	attention	à	ce	travail.	Modulo	les	
+deux	limitations	à	des	solutions	instationnaires	décrivant	des	univers	homogènes,	
+isotropes	et	constitués	«	de	poussières	»	la	condition	de	compatibilité	entre	ces	deux	
+équations	s’écrivant	alors	(il	n’y	a	plus	que	des	dérivées	par	rapport	à	la	variable	
+chronologique).		
+La	solution	étant	exprimée	à	l’aide	de	métriques	de	Robertson-Walker	
+	
+
+	
+
+ 
+ 
+
+	En	couleur	:	ce	qui	est	propre	à	chaque	hypersurface	4D	:	
+-  Leur élément de longueur s 
+-  Leur facteur d’échelle a 
+-  Leur indice de courbure k  
+E	=	rc2a3	+	rc2a3	=	constantes	
+
+ 
+En noir, les éléments communs, dont les variables ( x° , u , j , q  )  
+ 
+La condition de cohérence  mathématique du système se tradui alors par la relation :  
+
+à	Qui	n’est	rien	d’autre	qu’une	conservation	généralisée	de	l’énergie.	
+
+	
+					
+						On	peut	alors	faire	jouer	une	autre	hypothèse	fondamentale14,	ayant	émergé	des	
+simulations	numériques	de	1992,	l’idée	que	la	dynamique	cosmique	soit	principalement	
+pilotée	par	le	contenu	en	énergie	négatif,	c’est	à	dire	:		
+	
+				
+14	L’explication	de	cette	dissymétrie	sera	fournie	dans	une	future	publication.		
+	
+
+rc2a3	>>	rc2a3			à		E	pratiquement	égal	à	rc2a3	
+
+19	
+
+	
+
+20	
+	
+On	peut	alors	construire	une	solution	exacte	des	deux	équations,	avec	des	indices	de	
+courbures	k	et	k	négatifs,	ce	qui	avait	été	fait	en	2014.	La	comparaison	avec	les	données	
+observationnelles	interviendra	dans	un	papier	de	2018	:	
+	
+(2018), 363:139.https://doi.org/10.1007/s10509-018-3365-3	
+Ci-après	la	courbe	montrant	l’accord	avec	les	données	observationnelles	:		
+
+G. DAgostini and J.P.Petit : Constraints on Janus Cosmological model from 
+recent observations of supernovae type Ia, Astrophysics and Space Science, 
+
+	
+
+11	–	Ceci	fournit	un	nouvel	argument	en	faveur	de	cette	approche	
+heuristique.	Le	modèle	Janus	est	non	seulement	le	seul	qui	confère	une	
+identité	bien	définie	à	cet	autre	composant	invisible	de	l’univers,	qualifié	
+«	d’énergie	noire	»,	en	montrant	qu’il	s’agit	de	l’énergie	négative	des	
+composants	 de	
+d’antihélium	de	masse	négative,	énergie	qui	est	rc2.	Le	modèle	fournit	
+alors	un	excellent	accord	avec	les	données	observationnelles,	issues	des	
+supernovae	de	type	Ia.	En	outre,	et	là	il	diffère	totalement	de	l’interprétation	
+fondée	sur	le	recours	à	cette	«	énergie	du	vide	»	représentée	par	la	
+20	
+
+l’antimatière	 primordiale,	 d’antihydrogène	 et	
+
+	
+
+21	
+	
+«	constante	comologique	»	 L	,	il	prédit	une	 expansion	 linéaire	(	et	non	
+exponentielle).		
+						Ainsi	les	équations,	limitées	à	la	production	de	solutions	instationnaires,	décrivant	
+deux	milieux	isotrope	et	homogène,	s’écrivent-elles	maintenant	:		
+				Et	c’est	là	que	nous	remarquons	que	les	facteurs	affectant	les	tenseurs	d’interaction	ne	
+sont	autre	que	les	rapports	des	racines	carrées	des	déterminants	des	deux	métriques.																						
+Un	lien	évident	se	manifeste	alors,	vis	à	vis	des	équations	de	champ	publiées	en	2008	par	
+Sabine	Hossenfelder,	sept	ans	plus	tôt	:		
+
+	
+
+	
+
+						Des	équations	où	par	la	suite	elle	sera	amenée	à	opter	pour	:	V	=	W	=	1	
+						Nous	tentons,	pour	la	nième	fois,	d’établir	un	dialogue	avec	S.Hossenfelder,	en	
+suggérant	même	que	notre	modèle	Janus	pourrait	se	présenter	comme	une	variante	de	sa	
+propre	approche,	où	les	principes	d’action-réaction	et	d’équivalence	sont	restaurés15.	
+Mais,	pour	des	raisons	de	nature	non-scientifique	tout	dialogue	s’avère	impossible.	Elle	
+coupe	court	en	nous	écrivant	:		
+
+-  I don’t want to collaborate with you !  
+
+    Nous tentons alors de produire ce qui peut être considéré comme une forme non covariante 
+de son approche, en supposant les métriques liées par le lien fonctionnel:  
+ 
+
+				Ce	qu’on	peut	aussi	traduire	avec	notre	code	des	couleurs	par	:		
+
+	
+
+ 
+
+dg	=	-	dg		
+
+	
+
+15	Ce	qui	n’est	pas	le	cas	dans	le	modèle	de	S.Hossenfeder,	qui	va	même	jusqu’à	écrire	que	
+ces	violations	sont	inhérentes	à	cette	approche	bimétrique,	ce	en	quoi	elle	se	trompe,	mais	
+l’incitera	à	signifier	dans	une	vidéo	récente	son	abandon	de		ces	travaux.		
+	
+21	
+
+	
+
+22	
+	
+					Ceci	nous	amène	à	publier	une	première	ébauche	de	dérivation	covariante16,	en	insistant	
+sur	le	fait	que	ces	démarches,	quand	elles	se	réfèrent	à	des	bigéométriques,	ne	traduisent	
+qu’une	approche	heuristique.		
+						En	l’état,	cela	signifie	qu’on	limite	l’espace	fonctionnel	à	des	métriques	selon	des	choix	
+particuliers	des	coordonnées.		
+					Sous	cet	angle,	modulo	une	indispensable	retouche	nécessaire	pour	rétablir	les	
+principes	d’équivalence	et	d’action-réaction,	la		dérivation	Lagrangienne	des	équations	
+par	Sabine	Hossenfelder	pourrait		représenter	une	construction	plus	précise,	tout	en	
+débouchant	éventuellement	sur	une	possible	gestion	au-delà	de	la	limitation	à	
+l’approximation	Newtonienne.	Nous	restons	entièrement	ouverts	à	cette	possibilité	?						
+		Revenant	à	notre	propre	démarche,		nos	équations	prennent	à	ce	stade	la	forme	:		
+	
+				
+				Elles	sont	à	même	de	gérer	des	situations	instationnaires,	où	les	populations	sont	
+homogènes	et	isotropes	mais,	quand	on	tente	d’étendre	le	modèle	à	des	configurations	
+l’incohérence	
+stationnaires	;	 non-homogènes	 et	 non-isotropes,	 subsiste	 alors	
+inacceptable	:		
+						Cela	montre	simplement	que	ce	choix	des	deux	tenseurs	matière	en	tant	que	composante	
+des	tenseurs	d’interaction	ne	convient	pas.	Mais	à	ce	stade,	inversons	la	proposition	:	
+	
+- Il s’agit de trouver des tenseur d’interaction qui satisfassent les conditions.  
+		
+à	Dans	un	futur,	proche	ou	lointain,	un	mathématicien,	au	terme	d’une	construction	
+d’une	méthode	générale	et	rigoureuse	de	la	théorie	des	géométries	bimétriques,	axées	sur	
+des	métriques	riemaniennes	hyperboliques,	produira	peut-être	alors	des	tenseurs	
+16	J.P.Petit	&	G.D’Agostini	:	Lagrangian	derivation	of	the	two	coupled	field	equations	in	
+the	Janus	Cosmological	Model.	Astrophysics	and	Space	Science	2015,	357	:67	
+	
+	
+22	
+
+	
+
+	
+
+ 
+
+23	
+	
+d’interaction	dotés	de	toutes	les	vertus,	permettant	d’opérer	dans	des	conditions	non	
+linéaires.		
+				
+		En	attendant	ce	moment,	nous	qui	sommes	physiciens,	concentrons-nous	sur	des	
+solutions	limitée	à	:	
+
+Alors	l’approche	Janus	fera	figure	de	brouillon.	
+
+-  L’approximation Newtonienne 
+
+    Ce qui excluera de pouvoir construire des modèles d’étoiles à neutrons se rapprochant de la 
+criticité, où les trajectoires géodésiques feraient état d’avances du périhélie considérables à 
+chaque tour.  
+
+ 	à		Mais	otons	que	ceci	permet	quand	même	d’aborder	99	%	des	phénomènes	de	
+l’astrophysique	et	de	gérer	le	confinement	des	galaxies,	la	structure	spirale,	les	effets	de	
+lentille	gravitationnelle	modérés,	la	dynamique	des	amas,	etc..	etc..	.		
+			Concentrons-nous		sur	la	forme	«	mixte	»	des	équations	de	champ	(heuristiques	!):	
+
+ 
+
+	
+
+					Ceci	constitue	en	quelque	sorte	notre	projet	de	système	d’équations	de	champ.	Nous	
+savons	par	ailleurs	que	les	choix	:		
+	
+
+	
+
+	
+
+	
+
+	
+
+23	
+
+	
+
+24	
+
+					Conduisent	à	des	impasses.	Le	4	janvier	2019	Mr.	T.Damour	nous	signale,	à	juste	titre	ce	
+genre	de	chose.	Mais	il	se	trouve	qu’en	2018	j’avais,	toujours	de	manière	heuristique,	
+envisagé	de	donner	aux	tenseurs	d’interaction	la	forme	:		
+	
+
+	
+
+	
+
+	
+
+	
+
+					Ce	qui	traduit	simplement	l’inversion	du	signe	des	termes	de	pression.	A	ce	stade	on	
+remarquera	deux	choses	:		
+-  Il n’existe aucune prescription, règle, fixant la forme des tenseurs d’interaction, si ce n’est 
+-  Dans ce cas précis, où on se situe dans le cadre de solutions stationnaires, ces conditions 
+24	
+
+le fait qu’ils doivent satisfaire  l’exigence d’une cohérence mathématique des équations.  
+ 
+traduisent simplement (équation d’Euler) le fait qu’on doit rendre compte du fait qu’à 
+
+	
+
+25	
+	
+						Compte	tenu	de	cette	introduction	de	ces	nouvelles	formes	données	aux	tenseurs	
+d’interaction	on	obtient	les	équations	de	ci-après	:		
+	
+
+l’intérieur des masses les forces de pression équilibre la force de gravitation.  
+
+	
+
+	
+					Celles-ci	sont	empruntées	à	l’article	mis	en	place	le	28	décembre	2022	sur	sa	page	du	
+site	de	l’IHES17.	Elles	sont	la	reproduction	à	l’identique	de	celle	contenues	dans	le	
+mémoire	que	j’avais	adressé	à	Monsieur	Damour	en	2019,	comportant	le	détail	des	calculs	
+servant	de	support	à	notre	article	du	premier	janvier	201918.	Il	est	regrettable	qu’il	ait	
+attendu	quatre	années	avant	d’en	prendre	connaissance.	Comme	il	le	concède	lui-même	
+(phrases	soulignées	en	rouge)	ces	équations,	dans	l’approximation	Newtoniennes,	se	
+réduisent	toutes	deux	à	:	
+				La	courbe	de	pression	est	alors	une	parabole	dont	le	sommet	est	en	r	=	0	et	qui	prend	
+une	valeur	nulle	à	la	surface	de	l’étoile.		
+				La	référence	à	l’étoile	à	neutrons,	dans	les	lignes	suivantes,	est	sans	objet,	puisque	les	
+équations,	pour	un	milieu	stationnaire,	non-homogène	et	non-isotrope,	se	limitent	à	des	
+systèmes	se	situant	dans	le	cadre	de	l’approximation	Newtonienne	et	ne	décrivent	donc	
+pas	l’intérieur	de	étoiles	à	neutrons	proches	de	la	criticité.		
+17	28	décembre	2022.	T.Damour	:	Incohérence	physique	et	mathématique	du	modèle	
+cosmologique	Janus-2019.		
+18	J.P.Petit,	G.	D’Agostini,	N.Debergh	:	Physical	and	mathematical	consistency	of	the	Janus	
+Cosmological	Model	(JCM).	Progress	in	Physics	2019	Vol.15	issue	1	
+	
+	
+25	
+
+	
+
+	
+							En	conclusion	ce	système	d’équations	prend	la	forme	:		
+
+							Ou,	dans	une	présentation	plus	conventionnelle	:		
+
+	
+
+26	
+
+	
+
+					Pour	finir,	nous	reproduisons	à	l’identique	le	message	reçus	de	T.Damour	le	31	
+décembre	2022	:	
+
+     Quand on attaque quelqu'un qui critique vos essais théoriques mal définis et 
+incohérents, il faut faire un effort pour comprendre l'origine fondamentale de ces 
+incohérences.  
+     Pour  clarifier  mon  dernier  texte,  dont  le  point  essentiel  était  de  pointer 
+l'incohérence des éqs de structure d'une étoile (que vous n'avez toujours pas 
+comprise),  j'ai  complété  le  raisonnement  montrant  l'incohérence  des  éqs  du 
+mouvement des divers types de masses d'épreuve (incohérence déjà pointée du 
+doigt dans mon texte de janvier 2019, apparemment jamais comprise par vous, 
+et s'appliquant en présence de la "modification"  \varphi de Janus-2019).  
+     Il est à noter que le document attaché (mis en ligne sur ma page web de 
+l'IHES)  recense  finalement  quatre  incohérences  différentes  (mais  reliées)  de 
+Janus-2019: 
+- incohérence de la pseudo dérivation à partir d'une action 
+- incohérence venant de la "contrainte" reliant les variations de g+ et g- 
+- incohérence des éqs du mouvement des divers types de masses d'épreuve à 
+l'approximation newtonienne 
+- incohérence des éqs de structure d'une étoile au niveau exact (et dès le niveau 
+post-newtonien, 1/c^2, qui vaut numériquement 20% pour une étoile à neutrons). 
+TD 
+
+					A	titre	de	réponse,	en	m’appuyant	sur	ce	qui	a	été	exposé	plus	haut	:		
+-  Les  deux  premières 
+	
+
+fondements 
+mathématiques, ceux d’une théorie mathématique des bi-géométrie, encore inexistants. 
+
+incohérences  prétendent  s’appuyer  sur  des 
+
+26	
+
+	
+
+27	
+
+Elles sont donc simplement sans objet. Ces remarques, sous l’apparence d’une pseudo-
+rigueur, tentent de masquer le fait que ces modélisations reposent toutes trois sur des 
+bases heuristiques et que leur seule justification (qui est absente dans les deux premiers 
+modèles) repose essentiellement dans l’accord avec des données observationnelles (onze 
+dans le cas du modèle Janus ) 
+ 
+ 
+élémentaire de dérivation de lois de force à parti d’une équation de champ.  
+
+-  La dernière, se référant aux étoiles à neutrons, sort du cadre de ce modèle.  
+-  La  troisième  traduit  une  erreur  de  calcul  et  une  méconnaissance  de  la  technique 
+	
+					Nous	adressons	cette	réponse	à	Mr.	T.Damour	en	recommandé	avec	accusé	de	réception19,	
+assortie	d’une	toute	dernière	demande	d’exercice	du	droit	de	réponse	à	ses	articles	du	4	
+janvier	2019	et	28	décembre	202220,	droit	qu’il	nous	a	refusé	pendant	quatre	années,	
+conférant	à	la	publication	de	ses	articles	le	caractère	d’une	diffamation	scientifique.		
+	Jean-Pierre	Petit		
+	
+
+	
+
+19	Avec	copie	à	Mr.	E.	Ullman,	directeur	de	l’IHES,		coresponsable	des	contenus	des	pages	
+du	site	de	cet	institut.		
+20	Se	substituant	à	un	article	précédent	du	12	décembre	2022.		
+	
+27	
+
+
